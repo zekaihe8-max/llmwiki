@@ -1,5 +1,5 @@
 ---
-title: 前沿 AI 每日简报
+title: "2026-10-23 08:10 · 前沿 AI"
 date: 2026-10-23
 type: frontier-ai
 lang: zh-CN
