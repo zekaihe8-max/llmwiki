@@ -37,7 +37,6 @@ const DARK = {
   labelHover: '#fff',
 }
 
-const HUB_TITLES = new Set(['overview', 'log'])
 const nodeCache = new Map()
 
 const router = useRouter()
@@ -89,10 +88,8 @@ function buildView(data, sourcesOn, focusId) {
     relevantEdges = data.edges.filter((edge) => edge.source === focusId || edge.target === focusId)
   } else {
     relevantEdges = relevantEdges.filter((edge) => edge.type === 'links_to' || (sourcesOn && edge.type === 'cites'))
-    relevantNodes = relevantNodes.filter((node) => {
-      if (node.source_kind !== 'wiki' && !sourcesOn) return false
-      return !HUB_TITLES.has(String(node.title || '').toLowerCase())
-    })
+    // Markdown pages are wiki. Show sources only adds a later non-md source kind, plus cites.
+    relevantNodes = relevantNodes.filter((node) => node.source_kind === 'wiki' || sourcesOn)
   }
 
   const nodeIds = new Set(relevantNodes.map((node) => node.id))

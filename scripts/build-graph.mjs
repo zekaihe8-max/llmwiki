@@ -171,16 +171,16 @@ function walkMarkdown(dir, rel = '') {
   return files
 }
 
-function sourceKindFor(rel) {
-  return rel.replace(/\\/g, '/').startsWith('sources/') ? 'source' : 'wiki'
-}
+// Every Markdown page is wiki content, including wiki/sources/** digests.
+// source_kind 'source' is reserved for non-md assets, which this site does not have.
 
 /**
  * @param {string} wikiDir
  * @returns {{ nodes: object[], edges: object[] }}
  */
 export function buildGraph(wikiDir) {
-  const files = walkMarkdown(wikiDir)
+  // wiki/graph.md is the viewer itself, not a page in the graph.
+  const files = walkMarkdown(wikiDir).filter((file) => file.rel.replace(/\\/g, '/') !== 'graph.md')
   const nodes = files.map(({ abs, rel }) => {
     const raw = fs.readFileSync(abs, 'utf8')
     const fields = readFrontmatter(raw)
@@ -199,7 +199,7 @@ export function buildGraph(wikiDir) {
       description,
       path: id,
       file_type: 'md',
-      source_kind: sourceKindFor(rel),
+      source_kind: 'wiki',
       tags,
       // lookup-only; stripped before emit
       _rel: rel.replace(/\\/g, '/'),
