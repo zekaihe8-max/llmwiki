@@ -11,6 +11,7 @@ venv/
 .wxt/
 .output/
 dist/
+.vitepress/cache
 *.egg-info/
 *.tsbuildinfo
 
@@ -33,9 +34,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# LLM Wiki local workspace artifacts
+# LLM Wiki local workspace artifacts.
+# /wiki at the repo root is the public static site source and is committed.
 .llmwiki/
-/wiki/
 /mcp/wiki/
 /emails/
 

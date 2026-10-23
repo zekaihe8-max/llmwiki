@@ -1,0 +1,17 @@
+{
+  "name": "wiki-hezekai",
+  "private": true,
+  "description": "Static Markdown wiki for Cloudflare Pages. This package builds wiki/ only; the Next.js app stays in web/.",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
