@@ -4,14 +4,19 @@
   "description": "Static Markdown wiki for Cloudflare Pages. This package builds wiki/ only; the Next.js app stays in web/.",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
+    "dev": "node scripts/build-graph.mjs && vitepress dev",
+    "build": "node scripts/build-graph.mjs && vitepress build",
+    "preview": "vitepress preview",
+    "graph": "node scripts/build-graph.mjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.4"
   },
   "engines": {
     "node": ">=20"
+  },
+  "dependencies": {
+    "d3-force": "^3.0.0",
+    "force-graph": "^1.51.4"
   }
 }
