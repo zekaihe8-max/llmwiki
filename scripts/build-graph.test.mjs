@@ -70,6 +70,7 @@ test('buildGraph resolves relative links and citations without inventing edges',
   write('notes/topic.md', '---\ntags: [alpha, beta]\ndescription: A note\n---\n\nCited.[^1]\n\n[^1]: paper.md, p.3\n\nAlso [home](../index.md) and [missing](./nope.md) and [web](https://example.com).\n')
   write('sources/paper.md', '# Paper\n')
   write('sources/other.md', '# Other\n')
+  write('graph.md', '# Graph\n\n[Home](./index.md)\n')
 
   const graph = buildGraph(dir)
   const ids = graph.nodes.map((node) => node.id).sort()
@@ -80,7 +81,8 @@ test('buildGraph resolves relative links and citations without inventing edges',
   assert.equal(topic.description, 'A note')
   assert.deepEqual(topic.tags, ['alpha', 'beta'])
   assert.equal(topic.source_kind, 'wiki')
-  assert.equal(graph.nodes.find((node) => node.id === 'sources/paper').source_kind, 'source')
+  assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
+  assert.equal(graph.nodes.find((node) => node.id === 'sources/paper').source_kind, 'wiki')
   assert.equal(graph.nodes.find((node) => node.id === 'index').title, 'Home')
   assert.equal(graph.nodes.find((node) => node.id === 'overview').title, 'Overview')
 
@@ -107,8 +109,23 @@ test('published wiki graph only links files that actually reference each other',
   assert.ok(ids.has('concepts/compiled-pages'))
   assert.ok(ids.has('sources/x-digest'))
   assert.ok(ids.has('sources/x-digest/2026-10-23-cn-x'))
-  assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest').source_kind, 'source')
-  assert.equal(graph.nodes.find((node) => node.id === 'concepts/compiled-pages').source_kind, 'wiki')
+  assert.equal(ids.has('graph'), false)
+  assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
+  assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest').source_kind, 'wiki')
+  assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest/2026-10-23-cn-x').source_kind, 'wiki')
+
+  const fromDigest = graph.edges
+    .filter((edge) => edge.source === 'sources/x-digest' && edge.type === 'links_to')
+    .map((edge) => edge.target)
+    .sort()
+  assert.deepEqual(fromDigest, [
+    'sources/x-digest/2026-10-18-cn-x',
+    'sources/x-digest/2026-10-21-cn-x',
+    'sources/x-digest/2026-10-22-cn-x',
+    'sources/x-digest/2026-10-22-frontier-ai',
+    'sources/x-digest/2026-10-23-cn-x',
+    'sources/x-digest/2026-10-23-frontier-ai',
+  ])
 
   for (const edge of graph.edges) {
     assert.ok(ids.has(edge.source) && ids.has(edge.target))
