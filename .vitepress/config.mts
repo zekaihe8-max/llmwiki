@@ -240,6 +240,8 @@ function sidebarFrom(dir: string, relativeDir = ''): DefaultTheme.SidebarItem[] 
       })
       continue
     }
+    // /graph is the force-graph viewer, linked from the nav rather than the page tree.
+    if (!relativeDir && entry.name.toLowerCase() === 'graph.md') continue
     items.push({
       text: titleFromMarkdown(absolutePath, humanize(entry.name)),
       link: pageLink(relativePath),
@@ -258,10 +260,16 @@ export default defineConfig({
   // names starting with "_" are scratch files, not wiki pages.
   srcExclude: ['**/_*.md', '**/_*/**', '**/.*'],
   cleanUrls: true,
+  vite: {
+    // Vite root is wiki/ (srcDir). Point public assets at .vitepress/public
+    // so scripts/build-graph.mjs can emit graph-data.json for /graph-data.json.
+    publicDir: path.join(repoRoot, '.vitepress/public'),
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Overview', link: '/overview' },
+      { text: 'Graph', link: '/graph' },
     ],
     sidebar: sidebarFrom(wikiDir),
     search: { provider: 'local' },
