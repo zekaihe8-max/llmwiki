@@ -12,8 +12,7 @@ title: X 每日简报
 | [2026-10-22-frontier-ai.md](./2026-10-22-frontier-ai.md) | 前沿 AI 每日简报 — Claude Duet / PHP2Shell / 主动助理赛道 |
 | [2026-10-22-cn-x.md](./2026-10-22-cn-x.md) | 中文推特圈每晚精选 — 四家主动助理 / 安全潮 / Cloudflare 审查 -68% |
 | [2026-10-21-cn-x.md](./2026-10-21-cn-x.md) | 中文推特圈每晚精选 — Dario 安全路线 / Harness·记忆 / 回复刷屏 |
-
-索引里还有 `2026-10-18-cn-x.md` 和 `README.md`，这次没有附上正文，页面未建。
+| [2026-10-18-cn-x.md](./2026-10-18-cn-x.md) | 中文推特圈每晚精选 — OpenCode 蒸馏攻击 / Claude Code 90% / Reason Network |
 
 ## 缺失
 
