@@ -22,16 +22,26 @@ export async function fetchArticles({
   limit = Infinity,
   retryFailed = false,
   force = false,
+  refresh = false,
   fetchImpl = globalThis.fetch,
   now = () => new Date().toISOString(),
   log = console.log,
 }) {
-  const selected = selectRecords(rawRoot, { url, slug, retryFailed, force })
+  const selected = selectRecords(rawRoot, { url, slug, retryFailed, force, refresh })
   const results = []
   let attempted = 0
   for (const record of selected) {
     if (attempted >= limit) break
-    const outcome = await fetchRecord({ record, rawRoot, retryFailed, force, fetchImpl, now, log })
+    const outcome = await fetchRecord({
+      record,
+      rawRoot,
+      retryFailed,
+      force,
+      refresh,
+      fetchImpl,
+      now,
+      log,
+    })
     results.push(outcome)
     if (outcome.attempted) attempted++
   }
@@ -39,16 +49,23 @@ export async function fetchArticles({
   return { ok, results }
 }
 
-export function selectRecords(rawRoot, { url = null, slug = null, retryFailed = false, force = false } = {}) {
+export function selectRecords(rawRoot, {
+  url = null,
+  slug = null,
+  retryFailed = false,
+  force = false,
+  refresh = false,
+} = {}) {
   if (url || slug) {
     const record = requireRecord(rawRoot, { url, slug })
     return [record]
   }
+  const recheck = force || refresh
   return listRecords(rawRoot)
     .filter((record) => {
       if (record.status === 'seen') return true
-      if (record.status === 'failed' && (retryFailed || force)) return true
-      if (force && record.status !== 'skipped') return true
+      if (record.status === 'failed' && (retryFailed || recheck)) return true
+      if (recheck && record.status !== 'skipped') return true
       return false
     })
     .sort((a, b) => String(a.first_seen).localeCompare(String(b.first_seen)) || a.slug.localeCompare(b.slug))
@@ -75,16 +92,20 @@ export async function fetchRecord({
   rawRoot,
   retryFailed = false,
   force = false,
+  refresh = false,
   fetchImpl = globalThis.fetch,
   now = () => new Date().toISOString(),
   log = () => {},
 }) {
+  // --refresh re-fetches filed/sourced/fetched like --force, then compares hashes.
+  // Same body → silent skip (status unchanged). Different body → new snapshot.
+  const recheck = force || refresh
   const terminal = record.status === 'fetched' || record.status === 'sourced' || record.status === 'filed'
-  if (record.status === 'skipped' || (terminal && !force)) {
+  if (record.status === 'skipped' || (terminal && !recheck)) {
     log(`fetch ${record.slug}: ${record.status}, skipped`)
     return { ok: true, skipped: true, attempted: false, record }
   }
-  if (record.status === 'failed' && !retryFailed && !force) {
+  if (record.status === 'failed' && !retryFailed && !recheck) {
     return { ok: false, skipped: true, attempted: false, record, error: record.error }
   }
 
@@ -96,7 +117,7 @@ export async function fetchRecord({
     fetched_at: record.fetched_at,
     filed_at: record.filed_at,
   }
-  if (record.status === 'failed' && (retryFailed || force)) {
+  if (record.status === 'failed' && (retryFailed || recheck)) {
     record.status = 'seen'
     record.error = null
   }
@@ -159,11 +180,11 @@ export async function fetchRecord({
       log(`fetch ${record.slug}: body unchanged`)
       return { ok: true, skipped: true, attempted: true, record }
     }
-    if (!force) {
+    if (!recheck) {
       record.status = prior.status
       record.error = prior.error
       writeJson(rawPaths(rawRoot).record(record.slug), record)
-      const message = 'article snapshot already exists with a different body; refusing to overwrite (pass --force)'
+      const message = 'article snapshot already exists with a different body; refusing to overwrite (pass --force or --refresh)'
       log(`fetch ${record.slug}: ${message}`)
       return { ok: false, skipped: false, attempted: true, record, error: message }
     }
@@ -180,7 +201,7 @@ export async function fetchRecord({
     if (!record.title && pageTitle) record.title = pageTitle
     writeJson(rawPaths(rawRoot).record(record.slug), record)
     log(`fetch ${record.slug}: new snapshot ${rel}`)
-    return { ok: true, skipped: false, attempted: true, record }
+    return { ok: true, skipped: false, attempted: true, record, refreshed: true }
   }
 
   const rel = record.article_path || `articles/${record.slug}.md`
@@ -235,17 +256,27 @@ function header(response, name) {
 
 function printHelp() {
   console.log(`Usage: node scripts/fetch-articles.mjs [--raw raw/] [--url URL | --slug SLUG]
-       [--limit N] [--retry-failed] [--force]
+       [--limit N] [--retry-failed] [--force] [--refresh]
 
 Fetch original pages for status "seen". --retry-failed returns "failed"
 records to "seen" and tries again. A successful raw/articles/{slug}.md
-snapshot is kept. --force stores a different body as a new file and does
-not delete the earlier snapshot.
+snapshot is kept. --force / --refresh re-check filed/sourced/fetched:
+same body → skip; different body → new immutable snapshot (slug--hash.md)
+and status back to fetched (clears filed_at / compile_error).
 `)
 }
 
 function parseArgs(argv) {
-  const out = { raw: null, url: null, slug: null, limit: Infinity, retryFailed: false, force: false, help: false }
+  const out = {
+    raw: null,
+    url: null,
+    slug: null,
+    limit: Infinity,
+    retryFailed: false,
+    force: false,
+    refresh: false,
+    help: false,
+  }
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i]
     if (arg === '--help' || arg === '-h') out.help = true
@@ -255,6 +286,7 @@ function parseArgs(argv) {
     else if (arg === '--limit') out.limit = Number(argv[++i])
     else if (arg === '--retry-failed') out.retryFailed = true
     else if (arg === '--force') out.force = true
+    else if (arg === '--refresh') out.refresh = true
     else if (arg.startsWith('-')) throw new Error(`Unknown flag: ${arg}`)
     else throw new Error(`Unexpected argument: ${arg}`)
   }
@@ -278,6 +310,7 @@ async function main() {
     limit: args.limit,
     retryFailed: args.retryFailed,
     force: args.force,
+    refresh: args.refresh,
   })
   return result.ok ? 0 : 1
 }

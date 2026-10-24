@@ -6,7 +6,11 @@
 
 import { computed, markRaw, onBeforeUnmount, onMounted, ref, shallowRef, watch } from 'vue'
 import { useData, useRouter } from 'vitepress'
-import { filterMetadataNodes } from './graph-filter.mjs'
+import {
+  applyGraphFilters,
+  backlinksFor,
+  todayShanghai,
+} from './graph-filter.mjs'
 
 const NODE_RADIUS = 3.5
 const SOURCE_RADIUS = 2.5
@@ -16,10 +20,13 @@ const LIGHT = {
   concept: 'rgba(120, 120, 140, 0.85)',
   entity: 'rgba(155, 140, 130, 0.85)',
   source: 'rgba(140, 140, 150, 0.4)',
+  topic: 'rgba(110, 130, 150, 0.85)',
   hover: 'rgba(60, 60, 70, 1)',
   edge: 'rgba(140, 140, 150, 0.18)',
   edgeHover: 'rgba(100, 100, 110, 0.5)',
   edgeFaded: 'rgba(200, 200, 200, 0.04)',
+  cite: 'rgba(140, 120, 100, 0.35)',
+  citeHover: 'rgba(120, 100, 80, 0.65)',
   label: 'rgba(60, 60, 70, 0.8)',
   labelHover: '#000',
 }
@@ -30,10 +37,13 @@ const DARK = {
   concept: 'rgba(176, 176, 198, 0.9)',
   entity: 'rgba(204, 184, 168, 0.9)',
   source: 'rgba(186, 186, 196, 0.45)',
+  topic: 'rgba(168, 196, 220, 0.9)',
   hover: 'rgba(248, 248, 250, 1)',
   edge: 'rgba(186, 186, 196, 0.28)',
   edgeHover: 'rgba(220, 220, 228, 0.7)',
   edgeFaded: 'rgba(255, 255, 255, 0.06)',
+  cite: 'rgba(210, 190, 160, 0.4)',
+  citeHover: 'rgba(230, 210, 180, 0.75)',
   label: 'rgba(230, 230, 236, 0.88)',
   labelHover: '#fff',
 }
@@ -50,9 +60,13 @@ const loading = ref(true)
 const error = ref(false)
 const showSources = ref(false)
 const showMetaNodes = ref(false)
+const pageTypeFilter = ref('all')
+const todayView = ref(true)
+const selectedNode = shallowRef(null)
 const hoverNode = shallowRef(null)
 const mousePos = ref({ x: 0, y: 0 })
 const dimensions = ref({ width: 0, height: 0 })
+const viewMode = ref('full')
 
 // VitePress routes have no query object. ?focus= is read from the browser URL.
 const focusNodeId = ref(null)
@@ -67,6 +81,15 @@ function syncFocus() {
   focusNodeId.value = readFocus()
 }
 
+function setFocus(id) {
+  if (typeof window === 'undefined') return
+  const url = new URL(window.location.href)
+  if (id) url.searchParams.set('focus', id)
+  else url.searchParams.delete('focus')
+  window.history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`)
+  focusNodeId.value = id || null
+}
+
 const view = shallowRef(markRaw({ nodes: [], links: [], key: 'empty' }))
 
 function endpointId(value) {
@@ -74,32 +97,20 @@ function endpointId(value) {
   return value
 }
 
-function buildView(data, sourcesOn, focusId, metaOn) {
-  if (!data) return markRaw({ nodes: [], links: [], key: 'empty' })
+function buildView(data, sourcesOn, focusId, metaOn, pageType, useToday) {
+  if (!data) return markRaw({ nodes: [], links: [], key: 'empty', viewMode: 'full' })
 
-  let relevantNodes = data.nodes
-  let relevantEdges = data.edges
-
-  if (focusId) {
-    const neighborIds = new Set([focusId])
-    for (const edge of data.edges) {
-      if (edge.source === focusId) neighborIds.add(edge.target)
-      if (edge.target === focusId) neighborIds.add(edge.source)
-    }
-    relevantNodes = data.nodes.filter((node) => neighborIds.has(node.id))
-    relevantEdges = data.edges.filter((edge) => edge.source === focusId || edge.target === focusId)
-  } else {
-    relevantEdges = relevantEdges.filter((edge) => edge.type === 'links_to' || (sourcesOn && edge.type === 'cites'))
-    // Markdown pages are wiki. Show sources only adds a later non-md source kind, plus cites.
-    relevantNodes = relevantNodes.filter((node) => node.source_kind === 'wiki' || sourcesOn)
-  }
-
-  const visible = filterMetadataNodes(relevantNodes, relevantEdges, {
+  const filtered = applyGraphFilters(data.nodes, data.edges, {
     showMetaNodes: metaOn,
     focusId,
+    pageType,
+    todayView: useToday && !focusId,
+    showSources: sourcesOn,
   })
-  relevantNodes = visible.nodes
-  relevantEdges = visible.edges
+  viewMode.value = filtered.viewMode
+
+  const relevantNodes = filtered.nodes
+  const relevantEdges = filtered.edges
   const nodeIds = new Set(relevantNodes.map((node) => node.id))
   const nodes = relevantNodes.map((node) => {
     const cached = nodeCache.get(node.id)
@@ -116,17 +127,33 @@ function buildView(data, sourcesOn, focusId, metaOn) {
     .filter((edge) => nodeIds.has(edge.source) && nodeIds.has(edge.target))
     .map((edge) => ({ source: edge.source, target: edge.target, type: edge.type }))
 
-  const key = `${focusId || ''}|${sourcesOn ? 1 : 0}|${metaOn ? 1 : 0}|${nodes.map((node) => node.id).join(',')}|${links.length}`
-  return markRaw({ nodes, links, key })
+  const key = [
+    focusId || '',
+    sourcesOn ? 1 : 0,
+    metaOn ? 1 : 0,
+    pageType,
+    useToday ? 1 : 0,
+    filtered.viewMode,
+    nodes.map((node) => node.id).join(','),
+    links.length,
+  ].join('|')
+  return markRaw({ nodes, links, key, viewMode: filtered.viewMode })
 }
 
-watch([graphData, showSources, focusNodeId, showMetaNodes], () => {
+watch([graphData, showSources, focusNodeId, showMetaNodes, pageTypeFilter, todayView], () => {
   const data = graphData.value
   if (data && !focusNodeId.value) {
     const hasWikiLinks = data.edges.some((edge) => edge.type === 'links_to')
     if (!hasWikiLinks && data.edges.length > 0 && !showSources.value) showSources.value = true
   }
-  view.value = buildView(graphData.value, showSources.value, focusNodeId.value, showMetaNodes.value)
+  view.value = buildView(
+    graphData.value,
+    showSources.value,
+    focusNodeId.value,
+    showMetaNodes.value,
+    pageTypeFilter.value,
+    todayView.value,
+  )
 }, { immediate: true })
 
 const banner = computed(() => {
@@ -141,10 +168,9 @@ const banner = computed(() => {
 const tooltipStyle = computed(() => {
   const width = dimensions.value.width || 0
   const height = dimensions.value.height || 0
-  const maxLeft = Math.max(8, width - 280)
-  // Sit above-left of the cursor so it does not cover the on-canvas title under the node.
+  const maxLeft = Math.max(8, width - 300)
   const left = Math.min(Math.max(8, mousePos.value.x - 160), maxLeft)
-  const top = Math.min(Math.max(8, mousePos.value.y - 88), Math.max(8, height - 96))
+  const top = Math.min(Math.max(8, mousePos.value.y - 120), Math.max(8, height - 160))
   return { left: `${left}px`, top: `${top}px` }
 })
 
@@ -156,12 +182,66 @@ const sourcesAvailable = computed(() => {
 
 const metaNodesAvailable = computed(() => graphData.value?.nodes.some((node) => node.is_meta) ?? false)
 
+const todayAvailable = computed(() => {
+  const data = graphData.value
+  if (!data) return false
+  const day = todayShanghai()
+  return data.nodes.some((node) => {
+    const d = node.date
+    const g = node.generated_at
+    if (d && String(d).slice(0, 10) === day) return true
+    if (!g) return false
+    try {
+      return new Intl.DateTimeFormat('en-CA', {
+        timeZone: 'Asia/Shanghai',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      }).format(new Date(g)) === day
+    } catch {
+      return false
+    }
+  })
+})
+
+const panelNode = computed(() => selectedNode.value || hoverNode.value)
+
+const panelBacklinks = computed(() => {
+  const node = panelNode.value
+  const data = graphData.value
+  if (!node || !data) return []
+  return backlinksFor(node.id, data.edges)
+})
+
 function categoryOf(node) {
+  if (node.page_type === 'Source' || node.page_type === 'Topic') return node.page_type
   if (node.source_kind !== 'wiki') return 'Source'
   const p = String(node.path || '').toLowerCase()
   if (p.includes('concepts/')) return 'Concept'
   if (p.includes('entities/')) return 'Entity'
   return 'Page'
+}
+
+function formatDay(value) {
+  if (!value) return null
+  const text = String(value).trim()
+  if (/^\d{4}-\d{2}-\d{2}$/.test(text)) return text
+  try {
+    return new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Shanghai',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+    }).format(new Date(text))
+  } catch {
+    return text.slice(0, 10)
+  }
+}
+
+function titleFor(id) {
+  const data = graphData.value
+  const node = data?.nodes.find((entry) => entry.id === id)
+  return node?.title || id
 }
 
 function palette() {
@@ -174,21 +254,19 @@ function paintNode(node, ctx, globalScale) {
   if (node.x == null || node.y == null) return
   const colors = palette()
   const hovering = hoverState.node
-  const isHover = hovering?.id === node.id
+  const isHover = hovering?.id === node.id || selectedNode.value?.id === node.id
   const neighbors = hoverState.neighbors
   const isFaded = hovering && neighbors && !neighbors.has(node.id)
-  const isSource = node.source_kind !== 'wiki'
-  const radius = isSource ? SOURCE_RADIUS : NODE_RADIUS
+  const isSourceAsset = node.source_kind !== 'wiki'
+  const radius = isSourceAsset ? SOURCE_RADIUS : NODE_RADIUS
   const p = String(node.path || '').toLowerCase()
-  const color = isHover
-    ? colors.hover
-    : isSource
-      ? colors.source
-      : p.includes('concepts/')
-        ? colors.concept
-        : p.includes('entities/')
-          ? colors.entity
-          : colors.node
+  let color = colors.node
+  if (isHover) color = colors.hover
+  else if (isSourceAsset) color = colors.source
+  else if (node.page_type === 'Source') color = colors.source
+  else if (node.page_type === 'Topic') color = colors.topic
+  else if (p.includes('concepts/')) color = colors.concept
+  else if (p.includes('entities/')) color = colors.entity
 
   ctx.globalAlpha = isFaded ? 0.12 : 1
   ctx.beginPath()
@@ -220,11 +298,18 @@ function paintPointer(node, color, ctx) {
 function linkColor(link) {
   const colors = palette()
   const hovering = hoverState.node
-  if (!hovering) return colors.edge
+  const isCite = link.type === 'cites'
+  if (!hovering) return isCite ? colors.cite : colors.edge
   const srcId = endpointId(link.source)
   const tgtId = endpointId(link.target)
-  if (srcId === hovering.id || tgtId === hovering.id) return colors.edgeHover
+  if (srcId === hovering.id || tgtId === hovering.id) {
+    return isCite ? colors.citeHover : colors.edgeHover
+  }
   return colors.edgeFaded
+}
+
+function linkLineDash(link) {
+  return link.type === 'cites' ? [4, 3] : []
 }
 
 let graph = null
@@ -290,7 +375,8 @@ async function ensureGraph() {
     .nodeCanvasObject(paintNode)
     .nodePointerAreaPaint(paintPointer)
     .linkColor(linkColor)
-    .linkWidth(0.5)
+    .linkLineDash(linkLineDash)
+    .linkWidth((link) => (link.type === 'cites' ? 0.7 : 0.5))
     .linkDirectionalArrowLength(0)
     .linkDirectionalArrowRelPos(1)
     .autoPauseRedraw(false)
@@ -303,8 +389,12 @@ async function ensureGraph() {
     })
     .onNodeClick((node) => {
       if (!node?.id) return
+      selectedNode.value = node
       const id = String(node.id)
       router.go(id === 'index' ? '/' : `/${id}`)
+    })
+    .onBackgroundClick(() => {
+      selectedNode.value = null
     })
     .onEngineStop(() => {
       if (!graph || !pendingFitKey || fittedKey === pendingFitKey) return
@@ -318,6 +408,16 @@ function onMouseMove(event) {
   const rect = shellRef.value?.getBoundingClientRect()
   if (!rect) return
   mousePos.value = { x: event.clientX - rect.left, y: event.clientY - rect.top }
+}
+
+function focusSelectedNeighborhood() {
+  const node = selectedNode.value || hoverNode.value
+  if (!node?.id) return
+  setFocus(node.id)
+}
+
+function clearFocus() {
+  setFocus(null)
 }
 
 onMounted(() => {
@@ -344,6 +444,23 @@ onMounted(() => {
     .then((data) => {
       if (disposed) return
       graphData.value = markRaw(data)
+      // Default to today view when seeds exist; otherwise full graph (minus meta).
+      const day = todayShanghai()
+      const hasToday = data.nodes.some((node) => {
+        if (node.date && String(node.date).slice(0, 10) === day) return true
+        if (!node.generated_at) return false
+        try {
+          return new Intl.DateTimeFormat('en-CA', {
+            timeZone: 'Asia/Shanghai',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+          }).format(new Date(node.generated_at)) === day
+        } catch {
+          return false
+        }
+      })
+      todayView.value = hasToday
     })
     .catch(() => {
       if (!disposed) error.value = true
@@ -389,7 +506,37 @@ onBeforeUnmount(() => {
         </button>
         <span class="graph-controls-sep" aria-hidden="true">|</span>
       </template>
+      <button
+        type="button"
+        :class="{ on: pageTypeFilter === 'Source' }"
+        :aria-pressed="pageTypeFilter === 'Source'"
+        title="仅 Source"
+        @click="pageTypeFilter = pageTypeFilter === 'Source' ? 'all' : 'Source'"
+      >
+        Source
+      </button>
+      <button
+        type="button"
+        :class="{ on: pageTypeFilter === 'Topic' }"
+        :aria-pressed="pageTypeFilter === 'Topic'"
+        title="仅 Topic"
+        @click="pageTypeFilter = pageTypeFilter === 'Topic' ? 'all' : 'Topic'"
+      >
+        Topic
+      </button>
+      <span class="graph-controls-sep" aria-hidden="true">|</span>
+      <button
+        type="button"
+        :class="{ on: todayView }"
+        :aria-pressed="todayView"
+        :disabled="!todayAvailable && !todayView"
+        :title="todayView ? '显示全图' : '今日新增/更新及相关主题'"
+        @click="todayView = !todayView"
+      >
+        {{ todayView ? '今日视图' : '全图' }}
+      </button>
       <template v-if="sourcesAvailable">
+        <span class="graph-controls-sep" aria-hidden="true">|</span>
         <button
           type="button"
           :class="{ on: showSources }"
@@ -399,19 +546,50 @@ onBeforeUnmount(() => {
         >
           {{ showSources ? 'Hide sources' : 'Show sources' }}
         </button>
-        <span class="graph-controls-sep" aria-hidden="true">|</span>
       </template>
+      <span class="graph-controls-sep" aria-hidden="true">|</span>
+      <button
+        type="button"
+        :disabled="!(selectedNode || hoverNode)"
+        title="聚焦当前节点邻域"
+        @click="focusSelectedNeighborhood"
+      >
+        聚焦邻域
+      </button>
+      <button
+        v-if="focusNodeId"
+        type="button"
+        title="清除聚焦"
+        @click="clearFocus"
+      >
+        清除聚焦
+      </button>
+      <span class="graph-controls-sep" aria-hidden="true">|</span>
       <span class="graph-controls-note">Graph rebuilt on each deploy.</span>
     </div>
 
     <p v-if="banner" class="graph-banner" :class="banner.mode">{{ banner.text }}</p>
 
-    <div v-if="hoverNode" class="graph-tooltip" :style="tooltipStyle">
-      <p class="graph-tooltip-title">{{ hoverNode.title }}</p>
-      <p v-if="hoverNode.description" class="graph-tooltip-desc">{{ hoverNode.description }}</p>
-      <p class="graph-tooltip-kind">{{ categoryOf(hoverNode) }}</p>
-      <div v-if="hoverNode.tags && hoverNode.tags.length" class="graph-tooltip-tags">
-        <span v-for="tag in hoverNode.tags.slice(0, 4)" :key="tag">{{ tag }}</span>
+    <div v-if="panelNode" class="graph-tooltip" :style="tooltipStyle">
+      <p class="graph-tooltip-title">{{ panelNode.title }}</p>
+      <p v-if="panelNode.description" class="graph-tooltip-desc">{{ panelNode.description }}</p>
+      <p class="graph-tooltip-kind">{{ categoryOf(panelNode) }}</p>
+      <p v-if="panelNode.date" class="graph-tooltip-meta">发布 {{ formatDay(panelNode.date) }}</p>
+      <p v-if="panelNode.generated_at" class="graph-tooltip-meta">更新 {{ formatDay(panelNode.generated_at) }}</p>
+      <p v-if="panelNode.resource" class="graph-tooltip-link">
+        <a :href="panelNode.resource" target="_blank" rel="noopener noreferrer" @click.stop>原文</a>
+      </p>
+      <div v-if="panelNode.tags && panelNode.tags.length" class="graph-tooltip-tags">
+        <span v-for="tag in panelNode.tags.slice(0, 4)" :key="tag">{{ tag }}</span>
+      </div>
+      <div v-if="panelBacklinks.length" class="graph-tooltip-backlinks">
+        <p class="graph-tooltip-meta">反向链接</p>
+        <ul>
+          <li v-for="link in panelBacklinks.slice(0, 6)" :key="`${link.id}|${link.type}`">
+            {{ titleFor(link.id) }}
+            <span class="graph-tooltip-edge">{{ link.type === 'cites' ? 'cites' : 'links' }}</span>
+          </li>
+        </ul>
       </div>
     </div>
   </div>

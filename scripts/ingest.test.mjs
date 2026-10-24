@@ -516,3 +516,118 @@ test('compileArticle does not spawn or write wiki pages when the CLI is missing'
   assert.equal(result.record.status, 'fetched')
   assert.deepEqual(fs.readdirSync(wikiRoot), [])
 })
+
+test('--refresh with unchanged body skips silently; changed body recompiles', async () => {
+  const rawRoot = tempRaw()
+  const wikiRoot = tempRaw()
+  fs.writeFileSync(path.join(wikiRoot, 'index.md'), '# Home\n')
+  fs.writeFileSync(path.join(wikiRoot, 'log.md'), '# Log\n')
+  const firstBody = `<article><h1>One</h1><p>${'alpha '.repeat(40)}</p></article>`
+  const secondBody = `<article><h1>Two</h1><p>${'beta '.repeat(40)}</p></article>`
+  let fetches = 0
+  let spawned = 0
+
+  const filed = await ingestOne({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    url: 'https://example.com/a',
+    fetchImpl: async () => {
+      fetches++
+      return htmlResponse(firstBody)
+    },
+    resolveImpl: () => ({ kind: 'cursor', bin: '/home/box/.local/bin/agent' }),
+    spawnImpl: async () => {
+      spawned++
+      writeCompiledWiki(wikiRoot)
+      return { code: 0, stdout: '', stderr: '' }
+    },
+    graph: false,
+    now: fixedNow,
+    log: silent,
+  })
+  assert.equal(filed.ok, true)
+  assert.equal(filed.record.status, 'filed')
+  assert.equal(fetches, 1)
+  assert.equal(spawned, 1)
+  const originalPath = filed.record.article_path
+  const logBefore = fs.readFileSync(path.join(wikiRoot, 'log.md'), 'utf8')
+
+  const unchanged = await ingestOne({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    url: 'https://example.com/a',
+    refresh: true,
+    fetchImpl: async () => {
+      fetches++
+      return htmlResponse(firstBody)
+    },
+    spawnImpl: async () => {
+      throw new Error('must not spawn on unchanged refresh')
+    },
+    graph: false,
+    now: () => '2099-01-01T00:00:00.000Z',
+    log: silent,
+  })
+  assert.equal(unchanged.ok, true)
+  assert.equal(unchanged.skipped, true)
+  assert.equal(unchanged.record.status, 'filed')
+  assert.equal(unchanged.record.article_path, originalPath)
+  assert.equal(fs.readFileSync(path.join(wikiRoot, 'log.md'), 'utf8'), logBefore)
+  assert.equal(fetches, 2)
+  assert.equal(spawned, 1)
+
+  const changed = await ingestOne({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    url: 'https://example.com/a',
+    refresh: true,
+    fetchImpl: async () => {
+      fetches++
+      return htmlResponse(secondBody)
+    },
+    resolveImpl: () => ({ kind: 'cursor', bin: '/home/box/.local/bin/agent' }),
+    spawnImpl: async () => {
+      spawned++
+      writeCompiledWiki(wikiRoot)
+      return { code: 0, stdout: '', stderr: '' }
+    },
+    graph: false,
+    now: () => '2099-01-02T00:00:00.000Z',
+    log: silent,
+  })
+  assert.equal(changed.ok, true)
+  assert.equal(changed.skipped, false)
+  assert.equal(changed.record.status, 'filed')
+  assert.notEqual(changed.record.article_path, originalPath)
+  assert.match(changed.record.article_path, /--/)
+  assert.equal(fs.existsSync(path.join(rawRoot, originalPath)), true)
+  assert.equal(fetches, 3)
+  assert.equal(spawned, 2)
+})
+
+test('compile failure keeps the snapshot and leaves status fetched or sourced', async () => {
+  const rawRoot = tempRaw()
+  const wikiRoot = tempRaw()
+  fs.writeFileSync(path.join(wikiRoot, 'index.md'), '# Home\n')
+  fs.writeFileSync(path.join(wikiRoot, 'log.md'), '# Log\n')
+  const result = await ingestOne({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    url: 'https://example.com/a',
+    fetchImpl: async () => htmlResponse(fixtureHtml),
+    resolveImpl: () => ({ kind: 'cursor', bin: '/home/box/.local/bin/agent' }),
+    spawnImpl: async () => ({ code: 1, stdout: '', stderr: 'agent boom' }),
+    graph: false,
+    now: fixedNow,
+    log: silent,
+  })
+  assert.equal(result.ok, false)
+  assert.equal(result.record.status, 'fetched')
+  assert.ok(result.record.article_path)
+  assert.equal(fs.existsSync(path.join(rawRoot, result.record.article_path)), true)
+  assert.match(result.record.compile_error, /agent exited 1/)
+})

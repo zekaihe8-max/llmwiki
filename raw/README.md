@@ -37,7 +37,7 @@ seen → fetched → sourced → filed
 | `seen` | Named in a digest. No article file yet. |
 | `fetched` | `raw/articles/{slug}.md` (or a later `--force` snapshot) is frozen. |
 | `sourced` | A Source page whose `resource` is this URL exists, but index, log, or lint is not done. |
-| `filed` | Lint passed. The Source, Topic pages, `wiki/index.md`, and `wiki/log.md` reflect this URL. Terminal. |
+| `filed` | Lint passed. The Source, Topic pages, `wiki/index.md`, and `wiki/log.md` reflect this URL. Cheap-skipped on re-run unless `--refresh` finds a changed body. |
 | `skipped` | Terminal. Snapshot kept. No Source page (`compile:article --skip`). |
 | `failed` | The fetch produced no body. Terminal until `--retry-failed` returns the record to `seen`. |
 
@@ -140,4 +140,46 @@ npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md --retry-f
 npm run ingest:day -- --date 2026-10-23 --retry-failed
 ```
 
-A filed article is a no-op: pages are not duplicated and the log is not appended. Resuming from `fetched` or `sourced` does not refetch. `--force` on fetch writes a new snapshot file and leaves the previous one in place.
+A filed article is a no-op without `--refresh`: pages are not duplicated and the log is not appended. Resuming from `fetched` or `sourced` does not refetch. `--force` / `--refresh` on fetch re-checks the original URL: same body → skip; different body → new snapshot file (`articles/{slug}--{hash}.md`), status back to `fetched`, then compile again. The earlier snapshot stays.
+
+### Refresh changed originals
+
+```bash
+npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --url https://example.com/article --refresh
+npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md --refresh
+npm run ingest:day -- --date 2026-10-23 --refresh
+```
+
+### Daily run and publish (CLI only)
+
+Joy owns the wiki-x / wiki-x-2 routines. This repo exposes CLI entrypoints only; no duplicate cron or GitHub Actions scheduler is added in-repo.
+
+```bash
+# Full day (both digests when present)
+npm run ingest:day -- --date YYYY-MM-DD --agent cursor
+
+# Single article E2E
+npm run ingest:one -- --digest raw/digests/<file>.md --url <url> --agent cursor
+
+# Re-check filed originals for content changes
+npm run ingest:day -- --date YYYY-MM-DD --refresh --agent cursor
+
+# Graph rebuild (also runs after ingest when graph is enabled)
+npm run graph
+
+# Static site
+npm run build
+```
+
+### Cloudflare Pages
+
+This package builds the wiki with VitePress (`npm run build` → `.vitepress/dist`). There is **no in-repo Pages deploy workflow**. Zekai must configure Cloudflare Pages separately:
+
+| Setting | Value |
+| --- | --- |
+| Project | Link this Git repo |
+| Build command | `npm run build` |
+| Output directory | `.vitepress/dist` |
+| Node | ≥ 20 |
+
+Scheduling and deploy are not done by this repository.

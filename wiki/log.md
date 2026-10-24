@@ -2,6 +2,7 @@
 
 ## 2026-10-24
 
+* **Creation**: Filed the [介绍 Cloudflare Workers](./sources/articles/introducing-cloudflare-workers.md) source and opened [可编程边缘计算](./topics/programmable-edge-compute.md).
 * **Creation**: Filed the [Vox on Ponytail 5](./sources/articles/voxyz-ponytail-5.md) source and opened [Reuse before write](./topics/reuse-before-write.md).
 * **Creation**: Filed the [小墨 on Pi vs DeepSeek Harness rounds and cost](./sources/articles/xiaomovps-pi-vs-deepseek-harness.md) source and opened [Harness comparison beyond tokens](./topics/harness-comparison-beyond-tokens.md).
 * **Creation**: Filed the [Matt Pocock on /software-factory](./sources/articles/mattpocock-software-factory.md) source, opened [Software factory](./topics/software-factory.md), and updated [One question at a time](./topics/one-question-at-a-time.md).

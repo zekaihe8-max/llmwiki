@@ -214,5 +214,13 @@
     "last_seen": "2026-10-24T03:19:34.272Z",
     "digest": "2026-10-23-frontier-ai.md",
     "title": "Vox 转述 Ponytail 5"
+  },
+  "https://blog.cloudflare.com/introducing-cloudflare-workers": {
+    "hash": "3289403e917b0a3862291bd7000482a9be3a3c3ff9774e786f48749e3808fb16",
+    "slug": "3289403e917b0a38",
+    "first_seen": "2026-10-24T10:51:28.525Z",
+    "last_seen": "2026-10-24T10:51:28.525Z",
+    "digest": "e2e-digest.md",
+    "title": "Introducing Cloudflare Workers"
   }
 }
