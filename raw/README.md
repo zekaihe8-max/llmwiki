@@ -76,6 +76,35 @@ npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --pick 1
 
 `ingest:one` registers every URL in the digest, fetches the selected one, shells out to an Agent CLI, lints, and rebuilds `graph-data.json`. Split steps are the same pipeline.
 
+### Daily batch
+
+`ingest:batch` registers every URL in one digest, fetches with concurrency 1 (raise it only if you accept rate limits), compiles each `fetched` or `sourced` article through the Agent CLI, then runs `lint:okf` once and `graph` once. It does not write wiki pages itself. `filed` URLs are skipped and are not logged again. `--limit` counts URLs that still need work, so a filed article does not use a slot.
+
+```bash
+# One digest batch
+npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md
+
+# Limit 3 trial
+npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md --limit 3
+
+# Resume after a partial failure (fetched and sourced continue at compile)
+npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md
+
+# Next three after a trial. Filed URLs do not count toward --limit.
+npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md --limit 3
+```
+
+Exit 0 means this run's fetches and compiles succeeded, lint and graph succeeded, and no URL in the digest is `failed`. A `--limit` trial can exit 0 while later URLs are still `seen`, `fetched`, or `sourced`. Exit 1 is partial success: keep what was filed and re-run the same command. URLs left at `failed` keep the exit at 1 until `--retry-failed` fetches them. Exit 2 means the Agent CLI is missing. Snapshots already fetched stay at `fetched`.
+
+Default `--agent` for the batch is Cursor Agent (`agent` on `PATH`, or `/home/box/.local/bin/agent` on the shared box). Pass `--agent codex` or `--agent auto` for the other choice. `--concurrency` applies to fetch only and defaults to 1. Compile runs one article at a time.
+
+Both daily files, when they are already in `raw/digests/`. A missing file is skipped. If neither exists, the command fails. One digest still runs when the other fails.
+
+```bash
+npm run ingest:day -- --date 2026-10-23
+npm run ingest:day -- 2026-10-23 --limit 3
+```
+
 ### Compile CLI
 
 Live compile has to run on the shared box. This script does not write wiki pages itself.
@@ -92,7 +121,7 @@ Cursor Agent (`/home/box/.local/bin/agent`, `--trust` and `-f`):
 agent -p --trust -f "<prompt>"
 ```
 
-Choose one with `--agent codex` or `--agent cursor`. The default uses Codex when that binary is on `PATH` or at `/home/box/.local/bin/codex`, otherwise Cursor Agent. Exit code 2 means neither CLI is installed here. Fetch state is kept. Re-run the same command on the box.
+Choose one with `--agent codex` or `--agent cursor`. `ingest:one` and `compile:article` default to Codex when that binary is on `PATH` or at `/home/box/.local/bin/codex`, otherwise Cursor Agent. `ingest:batch` and `ingest:day` default to Cursor Agent. Exit code 2 means the chosen CLI is not installed here. Fetch state is kept. Re-run the same command on the box.
 
 ### Retry
 
@@ -104,6 +133,11 @@ npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --url https
 # Fetch succeeded, compile or lint did not (status fetched or sourced).
 npm run compile:article -- --url https://example.com/article
 npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --url https://example.com/article
+
+# The digest batch resumes those fetched and sourced articles on its own.
+# Status failed stays put until --retry-failed.
+npm run ingest:batch -- --digest raw/digests/2026-10-23-frontier-ai.md --retry-failed
+npm run ingest:day -- --date 2026-10-23 --retry-failed
 ```
 
-The second form does not refetch. A filed article is a no-op: pages are not duplicated and the log is not appended. `--force` on fetch writes a new snapshot file and leaves the previous one in place.
+A filed article is a no-op: pages are not duplicated and the log is not appended. Resuming from `fetched` or `sourced` does not refetch. `--force` on fetch writes a new snapshot file and leaves the previous one in place.

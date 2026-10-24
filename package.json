@@ -13,7 +13,9 @@
     "compile:article": "node scripts/compile-article.mjs",
     "lint:okf": "node scripts/lint-okf.mjs",
     "ingest:one": "node scripts/ingest-one.mjs",
-    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs"
+    "ingest:batch": "node scripts/ingest-batch.mjs",
+    "ingest:day": "node scripts/ingest-day.mjs",
+    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs scripts/ingest-batch.test.mjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.4"
