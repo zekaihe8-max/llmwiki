@@ -94,4 +94,4 @@ Do not add pages under `wiki/_templates/`. Those files are skeletons.
 
 ## Out of scope
 
-Digest fetch, article crawl, scheduled routines, deploy, and graph-viewer changes are not part of this schema. Filing a page does not mean downloading the article into `raw/`.
+Scheduled routines, deploy, and graph-viewer changes are not part of this schema. Digest registration, fetch, OKF lint, and the Agent compile handoff are `npm run ingest:one` (see `raw/README.md`). The agent that files a page still follows this schema and does not edit `raw/`.
