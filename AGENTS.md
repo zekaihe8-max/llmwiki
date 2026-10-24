@@ -32,6 +32,13 @@ MVP scope is Source pages and Topic pages only. Do not fetch digests, crawl arti
 - A Topic slug names the idea. Prefer updating `wiki/topics/{slug}.md` over creating a second page for the same idea.
 - Before creating a Topic, read `wiki/index.md` and `wiki/topics/` and reuse an existing page when the idea is already there.
 
+## Language
+
+Source and Topic pages **default to Chinese** for `title`, `description`, and body sections (Summary, Synthesis, and the rest).
+
+- Keep proper nouns, product names, APIs, and `resource` URLs in English when that is how they are known.
+- Use whole-page English or mixed EN/ZH **only when** the material is highly technical and Chinese would clearly hurt meaning. Do not default to full-English pages.
+
 ## Page structure
 
 Every Source and Topic is UTF-8 markdown. YAML frontmatter comes first, then a body whose single `#` heading matches `title`.

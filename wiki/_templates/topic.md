@@ -11,6 +11,7 @@ generated:
   by: <agent>/<model>
   at: <YYYY-MM-DDThh:mm:ssZ>
 ---
+<!-- Language: default Chinese for title, description, and body. Proper nouns / product names / APIs / resource URLs may stay English. Whole-page English or mixed EN/ZH only when Chinese would clearly hurt meaning. -->
 
 # <Title>
 

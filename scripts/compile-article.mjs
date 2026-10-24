@@ -38,6 +38,7 @@ export function buildCompilePrompt({ articlePath, url, digest, slug, title }) {
     '5. Append wiki/log.md only when that Source filename is not already mentioned. If it is already there, leave the log unchanged.',
     '6. Do not edit, reformat, or delete anything under raw/. Do not edit wiki/sources/x-digest/.',
     '',
+    'Language: write title, description, and body (Summary/Synthesis etc.) in Chinese by default. Proper nouns, product names, APIs, and resource URLs may stay English. Use whole-page English or mixed EN/ZH only when Chinese would clearly hurt meaning.',
     'Set generated.by to the agent you are and generated.at to an ISO 8601 datetime with an explicit UTC offset.',
   )
   return lines.join('\n')
