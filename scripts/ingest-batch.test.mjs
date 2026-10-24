@@ -477,7 +477,89 @@ test('batch and day help document the commands a routine should call', () => {
   assert.match(batch.stdout, /--digest raw\/digests\/2026-10-23-frontier-ai\.md\n/)
   assert.match(batch.stdout, /--digest raw\/digests\/2026-10-23-frontier-ai\.md --limit 3/)
   assert.match(batch.stdout, /--retry-failed/)
+  assert.match(batch.stdout, /--refresh/)
   const day = spawnSync(process.execPath, [path.join(repoRoot, 'scripts', 'ingest-day.mjs'), '--help'], { encoding: 'utf8' })
   assert.match(day.stdout, /ingest:day -- --date 2026-10-23/)
   assert.match(day.stdout, /2026-10-23 --limit 3/)
+  assert.match(day.stdout, /--refresh/)
+})
+
+test('batch --refresh skips unchanged filed and recompiles when body changes', async () => {
+  const rawRoot = tempDir()
+  const wikiRoot = tempDir()
+  const graphOut = path.join(wikiRoot, 'graph-data.json')
+  const firstBody = `<article><h1>One</h1><p>${'alpha '.repeat(40)}</p></article>`
+  const secondBody = `<article><h1>Two</h1><p>${'beta '.repeat(40)}</p></article>`
+  const bodies = new Map([
+    [urlA, firstBody],
+    [urlB, firstBody],
+    [urlC, firstBody],
+  ])
+  const compiled = []
+  const first = await ingestBatch({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    graphOut,
+    fetchImpl: async (url) => htmlResponse(bodies.get(url) || firstBody, { url }),
+    compileImpl: filingCompile(compiled),
+    now: fixedNow,
+    log: silent,
+    err: silent,
+  })
+  assert.equal(first.code, 0)
+  assert.equal(compiled.length, 3)
+  const pathA = readRecord(rawRoot, urlA).article_path
+
+  compiled.length = 0
+  const unchanged = await ingestBatch({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    graphOut,
+    refresh: true,
+    fetchImpl: async (url) => htmlResponse(bodies.get(url) || firstBody, { url }),
+    compileImpl: filingCompile(compiled),
+    now: fixedNow,
+    log: silent,
+    err: silent,
+  })
+  assert.equal(unchanged.code, 0)
+  assert.equal(compiled.length, 0)
+  assert.equal(unchanged.skipped, 3)
+  assert.equal(readRecord(rawRoot, urlA).status, 'filed')
+  assert.equal(readRecord(rawRoot, urlA).article_path, pathA)
+
+  bodies.set(urlA, secondBody)
+  const changed = await ingestBatch({
+    digestPath: fixtureDigest,
+    rawRoot,
+    wikiRoot,
+    graphOut,
+    refresh: true,
+    fetchImpl: async (url) => htmlResponse(bodies.get(url) || firstBody, { url }),
+    compileImpl: filingCompile(compiled),
+    now: fixedNow,
+    log: silent,
+    err: silent,
+  })
+  assert.equal(changed.code, 0)
+  assert.equal(compiled.length, 1)
+  assert.equal(compiled[0].url, urlA)
+  assert.notEqual(readRecord(rawRoot, urlA).article_path, pathA)
+  assert.equal(readRecord(rawRoot, urlA).status, 'filed')
+  assert.equal(readRecord(rawRoot, urlB).status, 'filed')
+})
+
+test('selectBatch includes filed only when refresh is set', () => {
+  const records = [
+    { slug: 'a', status: 'filed', url: urlA },
+    { slug: 'b', status: 'fetched', url: urlB },
+  ]
+  const normal = selectBatch(records)
+  assert.deepEqual(normal.selected.map((record) => record.slug), ['b'])
+  assert.equal(normal.filed, 1)
+  const refreshed = selectBatch(records, { refresh: true })
+  assert.deepEqual(refreshed.selected.map((record) => record.slug), ['a', 'b'])
+  assert.equal(refreshed.filed, 0)
 })

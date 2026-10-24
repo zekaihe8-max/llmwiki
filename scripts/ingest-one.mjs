@@ -38,6 +38,7 @@ export async function ingestOne({
   pick = null,
   retryFailed = false,
   force = false,
+  refresh = false,
   skipCompile = false,
   graph = true,
   graphOut,
@@ -55,9 +56,10 @@ export async function ingestOne({
   log(`select ${chosen.url} (${extracted.length} urls in ${ingested.filename})`)
 
   let record = requireRecord(rawRoot, { url: chosen.url })
+  const recheck = force || refresh
   const fetchable = record.status === 'seen'
-    || ((record.status === 'failed') && (retryFailed || force))
-    || (force && record.status !== 'skipped')
+    || ((record.status === 'failed') && (retryFailed || recheck))
+    || (recheck && record.status !== 'skipped')
   let snapshotChanged = false
   if (fetchable) {
     const fetched = await fetchRecord({
@@ -65,6 +67,7 @@ export async function ingestOne({
       rawRoot,
       retryFailed: retryFailed || record.status === 'failed',
       force,
+      refresh,
       fetchImpl,
       now,
       log,
@@ -82,6 +85,8 @@ export async function ingestOne({
   if (skipCompile || record.status === 'skipped') {
     return { ok: true, code: 0, stage: record.status, record, ingested }
   }
+  // Without --refresh, filed is a cheap no-op. With --refresh, unchanged body
+  // keeps status filed and we still skip the agent; a new snapshot resets to fetched.
   if (record.status === 'filed' && !snapshotChanged) {
     log(`compile ${record.slug}: already filed, skipped`)
     return { ok: true, code: 0, stage: 'filed', skipped: true, record, ingested }
@@ -114,15 +119,17 @@ export async function ingestOne({
 function printHelp() {
   console.log(`Usage: npm run ingest:one -- --digest <file.md> (--url <article> | --pick N)
        [--raw raw/] [--wiki wiki/] [--agent codex|cursor|auto]
-       [--retry-failed] [--force] [--skip-compile] [--no-graph]
+       [--retry-failed] [--force] [--refresh] [--skip-compile] [--no-graph]
 
 Registers every URL in the digest, fetches the selected article into raw/,
 then shells out to Codex or Cursor Agent to file Source and Topic pages.
 Lint must pass before status becomes "filed". The graph is rebuilt after that.
 
-A second run of an unchanged filed article does not fetch again and does not
-call the agent. If fetch succeeded and compile did not, the next run resumes
-at compile. Exit 2 means the Agent CLI is not on this machine.
+Without --refresh, a filed article is a cheap no-op (no fetch, no agent, no log).
+With --refresh, the URL is re-fetched: same body → skip silently; different
+body → new snapshot, status fetched, then compile again via the Agent.
+If fetch succeeded and compile did not, the next run resumes at compile.
+Exit 2 means the Agent CLI is not on this machine.
 `)
 }
 
@@ -136,6 +143,7 @@ function parseArgs(argv) {
     agent: 'auto',
     retryFailed: false,
     force: false,
+    refresh: false,
     skipCompile: false,
     graph: true,
     help: false,
@@ -151,6 +159,7 @@ function parseArgs(argv) {
     else if (arg === '--agent') out.agent = argv[++i]
     else if (arg === '--retry-failed') out.retryFailed = true
     else if (arg === '--force') out.force = true
+    else if (arg === '--refresh') out.refresh = true
     else if (arg === '--skip-compile') out.skipCompile = true
     else if (arg === '--no-graph') out.graph = false
     else if (arg.startsWith('-')) throw new Error(`Unknown flag: ${arg}`)
@@ -175,6 +184,7 @@ async function main() {
     pick: args.pick,
     retryFailed: args.retryFailed,
     force: args.force,
+    refresh: args.refresh,
     skipCompile: args.skipCompile,
     graph: args.graph,
     agent: args.agent,

@@ -27,6 +27,7 @@ export async function ingestDay({
   limit = Infinity,
   concurrency = 1,
   retryFailed = false,
+  refresh = false,
   agent = 'cursor',
   graph = true,
   graphOut,
@@ -59,6 +60,7 @@ export async function ingestDay({
         limit,
         concurrency,
         retryFailed,
+        refresh,
         agent,
         graph,
         graphOut,
@@ -88,7 +90,7 @@ export async function ingestDay({
 function printHelp() {
   console.log(`Usage: npm run ingest:day -- --date YYYY-MM-DD
        [--limit N] [--concurrency N] [--agent cursor|codex|auto]
-       [--retry-failed] [--raw raw/] [--wiki wiki/] [--no-graph]
+       [--retry-failed] [--refresh] [--raw raw/] [--wiki wiki/] [--no-graph]
 
 Run ingest:batch for each file that exists:
   raw/digests/YYYY-MM-DD-frontier-ai.md
@@ -97,12 +99,13 @@ Run ingest:batch for each file that exists:
 A missing file is skipped. If neither file is in raw/digests/, the command
 fails. A failure in one digest still runs the other. Exit 2 if either batch
 exits 2, otherwise exit 1 when either batch did not fully succeed.
-The same flags as ingest:batch are passed through. Default --agent is cursor.
-Default --concurrency is 1.
+The same flags as ingest:batch are passed through (including --refresh).
+Default --agent is cursor. Default --concurrency is 1.
 
   npm run ingest:day -- --date 2026-10-23
   npm run ingest:day -- 2026-10-23 --limit 3
   npm run ingest:day -- --date 2026-10-23 --retry-failed
+  npm run ingest:day -- --date 2026-10-23 --refresh
 `)
 }
 
@@ -115,6 +118,7 @@ function parseArgs(argv) {
     limit: Infinity,
     concurrency: 1,
     retryFailed: false,
+    refresh: false,
     graph: true,
     help: false,
   }
@@ -129,6 +133,7 @@ function parseArgs(argv) {
     else if (arg === '--limit') out.limit = Number(argv[++i])
     else if (arg === '--concurrency') out.concurrency = Number(argv[++i])
     else if (arg === '--retry-failed') out.retryFailed = true
+    else if (arg === '--refresh') out.refresh = true
     else if (arg === '--no-graph') out.graph = false
     else if (arg.startsWith('-')) throw new Error(`Unknown flag: ${arg}`)
     else positionals.push(arg)
@@ -158,6 +163,7 @@ async function main() {
     limit: args.limit,
     concurrency: args.concurrency,
     retryFailed: args.retryFailed,
+    refresh: args.refresh,
     agent: args.agent,
     graph: args.graph,
   })

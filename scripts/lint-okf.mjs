@@ -1,5 +1,10 @@
 // OKF checks for Source and Topic pages, plus the filing gate
 // (one source for the URL, index entry, a single log mention, topic links).
+//
+// OKF-aligned: type, title, description, resource on Source, sources[].resource,
+// generated as {by, at}, footnote id ↔ sources[].id, no out-of-pack raw/ paths.
+// Project-stricter (this repo): Topic must have ## Contradictions; filing gate
+// also requires index + single log mention + a Topic wiki link from the Source.
 
 import fs from 'node:fs'
 import path from 'node:path'

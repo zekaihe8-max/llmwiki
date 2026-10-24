@@ -4,20 +4,22 @@
 //
 // Static VitePress build: walk wiki/**/*.md and emit /graph-data.json.
 // No edges are invented — a link or citation becomes an edge only when it
-// resolves to another wiki file.
+// resolves to another wiki file (exact path for links_to; OKF sources[].id
+// + sources[].resource for cites). Code fences and inline code are ignored.
 
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { normalizeUrl } from './lib/urls.mjs'
+import { parseFrontmatter } from './lib/yaml.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const defaultWikiDir = path.join(repoRoot, 'wiki')
 const defaultOutFile = path.join(repoRoot, '.vitepress', 'public', 'graph-data.json')
 
 const WIKI_LINK_RE = /(?<!!)\[(?:[^\]]*)\]\(([^)]+)\)/g
-const CITATION_RE = /\[\^[^\]]+\]:\s*(.+)$/gm
+const FOOTNOTE_DEF_RE = /^\[\^([^\]]+)\]:\s*(.*)$/gm
 const IMAGE_RE = /\.(png|jpg|jpeg|gif|webp|svg)$/i
-const EXT_RE = /\.(pdf|docx?|pptx?|xlsx?|csv|html?|md|txt)$/i
 
 /** Stable id: wiki-relative path, no leading slash, no .md. Root index stays "index". */
 export function nodeIdFromRel(relMd) {
@@ -31,6 +33,29 @@ export function currentDirFor(relMd) {
   return dir === '.' ? '' : `${dir}/`
 }
 
+/**
+ * Drop fenced code blocks and inline code so example links/footnotes never
+ * become graph edges. Lightweight; no markdown AST dependency.
+ */
+export function stripCode(content) {
+  const lines = String(content).split(/\r?\n/)
+  const kept = []
+  let fence = null
+  for (const line of lines) {
+    const open = line.match(/^(```|~~~)/)
+    if (fence) {
+      if (line.startsWith(fence)) fence = null
+      continue
+    }
+    if (open) {
+      fence = open[1]
+      continue
+    }
+    kept.push(line.replace(/`[^`\n]*`/g, ''))
+  }
+  return kept.join('\n')
+}
+
 function cleanHref(raw) {
   let href = raw.trim().replace(/\r$/, '')
   if (href.startsWith('<') && href.endsWith('>')) href = href.slice(1, -1).trim()
@@ -40,50 +65,58 @@ function cleanHref(raw) {
 }
 
 /**
- * Internal wiki link paths, resolved relative to currentDir (trailing slash or "").
+ * Resolve a wiki href to a path relative to the wiki root (may still include .md).
  * Mirrors parse_wiki_links: skip http / mailto / hash / data / images.
+ */
+export function resolveWikiHref(rawHref, currentDir) {
+  let href = cleanHref(rawHref)
+  if (!href) return null
+  if (href.startsWith('http') || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('data:')) {
+    return null
+  }
+  href = href.split('#')[0].split('?')[0].trim()
+  if (!href || IMAGE_RE.test(href)) return null
+
+  let resolved
+  if (href.startsWith('/wiki/')) {
+    resolved = href.replace(/^\/wiki\//, '')
+  } else if (href.startsWith('./')) {
+    resolved = `${currentDir}${href.slice(2)}`
+  } else if (href.startsWith('../')) {
+    const parts = `${currentDir.replace(/\/$/, '')}/${href}`.split('/')
+    const resolvedParts = []
+    for (const part of parts) {
+      if (part === '..') {
+        if (resolvedParts.length) resolvedParts.pop()
+      } else if (part && part !== '.') {
+        resolvedParts.push(part)
+      }
+    }
+    resolved = resolvedParts.join('/')
+  } else if (href.startsWith('/')) {
+    resolved = href.replace(/^\/+/, '')
+  } else if (!href.includes('/')) {
+    resolved = currentDir ? `${currentDir}${href}` : href
+  } else {
+    resolved = href
+  }
+  return resolved || null
+}
+
+/**
+ * Internal wiki link paths, resolved relative to currentDir (trailing slash or "").
  * Hash and query are stripped after that skip so `page.md#section` still resolves.
  */
 export function parseWikiLinks(content, currentDir) {
   const paths = []
-  for (const match of content.matchAll(WIKI_LINK_RE)) {
-    let href = cleanHref(match[1])
-    if (!href) continue
-    if (href.startsWith('http') || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('data:')) {
-      continue
-    }
-    href = href.split('#')[0].split('?')[0].trim()
-    if (!href || IMAGE_RE.test(href)) continue
-
-    let resolved
-    if (href.startsWith('/wiki/')) {
-      resolved = href.replace(/^\/wiki\//, '')
-    } else if (href.startsWith('./')) {
-      resolved = `${currentDir}${href.slice(2)}`
-    } else if (href.startsWith('../')) {
-      const parts = `${currentDir.replace(/\/$/, '')}/${href}`.split('/')
-      const resolvedParts = []
-      for (const part of parts) {
-        if (part === '..') {
-          if (resolvedParts.length) resolvedParts.pop()
-        } else if (part && part !== '.') {
-          resolvedParts.push(part)
-        }
-      }
-      resolved = resolvedParts.join('/')
-    } else if (href.startsWith('/')) {
-      resolved = href.replace(/^\/+/, '')
-    } else if (!href.includes('/')) {
-      resolved = currentDir ? `${currentDir}${href}` : href
-    } else {
-      resolved = href
-    }
+  for (const match of stripCode(content).matchAll(WIKI_LINK_RE)) {
+    const resolved = resolveWikiHref(match[1], currentDir)
     if (resolved) paths.push(resolved)
   }
   return paths
 }
 
-/** Mirrors parse_citation_filename: 'paper.pdf, p.3' → { filename, page }. */
+/** Mirrors parse_citation_filename: 'paper.pdf, p.3' → { filename, page }. Kept for tests/helpers. */
 export function parseCitationFilename(raw) {
   let text = String(raw).trim().replace(/\r$/, '')
   text = text.replace(/^\*+/, '').replace(/\*+$/, '')
@@ -102,50 +135,9 @@ export function parseCitationFilename(raw) {
   return { filename: text, page: null }
 }
 
-function stemOf(filename) {
-  return filename.replace(EXT_RE, '')
-}
-
-function readFrontmatter(raw) {
-  const frontmatter = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/)
-  /** @type {Record<string, string | string[]>} */
-  const fields = {}
-  if (!frontmatter) return fields
-  const lines = frontmatter[1].split(/\r?\n/)
-  for (let i = 0; i < lines.length; i++) {
-    const match = lines[i].match(/^([A-Za-z0-9_-]+):\s*(.*)$/)
-    if (!match) continue
-    const key = match[1]
-    const inline = match[2].trim()
-    if (inline === '' || inline === '|' || inline === '>') {
-      const items = []
-      while (i + 1 < lines.length && /^\s+-\s+/.test(lines[i + 1])) {
-        i++
-        items.push(lines[i].replace(/^\s+-\s+/, '').trim().replace(/^['"]|['"]$/g, ''))
-      }
-      fields[key] = items.filter(Boolean)
-      continue
-    }
-    if (inline.startsWith('[') && inline.endsWith(']')) {
-      fields[key] = inline
-        .slice(1, -1)
-        .split(',')
-        .map((part) => part.trim().replace(/^['"]|['"]$/g, ''))
-        .filter(Boolean)
-      continue
-    }
-    fields[key] = inline.replace(/^['"]|['"]$/g, '')
-  }
-  return fields
-}
-
-function stripFrontmatter(raw) {
-  return raw.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '')
-}
-
-function firstHeading(raw) {
+function firstHeading(body) {
   let fence = false
-  for (const line of stripFrontmatter(raw).split(/\r?\n/)) {
+  for (const line of String(body || '').split(/\r?\n/)) {
     if (/^(```|~~~)/.test(line)) {
       fence = !fence
       continue
@@ -171,8 +163,33 @@ function walkMarkdown(dir, rel = '') {
   return files
 }
 
-// Every Markdown page is wiki content, including wiki/sources/** digests.
-// source_kind 'source' is reserved for non-md assets, which this site does not have.
+function pageTypeOf(fields) {
+  const type = typeof fields.type === 'string' ? fields.type.trim() : ''
+  if (type === 'Source' || type === 'Topic') return type
+  return null
+}
+
+function stringOrNull(value) {
+  if (typeof value !== 'string') return null
+  const trimmed = value.trim()
+  return trimmed || null
+}
+
+function dateOrNull(value) {
+  const text = stringOrNull(value)
+  if (!text) return null
+  return /^\d{4}-\d{2}-\d{2}$/.test(text) ? text : null
+}
+
+function sourcesList(fields) {
+  return Array.isArray(fields.sources) ? fields.sources.filter((entry) => entry && typeof entry === 'object') : []
+}
+
+function lookupByPath(byPath, keyPath) {
+  const key = String(keyPath || '').replace(/\\/g, '/').toLowerCase()
+  if (!key) return null
+  return byPath.get(key) || byPath.get(`${key}.md`) || null
+}
 
 /**
  * @param {string} wikiDir
@@ -183,16 +200,20 @@ export function buildGraph(wikiDir) {
   const files = walkMarkdown(wikiDir).filter((file) => file.rel.replace(/\\/g, '/') !== 'graph.md')
   const nodes = files.map(({ abs, rel }) => {
     const raw = fs.readFileSync(abs, 'utf8')
-    const fields = readFrontmatter(raw)
+    const parsed = parseFrontmatter(raw)
+    const fields = parsed?.data || {}
+    const body = parsed?.body ?? raw
     const filename = path.posix.basename(rel)
     const stem = filename.replace(/\.md$/i, '')
-    const titleField = typeof fields.title === 'string' ? fields.title.trim() : ''
-    const title = titleField || firstHeading(raw) || stem
-    const description = typeof fields.description === 'string' && fields.description.trim()
-      ? fields.description.trim()
-      : null
-    const tags = Array.isArray(fields.tags) ? fields.tags : []
+    const titleField = stringOrNull(fields.title)
+    const title = titleField || firstHeading(body) || stem
+    const description = stringOrNull(fields.description)
+    const tags = Array.isArray(fields.tags) ? fields.tags.map(String) : []
     const id = nodeIdFromRel(rel)
+    const generatedAt = fields.generated && typeof fields.generated === 'object' && !Array.isArray(fields.generated)
+      ? stringOrNull(fields.generated.at)
+      : null
+    const resource = stringOrNull(fields.resource)
     return {
       id,
       title,
@@ -201,36 +222,34 @@ export function buildGraph(wikiDir) {
       file_type: 'md',
       source_kind: 'wiki',
       tags,
+      page_type: pageTypeOf(fields),
+      resource,
+      date: dateOrNull(fields.date),
+      generated_at: generatedAt,
       // Keep metadata pages in the data; the viewer hides them by default.
       is_meta: /^(index|log)\.md$/i.test(filename),
       // lookup-only; stripped before emit
       _rel: rel.replace(/\\/g, '/'),
       _filename: filename,
-      _raw: raw,
+      _body: body,
+      _sources: sourcesList(fields),
     }
   })
 
   /** @type {Map<string, object>} */
   const byPath = new Map()
-  /** @type {Map<string, object | null>} */
-  const byFilename = new Map()
-  /** @type {Map<string, object | null>} */
-  const byStem = new Map()
-
-  const addUnique = (map, key, node) => {
-    const k = key.toLowerCase()
-    if (!k) return
-    if (!map.has(k)) map.set(k, node)
-    else if (map.get(k) !== node) map.set(k, null)
-  }
+  /** @type {Map<string, object>} */
+  const byResource = new Map()
 
   for (const node of nodes) {
     byPath.set(node._rel.toLowerCase(), node)
     const withoutExt = node._rel.replace(/\.md$/i, '').toLowerCase()
     if (!byPath.has(withoutExt)) byPath.set(withoutExt, node)
     if (!byPath.has(node.id.toLowerCase())) byPath.set(node.id.toLowerCase(), node)
-    addUnique(byFilename, node._filename, node)
-    addUnique(byStem, stemOf(node._filename), node)
+    const canonical = normalizeUrl(node.resource)
+    if (canonical && node.page_type === 'Source' && !byResource.has(canonical)) {
+      byResource.set(canonical, node)
+    }
   }
 
   /** @type {Map<string, object>} */
@@ -239,14 +258,26 @@ export function buildGraph(wikiDir) {
   for (const node of nodes) {
     const seen = new Set()
     const currentDir = currentDirFor(node._rel)
+    const prose = stripCode(node._body)
+    const sourcesById = new Map()
+    for (const entry of node._sources) {
+      if (entry.id == null) continue
+      const id = String(entry.id)
+      if (/^[a-z0-9-]+$/.test(id) && !sourcesById.has(id)) sourcesById.set(id, entry)
+    }
 
-    for (const match of node._raw.matchAll(CITATION_RE)) {
-      const { filename, page } = parseCitationFilename(match[1])
-      const fn = filename.toLowerCase()
-      let target = byFilename.get(fn)
-      if (target === undefined) {
-        const stem = stemOf(fn)
-        target = byStem.get(stem)
+    for (const match of prose.matchAll(FOOTNOTE_DEF_RE)) {
+      const citeId = match[1]
+      const entry = sourcesById.get(citeId)
+      if (!entry?.resource) continue
+      const resource = String(entry.resource).trim()
+      let target = null
+      const asUrl = normalizeUrl(resource)
+      if (asUrl) {
+        target = byResource.get(asUrl) || null
+      } else {
+        const resolved = resolveWikiHref(resource, currentDir)
+        if (resolved) target = lookupByPath(byPath, resolved)
       }
       if (!target || target.id === node.id) continue
       const key = `${target.id}\0cites`
@@ -256,19 +287,13 @@ export function buildGraph(wikiDir) {
         source: node.id,
         target: target.id,
         type: 'cites',
-        page,
+        page: null,
       })
     }
 
-    for (const linkPath of parseWikiLinks(node._raw, currentDir)) {
-      const keyPath = linkPath.toLowerCase()
-      let target = byPath.get(keyPath) || byPath.get(`${keyPath}.md`)
-      if (!target) {
-        const base = keyPath.split('/').pop()
-        const fromName = byFilename.get(base)
-        const fromStem = byStem.get(stemOf(base))
-        target = fromName || fromStem || null
-      }
+    for (const linkPath of parseWikiLinks(node._body, currentDir)) {
+      const target = lookupByPath(byPath, linkPath)
+      // No basename/stem fallback: unresolved paths simply produce no edge.
       if (!target || target.id === node.id) continue
       const key = `${target.id}\0links_to`
       if (seen.has(key)) continue
@@ -283,7 +308,7 @@ export function buildGraph(wikiDir) {
   }
 
   const publicNodes = nodes
-    .map(({ _rel, _filename, _raw, ...node }) => node)
+    .map(({ _rel, _filename, _body, _sources, ...node }) => node)
     .sort((a, b) => a.id.localeCompare(b.id))
 
   const publicEdges = [...edges.values()].sort((a, b) =>

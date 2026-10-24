@@ -4,13 +4,22 @@ import os from 'node:os'
 import path from 'node:path'
 import test from 'node:test'
 import { fileURLToPath } from 'node:url'
-import { filterMetadataNodes } from '../.vitepress/theme/graph-filter.mjs'
+import {
+  applyGraphFilters,
+  backlinksFor,
+  filterMetadataNodes,
+  filterTodayView,
+  nodeOnShanghaiDay,
+  shanghaiDay,
+  todayShanghai,
+} from '../.vitepress/theme/graph-filter.mjs'
 import {
   buildGraph,
   currentDirFor,
   nodeIdFromRel,
   parseCitationFilename,
   parseWikiLinks,
+  stripCode,
 } from './build-graph.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
@@ -43,6 +52,25 @@ test('parseWikiLinks matches upstream resolution and skips external targets', ()
   }
 })
 
+test('stripCode drops fenced and inline code so example links are ignored', () => {
+  const content = [
+    'See [real](./real.md).',
+    '',
+    '```md',
+    '[fake](./fake.md)',
+    '```',
+    '',
+    'Inline `[also-fake](./also.md)` stays quiet.',
+    '',
+    '~~~',
+    '[tilde](./tilde.md)',
+    '~~~',
+  ].join('\n')
+  assert.deepEqual(parseWikiLinks(content, 'notes/'), ['notes/real.md'])
+  assert.equal(stripCode(content).includes('fake.md'), false)
+  assert.equal(stripCode(content).includes('tilde.md'), false)
+})
+
 test('parseCitationFilename keeps the page and a hyphenated stem', () => {
   assert.deepEqual(parseCitationFilename('2501.12948v2-2.pdf, p.5'), {
     filename: '2501.12948v2-2.pdf',
@@ -58,7 +86,7 @@ test('parseCitationFilename keeps the page and a hyphenated stem', () => {
   })
 })
 
-test('buildGraph resolves relative links and citations without inventing edges', () => {
+test('buildGraph resolves relative links and OKF cites without inventing edges', () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-graph-'))
   const write = (rel, body) => {
     const abs = path.join(dir, rel)
@@ -68,22 +96,75 @@ test('buildGraph resolves relative links and citations without inventing edges',
   write('index.md', '---\ntitle: Home\n---\n# Home\n\nSee [notes](./notes/topic.md) and [src](./sources/paper.md).\n')
   write('overview.md', '# Overview\n\n[Home](./index.md)\n')
   write('_scratch.md', '# Hidden\n\n[Home](./index.md)\n')
-  write('notes/topic.md', '---\ntags: [alpha, beta]\ndescription: A note\n---\n\nCited.[^1]\n\n[^1]: paper.md, p.3\n\nAlso [home](../index.md) and [missing](./nope.md) and [web](https://example.com).\n')
-  write('sources/paper.md', '# Paper\n')
+  write('notes/topic.md', `---
+type: Topic
+title: topic
+description: A note
+tags: [alpha, beta]
+sources:
+  - id: paper-src
+    resource: https://example.com/paper
+generated:
+  by: test/agent
+  at: 2026-10-24T10:00:00+08:00
+---
+
+# topic
+
+Cited.[^paper-src]
+
+Also [home](../index.md) and [missing](./nope.md) and [web](https://example.com).
+
+\`\`\`
+[code-only](../sources/other.md)
+\`\`\`
+
+[^paper-src]: Paper
+`)
+  write('sources/paper.md', `---
+type: Source
+title: Paper
+description: The paper
+resource: https://example.com/paper
+sources:
+  - id: paper-src
+    resource: https://example.com/paper
+generated:
+  by: test/agent
+  at: 2026-10-24T10:00:00+08:00
+---
+
+# Paper
+`)
   write('sources/other.md', '# Other\n')
+  write('sources/same-name.md', '# Same name elsewhere\n')
+  write('notes/same-name.md', '# Wrong same-name\n\nDo not link [missing sibling](./ghost.md).\n')
   write('graph.md', '# Graph\n\n[Home](./index.md)\n')
 
   const graph = buildGraph(dir)
   const ids = graph.nodes.map((node) => node.id).sort()
-  assert.deepEqual(ids, ['index', 'notes/topic', 'overview', 'sources/other', 'sources/paper'])
+  assert.deepEqual(ids, [
+    'index',
+    'notes/same-name',
+    'notes/topic',
+    'overview',
+    'sources/other',
+    'sources/paper',
+    'sources/same-name',
+  ])
 
   const topic = graph.nodes.find((node) => node.id === 'notes/topic')
   assert.equal(topic.title, 'topic')
   assert.equal(topic.description, 'A note')
   assert.deepEqual(topic.tags, ['alpha', 'beta'])
+  assert.equal(topic.page_type, 'Topic')
+  assert.equal(topic.generated_at, '2026-10-24T10:00:00+08:00')
+  assert.equal(topic.resource, null)
   assert.equal(topic.source_kind, 'wiki')
   assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
-  assert.equal(graph.nodes.find((node) => node.id === 'sources/paper').source_kind, 'wiki')
+  const paper = graph.nodes.find((node) => node.id === 'sources/paper')
+  assert.equal(paper.page_type, 'Source')
+  assert.equal(paper.resource, 'https://example.com/paper')
   assert.equal(graph.nodes.find((node) => node.id === 'index').title, 'Home')
   assert.equal(graph.nodes.find((node) => node.id === 'overview').title, 'Overview')
 
@@ -92,15 +173,70 @@ test('buildGraph resolves relative links and citations without inventing edges',
     'index|notes/topic|links_to|null',
     'index|sources/paper|links_to|null',
     'notes/topic|index|links_to|null',
-    'notes/topic|sources/paper|cites|3',
+    'notes/topic|sources/paper|cites|null',
     'overview|index|links_to|null',
   ].sort())
+
+  // No basename fallback: same-name.md elsewhere must not steal unresolved ghosts,
+  // and code-fence link to sources/other must not appear.
+  assert.equal(graph.edges.some((edge) => edge.target === 'sources/other'), false)
+  assert.equal(graph.edges.some((edge) => edge.source === 'notes/same-name'), false)
 
   for (const edge of graph.edges) {
     assert.ok(ids.includes(edge.source), edge.source)
     assert.ok(ids.includes(edge.target), edge.target)
     assert.notEqual(edge.source, edge.target)
   }
+})
+
+test('cites resolve via sources[].resource wiki path, not bare footnote filenames', () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-graph-cite-'))
+  const write = (rel, body) => {
+    const abs = path.join(dir, rel)
+    fs.mkdirSync(path.dirname(abs), { recursive: true })
+    fs.writeFileSync(abs, body)
+  }
+  write('topics/idea.md', `---
+type: Topic
+title: Idea
+description: An idea
+sources:
+  - id: local-src
+    resource: /sources/articles/demo.md
+generated:
+  by: test/agent
+  at: 2026-10-24T12:00:00+08:00
+---
+
+# Idea
+
+Claim.[^local-src]
+
+[^local-src]: Demo
+[^orphan]: paper.md
+`)
+  write('sources/articles/demo.md', `---
+type: Source
+title: Demo
+description: Demo source
+resource: https://example.com/demo
+sources:
+  - id: demo
+    resource: https://example.com/demo
+generated:
+  by: test/agent
+  at: 2026-10-24T12:00:00+08:00
+---
+
+# Demo
+`)
+  write('sources/articles/paper.md', '# Paper decoy\n')
+
+  const graph = buildGraph(dir)
+  assert.deepEqual(
+    graph.edges.map((edge) => `${edge.source}|${edge.target}|${edge.type}`).sort(),
+    ['topics/idea|sources/articles/demo|cites'],
+  )
 })
 
 test('metadata pages are hidden with their edges by default and can be restored', () => {
@@ -133,6 +269,44 @@ test('metadata pages are hidden with their edges by default and can be restored'
   assert.ok(focused.nodes.every((node) => !node.is_meta || node.id === 'sources'))
 })
 
+test('today view and backlinks helpers use Asia/Shanghai dates', () => {
+  assert.equal(shanghaiDay('2026-10-24'), '2026-10-24')
+  assert.equal(shanghaiDay('2026-10-23T23:30:00Z'), '2026-10-24')
+  assert.equal(todayShanghai(new Date('2026-10-24T01:00:00Z')), '2026-10-24')
+
+  const nodes = [
+    { id: 'sources/a', page_type: 'Source', date: '2026-10-24', generated_at: null, is_meta: false, source_kind: 'wiki' },
+    { id: 'topics/t', page_type: 'Topic', date: null, generated_at: '2026-10-20T10:00:00+08:00', is_meta: false, source_kind: 'wiki' },
+    { id: 'sources/old', page_type: 'Source', date: '2026-10-01', generated_at: null, is_meta: false, source_kind: 'wiki' },
+    { id: 'index', page_type: null, date: null, generated_at: null, is_meta: true, source_kind: 'wiki' },
+  ]
+  assert.equal(nodeOnShanghaiDay(nodes[0], '2026-10-24'), true)
+  const edges = [
+    { source: 'sources/a', target: 'topics/t', type: 'links_to' },
+    { source: 'topics/t', target: 'sources/a', type: 'cites' },
+    { source: 'sources/old', target: 'topics/t', type: 'links_to' },
+    { source: 'index', target: 'sources/a', type: 'links_to' },
+  ]
+  const today = filterTodayView(nodes, edges, { now: new Date('2026-10-24T04:00:00Z') })
+  assert.ok(today)
+  assert.deepEqual(today.nodes.map((node) => node.id).sort(), ['sources/a', 'topics/t'])
+  assert.deepEqual(
+    backlinksFor('sources/a', edges),
+    [
+      { id: 'index', type: 'links_to' },
+      { id: 'topics/t', type: 'cites' },
+    ],
+  )
+  const applied = applyGraphFilters(nodes, edges, {
+    now: new Date('2026-10-24T04:00:00Z'),
+    showSources: true,
+  })
+  assert.equal(applied.viewMode, 'today')
+  assert.ok(applied.nodes.every((node) => !node.is_meta))
+  const emptyDay = filterTodayView(nodes, edges, { now: new Date('2026-01-01T04:00:00Z') })
+  assert.equal(emptyDay, null)
+})
+
 test('published wiki graph only links files that actually reference each other', () => {
   const graph = buildGraph(path.join(repoRoot, 'wiki'))
   const ids = new Set(graph.nodes.map((node) => node.id))
@@ -153,6 +327,13 @@ test('published wiki graph only links files that actually reference each other',
   assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest').source_kind, 'wiki')
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest/2026-10-23-cn-x').source_kind, 'wiki')
+
+  const karpathy = graph.nodes.find((node) => node.id === 'sources/articles/karpathy-llm-wiki')
+  assert.equal(karpathy.page_type, 'Source')
+  assert.match(karpathy.resource, /^https:\/\//)
+  assert.equal(karpathy.generated_at, '2026-10-24T10:49:00+08:00')
+  const topic = graph.nodes.find((node) => node.id === 'topics/llm-maintained-wiki')
+  assert.equal(topic.page_type, 'Topic')
 
   const fromDigest = graph.edges
     .filter((edge) => edge.source === 'sources/x-digest' && edge.type === 'links_to')
@@ -193,4 +374,9 @@ test('published wiki graph only links files that actually reference each other',
 
   const digest = graph.edges.filter((edge) => edge.source === 'sources/x-digest/2026-10-23-cn-x')
   assert.deepEqual(digest, [])
+
+  const cites = graph.edges.filter((edge) => edge.type === 'cites')
+  assert.ok(cites.some((edge) =>
+    edge.source === 'topics/llm-maintained-wiki'
+    && edge.target === 'sources/articles/karpathy-llm-wiki'))
 })
