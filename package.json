@@ -7,7 +7,13 @@
     "dev": "node scripts/build-graph.mjs && vitepress dev",
     "build": "node scripts/build-graph.mjs && vitepress build",
     "preview": "vitepress preview",
-    "graph": "node scripts/build-graph.mjs"
+    "graph": "node scripts/build-graph.mjs",
+    "ingest:digest": "node scripts/ingest-digest.mjs",
+    "fetch:articles": "node scripts/fetch-articles.mjs",
+    "compile:article": "node scripts/compile-article.mjs",
+    "lint:okf": "node scripts/lint-okf.mjs",
+    "ingest:one": "node scripts/ingest-one.mjs",
+    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.4"

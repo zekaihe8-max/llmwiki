@@ -20,5 +20,7 @@ Scaffold pages for the Source and Topic schema. They are not part of the X diges
 
 - [LLM Wiki](./sources/articles/karpathy-llm-wiki.md) — Karpathy's pattern for an LLM-maintained markdown wiki that compounds between immutable raw sources and the reader.
 - [Building effective agents](./sources/articles/anthropic-building-effective-agents.md) — Anthropic's December 2024 engineering note that successful systems stay simple and add open-ended agents only when a workflow is not enough.
+- [Formal verification with Claude](./sources/articles/anthropic-formal-verification.md) — Anthropic's Frontier Red Team post that Claude, with Theorem Labs, formally verified security properties across more than one hundred real-world open-source libraries in a few weeks.
 - [LLM-maintained wiki](./topics/llm-maintained-wiki.md) — a compiled markdown wiki that an agent keeps current over immutable sources, instead of re-deriving answers from raw files on every question.
 - [Workflows before agents](./topics/workflows-before-agents.md) — prefer a predefined workflow for a known path, and add an open-ended agent only when that path is not enough.
+- [LLM formal verification](./topics/llm-formal-verification.md) — large language models can make formal software verification practical on real-world codebases that were previously too large or too costly for expert-only proof work.

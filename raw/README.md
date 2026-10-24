@@ -1,48 +1,109 @@
 # raw/
 
-Immutable inputs for a future ingest pipeline. This directory is outside the OKF bundle (`wiki/`). Wiki pages must not link here.
+Immutable inputs for the ingest pipeline. This directory is outside the OKF bundle (`wiki/`). Wiki pages must not link here.
 
-Nothing has been fetched. `digests/`, `articles/`, and `state/` exist so a later pipeline has a place to write. They are empty aside from `.gitkeep`.
+`digests/` and `articles/` start empty aside from `.gitkeep`. The pipeline fills them when you run it. Nothing is fetched by adding this README.
 
 ## Immutability
 
 - Files under `digests/` and `articles/` are write-once. After a file is written, do not edit, reformat, or delete it.
 - The agent that maintains `wiki/` may read these files and must not change them.
-- A correction or a second fetch is a new file. The earlier file stays as it was written.
-- `state/` is the only mutable area. It records processing status for the pipeline. It does not hold a second copy of an article body.
+- A second fetch with `--force` writes a new article file. The earlier file stays.
+- `state/` is the only mutable area. It records processing status. It does not hold a second copy of an article body.
+- A digest summary is never written as an article snapshot. A failed fetch writes no article file.
 
 ## Layout
 
 | Path | Contents |
 | --- | --- |
-| `raw/digests/` | One file per digest drop, as received |
-| `raw/articles/` | One file per fetched article, as received |
-| `raw/state/` | One status record per article slug |
+| `raw/digests/{name}.md` | One digest file, as received |
+| `raw/articles/{slug}.md` | Frozen markdown snapshot of one fetched URL |
+| `raw/state/{slug}.json` | Status record for that URL |
+| `raw/state/urls.json` | Canonical URL → `{ hash, slug, first_seen, last_seen, digest, title }` |
+| `raw/state/digests.json` | Digest filename → content hash, so a re-run can skip |
+
+`{slug}` is the first 16 hex characters of SHA-256 of the canonical URL. The wiki Source slug is a separate human name chosen at compile time and stored on the record as `source_path`.
+
+Canonical URLs are http(s), lower-case host, no fragment, no trailing slash on a non-root path, tracking parameters removed (`utm_*`, `fbclid`, `gclid`, and the same family).
 
 ## Status machine
-
-A future pipeline keeps one record at `raw/state/{slug}.json`. This scaffold does not write those records. Status moves only along these edges:
 
 ```text
 seen → fetched → sourced → filed
 ```
 
-Side exits:
+| Status | Meaning |
+| --- | --- |
+| `seen` | Named in a digest. No article file yet. |
+| `fetched` | `raw/articles/{slug}.md` (or a later `--force` snapshot) is frozen. |
+| `sourced` | A Source page whose `resource` is this URL exists, but index, log, or lint is not done. |
+| `filed` | Lint passed. The Source, Topic pages, `wiki/index.md`, and `wiki/log.md` reflect this URL. Terminal. |
+| `skipped` | Terminal. Snapshot kept. No Source page (`compile:article --skip`). |
+| `failed` | The fetch produced no body. Terminal until `--retry-failed` returns the record to `seen`. |
 
 | Edge | When |
 | --- | --- |
+| `seen` → `fetched` | The original page was fetched and the snapshot was written. |
 | `seen` → `failed` | The fetch produced no body. |
-| `fetched` → `failed` | A body exists, but it could not be summarized. The article file stays. |
+| `failed` → `seen` | `--retry-failed` queues another fetch. The record keeps `attempts`. |
+| `fetched` → `sourced` | The Agent wrote the Source page. |
+| `sourced` → `filed` | OKF lint passed, including the index entry and a single log mention. |
 | `fetched` → `skipped` | The body is kept and no Source page is warranted. |
-| `failed` → `seen` | A retry is queued. The record keeps the failed attempt. A later success writes a new article file and does not edit the previous one. |
 
-| Status | Meaning |
-| --- | --- |
-| `seen` | Named in a digest or queue. No article file yet. |
-| `fetched` | `raw/articles/{slug}` has been written and is frozen. |
-| `sourced` | `wiki/sources/articles/{slug}.md` exists. |
-| `filed` | The Topic pages, `wiki/index.md`, and `wiki/log.md` reflect this source. Terminal for this ingest. |
-| `skipped` | Terminal. Raw body kept. No Source page. |
-| `failed` | Terminal until a retry returns the record to `seen`. |
+Compile problems stay on `fetched` or `sourced` with `compile_error` set. The snapshot stays, and the next run resumes at compile. `failed` means the fetch itself produced no body.
 
 A later article that changes a Topic does not move an earlier record backward. That later article is its own ingest.
+
+## Commands
+
+Copy a digest into `raw/digests/` (or pass any path). Upstream drops are files named `YYYY-MM-DD-frontier-ai.md` and `YYYY-MM-DD-cn-x.md`. The default directory is `raw/digests/`.
+
+```bash
+npm run ingest:digest -- path/to/2026-10-23-frontier-ai.md
+npm run fetch:articles -- --url https://example.com/article
+npm run compile:article -- --url https://example.com/article
+npm run lint:okf
+npm run graph
+```
+
+One article, end to end:
+
+```bash
+npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --url https://example.com/article
+# or the Nth deduped URL in that file (1-based)
+npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --pick 1
+```
+
+`ingest:one` registers every URL in the digest, fetches the selected one, shells out to an Agent CLI, lints, and rebuilds `graph-data.json`. Split steps are the same pipeline.
+
+### Compile CLI
+
+Live compile has to run on the shared box. This script does not write wiki pages itself.
+
+Codex (codex-cli 0.162.1, ChatGPT login at `/home/box/.local/bin/codex`):
+
+```bash
+codex exec --sandbox workspace-write "<prompt>"
+```
+
+Cursor Agent (`/home/box/.local/bin/agent`, `--trust` and `-f`):
+
+```bash
+agent -p --trust -f "<prompt>"
+```
+
+Choose one with `--agent codex` or `--agent cursor`. The default uses Codex when that binary is on `PATH` or at `/home/box/.local/bin/codex`, otherwise Cursor Agent. Exit code 2 means neither CLI is installed here. Fetch state is kept. Re-run the same command on the box.
+
+### Retry
+
+```bash
+# Fetch failed (status failed). Try the original URL again.
+npm run fetch:articles -- --url https://example.com/article --retry-failed
+npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --url https://example.com/article --retry-failed
+
+# Fetch succeeded, compile or lint did not (status fetched or sourced).
+npm run compile:article -- --url https://example.com/article
+npm run ingest:one -- --digest raw/digests/2026-10-23-frontier-ai.md --url https://example.com/article
+```
+
+The second form does not refetch. A filed article is a no-op: pages are not duplicated and the log is not appended. `--force` on fetch writes a new snapshot file and leaves the previous one in place.
