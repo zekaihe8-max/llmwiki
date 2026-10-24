@@ -6,6 +6,7 @@ Chronological record of page creations, updates, and deprecations.
 
 ## 2026-10-24
 
+* **创建 / Creation**: Filed the [Workers KV 正式可用](./sources/articles/workers-kv-ga.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
 * **创建 / Creation**: Filed the [介绍 Cloudflare Workers](./sources/articles/introducing-cloudflare-workers.md) source and opened [可编程边缘计算](./topics/programmable-edge-compute.md).
 * **创建 / Creation**: Filed the [Vox on Ponytail 5](./sources/articles/voxyz-ponytail-5.md) source and opened [Reuse before write](./topics/reuse-before-write.md).
 * **创建 / Creation**: Filed the [小墨 on Pi vs DeepSeek Harness rounds and cost](./sources/articles/xiaomovps-pi-vs-deepseek-harness.md) source and opened [Harness comparison beyond tokens](./topics/harness-comparison-beyond-tokens.md).
