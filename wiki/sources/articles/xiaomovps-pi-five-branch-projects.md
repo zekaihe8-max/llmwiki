@@ -3,7 +3,7 @@ type: Source
 title: 小墨谈 Pi 五个分支项目
 title_en: Xiaomo on five Pi branch projects
 description: 小墨整理 Oh My Pi、senpi、mu、Orbi、Pi Pocket 五条围绕 Pi 的社区方向，并强调不全是传统 Fork——Pi 核心保持精简，社区却能玩出不同路线。
-description_en: Xiaomo lists five community directions around Pi—Oh My Pi, senpi, mu, Orbi, and Pi Pocket—and notes they are not all traditional forks: Pi keeps a slim core while the community takes divergent paths.
+description_en: "Xiaomo lists five community directions around Pi—Oh My Pi, senpi, mu, Orbi, and Pi Pocket—and notes they are not all traditional forks: Pi keeps a slim core while the community takes divergent paths."
 resource: https://x.com/xiaomovps/status/2113912639571255525
 tags: [agents, pi, harness, community, forks, ecosystem]
 sources:
