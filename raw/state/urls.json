@@ -230,5 +230,277 @@
     "last_seen": "2026-10-24T12:23:23.197Z",
     "digest": "e2e-bilingual-2026-10-24.md",
     "title": "Workers KV is Generally Available"
+  },
+  "https://x.com/dotey/status/2113689823311524225": {
+    "hash": "f63dbadf9caa3c5fe1b85905a877b680ba959ba635309496b5bb961b853df3af",
+    "slug": "f63dbadf9caa3c5f",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Kimi K3.1 Pro 长文拆解"
+  },
+  "https://x.com/dotey/status/2113694852281938162": {
+    "hash": "3cefcf7d524d7f923266ec815e611a796854efb0a49876214fcadd8d88b12e53",
+    "slug": "3cefcf7d524d7f92",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Computer Use 原理科普"
+  },
+  "https://x.com/dotey/status/2113637983333093855": {
+    "hash": "ace97de4446d23a15f636cdc25477fdecc31a2f0b1d1ce94a0d8a1d642fc9f49",
+    "slug": "ace97de4446d23a1",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "搭 Agent 不值钱"
+  },
+  "https://x.com/op7418/status/2113815343173116124": {
+    "hash": "9c854223fde13ee5995344fb7c3e969fd87e7ac6dd918ed615168ff1b89e23ef",
+    "slug": "9c854223fde13ee5",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "爆料与澄清"
+  },
+  "https://x.com/op7418/status/2113874915430699223": {
+    "hash": "2379dccb1062cf5b9898e26a3d33b6269feaff69e422e83d3e79feef8e18baa5",
+    "slug": "2379dccb1062cf5b",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "官宣"
+  },
+  "https://x.com/op7418/status/2113845519110078669": {
+    "hash": "42df600400721686f0c79989a8ae18508f0401ebe6e6bea350725145ca5f8671",
+    "slug": "42df600400721686",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Boris 澄清"
+  },
+  "https://x.com/shao__meng/status/2113923043936612792": {
+    "hash": "d39b50a2ae68753c7dcecbc27edbaee3593a287a4533c11466712b1621d18d03",
+    "slug": "d39b50a2ae68753c",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Agentic SDLC ≠ 软件工厂"
+  },
+  "https://x.com/shao__meng/status/2113925598443675835": {
+    "hash": "56d9da17da60baed0ed46051f0c7f35a796e67b182a190f18614a16630612b9e",
+    "slug": "56d9da17da60baed",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Netflix 可观测性本体"
+  },
+  "https://x.com/shao__meng/status/2113891829586579946": {
+    "hash": "76014a4d6cc5bf5459a111c163157bc7735d0da22e934b8f48c946409c710b9c",
+    "slug": "76014a4d6cc5bf54",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Pro 模型集体拉胯？"
+  },
+  "https://x.com/xiaomovps/status/2113912639571255525": {
+    "hash": "a63802c0ba9806a5cb59e12a2f57ea673f25ce49009c4280a2ec30fe72179065",
+    "slug": "a63802c0ba9806a5",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Pi 五个分支项目"
+  },
+  "https://x.com/xiaomovps/status/2113950309278167104": {
+    "hash": "41090a272b08321698d988149b737375e4afab73ee2417456fc7c89636e5b3a5",
+    "slug": "41090a272b083216",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "DSH 用 AGENTS.md / CLAUDE.md 省 token"
+  },
+  "https://x.com/xiaomovps/status/2113852900673998855": {
+    "hash": "08991f5399c7c7e03fac754f134e044402e23eba4c477369ae43e70f16b2681a",
+    "slug": "08991f5399c7c7e0",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "DSH 标准模式偏啰嗦"
+  },
+  "https://x.com/fkysly/status/2113878739373482402": {
+    "hash": "4721ef686373f6831825e5417863790d2d1a540fdccfd084a95c0cfe58e2e0b4",
+    "slug": "4721ef686373f683",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "刷分碰瓷 Opus 是自掘坟墓"
+  },
+  "https://x.com/fkysly/status/2113871504710713775": {
+    "hash": "e3aa8c20e390cda4e82909709480d5224244afac3f0b4bd3d300fd160b4de938",
+    "slug": "e3aa8c20e390cda4",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "过度宣传反噬"
+  },
+  "https://x.com/lxfater/status/2113891680000901380": {
+    "hash": "7a97632f9e97901c93c82ccec717c30ef2152bb397bc1ec5b7d8ffab71bed8ce",
+    "slug": "7a97632f9e97901c",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "3090 解锁约 80% AI 算力"
+  },
+  "https://x.com/lxfater/status/2113919851601571918": {
+    "hash": "9ec5c52a7c6b60b8c7b2d67000c410248192007b3cf85bd405efbb909e28131d",
+    "slug": "9ec5c52a7c6b60b8",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "GPT 500 刀还值吗"
+  },
+  "https://x.com/Gorden_Sun/status/2113858192375734780": {
+    "hash": "ac07a70fb39aeafd3f2f4f940f0ca43b8d82a7efbfe2d133f110be715248828e",
+    "slug": "ac07a70fb39aeafd",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Kimi"
+  },
+  "https://x.com/Gorden_Sun/status/2113862073260347890": {
+    "hash": "d17ac5208408dad514cb958dbe40aaac25184365910679ff848d290e8fcd4b40",
+    "slug": "d17ac5208408dad5",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Devin"
+  },
+  "https://x.com/Gorden_Sun/status/2113865401851605399": {
+    "hash": "623ff4433167adacbc9f61697495e2a9de8e3846735dd560a9383a8c8115acb9",
+    "slug": "623ff4433167adac",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Cohere Model Vault"
+  },
+  "https://x.com/Gorden_Sun/status/2113902089978126354": {
+    "hash": "abda6ac0b77e3d3aa8d37bb3af841486b55a903e52c78d231b1449226624006f",
+    "slug": "abda6ac0b77e3d3a",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "开源 VVV 一句话剪婚礼片"
+  },
+  "https://x.com/vista8/status/2113918788018262446": {
+    "hash": "ff6cbc97070bd3ec4110ae27093f8bf544aebdec2b451ddf2ec9b438c85a1288",
+    "slug": "ff6cbc97070bd3ec",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "越狱"
+  },
+  "https://x.com/vista8/status/2113936883394937223": {
+    "hash": "1001ac3aca6fe1e1b57eac7e0f6e6c515eed5fda8fb078e80cb06c768cedc5ab",
+    "slug": "1001ac3aca6fe1e1",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "传书"
+  },
+  "https://x.com/vista8/status/2113957797268533409": {
+    "hash": "574fc0b4e887634e17924e0c6996f7b3b023a800a5e4085b57fc5208374fa142",
+    "slug": "574fc0b4e887634e",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "插件到 3000 用户"
+  },
+  "https://x.com/dingyi/status/2113942294307147998": {
+    "hash": "6f3888fd8a5d345baa5c97f7556f24da41e02906399a1775f8b4737ec567bec1",
+    "slug": "6f3888fd8a5d345b",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Omarchy 中国特供版"
+  },
+  "https://x.com/yetone/status/2113692710934855857": {
+    "hash": "55e595132f5faeba244ccbd6e2654aa6bd1129f0512ceece3ca710afaca5bdd5",
+    "slug": "55e595132f5faeba",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "Kimi 成 Magpie 首个合作伙伴"
+  },
+  "https://x.com/turingou/status/2113679811982094813": {
+    "hash": "a30904b9e9828d5c85b411181b9181ee8959ec525eaeeb5bc5748dd6f051dd64",
+    "slug": "a30904b9e9828d5c",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "一天烧掉 Claude 周额度一半"
+  },
+  "https://x.com/turingou/status/2113660524517068963": {
+    "hash": "badf3155b22a7fe5d0c7ad7b483a453ec32c81a973ba48519c8e4c70b8a9a041",
+    "slug": "badf3155b22a7fe5",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "烤箱进 Apple Home + Grok Bot"
+  },
+  "https://x.com/turingou/status/2113618137275154868": {
+    "hash": "576054f6004935ec800dd6b5fe0d3a1db3839b429fda787506327879561043d7",
+    "slug": "576054f6004935ec",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "手机上迁移一年行程"
+  },
+  "https://x.com/oran_ge/status/2113944865830846746": {
+    "hash": "1cad0bbd0f43c554745de222614af21fc32a1da34c2c6a4ffbe84c8e63d053e2",
+    "slug": "1cad0bbd0f43c554",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "智能只是人类中心主义的 benchmark"
+  },
+  "https://x.com/oran_ge/status/2113927999359991950": {
+    "hash": "72a7c857933e0aec894559de9a0f44b1015cdc681de3400f425c71e59e13e370",
+    "slug": "72a7c857933e0aec",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "账号与资产安全提醒"
+  },
+  "https://x.com/FinanceYF5/status/2113840013888864266": {
+    "hash": "f8d210bbec17ce1e4ff6155d26c53bf28a9dea1fdc2735f1ede9b6b5406c460d",
+    "slug": "f8d210bbec17ce1e",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "一年收购 8 家 Agent 身份公司"
+  },
+  "https://x.com/FinanceYF5/status/2113804141403549762": {
+    "hash": "3a441e727de4d4f8f94172aadfefc6b812b951169717f8469f67b5abc37ab980",
+    "slug": "3a441e727de4d4f8",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "一年收 6 家 AI 评测公司"
+  },
+  "https://github.com/Zagitta/gpu-unlock": {
+    "hash": "b6ee2b32304d0c0d1ac55ac471aa0a3caabe2d76a13e5889cd3a4ac5ce2bb742",
+    "slug": "b6ee2b32304d0c0d",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://github.com/Zagitta/gpu-unlock)%EF%BC%8C%E8%A7%81%E9%93%81%E9%94%A4%E4%BA%BA%E5%B8%96": {
+    "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
+    "slug": "e4e820b40f0774c5",
+    "first_seen": "2026-10-24T12:46:55.808Z",
+    "last_seen": "2026-10-24T12:46:55.808Z",
+    "digest": "2026-10-24-cn-x.md",
+    "title": "gpu-unlock"
   }
 }

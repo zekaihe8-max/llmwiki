@@ -10,8 +10,8 @@ sources:
     resource: https://x.com/levie/status/2113137032633757773
     title: Aaron Levie on AI cybersecurity jobs
 generated:
-  by: cursor-agent/okf-bilingual
-  at: 2026-10-24T20:30:00+08:00
+  by: cursor-agent/composer
+  at: 2026-10-24T21:54:59+08:00
 ---
 
 # AI 与网络安全岗位
@@ -35,5 +35,6 @@ Cybersecurity is a leading place to see jobs AI creates rather than only displac
 ## 相关 / Related
 
 - Source: [Aaron Levie on AI cybersecurity jobs](../sources/articles/levie-ai-cybersecurity-jobs.md)
+- Topic: [Agent 身份与平台握钥](./agent-identity-platform-keys.md)
 
 [^levie-ai-cybersecurity-jobs]: Aaron Levie on AI cybersecurity jobs
