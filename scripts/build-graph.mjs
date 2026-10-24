@@ -201,6 +201,8 @@ export function buildGraph(wikiDir) {
       file_type: 'md',
       source_kind: 'wiki',
       tags,
+      // Keep metadata pages in the data; the viewer hides them by default.
+      is_meta: /^(index|log)\.md$/i.test(filename),
       // lookup-only; stripped before emit
       _rel: rel.replace(/\\/g, '/'),
       _filename: filename,

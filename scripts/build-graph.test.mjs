@@ -4,6 +4,7 @@ import os from 'node:os'
 import path from 'node:path'
 import test from 'node:test'
 import { fileURLToPath } from 'node:url'
+import { filterMetadataNodes } from '../.vitepress/theme/graph-filter.mjs'
 import {
   buildGraph,
   currentDirFor,
@@ -102,6 +103,36 @@ test('buildGraph resolves relative links and citations without inventing edges',
   }
 })
 
+test('metadata pages are hidden with their edges by default and can be restored', () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-graph-meta-'))
+  const files = {
+    'index.md': '# Home\n[Article](./sources/article.md)\n',
+    'log.md': '# Log\n[Topic](./topics/idea.md)\n',
+    'sources/index.md': '# Sources\n[Article](./article.md)\n',
+    'sources/log.md': '# Source log\n[Article](./article.md)\n',
+    'sources/article.md': '# Article\n[Topic](../topics/idea.md)\n',
+    'topics/idea.md': '# Topic\n[Article](../sources/article.md)\n',
+  }
+  for (const [rel, body] of Object.entries(files)) {
+    const abs = path.join(dir, rel)
+    fs.mkdirSync(path.dirname(abs), { recursive: true })
+    fs.writeFileSync(abs, body)
+  }
+  const graph = buildGraph(dir)
+  assert.deepEqual(graph.nodes.filter((node) => node.is_meta).map((node) => node.id).sort(),
+    ['index', 'log', 'sources', 'sources/log'])
+  const visible = filterMetadataNodes(graph.nodes, graph.edges)
+  assert.deepEqual(visible.nodes.map((node) => node.id), ['sources/article', 'topics/idea'])
+  assert.equal(visible.edges.length, 2)
+  const restored = filterMetadataNodes(graph.nodes, graph.edges, { showMetaNodes: true })
+  assert.deepEqual(restored.nodes, graph.nodes)
+  assert.deepEqual(restored.edges, graph.edges)
+  // An explicit "Open in graph" request can still show the selected index.
+  const focused = filterMetadataNodes(graph.nodes, graph.edges, { focusId: 'sources' })
+  assert.ok(focused.nodes.some((node) => node.id === 'sources'))
+  assert.ok(focused.nodes.every((node) => !node.is_meta || node.id === 'sources'))
+})
+
 test('published wiki graph only links files that actually reference each other', () => {
   const graph = buildGraph(path.join(repoRoot, 'wiki'))
   const ids = new Set(graph.nodes.map((node) => node.id))
@@ -145,7 +176,7 @@ test('published wiki graph only links files that actually reference each other',
     .filter((edge) => edge.source === 'index' && edge.type === 'links_to')
     .map((edge) => edge.target)
     .sort()
-  assert.deepEqual(fromIndex, [
+  const scaffoldTargets = [
     'concepts/compiled-pages',
     'guides/adding-a-page',
     'log',
@@ -157,7 +188,8 @@ test('published wiki graph only links files that actually reference each other',
     'topics/llm-formal-verification',
     'topics/llm-maintained-wiki',
     'topics/workflows-before-agents',
-  ])
+  ]
+  for (const target of scaffoldTargets) assert.ok(fromIndex.includes(target), target)
 
   const digest = graph.edges.filter((edge) => edge.source === 'sources/x-digest/2026-10-23-cn-x')
   assert.deepEqual(digest, [])

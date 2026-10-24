@@ -6,6 +6,7 @@
 
 import { computed, markRaw, onBeforeUnmount, onMounted, ref, shallowRef, watch } from 'vue'
 import { useData, useRouter } from 'vitepress'
+import { filterMetadataNodes } from './graph-filter.mjs'
 
 const NODE_RADIUS = 3.5
 const SOURCE_RADIUS = 2.5
@@ -48,6 +49,7 @@ const graphData = shallowRef(null)
 const loading = ref(true)
 const error = ref(false)
 const showSources = ref(false)
+const showMetaNodes = ref(false)
 const hoverNode = shallowRef(null)
 const mousePos = ref({ x: 0, y: 0 })
 const dimensions = ref({ width: 0, height: 0 })
@@ -72,7 +74,7 @@ function endpointId(value) {
   return value
 }
 
-function buildView(data, sourcesOn, focusId) {
+function buildView(data, sourcesOn, focusId, metaOn) {
   if (!data) return markRaw({ nodes: [], links: [], key: 'empty' })
 
   let relevantNodes = data.nodes
@@ -92,6 +94,12 @@ function buildView(data, sourcesOn, focusId) {
     relevantNodes = relevantNodes.filter((node) => node.source_kind === 'wiki' || sourcesOn)
   }
 
+  const visible = filterMetadataNodes(relevantNodes, relevantEdges, {
+    showMetaNodes: metaOn,
+    focusId,
+  })
+  relevantNodes = visible.nodes
+  relevantEdges = visible.edges
   const nodeIds = new Set(relevantNodes.map((node) => node.id))
   const nodes = relevantNodes.map((node) => {
     const cached = nodeCache.get(node.id)
@@ -108,17 +116,17 @@ function buildView(data, sourcesOn, focusId) {
     .filter((edge) => nodeIds.has(edge.source) && nodeIds.has(edge.target))
     .map((edge) => ({ source: edge.source, target: edge.target, type: edge.type }))
 
-  const key = `${focusId || ''}|${sourcesOn ? 1 : 0}|${nodes.map((node) => node.id).join(',')}|${links.length}`
+  const key = `${focusId || ''}|${sourcesOn ? 1 : 0}|${metaOn ? 1 : 0}|${nodes.map((node) => node.id).join(',')}|${links.length}`
   return markRaw({ nodes, links, key })
 }
 
-watch([graphData, showSources, focusNodeId], () => {
+watch([graphData, showSources, focusNodeId, showMetaNodes], () => {
   const data = graphData.value
   if (data && !focusNodeId.value) {
     const hasWikiLinks = data.edges.some((edge) => edge.type === 'links_to')
     if (!hasWikiLinks && data.edges.length > 0 && !showSources.value) showSources.value = true
   }
-  view.value = buildView(graphData.value, showSources.value, focusNodeId.value)
+  view.value = buildView(graphData.value, showSources.value, focusNodeId.value, showMetaNodes.value)
 }, { immediate: true })
 
 const banner = computed(() => {
@@ -145,6 +153,8 @@ const sourcesAvailable = computed(() => {
   if (!data) return false
   return data.nodes.some((node) => node.source_kind !== 'wiki') || data.edges.some((edge) => edge.type === 'cites')
 })
+
+const metaNodesAvailable = computed(() => graphData.value?.nodes.some((node) => node.is_meta) ?? false)
 
 function categoryOf(node) {
   if (node.source_kind !== 'wiki') return 'Source'
@@ -367,6 +377,18 @@ onBeforeUnmount(() => {
     <div ref="canvasHost" class="graph-canvas" />
 
     <div class="graph-controls">
+      <template v-if="metaNodesAvailable">
+        <button
+          type="button"
+          :class="{ on: showMetaNodes }"
+          :aria-pressed="showMetaNodes"
+          :title="showMetaNodes ? '隐藏目录与日志' : '显示目录与日志'"
+          @click="showMetaNodes = !showMetaNodes"
+        >
+          {{ showMetaNodes ? '隐藏目录与日志' : '显示目录与日志' }}
+        </button>
+        <span class="graph-controls-sep" aria-hidden="true">|</span>
+      </template>
       <template v-if="sourcesAvailable">
         <button
           type="button"
