@@ -10,8 +10,8 @@ sources:
     resource: https://x.com/googlecloud/status/2113285915258794378
     title: Google Cloud Agent Compute Engine
 generated:
-  by: cursor-agent/okf-bilingual
-  at: 2026-10-24T20:30:00+08:00
+  by: cursor-agent/composer
+  at: 2026-10-24T21:54:59+08:00
 ---
 
 # 智能体算力与治理
@@ -35,5 +35,6 @@ Platforms can ship dedicated agent compute alongside expanded business agent gov
 ## 相关 / Related
 
 - 来源 / Source: [Google Cloud Agent Compute Engine](../sources/articles/google-cloud-agent-compute-engine.md)
+- Topic: [Agent 身份与平台握钥](./agent-identity-platform-keys.md)
 
 [^google-cloud-agent-compute-engine]: Google Cloud Agent Compute Engine

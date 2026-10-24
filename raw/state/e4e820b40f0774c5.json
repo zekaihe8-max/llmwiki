@@ -1,0 +1,27 @@
+{
+  "slug": "e4e820b40f0774c5",
+  "url": "https://github.com/Zagitta/gpu-unlock)%EF%BC%8C%E8%A7%81%E9%93%81%E9%94%A4%E4%BA%BA%E5%B8%96",
+  "title": "gpu-unlock",
+  "digest": "2026-10-24-cn-x.md",
+  "status": "skipped",
+  "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
+  "first_seen": "2026-10-24T12:46:55.808Z",
+  "last_seen": "2026-10-24T12:46:55.808Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "malformed URL extract (fullwidth comma glued to markdown link); real https://github.com/Zagitta/gpu-unlock is separate",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-10-24T12:47:13.251Z",
+      "stage": "fetch",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": "2026-10-24T12:47:48.065232+00:00"
+}

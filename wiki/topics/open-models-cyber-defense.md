@@ -9,9 +9,12 @@ sources:
   - id: natolambert-open-models-cyber-defense
     resource: https://x.com/natolambert/status/2113231789321838934
     title: Nathan Lambert on open models and cyber defense
+  - id: dotey-kimi-k3-1-pro
+    resource: https://x.com/dotey/status/2113689823311524225
+    title: Dotey on Kimi K3.1 Pro
 generated:
-  by: cursor-agent/okf-bilingual
-  at: 2026-10-24T20:30:00+08:00
+  by: cursor-agent/composer
+  at: 2026-10-24T20:48:33+08:00
 ---
 
 # 开源模型与网络防御
@@ -28,6 +31,10 @@ Open-weight models are dual-use for cyber: they will be used in attacks, and eve
 
 [Nathan Lambert on open models and cyber defense](../sources/articles/natolambert-open-models-cyber-defense.md) pushes back on AI-doom framing of open models and cyber: open weights will be abused, but the balance of defensive value and the near-term trajectory look better than that discourse allows, and part of the cyber community treats open models as central to holding things together in the next year.[^natolambert-open-models-cyber-defense]
 
+[宝玉拆解 Kimi K3.1 Pro](../sources/articles/dotey-kimi-k3-1-pro.md) 记录月之暗面为放出开放权重，在训练中删除网络攻防相关数据：同一流程不删数据时内部漏洞利用测约 90.5%，删后约 81.0%；官方称其攻击能力仍落后于已公开三个月以上的闭源顶级模型。[^dotey-kimi-k3-1-pro] 原帖 <https://x.com/dotey/status/2113689823311524225>。
+
+[Dotey on Kimi K3.1 Pro](../sources/articles/dotey-kimi-k3-1-pro.md) records that Moonshot removed network attack/defense training data to ship open weights: the same pipeline scored about 90.5% on an internal exploit test with that data, about 81.0% without; Moonshot says attack capability still lags closed top models that have been public for over three months.[^dotey-kimi-k3-1-pro] Post: <https://x.com/dotey/status/2113689823311524225>.
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -35,6 +42,9 @@ Open-weight models are dual-use for cyber: they will be used in attacks, and eve
 ## 相关 / Related
 
 - Source: [Nathan Lambert on open models and cyber defense](../sources/articles/natolambert-open-models-cyber-defense.md)
+- Source: [宝玉拆解 Kimi K3.1 Pro](../sources/articles/dotey-kimi-k3-1-pro.md)
 - Topic: [AI cybersecurity jobs](./ai-cybersecurity-jobs.md)
+- Topic: [Open-weight frontier models](./open-weight-frontier-models.md)
 
 [^natolambert-open-models-cyber-defense]: Nathan Lambert on open models and cyber defense
+[^dotey-kimi-k3-1-pro]: Dotey on Kimi K3.1 Pro

@@ -18,9 +18,12 @@ sources:
   - id: shao-meng-bcherny-stanford
     resource: https://x.com/shao__meng/status/2113291579750551931
     title: Meng Shao on Boris Cherny at Stanford
+  - id: shao-meng-netflix-observability-ontology
+    resource: https://x.com/shao__meng/status/2113925598443675835
+    title: Meng Shao on Netflix observability ontology
 generated:
-  by: cursor-agent/okf-bilingual
-  at: 2026-10-24T20:30:00+08:00
+  by: cursor-agent/composer
+  at: 2026-10-24T21:01:11+08:00
 ---
 
 # 工作流优先于智能体
@@ -55,23 +58,32 @@ Karpathy's gist is the other tension. He wants the LLM to own wiki maintenance, 
 
 [Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md) and [Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md) add a third tension: Cherny describes writing loops that run for days or weeks and spawn many agents, with hand-typed code heading where punch cards went.[^mihail-eric-bcherny-stanford][^shao-meng-bcherny-stanford] That is an open-ended agent stance. Anthropic's guidance still asks whether a predefined workflow is enough before adding that kind of loop.[^building-effective-agents] The practices Cherny recommends when agents already write the code are filed under [Agent-scaled engineering](./agent-scaled-engineering.md).
 
+[邵萌谈 Netflix 可观测性本体](../sources/articles/shao-meng-netflix-observability-ontology.md) 从运维侧补强「先建模、再 Agent」：排障慢常因实体说法不一致，给 Agent 错上下文会幻觉；应先建本体与知识图谱，再喂 AutoRCA。[^shao-meng-netflix-observability-ontology] 主张归档在 [本体驱动的可观测性](./ontology-driven-observability.md)。
+
+[Meng Shao on Netflix observability ontology](../sources/articles/shao-meng-netflix-observability-ontology.md) reinforces “model first, then Agents” from ops: slow triage often comes from inconsistent entity names, and wrong Agent context hallucinates; build an ontology and knowledge graph before feeding AutoRCA.[^shao-meng-netflix-observability-ontology] That claim is filed under [Ontology-driven observability](./ontology-driven-observability.md).
+
 ## 相关 / Related
 
 - 来源：[Building effective agents](../sources/articles/anthropic-building-effective-agents.md)
 - 来源：[LLM Wiki](../sources/articles/karpathy-llm-wiki.md)
 - 来源：[Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md)
 - 来源：[Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md)
+- 来源：[邵萌谈 Netflix 可观测性本体](../sources/articles/shao-meng-netflix-observability-ontology.md)
 - 主题：[LLM-maintained wiki](./llm-maintained-wiki.md)
 - 主题：[Agent-scaled engineering](./agent-scaled-engineering.md)
+- 主题：[本体驱动的可观测性](./ontology-driven-observability.md)
 
 - Source: [Building effective agents](../sources/articles/anthropic-building-effective-agents.md)
 - Source: [LLM Wiki](../sources/articles/karpathy-llm-wiki.md)
 - Source: [Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md)
 - Source: [Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md)
+- Source: [Meng Shao on Netflix observability ontology](../sources/articles/shao-meng-netflix-observability-ontology.md)
 - Topic: [LLM-maintained wiki](./llm-maintained-wiki.md)
 - Topic: [Agent-scaled engineering](./agent-scaled-engineering.md)
+- Topic: [Ontology-driven observability](./ontology-driven-observability.md)
 
 [^building-effective-agents]: Building effective agents
 [^karpathy-llm-wiki]: LLM Wiki
 [^mihail-eric-bcherny-stanford]: Mihail Eric on Boris Cherny at Stanford
 [^shao-meng-bcherny-stanford]: Meng Shao on Boris Cherny at Stanford
+[^shao-meng-netflix-observability-ontology]: Meng Shao on Netflix observability ontology
