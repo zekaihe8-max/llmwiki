@@ -55,7 +55,7 @@ export function resolveAgent(preference = 'auto', env = process.env) {
 
 export function invocationArgs(resolved, prompt) {
   if (resolved.kind === 'codex') {
-    return ['exec', '--sandbox', 'workspace-write', '--ask-for-approval', 'never', prompt]
+    return ['exec', '--sandbox', 'workspace-write', prompt]
   }
   if (resolved.kind === 'cursor') return ['-p', '--trust', '-f', prompt]
   return ['agent', '-p', '--trust', '-f', prompt]
@@ -74,7 +74,7 @@ export function missingAgentMessage() {
     '  npm run ingest:one -- --digest raw/digests/<file>.md --url <article-url>',
     '',
     'The compile script shells out. It does not write wiki pages itself:',
-    '  codex exec --sandbox workspace-write --ask-for-approval never "<prompt>"',
+    '  codex exec --sandbox workspace-write "<prompt>"',
     '  agent -p --trust -f "<prompt>"',
     '',
     'Fetch state is unchanged. Re-run the same command on the box to resume from compile.',
@@ -262,7 +262,7 @@ function printHelp() {
   console.log(`Usage: node scripts/compile-article.mjs --url URL | --slug SLUG
        [--raw raw/] [--wiki wiki/] [--agent codex|cursor|auto] [--graph] [--skip]
 
-Shell out to Codex (\`codex exec --sandbox workspace-write --ask-for-approval never\`)
+Shell out to Codex (\`codex exec --sandbox workspace-write\`)
 or Cursor Agent (\`agent -p --trust -f\`). Lint must pass before status becomes
 "filed". A filed record is not sent to the agent again. Exit 2 means the CLI
 is not installed here; run the same command on the shared box.

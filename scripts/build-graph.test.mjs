@@ -111,6 +111,8 @@ test('published wiki graph only links files that actually reference each other',
   assert.ok(ids.has('sources/x-digest/2026-10-23-cn-x'))
   assert.ok(ids.has('sources/articles/karpathy-llm-wiki'))
   assert.ok(ids.has('sources/articles/anthropic-building-effective-agents'))
+  assert.ok(ids.has('sources/articles/anthropic-formal-verification'))
+  assert.ok(ids.has('topics/llm-formal-verification'))
   assert.ok(ids.has('topics/llm-maintained-wiki'))
   assert.ok(ids.has('topics/workflows-before-agents'))
   assert.ok(ids.has('log'))
@@ -149,8 +151,10 @@ test('published wiki graph only links files that actually reference each other',
     'log',
     'overview',
     'sources/articles/anthropic-building-effective-agents',
+    'sources/articles/anthropic-formal-verification',
     'sources/articles/karpathy-llm-wiki',
     'sources/x-digest',
+    'topics/llm-formal-verification',
     'topics/llm-maintained-wiki',
     'topics/workflows-before-agents',
   ])

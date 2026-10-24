@@ -83,7 +83,7 @@ Live compile has to run on the shared box. This script does not write wiki pages
 Codex (codex-cli 0.162.1, ChatGPT login at `/home/box/.local/bin/codex`):
 
 ```bash
-codex exec --sandbox workspace-write --ask-for-approval never "<prompt>"
+codex exec --sandbox workspace-write "<prompt>"
 ```
 
 Cursor Agent (`/home/box/.local/bin/agent`, `--trust` and `-f`):

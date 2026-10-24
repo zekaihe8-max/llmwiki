@@ -418,8 +418,6 @@ test('ingest:one fetches one URL, resumes compile, then stays idempotent', async
     'exec',
     '--sandbox',
     'workspace-write',
-    '--ask-for-approval',
-    'never',
   ])
   assert.match(args.at(-1), /https:\/\/example\.com\/a/)
   assert.match(args.at(-1), /do not edit/i)

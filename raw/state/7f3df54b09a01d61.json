@@ -3,7 +3,7 @@
   "url": "https://x.com/AnthropicAI/status/2113390212911083894",
   "title": "Anthropic (@AnthropicAI)",
   "digest": "2026-10-23-frontier-ai.md",
-  "status": "fetched",
+  "status": "filed",
   "hash": "7f3df54b09a01d61af56cf10216ee4da3edef0574199e1dc38dd1448b4d3a6c9",
   "first_seen": "2026-10-24T03:19:34.272Z",
   "last_seen": "2026-10-24T03:19:34.272Z",
@@ -11,11 +11,11 @@
   "content_hash": "04524a01aaad8e57bdcffc7c6219e00457572da800e692c97a0abb123be75847",
   "article_path": "articles/7f3df54b09a01d61.md",
   "fetched_url": "https://x.com/AnthropicAI/status/2113390212911083894",
-  "source_path": null,
+  "source_path": "sources/articles/anthropic-formal-verification.md",
   "error": null,
   "compile_error": null,
-  "compile_agent": null,
+  "compile_agent": "cursor",
   "attempts": [],
-  "filed_at": null,
+  "filed_at": "2026-10-24T03:22:19.669Z",
   "skipped_at": null
 }
