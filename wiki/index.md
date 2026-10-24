@@ -48,6 +48,7 @@ Scaffold pages for the Source and Topic schema. They are not part of the X diges
 - [Matt Pocock on /grill-me](./sources/articles/mattpocock-grill-me.md) — Matt Pocock says he still uses /grill-me, one question at a time, when the problem is hugely underspecified and a single Q&A round could send the work in massively different directions.
 - [Matt Pocock on /software-factory](./sources/articles/mattpocock-software-factory.md) — Matt Pocock shares a prompt-of-the-day that runs /grill-me on how a /software-factory might help, to decide whether factory-style infra is worth it and what you need to set it up.
 - [小墨 on Pi vs DeepSeek Harness rounds and cost](./sources/articles/xiaomovps-pi-vs-deepseek-harness.md) — 小墨 compares the same DeepSeek V4 Flash task under Pi and DeepSeek Harness—about 3 vs 28 rounds and roughly 18× cumulative input tokens, yet only about 2× cost thanks to cache hits—and argues harness comparisons need rounds, cache rate, time, and quality, not token totals alone.
+- [介绍 Cloudflare Workers](./sources/articles/introducing-cloudflare-workers.md) — Cloudflare 宣布将在边缘运行接近 Service Worker API 的 JavaScript，用 V8 多租户沙箱让全球节点可编程，而不是无限叠加固定功能。
 - [LLM-maintained wiki](./topics/llm-maintained-wiki.md) — a compiled markdown wiki that an agent keeps current over immutable sources, instead of re-deriving answers from raw files on every question.
 
 
@@ -79,6 +80,7 @@ Scaffold pages for the Source and Topic schema. They are not part of the X diges
 - [Software factory](./topics/software-factory.md) — A software-factory skill or prompt can grill whether factory-style agent infra is worth adopting and what you need to set it up.
 - [Harness comparison beyond tokens](./topics/harness-comparison-beyond-tokens.md) — Compare agent harnesses on the same model by rounds, cache hits, latency, and output quality—not cumulative token totals alone, because high cache hit rates can keep cost near parity when token volume diverges.
 - [Reuse before write](./topics/reuse-before-write.md) — Before an agent writes code, it should ask whether the change is needed and whether the repo, standard library, browser, OS, or an installed dependency already covers it, then ship the smallest working version with a test for risky logic.
+- [可编程边缘计算](./topics/programmable-edge-compute.md) — 边缘网络应通过沙箱化 JavaScript（如 Service Worker API）变为可编程，而不是无限叠加固定功能；轻量多租户运行时才能把代码铺到全球节点。
 
 
 

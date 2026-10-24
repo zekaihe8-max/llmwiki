@@ -1,0 +1,21 @@
+{
+  "slug": "3289403e917b0a38",
+  "url": "https://blog.cloudflare.com/introducing-cloudflare-workers",
+  "title": "Introducing Cloudflare Workers",
+  "digest": "e2e-digest.md",
+  "status": "filed",
+  "hash": "3289403e917b0a3862291bd7000482a9be3a3c3ff9774e786f48749e3808fb16",
+  "first_seen": "2026-10-24T10:51:28.525Z",
+  "last_seen": "2026-10-24T10:51:28.525Z",
+  "fetched_at": "2026-10-24T10:51:28.530Z",
+  "content_hash": "3b1624d03ca9de0d0ad033488b2de4f3cef2377603ec9ca51229cd17ed557dab",
+  "article_path": "articles/3289403e917b0a38.md",
+  "fetched_url": "https://blog.cloudflare.com/introducing-cloudflare-workers",
+  "source_path": "sources/articles/introducing-cloudflare-workers.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-24T10:52:58.461Z",
+  "skipped_at": null
+}
