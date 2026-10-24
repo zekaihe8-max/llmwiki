@@ -132,11 +132,18 @@ const banner = computed(() => {
 
 const tooltipStyle = computed(() => {
   const width = dimensions.value.width || 0
+  const height = dimensions.value.height || 0
   const maxLeft = Math.max(8, width - 280)
-  return {
-    left: `${Math.min(mousePos.value.x + 14, maxLeft)}px`,
-    top: `${Math.max(8, mousePos.value.y - 10)}px`,
-  }
+  // Sit above-left of the cursor so it does not cover the on-canvas title under the node.
+  const left = Math.min(Math.max(8, mousePos.value.x - 160), maxLeft)
+  const top = Math.min(Math.max(8, mousePos.value.y - 88), Math.max(8, height - 96))
+  return { left: `${left}px`, top: `${top}px` }
+})
+
+const sourcesAvailable = computed(() => {
+  const data = graphData.value
+  if (!data) return false
+  return data.nodes.some((node) => node.source_kind !== 'wiki') || data.edges.some((edge) => edge.type === 'cites')
 })
 
 function categoryOf(node) {
@@ -179,8 +186,10 @@ function paintNode(node, ctx, globalScale) {
   ctx.fillStyle = color
   ctx.fill()
 
-  if (globalScale > 1.2 || isHover) {
-    const fontSize = Math.max(10 / globalScale, 2)
+  // Always draw titles. zoomToFit on the full graph lands near scale 1, so a
+  // >1.2 gate left the default view as unlabeled dots.
+  {
+    const fontSize = Math.max(11 / Math.max(globalScale, 0.75), 3.5)
     ctx.font = `${fontSize}px -apple-system, BlinkMacSystemFont, sans-serif`
     ctx.textAlign = 'center'
     ctx.textBaseline = 'top'
@@ -358,16 +367,18 @@ onBeforeUnmount(() => {
     <div ref="canvasHost" class="graph-canvas" />
 
     <div class="graph-controls">
-      <button
-        type="button"
-        :class="{ on: showSources }"
-        :aria-pressed="showSources"
-        :title="showSources ? 'Hide sources' : 'Show sources'"
-        @click="showSources = !showSources"
-      >
-        Show sources
-      </button>
-      <span class="graph-controls-sep" aria-hidden="true">|</span>
+      <template v-if="sourcesAvailable">
+        <button
+          type="button"
+          :class="{ on: showSources }"
+          :aria-pressed="showSources"
+          :title="showSources ? 'Hide sources' : 'Show sources'"
+          @click="showSources = !showSources"
+        >
+          {{ showSources ? 'Hide sources' : 'Show sources' }}
+        </button>
+        <span class="graph-controls-sep" aria-hidden="true">|</span>
+      </template>
       <span class="graph-controls-note">Graph rebuilt on each deploy.</span>
     </div>
 
