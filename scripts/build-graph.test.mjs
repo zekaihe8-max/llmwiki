@@ -109,7 +109,14 @@ test('published wiki graph only links files that actually reference each other',
   assert.ok(ids.has('concepts/compiled-pages'))
   assert.ok(ids.has('sources/x-digest'))
   assert.ok(ids.has('sources/x-digest/2026-10-23-cn-x'))
+  assert.ok(ids.has('sources/articles/karpathy-llm-wiki'))
+  assert.ok(ids.has('sources/articles/anthropic-building-effective-agents'))
+  assert.ok(ids.has('topics/llm-maintained-wiki'))
+  assert.ok(ids.has('topics/workflows-before-agents'))
+  assert.ok(ids.has('log'))
   assert.equal(ids.has('graph'), false)
+  assert.equal(ids.has('_templates/source'), false)
+  assert.equal(ids.has('_templates/topic'), false)
   assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest').source_kind, 'wiki')
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest/2026-10-23-cn-x').source_kind, 'wiki')
@@ -139,8 +146,13 @@ test('published wiki graph only links files that actually reference each other',
   assert.deepEqual(fromIndex, [
     'concepts/compiled-pages',
     'guides/adding-a-page',
+    'log',
     'overview',
+    'sources/articles/anthropic-building-effective-agents',
+    'sources/articles/karpathy-llm-wiki',
     'sources/x-digest',
+    'topics/llm-maintained-wiki',
+    'topics/workflows-before-agents',
   ])
 
   const digest = graph.edges.filter((edge) => edge.source === 'sources/x-digest/2026-10-23-cn-x')

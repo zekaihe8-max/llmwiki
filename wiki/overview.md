@@ -12,14 +12,17 @@ The Hezekai wiki is a compiled knowledge base. The Markdown files in `wiki/` are
 | --- | --- |
 | `wiki/index.md` | Home page |
 | `wiki/overview.md` | This overview |
+| `wiki/log.md` | Chronological record of wiki updates |
 | `wiki/concepts/` | Definitions and durable ideas |
 | `wiki/guides/` | Short procedures for working in the wiki |
+| `wiki/sources/articles/` | Per-article Source pages |
 | `wiki/sources/x-digest/` | Curated daily digests from X |
+| `wiki/topics/` | Topic pages that synthesize those sources |
 
-A folder becomes a sidebar section. A `.md` file becomes a page. `index.md` and `overview.md` stay at the top; other pages are grouped by folder and then listed alphabetically.
+A folder becomes a sidebar section. A `.md` file becomes a page. `index.md` and `overview.md` stay at the top; other pages are grouped by folder and then listed alphabetically. Files and folders whose names start with `_` stay out of the site.
 
 ## What belongs here
 
 Write a page when the idea should stay readable on its own: a concept, a decision, a procedure, or a note you expect to look up later. Cross-link with ordinary Markdown links to other `.md` files.
 
-See [Compiled pages](./concepts/compiled-pages.md) for how paths map to URLs, and [Adding a page](./guides/adding-a-page.md) for the file to create. Daily X briefs are in [X digests](./sources/x-digest/index.md).
+See [Compiled pages](./concepts/compiled-pages.md) for how paths map to URLs, and [Adding a page](./guides/adding-a-page.md) for the file to create. Daily X briefs are in [X digests](./sources/x-digest/index.md). Example Source and Topic pages are cataloged on the [home page](./index.md), and the [log](./log.md) records when they were filed.
