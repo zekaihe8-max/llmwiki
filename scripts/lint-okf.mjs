@@ -215,6 +215,13 @@ function defaultPages(wikiRoot) {
   return pages
 }
 
+export function lintWiki(wikiRoot, files = null) {
+  const pages = files == null ? defaultPages(wikiRoot) : files
+  const errors = []
+  for (const file of pages) errors.push(...lintPage(file, wikiRoot))
+  return errors
+}
+
 function main() {
   const args = parseArgs(process.argv.slice(2))
   if (args.help) {
@@ -227,8 +234,8 @@ function main() {
     if (!args.source || !args.url) throw new Error('Pass both --source and --url for the filing gate')
     errors = lintFiling({ wikiRoot, sourcePath: args.source, url: args.url })
   } else {
-    const files = args.files.length ? args.files.map((file) => path.resolve(file)) : defaultPages(wikiRoot)
-    for (const file of files) errors.push(...lintPage(file, wikiRoot))
+    const files = args.files.length ? args.files.map((file) => path.resolve(file)) : null
+    errors = lintWiki(wikiRoot, files)
   }
   for (const error of errors) console.error(error)
   if (errors.length) {

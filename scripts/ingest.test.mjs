@@ -479,7 +479,7 @@ test('cursor invocation uses --trust and -f, and lint failure does not file', as
 })
 
 test('cli help exits 0', () => {
-  for (const script of ['ingest-digest.mjs', 'fetch-articles.mjs', 'compile-article.mjs', 'lint-okf.mjs', 'ingest-one.mjs']) {
+  for (const script of ['ingest-digest.mjs', 'fetch-articles.mjs', 'compile-article.mjs', 'lint-okf.mjs', 'ingest-one.mjs', 'ingest-batch.mjs', 'ingest-day.mjs']) {
     const result = spawnSync(process.execPath, [path.join(repoRoot, 'scripts', script), '--help'], { encoding: 'utf8' })
     assert.equal(result.status, 0, result.stderr || script)
     assert.match(result.stdout, /Usage:/)

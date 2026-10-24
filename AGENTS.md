@@ -94,4 +94,4 @@ Do not add pages under `wiki/_templates/`. Those files are skeletons.
 
 ## Out of scope
 
-Scheduled routines, deploy, and graph-viewer changes are not part of this schema. Digest registration, fetch, OKF lint, and the Agent compile handoff are `npm run ingest:one` (see `raw/README.md`). The agent that files a page still follows this schema and does not edit `raw/`.
+Scheduled routines, deploy, and graph-viewer changes are not part of this schema. One URL is `npm run ingest:one`. A whole digest is `npm run ingest:batch` (and `npm run ingest:day` for that day's files). See `raw/README.md`. The agent that files a page still follows this schema and does not edit `raw/`.

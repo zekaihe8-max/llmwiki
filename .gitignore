@@ -69,7 +69,10 @@ scripts/*
 !scripts/compile-article.mjs
 !scripts/lint-okf.mjs
 !scripts/ingest-one.mjs
+!scripts/ingest-batch.mjs
+!scripts/ingest-day.mjs
 !scripts/ingest.test.mjs
+!scripts/ingest-batch.test.mjs
 !scripts/lib/
 !scripts/lib/**
 
