@@ -432,11 +432,26 @@ function parseArgs(argv) {
   return out
 }
 
-/** @deprecated Prefer lintPack. Kept for ingest tests that pass explicit Source/Topic files. */
+function formalPages(wikiRoot) {
+  const pages = []
+  for (const folder of ['sources/articles', 'topics']) {
+    const dir = path.join(wikiRoot, folder)
+    if (!fs.existsSync(dir)) continue
+    for (const name of fs.readdirSync(dir).sort()) {
+      if (name.endsWith('.md')) pages.push(path.join(dir, name))
+    }
+  }
+  return pages
+}
+
+/**
+ * Source/Topic-only lint used by ingest post-checks.
+ * Full-pack compliance is `lintPack` / `npm run lint:okf` (CLI default).
+ */
 export function lintWiki(wikiRoot, files = null, options = {}) {
-  if (files == null) return lintPack(wikiRoot, options)
+  const pages = files == null ? formalPages(wikiRoot) : files
   const errors = []
-  for (const file of files) errors.push(...lintPage(file, wikiRoot, options))
+  for (const file of pages) errors.push(...lintPage(file, wikiRoot, options))
   return errors
 }
 

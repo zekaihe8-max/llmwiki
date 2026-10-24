@@ -333,7 +333,7 @@ test('published wiki graph only links files that actually reference each other',
   const karpathy = graph.nodes.find((node) => node.id === 'sources/articles/karpathy-llm-wiki')
   assert.equal(karpathy.page_type, 'Source')
   assert.match(karpathy.resource, /^https:\/\//)
-  assert.equal(karpathy.generated_at, '2026-10-24T10:49:00+08:00')
+  assert.equal(karpathy.generated_at, '2026-10-24T20:30:00+08:00')
   const topic = graph.nodes.find((node) => node.id === 'topics/llm-maintained-wiki')
   assert.equal(topic.page_type, 'Topic')
 

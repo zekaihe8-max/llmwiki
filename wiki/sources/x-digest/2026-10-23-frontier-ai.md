@@ -1,5 +1,8 @@
 ---
 title: "2026-10-23 · 前沿 AI"
+title_en: "2026-10-23 · Frontier AI"
+description: 当日前沿 AI 动态与实践者方法简报。
+description_en: Daily frontier AI news and practitioner notes.
 date: 2026-10-23
 type: frontier-ai
 lang: zh-CN
