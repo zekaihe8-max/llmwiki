@@ -324,6 +324,8 @@ test('published wiki graph only links files that actually reference each other',
   assert.equal(ids.has('graph'), false)
   assert.equal(ids.has('_templates/source'), false)
   assert.equal(ids.has('_templates/topic'), false)
+  assert.equal(ids.has('templates/source'), false)
+  assert.equal(ids.has('templates/topic'), false)
   assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest').source_kind, 'wiki')
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest/2026-10-23-cn-x').source_kind, 'wiki')
@@ -331,7 +333,7 @@ test('published wiki graph only links files that actually reference each other',
   const karpathy = graph.nodes.find((node) => node.id === 'sources/articles/karpathy-llm-wiki')
   assert.equal(karpathy.page_type, 'Source')
   assert.match(karpathy.resource, /^https:\/\//)
-  assert.equal(karpathy.generated_at, '2026-10-24T10:49:00+08:00')
+  assert.equal(karpathy.generated_at, '2026-10-24T20:30:00+08:00')
   const topic = graph.nodes.find((node) => node.id === 'topics/llm-maintained-wiki')
   assert.equal(topic.page_type, 'Topic')
 

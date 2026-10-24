@@ -1,0 +1,21 @@
+{
+  "slug": "8656466f670ada09",
+  "url": "https://blog.cloudflare.com/workers-kv-is-ga",
+  "title": "Workers KV is Generally Available",
+  "digest": "e2e-bilingual-2026-10-24.md",
+  "status": "filed",
+  "hash": "8656466f670ada09b0ebb2498147349581902cfdff8959df5988d6fdcfac901d",
+  "first_seen": "2026-10-24T12:23:23.197Z",
+  "last_seen": "2026-10-24T12:23:23.197Z",
+  "fetched_at": "2026-10-24T12:23:23.201Z",
+  "content_hash": "1f59e283c905f98779b84f16c62d43d156419f99f6479274b91b2981bbf34eb8",
+  "article_path": "articles/8656466f670ada09.md",
+  "fetched_url": "https://blog.cloudflare.com/workers-kv-is-ga",
+  "source_path": "sources/articles/workers-kv-ga.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-24T12:24:57.663Z",
+  "skipped_at": null
+}

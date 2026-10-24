@@ -157,11 +157,11 @@ watch([graphData, showSources, focusNodeId, showMetaNodes, pageTypeFilter, today
 }, { immediate: true })
 
 const banner = computed(() => {
-  if (loading.value) return { text: 'Loading graph…', mode: 'center' }
-  if (error.value || !graphData.value) return { text: 'Failed to load graph data', mode: 'center' }
-  if (!graphData.value.nodes.length) return { text: 'No documents to visualize yet', mode: 'center' }
-  if (focusNodeId.value && !view.value.nodes.length) return { text: 'No page matches this focus.', mode: 'center' }
-  if (!view.value.links.length) return { text: 'No cross-references in this view yet.', mode: 'bottom' }
+  if (loading.value) return { text: '加载图谱中… / Loading graph…', mode: 'center' }
+  if (error.value || !graphData.value) return { text: '无法加载图谱数据 / Failed to load graph data', mode: 'center' }
+  if (!graphData.value.nodes.length) return { text: '暂无可视化文档 / No documents to visualize yet', mode: 'center' }
+  if (focusNodeId.value && !view.value.nodes.length) return { text: '没有匹配该聚焦的页面 / No page matches this focus.', mode: 'center' }
+  if (!view.value.links.length) return { text: '当前视图尚无交叉引用 / No cross-references in this view yet.', mode: 'bottom' }
   return null
 })
 
@@ -499,10 +499,10 @@ onBeforeUnmount(() => {
           type="button"
           :class="{ on: showMetaNodes }"
           :aria-pressed="showMetaNodes"
-          :title="showMetaNodes ? '隐藏目录与日志' : '显示目录与日志'"
+          :title="showMetaNodes ? '隐藏目录与日志 / Hide index & log' : '显示目录与日志 / Show index & log'"
           @click="showMetaNodes = !showMetaNodes"
         >
-          {{ showMetaNodes ? '隐藏目录与日志' : '显示目录与日志' }}
+          {{ showMetaNodes ? '隐藏目录与日志 / Hide index & log' : '显示目录与日志 / Show index & log' }}
         </button>
         <span class="graph-controls-sep" aria-hidden="true">|</span>
       </template>
@@ -510,7 +510,7 @@ onBeforeUnmount(() => {
         type="button"
         :class="{ on: pageTypeFilter === 'Source' }"
         :aria-pressed="pageTypeFilter === 'Source'"
-        title="仅 Source"
+        title="仅 Source / Sources only"
         @click="pageTypeFilter = pageTypeFilter === 'Source' ? 'all' : 'Source'"
       >
         Source
@@ -519,7 +519,7 @@ onBeforeUnmount(() => {
         type="button"
         :class="{ on: pageTypeFilter === 'Topic' }"
         :aria-pressed="pageTypeFilter === 'Topic'"
-        title="仅 Topic"
+        title="仅 Topic / Topics only"
         @click="pageTypeFilter = pageTypeFilter === 'Topic' ? 'all' : 'Topic'"
       >
         Topic
@@ -530,10 +530,10 @@ onBeforeUnmount(() => {
         :class="{ on: todayView }"
         :aria-pressed="todayView"
         :disabled="!todayAvailable && !todayView"
-        :title="todayView ? '显示全图' : '今日新增/更新及相关主题'"
+        :title="todayView ? '显示全图 / Show full graph' : '今日新增/更新及相关主题 / Today + related topics'"
         @click="todayView = !todayView"
       >
-        {{ todayView ? '今日视图' : '全图' }}
+        {{ todayView ? '今日视图 / Today' : '全图 / Full' }}
       </button>
       <template v-if="sourcesAvailable">
         <span class="graph-controls-sep" aria-hidden="true">|</span>
@@ -541,31 +541,31 @@ onBeforeUnmount(() => {
           type="button"
           :class="{ on: showSources }"
           :aria-pressed="showSources"
-          :title="showSources ? 'Hide sources' : 'Show sources'"
+          :title="showSources ? '隐藏来源 / Hide sources' : '显示来源 / Show sources'"
           @click="showSources = !showSources"
         >
-          {{ showSources ? 'Hide sources' : 'Show sources' }}
+          {{ showSources ? '隐藏来源 / Hide sources' : '显示来源 / Show sources' }}
         </button>
       </template>
       <span class="graph-controls-sep" aria-hidden="true">|</span>
       <button
         type="button"
         :disabled="!(selectedNode || hoverNode)"
-        title="聚焦当前节点邻域"
+        title="聚焦当前节点邻域 / Focus neighborhood"
         @click="focusSelectedNeighborhood"
       >
-        聚焦邻域
+        聚焦邻域 / Focus
       </button>
       <button
         v-if="focusNodeId"
         type="button"
-        title="清除聚焦"
+        title="清除聚焦 / Clear focus"
         @click="clearFocus"
       >
-        清除聚焦
+        清除聚焦 / Clear
       </button>
       <span class="graph-controls-sep" aria-hidden="true">|</span>
-      <span class="graph-controls-note">Graph rebuilt on each deploy.</span>
+      <span class="graph-controls-note">每次部署重建图谱 / Graph rebuilt on each deploy.</span>
     </div>
 
     <p v-if="banner" class="graph-banner" :class="banner.mode">{{ banner.text }}</p>

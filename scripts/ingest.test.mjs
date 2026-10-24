@@ -54,8 +54,10 @@ function htmlResponse(body, { status = 200, url = 'https://example.com/a', type 
 function writeCompiledWiki(wikiRoot, url = 'https://example.com/a') {
   const source = `---
 type: Source
-title: Demo Article
-description: A short public note used to prove the ingest loop.
+title: 演示文章
+title_en: Demo Article
+description: 用于证明入库回路的短公开笔记。
+description_en: A short public note used to prove the ingest loop.
 resource: ${url}
 tags: [demo]
 sources:
@@ -67,20 +69,31 @@ generated:
   at: 2026-10-24T03:00:00Z
 ---
 
-# Demo Article
+# 演示文章
+
+*Demo Article*
+
+原文主张在抓取正文中。[^demo-article]
 
 The original claim is in the fetched body.[^demo-article]
 
-## Related
+## 摘要 / Summary
 
-- Topic: [Demo topic](../../topics/demo-topic.md)
+- 用于证明入库回路。[^demo-article]
+- Used to prove the ingest loop.[^demo-article]
+
+## 相关 / Related
+
+- Topic: [演示主题](../../topics/demo-topic.md)
 
 [^demo-article]: Demo Article
 `
   const topic = `---
 type: Topic
-title: Demo topic
-description: The idea the demo article is about.
+title: 演示主题
+title_en: Demo topic
+description: 演示文章所关于的想法。
+description_en: The idea the demo article is about.
 tags: [demo]
 sources:
   - id: demo-article
@@ -91,17 +104,25 @@ generated:
   at: 2026-10-24T03:00:00Z
 ---
 
-# Demo topic
+# 演示主题
+
+*Demo topic*
+
+演示文章陈述了一项主张。[^demo-article]
 
 The demo article states one claim.[^demo-article]
 
-## Contradictions
+## 综合分析 / Synthesis
 
-None yet.
+来源与主题对齐。 / The source and topic align.
 
-## Related
+## 矛盾与变化 / Contradictions
 
-- Source: [Demo Article](../sources/articles/demo-article.md)
+暂无。 / None yet.
+
+## 相关 / Related
+
+- Source: [演示文章](../sources/articles/demo-article.md)
 
 [^demo-article]: Demo Article
 `
@@ -113,7 +134,7 @@ None yet.
   write('sources/articles/demo-article.md', source)
   write('topics/demo-topic.md', topic)
   write('index.md', '# Home\n\n- [Demo Article](./sources/articles/demo-article.md) — A short public note used to prove the ingest loop.\n')
-  write('log.md', '# Log\n\n## 2026-10-24\n\n* **Creation**: Filed [Demo Article](./sources/articles/demo-article.md).\n')
+  write('log.md', '# 日志 / Log\n\n## 2026-10-24\n\n* **创建 / Creation**: Filed [Demo Article](./sources/articles/demo-article.md).\n')
 }
 
 test('extractUrls normalizes and drops duplicates inside a digest', () => {
@@ -311,7 +332,9 @@ test('published Source and Topic pages pass OKF lint', () => {
   }
   const karpathy = parseFrontmatter(fs.readFileSync(path.join(wiki, 'sources/articles/karpathy-llm-wiki.md'), 'utf8'))
   assert.equal(karpathy.data.sources[0].id, 'karpathy-llm-wiki')
-  assert.equal(karpathy.data.generated.at, '2026-10-24T10:49:00+08:00')
+  assert.equal(karpathy.data.generated.at, '2026-10-24T20:30:00+08:00')
+  assert.equal(karpathy.data.title_en, 'LLM Wiki')
+  assert.ok(karpathy.data.description_en)
   assert.deepEqual(
     lintFiling({
       wikiRoot: wiki,

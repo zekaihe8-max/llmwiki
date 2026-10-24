@@ -222,5 +222,13 @@
     "last_seen": "2026-10-24T10:51:28.525Z",
     "digest": "e2e-digest.md",
     "title": "Introducing Cloudflare Workers"
+  },
+  "https://blog.cloudflare.com/workers-kv-is-ga": {
+    "hash": "8656466f670ada09b0ebb2498147349581902cfdff8959df5988d6fdcfac901d",
+    "slug": "8656466f670ada09",
+    "first_seen": "2026-10-24T12:23:23.197Z",
+    "last_seen": "2026-10-24T12:23:23.197Z",
+    "digest": "e2e-bilingual-2026-10-24.md",
+    "title": "Workers KV is Generally Available"
   }
 }

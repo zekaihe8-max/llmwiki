@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Graph
+title: 知识图谱
+title_en: Graph
+type: Graph
 sidebar: false
 aside: false
 outline: false
