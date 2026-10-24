@@ -324,6 +324,8 @@ test('published wiki graph only links files that actually reference each other',
   assert.equal(ids.has('graph'), false)
   assert.equal(ids.has('_templates/source'), false)
   assert.equal(ids.has('_templates/topic'), false)
+  assert.equal(ids.has('templates/source'), false)
+  assert.equal(ids.has('templates/topic'), false)
   assert.ok(graph.nodes.every((node) => node.source_kind === 'wiki'))
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest').source_kind, 'wiki')
   assert.equal(graph.nodes.find((node) => node.id === 'sources/x-digest/2026-10-23-cn-x').source_kind, 'wiki')
