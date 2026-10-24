@@ -10,10 +10,17 @@ sources:
   - id: karpathy-llm-wiki
     resource: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
     title: LLM Wiki
+  - id: mihail-eric-bcherny-stanford
+    resource: https://x.com/mihail_eric/status/2113277483701395508
+    title: Mihail Eric on Boris Cherny at Stanford
+  - id: shao-meng-bcherny-stanford
+    resource: https://x.com/shao__meng/status/2113291579750551931
+    title: Meng Shao on Boris Cherny at Stanford
 generated:
-  by: example-agent/scaffold
-  at: 2026-10-24T10:49:00+08:00
+  by: auto/composer
+  at: 2026-10-24T15:30:38+08:00
 ---
+
 
 # Workflows before agents
 
@@ -31,11 +38,18 @@ The Anthropic page now notes that much of the tooling it described in December 2
 
 Karpathy's gist is the other tension. He wants the LLM to own wiki maintenance, including bookkeeping a human will not keep up with, and he expects one source to touch many pages.[^karpathy-llm-wiki] Anthropic would call an unbounded version of that an agent, with higher cost and compounding errors, and would ask first whether a fixed sequence of steps is enough.[^building-effective-agents] The schema for this site is the narrower workflow. The agent may update wiki pages, and it may not mutate immutable raw files or open a second Topic for an idea that already has one.
 
+[Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md) and [Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md) add a third tension: Cherny describes writing loops that run for days or weeks and spawn many agents, with hand-typed code heading where punch cards went.[^mihail-eric-bcherny-stanford][^shao-meng-bcherny-stanford] That is an open-ended agent stance. Anthropic's guidance still asks whether a predefined workflow is enough before adding that kind of loop.[^building-effective-agents] The practices Cherny recommends when agents already write the code are filed under [Agent-scaled engineering](./agent-scaled-engineering.md).
+
 ## Related
 
 - Source: [Building effective agents](../sources/articles/anthropic-building-effective-agents.md)
 - Source: [LLM Wiki](../sources/articles/karpathy-llm-wiki.md)
+- Source: [Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md)
+- Source: [Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md)
 - Topic: [LLM-maintained wiki](./llm-maintained-wiki.md)
+- Topic: [Agent-scaled engineering](./agent-scaled-engineering.md)
 
 [^building-effective-agents]: Building effective agents
 [^karpathy-llm-wiki]: LLM Wiki
+[^mihail-eric-bcherny-stanford]: Mihail Eric on Boris Cherny at Stanford
+[^shao-meng-bcherny-stanford]: Meng Shao on Boris Cherny at Stanford
