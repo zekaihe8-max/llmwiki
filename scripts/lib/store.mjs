@@ -58,7 +58,7 @@ export function listRecords(rawRoot) {
   const dir = rawPaths(rawRoot).state
   if (!fs.existsSync(dir)) return []
   return fs.readdirSync(dir)
-    .filter((name) => name.endsWith('.json') && name !== 'urls.json' && name !== 'digests.json')
+    .filter((name) => name.endsWith('.json') && name !== 'urls.json' && name !== 'digests.json' && !name.endsWith('.latest.json'))
     .sort()
     .map((name) => readJson(path.join(dir, name), null))
     .filter(Boolean)

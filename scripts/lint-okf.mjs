@@ -17,7 +17,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parseWikiLinks } from './build-graph.mjs'
-import { parseFrontmatter } from './lib/yaml.mjs'
+import { parseFrontmatter, YamlFrontmatterError } from './lib/yaml.mjs'
 import { normalizeUrl } from './lib/urls.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
@@ -30,6 +30,18 @@ const SUMMARY_BI_RE = /^## (?:摘要 \/ Summary|Summary)\s*$/m
 const SYNTHESIS_BI_RE = /^## (?:综合分析 \/ Synthesis|Synthesis)\s*$/m
 const RELATED_BI_RE = /^## (?:相关 \/ Related|Related)\s*$/m
 
+
+function safeParseFrontmatter(raw, rel) {
+  try {
+    return { parsed: parseFrontmatter(raw), error: null }
+  } catch (error) {
+    if (error instanceof YamlFrontmatterError) {
+      return { parsed: null, error: issue('okf', `${rel}: ${error.message}`) }
+    }
+    throw error
+  }
+}
+
 export function lintPage(absPath, wikiRoot, options = {}) {
   const { bilingual = false } = options
   const findings = []
@@ -38,7 +50,15 @@ export function lintPage(absPath, wikiRoot, options = {}) {
     return [issue('okf', `${rel}: file not found`)]
   }
   const raw = fs.readFileSync(absPath, 'utf8')
-  const parsed = parseFrontmatter(raw)
+  let parsed
+  try {
+    parsed = parseFrontmatter(raw)
+  } catch (error) {
+    if (error instanceof YamlFrontmatterError) {
+      return [issue('okf', `${rel}: ${error.message}`)]
+    }
+    throw error
+  }
   if (!parsed) {
     return [issue('okf', `${rel}: missing YAML frontmatter`)]
   }
@@ -146,18 +166,87 @@ function lintBilingualFields(rel, data, body, type) {
       if (!SYNTHESIS_BI_RE.test(body)) {
         findings.push(issue('project', `${rel}: missing ## 综合分析 / Synthesis (bilingual)`))
       }
-      if (!CONTRADICTIONS_RE.test(body) || !/^## 矛盾与变化 \/ Contradictions\s*$/m.test(body)) {
-        // Accept English-only Contradictions for OKF/project structure, but bilingual mode wants the paired heading.
-        if (!/^## 矛盾与变化 \/ Contradictions\s*$/m.test(body)) {
-          findings.push(issue('project', `${rel}: missing ## 矛盾与变化 / Contradictions (bilingual)`))
-        }
+      if (!/^## 矛盾与变化 \/ Contradictions\s*$/m.test(body)) {
+        findings.push(issue('project', `${rel}: missing ## 矛盾与变化 / Contradictions (bilingual)`))
       }
     }
     if (!RELATED_BI_RE.test(body)) {
       findings.push(issue('project', `${rel}: missing ## 相关 / Related (bilingual)`))
     }
+    findings.push(...lintBilingualBodyStructure(rel, body, type))
   }
   return findings
+}
+
+/**
+ * Structural ZH/EN pairing only — translation quality stays Agent-reviewed.
+ * Requires: italic EN title under H1; each required bilingual section contains
+ * both Han characters and Latin words (length >= 3). Empty "暂无 / None yet"
+ * counts as paired.
+ */
+function lintBilingualBodyStructure(rel, body, type) {
+  const findings = []
+  const cleaned = bodyWithoutFences(body)
+  const h1 = cleaned.match(/^#\s+.+?\s*$/m)
+  if (h1) {
+    const after = cleaned.slice(h1.index + h1[0].length)
+    const nextMeaningful = after.split(/\r?\n/).map((l) => l.trim()).find((l) => l.length > 0)
+    if (!nextMeaningful || !/^\*[^*\n]+\*$/.test(nextMeaningful)) {
+      findings.push(issue('project', `${rel}: missing italic English title line after # heading (bilingual body)`))
+    }
+  }
+
+  const required = []
+  if (type === 'Source') required.push({ name: '摘要 / Summary', re: SUMMARY_BI_RE })
+  if (type === 'Topic') {
+    required.push({ name: '综合分析 / Synthesis', re: SYNTHESIS_BI_RE })
+    required.push({ name: '矛盾与变化 / Contradictions', re: /^## 矛盾与变化 \/ Contradictions\s*$/m })
+  }
+  required.push({ name: '相关 / Related', re: RELATED_BI_RE })
+
+  for (const section of required) {
+    const match = cleaned.match(section.re)
+    if (!match) continue
+    const sectionBody = sectionBodyAfter(cleaned, match)
+    const isRelated = section.name.startsWith('相关')
+    // Related is often a list of wiki links; link targets are language-agnostic.
+    // Still require some body. Content sections need ZH/EN paired prose.
+    if (isRelated) {
+      if (!sectionBody || (!/\[[^\]]*\]\([^)]+\.md\)/.test(sectionBody) && !sectionHasZhEnPair(sectionBody))) {
+        findings.push(issue(
+          'project',
+          `${rel}: section ## ${section.name} needs wiki links or ZH/EN paired body (bilingual)`,
+        ))
+      }
+      continue
+    }
+    if (!sectionHasZhEnPair(sectionBody)) {
+      findings.push(issue(
+        'project',
+        `${rel}: section ## ${section.name} lacks ZH/EN paired body content (bilingual)`,
+      ))
+    }
+  }
+  return findings
+}
+
+function sectionBodyAfter(body, headingMatch) {
+  const start = headingMatch.index + headingMatch[0].length
+  const rest = body.slice(start)
+  const next = rest.search(/\n##\s+/)
+  return (next < 0 ? rest : rest.slice(0, next)).trim()
+}
+
+function sectionHasZhEnPair(sectionBody) {
+  if (!sectionBody) return false
+  // Accept explicit empty bilingual placeholders.
+  if (/暂无|None yet|None\./i.test(sectionBody) && /[\u4e00-\u9fff]/.test(sectionBody) && /[A-Za-z]{3,}/.test(sectionBody)) {
+    return true
+  }
+  if (/暂无。\s*\/\s*None yet\.?/i.test(sectionBody)) return true
+  const hasZh = /[\u4e00-\u9fff]/.test(sectionBody)
+  const hasEn = /[A-Za-z]{3,}/.test(sectionBody)
+  return hasZh && hasEn
 }
 
 function lintWikiLinkTargets(rel, body, wikiRoot) {
@@ -187,7 +276,15 @@ export function lintPack(wikiRoot, options = {}) {
     findings.push(issue('okf', 'index.md: bundle-root index.md is missing'))
   } else {
     const raw = fs.readFileSync(rootIndex, 'utf8')
-    const parsed = parseFrontmatter(raw)
+    let parsed
+    try {
+      parsed = parseFrontmatter(raw)
+    } catch (error) {
+      if (error instanceof YamlFrontmatterError) {
+        findings.push(issue('okf', `index.md: ${error.message}`))
+        parsed = null
+      } else throw error
+    }
     if (!parsed) {
       findings.push(issue('okf', 'index.md: missing YAML frontmatter with okf_version'))
     } else {
@@ -240,7 +337,11 @@ export function lintPack(wikiRoot, options = {}) {
     if (rel.split('/').some((part) => part.startsWith('_'))) return
 
     const raw = fs.readFileSync(abs, 'utf8')
-    const parsed = parseFrontmatter(raw)
+    const { parsed, error } = safeParseFrontmatter(raw, rel)
+    if (error) {
+      findings.push(error)
+      return
+    }
     if (!parsed) {
       findings.push(issue('okf', `${rel}: missing YAML frontmatter`))
       return
@@ -249,7 +350,7 @@ export function lintPack(wikiRoot, options = {}) {
       findings.push(issue('okf', `${rel}: type is required`))
     }
 
-      const pageType = parsed.data?.type
+    const pageType = parsed.data?.type
     if (pageType === 'Source' || pageType === 'Topic') {
       findings.push(...lintFormalPage(rel, parsed.data || {}, parsed.body || '', wikiRoot, { bilingual, requireFormal: true }))
     } else {
@@ -285,13 +386,20 @@ export function lintFiling({ wikiRoot, sourcePath, url }) {
   const errors = []
   const rel = sourcePath.replace(/\\/g, '/')
   const abs = path.join(wikiRoot, rel)
-  errors.push(...lintPage(abs, wikiRoot, { bilingual: false }))
+  errors.push(...lintPage(abs, wikiRoot, { bilingual: true }))
   const canonical = normalizeUrl(url)
   if (!canonical) errors.push(issue('project', 'filing: article URL is not http(s)'))
 
   let page = null
   if (fs.existsSync(abs)) {
-    page = parseFrontmatter(fs.readFileSync(abs, 'utf8'))
+    try {
+      page = parseFrontmatter(fs.readFileSync(abs, 'utf8'))
+    } catch (error) {
+      if (error instanceof YamlFrontmatterError) {
+        errors.push(issue('okf', `${rel}: ${error.message}`))
+        page = null
+      } else throw error
+    }
     if (page && canonical && normalizeUrl(page.data?.resource) !== canonical) {
       errors.push(issue('project', `${rel}: resource does not match the fetched article URL`))
     }
@@ -327,7 +435,7 @@ export function lintFiling({ wikiRoot, sourcePath, url }) {
     for (const link of topics) {
       const topicAbs = wikiFile(wikiRoot, link)
       if (!topicAbs) continue
-      errors.push(...lintPage(topicAbs, wikiRoot, { bilingual: false }))
+      errors.push(...lintPage(topicAbs, wikiRoot, { bilingual: true }))
     }
   }
   return errors
@@ -342,7 +450,12 @@ export function findSourcePages(wikiRoot, url) {
   for (const name of fs.readdirSync(dir).sort()) {
     if (!name.endsWith('.md')) continue
     const rel = `sources/articles/${name}`
-    const parsed = parseFrontmatter(fs.readFileSync(path.join(dir, name), 'utf8'))
+    let parsed
+    try {
+      parsed = parseFrontmatter(fs.readFileSync(path.join(dir, name), 'utf8'))
+    } catch {
+      continue
+    }
     if (parsed?.data?.type === 'Source' && normalizeUrl(parsed.data.resource) === canonical) {
       matches.push(rel)
     }

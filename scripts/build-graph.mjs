@@ -11,7 +11,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { normalizeUrl } from './lib/urls.mjs'
-import { parseFrontmatter } from './lib/yaml.mjs'
+import { parseFrontmatter, YamlFrontmatterError } from './lib/yaml.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const defaultWikiDir = path.join(repoRoot, 'wiki')
@@ -200,7 +200,15 @@ export function buildGraph(wikiDir) {
   const files = walkMarkdown(wikiDir).filter((file) => file.rel.replace(/\\/g, '/') !== 'graph.md')
   const nodes = files.map(({ abs, rel }) => {
     const raw = fs.readFileSync(abs, 'utf8')
-    const parsed = parseFrontmatter(raw)
+    let parsed
+    try {
+      parsed = parseFrontmatter(raw)
+    } catch (error) {
+      if (error instanceof YamlFrontmatterError) {
+        throw new Error(`${rel}: ${error.message}`)
+      }
+      throw error
+    }
     const fields = parsed?.data || {}
     const body = parsed?.body ?? raw
     const filename = path.posix.basename(rel)
@@ -317,7 +325,18 @@ export function buildGraph(wikiDir) {
     || a.type.localeCompare(b.type),
   )
 
-  return { nodes: publicNodes, edges: publicEdges }
+  const degree = new Map()
+  for (const node of publicNodes) degree.set(node.id, 0)
+  for (const edge of publicEdges) {
+    degree.set(edge.source, (degree.get(edge.source) || 0) + 1)
+    degree.set(edge.target, (degree.get(edge.target) || 0) + 1)
+  }
+  // Hint only — never invent edges to clear orphans.
+  const orphanHints = publicNodes
+    .filter((node) => (node.page_type === 'Source' || node.page_type === 'Topic') && (degree.get(node.id) || 0) === 0)
+    .map((node) => `${node.id} (${node.page_type}) has no wiki links or citations`)
+
+  return { nodes: publicNodes, edges: publicEdges, orphanHints }
 }
 
 export function writeGraphData(wikiDir = defaultWikiDir, outFile = defaultOutFile) {

@@ -502,5 +502,13 @@
     "last_seen": "2026-10-24T12:46:55.808Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock"
+  },
+  "https://blog.cloudflare.com/introducing-workers-durable-objects": {
+    "hash": "234d41d90e8be9c90fe0ff23ea0dfca223a79b3395810e3ae5a839f5e3dd3bae",
+    "slug": "234d41d90e8be9c9",
+    "first_seen": "2026-10-25T02:32:09.595Z",
+    "last_seen": "2026-10-25T02:32:09.595Z",
+    "digest": "e2e-durable-objects-2026-10-25.md",
+    "title": "Introducing Workers Durable Objects"
   }
 }

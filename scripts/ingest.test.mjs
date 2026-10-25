@@ -654,3 +654,65 @@ test('compile failure keeps the snapshot and leaves status fetched or sourced', 
   assert.equal(fs.existsSync(path.join(rawRoot, result.record.article_path)), true)
   assert.match(result.record.compile_error, /agent exited 1/)
 })
+
+
+test('--refresh fetch failure keeps snapshot and reports failure (not success)', async () => {
+  const rawRoot = tempRaw()
+  const url = 'https://example.com/refresh-fail'
+  const digestPath = path.join(rawRoot, 'in.md')
+  fs.writeFileSync(digestPath, `# Brief\n\n- [x](${url})\n`)
+  ingestDigestFile({ sourcePath: digestPath, rawRoot, now: fixedNow, log: silent })
+  const { readJson, writeJson, rawPaths } = await import('./lib/store.mjs')
+  const slug = slugForUrl(url)
+  const paths = rawPaths(rawRoot)
+  const record = readJson(paths.record(slug), null)
+  const body = '# Article\n\nEnough characters for the minimum article body gate in fetch.\n'
+  const rel = `articles/${slug}.md`
+  fs.mkdirSync(path.join(rawRoot, 'articles'), { recursive: true })
+  fs.writeFileSync(path.join(rawRoot, rel), body)
+  record.status = 'filed'
+  record.article_path = rel
+  record.content_hash = sha256(body)
+  record.fetched_at = fixedNow()
+  record.filed_at = fixedNow()
+  record.source_path = 'sources/articles/demo-article.md'
+  writeJson(paths.record(slug), record)
+
+  const failed = await fetchRecord({
+    record: readJson(paths.record(slug), null),
+    rawRoot,
+    refresh: true,
+    fetchImpl: async () => { throw new Error('network down') },
+    now: () => '2026-10-25T01:00:00.000Z',
+    log: silent,
+  })
+  assert.equal(failed.ok, false)
+  assert.equal(failed.keptSnapshot, true)
+  assert.equal(failed.refreshFailed, true)
+  assert.match(String(failed.error), /network down/)
+  const after = readJson(paths.record(slug), null)
+  assert.equal(after.status, 'filed')
+  assert.equal(after.article_path, rel)
+  assert.equal(after.content_hash, sha256(body))
+  assert.match(after.last_fetch_error, /network down/)
+  assert.ok((after.attempts || []).some((a) => /network down/.test(a.error)))
+
+  const wiki = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-rf-'))
+  writeCompiledWiki(wiki, url)
+  const one = await ingestOne({
+    digestPath,
+    rawRoot,
+    wikiRoot: wiki,
+    url,
+    refresh: true,
+    agent: 'cursor',
+    now: fixedNow,
+    log: silent,
+    fetchImpl: async () => { throw new Error('still down') },
+    spawnImpl: async () => { throw new Error('must not spawn on failed refresh') },
+    resolveImpl: () => ({ kind: 'cursor', bin: 'agent' }),
+    graph: false,
+  })
+  assert.equal(one.ok, false)
+  assert.equal(one.stage, 'fetch')
+})

@@ -97,11 +97,12 @@ When sources disagree, or a later source changes an earlier claim, record both u
 On ingest of one article:
 
 1. Write one Source page at `wiki/sources/articles/{slug}.md`. One article, one Source. Do not merge a second article into an existing Source. Use the bilingual template.
-2. Update each Topic the article bears on. Extend the existing page in both languages, including `## 矛盾与变化 / Contradictions` when the new claim conflicts with what is already there. Create a Topic only when no current page owns the idea.
-3. Set `generated.at` on every page whose body changed. Set `generated.by` to the agent that rewrote the content.
+2. **Topic integration (required):** Before writing Topics, read `wiki/index.md` and `wiki/topics/`. Prefer reusing existing Topics. One article may update many Topics. Create a new Topic only when no current page can carry the concept. When updating: integrate evidence, conclusions, applicability boundaries, and contradictions — do **not** mechanically append a per-article summary. Leaving an existing Topic unchanged is allowed when you have a clear reason (record it). Keep both ZH and EN, including `## 矛盾与变化 / Contradictions` when the new claim conflicts with what is already there.
+3. Set `generated.at` on every page whose body changed. Set `generated.by` to the agent that rewrote the content. Unchanged pages keep their previous `generated.*`.
 4. Update the matching bullets in `wiki/index.md` so each bullet still carries bilingual titles/descriptions as appropriate.
-5. Append `wiki/log.md` (see below). Do not edit older log days.
+5. Append `wiki/log.md` only when this Source filename is not already mentioned for a meaningful update (re-runs must not add duplicate noise). Do not edit older log days. A later version of the same Source may add a new log line.
 6. Leave `wiki/sources/x-digest/` unchanged unless the task is specifically about those briefs.
+7. After filing, the compile script writes a structured ingest record under `raw/state/ingest-records/` (outside the OKF pack / static site). Do not invent those files by hand unless asked.
 
 Do not add pages under `templates/` except by editing the skeletons themselves. Do not put templates under `wiki/`.
 
