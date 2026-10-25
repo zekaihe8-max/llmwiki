@@ -4,6 +4,10 @@ Wiki 页面创建、更新与废弃的时间线。
 
 Chronological record of page creations, updates, and deprecations.
 
+## 2026-10-25
+
+* **创建 / Creation**: Filed the [介绍 Workers Durable Objects](./sources/articles/introducing-workers-durable-objects.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
+
 ## 2026-10-24
 
 * **创建 / Creation**: Filed the [Zagitta gpu-unlock：Ampere 消费卡 FP/BF16 吞吐解锁](./sources/articles/zagitta-gpu-unlock.md) source and updated [消费级 GPU AI 算力解锁](./topics/gpu-ai-compute-unlock.md).

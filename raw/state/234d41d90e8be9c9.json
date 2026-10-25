@@ -1,0 +1,23 @@
+{
+  "slug": "234d41d90e8be9c9",
+  "url": "https://blog.cloudflare.com/introducing-workers-durable-objects",
+  "title": "Introducing Workers Durable Objects",
+  "digest": "e2e-durable-objects-2026-10-25.md",
+  "status": "filed",
+  "hash": "234d41d90e8be9c90fe0ff23ea0dfca223a79b3395810e3ae5a839f5e3dd3bae",
+  "first_seen": "2026-10-25T02:32:09.595Z",
+  "last_seen": "2026-10-25T02:32:09.595Z",
+  "fetched_at": "2026-10-25T02:32:09.600Z",
+  "content_hash": "52a4289cb7fd16bb246d79a26dea7c1fc744ddd8ca41a3e181f50890c58948fc",
+  "article_path": "articles/234d41d90e8be9c9.md",
+  "fetched_url": "https://blog.cloudflare.com/introducing-workers-durable-objects",
+  "source_path": "sources/articles/introducing-workers-durable-objects.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-25T02:34:00.409Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
