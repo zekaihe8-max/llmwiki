@@ -6,6 +6,46 @@ Chronological record of page creations, updates, and deprecations.
 
 ## 2026-10-25
 
+* **创建 / Creation**: Filed the [gptkit 谈 HarnessRouter 不是 Grok Bot 升级](./sources/articles/suchuanyi-harnessrouter-not-grok-bot.md) source, opened [多 Harness 路由基建 ≠ 个人助手派活](./topics/multi-harness-router-vs-personal-dispatch.md), and updated [个人 Agent 当包工头调度编程 Agent](./topics/personal-agent-foreman-over-coding-agents.md).
+* **创建 / Creation**: Filed the [小邓同学谈 Grok 当包工头调度 Codex / Claude Code](./sources/articles/heydengai-grok-foreman-codex-claude.md) source, opened [个人 Agent 当包工头调度编程 Agent](./topics/personal-agent-foreman-over-coding-agents.md), and updated [高端 AI 订阅价值](./topics/premium-ai-subscription-value.md).
+* **创建 / Creation**: Filed the [赵老师Jason谈用 Grok Bot 内置 X 检索替 Codex 省 X API](./sources/articles/fringjason-grok-bot-x-api-bridge.md) source and opened [用 Grok Bot 内置额度桥接 Agent 查 X](./topics/grok-bot-x-api-substitute.md).
+* **创建 / Creation**: Filed the [Orange AI 谈随手做成鹈鹕骑车 AI 小游戏](./sources/articles/oran-ge-pelican-bike-ai-game.md) source, opened [随手 AI 小游戏一次成功](./topics/casual-ai-minigame-first-try.md), and updated [超越 token 数的 Harness 对比](./topics/harness-comparison-beyond-tokens.md).
+* **创建 / Creation**: Filed the [Orange AI 谈电视 AI 写稿进训练语料大循环](./sources/articles/oran-ge-tv-ai-script-corpus-loop.md) source and opened [AI 媒体内容回灌训练语料](./topics/ai-media-training-corpus-loop.md).
+* **创建 / Creation**: Filed the [Orange AI 谈 AI 流量超人类后搜索要重做](./sources/articles/oran-ge-ai-traffic-search-rebuild.md) source, opened [面向 Agent 的联网搜索重做](./topics/agent-native-web-search.md), and updated [智能体规模化工程](./topics/agent-scaled-engineering.md).
+* **创建 / Creation**: Filed the [Orange AI 谈 8 个播客 AI 精读站](./sources/articles/oran-ge-eight-podcast-ai-close-reads.md) source, opened [播客 AI 精细转写精读](./topics/podcast-ai-fine-transcription-close-reads.md), and updated [AI 辅助剪藏与媒体笔记](./topics/ai-assisted-clipping-and-notes.md).
+* **创建 / Creation**: Filed the [WquGuru 谈发散任务先人类把关设计](./sources/articles/wquguru-divergent-tasks-human-design-gate.md) source, opened [发散任务先人审设计](./topics/divergent-tasks-human-design-gate.md), and updated [代码重于规格](./topics/code-over-spec.md).
+* **创建 / Creation**: Filed the [WquGuru 谈 Claude Pro 风控权重](./sources/articles/wquguru-claude-pro-risk-weights.md) source and opened [Claude 订阅风控权重](./topics/claude-subscription-risk-control-weights.md).
+* **创建 / Creation**: Filed the [Ding 谈普通人吐槽与 iOS 开发者赞美 iPhone Duo](./sources/articles/dingyi-iphone-duo-users-vs-devs.md) source and opened [iPhone Duo 普通人吐槽与开发者赞美](./topics/iphone-duo-user-vs-developer-reception.md).
+* **创建 / Creation**: Filed the [Ding 谈 menubar 管理工具真空](./sources/articles/dingyi-menubar-tools-vacuum.md) source and opened [menubar 管理工具真空](./topics/menubar-management-tool-gap.md).
+* **创建 / Creation**: Filed the [Ding 谈 Ideogram Vector 与工具自建模型](./sources/articles/dingyi-ideogram-vector.md) source and opened [工具产品自建模型抢话语权](./topics/tools-building-own-models.md).
+* **创建 / Creation**: Filed the [Ding 问 Anthropic 上市前大佬为何离职](./sources/articles/dingyi-anthropic-pre-ipo-departures.md) source and opened [上市前夕人才离职动机追问](./topics/pre-ipo-talent-departure-motives.md).
+* **创建 / Creation**: Filed the [Ding 谈 Kimi 不投中推与英推假大号](./sources/articles/dingyi-kimi-en-kol-fake-accounts.md) source and updated [社区实测对抗刷分碰瓷](./topics/community-evals-vs-score-hype.md) and [Pro 与 Flash 模型策略](./topics/pro-vs-flash-model-strategy.md).
+* **创建 / Creation**: Filed the [郭宇谈手机变轻、新 Mac 给 agent](./sources/articles/turingou-phone-lighter-macs-for-agents.md) source and opened [手机变轻与 Mac 专供 Agent](./topics/lighter-phone-macs-for-agents.md).
+* **创建 / Creation**: Filed the [郭宇发布 Yobiru Friends：Bot 互聊与对外分享](./sources/articles/turingou-yobiru-friends.md) source and opened [个人 Agent 对外分享与 Bot 互聊](./topics/personal-agent-share-and-interbot-chat.md).
+* **创建 / Creation**: Filed the [yetone 谈 Magpie 资源库统一管 skills / MCP / hooks](./sources/articles/yetone-magpie-resource-library.md) source and opened [跨 Agent 统一资源库](./topics/unified-agent-resource-library.md).
+* **创建 / Creation**: Filed the [yetone 谈 WorkBuddy DeepSeek 1M 与 magpie 默认 272K 压缩](./sources/articles/yetone-workbuddy-1m-magpie-272k.md) source and opened [长对话默认压缩低于模型窗口](./topics/long-conversation-default-compression.md).
+* **创建 / Creation**: Filed the [yetone 谈 Magpie 本地脱敏与近期安全事件](./sources/articles/yetone-magpie-local-desensitization.md) source and opened [发模型前本地脱敏](./topics/local-desensitization-before-models.md).
+* **创建 / Creation**: Filed the [马天翼谈 Sub2API 按周重置调度多 Claude 号](./sources/articles/fkysly-sub2api-weekly-claude-schedule.md) source and updated [编程 Agent 体验与额度](./topics/coding-agent-ux-vs-quota.md).
+* **创建 / Creation**: Filed the [马天翼谈 AI 代码与屎山双标](./sources/articles/fkysly-ai-code-messy-double-standard.md) source and opened [AI 代码与屎山上线双标](./topics/ai-code-vs-messy-code-double-standard.md).
+* **创建 / Creation**: Filed the [小墨实测 WorkBuddy 与 DeepSeek Harness 同题效果](./sources/articles/xiaomovps-workbuddy-vs-dsh-quality.md) source and updated [超越 token 数的 Harness 对比](./topics/harness-comparison-beyond-tokens.md).
+* **创建 / Creation**: Filed the [小墨谈 DSH 可用的 DeepSeek 渠道比价](./sources/articles/xiaomovps-dsh-deepseek-channels.md) source and opened [面向 Agent 的模型渠道取舍](./topics/agent-model-channel-tradeoffs.md).
+* **创建 / Creation**: Filed the [小墨谈 Claude Code 省 Token 五项目](./sources/articles/xiaomovps-claude-code-token-five-projects.md) source, opened [编程 Agent 省 Token 工具与开销](./topics/coding-agent-token-saving-tooling.md), and updated [项目指令与 Token 效率](./topics/agents-md-token-efficiency.md).
+* **创建 / Creation**: Filed the [小墨谈 Grok Bot 三个坑](./sources/articles/xiaomovps-grok-bot-three-pitfalls.md) source and opened [个人 Agent 云环境的备份、隔离与定时检查](./topics/personal-agent-cloud-env-pitfalls.md).
+* **创建 / Creation**: Filed the [小墨谈 AI 订阅精简到 $120/月](./sources/articles/xiaomovps-ai-subs-trim-120.md) source and updated [高端 AI 订阅价值](./topics/premium-ai-subscription-value.md) and [编程 Agent 体验与额度](./topics/coding-agent-ux-vs-quota.md).
+* **创建 / Creation**: Filed the [小墨谈 Grok Bot + Cursor 手机全链路开发](./sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md) source and opened [手机端 Agent 全链路开发](./topics/mobile-agent-dev-full-chain.md).
+* **创建 / Creation**: Filed the [邵萌转述 Nathan Lambert 哈佛开源模型讲座](./sources/articles/shao-meng-natolambert-harvard-open-models.md) source and opened [中国开源领先与美国算力优势](./topics/china-open-source-lead-us-compute.md).
+* **创建 / Creation**: Filed the [邵萌谈 Kimi 英推 KOL 宣发怪](./sources/articles/shao-meng-kimi-en-kol-promo-weird.md) source and updated [社区实测对抗刷分碰瓷](./topics/community-evals-vs-score-hype.md).
+* **创建 / Creation**: Filed the [邵萌谈 Block Dessa 纯语音全双工](./sources/articles/shao-meng-block-dessa-full-duplex.md) source and opened [纯语音全双工与情绪可听](./topics/pure-speech-full-duplex.md).
+* **创建 / Creation**: Filed the [邵萌转述 Felix：别再用 2024 方式用 Claude](./sources/articles/shao-meng-felix-not-2024-claude-usage.md) source, opened [对抗评审与外部证据](./topics/adversarial-review-external-evidence.md), and updated [把子 Agent 折进主循环](./topics/fold-subagents-into-main-loop.md), [Agent-scaled engineering](./topics/agent-scaled-engineering.md), [Agent Skill 编写](./topics/agent-skill-authoring.md), and [项目指令与 Token 效率](./topics/agents-md-token-efficiency.md).
+* **创建 / Creation**: Filed the [邵萌谈何时把子 Agent 折进主循环](./sources/articles/shao-meng-fold-subagents-main-loop.md) source, opened [把子 Agent 折进主循环](./topics/fold-subagents-into-main-loop.md), and updated [工作流优先于智能体](./topics/workflows-before-agents.md) and [Agent-scaled engineering](./topics/agent-scaled-engineering.md).
+* **创建 / Creation**: Filed the [歸藏谈 WorkBuddy 隔天适配 iPhone Duo](./sources/articles/op7418-workbuddy-iphone-duo.md) source and opened [AI 应用适配 iPhone Duo](./topics/ai-app-iphone-duo-adaptation.md).
+* **创建 / Creation**: Filed the [歸藏谈即览即将完成 iPhone Duo 适配](./sources/articles/op7418-jilan-iphone-duo.md) source and opened [阅读应用适配 iPhone Duo](./topics/reading-app-iphone-duo-adaptation.md).
+* **创建 / Creation**: Filed the [歸藏谈 Notion 在 iPhone Duo 上的适配](./sources/articles/op7418-notion-iphone-duo.md) source and opened [Agent 产出直送 Notion 阅读](./topics/agent-output-to-notion-reading.md).
+* **创建 / Creation**: Filed the [歸藏谈 Grokbot 内置问题反馈](./sources/articles/op7418-grokbot-bug-feedback.md) source and opened [Agent 对话内问题反馈](./topics/agent-in-chat-bug-feedback.md).
+* **创建 / Creation**: Filed the [宝玉谈 Codex 马上要重置](./sources/articles/dotey-codex-quota-reset.md) source and updated [编程 Agent 体验与额度](./topics/coding-agent-ux-vs-quota.md).
+* **创建 / Creation**: Filed the [宝玉谈手机端 Claude / Codex 不如 Grokbot 便利](./sources/articles/dotey-grokbot-mobile-vs-claude-codex.md) source and updated [个人 Agent 热潮与 Coding Agent 熟悉度差](./topics/personal-agent-hype-familiarity-gap.md).
+* **创建 / Creation**: Filed the [宝玉谈 Grok Bot 热潮像「小龙虾」](./sources/articles/dotey-grok-bot-like-crayfish.md) source and opened [个人 Agent 热潮与 Coding Agent 熟悉度差](./topics/personal-agent-hype-familiarity-gap.md).
+* **创建 / Creation**: Filed the [宝玉谈 Dario 2003 反战发言录像](./sources/articles/dotey-dario-2003-antiwar-speech.md) source and opened [技术滥用关切的连续性](./topics/tech-misuse-concern-continuity.md).
 * **创建 / Creation**: Filed the [介绍 Workers Durable Objects](./sources/articles/introducing-workers-durable-objects.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
 
 ## 2026-10-24

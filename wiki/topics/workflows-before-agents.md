@@ -21,9 +21,12 @@ sources:
   - id: shao-meng-netflix-observability-ontology
     resource: https://x.com/shao__meng/status/2113925598443675835
     title: Meng Shao on Netflix observability ontology
+  - id: shao-meng-fold-subagents-main-loop
+    resource: https://x.com/shao__meng/status/2114164780986679331
+    title: Meng Shao on when to fold sub-agents into the main loop
 generated:
   by: cursor-agent/composer
-  at: 2026-10-24T21:01:11+08:00
+  at: 2026-10-25T20:05:09+08:00
 ---
 
 # 工作流优先于智能体
@@ -62,6 +65,10 @@ Karpathy's gist is the other tension. He wants the LLM to own wiki maintenance, 
 
 [Meng Shao on Netflix observability ontology](../sources/articles/shao-meng-netflix-observability-ontology.md) reinforces “model first, then Agents” from ops: slow triage often comes from inconsistent entity names, and wrong Agent context hallucinates; build an ontology and knowledge graph before feeding AutoRCA.[^shao-meng-netflix-observability-ontology] That claim is filed under [Ontology-driven observability](./ontology-driven-observability.md).
 
+[邵萌谈何时把子 Agent 折进主循环](../sources/articles/shao-meng-fold-subagents-main-loop.md) 把同一「从最简可工作形态起步」推进到 Agent 内部：默认主循环 + Skills/工具渐进披露，而不是按组织架构堆子 Agent 与编排。[^shao-meng-fold-subagents-main-loop] 切面不同——本页问要不要开放式 Agent，那页问已有 Agent 时要不要按团队拆子 Agent——主张归档在 [把子 Agent 折进主循环](./fold-subagents-into-main-loop.md)。
+
+[Meng Shao on when to fold sub-agents into the main loop](../sources/articles/shao-meng-fold-subagents-main-loop.md) pushes the same “start from the simplest working shape” into the Agent interior: default to a main loop plus Skills/tool progressive disclosure, not org-chart sub-agents and orchestrators.[^shao-meng-fold-subagents-main-loop] Different cut—this page asks whether to add an open-ended agent at all; that page asks whether, once you have an agent, to split by team into sub-agents—filed under [Fold sub-agents into the main loop](./fold-subagents-into-main-loop.md).
+
 ## 相关 / Related
 
 - 来源：[Building effective agents](../sources/articles/anthropic-building-effective-agents.md)
@@ -69,21 +76,26 @@ Karpathy's gist is the other tension. He wants the LLM to own wiki maintenance, 
 - 来源：[Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md)
 - 来源：[Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md)
 - 来源：[邵萌谈 Netflix 可观测性本体](../sources/articles/shao-meng-netflix-observability-ontology.md)
+- 来源：[邵萌谈何时把子 Agent 折进主循环](../sources/articles/shao-meng-fold-subagents-main-loop.md)
 - 主题：[LLM-maintained wiki](./llm-maintained-wiki.md)
 - 主题：[Agent-scaled engineering](./agent-scaled-engineering.md)
 - 主题：[本体驱动的可观测性](./ontology-driven-observability.md)
+- 主题：[把子 Agent 折进主循环](./fold-subagents-into-main-loop.md)
 
 - Source: [Building effective agents](../sources/articles/anthropic-building-effective-agents.md)
 - Source: [LLM Wiki](../sources/articles/karpathy-llm-wiki.md)
 - Source: [Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md)
 - Source: [Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md)
 - Source: [Meng Shao on Netflix observability ontology](../sources/articles/shao-meng-netflix-observability-ontology.md)
+- Source: [Meng Shao on when to fold sub-agents into the main loop](../sources/articles/shao-meng-fold-subagents-main-loop.md)
 - Topic: [LLM-maintained wiki](./llm-maintained-wiki.md)
 - Topic: [Agent-scaled engineering](./agent-scaled-engineering.md)
 - Topic: [Ontology-driven observability](./ontology-driven-observability.md)
+- Topic: [Fold sub-agents into the main loop](./fold-subagents-into-main-loop.md)
 
 [^building-effective-agents]: Building effective agents
 [^karpathy-llm-wiki]: LLM Wiki
 [^mihail-eric-bcherny-stanford]: Mihail Eric on Boris Cherny at Stanford
 [^shao-meng-bcherny-stanford]: Meng Shao on Boris Cherny at Stanford
 [^shao-meng-netflix-observability-ontology]: Meng Shao on Netflix observability ontology
+[^shao-meng-fold-subagents-main-loop]: Meng Shao on when to fold sub-agents into the main loop

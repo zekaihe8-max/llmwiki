@@ -1,0 +1,54 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:59:12.759Z",
+  "url": "https://x.com/wquguru/status/2114162927926383065",
+  "slug": "349dcbf20e9ecb47",
+  "content_hash": "625bf704b4d32cf7fb0e769dcf57fee2f7cc91ac54a4567a78fa5cd63de18d86",
+  "source": {
+    "path": "sources/articles/wquguru-divergent-tasks-human-design-gate.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/code-over-spec.md",
+    "topics/one-question-at-a-time.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/wquguru-divergent-tasks-human-design-gate.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/code-over-spec.md",
+    "topics/one-question-at-a-time.md",
+    "topics/agent-skill-authoring.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

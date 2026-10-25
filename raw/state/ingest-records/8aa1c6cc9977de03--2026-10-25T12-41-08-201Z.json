@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:41:08.201Z",
+  "url": "https://x.com/yetone/status/2114222419376529755",
+  "slug": "8aa1c6cc9977de03",
+  "content_hash": "7e6da9d6675658517dc27644dff3758ff17636cb6844d0d0f44ee34ffca65395",
+  "source": {
+    "path": "sources/articles/yetone-magpie-resource-library.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/unified-agent-resource-library.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/yetone-magpie-resource-library.md",
+    "topics/unified-agent-resource-library.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

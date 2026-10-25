@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:56:39.365Z",
+  "url": "https://x.com/wquguru/status/2114190777597497514",
+  "slug": "10a5f4383e3914fe",
+  "content_hash": "c93256604f0f02c3978e0c60e4b637dcf5b01ebff50620dade2cdf355a75e761",
+  "source": {
+    "path": "sources/articles/wquguru-claude-pro-risk-weights.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/wquguru-claude-pro-risk-weights.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

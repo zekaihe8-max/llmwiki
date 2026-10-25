@@ -1,0 +1,23 @@
+{
+  "slug": "3ab5d3b73f1e3864",
+  "url": "https://x.com/op7418/status/2114216604741550466",
+  "title": "Grokbot 内置问题反馈",
+  "digest": "2026-10-25-cn-x.md",
+  "status": "filed",
+  "hash": "3ab5d3b73f1e386460d5f9deca72407047dd3d364e003c8f2706ad89faabdcf4",
+  "first_seen": "2026-10-25T11:51:17.939Z",
+  "last_seen": "2026-10-25T11:51:17.939Z",
+  "fetched_at": "2026-10-25T11:51:19.889Z",
+  "content_hash": "06b7c0c8f278dfbe1252970dd73612713bcd517d6734fb669308ac1e9bbcb7f2",
+  "article_path": "articles/3ab5d3b73f1e3864.md",
+  "fetched_url": "https://x.com/op7418/status/2114216604741550466",
+  "source_path": "sources/articles/op7418-grokbot-bug-feedback.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-25T11:59:34.853Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:36:10.571Z",
+  "url": "https://x.com/fkysly/status/2114217071043395588",
+  "slug": "66b355974c7f8d07",
+  "content_hash": "4e21b364f2968c80326dab07906627fc4c8fd26b3b7b73af9a03730af6eb02d5",
+  "source": {
+    "path": "sources/articles/fkysly-sub2api-weekly-claude-schedule.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/fkysly-sub2api-weekly-claude-schedule.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

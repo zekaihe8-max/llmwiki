@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T11:55:17.810Z",
+  "url": "https://x.com/dotey/status/2114203536477053273",
+  "slug": "f8ae7bb669e39a6f",
+  "content_hash": "3dda9b277e42a8aeff8146f102091b44defcba051371df82188a405b9633215e",
+  "source": {
+    "path": "sources/articles/dotey-grok-bot-like-crayfish.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dotey-grok-bot-like-crayfish.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

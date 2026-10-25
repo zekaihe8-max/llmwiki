@@ -9,9 +9,12 @@ sources:
   - id: vista8-plugin-3000-users
     resource: https://x.com/vista8/status/2113957797268533409
     title: vista8 on plugin reaching 3000 users
+  - id: oran-ge-eight-podcast-ai-close-reads
+    resource: https://x.com/oran_ge/status/2113996510287585493
+    title: Orange AI on eight podcast AI close-read sites
 generated:
   by: cursor-agent/composer
-  at: 2026-10-24T21:43:17+08:00
+  at: 2026-10-25T20:59:42+08:00
 ---
 
 # AI 辅助剪藏与媒体笔记
@@ -24,9 +27,9 @@ Browser clipping extensions aimed at Obsidian / RSS can gain users quickly; auth
 
 ## 综合分析 / Synthesis
 
-[向阳乔木谈插件到 3000 用户](../sources/articles/vista8-plugin-3000-users.md) 称「乔木剪藏 · Obsidian + RSS」下载增长快，已约 3000 用户，并说以后听播客、看视频、做笔记都可用 AI 辅助。[^vista8-plugin-3000-users] 原帖 <https://x.com/vista8/status/2113957797268533409>。该主张把价值放在「剪藏插件进日常媒体与笔记」与「用户规模信号」，而不是另写一套封闭笔记产品说明。同作者另有 Qiaomu Reader Obsidian 插件路径（见 [向阳乔木谈 WiFi 传 epub 到越狱 Kindle](../sources/articles/vista8-kindle-wifi-epub.md)），侧重越狱 Kindle 传书，与本帖的 Chrome 剪藏用户增长是不同表面。
+[向阳乔木谈插件到 3000 用户](../sources/articles/vista8-plugin-3000-users.md) 称「乔木剪藏 · Obsidian + RSS」下载增长快，已约 3000 用户，并说以后听播客、看视频、做笔记都可用 AI 辅助。[^vista8-plugin-3000-users] 原帖 <https://x.com/vista8/status/2113957797268533409>。该主张把价值放在「剪藏插件进日常媒体与笔记」与「用户规模信号」，而不是另写一套封闭笔记产品说明。同作者另有 Qiaomu Reader Obsidian 插件路径（见 [向阳乔木谈 WiFi 传 epub 到越狱 Kindle](../sources/articles/vista8-kindle-wifi-epub.md)），侧重越狱 Kindle 传书，与本帖的 Chrome 剪藏用户增长是不同表面。[Orange AI 谈 8 个播客 AI 精读站](../sources/articles/oran-ge-eight-podcast-ai-close-reads.md) 另推同一作者圈子做的按节目 `*.qiaomu.ai` 自动转写精读站，方法主张是精细转写优于摘要——见 [播客 AI 精细转写精读](./podcast-ai-fine-transcription-close-reads.md)，与本页的剪藏插件用户增长是相邻而非同一主张。[^oran-ge-eight-podcast-ai-close-reads]
 
-[vista8 on plugin reaching 3000 users](../sources/articles/vista8-plugin-3000-users.md) says「乔木剪藏 · Obsidian + RSS」downloads are growing fast—about 3000 users—and that podcasts, videos, and notes can all use AI assistance going forward.[^vista8-plugin-3000-users] Post: <https://x.com/vista8/status/2113957797268533409>. The value sits in clipping into everyday media and notes plus a user-scale signal, not a closed note-product writeup. The same author also ships a Qiaomu Reader Obsidian plugin path (see [vista8 on WiFi-sending epub to a jailbroken Kindle](../sources/articles/vista8-kindle-wifi-epub.md)) aimed at jailbroken-Kindle delivery—a different surface from this Chrome clipping growth claim.
+[vista8 on plugin reaching 3000 users](../sources/articles/vista8-plugin-3000-users.md) says「乔木剪藏 · Obsidian + RSS」downloads are growing fast—about 3000 users—and that podcasts, videos, and notes can all use AI assistance going forward.[^vista8-plugin-3000-users] Post: <https://x.com/vista8/status/2113957797268533409>. The value sits in clipping into everyday media and notes plus a user-scale signal, not a closed note-product writeup. The same author also ships a Qiaomu Reader Obsidian plugin path (see [vista8 on WiFi-sending epub to a jailbroken Kindle](../sources/articles/vista8-kindle-wifi-epub.md)) aimed at jailbroken-Kindle delivery—a different surface from this Chrome clipping growth claim. [Orange AI on eight podcast AI close-read sites](../sources/articles/oran-ge-eight-podcast-ai-close-reads.md) separately points to per-show `*.qiaomu.ai` auto-transcription close-read sites from the same builder circle, arguing fine transcription over summary—see [Podcast AI fine-transcription close reads](./podcast-ai-fine-transcription-close-reads.md), adjacent to but not the same claim as this page’s clipping-plugin growth.[^oran-ge-eight-podcast-ai-close-reads]
 
 ## 矛盾与变化 / Contradictions
 
@@ -36,7 +39,10 @@ Browser clipping extensions aimed at Obsidian / RSS can gain users quickly; auth
 
 - Source: [向阳乔木谈插件到 3000 用户](../sources/articles/vista8-plugin-3000-users.md)
 - Source: [向阳乔木谈 WiFi 传 epub 到越狱 Kindle](../sources/articles/vista8-kindle-wifi-epub.md)
+- Source: [Orange AI 谈 8 个播客 AI 精读站](../sources/articles/oran-ge-eight-podcast-ai-close-reads.md)
+- Topic: [播客 AI 精细转写精读](./podcast-ai-fine-transcription-close-reads.md)
 - Topic: [大模型协助电子书设备越狱](./llm-assisted-ereader-jailbreak.md)
 - Topic: [开源工具装进 AI 助手做自然语言剪辑](./open-source-in-ai-assistant-editing.md)
 
 [^vista8-plugin-3000-users]: vista8 on plugin reaching 3000 users
+[^oran-ge-eight-podcast-ai-close-reads]: Orange AI on eight podcast AI close-read sites

@@ -1,0 +1,29 @@
+{
+  "slug": "797677620685caa7",
+  "url": "https://x.com/oran_ge/status/2113996510287585493)%EF%BC%89",
+  "title": null,
+  "digest": "2026-10-25-cn-x.md",
+  "status": "failed",
+  "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
+  "first_seen": "2026-10-25T11:51:17.939Z",
+  "last_seen": "2026-10-25T11:51:17.939Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 404 Not Found",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-10-25T11:51:53.505Z",
+      "stage": "fetch",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 404 Not Found",
+  "last_fetch_failed_at": "2026-10-25T11:51:53.505Z"
+}

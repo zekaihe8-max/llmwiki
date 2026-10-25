@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:54:19.388Z",
+  "url": "https://x.com/dingyi/status/2114219431421509903",
+  "slug": "39a8d0cbe956c1aa",
+  "content_hash": "ee2a1db70463df5a3b9b0ac35869e46ae9622df6cd550bf230b0762841e6553b",
+  "source": {
+    "path": "sources/articles/dingyi-iphone-duo-users-vs-devs.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/iphone-duo-user-vs-developer-reception.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dingyi-iphone-duo-users-vs-devs.md",
+    "topics/iphone-duo-user-vs-developer-reception.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

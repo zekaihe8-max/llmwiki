@@ -1,0 +1,23 @@
+{
+  "slug": "95e66d7375660f07",
+  "url": "https://x.com/FringJason/status/2114280837810458972",
+  "title": "用 Grok Bot 内置 X 检索替 Codex 省 X API",
+  "digest": "2026-10-25-cn-x.md",
+  "status": "filed",
+  "hash": "95e66d7375660f078dee67efe45a43ef6829266c263ea3f513c51c2491f126b5",
+  "first_seen": "2026-10-25T11:51:17.939Z",
+  "last_seen": "2026-10-25T11:51:17.939Z",
+  "fetched_at": "2026-10-25T11:51:50.917Z",
+  "content_hash": "17392870513d0c3a4501711033532327c9239a242aef882360a594b34b750e6d",
+  "article_path": "articles/95e66d7375660f07.md",
+  "fetched_url": "https://x.com/FringJason/status/2114280837810458972",
+  "source_path": "sources/articles/fringjason-grok-bot-x-api-bridge.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-25T13:10:23.088Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

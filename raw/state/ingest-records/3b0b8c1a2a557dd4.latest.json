@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:19:24.197Z",
+  "url": "https://x.com/shao__meng/status/2114179842837303681",
+  "slug": "3b0b8c1a2a557dd4",
+  "content_hash": "ddf24d20138e9258f5eb9fe380862150ab5157487d0cc9afec67361abcb0c821",
+  "source": {
+    "path": "sources/articles/shao-meng-natolambert-harvard-open-models.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/open-models-cyber-defense.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/shao-meng-natolambert-harvard-open-models.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/open-models-cyber-defense.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:00:54.359Z",
+  "url": "https://x.com/op7418/status/2114229075514651001",
+  "slug": "9eb8b76059f459c2",
+  "content_hash": "ca246076d349e6c2c399ef835187b5fb1bdf1fb03aff13d6256683c3ca5ea602",
+  "source": {
+    "path": "sources/articles/op7418-notion-iphone-duo.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-output-to-notion-reading.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-output-to-notion-reading.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/op7418-notion-iphone-duo.md",
+    "topics/agent-output-to-notion-reading.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

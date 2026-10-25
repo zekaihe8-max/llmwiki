@@ -2,9 +2,9 @@
 type: Topic
 title: Pro 与 Flash 模型策略
 title_en: Pro vs Flash model strategy
-description: 近期带 Pro 后缀的发布常被质疑未达预期；社区亦强调不如旗舰可靠性价比，刷分碰瓷、过度宣传与忽悠高价会反噬；也有体感肯定某款 Pro「很强」却嫌太贵；对多数 AI 团队而言，做 Flash 级模型是否才是更稳的路线仍是开放问题。
-description_en: Recent Pro-suffixed releases are often questioned as underwhelming; community voices also say trailing a flagship is fine with strong value, while score hype, over-promotion, and selling high invite backlash; other takes affirm a Pro as strong but too expensive; whether Flash-tier models are the steadier path for most AI teams remains an open question.
-tags: [pro, flash, model-strategy, deepseek, kimi, gemini]
+description: 近期带 Pro 后缀的发布常被质疑未达预期；社区亦强调不如旗舰可靠性价比，刷分碰瓷、过度宣传与忽悠高价会反噬；也有体感肯定某款 Pro「很强」却嫌太贵；另有声音称某厂已落国产第二梯队，DeepSeek / MiniMax Flash 又快又好用不完而对方套餐几句额度光；对多数 AI 团队而言，做 Flash 级模型是否才是更稳的路线仍是开放问题。
+description_en: Recent Pro-suffixed releases are often questioned as underwhelming; community voices also say trailing a flagship is fine with strong value, while score hype, over-promotion, and selling high invite backlash; other takes affirm a Pro as strong but too expensive; another says one lab has fallen to China’s second tier, with DeepSeek / MiniMax Flash fast, good, and hard to exhaust while that lab’s package burns quota in a few lines; whether Flash-tier models are the steadier path for most AI teams remains an open question.
+tags: [pro, flash, model-strategy, deepseek, kimi, gemini, minimax]
 sources:
   - id: shao-meng-pro-models-underwhelm
     resource: https://x.com/shao__meng/status/2113891829586579946
@@ -18,18 +18,21 @@ sources:
   - id: gorden-sun-kimi-k3-1-pro-pricey
     resource: https://x.com/Gorden_Sun/status/2113858192375734780
     title: Gorden Sun on Kimi K3.1 Pro—strong but pricey
+  - id: dingyi-kimi-en-kol-fake-accounts
+    resource: https://x.com/dingyi/status/2114227612654698798
+    title: Ding on Kimi skipping CN KOLs and fake English accounts
 generated:
   by: cursor-agent/composer
-  at: 2026-10-24T21:32:46+08:00
+  at: 2026-10-25T20:45:32+08:00
 ---
 
 # Pro 与 Flash 模型策略
 
 *Pro vs Flash model strategy*
 
-实验室常同时推 Pro（更强、更贵）与 Flash（更快、更省）两档；当若干 Pro 后缀发布被感觉「拉胯」或胎死腹中时，社区会追问：对大多数团队，押注 Flash 是否比追 Pro 更理性。另有声音强调：水平不如 Opus 可以靠性价比站住，刷分碰瓷、过度宣传与忽悠高价则会在社区实测下反噬；也有体感肯定某款 Pro 能力很强，却仍嫌太贵。[^shao-meng-pro-models-underwhelm][^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash][^gorden-sun-kimi-k3-1-pro-pricey]
+实验室常同时推 Pro（更强、更贵）与 Flash（更快、更省）两档；当若干 Pro 后缀发布被感觉「拉胯」或胎死腹中时，社区会追问：对大多数团队，押注 Flash 是否比追 Pro 更理性。另有声音强调：水平不如 Opus 可以靠性价比站住，刷分碰瓷、过度宣传与忽悠高价则会在社区实测下反噬；也有体感肯定某款 Pro 能力很强，却仍嫌太贵；还有声音直接把某一厂标成国产第二梯队，并点名 DeepSeek / MiniMax Flash「又快又好用不完」、对方套餐几句额度光。[^shao-meng-pro-models-underwhelm][^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash][^gorden-sun-kimi-k3-1-pro-pricey][^dingyi-kimi-en-kol-fake-accounts]
 
-Labs often ship both Pro (stronger, pricier) and Flash (faster, cheaper) tiers; when several Pro-suffixed releases feel underwhelming or abort, the community asks whether most teams should bet on Flash rather than chase Pro. Other voices add that trailing Opus can still work with strong value, while score hype, over-promotion, and selling high backfire under community tests; other takes affirm a Pro as strong yet still too expensive.[^shao-meng-pro-models-underwhelm][^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash][^gorden-sun-kimi-k3-1-pro-pricey]
+Labs often ship both Pro (stronger, pricier) and Flash (faster, cheaper) tiers; when several Pro-suffixed releases feel underwhelming or abort, the community asks whether most teams should bet on Flash rather than chase Pro. Other voices add that trailing Opus can still work with strong value, while score hype, over-promotion, and selling high backfire under community tests; other takes affirm a Pro as strong yet still too expensive; still another labels one lab China’s second tier and names DeepSeek / MiniMax Flash as fast, good, and hard to exhaust versus that lab’s package burning quota in a few lines.[^shao-meng-pro-models-underwhelm][^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash][^gorden-sun-kimi-k3-1-pro-pricey][^dingyi-kimi-en-kol-fake-accounts]
 
 ## 综合分析 / Synthesis
 
@@ -49,11 +52,15 @@ Labs often ship both Pro (stronger, pricier) and Flash (faster, cheaper) tiers; 
 
 [Gorden Sun on Kimi K3.1 Pro—strong but pricey](../sources/articles/gorden-sun-kimi-k3-1-pro-pricey.md) gives the opposite capability feel on the same Kimi K3.1 Pro: very strong—“steamed quite well”—with dissatisfaction on “too expensive.”[^gorden-sun-kimi-k3-1-pro-pricey] Post: <https://x.com/Gorden_Sun/status/2113858192375734780>. It pulls the Pro-tier debate from “strong enough?” back to “worth this price?”
 
+[Ding 谈 Kimi 不投中推与英推假大号](../sources/articles/dingyi-kimi-en-kol-fake-accounts.md) 在宣发批评之外给出档位体感：Kimi「已完全沦落到国产模型第二梯队」，并点名试 DeepSeek 4.1 flash、MiniMax 3.1 flash——又快又好、根本用不完；反观 Kimi 套餐几句话额度用光。[^dingyi-kimi-en-kol-fake-accounts] 原帖 <https://x.com/dingyi/status/2114227612654698798>。把「Flash 是否更稳」从策略发问推进到具名 Flash 产品与额度浪费的对照，主文仍以营销渠道为主，产品判断是附带结论。
+
+[Ding on Kimi skipping CN KOLs and fake English accounts](../sources/articles/dingyi-kimi-en-kol-fake-accounts.md) adds a tier take beside the promo critique: Kimi has “fully fallen to the second tier of Chinese models,” and names trying DeepSeek 4.1 flash and MiniMax 3.1 flash—fast, good, and hard to exhaust—versus Kimi’s package burning quota in a few sentences.[^dingyi-kimi-en-kol-fake-accounts] Post: <https://x.com/dingyi/status/2114227612654698798>. It moves “is Flash steadier?” from a strategy question toward named Flash products versus quota waste; the post’s main line is still marketing channels, with the product judgment as a side conclusion.
+
 ## 矛盾与变化 / Contradictions
 
-[邵萌问 Pro 模型是否集体拉胯](../sources/articles/shao-meng-pro-models-underwhelm.md) 把 Kimi K3.1 Pro 列进「不太达预期」的 Pro 后缀例子。[^shao-meng-pro-models-underwhelm] [Gorden Sun 评 Kimi K3.1 Pro 强但贵](../sources/articles/gorden-sun-kimi-k3-1-pro-pricey.md) 则称同一款能力很强，问题是太贵。[^gorden-sun-kimi-k3-1-pro-pricey] 一方质疑 Pro 档能力未达预期，一方肯定能力而嫌定价；尚未用同一套实测对齐。
+[邵萌问 Pro 模型是否集体拉胯](../sources/articles/shao-meng-pro-models-underwhelm.md) 把 Kimi K3.1 Pro 列进「不太达预期」的 Pro 后缀例子。[^shao-meng-pro-models-underwhelm] [Gorden Sun 评 Kimi K3.1 Pro 强但贵](../sources/articles/gorden-sun-kimi-k3-1-pro-pricey.md) 则称同一款能力很强，问题是太贵。[^gorden-sun-kimi-k3-1-pro-pricey] [Ding 谈 Kimi 不投中推与英推假大号](../sources/articles/dingyi-kimi-en-kol-fake-accounts.md) 进一步把 Kimi 标成国产第二梯队，并以 DeepSeek / MiniMax Flash 的速度、手感与额度对照 Kimi 套餐「几句额度光」。[^dingyi-kimi-en-kol-fake-accounts] 「拉胯 / 第二梯队」、「强但贵」、以及 Flash 对照并存，尚未用同一套实测对齐。
 
-[Meng Shao asks if Pro models are underwhelming](../sources/articles/shao-meng-pro-models-underwhelm.md) lists Kimi K3.1 Pro among Pro-suffixed models that mostly missed expectations.[^shao-meng-pro-models-underwhelm] [Gorden Sun on Kimi K3.1 Pro—strong but pricey](../sources/articles/gorden-sun-kimi-k3-1-pro-pricey.md) calls that same model very capable, with the problem on price.[^gorden-sun-kimi-k3-1-pro-pricey] One side doubts Pro-tier capability; the other affirms capability and complains about pricing—not yet aligned by a shared eval.
+[Meng Shao asks if Pro models are underwhelming](../sources/articles/shao-meng-pro-models-underwhelm.md) lists Kimi K3.1 Pro among Pro-suffixed models that mostly missed expectations.[^shao-meng-pro-models-underwhelm] [Gorden Sun on Kimi K3.1 Pro—strong but pricey](../sources/articles/gorden-sun-kimi-k3-1-pro-pricey.md) calls that same model very capable, with the problem on price.[^gorden-sun-kimi-k3-1-pro-pricey] [Ding on Kimi skipping CN KOLs and fake English accounts](../sources/articles/dingyi-kimi-en-kol-fake-accounts.md) further labels Kimi China’s second tier and contrasts DeepSeek / MiniMax Flash speed, feel, and quota against Kimi’s package burning in a few lines.[^dingyi-kimi-en-kol-fake-accounts] “Underwhelming / second tier,” “strong but pricey,” and the Flash contrast coexist—not yet aligned by a shared eval.
 
 ## 相关 / Related
 
@@ -61,6 +68,7 @@ Labs often ship both Pro (stronger, pricier) and Flash (faster, cheaper) tiers; 
 - Source: [马天翼谈刷分碰瓷 Opus 是自掘坟墓](../sources/articles/fkysly-score-hype-opus-grave.md)
 - Source: [马天翼谈过度宣传反噬](../sources/articles/fkysly-overhype-backlash.md)
 - Source: [Gorden Sun 评 Kimi K3.1 Pro 强但贵](../sources/articles/gorden-sun-kimi-k3-1-pro-pricey.md)
+- Source: [Ding 谈 Kimi 不投中推与英推假大号](../sources/articles/dingyi-kimi-en-kol-fake-accounts.md)
 - Topic: [社区实测对抗刷分碰瓷](./community-evals-vs-score-hype.md)
 - Topic: [开放权重前沿模型](./open-weight-frontier-models.md)
 
@@ -68,3 +76,4 @@ Labs often ship both Pro (stronger, pricier) and Flash (faster, cheaper) tiers; 
 [^fkysly-score-hype-opus-grave]: fkysly on score hype and Opus name-dropping as a self-dug grave
 [^fkysly-overhype-backlash]: fkysly on over-promotion backlash
 [^gorden-sun-kimi-k3-1-pro-pricey]: Gorden Sun on Kimi K3.1 Pro—strong but pricey
+[^dingyi-kimi-en-kol-fake-accounts]: Ding on Kimi skipping CN KOLs and fake English accounts

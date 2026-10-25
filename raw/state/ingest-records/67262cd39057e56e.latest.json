@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:28:17.888Z",
+  "url": "https://x.com/xiaomovps/status/2114285431324057857",
+  "slug": "67262cd39057e56e",
+  "content_hash": "dd0a096068b234cdb33df09c4491d6c4b8c557deb5f2997c3802840fd414184f",
+  "source": {
+    "path": "sources/articles/xiaomovps-claude-code-token-five-projects.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/xiaomovps-claude-code-token-five-projects.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agents-md-token-efficiency.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
