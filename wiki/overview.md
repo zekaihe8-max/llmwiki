@@ -37,6 +37,6 @@ A folder becomes a sidebar section. A `.md` file becomes a page. `index.md` and 
 
 Write a page when the idea should stay readable on its own: a concept, a decision, a procedure, or a note you expect to look up later. Cross-link with ordinary Markdown links to other `.md` files.
 
-路径如何变成 URL 见 [编译页面](./concepts/compiled-pages.md)；如何新增一页见 [添加页面](./guides/adding-a-page.md)。每日 X 简报在 [X 简报](./sources/x-digest/index.md)。示例 Source / Topic 列在 [首页](./index.md)，[日志](./log.md) 记录入库时间。
+路径如何变成 URL 见 [编译页面](./concepts/compiled-pages.md)；如何新增一页见 [添加页面](./guides/adding-a-page.md)。每日 X 简报在 [X 简报](./sources/x-digest/index.md)。方法与维护说明见 [关于与维护](./guides/about-and-maintenance.md)；[日志](./log.md) 记录入库时间。Source / Topic 目录在 [首页完整目录](./index.md)、[主题](./topics/index.md) 与 [文章](./sources/articles/index.md)。
 
 See [Compiled pages](./concepts/compiled-pages.md) for how paths map to URLs, and [Adding a page](./guides/adding-a-page.md) for the file to create. Daily X briefs are in [X digests](./sources/x-digest/index.md). Example Source and Topic pages are cataloged on the [home page](./index.md), and the [log](./log.md) records when they were filed.

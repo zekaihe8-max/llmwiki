@@ -4,22 +4,29 @@ okf_version: "0.2"
 
 # Hezekai Wiki
 
-这是一份由 Markdown 编译的公开 wiki。每页对应 `wiki/` 下的一个文件，侧栏跟随目录树。
+访客入口由站点首页组件呈现。下方是 OKF 知识目录（与侧栏同源）。
 
-This is a public wiki compiled from Markdown. Each page is a file under `wiki/`, and the sidebar follows that folder tree.
+The visitor entry is rendered by the site home component. The OKF knowledge directory follows (same catalog as the sidebar).
 
-## 从这里开始 / Start here
 
-- [概览 / Overview](./overview.md) — 本 wiki 的内容与页面组织。 / what the wiki holds and how the pages are arranged.
-- [编译页面 / Compiled pages](./concepts/compiled-pages.md) — Markdown 文件如何成为发布页。 / how a Markdown file becomes a published page.
-- [添加页面 / Adding a page](./guides/adding-a-page.md) — 新页面放哪里，下次构建才会进侧栏。 / where a new page goes so the next build lists it.
-- [X 简报 / X digests](./sources/x-digest/index.md) — 来自 X 的每日精选，每条链回原帖。 / curated daily briefs from X, with each item linked to the original post.
+## 站内入口 / Site entry points
 
-## 示例 Source 与 Topic / Example sources and topics
+- [概览 / Overview](./overview.md) — 内容与页面组织。 / what the wiki holds and how pages are arranged.
+- [关于与维护 / About and maintenance](./guides/about-and-maintenance.md) — 方法、双语约定与维护命令。 / method, bilingual convention, and maintainer commands.
+- [编译页面 / Compiled pages](./concepts/compiled-pages.md) — Markdown 如何成为发布页。 / how a Markdown file becomes a published page.
+- [添加页面 / Adding a page](./guides/adding-a-page.md) — 新页面放哪里。 / where a new page goes.
+- [X 简报 / X digests](./sources/x-digest/index.md) — 每日精选归档。 / curated daily briefs archive.
+- [日志 / Log](./log.md) — 入库时间线。 / filing timeline.
+- [主题 / Topics](./topics/index.md) · [文章 / Articles](./sources/articles/index.md)
 
-Source / Topic 模式页，不属于 X 简报。[日志 / log](./log.md) 记录入库时间。
+## 完整目录 / Full catalog
 
-Scaffold pages for the Source and Topic schema. They are not part of the X digests. The [log](./log.md) records when they were filed.
+<details>
+<summary>展开知识目录 / Expand the knowledge directory</summary>
+
+### Source 与 Topic / Sources and topics
+
+Source / Topic 页。[日志 / log](./log.md) 记录入库时间。维护说明见 [关于与维护](./guides/about-and-maintenance.md)。
 
 - [LLM Wiki](./sources/articles/karpathy-llm-wiki.md) — Karpathy 的 LLM 维护型 markdown wiki 模式：在不可变原文与读者之间持续沉淀。 / Karpathy's pattern for an LLM-maintained markdown wiki that compounds between immutable raw sources and the reader.
 - [Building effective agents](./sources/articles/anthropic-building-effective-agents.md) — Anthropic 2024-12 工程笔记：系统宜保持简单，仅在工作流不够时再引入开放式 agent。 / Anthropic's December 2024 engineering note that successful systems stay simple and add open-ended agents only when a workflow is not enough.
@@ -212,3 +219,5 @@ Scaffold pages for the Source and Topic schema. They are not part of the X diges
 - [iPhone Duo 普通人吐槽与开发者赞美](./topics/iphone-duo-user-vs-developer-reception.md) — 对新双屏机型（如 iPhone Duo）的公开反应可按人群分裂：普通人多吐槽缺点，iOS 开发者则一边倒赞美。 / Public reaction to a new dual-screen device (e.g. iPhone Duo) can split by audience—ordinary people complain about shortcomings while iOS developers praise it one-sidedly.
 - [menubar 管理工具真空](./topics/menubar-management-tool-gap.md) — 即便通用 AI 能力很强，Mac menubar 图标管理一类日常工具仍可能长期缺「完美好用」选项——现有产品或难用、或更新不停仍不满意、或已停更。 / Even when general AI is strong, everyday Mac menubar icon managers can still lack a “polished and usable” option—current products may be hard to use, update often yet still disappoint, or sit abandoned.
 - [纯语音全双工与情绪可听](./topics/pure-speech-full-duplex.md) — 仅从人类语音训练的 speech-to-speech 全双工模型，可保留语气与情绪线索，避免「语音→文本→LLM」压掉非文本信息；并被框成能力上升时「听不见痛苦还继续聊」的安全补丁。 / Speech-to-speech full-duplex models trained only on human voice can keep tone and emotion cues that voice→text→LLM stacks crush; they are also framed as a safety step against chatting on while deaf to pain as capability rises.
+
+</details>

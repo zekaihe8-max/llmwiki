@@ -1,0 +1,37 @@
+/* Bilingual reading mode — classes applied by readingMode.js */
+
+.reading-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0 0 1rem;
+  padding: 0.2rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  background: var(--vp-c-bg-soft);
+  font-size: 0.8rem;
+}
+
+.reading-toggle button {
+  border: 0;
+  background: transparent;
+  color: var(--vp-c-text-2);
+  padding: 0.25rem 0.55rem;
+  border-radius: 3px;
+  cursor: pointer;
+  font: inherit;
+}
+
+.reading-toggle button.is-active {
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  box-shadow: 0 0 0 1px var(--vp-c-divider);
+}
+
+.vp-doc[data-reading-mode='zh'] .rw-en {
+  display: none !important;
+}
+
+.vp-doc[data-reading-mode='en'] .rw-zh {
+  display: none !important;
+}

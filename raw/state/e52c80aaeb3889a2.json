@@ -3,7 +3,7 @@
   "url": "https://x.com/Suchuanyi/status/2114155779133489207)%EF%BC%89",
   "title": null,
   "digest": "2026-10-25-cn-x.md",
-  "status": "failed",
+  "status": "skipped",
   "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
   "first_seen": "2026-10-25T11:51:17.939Z",
   "last_seen": "2026-10-25T11:51:17.939Z",
@@ -23,7 +23,9 @@
     }
   ],
   "filed_at": null,
-  "skipped_at": null,
+  "skipped_at": "2026-10-25T14:40:00.000Z",
   "last_fetch_error": "HTTP 404 Not Found",
-  "last_fetch_failed_at": "2026-10-25T11:51:53.938Z"
+  "last_fetch_failed_at": "2026-10-25T11:51:53.938Z",
+  "duplicate_of": "60bbc1aeaf27cfa3",
+  "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
 }

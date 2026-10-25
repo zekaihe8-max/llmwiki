@@ -6,6 +6,7 @@ Chronological record of page creations, updates, and deprecations.
 
 ## 2026-10-25
 
+* **更新 / Update**: Visitor homepage, nav, bilingual reading mode, and about/browse landings; URL extraction strips fullwidth paren junk. See [关于与维护](./guides/about-and-maintenance.md), [主题](./topics/index.md), [文章](./sources/articles/index.md).
 * **创建 / Creation**: Filed the [gptkit 谈 HarnessRouter 不是 Grok Bot 升级](./sources/articles/suchuanyi-harnessrouter-not-grok-bot.md) source, opened [多 Harness 路由基建 ≠ 个人助手派活](./topics/multi-harness-router-vs-personal-dispatch.md), and updated [个人 Agent 当包工头调度编程 Agent](./topics/personal-agent-foreman-over-coding-agents.md).
 * **创建 / Creation**: Filed the [小邓同学谈 Grok 当包工头调度 Codex / Claude Code](./sources/articles/heydengai-grok-foreman-codex-claude.md) source, opened [个人 Agent 当包工头调度编程 Agent](./topics/personal-agent-foreman-over-coding-agents.md), and updated [高端 AI 订阅价值](./topics/premium-ai-subscription-value.md).
 * **创建 / Creation**: Filed the [赵老师Jason谈用 Grok Bot 内置 X 检索替 Codex 省 X API](./sources/articles/fringjason-grok-bot-x-api-bridge.md) source and opened [用 Grok Bot 内置额度桥接 Agent 查 X](./topics/grok-bot-x-api-substitute.md).
