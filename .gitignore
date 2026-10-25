@@ -73,6 +73,9 @@ scripts/*
 !scripts/ingest-day.mjs
 !scripts/ingest.test.mjs
 !scripts/ingest-batch.test.mjs
+!scripts/yaml.test.mjs
+!scripts/lint-bilingual.test.mjs
+!scripts/ingest-record.test.mjs
 !scripts/lib/
 !scripts/lib/**
 

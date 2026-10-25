@@ -10,6 +10,7 @@ import { fileURLToPath } from 'node:url'
 import { writeGraphData } from './build-graph.mjs'
 import { requireRecord } from './fetch-articles.mjs'
 import { findSourcePages, lintFiling } from './lint-okf.mjs'
+import { collectTouchedTopics, writeIngestRecord } from './lib/ingest-record.mjs'
 import { rawPaths, writeJson } from './lib/store.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
@@ -32,7 +33,7 @@ export function buildCompilePrompt({ articlePath, url, digest, slug, title }) {
     '',
     'Do this:',
     '1. Write or update exactly one Source page under wiki/sources/articles/{human-slug}.md. One article, one Source. If a Source with this resource URL already exists, update that file in place. Do not create a second Source for the same URL.',
-    '2. Update each Topic the article bears on. Reuse an existing Topic when the idea is already there. Create a Topic only when no current page owns the idea. Keep or add ## 矛盾与变化 / Contradictions (bilingual). Maintain both ZH and EN when extending Synthesis, Contradictions, Related, and viewpoint changes.',
+    '2. Topic integration: read wiki/index.md and wiki/topics/ first. Prefer reuse; one article may touch many Topics; create a Topic only when no page owns the concept. Integrate evidence/conclusions/scope/contradictions — never mechanically append a per-article summary. Leaving a Topic unchanged with a clear reason is OK. Keep ## 矛盾与变化 / Contradictions (bilingual). Maintain ZH and EN together.',
     '3. Cite the fetched article. Footnote labels must match sources[].id. Wiki links are relative and end in .md. Do not link to raw/. Do not save or cite the digest summary as the article body.',
     '4. Update the matching bullets in wiki/index.md so each bullet still carries the page description (bilingual when the page has both).',
     '5. Append wiki/log.md only when that Source filename is not already mentioned. If it is already there, leave the log unchanged.',
@@ -191,11 +192,39 @@ export async function compileArticle({
   record.error = null
   writeJson(rawPaths(rawRoot).record(record.slug), record)
   log(`compile ${record.slug}: filed ${record.source_path}`)
+
+  const topics = collectTouchedTopics(wikiRoot, record.source_path)
+  let ingestRecord = null
+  try {
+    ingestRecord = writeIngestRecord({
+      rawRoot,
+      wikiRoot,
+      record,
+      sourceAction: 'update',
+      topicsConsulted: topics,
+      topicActions: topics.map((p) => ({ path: p, action: 'update', reason: 'linked from Source; Agent maintains semantics' })),
+      filesChanged: [record.source_path, ...topics, 'index.md', 'log.md'].filter(Boolean),
+      now,
+    })
+    if (!ingestRecord.record.validation.ok) {
+      log(`ingest-record: validation warnings: ${ingestRecord.record.validation.errors.join('; ')}`)
+    } else {
+      log(`ingest-record: ${path.relative(rawRoot, ingestRecord.path)}`)
+    }
+  } catch (error) {
+    log(`ingest-record: skipped (${error.message})`)
+  }
+
   if (graph) {
     const built = writeGraphData(wikiRoot, graphOut)
     log(`graph: ${built.nodes.length} nodes, ${built.edges.length} edges`)
+    const orphans = (built.nodes || []).filter((n) => n.page_type === 'Source' || n.page_type === 'Topic')
+    // Orphan hint computed in build-graph; log if present
+    if (built.orphanHints?.length) {
+      for (const hint of built.orphanHints.slice(0, 20)) log(`graph orphan: ${hint}`)
+    }
   }
-  return { ok: true, skipped: false, code: 0, record }
+  return { ok: true, skipped: false, code: 0, record, ingestRecord }
 }
 
 export function defaultSpawn({ bin, args, cwd }) {

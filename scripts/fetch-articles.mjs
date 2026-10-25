@@ -120,6 +120,8 @@ export async function fetchRecord({
   if (record.status === 'failed' && (retryFailed || recheck)) {
     record.status = 'seen'
     record.error = null
+    record.last_fetch_error = null
+    record.last_fetch_failed_at = null
   }
 
   const stamp = now()
@@ -174,6 +176,8 @@ export async function fetchRecord({
       record.fetched_at = record.fetched_at || stamp
       record.fetched_url = response.url || record.fetched_url || record.url
       record.error = null
+      record.last_fetch_error = null
+      record.last_fetch_failed_at = null
       if (record.status === 'seen' || record.status === 'failed') record.status = 'fetched'
       if (!record.title && pageTitle) record.title = pageTitle
       writeJson(rawPaths(rawRoot).record(record.slug), record)
@@ -195,6 +199,8 @@ export async function fetchRecord({
     record.fetched_at = stamp
     record.fetched_url = response.url || record.url
     record.error = null
+    record.last_fetch_error = null
+    record.last_fetch_failed_at = null
     record.compile_error = null
     record.status = 'fetched'
     record.filed_at = null
@@ -212,6 +218,8 @@ export async function fetchRecord({
   record.fetched_url = response.url || record.url
   record.status = 'fetched'
   record.error = null
+  record.last_fetch_error = null
+  record.last_fetch_failed_at = null
   if (!record.title && pageTitle) record.title = pageTitle
   writeJson(rawPaths(rawRoot).record(record.slug), record)
   log(`fetch ${record.slug}: fetched ${rel}`)
@@ -222,6 +230,10 @@ function failFetch(record, prior, rawRoot, message, stamp, log) {
   const kept = prior.content_hash && prior.article_path && articleAbs(rawRoot, prior) && fs.existsSync(articleAbs(rawRoot, prior))
     && prior.status !== 'seen' && prior.status !== 'failed'
   record.attempts = [...(record.attempts || []), { at: stamp, stage: 'fetch', error: message }]
+  // Always record the refresh/fetch failure. Keeping an old snapshot must NOT
+  // be counted as success — callers treat ok:false as partial failure.
+  record.last_fetch_error = message
+  record.last_fetch_failed_at = stamp
   if (kept) {
     record.status = prior.status
     record.error = prior.error
@@ -229,14 +241,22 @@ function failFetch(record, prior, rawRoot, message, stamp, log) {
     record.article_path = prior.article_path
     record.fetched_at = prior.fetched_at
     record.filed_at = prior.filed_at
-    log(`fetch ${record.slug}: ${message}; kept existing snapshot`)
+    log(`fetch ${record.slug}: ${message}; kept existing snapshot (refresh/fetch failed)`)
   } else {
     record.status = 'failed'
     record.error = message
     log(`fetch ${record.slug}: failed: ${message}`)
   }
   writeJson(rawPaths(rawRoot).record(record.slug), record)
-  return { ok: Boolean(kept), skipped: false, attempted: true, record, error: message }
+  return {
+    ok: false,
+    skipped: false,
+    attempted: true,
+    record,
+    error: message,
+    keptSnapshot: Boolean(kept),
+    refreshFailed: Boolean(kept),
+  }
 }
 
 function writeArticle(rawRoot, rel, markdown) {
