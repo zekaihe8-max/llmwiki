@@ -10,7 +10,12 @@ import { fileURLToPath } from 'node:url'
 import { writeGraphData } from './build-graph.mjs'
 import { requireRecord } from './fetch-articles.mjs'
 import { findSourcePages, lintFiling } from './lint-okf.mjs'
-import { collectTouchedTopics, writeIngestRecord } from './lib/ingest-record.mjs'
+import {
+  buildIngestRecordFromDiff,
+  collectTouchedTopics,
+  readAgentIngestNotes,
+  snapshotWikiFiles,
+} from './lib/ingest-record.mjs'
 import { rawPaths, writeJson } from './lib/store.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
@@ -41,10 +46,19 @@ export function buildCompilePrompt({ articlePath, url, digest, slug, title }) {
     '',
     'Language (same-file bilingual, project default): every Source/Topic must have title + title_en, description + description_en.',
     'Body: # heading matches title; italic English title line; sections ## 摘要 / Summary, ## 综合分析 / Synthesis (topics), ## 矛盾与变化 / Contradictions (topics), ## 相关 / Related.',
-    'Write ZH then EN pairs for paragraphs and bullets. Shared sources[].id and footnotes across both languages.',
-    'Proper nouns, product names, APIs, commands, and resource URLs stay in their common form. Do not invent facts; translate faithfully.',
+    'ZH/EN pairing convention (program-checked structure, not translation quality):',
+    '- Prefer adjacent blocks: one Chinese paragraph/bullet, then its English translation paragraph/bullet.',
+    '- Or same-line: `中文。 / English.` Empty OK: `暂无。 / None yet.`',
+    '- Shared code fences, formulas, wiki links, footnote defs, and bare URLs are shared — not translations.',
+    '- Product names, APIs, cite ids, and URLs alone do NOT count as the English half.',
+    'Shared sources[].id and footnotes across both languages. Do not invent facts; translate faithfully.',
     'On re-ingest of unchanged content, never append a duplicate translation block.',
     'Set generated.by to the agent you are and generated.at to an ISO 8601 datetime with an explicit UTC offset.',
+    '',
+    'After writing wiki pages, write structured notes (claims only; program verifies file diffs) to:',
+    `raw/state/ingest-notes/${slug}.json`,
+    'JSON shape: {"topics_consulted":["topics/foo.md"],"selection_reasons":{"topics/foo.md":"..."},"topics":[{"path":"topics/foo.md","action":"add_evidence|change_conclusion|record_contradiction|unchanged|create","reason":"..."}],"new_topic_reasons":{"topics/new.md":"why no existing topic fits"},"notes":"optional"}',
+    'Do not claim a Topic was updated if you did not change that file. Linked ≠ modified.',
   )
   return lines.join('\n')
 }
@@ -105,8 +119,23 @@ export async function compileArticle({
 }) {
   const record = requireRecord(rawRoot, { url, slug })
   if (record.status === 'filed') {
-    log(`compile ${record.slug}: already filed, skipped`)
-    return { ok: true, skipped: true, code: 0, record }
+    log(`compile ${record.slug}: already filed, skipped (no Agent)`)
+    // Knowledge already filed: allow graph-only recovery without re-calling Agent / appending logs.
+    if (graph) {
+      try {
+        const built = writeGraphData(wikiRoot, graphOut)
+        log(`graph: ${built.nodes.length} nodes, ${built.edges.length} edges (rebuild after filed)`)
+        if (built.orphanHints?.length) {
+          for (const hint of built.orphanHints.slice(0, 20)) log(`graph orphan: ${hint}`)
+        }
+        return { ok: true, skipped: true, code: 0, record, graphOk: true, graph: built }
+      } catch (error) {
+        const message = `graph rebuild failed: ${error.message}`
+        log(`graph: ${message}`)
+        return { ok: false, skipped: true, code: 1, record, error: message, graphOk: false }
+      }
+    }
+    return { ok: true, skipped: true, code: 0, record, graphOk: null }
   }
   if (record.status === 'skipped') {
     return { ok: false, skipped: true, code: 1, record, error: 'record is skipped' }
@@ -144,6 +173,8 @@ export async function compileArticle({
   writeJson(rawPaths(rawRoot).record(record.slug), record)
   log(`compile ${record.slug}: ${resolved.bin} ${args.slice(0, -1).join(' ')}`)
 
+  // Isolate this Agent run: snapshot wiki before spawn so ingest-record actions match real diffs.
+  const wikiBefore = snapshotWikiFiles(wikiRoot)
   const spawned = await spawnImpl({ bin: resolved.bin, args, cwd, prompt })
   const code = spawned?.code ?? 1
   const stderr = String(spawned?.stderr || '').slice(-2000)
@@ -186,6 +217,37 @@ export async function compileArticle({
     return { ok: false, skipped: false, code: 1, record, error: record.compile_error, errors }
   }
 
+  const wikiAfter = snapshotWikiFiles(wikiRoot)
+  const topics = collectTouchedTopics(wikiRoot, record.source_path)
+  const agentNotes = readAgentIngestNotes(rawRoot, record.slug)
+
+  let ingestRecord = null
+  try {
+    ingestRecord = buildIngestRecordFromDiff({
+      rawRoot,
+      wikiRoot,
+      record,
+      before: wikiBefore,
+      after: wikiAfter,
+      topicsConsulted: topics,
+      agentNotes,
+      now,
+    })
+    log(`ingest-record: ${path.relative(rawRoot, ingestRecord.path)} (source=${ingestRecord.record.source.action})`)
+  } catch (error) {
+    record.compile_error = error.message
+    writeJson(rawPaths(rawRoot).record(record.slug), record)
+    log(`compile ${record.slug}: ingest-record failed, status sourced`)
+    return {
+      ok: false,
+      skipped: false,
+      code: 1,
+      record,
+      error: error.message,
+      graphOk: null,
+    }
+  }
+
   record.status = 'filed'
   record.filed_at = now()
   record.compile_error = null
@@ -193,38 +255,35 @@ export async function compileArticle({
   writeJson(rawPaths(rawRoot).record(record.slug), record)
   log(`compile ${record.slug}: filed ${record.source_path}`)
 
-  const topics = collectTouchedTopics(wikiRoot, record.source_path)
-  let ingestRecord = null
-  try {
-    ingestRecord = writeIngestRecord({
-      rawRoot,
-      wikiRoot,
-      record,
-      sourceAction: 'update',
-      topicsConsulted: topics,
-      topicActions: topics.map((p) => ({ path: p, action: 'update', reason: 'linked from Source; Agent maintains semantics' })),
-      filesChanged: [record.source_path, ...topics, 'index.md', 'log.md'].filter(Boolean),
-      now,
-    })
-    if (!ingestRecord.record.validation.ok) {
-      log(`ingest-record: validation warnings: ${ingestRecord.record.validation.errors.join('; ')}`)
-    } else {
-      log(`ingest-record: ${path.relative(rawRoot, ingestRecord.path)}`)
-    }
-  } catch (error) {
-    log(`ingest-record: skipped (${error.message})`)
-  }
-
+  // Knowledge ingest vs graph result are separate. Graph failure keeps filed knowledge
+  // and must be recoverable on a later run without re-calling Agent.
+  let graphOk = null
+  let graphError = null
+  let built = null
   if (graph) {
-    const built = writeGraphData(wikiRoot, graphOut)
-    log(`graph: ${built.nodes.length} nodes, ${built.edges.length} edges`)
-    const orphans = (built.nodes || []).filter((n) => n.page_type === 'Source' || n.page_type === 'Topic')
-    // Orphan hint computed in build-graph; log if present
-    if (built.orphanHints?.length) {
-      for (const hint of built.orphanHints.slice(0, 20)) log(`graph orphan: ${hint}`)
+    try {
+      built = writeGraphData(wikiRoot, graphOut)
+      graphOk = true
+      log(`graph: ${built.nodes.length} nodes, ${built.edges.length} edges`)
+      if (built.orphanHints?.length) {
+        for (const hint of built.orphanHints.slice(0, 20)) log(`graph orphan: ${hint}`)
+      }
+    } catch (error) {
+      graphOk = false
+      graphError = `graph write failed: ${error.message}`
+      log(`graph: ${graphError} (knowledge remains filed; re-run to rebuild graph only)`)
+      return {
+        ok: false,
+        skipped: false,
+        code: 1,
+        record,
+        ingestRecord,
+        error: graphError,
+        graphOk: false,
+      }
     }
   }
-  return { ok: true, skipped: false, code: 0, record, ingestRecord }
+  return { ok: true, skipped: false, code: 0, record, ingestRecord, graphOk, graph: built }
 }
 
 export function defaultSpawn({ bin, args, cwd }) {

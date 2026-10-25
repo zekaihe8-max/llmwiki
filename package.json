@@ -15,7 +15,7 @@
     "ingest:one": "node scripts/ingest-one.mjs",
     "ingest:batch": "node scripts/ingest-batch.mjs",
     "ingest:day": "node scripts/ingest-day.mjs",
-    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs scripts/ingest-batch.test.mjs scripts/yaml.test.mjs scripts/lint-bilingual.test.mjs scripts/ingest-record.test.mjs",
+    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs scripts/ingest-batch.test.mjs scripts/yaml.test.mjs scripts/lint-bilingual.test.mjs scripts/ingest-record.test.mjs scripts/ingest-record-gates.test.mjs",
     "lint:okf:bilingual": "node scripts/lint-okf.mjs --bilingual"
   },
   "devDependencies": {

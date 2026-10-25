@@ -49,10 +49,16 @@ Body pattern:
 
 - One `#` heading matching `title`, then an italic English title line `*English Title*`
 - Section headings: `## 摘要 / Summary`, `## 综合分析 / Synthesis` (topics), `## 矛盾与变化 / Contradictions` (topics), `## 相关 / Related`
-- Paragraphs and bullets as ZH then EN pairs (or clearly interleaved). Shared `sources[].id` and footnotes across both languages.
+- **ZH/EN pairing (program-checked structure):**
+  - Adjacent blocks: Chinese paragraph or bullet, then its English translation block; or
+  - Same-line: `中文。 / English.` Empty placeholder: `暂无。 / None yet.`
+  - Shared code fences, formulas, wiki links, footnote definitions, and bare URLs are shared — not translations.
+  - Product names, APIs, cite ids, and URLs alone do **not** count as the English half.
+- Shared `sources[].id` and footnotes across both languages.
 - Keep proper nouns, product names, APIs, commands, and `resource` URLs in the form they are known.
 - Direct quotes: keep the original and add a translation.
 - Do not invent facts; translate existing claims faithfully.
+- Format completeness is checked by `lint:okf --bilingual`. Translation quality is Agent-reviewed — passing format checks does **not** prove translation accuracy.
 - On re-ingest of unchanged content, never append a duplicate translation block.
 
 `npm run lint:okf` checks OKF + project structure. Bilingual completeness is a separate project check: `npm run lint:okf -- --bilingual`.
