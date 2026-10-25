@@ -7,6 +7,7 @@ import { compileArticle } from './compile-article.mjs'
 import { fetchRecord } from './fetch-articles.mjs'
 import { writeGraphData } from './build-graph.mjs'
 import {
+  acquireCompileLock,
   buildIngestRecordFromDiff,
   snapshotWikiFiles,
   validateIngestRecordShape,
@@ -339,4 +340,187 @@ test('deriveActionsFromDiff maps create/update/unchanged correctly', () => {
   assert.equal(derived.sourceAction, 'create')
   assert.equal(derived.topicActions[0].action, 'unchanged')
   assert.deepEqual(derived.filesChanged, ['index.md', 'sources/articles/new.md'])
+})
+
+
+test('missing Topic selection reason must FAIL (no auto-fill)', () => {
+  const { rawRoot, wikiRoot } = tempPair()
+  const url = 'https://example.com/no-reason'
+  fs.writeFileSync(path.join(wikiRoot, 'topics/demo.md'), topicMd(url))
+  const before = snapshotWikiFiles(wikiRoot)
+  fs.writeFileSync(path.join(wikiRoot, 'sources/articles/demo.md'), sourceMd(url))
+  const after = snapshotWikiFiles(wikiRoot)
+  assert.throws(
+    () => buildIngestRecordFromDiff({
+      rawRoot,
+      wikiRoot,
+      record: {
+        slug: 'example-com-no-reason',
+        url,
+        source_path: 'sources/articles/demo.md',
+        content_hash: 'abc',
+      },
+      before,
+      after,
+      topicsConsulted: ['topics/demo.md'],
+      agentNotes: {
+        topics_consulted: ['topics/demo.md'],
+        topics: [{ path: 'topics/demo.md', action: 'unchanged' }],
+      },
+      now: () => '2026-10-25T04:00:00.000Z',
+    }),
+    /missing selection reason|unchanged requires a reason/,
+  )
+})
+
+test('missing new-Topic necessity must FAIL (no auto-fill)', () => {
+  const { rawRoot, wikiRoot } = tempPair()
+  const url = 'https://example.com/new-topic-no-why'
+  const before = snapshotWikiFiles(wikiRoot)
+  fs.writeFileSync(path.join(wikiRoot, 'sources/articles/demo.md'), sourceMd(url).replace(
+    '../../topics/demo.md',
+    '../../topics/brand-new.md',
+  ))
+  fs.writeFileSync(path.join(wikiRoot, 'topics/brand-new.md'), topicMd(url))
+  const after = snapshotWikiFiles(wikiRoot)
+  assert.throws(
+    () => buildIngestRecordFromDiff({
+      rawRoot,
+      wikiRoot,
+      record: {
+        slug: 'example-com-new-topic-no-why',
+        url,
+        source_path: 'sources/articles/demo.md',
+        content_hash: 'abc',
+      },
+      before,
+      after,
+      topicsConsulted: ['topics/brand-new.md'],
+      agentNotes: {
+        topics_consulted: ['topics/brand-new.md'],
+        selection_reasons: { 'topics/brand-new.md': 'closest match' },
+        // reason present on create action is NOT enough for necessity — need new_topic_reasons
+        // unless action.reason doubles; our validator accepts action.reason OR new_topic_reasons.
+        // Force failure by omitting BOTH reason and new_topic_reasons:
+        topics: [{ path: 'topics/brand-new.md', action: 'create' }],
+      },
+      now: () => '2026-10-25T04:01:00.000Z',
+    }),
+    /requires new_topic_reasons|new topic .* requires new_topic_reasons/,
+  )
+})
+
+test('fake update claim when disk unchanged must REJECT (not rewrite)', () => {
+  const { rawRoot, wikiRoot } = tempPair()
+  const url = 'https://example.com/fake-update'
+  fs.writeFileSync(path.join(wikiRoot, 'topics/demo.md'), topicMd(url))
+  fs.writeFileSync(path.join(wikiRoot, 'sources/articles/demo.md'), sourceMd(url))
+  const before = snapshotWikiFiles(wikiRoot)
+  fs.writeFileSync(path.join(wikiRoot, 'sources/articles/demo.md'), sourceMd(url, '演示改'))
+  const after = snapshotWikiFiles(wikiRoot)
+  assert.throws(
+    () => buildIngestRecordFromDiff({
+      rawRoot,
+      wikiRoot,
+      record: {
+        slug: 'example-com-fake-update',
+        url,
+        source_path: 'sources/articles/demo.md',
+        content_hash: 'abc',
+      },
+      before,
+      after,
+      topicsConsulted: ['topics/demo.md'],
+      agentNotes: {
+        topics_consulted: ['topics/demo.md'],
+        selection_reasons: { 'topics/demo.md': 'edge compute topic' },
+        topics: [{ path: 'topics/demo.md', action: 'update', reason: 'claimed update' }],
+      },
+      now: () => '2026-10-25T04:02:00.000Z',
+    }),
+    /claimed update but disk shows unchanged|reject/,
+  )
+})
+
+test('fake create claim when file existed must REJECT', () => {
+  const { rawRoot, wikiRoot } = tempPair()
+  const url = 'https://example.com/fake-create'
+  fs.writeFileSync(path.join(wikiRoot, 'topics/demo.md'), topicMd(url))
+  const before = snapshotWikiFiles(wikiRoot)
+  fs.writeFileSync(path.join(wikiRoot, 'sources/articles/demo.md'), sourceMd(url))
+  fs.writeFileSync(path.join(wikiRoot, 'topics/demo.md'), topicMd(url).replace(
+    '中文综合。 / English synthesis.',
+    '中文综合更新。 / English synthesis updated.',
+  ))
+  const after = snapshotWikiFiles(wikiRoot)
+  assert.throws(
+    () => buildIngestRecordFromDiff({
+      rawRoot,
+      wikiRoot,
+      record: {
+        slug: 'example-com-fake-create',
+        url,
+        source_path: 'sources/articles/demo.md',
+        content_hash: 'abc',
+      },
+      before,
+      after,
+      topicsConsulted: ['topics/demo.md'],
+      agentNotes: {
+        topics_consulted: ['topics/demo.md'],
+        selection_reasons: { 'topics/demo.md': 'reuse' },
+        topics: [{ path: 'topics/demo.md', action: 'create', reason: 'claimed create' }],
+        new_topic_reasons: { 'topics/demo.md': 'should not matter' },
+      },
+      now: () => '2026-10-25T04:03:00.000Z',
+    }),
+    /claimed create but disk shows update|reject/,
+  )
+})
+
+test('declared reasons + matching actions PASS', () => {
+  const { rawRoot, wikiRoot } = tempPair()
+  const url = 'https://example.com/ok-reasons'
+  fs.writeFileSync(path.join(wikiRoot, 'topics/demo.md'), topicMd(url))
+  const before = snapshotWikiFiles(wikiRoot)
+  fs.writeFileSync(path.join(wikiRoot, 'sources/articles/demo.md'), sourceMd(url))
+  fs.writeFileSync(path.join(wikiRoot, 'topics/demo.md'), topicMd(url).replace(
+    '中文综合。 / English synthesis.',
+    '中文综合并补充证据。 / English synthesis with new evidence.',
+  ))
+  const after = snapshotWikiFiles(wikiRoot)
+  const out = buildIngestRecordFromDiff({
+    rawRoot,
+    wikiRoot,
+    record: {
+      slug: 'example-com-ok-reasons',
+      url,
+      source_path: 'sources/articles/demo.md',
+      content_hash: 'abc',
+    },
+    before,
+    after,
+    topicsConsulted: ['topics/demo.md'],
+    agentNotes: {
+      topics_consulted: ['topics/demo.md'],
+      selection_reasons: { 'topics/demo.md': 'covers programmable edge compute' },
+      topics: [{ path: 'topics/demo.md', action: 'add_evidence', reason: 'integrated Durable Objects claims' }],
+    },
+    now: () => '2026-10-25T04:04:00.000Z',
+  })
+  assert.equal(out.record.validation.ok, true)
+  assert.equal(out.record.source.action, 'create')
+  assert.equal(out.record.topics[0].action, 'add_evidence')
+})
+
+test('acquireCompileLock rejects concurrent run (isolation)', () => {
+  const { rawRoot } = tempPair()
+  const first = acquireCompileLock(rawRoot, 'slug-a', { now: () => '2026-10-25T04:05:00.000Z' })
+  assert.throws(
+    () => acquireCompileLock(rawRoot, 'slug-b', { now: () => '2026-10-25T04:05:01.000Z' }),
+    /compile isolation/,
+  )
+  first.release()
+  const second = acquireCompileLock(rawRoot, 'slug-b', { now: () => '2026-10-25T04:05:02.000Z' })
+  second.release()
 })

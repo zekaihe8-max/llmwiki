@@ -19,6 +19,8 @@ export { snapshotWikiFiles, diffWikiSnapshots, deriveActionsFromDiff }
 /**
  * Build a record from before/after wiki snapshots + optional Agent notes.
  * Program verifies file diffs; Agent notes are claims about why (not proof of understanding).
+ * Missing selection / new-topic reasons → validation failure (never auto-fill).
+ * Fake action claims that disagree with disk → validation failure (never silently rewrite to succeed).
  */
 export function buildIngestRecordFromDiff({
   rawRoot,
@@ -43,6 +45,9 @@ export function buildIngestRecordFromDiff({
     agentTopicActions,
   })
 
+  const selectionReasons = normalizeReasonMap(agentNotes?.selection_reasons)
+  const newTopicReasons = normalizeReasonMap(agentNotes?.new_topic_reasons)
+
   return writeIngestRecord({
     rawRoot,
     wikiRoot,
@@ -51,10 +56,12 @@ export function buildIngestRecordFromDiff({
     topicsConsulted: [...new Set(consulted)],
     topicActions: derived.topicActions,
     filesChanged: derived.filesChanged,
-    newTopicReasons: agentNotes?.new_topic_reasons || {},
+    newTopicReasons,
+    selectionReasons,
+    claimErrors: derived.claimErrors || [],
     agentNotes: {
       claimed_consulted: agentNotes?.topics_consulted || topicsConsulted,
-      selection_reasons: agentNotes?.selection_reasons || null,
+      selection_reasons: Object.keys(selectionReasons).length ? selectionReasons : null,
       notes: agentNotes?.notes || null,
       // Explicit: disk diff is authoritative for create/update/unchanged.
       program_verifiable: {
@@ -67,6 +74,17 @@ export function buildIngestRecordFromDiff({
     now,
     strict: true,
   })
+}
+
+function normalizeReasonMap(raw) {
+  /** @type {Record<string, string>} */
+  const out = {}
+  if (!raw || typeof raw !== 'object') return out
+  for (const [k, v] of Object.entries(raw)) {
+    const key = String(k).replace(/\\/g, '/')
+    if (typeof v === 'string' && v.trim()) out[key] = v.trim()
+  }
+  return out
 }
 
 /**
@@ -84,6 +102,8 @@ export function writeIngestRecord({
   topicActions = [],
   filesChanged = [],
   newTopicReasons = {},
+  selectionReasons = {},
+  claimErrors = [],
   agentNotes = null,
   before = null,
   after = null,
@@ -101,6 +121,8 @@ export function writeIngestRecord({
     before,
     after,
     newTopicReasons,
+    selectionReasons,
+    claimErrors,
   })
 
   const payload = {
@@ -116,6 +138,7 @@ export function writeIngestRecord({
     topics_consulted: topicsConsulted,
     topics: topicActions,
     new_topic_reasons: newTopicReasons,
+    selection_reasons: selectionReasons,
     files_changed: filesChanged,
     agent_notes: agentNotes,
     validation,
@@ -146,9 +169,17 @@ export function validateIngestRecordShape({
   before = null,
   after = null,
   newTopicReasons = {},
+  selectionReasons = {},
+  claimErrors = [],
 }) {
   const errors = []
   const changedSet = new Set((filesChanged || []).map((p) => String(p).replace(/\\/g, '/')))
+  const reasons = normalizeReasonMap(selectionReasons)
+  const newReasons = normalizeReasonMap(newTopicReasons)
+
+  for (const msg of claimErrors || []) {
+    if (msg) errors.push(String(msg))
+  }
 
   if (sourcePath) {
     const abs = path.join(wikiRoot, sourcePath)
@@ -202,12 +233,24 @@ export function validateIngestRecordShape({
     if ((action.action === 'unchanged' || action.action === 'no_change') && changedSet.has(norm)) {
       errors.push(`topic ${norm} marked unchanged but present in files_changed`)
     }
+
+    // Selection reason required for every Topic the Agent touched/consulted.
+    // Do NOT auto-fill — missing declaration must fail.
+    const selection = reasons[norm] || (typeof action.reason === 'string' ? action.reason.trim() : '')
+    if (!selection) {
+      errors.push(`topic ${norm}: missing selection reason (Agent must declare why this Topic was chosen; no auto-fill)`)
+    }
+
+    // Unchanged still needs an explicit Agent reason (why not modified).
     if ((action.action === 'unchanged' || action.action === 'no_change') && !action.reason) {
       errors.push(`topic ${norm} unchanged requires a reason`)
     }
+
     if (action.action === 'create' || action.action === 'create_needed') {
-      const reason = newTopicReasons?.[norm] || action.reason
-      if (!reason) errors.push(`new topic ${norm} requires new_topic_reasons or reason`)
+      // Necessity must be in new_topic_reasons — do not accept a generic action.reason as a substitute.
+      if (!newReasons[norm]) {
+        errors.push(`new topic ${norm} requires new_topic_reasons (Agent must declare necessity; no auto-fill)`)
+      }
     }
     if (before instanceof Map && after instanceof Map) {
       const was = before.has(norm)
@@ -283,5 +326,38 @@ export function readAgentIngestNotes(rawRoot, slug) {
     return JSON.parse(fs.readFileSync(file, 'utf8'))
   } catch {
     return null
+  }
+}
+
+/** Compile-run lock so concurrent Agent jobs cannot mix wiki diffs. */
+export function acquireCompileLock(rawRoot, slug, { now = () => new Date().toISOString() } = {}) {
+  const state = rawPaths(rawRoot).state
+  fs.mkdirSync(state, { recursive: true })
+  const lockPath = path.join(state, 'compile.lock')
+  if (fs.existsSync(lockPath)) {
+    let existing = null
+    try { existing = JSON.parse(fs.readFileSync(lockPath, 'utf8')) } catch { /* ignore */ }
+    const err = new Error(
+      `compile isolation: another run holds ${lockPath}`
+      + (existing?.slug ? ` (slug=${existing.slug}, at=${existing.at})` : ''),
+    )
+    err.lockPath = lockPath
+    err.existing = existing
+    throw err
+  }
+  const payload = { slug, at: now(), pid: process.pid }
+  fs.writeFileSync(lockPath, `${JSON.stringify(payload, null, 2)}\n`, { flag: 'wx' })
+  return {
+    path: lockPath,
+    release() {
+      try {
+        if (fs.existsSync(lockPath)) {
+          const cur = JSON.parse(fs.readFileSync(lockPath, 'utf8'))
+          if (cur?.slug === slug && cur?.pid === process.pid) fs.unlinkSync(lockPath)
+        }
+      } catch {
+        try { fs.unlinkSync(lockPath) } catch { /* ignore */ }
+      }
+    },
   }
 }

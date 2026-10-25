@@ -54,9 +54,43 @@ export function diffWikiSnapshots(before, after) {
   return { created, updated, deleted, unchanged }
 }
 
+/** Map disk diff class → allowed Agent action names. */
+const UPDATE_LIKE = new Set(['update', 'add_evidence', 'change_conclusion', 'record_contradiction'])
+const UNCHANGED_LIKE = new Set(['unchanged', 'no_change'])
+const CREATE_LIKE = new Set(['create', 'create_needed'])
+
+/**
+ * Disk-derived action for a path.
+ * @param {{ created: string[], updated: string[], deleted: string[], unchanged: string[] }} diff
+ * @param {string} topicPath
+ */
+export function diskActionForPath(diff, topicPath) {
+  if (diff.created.includes(topicPath)) return 'create'
+  if (diff.updated.includes(topicPath)) return 'update'
+  if (diff.deleted.includes(topicPath)) return 'delete'
+  return 'unchanged'
+}
+
+/**
+ * True when Agent-claimed action is compatible with disk truth.
+ * @param {string} diskAction
+ * @param {string|undefined} claimed
+ */
+export function claimCompatibleWithDisk(diskAction, claimed) {
+  if (!claimed) return false
+  const c = String(claimed)
+  if (diskAction === 'create') return CREATE_LIKE.has(c)
+  if (diskAction === 'update') return UPDATE_LIKE.has(c)
+  if (diskAction === 'delete') return c === 'delete'
+  if (diskAction === 'unchanged') return UNCHANGED_LIKE.has(c)
+  return false
+}
+
 /**
  * Derive Source/Topic actions and files_changed from a real diff.
- * Linked/consulted topics that did not change → unchanged (not update).
+ * Disk is authoritative for create/update/delete/unchanged.
+ * Agent claims that disagree with disk produce claimErrors (must fail validation — never silently rewrite to succeed).
+ * Reasons are NEVER auto-filled; missing Agent reasons stay empty for validation to reject.
  *
  * @param {{ created: string[], updated: string[], deleted: string[], unchanged: string[] }} diff
  * @param {{ sourcePath: string|null, topicsConsulted?: string[], agentTopicActions?: object[] }} opts
@@ -84,22 +118,37 @@ export function deriveActionsFromDiff(diff, { sourcePath = null, topicsConsulted
     ...agentByPath.keys(),
   ])
 
+  /** @type {string[]} */
+  const claimErrors = []
   const topicActions = []
   for (const topicPath of [...topicPaths].sort()) {
     const agent = agentByPath.get(topicPath) || {}
-    let action = 'unchanged'
-    if (diff.created.includes(topicPath)) action = 'create'
-    else if (diff.updated.includes(topicPath)) {
-      action = agent.action && agent.action !== 'unchanged' && agent.action !== 'no_change'
-        ? agent.action
-        : 'update'
-    } else if (diff.deleted.includes(topicPath)) action = 'delete'
-    else action = 'unchanged'
+    const diskAction = diskActionForPath(diff, topicPath)
 
-    const reason = agent.reason
-      || (action === 'unchanged' ? 'consulted; content unchanged on disk' : `detected ${action} from wiki content diff`)
-    topicActions.push({ path: topicPath, action, reason })
+    // Record uses disk-derived action class (update-like subtype kept only when compatible).
+    let action = diskAction
+    if (diskAction === 'update' && agent.action && UPDATE_LIKE.has(String(agent.action))) {
+      action = agent.action
+    }
+
+    if (agent.action) {
+      if (!claimCompatibleWithDisk(diskAction, agent.action)) {
+        claimErrors.push(
+          `topic ${topicPath}: Agent claimed ${agent.action} but disk shows ${diskAction} (reject; do not rewrite)`,
+        )
+      }
+    }
+
+    // Never invent a reason — empty reason must fail validation later.
+    const reason = typeof agent.reason === 'string' && agent.reason.trim() ? agent.reason.trim() : undefined
+    topicActions.push({ path: topicPath, action, ...(reason ? { reason } : {}) })
   }
 
-  return { sourceAction, topicActions, filesChanged, changedPaths: [...changed].sort() }
+  return {
+    sourceAction,
+    topicActions,
+    filesChanged,
+    changedPaths: [...changed].sort(),
+    claimErrors,
+  }
 }

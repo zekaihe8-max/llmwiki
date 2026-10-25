@@ -2,9 +2,9 @@
 type: Topic
 title: 可编程边缘计算
 title_en: Programmable edge compute
-description: 边缘网络应通过沙箱化 JavaScript 变为可编程，并配以最终一致的边缘 KV 与强一致、可协调的 Durable Objects，才能支撑整应用在边缘运行，而不是无限叠加固定功能。
-description_en: Edge networks should become programmable via sandboxed JavaScript and pair that with eventually consistent edge KV plus strongly consistent, coordinatable Durable Objects so whole apps can run at the edge—not by stacking fixed features forever.
-tags: [edge, serverless, cloudflare-workers, workers-kv, durable-objects, javascript, service-workers, v8, key-value, coordination]
+description: 边缘网络应通过沙箱化 JavaScript 变为可编程，并配以最终一致的边缘 KV、强一致可协调的 Durable Objects，以及面向 Workers 的 SQL 数据库（D1），才能支撑整应用在边缘运行，而不是无限叠加固定功能。
+description_en: Edge networks should become programmable via sandboxed JavaScript and pair that with eventually consistent edge KV, strongly consistent coordinatable Durable Objects, and a Workers-oriented SQL database (D1) so whole apps can run at the edge—not by stacking fixed features forever.
+tags: [edge, serverless, cloudflare-workers, workers-kv, durable-objects, d1, sql, sqlite, javascript, service-workers, v8, key-value, coordination]
 sources:
   - id: introducing-cloudflare-workers
     resource: https://blog.cloudflare.com/introducing-cloudflare-workers
@@ -15,9 +15,12 @@ sources:
   - id: introducing-workers-durable-objects
     resource: https://blog.cloudflare.com/introducing-workers-durable-objects
     title: Introducing Workers Durable Objects
+  - id: introducing-d1
+    resource: https://blog.cloudflare.com/introducing-d1
+    title: "Introducing D1: our first SQL database"
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T10:32:30+08:00
+  at: 2026-10-25T11:18:06+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -25,9 +28,9 @@ generated:
 
 *Programmable edge compute*
 
-当边缘只提供固定协议与产品能力时，自定义缓存、负载均衡、安全规则等需求永远盖不全。把边缘做成可编程平台——在靠近用户的节点上安全执行租户代码——才能覆盖开放用例；这要求运行时足够轻、启动够快，并能在同一主机上隔离多方代码。[^introducing-cloudflare-workers] 有状态生产应用还需要全球分布的持久存储：最终一致的边缘键值层可在极低延迟下读数十亿对，并接受短暂不一致换取可用性与分区容忍。[^workers-kv-ga] 强一致与多客户端实时协调则需要另一原语：按应用逻辑单元（文档、聊天室、购物车）拆分的 Durable Objects，使整应用可完全跑在边缘、无需中心源站。[^introducing-workers-durable-objects]
+当边缘只提供固定协议与产品能力时，自定义缓存、负载均衡、安全规则等需求永远盖不全。把边缘做成可编程平台——在靠近用户的节点上安全执行租户代码——才能覆盖开放用例；这要求运行时足够轻、启动够快，并能在同一主机上隔离多方代码。[^introducing-cloudflare-workers] 有状态生产应用还需要全球分布的持久存储：最终一致的边缘键值层可在极低延迟下读数十亿对，并接受短暂不一致换取可用性与分区容忍。[^workers-kv-ga] 强一致与多客户端实时协调则需要另一原语：按应用逻辑单元（文档、聊天室、购物车）拆分的 Durable Objects，使整应用可完全跑在边缘、无需中心源站。[^introducing-workers-durable-objects] 关系型查询与跨全库任意 SQL 则需要再一原语：面向 Workers 的 SQL 数据库 D1（基于 SQLite），用自动读副本、批处理与邻近计算把应用状态放在一处仍可全球读。[^introducing-d1]
 
-When the edge only ships fixed protocols and product features, custom caching, load balancing, security rules, and similar needs never fully cover the open case space. Making the edge a programmable platform—safely running tenant code near users—requires a runtime light enough, fast enough to start, and able to isolate many parties on one host.[^introducing-cloudflare-workers] Stateful production apps also need globally distributed persistent storage: an eventually consistent edge key-value layer can read billions of pairs at ultra-low latency, trading brief inconsistency for availability and partition tolerance.[^workers-kv-ga] Strong consistency and real-time multi-client coordination need another primitive: Durable Objects split by app-logical units (document, chat room, shopping cart), so whole applications can run entirely at the edge with no centralized origin.[^introducing-workers-durable-objects]
+When the edge only ships fixed protocols and product features, custom caching, load balancing, security rules, and similar needs never fully cover the open case space. Making the edge a programmable platform—safely running tenant code near users—requires a runtime light enough, fast enough to start, and able to isolate many parties on one host.[^introducing-cloudflare-workers] Stateful production apps also need globally distributed persistent storage: an eventually consistent edge key-value layer can read billions of pairs at ultra-low latency, trading brief inconsistency for availability and partition tolerance.[^workers-kv-ga] Strong consistency and real-time multi-client coordination need another primitive: Durable Objects split by app-logical units (document, chat room, shopping cart), so whole applications can run entirely at the edge with no centralized origin.[^introducing-workers-durable-objects] Relational queries and arbitrary SQL across the full dataset need yet another: D1, a Workers-oriented SQL database built on SQLite, using automatic read replicas, batching, and embedded compute so app state can live in one place while still serving global reads.[^introducing-d1]
 
 ## 综合分析 / Synthesis
 
@@ -43,19 +46,27 @@ When the edge only ships fixed protocols and product features, custom caching, l
 
 [Introducing Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md) ([original](https://blog.cloudflare.com/introducing-workers-durable-objects)) supplies strongly consistent state and real-time coordination: each Durable Object is a class instance with a globally unique ID, living in one place at a time, with private co-located storage that can be transactionally consistent—or used as a pure coordinator (e.g. rate limits) with no disk. Cloudflare auto-places and migrates objects (“Region: Earth”), matching storage to logical units such as chat rooms or documents. The beta also lets Workers speak WebSocket directly, enabling collaborative-editing and chat “killer” apps. The post frames serverless state as fine-grained units aligned with app logic, and looks toward edge databases that store each chunk as an Object.[^introducing-workers-durable-objects]
 
+[介绍 D1：首个 SQL 数据库](../sources/articles/introducing-d1.md)（[原文](https://blog.cloudflare.com/introducing-d1)）在 KV、Durable Objects 与 R2 之后宣布面向 Workers 的首个 SQL 数据库 [D1](https://blog.cloudflare.com/introducing-d1)，基于 SQLite。目标是把整应用状态放在一处、仍可对全库做任意关系查询；与「读写都回流单实例」的传统中心化库不同，D1 预告自动在靠近用户处建只读副本并持续同步，并提供批处理（一次往返多条 SQL，适合原子事务）、把 Worker 代码跑在库旁的嵌入式计算、定期快照到 R2 与一键恢复，且建立在 Durable Objects 冗余存储上以实现自愈。开发侧强调控制台创建、Wrangler binding（`env.DB`）与无出站费、按存储与操作计费的意向。[^introducing-d1]
+
+[Introducing D1: our first SQL database](../sources/articles/introducing-d1.md) ([original](https://blog.cloudflare.com/introducing-d1)) announces [D1](https://blog.cloudflare.com/introducing-d1)—the first SQL database for Workers, built on SQLite—after KV, Durable Objects, and R2. The goal is to keep whole-app state in one place while still running arbitrary relational queries across the full set; unlike traditional centralized databases where reads and writes funnel to a single instance, D1 previews automatic read-only clones near users kept in sync, plus batching (many SQL statements in one round-trip for atomic transactions), embedded compute that runs Worker code next to the database, regular R2 snapshots with one-click restore, and self-healing on Durable Objects’ redundant storage. On the DX side it stresses console creation, Wrangler bindings (`env.DB`), and pricing intent with no egress and charges for storage plus operations.[^introducing-d1]
+
 ## 矛盾与变化 / Contradictions
 
 - [介绍 Cloudflare Workers](../sources/articles/introducing-cloudflare-workers.md) 强调用边缘代码与 Cache API 改写请求、直接响应，尚未讨论脚本体积之外的大规模持久状态。[^introducing-cloudflare-workers] [Workers KV 正式可用](../sources/articles/workers-kv-ga.md) 则写明：仅靠硬编码与约 1 MB 脚本上限无法支撑数十亿键级用例，需要独立的最终一致 KV；并明确最终一致性不适合对同一键频繁写且不能容忍短暂双值的工作负载。[^workers-kv-ga]
 - [Introducing Cloudflare Workers](../sources/articles/introducing-cloudflare-workers.md) stresses rewriting requests and responding directly with edge code and the Cache API, without addressing large-scale durable state beyond script size.[^introducing-cloudflare-workers] [Workers KV is Generally Available](../sources/articles/workers-kv-ga.md) states that hard-coding under an about 1 MB script limit cannot support billions of keys, so a separate eventually consistent KV is required—and that eventual consistency is a poor fit when the same key is written often and brief dual values are unacceptable.[^workers-kv-ga]
 - [Workers KV 正式可用](../sources/articles/workers-kv-ga.md) 把最终一致、最后写入胜出的全球 KV 定为读多写少状态的解法。[^workers-kv-ga] [介绍 Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md) 则称：此前无法在边缘做强一致状态或多客户端实时协调，这些部分仍须托管别处；Durable Objects 坐在与 KV 相对的光谱一端——事务与即时一致，适合动态状态与协调，而 KV 仍最适合静态内容、配置等少变数据；并说明单点事务会带来远端光速延迟，靠自动迁移缓解。[^introducing-workers-durable-objects]
 - [Workers KV is Generally Available](../sources/articles/workers-kv-ga.md) treats eventually consistent, last-write-wins global KV as the answer for read-heavy state.[^workers-kv-ga] [Introducing Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md) says that until then strong consistency and real-time multi-client coordination were not possible entirely on the edge, so those parts still had to be hosted elsewhere; Durable Objects sit at the opposite end of the spectrum from KV—transactional and immediately consistent, better for dynamic state and coordination—while KV remains best for static content, config, and other rarely changing data; single-place transactions also imply speed-of-light latency for far clients, mitigated by auto-migration.[^introducing-workers-durable-objects]
+- [介绍 Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md) 展望以 Object 为 chunk 构建真正的边缘数据库。[^introducing-workers-durable-objects] [介绍 D1：首个 SQL 数据库](../sources/articles/introducing-d1.md) 则落地首个面向 Workers 的 SQL 数据库（SQLite），强调对全库任意查询与自动读副本，并把备份/自愈建立在 Durable Objects 冗余存储与 R2 快照上——关系库形态与「每 chunk 一 Object」的展望并存，而非互相替代叙述。[^introducing-d1]
+- [Introducing Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md) looks toward edge databases that store each chunk as an Object.[^introducing-workers-durable-objects] [Introducing D1: our first SQL database](../sources/articles/introducing-d1.md) ships the first Workers-oriented SQL database (SQLite), stressing arbitrary full-dataset queries and automatic read replicas, with backup/self-healing on Durable Objects’ redundant storage and R2 snapshots—a relational shape that sits beside the “one Object per chunk” outlook rather than replacing that story.[^introducing-d1]
 
 ## 相关 / Related
 
 - Source: [介绍 Cloudflare Workers](../sources/articles/introducing-cloudflare-workers.md)
 - Source: [Workers KV 正式可用](../sources/articles/workers-kv-ga.md)
 - Source: [介绍 Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md)
+- Source: [介绍 D1：首个 SQL 数据库](../sources/articles/introducing-d1.md)
 
 [^introducing-cloudflare-workers]: Introducing Cloudflare Workers
 [^workers-kv-ga]: Workers KV is Generally Available
 [^introducing-workers-durable-objects]: Introducing Workers Durable Objects
+[^introducing-d1]: Introducing D1: our first SQL database

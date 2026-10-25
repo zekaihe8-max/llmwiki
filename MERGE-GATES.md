@@ -55,3 +55,8 @@ Artifacts in this PR: `wiki.yml.desired`, `wiki-yml-remove-pr-paths.patch`.
 1. GitHub → Settings → Rules → Rulesets → **Wiki merge gates**
 2. Confirm required check context is exactly: `Format, bilingual, ingest tests, production build`
 3. After `wiki.yml` path-filter fix is on the PR branch: open a no-op PR that touches only an unrelated path (e.g. `README.md`) and confirm the Wiki check **runs** (not skipped/Pending).
+
+## Still pending (t173u)
+
+Admin with `workflow` scope must still apply `wiki.yml.desired` (or `wiki-yml-remove-pr-paths.patch`) on `fix/ingest-record-gates` so PR triggers always run the required Wiki check. Until then, Ruleset is active but path-filtered PRs can leave the check Pending.
+

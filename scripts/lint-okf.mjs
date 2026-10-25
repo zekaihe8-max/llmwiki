@@ -353,7 +353,9 @@ function sectionBlocks(sectionBody) {
 
 function sectionHasZhEnPair(sectionBody) {
   if (!sectionBody) return false
-  if (/暂无。?\s*\/\s*None yet\.?/i.test(sectionBody)) return true
+  // NOTE: do NOT short-circuit the whole section on a single "暂无。 / None yet."
+  // That placeholder is only a valid pair for its own block; later unpaired
+  // ZH/EN paragraphs/lists in the same section must still fail.
 
   const blocks = sectionBlocks(sectionBody)
   if (!blocks.length) return false

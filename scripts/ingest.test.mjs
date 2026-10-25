@@ -51,7 +51,7 @@ function htmlResponse(body, { status = 200, url = 'https://example.com/a', type 
   }
 }
 
-function writeCompiledWiki(wikiRoot, url = 'https://example.com/a') {
+function writeCompiledWiki(wikiRoot, url = 'https://example.com/a', opts = {}) {
   const source = `---
 type: Source
 title: 演示文章
@@ -131,10 +131,32 @@ The demo article states one claim.[^demo-article]
     fs.mkdirSync(path.dirname(abs), { recursive: true })
     fs.writeFileSync(abs, body)
   }
+  const topicRel = 'topics/demo-topic.md'
+  const topicExisted = fs.existsSync(path.join(wikiRoot, topicRel))
   write('sources/articles/demo-article.md', source)
   write('topics/demo-topic.md', topic)
   write('index.md', '# Home\n\n- [Demo Article](./sources/articles/demo-article.md) — A short public note used to prove the ingest loop.\n')
   write('log.md', '# 日志 / Log\n\n## 2026-10-24\n\n* **创建 / Creation**: Filed [Demo Article](./sources/articles/demo-article.md).\n')
+  if (opts.rawRoot && opts.slug) {
+    const notesDir = path.join(opts.rawRoot, 'state', 'ingest-notes')
+    fs.mkdirSync(notesDir, { recursive: true })
+    const topicAction = topicExisted ? 'unchanged' : 'create'
+    const notes = {
+      topics_consulted: [topicRel],
+      selection_reasons: { [topicRel]: 'demo fixture topic for ingest loop' },
+      topics: [{
+        path: topicRel,
+        action: topicAction,
+        reason: topicExisted
+          ? 'already covers demo concept; content unchanged on this run'
+          : 'created demo topic page for fixture',
+      }],
+    }
+    if (topicAction === 'create') {
+      notes.new_topic_reasons = { [topicRel]: 'no existing topic covers this demo concept' }
+    }
+    fs.writeFileSync(path.join(notesDir, `${opts.slug}.json`), `${JSON.stringify(notes, null, 2)}\n`)
+  }
 }
 
 test('extractUrls normalizes and drops duplicates inside a digest', () => {
@@ -425,7 +447,7 @@ test('ingest:one fetches one URL, resumes compile, then stays idempotent', async
     spawnImpl: async (invocation) => {
       spawned++
       args = invocation.args
-      writeCompiledWiki(wikiRoot)
+      writeCompiledWiki(wikiRoot, 'https://example.com/a', { rawRoot, slug: slugForUrl('https://example.com/a') })
       return { code: 0, stdout: '', stderr: '' }
     },
     graph: true,
@@ -562,7 +584,7 @@ test('--refresh with unchanged body skips silently; changed body recompiles', as
     resolveImpl: () => ({ kind: 'cursor', bin: '/home/box/.local/bin/agent' }),
     spawnImpl: async () => {
       spawned++
-      writeCompiledWiki(wikiRoot)
+      writeCompiledWiki(wikiRoot, 'https://example.com/a', { rawRoot, slug: slugForUrl('https://example.com/a') })
       return { code: 0, stdout: '', stderr: '' }
     },
     graph: false,
@@ -614,7 +636,7 @@ test('--refresh with unchanged body skips silently; changed body recompiles', as
     resolveImpl: () => ({ kind: 'cursor', bin: '/home/box/.local/bin/agent' }),
     spawnImpl: async () => {
       spawned++
-      writeCompiledWiki(wikiRoot)
+      writeCompiledWiki(wikiRoot, 'https://example.com/a', { rawRoot, slug: slugForUrl('https://example.com/a') })
       return { code: 0, stdout: '', stderr: '' }
     },
     graph: false,

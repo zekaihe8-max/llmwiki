@@ -11,6 +11,7 @@ import { writeGraphData } from './build-graph.mjs'
 import { requireRecord } from './fetch-articles.mjs'
 import { findSourcePages, lintFiling } from './lint-okf.mjs'
 import {
+  acquireCompileLock,
   buildIngestRecordFromDiff,
   collectTouchedTopics,
   readAgentIngestNotes,
@@ -58,6 +59,8 @@ export function buildCompilePrompt({ articlePath, url, digest, slug, title }) {
     'After writing wiki pages, write structured notes (claims only; program verifies file diffs) to:',
     `raw/state/ingest-notes/${slug}.json`,
     'JSON shape: {"topics_consulted":["topics/foo.md"],"selection_reasons":{"topics/foo.md":"..."},"topics":[{"path":"topics/foo.md","action":"add_evidence|change_conclusion|record_contradiction|unchanged|create","reason":"..."}],"new_topic_reasons":{"topics/new.md":"why no existing topic fits"},"notes":"optional"}',
+    'REQUIRED: every consulted Topic needs selection_reasons[path] (or topics[].reason). New Topics need new_topic_reasons. Missing reasons fail filing — the program will NOT invent defaults.',
+    'REQUIRED: topics[].action must match real file changes. Claiming update/create when the file is unchanged (or vice versa) fails filing — the program will NOT silently rewrite your action.',
     'Do not claim a Topic was updated if you did not change that file. Linked ≠ modified.',
   )
   return lines.join('\n')
@@ -173,12 +176,33 @@ export async function compileArticle({
   writeJson(rawPaths(rawRoot).record(record.slug), record)
   log(`compile ${record.slug}: ${resolved.bin} ${args.slice(0, -1).join(' ')}`)
 
-  // Isolate this Agent run: snapshot wiki before spawn so ingest-record actions match real diffs.
+  // Isolate this Agent run: exclusive compile lock + wiki snapshot before/after.
+  // Diffs must not mix edits from other concurrent tasks.
+  let lock
+  try {
+    lock = acquireCompileLock(rawRoot, record.slug, { now })
+  } catch (error) {
+    record.compile_error = error.message
+    writeJson(rawPaths(rawRoot).record(record.slug), record)
+    log(`compile ${record.slug}: ${error.message}`)
+    return { ok: false, skipped: false, code: 1, record, error: error.message }
+  }
+
   const wikiBefore = snapshotWikiFiles(wikiRoot)
-  const spawned = await spawnImpl({ bin: resolved.bin, args, cwd, prompt })
+  let spawned
+  try {
+    spawned = await spawnImpl({ bin: resolved.bin, args, cwd, prompt })
+  } catch (error) {
+    lock.release()
+    record.compile_error = `agent spawn failed: ${error.message}`
+    writeJson(rawPaths(rawRoot).record(record.slug), record)
+    log(`compile ${record.slug}: ${record.compile_error}`)
+    return { ok: false, skipped: false, code: 1, record, error: record.compile_error }
+  }
   const code = spawned?.code ?? 1
   const stderr = String(spawned?.stderr || '').slice(-2000)
   if (code !== 0) {
+    lock.release()
     record.compile_error = `agent exited ${code}${stderr ? `: ${stderr}` : ''}`
     const matches = findSourcePages(wikiRoot, record.url)
     if (matches.length === 1) {
@@ -192,6 +216,7 @@ export async function compileArticle({
 
   const matches = findSourcePages(wikiRoot, record.url)
   if (matches.length !== 1) {
+    lock.release()
     record.compile_error = matches.length === 0
       ? 'agent exited without a Source page whose resource is the article URL'
       : `multiple Source pages for this URL: ${matches.join(', ')}`
@@ -211,6 +236,7 @@ export async function compileArticle({
 
   const errors = lintFiling({ wikiRoot, sourcePath: matches[0], url: record.url })
   if (errors.length) {
+    lock.release()
     record.compile_error = errors.join('\n')
     writeJson(rawPaths(rawRoot).record(record.slug), record)
     log(`compile ${record.slug}: lint failed, status sourced`)
@@ -235,6 +261,7 @@ export async function compileArticle({
     })
     log(`ingest-record: ${path.relative(rawRoot, ingestRecord.path)} (source=${ingestRecord.record.source.action})`)
   } catch (error) {
+    lock.release()
     record.compile_error = error.message
     writeJson(rawPaths(rawRoot).record(record.slug), record)
     log(`compile ${record.slug}: ingest-record failed, status sourced`)
@@ -247,6 +274,7 @@ export async function compileArticle({
       graphOk: null,
     }
   }
+  lock.release()
 
   record.status = 'filed'
   record.filed_at = now()

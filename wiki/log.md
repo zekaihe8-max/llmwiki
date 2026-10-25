@@ -6,6 +6,7 @@ Chronological record of page creations, updates, and deprecations.
 
 ## 2026-10-25
 
+* **创建 / Creation**: Filed the [介绍 D1：首个 SQL 数据库](./sources/articles/introducing-d1.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
 * **创建 / Creation**: Filed the [介绍 Workers Durable Objects](./sources/articles/introducing-workers-durable-objects.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
 
 ## 2026-10-24

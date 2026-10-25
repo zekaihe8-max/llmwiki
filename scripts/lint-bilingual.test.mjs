@@ -247,3 +247,56 @@ export class Counter { }
   const findings = lintPage(path.join(wiki, 'sources/articles/demo.md'), wiki, { bilingual: true })
   assert.deepEqual(findings.filter((line) => line.includes('bilingual')), [], findings.join('\n'))
 })
+
+test('暂无 / None yet must NOT bypass later untranslated paragraphs', () => {
+  const wiki = tempWiki()
+  const sneaky = `---
+type: Topic
+title: 主题
+title_en: Topic
+description: 中文。
+description_en: English.
+sources:
+  - id: demo
+    resource: https://example.com/a
+generated:
+  by: test
+  at: 2026-10-24T03:00:00Z
+---
+
+# 主题
+
+*Topic*
+
+## 综合分析 / Synthesis
+
+暂无。 / None yet.
+
+后面又追加了一段只有中文的分析，没有对应英文翻译。
+
+## 矛盾与变化 / Contradictions
+
+暂无。 / None yet.
+
+## 相关 / Related
+
+- [演示](../sources/articles/demo.md)
+
+[^demo]: Demo
+`
+  fs.writeFileSync(path.join(wiki, 'topics/demo.md'), sneaky)
+  fs.writeFileSync(path.join(wiki, 'sources/articles/demo.md'), goodSource())
+  const findings = lintPage(path.join(wiki, 'topics/demo.md'), wiki, { bilingual: true })
+  assert.ok(
+    findings.some((line) => line.includes('综合分析 / Synthesis') && line.includes('lacks ZH/EN')),
+    findings.join('\n'),
+  )
+})
+
+test('section with only 暂无 / None yet still passes', () => {
+  const wiki = tempWiki()
+  fs.writeFileSync(path.join(wiki, 'topics/demo.md'), goodTopic())
+  fs.writeFileSync(path.join(wiki, 'sources/articles/demo.md'), goodSource())
+  const findings = lintPage(path.join(wiki, 'topics/demo.md'), wiki, { bilingual: true })
+  assert.deepEqual(findings.filter((line) => line.includes('bilingual')), [], findings.join('\n'))
+})
