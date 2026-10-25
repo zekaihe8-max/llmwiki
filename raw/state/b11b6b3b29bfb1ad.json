@@ -3,7 +3,7 @@
   "url": "https://x.com/xiaomovps/status/2114285431324057857)%EF%BC%89",
   "title": null,
   "digest": "2026-10-25-cn-x.md",
-  "status": "failed",
+  "status": "skipped",
   "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
   "first_seen": "2026-10-25T11:51:17.939Z",
   "last_seen": "2026-10-25T11:51:17.939Z",
@@ -23,7 +23,9 @@
     }
   ],
   "filed_at": null,
-  "skipped_at": null,
+  "skipped_at": "2026-10-25T14:40:00.000Z",
   "last_fetch_error": "HTTP 404 Not Found",
-  "last_fetch_failed_at": "2026-10-25T11:51:53.319Z"
+  "last_fetch_failed_at": "2026-10-25T11:51:53.319Z",
+  "duplicate_of": "67262cd39057e56e",
+  "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
 }

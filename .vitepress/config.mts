@@ -133,7 +133,7 @@ function sidebarForXDigest(
       if (nested.length === 0) continue
       loose.push({
         text: humanize(entry.name),
-        collapsed: false,
+        collapsed: true,
         items: nested,
       })
       continue
@@ -235,7 +235,7 @@ function sidebarFrom(dir: string, relativeDir = ''): DefaultTheme.SidebarItem[] 
       if (nested.length === 0) continue
       items.push({
         text: humanize(entry.name),
-        collapsed: false,
+        collapsed: true,
         items: nested,
       })
       continue
@@ -252,8 +252,8 @@ function sidebarFrom(dir: string, relativeDir = ''): DefaultTheme.SidebarItem[] 
 
 export default defineConfig({
   title: 'Hezekai Wiki',
-  description: 'Public Markdown wiki published from the wiki/ tree.',
-  lang: 'en-US',
+  description: '持续更新的 AI 与 Agent 知识库。从每日简报与公开资料中整理来源、比较观点。',
+  lang: 'zh-CN',
   srcDir: 'wiki',
   outDir: '.vitepress/dist',
   // Keep the published set aligned with the sidebar: dotfiles and
@@ -262,14 +262,17 @@ export default defineConfig({
   cleanUrls: true,
   vite: {
     // Vite root is wiki/ (srcDir). Point public assets at .vitepress/public
-    // so scripts/build-graph.mjs can emit graph-data.json for /graph-data.json.
+    // so scripts/build-graph.mjs can emit graph-data.json for /graph-data.json
+    // and scripts/build-home-data.mjs can emit home-data.json.
     publicDir: path.join(repoRoot, '.vitepress/public'),
   },
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Overview', link: '/overview' },
-      { text: 'Graph', link: '/graph' },
+      { text: '首页', link: '/' },
+      { text: '主题', link: '/topics/' },
+      { text: '文章', link: '/sources/articles/' },
+      { text: '简报', link: '/sources/x-digest/' },
+      { text: '图谱', link: '/graph' },
     ],
     sidebar: sidebarFrom(wikiDir),
     search: { provider: 'local' },

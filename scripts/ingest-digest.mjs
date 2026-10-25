@@ -6,8 +6,8 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { blankRecord, rawPaths, readJson, writeJson } from './lib/store.mjs'
-import { extractUrls, sha256, slugForUrl } from './lib/urls.mjs'
+import { blankRecord, listRecords, rawPaths, readJson, writeJson } from './lib/store.mjs'
+import { aliasCanonical, extractUrls, normalizeUrl, sha256, slugForUrl } from './lib/urls.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 
@@ -99,6 +99,10 @@ export function ingestDigestFile({ sourcePath, rawRoot, now = () => new Date().t
     }
   }
 
+  // Collapse historical dirty keys (trailing ） / )%EF%BC%89) onto clean
+  // canonicals so failed dirty records stop retrying forever.
+  const remediated = remediateDirtyUrlAliases({ rawRoot, urls, now: stamp, log })
+
   registry[filename] = {
     content_hash: contentHash,
     ingested_at: recorded?.ingested_at && recorded.content_hash === contentHash ? recorded.ingested_at : stamp,
@@ -106,7 +110,8 @@ export function ingestDigestFile({ sourcePath, rawRoot, now = () => new Date().t
   }
   writeJson(paths.urls, urls)
   writeJson(paths.digestsIndex, registry)
-  log(`ingest ${filename}: ${extracted.length} urls, ${created} new`)
+  log(`ingest ${filename}: ${extracted.length} urls, ${created} new`
+    + (remediated ? `, ${remediated} dirty aliases` : ''))
   return {
     ok: true,
     skipped: false,
@@ -114,8 +119,125 @@ export function ingestDigestFile({ sourcePath, rawRoot, now = () => new Date().t
     contentHash,
     urlCount: extracted.length,
     created,
+    remediated,
     urls: extracted,
   }
+}
+
+/**
+ * Map dirty url keys → clean slug / mark dirty records skipped when a clean
+ * counterpart already exists (filed/sourced/fetched/seen). Keeps history.
+ * Also runnable standalone: `node -e "import('./scripts/ingest-digest.mjs').then(m=>m.remediateDirtyUrlAliases({rawRoot:'raw'}))"`.
+ */
+export function remediateDirtyUrlAliases({
+  rawRoot,
+  urls = null,
+  now = () => new Date().toISOString(),
+  log = () => {},
+} = {}) {
+  const paths = rawPaths(rawRoot)
+  const registry = urls ?? readJson(paths.urls, {})
+  const stamp = typeof now === 'function' ? now() : now
+  let fixed = 0
+
+  for (const [key, entry] of Object.entries(registry)) {
+    const clean = aliasCanonical(key) || (normalizeUrl(key) !== key ? normalizeUrl(key) : null)
+    if (!clean || clean === key) continue
+
+    const cleanEntry = registry[clean]
+    const cleanSlug = cleanEntry?.slug || slugForUrl(clean)
+    const dirtySlug = entry.slug && entry.slug !== cleanSlug ? entry.slug : slugForUrl(key)
+
+    // Point dirty key at the clean slug; keep the dirty string as an alias.
+    entry.alias_of = clean
+    entry.slug = cleanSlug
+    entry.last_seen = stamp
+    if (!cleanEntry) {
+      registry[clean] = {
+        hash: sha256(clean),
+        slug: cleanSlug,
+        first_seen: entry.first_seen || stamp,
+        last_seen: stamp,
+        digest: entry.digest || null,
+        title: entry.title || null,
+      }
+    }
+
+    const dirtyRecordPath = paths.record(dirtySlug)
+    const cleanRecordPath = paths.record(cleanSlug)
+
+    if (fs.existsSync(dirtyRecordPath) && dirtySlug !== cleanSlug) {
+      const dirtyRec = readJson(dirtyRecordPath, null)
+      if (dirtyRec && dirtyRec.status !== 'skipped') {
+        const cleanRec = fs.existsSync(cleanRecordPath) ? readJson(cleanRecordPath, null) : null
+        const cleanTerminal = cleanRec && ['filed', 'sourced', 'fetched', 'seen'].includes(cleanRec.status)
+        dirtyRec.status = 'skipped'
+        dirtyRec.duplicate_of = cleanSlug
+        dirtyRec.alias_of = clean
+        dirtyRec.skipped_at = dirtyRec.skipped_at || stamp
+        dirtyRec.error = dirtyRec.error || `alias of ${clean}`
+        writeJson(dirtyRecordPath, dirtyRec)
+        fixed++
+        log(`alias ${dirtySlug} → ${cleanSlug}${cleanTerminal ? ` (${cleanRec.status})` : ''}`)
+      }
+    }
+  }
+
+  // Also walk records whose stored url still fails to match normalizeUrl(url).
+  for (const record of listRecords(rawRoot)) {
+    if (!record?.url || record.status === 'skipped') continue
+    const clean = normalizeUrl(record.url)
+    if (!clean) {
+      // Unrecoverable dirty URL — do not keep selecting it.
+      if (record.status === 'failed' || record.status === 'seen') {
+        record.status = 'skipped'
+        record.error = record.error || 'url failed normalizeUrl after cleanup'
+        record.skipped_at = record.skipped_at || stamp
+        writeJson(paths.record(record.slug), record)
+        fixed++
+      }
+      continue
+    }
+    if (clean === record.url) continue
+    const cleanSlug = slugForUrl(clean)
+    if (cleanSlug === record.slug) {
+      record.url = clean
+      writeJson(paths.record(record.slug), record)
+      fixed++
+      continue
+    }
+    record.status = 'skipped'
+    record.duplicate_of = cleanSlug
+    record.alias_of = clean
+    record.skipped_at = record.skipped_at || stamp
+    record.error = record.error || `alias of ${clean}`
+    writeJson(paths.record(record.slug), record)
+    if (!registry[clean]) {
+      registry[clean] = {
+        hash: sha256(clean),
+        slug: cleanSlug,
+        first_seen: record.first_seen || stamp,
+        last_seen: stamp,
+        digest: record.digest || null,
+        title: record.title || null,
+      }
+    }
+    registry[record.url] = {
+      ...(registry[record.url] || {}),
+      hash: sha256(record.url),
+      slug: cleanSlug,
+      alias_of: clean,
+      first_seen: record.first_seen || stamp,
+      last_seen: stamp,
+      digest: record.digest || null,
+      title: record.title || null,
+    }
+    fixed++
+    log(`alias record ${record.slug} → ${cleanSlug}`)
+  }
+
+  writeJson(paths.urls, registry)
+  return fixed
 }
 
 export function ingestDigests({ inputs, rawRoot, now, log = console.log }) {
