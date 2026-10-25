@@ -30,3 +30,20 @@ This Ruleset was created by an admin (Joy). Do not recreate it from application 
 1. GitHub → Settings → Rules → Rulesets → **Wiki merge gates**
 2. Confirm required check context is exactly: `Format, bilingual, ingest tests, production build`
 3. Open a no-op PR that touches only an unrelated path (e.g. `README.md`) and confirm the Wiki check **runs** (not skipped/Pending).
+
+## Required follow-up (workflow scope)
+
+This PR could not push `.github/workflows/wiki.yml` (OAuth token lacks `workflow` scope).
+An admin must apply this change (or push with a token that has `workflow`):
+
+In `.github/workflows/wiki.yml`, **remove the `paths:` filter under `pull_request`**
+(keep `paths` under `push` if desired):
+
+```yaml
+  # No paths filter on pull_request: Ruleset requires this check by name.
+  # A paths filter would leave the required check Pending forever on unrelated PRs.
+  pull_request:
+    branches: [master, dev]
+```
+
+Required check name (unchanged): `Format, bilingual, ingest tests, production build`
