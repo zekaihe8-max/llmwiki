@@ -510,5 +510,373 @@
     "last_seen": "2026-10-25T02:32:09.595Z",
     "digest": "e2e-durable-objects-2026-10-25.md",
     "title": "Introducing Workers Durable Objects"
+  },
+  "https://x.com/dotey/status/2114210926253543534": {
+    "hash": "7d93c541041c23623b6e9f58d992f473ef5ee8e4a77324b1dbd03c1dcf747740",
+    "slug": "7d93c541041c2362",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Dario 2003 反战发言录像"
+  },
+  "https://x.com/dotey/status/2114203536477053273": {
+    "hash": "f8ae7bb669e39a6fe5c1c731b22dd8d009edbce0fe7c94709d7daae573c659e7",
+    "slug": "f8ae7bb669e39a6f",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Grok Bot 热潮像「小龙虾」"
+  },
+  "https://x.com/dotey/status/2114225068108550193": {
+    "hash": "ada5adef5a925b23596d99a80c7393748eb4256af19b82a2ac5a893d0e4b1693",
+    "slug": "ada5adef5a925b23",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "补充"
+  },
+  "https://x.com/dotey/status/2114205536396984381": {
+    "hash": "1a878f870b13cba37110c11b5f8d7f55f20355461e6a4b15a5e7f588a29d3748",
+    "slug": "1a878f870b13cba3",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Codex 额度重置"
+  },
+  "https://x.com/op7418/status/2114216604741550466": {
+    "hash": "3ab5d3b73f1e386460d5f9deca72407047dd3d364e003c8f2706ad89faabdcf4",
+    "slug": "3ab5d3b73f1e3864",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Grokbot 内置问题反馈"
+  },
+  "https://x.com/op7418/status/2114229075514651001": {
+    "hash": "9eb8b76059f459c231dcc4bf0291bba0231706d9d785bef899f373251e0ae75f",
+    "slug": "9eb8b76059f459c2",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Notion / 即览适配 iPhone Duo"
+  },
+  "https://x.com/op7418/status/2114253200056631752": {
+    "hash": "e4e27dab5b168a204675a8c22b584d401a023dac9d293be234d500839528f4ab",
+    "slug": "e4e27dab5b168a20",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "即览"
+  },
+  "https://x.com/op7418/status/2113989933564330298": {
+    "hash": "44fdf258fbb0e00540c9382e8bd1bc6c72ad4b2f2ce1b7ee689b73fed6735b3a",
+    "slug": "44fdf258fbb0e005",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "WorkBuddy"
+  },
+  "https://x.com/shao__meng/status/2114164780986679331": {
+    "hash": "6be7d9ed41405d3a98aaea925b155f0c57034e72701219dfe6f683af881ee807",
+    "slug": "6be7d9ed41405d3a",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "何时把子 Agent 折进主循环"
+  },
+  "https://x.com/shao__meng/status/2113970197161988276": {
+    "hash": "ee4fb3d54cf78df73b9cebcb7748debfe19ff65cb4af0f1e2406600a54c01637",
+    "slug": "ee4fb3d54cf78df7",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Felix 访谈：别再用 2024 方式用 Claude"
+  },
+  "https://x.com/shao__meng/status/2114217554948333812": {
+    "hash": "1d1bfb785042d1c31383c8eaa1188283b0c415549a7622767d19affb838a4335",
+    "slug": "1d1bfb785042d1c3",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Block Dessa 纯语音全双工"
+  },
+  "https://x.com/shao__meng/status/2114185431277527220": {
+    "hash": "484631b0c3a511bf33f1a9f8cd0bc89e483e29f2b6b53ccdd52bf5b5724eec4f",
+    "slug": "484631b0c3a511bf",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Kimi 英推 KOL 宣发怪"
+  },
+  "https://x.com/shao__meng/status/2114179842837303681": {
+    "hash": "3b0b8c1a2a557dd46890f9c25a5c8861a66253da390a573b38f68897c47a56d3",
+    "slug": "3b0b8c1a2a557dd4",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "讲座"
+  },
+  "https://x.com/xiaomovps/status/2114178579345080827": {
+    "hash": "01dfeec68eb02ad09180ab5c7c2494f07652c0f3c2ff10e3e55a455452078e33",
+    "slug": "01dfeec68eb02ad0",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Grok Bot + Cursor 手机全链路"
+  },
+  "https://x.com/xiaomovps/status/2114197502153113745": {
+    "hash": "fb97460bc5c060331996449af5a1b532ae7fb0d49e52b42005b5c7844037a5fc",
+    "slug": "fb97460bc5c06033",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "订阅精简到 $120/月"
+  },
+  "https://x.com/xiaomovps/status/2114229204309164262": {
+    "hash": "ff43d32969434eb5847ed9cf49fc5e6a625168c5c70ee12151f2f905ceacea6d",
+    "slug": "ff43d32969434eb5",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Grok Bot 三个坑"
+  },
+  "https://x.com/xiaomovps/status/2114285431324057857": {
+    "hash": "67262cd39057e56eb1e3fdc05efaec6274a3644e5af78be37b63333c6f7a2241",
+    "slug": "67262cd39057e56e",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Claude Code 省 Token 五项目"
+  },
+  "https://x.com/xiaomovps/status/2114263858869318047": {
+    "hash": "f4926173a7fb9b7081dcc464b59e31bf2da401cb276dece0c68e13c840dcf353",
+    "slug": "f4926173a7fb9b70",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "DSH 渠道比价 + WorkBuddy 同题实测"
+  },
+  "https://x.com/xiaomovps/status/2114312906703847698": {
+    "hash": "15d110842d37c7a288661f41b69835a160ce8777384dc7373789ee12cda87436",
+    "slug": "15d110842d37c7a2",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "实测"
+  },
+  "https://x.com/fkysly/status/2114232621479936426": {
+    "hash": "8d25eb47598079574888f1e3e80b071cefed4c1f47ceacf02bd3bd52bbb75f5a",
+    "slug": "8d25eb4759807957",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "AI 代码 vs 屎山双标"
+  },
+  "https://x.com/fkysly/status/2114217071043395588": {
+    "hash": "66b355974c7f8d073d5cea88b3c3bcb9b7ed4345ccbcbafd516ff36213971bd0",
+    "slug": "66b355974c7f8d07",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Sub2API 按周重置调度多 Claude 号"
+  },
+  "https://x.com/yetone/status/2114070661341868122": {
+    "hash": "08eca1a21134608ce15507aaf5a96c3a2bba8e1cb6629f815db68af6641b932c",
+    "slug": "08eca1a21134608c",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Magpie 本地脱敏 vs 近期安全事件"
+  },
+  "https://x.com/yetone/status/2114231150709547338": {
+    "hash": "5a28329c19bc4418700cfd76485e1059dc950ba737a2652109bcc2b8450a649c",
+    "slug": "5a28329c19bc4418",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "WorkBuddy DeepSeek 1M vs magpie 默认 272K"
+  },
+  "https://x.com/yetone/status/2114222419376529755": {
+    "hash": "8aa1c6cc9977de038f35c8adde803220b07823971ac11e30b220fa960c91983d",
+    "slug": "8aa1c6cc9977de03",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "资源库统一管 skills / MCP / hooks"
+  },
+  "https://x.com/turingou/status/2114175110416675209": {
+    "hash": "8ecb42724401111b10927c74cf6a0ffbcdc9c1dd2caa62ce680f61c841aca751",
+    "slug": "8ecb42724401111b",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Yobiru Friends：Bot 互聊 / 对外分享"
+  },
+  "https://x.com/turingou/status/2114312995824431528": {
+    "hash": "f57dcb82389e2ca26d97aa6b56f6cc2325854d4447e8df36379b15115a04da81",
+    "slug": "f57dcb82389e2ca2",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "手机变轻、Mac 给 agent"
+  },
+  "https://x.com/dingyi/status/2114227612654698798": {
+    "hash": "c4bd4d8dbf5d85a0afcd2db735b656a80092c831e4b54f7def8eda40a90ea6f2",
+    "slug": "c4bd4d8dbf5d85a0",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Kimi 不投中推、英推假大号"
+  },
+  "https://x.com/dingyi/status/2114173595127775580": {
+    "hash": "9ce021a811b9359ae7ddc074d0874f707b0fd24dfe67d5a9eb0fc7ac2e30a394",
+    "slug": "9ce021a811b9359a",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Anthropic 上市前大佬离职？+ Ideogram Vector"
+  },
+  "https://x.com/dingyi/status/2114009771443667379": {
+    "hash": "1baa8e1d82477e8a992b7674af5e598efd0dcd24d7aec4da167a3a7c88ad05f6",
+    "slug": "1baa8e1d82477e8a",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Ideogram"
+  },
+  "https://x.com/dingyi/status/2114304986763198744": {
+    "hash": "1c0333dabc9b9de7f23c46ced6fe76d2d3ee6f3b8c8e3c975361071c41f6d28b",
+    "slug": "1c0333dabc9b9de7",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "menubar 真空与 iPhone Duo"
+  },
+  "https://x.com/dingyi/status/2114219431421509903": {
+    "hash": "39a8d0cbe956c1aad254866780f17f9c5e459abff3398bf15b4a3a374930ed23",
+    "slug": "39a8d0cbe956c1aa",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Duo"
+  },
+  "https://x.com/wquguru/status/2114190777597497514": {
+    "hash": "10a5f4383e3914fe250f91b9c6231c2d0903b61d6ab92b83c469c307b5c9a5f9",
+    "slug": "10a5f4383e3914fe",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Claude Pro 风控权重分析"
+  },
+  "https://x.com/wquguru/status/2114162927926383065": {
+    "hash": "349dcbf20e9ecb47bede09b7894722d6a9ce5633924cc2f308a492ce566e4afe",
+    "slug": "349dcbf20e9ecb47",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "发散任务先人类把关设计"
+  },
+  "https://x.com/oran_ge/status/2113996510287585493": {
+    "hash": "1bfaa17cec8baa16f0440213abd5ea96289a7181eb870b5bdfc29a4e45aecabe",
+    "slug": "1bfaa17cec8baa16",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "8 个播客 AI 精读站（乔木）"
+  },
+  "https://x.com/oran_ge/status/2114212241188991318": {
+    "hash": "f6f9ca3f7759e59fd7a62774f6465944cc7337b75bfdbd277477c3c007677943",
+    "slug": "f6f9ca3f7759e59f",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "长文《AI 流量超人类后，搜索也要重做》"
+  },
+  "https://x.com/oran_ge/status/2114266365154722054": {
+    "hash": "e34d3a3a4b284f577171090efafc3ff532918a380456c585630b8764f8ca13a1",
+    "slug": "e34d3a3a4b284f57",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "电视 AI 写稿大循环 + 鹈鹕骑车"
+  },
+  "https://x.com/oran_ge/status/2114003877813178562": {
+    "hash": "4c8d6a95f13fe4d6f036e64a3864301e2e116e4343fe8c20caba7e32430aab85",
+    "slug": "4c8d6a95f13fe4d6",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "小游戏"
+  },
+  "https://x.com/FringJason/status/2114280837810458972": {
+    "hash": "95e66d7375660f078dee67efe45a43ef6829266c263ea3f513c51c2491f126b5",
+    "slug": "95e66d7375660f07",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "用 Grok Bot 内置 X 检索替 Codex 省 X API"
+  },
+  "https://x.com/heydengai/status/2114145917393866756": {
+    "hash": "fb5a280f492eeaaa324fced73b07b1614586d850e3406a3f8ea32066f38871a8",
+    "slug": "fb5a280f492eeaaa",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "Grok 当包工头调度 Codex / Claude Code"
+  },
+  "https://x.com/Suchuanyi/status/2114155779133489207": {
+    "hash": "60bbc1aeaf27cfa3a368f914dca1410a6e0292476050b0db80b63ff2b974cc3d",
+    "slug": "60bbc1aeaf27cfa3",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": "gptkit @Suchuanyi"
+  },
+  "https://x.com/xiaomovps/status/2114285431324057857)%EF%BC%89": {
+    "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
+    "slug": "b11b6b3b29bfb1ad",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": null
+  },
+  "https://x.com/yetone/status/2114070661341868122)%EF%BC%89": {
+    "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
+    "slug": "63bda9c152a41ecf",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": null
+  },
+  "https://x.com/oran_ge/status/2113996510287585493)%EF%BC%89": {
+    "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
+    "slug": "797677620685caa7",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": null
+  },
+  "https://x.com/FringJason/status/2114280837810458972)%EF%BC%89": {
+    "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
+    "slug": "9ea7e2f2444874f3",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": null
+  },
+  "https://x.com/turingou/status/2114175110416675209)%EF%BC%89": {
+    "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
+    "slug": "108f173cdc536c07",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": null
+  },
+  "https://x.com/Suchuanyi/status/2114155779133489207)%EF%BC%89": {
+    "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
+    "slug": "e52c80aaeb3889a2",
+    "first_seen": "2026-10-25T11:51:17.939Z",
+    "last_seen": "2026-10-25T11:51:17.939Z",
+    "digest": "2026-10-25-cn-x.md",
+    "title": null
   }
 }

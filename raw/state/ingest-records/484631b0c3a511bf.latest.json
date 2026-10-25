@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:17:08.178Z",
+  "url": "https://x.com/shao__meng/status/2114185431277527220",
+  "slug": "484631b0c3a511bf",
+  "content_hash": "735633f7455e111c5d92972db50affeafa74c00ba5ef7f7eebf9e1c6c1caea81",
+  "source": {
+    "path": "sources/articles/shao-meng-kimi-en-kol-promo-weird.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/shao-meng-kimi-en-kol-promo-weird.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

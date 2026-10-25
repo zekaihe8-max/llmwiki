@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T13:04:14.156Z",
+  "url": "https://x.com/oran_ge/status/2114212241188991318",
+  "slug": "f6f9ca3f7759e59f",
+  "content_hash": "6b7744b367ea134829f539a12543ec7bd37d4803a64c4387b570a8e5e83d92bd",
+  "source": {
+    "path": "sources/articles/oran-ge-ai-traffic-search-rebuild.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/oran-ge-ai-traffic-search-rebuild.md",
+    "topics/agent-native-web-search.md",
+    "topics/agent-scaled-engineering.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

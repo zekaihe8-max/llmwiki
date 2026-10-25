@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:52:23.123Z",
+  "url": "https://x.com/dingyi/status/2114304986763198744",
+  "slug": "1c0333dabc9b9de7",
+  "content_hash": "4c02c2475ef5ad58cc228ca0d489a93c37ab1290c66f184e67255fb1b851bc82",
+  "source": {
+    "path": "sources/articles/dingyi-menubar-tools-vacuum.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/menubar-management-tool-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dingyi-menubar-tools-vacuum.md",
+    "topics/menubar-management-tool-gap.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

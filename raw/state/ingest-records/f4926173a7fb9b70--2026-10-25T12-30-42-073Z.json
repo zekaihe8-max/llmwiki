@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:30:42.073Z",
+  "url": "https://x.com/xiaomovps/status/2114263858869318047",
+  "slug": "f4926173a7fb9b70",
+  "content_hash": "5eec786751dbac999e3aab1fda3f2f9fd3b92c92be66b524843d1a57d75d4bde",
+  "source": {
+    "path": "sources/articles/xiaomovps-dsh-deepseek-channels.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/xiaomovps-dsh-deepseek-channels.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

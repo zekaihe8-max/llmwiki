@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T13:10:23.089Z",
+  "url": "https://x.com/FringJason/status/2114280837810458972",
+  "slug": "95e66d7375660f07",
+  "content_hash": "17392870513d0c3a4501711033532327c9239a242aef882360a594b34b750e6d",
+  "source": {
+    "path": "sources/articles/fringjason-grok-bot-x-api-bridge.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-native-web-search.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/fringjason-grok-bot-x-api-bridge.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-native-web-search.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

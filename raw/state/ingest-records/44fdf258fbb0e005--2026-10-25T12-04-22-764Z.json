@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:04:22.764Z",
+  "url": "https://x.com/op7418/status/2113989933564330298",
+  "slug": "44fdf258fbb0e005",
+  "content_hash": "6e91329200ffb722ef5e93b3e35b6bc92b1ad67be9269673f8fe483a411d9822",
+  "source": {
+    "path": "sources/articles/op7418-workbuddy-iphone-duo.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/reading-app-iphone-duo-adaptation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/reading-app-iphone-duo-adaptation.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/op7418-workbuddy-iphone-duo.md",
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/reading-app-iphone-duo-adaptation.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

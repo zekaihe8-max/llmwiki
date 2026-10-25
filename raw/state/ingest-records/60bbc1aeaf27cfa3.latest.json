@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T13:16:57.395Z",
+  "url": "https://x.com/Suchuanyi/status/2114155779133489207",
+  "slug": "60bbc1aeaf27cfa3",
+  "content_hash": "07ef1d5c5361c9b77df847aa4b9c4df7f68c5eebba40a5f788e29399cd7cc224",
+  "source": {
+    "path": "sources/articles/suchuanyi-harnessrouter-not-grok-bot.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/suchuanyi-harnessrouter-not-grok-bot.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

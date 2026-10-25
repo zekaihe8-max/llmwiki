@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:37:39.068Z",
+  "url": "https://x.com/yetone/status/2114070661341868122",
+  "slug": "08eca1a21134608c",
+  "content_hash": "d7e8b15dce5d69785f9e360d4f4cdea6fb2ff4026c78cecea5749b95efaaa749",
+  "source": {
+    "path": "sources/articles/yetone-magpie-local-desensitization.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/local-desensitization-before-models.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/yetone-magpie-local-desensitization.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

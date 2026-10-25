@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:32:51.505Z",
+  "url": "https://x.com/xiaomovps/status/2114312906703847698",
+  "slug": "15d110842d37c7a2",
+  "content_hash": "4e3d9d74baa4914444cf60d1de9d84babddd1fefc8e9d86335090761c031ed71",
+  "source": {
+    "path": "sources/articles/xiaomovps-workbuddy-vs-dsh-quality.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/xiaomovps-workbuddy-vs-dsh-quality.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

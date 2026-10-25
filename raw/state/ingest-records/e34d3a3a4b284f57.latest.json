@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T13:05:51.870Z",
+  "url": "https://x.com/oran_ge/status/2114266365154722054",
+  "slug": "e34d3a3a4b284f57",
+  "content_hash": "ceb46a29078b1be1e616dce8dc27b33093b02c95e0d5d94a95fbdb1a5401a837",
+  "source": {
+    "path": "sources/articles/oran-ge-tv-ai-script-corpus-loop.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/oran-ge-tv-ai-script-corpus-loop.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

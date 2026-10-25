@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:39:19.817Z",
+  "url": "https://x.com/yetone/status/2114231150709547338",
+  "slug": "5a28329c19bc4418",
+  "content_hash": "054cad065050df115b35d96208680ecab5a894d79332f377d873404969a30593",
+  "source": {
+    "path": "sources/articles/yetone-workbuddy-1m-magpie-272k.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/yetone-workbuddy-1m-magpie-272k.md",
+    "topics/long-conversation-default-compression.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

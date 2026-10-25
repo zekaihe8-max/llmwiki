@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T11:53:39.074Z",
+  "url": "https://x.com/dotey/status/2114210926253543534",
+  "slug": "7d93c541041c2362",
+  "content_hash": "32b643d008d2fdb37bf7a9c09bdab59392f9488a99127e82d5d20f1a203f04d4",
+  "source": {
+    "path": "sources/articles/dotey-dario-2003-antiwar-speech.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dotey-dario-2003-antiwar-speech.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

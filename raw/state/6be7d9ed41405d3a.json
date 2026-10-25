@@ -1,0 +1,23 @@
+{
+  "slug": "6be7d9ed41405d3a",
+  "url": "https://x.com/shao__meng/status/2114164780986679331",
+  "title": "何时把子 Agent 折进主循环",
+  "digest": "2026-10-25-cn-x.md",
+  "status": "filed",
+  "hash": "6be7d9ed41405d3a98aaea925b155f0c57034e72701219dfe6f683af881ee807",
+  "first_seen": "2026-10-25T11:51:17.939Z",
+  "last_seen": "2026-10-25T11:51:17.939Z",
+  "fetched_at": "2026-10-25T11:51:25.459Z",
+  "content_hash": "67f8623a7b6f72a9b7ed0fdc176e2f27b7ca765b85dccd0c3489afc03ec85329",
+  "article_path": "articles/6be7d9ed41405d3a.md",
+  "fetched_url": "https://x.com/shao__meng/status/2114164780986679331",
+  "source_path": "sources/articles/shao-meng-fold-subagents-main-loop.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-25T12:08:01.009Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
