@@ -19,15 +19,20 @@ This Ruleset was created by an admin (Joy). Do not recreate it.
 
 `push` to `master` may keep `paths` to save CI minutes.
 
-**This PR’s OAuth token lacks `workflow` scope**, so `.github/workflows/wiki.yml` could not be pushed. An admin must apply one of:
+**This PR’s OAuth token lacks `workflow` scope**, so `.github/workflows/wiki.yml` could not be pushed. An admin must apply one of (on branch `fix/ingest-record-gates`):
 
 ```bash
-# Option A — copy desired file (from this PR branch)
-cp scripts/ci-patches/wiki.yml.desired .github/workflows/wiki.yml
-git add .github/workflows/wiki.yml && git commit -m "fix(ci): always run wiki gates on pull_request" && git push
+# Option A — copy desired file from this PR
+cp wiki.yml.desired .github/workflows/wiki.yml
+git add .github/workflows/wiki.yml
+git commit -m "fix(ci): always run wiki gates on pull_request"
+git push
 
-# Option B — apply patch
-patch -p0 < scripts/ci-patches/wiki-yml-remove-pr-paths.patch
+# Option B — apply unified patch
+patch -p0 < wiki-yml-remove-pr-paths.patch
+git add .github/workflows/wiki.yml
+git commit -m "fix(ci): always run wiki gates on pull_request"
+git push
 ```
 
 Desired `pull_request` block (no `paths`):
@@ -36,6 +41,8 @@ Desired `pull_request` block (no `paths`):
   pull_request:
     branches: [master, dev]
 ```
+
+Artifacts in this PR: `wiki.yml.desired`, `wiki-yml-remove-pr-paths.patch`.
 
 ## What CI does **not** block
 

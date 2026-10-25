@@ -1,0 +1,53 @@
+name: Wiki
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'wiki/**'
+      - 'scripts/**'
+      - 'templates/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.vitepress/**'
+      - '.github/workflows/wiki.yml'
+      - 'AGENTS.md'
+  # No paths filter on pull_request: Ruleset requires this check by name.
+  # A paths filter would leave the required check Pending forever on unrelated PRs.
+  pull_request:
+    branches: [master, dev]
+
+# Cloudflare Pages deploys from master. This job must be green on PRs before merge
+# so illegal YAML / bilingual / ingest regressions cannot auto-publish.
+# Note: Ruleset blocks GitHub merge only; red CI does NOT auto-block Cloudflare Pages.
+concurrency:
+  group: wiki-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  wiki-gates:
+    name: Format, bilingual, ingest tests, production build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install root (VitePress wiki) dependencies
+        run: npm ci
+
+      - name: OKF + project structural lint
+        run: npm run lint:okf
+
+      - name: Project bilingual completeness
+        run: npm run lint:okf:bilingual
+
+      - name: Ingest / graph / YAML unit tests
+        run: npm run test:ingest
+
+      - name: Production build (graph + VitePress)
+        run: npm run build
