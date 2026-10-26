@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:52:27.164Z",
+  "url": "https://x.com/Voxyz_ai/status/2114446907355648062",
+  "slug": "5bca53ba8330404e",
+  "content_hash": "055672b718f9f1d3008b193d6c04919884952d5d58773c9decbf2f49521a8151",
+  "source": {
+    "path": "sources/articles/voxyz-agents-md-code-over-docs.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/voxyz-agents-md-code-over-docs.md",
+    "topics/code-over-spec.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

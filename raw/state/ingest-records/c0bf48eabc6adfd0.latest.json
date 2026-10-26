@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T01:00:56.031Z",
+  "url": "https://x.com/mattpocockuk/status/2114311664069718370",
+  "slug": "c0bf48eabc6adfd0",
+  "content_hash": "9dcc1c7660a972b2dd5aeb48387e9c08c26e0225e2029bef6a822475c05bf867",
+  "source": {
+    "path": "sources/articles/mattpocock-deterministic-refactor-automerge.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/deterministic-refactor-automerge.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/mattpocock-deterministic-refactor-automerge.md",
+    "topics/deterministic-refactor-automerge.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

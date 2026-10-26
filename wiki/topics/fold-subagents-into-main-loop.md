@@ -2,8 +2,8 @@
 type: Topic
 title: 把子 Agent 折进主循环
 title_en: Fold sub-agents into the main loop
-description: 构建 Agent 时默认用一个主循环 + Skills/工具渐进披露，而不是按组织架构或角色人设堆子 Agent；给全景数据与文档清楚的工具，子 Agent 只留给可测的上下文膨胀、并行新鲜窗或工具/指令冲突。
-description_en: Prefer one main agent loop plus Skills/tool progressive disclosure over org-chart or persona-stacked sub-agents; give a panoramic data view and well-documented tools, reserving sub-agents for measurable context bloat, parallel fresh windows, or tool/instruction conflicts.
+description: 构建 Agent 时默认用一个主循环 + Skills/工具渐进披露，而不是按组织架构或角色人设堆子 Agent；给全景数据与文档清楚的工具，子 Agent 只留给可测的上下文膨胀、并行新鲜窗或工具/指令冲突；同会话叠 Skills 约五步通常够用，需技能叠加或大量同时活跃时再换新鲜窗/子 Agent。
+description_en: Prefer one main agent loop plus Skills/tool progressive disclosure over org-chart or persona-stacked sub-agents; give a panoramic data view and well-documented tools, reserving sub-agents for measurable context bloat, parallel fresh windows, or tool/instruction conflicts; stacking ~five skills in one session is usually fine—fresh windows/subagents when skills must stack or many stay active at once.
 tags: [agents, subagents, skills, main-loop, progressive-disclosure, architecture]
 sources:
   - id: shao-meng-fold-subagents-main-loop
@@ -12,9 +12,15 @@ sources:
   - id: shao-meng-felix-not-2024-claude-usage
     resource: https://x.com/shao__meng/status/2113970197161988276
     title: Meng Shao relays Felix—stop using Claude the 2024 way
+  - id: dexhorthy-subagent-overuse
+    resource: https://x.com/dexhorthy/status/2114117782111752262
+    title: Dex Horthy on subagent overuse and context management
+  - id: dexhorthy-skills-session-context
+    resource: https://x.com/dexhorthy/status/2114408588991222156
+    title: Dex Horthy on stacking skills in one session and context dirtying
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T20:10:00+08:00
+  at: 2026-10-26T08:50:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -22,9 +28,9 @@ generated:
 
 *Fold sub-agents into the main loop*
 
-企业把「每团队一个子 Agent + 总编排」当成默认，常复制 Conway 定律，换来上下文损耗、延迟与 Frankenprompt；更稳的默认是一个模型、一个上下文窗、开放式工具循环，用 Skills 与 tool search 渐进披露能力，只在可测需要时再拆子 Agent。[^shao-meng-fold-subagents-main-loop] 使用侧同样忌「堆角色 Agent」：通才模型配全景数据与文档清楚的工具，往往优于按人设切分。[^shao-meng-felix-not-2024-claude-usage]
+企业把「每团队一个子 Agent + 总编排」当成默认，常复制 Conway 定律，换来上下文损耗、延迟与 Frankenprompt；更稳的默认是一个模型、一个上下文窗、开放式工具循环，用 Skills 与 tool search 渐进披露能力，只在可测需要时再拆子 Agent。[^shao-meng-fold-subagents-main-loop] 使用侧同样忌「堆角色 Agent」：通才模型配全景数据与文档清楚的工具，往往优于按人设切分。[^shao-meng-felix-not-2024-claude-usage] 一线观察还把「滥用」标到 2025 年中起：子 Agent 可以很高杠杆，但炒作把平均用户推向更多并行，而不是审慎的上下文管理。[^dexhorthy-subagent-overuse]
 
-Treating “one sub-agent per team plus an orchestrator” as the default often copies Conway’s law and buys context loss, latency, and Frankenprompts; a steadier default is one model, one context window, and an open tool loop, with Skills and tool search for progressive disclosure, splitting sub-agents only when need is measurable.[^shao-meng-fold-subagents-main-loop] On the usage side, stacking role-play Agents is the same trap: a generalist model with a panoramic data view and well-documented tools usually beats persona slices.[^shao-meng-felix-not-2024-claude-usage]
+Treating “one sub-agent per team plus an orchestrator” as the default often copies Conway’s law and buys context loss, latency, and Frankenprompts; a steadier default is one model, one context window, and an open tool loop, with Skills and tool search for progressive disclosure, splitting sub-agents only when need is measurable.[^shao-meng-fold-subagents-main-loop] On the usage side, stacking role-play Agents is the same trap: a generalist model with a panoramic data view and well-documented tools usually beats persona slices.[^shao-meng-felix-not-2024-claude-usage] Frontline observation also dates “abuse” to since mid-2025: sub-agents can be high leverage, but hype pushed average users toward more parallelism instead of thoughtful context management.[^dexhorthy-subagent-overuse]
 
 ## 综合分析 / Synthesis
 
@@ -39,6 +45,14 @@ The remaining sub-agent cases are narrow: measurable context bloat, parallel fre
 [邵萌转述 Felix：别再用 2024 方式用 Claude](../sources/articles/shao-meng-felix-not-2024-claude-usage.md) 从 Claude 工程负责人侧补强同一忌讳：行业对「Agent 角色扮演」过转；硬套「你是数据科学家」常限制通才用法；与其给每个 agent 切一小片数据，不如给全景业务视图 + 文档清楚的工具，需要时再调业务工具，不必整库灌进上下文。人也应从「传话筒 / 传送带」升级为让模型自己摸全量崩溃数据、自己挑修什么。[^shao-meng-felix-not-2024-claude-usage] 原帖 <https://x.com/shao__meng/status/2113970197161988276>。
 
 [Meng Shao relays Felix—stop using Claude the 2024 way](../sources/articles/shao-meng-felix-not-2024-claude-usage.md) reinforces the same caution from Claude’s engineering lead: the industry over-rotated on Agent role-play; forcing “you are a data scientist” often limits generalist use; prefer a panoramic business view plus well-documented tools over a small data shard per agent, calling business tools on need instead of dumping whole databases into context. Humans should also stop being messengers / conveyor belts and let the model see all crash data and choose what to fix.[^shao-meng-felix-not-2024-claude-usage] Post: <https://x.com/shao__meng/status/2113970197161988276>.
+
+[Dex Horthy 谈子 Agent 滥用与上下文管理](../sources/articles/dexhorthy-subagent-overuse.md) 从从业者侧给时间线与用户侧失败模式：滥用自 2025 年中起偏多；子 Agent「有时间、有场合」且可以很高杠杆，但 vibeslop 与 Twitter 炒作把平均用户推向更多并行，而不是审慎的上下文管理。帖中引用 Tak：Anthropic 建议企业去掉不必要的子 Agent，配备 skills 的单一 agent 常胜过复杂多 agent 系统——与本页主循环默认同向，但不展开客户 2× 或迁移清单（那些仍见邵萌精读）。[^dexhorthy-subagent-overuse] 原帖 <https://x.com/dexhorthy/status/2114117782111752262>。
+
+[Dex Horthy on subagent overuse and context management](../sources/articles/dexhorthy-subagent-overuse.md) adds a practitioner timeline and user-side failure mode: overuse since mid-2025; sub-agents have a time and place and can be high leverage, but vibeslop and Twitter hype pushed average users toward more parallelism instead of thoughtful context management. The post quotes Tak that Anthropic recommends removing unnecessary subagents and that a single agent with skills often beats complex multi-agent systems—aligned with this page’s main-loop default, without the customer 2× or migration checklist (those remain in Meng Shao’s close read).[^dexhorthy-subagent-overuse] Post: <https://x.com/dexhorthy/status/2114117782111752262>.
+
+同作者另一帖 [Dex Horthy 谈同会话叠 Skills 与上下文污染](../sources/articles/dexhorthy-skills-session-context.md) 把「何时要新鲜窗 / 子 Agent」落到 Skills 加载：约五步同会话通常够用；后续 skill 会分走对先前 skill 的注意力；只有当 skills 必须**叠加**（早先指令在后期步骤仍须生效），或约 200 个独立 skills 须同会话同时活跃时，才换新鲜上下文、子 Agent，或把多份 skill 预合并进一条用户消息——与本页「子 Agent 留给可测上下文膨胀 / 并行新鲜窗」同向，是操作侧的尺度，不是改默认回多 Agent 编排。写法与勿塞权重见 [Agent Skill 编写](./agent-skill-authoring.md)。[^dexhorthy-skills-session-context] 原帖 <https://x.com/dexhorthy/status/2114408588991222156>。
+
+The same author’s other post [Dex Horthy on stacking skills in one session and context dirtying](../sources/articles/dexhorthy-skills-session-context.md) lands “when to want a fresh window / subagent” on Skills loading: about five steps in one session are usually fine; successive skills take attention from earlier ones; only when skills must **stack** (earlier instructions still hold in later steps), or ~200 separate skills must stay active in one session, do you want fresh context, subagents, or to precombine many skill contents into one user message—aligned with this page’s “reserve sub-agents for measurable context bloat / parallel fresh windows,” as an operational scale rather than reverting the default to multi-agent orchestration. For authoring and “don’t stuff the weights,” see [Agent skill authoring](./agent-skill-authoring.md).[^dexhorthy-skills-session-context] Post: <https://x.com/dexhorthy/status/2114408588991222156>.
 
 这与 [工作流优先于智能体](./workflows-before-agents.md) 同属「从最简可工作形态起步」，但切面不同：那边问要不要开放式 Agent，这边问 Agent 内部要不要按组织架构拆子 Agent。Skills 侧与 [Agent Skill 编写](./agent-skill-authoring.md)、[项目指令与 Token 效率](./agents-md-token-efficiency.md) 相接——渐进披露与按需加载不只是省 token，而是替代编排层的默认架构。产出约束侧见 [对抗评审与外部证据](./adversarial-review-external-evidence.md)。
 
@@ -58,6 +72,8 @@ Felix’s interview multi-thread adversarial review is a **verification** split 
 
 - Source: [邵萌谈何时把子 Agent 折进主循环](../sources/articles/shao-meng-fold-subagents-main-loop.md)
 - Source: [邵萌转述 Felix：别再用 2024 方式用 Claude](../sources/articles/shao-meng-felix-not-2024-claude-usage.md)
+- Source: [Dex Horthy 谈子 Agent 滥用与上下文管理](../sources/articles/dexhorthy-subagent-overuse.md)
+- Source: [Dex Horthy 谈同会话叠 Skills 与上下文污染](../sources/articles/dexhorthy-skills-session-context.md)
 - Topic: [工作流优先于智能体](./workflows-before-agents.md)
 - Topic: [智能体规模化工程](./agent-scaled-engineering.md)
 - Topic: [Agent Skill 编写](./agent-skill-authoring.md)
@@ -66,3 +82,5 @@ Felix’s interview multi-thread adversarial review is a **verification** split 
 
 [^shao-meng-fold-subagents-main-loop]: Meng Shao on when to fold sub-agents into the main loop
 [^shao-meng-felix-not-2024-claude-usage]: Meng Shao relays Felix—stop using Claude the 2024 way
+[^dexhorthy-subagent-overuse]: Dex Horthy on subagent overuse and context management
+[^dexhorthy-skills-session-context]: Dex Horthy on stacking skills in one session and context dirtying

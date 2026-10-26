@@ -1,0 +1,23 @@
+{
+  "slug": "c0cf408d1980e10d",
+  "url": "https://x.com/googlecloud/status/2114431803394048151",
+  "title": "Google Cloud (@googlecloud)",
+  "digest": "2026-10-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "c0cf408d1980e10d7fea237bbc03e9b0c760eca84b253f129966dc43b3b85afc",
+  "first_seen": "2026-10-25T23:58:20.950Z",
+  "last_seen": "2026-10-25T23:58:20.950Z",
+  "fetched_at": "2026-10-25T23:58:23.142Z",
+  "content_hash": "5bad3d8d27a5cf77bf7087c1898ea6e98bcf0169d11e908b2fd1496552cb20b2",
+  "article_path": "articles/c0cf408d1980e10d.md",
+  "fetched_url": "https://x.com/googlecloud/status/2114431803394048151",
+  "source_path": "sources/articles/google-cloud-auto-model-picker.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-26T00:11:04.699Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

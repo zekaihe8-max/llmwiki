@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:38:19.482Z",
+  "url": "https://x.com/natolambert/status/2113685620941885732",
+  "slug": "2a1425271712321e",
+  "content_hash": "a3d6bcc5e57e5af23d19133dba28a6564f7a2f0a4005ae37419462b13202d761",
+  "source": {
+    "path": "sources/articles/natolambert-deepseek-150t-inference.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/natolambert-deepseek-150t-inference.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

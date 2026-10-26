@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -836,7 +836,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -845,7 +845,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -854,7 +854,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -863,7 +863,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -872,7 +872,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -881,9 +881,193 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T14:40:00.000Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
+  },
+  "https://x.com/OpenAI/status/2113718797505036665": {
+    "hash": "18bf00a38432d1003dfe10495745bf2825f6e65e6fb7139adf42b7e419608f91",
+    "slug": "18bf00a38432d100",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "OpenAI (@OpenAI)"
+  },
+  "https://x.com/OpenAI/status/2113766354386084338": {
+    "hash": "411b856dad9829a2413af19a8ab515ef26f194241db34e6a33f44735159d74f9",
+    "slug": "411b856dad9829a2",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "OpenAI (@OpenAI)"
+  },
+  "https://x.com/AnthropicAI/status/2113626655902126442": {
+    "hash": "1b0475a3589aa0cbf536ce1bba8e3164c36664d69aa64ef741bf8c7f0df72204",
+    "slug": "1b0475a3589aa0cb",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Anthropic (@AnthropicAI)"
+  },
+  "https://x.com/NVIDIAAI/status/2113657112408785153": {
+    "hash": "a6eefbe8aa7a1ad740eb3a256bd4cd2c4603d8d5a049e40364647f35024f9aa2",
+    "slug": "a6eefbe8aa7a1ad7",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "NVIDIA AI (@NVIDIAAI)"
+  },
+  "https://x.com/googlecloud/status/2114431803394048151": {
+    "hash": "c0cf408d1980e10d7fea237bbc03e9b0c760eca84b253f129966dc43b3b85afc",
+    "slug": "c0cf408d1980e10d",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Google Cloud (@googlecloud)"
+  },
+  "https://x.com/unusual_whales/status/2113733225424224553": {
+    "hash": "b3d044b89ada9cf0c6c5d8899742807c60ae911a8d1cf782677cb71fe4fa0a0b",
+    "slug": "b3d044b89ada9cf0",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "德州总检察长诉 OpenAI"
+  },
+  "https://x.com/hwchase17/status/2114041443836903662": {
+    "hash": "e23c4f78945c05401787ef1539a3332f3ed1ebcd9be6aa2339d524447212d892",
+    "slug": "e23c4f78945c0540",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Harrison Chase (@hwchase17)"
+  },
+  "https://x.com/rauchg/status/2114085432749347086": {
+    "hash": "e76e097cfb130a64a338ec10faafec0f804d3f0b5a6234da76845a70933dd0d5",
+    "slug": "e76e097cfb130a64",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Guillermo Rauch (@rauchg)"
+  },
+  "https://x.com/emollick/status/2114337256865493250": {
+    "hash": "117512a619e2cf5ede46d5fe31639f66efcc35de197d5e70a4f74ca859f67115",
+    "slug": "117512a619e2cf5e",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Ethan Mollick (@emollick)"
+  },
+  "https://x.com/emollick/status/2114503849826549842": {
+    "hash": "b13b95629cf3b9412e5844ab7a51b0fe35c80789b892fcce2c3da94ea46e1cc7",
+    "slug": "b13b95629cf3b941",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Ethan Mollick (@emollick)"
+  },
+  "https://x.com/shao__meng/status/2113635635705921655": {
+    "hash": "9810e9b2a6cff8750dbbf8fd381197c061c634d51b0bc31b594141d4807d2d05",
+    "slug": "9810e9b2a6cff875",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "meng shao (@shao__meng)"
+  },
+  "https://x.com/emollick/status/2113483068174692831": {
+    "hash": "45f98f267212fe18a9665e8819e45cce8a41b57f7f2410b948c23ea95d301451",
+    "slug": "45f98f267212fe18",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Ethan Mollick (@emollick)"
+  },
+  "https://x.com/polynoamial/status/2113729267418956201": {
+    "hash": "cfdad00f7e9f4c97d71589319705f6090f982e0bcd071767866d4d7eb7d71e7c",
+    "slug": "cfdad00f7e9f4c97",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Noam Brown (@polynoamial)"
+  },
+  "https://x.com/levie/status/2113738768645808277": {
+    "hash": "a88598755bdbee0a8f9a95d91c32a0b7d37b9bcb711beea12d00e0685018fef0",
+    "slug": "a88598755bdbee0a",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Aaron Levie (@levie)"
+  },
+  "https://x.com/natolambert/status/2113685620941885732": {
+    "hash": "2a1425271712321ee9404312f06914bb726aca39d265012fc70404dc8148b920",
+    "slug": "2a1425271712321e",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Nathan Lambert (@natolambert)"
+  },
+  "https://x.com/natolambert/status/2113967445727932676": {
+    "hash": "6c182bd19ec838e28034252c971647c9b8be457e6334928a039303552cbd54dc",
+    "slug": "6c182bd19ec838e2",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Nathan Lambert (@natolambert)"
+  },
+  "https://x.com/HamelHusain/status/2114434195854684330": {
+    "hash": "5b48862024a79d0e8e647c50052f79d2c5d4fade7d4bd41c3310761caa6f7937",
+    "slug": "5b48862024a79d0e",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Hamel Husain (@HamelHusain)"
+  },
+  "https://x.com/dexhorthy/status/2114117782111752262": {
+    "hash": "4e1990aae2cbbafeb335ea395e476cbe1fb199e7bb0f103a674dfa07837919e8",
+    "slug": "4e1990aae2cbbafe",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Dex Horthy (@dexhorthy)"
+  },
+  "https://x.com/dexhorthy/status/2114408588991222156": {
+    "hash": "b8f4b4eb226ce72b0263ddc8bc048404ac6ad29b15a087e3c7f6b17538f4c3df",
+    "slug": "b8f4b4eb226ce72b",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Dex Horthy (@dexhorthy)"
+  },
+  "https://x.com/Voxyz_ai/status/2114446907355648062": {
+    "hash": "5bca53ba8330404ebf485c78963ef9d938183ca7764d3076595a6e1af0ee9380",
+    "slug": "5bca53ba8330404e",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Vox (@Voxyz_ai)"
+  },
+  "https://x.com/Voxyz_ai/status/2114416707385073819": {
+    "hash": "26dfd84b888dd629915e9359b54309f82ec56e5dd106a09fddae12b0e82a4c80",
+    "slug": "26dfd84b888dd629",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Vox (@Voxyz_ai)"
+  },
+  "https://x.com/mattpocockuk/status/2114407583167705279": {
+    "hash": "528b1f20069eca00d9931b3ac36c38f6e10a039362cffe6b302e74d54553844b",
+    "slug": "528b1f20069eca00",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Matt Pocock (@mattpocockuk)"
+  },
+  "https://x.com/mattpocockuk/status/2114311664069718370": {
+    "hash": "c0bf48eabc6adfd0a22e8772b942456fc994fb6619e681f53c1d165ee588a0fe",
+    "slug": "c0bf48eabc6adfd0",
+    "first_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-25T23:58:20.950Z",
+    "digest": "2026-10-26-frontier-ai.md",
+    "title": "Matt Pocock (@mattpocockuk)"
   }
 }

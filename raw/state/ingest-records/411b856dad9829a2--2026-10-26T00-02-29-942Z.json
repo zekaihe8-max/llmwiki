@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:02:29.942Z",
+  "url": "https://x.com/OpenAI/status/2113766354386084338",
+  "slug": "411b856dad9829a2",
+  "content_hash": "78339584b4ad515fb33655fccf46b2dc77c39116b13e5093c6fc5df3301cd584",
+  "source": {
+    "path": "sources/articles/openai-brotli-rce-disclosure.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/openai-brotli-rce-disclosure.md",
+    "topics/frontier-training-containment.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
