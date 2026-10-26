@@ -1,0 +1,23 @@
+{
+  "slug": "411b856dad9829a2",
+  "url": "https://x.com/OpenAI/status/2113766354386084338",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-10-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "411b856dad9829a2413af19a8ab515ef26f194241db34e6a33f44735159d74f9",
+  "first_seen": "2026-10-25T23:58:20.950Z",
+  "last_seen": "2026-10-25T23:58:20.950Z",
+  "fetched_at": "2026-10-25T23:58:21.699Z",
+  "content_hash": "78339584b4ad515fb33655fccf46b2dc77c39116b13e5093c6fc5df3301cd584",
+  "article_path": "articles/411b856dad9829a2.md",
+  "fetched_url": "https://x.com/OpenAI/status/2113766354386084338",
+  "source_path": "sources/articles/openai-brotli-rce-disclosure.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-26T00:02:29.941Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

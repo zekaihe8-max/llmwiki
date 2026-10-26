@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:55:14.779Z",
+  "url": "https://x.com/Voxyz_ai/status/2114416707385073819",
+  "slug": "26dfd84b888dd629",
+  "content_hash": "ca8d752e8cb8ff422065301dcb0db715de888be49c1161594b355fcea135255f",
+  "source": {
+    "path": "sources/articles/voxyz-usage-habits-to-agents-md.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/voxyz-usage-habits-to-agents-md.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

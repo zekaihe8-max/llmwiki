@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:19:58.319Z",
+  "url": "https://x.com/rauchg/status/2114085432749347086",
+  "slug": "e76e097cfb130a64",
+  "content_hash": "42de20e45c4fecbf565f8ddefab5b0beb8ebdaeba1b400052b6d49869f776ba4",
+  "source": {
+    "path": "sources/articles/rauchg-over-under-guide-ai.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/rauchg-over-under-guide-ai.md",
+    "topics/calibrating-ai-guidance.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

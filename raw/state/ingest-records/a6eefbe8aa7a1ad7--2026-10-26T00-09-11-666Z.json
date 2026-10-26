@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:09:11.666Z",
+  "url": "https://x.com/NVIDIAAI/status/2113657112408785153",
+  "slug": "a6eefbe8aa7a1ad7",
+  "content_hash": "7895735417a0fef157a25fa83d82a7a96a768a9fa912d8da69f04b9328f60e6f",
+  "source": {
+    "path": "sources/articles/nvidia-ai-nemotron-bolt-e4b.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/nvidia-ai-nemotron-bolt-e4b.md",
+    "topics/local-open-assistant-models.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:21:28.273Z",
+  "url": "https://x.com/emollick/status/2114337256865493250",
+  "slug": "117512a619e2cf5e",
+  "content_hash": "8eb9c0787fdb6c3454f11f37ce14d2fe61978bcb6eb374cad32856f6bfab8b5c",
+  "source": {
+    "path": "sources/articles/emollick-ai-management-span.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-management-span-of-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/emollick-ai-management-span.md",
+    "topics/ai-management-span-of-control.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

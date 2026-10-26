@@ -1,0 +1,23 @@
+{
+  "slug": "1b0475a3589aa0cb",
+  "url": "https://x.com/AnthropicAI/status/2113626655902126442",
+  "title": "Anthropic (@AnthropicAI)",
+  "digest": "2026-10-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "1b0475a3589aa0cbf536ce1bba8e3164c36664d69aa64ef741bf8c7f0df72204",
+  "first_seen": "2026-10-25T23:58:20.950Z",
+  "last_seen": "2026-10-25T23:58:20.950Z",
+  "fetched_at": "2026-10-25T23:58:22.239Z",
+  "content_hash": "2ccd8d4ef37a536b04a91cd7acb2e91f5cf086fd0405ca93a83c01db54e03d22",
+  "article_path": "articles/1b0475a3589aa0cb.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2113626655902126442",
+  "source_path": "sources/articles/anthropic-ukaisi-alignment-assessment.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-26T00:07:00.026Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -9,9 +9,12 @@ sources:
   - id: xiaomovps-claude-code-token-five-projects
     resource: https://x.com/xiaomovps/status/2114285431324057857
     title: 小墨 on five Claude Code token-saving projects
+  - id: voxyz-usage-habits-to-agents-md
+    resource: https://x.com/Voxyz_ai/status/2114416707385073819
+    title: Vox on scanning session logs into AGENTS.md usage rules
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T20:28:00+08:00
+  at: 2026-10-26T08:53:08+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -33,6 +36,10 @@ Beyond project instructions and harness defaults, coding agents can also cut Tok
 
 It shares the save-Tokens goal with [Project instructions and token efficiency](./agents-md-token-efficiency.md) on a different cut: that page changes execution constraints and on-demand Skills via `AGENTS.md` / `CLAUDE.md`; this page is peripheral filter/compress/memory/retrieval tooling plus install discipline that tools have overhead. It also meets [Harness comparison beyond tokens](./harness-comparison-beyond-tokens.md)—final verification is full-task use and cost, not a lone claim that a tool shrank some logs.
 
+[Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](../sources/articles/voxyz-usage-habits-to-agents-md.md) 从指令侧对上本页工具所攻的同类浪费：示例习惯含整文件通读、倾倒长测试/构建输出等，与 Serena / RTK / context-mode 路径重叠，但做法是扫会话日志 token 计数、经确认后写入 `CLAUDE.md` / `AGENTS.md`，不是默认装外围栈。主叙事在 [项目指令与 Token 效率](./agents-md-token-efficiency.md)；此处只标「工具 vs 规则」互补，不把 Vox 收成工具清单条目。[^voxyz-usage-habits-to-agents-md] 原文 <https://x.com/Voxyz_ai/status/2114416707385073819>。
+
+[Vox on scanning session logs into AGENTS.md usage rules](../sources/articles/voxyz-usage-habits-to-agents-md.md) meets the same waste classes this page’s tools attack from the instruction side: example habits include whole-file reads and long test/build dumps—overlapping Serena / RTK / context-mode paths—but the method is scan session-log token counts and, after yes, write `CLAUDE.md` / `AGENTS.md`, not default to a peripheral stack. Primary narrative lives on [Project instructions and token efficiency](./agents-md-token-efficiency.md); here only the tools-vs-rules complement is marked, without folding Vox into the tool list.[^voxyz-usage-habits-to-agents-md] Original at <https://x.com/Voxyz_ai/status/2114416707385073819>.
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -40,8 +47,10 @@ It shares the save-Tokens goal with [Project instructions and token efficiency](
 ## 相关 / Related
 
 - Source: [小墨谈 Claude Code 省 Token 五项目](../sources/articles/xiaomovps-claude-code-token-five-projects.md)
+- Source: [Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](../sources/articles/voxyz-usage-habits-to-agents-md.md)
 - Topic: [项目指令与 Token 效率](./agents-md-token-efficiency.md)
 - Topic: [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)
 - Topic: [编程 Agent 体验与额度](./coding-agent-ux-vs-quota.md)
 
 [^xiaomovps-claude-code-token-five-projects]: 小墨 on five Claude Code token-saving projects
+[^voxyz-usage-habits-to-agents-md]: Vox on scanning session logs into AGENTS.md usage rules

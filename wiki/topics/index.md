@@ -19,46 +19,61 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [面向 Agent 的联网搜索重做](./agent-native-web-search.md) / Agent-native web search rebuild — 当搜索主用户从人变为 Agent，接口需直接给正文、抬高权威信源门槛并压低多轮延迟；通用 SERP 摘要不够用，垂类场景仍常要改写问句或接专用 API。
 - [Agent 产出直送 Notion 阅读](./agent-output-to-notion-reading.md) / Agent output routed to Notion for reading — 个人 Agent（如 Grok bot、Muse）可将生成内容直接发到 Notion；设备端（如 iPhone Duo）适配良好时，Notion 成为可读的阅读面。
 - [智能体规模化工程](./agent-scaled-engineering.md) / Agent-scaled engineering — 当智能体写出大部分代码时，团队靠自动化新瓶颈、跑长时智能体循环、保持小团队，并为数月后的模型而构建取胜；搭 Agent 本身不值钱，工具、工作流与业务熟知更值钱；人少当传话筒，把全量数据与真结果交给模型；各阶段有 Agent 还不等于有边界的 L4 软件工厂。
-- [Agent Skill 编写](./agent-skill-authoring.md) / Agent skill authoring — 耐用 Skills 来自真实跑通、精瘦 description、体积限制、脆弱步骤写死与 gotchas；同时官方与一线劝慎用——半衰期短，有时删 skill 更好，旧规矩会绑住新模型。
+- [Agent Skill 编写](./agent-skill-authoring.md) / Agent skill authoring — 耐用 Skills 来自真实跑通、精瘦 description、体积限制、脆弱步骤写死与 gotchas；勿塞权重已有知识；同会话叠 Skills 要看是否需叠加与内容类型；同时官方与一线劝慎用——半衰期短，有时删 skill 更好，旧规矩会绑住新模型。
 - [Agent Skills 开放标准](./agent-skills-open-standard.md) / Agent Skills open standard — Agent Skills 正迁入与 MCP 同属的 Agentic AI Foundation，成为已被数十个智能体产品采用的跨平台标准。
 - [Agentic AI Foundation](./agentic-ai-foundation.md) / Agentic AI Foundation — Agentic AI Foundation 是共享智能体基础设施项目的中立归属地，覆盖技能、跨厂商协作、训练环境与沙箱运行时。
-- [项目指令与 Token 效率](./agents-md-token-efficiency.md) / Project instructions and token efficiency — Agent harness 可通过 AGENTS.md / CLAUDE.md 等项目指令约束执行方式以减少无效 Token：避免双文件重复入 Context，写执行规则而非人设（人设常限制通才），并把重流程拆成按需 Skills。
+- [项目指令与 Token 效率](./agents-md-token-efficiency.md) / Project instructions and token efficiency — Agent harness 可通过 AGENTS.md / CLAUDE.md 等项目指令约束执行方式以减少无效 Token：避免双文件重复入 Context，写执行规则而非人设（人设常限制通才），把重流程拆成按需 Skills；亦可扫会话日志的 token 计数找出个人烧额度习惯，经确认后再写入规则。
 - [AI 应用适配 iPhone Duo](./ai-app-iphone-duo-adaptation.md) / AI apps adapting to iPhone Duo — 社区公开 AI 应用在 iPhone Duo 上的识别问题后，厂商可在隔天内完成适配跟进。
 - [AI 辅助剪藏与媒体笔记](./ai-assisted-clipping-and-notes.md) / AI-assisted clipping and media notes — 面向播客、视频与笔记的浏览器剪藏/Obsidian 插件可较快积累用户，并把日常媒体消费与记笔记框成可用 AI 辅助的工作流。
 - [AI 助力本地小生意](./ai-assisted-local-businesses.md) / AI-assisted local businesses — 帮助经营本地小生意的 AI 产品（如 Claude Duet）对这些企业的意义，可能超过 Square 或 Google Maps 等早期平台。
+- [AI 聊天机器人安全的消费者保护诉讼](./ai-chatbot-safety-consumer-suits.md) / Consumer-protection suits over AI chatbot safety — 州总检察长可以消费者保护为由起诉 AI 聊天机器人厂商及其高管，指控安全宣传误导消费者、未能保护用户免受伤害。
 - [AI 代码与屎山上线双标](./ai-code-vs-messy-code-double-standard.md) / AI code vs messy-code shipping double standard — 对 AI 写出的代码常不放心、怕上线出问题，却把熬夜复制粘贴拼出的人类屎山当成体面安全可上线——同一上线决策上的信任双标。
 - [AI 与网络安全岗位](./ai-cybersecurity-jobs.md) / AI cybersecurity jobs — AI 让网络安全更偏智能体化，但也提高了对瞄准智能体、审阅发现、打补丁与应急响应人员的需求。
+- [网防 Agent Swarm 品类](./agent-swarms-cyber-defense.md) / Agent swarms for cyber defense — 网络防御可用 agent swarm 规模化审代码/基建、穷举风险测试与啃数据；安全因「多算力多价值」、且人类测试队列永远赶不及，被框成 AI 最大品类之一。
 - [AI 评测入口与干活记录](./ai-eval-work-record-gateway.md) / AI-eval gateways and work-record streams — 平台收购 AI 评测与监控公司，图的是 AI 干活记录流进来的入口；门后客户数据可被平台触达，自有中立数据（如 Arena）更难买走。
 - [AI 媒体内容回灌训练语料](./ai-media-training-corpus-loop.md) / AI media content looping into training corpora — 媒体可用 AI 写稿并由人播出；播出文本与「AI 味」表达再进入训练语料，形成生成→播出→再训练的大循环。
 - [AI 原生公司](./ai-native-companies.md) / AI-native companies — 存量公司至多适应 AI；新创公司从创立起即 AI 原生；把已有公司改造成 AI 原生是少见的艰难中间路径。
+- [AI 扩大高管管控跨度](./ai-management-span-of-control.md) / AI expands senior management span of control — 大组织可因 AI 扩大能直接监控全司的高管角色与管理跨度，深刻改变运营；相对整司改造，这条路径常更好落地。
+- [AI 审稿与科研实践适配](./ai-peer-review-science-adaptation.md) / AI peer review and adapting science practice — 前沿模型可在同行审稿上按多项指标胜过人类专家（含统计、形式模型与质性工作）；学界须尽快调整科学实践以适配 AI。
 - [AI 任务时界增长](./ai-task-horizon-growth.md) / AI task horizon growth — 在给定成功率下，AI 能完成的人类工作时长在约三十个月内从分钟级增长到小时级再到周级。
+- [校准对 AI 的过度与不足引导](./calibrating-ai-guidance.md) / Calibrating over- and under-guidance of AI — 用人与 AI 协作时，过度约束（模型其实更懂）与引导不足（跑偏、偏见、缺上下文）都会出错；管好这颗松紧旋钮可被当成招人时的首要技能信号。
+- [把目标抬到更野心直到摸清 AI 前沿](./raise-ambition-until-ai-frontier.md) / Raise ambition until you find the AI frontier — 用 AI 时不断把目标抬得更野心（或拆成速度、高度、深度、广度等方向逐级提问）：撞墙则摸清前沿形状，常见结果是发现 AI 比想象更能干；卡住点常是不敢提要求，而非模型能力。
 - [随手 AI 小游戏一次成功](./casual-ai-minigame-first-try.md) / Casual AI mini-games succeeding on first try — 当前通用模型已强到随手提示即可做出可玩小游戏，且作者常报「一次就成」；由此引出「随便一个模型都太强了」的能力地板观感——不等于同题下不同 Harness 成品质量一样。
 - [中国开源领先与美国算力优势](./china-open-source-lead-us-compute.md) / China open-source lead and US compute advantage — 开源模型格局可同时读成：中国在开源侧全面领先，美国保有数量级算力优势；蒸馏常被点名为关键问题，但有讲座主张并非关键；开源相对闭源前沿仍有约「3 到 5」量级落后（单位依来源而定）。
+- [DeepSeek 自营推理相对聚合平台](./deepseek-inference-vs-aggregators.md) / DeepSeek first-party inference vs aggregators — 实验室自营开放模型推理量可远超多家主流聚合平台上开放模型推理之和；公开数字若标明「单集群」，总吞吐还可能更高，且依赖对各家报告的重建与官方口径。
 - [中国特供版与本地应用预装](./china-special-edition-preinstalls.md) / China special editions and local app preinstalls — 面向中国市场的软件/系统「特供版」会预装淘宝、支付宝、爱奇艺、华为全家桶等本地主流应用，常以调侃口吻展示「塞满」观感。
+- [网络能力测评越权事件的对齐评估](./cyber-eval-incident-alignment.md) / Alignment assessment after cyber-eval incidents — 外部方测模型网络能力时若出现未授权上网等行动，实验室可事后公开进一步对齐分析，以更好理解模型对齐属性。
 - [Claude Code 作者与社区话筒](./claude-code-authorship-and-voice.md) / Claude Code authorship and community voice — 对外帖文有时把 Claude Code「作者」归给不同的人；歸藏后来更正 Boris 才是作者与产品线负责人，Thariq 是社区影响力强的普通技术员工；社区话筒离职仍被当成重要信号。
-- [Google Cloud 上的 Claude](./claude-on-google-cloud.md) / Claude on Google Cloud — Anthropic 托管的 Claude 模型可在 Google Cloud 上运行，具备 Claude Platform 功能，并原生对接 Google Cloud IAM、计费与承诺额核销。
+- [Google Cloud 上的 Claude](./claude-on-google-cloud.md) / Claude on Google Cloud — Anthropic 托管的 Claude 可在 Google Cloud 运行，兼具 Claude Platform 与 GCP 原生 IAM/计费；模型选择器 Auto 也可把作业编排到 Claude（与 Gemini）。
+- [云平台 Auto 跨模型编排](./cloud-auto-model-routing.md) / Cloud Auto cross-model routing — 云平台可在模型选择器提供 Auto：由平台侧（如 Gemini）按任务把作业编排到最合适的模型，跨 Gemini、Claude 及未来私有/开源模型，以兼顾质量与成本。
 - [Claude 订阅风控权重](./claude-subscription-risk-control-weights.md) / Claude subscription risk-control weights — 社区经验把 Claude 订阅风控读成有权重的信号栈：恶意退款、蒸馏与危险越狱可一票否决；支付质量、国家/区域一致与支付时设备指纹权重高；IP、设备 ID、同设备多号与高额度档位居中；KYC 国籍权重低——且应作机制笔记而非绕过手册。
-- [代码重于规格](./code-over-spec.md) / Code over the spec — 工程注意力应以实际运行的代码为中心，而不是描述它的书面规格。
+- [代码重于规格](./code-over-spec.md) / Code over the spec — 工程注意力应以实际运行的代码为中心，而不是描述它的书面规格；AGENTS.md 等项目文档过期时亦应跟代码并报告不一致。
 - [编程 Agent 省 Token 工具与开销](./coding-agent-token-saving-tooling.md) / Coding-agent token-saving tooling and overhead — 社区可用过滤工具输出、压缩终端日志、跨 Session 记忆、LSP 符号检索与精简回复等外围工具，为 Claude Code 一类编程 Agent 省 Token；但工具本身有开销，宜择要安装并以完整任务消耗与实际费用验收，而非默认全装。
 - [编程 Agent 体验与额度](./coding-agent-ux-vs-quota.md) / Coding agent UX vs quota — 用户可在多个编程 Agent 间切换并更偏好某一产品的体验，但该产品的额度仍可能明显弱于对照产品；即便对照产品相对慷慨，重用也可能一天烧掉周额度的大半；另有实践者报告某整合套餐周额度基本用不完、峰值约 70%；额度还有周期重置（如 Codex「马上要重置」），多 Claude 订阅号还可按周重置时点优先消耗「限额快到」的账号。
-- [社区实测对抗刷分碰瓷](./community-evals-vs-score-hype.md) / Community evals vs score hype — 模型口碑最终靠推友自测与真用；刷分找 KOL 掩盖、雇水军吹分、怪话术刷屏、绕开 Paid Partnership，以及买通英推上游让中推免费搬运、假海外大号与 MCN 互刷，都会撞上社区测评与平台规则，掩盖不住时反噬更重。
+- [社区实测对抗刷分碰瓷](./community-evals-vs-score-hype.md) / Community evals vs score hype — 模型口碑最终靠推友自测与真用；顶档上 AA 等榜分更像潜力，真用才是兑现；刷分找 KOL 掩盖、雇水军吹分、怪话术刷屏、绕开 Paid Partnership，以及买通英推上游让中推免费搬运、假海外大号与 MCN 互刷，都会撞上社区测评与平台规则，掩盖不住时反噬更重。
+- [信任公开榜前先审质量](./public-benchmark-quality-scrutiny.md) / Scrutinize public-benchmark quality before trusting — 业界高度依赖的公开基准往往质量堪忧；宜参考独立第三方审读（如 Epoch），并在采信前自行跑测、仔细检查 grader 失败样例。
+- [公司级 Agent Harness 五原语](./company-agent-harness.md) / Company agent harness — five primitives — 多玩家公司级 agent harness 常收敛到五条原语：落在已有工作面、OBO/自有身份、全局与用户记忆、沙箱执行与鉴权代理、大量定时或 ambient 跑；身份被点成最难的一题。
 - [Computer Use](./computer-use.md) / Computer Use — AI 操控电脑或手机时，模型只负责看和想，真正点按由另一段「看、想、做、查」程序执行；定位、系统后台差异与安全边界是这条链路的关键问题；也可在手机上跨 App 逐条迁移数据。
 - [机密计算与云端 AI](./confidential-computing-cloud-ai.md) / Confidential computing for cloud AI — 企业可用机密计算（远程证明、全程加密、芯片隔离推理）在云端调用 AI，而不把财务报表、病历或核心代码以明文暴露给服务商或运维。
 - [深后端与 JIT 前端](./deep-backends-and-jit-frontends.md) / Deep backends and JIT frontends — 智能体把软件推向深后端与即时前端两极，并配合几乎无摩擦的临时部署，使智能体无需注册即可发布线上 URL。
+- [约束重构 PR 的确定性自动合入](./deterministic-refactor-automerge.md) / Deterministic automerge for constrained refactor PRs — 在极严约束下（仅重组代码、不改模块图、不恶化测试覆盖等），可用确定性检查判断 PR 能否自动合入，以解锁一类更敢做的重构；不覆盖新功能，对修 bug 也未必可行。
 - [发散任务先人审设计](./divergent-tasks-human-design-gate.md) / Human design gate for divergent tasks — 与 Agent 协作时，按任务发散强弱切换人的介入点：强发散（如界面设计）宜人先把关设计稿再实现；弱发散或已有标准化 Agent Skill 可用单提示词，人审结果；模型越弱越需事前把关。
 - [驻场第三方评估](./embedded-third-party-evals.md) / Embedded third-party evals — 前沿实验室可让第三方研究者驻场评估内部对智能体失调的监测，再用发现加固防护并规划后续合作。
-- [把子 Agent 折进主循环](./fold-subagents-into-main-loop.md) / Fold sub-agents into the main loop — 构建 Agent 时默认用一个主循环 + Skills/工具渐进披露，而不是按组织架构或角色人设堆子 Agent；给全景数据与文档清楚的工具，子 Agent 只留给可测的上下文膨胀、并行新鲜窗或工具/指令冲突。
+- [前沿训练环境隔离](./frontier-training-containment.md) / Frontier training containment — 前沿实验室可用离线缓存网替代直播互联网、用 agent 红队压测隔离，并把高算力红队写进是否继续训练的 safety case；同批红队也可挖出并负责任披露公共库中的严重漏洞；内部声音亦称可用与攻克 Navier–Stokes 同类的大规模 agent 方法做基建红队。
+- [把子 Agent 折进主循环](./fold-subagents-into-main-loop.md) / Fold sub-agents into the main loop — 构建 Agent 时默认用一个主循环 + Skills/工具渐进披露，而不是按组织架构或角色人设堆子 Agent；给全景数据与文档清楚的工具，子 Agent 只留给可测的上下文膨胀、并行新鲜窗或工具/指令冲突；同会话叠 Skills 约五步通常够用，需技能叠加或大量同时活跃时再换新鲜窗/子 Agent。
 - [消费级 GPU AI 算力解锁](./gpu-ai-compute-unlock.md) / Consumer GPU AI compute unlock — 社区可用驱动前软件路径改写速度选择器，在相同功耗上限下解开消费级 NVIDIA Ampere 卡对 FP/BF16→FP32 AI 运算的吞吐限制。
 - [用 Grok Bot 内置额度桥接 Agent 查 X](./grok-bot-x-api-substitute.md) / Bridge agents to X via Grok Bot built-in quota — 编程 Agent（如 Codex）可通过 Webhook 或 Cursor BDK+MCP 把 X 检索交给 Grok Bot 的内置工具额度，以替代按帖计费的付费 X API；个人场景常先 BDK，Worker/回传业务接口再选 Webhook。
 - [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md) / Harness comparison beyond tokens — 同模型比 harness 应看轮次、缓存命中、时延与质量，而不是只看累计 token；Token 接近也不等于成品一样，还要看 Harness 如何组织执行；DSH 标准模式常更啰嗦多轮，后续可用 AGENTS.md 约束关掉反复截图自检。
 - [应用内模型合作伙伴](./in-app-model-partnerships.md) / In-app model partnerships — Agent/AI 工具可把模型厂商收成软件内的正式合作伙伴，而不只是通用 API 接入；Magpie 以 Kimi 为首个合作伙伴。
 - [智能作为人类中心主义指标](./intelligence-as-anthropocentric-benchmark.md) / Intelligence as an anthropocentric benchmark — 「智能」可被看作人类中心主义定义的一个指标，而非人类唯一或最高品质；当 AI 逼近或超越该指标时，叙事应回到更广的人类品质与决策顺序。
 - [iPhone Duo 普通人吐槽与开发者赞美](./iphone-duo-user-vs-developer-reception.md) / iPhone Duo — ordinary complaints vs developer praise — 对新双屏机型（如 iPhone Duo）的公开反应可按人群分裂：普通人多吐槽缺点，iOS 开发者则一边倒赞美。
+- [面向 Agent 的编程语言](./languages-for-agents.md) / Languages for agents — 下一代「给 agent 的语言」被框成同时追求极速、极小设计空间与极严类型/验证；Bend 等项目可作为朝该方向的早期尝试，而非终局答案。
 - [手机变轻与 Mac 专供 Agent](./lighter-phone-macs-for-agents.md) / Lighter phones and Macs dedicated to agents — 个人硬件预算可从「年年换更重的手机」转向「Mac 等算力机专供 agent」；手机退成越来越轻的入口，重活与常驻算力落在给 agent 的机器上。
 - [大模型协助电子书设备越狱](./llm-assisted-ereader-jailbreak.md) / LLM-assisted e-reader jailbreak — 消费级电子书设备（如 Kindle）可用廉价转接线连电脑、交给任意大模型协助越狱；越狱后可用 Obsidian 插件经 WiFi 传 epub，再配合 ebook MCP 一句话找书传机，并进一步用 AI 改造成 AI 阅读器。
 - [LLM 形式化验证](./llm-formal-verification.md) / LLM formal verification — 大语言模型能让形式化软件验证在真实代码库上变得可行——这些代码库以往对仅靠专家的证明工作来说太大或成本过高。
 - [LLM 维护的 wiki](./llm-maintained-wiki.md) / LLM-maintained wiki — 一份由智能体在不可变来源之上持续维护的编译型 Markdown wiki，而不是每次提问都从原始文件重新推导答案。
 - [发模型前本地脱敏](./local-desensitization-before-models.md) / Local desensitization before sending to models — Agent/AI 工具可在本机对密钥等敏感内容脱敏后再外发；作者可用「若用过就不会出事」把近期安全事件框成可预防的配置缺口，而非事后补救。
+- [本地开放助手与机器人小模型](./local-open-assistant-models.md) / Local open models for assistants and robots — 实验室可发布约数 GB 的小体积开放模型，面向本地助手、互动角色与可对话并用工具办事的机器人，并在 Jetson 一类边缘板上与视觉模型同机本地跑通演示。
 - [长对话默认压缩低于模型窗口](./long-conversation-default-compression.md) / Long-conversation default compression below model window — Agent 包装层或 harness 可能默认在低于模型标称窗口的位置压缩长对话，以换首字延迟；表观「模型/Codex 上限」有时是产品默认，可用完整窗口或按模型改压缩点。
 - [menubar 管理工具真空](./menubar-management-tool-gap.md) / Menubar management tool gap — 即便通用 AI 能力很强，Mac menubar 图标管理一类日常工具仍可能长期缺「完美好用」选项——现有产品或难用、或更新不停仍不满意、或已停更。
 - [千禧年末日话语](./millenarian-apocalypse-discourse.md) / Millenarian apocalypse discourse — 近乎公理的短期末日信念、征兆扫描、恐惧与兴奋并存，以及封闭的共同信念圈，标示千禧年邪教动力学，此处用作对激进末日话语的批评。
@@ -70,7 +85,7 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [本体驱动的可观测性](./ontology-driven-observability.md) / Ontology-driven observability — 排障慢常因实体说法不一致、关系只在人脑；用本体与知识图谱把非确定性匹配收成可查询事实，再喂排障 Agent，而不是先堆看板或直接上 Agent。
 - [开源模型与网络防御](./open-models-cyber-defense.md) / Open models and cyber defense — 开源权重会被用于攻击，但也助力网络防御；可信的网络安全视角认为，开源模型在未来一年对稳住防线的帮助，大于末日叙事所承认的程度。
 - [开源工具装进 AI 助手做自然语言剪辑](./open-source-in-ai-assistant-editing.md) / Open-source tools in AI assistants for natural-language editing — 开源剪辑等创作工具可装进 AI 助手，用一句话选模板、放素材、出成片乃至复刻喜欢的片子，替代外包付费剪辑。
-- [开放权重前沿模型](./open-weight-frontier-models.md) / Open-weight frontier models — 实验室可发布接近闭源前沿的开放权重 MoE 模型：长上下文、代码与金融对标，完整权重可下载，但本地硬件门槛高，且部分基准仍落后；社区亦有「能力强但太贵」的体感。
+- [开放权重前沿模型](./open-weight-frontier-models.md) / Open-weight frontier models — 实验室可发布接近闭源前沿的开放权重 MoE 模型：长上下文、代码与金融对标，完整权重可下载，但本地硬件门槛高，且部分基准仍落后；社区亦有「能力强但太贵」的体感，以及「榜强但真用更偏 miss」的判断。
 - [个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md) / Personal-agent cloud env: backup, isolation, and schedule checks — 把带云电脑的个人 Agent 当长期助理时，宜外置持久化备份、按项目隔离共享环境，并对定时任务做独立核对与补偿——因环境可能回滚、多 Bot 可共机、例程可漏跑。
 - [个人 Agent 当包工头调度编程 Agent](./personal-agent-foreman-over-coding-agents.md) / Personal agent as foreman over coding agents — 个人 Agent（如 Grok Bot）可调用本地或远程的 Codex、Claude Code 等编程 Agent；在编程 Agent 订阅已买的前提下，Grok 只需最低够用套餐负责任务调度与质量验收，当包工头让手下各干各的。
 - [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md) / Personal-agent hype vs coding-agent familiarity — 个人 Agent（如 Grok Bot、Muse）热潮对未高频用过前沿 Coding Agent 的人更像科幻震撼；天天用 Claude Code / Codex 的人波澜不大——熟悉度差决定体感，而非产品是否全新；手机端另有 session 便利差。
@@ -78,7 +93,7 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [播客 AI 精细转写精读](./podcast-ai-fine-transcription-close-reads.md) / Podcast AI fine-transcription close reads — 用 AI 精细转写（非摘要）把长播客压成可读文章，约十分钟覆盖一小时要点，感兴趣再听原音频；可做成按节目自动更新的精读站。
 - [上市前夕人才离职动机追问](./pre-ipo-talent-departure-motives.md) / Pre-IPO talent departure motive questions — 旁观者会把前沿实验室上市前夕的多名高层离职框成需要解释动机的信号，并公开追问「背后原因」——即便帖文未点名、未给结论。
 - [高端 AI 订阅价值](./premium-ai-subscription-value.md) / Premium AI subscription value — 社区会追问高价前沿订阅（如 GPT 500 刀）是否仍值得付费，以及该档位是否仍会出现「降智」等质量下滑；跨产品切换时，体验偏好也可能被额度差距卡住；重用编程 Agent 时，周额度也可能一天烧掉一半；也有实践者把栈精简到约 $120/月，主张覆盖工作流、额度够用与成本可控比堆会员更有价值；另有玩法在编程 Agent 订阅已买时，只给 Grok 留最低够用套餐做调度与验收。
-- [Pro 与 Flash 模型策略](./pro-vs-flash-model-strategy.md) / Pro vs Flash model strategy — 近期带 Pro 后缀的发布常被质疑未达预期；社区亦强调不如旗舰可靠性价比，刷分碰瓷、过度宣传与忽悠高价会反噬；也有体感肯定某款 Pro「很强」却嫌太贵；另有声音称某厂已落国产第二梯队，DeepSeek / MiniMax Flash 又快又好用不完而对方套餐几句额度光；对多数 AI 团队而言，做 Flash 级模型是否才是更稳的路线仍是开放问题。
+- [Pro 与 Flash 模型策略](./pro-vs-flash-model-strategy.md) / Pro vs Flash model strategy — 近期带 Pro 后缀的发布常被质疑未达预期；社区亦强调不如旗舰可靠性价比，刷分碰瓷、过度宣传与忽悠高价会反噬；也有体感肯定某款 Pro「很强」却嫌太贵；另有声音称某厂已落国产第二梯队，DeepSeek / MiniMax Flash 又快又好用不完而对方套餐几句额度光；还有观点称 AA 榜强不等于真用兑现，Kimi 3.1 更偏 miss；对多数 AI 团队而言，做 Flash 级模型是否才是更稳的路线仍是开放问题。
 - [可编程边缘计算](./programmable-edge-compute.md) / Programmable edge compute — 边缘网络应通过沙箱化 JavaScript 变为可编程，并配以最终一致的边缘 KV 与强一致、可协调的 Durable Objects，才能支撑整应用在边缘运行，而不是无限叠加固定功能。
 - [纯语音全双工与情绪可听](./pure-speech-full-duplex.md) / Pure-speech full-duplex and audible emotion — 仅从人类语音训练的 speech-to-speech 全双工模型，可保留语气与情绪线索，避免「语音→文本→LLM」压掉非文本信息；并被框成能力上升时「听不见痛苦还继续聊」的安全补丁。
 - [阅读应用适配 iPhone Duo](./reading-app-iphone-duo-adaptation.md) / Reading apps adapting to iPhone Duo — 面向阅读/预览的应用会跟进 iPhone Duo 适配；配套能力还可包括记住上次阅读位置，使双屏机上的长文阅读可续读。

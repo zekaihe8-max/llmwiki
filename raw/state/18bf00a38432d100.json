@@ -1,0 +1,23 @@
+{
+  "slug": "18bf00a38432d100",
+  "url": "https://x.com/OpenAI/status/2113718797505036665",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-10-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "18bf00a38432d1003dfe10495745bf2825f6e65e6fb7139adf42b7e419608f91",
+  "first_seen": "2026-10-25T23:58:20.950Z",
+  "last_seen": "2026-10-25T23:58:20.950Z",
+  "fetched_at": "2026-10-25T23:58:20.994Z",
+  "content_hash": "8b46e04bf0b4b02a13a243fc7c6e483767bbb2d576bffe9af4b66e4a15b22cb4",
+  "article_path": "articles/18bf00a38432d100.md",
+  "fetched_url": "https://x.com/OpenAI/status/2113718797505036665",
+  "source_path": "sources/articles/openai-securing-frontier-training.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-26T00:00:20.710Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

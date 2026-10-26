@@ -2,9 +2,9 @@
 type: Topic
 title: 项目指令与 Token 效率
 title_en: Project instructions and token efficiency
-description: Agent harness 可通过 AGENTS.md / CLAUDE.md 等项目指令约束执行方式以减少无效 Token：避免双文件重复入 Context，写执行规则而非人设（人设常限制通才），并把重流程拆成按需 Skills。
-description_en: Agent harnesses can cut wasted tokens via project instructions such as AGENTS.md / CLAUDE.md—avoid dual-file double-loading into Context, write execution rules not personas (personas often hobble generalists), and split heavy flows into on-demand Skills.
-tags: [agents, agents-md, claude-md, tokens, harness, skills]
+description: Agent harness 可通过 AGENTS.md / CLAUDE.md 等项目指令约束执行方式以减少无效 Token：避免双文件重复入 Context，写执行规则而非人设（人设常限制通才），把重流程拆成按需 Skills；亦可扫会话日志的 token 计数找出个人烧额度习惯，经确认后再写入规则。
+description_en: Agent harnesses can cut wasted tokens via project instructions such as AGENTS.md / CLAUDE.md—avoid dual-file double-loading into Context, write execution rules not personas (personas often hobble generalists), and split heavy flows into on-demand Skills; they can also scan session-log token counts for personal usage-burning habits and, after confirmation, write plugging rules.
+tags: [agents, agents-md, claude-md, tokens, harness, skills, usage, habits]
 sources:
   - id: xiaomovps-dsh-agents-md-tokens
     resource: https://x.com/xiaomovps/status/2113950309278167104
@@ -12,18 +12,21 @@ sources:
   - id: shao-meng-felix-not-2024-claude-usage
     resource: https://x.com/shao__meng/status/2113970197161988276
     title: Meng Shao relays Felix—stop using Claude the 2024 way
+  - id: voxyz-usage-habits-to-agents-md
+    resource: https://x.com/Voxyz_ai/status/2114416707385073819
+    title: Vox on scanning session logs into AGENTS.md usage rules
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T20:28:00+08:00
+  at: 2026-10-26T08:53:08+08:00
 ---
 
 # 项目指令与 Token 效率
 
 *Project instructions and token efficiency*
 
-Harness 不只靠默认系统提示：把项目级指令（如 `AGENTS.md`、`CLAUDE.md`）写成可执行的工作约束，并避免同一目录多份不同内容同时进 Context，就能少耗无效 Token；重流程应拆成按需 Skills，而不是每轮塞满说明。[^xiaomovps-dsh-agents-md-tokens] 人设式角色扮演常限制通才模型；多数任务不设人设，把规则写成执行约束更贴模型用法。[^shao-meng-felix-not-2024-claude-usage]
+Harness 不只靠默认系统提示：把项目级指令（如 `AGENTS.md`、`CLAUDE.md`）写成可执行的工作约束，并避免同一目录多份不同内容同时进 Context，就能少耗无效 Token；重流程应拆成按需 Skills，而不是每轮塞满说明。[^xiaomovps-dsh-agents-md-tokens] 人设式角色扮演常限制通才模型；多数任务不设人设，把规则写成执行约束更贴模型用法。[^shao-meng-felix-not-2024-claude-usage] 规则也可来自个人用量证据：扫近几日会话日志里的 token 计数，找出烧额度最多的习惯，经确认后再写入本项目实际加载的指令文件。[^voxyz-usage-habits-to-agents-md]
 
-A harness is not only its default system prompt: writing project-level instructions (such as `AGENTS.md` and `CLAUDE.md`) as executable work constraints—and avoiding multiple differing same-dir copies all entering Context—cuts wasted tokens; heavy flows belong in on-demand Skills, not in every-turn full instructions.[^xiaomovps-dsh-agents-md-tokens] Persona role-play often limits generalist models; skipping personas on most tasks and writing rules as execution constraints fits how the models work.[^shao-meng-felix-not-2024-claude-usage]
+A harness is not only its default system prompt: writing project-level instructions (such as `AGENTS.md` and `CLAUDE.md`) as executable work constraints—and avoiding multiple differing same-dir copies all entering Context—cuts wasted tokens; heavy flows belong in on-demand Skills, not in every-turn full instructions.[^xiaomovps-dsh-agents-md-tokens] Persona role-play often limits generalist models; skipping personas on most tasks and writing rules as execution constraints fits how the models work.[^shao-meng-felix-not-2024-claude-usage] Rules can also come from personal usage evidence: scan recent session-log token counts, find the habits that burned the most usage, and—after confirmation—write into the instruction file the project actually loads.[^voxyz-usage-habits-to-agents-md]
 
 ## 综合分析 / Synthesis
 
@@ -35,13 +38,17 @@ A harness is not only its default system prompt: writing project-level instructi
 
 [Meng Shao relays Felix—stop using Claude the 2024 way](../sources/articles/shao-meng-felix-not-2024-claude-usage.md) hardens “don’t pile personas” from the generalist-model side: the industry over-rotated on Agent role-play; forcing “you are a data scientist” often limits use, and he skips personas on most tasks. That aligns with Xiaomo’s “execution constraints, not personas,” and widens the reason from saving tokens to “don’t hobble a generalist.”[^shao-meng-felix-not-2024-claude-usage] Post: <https://x.com/shao__meng/status/2113970197161988276>. For Skills caution and half-life see [Agent skill authoring](./agent-skill-authoring.md).
 
+[Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](../sources/articles/voxyz-usage-habits-to-agents-md.md) 把「往指令文件写执行约束」推到个人用量诊断：可贴进 Claude Code 的提示要求先写小脚本扫 `~/.claude/projects` 近 7 天会话日志里的 token 计数（勿把原文读进上下文），找出烧额度最多的 3 个习惯并估占比、各写一条堵住规则；用户说 yes 后再写入本项目实际加载的文件——有 `CLAUDE.md` 写它，否则写 `AGENTS.md`；永不打印 secrets。Codex 则改扫 `~/.codex/sessions` 且只写入 `AGENTS.md`。示例习惯含整文件通读、倾倒长测试/构建输出、拉起子 agent、单会话拖很久等。[^voxyz-usage-habits-to-agents-md] 原文 <https://x.com/Voxyz_ai/status/2114416707385073819>。与小墨的通用执行约束、Felix 的「勿人设」同属指令侧省 Token，但切面是「用本人会话证据定制规则」，并显式要求确认前不改文件。
+
+[Vox on scanning session logs into AGENTS.md usage rules](../sources/articles/voxyz-usage-habits-to-agents-md.md) pushes “write execution constraints into the instruction file” into personal usage diagnosis: a paste-in Claude Code prompt asks for a small script over `~/.claude/projects` session-log token counts from the last 7 days (don’t read raw files into context), the top 3 usage-burning habits with rough shares, and one plugging rule each; on yes, write to the file the project actually loads—`CLAUDE.md` if present, else `AGENTS.md`; never print secrets. On Codex, scan `~/.codex/sessions` and write `AGENTS.md` only. Example habits include reading whole files, dumping long test/build output, spawning subagents, and multi-hour single sessions.[^voxyz-usage-habits-to-agents-md] Original at <https://x.com/Voxyz_ai/status/2114416707385073819>. Same instruction-side save-Tokens family as Xiaomo’s general constraints and Felix’s “no personas,” but the cut is customizing rules from one’s own session evidence, with an explicit change-nothing-until-yes gate.
+
 同作者在 [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md) 里用轮次与缓存说明 DSH 可能因反复截图自检拉长跑法；本页是对应的指令侧补丁——用项目规则关掉那类无效循环，而不是只改对比指标。
 
 The same author’s [Harness comparison beyond tokens](./harness-comparison-beyond-tokens.md) shows DSH runs can inflate via repeated screenshot self-checks; this page is the instruction-side patch—use project rules to kill that waste, not only change comparison metrics.
 
-同作者另帖整理 Claude Code 外围省 Token 工具（过滤工具输出、压缩终端、跨 Session 记忆、LSP 检索、精简回复），并强调工具本身有开销、勿一次全装——见 [编程 Agent 省 Token 工具与开销](./coding-agent-token-saving-tooling.md)；与本页「改项目指令」互补，而非替代。
+同作者另帖整理 Claude Code 外围省 Token 工具（过滤工具输出、压缩终端、跨 Session 记忆、LSP 检索、精简回复），并强调工具本身有开销、勿一次全装——见 [编程 Agent 省 Token 工具与开销](./coding-agent-token-saving-tooling.md)；与本页「改项目指令」互补，而非替代。Vox 示例习惯（整文件通读、长构建输出）与 Serena / RTK / context-mode 等工具所攻路径重叠，但 Vox 走的是先诊断再写规则，不是默认装外围栈。
 
-The same author’s other post lists Claude Code peripheral token-saving tools (filter tool output, compress terminals, cross-Session memory, LSP retrieval, slimmer replies) and stresses tool overhead—don’t install everything at once—see [Coding-agent token-saving tooling and overhead](./coding-agent-token-saving-tooling.md); complementary to this page’s project-instruction cut, not a substitute.
+The same author’s other post lists Claude Code peripheral token-saving tools (filter tool output, compress terminals, cross-Session memory, LSP retrieval, slimmer replies) and stresses tool overhead—don’t install everything at once—see [Coding-agent token-saving tooling and overhead](./coding-agent-token-saving-tooling.md); complementary to this page’s project-instruction cut, not a substitute. Vox’s example habits (whole-file reads, long build dumps) overlap paths that Serena / RTK / context-mode attack, but Vox’s path is diagnose-then-write-rules, not defaulting to a peripheral stack.
 
 ## 矛盾与变化 / Contradictions
 
@@ -51,6 +58,7 @@ The same author’s other post lists Claude Code peripheral token-saving tools (
 
 - Source: [小墨谈 DSH 用 AGENTS.md / CLAUDE.md 省 token](../sources/articles/xiaomovps-dsh-agents-md-tokens.md)
 - Source: [邵萌转述 Felix：别再用 2024 方式用 Claude](../sources/articles/shao-meng-felix-not-2024-claude-usage.md)
+- Source: [Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](../sources/articles/voxyz-usage-habits-to-agents-md.md)
 - Topic: [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)
 - Topic: [编程 Agent 省 Token 工具与开销](./coding-agent-token-saving-tooling.md)
 - Topic: [Agent Skill 编写](./agent-skill-authoring.md)
@@ -59,3 +67,4 @@ The same author’s other post lists Claude Code peripheral token-saving tools (
 
 [^xiaomovps-dsh-agents-md-tokens]: 小墨 on DSH AGENTS.md / CLAUDE.md token tips
 [^shao-meng-felix-not-2024-claude-usage]: Meng Shao relays Felix—stop using Claude the 2024 way
+[^voxyz-usage-habits-to-agents-md]: Vox on scanning session logs into AGENTS.md usage rules

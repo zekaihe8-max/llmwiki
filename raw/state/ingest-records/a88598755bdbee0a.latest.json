@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:36:22.865Z",
+  "url": "https://x.com/levie/status/2113738768645808277",
+  "slug": "a88598755bdbee0a",
+  "content_hash": "3cbaa97cf6b7f5f6f9b8617f4677eb71a3792661795ddae493ce86a7d3fda6d4",
+  "source": {
+    "path": "sources/articles/levie-agent-swarms-cyber-defense.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/ai-cybersecurity-jobs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/levie-agent-swarms-cyber-defense.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

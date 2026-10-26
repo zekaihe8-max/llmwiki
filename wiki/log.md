@@ -4,6 +4,32 @@ Wiki 页面创建、更新与废弃的时间线。
 
 Chronological record of page creations, updates, and deprecations.
 
+## 2026-10-26
+
+* **创建 / Creation**: Filed the [Matt Pocock 谈约束重构 PR 的确定性自动合入](./sources/articles/mattpocock-deterministic-refactor-automerge.md) source and opened [约束重构 PR 的确定性自动合入](./topics/deterministic-refactor-automerge.md).
+* **创建 / Creation**: Filed the [Matt Pocock 谈下一代「给 Agent 的语言」](./sources/articles/mattpocock-language-for-agents.md) source and opened [面向 Agent 的编程语言](./topics/languages-for-agents.md).
+* **创建 / Creation**: Filed the [Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](./sources/articles/voxyz-usage-habits-to-agents-md.md) source and updated [项目指令与 Token 效率](./topics/agents-md-token-efficiency.md) and [编程 Agent 省 Token 工具与开销](./topics/coding-agent-token-saving-tooling.md).
+* **创建 / Creation**: Filed the [Vox 谈 AGENTS.md 过期时跟代码不跟旧文档](./sources/articles/voxyz-agents-md-code-over-docs.md) source and updated [代码重于规格](./topics/code-over-spec.md).
+* **创建 / Creation**: Filed the [Dex Horthy 谈同会话叠 Skills 与上下文污染](./sources/articles/dexhorthy-skills-session-context.md) source and updated [Agent Skill 编写](./topics/agent-skill-authoring.md) and [把子 Agent 折进主循环](./topics/fold-subagents-into-main-loop.md).
+* **创建 / Creation**: Filed the [Dex Horthy 谈子 Agent 滥用与上下文管理](./sources/articles/dexhorthy-subagent-overuse.md) source and updated [把子 Agent 折进主循环](./topics/fold-subagents-into-main-loop.md).
+* **创建 / Creation**: Filed the [Hamel Husain 谈公开榜质量差却被业界高度依赖](./sources/articles/hamelhusain-public-benchmark-quality.md) source, opened [信任公开榜前先审质量](./topics/public-benchmark-quality-scrutiny.md), and updated [社区实测对抗刷分碰瓷](./topics/community-evals-vs-score-hype.md).
+* **创建 / Creation**: Filed the [Nathan Lambert 谈顶档模型真用重于 AA 分数](./sources/articles/natolambert-real-world-over-aa.md) source and updated [社区实测对抗刷分碰瓷](./topics/community-evals-vs-score-hype.md), [Pro 与 Flash 模型策略](./topics/pro-vs-flash-model-strategy.md), and [开放权重前沿模型](./topics/open-weight-frontier-models.md).
+* **创建 / Creation**: Filed the [Nathan Lambert 谈 DeepSeek 单集群日推 150T](./sources/articles/natolambert-deepseek-150t-inference.md) source and opened [DeepSeek 自营推理相对聚合平台](./topics/deepseek-inference-vs-aggregators.md).
+* **创建 / Creation**: Filed the [Aaron Levie 谈网防 Agent Swarm 将成为大品类](./sources/articles/levie-agent-swarms-cyber-defense.md) source, opened [网防 Agent Swarm 品类](./topics/agent-swarms-cyber-defense.md), and updated [AI 与网络安全岗位](./topics/ai-cybersecurity-jobs.md).
+* **创建 / Creation**: Filed the [Noam Brown 谈用大规模 agent 红队基建漏洞](./sources/articles/polynoamial-agents-red-team-infra.md) source and updated [前沿训练环境隔离](./topics/frontier-training-containment.md).
+* **创建 / Creation**: Filed the [Ethan Mollick 谈 Opus 4.8 审稿胜过人类专家](./sources/articles/emollick-ai-peer-review-science.md) source and opened [AI 审稿与科研实践适配](./topics/ai-peer-review-science-adaptation.md).
+* **创建 / Creation**: Filed the [邵萌谈用 AI 想得更大：快高深广四方向](./sources/articles/shao-meng-felix-think-bigger-four-axes.md) source and updated [把目标抬到更野心直到摸清 AI 前沿](./topics/raise-ambition-until-ai-frontier.md).
+* **创建 / Creation**: Filed the [Ethan Mollick 谈把事做得更野心以探 AI 边界](./sources/articles/emollick-ai-more-ambitious.md) source and opened [把目标抬到更野心直到摸清 AI 前沿](./topics/raise-ambition-until-ai-frontier.md).
+* **创建 / Creation**: Filed the [Ethan Mollick 谈 AI 扩大高管管控跨度](./sources/articles/emollick-ai-management-span.md) source and opened [AI 扩大高管管控跨度](./topics/ai-management-span-of-control.md).
+* **创建 / Creation**: Filed the [Rauch 谈过度与不足引导 AI](./sources/articles/rauchg-over-under-guide-ai.md) source and opened [校准对 AI 的过度与不足引导](./topics/calibrating-ai-guidance.md).
+* **创建 / Creation**: Filed the [Harrison Chase 谈公司级 Harness 五原语](./sources/articles/hwchase17-company-harness.md) source and opened [公司级 Agent Harness 五原语](./topics/company-agent-harness.md).
+* **创建 / Creation**: Filed the [unusual_whales 报德州总检察长诉 OpenAI](./sources/articles/unusual-whales-texas-ag-openai-lawsuit.md) source and opened [AI 聊天机器人安全的消费者保护诉讼](./topics/ai-chatbot-safety-consumer-suits.md).
+* **创建 / Creation**: Filed the [Google Cloud 模型选择器 Auto](./sources/articles/google-cloud-auto-model-picker.md) source, opened [云平台 Auto 跨模型编排](./topics/cloud-auto-model-routing.md), and updated [Google Cloud 上的 Claude](./topics/claude-on-google-cloud.md).
+* **创建 / Creation**: Filed the [NVIDIA AI 发布 Nemotron 3.5 Bolt E4B](./sources/articles/nvidia-ai-nemotron-bolt-e4b.md) source and opened [本地开放助手与机器人小模型](./topics/local-open-assistant-models.md).
+* **创建 / Creation**: Filed the [Anthropic 对 UK AISI 网络测评事件的对齐评估](./sources/articles/anthropic-ukaisi-alignment-assessment.md) source, opened [网络能力测评越权事件的对齐评估](./topics/cyber-eval-incident-alignment.md), and updated [前沿训练环境隔离](./topics/frontier-training-containment.md).
+* **创建 / Creation**: Filed the [OpenAI 红队发现 Brotli 未认证远程代码执行](./sources/articles/openai-brotli-rce-disclosure.md) source and updated [前沿训练环境隔离](./topics/frontier-training-containment.md).
+* **创建 / Creation**: Filed the [OpenAI 加固前沿模型训练环境](./sources/articles/openai-securing-frontier-training.md) source and opened [前沿训练环境隔离](./topics/frontier-training-containment.md).
+
 ## 2026-10-25
 
 * **更新 / Update**: Visitor homepage, nav, bilingual reading mode, and about/browse landings; URL extraction strips fullwidth paren junk. See [关于与维护](./guides/about-and-maintenance.md), [主题](./topics/index.md), [文章](./sources/articles/index.md).
