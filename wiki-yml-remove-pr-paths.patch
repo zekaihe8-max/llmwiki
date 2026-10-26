@@ -1,0 +1,26 @@
+--- .github/workflows/wiki.yml	2026-10-25 10:59:07.642156223 +0800
++++ scripts/ci-patches/wiki.yml.desired	2026-10-25 10:59:07.654156223 +0800
+@@ -12,20 +12,14 @@
+       - '.vitepress/**'
+       - '.github/workflows/wiki.yml'
+       - 'AGENTS.md'
++  # No paths filter on pull_request: Ruleset requires this check by name.
++  # A paths filter would leave the required check Pending forever on unrelated PRs.
+   pull_request:
+     branches: [master, dev]
+-    paths:
+-      - 'wiki/**'
+-      - 'scripts/**'
+-      - 'templates/**'
+-      - 'package.json'
+-      - 'package-lock.json'
+-      - '.vitepress/**'
+-      - '.github/workflows/wiki.yml'
+-      - 'AGENTS.md'
+ 
+ # Cloudflare Pages deploys from master. This job must be green on PRs before merge
+ # so illegal YAML / bilingual / ingest regressions cannot auto-publish.
++# Note: Ruleset blocks GitHub merge only; red CI does NOT auto-block Cloudflare Pages.
+ concurrency:
+   group: wiki-${{ github.workflow }}-${{ github.ref }}
+   cancel-in-progress: true

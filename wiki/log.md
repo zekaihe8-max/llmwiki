@@ -73,6 +73,7 @@ Chronological record of page creations, updates, and deprecations.
 * **创建 / Creation**: Filed the [宝玉谈手机端 Claude / Codex 不如 Grokbot 便利](./sources/articles/dotey-grokbot-mobile-vs-claude-codex.md) source and updated [个人 Agent 热潮与 Coding Agent 熟悉度差](./topics/personal-agent-hype-familiarity-gap.md).
 * **创建 / Creation**: Filed the [宝玉谈 Grok Bot 热潮像「小龙虾」](./sources/articles/dotey-grok-bot-like-crayfish.md) source and opened [个人 Agent 热潮与 Coding Agent 熟悉度差](./topics/personal-agent-hype-familiarity-gap.md).
 * **创建 / Creation**: Filed the [宝玉谈 Dario 2003 反战发言录像](./sources/articles/dotey-dario-2003-antiwar-speech.md) source and opened [技术滥用关切的连续性](./topics/tech-misuse-concern-continuity.md).
+* **创建 / Creation**: Filed the [介绍 D1：首个 SQL 数据库](./sources/articles/introducing-d1.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
 * **创建 / Creation**: Filed the [介绍 Workers Durable Objects](./sources/articles/introducing-workers-durable-objects.md) source and updated [可编程边缘计算](./topics/programmable-edge-compute.md).
 
 ## 2026-10-24

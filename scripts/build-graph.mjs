@@ -342,7 +342,15 @@ export function buildGraph(wikiDir) {
 export function writeGraphData(wikiDir = defaultWikiDir, outFile = defaultOutFile) {
   const graph = buildGraph(wikiDir)
   fs.mkdirSync(path.dirname(outFile), { recursive: true })
-  fs.writeFileSync(outFile, `${JSON.stringify(graph, null, 2)}\n`)
+  // Temp file then rename: failed write must not clobber a previous valid graph-data.
+  const tmp = `${outFile}.${process.pid}.${Date.now()}.tmp`
+  try {
+    fs.writeFileSync(tmp, `${JSON.stringify(graph, null, 2)}\n`)
+    fs.renameSync(tmp, outFile)
+  } catch (error) {
+    try { if (fs.existsSync(tmp)) fs.unlinkSync(tmp) } catch { /* ignore */ }
+    throw error
+  }
   return graph
 }
 

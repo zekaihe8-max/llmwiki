@@ -171,7 +171,12 @@ export async function fetchRecord({
     return failFetch(record, prior, rawRoot, `HTTP ${status}${statusText}`, stamp, log)
   }
 
-  const body = typeof response.text === 'function' ? await response.text() : String(response.body ?? '')
+  let body
+  try {
+    body = typeof response.text === 'function' ? await response.text() : String(response.body ?? '')
+  } catch (error) {
+    return failFetch(record, prior, rawRoot, `body read failed: ${error.message}`, stamp, log)
+  }
   if (body.length > MAX_ARTICLE_CHARS) {
     return failFetch(record, prior, rawRoot, `response exceeded ${MAX_ARTICLE_CHARS} characters`, stamp, log)
   }

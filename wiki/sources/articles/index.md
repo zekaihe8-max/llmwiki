@@ -55,6 +55,7 @@ Each public original maps to one Source page. `date` is the original publish dat
 - [小邓同学谈 Grok 当包工头调度 Codex / Claude Code](./heydengai-grok-foreman-codex-claude.md) / Heydengai on Grok as foreman over Codex / Claude Code — 小邓同学：用 Grok Bot 直接调用本地或远程的 Codex、Claude Code 等 Agent；编程 Agent 订阅已买，Grok 只需最低够用套餐负责任务调度与质量验收，当包工头让手下各干各的。
 - [Harrison Chase 谈公司级 Harness 五原语](./hwchase17-company-harness.md) / Harrison Chase on the five components of a company harness — Harrison Chase 总结 LangChain 内部多玩家公司级 harness 的五条原语：落在已有工作面、身份（OBO 与自有身份）、双层记忆、沙箱执行与鉴权代理、大量定时/ambient 跑。
 - [介绍 Cloudflare Workers](./introducing-cloudflare-workers.md) / Introducing Cloudflare Workers — Cloudflare 宣布将在边缘运行接近 Service Worker API 的 JavaScript，用 V8 多租户沙箱让全球节点可编程，而不是无限叠加固定功能。
+- [介绍 D1：首个 SQL 数据库](./introducing-d1.md) / Introducing D1: our first SQL database — Cloudflare 宣布 D1——面向 Workers 的首个 SQL 数据库，基于 SQLite，预告读副本、批处理、邻近计算与 R2 备份等能力。
 - [介绍 Workers Durable Objects](./introducing-workers-durable-objects.md) / Introducing Workers Durable Objects — Cloudflare 宣布 Workers Durable Objects 封闭测试：在边缘提供强一致、可协调的无服务器状态，补上整应用无需中心源站即可运行的缺口。
 - [LLM 维基](./karpathy-llm-wiki.md) / LLM Wiki — Karpathy 提出的模式：由 LLM 维护的 markdown 维基，在不可变原始来源与读者之间持续积累知识。
 - [Aaron Levie 谈 AI 与网络安全岗位](./levie-ai-cybersecurity-jobs.md) / Aaron Levie on AI cybersecurity jobs — Aaron Levie 认为网络安全能看出 AI 会创造的岗位：更多智能体化安全工作仍需要人来瞄准智能体、审阅发现、打补丁并响应事件。

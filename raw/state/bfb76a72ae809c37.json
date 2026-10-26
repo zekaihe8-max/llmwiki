@@ -1,0 +1,23 @@
+{
+  "slug": "bfb76a72ae809c37",
+  "url": "https://blog.cloudflare.com/introducing-d1",
+  "title": "Introducing D1: our first SQL database",
+  "digest": "e2e-d1-2026-10-25.md",
+  "status": "filed",
+  "hash": "bfb76a72ae809c37bb9b31b9dd92ad6481dd6965d914b55b1896cf668666aed8",
+  "first_seen": "2026-10-25T03:17:38.552Z",
+  "last_seen": "2026-10-25T03:17:38.552Z",
+  "fetched_at": "2026-10-25T03:17:38.556Z",
+  "content_hash": "dd1043f216b94337482e54cba50e4097f2741e7c285fa62c1c070f78787a2649",
+  "article_path": "articles/bfb76a72ae809c37.md",
+  "fetched_url": "https://blog.cloudflare.com/introducing-d1",
+  "source_path": "sources/articles/introducing-d1.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-25T03:20:15.798Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

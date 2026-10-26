@@ -512,6 +512,14 @@
     "digest": "e2e-durable-objects-2026-10-25.md",
     "title": "Introducing Workers Durable Objects"
   },
+  "https://blog.cloudflare.com/introducing-d1": {
+    "hash": "bfb76a72ae809c37bb9b31b9dd92ad6481dd6965d914b55b1896cf668666aed8",
+    "slug": "bfb76a72ae809c37",
+    "first_seen": "2026-10-25T03:17:38.552Z",
+    "last_seen": "2026-10-25T03:17:38.552Z",
+    "digest": "e2e-d1-2026-10-25.md",
+    "title": "Introducing D1: our first SQL database"
+  },
   "https://x.com/dotey/status/2114210926253543534": {
     "hash": "7d93c541041c23623b6e9f58d992f473ef5ee8e4a77324b1dbd03c1dcf747740",
     "slug": "7d93c541041c2362",

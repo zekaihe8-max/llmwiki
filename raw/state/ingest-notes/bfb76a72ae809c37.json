@@ -1,0 +1,15 @@
+{
+  "topics_consulted": ["topics/programmable-edge-compute.md"],
+  "selection_reasons": {
+    "topics/programmable-edge-compute.md": "Owns the Cloudflare Workers → KV → Durable Objects storage ladder; D1 is the next Workers-oriented persistence primitive (SQL on SQLite) in the same product line, so evidence belongs here rather than a new topic."
+  },
+  "topics": [
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "add_evidence",
+      "reason": "Integrated D1 announcement: SQLite SQL for Workers, read replicas/batching/embedded compute/R2 backups; updated claim, synthesis, contradictions (vs DO edge-DB outlook), sources, description, and Related."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No other topic covers Cloudflare edge SQL/D1; AI/agent topics are unrelated. Created Source sources/articles/introducing-d1.md for https://blog.cloudflare.com/introducing-d1."
+}

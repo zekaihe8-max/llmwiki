@@ -88,8 +88,30 @@ export async function ingestOne({
   // Without --refresh, filed is a cheap no-op. With --refresh, unchanged body
   // keeps status filed and we still skip the agent; a new snapshot resets to fetched.
   if (record.status === 'filed' && !snapshotChanged) {
-    log(`compile ${record.slug}: already filed, skipped`)
-    return { ok: true, code: 0, stage: 'filed', skipped: true, record, ingested }
+    // Resume via compileArticle so a prior graph failure can rebuild without Agent.
+    const compiled = await compileArticle({
+      rawRoot,
+      wikiRoot,
+      repoRoot: cwd,
+      slug: record.slug,
+      agent,
+      spawnImpl,
+      resolveImpl,
+      now,
+      graph,
+      graphOut,
+      log,
+    })
+    return {
+      ok: compiled.ok,
+      code: compiled.code ?? (compiled.ok ? 0 : 1),
+      stage: compiled.ok ? 'filed' : (compiled.graphOk === false ? 'graph' : 'filed'),
+      skipped: true,
+      record: compiled.record,
+      error: compiled.error,
+      ingested,
+      graphOk: compiled.graphOk,
+    }
   }
 
   const compiled = await compileArticle({

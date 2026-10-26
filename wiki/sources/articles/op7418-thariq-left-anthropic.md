@@ -31,8 +31,7 @@ date: 2026-10-24
 - The leak says Claude Code author Thariq has left.[^op7418-thariq-left-anthropic]
 - 歸藏称他一直代表 Anthropic 对外沟通，地位类似于 Tibo，并视作非常重要的信号。[^op7418-thariq-left-anthropic]
 - 歸藏 says he had been Anthropic's ongoing public communicator, analogous to Tibo, and frames the departure as a very important signal.[^op7418-thariq-left-anthropic]
-- 引用 Arfur Grok：Thariq Shihipar（@trq212）has left Anthropic。[^op7418-thariq-left-anthropic]
-- Quotes Arfur Grok: Thariq Shihipar (@trq212) has left Anthropic.[^op7418-thariq-left-anthropic]
+- 引用 Arfur Grok 的英文原话称 Thariq Shihipar（@trq212）has left Anthropic。 / Quotes Arfur Grok: Thariq Shihipar (@trq212) has left Anthropic.[^op7418-thariq-left-anthropic]
 
 ## 相关 / Related
 

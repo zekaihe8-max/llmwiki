@@ -180,9 +180,12 @@ function lintBilingualFields(rel, data, body, type) {
 
 /**
  * Structural ZH/EN pairing only — translation quality stays Agent-reviewed.
- * Requires: italic EN title under H1; each required bilingual section contains
- * both Han characters and Latin words (length >= 3). Empty "暂无 / None yet"
- * counts as paired.
+ *
+ * Convention (templates / AGENTS.md / compile prompt):
+ * - Same-line pair: `中文。 / English.`
+ * - Adjacent blocks: a ZH-only paragraph or bullet, then the EN translation block
+ * - Shared code fences, formulas, wiki links, footnote defs, and bare URLs are ignored
+ * - Product names / APIs / cite ids alone do NOT count as English translation
  */
 function lintBilingualBodyStructure(rel, body, type) {
   const findings = []
@@ -209,8 +212,6 @@ function lintBilingualBodyStructure(rel, body, type) {
     if (!match) continue
     const sectionBody = sectionBodyAfter(cleaned, match)
     const isRelated = section.name.startsWith('相关')
-    // Related is often a list of wiki links; link targets are language-agnostic.
-    // Still require some body. Content sections need ZH/EN paired prose.
     if (isRelated) {
       if (!sectionBody || (!/\[[^\]]*\]\([^)]+\.md\)/.test(sectionBody) && !sectionHasZhEnPair(sectionBody))) {
         findings.push(issue(
@@ -237,16 +238,174 @@ function sectionBodyAfter(body, headingMatch) {
   return (next < 0 ? rest : rest.slice(0, next)).trim()
 }
 
+/** Strip material that must not count as English translation. */
+function stripNonTranslation(text) {
+  return String(text || '')
+    .replace(/\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/https?:\/\/\S+/gi, ' ')
+    .replace(/\b(?:[\w-]+\.)+(?:com|org|net|io|ai|dev|app)\/\S*/gi, ' ')
+    .replace(/`[^`\n]+`/g, ' ')
+    .replace(/\[\^[^\]]+\]:?/g, ' ')
+    .replace(/\b[\w.-]+\.(?:md|json|js|ts|mjs|css|html|png|jpg)\b/gi, ' ')
+}
+
+function latinWords(text) {
+  const cleaned = stripNonTranslation(text)
+  return (cleaned.match(/[A-Za-z][A-Za-z'-]{1,}/g) || []).filter((w) => {
+    if (w.length < 3) return false
+    // All-caps short tokens (API, KV, URL, HTTP) are not a translation.
+    if (/^[A-Z0-9]{2,6}$/.test(w)) return false
+    return true
+  })
+}
+
+function hanCount(text) {
+  return (stripNonTranslation(text).match(/[\u4e00-\u9fff]/g) || []).length
+}
+
+function latinLetterCount(text) {
+  return (stripNonTranslation(text).match(/[A-Za-z]/g) || []).length
+}
+
+function hasHan(text) {
+  return hanCount(text) > 0
+}
+
+function hasRealEnglish(text) {
+  // Need at least two Latin words after stripping URLs/code/cites/filenames.
+  return latinWords(text).length >= 2
+}
+
+/**
+ * Chinese prose may embed many product names (Workers, CyberArk, …).
+ * English translations may quote short Chinese proper nouns.
+ * A block is EN-dominant when Latin clearly outweighs Han; otherwise enough Han → ZH.
+ */
+function isPrimarilyEn(text) {
+  const words = latinWords(text)
+  if (words.length < 2) return false
+  const h = hanCount(text)
+  const letters = latinLetterCount(text)
+  if (h === 0) return true
+  const lead = stripNonTranslation(text).trim()
+  // Chinese-led prose is the ZH half, unless it begins with a short (1–4 char)
+  // proper noun immediately followed by English prose (e.g. "马天翼 plans...", "马天翼’s two posts...").
+  if (/^[\u4e00-\u9fff]/.test(lead)) {
+    const shortProperNameLead = /^[\u4e00-\u9fff]{1,4}(?:['’]s\b|\s+[A-Za-z])/
+    if (!shortProperNameLead.test(lead) || h > 6) return false
+    return letters >= Math.max(24, h * 4) && words.length >= 4
+  }
+  // Short Chinese proper nouns or quoted titles inside an English-led sentence.
+  if (h <= 8 && letters >= Math.max(24, h * 4) && words.length >= 4) return true
+  if (/^[^A-Za-z\u4e00-\u9fff]*[A-Za-z][A-Za-z0-9'-]*\s+[A-Za-z]{2,}/.test(lead) && letters >= Math.max(36, h * 2) && words.length >= 6) return true
+  return false
+}
+
+function isPrimarilyZh(text) {
+  if (hanCount(text) < 4) return false
+  // Prefer ZH when both signals fire (Chinese lead + embedded Latin names).
+  return !isPrimarilyEn(text)
+}
+
+function isZhOnlyBlock(text) {
+  return isPrimarilyZh(text)
+}
+
+function isEnOnlyBlock(text) {
+  return isPrimarilyEn(text)
+}
+
+function isSameLinePair(text) {
+  if (!text) return false
+  if (/暂无。?\s*\/\s*None yet\.?/i.test(text)) return true
+  // Prefer an explicit " / " separator with ZH left and EN right.
+  // Because either half may contain an internal " / " (e.g. "A / B"), try each split point.
+  const parts = String(text).split(/\s+\/\s+/)
+  if (parts.length < 2) return false
+  for (let k = 1; k < parts.length; k++) {
+    const left = parts.slice(0, k).join(' / ')
+    const right = parts.slice(k).join(' / ')
+    if (isPrimarilyZh(left) && isPrimarilyEn(right)) return true
+  }
+  return false
+}
+
+/** Split a section into paragraph / list-item blocks (code fences already stripped). */
+function sectionBlocks(sectionBody) {
+  const lines = String(sectionBody || '').split(/\r?\n/)
+  const blocks = []
+  let buf = []
+  const flush = () => {
+    const text = buf.join('\n').trim()
+    if (text) blocks.push(text)
+    buf = []
+  }
+  for (const line of lines) {
+    const trimmed = line.trim()
+    if (!trimmed) {
+      flush()
+      continue
+    }
+    if (/^[-*+]\s+/.test(trimmed) || /^\d+\.\s+/.test(trimmed)) {
+      flush()
+      blocks.push(trimmed.replace(/^[-*+]\s+/, '').replace(/^\d+\.\s+/, ''))
+      continue
+    }
+    // Footnote definitions are shared, not translation pairs.
+    if (/^\[\^[^\]]+\]:/.test(trimmed)) {
+      flush()
+      continue
+    }
+    buf.push(trimmed)
+  }
+  flush()
+  return blocks
+}
+
 function sectionHasZhEnPair(sectionBody) {
   if (!sectionBody) return false
-  // Accept explicit empty bilingual placeholders.
-  if (/暂无|None yet|None\./i.test(sectionBody) && /[\u4e00-\u9fff]/.test(sectionBody) && /[A-Za-z]{3,}/.test(sectionBody)) {
-    return true
+  // NOTE: do NOT short-circuit the whole section on a single "暂无。 / None yet."
+  // That placeholder is only a valid pair for its own block; later unpaired
+  // ZH/EN paragraphs/lists in the same section must still fail.
+
+  const blocks = sectionBlocks(sectionBody)
+  if (!blocks.length) return false
+
+  let paired = 0
+  let i = 0
+  while (i < blocks.length) {
+    const cur = blocks[i]
+    if (isSameLinePair(cur)) {
+      paired++
+      i++
+      continue
+    }
+    const next = blocks[i + 1]
+    if (next && isZhOnlyBlock(cur) && isEnOnlyBlock(next)) {
+      paired++
+      i += 2
+      continue
+    }
+    if (next && isEnOnlyBlock(cur) && isZhOnlyBlock(next)) {
+      // Allow EN then ZH adjacency as well.
+      paired++
+      i += 2
+      continue
+    }
+    // Unpaired primarily-ZH or primarily-EN prose fails the section.
+    // Link-only / empty-after-strip blocks are ignored.
+    const stripped = stripNonTranslation(cur).replace(/\s+/g, '')
+    if (stripped && (isPrimarilyZh(cur) || isPrimarilyEn(cur))) {
+      return false
+    }
+    i++
   }
-  if (/暂无。\s*\/\s*None yet\.?/i.test(sectionBody)) return true
-  const hasZh = /[\u4e00-\u9fff]/.test(sectionBody)
-  const hasEn = /[A-Za-z]{3,}/.test(sectionBody)
-  return hasZh && hasEn
+  return paired > 0
+}
+
+/** Exported for unit tests. */
+export function _testBilingualPairing() {
+  return { sectionHasZhEnPair, stripNonTranslation, sectionBlocks, hasRealEnglish, isSameLinePair }
 }
 
 function lintWikiLinkTargets(rel, body, wikiRoot) {

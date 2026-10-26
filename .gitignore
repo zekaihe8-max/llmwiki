@@ -78,6 +78,7 @@ scripts/*
 !scripts/yaml.test.mjs
 !scripts/lint-bilingual.test.mjs
 !scripts/ingest-record.test.mjs
+!scripts/ingest-record-gates.test.mjs
 !scripts/lib/
 !scripts/lib/**
 

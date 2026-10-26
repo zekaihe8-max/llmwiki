@@ -94,7 +94,7 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [上市前夕人才离职动机追问](./pre-ipo-talent-departure-motives.md) / Pre-IPO talent departure motive questions — 旁观者会把前沿实验室上市前夕的多名高层离职框成需要解释动机的信号，并公开追问「背后原因」——即便帖文未点名、未给结论。
 - [高端 AI 订阅价值](./premium-ai-subscription-value.md) / Premium AI subscription value — 社区会追问高价前沿订阅（如 GPT 500 刀）是否仍值得付费，以及该档位是否仍会出现「降智」等质量下滑；跨产品切换时，体验偏好也可能被额度差距卡住；重用编程 Agent 时，周额度也可能一天烧掉一半；也有实践者把栈精简到约 $120/月，主张覆盖工作流、额度够用与成本可控比堆会员更有价值；另有玩法在编程 Agent 订阅已买时，只给 Grok 留最低够用套餐做调度与验收。
 - [Pro 与 Flash 模型策略](./pro-vs-flash-model-strategy.md) / Pro vs Flash model strategy — 近期带 Pro 后缀的发布常被质疑未达预期；社区亦强调不如旗舰可靠性价比，刷分碰瓷、过度宣传与忽悠高价会反噬；也有体感肯定某款 Pro「很强」却嫌太贵；另有声音称某厂已落国产第二梯队，DeepSeek / MiniMax Flash 又快又好用不完而对方套餐几句额度光；还有观点称 AA 榜强不等于真用兑现，Kimi 3.1 更偏 miss；对多数 AI 团队而言，做 Flash 级模型是否才是更稳的路线仍是开放问题。
-- [可编程边缘计算](./programmable-edge-compute.md) / Programmable edge compute — 边缘网络应通过沙箱化 JavaScript 变为可编程，并配以最终一致的边缘 KV 与强一致、可协调的 Durable Objects，才能支撑整应用在边缘运行，而不是无限叠加固定功能。
+- [可编程边缘计算](./programmable-edge-compute.md) / Programmable edge compute — 边缘网络应通过沙箱化 JavaScript 变为可编程，并配以最终一致的边缘 KV、强一致可协调的 Durable Objects，以及面向 Workers 的 SQL 数据库（D1），才能支撑整应用在边缘运行，而不是无限叠加固定功能。
 - [纯语音全双工与情绪可听](./pure-speech-full-duplex.md) / Pure-speech full-duplex and audible emotion — 仅从人类语音训练的 speech-to-speech 全双工模型，可保留语气与情绪线索，避免「语音→文本→LLM」压掉非文本信息；并被框成能力上升时「听不见痛苦还继续聊」的安全补丁。
 - [阅读应用适配 iPhone Duo](./reading-app-iphone-duo-adaptation.md) / Reading apps adapting to iPhone Duo — 面向阅读/预览的应用会跟进 iPhone Duo 适配；配套能力还可包括记住上次阅读位置，使双屏机上的长文阅读可续读。
 - [先复用再编写](./reuse-before-write.md) / Reuse before write — Agent 写代码前应先问：是否需要改、仓库/标准库/浏览器/操作系统或已装依赖是否已覆盖；再交付最小可工作版本，并为有风险逻辑配测试。

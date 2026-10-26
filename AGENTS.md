@@ -49,10 +49,17 @@ Body pattern:
 
 - One `#` heading matching `title`, then an italic English title line `*English Title*`
 - Section headings: `## 摘要 / Summary`, `## 综合分析 / Synthesis` (topics), `## 矛盾与变化 / Contradictions` (topics), `## 相关 / Related`
-- Paragraphs and bullets as ZH then EN pairs (or clearly interleaved). Shared `sources[].id` and footnotes across both languages.
+- **ZH/EN pairing (program-checked structure):**
+  - Adjacent blocks: Chinese paragraph or bullet, then its English translation block; or
+  - Same-line: `中文。 / English.` Empty placeholder: `暂无。 / None yet.`
+  - `暂无。 / None yet.` is only a valid pair for **that** block. It must **not** excuse later untranslated paragraphs or lists in the same section.
+  - Shared code fences, formulas, wiki links, footnote definitions, and bare URLs are shared — not translations.
+  - Product names, APIs, cite ids, and URLs alone do **not** count as the English half.
+- Shared `sources[].id` and footnotes across both languages.
 - Keep proper nouns, product names, APIs, commands, and `resource` URLs in the form they are known.
 - Direct quotes: keep the original and add a translation.
 - Do not invent facts; translate existing claims faithfully.
+- Format completeness is checked by `lint:okf --bilingual`. Translation quality is Agent-reviewed — passing format checks does **not** prove translation accuracy.
 - On re-ingest of unchanged content, never append a duplicate translation block.
 
 **Reading-mode pairing (site UI):** The VitePress theme may show 中文 / English / 对照. It expects the convention above (bilingual `##` labels; ZH block then EN counterpart). Code fences, math, footnotes, bare URLs, and markdown links stay visible. Uneven pages fail open to 对照 — the toggle must not silently delete content. Documented for visitors on `wiki/guides/about-and-maintenance.md`.
@@ -105,6 +112,10 @@ On ingest of one article:
 5. Append `wiki/log.md` only when this Source filename is not already mentioned for a meaningful update (re-runs must not add duplicate noise). Do not edit older log days. A later version of the same Source may add a new log line.
 6. Leave `wiki/sources/x-digest/` unchanged unless the task is specifically about those briefs.
 7. After filing, the compile script writes a structured ingest record under `raw/state/ingest-records/` (outside the OKF pack / static site). Do not invent those files by hand unless asked.
+8. **Required Agent notes** at `raw/state/ingest-notes/{slug}.json` before filing succeeds:
+   - `selection_reasons` (or `topics[].reason`) for **every** consulted Topic — the program will **not** invent defaults.
+   - `new_topic_reasons` for every **new** Topic — necessity must be declared; no auto-fill.
+   - `topics[].action` must match real file changes (`create` / `update` / `add_evidence` / … / `unchanged`). Claiming `update`/`create` when the file is unchanged (or the reverse) **fails filing** — the program will **not** silently rewrite your action to succeed.
 
 Do not add pages under `templates/` except by editing the skeletons themselves. Do not put templates under `wiki/`.
 
