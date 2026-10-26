@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:51:06.524Z",
+  "url": "https://x.com/dingyi/status/2114009771443667379",
+  "slug": "1baa8e1d82477e8a",
+  "content_hash": "d42437d68823b4bd2f2daeacc137b8c760771495c2e63e2098991186a507549b",
+  "source": {
+    "path": "sources/articles/dingyi-ideogram-vector.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/tools-building-own-models.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dingyi-ideogram-vector.md",
+    "topics/tools-building-own-models.md",
+    "topics/in-app-model-partnerships.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

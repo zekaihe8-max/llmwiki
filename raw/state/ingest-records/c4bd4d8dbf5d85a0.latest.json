@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:47:32.545Z",
+  "url": "https://x.com/dingyi/status/2114227612654698798",
+  "slug": "c4bd4d8dbf5d85a0",
+  "content_hash": "9139b658add161d57843ee90f86cce01e65a535bf45bb2fbf429ec8a64c1f8f4",
+  "source": {
+    "path": "sources/articles/dingyi-kimi-en-kol-fake-accounts.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dingyi-kimi-en-kol-fake-accounts.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

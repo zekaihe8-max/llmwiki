@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:47:56.118Z",
+  "url": "https://x.com/dexhorthy/status/2114117782111752262",
+  "slug": "4e1990aae2cbbafe",
+  "content_hash": "c67e26836a374e4741f8f644dc2bebdd6269b34093a24181e898fbfc9d3fbf32",
+  "source": {
+    "path": "sources/articles/dexhorthy-subagent-overuse.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dexhorthy-subagent-overuse.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/workflows-before-agents.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

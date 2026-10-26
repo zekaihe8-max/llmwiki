@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:50:36.897Z",
+  "url": "https://x.com/dexhorthy/status/2114408588991222156",
+  "slug": "b8f4b4eb226ce72b",
+  "content_hash": "7599dfecc7d0c544d43bb45dcc838e579ed73808b45b67d67cf49a6296098b0d",
+  "source": {
+    "path": "sources/articles/dexhorthy-skills-session-context.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dexhorthy-skills-session-context.md",
+    "topics/agent-skill-authoring.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

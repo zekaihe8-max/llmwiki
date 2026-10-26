@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T13:01:33.350Z",
+  "url": "https://x.com/oran_ge/status/2113996510287585493",
+  "slug": "1bfaa17cec8baa16",
+  "content_hash": "bd4677b100bfe9e9eb8e860a73f060e5a0ab6af84d47844c0f09f722564d43c2",
+  "source": {
+    "path": "sources/articles/oran-ge-eight-podcast-ai-close-reads.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/oran-ge-eight-podcast-ai-close-reads.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:02:30.170Z",
+  "url": "https://x.com/op7418/status/2114253200056631752",
+  "slug": "e4e27dab5b168a20",
+  "content_hash": "d67bbde820fbc0d2e6bb12605b98ab07798e47da04bf9aa1c475143b134abbdf",
+  "source": {
+    "path": "sources/articles/op7418-jilan-iphone-duo.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/reading-app-iphone-duo-adaptation.md",
+    "topics/agent-output-to-notion-reading.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/reading-app-iphone-duo-adaptation.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agent-output-to-notion-reading.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/op7418-jilan-iphone-duo.md",
+    "topics/reading-app-iphone-duo-adaptation.md",
+    "topics/agent-output-to-notion-reading.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

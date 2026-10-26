@@ -1,0 +1,31 @@
+{
+  "slug": "63bda9c152a41ecf",
+  "url": "https://x.com/yetone/status/2114070661341868122)%EF%BC%89",
+  "title": null,
+  "digest": "2026-10-25-cn-x.md",
+  "status": "skipped",
+  "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
+  "first_seen": "2026-10-25T11:51:17.939Z",
+  "last_seen": "2026-10-25T11:51:17.939Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 404 Not Found",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-10-25T11:51:53.396Z",
+      "stage": "fetch",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": "2026-10-25T14:40:00.000Z",
+  "last_fetch_error": "HTTP 404 Not Found",
+  "last_fetch_failed_at": "2026-10-25T11:51:53.396Z",
+  "duplicate_of": "08eca1a21134608c",
+  "alias_of": "https://x.com/yetone/status/2114070661341868122"
+}

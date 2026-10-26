@@ -1,0 +1,31 @@
+{
+  "slug": "9ea7e2f2444874f3",
+  "url": "https://x.com/FringJason/status/2114280837810458972)%EF%BC%89",
+  "title": null,
+  "digest": "2026-10-25-cn-x.md",
+  "status": "skipped",
+  "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
+  "first_seen": "2026-10-25T11:51:17.939Z",
+  "last_seen": "2026-10-25T11:51:17.939Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 404 Not Found",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-10-25T11:51:53.585Z",
+      "stage": "fetch",
+      "error": "HTTP 404 Not Found"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": "2026-10-25T14:40:00.000Z",
+  "last_fetch_error": "HTTP 404 Not Found",
+  "last_fetch_failed_at": "2026-10-25T11:51:53.585Z",
+  "duplicate_of": "95e66d7375660f07",
+  "alias_of": "https://x.com/FringJason/status/2114280837810458972"
+}

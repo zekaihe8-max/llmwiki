@@ -8,7 +8,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { htmlToMarkdown } from './lib/html-to-markdown.mjs'
 import { articleAbs, listRecords, rawPaths, readJson, writeJson } from './lib/store.mjs'
-import { normalizeUrl, sha256 } from './lib/urls.mjs'
+import { aliasCanonical, normalizeUrl, sha256, slugForUrl } from './lib/urls.mjs'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const USER_AGENT = 'wiki-hezekai-ingest/0.1'
@@ -61,8 +61,34 @@ export function selectRecords(rawRoot, {
     return [record]
   }
   const recheck = force || refresh
-  return listRecords(rawRoot)
+  const records = listRecords(rawRoot)
+  const byCanonical = new Map()
+  for (const record of records) {
+    const canonical = normalizeUrl(record.url)
+    if (!canonical) continue
+    const existing = byCanonical.get(canonical)
+    if (!existing) {
+      byCanonical.set(canonical, record)
+      continue
+    }
+    // Prefer a terminal/clean record over a dirty alias when both share a canonical.
+    const rank = (r) => (['filed', 'sourced', 'fetched'].includes(r.status) ? 3
+      : r.status === 'seen' ? 2
+        : r.status === 'failed' ? 1
+          : 0)
+    if (rank(record) > rank(existing)) byCanonical.set(canonical, record)
+  }
+  return records
     .filter((record) => {
+      if (record.status === 'skipped') return false
+      if (record.duplicate_of || record.alias_of) return false
+      const canonical = normalizeUrl(record.url)
+      if (!canonical) return false
+      // Dirty key whose clean form is owned by another slug — never retry.
+      const aliased = aliasCanonical(record.url)
+      if (aliased && slugForUrl(aliased) !== record.slug) return false
+      const owner = byCanonical.get(canonical)
+      if (owner && owner.slug !== record.slug) return false
       if (record.status === 'seen') return true
       if (record.status === 'failed' && (retryFailed || recheck)) return true
       if (recheck && record.status !== 'skipped') return true

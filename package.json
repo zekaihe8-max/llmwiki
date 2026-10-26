@@ -4,10 +4,11 @@
   "description": "Static Markdown wiki for Cloudflare Pages. This package builds wiki/ only; the Next.js app stays in web/.",
   "type": "module",
   "scripts": {
-    "dev": "node scripts/build-graph.mjs && vitepress dev",
-    "build": "node scripts/build-graph.mjs && vitepress build",
+    "dev": "node scripts/build-graph.mjs && node scripts/build-home-data.mjs && vitepress dev",
+    "build": "node scripts/build-graph.mjs && node scripts/build-home-data.mjs && vitepress build",
     "preview": "vitepress preview",
     "graph": "node scripts/build-graph.mjs",
+    "home-data": "node scripts/build-home-data.mjs",
     "ingest:digest": "node scripts/ingest-digest.mjs",
     "fetch:articles": "node scripts/fetch-articles.mjs",
     "compile:article": "node scripts/compile-article.mjs",
@@ -15,7 +16,7 @@
     "ingest:one": "node scripts/ingest-one.mjs",
     "ingest:batch": "node scripts/ingest-batch.mjs",
     "ingest:day": "node scripts/ingest-day.mjs",
-    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs scripts/ingest-batch.test.mjs scripts/yaml.test.mjs scripts/lint-bilingual.test.mjs scripts/ingest-record.test.mjs scripts/ingest-record-gates.test.mjs",
+    "test:ingest": "node --test scripts/build-graph.test.mjs scripts/ingest.test.mjs scripts/ingest-batch.test.mjs scripts/yaml.test.mjs scripts/lint-bilingual.test.mjs scripts/ingest-record.test.mjs scripts/ingest-record-gates.test.mjs scripts/urls.test.mjs",
     "lint:okf:bilingual": "node scripts/lint-okf.mjs --bilingual"
   },
   "devDependencies": {

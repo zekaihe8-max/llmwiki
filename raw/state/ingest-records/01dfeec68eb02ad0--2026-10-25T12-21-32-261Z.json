@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:21:32.261Z",
+  "url": "https://x.com/xiaomovps/status/2114178579345080827",
+  "slug": "01dfeec68eb02ad0",
+  "content_hash": "8fd94a3979e3fe872f637c3afef6e552c685be8fe814fc56a1a7edc053b4122d",
+  "source": {
+    "path": "sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

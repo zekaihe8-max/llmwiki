@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:15:16.873Z",
+  "url": "https://x.com/shao__meng/status/2114217554948333812",
+  "slug": "1d1bfb785042d1c3",
+  "content_hash": "2b5e7006824f2812b7cdc001b1450500f7013a2a3bebc9d5f450406c55bf58e5",
+  "source": {
+    "path": "sources/articles/shao-meng-block-dessa-full-duplex.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/shao-meng-block-dessa-full-duplex.md",
+    "topics/pure-speech-full-duplex.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

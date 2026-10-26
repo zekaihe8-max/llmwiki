@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T11:58:03.828Z",
+  "url": "https://x.com/dotey/status/2114205536396984381",
+  "slug": "1a878f870b13cba3",
+  "content_hash": "eb6600274d59bbbf473972015b83de0929b15ece67792cca132a8f72ffcbb70f",
+  "source": {
+    "path": "sources/articles/dotey-codex-quota-reset.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dotey-codex-quota-reset.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

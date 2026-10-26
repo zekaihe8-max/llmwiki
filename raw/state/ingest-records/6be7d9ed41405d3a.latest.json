@@ -1,0 +1,54 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:08:01.010Z",
+  "url": "https://x.com/shao__meng/status/2114164780986679331",
+  "slug": "6be7d9ed41405d3a",
+  "content_hash": "67f8623a7b6f72a9b7ed0fdc176e2f27b7ca765b85dccd0c3489afc03ec85329",
+  "source": {
+    "path": "sources/articles/shao-meng-fold-subagents-main-loop.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/workflows-before-agents.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/shao-meng-fold-subagents-main-loop.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/workflows-before-agents.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-skill-authoring.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

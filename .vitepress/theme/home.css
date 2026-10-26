@@ -1,0 +1,31 @@
+/* Home: visitor entry sits above the OKF catalog body */
+
+.home-page + /* sibling not available; HomePage is in doc-before */
+.vp-doc {
+  /* no-op placeholder — spacing handled in HomePage */
+}
+
+/* Soften the catalog block that follows the visitor home */
+.VPDoc:has(.home-page) .vp-doc {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.VPDoc:has(.home-page) .vp-doc > h1 {
+  font-size: 1.05rem;
+  margin-top: 1.25rem;
+}
+
+.VPDoc:has(.home-page) .vp-doc details {
+  margin: 0.75rem 0 1.5rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+}
+
+.VPDoc:has(.home-page) .vp-doc details summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+}

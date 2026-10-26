@@ -62,6 +62,8 @@ Body pattern:
 - Format completeness is checked by `lint:okf --bilingual`. Translation quality is Agent-reviewed — passing format checks does **not** prove translation accuracy.
 - On re-ingest of unchanged content, never append a duplicate translation block.
 
+**Reading-mode pairing (site UI):** The VitePress theme may show 中文 / English / 对照. It expects the convention above (bilingual `##` labels; ZH block then EN counterpart). Code fences, math, footnotes, bare URLs, and markdown links stay visible. Uneven pages fail open to 对照 — the toggle must not silently delete content. Documented for visitors on `wiki/guides/about-and-maintenance.md`.
+
 `npm run lint:okf` checks OKF + project structure. Bilingual completeness is a separate project check: `npm run lint:okf -- --bilingual`.
 
 ## Page structure

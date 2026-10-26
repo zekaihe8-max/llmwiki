@@ -1,0 +1,47 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:26:12.199Z",
+  "url": "https://x.com/xiaomovps/status/2114229204309164262",
+  "slug": "ff43d32969434eb5",
+  "content_hash": "a744c2d6b0a62d35b63bbfde895d02c7142424f90540dc9b4d453263db606c6e",
+  "source": {
+    "path": "sources/articles/xiaomovps-grok-bot-three-pitfalls.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/xiaomovps-grok-bot-three-pitfalls.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

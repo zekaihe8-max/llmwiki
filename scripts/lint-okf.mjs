@@ -243,6 +243,7 @@ function stripNonTranslation(text) {
   return String(text || '')
     .replace(/\[[^\]]*\]\([^)]*\)/g, ' ')
     .replace(/https?:\/\/\S+/gi, ' ')
+    .replace(/\b(?:[\w-]+\.)+(?:com|org|net|io|ai|dev|app)\/\S*/gi, ' ')
     .replace(/`[^`\n]+`/g, ' ')
     .replace(/\[\^[^\]]+\]:?/g, ' ')
     .replace(/\b[\w.-]+\.(?:md|json|js|ts|mjs|css|html|png|jpg)\b/gi, ' ')
@@ -287,10 +288,16 @@ function isPrimarilyEn(text) {
   const letters = latinLetterCount(text)
   if (h === 0) return true
   const lead = stripNonTranslation(text).trim()
-  // Chinese-led prose beyond a 1–2 char name is the ZH half, not EN.
-  if (/^[\u4e00-\u9fff]/.test(lead) && h > 2) return false
-  // Short Chinese proper nouns inside an English sentence (e.g. 航旅纵横, 乔木剪藏).
+  // Chinese-led prose is the ZH half, unless it begins with a short (1–4 char)
+  // proper noun immediately followed by English prose (e.g. "马天翼 plans...", "马天翼’s two posts...").
+  if (/^[\u4e00-\u9fff]/.test(lead)) {
+    const shortProperNameLead = /^[\u4e00-\u9fff]{1,4}(?:['’]s\b|\s+[A-Za-z])/
+    if (!shortProperNameLead.test(lead) || h > 6) return false
+    return letters >= Math.max(24, h * 4) && words.length >= 4
+  }
+  // Short Chinese proper nouns or quoted titles inside an English-led sentence.
   if (h <= 8 && letters >= Math.max(24, h * 4) && words.length >= 4) return true
+  if (/^[^A-Za-z\u4e00-\u9fff]*[A-Za-z][A-Za-z0-9'-]*\s+[A-Za-z]{2,}/.test(lead) && letters >= Math.max(36, h * 2) && words.length >= 6) return true
   return false
 }
 
@@ -312,11 +319,15 @@ function isSameLinePair(text) {
   if (!text) return false
   if (/暂无。?\s*\/\s*None yet\.?/i.test(text)) return true
   // Prefer an explicit " / " separator with ZH left and EN right.
+  // Because either half may contain an internal " / " (e.g. "A / B"), try each split point.
   const parts = String(text).split(/\s+\/\s+/)
   if (parts.length < 2) return false
-  const left = parts[0]
-  const right = parts.slice(1).join(' / ')
-  return hanCount(left) >= 4 && isPrimarilyEn(right)
+  for (let k = 1; k < parts.length; k++) {
+    const left = parts.slice(0, k).join(' / ')
+    const right = parts.slice(k).join(' / ')
+    if (isPrimarilyZh(left) && isPrimarilyEn(right)) return true
+  }
+  return false
 }
 
 /** Split a section into paragraph / list-item blocks (code fences already stripped). */

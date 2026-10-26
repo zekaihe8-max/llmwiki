@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T11:56:43.836Z",
+  "url": "https://x.com/dotey/status/2114225068108550193",
+  "slug": "ada5adef5a925b23",
+  "content_hash": "7ca21b1f08f0559434028feceb23ae445bbda92ba216ef446298c91f4ee56f82",
+  "source": {
+    "path": "sources/articles/dotey-grokbot-mobile-vs-claude-codex.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/dotey-grokbot-mobile-vs-claude-codex.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

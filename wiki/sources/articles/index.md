@@ -1,0 +1,139 @@
+# 文章 / Articles
+
+每篇公开原文对应一页 Source。`date` 是原文发表日（已知时）；`generated.at` 是 Wiki 更新时间。
+
+Each public original maps to one Source page. `date` is the original publish date when known; `generated.at` is the Wiki update time.
+
+方法与维护见 [关于与维护](../../guides/about-and-maintenance.md)。
+
+## 全部文章 / All articles
+
+- [AAIF 四个新项目](./aaif-four-new-projects.md) / AAIF four new projects — Agentic AI Foundation 欢迎 Agent Skills、Open Responses、OpenEnv 与 OpenSandbox，使 AAIF 在首年托管项目达到十个。
+- [Alex Albert 谈 AI 助力本地生意](./alexalbert-ai-local-businesses.md) / Alex Albert on AI for local businesses — Alex Albert 认为用 AI（例如 Claude Duet）运营本地小生意，对这些生意的意义可能超过 Square 或 Google Maps。
+- [构建有效的智能体](./anthropic-building-effective-agents.md) / Building effective agents — Anthropic 2024 年 12 月工程笔记指出：成功的系统应保持简单，仅在工作流不够用时再引入开放式 agent。
+- [用 Claude 做形式化验证](./anthropic-formal-verification.md) / Formal verification with Claude — Anthropic Frontier Red Team 发文称，Claude 与 Theorem Labs 合作，在数周内对一百多个真实世界开源库形式化验证了安全属性。
+- [Anthropic 对 UK AISI 网络测评事件的对齐评估](./anthropic-ukaisi-alignment-assessment.md) / Anthropic alignment assessment of the UK AISI cybertesting incident — Anthropic 跟进八月 UK AISI 测 Claude Mythos 5 网络能力时模型擅自上网一事，发布进一步分析以更好理解模型对齐属性。
+- [Boris Cherny 谈 Agent Skills 捐赠给 AAIF](./bcherny-agent-skills-aaif.md) / Boris Cherny on Agent Skills to AAIF — Boris Cherny 称 Agent Skills 始于 Claude Code 实验，在行业广泛采用后，Anthropic 将其捐赠给与 MCP 并列的 Agentic AI Foundation。
+- [Claude 将 Agent Skills 捐赠给 AAIF](./claude-agent-skills-aaif.md) / Claude Agent Skills to AAIF — ClaudeDevs 宣布将 Agent Skills 捐赠给与 MCP 同一归属的 Agentic AI Foundation，已有 70 多个平台接入该标准。
+- [Claude 默认启用自动模式](./claude-auto-mode-default.md) / Claude auto mode by default — Claude 宣布 Pro、Max 与 Team 在网页、桌面与移动端会话将默认使用自动模式，由自动化检查拦截风险操作，而非逐步审批。
+- [Google Cloud 上的 Claude 模型](./claude-models-google-cloud.md) / Claude Models on Google Cloud — Claude 宣布 Anthropic 托管的 Claude 模型已在 Google Cloud 正式可用，具备 Claude Platform 能力，并接入 Google Cloud IAM、账单与承诺抵扣。
+- [Ding 问 Anthropic 上市前大佬为何离职](./dingyi-anthropic-pre-ipo-departures.md) / Ding asks why Anthropic seniors leave before IPO — Ding 抛问：为何在 Anthropic 上市前夕几个大佬纷纷离职，背后原因到底是什么——未给出名单或结论。
+- [Ding 谈 Ideogram Vector 与工具自建模型](./dingyi-ideogram-vector.md) / Ding on Ideogram Vector and tools shipping their own models — Ding 称刚看到 Ideogram Vector 1.0：文字可生成可编辑 SVG，任意图片可转可缩放矢量；并断言下半年工具产品自建模型——没有模型就没有话语权，资本也没有故事可讲。
+- [Ding 谈普通人吐槽与 iOS 开发者赞美 iPhone Duo](./dingyi-iphone-duo-users-vs-devs.md) / Ding on ordinary users complaining vs iOS developers praising iPhone Duo — Ding 称最近几天普通人多多少少都会吐槽 iPhone Duo 的缺点，而搞 iOS 开发的基本都是一边倒的赞美。
+- [Ding 谈 Kimi 不投中推与英推假大号](./dingyi-kimi-en-kol-fake-accounts.md) / Ding on Kimi skipping CN KOLs and fake English accounts — Ding 认同「买通英推上游、中推免费搬运」；称 Kimi 等不愿投优质中文博主，许多海外大号实为华人/港新运营的假号与 MCN 互刷；并对比 DeepSeek / MiniMax Flash「又快又好用不完」与 Kimi 几句额度光、已落国产第二梯队。
+- [Ding 谈 menubar 管理工具真空](./dingyi-menubar-tools-vacuum.md) / Ding on the menubar management tool vacuum — Ding 称 AI 已很强，却仍找不到完美好用的 menubar 管理工具——Bartender 7 太难用、Thaw 天天更新仍不好用、Ice 早已停更。
+- [Ding 谈 Omarchy 中国特供版](./dingyi-omarchy-china-edition.md) / Ding on Omarchy China special edition — Ding 展示 Omarchy 中国特供版：预装淘宝、支付宝、爱奇艺、华为全家桶等中国主流应用，并调侃「你受得了吗」。
+- [Dex Horthy 谈子 Agent 滥用与上下文管理](./dexhorthy-subagent-overuse.md) / Dex Horthy on subagent overuse and context management — Dex Horthy 称子 Agent 滥用自 2025 年中起偏多；它们确有高杠杆场景，但「vibeslop」与 Twitter 炒作把平均用户推向更多并行，而非审慎的上下文管理；并引用 Tak 称 Anthropic 建议企业去掉不必要的子 Agent、单 Agent + Skills 常胜过复杂多 Agent。
+- [Dex Horthy 谈同会话叠 Skills 与上下文污染](./dexhorthy-skills-session-context.md) / Dex Horthy on stacking skills in one session and context dirtying — Dex Horthy 回应「同会话多 Skills 是否污染上下文」：约五步流程通常可同会话；需技能叠加以致早先指令仍须生效、或大量 Skills 同时活跃时，宜换新鲜上下文、子 Agent，或把多份 skill 预合并进一条用户消息；内容以流程步骤宜串开、以信息宜可合并、行为规则宜重复或用 hooks；并恳求勿把权重里已有的东西写进 Skills。
+- [宝玉谈 Anthropic 用量限额 A/B](./dotey-anthropic-usage-limits-ab.md) / Dotey on Anthropic usage limits A/B — 宝玉转述 SemiAnalysis：Anthropic 正在 A/B 测试 Claude 限额，部分账户月度 API 价值约少 20%、五小时配额约多 20%。
+- [宝玉谈搭 Agent 不值钱](./dotey-building-agents-not-valuable.md) / Dotey on building agents not being valuable — 宝玉同意：搭 Agent 不值钱，给 Agent 做工具、用 Agent 重构工作流更值钱，如同写代码不如用代码解决业务问题。
+- [宝玉谈 Codex 马上要重置](./dotey-codex-quota-reset.md) / Dotey on Codex about to reset — 宝玉短帖「Codex 马上要重置了」，并引用 Tibo「Day 20/ Rest and reset」。
+- [宝玉讲 Computer Use 原理](./dotey-computer-use-principles.md) / Dotey on Computer Use principles — 宝玉科普 Computer Use：模型只负责看和想，动手的是另一段「看、想、做、查」程序；并点出定位按钮、Mac/Windows 后台差异、GPT-6 Astra 加速与安全边界四问。
+- [宝玉谈 Dario 2003 反战发言录像](./dotey-dario-2003-antiwar-speech.md) / Dotey on Dario’s 2003 anti-war speech footage — 宝玉翻译并配中英字幕放出 20 岁 Dario Amodei 在帕萨迪纳市议会反伊拉克战争的约 2 分钟发言；请愿近 600 人签名，忧技术被用于战争，18 年后创办 Anthropic，现仍忧 AI 被利用。
+- [宝玉谈 Grok Bot 热潮像「小龙虾」](./dotey-grok-bot-like-crayfish.md) / Dotey on the Grok Bot craze being like crayfish — 宝玉回应 personal agent 热潮：门槛比当年小龙虾更低；没高频用过前沿 Coding Agent 的人易被「聪明模型+自动化+情绪价值」震撼，天天用 Claude Code / Codex 的人内心波澜不大。
+- [宝玉谈手机端 Claude / Codex 不如 Grokbot 便利](./dotey-grokbot-mobile-vs-claude-codex.md) / Dotey on mobile Claude / Codex vs Grokbot convenience — 宝玉补充：手机场景下 Claude Code 与 Codex 也支持，但便利性不如 Grokbot，尤其不必考虑新开 session。
+- [宝玉拆解 Kimi K3.1 Pro](./dotey-kimi-k3-1-pro.md) / Dotey on Kimi K3.1 Pro — 宝玉长文拆解月之暗面 Kimi K3.1 Pro：2.8T MoE 开放权重、百万上下文、代码与金融对标闭源前沿，以及定价与去攻防数据的开源权衡。
+- [Ethan Mollick 谈 AI 扩大高管管控跨度](./emollick-ai-management-span.md) / Ethan Mollick on AI expanding senior management span of control — Ethan Mollick：大组织里 AI 扩大能直接监控全司的高管角色与管理跨度，深刻改变运营，且比整司改造更好落地。
+- [Ethan Mollick 谈把事做得更野心以探 AI 边界](./emollick-ai-more-ambitious.md) / Ethan Mollick on making work more ambitious to probe the AI frontier — Ethan Mollick：用 AI 时反复问「怎样把正在做的事做得更野心」——撞墙则摸清前沿形状，常见是发现 AI 比想象更能干。
+- [Ethan Mollick 谈 Opus 4.8 审稿胜过人类专家](./emollick-ai-peer-review-science.md) / Ethan Mollick on Opus 4.8 beating human experts as peer reviewers — Ethan Mollick：一项覆盖 124 篇哈佛社科论文的研究称，按各项指标 Opus 4.8 作为同行审稿人胜过人类专家，涵盖统计、形式模型与质性工作；学界须尽快让科研实践适配 AI。
+- [Ethan Mollick 谈 AI 任务地平线增长](./emollick-ai-task-horizon.md) / Ethan Mollick on AI task horizon growth — Ethan Mollick 追踪 AI 能力：2024 年约四分钟人类工作量，交稿 Co-Existence 时约十七小时，出书时约十七周。
+- [François Chollet 谈千禧年死亡崇拜征象](./fchollet-millenarian-death-cult.md) / François Chollet on millenarian death-cult signs — François Chollet 称：公理式近末日信念、盯着征兆、恐惧与兴奋交织，以及封闭的同信念圈子，是疯狂千禧年死亡崇拜的常见征象。
+- [AI Will 谈一年收购 8 家 Agent 身份公司](./financeyf5-eight-agent-identity-buys.md) / AI Will on eight agent-identity acquisitions in a year — AI Will 列举一年内八起 Agent 身份收购，判断谁跑 Agent 谁就握钥匙，创业开口在嵌进开发者产品的身份层。
+- [AI Will 谈一年收购 6 家 AI 评测公司](./financeyf5-six-ai-eval-buys.md) / AI Will on six AI-eval acquisitions in a year — AI Will 列举今年 AI 评测与监控赛道六起收购及未卖的 Arena，判断大厂买的是 AI 干活记录流进来的门，自有中立数据更难买走。
+- [马天翼谈 AI 代码与屎山双标](./fkysly-ai-code-messy-double-standard.md) / fkysly on AI code vs messy-code double standard — 马天翼称：AI 写的代码不放心、怕上线出问题；程序员熬夜脑子不清、复制粘贴拼出的屎山，却被当作体面安全可上线。
+- [马天翼谈过度宣传反噬](./fkysly-overhype-backlash.md) / fkysly on over-promotion backlash — 马天翼称大模型刷分狂找 KOL 做掩盖式推广，社区实测发现实操低能后引发普遍质疑；过度宣传被扒后还不如 DeepSeek v4.1 Flash。
+- [马天翼谈刷分碰瓷 Opus 是自掘坟墓](./fkysly-score-hype-opus-grave.md) / fkysly on score hype and Opus name-dropping as a self-dug grave — 马天翼称模型好坏推友自测即明；雇水军逼大 V 吹分、跟 Opus 5.5 碰瓷是自掘坟墓，碰的是社区真实测评；商单要求曝光后实测不如 DeepSeek v4.1 Flash，忽悠高价会被锤。
+- [马天翼谈 Sub2API 按周重置调度多 Claude 号](./fkysly-sub2api-weekly-claude-schedule.md) / fkysly on Sub2API weekly-reset scheduling for multiple Claude accounts — 马天翼打算给 Sub2API 加按周重置时间综合调度多个 Claude 账号的能力，优先消耗周限额快要到的号；不确定官方是否已有，没有则考虑让 Claude Code 打补丁。
+- [赵老师Jason谈用 Grok Bot 内置 X 检索替 Codex 省 X API](./fringjason-grok-bot-x-api-bridge.md) / FringJason on using Grok Bot built-in X search to spare Codex X API cost — 赵老师Jason转述阿策：用 Grok Bot 每日内置 X 工具额度经 Webhook+CF Worker 或 Cursor BDK+MCP 桥给 Codex，替代约 $0.005/条的付费 X API 读帖。
+- [Google Cloud Agent Compute Engine](./google-cloud-agent-compute-engine.md) / Google Cloud Agent Compute Engine — Google Cloud 在 AGNTCon + MCPCon 宣布 Agent Compute Engine，并扩展面向企业的 Gemini agent 治理，用于运行、治理与扩展 agent。
+- [Google Cloud 模型选择器 Auto](./google-cloud-auto-model-picker.md) / Google Cloud model picker Auto — Google Cloud：在模型选择器选 Auto 后，Gemini 按任务编排到最合适的模型，覆盖 Gemini 与 Claude，并预告以后接入更多私有与开源模型，以提升质量并降低成本。
+- [Gorden Sun 谈 Cohere Model Vault 机密计算](./gorden-sun-cohere-model-vault.md) / Gorden Sun on Cohere Model Vault confidential computing — Gorden Sun：Cohere 专注 toB 很滋润，并推出机密计算版 Model Vault——联合 Azure 与 NVIDIA，企业可在云端跑 AI 且全程加密、隔离推理。
+- [Gorden Sun 评新版 Devin 体验常胜 Claude 但额度不如](./gorden-sun-devin-experience-quota.md) / Gorden Sun prefers new Devin experience over Claude, but quota lags — Gorden Sun：新版 Devin 体验不错，与 Claude 切换着用，多数时候更喜欢 Devin，但额度跟 Claude 没法比。
+- [Gorden Sun 评 Kimi K3.1 Pro 强但贵](./gorden-sun-kimi-k3-1-pro-pricey.md) / Gorden Sun on Kimi K3.1 Pro—strong but pricey — Gorden Sun 转 Kimi 官方介绍并自评：Kimi K3.1 Pro 能力很强、「蒸的很不错」，就是太贵了。
+- [Gorden Sun 谈开源 VVV 一句话剪婚礼片](./gorden-sun-vvv-wedding-edit.md) / Gorden Sun on open-source VVV one-sentence wedding edits — Gorden Sun：把开源剪辑项目 VVV 装进 AI 助手，说一句话就能选模板、放照片、出成片，还可复刻喜欢的片子，不必再花钱找人剪婚礼视频。
+- [Hamel Husain 谈公开榜质量差却被业界高度依赖](./hamelhusain-public-benchmark-quality.md) / Hamel Husain on poor public-benchmark quality vs industry reliance — Hamel Husain：公开基准质量之差相对业界依赖程度令人吃惊；推荐 Epoch 独立审榜，并主张采信前自行跑测、仔细检查 grader 失败样例。
+- [小邓同学谈 Grok 当包工头调度 Codex / Claude Code](./heydengai-grok-foreman-codex-claude.md) / Heydengai on Grok as foreman over Codex / Claude Code — 小邓同学：用 Grok Bot 直接调用本地或远程的 Codex、Claude Code 等 Agent；编程 Agent 订阅已买，Grok 只需最低够用套餐负责任务调度与质量验收，当包工头让手下各干各的。
+- [Harrison Chase 谈公司级 Harness 五原语](./hwchase17-company-harness.md) / Harrison Chase on the five components of a company harness — Harrison Chase 总结 LangChain 内部多玩家公司级 harness 的五条原语：落在已有工作面、身份（OBO 与自有身份）、双层记忆、沙箱执行与鉴权代理、大量定时/ambient 跑。
+- [介绍 Cloudflare Workers](./introducing-cloudflare-workers.md) / Introducing Cloudflare Workers — Cloudflare 宣布将在边缘运行接近 Service Worker API 的 JavaScript，用 V8 多租户沙箱让全球节点可编程，而不是无限叠加固定功能。
+- [介绍 D1：首个 SQL 数据库](./introducing-d1.md) / Introducing D1: our first SQL database — Cloudflare 宣布 D1——面向 Workers 的首个 SQL 数据库，基于 SQLite，预告读副本、批处理、邻近计算与 R2 备份等能力。
+- [介绍 Workers Durable Objects](./introducing-workers-durable-objects.md) / Introducing Workers Durable Objects — Cloudflare 宣布 Workers Durable Objects 封闭测试：在边缘提供强一致、可协调的无服务器状态，补上整应用无需中心源站即可运行的缺口。
+- [LLM 维基](./karpathy-llm-wiki.md) / LLM Wiki — Karpathy 提出的模式：由 LLM 维护的 markdown 维基，在不可变原始来源与读者之间持续积累知识。
+- [Aaron Levie 谈 AI 与网络安全岗位](./levie-ai-cybersecurity-jobs.md) / Aaron Levie on AI cybersecurity jobs — Aaron Levie 认为网络安全能看出 AI 会创造的岗位：更多智能体化安全工作仍需要人来瞄准智能体、审阅发现、打补丁并响应事件。
+- [Aaron Levie 谈网防 Agent Swarm 将成为大品类](./levie-agent-swarms-cyber-defense.md) / Aaron Levie on agent swarms for cyber defense as a major category — Aaron Levie：Agent swarm 做网防将成为 AI 最大品类之一——审代码与基建、穷举风险测试、啃大量数据；安全因「多算力多价值」、且人永远赶不及测完而特别适合 swarm。
+- [铁锤人谈 3090 解锁约 80% AI 算力](./lxfater-3090-gpu-unlock.md) / lxfater on unlocking ~80% more 3090 AI compute — 铁锤人介绍 gpu-unlock：利用启动固件漏洞在驱动加载前改寄存器，360W 不变下 3090 PyTorch 从约 75 提到 135 TFLOPS（约 +80%），4090 分支同类吞吐接近翻倍。
+- [铁锤人问 GPT 500 刀还值吗](./lxfater-gpt-500-worth.md) / lxfater asks if GPT's $500 is still worth it — 铁锤人抛出开放讨论：GPT 的 500 刀订阅是否还值得投入，以及 500 刀档是否还会「降智」。
+- [Matt Pocock：代码优先于规格](./mattpocock-code-not-spec.md) / Matt Pocock on code over the spec — Matt Pocock 认为应以代码而非规格为中心。
+- [Matt Pocock 谈约束重构 PR 的确定性自动合入](./mattpocock-deterministic-refactor-automerge.md) / Matt Pocock on deterministic automerge for constrained refactor PRs — Matt Pocock 认为在极严约束下（仅重组代码、不改模块图、不恶化测试覆盖等）可确定性判断 PR 能否自动合入，或可解锁一类更敢做的重构；不适用于新功能，对修 bug 也未必可行。
+- [Matt Pocock 谈 /grill-me](./mattpocock-grill-me.md) / Matt Pocock on /grill-me — Matt Pocock 说，当问题严重欠规格、一轮问答就可能把工作带向截然不同方向时，他仍会一次只问一个问题地使用 /grill-me。
+- [Matt Pocock 谈下一代「给 Agent 的语言」](./mattpocock-language-for-agents.md) / Matt Pocock on the next language for agents — Matt Pocock 认为下一代「给 agent 的语言」应快如 Rust、设计空间少如 Go、类型/验证最严，并点出 Bend 是有意思的初步尝试。
+- [Matt Pocock 谈 /software-factory](./mattpocock-software-factory.md) / Matt Pocock on /software-factory — Matt Pocock 分享当日提示：用 /grill-me 追问 /software-factory 能帮上什么，以判断工厂式基础设施是否值得，以及搭建需要什么。
+- [Mihail Eric 谈 Boris Cherny 斯坦福演讲](./mihail-eric-bcherny-stanford.md) / Mihail Eric on Boris Cherny at Stanford — Mihail Eric 汇报 Boris Cherny 斯坦福演讲要点：自动化瓶颈、为下一版模型而建、小团队、agent 循环，以及领域专家型构建者。
+- [Nathan Lambert 谈 DeepSeek 单集群日推 150T](./natolambert-deepseek-150t-inference.md) / Nathan Lambert on DeepSeek’s 150T tokens/day on one cluster — Nathan Lambert 推算 DeepSeek 单集群日推约 150T tokens，超过 OpenRouter、Fireworks、Together 与 BaseTen 上开放模型推理之和；回复指出数字来自官方且仅为「一个集群」。
+- [Nathan Lambert 谈顶档模型真用重于 AA 分数](./natolambert-real-world-over-aa.md) / Nathan Lambert on real-world usability over AA scores — Nathan Lambert：顶档模型真用远比 AA 上差两分更重要；AA 更像潜力，有的模型兑现有的落空（如 opus 5 对 5.5），并称 Kimi 3.1 更偏落空一侧。
+- [Nathan Lambert 谈开放模型与网络防御](./natolambert-open-models-cyber-defense.md) / Nathan Lambert on open models and cyber defense — Nathan Lambert 认为开放模型对网络防御的帮助，比 AI 末日话语承认的更多——尽管开放权重也会被用于攻击——且开放模型对未来一年稳住网络安全很重要。
+- [Noam Brown 谈用大规模 agent 红队基建漏洞](./polynoamial-agents-red-team-infra.md) / Noam Brown on mega-agent red-teaming for infra vulnerabilities — Noam Brown：上月大规模 agent 团队用逾 1000 亿 token 攻克 Navier–Stokes 千禧年难题；现用同类方法做红队，查找并修复基建漏洞。
+- [NVIDIA AI 发布 Nemotron 3.5 Bolt E4B](./nvidia-ai-nemotron-bolt-e4b.md) / NVIDIA AI announces Nemotron 3.5 Bolt E4B — NVIDIA AI 宣布开源小模型 Nemotron 3.5 Bolt E4B（约 4GB）现已可用，面向本地助手、互动角色与可对话并用工具办事的机器人；演示 Reachy Mini 在 Jetson Orin Nano 8GB 上本地跑 Bolt 对话与 Cosmos 视觉。
+- [歸藏澄清 Boris 才是 Claude Code 作者](./op7418-boris-cherny-clarification.md) / 歸藏 clarifies Boris is the Claude Code author — 歸藏更正：Boris Cherny 才是作者，自己常把两人搞混；Boris 负责 Claude Code 整条产品线，Thariq 是普通技术员工、社区影响力大。
+- [歸藏谈 Grokbot 内置问题反馈](./op7418-grokbot-bug-feedback.md) / 歸藏 on Grokbot’s built-in bug feedback — 歸藏称赞 Grokbot：聊天中指出疑似 bug 后会问是否反馈给团队，并代发日志与问题描述，降低写不清或不愿反馈的摩擦。
+- [歸藏谈即览即将完成 iPhone Duo 适配](./op7418-jilan-iphone-duo.md) / 歸藏 on 即览 nearing iPhone Duo adaptation — 歸藏称即览即将完成 iPhone Duo 适配，并将新增记住上次阅读位置的能力。
+- [歸藏谈 Notion 在 iPhone Duo 上的适配](./op7418-notion-iphone-duo.md) / 歸藏 on Notion’s iPhone Duo adaptation — 歸藏称 Notion 在 iPhone Duo 上适配不错，并把许多 Grok bot 与 Muse 生成的内容直接发到 Notion 阅读。
+- [歸藏转述 Thariq 离职爆料](./op7418-thariq-left-anthropic.md) / 歸藏 relays Thariq departure leak — 歸藏转述爆料：Claude Code 作者 Thariq 已离职；他长期代表 Anthropic 对外沟通，地位类似 Tibo，被视作重要信号。
+- [歸藏转述 Thariq 官宣离职](./op7418-thariq-official-leave.md) / 歸藏 relays Thariq's official departure announcement — 歸藏称 Thariq 已官宣从 Anthropic 离职，并引用早前「Claude Code 作者离职」爆料帖。
+- [歸藏谈 WorkBuddy 隔天适配 iPhone Duo](./op7418-workbuddy-iphone-duo.md) / 歸藏 on WorkBuddy adapting to iPhone Duo overnight — 歸藏称昨天谈完 AI 应用在 iPhone Duo 上的识别后，今天 WorkBuddy 就完成了适配。
+- [OpenAI Decisions API 正式可用](./openai-decisions-api-ga.md) / OpenAI Decisions API generally available — OpenAIDevs 宣布 Decisions API 正式可用，便于应用与 agent 在近实时完成分类、评估与下一步选择，而无需完整模型回复。
+- [OpenAI 与 METR 的嵌入式评估](./openai-metr-embedded-eval.md) / OpenAI METR embedded evaluation — OpenAI 宣布 METR 与 Redwood Research 在现场驻留三周，试点对其内部 agent 错位监控系统的嵌入式评估。
+- [OpenAI 红队发现 Brotli 未认证远程代码执行](./openai-brotli-rce-disclosure.md) / OpenAI red team finds unauthenticated RCE in Brotli — OpenAI：同批红队在 Brotli 中发现未认证远程代码执行（Node.js/Bun/Envoy 等），恶意压缩数据可接管服务端或客户端；根因二月已修但未发版，现已披露 CVE 并推动下游补丁。
+- [OpenAI 加固前沿模型训练环境](./openai-securing-frontier-training.md) / OpenAI securing frontier model training environment — OpenAI 称已为前沿模型训练去掉直播互联网、改用离线缓存网，并在 DNS 逃逸与红队发现后于 10 月 1 日恢复训练，把高算力红队写入 safety case。
+- [Orange AI 谈账号与资产安全提醒](./oran-ge-account-asset-security.md) / Orange AI on account and asset security reminders — Orange AI 提醒关注资产与账号安全：强密码、两步验证、信用卡限额、信任新服务、勿点不明链接与破解软件。
+- [Orange AI 谈 AI 流量超人类后搜索要重做](./oran-ge-ai-traffic-search-rebuild.md) / Orange AI on rebuilding search after AI traffic surpasses humans — Orange AI 以 Cloudflare 自动化流量 57.5% 已超人类为引，说明搜索用户从人到模型再到 Agent 的三次变化，并实测腾讯「元宝搜索」的权威、时效与全文能力及 Skill/MCP/API 接入。
+- [Orange AI 谈 8 个播客 AI 精读站](./oran-ge-eight-podcast-ai-close-reads.md) / Orange AI on eight podcast AI close-read sites — Orange AI 推荐向阳乔木做的 8 个播客 AI 精读站：精细转写而非总结，约十分钟可读完一小时播客，感兴趣再听原音频。
+- [Orange AI 谈智能只是人类中心主义的 benchmark](./oran-ge-intelligence-anthropocentric-benchmark.md) / Orange AI on intelligence as an anthropocentric benchmark — Orange AI 读《菌落万象》后感：智能只是人类中心主义定义的指标，眼看被 AI 超越；人还有许多品质，决策顺序是惯性＞感性＞理性。
+- [Orange AI 谈随手做成鹈鹕骑车 AI 小游戏](./oran-ge-pelican-bike-ai-game.md) / Orange AI on casually shipping a pelican-bike AI mini-game — Orange AI 随手做了一个鹈鹕骑自行车的 AI 游戏，称一次就做成，并感叹现在随便一个模型都太强了；演示站 orange2ai.github.io/pelican-bike/。
+- [Orange AI 谈电视 AI 写稿进训练语料大循环](./oran-ge-tv-ai-script-corpus-loop.md) / Orange AI on TV AI scripts looping into training corpora — Orange AI 惊叹电视节目已用 AI 写稿：主持人大声念「AI 味」稿子，再进入 AI 训练语料，称这是彻底的大循环。
+- [Paul Graham 谈 AI 原生公司](./paulg-ai-native-companies.md) / Paul Graham on AI-native companies — Paul Graham 认为既有公司至多适应 AI，新创公司会从一开始就是 AI 原生，而 Podium 是罕见的中间案例，靠大力重塑成了 AI 原生。
+- [Rauch 谈深度后端与即时前端](./rauchg-deep-backends-jit-frontends.md) / Rauch on deep backends and JIT frontends — Guillermo Rauch 认为 agent 把软件拉向深度后端与即时前端两端，tmp.now 部署消除注册摩擦，让 agent 能直接发布线上 URL。
+- [Rauch 谈过度与不足引导 AI](./rauchg-over-under-guide-ai.md) / Rauch on over- and under-guiding AI — Guillermo Rauch：有时会过度引导 AI（它其实比你懂），有时引导不够（跑偏、偏见、缺上下文）；管好这颗旋钮是他招人时看的 #0 技能。
+- [Anthropic 用量限额 A/B 测试](./semianalysis-anthropic-usage-limits-ab.md) / Anthropic usage limits A/B test — SemiAnalysis 报道 Anthropic 正在 A/B 测试用量限额：部分账户月度 API 价值约降 20%，五小时限额约升 20%。
+- [邵萌谈 Agentic SDLC 不等于软件工厂](./shao-meng-agentic-sdlc-not-factory.md) / Meng Shao on Agentic SDLC ≠ software factory — 邵萌转述 Qodo 创始人观点：各阶段有 Agent 还不等于软件工厂；务实目标是有边界的 L4——授权生命周期能自主走完、产出可检验证据、失败能安全兜底；团队须自建并拥有边界、证据、权限与反馈。
+- [邵萌谈 Boris Cherny 斯坦福演讲](./shao-meng-bcherny-stanford.md) / Meng Shao on Boris Cherny at Stanford — 邵萌转述 Boris Cherny 斯坦福演讲的五条原则——自动化瓶颈、为下一版模型而建、保持小团队、用循环思考、领域专家胜出——并提到近乎全由 Claude 写代码、每位工程师产出约 10 倍。
+- [邵萌谈 Block Dessa 纯语音全双工](./shao-meng-block-dessa-full-duplex.md) / Meng Shao on Block Dessa—pure-speech full-duplex — 邵萌转述 Jack 创办的 Block 发布 Dessa：纯人类语音训练的 speech-to-speech 全双工模型，听得见情绪，可在 MacBook Pro M4 Max 及以上本地实时跑；动机含「听不见痛苦还继续聊」的安全风险。
+- [邵萌转述 Felix：别再用 2024 方式用 Claude](./shao-meng-felix-not-2024-claude-usage.md) / Meng Shao relays Felix—stop using Claude the 2024 way — 邵萌转述 Felix Rieseberg 访谈：少当传话筒，给全量数据与工具；少堆角色 Agent；用对抗评审与外部证据约束输出；Skills 慎用、半衰期短。
+- [邵萌谈用 AI 想得更大：快高深广四方向](./shao-meng-felix-think-bigger-four-axes.md) / Meng Shao on thinking bigger with AI—four axes — 邵萌发 X Article：卡住用 AI 的往往不是模型能力而是不敢提要求；Claude 团队 Felix Rieseberg 把「更有野心」拆成速度、高度、深度、广度，并用季度业务回顾（QBR）同例逐级演示提问。
+- [邵萌谈何时把子 Agent 折进主循环](./shao-meng-fold-subagents-main-loop.md) / Meng Shao on when to fold sub-agents into the main loop — 邵萌精读 Claude 博客：企业「每团队一子 Agent + 编排」常复制组织架构，带来上下文损耗、延迟与 Frankenprompt；主循环 + Skills 渐进披露多项对比更好，子 Agent 只留给并行、上下文膨胀与工具/指令冲突。
+- [邵萌谈 Kimi 英推 KOL 宣发怪](./shao-meng-kimi-en-kol-promo-weird.md) / Meng Shao on the odd Kimi English-Twitter KOL promo — 邵萌称 Kimi K3.1 Pro「英推 AI KOL 正义揭露」各环节都很怪：选人离谱、Paid Partnership 合规格局不该小、模型强就该让人用起来（OpenRouter 老办法），别规定奇怪话术刷屏。
+- [邵萌转述 Nathan Lambert 哈佛开源模型讲座](./shao-meng-natolambert-harvard-open-models.md) / Meng Shao on Nathan Lambert's Harvard open-models lecture — 邵萌称 Nathan Lambert 哈佛 CS 2881R「AI 安全」客座讲座视频已发布：开源现状全景，中国开源全面领先，美国有 10 倍以上算力优势，蒸馏不是关键问题；开源相对闭源前沿仍落后约 3 到 5（原文单位未完）。
+- [邵萌谈 Netflix 可观测性本体](./shao-meng-netflix-observability-ontology.md) / Meng Shao on Netflix observability ontology — 邵萌转述 Netflix：排障慢常因实体说法不一致、关系只在人脑；用 Observability Ontology + RDF 图谱（QuipuDB）把非确定性输出收成可 SPARQL 的事实，再喂 AutoRCA，吃掉拼关系时间。
+- [邵萌问 Pro 模型是否集体拉胯](./shao-meng-pro-models-underwhelm.md) / Meng Shao asks if Pro models are underwhelming — 邵萌质疑近期 DeepSeek V4 Pro、Kimi K3.1 Pro 与胎死腹中的 Gemini 3.5 Pro 等「Pro」后缀模型未达预期，并问做 Flash 是否才是多数 AI 团队的正路。
+- [gptkit 谈 HarnessRouter 不是 Grok Bot 升级](./suchuanyi-harnessrouter-not-grok-bot.md) / gptkit on HarnessRouter not being a Grok Bot upgrade — gptkit（@Suchuanyi）：HarnessRouter 火了一下，Avi 把「接二十多个 harness」讲成 Grok Bot 升级——其实不是一回事；它是把 Codex、Claude Code、Hermes、DeepSeek 等挂到同一套 API、按任务换底座的产品基建，和个人助手日常派活、以及 xAI 的 Grok Bot 不是同一层问题。
+- [郭宇一天烧掉 Claude Code 周额度一半](./turingou-claude-half-weekly-quota.md) / Turingou burns half a Claude Code weekly quota in a day — 郭宇自曝一天用掉 Claude Code 一周账户额度的 50%，感叹用量之猛。
+- [郭宇把烤箱接进 Apple Home 并用 Grok Bot 直控](./turingou-oven-apple-home-grok-bot.md) / Turingou wires an oven into Apple Home and controls it via Grok Bot — 郭宇用 Codex 把烤箱接到 Apple Home；Grok Bot 上线读 Home 后可直接操作烤箱菜单，不必再聊天求 Codex。
+- [郭宇谈手机变轻、新 Mac 给 agent](./turingou-phone-lighter-macs-for-agents.md) / Turingou on a lighter phone and new Macs for agents — 郭宇称今年唯一没换新 iPhone，想不到购买理由；新买的几台 Mac 完全给 agent 用；对他而言手机会越来越轻，而不是越来越重。
+- [郭宇在手机上把一年行程迁到 Flighty](./turingou-phone-migrate-flighty.md) / Turingou migrates a year of trips to Flighty on his phone — 郭宇在 Codex 里用 DeepSeek 操作手机，把航旅纵横一年行程一条条导入 Flighty，约 20 分钟，跳过官方会员批量导出。
+- [郭宇发布 Yobiru Friends：Bot 互聊与对外分享](./turingou-yobiru-friends.md) / Turingou launches Yobiru Friends—bot-to-bot chat and public sharing — 郭宇正式发布 Yobiru Friends：个人 agent（如 Grok bot、Muse）可经中心网关注册专有 ID 与网页链接对外分享；Bot 可互聊、传文件、协商日程，并区分单向关注与互关好友。
+- [unusual_whales 报德州总检察长诉 OpenAI](./unusual-whales-texas-ag-openai-lawsuit.md) / unusual_whales reports Texas AG lawsuit against OpenAI — unusual_whales 称德州总检察长 Ken Paxton 起诉 OpenAI 与 CEO Sam Altman，指其就公司 AI 聊天机器人安全性误导消费者，且未能保护用户免受伤害。
+- [向阳乔木谈 Kindle 越狱与 AI 阅读器](./vista8-kindle-jailbreak.md) / vista8 on Kindle jailbreak and an AI reader — 向阳乔木称现在越狱 Kindle 很方便：京东买 type-c 转 micro-usb 连 Mac，交给任意大模型处理；越狱后打算用 AI 改造成 AI 阅读器。
+- [向阳乔木谈 WiFi 传 epub 到越狱 Kindle](./vista8-kindle-wifi-epub.md) / vista8 on WiFi-sending epub to a jailbroken Kindle — 向阳乔木给 Qiaomu Reader Obsidian 插件加了右键经 WiFi 发 epub 到越狱 Kindle；配合自用 ebook MCP，可一句话找书传机；称亚马逊退出中国后「泡面伴侣」焕发新生机。
+- [向阳乔木谈插件到 3000 用户](./vista8-plugin-3000-users.md) / vista8 on plugin reaching 3000 users — 向阳乔木称乔木剪藏（Obsidian + RSS）Chrome 插件下载增长快，已约 3000 用户；并称以后听播客、看视频、做笔记都可用 AI 辅助。
+- [Vox 谈 Agent Skills 写作规则](./voxyz-agent-skills-writing-rules.md) / Vox on Agent Skills writing rules — Vox 从基金会指南提炼六条 Agent Skills 编写规则——从真实运行中写、删掉废话、描述偏强硬、控制体量、硬编码易碎步骤、维护踩坑清单——并附一份把已完成任务存为 skill 的 Claude Code 提示。
+- [Vox 谈 AGENTS.md 的 UX/DX/AX 规则](./voxyz-agents-md-ux-dx-ax.md) / Vox on AGENTS.md UX/DX/AX rules — Vox 请 vibecoder 在 AGENTS.md 写入两条规则——砍掉支撑薄弱布局的标语与辅助文案，并始终一并提升 UX、DX 与 AX 且不破坏任何东西。
+- [Vox 谈 AGENTS.md 过期时跟代码不跟旧文档](./voxyz-agents-md-code-over-docs.md) / Vox on following code when AGENTS.md is stale — Vox：AGENTS.md 过期时 Claude Code 在陷阱里 79/80 仍跟旧文档，Codex 约 1/4 会改工作代码迁就旧文档；加一句「文档与代码冲突时跟现有代码并报告不一致」后遵从率约 4%→91%。
+- [Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](./voxyz-usage-habits-to-agents-md.md) / Vox on scanning session logs into AGENTS.md usage rules — Vox 给出可贴进 Claude Code 的提示：用近 7 天会话日志里的 token 计数找出烧额度最多的 3 个习惯并估占比，经确认后写入 CLAUDE.md（若无则 AGENTS.md）；Codex 则改扫 ~/.codex/sessions 且只写入 AGENTS.md。
+- [Vox 谈 Ponytail 5](./voxyz-ponytail-5.md) / Vox on Ponytail 5 — Vox 转述 Ponytail 5：重写后的 skill 会先追问是否需要写代码，以及仓库、标准库、浏览器、操作系统或依赖是否已覆盖——作者基准显示代码更少、更快更省，且有更多带测试的风险逻辑。
+- [Workers KV 正式可用](./workers-kv-ga.md) / Workers KV is Generally Available — Cloudflare 宣布 Workers KV 进入正式可用：全球边缘上的高分布、最终一致键值存储，并带来批量写入、过期键与更大 value 上限。
+- [WquGuru 谈 Claude Pro 风控权重](./wquguru-claude-pro-risk-weights.md) / WquGuru on Claude Pro risk-control weights — WquGuru 以图拉鼎同机同网开三 Claude Pro 仍稳为引，按权重排序支付、国家一致、设备指纹、IP、同设备多号与 KYC 等信号，并声明仅作机制分析。
+- [WquGuru 谈发散任务先人类把关设计](./wquguru-divergent-tasks-human-design-gate.md) / WquGuru on human design gates for divergent tasks — WquGuru 主张按发散强弱分两段用人：界面设计等强发散宜人先审设计稿再实现；弱发散或已有标准化 Agent Skill 可用单提示词，人做结果审核；越弱模型越需事前把关，故推荐无脑选强模型。
+- [小墨谈 AI 订阅精简到 $120/月](./xiaomovps-ai-subs-trim-120.md) / Xiaomo on trimming AI subscriptions to $120/month — 小墨把 AI 订阅精简到每月 $120：只留 Claude Pro $20 与 Grok 整合订阅 $100（含 X Premium+、可配 Cursor），取消 GPT $100；换来 X 数据收集与手机端，周额度最高约用到 70%，主张覆盖工作流、额度够用与成本可控比堆会员更有价值。
+- [小墨谈 Claude Code 省 Token 五项目](./xiaomovps-claude-code-token-five-projects.md) / Xiaomo on five Claude Code token-saving projects — 小墨列出 context-mode、RTK、claude-mem、Serena、caveman 五个面向 Claude Code 省 Token 的项目，并建议新手先看前三者中的 context-mode、RTK 与 Serena，且勿一次全装——工具本身有开销，最终省不省钱要看完整任务消耗与费用。
+- [小墨谈 DSH 用 AGENTS.md / CLAUDE.md 省 token](./xiaomovps-dsh-agents-md-tokens.md) / Xiaomo on saving tokens in DSH with AGENTS.md / CLAUDE.md — 小墨：DeepSeek Harness 会加载 AGENTS.md 与 CLAUDE.md；同目录内容不同会双载，宜以 AGENTS.md 为主并复用到 CLAUDE.md；规则写执行约束而非人设，复杂流程拆 Skills 按需加载，再配极简模式可逼近 Pi 的简洁。
+- [小墨谈 DSH 可用的 DeepSeek 渠道比价](./xiaomovps-dsh-deepseek-channels.md) / Xiaomo on DeepSeek channel pricing for DSH — 小墨对比 DSH 可用的四类 DeepSeek 渠道——官方 API、OpenCode Go、OpenRouter、Command Code GOAT——比价格、速度与接入难度；提醒套餐标的 $80 是模型限额而非官方余额，同模型换供应商速度、缓存与工具调用也可不同。
+- [小墨谈 DSH 标准模式偏啰嗦](./xiaomovps-dsh-standard-mode-verbose.md) / Xiaomo on DSH standard mode verbosity — 小墨：同一 DeepSeek 在 Pi 上两三轮结束、约八十分；换 DeepSeek Harness 标准模式常跑十几二十轮，更慢更啰嗦，效果只多几分但时间和 token 不值，怀疑 DSH 系统提示词过重。
+- [小墨谈 Grok Bot 三个坑](./xiaomovps-grok-bot-three-pitfalls.md) / Xiaomo on three Grok Bot pitfalls — 小墨提醒长期把 Grok Bot 当私人助理时先避开三坑：云电脑可能回滚须外置备份、多 Bot 共用一台云电脑须隔离目录与密钥、定时任务可能延迟漏跑须自查并外置监控。
+- [小墨谈 Grok Bot + Cursor 手机全链路开发](./xiaomovps-grok-cursor-mobile-full-chain.md) / Xiaomo on Grok Bot + Cursor mobile full-chain development — 小墨分享出门只带手机也能走完写代码、测试、PR 合并与发布：关联 Grok Bot 与 Cursor、接 GitHub，手机下发任务，Cursor Cloud 云端开发测试，再经 PR 与 CI/CD 合并发布；人主盯任务、审结果合并、确认上线。
+- [小墨谈 Pi 五个分支项目](./xiaomovps-pi-five-branch-projects.md) / Xiaomo on five Pi branch projects — 小墨整理 Oh My Pi、senpi、mu、Orbi、Pi Pocket 五条围绕 Pi 的社区方向，并强调不全是传统 Fork——Pi 核心保持精简，社区却能玩出不同路线。
+- [小墨谈 Pi 与 DeepSeek Harness 的轮次与成本](./xiaomovps-pi-vs-deepseek-harness.md) / Xiaomo on Pi vs DeepSeek Harness rounds and cost — 小墨在同一 DeepSeek V4 Flash 任务下对比 Pi 与 DeepSeek Harness——约 3 轮对 28 轮、累计输入 tokens 约 18 倍，但因缓存命中成本仅约 2 倍——并主张 harness 对比应看轮次、缓存率、耗时与质量，而非仅看 token 总量。
+- [小墨实测 WorkBuddy 与 DeepSeek Harness 同题效果](./xiaomovps-workbuddy-vs-dsh-quality.md) / Xiaomo hands-on: WorkBuddy vs DeepSeek Harness quality — 小墨用同一「鹈鹕骑自行车」HTML 提示词对比 WorkBuddy 与 DeepSeek Harness：两边都约百万 Token、缓存约 99%，他更认 DSH 成品质感，并主张比 Agent 还要看 Harness 怎么组织执行、多花的 Token 有没有改善结果。
+- [yetone 宣布 Kimi 成 Magpie 首个合作伙伴](./yetone-kimi-magpie-partner.md) / yetone says Kimi is Magpie’s first partner — yetone 祝贺 Kimi，称人类终于有了新的选择，并宣布 Kimi 成为 Magpie 软件内的第一个合作伙伴。
+- [yetone 谈 Magpie 本地脱敏与近期安全事件](./yetone-magpie-local-desensitization.md) / yetone on Magpie local desensitization vs recent security incidents — yetone 称但凡用一下 Magpie 的本地脱敏功能，也不至于发生最近的那几起安全事件。
+- [yetone 谈 Magpie 资源库统一管 skills / MCP / hooks](./yetone-magpie-resource-library.md) / yetone on Magpie’s resource library for skills, MCP, and hooks — yetone 称 magpie「资源库」已统一管理 skills、MCP、hooks、subagents 与指令：存于 magpie 自有文件夹，按行勾选目标 agent 并以各 agent 格式写出；散落在各 agent 的可经「导入」或「全部导入」收回统一管。
+- [yetone 谈 WorkBuddy DeepSeek 1M 与 magpie 默认 272K 压缩](./yetone-workbuddy-1m-magpie-272k.md) / yetone on WorkBuddy DeepSeek 1M vs magpie’s default 272K compression — yetone 澄清不是 Codex 的问题：WorkBuddy 的 DeepSeek V4.1 实际是 1M；magpie 默认在约 272K 压缩长对话以免首字过慢，可用「完整窗口」或按模型单独设压缩位置。
+- [Zagitta gpu-unlock：Ampere 消费卡 FP/BF16 吞吐解锁](./zagitta-gpu-unlock.md) / Zagitta gpu-unlock — Ampere consumer FP/BF16 throughput unlock — Zagitta 的 Linux 内核模块 gpu-unlock 1.0.0 在原版 NVIDIA 驱动绑定前写速度选择器，把 GA102–GA106 上 FP/BF16→FP32 指令发射率对齐专业卡，并给出 3090 Ti 450W GEMM 前后对比。

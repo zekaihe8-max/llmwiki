@@ -1,0 +1,40 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-26T00:11:04.699Z",
+  "url": "https://x.com/googlecloud/status/2114431803394048151",
+  "slug": "c0cf408d1980e10d",
+  "content_hash": "5bad3d8d27a5cf77bf7087c1898ea6e98bcf0169d11e908b2fd1496552cb20b2",
+  "source": {
+    "path": "sources/articles/google-cloud-auto-model-picker.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/google-cloud-auto-model-picker.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/claude-on-google-cloud.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

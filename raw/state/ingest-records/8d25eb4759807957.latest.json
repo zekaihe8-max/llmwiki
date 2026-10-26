@@ -1,0 +1,33 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-25T12:34:32.013Z",
+  "url": "https://x.com/fkysly/status/2114232621479936426",
+  "slug": "8d25eb4759807957",
+  "content_hash": "21e43b15c84cc1c6b440bf1d3953e1182bd1ad987226671e83e1b66db0d3d346",
+  "source": {
+    "path": "sources/articles/fkysly-ai-code-messy-double-standard.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "update",
+      "reason": "linked from Source; Agent maintains semantics"
+    }
+  ],
+  "new_topic_reasons": {},
+  "files_changed": [
+    "sources/articles/fkysly-ai-code-messy-double-standard.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "index.md",
+    "log.md"
+  ],
+  "agent_notes": null,
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
