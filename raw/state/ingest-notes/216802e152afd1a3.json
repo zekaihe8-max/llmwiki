@@ -1,0 +1,75 @@
+{
+  "topics_consulted": [
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/reuse-before-write.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/casual-ai-minigame-first-try.md"
+  ],
+  "selection_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "No existing Topic owned “strip-mine monetizing peers / clear business-model and acquisition ledgers before vibe coding”; created to carry that product-economics gate.",
+    "topics/reuse-before-write.md": "Adjacent “before writing” gate, but owns agent repo/stdlib reuse—not peer SaaS revenue or acquisition research.",
+    "topics/ai-product-self-rec-amplify.md": "Adjacent indie AI product distribution; owns self-rec + host amplify, not competitor economics before building.",
+    "topics/agent-skill-authoring.md": "Skillry sells Skill/template products, but this Topic owns how to author durable Skills—not monetizing peer templates as SaaS.",
+    "topics/agent-skills-open-standard.md": "Skills as AAIF open standard; consulted for name overlap with Skillry, left unchanged—not product peer economics.",
+    "topics/landing-page-site-clone-over-skill.md": "Adjacent “clone a reference” for Landing Pages; owns clone-over-Skill craft, not peer MRR/business-model homework before vibe coding.",
+    "topics/geo-personal-website-first-step.md": "Sleek SEO channel is acquisition homework here; that Topic owns personal-site/friend-link GEO first step, not peer-channel teardown.",
+    "topics/hunger-beats-tenure.md": "Shares AI-speed enabling fast shipping; owns hiring/tenure vs hunger prototypes—not indie peer economics before coding.",
+    "topics/casual-ai-minigame-first-try.md": "Shares vibe-coding speed feel; owns casual mini-game first-try success floor—not monetizing-peer research."
+  },
+  "topics": [
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "create",
+      "reason": "Created to own peer economics before vibe coding—growing subscription finished-template models, reusable acquisition channels, and ledger-clear-before-code—with Skillry/Yihui via 0xlangeai as evidence."
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "Owns agent reuse-before-write checklist; linked from new Topic for boundary only."
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "Owns self-rec + host amplify distribution; linked for boundary only."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Owns Skill authoring rules; not Skillry-style product peer economics."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Owns Skills→AAIF standard migration; name overlap only."
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "Owns Landing Page clone-over-Skill craft; adjacent template idea, different ownership."
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "Owns GEO personal-site first step; not peer SEO-channel homework for indie SaaS."
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "Owns hiring hunger vs tenure; not product peer economics."
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "Owns casual mini-game vibe-coding success floor; not monetizing-peer research."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "No existing Topic owns researching still-growing monetizing peers and clearing business-model + acquisition ledgers before vibe coding; reuse-before-write, self-rec amplify, Skill authoring, and GEO pages are adjacent but different cuts."
+  },
+  "notes": "Created Source sources/articles/0xlangeai-skillry-before-vibe-coding.md for https://x.com/0xlangeai/status/2115266929103700219. Digest title also mentions NetEase Mail Agent via a different URL; fetched body only covers Skillry/Yihui peer-economics—did not invent Mail Agent claims. Did not edit raw/articles or x-digest."
+}

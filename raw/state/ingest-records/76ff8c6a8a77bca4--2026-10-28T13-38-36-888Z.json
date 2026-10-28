@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:38:36.888Z",
+  "url": "https://x.com/turingou/status/2115130258244743249",
+  "slug": "76ff8c6a8a77bca4",
+  "content_hash": "8553aa97c00ce9153338feef0f0349fefb006fda449c311c06dd423e9e04d6ec",
+  "source": {
+    "path": "sources/articles/turingou-agent-povo-japan-esim.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-dedicated-phone-number.md",
+    "topics/lighter-phone-macs-for-agents.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Consulted for signup/hygiene adjacency; left unchanged—personal security checklist already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/agent-dedicated-phone-number.md",
+      "action": "create",
+      "reason": "Created to carry dedicated Agent phone number / cheap eSIM claim: split miscellaneous account/points signups off the human primary line; near-zero base fee card-issued eSIM with local ID photo KYC can activate in about a minute—evidence from Turingou Povo 2.0 post."
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "Consulted for identity-keyword overlap; left unchanged—platform identity M&A already owned; linked from Source/Related only."
+    },
+    {
+      "path": "topics/lighter-phone-macs-for-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted for Agent-device hardware overlap; left unchanged—device budget/roles already owned; linked from Source/Related only."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for phone+Agent overlap; left unchanged—mobile dispatch/dev chain already owned; not linked as primary Related."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/agent-dedicated-phone-number.md": "lighter-phone-macs-for-agents owns hardware budget and Macs dedicated to agents; agent-identity-platform-keys owns platform acquisition of identity firms; account-and-asset-security-hygiene owns personal account/payment hygiene; mobile-agent-dev-full-chain owns phone dispatch→cloud coding. None owned dedicating a cheap eSIM/phone number to an Agent as a separate telecom identity surface for miscellaneous signups."
+  },
+  "selection_reasons": {
+    "topics/lighter-phone-macs-for-agents.md": "Same author Agent-device hardware narrative, but owns purchase budget and Macs-for-agents / phone-gets-lighter—not a dedicated eSIM/phone number for account signup.",
+    "topics/agent-identity-platform-keys.md": "Shares the word identity, but owns platform M&A of agent-identity firms and who-runs-the-agent holds keys—not personal telecom/eSIM identity for Agents.",
+    "topics/account-and-asset-security-hygiene.md": "Adjacent on account signup hygiene (trusted services, payment hygiene); different claim from splitting miscellaneous Agent signups onto a dedicated cheap number.",
+    "topics/mobile-agent-dev-full-chain.md": "Phone + Agent narrative, but owns dispatch→cloud code→PR/CI workflow—not phone-number/eSIM as registration surface.",
+    "topics/agent-dedicated-phone-number.md": "No existing Topic owned dedicated Agent phone numbers / cheap eSIM as an ops identity surface for miscellaneous account and points signups."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/turingou-agent-povo-japan-esim.md",
+    "topics/agent-dedicated-phone-number.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lighter-phone-macs-for-agents.md",
+      "topics/agent-identity-platform-keys.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agent-dedicated-phone-number.md"
+    ],
+    "selection_reasons": {
+      "topics/lighter-phone-macs-for-agents.md": "Same author Agent-device hardware narrative, but owns purchase budget and Macs-for-agents / phone-gets-lighter—not a dedicated eSIM/phone number for account signup.",
+      "topics/agent-identity-platform-keys.md": "Shares the word identity, but owns platform M&A of agent-identity firms and who-runs-the-agent holds keys—not personal telecom/eSIM identity for Agents.",
+      "topics/account-and-asset-security-hygiene.md": "Adjacent on account signup hygiene (trusted services, payment hygiene); different claim from splitting miscellaneous Agent signups onto a dedicated cheap number.",
+      "topics/mobile-agent-dev-full-chain.md": "Phone + Agent narrative, but owns dispatch→cloud code→PR/CI workflow—not phone-number/eSIM as registration surface.",
+      "topics/agent-dedicated-phone-number.md": "No existing Topic owned dedicated Agent phone numbers / cheap eSIM as an ops identity surface for miscellaneous account and points signups."
+    },
+    "notes": "Created Source sources/articles/turingou-agent-povo-japan-esim.md for https://x.com/turingou/status/2115130258244743249. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/turingou-agent-povo-japan-esim.md",
+        "topics/agent-dedicated-phone-number.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

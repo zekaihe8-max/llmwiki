@@ -1,0 +1,113 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:55:43.938Z",
+  "url": "https://x.com/fkysly/status/2115313019668590623",
+  "slug": "10dadb7d5489c57e",
+  "content_hash": "1d0ad7c7905b78e133015c03dd63134dd0a91f97e887ca72a877c65fac451997",
+  "source": {
+    "path": "sources/articles/fkysly-tasks-handed-to-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/computer-use.md",
+    "topics/agent-clears-deferred-life-todos.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "unchanged",
+      "reason": "Consulted for hand-work-to-AI adjacency; left unchanged—life TODO digestion, not App Store / survey."
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "Consulted for same-author shipping-trust overlap; left unchanged—double-standard critique already owned; evidence belongs on new Topic with cross-link only."
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "Consulted for capability-bound adjacency; left unchanged—horizon measurement, not trust inventory."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Consulted for hand-work-to-AI adjacency; left unchanged—Computer Use mechanics, not trust inventory."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for release/shipping adjacency; left unchanged—full-chain ops with human confirm, not survey frame."
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "Consulted for probing-AI-capability adjacency; left unchanged—raise-ambition practice, not handover list."
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "create",
+      "reason": "Opened new Topic for the confident-handover inventory frame and App Store release case; no existing Topic owned that concept."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "No existing Topic owns the community inventory of tasks people now fully trust AI with (especially formerly impossible ones) plus the App Store release case; adjacent pages own double-standard critique, horizon metrics, raise-ambition, mobile full-chain, Computer Use, or life TODOs—different cuts."
+  },
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "Same author and shipping-trust language; owns author-identity double standard on go-live, not a confident-handover inventory or App Store survey frame.",
+    "topics/ai-task-horizon-growth.md": "Shares capability-bound talk; owns measured human-work-duration at a stated success rate, not subjective fully-trusted task lists.",
+    "topics/raise-ambition-until-ai-frontier.md": "Shares probing what AI can do; owns raise-ambition-until-wall practice, not inventory of already-handed-over tasks.",
+    "topics/mobile-agent-dev-full-chain.md": "Shares release wording; owns phone dispatch→cloud code→PR/CI→human confirm chain, not “放心交给” survey + App Store case.",
+    "topics/computer-use.md": "Adjacent “hand work to AI” via GUI ops; owns see–think–act–check mechanism, not trust-handover inventory.",
+    "topics/agent-clears-deferred-life-todos.md": "Adjacent handing work to AI; owns deferred life-admin digestion, not App Store / general confident-handover survey.",
+    "topics/tasks-confidently-handed-to-ai.md": "No existing page owned the confident “which tasks fully handed to AI” inventory plus App Store release case; created to carry that concept."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fkysly-tasks-handed-to-ai.md",
+    "sources/articles/index.md",
+    "topics/index.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/raise-ambition-until-ai-frontier.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/computer-use.md",
+      "topics/agent-clears-deferred-life-todos.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-code-vs-messy-code-double-standard.md": "Same author and shipping-trust language; owns author-identity double standard on go-live, not a confident-handover inventory or App Store survey frame.",
+      "topics/ai-task-horizon-growth.md": "Shares capability-bound talk; owns measured human-work-duration at a stated success rate, not subjective fully-trusted task lists.",
+      "topics/raise-ambition-until-ai-frontier.md": "Shares probing what AI can do; owns raise-ambition-until-wall practice, not inventory of already-handed-over tasks.",
+      "topics/mobile-agent-dev-full-chain.md": "Shares release wording; owns phone dispatch→cloud code→PR/CI→human confirm chain, not “放心交给” survey + App Store case.",
+      "topics/computer-use.md": "Adjacent “hand work to AI” via GUI ops; owns see–think–act–check mechanism, not trust-handover inventory.",
+      "topics/agent-clears-deferred-life-todos.md": "Adjacent handing work to AI; owns deferred life-admin digestion, not App Store / general confident-handover survey.",
+      "topics/tasks-confidently-handed-to-ai.md": "No existing page owned the confident “which tasks fully handed to AI” inventory plus App Store release case; created to carry that concept."
+    },
+    "notes": "Created Source sources/articles/fkysly-tasks-handed-to-ai.md for https://x.com/fkysly/status/2115313019668590623. Did not edit raw/articles or x-digest. Did not cite digest summary as article body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fkysly-tasks-handed-to-ai.md",
+        "sources/articles/index.md",
+        "topics/index.md",
+        "topics/tasks-confidently-handed-to-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

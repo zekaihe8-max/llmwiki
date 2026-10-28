@@ -1,0 +1,75 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:31:35.494Z",
+  "url": "https://x.com/vista8/status/2115353660075168054",
+  "slug": "bf52f5bb3be47fb2",
+  "content_hash": "afe167008e5f3dc02f9a278cccae3a3e5b03621fdbbc4706434f94438ccdab42",
+  "source": {
+    "path": "sources/articles/vista8-ai-fushengji.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "add_evidence",
+      "reason": "Integrated vista8 AI Fushengji v1 (Codex, fusheng.qiaomu.ai, GitHub remix invite) as complementary light playable ship; noted framing differs from Orange’s unnamed-tool one-shot / any-model rhetoric under Contradictions."
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "Consulted for contrast with mini-game ships; left unchanged—article is playable open mini-game, not desktop outfit companion."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "Consulted for pelican-bike / harness-quality adjacency; left unchanged—no harness metrics or same-prompt foil claims in this article."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "Owns casual AI playable mini-game ships and the model-floor / one-shot narrative; this Codex-written open AI Fushengji v1 is the same product class and should integrate as evidence, not a new Topic.",
+    "topics/harness-comparison-beyond-tokens.md": "Related via pelican-bike same-prompt harness foil linked from the casual-minigame Topic, but owns rounds/cache/quality metrics—not open remixable casual game shipping.",
+    "topics/desktop-outfit-character-companions.md": "Contrasts casual/accidental satisfying ships with mini-games on Related of that Topic; owns desktop outfit companions, not playable open mini-games."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/vista8-ai-fushengji.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/desktop-outfit-character-companions.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "Owns casual AI playable mini-game ships and the model-floor / one-shot narrative; this Codex-written open AI Fushengji v1 is the same product class and should integrate as evidence, not a new Topic.",
+      "topics/harness-comparison-beyond-tokens.md": "Related via pelican-bike same-prompt harness foil linked from the casual-minigame Topic, but owns rounds/cache/quality metrics—not open remixable casual game shipping.",
+      "topics/desktop-outfit-character-companions.md": "Contrasts casual/accidental satisfying ships with mini-games on Related of that Topic; owns desktop outfit companions, not playable open mini-games."
+    },
+    "notes": "Created Source sources/articles/vista8-ai-fushengji.md for https://x.com/vista8/status/2115353660075168054. No existing Source with that resource URL. Did not edit raw/articles or x-digest. Digest also mentions a separate DSH Landing Page plugin post; that URL is out of scope for this Source.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/vista8-ai-fushengji.md",
+        "topics/casual-ai-minigame-first-try.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:20:43.402Z",
+  "url": "https://x.com/op7418/status/2115281467236585804",
+  "slug": "4db86cb5b5e6150f",
+  "content_hash": "44f99b5db9b292f811bd9c3f9a2fa7122df32507f7b19ec59522689d9d893f41",
+  "source": {
+    "path": "sources/articles/op7418-coding-interview-dead.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/hunger-beats-tenure.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Consulted for overlap with Dotey Felix throughput evidence; left unchanged—this Source has no Claude Code GUI / junior-pair ship case; hiring claims stay on hunger-beats-tenure."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "Consulted for hiring-signal adjacency; left unchanged—page owns AI guidance calibration, not coding-interview or tenure."
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "add_evidence",
+      "reason": "Integrated 歸藏’s shorter Chinese relay as corroborating evidence of the same Felix claim; tightened scope note that English original is team-scoped while Chinese headline reads more absolute; linked new Source."
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "Consulted for bold-ask / weekend-ship adjacency; left unchanged—page owns ambition-to-frontier usage loops, not hiring reform."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/hunger-beats-tenure.md": "Owns coding-interview death, junior hunger vs tenure, and Felix’s five tips—exact concept of this 歸藏 relay of Felix; reuse and add evidence rather than create a second Topic.",
+    "topics/agent-scaled-engineering.md": "Already cites Dotey’s Felix relay for junior-pair product throughput (Claude Code GUI); this 歸藏 post adds hiring/junior-advice framing only, no new ship-throughput case—leave unchanged.",
+    "topics/calibrating-ai-guidance.md": "Shares ‘what hiring looks for’ adjacency; owns guidance-dial meta-skill, not tenure/coding-interview signal—leave unchanged.",
+    "topics/raise-ambition-until-ai-frontier.md": "Shares bolder one-shot delivery adjacency; owns probing model frontiers via ambition loops, not hiring or junior leverage—leave unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/op7418-coding-interview-dead.md",
+    "topics/hunger-beats-tenure.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/hunger-beats-tenure.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/raise-ambition-until-ai-frontier.md"
+    ],
+    "selection_reasons": {
+      "topics/hunger-beats-tenure.md": "Owns coding-interview death, junior hunger vs tenure, and Felix’s five tips—exact concept of this 歸藏 relay of Felix; reuse and add evidence rather than create a second Topic.",
+      "topics/agent-scaled-engineering.md": "Already cites Dotey’s Felix relay for junior-pair product throughput (Claude Code GUI); this 歸藏 post adds hiring/junior-advice framing only, no new ship-throughput case—leave unchanged.",
+      "topics/calibrating-ai-guidance.md": "Shares ‘what hiring looks for’ adjacency; owns guidance-dial meta-skill, not tenure/coding-interview signal—leave unchanged.",
+      "topics/raise-ambition-until-ai-frontier.md": "Shares bolder one-shot delivery adjacency; owns probing model frontiers via ambition loops, not hiring or junior leverage—leave unchanged."
+    },
+    "notes": "Created Source sources/articles/op7418-coding-interview-dead.md for https://x.com/op7418/status/2115281467236585804. Same Felix thesis already filed via dotey-felix-hunger-beats-tenure; did not create a duplicate Topic. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/op7418-coding-interview-dead.md",
+        "topics/hunger-beats-tenure.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

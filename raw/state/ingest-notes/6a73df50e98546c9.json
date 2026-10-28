@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/hunger-beats-tenure.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "selection_reasons": {
+    "topics/hunger-beats-tenure.md": "No existing Topic owned the durable hiring/career claim that AI makes hunger and weekend prototypes beat tenure while classic coding-interview puzzles lose signal; closest pages own team throughput or other hiring signals.",
+    "topics/agent-scaled-engineering.md": "Article’s Claude Code desktop case (two recent hires weekend-prototype to public in ~eight days) and ‘shipping depends less on framework tenure’ extend this page’s small-team / code-cheap throughput claims.",
+    "topics/calibrating-ai-guidance.md": "Also about what hiring looks for, but owns the over-/under-guidance dial as #0 skill—not tenure vs hunger or coding-interview format.",
+    "topics/raise-ambition-until-ai-frontier.md": "Weekend bold one-shot delivery is adjacent, but this Topic owns probing model frontiers via raising ambition—not junior/status leverage or interview signal decay."
+  },
+  "topics": [
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "create",
+      "reason": "Created to carry hunger-over-tenure, coding-interview signal loss, junior/status-poor prototype playbook, and scope that Felix’s loop is personal not company-wide."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "add_evidence",
+      "reason": "Integrated Claude Code desktop junior-pair shipping as throughput evidence; linked hiring/hunger claims out to hunger-beats-tenure; updated sources, Related, and generated.at."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "Consulted for hiring-signal overlap; left unchanged—new claims belong on hunger-beats-tenure (linked from Source/Related only)."
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "Consulted for bold-ask / weekend-ambition overlap; left unchanged—frontier-probing loop already owned here; junior leverage filed on hunger-beats-tenure."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/hunger-beats-tenure.md": "agent-scaled-engineering owns team velocity and tools/workflows after agents write most code; calibrating-ai-guidance owns guidance-dial hiring skill; raise-ambition owns frontier-probing asks. None owned tenure-vs-hunger, coding-interview obsolescence, or the low-status weekend-prototype career path."
+  },
+  "notes": "Created Source sources/articles/dotey-felix-hunger-beats-tenure.md for https://x.com/dotey/status/2115218749888634988. Did not edit raw/articles or x-digest."
+}

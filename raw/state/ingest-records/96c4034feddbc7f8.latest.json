@@ -1,0 +1,104 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:46:18.781Z",
+  "url": "https://x.com/shao__meng/status/2115392731333951528",
+  "slug": "96c4034feddbc7f8",
+  "content_hash": "bbf937811ae529c3bd87fead55aee721e6755209ec9d00200fb8fa72cdb5b1ef",
+  "source": {
+    "path": "sources/articles/shao-meng-poteto-tibot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Consulted for harassment/block hygiene adjacency; left unchanged—no password/2FA/payment claims to integrate."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "Consulted for Grok Bot + X overlap; left unchanged—claims stay on Codex bridge and paid-API substitute; linked from Source/Related only."
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "create",
+      "reason": "Created to carry shareable Grok Bot X-account intel/defense (mentions, digests, noise filter, translate, optional API block) with hard never-auto-post and human writing remaining."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Consulted for scheduled X intake overlap; left unchanged—claims stay on backup/isolation/schedule pitfalls; linked from Source/Related only."
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "Consulted for Grok Bot personal-agent narrative; left unchanged—no new hype/familiarity evidence in this article."
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "Consulted for bot-sharing overlap; left unchanged—claims stay on gateway IDs and bot social graph; Related link from new Topic only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/grok-bot-x-intel-defense-not-post.md": "grok-bot-x-api-substitute owns coding-agent X search bridges; personal-agent-cloud-env-pitfalls owns cloud-env ops risks around schedules; personal-agent-share-and-interbot-chat owns social gateway sharing. None owned the durable claim that a shareable Grok Bot template manages X via intel/defense (mentions, digests, filter, translate, optional self-API block) while never auto-posting and leaving writing to the human."
+  },
+  "selection_reasons": {
+    "topics/grok-bot-x-intel-defense-not-post.md": "No existing Topic owned Grok Bot / shareable template as X-account intel and defense with an explicit never-auto-post / human-writing bound.",
+    "topics/grok-bot-x-api-substitute.md": "Same product family touching X via Grok Bot, but owns bridging built-in search quota into coding agents to spare paid X API reads—not account-side listen/digest/defense or never-post.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Mentions scheduled X intake as a routine use case, but owns cloud PC rollback, shared-host isolation, and schedule reliability—not the intel-vs-content role split.",
+    "topics/personal-agent-share-and-interbot-chat.md": "Shares “share a bot” wording, but owns gateway public IDs and bot-to-bot social interoperability—not x.ai template account-ops for mentions/digests.",
+    "topics/personal-agent-hype-familiarity-gap.md": "Grok Bot narrative neighbor; owns craze reception and coding-agent familiarity gap—not X account intel/defense templates.",
+    "topics/account-and-asset-security-hygiene.md": "Adjacent to optional auto-block/harassment hygiene, but owns passwords, 2FA, and payment hygiene—not mention watching or Grok Bot templates."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/shao-meng-poteto-tibot.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-intel-defense-not-post.md": "No existing Topic owned Grok Bot / shareable template as X-account intel and defense with an explicit never-auto-post / human-writing bound.",
+      "topics/grok-bot-x-api-substitute.md": "Same product family touching X via Grok Bot, but owns bridging built-in search quota into coding agents to spare paid X API reads—not account-side listen/digest/defense or never-post.",
+      "topics/personal-agent-cloud-env-pitfalls.md": "Mentions scheduled X intake as a routine use case, but owns cloud PC rollback, shared-host isolation, and schedule reliability—not the intel-vs-content role split.",
+      "topics/personal-agent-share-and-interbot-chat.md": "Shares “share a bot” wording, but owns gateway public IDs and bot-to-bot social interoperability—not x.ai template account-ops for mentions/digests.",
+      "topics/personal-agent-hype-familiarity-gap.md": "Grok Bot narrative neighbor; owns craze reception and coding-agent familiarity gap—not X account intel/defense templates.",
+      "topics/account-and-asset-security-hygiene.md": "Adjacent to optional auto-block/harassment hygiene, but owns passwords, 2FA, and payment hygiene—not mention watching or Grok Bot templates."
+    },
+    "notes": "Created Source sources/articles/shao-meng-poteto-tibot.md for https://x.com/shao__meng/status/2115392731333951528. Filed from fetched post body (Chinese summary complete; English poteto quote truncated mid-skips in raw fetch). Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/shao-meng-poteto-tibot.md",
+        "topics/grok-bot-x-intel-defense-not-post.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

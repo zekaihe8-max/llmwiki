@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:09:36.104Z",
+  "url": "https://x.com/xiaomovps/status/2115336041574088906",
+  "slug": "468bf525de9884bf",
+  "content_hash": "bdca051c699dd5919541c8d022adfbbf6d9a0186d5fbea4fe46651372a48221d",
+  "source": {
+    "path": "sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Different axis (known-family channel pricing vs opaque identity probe)—file not edited."
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (platform Auto routing)—file not edited."
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Article is fingerprint-detector confidence bounds on Grok Bot, not score-hype/KOL marketing vs peer quality tests—file not edited."
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "create",
+      "reason": "Created to carry the durable claim that answer-feature fingerprint tools can label opaque backends at high confidence, yet that score is not verified identity or official disclosure."
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (public boards/graders vs product fingerprint classifiers)—file not edited."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/model-fingerprint-confidence-not-confirmation.md": "community-evals owns peer tests vs marketing hype; public-benchmark-quality owns board/grader scrutiny; agent-model-channel and cloud-auto-routing own disclosed-model access/routing—none own behavioral fingerprint labels of opaque bots or detector-confidence ≠ confirmation."
+  },
+  "selection_reasons": {
+    "topics/model-fingerprint-confidence-not-confirmation.md": "No existing Topic owned behavioral fingerprint probes of opaque product backends, or the claim that detector confidence ≠ confirmed real model identity.",
+    "topics/community-evals-vs-score-hype.md": "Nearby community-testing neighborhood (peers’ hands-on vs hype); consulted for overlap. Owns score/KOL marketing vs real use—not opaque-backend fingerprint classifiers—left unchanged.",
+    "topics/public-benchmark-quality-scrutiny.md": "Shares “don’t blindly trust measuring-tool output”; owns public-benchmark/grader quality, not product-backend fingerprint labels—left unchanged.",
+    "topics/agent-model-channel-tradeoffs.md": "Consulted for model-access overlap; owns choosing providers/packages under a known model family, not guessing undisclosed backends—left unchanged.",
+    "topics/cloud-auto-model-routing.md": "Consulted for cross-model routing overlap; owns platform Auto orchestration across disclosed models, not third-party fingerprint ID of opaque bots—left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md",
+    "topics/index.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/model-fingerprint-confidence-not-confirmation.md": "No existing Topic owned behavioral fingerprint probes of opaque product backends, or the claim that detector confidence ≠ confirmed real model identity.",
+      "topics/community-evals-vs-score-hype.md": "Nearby community-testing neighborhood (peers’ hands-on vs hype); consulted for overlap. Owns score/KOL marketing vs real use—not opaque-backend fingerprint classifiers—left unchanged.",
+      "topics/public-benchmark-quality-scrutiny.md": "Shares “don’t blindly trust measuring-tool output”; owns public-benchmark/grader quality, not product-backend fingerprint labels—left unchanged.",
+      "topics/agent-model-channel-tradeoffs.md": "Consulted for model-access overlap; owns choosing providers/packages under a known model family, not guessing undisclosed backends—left unchanged.",
+      "topics/cloud-auto-model-routing.md": "Consulted for cross-model routing overlap; owns platform Auto orchestration across disclosed models, not third-party fingerprint ID of opaque bots—left unchanged."
+    },
+    "notes": "Created Source sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md for https://x.com/xiaomovps/status/2115336041574088906. Filed only claims present in raw/articles/468bf525de9884bf.md (fingerprint test); did not import digest-only “三个视频 Bot” material. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md",
+        "topics/index.md",
+        "topics/model-fingerprint-confidence-not-confirmation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

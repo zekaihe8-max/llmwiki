@@ -1,0 +1,47 @@
+{
+  "topics_consulted": [
+    "topics/model-mascot-merch-harness-coheat.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/model-mascot-merch-harness-coheat.md": "No existing Topic owned model-brand mascot physical merch co-heating with a companion harness, or timeline feed filling once the mascot appears.",
+    "topics/harness-plugin-style-fragmentation.md": "Same DSH heat neighborhood and linked from the Source; owns mismatched plugin styles fragmenting host UI—not mascot merch or feed saturation.",
+    "topics/loose-web-agent-harness-plugins.md": "Same DSH plugin-wave family; owns loose web controls plus public-site AI traces—not brand mascot merch or co-heat with harness image.",
+    "topics/minimal-core-community-extensions.md": "Quoted ecosystem boom overlaps ‘community lively,’ but this page owns Pi slim-core fork/path divergence—not mascot merch or feed fill.",
+    "topics/agent-model-channel-tradeoffs.md": "Quoted ‘DeepSeek is cheap’ is adjacent, but this page owns official/package/router channel tradeoffs for feeding a harness—not mascot or timeline saturation."
+  },
+  "topics": [
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "create",
+      "reason": "Created to carry DeepSeek blue fat-fish metal keycaps co-heating with DSH plus feed saturation after seeing the mascot once."
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH plugin-wave overlap; left unchanged—style collage ownership unchanged; linked from Source/Related only."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH plugin-wave overlap; left unchanged—web-control/public-trace ownership unchanged; linked from Source/Related only."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Consulted for ecosystem-buzz overlap from the quoted plugin post; left unchanged—Pi slim-core paths already owned; linked from Source/Related only."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Consulted for cheap-DeepSeek aside in the quote; left unchanged—channel pricing already owned; linked from Source/Related only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/model-mascot-merch-harness-coheat.md": "harness-plugin-style-fragmentation and loose-web-agent-harness-plugins own DSH plugin UI collage and public-web traces; minimal-core-community-extensions owns Pi slim-core forks; agent-model-channel-tradeoffs owns inference channel choice. None owned model mascot physical merch co-heating with a companion harness or feed saturation once the figure appears."
+  },
+  "notes": "Created Source sources/articles/op7418-deepseek-blue-fat-fish-keycaps.md for https://x.com/op7418/status/2115307286784876767. Did not edit raw/articles or x-digest."
+}

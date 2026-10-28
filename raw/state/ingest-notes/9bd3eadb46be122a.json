@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Owns agentic video-editing capability shape, mid-layers, and product landings; article supplies Grok Bot marketplace video bots and Opus 5.5 routing claim.",
+    "topics/open-source-in-ai-assistant-editing.md": "Owns open/common tool stacks behind assistant surfaces for NL editing; Video Editor names FFmpeg/Whisper/Remotion under a Grok Bot.",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "Same author previously fingerprint-labeled Grok Bot Sonnet 5.5; this article asserts Opus 5.5 routing—durable contradiction for confidence≠confirmation.",
+    "topics/agent-skill-authoring.md": "Article’s “import Bot instead of write Skill” is adjacent to Skills lifecycle; topic owns authoring craft and model-leap obsolescence, not marketplace Bot import—left unchanged.",
+    "topics/personal-agent-share-and-interbot-chat.md": "Consulted for Bot sharing neighborhood; owns gateway public IDs and bot-to-bot social graph, not marketplace video-bot import—left unchanged.",
+    "topics/reuse-before-write.md": "Consulted for “reuse before build” overlap; owns agent code-edit reuse checklists, not Grok Bot marketplace import—left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Integrated Xiaomo’s three importable video bots as a marketplace/distribution landing alongside Claude/Content Studio cuts; noted import-Bot-vs-DIY-Skill and Opus 5.5 attribution."
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "add_evidence",
+      "reason": "Added Video Editor (FFmpeg/Whisper/Remotion behind Grok Bot) as same-direction evidence for open/common tools under an assistant surface."
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "record_contradiction",
+      "reason": "Recorded clash: same author claims Opus 5.5 routing for video/image vs fingerprint detector Sonnet 5.5—neither is official disclosure."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Marketplace Bot import is distribution/try-before-build, not Skill authoring rules or taste-skill training—file not edited."
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (social gateway sharing vs x.ai marketplace video bots)—file not edited."
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (code reuse before agent edits vs importing ready Grok Bots)—file not edited."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created Source sources/articles/xiaomovps-grok-bot-three-video-bots.md for https://x.com/xiaomovps/status/2115314460340748454. Filed claims from raw/articles/9bd3eadb46be122a.md (three video bots + Opus routing + import-Bot ecosystem); did not treat quoted @aehyok Siri reply as Xiaomo claims. Did not edit raw/articles or x-digest."
+}

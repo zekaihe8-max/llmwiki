@@ -1,0 +1,59 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-native-web-search.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "Article’s durable architectural contrast—Pi slim DIY vs DSH everything-as-plugin host composition—belongs here; page already owned slim-core community forks and needed the foil path plus Agent-authored plugins as composition evidence.",
+    "topics/harness-comparison-beyond-tokens.md": "Closing claim that more features ≠ better Agent and that execution efficiency / Token spend still matter continues the same author’s DSH efficiency thread already owned on this page.",
+    "topics/agent-native-web-search.md": "Consulted because DSH wires DeepSeek Search/Fetch; left unchanged—page owns search-API redesign for Agents (body text, authority, latency), not harness settings that enable a lab search product.",
+    "topics/agents-md-token-efficiency.md": "Consulted for minimal-mode /compact mentions and AGENTS.md efficiency overlap; left unchanged—page owns project-instruction rules, not 0.2.1 product changelog for minimal mode.",
+    "topics/harness-plugin-style-fragmentation.md": "Consulted for DSH plugin-wave family; left unchanged—owns host UI collage from mismatched community plugin styles, not first-party Agent-authored plugins or cross-ecosystem compat.",
+    "topics/loose-web-agent-harness-plugins.md": "Consulted for DSH plugin neighborhood; left unchanged—owns loose web controls and public-site AI traces, not platform plugin manager / Search / Pi-foil architecture.",
+    "topics/long-conversation-default-compression.md": "Consulted for long-chat auto-compress and /compact; left unchanged—owns wrapper default compression below model window (Magpie/WorkBuddy), not DSH minimal-mode feature adds."
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Integrated Pi vs DSH everything-as-plugin foil, Agent-authored plugins / Claude Code·Codex compat as composition evidence, updated claim/description, and recorded architectural path juxtaposition under Contradictions."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "add_evidence",
+      "reason": "Added evidence that plugin-ecosystem growth still must clear execution efficiency and Tokens; extended Contradictions continuity note and Related links."
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "DeepSeek Search in DSH is harness wiring of an existing lab search API, not evidence for rebuilding search interfaces for Agents; linked from Source Related only."
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "Minimal-mode image/compress/compact is product changelog, not new AGENTS.md / CLAUDE.md instruction-efficiency claims; linked from Source Related only."
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "No claims about mismatched community plugin UI styles; linked from Source Related only."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "No claims about loose web controls or public AI traces on consumer sites."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "DSH minimal-mode compress is not Magpie-style default compression below model window."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created Source sources/articles/xiaomovps-dsh-021-search-agent-plugins.md for https://x.com/xiaomovps/status/2115102099226935462. Did not edit raw/articles or x-digest. No new Topic—reused minimal-core and harness-comparison."
+}

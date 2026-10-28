@@ -1,0 +1,61 @@
+{
+  "topics_consulted": [
+    "topics/agent-in-inbox.md",
+    "topics/computer-use.md",
+    "topics/agent-clears-deferred-life-todos.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/company-agent-harness.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-in-inbox.md": "No existing Topic owned “agent embedded in the mail client / inbox batch-processing without opening each message”; created to carry that durable product-surface claim.",
+    "topics/computer-use.md": "Adjacent “agent acts on phone,” but owns see–think–act–check GUI drive and cross-app clicks—not in-client Mail Agent on the inbox surface.",
+    "topics/agent-clears-deferred-life-todos.md": "Adjacent handing chores to agents; owns deferred life TODOs (e.g. redeem points), not recruiting/inbox batch Mail Agent.",
+    "topics/tasks-confidently-handed-to-ai.md": "Adjacent trust/handover language; owns community “fully handed over” inventory frame, not agent-in-inbox product landing.",
+    "topics/company-agent-harness.md": "GTM Agent monitors email in company harness; owns five multiplayer harness primitives / Slack work surface—not consumer mail-client Mail Agent.",
+    "topics/mobile-agent-dev-full-chain.md": "Shares phone-side agent work; owns coding dispatch→cloud→PR/CI chain, not inbox batch processing.",
+    "topics/ai-product-self-rec-amplify.md": "0xlangeai amplifies another post, but that Topic owns self-rec + host amplify distribution drives—not Mail Agent capability claims."
+  },
+  "topics": [
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "create",
+      "reason": "Created to own agents living on the mail/inbox surface—NL batch process messages/attachments without hand-opening each mail—with NetEase Mail Agent via 0xlangeai as evidence."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Owns Computer Use mechanics; linked from new Topic for boundary only."
+    },
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "unchanged",
+      "reason": "Owns deferred life TODOs; linked for boundary only."
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "Owns confident-handover inventory; linked for boundary only."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Owns company harness five primitives; email monitoring wording overlap only."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Owns mobile coding full chain; phone surface overlap only."
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "Owns self-rec + host amplify distribution; not this product claim."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/agent-in-inbox.md": "No existing Topic owns embedding an agent in the mail client/inbox for NL batch processing without opening each message; Computer Use, deferred life TODOs, confident-handover inventory, and company harness are adjacent but different cuts."
+  },
+  "notes": "Created Source sources/articles/0xlangeai-netease-mail-agent.md for https://x.com/0xlangeai/status/2115368271587471636. Filed from fetched body only (short amplify of wangdefou Mail Agent case); did not invent linked long-article body. Did not edit raw/articles or x-digest."
+}

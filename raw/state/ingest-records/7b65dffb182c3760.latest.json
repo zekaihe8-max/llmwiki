@@ -1,0 +1,146 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:38:58.510Z",
+  "url": "https://x.com/shao__meng/status/2115345069570212202",
+  "slug": "7b65dffb182c3760",
+  "content_hash": "61721ca3a0eace5576533d28f7bc89853425d39b0a3402dc0092db0a807f4486",
+  "source": {
+    "path": "sources/articles/shao-meng-langchain-content-studio.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/llm-maintained-wiki.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added company taste-Skill playbook, Bitter Lesson delete-patches-after-leap, and learn_from_job as institutionalized distill-from-runs; extended Contradictions keep/drop line."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Added HyperFrames/motion-studio code timelines, spec pipeline, Paper canvas, creative-director leverage; recorded third landing between Alex chat-only and Sabba rich-UI in Contradictions."
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "add_evidence",
+      "reason": "Added AGENTS.md index bloat ~500k tokens → ~200-line cap with Wiki/Skills offload from Content Studio memory layer."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "add_evidence",
+      "reason": "Integrated zombie-UI under-guidance vs hard-coded-component over-guidance Bitter Lesson as harness-side dial calibration."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "add_evidence",
+      "reason": "Integrated Content Studio four-month ops (Slack sandbox, Managed Deep Agents, cost/usage figures, open design-agent) into the five-primitive recipe without rewriting the list."
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "Consulted for human design-gate adjacency; left unchanged—creative-director evidence folded into skill-authoring and calibrating-guidance instead."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "add_evidence",
+      "reason": "Framed async media subtasks as reserved parallel/long-job case under main-agent orchestration; noted misread-as-default-multi-agent tension in Contradictions."
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "Consulted for Wiki wording overlap; left unchanged—claims stay on LLM-maintained compiled wiki schema, not product brand/reference wiki."
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Consulted for multiagent infra adjacency; left unchanged—owns four platform gaps at thousand-agent scale, not Content Studio recipe evidence."
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Consulted for open-source editing overlap; left unchanged—owns assistant+editor product pattern, not company Design Agent harness."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "Chase already names Content Studio as a company-harness example; this article is the four-month landing of that same agent (Slack, sandbox, Managed Deep Agents, memory)—must integrate evidence.",
+    "topics/agent-skill-authoring.md": "Owns encoding taste/style into Skills and deleting capability-patch layers after model leaps; article’s taste skills + Bitter Lesson + learn_from_job fit directly.",
+    "topics/agentic-video-editing.md": "Owns editing-as-code, taste shift, and mid-layer tension; Content Studio’s HyperFrames/motion-studio/code timelines and creative-director role extend that cut.",
+    "topics/agents-md-token-efficiency.md": "Owns lean AGENTS.md / project-instruction token hygiene; article’s AGENTS.md index ~500k→~200 lines is direct evidence.",
+    "topics/fold-subagents-into-main-loop.md": "Owns main-loop default vs reserved parallel/long-job sub-agents; article’s async subtasks for multi-hour media need integrated scope + contradiction note.",
+    "topics/calibrating-ai-guidance.md": "Owns over-/under-guidance dial; zombie UI under-guidance vs ~115 hard-coded over-guidance Bitter Lesson are product-harness calibrations of that dial.",
+    "topics/llm-maintained-wiki.md": "Article uses a product brand/reference Wiki layer; this Topic owns Karpathy-style compiled knowledge wiki over immutable sources—adjacent word, different cut.",
+    "topics/divergent-tasks-human-design-gate.md": "Adjacent human design gate vs agent implement; article’s creative-director review is related but already carried under taste/skill and calibrating-guidance updates.",
+    "topics/open-source-in-ai-assistant-editing.md": "Owns plugging open-source editors into assistants for one-sentence cuts; design-agent open harness is company Slack Design Agent, not that product pattern.",
+    "topics/multiagent-infra-four-problems.md": "Owns thousand-agent platform gaps (scheduling/authz/sandbox/observability); article is one Content Studio production harness, not the four-gap agenda."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/shao-meng-langchain-content-studio.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/company-agent-harness.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-video-editing.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/llm-maintained-wiki.md",
+      "topics/divergent-tasks-human-design-gate.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "Chase already names Content Studio as a company-harness example; this article is the four-month landing of that same agent (Slack, sandbox, Managed Deep Agents, memory)—must integrate evidence.",
+      "topics/agent-skill-authoring.md": "Owns encoding taste/style into Skills and deleting capability-patch layers after model leaps; article’s taste skills + Bitter Lesson + learn_from_job fit directly.",
+      "topics/agentic-video-editing.md": "Owns editing-as-code, taste shift, and mid-layer tension; Content Studio’s HyperFrames/motion-studio/code timelines and creative-director role extend that cut.",
+      "topics/agents-md-token-efficiency.md": "Owns lean AGENTS.md / project-instruction token hygiene; article’s AGENTS.md index ~500k→~200 lines is direct evidence.",
+      "topics/fold-subagents-into-main-loop.md": "Owns main-loop default vs reserved parallel/long-job sub-agents; article’s async subtasks for multi-hour media need integrated scope + contradiction note.",
+      "topics/calibrating-ai-guidance.md": "Owns over-/under-guidance dial; zombie UI under-guidance vs ~115 hard-coded over-guidance Bitter Lesson are product-harness calibrations of that dial.",
+      "topics/llm-maintained-wiki.md": "Article uses a product brand/reference Wiki layer; this Topic owns Karpathy-style compiled knowledge wiki over immutable sources—adjacent word, different cut.",
+      "topics/divergent-tasks-human-design-gate.md": "Adjacent human design gate vs agent implement; article’s creative-director review is related but already carried under taste/skill and calibrating-guidance updates.",
+      "topics/open-source-in-ai-assistant-editing.md": "Owns plugging open-source editors into assistants for one-sentence cuts; design-agent open harness is company Slack Design Agent, not that product pattern.",
+      "topics/multiagent-infra-four-problems.md": "Owns thousand-agent platform gaps (scheduling/authz/sandbox/observability); article is one Content Studio production harness, not the four-gap agenda."
+    },
+    "notes": "Created Source sources/articles/shao-meng-langchain-content-studio.md for https://x.com/shao__meng/status/2115345069570212202. Filed from fetched article body only; did not import digest extras as article claims. No new Topic—existing pages own harness primitives, taste Skills, agentic video, AGENTS.md efficiency, fold-subagents, and guidance calibration. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/shao-meng-langchain-content-studio.md",
+        "topics/agent-skill-authoring.md",
+        "topics/agentic-video-editing.md",
+        "topics/agents-md-token-efficiency.md",
+        "topics/calibrating-ai-guidance.md",
+        "topics/company-agent-harness.md",
+        "topics/fold-subagents-into-main-loop.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

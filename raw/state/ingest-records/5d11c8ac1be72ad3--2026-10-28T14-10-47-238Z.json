@@ -1,0 +1,113 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:10:47.238Z",
+  "url": "https://x.com/oran_ge/status/2115223157464506813",
+  "slug": "5d11c8ac1be72ad3",
+  "content_hash": "7d9729fbf42d9422ef8a5e0ac1ca2e498d49aa26d3d37b7f03db4ae91e6f69ea",
+  "source": {
+    "path": "sources/articles/oran-ge-anthropic-acquires-mithril.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-facing-fullstack-repo-map.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Consulted for small-team software throughput overlap; left unchanged—engineering velocity claims already owned; Related link only."
+    },
+    {
+      "path": "topics/ai-facing-fullstack-repo-map.md",
+      "action": "unchanged",
+      "reason": "Consulted for one-person + agent software map overlap; left unchanged—repo-map claims already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Consulted for AI-native founding overlap; left unchanged—three-path company taxonomy already owned; Related link from Source/new Topic only."
+    },
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "create",
+      "reason": "Created to carry AI-pharma OPC + outsourced-lab shape, Anthropic acquiring Mithril progress claims, H1 2026 deal-pace foil, and AI-pharma market/M&A narrative from Orange AI’s post."
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "Consulted for timeline/horizon wording overlap; left unchanged—measured work-duration curve already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "Consulted for personal-leverage overlap; left unchanged—hiring/hunger claims already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "Consulted for ambition/frontier wording overlap; left unchanged—usage-loop claims already owned; Related link from new Topic only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "ai-native-companies owns founding vs remake paths; agent-scaled-engineering and ai-facing-fullstack-repo-map own software one-person/small-team throughput; hunger-beats-tenure, raise-ambition-until-ai-frontier, and ai-task-horizon-growth own hiring, ambition practice, and measured software horizons. None owned Anthropic acquiring a Claude+external-labs pharma OPC (Mithril), idea-to-mouse timelines, or AI-pharma market/M&A narrative as a durable Topic."
+  },
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Closest founding-path page (AI-native vs incumbent remake), but owns Paul Graham’s three company paths—not OPC + Claude + outsourced labs for drug discovery, nor Anthropic bio/devtools M&A.",
+    "topics/agent-scaled-engineering.md": "Owns small-team / one-or-two-person throughput when agents write software code; evidence here is pharma OPC acquisition and preclinical timeline, not SDLC velocity recipes.",
+    "topics/ai-facing-fullstack-repo-map.md": "Owns one builder + shared agent context across software repos; not drug discovery, external wet labs, or lab acquisitions.",
+    "topics/hunger-beats-tenure.md": "Owns hiring-signal / hunger vs tenure in coding interviews; not AI-pharma OPC or Anthropic buying Mithril.",
+    "topics/raise-ambition-until-ai-frontier.md": "Owns personal raise-ambition usage loops; not M&A or clinical-preclinical company cases.",
+    "topics/ai-task-horizon-growth.md": "Owns measured software-style human-work-duration horizons at a success rate; not an 18-month idea-to-mouse acquisition narrative.",
+    "topics/ai-pharma-opc-lab-acquisition.md": "No existing Topic owned frontier-lab acquisition of ultra-lean AI-pharma OPCs (model + outsourced labs), Anthropic/Mithril deal shape, or AI-pharma-vs-coding market narrative."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/oran-ge-anthropic-acquires-mithril.md",
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-facing-fullstack-repo-map.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/raise-ambition-until-ai-frontier.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/ai-pharma-opc-lab-acquisition.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Closest founding-path page (AI-native vs incumbent remake), but owns Paul Graham’s three company paths—not OPC + Claude + outsourced labs for drug discovery, nor Anthropic bio/devtools M&A.",
+      "topics/agent-scaled-engineering.md": "Owns small-team / one-or-two-person throughput when agents write software code; evidence here is pharma OPC acquisition and preclinical timeline, not SDLC velocity recipes.",
+      "topics/ai-facing-fullstack-repo-map.md": "Owns one builder + shared agent context across software repos; not drug discovery, external wet labs, or lab acquisitions.",
+      "topics/hunger-beats-tenure.md": "Owns hiring-signal / hunger vs tenure in coding interviews; not AI-pharma OPC or Anthropic buying Mithril.",
+      "topics/raise-ambition-until-ai-frontier.md": "Owns personal raise-ambition usage loops; not M&A or clinical-preclinical company cases.",
+      "topics/ai-task-horizon-growth.md": "Owns measured software-style human-work-duration horizons at a success rate; not an 18-month idea-to-mouse acquisition narrative.",
+      "topics/ai-pharma-opc-lab-acquisition.md": "No existing Topic owned frontier-lab acquisition of ultra-lean AI-pharma OPCs (model + outsourced labs), Anthropic/Mithril deal shape, or AI-pharma-vs-coding market narrative."
+    },
+    "notes": "Created Source sources/articles/oran-ge-anthropic-acquires-mithril.md for https://x.com/oran_ge/status/2115223157464506813. Did not edit raw/articles or x-digest. Digest also mentions a follow-up pharma post (2115228282681770237); that URL is out of scope for this Source.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/oran-ge-anthropic-acquires-mithril.md",
+        "topics/ai-pharma-opc-lab-acquisition.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:25:50.930Z",
+  "url": "https://x.com/wquguru/status/2115293894091198638",
+  "slug": "cecd678229c47fab",
+  "content_hash": "69febabe80ce29a1c22f79b6d3ac23c6898ce82dc4ab1f26835728b4f42f3e1b",
+  "source": {
+    "path": "sources/articles/wquguru-aikido-arena-flash-near-astra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Consulted for same-author channel overlap from the prior DSH post; left unchanged—no ZenMux/provider claim here."
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Consulted for real-eval vs hype adjacency; left unchanged—page owns peer tests and KOL/score-hype backlash, not this CVE-board pointer."
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "add_evidence",
+      "reason": "Added same-author CVE-board side evidence for Flash 1017 on the cyber shortlist without rewriting the little-jailbreak / Claude-avoidance / ZenMux main claim."
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "Consulted for cost framing; left unchanged—owns lab margin→serving-cost inference, not Flash vs Astra user cost ratios."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "add_evidence",
+      "reason": "Integrated Flash ≈ Astra at ~1/100 cost on a real-CVE (Aikido Arena) board as Flash-tier cost–capability evidence; kept Pro/KOL/AA debates and noted board not independently verified."
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Consulted because a public board is cited; left unchanged—no grader-quality or run-it-yourself scrutiny claims in the article."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "Owns Flash vs Pro/flagship cost–capability and whether Flash is the steadier path; the post’s DeepSeek V4.1 Flash 1017 ≈ GPT Astra at ~1/100 cost on a CVE board is direct Flash-tier evidence.",
+    "topics/cyber-research-models-without-jailbreak.md": "Same author already shortlists DeepSeek V4.1 Flash 1017 for RE/pentest; the CVE-board cost–capability claim is side evidence for that Flash pick without changing the little-jailbreak axis.",
+    "topics/community-evals-vs-score-hype.md": "Adjacent neighborhood (real tests vs score hype), but owns peer/KOL-marketing backlash—not third-party CVE-board cost claims.",
+    "topics/public-benchmark-quality-scrutiny.md": "Owns scrutinizing public-benchmark/grader quality before trust; the post cites Aikido Arena without discussing grader quality or Epoch-style scrutiny.",
+    "topics/agent-model-channel-tradeoffs.md": "Same author’s prior post used ZenMux channel evidence here; this article has no provider/aggregator channel claim.",
+    "topics/lab-inference-serving-cost-efficiency.md": "Cost-adjacent but owns back-calculating lab internal serving cost from gross margins—not user-facing Flash vs Astra price ratios on a CVE board."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/wquguru-aikido-arena-flash-near-astra.md",
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/index.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cyber-research-models-without-jailbreak.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "Owns Flash vs Pro/flagship cost–capability and whether Flash is the steadier path; the post’s DeepSeek V4.1 Flash 1017 ≈ GPT Astra at ~1/100 cost on a CVE board is direct Flash-tier evidence.",
+      "topics/cyber-research-models-without-jailbreak.md": "Same author already shortlists DeepSeek V4.1 Flash 1017 for RE/pentest; the CVE-board cost–capability claim is side evidence for that Flash pick without changing the little-jailbreak axis.",
+      "topics/community-evals-vs-score-hype.md": "Adjacent neighborhood (real tests vs score hype), but owns peer/KOL-marketing backlash—not third-party CVE-board cost claims.",
+      "topics/public-benchmark-quality-scrutiny.md": "Owns scrutinizing public-benchmark/grader quality before trust; the post cites Aikido Arena without discussing grader quality or Epoch-style scrutiny.",
+      "topics/agent-model-channel-tradeoffs.md": "Same author’s prior post used ZenMux channel evidence here; this article has no provider/aggregator channel claim.",
+      "topics/lab-inference-serving-cost-efficiency.md": "Cost-adjacent but owns back-calculating lab internal serving cost from gross margins—not user-facing Flash vs Astra price ratios on a CVE board."
+    },
+    "notes": "Created Source sources/articles/wquguru-aikido-arena-flash-near-astra.md for https://x.com/wquguru/status/2115293894091198638. Did not invent ranks/scores from the embedded photo. Did not edit raw/articles or x-digest. No new Topic—reused Pro vs Flash and cyber-research little-jailbreak pages.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/wquguru-aikido-arena-flash-near-astra.md",
+        "topics/cyber-research-models-without-jailbreak.md",
+        "topics/index.md",
+        "topics/pro-vs-flash-model-strategy.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/china-special-edition-preinstalls.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/design-taste-led-linux-desktop-trial.md"
+  ],
+  "selection_reasons": {
+    "topics/china-special-edition-preinstalls.md": "Same Omarchy name and Ding authorship; owns China special-edition preinstall framing, not design-taste foil or spare-PC Pond trial.",
+    "topics/ux-dx-and-ax.md": "Shares taste/experience wording; owns AGENTS.md UX/DX/AX co-lift and drop-prop-copy rules, not Linux desktop demo/site recommend signals.",
+    "topics/ai-assisted-os-port-wave.md": "Shares “try a system” talk; owns AI crack-and-port wave across consumer OSes, not officially opened design-led Linux desktops.",
+    "topics/design-taste-led-linux-desktop-trial.md": "No existing page owned private-test→public-open Linux desktop recommends keyed on demo/site design taste vs Omarchy plus spare-PC trial surface; created to carry that concept."
+  },
+  "topics": [
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "create",
+      "reason": "Opened new Topic for design-taste-led Linux desktop trial (Pond vs Omarchy foil, spare PC); no existing Topic owned that cut."
+    },
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "Consulted for Omarchy overlap; left unchanged—preinstall China-edition claim already owned; Pond evidence and Omarchy-as-taste-foil belong on the new Topic (with contradiction note there)."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for taste/UX adjacency; left unchanged—AGENTS.md UX/DX/AX rules, not Linux distro recommend signals."
+    },
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "Consulted for OS-try adjacency; left unchanged—crack/port wave, not official Pond open + design foil."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/design-taste-led-linux-desktop-trial.md": "No existing Topic owns design-taste-led Linux desktop trials (demo/site vs Omarchy foil after private test, spare-PC try surface). Adjacent pages own China preinstall editions, AGENTS.md UX/DX/AX, or AI OS crack/port—different cuts."
+  },
+  "notes": "Created Source sources/articles/dingyi-pond-linux-open.md for https://x.com/dingyi/status/2115252195637797192. Did not edit raw/articles or x-digest. Did not cite digest summary as article body."
+}

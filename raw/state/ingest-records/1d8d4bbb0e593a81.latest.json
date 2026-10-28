@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:14:19.359Z",
+  "url": "https://x.com/dotey/status/2115286764294214011",
+  "slug": "1d8d4bbb0e593a81",
+  "content_hash": "e9a9bd50e8b1cae60db121aedb7831c1624d9aee4112d638cb6312839f2d389b",
+  "source": {
+    "path": "sources/articles/dotey-opus-55-serving-cost.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Consulted for channel/pricing overlap; left unchanged—buyer channel choice already owned here; lab COGS narrative filed on the new Topic."
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "Consulted for serving-side overlap; left unchanged—throughput comparison already owned; cost/margin axis filed on the new Topic."
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "create",
+      "reason": "Created to carry high-margin → internal Opus serving cost (~$0.6/$3.0) → efficiency-underestimated claim, with scope bounds vs subscription worth and channel choice."
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "Consulted for Anthropic S-1/IPO adjacency; left unchanged—talent-exit motives, not financial serving-cost claims."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Consulted for price/worth overlap; left unchanged—new claims are seller-side serving cost, not buyer subscription value (linked from Source/Related only)."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "premium-ai-subscription-value owns buyer worth-it; agent-model-channel-tradeoffs owns buyer channels; deepseek-inference-vs-aggregators owns serving throughput; pre-ipo-talent-departure-motives owns IPO exit signaling. None owned high gross margin → flagship internal serving cost vs list price / efficiency underestimation."
+  },
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "No existing Topic owned the durable claim that high lab gross margins back out flagship internal serving costs far below list prices and that outsiders underestimate big-lab inference efficiency.",
+    "topics/premium-ai-subscription-value.md": "Adjacent buyer-side pricing/worth-it narrative; consulted because $0.6/$3.0 looks like a price claim, but this page owns subscription value and stack trimming—not seller-side COGS from S-1 margin.",
+    "topics/agent-model-channel-tradeoffs.md": "Adjacent pricing/channel page for agents; owns which API/package/router to buy—not lab-internal serving cost inferred from gross margin.",
+    "topics/deepseek-inference-vs-aggregators.md": "Same serving-side neighborhood (lab inference); owns throughput (daily tokens vs aggregators), not cost efficiency or gross-margin back-out.",
+    "topics/pre-ipo-talent-departure-motives.md": "S-1/IPO window is shared context with Anthropic filings, but this page owns clustered senior-exit motive questions—not financial margin or serving-cost figures."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-opus-55-serving-cost.md",
+    "sources/articles/index.md",
+    "topics/index.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "No existing Topic owned the durable claim that high lab gross margins back out flagship internal serving costs far below list prices and that outsiders underestimate big-lab inference efficiency.",
+      "topics/premium-ai-subscription-value.md": "Adjacent buyer-side pricing/worth-it narrative; consulted because $0.6/$3.0 looks like a price claim, but this page owns subscription value and stack trimming—not seller-side COGS from S-1 margin.",
+      "topics/agent-model-channel-tradeoffs.md": "Adjacent pricing/channel page for agents; owns which API/package/router to buy—not lab-internal serving cost inferred from gross margin.",
+      "topics/deepseek-inference-vs-aggregators.md": "Same serving-side neighborhood (lab inference); owns throughput (daily tokens vs aggregators), not cost efficiency or gross-margin back-out.",
+      "topics/pre-ipo-talent-departure-motives.md": "S-1/IPO window is shared context with Anthropic filings, but this page owns clustered senior-exit motive questions—not financial margin or serving-cost figures."
+    },
+    "notes": "Created Source sources/articles/dotey-opus-55-serving-cost.md for https://x.com/dotey/status/2115286764294214011. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-opus-55-serving-cost.md",
+        "sources/articles/index.md",
+        "topics/index.md",
+        "topics/lab-inference-serving-cost-efficiency.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

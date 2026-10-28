@@ -9,9 +9,12 @@ sources:
   - id: fringjason-grok-bot-x-api-bridge
     resource: https://x.com/FringJason/status/2114280837810458972
     title: FringJason on Grok Bot X search bridging Codex off paid X API
+  - id: xiaomovps-grok-bot-five-mechanisms
+    resource: https://x.com/xiaomovps/status/2115378617614262327
+    title: Xiaomo on five Grok Bot mechanism truths
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T21:09:00+08:00
+  at: 2026-10-28T20:51:11+08:00
 ---
 
 # 用 Grok Bot 内置额度桥接 Agent 查 X
@@ -28,6 +31,10 @@ When a coding agent already sits deep in a Codex-like session but still needs fi
 
 [FringJason on using Grok Bot built-in X search to spare Codex X API cost](../sources/articles/fringjason-grok-bot-x-api-bridge.md) relays Ace (@Bytec99)’s working path and choice guidance: ordinary reads ~$0.005/post, replacing ~1000/day framed as ~$150/month saved, with billing by read volume not search count; Grok Bot side ~1000 built-in tool calls/day and 30/min. Both bridges—Webhook + Cloudflare Worker + D1 (idempotency, task IDs, failure retry, result checks) and Cursor BDK + MCP—are exemplified in [grok-x-bridge-example](https://github.com/bytec-ai/grok-x-bridge-example); default personal path is BDK first, Webhook when already on Workers, no standing process, or Bot-pushed business callbacks. One measured CN+EN search took ~162s to store, 6 posts, 3 searches.[^fringjason-grok-bot-x-api-bridge] Post: <https://x.com/FringJason/status/2114280837810458972>.
 
+[小墨谈 Grok Bot 五个机制真相](../sources/articles/xiaomovps-grok-bot-five-mechanisms.md) 从机制侧复核同一额度量级，并补细节：每分钟 30、每天 1000、一次最多返回 25 条、按固定窗口重置；量大时可开多账号。本页桥接主张不变，只把额度边界写得更具体；云电脑休眠、共机与备份等非 X 检索机制归 [个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md)。[^xiaomovps-grok-bot-five-mechanisms] 原帖 <https://x.com/xiaomovps/status/2115378617614262327>。
+
+[Xiaomo on five Grok Bot mechanism truths](../sources/articles/xiaomovps-grok-bot-five-mechanisms.md) rechecks the same quota order of magnitude from the mechanism side and adds detail: 30/min, 1000/day, at most 25 results per call, fixed-window reset; high volume can use multiple accounts. This page’s bridge claim is unchanged—only the quota bound is more concrete; non–X-search cloud mechanisms (sleep, shared host, backup) live in [Personal-agent cloud env: backup, isolation, and schedule checks](./personal-agent-cloud-env-pitfalls.md).[^xiaomovps-grok-bot-five-mechanisms] Post: <https://x.com/xiaomovps/status/2115378617614262327>.
+
 适用边界：这是一线桥接与成本账分享，不是 X 或 Grok 的官方计价承诺；额度、单价与产品能力会变。与 [面向 Agent 的联网搜索重做](./agent-native-web-search.md) 同属「Agent 要拿外部信息」，但那页讲通用网页搜索接口形态（正文直出、权威信源、多轮延迟），本页讲用个人 Agent 内置 X 额度替代付费 X API 的桥接与选型。与 [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md) 同属 Grok Bot 叙事，但那页讲热潮体感与手机 session 便利，本页讲把 Bot 当 X 数据工具挂回 Codex。与 [可编程边缘计算](./programmable-edge-compute.md) 仅在 Webhook 方案触及 Worker/D1，并不推进边缘可编程主张，故不并入该页。
 
 Scope: this is a frontline bridge and cost-math share, not an official X or Grok pricing commitment; quotas, unit prices, and product features change. It shares “Agents need external information” with [Agent-native web search rebuild](./agent-native-web-search.md), but that page is general web-search API shape (full body, authority, multi-round latency); this page is bridging personal-agent built-in X quota as a paid X API substitute and how to choose the wire. It shares the Grok Bot narrative with [Personal-agent hype vs coding-agent familiarity](./personal-agent-hype-familiarity-gap.md), but that page is craze reception and mobile session convenience; this page is hanging the Bot as an X-data tool back onto Codex. It only touches Workers/D1 in the Webhook path and does not advance programmable-edge claims, so it stays out of [Programmable edge compute](./programmable-edge-compute.md).
@@ -39,8 +46,11 @@ Scope: this is a frontline bridge and cost-math share, not an official X or Grok
 ## 相关 / Related
 
 - Source: [赵老师Jason谈用 Grok Bot 内置 X 检索替 Codex 省 X API](../sources/articles/fringjason-grok-bot-x-api-bridge.md)
+- Source: [小墨谈 Grok Bot 五个机制真相](../sources/articles/xiaomovps-grok-bot-five-mechanisms.md)
 - Topic: [面向 Agent 的联网搜索重做](./agent-native-web-search.md)
+- Topic: [个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md)
 - Topic: [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md)
 - Topic: [可编程边缘计算](./programmable-edge-compute.md)
 
 [^fringjason-grok-bot-x-api-bridge]: FringJason on Grok Bot X search bridging Codex off paid X API
+[^xiaomovps-grok-bot-five-mechanisms]: Xiaomo on five Grok Bot mechanism truths

@@ -1,0 +1,97 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:41:34.800Z",
+  "url": "https://x.com/turingou/status/2115388647805722809",
+  "slug": "12031795ebbf3357",
+  "content_hash": "7889a0341337495431d4fd08be55d9dcda146e4ffeb9bf5ce32c9aa2e5fde5b3",
+  "source": {
+    "path": "sources/articles/turingou-claude-clear-credit-card-points.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-clears-deferred-life-todos.md",
+    "topics/computer-use.md",
+    "topics/agent-dedicated-phone-number.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Consulted for credit-card/security adjacency; left unchanged—security hygiene already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "create",
+      "reason": "Created to carry the deferred life-TODO claim: agents digest noted-but-lazy personal admin such as redeeming unused credit-card points via phone Computer Use—evidence from Turingou Claude Code post."
+    },
+    {
+      "path": "topics/agent-dedicated-phone-number.md",
+      "action": "unchanged",
+      "reason": "Consulted for 积分 overlap; left unchanged—signup eSIM identity already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "Consulted for same-author device-control overlap; left unchanged—home platform control already owned; not primary Related."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Added phone-ops evidence: Claude Code on online everyday phone redeeming domestic credit-card points; broadened description to cover deferred life ops alongside Flighty migration."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/agent-clears-deferred-life-todos.md": "computer-use owns the phone click/migration mechanics; agent-dedicated-phone-number owns Agent eSIM for signup; account-and-asset-security-hygiene owns security checklists; agent-home-platform-control owns Apple Home device menus. None owned agents clearing long-deferred personal life TODOs (lazy admin backlog) as the durable claim."
+  },
+  "selection_reasons": {
+    "topics/computer-use.md": "Same author phone Computer Use path (Claude Code drives online phone)—owns see–think–act–check and phone ops evidence; updated with points-redemption case.",
+    "topics/agent-dedicated-phone-number.md": "Shares 积分 wording, but owns dedicated Agent eSIM/number for registering miscellaneous accounts/points—not redeeming the human’s unused credit-card points.",
+    "topics/account-and-asset-security-hygiene.md": "Shares credit-card wording, but owns passwords, limits, trusted services—not life-admin redemption of deferred TODOs.",
+    "topics/agent-home-platform-control.md": "Same author Agent-controls-device narrative, but owns home-platform (Apple Home) device menus—not phone credit-card points / TODO clearing.",
+    "topics/agent-clears-deferred-life-todos.md": "No existing Topic owned the claim that agents clear long-deferred life TODOs (noted but too lazy to do), exemplified by credit-card points redemption."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/turingou-claude-clear-credit-card-points.md",
+    "topics/agent-clears-deferred-life-todos.md",
+    "topics/computer-use.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-dedicated-phone-number.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/agent-home-platform-control.md",
+      "topics/agent-clears-deferred-life-todos.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "Same author phone Computer Use path (Claude Code drives online phone)—owns see–think–act–check and phone ops evidence; updated with points-redemption case.",
+      "topics/agent-dedicated-phone-number.md": "Shares 积分 wording, but owns dedicated Agent eSIM/number for registering miscellaneous accounts/points—not redeeming the human’s unused credit-card points.",
+      "topics/account-and-asset-security-hygiene.md": "Shares credit-card wording, but owns passwords, limits, trusted services—not life-admin redemption of deferred TODOs.",
+      "topics/agent-home-platform-control.md": "Same author Agent-controls-device narrative, but owns home-platform (Apple Home) device menus—not phone credit-card points / TODO clearing.",
+      "topics/agent-clears-deferred-life-todos.md": "No existing Topic owned the claim that agents clear long-deferred life TODOs (noted but too lazy to do), exemplified by credit-card points redemption."
+    },
+    "notes": "Created Source sources/articles/turingou-claude-clear-credit-card-points.md for https://x.com/turingou/status/2115388647805722809. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/turingou-claude-clear-credit-card-points.md",
+        "topics/agent-clears-deferred-life-todos.md",
+        "topics/computer-use.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

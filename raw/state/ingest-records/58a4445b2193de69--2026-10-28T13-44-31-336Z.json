@@ -1,0 +1,86 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:44:31.336Z",
+  "url": "https://x.com/turingou/status/2115389980780708302",
+  "slug": "58a4445b2193de69",
+  "content_hash": "b7b075125a6b8c29eb6abd2369ede98079480f6a7cfe494e8c7ab8b3cf692cbf",
+  "source": {
+    "path": "sources/articles/turingou-drop-line-voice-input.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/pure-speech-full-duplex.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "Consulted for transcription adjacency; left unchanged—podcast close-read claim already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "Consulted for voice/speech overlap; left unchanged—S2S emotion stack already owned; Related link from new Topic/Source only."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for AX adjacency; left unchanged—AGENTS.md UX/DX/AX rules already owned; Related link from new Topic only."
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "create",
+      "reason": "Created to carry oral-transcript vs document-polish tradeoff for voice input into coding Agents—evidence from Turingou Drop Line vs Typeless post."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "pure-speech-full-duplex owns S2S emotion and avoiding ASR→LLM→TTS; podcast-ai-fine-transcription-close-reads owns podcast→human close reads; ux-dx-and-ax owns UI/product AX rules in AGENTS.md. None owned the durable claim that voice-input products trade recognition speed/accuracy against document-like polish that coding Agents understand more easily than raw oral transcript."
+  },
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "Shares “voice/speech” wording; owns speech-to-speech full-duplex and audible emotion vs ASR→LLM→TTS crush—not dictation polish for coding-agent text input.",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "Shares transcription wording; owns long-podcast fine transcription for human close reading—not developer voice input shape for Agents.",
+    "topics/ux-dx-and-ax.md": "Shares agent-experience adjacency; owns UX/DX/AX product rules in AGENTS.md—not oral vs document polish on voice→text.",
+    "topics/voice-input-oral-vs-document-for-agents.md": "No existing Topic owned the claim that for coding Agents, recognition speed/accuracy ≠ document-polished input shape; oral transcript vs Typeless-style polish is the durable tradeoff."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/turingou-drop-line-voice-input.md",
+    "topics/index.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pure-speech-full-duplex.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/pure-speech-full-duplex.md": "Shares “voice/speech” wording; owns speech-to-speech full-duplex and audible emotion vs ASR→LLM→TTS crush—not dictation polish for coding-agent text input.",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "Shares transcription wording; owns long-podcast fine transcription for human close reading—not developer voice input shape for Agents.",
+      "topics/ux-dx-and-ax.md": "Shares agent-experience adjacency; owns UX/DX/AX product rules in AGENTS.md—not oral vs document polish on voice→text.",
+      "topics/voice-input-oral-vs-document-for-agents.md": "No existing Topic owned the claim that for coding Agents, recognition speed/accuracy ≠ document-polished input shape; oral transcript vs Typeless-style polish is the durable tradeoff."
+    },
+    "notes": "Created Source sources/articles/turingou-drop-line-voice-input.md for https://x.com/turingou/status/2115389980780708302. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/turingou-drop-line-voice-input.md",
+        "topics/index.md",
+        "topics/voice-input-oral-vs-document-for-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

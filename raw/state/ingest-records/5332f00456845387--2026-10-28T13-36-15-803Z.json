@@ -1,0 +1,91 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:36:15.803Z",
+  "url": "https://x.com/yetone/status/2115407804047696373",
+  "slug": "5332f00456845387",
+  "content_hash": "b7e61802113dba9c0e86f1b86c8f17798875a49a6751e292f35b8ca30c7b7f19",
+  "source": {
+    "path": "sources/articles/yetone-magpie-full-pluginization.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "Owns rounds/cost/quality metering of harness runs; article is an architecture-state claim, not a metering comparison."
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "Owns host UI fragmentation from mismatched plugin styles; article claims Magpie is fully pluginized without style-mismatch evidence."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Owns consumer-web loose controls + public AI traces; Magpie post is in-product pluginization, not web-control conditions."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Integrated Magpie author claim of full pluginization (with screenshot capability hint) as a second product on the plugin-composed host path beside DSH; noted Magpie upside vs DSH stability-cost emphasis in Contradictions."
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "Owns unified skills/MCP/hooks resource library, not product-wide pluginization enabling in-app demos; left for Related cross-link only."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "Owns slim-core vs plugin-composed host (“everything as a plugin”); Magpie’s full pluginization is another product on that host path and must add evidence.",
+    "topics/unified-agent-resource-library.md": "Same Magpie author line and adjacent Magpie resource-library Source; checked whether pluginization belongs there vs the plugin-host architecture page.",
+    "topics/harness-plugin-style-fragmentation.md": "Owns UI collage from mismatched community plugin styles; consulted for plugin-host adjacency.",
+    "topics/loose-web-agent-harness-plugins.md": "Owns harness plugins under loose consumer-web controls; consulted for plugin-family adjacency.",
+    "topics/harness-comparison-beyond-tokens.md": "Mentions plugin-ecosystem expansion vs metering; consulted whether Magpie pluginization should land as a harness-comparison claim."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/yetone-magpie-full-pluginization.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "Owns slim-core vs plugin-composed host (“everything as a plugin”); Magpie’s full pluginization is another product on that host path and must add evidence.",
+      "topics/unified-agent-resource-library.md": "Same Magpie author line and adjacent Magpie resource-library Source; checked whether pluginization belongs there vs the plugin-host architecture page.",
+      "topics/harness-plugin-style-fragmentation.md": "Owns UI collage from mismatched community plugin styles; consulted for plugin-host adjacency.",
+      "topics/loose-web-agent-harness-plugins.md": "Owns harness plugins under loose consumer-web controls; consulted for plugin-family adjacency.",
+      "topics/harness-comparison-beyond-tokens.md": "Mentions plugin-ecosystem expansion vs metering; consulted whether Magpie pluginization should land as a harness-comparison claim."
+    },
+    "notes": "Created Source sources/articles/yetone-magpie-full-pluginization.md for https://x.com/yetone/status/2115407804047696373. Filed from fetched article body only; did not treat digest summary as article claims; screenshot contents not invented. No new Topic—minimal-core already owns plugin-composed host. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/yetone-magpie-full-pluginization.md",
+        "topics/minimal-core-community-extensions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

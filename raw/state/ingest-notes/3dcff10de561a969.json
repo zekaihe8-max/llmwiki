@@ -1,0 +1,26 @@
+{
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/geo-personal-website-first-step.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "Closest existing page on AI/Agents meeting web content—owns search-API rebuild when Agents are primary users (full body, authority gates, latency), not publisher-side personal-site GEO or Web2.0-style friend-link exchange.",
+    "topics/geo-personal-website-first-step.md": "No existing Topic owned AI-era GEO as starting from personal websites so models know you, plus peer link-exchange framed as Web2.0 GEO; needed a home for Orange AI’s short post claims."
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "create",
+      "reason": "Created to carry GEO first-step = personal website + peer friend-link exchange (Web2.0 GEO joke) from Orange AI’s post; contrasted with agent-native search-API rebuild without merging pages."
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "Consulted for AI/Agent–web overlap; left unchanged—page already owns search interface shape for Agents, not personal-site GEO habit; Related link from Source/new Topic only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/geo-personal-website-first-step.md": "agent-native-web-search owns Agent-facing search API requirements after AI traffic flip; no Topic owned publisher-side GEO first step (personal site so AIs know you) or Web2.0 friend-link mutual exchange as GEO practice."
+  },
+  "notes": "Created Source sources/articles/oran-ge-geo-personal-website.md for https://x.com/oran_ge/status/2115092945854730581. Did not edit raw/articles or x-digest. Digest title hint GEO matches fetched body."
+}

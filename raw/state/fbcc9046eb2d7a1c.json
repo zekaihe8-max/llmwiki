@@ -1,0 +1,23 @@
+{
+  "slug": "fbcc9046eb2d7a1c",
+  "url": "https://x.com/xiaomovps/status/2115395887887479279",
+  "title": "ESP32 上跑 Agent",
+  "digest": "2026-10-28-cn-x.md",
+  "status": "filed",
+  "hash": "fbcc9046eb2d7a1c1060e3cd2b2119b06d78cff2bfdc1a0fde3ad97f0cdbf26b",
+  "first_seen": "2026-10-28T11:57:37.194Z",
+  "last_seen": "2026-10-28T11:57:37.194Z",
+  "fetched_at": "2026-10-28T11:57:48.185Z",
+  "content_hash": "c267302535e79ddcc51a0800ffeb817567fc6e7ebfb2eed0b6f8eb7e5af163bb",
+  "article_path": "articles/fbcc9046eb2d7a1c.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2115395887887479279",
+  "source_path": "sources/articles/xiaomovps-esp32-agent-three-projects.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-28T13:15:57.313Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

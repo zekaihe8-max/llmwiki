@@ -1,0 +1,70 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:33:30.801Z",
+  "url": "https://x.com/yetone/status/2115324976412934486",
+  "slug": "64201aedbb74bee8",
+  "content_hash": "31391ba29f4d7541914b7a70a6b6504dc468925ba6bfde73b6c5f28dcff673b7",
+  "source": {
+    "path": "sources/articles/yetone-magpie-desensitization-demo.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/local-desensitization-before-models.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Consulted for hygiene adjacency; left unchanged—article has no password/2FA/payment claims."
+    },
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "Consulted for plaintext-off-device adjacency; left unchanged—article is client desensitization UX, not confidential computing."
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "Consulted for Magpie product overlap; left unchanged—no partnership claims in this post."
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "Re-ingest: Topic already integrates this Source’s adoption-friction narrative, author no-degradation claim, principle demo, scope bounds, and contradiction vs the earlier counterfactual-blame post; no new claims in the fetched body."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-desensitization-before-models.md": "Owns Magpie/tool-side local desensitization before model outbound traffic, including adoption fear of Agent degradation and principle-demo communication—this post’s core claim.",
+    "topics/account-and-asset-security-hygiene.md": "Adjacent security-reminder register linked from the Source; owns passwords/2FA/payment hygiene, not client-side model-input desensitization.",
+    "topics/confidential-computing-cloud-ai.md": "Adjacent “don’t ship plaintext” path linked from the Source; owns cloud enclaves/attestation, not Magpie local desensitization demos.",
+    "topics/in-app-model-partnerships.md": "Same Magpie product line; owns formal in-app model-vendor partners (e.g. Kimi), not desensitization adoption or principle demos."
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-desensitization-before-models.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/confidential-computing-cloud-ai.md",
+      "topics/in-app-model-partnerships.md"
+    ],
+    "selection_reasons": {
+      "topics/local-desensitization-before-models.md": "Owns Magpie/tool-side local desensitization before model outbound traffic, including adoption fear of Agent degradation and principle-demo communication—this post’s core claim.",
+      "topics/account-and-asset-security-hygiene.md": "Adjacent security-reminder register linked from the Source; owns passwords/2FA/payment hygiene, not client-side model-input desensitization.",
+      "topics/confidential-computing-cloud-ai.md": "Adjacent “don’t ship plaintext” path linked from the Source; owns cloud enclaves/attestation, not Magpie local desensitization demos.",
+      "topics/in-app-model-partnerships.md": "Same Magpie product line; owns formal in-app model-vendor partners (e.g. Kimi), not desensitization adoption or principle demos."
+    },
+    "notes": "Source sources/articles/yetone-magpie-desensitization-demo.md already exists for https://x.com/yetone/status/2115324976412934486 and matches the fetched body; index/log already mention it. Re-ingest left wiki pages unchanged (no duplicate translation). Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

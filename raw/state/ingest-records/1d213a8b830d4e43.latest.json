@@ -1,0 +1,115 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T13:06:44.295Z",
+  "url": "https://x.com/xiaomovps/status/2115362688977232228",
+  "slug": "1d213a8b830d4e43",
+  "content_hash": "2ad6d8287c7206640f052e60233986d5435a7cc9b56663085197c6b8e70808a0",
+  "source": {
+    "path": "sources/articles/xiaomovps-dsh-grok-cross-dispatch.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "create",
+      "reason": "Created to carry community DSH↔Grok cross-dispatch shapes (orchestrator, CLI, webhook), template-port ≠ connection, and the missing native DSH→Grok plugin / immature-ecosystem claim."
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (UI style collage)—file not edited."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (loose web controls + public AI traces)—file not edited."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Community immaturity here is about cross-product bridges, not slim-core vs everything-as-plugin host architecture—file not edited."
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Article is personal-assistant community bridges, not same-API routing infra; distinction already stated on that page—file not edited."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrated Grok→DSH orchestrator as foreman evidence; expanded claim/description/tags to include DSH on the worker layer; pointed reverse/CLI/template claims to the new Topic."
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "Bot social sharing/chat via gateway is a different layer from task dispatch bridges—file not edited."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "personal-agent-foreman owns Grok-as-foreman + subscription layering (Codex/Claude), not bidirectional DSH↔Grok glue, template-port ≠ connection, or missing native DSH→Grok plugin; multi-harness-router owns same-API infra vs personal dispatch narrative; interbot-chat owns social gateway IDs—none fit the cross-product bridge taxonomy."
+  },
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "No existing Topic owned bidirectional DSH↔Grok community bridges, template-port ≠ connection, or the missing native DSH→Grok plugin / immature-ecosystem gap; closest pages cover foreman role, same-API routing infra, or bot social chat.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Grok→DSH via grokbot-dsh-orchestrator (Grok understands/splits/accepts; DSH does code/files; optional OpenCode Go + DeepSeek Flash) is the same foreman/worker pattern with DSH as the harness worker.",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Consulted to confirm this article is personal-product cross-dispatch glue, not HarnessRouter-style same-API multi-harness infra; left unchanged (linked from Related only).",
+    "topics/minimal-core-community-extensions.md": "Consulted for community gap-filling overlap; that page owns slim-core vs plugin-composed host architecture and stability costs, not DSH↔Grok dispatch shapes—left unchanged.",
+    "topics/personal-agent-share-and-interbot-chat.md": "Consulted for bot interoperability overlap; that page owns gateway IDs, follow/friend, and social bot chat, not task cross-dispatch via orchestrator/CLI—left unchanged.",
+    "topics/loose-web-agent-harness-plugins.md": "Consulted for DSH plugin family; owns consumer-site plugins under loose web controls, not cross-product harness bridges—left unchanged.",
+    "topics/harness-plugin-style-fragmentation.md": "Consulted for DSH plugin family; owns host UI style collage from stacked plugins, not cross-dispatch—left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/xiaomovps-dsh-grok-cross-dispatch.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/index.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md"
+    ],
+    "selection_reasons": {
+      "topics/dsh-grok-cross-dispatch.md": "No existing Topic owned bidirectional DSH↔Grok community bridges, template-port ≠ connection, or the missing native DSH→Grok plugin / immature-ecosystem gap; closest pages cover foreman role, same-API routing infra, or bot social chat.",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Grok→DSH via grokbot-dsh-orchestrator (Grok understands/splits/accepts; DSH does code/files; optional OpenCode Go + DeepSeek Flash) is the same foreman/worker pattern with DSH as the harness worker.",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "Consulted to confirm this article is personal-product cross-dispatch glue, not HarnessRouter-style same-API multi-harness infra; left unchanged (linked from Related only).",
+      "topics/minimal-core-community-extensions.md": "Consulted for community gap-filling overlap; that page owns slim-core vs plugin-composed host architecture and stability costs, not DSH↔Grok dispatch shapes—left unchanged.",
+      "topics/personal-agent-share-and-interbot-chat.md": "Consulted for bot interoperability overlap; that page owns gateway IDs, follow/friend, and social bot chat, not task cross-dispatch via orchestrator/CLI—left unchanged.",
+      "topics/loose-web-agent-harness-plugins.md": "Consulted for DSH plugin family; owns consumer-site plugins under loose web controls, not cross-product harness bridges—left unchanged.",
+      "topics/harness-plugin-style-fragmentation.md": "Consulted for DSH plugin family; owns host UI style collage from stacked plugins, not cross-dispatch—left unchanged."
+    },
+    "notes": "Created Source sources/articles/xiaomovps-dsh-grok-cross-dispatch.md for https://x.com/xiaomovps/status/2115362688977232228. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/xiaomovps-dsh-grok-cross-dispatch.md",
+        "topics/dsh-grok-cross-dispatch.md",
+        "topics/index.md",
+        "topics/personal-agent-foreman-over-coding-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

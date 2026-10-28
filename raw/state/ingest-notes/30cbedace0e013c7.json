@@ -1,0 +1,33 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "No existing Topic owned the durable idea that frontier models turn video editing into a coding-style agentic capability (replace juniors, eat mid-layer tools, keep agent UI minimal, shift human leverage to taste/market shape). Closest page open-source-in-ai-assistant-editing is the narrower OSS-in-assistant product pattern.",
+    "topics/agent-skill-authoring.md": "Article’s measured claim that pre–Opus 5.5 editing Skills became unnecessary (no-Skill beat Skill) plus Alex’s style-Skill expert-feedback playbook directly extends keep/drop and authoring guidance on this page.",
+    "topics/open-source-in-ai-assistant-editing.md": "Same broad family (AI/agent lowers editing operation bar) and linked from the Source, but it owns embedding open-source editors in assistants for one-sentence cuts—not model-leap mid-layer obsolescence, NLE avoidance, or Alex/Sabba market splits."
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "create",
+      "reason": "Created to carry agentic video editing as code, mid-layer Skill/MCP atrophy, simple preview UI, taste/feedback leverage, and Alex vs Sabba contradictions."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Integrated Dotey evidence that capability-patching Skills can be eaten after a model leap while taste/style Skills still repay expert feedback; updated claim, synthesis, contradictions, sources, and description."
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Consulted for overlap with NL/agent editing; left unchanged because new claims belong on agentic-video-editing—file not edited (linked from Source/Related only)."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/agentic-video-editing.md": "Existing open-source-in-ai-assistant-editing only covers plugging OSS editors into assistants; no Topic owned post–Opus agentic editing as coding, Skill-layer obsolescence, minimal agent UI, or the Alex/Sabba market/UI split."
+  },
+  "notes": "Created Source sources/articles/dotey-opus-55-agent-video-editing.md for https://x.com/dotey/status/2115282464935473225. Did not edit raw/articles or x-digest."
+}

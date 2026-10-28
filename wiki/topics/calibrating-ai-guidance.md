@@ -9,9 +9,12 @@ sources:
   - id: rauchg-over-under-guide-ai
     resource: https://x.com/rauchg/status/2114085432749347086
     title: Rauch on over- and under-guiding AI
+  - id: shao-meng-langchain-content-studio
+    resource: https://x.com/shao__meng/status/2115345069570212202
+    title: Meng Shao on four months of LangChain Content Studio
 generated:
   by: cursor-agent/composer
-  at: 2026-10-26T08:18:43+08:00
+  at: 2026-10-28T20:40:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -29,6 +32,10 @@ Working with AI is not “more detail always wins” or “more autonomy always 
 
 [Rauch on over- and under-guiding AI](../sources/articles/rauchg-over-under-guide-ai.md) frames the failure modes as a pair—over-guidance and under-guidance—and elevates “managing this superpower” to a #0 hiring skill, not a one-off prompt checklist.[^rauchg-over-under-guide-ai] Post: <https://x.com/rauchg/status/2114085432749347086>.
 
+[邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md) 把同一旋钮落到设计 Agent：引导不足时模型「分布收敛」成 zombie UI / AI 俗套，须写入原则、护栏与反馈推理；过度引导时早期约 115 个硬编码组件细则让品牌稳但版式重复，模型跃升后删补丁、留原则，多样性反而上来——补偿短板的细则会过期，长寿的是环境与中途干预。这是产品 harness 上的松紧校准，不是招人 #0 信号本身；Skill 删留见 [Agent Skill 编写](./agent-skill-authoring.md)。[^shao-meng-langchain-content-studio] 原帖 <https://x.com/shao__meng/status/2115345069570212202>。
+
+[Meng Shao on four months of LangChain Content Studio](../sources/articles/shao-meng-langchain-content-studio.md) lands the same dial on a design agent: under-guidance yields distributional convergence into zombie UI / AI slop, so principles, rails, and feedback reasoning must be written in; over-guidance via ~115 early hard-coded component rules kept brand stable but layouts repetitive, and deleting patches for principles after the model leap raised diversity—gap-patching rules go stale; the durable layer is environment and mid-flight intervention. That is product-harness calibration of the dial, not the #0 hiring signal itself; keep/drop of Skills lives under [Agent skill authoring](./agent-skill-authoring.md).[^shao-meng-langchain-content-studio] Post: <https://x.com/shao__meng/status/2115345069570212202>.
+
 与 [发散任务先人审设计](./divergent-tasks-human-design-gate.md) 同属「人何时收紧、何时放手」，但切面不同：那页按任务发散强弱切换介入点（设计稿门禁 vs 单提示词 + 结果审）；本页是把过度/不足引导本身当成可校准的元技能与招人信号。与 [一次只问一个问题](./one-question-at-a-time.md) 同向「欠规格时先收束方向」，但那页是顺序式澄清手法，不是双边松紧旋钮。与 [智能体规模化工程](./agent-scaled-engineering.md) 中「少当传话筒、交全量数据与真结果」可同读为反对某一侧过度过滤，但那页主张的是团队产能与工作流价值排序，不是本页的招人 #0 校准技能。
 
 It shares “when to tighten vs loosen” with [Human design gate for divergent tasks](./divergent-tasks-human-design-gate.md), but different cuts: that page shifts checkpoints by task divergence (design-draft gate vs single prompt + result review); this page treats over-/under-guidance itself as a calibratable meta-skill and hiring signal. It aligns with [One question at a time](./one-question-at-a-time.md) on narrowing direction when underspecified, but that page is a sequential clarification move, not a bilateral tight/loose dial. It can be read alongside [Agent-scaled engineering](./agent-scaled-engineering.md)’s “stop being a messenger; hand full data and real outcomes” as resistance to one form of over-filtering, but that page owns team throughput and workflow value ranking, not this page’s #0 hiring calibration skill.
@@ -37,15 +44,14 @@ It shares “when to tighten vs loosen” with [Human design gate for divergent 
 
 暂无。 / None yet.
 
-未改 [发散任务先人审设计](./divergent-tasks-human-design-gate.md)、[一次只问一个问题](./one-question-at-a-time.md)、[智能体规模化工程](./agent-scaled-engineering.md)：它们已各自拥有介入时点、澄清手法与规模化工程主张；本帖证据落在「过度/不足引导校准」与招人信号，宜单开本 Topic，仅交叉链接。
-
-Left [Human design gate for divergent tasks](./divergent-tasks-human-design-gate.md), [One question at a time](./one-question-at-a-time.md), and [Agent-scaled engineering](./agent-scaled-engineering.md) unchanged: each already owns intervention timing, clarification technique, or scaled-engineering claims; this post’s evidence belongs on over-/under-guidance calibration and hiring signal, so a dedicated Topic with cross-links is enough.
-
 ## 相关 / Related
 
 - Source: [Rauch 谈过度与不足引导 AI](../sources/articles/rauchg-over-under-guide-ai.md)
+- Source: [邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md)
 - Topic: [发散任务先人审设计](./divergent-tasks-human-design-gate.md)
 - Topic: [一次只问一个问题](./one-question-at-a-time.md)
 - Topic: [智能体规模化工程](./agent-scaled-engineering.md)
+- Topic: [Agent Skill 编写](./agent-skill-authoring.md)
 
 [^rauchg-over-under-guide-ai]: Rauch on over- and under-guiding AI
+[^shao-meng-langchain-content-studio]: Meng Shao on four months of LangChain Content Studio

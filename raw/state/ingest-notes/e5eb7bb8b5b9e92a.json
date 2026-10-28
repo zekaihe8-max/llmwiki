@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-plugin-style-fragmentation.md": "No existing Topic owned host-UI fragmentation from stacking community harness plugins with independent styles, or dsh-synapse in-chat conversation branching as a capability example amid that wave.",
+    "topics/loose-web-agent-harness-plugins.md": "Same DSH plugin-wave family and linked from the Source, but owns loose web controls plus public-site AI traces (bili-scroll)—not host style collage or conversation branches.",
+    "topics/minimal-core-community-extensions.md": "Also about harness-edge community extension, but owns slim-core Pi fork/path divergence—not same-host plugin style stacking.",
+    "topics/ux-dx-and-ax.md": "Also about UI experience quality, but owns vibecoding AGENTS.md UX/DX/AX delivery rules—not already-installed plugin visual fragmentation."
+  },
+  "topics": [
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "create",
+      "reason": "Created to carry mismatched plugin styles fragmenting a harness host UI, with dsh-synapse conversation branching as the capability-side example."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH plugin-wave overlap; left unchanged—claims stay on web-control/public-trace ownership; linked from Source/Related only."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Consulted for community-extension overlap; left unchanged—Pi slim-core fork paths already owned here; linked from Source/Related only."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for UI-experience overlap; left unchanged—AGENTS.md delivery rules already owned here; linked from Source/Related only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/harness-plugin-style-fragmentation.md": "loose-web-agent-harness-plugins owns DSH plugins under loose web controls and public AI traces; minimal-core-community-extensions owns Pi slim-core community forks; ux-dx-and-ax owns AGENTS.md UX/DX/AX rules. None owned host UI looking oddly mismatched after stacking independently styled community plugins, nor synapse-style in-chat conversation branching as evidence."
+  },
+  "notes": "Created Source sources/articles/op7418-dsh-synapse.md for https://x.com/op7418/status/2115291006426067339. Did not edit raw/articles or x-digest."
+}

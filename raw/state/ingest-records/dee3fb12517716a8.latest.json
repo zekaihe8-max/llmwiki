@@ -1,0 +1,115 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:21:11.216Z",
+  "url": "https://x.com/wquguru/status/2115266993096102036",
+  "slug": "dee3fb12517716a8",
+  "content_hash": "ce87f04dff3279627e8e683525d07613fd52c2bfad1643a23e41ae369879c8e6",
+  "source": {
+    "path": "sources/articles/wquguru-dsh-cyber-no-jailbreak.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Integrated ZenMux as aggregator channel evidence (official-parity quality/cache, no multi-vendor hopping, Chinese-model discounts) without folding the cyber little-jailbreak claim into this page."
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "Consulted for cyber adjacency; left unchanged—owns defense swarm category, not RE model picks."
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "Consulted for cyber jobs overlap; left unchanged—owns headcount/roles, not model shortlists."
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Consulted for jailbreak-as-veto adjacency; left unchanged—page already owns subscription risk-signal weights; Related link only from new Topic/Source."
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "create",
+      "reason": "Created to carry little-jailbreak cyber-research model/harness selection (DSH strong; dare not use Claude; GLM-5.3 + DeepSeek V4.1 Flash 1017) from this Source."
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "Consulted for open-model cyber dual-use; left unchanged—different claim axis; truncated quoted attack-tool list in fetch not used as evidence."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Consulted because Flash is named; left unchanged—owns Pro/Flash strategy debates, not cyber little-jailbreak selection."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/cyber-research-models-without-jailbreak.md": "Existing cyber Topics cover defense swarms, jobs, open-weight dual-use, eval overreach, and Claude subscription vetoes; none owned practitioner selection of models/harnesses for RE/pentest by little-jailbreak usability and avoiding Claude."
+  },
+  "selection_reasons": {
+    "topics/cyber-research-models-without-jailbreak.md": "No existing Topic owned RE/pentest model selection by little-jailbreak usability and avoiding Claude for account/policy risk; needed a home for WquGuru’s DSH/GLM/Flash shortlist claim.",
+    "topics/agent-model-channel-tradeoffs.md": "Owns harness-side provider/aggregator channel tradeoffs (price, cache, multi-vendor routing); ZenMux quality/cache-parity and no-vendor-hopping fits as channel evidence.",
+    "topics/claude-subscription-risk-control-weights.md": "Adjacent—lists repeated jailbreaks for dangerous research as a subscription veto, which can explain Claude avoidance—but owns weighted risk signals, not cyber-research model/harness picks.",
+    "topics/agent-swarms-cyber-defense.md": "Cyber-adjacent but owns enterprise defense swarm product category and compute economics, not practitioner RE/pentest model shortlists.",
+    "topics/open-models-cyber-defense.md": "Cyber dual-use of open weights vs doom discourse; not about choosing Claude vs GLM/DeepSeek Flash for little-jailbreak research work.",
+    "topics/ai-cybersecurity-jobs.md": "Owns human roles after security becomes more agentic; not model/harness selection for RE/pentest without jailbreak.",
+    "topics/pro-vs-flash-model-strategy.md": "Names Flash tiers in Pro-vs-Flash product strategy and score-hype debates; does not own cyber-research suitability or jailbreak-avoidance selection."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/wquguru-dsh-cyber-no-jailbreak.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cyber-research-models-without-jailbreak.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/open-models-cyber-defense.md",
+      "topics/ai-cybersecurity-jobs.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/cyber-research-models-without-jailbreak.md": "No existing Topic owned RE/pentest model selection by little-jailbreak usability and avoiding Claude for account/policy risk; needed a home for WquGuru’s DSH/GLM/Flash shortlist claim.",
+      "topics/agent-model-channel-tradeoffs.md": "Owns harness-side provider/aggregator channel tradeoffs (price, cache, multi-vendor routing); ZenMux quality/cache-parity and no-vendor-hopping fits as channel evidence.",
+      "topics/claude-subscription-risk-control-weights.md": "Adjacent—lists repeated jailbreaks for dangerous research as a subscription veto, which can explain Claude avoidance—but owns weighted risk signals, not cyber-research model/harness picks.",
+      "topics/agent-swarms-cyber-defense.md": "Cyber-adjacent but owns enterprise defense swarm product category and compute economics, not practitioner RE/pentest model shortlists.",
+      "topics/open-models-cyber-defense.md": "Cyber dual-use of open weights vs doom discourse; not about choosing Claude vs GLM/DeepSeek Flash for little-jailbreak research work.",
+      "topics/ai-cybersecurity-jobs.md": "Owns human roles after security becomes more agentic; not model/harness selection for RE/pentest without jailbreak.",
+      "topics/pro-vs-flash-model-strategy.md": "Names Flash tiers in Pro-vs-Flash product strategy and score-hype debates; does not own cyber-research suitability or jailbreak-avoidance selection."
+    },
+    "notes": "Created Source sources/articles/wquguru-dsh-cyber-no-jailbreak.md for https://x.com/wquguru/status/2115266993096102036. Did not edit raw/articles or x-digest. Did not cite digest CVE/Astra ranking—only fetched article body. Truncated Oct 22 quote left out of Topic claims.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/wquguru-dsh-cyber-no-jailbreak.md",
+        "topics/agent-model-channel-tradeoffs.md",
+        "topics/cyber-research-models-without-jailbreak.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

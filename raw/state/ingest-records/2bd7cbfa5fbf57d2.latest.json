@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:23:24.072Z",
+  "url": "https://x.com/op7418/status/2115058211225293113",
+  "slug": "2bd7cbfa5fbf57d2",
+  "content_hash": "4ac09b3dd4a366fc0e30d2c97abba69662f9c3823cb735ad66bec35b50c76b0a",
+  "source": {
+    "path": "sources/articles/op7418-dsh-bili-scroll.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/computer-use.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "Consulted for browser-plugin/media adjacency; left unchanged—human clipping workflows are a different product pattern."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Consulted for UI-control adjacency; left unchanged—linked from Source/Related only; claims are plugin+platform web controls, not Computer Use architecture."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH name overlap; left unchanged—metrics/quality comparison is out of scope for this filing."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "create",
+      "reason": "Created to carry the durable claim: agent harness plugins under loose consumer-web controls can leave visible AI activity in public spaces, with upsides/downsides still open."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Consulted for harness-ecosystem adjacency; left unchanged—Pi slim-core forks differ from DSH-on-Bilibili loose-web plugin case; linked from Source/Related only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "computer-use owns GUI act loops; minimal-core-community-extensions owns Pi slim-core forks; harness-comparison owns DSH run metrics; none owns harness plugins entering consumer sites because web controls are loose, with public AI visibility and unsettled tradeoffs."
+  },
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "No existing Topic owned harness plugins entering consumer web sites under loose platform web controls, with visible AI activity in public spaces (e.g. Bilibili comments) and an open upsides/downsides stance.",
+    "topics/computer-use.md": "Same broad ‘models in human UIs’ family, but owns see–think–act–check architecture, control targeting, and desktop/phone bounds—not DSH/plugin waves on loosely controlled consumer webs or public comment-section visibility.",
+    "topics/minimal-core-community-extensions.md": "Owns community forks around a slim Pi core (enrichment, workflow redesign, mobile Session); not DSH consumer-web plugins conditioned on platform web-control looseness.",
+    "topics/harness-comparison-beyond-tokens.md": "Owns DSH vs other harnesses on rounds/cache/quality metrics; not plugin-on-Bilibili or loose-web-control conditions—leave unchanged.",
+    "topics/ai-assisted-clipping-and-notes.md": "Owns human-facing browser clipping/Obsidian plugins for media notes; not agent harness plugins driving browse/comment on a loose-control platform."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/op7418-dsh-bili-scroll.md",
+    "topics/index.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/computer-use.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/ai-assisted-clipping-and-notes.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "No existing Topic owned harness plugins entering consumer web sites under loose platform web controls, with visible AI activity in public spaces (e.g. Bilibili comments) and an open upsides/downsides stance.",
+      "topics/computer-use.md": "Same broad ‘models in human UIs’ family, but owns see–think–act–check architecture, control targeting, and desktop/phone bounds—not DSH/plugin waves on loosely controlled consumer webs or public comment-section visibility.",
+      "topics/minimal-core-community-extensions.md": "Owns community forks around a slim Pi core (enrichment, workflow redesign, mobile Session); not DSH consumer-web plugins conditioned on platform web-control looseness.",
+      "topics/harness-comparison-beyond-tokens.md": "Owns DSH vs other harnesses on rounds/cache/quality metrics; not plugin-on-Bilibili or loose-web-control conditions—leave unchanged.",
+      "topics/ai-assisted-clipping-and-notes.md": "Owns human-facing browser clipping/Obsidian plugins for media notes; not agent harness plugins driving browse/comment on a loose-control platform."
+    },
+    "notes": "Created Source sources/articles/op7418-dsh-bili-scroll.md for https://x.com/op7418/status/2115058211225293113. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/op7418-dsh-bili-scroll.md",
+        "topics/index.md",
+        "topics/loose-web-agent-harness-plugins.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "Owns multi–Claude quota, burn rate, reset cycles, and Sub2API weekly-reset scheduling; this post adds account-death restock/Dispute ops cost on the same multi-account pool axis.",
+    "topics/premium-ai-subscription-value.md": "Owns worth-it / enough / endure-friction for premium stacks; Claude remaining sole standout while ops burns people out fits as enduring friction when substitutes lag.",
+    "topics/claude-subscription-risk-control-weights.md": "Shares Claude account bans/instability; owns weighted risk-signal stack (payment, fingerprint, KYC), not restock/Dispute ops burnout or market-position monopoly.",
+    "topics/grok-bot-x-api-substitute.md": "Mentions Grok Bot; owns bridging built-in X search quota into coding agents—not Grok Bot applying for Dispute after Claude account death.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Mentions Grok Bot over Claude Code; owns foreman dispatch/acceptance role layering—not Dispute/restock account ops.",
+    "topics/usage-limit-ab-tests.md": "Shares Claude usage/limits wording; owns Anthropic A/B monthly vs five-hour caps—not account churn or sole-standout market claim."
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "add_evidence",
+      "reason": "Integrated account-survival axis: G → re-register/restock/hang-up → Grok Bot Dispute burnout alongside existing multi–Claude scheduling and burn-rate evidence; updated description, synthesis, contradictions, Related."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Integrated endure-friction worth-it: keep paying Claude ops burnout because it remains sole standout near year-end; updated description, synthesis, contradictions, Related."
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Consulted for ban/risk overlap; left unchanged—page owns weight rankings, not restock/Dispute loop or Claude monopoly; Source Related links only."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "Consulted for Grok Bot mention; left unchanged—Dispute after account death is not X API bridge."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted for Grok Bot + Claude adjacency; left unchanged—foreman role already owned."
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "Consulted for Claude limits adjacency; left unchanged—A/B cap experiment already owned."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created Source sources/articles/fkysly-claude-access-burnout.md for https://x.com/fkysly/status/2115349799998529551. Did not edit raw/articles or x-digest. Did not cite digest KYC sibling tweet—only claims in fetched body."
+}

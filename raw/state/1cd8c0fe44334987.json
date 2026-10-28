@@ -1,0 +1,23 @@
+{
+  "slug": "1cd8c0fe44334987",
+  "url": "https://x.com/xiaomovps/status/2115102099226935462",
+  "title": "DSH 0.2.1：自研搜索 + Agent 写插件",
+  "digest": "2026-10-28-cn-x.md",
+  "status": "filed",
+  "hash": "1cd8c0fe4433498713e53311db3056b54c30b3bbcc67407c01731fa2c8f23d51",
+  "first_seen": "2026-10-28T11:57:37.194Z",
+  "last_seen": "2026-10-28T11:57:37.194Z",
+  "fetched_at": "2026-10-28T11:57:45.277Z",
+  "content_hash": "c48b25187513da1bc0e0e4c3c3794e677b6ca62274625ad3b9226d705923d6e9",
+  "article_path": "articles/1cd8c0fe44334987.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2115102099226935462",
+  "source_path": "sources/articles/xiaomovps-dsh-021-search-agent-plugins.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-28T12:59:10.064Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

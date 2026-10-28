@@ -1,0 +1,68 @@
+{
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/software-factory.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/ai-cybersecurity-jobs.md"
+  ],
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "No existing Topic owned the durable four-gap agenda (scheduling/identity-authz/isolation/observability-kill-switch) for thousand-scale continuous multiagent systems; closest pages are company-harness recipe or ACE+governance product pairing, not this open-problem checklist.",
+    "topics/company-agent-harness.md": "Lesse independently hardens that identity/authz and per-agent sandbox isolation remain hard at multiagent scale—overlaps OBO/identity and sandbox primitives without replacing the five-primitive recipe.",
+    "topics/agent-scaled-engineering.md": "Lesse flips the engineer identity-crisis narrative: unlocking multiagent systems still needs programmers on platform infra—adds engineer-value evidence adjacent to tools/workflows > stacking Agents.",
+    "topics/agent-compute-and-governance.md": "Mentions dedicated agent compute; Lesse cites Google Agent Substrate for idle sleep/wake scheduling—same family but ACE+governance product pairing is a different claim than the four open gaps.",
+    "topics/agent-identity-platform-keys.md": "Identity word overlap only: this page is platforms acquiring identity firms / holding keys; Lesse is runtime human-vs-AI attribution and weeks-ahead authz blankness.",
+    "topics/software-factory.md": "Adjacent to kill-switch/evidence/safe containment, but owns bounded L4 SDLC factory definition—not the four multiagent platform infra gaps.",
+    "topics/hunger-beats-tenure.md": "Also pushes back on ‘engineers obsolete,’ but owns hiring/tenure vs hunger and coding-interview signal—not platform infra problem agenda.",
+    "topics/ai-cybersecurity-jobs.md": "Parallel ‘AI creates jobs’ framing, but scoped to cybersecurity operators aiming agents—not general multiagent platform four gaps."
+  },
+  "topics": [
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "create",
+      "reason": "Created to carry Lesse’s four open infra gaps for thousand-agent systems, scope bounds, and adjacency to harness/compute/identity/factory Topics."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "add_evidence",
+      "reason": "Integrated Lesse evidence that identity/authz and sandbox isolation stay open at scale; linked new Topic; updated sources, synthesis, Related, generated.at."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "add_evidence",
+      "reason": "Integrated Lesse engineer-value evidence (platform infra still needs programmers); linked new Topic; updated sources, Related, generated.at."
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Consulted for Agent Substrate / agent-compute overlap; left unchanged—ACE+governance pairing claim differs from four-gap agenda (linked from Source only)."
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "Consulted for identity overlap; left unchanged—commercial M&A/keys narrative, not runtime authz blankness (linked from Source/Related only)."
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Consulted for kill-switch/evidence adjacency; left unchanged—L4 factory definition is a different cut (linked from Source/Related only)."
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "Consulted for ‘engineers not obsolete’ adjacency; left unchanged—owns hiring/hunger, not multiagent infra gaps."
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "Consulted for parallel jobs-created framing; left unchanged—cyber-operator scope, not four platform gaps."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/multiagent-infra-four-problems.md": "company-agent-harness is a five-primitive recipe; agent-compute-and-governance is ACE+governance product pairing; neither owns the durable Lesse checklist of four still-open platform gaps (scheduling, identity/authz, isolation, observability/kill-switch) at thousand-agent scale."
+  },
+  "notes": "Created Source sources/articles/dotey-lesse-multiagent-four-infra.md for https://x.com/dotey/status/2115229306490126432. Did not edit raw/articles or x-digest."
+}

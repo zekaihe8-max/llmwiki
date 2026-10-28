@@ -2,8 +2,8 @@
 type: Topic
 title: 超越 token 数的 Harness 对比
 title_en: Harness comparison beyond tokens
-description: 同模型比 harness 应看轮次、缓存命中、时延与质量，而不是只看累计 token；Token 接近也不等于成品一样，还要看 Harness 如何组织执行；DSH 标准模式常更啰嗦多轮，后续可用 AGENTS.md 约束关掉反复截图自检。
-description_en: Compare agent harnesses on the same model by rounds, cache hits, latency, and output quality—not cumulative token totals alone; similar Token spend still need not mean equal quality—how the Harness organizes the run matters; DSH standard mode often runs more verbose multi-round loops, and later guidance uses AGENTS.md constraints to shut down repeated screenshot self-checks.
+description: 同模型比 harness 应看轮次、缓存命中、时延与质量，而不是只看累计 token；Token 接近也不等于成品一样，还要看 Harness 如何组织执行；DSH 标准模式常更啰嗦多轮，后续可用 AGENTS.md 约束关掉反复截图自检；插件生态扩张时，功能多也不等于更好用，仍要盯执行效率与 Token。
+description_en: Compare agent harnesses on the same model by rounds, cache hits, latency, and output quality—not cumulative token totals alone; similar Token spend still need not mean equal quality—how the Harness organizes the run matters; DSH standard mode often runs more verbose multi-round loops, and later guidance uses AGENTS.md constraints to shut down repeated screenshot self-checks; as plugin ecosystems grow, more features still need not mean a better Agent—execution efficiency and Tokens still matter.
 tags: [agents, harness, tokens, cache, evaluation]
 sources:
   - id: xiaomovps-pi-vs-deepseek-harness
@@ -21,9 +21,12 @@ sources:
   - id: oran-ge-pelican-bike-ai-game
     resource: https://x.com/oran_ge/status/2114003877813178562
     title: Orange AI on casually shipping a pelican-bike AI mini-game
+  - id: xiaomovps-dsh-021-search-agent-plugins
+    resource: https://x.com/xiaomovps/status/2115102099226935462
+    title: 小墨 on DSH 0.2.1 search and Agent-authored plugins
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T21:06:44+08:00
+  at: 2026-10-28T20:56:15+08:00
 ---
 
 # 超越 token 数的 Harness 对比
@@ -56,11 +59,15 @@ The same author’s later [Xiaomo hands-on: WorkBuddy vs DeepSeek Harness qualit
 
 An earlier live demo of the same motif is [Orange AI on casually shipping a pelican-bike AI mini-game](../sources/articles/oran-ge-pelican-bike-ai-game.md): a casual build published at <https://orange2ai.github.io/pelican-bike/>, claimed to work on the first try.[^oran-ge-pelican-bike-ai-game] It helps explain why pelican-bike became a community same-prompt foil, but does not replace this page’s measured claims on rounds, cache, and finished quality; the one-shot casual floor narrative lives under [Casual AI mini-games succeeding on first try](./casual-ai-minigame-first-try.md).
 
+同作者再后的 [小墨谈 DSH 0.2.1：自研搜索与 Agent 写插件](../sources/articles/xiaomovps-dsh-021-search-agent-plugins.md) 把效率关切从「标准模式多轮 / AGENTS.md 补丁 / 同题成品质感」扩到产品路线：DSH 走「万物皆插件」（Agent 可写插件、实验性兼容 Claude Code / Codex 等），作者想看插件生态完善后能否在保持灵活时控制复杂度与 Token——功能越多不代表 Agent 越好用，实际执行效率更要紧。[^xiaomovps-dsh-021-search-agent-plugins] 原帖 <https://x.com/xiaomovps/status/2115102099226935462>。架构对照（精简核心 vs 插件组合宿主）见 [精简核心与社区扩展](./minimal-core-community-extensions.md)；本页收的是「功能扩张仍要过执行效率与 Token 关」这一计量侧延续。
+
+The same author’s later [Xiaomo on DSH 0.2.1 — first-party search and Agent-authored plugins](../sources/articles/xiaomovps-dsh-021-search-agent-plugins.md) extends the efficiency concern from “standard-mode multi-rounds / AGENTS.md patches / same-prompt finished quality” to product path: DSH’s “everything as a plugin” (Agent-authored plugins, experimental Claude Code / Codex compatibility, and peers) leaves him watching whether a maturing plugin ecosystem can keep flexibility while controlling complexity and Tokens—more features do not mean a better Agent; real execution efficiency matters more.[^xiaomovps-dsh-021-search-agent-plugins] Post: <https://x.com/xiaomovps/status/2115102099226935462>. The architectural foil (slim core vs plugin-composed host) lives under [Minimal core and community extensions](./minimal-core-community-extensions.md); this page keeps the metering-side continuation that feature growth still has to clear execution efficiency and Tokens.
+
 ## 矛盾与变化 / Contradictions
 
 [Orange AI 谈随手做成鹈鹕骑车 AI 小游戏](../sources/articles/oran-ge-pelican-bike-ai-game.md) 把同题材读成「随便一个模型都太强了」、一次随手成功；[^oran-ge-pelican-bike-ai-game] 本页小墨同题对照则显示：即便任务都能完成，Harness 仍可拉开轮次、费用与成品质感。切面不同——能力地板 vs 执行组织——不是互相取消。 / [Orange AI on casually shipping a pelican-bike AI mini-game](../sources/articles/oran-ge-pelican-bike-ai-game.md) reads the same motif as “any model is too strong” and a casual first-try win;[^oran-ge-pelican-bike-ai-game] Xiaomo’s same-prompt contrasts on this page show that even when the task completes, harnesses can still diverge on rounds, cost, and finished quality. Different cuts—capability floor vs execution organization—not a cancellation.
 
-流传「在 DSH 上跑分更高」与作者体验冲突：标准模式下作者感到模型更笨更啰嗦，质量只略升却不值成本；早前受控对比则留下「截图循环或有助于 UI」的可能，体验帖则把多轮主要归咎于系统提示词过重。后续帖主张用项目指令关掉无效循环——是补救，不是否认测量或体验。WorkBuddy 同题实测则与「DSH 多轮相对 Pi 常不值」并置而非直接否定：相对另一同样烧约百万 Token 的 Harness，作者更认 DSH 成品质感，并强调 Token 接近仍可比出质量差——对照对象从轻量 Pi 换成重消耗 WorkBuddy 后，主张从「少轮更划算」扩成「同量 Token 也要看执行组织与成品」。 / Rumor that scores run higher on DSH conflicts with the author’s experience: under standard mode the model felt dumber and more verbose, with only a slight quality bump that was not worth the cost; the earlier controlled comparison left room that the screenshot loop might help UI work, while the experience post mainly blames a heavy system prompt. The later post urges project instructions to shut wasteful loops down—a remedy, not a denial of the measurement or the experience. The WorkBuddy same-prompt hands-on sits beside—not against—“DSH’s multi-rounds often not worth it vs Pi”: against another harness that also burns about a million Tokens, the author prefers DSH’s finished quality and stresses that similar Token totals can still diverge on quality—after the foil shifts from light Pi to heavy WorkBuddy, the claim widens from “fewer rounds pay better” to “even at similar Tokens, execution organization and the artifact still matter.”[^xiaomovps-pi-vs-deepseek-harness][^xiaomovps-dsh-standard-mode-verbose][^xiaomovps-dsh-agents-md-tokens][^xiaomovps-workbuddy-vs-dsh-quality]
+流传「在 DSH 上跑分更高」与作者体验冲突：标准模式下作者感到模型更笨更啰嗦，质量只略升却不值成本；早前受控对比则留下「截图循环或有助于 UI」的可能，体验帖则把多轮主要归咎于系统提示词过重。后续帖主张用项目指令关掉无效循环——是补救，不是否认测量或体验。WorkBuddy 同题实测则与「DSH 多轮相对 Pi 常不值」并置而非直接否定：相对另一同样烧约百万 Token 的 Harness，作者更认 DSH 成品质感，并强调 Token 接近仍可比出质量差——对照对象从轻量 Pi 换成重消耗 WorkBuddy 后，主张从「少轮更划算」扩成「同量 Token 也要看执行组织与成品」。0.2.1 路线帖再把同一效率标准套到插件生态扩张：功能多仍须过执行效率与 Token 关——是延续，不是改口否认先前测量。 / Rumor that scores run higher on DSH conflicts with the author’s experience: under standard mode the model felt dumber and more verbose, with only a slight quality bump that was not worth the cost; the earlier controlled comparison left room that the screenshot loop might help UI work, while the experience post mainly blames a heavy system prompt. The later post urges project instructions to shut wasteful loops down—a remedy, not a denial of the measurement or the experience. The WorkBuddy same-prompt hands-on sits beside—not against—“DSH’s multi-rounds often not worth it vs Pi”: against another harness that also burns about a million Tokens, the author prefers DSH’s finished quality and stresses that similar Token totals can still diverge on quality—after the foil shifts from light Pi to heavy WorkBuddy, the claim widens from “fewer rounds pay better” to “even at similar Tokens, execution organization and the artifact still matter.” The 0.2.1 path post then applies the same efficiency bar to plugin-ecosystem growth: more features still must clear execution efficiency and Tokens—a continuation, not a recant of earlier measurements.[^xiaomovps-pi-vs-deepseek-harness][^xiaomovps-dsh-standard-mode-verbose][^xiaomovps-dsh-agents-md-tokens][^xiaomovps-workbuddy-vs-dsh-quality][^xiaomovps-dsh-021-search-agent-plugins]
 
 ## 相关 / Related
 
@@ -69,11 +76,14 @@ An earlier live demo of the same motif is [Orange AI on casually shipping a peli
 - Source: [小墨谈 DSH 用 AGENTS.md / CLAUDE.md 省 token](../sources/articles/xiaomovps-dsh-agents-md-tokens.md)
 - Source: [小墨实测 WorkBuddy 与 DeepSeek Harness 同题效果](../sources/articles/xiaomovps-workbuddy-vs-dsh-quality.md)
 - Source: [Orange AI 谈随手做成鹈鹕骑车 AI 小游戏](../sources/articles/oran-ge-pelican-bike-ai-game.md)
+- Source: [小墨谈 DSH 0.2.1：自研搜索与 Agent 写插件](../sources/articles/xiaomovps-dsh-021-search-agent-plugins.md)
 - Topic: [项目指令与 Token 效率](./agents-md-token-efficiency.md)
 - Topic: [随手 AI 小游戏一次成功](./casual-ai-minigame-first-try.md)
+- Topic: [精简核心与社区扩展](./minimal-core-community-extensions.md)
 
 [^xiaomovps-pi-vs-deepseek-harness]: 小墨 on Pi vs DeepSeek Harness rounds and cost
 [^xiaomovps-dsh-standard-mode-verbose]: 小墨 on DSH standard mode verbosity
 [^xiaomovps-dsh-agents-md-tokens]: 小墨 on DSH AGENTS.md / CLAUDE.md token tips
 [^xiaomovps-workbuddy-vs-dsh-quality]: Xiaomo hands-on WorkBuddy vs DSH quality
 [^oran-ge-pelican-bike-ai-game]: Orange AI on casually shipping a pelican-bike AI mini-game
+[^xiaomovps-dsh-021-search-agent-plugins]: 小墨 on DSH 0.2.1 search and Agent-authored plugins
