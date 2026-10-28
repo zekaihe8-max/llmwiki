@@ -1,0 +1,47 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "Owns when to write, keep, or skip Skills; vista8’s “frontend Skill can work but site-clone is simpler/more reliable” is addable evidence for don’t-default-to-Skill, without owning the Landing-specific method.",
+    "topics/skills-stack-native-app-recreation.md": "Closest recreation Topic—Skills composition to recreate native-feel iOS apps—but surface and stack differ (skills.sh packs vs web Landing + DSH site-clone); consulted to avoid merging or false contradiction.",
+    "topics/minimal-core-community-extensions.md": "Owns slim-core vs plugin-composed harness architecture and DSH plugin-host costs; article names a DSH plugin but does not advance that architectural claim.",
+    "topics/geo-personal-website-first-step.md": "Personal-site adjacent (GEO visibility / friend links), not how to build Landing Pages via clone-vs-Skill.",
+    "topics/landing-page-site-clone-over-skill.md": "No existing Topic owned Landing Page tradeoff of reference-site clone (optionally via DSH plugin + Agent prompt) over a dedicated/frontend Skill."
+  },
+  "topics": [
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "create",
+      "reason": "Created to carry vista8’s Landing Page method: frontend Skill usable but picking a quality site to clone is simpler/more reliable, via DSH plugin qiaomu-ui-learn-dsh; scoped against skills-stack iOS recreation and skill-authoring keep/drop."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Integrated vista8 as web-Landing evidence for don’t-default-to-Skill (Skill can work; site-clone preferred), linked new Topic; did not rewrite authoring rules."
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "Consulted for recreation overlap; left unchanged—page owns iOS Skills-stack division of labor, not web Landing site-clone vs Skill; relationship recorded on new Topic Contradictions only."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH plugin-host framing; left unchanged—architecture/stability of plugin hosts, not cataloging a Landing clone plugin or Skill-vs-clone method."
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "Consulted for personal-site adjacency; left unchanged—GEO first step and friend links, not Landing build method."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "skills-stack-native-app-recreation owns Skills composition for native iOS recreation; agent-skill-authoring owns how/when to write Skills; neither owns the Landing-specific claim that reference-site clone (via DSH plugin + Agent prompt) is simpler/more reliable than a dedicated or frontend Landing Skill."
+  },
+  "notes": "Created Source sources/articles/vista8-dsh-landing-page-clone.md for https://x.com/vista8/status/2115293920955605424. Did not edit raw/articles or x-digest. Digest title hint Landing matches fetched body."
+}

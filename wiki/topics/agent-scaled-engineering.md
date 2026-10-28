@@ -33,9 +33,18 @@ sources:
   - id: oran-ge-ai-traffic-search-rebuild
     resource: https://x.com/oran_ge/status/2114212241188991318
     title: Orange AI on rebuilding search after AI traffic surpasses humans
+  - id: dotey-felix-hunger-beats-tenure
+    resource: https://x.com/dotey/status/2115218749888634988
+    title: Dotey relays Felix—hunger beats tenure
+  - id: dotey-lesse-multiagent-four-infra
+    resource: https://x.com/dotey/status/2115229306490126432
+    title: Dotey relays Lesse—four infra gaps for thousand-agent systems
+  - id: shao-meng-manus-mono
+    resource: https://x.com/shao__meng/status/2115048792483660088
+    title: Meng Shao on Manus Mono — a full-stack map for AI
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T21:02:22+08:00
+  at: 2026-10-28T20:45:00+08:00
 ---
 
 # 智能体规模化工程
@@ -68,6 +77,18 @@ Once coding agents produce most or all of a team's output, the scarce work shift
 
 [Meng Shao relays Felix—stop using Claude the 2024 way](../sources/articles/shao-meng-felix-not-2024-claude-usage.md) takes “tools and workflows > stacking Agents” into Claude engineering practice: automation of annoying expensive work has the clearest near-term value, but he cares more about augmentation—changing workflows and definitions of quality so people do what they could not before; one- or two-person teams doing large-company work is more feasible, with empathy and real value still the secret; capability overhang means handing the model the outcome you actually want, not stopping at shallow polish. Engineer value is whether users pay for outcomes, not memorizing the full React API.[^shao-meng-felix-not-2024-claude-usage] Post: <https://x.com/shao__meng/status/2113970197161988276>. Output-side constraints: [Adversarial review and external evidence](./adversarial-review-external-evidence.md); against stacking role Agents: [Fold sub-agents into the main loop](./fold-subagents-into-main-loop.md).
 
+[宝玉转述 Felix：取消编程面试与冲劲胜过资历](../sources/articles/dotey-felix-hunger-beats-tenure.md) 用同一作者的产品实例加固「小团队 / 实现变便宜」：Claude Code 桌面 GUI 由两位入职不久的工程师周末做出可跑原型，约八天后首个公开版上线；并主张个人成果更少取决于框架资历。招聘侧去掉传统编程题、冲劲与原型路径见专页 [冲劲胜过资历](./hunger-beats-tenure.md)，本页只收「新人小团队能出产品面」的产能证据。[^dotey-felix-hunger-beats-tenure] 原帖 <https://x.com/dotey/status/2115218749888634988>。
+
+[Dotey relays Felix—dropping coding interviews and hunger beats tenure](../sources/articles/dotey-felix-hunger-beats-tenure.md) hardens the same author’s “small team / implementation got cheap” line with a product case: Claude Code’s desktop GUI began as a weekend-runnable prototype by two recent hires, with a first public release about eight days later; individual shipping also depends less on framework tenure. Hiring-side drop of classic coding puzzles and the hunger/prototype path live on [Hunger beats tenure](./hunger-beats-tenure.md); this page only takes the throughput evidence that a junior pair can ship product surface.[^dotey-felix-hunger-beats-tenure] Post: <https://x.com/dotey/status/2115218749888634988>.
+
+[宝玉转述 Lesse：上千 Agent 仍缺四道基建题](../sources/articles/dotey-lesse-multiagent-four-infra.md) 从平台工程侧加固「工程师仍有事做」：许多人因 AI 会写代码而焦虑手艺贬值，Anthropic 平台工程负责人 Katelyn Lesse 主张相反——解锁上千智能体系统，仍缺调度、身份授权、隔离与可观测急停，得先靠程序员解决；现在是当工程师最有意思的时候之一。本页只收「稀缺工作可落在多智能体平台基建」的工程师价值证据；四道缺口清单见 [多智能体四道基建题](./multiagent-infra-four-problems.md)。[^dotey-lesse-multiagent-four-infra] 原帖 <https://x.com/dotey/status/2115229306490126432>。
+
+[Dotey relays Lesse—four infra gaps for thousand-agent systems](../sources/articles/dotey-lesse-multiagent-four-infra.md) hardens “engineers still have work” from the platform-eng side: many fear AI coding devalues craft; Anthropic platform eng lead Katelyn Lesse argues the opposite—unlocking thousand-agent systems still needs programmers on scheduling, identity/authz, isolation, and observability/kill switches, and now is one of the most interesting times to be an engineer. This page only takes the engineer-value evidence that scarce work can land on multiagent platform infra; the four-gap checklist lives under [Four infra gaps for large multiagent systems](./multiagent-infra-four-problems.md).[^dotey-lesse-multiagent-four-infra] Post: <https://x.com/dotey/status/2115229306490126432>.
+
+[邵萌谈 Manus Mono：给 AI 一张全栈地图](../sources/articles/shao-meng-manus-mono.md) 给出「工具与工作流 > 堆角色 Agent、小团队吃多端」的产研落地：瓶颈在联调人对齐而非写码；用统一入口 + 给 AI 的仓说明书（非揉大仓）让约 1 名构建者 + 1 个共享上下文智能体走完前后端移动，对比约 5 人 + 5 个独立上下文智能体再人工交接；本地验证与发布操作逐步补齐，审批仍在人。仓图模式本身见 [给 AI 的全栈仓图](./ai-facing-fullstack-repo-map.md)；本页只收产能与价值排序证据。[^shao-meng-manus-mono] 原帖 <https://x.com/shao__meng/status/2115048792483660088>。
+
+[Meng Shao on Manus Mono — a full-stack map for AI](../sources/articles/shao-meng-manus-mono.md) supplies a product/eng landing of “tools and workflows > stacking role Agents, small teams covering many surfaces”: the bottleneck was integration alignment, not coding; a unified entry plus AI-facing repo docs (not a mega-repo merge) lets about one builder plus one shared-context agent finish frontend, backend, and mobile, versus about five people plus five separate-context agents then human handoff; local verify and release ops land step by step with approvals still human. The repo-map pattern itself lives under [AI-facing full-stack repo map](./ai-facing-fullstack-repo-map.md); this page only takes the throughput and value-ordering evidence.[^shao-meng-manus-mono] Post: <https://x.com/shao__meng/status/2115048792483660088>.
+
 ## 矛盾与变化 / Contradictions
 
 与「预定义工作流优先于开放式智能体」的张力，记在 [Workflows before agents](./workflows-before-agents.md)。
@@ -92,6 +113,12 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 - 来源：[邵萌谈何时把子 Agent 折进主循环](../sources/articles/shao-meng-fold-subagents-main-loop.md)
 - 来源：[邵萌转述 Felix：别再用 2024 方式用 Claude](../sources/articles/shao-meng-felix-not-2024-claude-usage.md)
 - 来源：[Orange AI 谈 AI 流量超人类后搜索要重做](../sources/articles/oran-ge-ai-traffic-search-rebuild.md)
+- 来源：[宝玉转述 Felix：取消编程面试与冲劲胜过资历](../sources/articles/dotey-felix-hunger-beats-tenure.md)
+- 来源：[宝玉转述 Lesse：上千 Agent 仍缺四道基建题](../sources/articles/dotey-lesse-multiagent-four-infra.md)
+- 来源：[邵萌谈 Manus Mono：给 AI 一张全栈地图](../sources/articles/shao-meng-manus-mono.md)
+- 主题：[给 AI 的全栈仓图](./ai-facing-fullstack-repo-map.md)
+- 主题：[冲劲胜过资历](./hunger-beats-tenure.md)
+- 主题：[多智能体四道基建题](./multiagent-infra-four-problems.md)
 - 主题：[Workflows before agents](./workflows-before-agents.md)
 - 主题：[Claude Code 作者与社区话筒](./claude-code-authorship-and-voice.md)
 - 主题：[软件工厂](./software-factory.md)
@@ -108,6 +135,12 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 - Source: [Meng Shao on when to fold sub-agents into the main loop](../sources/articles/shao-meng-fold-subagents-main-loop.md)
 - Source: [Meng Shao relays Felix—stop using Claude the 2024 way](../sources/articles/shao-meng-felix-not-2024-claude-usage.md)
 - Source: [Orange AI on rebuilding search after AI traffic surpasses humans](../sources/articles/oran-ge-ai-traffic-search-rebuild.md)
+- Source: [Dotey relays Felix—hunger beats tenure](../sources/articles/dotey-felix-hunger-beats-tenure.md)
+- Source: [Dotey relays Lesse—four infra gaps for thousand-agent systems](../sources/articles/dotey-lesse-multiagent-four-infra.md)
+- Source: [Meng Shao on Manus Mono — a full-stack map for AI](../sources/articles/shao-meng-manus-mono.md)
+- Topic: [AI-facing full-stack repo map](./ai-facing-fullstack-repo-map.md)
+- Topic: [Hunger beats tenure](./hunger-beats-tenure.md)
+- Topic: [Four infra gaps for large multiagent systems](./multiagent-infra-four-problems.md)
 - Topic: [Workflows before agents](./workflows-before-agents.md)
 - Topic: [Claude Code authorship and community voice](./claude-code-authorship-and-voice.md)
 - Topic: [Software factory](./software-factory.md)
@@ -124,3 +157,6 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 [^shao-meng-fold-subagents-main-loop]: Meng Shao on when to fold sub-agents into the main loop
 [^shao-meng-felix-not-2024-claude-usage]: Meng Shao relays Felix—stop using Claude the 2024 way
 [^oran-ge-ai-traffic-search-rebuild]: Orange AI on rebuilding search after AI traffic surpasses humans
+[^dotey-felix-hunger-beats-tenure]: Dotey relays Felix—hunger beats tenure
+[^dotey-lesse-multiagent-four-infra]: Dotey relays Lesse—four infra gaps for thousand-agent systems
+[^shao-meng-manus-mono]: Meng Shao on Manus Mono — a full-stack map for AI

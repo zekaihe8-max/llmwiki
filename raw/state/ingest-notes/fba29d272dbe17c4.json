@@ -1,0 +1,61 @@
+{
+  "topics_consulted": [
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/lighter-phone-macs-for-agents.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "No existing Topic owned phone-client ↔ own-server agent workbench access (App Store client controlling desktop agents/local models); created to carry this claim.",
+    "topics/mobile-agent-dev-full-chain.md": "Adjacent phone-side agent work, but owns Grok Bot → Cursor Cloud → PR/CI chain and human three jobs; OpenBot is self-hosted server client—cross-linked from new Topic; left unchanged.",
+    "topics/lighter-phone-macs-for-agents.md": "Adjacent phone-as-light-front-door narrative, but owns purchase budget / Macs-for-agents device roles; this post is product ship, not hardware spend—left unchanged.",
+    "topics/laptop-light-battery-remote-ai-coding.md": "Parallel portable-connects-remote idea, but owns travel-laptop lightness/battery needs when AI coding is remote; not an iPhone App Store client—left unchanged.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Adjacent multi-agent / dispatch wording, but owns Grok-as-foreman role and subscription layering; OpenBot does not redefine who is foreman—left unchanged.",
+    "topics/minimal-core-community-extensions.md": "Neighbors Pi Pocket mobile remote Sessions, but owns slim-core + community-divergence architecture; OpenBot is not evidence for that Pi/DSH trunk claim—left unchanged.",
+    "topics/premium-ai-subscription-value.md": "Post mentions reusing existing AI subscriptions only as a product feature; does not argue worth-it / burn-rate / trim-stack economics—left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "create",
+      "reason": "New page for phone client connected to own server as mobile agent workbench; integrated OpenBot App Store ship evidence and contrasts with cloud full-chain, hardware-budget, laptop-thin-client, foreman, and slim-core topics."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Owns Grok→Cursor Cloud→PR/CI path; boundary noted only on the new Topic—file not modified."
+    },
+    {
+      "path": "topics/lighter-phone-macs-for-agents.md",
+      "action": "unchanged",
+      "reason": "Owns hardware budget/device roles; Source Related link only."
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "Laptop hardware-need cut only; cross-linked from new Topic Related."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Foreman/subscription layering, not mobile workbench client."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Slim-core + community extension architecture only; boundary link from new Topic."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "No worth-it economics claim in this article."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "No existing Topic owned the durable idea of a phone App Store client connecting to your own server to remote-control a multi-agent desktop workbench (coding agents + local models + handoff + existing subs). Nearest pages cover Grok→Cursor Cloud full-chain, phone/Mac purchase roles, laptop thin-client needs, foreman subscription layering, or Pi Pocket as slim-core community extension—none can carry this without conflating product cuts."
+  },
+  "notes": "Created Source sources/articles/heydengai-openbot-app-store.md for https://x.com/heydengai/status/2115367414368202876. No prior Source with this resource URL. Did not edit raw/articles or x-digest."
+}

@@ -18,9 +18,15 @@ sources:
   - id: dexhorthy-skills-session-context
     resource: https://x.com/dexhorthy/status/2114408588991222156
     title: Dex Horthy on stacking skills in one session and context dirtying
+  - id: shao-meng-langchain-content-studio
+    resource: https://x.com/shao__meng/status/2115345069570212202
+    title: Meng Shao on four months of LangChain Content Studio
+  - id: shao-meng-manus-mono
+    resource: https://x.com/shao__meng/status/2115048792483660088
+    title: Meng Shao on Manus Mono — a full-stack map for AI
 generated:
   by: cursor-agent/composer
-  at: 2026-10-26T08:50:00+08:00
+  at: 2026-10-28T20:45:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -58,11 +64,23 @@ The same author’s other post [Dex Horthy on stacking skills in one session and
 
 This sits with [Workflows before agents](./workflows-before-agents.md) in the “start from the simplest working shape” family, on a different cut: that page asks whether to add an open-ended agent at all; this page asks whether, inside an agent, to split by org chart into sub-agents. On the Skills side it meets [Agent skill authoring](./agent-skill-authoring.md) and [Project instructions and token efficiency](./agents-md-token-efficiency.md)—progressive disclosure and on-demand load are not only token hygiene, but the default architecture that replaces an orchestration layer. For output constraints see [Adversarial review and external evidence](./adversarial-review-external-evidence.md).
 
+[邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md) 给出「可测并行 / 不堵主线程」的媒体量产例：主 Agent 统筹派活，子任务异步（`start_task` / `check_tasks` 等），因同步子 Agent 会堵住 Slack 主线程；隔夜改肤 52 页 PPT 时主 Agent 约 1 小时、子 Agent 合计逾 6 小时仍不堵对话。这落在本页保留的「需并行的新鲜窗 / 可测长任务」边界，而不是把「每角色常驻专家 Agent」写成默认；派角色与选模型力度是编排操作，主入口仍是单线程主 Agent + Skills/wiki。[^shao-meng-langchain-content-studio] 原帖 <https://x.com/shao__meng/status/2115345069570212202>。
+
+[Meng Shao on four months of LangChain Content Studio](../sources/articles/shao-meng-langchain-content-studio.md) supplies a media-production case of “measurable parallelism / don’t block the main thread”: a main agent orchestrates while subtasks run async (`start_task` / `check_tasks`, etc.) because sync sub-agents would block the Slack main thread; an overnight 52-page deck reskin kept the main agent ~1 hour and sub-agents >6 hours total without clogging chat. That lands inside this page’s reserved “parallel fresh windows / measurable long jobs” bound, not as a default of standing expert Agents per role; role assignment and model intensity are orchestration ops, with the entry still one main-thread agent plus Skills/wiki.[^shao-meng-langchain-content-studio] Post: <https://x.com/shao__meng/status/2115345069570212202>.
+
+[邵萌谈 Manus Mono：给 AI 一张全栈地图](../sources/articles/shao-meng-manus-mono.md) 从产研组织侧加固「忌按角色各开独立上下文」：不用 Mono 时约产/设/前/后/移动各带一个智能体、上下文互不共享再靠人工交接；用 Mono 后约 1 名构建者 + 1 个共享上下文智能体走完各端。这与本页「一个上下文窗」默认同向，但手段是跨仓说明书与统一入口，不是 Skills/tool search 渐进披露；仓图模式见 [给 AI 的全栈仓图](./ai-facing-fullstack-repo-map.md)。[^shao-meng-manus-mono] 原帖 <https://x.com/shao__meng/status/2115048792483660088>。
+
+[Meng Shao on Manus Mono — a full-stack map for AI](../sources/articles/shao-meng-manus-mono.md) hardens “don’t open a separate context per role” from product/eng org practice: without Mono, product/design/frontend/backend/mobile each roughly had an agent with non-shared context then human handoff; with Mono, about one builder plus one shared-context agent finishes every surface. That aligns with this page’s one-context-window default, but the means are cross-repo docs and a unified entry—not Skills/tool-search progressive disclosure; the repo-map pattern lives under [AI-facing full-stack repo map](./ai-facing-fullstack-repo-map.md).[^shao-meng-manus-mono] Post: <https://x.com/shao__meng/status/2115048792483660088>.
+
 ## 矛盾与变化 / Contradictions
 
 [智能体规模化工程](./agent-scaled-engineering.md) 据 Cherny 斯坦福分享强调可跑长时、衍生大量智能体的循环；本页所据 Claude 博文则主张刚性「每问题类型/每团队一子 Agent」常挡住更强模型，默认应折回主循环。两者不互相取消：前者谈速度与组织 sparseness 下的多智能体产能，后者谈产品入口上的编排默认与迁移；适用边界不同，但「多 Agent 是否默认正确」上存在张力。[^shao-meng-fold-subagents-main-loop]
 
 [Agent-scaled engineering](./agent-scaled-engineering.md), from Cherny’s Stanford talk, stresses long-running loops that spawn many agents; this page’s Claude post argues rigid “one sub-agent per problem type / per team” often blocks stronger models and should default to folding back into the main loop. They do not cancel each other: the former is about multi-agent throughput under velocity and organizational sparseness; the latter is about orchestration defaults and migration at a product entry point. Scope differs, but they tension on whether multi-agent is the right default.[^shao-meng-fold-subagents-main-loop]
+
+[Content Studio](../sources/articles/shao-meng-langchain-content-studio.md) 的异步子任务若被误读成「默认多 Agent 编排」会与本页主循环默认打架；按文意它是为几小时媒体子活与多人改 brief 而保留并行，主 Agent 仍是统筹入口——与「子 Agent 有时间有场合」同向，不是把组织图复制成常驻专家层。若把派角色固化成每职能一个长期子 Agent 默认，则会滑回本页所反对的形态。[^shao-meng-langchain-content-studio]
+
+[Content Studio](../sources/articles/shao-meng-langchain-content-studio.md)’s async subtasks would clash with this page’s main-loop default if misread as “multi-agent orchestration by default”; in the piece they keep parallelism for multi-hour media subwork and mid-flight brief changes, with the main agent still the orchestration entry—aligned with “sub-agents have a time and place,” not copying an org chart into standing experts. Hardening role dispatch into a default long-lived sub-agent per function would slide back into the shape this page rejects.[^shao-meng-langchain-content-studio]
 
 Felix 访谈中的对抗评审多线程，是**产出核验**上的多会话分工，不是按组织架构堆长期角色子 Agent；与本页「默认主循环」不冲突，但若把「证明你错了」线程固化成常驻专家 Agent 编排，又会滑回本页所反对的默认。详见 [对抗评审与外部证据](./adversarial-review-external-evidence.md)。[^shao-meng-felix-not-2024-claude-usage]
 
@@ -74,13 +92,19 @@ Felix’s interview multi-thread adversarial review is a **verification** split 
 - Source: [邵萌转述 Felix：别再用 2024 方式用 Claude](../sources/articles/shao-meng-felix-not-2024-claude-usage.md)
 - Source: [Dex Horthy 谈子 Agent 滥用与上下文管理](../sources/articles/dexhorthy-subagent-overuse.md)
 - Source: [Dex Horthy 谈同会话叠 Skills 与上下文污染](../sources/articles/dexhorthy-skills-session-context.md)
+- Source: [邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md)
+- Source: [邵萌谈 Manus Mono：给 AI 一张全栈地图](../sources/articles/shao-meng-manus-mono.md)
+- Topic: [给 AI 的全栈仓图](./ai-facing-fullstack-repo-map.md)
 - Topic: [工作流优先于智能体](./workflows-before-agents.md)
 - Topic: [智能体规模化工程](./agent-scaled-engineering.md)
 - Topic: [Agent Skill 编写](./agent-skill-authoring.md)
 - Topic: [项目指令与 Token 效率](./agents-md-token-efficiency.md)
 - Topic: [对抗评审与外部证据](./adversarial-review-external-evidence.md)
+- Topic: [公司级 Agent Harness 五原语](./company-agent-harness.md)
 
 [^shao-meng-fold-subagents-main-loop]: Meng Shao on when to fold sub-agents into the main loop
 [^shao-meng-felix-not-2024-claude-usage]: Meng Shao relays Felix—stop using Claude the 2024 way
 [^dexhorthy-subagent-overuse]: Dex Horthy on subagent overuse and context management
 [^dexhorthy-skills-session-context]: Dex Horthy on stacking skills in one session and context dirtying
+[^shao-meng-langchain-content-studio]: Meng Shao on four months of LangChain Content Studio
+[^shao-meng-manus-mono]: Meng Shao on Manus Mono — a full-stack map for AI

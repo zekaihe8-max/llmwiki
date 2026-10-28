@@ -1,0 +1,64 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:13:13.444Z",
+  "url": "https://x.com/oran_ge/status/2115228282681770237",
+  "slug": "ab6e3fa2c3dca93f",
+  "content_hash": "552be4f768ed757fdb0c8d202c24a4a5fddfe757f9f66a6e88f38675f0b05f79",
+  "source": {
+    "path": "sources/articles/oran-ge-ai-pharma-market-vs-coding.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Consulted for company-path overlap; left unchanged—AI-native taxonomy already owned; Related link from Source only."
+    },
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "add_evidence",
+      "reason": "Integrated the standalone cold-fact post: same author restates AI-pharma > coding/office and Anthropic-via-M&A as a freestanding short URL beside the Mithril long post; updated lead, synthesis, contradictions note of alignment, sources[], and Related."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "Already owns Anthropic/Mithril OPC+lab acquisition shape and the AI-pharma-vs-coding market / M&A narrative; this follow-up is the same market judgment as a standalone cold-fact post—add evidence, do not open a second Topic.",
+    "topics/ai-native-companies.md": "Closest founding/company-path page (AI-native vs incumbent remake), but owns Paul Graham’s three paths—not AI-pharma market-value claims or Anthropic bio M&A narrative."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/oran-ge-ai-pharma-market-vs-coding.md",
+    "topics/ai-pharma-opc-lab-acquisition.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-pharma-opc-lab-acquisition.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-pharma-opc-lab-acquisition.md": "Already owns Anthropic/Mithril OPC+lab acquisition shape and the AI-pharma-vs-coding market / M&A narrative; this follow-up is the same market judgment as a standalone cold-fact post—add evidence, do not open a second Topic.",
+      "topics/ai-native-companies.md": "Closest founding/company-path page (AI-native vs incumbent remake), but owns Paul Graham’s three paths—not AI-pharma market-value claims or Anthropic bio M&A narrative."
+    },
+    "notes": "Created Source sources/articles/oran-ge-ai-pharma-market-vs-coding.md for https://x.com/oran_ge/status/2115228282681770237. Did not edit raw/articles or x-digest. Companion Mithril Source oran-ge-anthropic-acquires-mithril.md already filed for the longer post; left that Source file unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/oran-ge-ai-pharma-market-vs-coding.md",
+        "topics/ai-pharma-opc-lab-acquisition.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

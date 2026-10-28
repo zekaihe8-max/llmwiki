@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "Owns Grok Bot cloud-PC backup, shared-host isolation, and schedule-trust bounds from the same author’s three-pitfalls post; this five-mechanisms post deepens the same non-VPS cloud-env claim (sleep pauses cron, software may not survive rebuild, memory balloon) and records schedule-channel tension.",
+    "topics/grok-bot-x-api-substitute.md": "Already carries Grok Bot built-in X tool quota (~1000/day, 30/min) for bridging off paid X API; this article rechecks those limits and adds max-25-per-call, fixed-window reset, and multi-account tip.",
+    "topics/personal-agent-hype-familiarity-gap.md": "Same Grok Bot personal-agent narrative neighbor; owns craze reception vs coding-agent familiarity, not cloud-PC mechanisms.",
+    "topics/mobile-agent-dev-full-chain.md": "Same author/product-line neighbor; owns phone→Cursor Cloud→PR happy path, not sleep/quota/backup mechanism bounds."
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "add_evidence",
+      "reason": "Integrated five-mechanisms evidence into lead, description, synthesis, Related; recorded contradiction between three-pitfalls (built-in routines need external checks) and five-mechanisms (prefer built-in tasks over cloud cron)."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "add_evidence",
+      "reason": "Added Xiaomo quota recheck (30/min, 1000/day, max 25, fixed window, multi-account) without changing the bridge conclusion; linked cloud-env Topic for non-search mechanisms."
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "Consulted for personal-agent narrative overlap; left unchanged—no hype/familiarity claims in this article."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for same-author Grok Bot product-line adjacency; left unchanged—no phone dispatch / PR / CI chain evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created Source sources/articles/xiaomovps-grok-bot-five-mechanisms.md for https://x.com/xiaomovps/status/2115378617614262327. Reused personal-agent-cloud-env-pitfalls and grok-bot-x-api-substitute; no new Topic. Did not edit raw/articles or x-digest."
+}

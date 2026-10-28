@@ -1,0 +1,93 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:56:42.047Z",
+  "url": "https://x.com/cgnot996/status/2115345115137053105",
+  "slug": "a00a0b671dbe383c",
+  "content_hash": "03f2953f8e98c7d85b34131980da6700e5572e02c0f2a7134aac1dbef5f4c79f",
+  "source": {
+    "path": "sources/articles/cgnot996-grok-bot-jd-invoice-reissue.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-clears-deferred-life-todos.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Owns general account/asset hygiene; post has no hygiene claims."
+    },
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "unchanged",
+      "reason": "Owns deferred lazy life TODOs; reimbursement reissue is a different motive—Source Related links only."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Integrated Grok Bot cloud-browser JD filter/reissue/email-package case; updated description, synthesis, contradictions, sources, and Related—no conclusion change."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Owns cloud-env pitfalls checklist; no backup/isolation/schedule claims in this post—boundary link from Computer Use / Source only."
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "Owns trust-handover inventory frame; not updated for a single invoice anecdote."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "Owns agent GUI see–think–act–check and phone/browser ops; this post is Grok Bot cloud-browser JD login, order filter, and invoice reissue—add_evidence on that surface.",
+    "topics/agent-clears-deferred-life-todos.md": "Adjacent life/work admin via agents, but owns “noted but too lazy” deferred TODOs (e.g. credit-card points); this post is residency reimbursement reissue, not lazy-TODO framing—left unchanged.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Touches putting shopping-site login into Bot browser (shared browser login), but owns cloud-PC backup/isolation/sleep/schedule risks; post is happy-path invoice workflow without env-risk claims—left unchanged, cross-linked only.",
+    "topics/tasks-confidently-handed-to-ai.md": "Adjacent “hand work to AI,” but owns community confident-handover inventory / survey frame; this is one concrete invoice case—left unchanged.",
+    "topics/account-and-asset-security-hygiene.md": "Adjacent account/login hygiene wording, but owns passwords/2FA/card limits/trusted services; post celebrates JD login on Bot without hygiene advice—left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cgnot996-grok-bot-jd-invoice-reissue.md",
+    "sources/articles/index.md",
+    "topics/computer-use.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-clears-deferred-life-todos.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "Owns agent GUI see–think–act–check and phone/browser ops; this post is Grok Bot cloud-browser JD login, order filter, and invoice reissue—add_evidence on that surface.",
+      "topics/agent-clears-deferred-life-todos.md": "Adjacent life/work admin via agents, but owns “noted but too lazy” deferred TODOs (e.g. credit-card points); this post is residency reimbursement reissue, not lazy-TODO framing—left unchanged.",
+      "topics/personal-agent-cloud-env-pitfalls.md": "Touches putting shopping-site login into Bot browser (shared browser login), but owns cloud-PC backup/isolation/sleep/schedule risks; post is happy-path invoice workflow without env-risk claims—left unchanged, cross-linked only.",
+      "topics/tasks-confidently-handed-to-ai.md": "Adjacent “hand work to AI,” but owns community confident-handover inventory / survey frame; this is one concrete invoice case—left unchanged.",
+      "topics/account-and-asset-security-hygiene.md": "Adjacent account/login hygiene wording, but owns passwords/2FA/card limits/trusted services; post celebrates JD login on Bot without hygiene advice—left unchanged."
+    },
+    "notes": "Created Source sources/articles/cgnot996-grok-bot-jd-invoice-reissue.md for https://x.com/cgnot996/status/2115345115137053105. No second Source for same URL. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cgnot996-grok-bot-jd-invoice-reissue.md",
+        "sources/articles/index.md",
+        "topics/computer-use.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

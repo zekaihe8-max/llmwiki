@@ -1,0 +1,61 @@
+{
+  "topics_consulted": [
+    "topics/ai-facing-fullstack-repo-map.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/software-factory.md",
+    "topics/company-agent-harness.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-worktree-cleanup.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-facing-fullstack-repo-map.md": "No existing Topic owned the durable pattern: unified entry + AI-facing cross-repo docs (not mega-repo merge) so one shared-context agent covers full-stack with human approval.",
+    "topics/agent-scaled-engineering.md": "Owns small-team throughput and tools/workflows over stacking Agents; Mono’s ~1 builder + shared context finishing all surfaces is direct capacity/value evidence.",
+    "topics/fold-subagents-into-main-loop.md": "Owns one shared context window vs per-role separate agents; Mono’s 5 independent-context agents vs 1 shared-context agent aligns with that default.",
+    "topics/software-factory.md": "Adjacent compressed delivery path with human approval; owns bounded L4 factory definition—Mono does not claim L4 evidence/boundaries.",
+    "topics/company-agent-harness.md": "Adjacent company agent infra wording; owns five multiplayer harness primitives (surface/identity/memory/sandbox/ambient)—not cross-repo AI-facing docs.",
+    "topics/ai-native-companies.md": "Series frames AI Native org remake; Topic owns founding AI-native vs remaking incumbents (PG paths)—not repo-map engineering infra.",
+    "topics/agent-worktree-cleanup.md": "Article mentions Git worktree for parallelism; Topic owns AGENTS.md delete-worktree-on-done hygiene—different cut."
+  },
+  "topics": [
+    {
+      "path": "topics/ai-facing-fullstack-repo-map.md",
+      "action": "create",
+      "reason": "Created to carry Manus Mono’s unified-entry + AI-facing repo-map pattern (not mega-repo merge; shared context; stepwise local/prod/release; human approval)."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "add_evidence",
+      "reason": "Integrated Mono as product/eng evidence for tools/workflows over role Agents and one builder covering many surfaces; pointed repo-map detail to the new Topic."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "add_evidence",
+      "reason": "Integrated Mono’s 5 separate-context agents vs 1 shared-context agent as org-side reinforcement of one-context default; means are repo docs, not Skills progressive disclosure."
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Consulted for delivery-path/human-approval adjacency; left unchanged—owns L4 factory definition; Mono linked from Source/Related only."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Consulted for company-harness wording overlap; left unchanged—owns five primitives, not cross-repo map; linked from Source/Related only."
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Consulted for AI Native org framing; left unchanged—owns founding vs remaking paths, not Mono repo-map infra; linked from Source/Related only."
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "Consulted for worktree mention; left unchanged—owns cleanup-on-done rules, not Mono parallel-worktree support."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/ai-facing-fullstack-repo-map.md": "agent-scaled-engineering owns throughput/value ordering; fold-subagents owns orchestration default of one context; software-factory owns L4; company-agent-harness owns five multiplayer primitives; ai-native-companies owns founding vs remaking paths. None owned unified entry + AI-facing multi-repo docs without mega-repo merge as the durable pattern."
+  },
+  "notes": "Created Source sources/articles/shao-meng-manus-mono.md for https://x.com/shao__meng/status/2115048792483660088. Filed from fetched article body only; did not import digest extras as article claims. Did not edit raw/articles or x-digest."
+}

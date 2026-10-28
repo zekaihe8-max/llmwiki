@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-25T23:58:20.950Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -1077,5 +1077,421 @@
     "last_seen": "2026-10-25T23:58:20.950Z",
     "digest": "2026-10-26-frontier-ai.md",
     "title": "Matt Pocock (@mattpocockuk)"
+  },
+  "https://x.com/dotey/status/2115282464935473225": {
+    "hash": "30cbedace0e013c702636dca9c7d06814412b261a5928f2d034cf786f61d8004",
+    "slug": "30cbedace0e013c7",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Opus 5.5 后 Agent 剪辑像 Claude Code 刚出"
+  },
+  "https://x.com/dotey/status/2115218749888634988": {
+    "hash": "6a73df50e98546c9c798f4a18560f49e837508cb31703017f01c60446378422a",
+    "slug": "6a73df50e98546c9",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Felix 取消编程面试 + 新人冲劲"
+  },
+  "https://x.com/dotey/status/2115229306490126432": {
+    "hash": "0ef8472608b0bcc46ab61bd03c0f9ee396d939b72a87357e804a8267d9d7090f",
+    "slug": "0ef8472608b0bcc4",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "上千 Agent 仍缺四道基建题"
+  },
+  "https://x.com/dotey/status/2115286764294214011": {
+    "hash": "1d8d4bbb0e593a814b229dc2205cc7321d703bf8c427057a8db5bc0026af9bf0",
+    "slug": "1d8d4bbb0e593a81",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Opus 成本约 $0.6/$3.0"
+  },
+  "https://x.com/dotey/status/2115314783503196605": {
+    "hash": "30e471020836e04c3c18044f3db3c53842ed45335419e788d3e866a7edfb2f04",
+    "slug": "30e471020836e04c",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "worktree"
+  },
+  "https://x.com/op7418/status/2115128743408828720": {
+    "hash": "84fd05b90e12beccab3417ca29d197b6a571d041a29c81c78730a2775bb8647e",
+    "slug": "84fd05b90e12becc",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Genie 4 世界模型"
+  },
+  "https://x.com/op7418/status/2115281467236585804": {
+    "hash": "4db86cb5b5e6150f14ab11f67935716862a26a9b1fb9a32fe3901f7656aac4f3",
+    "slug": "4db86cb5b5e6150f",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "编码面试已死"
+  },
+  "https://x.com/op7418/status/2115058211225293113": {
+    "hash": "2bd7cbfa5fbf57d2c2609e241afcc0be4f41120874a0359b82d7675a39b10518",
+    "slug": "2bd7cbfa5fbf57d2",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "DSH 插件潮 + 蓝色大肥鱼"
+  },
+  "https://x.com/op7418/status/2115291006426067339": {
+    "hash": "e5eb7bb8b5b9e92adecc70de507699cc89686ed203ee7cffffff60129ad597d8",
+    "slug": "e5eb7bb8b5b9e92a",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "synapse"
+  },
+  "https://x.com/op7418/status/2115307286784876767": {
+    "hash": "d79f907843bf0ca8193a459acad2446309e536a3cdd0840a799b72026a76de21",
+    "slug": "d79f907843bf0ca8",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "大肥鱼"
+  },
+  "https://x.com/op7418/status/2115357210457100743": {
+    "hash": "01aa9856454fd8c1d9aced847a13792513e86a2d840a090053d213cdd0263fff",
+    "slug": "01aa9856454fd8c1",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "小米 15 跑 iOS 16 + 桌面性转马尔福"
+  },
+  "https://x.com/op7418/status/2115380683749429279": {
+    "hash": "faeba7a80fdadad366ab836563d6e9dca4d764724674248ac1e278d6187087c3",
+    "slug": "faeba7a80fdadad3",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "马尔福"
+  },
+  "https://x.com/shao__meng/status/2115345069570212202": {
+    "hash": "7b65dffb182c37600cff6840d7722c4f63a6dcd49374a290312bfcb5ff736643",
+    "slug": "7b65dffb182c3760",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "LangChain Content Studio 四个月"
+  },
+  "https://x.com/shao__meng/status/2115048792483660088": {
+    "hash": "542b8ddb1d3a269fc5d0974bf22ba466556299485c3a2f4413010145de902864",
+    "slug": "542b8ddb1d3a269f",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Manus Mono：一张全栈地图"
+  },
+  "https://x.com/shao__meng/status/2115392731333951528": {
+    "hash": "96c4034feddbc7f8f25c00b664e7d1645e67592f5cfa583f9026451de84f538e",
+    "slug": "96c4034feddbc7f8",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "poteto 的 tibot 模板"
+  },
+  "https://x.com/shao__meng/status/2115332272152826248": {
+    "hash": "78c647ce8ab315aa9ebbbba8837558178c61b1e8722ebe75c2fdd35a3855991d",
+    "slug": "78c647ce8ab315aa",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "三套 Skills 复刻顶级 iOS"
+  },
+  "https://x.com/xiaomovps/status/2115378617614262327": {
+    "hash": "618695ddcc275a89aa3f22aa131312990d2c8af890b74efe326b5dfc3e579557",
+    "slug": "618695ddcc275a89",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Grok Bot 五个机制真相"
+  },
+  "https://x.com/xiaomovps/status/2115102099226935462": {
+    "hash": "1cd8c0fe4433498713e53311db3056b54c30b3bbcc67407c01731fa2c8f23d51",
+    "slug": "1cd8c0fe44334987",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "DSH 0.2.1：自研搜索 + Agent 写插件"
+  },
+  "https://x.com/xiaomovps/status/2115270974811812111": {
+    "hash": "2fee691f6698ee77204b087d932cc004fb3bd2aac52e8a985bb7abbd8d245447",
+    "slug": "2fee691f6698ee77",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "DSH 三坑与 DSH↔Grok 互派"
+  },
+  "https://x.com/xiaomovps/status/2115362688977232228": {
+    "hash": "1d213a8b830d4e43422ab82ef6167471f83b449c6cefd12b6459daea3530bbfc",
+    "slug": "1d213a8b830d4e43",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "互通"
+  },
+  "https://x.com/xiaomovps/status/2115336041574088906": {
+    "hash": "468bf525de9884bf67c7b5de094b6b008afa5e6f076eb778dc1280339519d362",
+    "slug": "468bf525de9884bf",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "指纹测出 Sonnet 5.5 + 三个视频 Bot"
+  },
+  "https://x.com/xiaomovps/status/2115314460340748454": {
+    "hash": "9bd3eadb46be122a28dbf8c37665682c30250028b15d350e083987dcbdff4961",
+    "slug": "9bd3eadb46be122a",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "视频"
+  },
+  "https://x.com/xiaomovps/status/2115395887887479279": {
+    "hash": "fbcc9046eb2d7a1c1060e3cd2b2119b06d78cff2bfdc1a0fde3ad97f0cdbf26b",
+    "slug": "fbcc9046eb2d7a1c",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "ESP32 上跑 Agent"
+  },
+  "https://x.com/yetone/status/2115324976412934486": {
+    "hash": "64201aedbb74bee83935d97a043453bb2879f81ccb7dddc80768046ab6889572",
+    "slug": "64201aedbb74bee8",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Magpie 脱敏演示动画"
+  },
+  "https://x.com/yetone/status/2115407804047696373": {
+    "hash": "5332f004568453871141970bab9d1aee304821f85f6d8bab604716c34a5c4b28",
+    "slug": "5332f00456845387",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "插件化"
+  },
+  "https://x.com/turingou/status/2115130258244743249": {
+    "hash": "76ff8c6a8a77bca49c60ad2c39fb7f00ee59c9adffa08cd5884acd82fb232465",
+    "slug": "76ff8c6a8a77bca4",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Agent 日本手机号 Povo 2.0"
+  },
+  "https://x.com/turingou/status/2115388647805722809": {
+    "hash": "12031795ebbf33578a6126fdbb04e44ee33a438d151108e1d2a568f76ab31d7d",
+    "slug": "12031795ebbf3357",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Claude 清信用卡积分"
+  },
+  "https://x.com/turingou/status/2115389980780708302": {
+    "hash": "58a4445b2193de692734c45caf3bd2ff98b74e20820b81b744e7e22cdf8aeff8",
+    "slug": "58a4445b2193de69",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Drop Line 语音输入"
+  },
+  "https://x.com/fkysly/status/2115349799998529551": {
+    "hash": "7bb7801d242478d31a9a02d5b23a1ec331e806f235ba2992d5a24cd1826107c5",
+    "slug": "7bb7801d242478d3",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Claude 额度燃尽实录"
+  },
+  "https://x.com/fkysly/status/2115320283439747384": {
+    "hash": "38961b3afa5c50c77431934b649cb4157dc1bfbdba3ab3bd580418106d0cf5f2",
+    "slug": "38961b3afa5c50c7",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "KYC"
+  },
+  "https://x.com/fkysly/status/2115313019668590623": {
+    "hash": "10dadb7d5489c57e802cdff37ba03a8a44a036571c7443080a527a82b3a37947",
+    "slug": "10dadb7d5489c57e",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "哪些活已放心交给 AI"
+  },
+  "https://x.com/fkysly/status/2115090079039570316": {
+    "hash": "f04cef165733e0948346c36376ea3b301536bb2ff79136001326ed228e5dfa2e",
+    "slug": "f04cef165733e094",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "笔记本"
+  },
+  "https://x.com/dingyi/status/2115252195637797192": {
+    "hash": "7969f7cbdfccb48f97c5719ba789627dff0289a44da60dfe73b6b2d48c64ae5a",
+    "slug": "7969f7cbdfccb48f",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "好看 Linux 正式开放"
+  },
+  "https://x.com/dingyi/status/2115095929892348219": {
+    "hash": "0db23ae8dd83c782442879d5ca8a476451f2a2342faf0b8bad062c9e71fd51f0",
+    "slug": "0db23ae8dd83c782",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "AutoRouter + 设计软件"
+  },
+  "https://x.com/dingyi/status/2115276770509557827": {
+    "hash": "185dcd3cf5ef0f0961ddbda4128543e0353cf43bf4daf4757ca95bee137e4a12",
+    "slug": "185dcd3cf5ef0f09",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "设计"
+  },
+  "https://x.com/oran_ge/status/2115223157464506813": {
+    "hash": "5d11c8ac1be72ad348b2c3e0a5756dfabaf8b2c5025a19b1d5b7747c3e0f320a",
+    "slug": "5d11c8ac1be72ad3",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Anthropic 收购 Mithril"
+  },
+  "https://x.com/oran_ge/status/2115228282681770237": {
+    "hash": "ab6e3fa2c3dca93fa6cc6ecb8c60b00ab9970a3c341afa4122365583dd11df13",
+    "slug": "ab6e3fa2c3dca93f",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "医药"
+  },
+  "https://x.com/oran_ge/status/2115219518192816138": {
+    "hash": "e1f2d81c8e6f2c4b944047f551571c39651f2b6b7adb673e60666b92fd20d403",
+    "slug": "e1f2d81c8e6f2c4b",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Genie 4 + GEO 第一步"
+  },
+  "https://x.com/oran_ge/status/2115092945854730581": {
+    "hash": "3dcff10de561a96985ee5b6b2d8c3e49c4a777db727fe3004658d33fde6dee96",
+    "slug": "3dcff10de561a969",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "GEO"
+  },
+  "https://x.com/wquguru/status/2115266993096102036": {
+    "hash": "dee3fb12517716a8c67897ef9659512180adac0bcfce017bca566fa75cff4b15",
+    "slug": "dee3fb12517716a8",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "DSH 做网安几乎不用破甲"
+  },
+  "https://x.com/wquguru/status/2115293894091198638": {
+    "hash": "cecd678229c47fab8ed190f63b060691d2881d1fcc864ad62b7d355d7ced7a4d",
+    "slug": "cecd678229c47fab",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "榜单"
+  },
+  "https://x.com/wquguru/status/2115101854887751877": {
+    "hash": "e13b4d9a7547d7ed521e8a3e6ad01ce4764c311d1efda3236e78e02d25b47f56",
+    "slug": "e13b4d9a7547d7ed",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "不用 DMIT 自建的理由"
+  },
+  "https://x.com/vista8/status/2115353660075168054": {
+    "hash": "bf52f5bb3be47fb265f2de28ba450fc4218a7b39e908b1735af0cce3cda7b5a6",
+    "slug": "bf52f5bb3be47fb2",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "《AI 浮生记》开源小游戏"
+  },
+  "https://x.com/vista8/status/2115293920955605424": {
+    "hash": "d75767c7e7fadd09f04e780169842639ae82eeabcf024882041874cf87833f13",
+    "slug": "d75767c7e7fadd09",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Landing"
+  },
+  "https://x.com/vista8/status/2115318655525523714": {
+    "hash": "d79ace6504feabf775fb5135b96bee725147d1d5d37b3a9db819a969f7a219c2",
+    "slug": "d79ace6504feabf7",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "AI 工具自荐活动 + Raycast"
+  },
+  "https://x.com/vista8/status/2115319209437872246": {
+    "hash": "d51d50d563524e67ca90df2a782a37d1e0438f54f6910f99d707f2ee3bc99fde",
+    "slug": "d51d50d563524e67",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Raycast"
+  },
+  "https://x.com/0xlangeai/status/2115300040701096272": {
+    "hash": "cdd6af484ccad92199b14860b6eaff8ac4ecd7636098f4213478cbe5e87b11c9",
+    "slug": "cdd6af484ccad921",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Claude Code「变笨」三隐形坑"
+  },
+  "https://x.com/0xlangeai/status/2115266929103700219": {
+    "hash": "216802e152afd1a3c07a5630ec4c295d691a8be63b3cc7c86b051d35a5623ee5",
+    "slug": "216802e152afd1a3",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Skillry 月入万刀拆解 + 网易 Mail Agent"
+  },
+  "https://x.com/0xlangeai/status/2115368271587471636": {
+    "hash": "742755c6b7f005370df724112ada7c843009c0ebe55ba34e3b02ea3150be1c42",
+    "slug": "742755c6b7f00537",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "邮箱"
+  },
+  "https://x.com/cgnot996/status/2115345115137053105": {
+    "hash": "a00a0b671dbe383c9ba37fe17a1407dd0665a336d37ac4d97a6d030ad28f1faa",
+    "slug": "a00a0b671dbe383c",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "Grok Bot 京东换开发票"
+  },
+  "https://x.com/cgnot996/status/2115317431019430249": {
+    "hash": "2017c688c41e4203fee12554d76a8fe0cb47b5ba86308e3bc7ac1c41f6d08a65",
+    "slug": "2017c688c41e4203",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "小铁柱群聊日报可雇"
+  },
+  "https://x.com/heydengai/status/2115367414368202876": {
+    "hash": "fba29d272dbe17c4ce59ff1855bd5f432ba132b1f3c5e1bd93f268d0c871fe21",
+    "slug": "fba29d272dbe17c4",
+    "first_seen": "2026-10-28T11:57:37.194Z",
+    "last_seen": "2026-10-28T11:57:37.194Z",
+    "digest": "2026-10-28-cn-x.md",
+    "title": "OpenBot 上架 App Store"
   }
 }

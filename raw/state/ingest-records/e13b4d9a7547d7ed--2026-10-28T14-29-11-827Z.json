@@ -1,0 +1,86 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:29:11.827Z",
+  "url": "https://x.com/wquguru/status/2115101854887751877",
+  "slug": "e13b4d9a7547d7ed",
+  "content_hash": "491ec121d474b12dfef4096f8313521641a47d9d77e635c7682803d8948bf0ea",
+  "source": {
+    "path": "sources/articles/wquguru-no-dmit-selfhost-nodes.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/programmable-edge-compute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Consulted for Claude+IP adjacency; left unchanged—owns weighted risk-signal ranking, not proxy self-host vs managed stack ROI; residential tip does not rewrite the weight table."
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "create",
+      "reason": "Created to carry the durable claim that managed proxy/landing/hosting stacks beat self-hosted DMIT-class VPS nodes on ROI, stability, and ease for personal use."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Consulted for VPS-adjacent wording; left unchanged—owns Grok Bot cloud-PC backup/isolation/schedule pitfalls, not DMIT-style proxy self-host abandonment."
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Consulted for Cloudflare naming; left unchanged—Pages-as-free-static is a hosting drop, not Workers/KV/DO/D1 programmable primitives."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "No catalog Topic owned personal proxy/landing/app hosting as managed-over-self-hosted VPS ROI; risk-weights, programmable-edge, and personal-agent cloud-env pages are adjacent but different axes."
+  },
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "No existing Topic owned self-host DMIT-class proxy VPS vs managed daily proxy + residential Claude landing + Pages/Hetzner; this article’s durable ROI/ops claim needs a home.",
+    "topics/claude-subscription-risk-control-weights.md": "Same author and Claude + IP/residential adjacency (risk page weights IP type/stability); consulted because the post’s Claude landing tip touches environment/IP.",
+    "topics/programmable-edge-compute.md": "Post names Cloudflare Pages for static hosting; this page owns Workers/KV/DO/D1 programmable-edge primitives.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Shares “don’t treat X as a traditional VPS” wording; owns Grok Bot cloud-PC hygiene, not personal proxy-node self-host ROI."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/wquguru-no-dmit-selfhost-nodes.md",
+    "topics/index.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/programmable-edge-compute.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/managed-over-selfhosted-proxy-nodes.md": "No existing Topic owned self-host DMIT-class proxy VPS vs managed daily proxy + residential Claude landing + Pages/Hetzner; this article’s durable ROI/ops claim needs a home.",
+      "topics/claude-subscription-risk-control-weights.md": "Same author and Claude + IP/residential adjacency (risk page weights IP type/stability); consulted because the post’s Claude landing tip touches environment/IP.",
+      "topics/programmable-edge-compute.md": "Post names Cloudflare Pages for static hosting; this page owns Workers/KV/DO/D1 programmable-edge primitives.",
+      "topics/personal-agent-cloud-env-pitfalls.md": "Shares “don’t treat X as a traditional VPS” wording; owns Grok Bot cloud-PC hygiene, not personal proxy-node self-host ROI."
+    },
+    "notes": "Created Source sources/articles/wquguru-no-dmit-selfhost-nodes.md for https://x.com/wquguru/status/2115101854887751877. Embedded older Webshare/card quote summarized as author-linked prior landing tip only. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/wquguru-no-dmit-selfhost-nodes.md",
+        "topics/index.md",
+        "topics/managed-over-selfhosted-proxy-nodes.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

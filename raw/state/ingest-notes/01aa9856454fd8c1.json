@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/llm-assisted-ereader-jailbreak.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/ai-assisted-os-port-wave.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-assisted-ereader-jailbreak.md": "Closest existing AI+unlock page, but owns Kindle/e-reader jailbreak plus post-unlock WiFi/MCP/AI-reader chain—not phone cross-OS ports or an AI crack-and-port wave.",
+    "topics/gpu-ai-compute-unlock.md": "Also community software unlock of consumer hardware limits, but owns Ampere FP/BF16 throughput selectors—not OS porting or Xiaomi/iOS.",
+    "topics/account-and-asset-security-hygiene.md": "Mentions avoiding cracked software as personal hygiene; different claim from observing an AI-assisted OS port wave as formerly unthinkable but now tryable.",
+    "topics/ai-assisted-os-port-wave.md": "No existing Topic owned the community ‘AI crack and port’ wave feel, cross-OS consumer ports (e.g. Xiaomi 15 on iOS 16) moving from unthinkable to feed-visible, or owners planning to try—without a how-to."
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "create",
+      "reason": "Created to carry AI crack-and-port wave observation: cross-OS consumer ports become timeline-visible and tryable; evidence from 歸藏 Xiaomi 15 / iOS 16 post."
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "Consulted for AI+unlock overlap; left unchanged—e-reader jailbreak/AI-reader chain already owned; linked from Source/Related only."
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "Consulted for consumer hardware unlock overlap; left unchanged—GPU throughput unlock already owned; linked from Source/Related only."
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Consulted for cracked-software hygiene tension; left unchanged—personal security checklist already owned; Related link from new Topic only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "llm-assisted-ereader-jailbreak owns Kindle/e-reader LLM-guided jailbreak and post-unlock reading pipelines; gpu-ai-compute-unlock owns Ampere AI throughput unlock; account-and-asset-security-hygiene owns avoid-cracked-software hygiene. None owned the named AI crack-and-port wave or phone cross-OS port tryability (Xiaomi 15 / iOS 16) as a durable observation without a how-to."
+  },
+  "notes": "Created Source sources/articles/op7418-xiaomi-15-ios-16.md for https://x.com/op7418/status/2115357210457100743. Did not edit raw/articles or x-digest. Digest also mentions a separate 马尔福 desk-pet post; that URL is out of scope for this Source."
+}

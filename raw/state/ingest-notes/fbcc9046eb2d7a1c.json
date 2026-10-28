@@ -1,0 +1,61 @@
+{
+  "topics_consulted": [
+    "topics/on-chip-agent-runtime.md",
+    "topics/local-open-assistant-models.md",
+    "topics/agent-home-platform-control.md",
+    "topics/programmable-edge-compute.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/on-chip-agent-runtime.md": "No existing Topic owned MCU/ESP32 Agent Runtime or on-chip execution loops with cloud inference; created to carry that durable claim from this article.",
+    "topics/local-open-assistant-models.md": "Closest physical/edge-hardware neighbor—owns on-board local small open models (e.g. Jetson), not Agent Runtime loops on ESP32-class MCUs; linked, left unchanged.",
+    "topics/agent-home-platform-control.md": "Shares Agents-touch-hardware neighborhood; owns Home-platform menu control, not MCU-hosted Agent loops; linked, left unchanged.",
+    "topics/programmable-edge-compute.md": "Shares ‘edge programmable’ wording; owns Cloudflare Workers/KV/DO/D1 network edge, not microcontroller Agent cycles; linked, left unchanged.",
+    "topics/desktop-outfit-character-companions.md": "Tiny Engineer is a desk robot; topic owns outfit-character companionship desire, not Agent-on-chip runtime; Related foil only, left unchanged.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "MimiClaw claims no Linux/VPS; topic owns Grok Bot cloud-PC backup/isolation/cron hygiene, not on-chip Agent loops; Related contrast only, left unchanged.",
+    "topics/computer-use.md": "Consulted for agent-acts-in-physical-world overlap; owns GUI see-think-act-check on PC/phone, not MCU Agent Runtime—left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "create",
+      "reason": "Created to own on-chip Agent Runtime/execution loop on cheap MCUs (ESP-Claw, MimiClaw) with cloud model calls; Tiny Engineer as peripheral-body foil."
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (local small open models on edge boards vs MCU Agent Runtime); file not edited."
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (Home-platform device control vs on-chip Agent loop); file not edited."
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (CDN-edge Workers stack vs MCU Agent cycle); file not edited."
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (desktop outfit companions vs Agent-on-chip); file not edited."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (personal-agent cloud-PC ops hygiene vs MCU Agent Runtime); file not edited."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Different durable claim (GUI Computer Use vs on-chip Agent Runtime); file not edited."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/on-chip-agent-runtime.md": "local-open-assistant-models owns on-board local small open models; agent-home-platform-control owns Home-platform appliance control; programmable-edge-compute owns Workers/KV/DO/D1; desktop-outfit-character-companions owns outfit companionship; personal-agent-cloud-env-pitfalls owns cloud-PC hygiene; computer-use owns GUI act loops. None owned putting Agent Runtime/execution logic on cheap MCU silicon with optional cloud inference."
+  },
+  "notes": "Created Source sources/articles/xiaomovps-esp32-agent-three-projects.md for https://x.com/xiaomovps/status/2115395887887479279. Filed claims from raw/articles/fbcc9046eb2d7a1c.md (Tiny Engineer, ESP-Claw, MimiClaw + on-chip execution-logic thesis). Did not edit raw/articles or x-digest."
+}

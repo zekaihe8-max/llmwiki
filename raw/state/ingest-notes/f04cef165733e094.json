@@ -1,0 +1,33 @@
+{
+  "topics_consulted": [
+    "topics/lighter-phone-macs-for-agents.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/laptop-light-battery-remote-ai-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/lighter-phone-macs-for-agents.md": "Closest portable-hardware role split (phone lightens; Macs for agents); owns purchase-budget phone vs agent-Mac cut, not travel-laptop thin-client vs home AI-coding machine or M6 MacBook Pro disinterest.",
+    "topics/mobile-agent-dev-full-chain.md": "Adjacent remote coding without sitting at the heavy box; owns phone→personal agent→cloud coding agent→PR/CI assembly, not laptop light+battery needs when connecting home.",
+    "topics/laptop-light-battery-remote-ai-coding.md": "No existing page owned travel-laptop needs shrinking to lightness and battery when AI coding is remote to a home machine, plus lost interest in flagship local MacBook Pro performance; created to carry that concept."
+  },
+  "topics": [
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "create",
+      "reason": "Opened new Topic for remote AI-coding → laptop thin-client (light + battery only) and M6 MacBook Pro disinterest; no existing Topic owned that cut."
+    },
+    {
+      "path": "topics/lighter-phone-macs-for-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted for portable-hardware role adjacency; left unchanged—phone/Mac purchase budget already owned; evidence belongs on new Topic with cross-link only."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for remote-coding adjacency; left unchanged—full-chain product assembly, not laptop hardware-needs shrinkage."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/laptop-light-battery-remote-ai-coding.md": "No existing Topic owns the claim that when AI coding runs by connecting back to a home (or other remote) machine, a travel laptop mainly needs lightness and battery and flagship local performance (e.g. M6 MacBook Pro) loses appeal; lighter-phone-macs owns phone vs agent-Mac purchase, mobile-agent-dev-full-chain owns phone→cloud agent ops—different cuts."
+  },
+  "notes": "Created Source sources/articles/fkysly-laptop-light-battery-remote-ai.md for https://x.com/fkysly/status/2115090079039570316. Did not edit raw/articles or x-digest. Did not cite digest summary as article body."
+}

@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/model-mascot-merch-harness-coheat.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "No existing Topic owned daily desktop outfit-changing character companions, or framing such a ship as accidentally pulling off something big.",
+    "topics/casual-ai-minigame-first-try.md": "Adjacent casual/accidental satisfying ship; owns one-shot playable mini-games and model-floor feel—not desktop outfit character companionship.",
+    "topics/model-mascot-merch-harness-coheat.md": "Adjacent character-image consumption; owns brand-mascot physical merch co-heating with harness and feed saturation—not desktop outfit companions.",
+    "topics/local-open-assistant-models.md": "May share “interactive characters” wording; owns few-GB open models for local assistants/robots and edge demos—not desktop outfit companions."
+  },
+  "topics": [
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "create",
+      "reason": "Created to carry daily desktop outfit-changing character companionship desire plus accidental-big-ship self-framing from the Malfoy post."
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "Consulted for casual-ship overlap; left unchanged—claims stay on mini-game floor; linked from Source/Related only."
+    },
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "unchanged",
+      "reason": "Consulted for character-image overlap; left unchanged—claims stay on brand merch + harness co-heat; linked from Source/Related only."
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Consulted for interactive-character wording overlap; left unchanged—claims stay on small open models / edge demos; linked from Source/Related only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/desktop-outfit-character-companions.md": "casual-ai-minigame-first-try owns one-shot playable mini-games; model-mascot-merch-harness-coheat owns brand mascot physical merch co-heating with harness; local-open-assistant-models owns few-GB open models for local assistants/robots. None owned desktop companions of popular characters with outfit variety people want to see every day, framed as accidentally shipping something big."
+  },
+  "notes": "Created Source sources/articles/op7418-desktop-malfoy-outfits.md for https://x.com/op7418/status/2115380683749429279. Filed from fetched post body only (accidental big ship + desktop genderbent Malfoy outfits desire + image); did not import digest extras (affinity unlocks / open source). Did not edit raw/articles or x-digest."
+}

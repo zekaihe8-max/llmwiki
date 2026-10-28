@@ -1,0 +1,86 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:16:33.273Z",
+  "url": "https://x.com/dotey/status/2115314783503196605",
+  "slug": "30e471020836e04c",
+  "content_hash": "f2ee3d849acc173492e8d55b13f500b1eec3f72ea47da310fe6e8472196acef8",
+  "source": {
+    "path": "sources/articles/dotey-agents-md-worktree-cleanup.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-worktree-cleanup.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "create",
+      "reason": "Created to carry per-session worktree disk sprawl, AGENTS.md finish-then-delete strategy, and baocut-style merge/archive/orchestrator teardown rules."
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "Consulted for AGENTS.md-rule overlap; left unchanged—new claims are disk/worktree lifecycle, linked from Source/Related only."
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "Consulted for AGENTS.md behavior-shaping overlap; left unchanged—doc–code conflict priority already owned here."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for AGENTS.md authoring pattern overlap; left unchanged—delivery UX/DX/AX rules already owned here."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/agent-worktree-cleanup.md": "agents-md-token-efficiency owns Token/persona/usage rules in AGENTS.md; ux-dx-and-ax owns delivery experience rules; code-over-spec owns stale-doc vs code. None owned leftover per-session git worktrees, GB-scale node_modules/.next residue, or finish-then-delete/archive/orchestrator cleanup."
+  },
+  "selection_reasons": {
+    "topics/agent-worktree-cleanup.md": "No existing Topic owned git worktree lifecycle hygiene or ‘finish-then-delete worktree’ via AGENTS.md; closest pages own AGENTS.md for tokens, UX/DX/AX, or doc–code conflict.",
+    "topics/agents-md-token-efficiency.md": "Same vehicle—writing execution constraints into AGENTS.md—but owns Token waste, personas, and usage-habit rules, not disk/worktree teardown.",
+    "topics/ux-dx-and-ax.md": "Also encodes durable agent behavior in AGENTS.md, but for UX/DX/AX delivery decisions, not worktree cleanup.",
+    "topics/code-over-spec.md": "Also about AGENTS.md shaping agent priority, but for stale-doc vs running-code conflicts, not leftover worktrees."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-agents-md-worktree-cleanup.md",
+    "sources/articles/index.md",
+    "topics/agent-worktree-cleanup.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-worktree-cleanup.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-worktree-cleanup.md": "No existing Topic owned git worktree lifecycle hygiene or ‘finish-then-delete worktree’ via AGENTS.md; closest pages own AGENTS.md for tokens, UX/DX/AX, or doc–code conflict.",
+      "topics/agents-md-token-efficiency.md": "Same vehicle—writing execution constraints into AGENTS.md—but owns Token waste, personas, and usage-habit rules, not disk/worktree teardown.",
+      "topics/ux-dx-and-ax.md": "Also encodes durable agent behavior in AGENTS.md, but for UX/DX/AX delivery decisions, not worktree cleanup.",
+      "topics/code-over-spec.md": "Also about AGENTS.md shaping agent priority, but for stale-doc vs running-code conflicts, not leftover worktrees."
+    },
+    "notes": "Created Source sources/articles/dotey-agents-md-worktree-cleanup.md for https://x.com/dotey/status/2115314783503196605. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-agents-md-worktree-cleanup.md",
+        "sources/articles/index.md",
+        "topics/agent-worktree-cleanup.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

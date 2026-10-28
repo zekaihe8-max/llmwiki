@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "Fetched post is Orange AI’s Genie 4 world-model feel take (currently strongest; Google models weak this year but Genie 4 quality promising)—same concept already owned by the Genie 4 / interactive world-models page opened from 歸藏.",
+    "topics/pro-vs-flash-model-strategy.md": "Consulted because Orange mentions Google models overall underwhelming this year (echoes Pro underwhelm chatter including Gemini), but the post’s durable claim is world-model quality hope, not Pro vs Flash strategy."
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "add_evidence",
+      "reason": "Integrated Orange AI short take beside 歸藏: same Genie 4 launch, qualitative ‘currently strongest / promising quality’ plus same-lab weak-year contrast; widened lead/description; noted aligned frames with different emphases under Contradictions."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "‘Google models underwhelmed’ is background contrast for Genie 4 hope, not evidence about Pro/Flash product strategy or score-hype backlash; leaving that page alone."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Digest title hint mentioned GEO, but fetched body for this URL is only the Genie 4 short post; did not invent GEO claims or a GEO topic. Source slug oran-ge-genie-4-world-model.md; resource URL exact as given."
+}

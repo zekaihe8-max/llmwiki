@@ -1,0 +1,23 @@
+{
+  "slug": "30e471020836e04c",
+  "url": "https://x.com/dotey/status/2115314783503196605",
+  "title": "worktree",
+  "digest": "2026-10-28-cn-x.md",
+  "status": "filed",
+  "hash": "30e471020836e04c3c18044f3db3c53842ed45335419e788d3e866a7edfb2f04",
+  "first_seen": "2026-10-28T11:57:37.194Z",
+  "last_seen": "2026-10-28T11:57:37.194Z",
+  "fetched_at": "2026-10-28T11:57:38.986Z",
+  "content_hash": "f2ee3d849acc173492e8d55b13f500b1eec3f72ea47da310fe6e8472196acef8",
+  "article_path": "articles/30e471020836e04c.md",
+  "fetched_url": "https://x.com/dotey/status/2115314783503196605",
+  "source_path": "sources/articles/dotey-agents-md-worktree-cleanup.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-28T12:16:33.274Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

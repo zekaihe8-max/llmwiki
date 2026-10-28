@@ -1,0 +1,23 @@
+{
+  "slug": "e5eb7bb8b5b9e92a",
+  "url": "https://x.com/op7418/status/2115291006426067339",
+  "title": "synapse",
+  "digest": "2026-10-28-cn-x.md",
+  "status": "filed",
+  "hash": "e5eb7bb8b5b9e92adecc70de507699cc89686ed203ee7cffffff60129ad597d8",
+  "first_seen": "2026-10-28T11:57:37.194Z",
+  "last_seen": "2026-10-28T11:57:37.194Z",
+  "fetched_at": "2026-10-28T11:57:41.457Z",
+  "content_hash": "aeecae37f7e4d51e0bb9fe0b2bb235b11eb95d9189a82d7c219d783b8e5ef02d",
+  "article_path": "articles/e5eb7bb8b5b9e92a.md",
+  "fetched_url": "https://x.com/op7418/status/2115291006426067339",
+  "source_path": "sources/articles/op7418-dsh-synapse.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-28T12:26:24.738Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

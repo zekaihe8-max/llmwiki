@@ -9,9 +9,15 @@ sources:
   - id: xiaomovps-dsh-deepseek-channels
     resource: https://x.com/xiaomovps/status/2114263858869318047
     title: Xiaomo on DeepSeek channel pricing for DSH
+  - id: xiaomovps-dsh-three-pitfalls
+    resource: https://x.com/xiaomovps/status/2115270974811812111
+    title: Xiaomo on three DeepSeek Harness desktop pitfalls
+  - id: wquguru-dsh-cyber-no-jailbreak
+    resource: https://x.com/wquguru/status/2115266993096102036
+    title: WquGuru on DSH for cyber research with little need for jailbreak
 generated:
   by: cursor-agent/composer
-  at: 2026-10-25T20:30:00+08:00
+  at: 2026-10-28T22:19:00+08:00
 ---
 
 # 面向 Agent 的模型渠道取舍
@@ -32,6 +38,14 @@ For the same agent harness and model family, the access layer can still choose a
 
 Adjacent to but distinct from [Premium AI subscription value](./premium-ai-subscription-value.md): that page is about whether product memberships (Claude / Grok / GPT stacks) are worth it, enough, and cuttable; this page is how inference channels and package caps feed the same model family into a harness. Also a different axis from [Harness comparison beyond tokens](./harness-comparison-beyond-tokens.md): that page compares harness behavior (e.g. Pi vs DSH); this page holds the harness fixed and compares backend channels.
 
+同作者后续的 [小墨谈 DSH 桌面端三坑](../sources/articles/xiaomovps-dsh-three-pitfalls.md) 把 OpenCode Go 的「Session」风险从比价提醒落成桌面 APP 操作：接入后 400、开自动审查时报 `MissingSessionID`，把对话框权限切成工作区内修改；旧版普通对话也错可装 `dsh-opencode-session` 后完全重启。[^xiaomovps-dsh-three-pitfalls] 原帖 <https://x.com/xiaomovps/status/2115270974811812111>。本页仍管渠道取舍与接入兼容，不收插件启动崩溃或长会话 Compaction 细节——后者见 [精简核心与社区扩展](./minimal-core-community-extensions.md) 与 [长对话默认压缩低于模型窗口](./long-conversation-default-compression.md)。
+
+The same author’s later [Xiaomo on three DeepSeek Harness desktop pitfalls](../sources/articles/xiaomovps-dsh-three-pitfalls.md) turns the OpenCode Go “Session” risk from a pricing-note into desktop-APP ops: after connect, a 400 with auto-review on reports `MissingSessionID`—switch chat permission to workspace-scoped edits; older builds that also fail in ordinary chat can install `dsh-opencode-session` and fully restart.[^xiaomovps-dsh-three-pitfalls] Post: <https://x.com/xiaomovps/status/2115270974811812111>. This page still owns channel tradeoffs and integration compatibility, not plugin boot crashes or long-chat Compaction detail—those live under [Minimal core and community extensions](./minimal-core-community-extensions.md) and [Long-conversation default compression below model window](./long-conversation-default-compression.md).
+
+[WquGuru 谈 DSH 做网安几乎不用破甲](../sources/articles/wquguru-dsh-cyber-no-jailbreak.md) 从**跨模型切换的聚合入口**补一条渠道证据：为随时切换 GLM-5.3 与 DeepSeek V4.1 Flash 1017，作者一般用 ZenMux，称质量与缓存率与官方完全一致、无需来回多个供应商、国产模型持续折扣。[^wquguru-dsh-cyber-no-jailbreak] 原帖 <https://x.com/wquguru/status/2115266993096102036>。本页只收渠道侧（聚合切换、官方对齐的质量/缓存、免多供应商、折扣），不收「网安少破甲 / 不敢用 Claude」的选型主张——后者见 [网安研究选型：少破甲的模型与 Harness](./cyber-research-models-without-jailbreak.md)。
+
+[WquGuru on DSH for cyber research with little need for jailbreak](../sources/articles/wquguru-dsh-cyber-no-jailbreak.md) adds channel evidence from a **cross-model aggregator entry**: to switch GLM-5.3 and DeepSeek V4.1 Flash 1017 anytime, he usually uses ZenMux, citing quality and cache rate matching official, no hopping across vendors, and ongoing discounts on Chinese models.[^wquguru-dsh-cyber-no-jailbreak] Post: <https://x.com/wquguru/status/2115266993096102036>. This page only takes the channel side (aggregator switching, official-parity quality/cache, no multi-vendor hopping, discounts)—not the “cyber research with little jailbreak / dare not use Claude” selection claim, which lives under [Cyber-research model picks that need little jailbreaking](./cyber-research-models-without-jailbreak.md).
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -39,8 +53,15 @@ Adjacent to but distinct from [Premium AI subscription value](./premium-ai-subsc
 ## 相关 / Related
 
 - Source: [小墨谈 DSH 可用的 DeepSeek 渠道比价](../sources/articles/xiaomovps-dsh-deepseek-channels.md)
+- Source: [小墨谈 DSH 桌面端三坑](../sources/articles/xiaomovps-dsh-three-pitfalls.md)
+- Source: [WquGuru 谈 DSH 做网安几乎不用破甲](../sources/articles/wquguru-dsh-cyber-no-jailbreak.md)
+- Topic: [网安研究选型：少破甲的模型与 Harness](./cyber-research-models-without-jailbreak.md)
 - Topic: [高端 AI 订阅价值](./premium-ai-subscription-value.md)
 - Topic: [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)
 - Topic: [编程 Agent 体验与额度](./coding-agent-ux-vs-quota.md)
+- Topic: [精简核心与社区扩展](./minimal-core-community-extensions.md)
+- Topic: [长对话默认压缩低于模型窗口](./long-conversation-default-compression.md)
 
 [^xiaomovps-dsh-deepseek-channels]: Xiaomo on DeepSeek channel pricing for DSH
+[^xiaomovps-dsh-three-pitfalls]: Xiaomo on three DeepSeek Harness desktop pitfalls
+[^wquguru-dsh-cyber-no-jailbreak]: WquGuru on DSH for cyber research with little need for jailbreak

@@ -1,0 +1,84 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:05:23.297Z",
+  "url": "https://x.com/dingyi/status/2115095929892348219",
+  "slug": "0db23ae8dd83c782",
+  "content_hash": "7851ef458bf78f9aaa9b6840fb8b2cbeabaa7e5ad2535fe154b7413d2eb88a66",
+  "source": {
+    "path": "sources/articles/dingyi-autorouter.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Consulted for channel/cost adjacency; left unchanged—same-family provider packages, not cross-model Auto."
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "add_evidence",
+      "reason": "Integrated Ding/AutoRouter as installable third-party Auto evidence; broadened description/synthesis and recorded delivery-surface distinction vs Google Cloud picker Auto under Contradictions."
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Consulted for harness-vs-model routing adjacency; left unchanged—multi-harness API infra, not model Auto."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for animation/UX aside; left unchanged—AGENTS.md delivery rules, not AutoRouter page animations."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "Owns Auto-style per-task cross-model routing for quality/cost; Google Cloud picker Auto already filed—AutoRouter is the installable third-party analogue to integrate here.",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Shares “route by task” wording; owns multi-harness same-API infra vs personal-assistant dispatch, not per-request model Auto.",
+    "topics/agent-model-channel-tradeoffs.md": "Shares cost/routing talk; owns same-model-family provider/package channels (OpenRouter etc.), not Auto picking across models by task.",
+    "topics/ux-dx-and-ax.md": "Shares liking page animations / UX wording; owns AGENTS.md UX/DX/AX co-lift rules, not product-page animation asides on a model router."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dingyi-autorouter.md",
+    "sources/articles/index.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cloud-auto-model-routing.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/cloud-auto-model-routing.md": "Owns Auto-style per-task cross-model routing for quality/cost; Google Cloud picker Auto already filed—AutoRouter is the installable third-party analogue to integrate here.",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "Shares “route by task” wording; owns multi-harness same-API infra vs personal-assistant dispatch, not per-request model Auto.",
+      "topics/agent-model-channel-tradeoffs.md": "Shares cost/routing talk; owns same-model-family provider/package channels (OpenRouter etc.), not Auto picking across models by task.",
+      "topics/ux-dx-and-ax.md": "Shares liking page animations / UX wording; owns AGENTS.md UX/DX/AX co-lift rules, not product-page animation asides on a model router."
+    },
+    "notes": "Created Source sources/articles/dingyi-autorouter.md for https://x.com/dingyi/status/2115095929892348219. Digested design-software sibling tweet is a different URL and was not filed here. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dingyi-autorouter.md",
+        "sources/articles/index.md",
+        "topics/cloud-auto-model-routing.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

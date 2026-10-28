@@ -1,0 +1,66 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-skill-authoring.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/code-over-spec.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "Owns AGENTS.md / CLAUDE.md loading and instruction-side token efficiency; pitfall 1 is Claude Code defaulting to CLAUDE.md only with silent AGENTS.md skip—cross-harness contrast with DSH dual-load.",
+    "topics/agent-skill-authoring.md": "Owns Skill description lean-ness, stacking, and delete/caution; pitfall 2 is description-budget ~1% silently stripping low-frequency trigger text.",
+    "topics/premium-ai-subscription-value.md": "Owns subscription worth-it / billing surprises; pitfall 3 is leftover ANTHROPIC_API_KEY causing pay-as-you-go while users think they are on the subscription.",
+    "topics/coding-agent-ux-vs-quota.md": "Adjacent Claude Code quota/burn narrative; consulted because silent API-key metered billing is credential routing, not UX-vs-allotment.",
+    "topics/agent-model-channel-tradeoffs.md": "Adjacent pay-as-you-go vs package channel choice for harnesses; consulted because this article is Claude Code env-key override of subscription, not deliberate DeepSeek channel picking.",
+    "topics/calibrating-ai-guidance.md": "Consulted for “getting dumb” wording adjacency; left unchanged—owns over-/under-guidance dial as hiring skill, not silent config pitfalls.",
+    "topics/coding-agent-token-saving-tooling.md": "Consulted for Claude Code token-tooling adjacency; left unchanged—owns peripheral saver tools and overhead, not Skill description budget.",
+    "topics/code-over-spec.md": "Consulted for AGENTS.md conflict priority; left unchanged—owns stale-doc vs code following, not which instruction file Claude Code loads."
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "record_contradiction",
+      "reason": "Integrated Claude Code CLAUDE.md-only default vs DSH dual-load as harness-specific contradiction; updated lead/synthesis and descriptions."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added ~1% description-budget silent truncation and skill-doctor disable-unused evidence; noted complementary to Dex stacking bounds."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added ANTHROPIC_API_KEY silent pay-as-you-go vs assumed subscription; recorded wording overlap with “dumbing down” as different question level."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Owns UX vs quota allotment/burn/reset/account survival—not silent API-key credential billing."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Owns deliberate multi-channel pricing for harness backends—not Claude Code env key overriding a product subscription."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "Owns over-/under-guidance calibration—not silent CLAUDE.md/Skill/API-key config pitfalls."
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Owns peripheral token-saving tools and install overhead—not Skill description budget truncation."
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "Owns doc–code conflict priority in AGENTS.md—not which file Claude Code loads by default."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created Source sources/articles/0xlangeai-claude-code-three-pitfalls.md for https://x.com/0xlangeai/status/2115300040701096272. Did not treat the embedded KobinFlow best-practices quote as article body. Did not edit raw/articles or x-digest."
+}

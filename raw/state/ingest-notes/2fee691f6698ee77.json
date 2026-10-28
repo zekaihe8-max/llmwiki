@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "Owns OpenCode Go / Session Header channel-compat for DSH; pit 1 (MissingSessionID 400) is concrete Session integration evidence for that channel.",
+    "topics/minimal-core-community-extensions.md": "Owns slim-core vs plugin-composed host; pit 2 (third-party plugin deps crash boot) plus ‘community fills gaps / official should own details / community-only maintenance unsafe’ are stability and maintenance-ownership costs of that path.",
+    "topics/long-conversation-default-compression.md": "Owns harness long-chat compression defaults vs model window; pit 3 (/compact, small-window Compaction reserve too large) is the opposite-direction misalignment (reserve too big vs compress too early).",
+    "topics/harness-plugin-style-fragmentation.md": "Same DSH plugin family, but owns UI style collage from stacked plugins—not dependency conflicts that block boot or maintenance-ownership claims.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Also a ‘three pitfalls’ checklist form, but owns Grok Bot cloud-PC backup/isolation/schedules—not DSH desktop APP ops.",
+    "topics/harness-comparison-beyond-tokens.md": "Adjacent DSH metering/efficiency narrative (feature growth still needs efficiency); this article’s durable claims are APP fixes and plugin-host stability/maintenance, already owned better by channel / minimal-core / compression Topics."
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Integrated OpenCode Go MissingSessionID 400 desktop fixes (workspace permission / dsh-opencode-session) as Session-compat evidence; did not change channel pricing conclusions."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Added plugin-host stability and maintenance-ownership evidence (third-party dep boot failures, recovery disable, community-only maintenance unsafe); recorded as coexistence with 0.2.1 capability path under Contradictions."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "change_conclusion",
+      "reason": "Broadened claim from ‘default-compress below window’ to misalignment either way; added DSH small-window reserve-too-large / /compact / Compaction evidence and recorded opposite-direction contradiction vs magpie."
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH plugin overlap; left unchanged—UI style fragmentation already owned; Source Related link only."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Consulted for three-pitfalls checklist parallel; left unchanged—Grok cloud-env ops already owned; not DSH desktop."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "Consulted for DSH efficiency adjacency; left unchanged—no new metering/quality claims; stability/maintenance go to minimal-core."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created Source sources/articles/xiaomovps-dsh-three-pitfalls.md for https://x.com/xiaomovps/status/2115270974811812111. Fetched body is the three desktop pitfalls; digest also mentions a separate DSH↔Grok interchange URL (2115362688977232228) which is out of scope for this Source. Did not edit raw/articles or x-digest."
+}

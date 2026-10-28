@@ -9,9 +9,15 @@ sources:
   - id: hwchase17-company-harness
     resource: https://x.com/hwchase17/status/2114041443836903662
     title: Harrison Chase on the five components of a company harness
+  - id: dotey-lesse-multiagent-four-infra
+    resource: https://x.com/dotey/status/2115229306490126432
+    title: Dotey relays Lesse—four infra gaps for thousand-agent systems
+  - id: shao-meng-langchain-content-studio
+    resource: https://x.com/shao__meng/status/2115345069570212202
+    title: Meng Shao on four months of LangChain Content Studio
 generated:
   by: cursor-agent/composer
-  at: 2026-10-26T08:16:30+08:00
+  at: 2026-10-28T20:40:00+08:00
 ---
 
 # 公司级 Agent Harness 五原语
@@ -28,13 +34,21 @@ A company can run multiplayer agents across marketing, sales, and engineering at
 
 [Harrison Chase on the five components of a company harness](../sources/articles/hwchase17-company-harness.md) grounds a “company harness” recipe in LangChain’s internal GTM Agent, OpenSWE, and Content Studio, lists the five primitives, and flags identity as the thorniest problem; UX also covers Slack breakout and a custom UI for backlog cases; infra sits on Managed Deep Agents over open-source Deep Agents.[^hwchase17-company-harness] Post: <https://x.com/hwchase17/status/2114041443836903662>.
 
-适用边界：这是一家公司的内部实践总结与产品通例主张，不是跨厂商基准或合规规范；未在帖中给出的失败率、成本或通用 SLA 不在此发明。记忆被作者标为「探索最少」——本页记下该边界，不把双层记忆写成已成熟标准。
+[宝玉转述 Lesse：上千 Agent 仍缺四道基建题](../sources/articles/dotey-lesse-multiagent-four-infra.md) 从 Anthropic 平台工程侧独立加固「身份与沙箱仍难」：上千智能体规模上，身份可借短时凭证，授权与互派信任基本空白；并主张每智能体严格沙箱以防提示注入经共享记忆传染——与本页 OBO/自有身份与沙箱执行原语同向，但不改本页「五原语配方」主线；调度、可观测急停等开放议程见 [多智能体四道基建题](./multiagent-infra-four-problems.md)。[^dotey-lesse-multiagent-four-infra] 原帖 <https://x.com/dotey/status/2115229306490126432>。
 
-Scope: this is one company’s internal-practice summary and product-recipe claim, not a cross-vendor benchmark or compliance spec; failure rates, cost, or SLAs absent from the post are not invented here. Memory is labeled “least explored”—this page records that bound and does not cast two-tier memory as a mature standard.
+[Dotey relays Lesse—four infra gaps for thousand-agent systems](../sources/articles/dotey-lesse-multiagent-four-infra.md) independently hardens “identity and sandbox still hard” from Anthropic platform eng: at thousand-agent scale, identity can reuse short-lived credentials while authz and inter-agent trust stay largely blank; and each agent should run in a strict sandbox so prompt injection cannot spread via shared memory—aligned with this page’s OBO/own-identity and sandboxed-execution primitives, without changing the five-primitive recipe as the main thread; the open scheduling and observability/kill-switch agenda lives under [Four infra gaps for large multiagent systems](./multiagent-infra-four-problems.md).[^dotey-lesse-multiagent-four-infra] Post: <https://x.com/dotey/status/2115229306490126432>.
 
-相邻但不同线，故不机械并入既有 Topic：[Agent 身份与平台握钥](./agent-identity-platform-keys.md) 讲的是谁跑 Agent 谁收购身份公司、平台握钥的商业叙事，不是运行时 OBO vs 固定凭据的设计切面；[个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md) 讲个人助理侧定时漏跑与共机风险，不是把 ambient/cron 写成公司 harness 原语；[多 Harness 路由基建 ≠ 个人助手派活](./multi-harness-router-vs-personal-dispatch.md) 分的是「多底座同 API」与个人派活，不是单公司多玩家 harness 的五原语；[AI 原生公司](./ai-native-companies.md) 谈公司是否天生 AI-native，不展开 harness 组件。[智能体规模化工程](./agent-scaled-engineering.md) 谈 agent 写大部分代码时团队怎么赢，可与公司级工程 agent（如 OpenSWE）相邻，但本页主线是多玩家 harness 基建原语。
+[邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md) 把 Chase 点名的 Content Studio 从「营销 agent 通例」展开成可核对的四个月落地：落在 Slack；每线程一台常驻沙箱电脑；团队/个人双层记忆与 skills / wiki / gate；Managed Deep Agents 托管生产后自有代码约减 80%；并开源 `design-agent` 供 fork 挂品牌。这加固「工作面 + 沙箱 + 双层记忆 + Managed Deep Agents」原语，且给出成本与用量数字（单次中位约 $8→$0.50、3000+ 资产等），仍不改五原语清单本身；品味如何写入 skill、媒体规格流水线见 [Agent Skill 编写](./agent-skill-authoring.md) 与 [智能体视频剪辑](./agentic-video-editing.md)。[^shao-meng-langchain-content-studio] 原帖 <https://x.com/shao__meng/status/2115345069570212202>。
 
-Adjacent but different cuts, so not folded into existing Topics: [Agent identity and platform-held keys](./agent-identity-platform-keys.md) is the commercial “whoever runs the agent acquires identity firms / holds the keys” story, not runtime OBO vs fixed-credential design; [Personal-agent cloud env: backup, isolation, and schedule checks](./personal-agent-cloud-env-pitfalls.md) is personal-assistant schedule misses and shared-host risk, not ambient/cron as a company-harness primitive; [Multi-harness routing infra ≠ personal-assistant dispatch](./multi-harness-router-vs-personal-dispatch.md) separates many-bases-on-one-API from personal dispatch, not a single company’s multiplayer five primitives; [AI-native companies](./ai-native-companies.md) asks whether a firm is AI-native from founding, without spelling harness components. [Agent-scaled engineering](./agent-scaled-engineering.md) is how teams win when agents write most code—neighbor to a company engineering agent such as OpenSWE, but this page’s main thread is multiplayer harness infrastructure primitives.
+[Meng Shao on four months of LangChain Content Studio](../sources/articles/shao-meng-langchain-content-studio.md) expands Chase’s named Content Studio from a marketing-agent recipe into a checkable four-month landing: lives in Slack; one persistent sandbox computer per thread; team/personal memory plus skills / wiki / gate; about 80% less owned code after Managed Deep Agents; and open-sourced `design-agent` for branded forks. That hardens the live-where-people-work + sandbox + two-tier memory + Managed Deep Agents primitives and adds cost/usage figures (median ~$8→$0.50 per request, 3000+ assets, etc.) without rewriting the five-primitive list; how taste enters skills and the media-spec pipeline live under [Agent skill authoring](./agent-skill-authoring.md) and [Agentic video editing](./agentic-video-editing.md).[^shao-meng-langchain-content-studio] Post: <https://x.com/shao__meng/status/2115345069570212202>.
+
+适用边界：这是一家公司的内部实践总结与产品通例主张，不是跨厂商基准或合规规范；未在帖中给出的失败率、成本或通用 SLA 不在此发明。记忆被作者标为「探索最少」——本页记下该边界，不把双层记忆写成已成熟标准。Lesse 证据只加强身份/沙箱仍开放，不把四道平台缺口并入五原语清单。Content Studio 长文给出的花费与曝光数字是该公司自述运营结果，不是对五原语的独立基准验证。
+
+Scope: this is one company’s internal-practice summary and product-recipe claim, not a cross-vendor benchmark or compliance spec; failure rates, cost, or SLAs absent from the post are not invented here. Memory is labeled “least explored”—this page records that bound and does not cast two-tier memory as a mature standard. Lesse evidence only strengthens that identity/sandbox remain open; it does not fold the four platform gaps into the five-primitive list. Content Studio’s spend and impression figures are that firm’s self-reported ops results, not an independent benchmark of the five primitives.
+
+相邻但不同线，故不机械并入既有 Topic：[Agent 身份与平台握钥](./agent-identity-platform-keys.md) 讲的是谁跑 Agent 谁收购身份公司、平台握钥的商业叙事，不是运行时 OBO vs 固定凭据的设计切面；[个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md) 讲个人助理侧定时漏跑与共机风险，不是把 ambient/cron 写成公司 harness 原语；[多 Harness 路由基建 ≠ 个人助手派活](./multi-harness-router-vs-personal-dispatch.md) 分的是「多底座同 API」与个人派活，不是单公司多玩家 harness 的五原语；[AI 原生公司](./ai-native-companies.md) 谈公司是否天生 AI-native，不展开 harness 组件。[智能体规模化工程](./agent-scaled-engineering.md) 谈 agent 写大部分代码时团队怎么赢，可与公司级工程 agent（如 OpenSWE）相邻，但本页主线是多玩家 harness 基建原语。[多智能体四道基建题](./multiagent-infra-four-problems.md) 是上千智能体平台仍缺的四道开放议程，与本页配方切面相邻。
+
+Adjacent but different cuts, so not folded into existing Topics: [Agent identity and platform-held keys](./agent-identity-platform-keys.md) is the commercial “whoever runs the agent acquires identity firms / holds the keys” story, not runtime OBO vs fixed-credential design; [Personal-agent cloud env: backup, isolation, and schedule checks](./personal-agent-cloud-env-pitfalls.md) is personal-assistant schedule misses and shared-host risk, not ambient/cron as a company-harness primitive; [Multi-harness routing infra ≠ personal-assistant dispatch](./multi-harness-router-vs-personal-dispatch.md) separates many-bases-on-one-API from personal dispatch, not a single company’s multiplayer five primitives; [AI-native companies](./ai-native-companies.md) asks whether a firm is AI-native from founding, without spelling harness components. [Agent-scaled engineering](./agent-scaled-engineering.md) is how teams win when agents write most code—neighbor to a company engineering agent such as OpenSWE, but this page’s main thread is multiplayer harness infrastructure primitives. [Four infra gaps for large multiagent systems](./multiagent-infra-four-problems.md) is the open four-gap platform agenda at thousand-agent scale—adjacent to this recipe cut.
 
 ## 矛盾与变化 / Contradictions
 
@@ -43,10 +57,17 @@ Adjacent but different cuts, so not folded into existing Topics: [Agent identity
 ## 相关 / Related
 
 - Source: [Harrison Chase 谈公司级 Harness 五原语](../sources/articles/hwchase17-company-harness.md)
+- Source: [宝玉转述 Lesse：上千 Agent 仍缺四道基建题](../sources/articles/dotey-lesse-multiagent-four-infra.md)
+- Source: [邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md)
+- Topic: [多智能体四道基建题](./multiagent-infra-four-problems.md)
 - Topic: [Agent 身份与平台握钥](./agent-identity-platform-keys.md)
 - Topic: [个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md)
 - Topic: [多 Harness 路由基建 ≠ 个人助手派活](./multi-harness-router-vs-personal-dispatch.md)
 - Topic: [智能体规模化工程](./agent-scaled-engineering.md)
 - Topic: [AI 原生公司](./ai-native-companies.md)
+- Topic: [Agent Skill 编写](./agent-skill-authoring.md)
+- Topic: [智能体视频剪辑](./agentic-video-editing.md)
 
 [^hwchase17-company-harness]: Harrison Chase on the five components of a company harness
+[^dotey-lesse-multiagent-four-infra]: Dotey relays Lesse—four infra gaps for thousand-agent systems
+[^shao-meng-langchain-content-studio]: Meng Shao on four months of LangChain Content Studio

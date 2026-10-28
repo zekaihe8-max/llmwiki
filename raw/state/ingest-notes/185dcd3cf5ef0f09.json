@@ -1,0 +1,68 @@
+{
+  "topics_consulted": [
+    "topics/tools-building-own-models.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/agentic-video-editing.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/tools-building-own-models.md": "Adjacent Ding/tool-model axis; owns tools shipping own models for discourse power—not BYO Claude/Codex in a design↔code product.",
+    "topics/in-app-model-partnerships.md": "Adjacent model-access framing; owns formal in-app partner branding (e.g. Magpie×Kimi)—not “use your own subscription.”",
+    "topics/premium-ai-subscription-value.md": "Shares Claude/Codex subscription wording; owns whether high-tier/stack subs are worth it—not design-tool BYO as a product hook.",
+    "topics/divergent-tasks-human-design-gate.md": "Shares design-task wording; owns human checkpoint timing on divergent UI design—not design↔code canvas product shape.",
+    "topics/agentic-video-editing.md": "Mentions Paper as Content Studio click-canvas for coordinates; different Paper usage from design-software peer foil.",
+    "topics/design-taste-led-linux-desktop-trial.md": "Shares Ding/design-taste foil wording; owns Linux desktop trial vs Omarchy—not Wonder vs Paper design tools.",
+    "topics/ux-dx-and-ax.md": "Shares design/UX tags; owns AGENTS.md UX/DX/AX co-lift rules—not design-software preference or BYO subs.",
+    "topics/design-to-code-byo-subscriptions.md": "No existing page owned design↔code round-trip + BYO Claude/Codex + Paper taste foil; created to carry this concept."
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "create",
+      "reason": "Opened new Topic for Wonder design↔code + BYO Claude/Codex + Ding’s Paper taste foil; no existing Topic owned that cut."
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "Consulted for tool-owned-model adjacency; left unchanged—own models, not BYO subs."
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "Consulted for partner vs BYO adjacency; left unchanged—formal partners, not bring-your-own subscription."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Consulted for subscription-worth adjacency; left unchanged—stack/tier value, not design-tool BYO hook."
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "Consulted for design-task adjacency; left unchanged—human gates, not canvas product claims."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Consulted for Paper mention; left unchanged—Content Studio canvas, not design peer foil."
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "Consulted for design-taste foil adjacency; left unchanged—Linux/Omarchy, not Wonder/Paper."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for UX/design tags; left unchanged—AGENTS.md rules, not Wonder preference."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "No existing Topic owns design↔code round-trip tools that pitch BYO Claude/Codex subscriptions plus peer taste foil vs Paper; tools-building-own-models is own-model narrative, in-app-model-partnerships is partner branding, agentic-video-editing’s Paper is a different canvas use, and design-taste-led-linux-desktop-trial is Linux desktop trials."
+  },
+  "notes": "Created Source sources/articles/dingyi-wonder-vs-paper.md for https://x.com/dingyi/status/2115276770509557827. Did not edit raw/articles or x-digest."
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:40:18.184Z",
+  "url": "https://x.com/vista8/status/2115319209437872246",
+  "slug": "d51d50d563524e67",
+  "content_hash": "07fdce894e112baec7feca583dafc0554f4d9b897728800e8f72128c87c6de34",
+  "source": {
+    "path": "sources/articles/vista8-raycast-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/launcher-shortcut-ai-over-agent.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/menubar-management-tool-gap.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "add_evidence",
+      "reason": "Integrated host「自己先来」Raycast self-rec as modeling the long-paid subscription submission shape; product convenience claims deferred to the launcher Topic."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Consulted for「打开 Agent」wording adjacency; left unchanged—owns coding-agent UX vs quota, not desktop-launcher shortcut chat."
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "create",
+      "reason": "Created to carry shortcut-launcher AI vs opening Agent plus ecosystem replacing small-tool stacks; no catalog page owned that cut."
+    },
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "Consulted for desktop small-tool adjacency; left unchanged—owns menubar icon-manager vacuum, not launcher AI consolidating utilities."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Consulted for multi-year paid-renewal adjacency; left unchanged—owns frontier subscription worth-it/quota/burnout, not launcher shortcut UX."
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted because voice transcription is listed as a replaced tool; left unchanged—owns document vs oral input shape for Agents."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/launcher-shortcut-ai-over-agent.md": "No catalog Topic owned desktop-launcher shortcut AI as more convenient than opening an Agent, with ecosystem replacing window/voice utilities; amplify, premium-sub, coding-agent UX, menubar-gap, and voice-input pages are adjacent but different axes."
+  },
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "Post opens with「自己先来」right after the self-rec drive; durable cut is host modeling a long-paid subscription tool submission.",
+    "topics/launcher-shortcut-ai-over-agent.md": "No existing Topic owned desktop-launcher shortcut AI as lighter than opening an Agent plus ecosystem replacing small utilities; this article’s product claim needs a home.",
+    "topics/premium-ai-subscription-value.md": "Three-year paid Raycast renewal touches「仍愿付」; consulted because that page owns frontier model-sub worth-it/quota stacks, not launcher UX.",
+    "topics/coding-agent-ux-vs-quota.md": "Post contrasts shortcut chat with「打开 Agent」; consulted because that page owns coding-agent experience vs quota, not launcher shortcut entry.",
+    "topics/menubar-management-tool-gap.md": "Post says ecosystem replaces window tiling and similar small tools; consulted because that page owns menubar icon-manager vacuum, a different desktop-tool category.",
+    "topics/voice-input-oral-vs-document-for-agents.md": "Post lists voice transcription as one replaced small tool; consulted because that page owns oral vs document polish for Agents, not launcher ecosystem substitution."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/vista8-raycast-ai.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/index.md",
+    "topics/launcher-shortcut-ai-over-agent.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/launcher-shortcut-ai-over-agent.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/menubar-management-tool-gap.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-product-self-rec-amplify.md": "Post opens with「自己先来」right after the self-rec drive; durable cut is host modeling a long-paid subscription tool submission.",
+      "topics/launcher-shortcut-ai-over-agent.md": "No existing Topic owned desktop-launcher shortcut AI as lighter than opening an Agent plus ecosystem replacing small utilities; this article’s product claim needs a home.",
+      "topics/premium-ai-subscription-value.md": "Three-year paid Raycast renewal touches「仍愿付」; consulted because that page owns frontier model-sub worth-it/quota stacks, not launcher UX.",
+      "topics/coding-agent-ux-vs-quota.md": "Post contrasts shortcut chat with「打开 Agent」; consulted because that page owns coding-agent experience vs quota, not launcher shortcut entry.",
+      "topics/menubar-management-tool-gap.md": "Post says ecosystem replaces window tiling and similar small tools; consulted because that page owns menubar icon-manager vacuum, a different desktop-tool category.",
+      "topics/voice-input-oral-vs-document-for-agents.md": "Post lists voice transcription as one replaced small tool; consulted because that page owns oral vs document polish for Agents, not launcher ecosystem substitution."
+    },
+    "notes": "Created Source sources/articles/vista8-raycast-ai.md for https://x.com/vista8/status/2115319209437872246. Did not merge the separate self-rec-drive URL. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/vista8-raycast-ai.md",
+        "topics/ai-product-self-rec-amplify.md",
+        "topics/index.md",
+        "topics/launcher-shortcut-ai-over-agent.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

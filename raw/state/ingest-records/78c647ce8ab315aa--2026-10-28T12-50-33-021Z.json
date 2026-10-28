@@ -1,0 +1,97 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T12:50:33.021Z",
+  "url": "https://x.com/shao__meng/status/2115332272152826248",
+  "slug": "78c647ce8ab315aa",
+  "content_hash": "8129cd4552dd562184ebdd8ee10e36190aba3d7c0c827a8b8300c1032b54a169",
+  "source": {
+    "path": "sources/articles/shao-meng-three-skills-top-ios.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Integrated Emil Kowalski Skills as a public taste-as-executable-rules specimen and linked the three-pack stack; updated lead, description, synthesis, contradictions, and Related."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Consulted for Agent Skills vehicle overlap; left unchanged—no AAIF/donation/adoption-scale claims in this article; Related link from Source/new Topic only."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for mobile-agent wording; left unchanged—no dispatch/PR/CI chain evidence in this article."
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "create",
+      "reason": "Created to carry the three-pack composition claim: Appllama (who/look) + Expo official eng + Emil motion/taste on skills.sh, explicitly not IPA reverse engineering."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Consulted for agent UI quality adjacency; left unchanged—claims stay on AGENTS.md UX/DX/AX rules; Related link from Source/new Topic only."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/skills-stack-native-app-recreation.md": "agent-skill-authoring owns authoring and taste keep/drop, not the product-recreation division of labor across design-library + framework-official + taste Skills; agent-skills-open-standard owns AAIF governance; ux-dx-and-ax owns AGENTS.md UX/DX/AX; mobile-agent-dev-full-chain owns phone dispatch. None owned “reverse top iOS = compose those three Skills on skills.sh, not IPA tooling.”"
+  },
+  "selection_reasons": {
+    "topics/skills-stack-native-app-recreation.md": "No existing Topic owned the durable claim that recreating top iOS / native-feel apps via agents is a complementary Skills stack (design reference + framework-official eng + motion/taste) on skills.sh rather than IPA reverse engineering.",
+    "topics/agent-skill-authoring.md": "Owns how to write Skills and the keep/drop line that taste/style Skills still repay writing; Emil’s public taste-as-rules pack and the three-pack stack are direct evidence for that thesis.",
+    "topics/agent-skills-open-standard.md": "Article names skills.sh / Agent Skills as the shared vehicle; consulted for AAIF/governance overlap—page owns foundation donation and adoption scale, not product-recreation stacks.",
+    "topics/ux-dx-and-ax.md": "Adjacent UX quality of agent-built UI; owns AGENTS.md co-lift of UX/DX/AX and no-tagline layouts, not Skills packs for iOS recreation.",
+    "topics/mobile-agent-dev-full-chain.md": "Mobile + agent wording neighbor; owns phone→cloud coding→PR/CI dispatch chain, not native-feel UI recreation via Skills."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/shao-meng-three-skills-top-ios.md",
+    "topics/agent-skill-authoring.md",
+    "topics/index.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/mobile-agent-dev-full-chain.md"
+    ],
+    "selection_reasons": {
+      "topics/skills-stack-native-app-recreation.md": "No existing Topic owned the durable claim that recreating top iOS / native-feel apps via agents is a complementary Skills stack (design reference + framework-official eng + motion/taste) on skills.sh rather than IPA reverse engineering.",
+      "topics/agent-skill-authoring.md": "Owns how to write Skills and the keep/drop line that taste/style Skills still repay writing; Emil’s public taste-as-rules pack and the three-pack stack are direct evidence for that thesis.",
+      "topics/agent-skills-open-standard.md": "Article names skills.sh / Agent Skills as the shared vehicle; consulted for AAIF/governance overlap—page owns foundation donation and adoption scale, not product-recreation stacks.",
+      "topics/ux-dx-and-ax.md": "Adjacent UX quality of agent-built UI; owns AGENTS.md co-lift of UX/DX/AX and no-tagline layouts, not Skills packs for iOS recreation.",
+      "topics/mobile-agent-dev-full-chain.md": "Mobile + agent wording neighbor; owns phone→cloud coding→PR/CI dispatch chain, not native-feel UI recreation via Skills."
+    },
+    "notes": "Created Source sources/articles/shao-meng-three-skills-top-ios.md for https://x.com/shao__meng/status/2115332272152826248. Filed from fetched post body. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/shao-meng-three-skills-top-ios.md",
+        "topics/agent-skill-authoring.md",
+        "topics/index.md",
+        "topics/skills-stack-native-app-recreation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-28T14:37:15.773Z",
+  "url": "https://x.com/vista8/status/2115318655525523714",
+  "slug": "d79ace6504feabf7",
+  "content_hash": "4dfefbbf9b0f64c8a653a0bc28078e77af01c8fafd8b1f2533eac9b9e7861049",
+  "source": {
+    "path": "sources/articles/vista8-ai-tool-self-rec.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "create",
+      "reason": "Created to carry the durable claim that creative AI products lacking distribution can use reply-thread self-rec gated by likes and hands-on tests, with a host forwarding to amplify."
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Consulted for likes/test adjacency; left unchanged—owns model reputation vs score-hype marketing, not product self-rec distribution mechanics."
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "Consulted for discoverability adjacency; left unchanged—owns personal-site GEO and friend-link exchange, not X self-rec + host amplify drives."
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "Consulted for sharing adjacency; left unchanged—owns personal-agent gateway IDs/pages and bot-to-bot chat, not community tool self-rec threads."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Consulted because paid-subscription tools are an allowed submission type; left unchanged—owns subscription worth-it debates, not amplify-drive rules."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "No catalog Topic owned self-rec + host-amplify as distribution for community AI products lacking channels; GEO personal-site, community-evals-vs-hype, personal-agent share, and premium-subscription pages are adjacent but different axes."
+  },
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "No existing Topic owned community AI-product self-rec plus host amplify as a distribution surface when creative products lack channels; this article’s durable claim needs a home.",
+    "topics/geo-personal-website-first-step.md": "Adjacent discoverability/mutual-rec axis (personal site + friend links for GEO); consulted to keep cuts distinct from X reply-thread self-rec + host forward.",
+    "topics/community-evals-vs-score-hype.md": "Adjacent ‘likes/test’ language; consulted because the post gates amplify on likes and hands-on tests, but that page owns model score-hype vs community evals, not product distribution drives.",
+    "topics/personal-agent-share-and-interbot-chat.md": "Adjacent ‘sharing’ surface; consulted because both concern getting AI artifacts in front of others, but that page owns gateway ID/page sharing and bot DMs, not comment-thread self-rec amplify.",
+    "topics/premium-ai-subscription-value.md": "Post allows long-paid subscription tools as a submission category; consulted because that page owns subscription worth-it, not drive mechanics."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/vista8-ai-tool-self-rec.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/geo-personal-website-first-step.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-product-self-rec-amplify.md": "No existing Topic owned community AI-product self-rec plus host amplify as a distribution surface when creative products lack channels; this article’s durable claim needs a home.",
+      "topics/geo-personal-website-first-step.md": "Adjacent discoverability/mutual-rec axis (personal site + friend links for GEO); consulted to keep cuts distinct from X reply-thread self-rec + host forward.",
+      "topics/community-evals-vs-score-hype.md": "Adjacent ‘likes/test’ language; consulted because the post gates amplify on likes and hands-on tests, but that page owns model score-hype vs community evals, not product distribution drives.",
+      "topics/personal-agent-share-and-interbot-chat.md": "Adjacent ‘sharing’ surface; consulted because both concern getting AI artifacts in front of others, but that page owns gateway ID/page sharing and bot DMs, not comment-thread self-rec amplify.",
+      "topics/premium-ai-subscription-value.md": "Post allows long-paid subscription tools as a submission category; consulted because that page owns subscription worth-it, not drive mechanics."
+    },
+    "notes": "Created Source sources/articles/vista8-ai-tool-self-rec.md for https://x.com/vista8/status/2115318655525523714. Filed only the fetched self-rec post body; did not merge the separate Raycast follow-up URL from the digest. Did not edit raw/articles or x-digest.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/vista8-ai-tool-self-rec.md",
+        "topics/ai-product-self-rec-amplify.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

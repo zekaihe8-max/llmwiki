@@ -1,0 +1,68 @@
+{
+  "topics_consulted": [
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/agent-in-inbox.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "selection_reasons": {
+    "topics/hireable-group-chat-digest-agent.md": "No existing Topic owned hireable WeChat/group-chat digest assistants with broadcast-only bounds; created to carry this concept.",
+    "topics/grok-bot-x-intel-defense-not-post.md": "Adjacent scheduled digests via Grok Bot, but owns X intel/defense with never-auto-post; this post pushes WeChat group digests and hire-into-group—cross-linked and noted as different cut; left unchanged.",
+    "topics/landing-page-site-clone-over-skill.md": "Post mentions a Grok Bot–built promo landing page only; no clone-vs-Skill method claim—left unchanged.",
+    "topics/peer-economics-before-vibe-coding.md": "Adjacent monetization wording, but owns peer revenue research before vibe coding; this is after-ship hire/custom offer—left unchanged.",
+    "topics/personal-agent-share-and-interbot-chat.md": "Adjacent sharing personal agents, but owns gateway ID / bot-to-bot social graph; this is hireable group-ops digests—left unchanged.",
+    "topics/ai-product-self-rec-amplify.md": "Adjacent product promo, but owns reply-thread self-rec + host amplify drives; this is hire-bot-into-group + LP peripherals—left unchanged.",
+    "topics/agent-in-inbox.md": "Parallel “agent on a work surface,” but owns mail-client inbox batch jobs; not group-chat digests—left unchanged.",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "Adjacent “no time to consume media” digestion, but owns podcast fine transcription; not WeChat group ops—left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "create",
+      "reason": "New page for hireable/broadcast group-chat digest agents; integrated Xiao Tiezhu case, architecture bound, and contrast with X never-auto-post."
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "Owns X never-auto-post intel/defense; contradiction/scope noted only on the new Topic—file not modified."
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "No clone-vs-Skill claim in this article; Source Related link only."
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "Different monetization cut (pre-build peer economics vs after-ship hire offer)."
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "Gateway share/interbot chat, not hireable group digests."
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "Host-amplify self-rec drive, not hire-into-group productization."
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "Mail surface only; cross-linked from new Topic Related."
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "Podcast transcription surface only; boundary link from new Topic."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/hireable-group-chat-digest-agent.md": "No existing Topic owned WeChat/group-chat scheduled digest assistants productized as hireable (or custom) group ops with broadcast-only interaction bounds; nearest pages cover X never-auto-post digests, gateway sharing, mail inbox agents, or pre-build peer economics—none can carry this claim without conflating surfaces."
+  },
+  "notes": "Created Source sources/articles/cgnot996-xiao-tiezhu-group-digest-hire.md for https://x.com/cgnot996/status/2115317431019430249. No second Source for same URL. Did not edit raw/articles or x-digest."
+}
