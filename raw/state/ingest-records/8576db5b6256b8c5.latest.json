@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:39:27.687Z",
+  "url": "https://x.com/yetone/status/2115666512396906824",
+  "slug": "8576db5b6256b8c5",
+  "content_hash": "404b120e7a5592fd29522c849f97ec7ba1c66dab681eb0ae308998c96b3768e5",
+  "source": {
+    "path": "sources/articles/yetone-magpie-image-mcp-video.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "No editing workflow, model-leap, or agent-facing NLE claims—only that an image-named MCP can generate video inside Magpie."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Integrated named magpie-image MCP video-generation claim as Magpie plugin/MCP capability expansion; added source id, synthesis paragraph, Related link, and footnote."
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "Only prerequisite is MCP installed on an Agent; no claims about unified storage, import, or format-aware writes."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "Post is Magpie-author evidence that a named MCP (magpie-image) expands the plugin/MCP capability surface to video—same plugin-composed host path as existing Magpie full-pluginization coverage.",
+    "topics/unified-agent-resource-library.md": "Post mentions installing an MCP on a Magpie Agent; consulted whether resource-library management belongs here—decided unchanged because the article does not discuss the library UI, import, or per-agent write flow.",
+    "topics/agentic-video-editing.md": "Consulted because the capability is video generation; decided unchanged because the post is a product/MCP tip, not editing-as-code workflow, UI, or marketplace bots covered on that page."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yetone-magpie-image-mcp-video.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "Post is Magpie-author evidence that a named MCP (magpie-image) expands the plugin/MCP capability surface to video—same plugin-composed host path as existing Magpie full-pluginization coverage.",
+      "topics/unified-agent-resource-library.md": "Post mentions installing an MCP on a Magpie Agent; consulted whether resource-library management belongs here—decided unchanged because the article does not discuss the library UI, import, or per-agent write flow.",
+      "topics/agentic-video-editing.md": "Consulted because the capability is video generation; decided unchanged because the post is a product/MCP tip, not editing-as-code workflow, UI, or marketplace bots covered on that page."
+    },
+    "notes": "One new Source yetone-magpie-image-mcp-video.md; resource URL https://x.com/yetone/status/2115666512396906824.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yetone-magpie-image-mcp-video.md",
+        "topics/minimal-core-community-extensions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

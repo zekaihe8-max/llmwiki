@@ -12,9 +12,12 @@ sources:
   - id: voxyz-usage-habits-to-agents-md
     resource: https://x.com/Voxyz_ai/status/2114416707385073819
     title: Vox on scanning session logs into AGENTS.md usage rules
+  - id: xiaomovps-pi-agent-six-hidden-settings
+    resource: https://x.com/xiaomovps/status/2115658635183587414
+    title: Xiaomo on six hidden Pi Agent settings
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-26T08:53:08+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T20:36:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -40,17 +43,25 @@ It shares the save-Tokens goal with [Project instructions and token efficiency](
 
 [Vox on scanning session logs into AGENTS.md usage rules](../sources/articles/voxyz-usage-habits-to-agents-md.md) meets the same waste classes this page’s tools attack from the instruction side: example habits include whole-file reads and long test/build dumps—overlapping Serena / RTK / context-mode paths—but the method is scan session-log token counts and, after yes, write `CLAUDE.md` / `AGENTS.md`, not default to a peripheral stack. Primary narrative lives on [Project instructions and token efficiency](./agents-md-token-efficiency.md); here only the tools-vs-rules complement is marked, without folding Vox into the tool list.[^voxyz-usage-habits-to-agents-md] Original at <https://x.com/Voxyz_ai/status/2114416707385073819>.
 
+[小墨谈 Pi Agent 六个隐藏设置](../sources/articles/xiaomovps-pi-agent-six-hidden-settings.md) 给出 **Pi harness 内置**省 Token 路径（非 Claude Code 外围 MCP/Hooks 栈）：**cacheWarming**、**PI_CACHE_RETENTION**、**showCacheMissNotices** 与 **compaction** 的 **reserveTokens** / **keepRecentTokens** / **modelOverrides** 直接调缓存与压缩；作者建议长期用 API 时优先研究缓存与压缩，并提醒 **cacheWarming** 本身有调用费用——验收仍看完整任务消耗与费用，与「别一次全装」同纪律。压缩/缓存默认错位的并列 Topic 见 [长对话默认压缩低于模型窗口](./long-conversation-default-compression.md)。[^xiaomovps-pi-agent-six-hidden-settings] 原帖 <https://x.com/xiaomovps/status/2115658635183587414>。
+
+[Xiaomo on six hidden Pi Agent settings](../sources/articles/xiaomovps-pi-agent-six-hidden-settings.md) names **built-in Pi harness** token paths (not the Claude Code peripheral MCP/Hooks stack): **cacheWarming**, **PI_CACHE_RETENTION**, **showCacheMissNotices**, and **compaction** **reserveTokens** / **keepRecentTokens** / **modelOverrides** tune cache and compression directly; for long API use he prioritizes cache and compression study and warns **cacheWarming** still bills calls—verify on full-task use and cost, same discipline as “don’t install everything at once.” Product default misalignment sits under [Long-conversation default compression below model window](./long-conversation-default-compression.md).[^xiaomovps-pi-agent-six-hidden-settings] Post: <https://x.com/xiaomovps/status/2115658635183587414>.
+
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+[小墨谈 Claude Code 省 Token 五项目](../sources/articles/xiaomovps-claude-code-token-five-projects.md) 与 [小墨谈 Pi Agent 六个隐藏设置](../sources/articles/xiaomovps-pi-agent-six-hidden-settings.md) 同属小墨的省 Token 叙事但路径不同：前者是 Claude Code **外围**过滤/压缩/记忆工具；后者是 **Pi 内置**缓存与 compaction 配置——并不互相取消，但「装工具栈」与「调 harness 旋钮」应分开验收；Pi 帖还提醒 cache warming 有调用费，与高 cache 命中省钱的直觉需一并权衡。[^xiaomovps-claude-code-token-five-projects][^xiaomovps-pi-agent-six-hidden-settings]
+
+[Xiaomo on five Claude Code token-saving projects](../sources/articles/xiaomovps-claude-code-token-five-projects.md) and [Xiaomo on six hidden Pi Agent settings](../sources/articles/xiaomovps-pi-agent-six-hidden-settings.md) share Xiaomo’s save-Tokens thread on different paths: the former is Claude Code **peripheral** filter/compress/memory tooling; the latter is **built-in Pi** cache and compaction config—neither cancels the other, but “install a tool stack” vs “tune harness knobs” need separate verification; the Pi post also warns cache warming bills calls, to weigh beside high cache-hit savings.[^xiaomovps-claude-code-token-five-projects][^xiaomovps-pi-agent-six-hidden-settings]
 
 ## 相关 / Related
 
 - Source: [小墨谈 Claude Code 省 Token 五项目](../sources/articles/xiaomovps-claude-code-token-five-projects.md)
 - Source: [Vox 谈扫会话日志把烧额度习惯写成 AGENTS.md 规则](../sources/articles/voxyz-usage-habits-to-agents-md.md)
+- Source: [小墨谈 Pi Agent 六个隐藏设置](../sources/articles/xiaomovps-pi-agent-six-hidden-settings.md)
 - Topic: [项目指令与 Token 效率](./agents-md-token-efficiency.md)
 - Topic: [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)
 - Topic: [编程 Agent 体验与额度](./coding-agent-ux-vs-quota.md)
 
 [^xiaomovps-claude-code-token-five-projects]: 小墨 on five Claude Code token-saving projects
 [^voxyz-usage-habits-to-agents-md]: Vox on scanning session logs into AGENTS.md usage rules
+[^xiaomovps-pi-agent-six-hidden-settings]: Xiaomo on six hidden Pi Agent settings

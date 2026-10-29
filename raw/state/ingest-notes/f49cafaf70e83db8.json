@@ -1,0 +1,45 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "Post relays AA v5.0 #1 and multi-benchmark beats over Fable/Opus while asking if scores are correct—peer skepticism on leaderboard hype vs real use.",
+    "topics/public-benchmark-quality-scrutiny.md": "Same post treats popular board wins as unverified until questioned; fits scrutinize-before-trusting boards even without grader failure examples in the source.",
+    "topics/pro-vs-flash-model-strategy.md": "Checked for Flash-vs-Pro strategy angle; article only names Fable/Opus frontier comparators, not Flash tier economics—no file change.",
+    "topics/open-weight-frontier-models.md": "Checked for open-weight frontier claims; Carbon is a closed Google Gemini release relay—no file change.",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "Checked for backend fingerprint probes; post discusses public benchmark scores, not opaque product routing—no file change."
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "add_evidence",
+      "reason": "Integrated 歸藏 Carbon relay with simultaneous score skepticism and Lambert-aligned contradiction note."
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "add_evidence",
+      "reason": "Added peer example of doubting AA/multi-board bundle before self-run or grader inspection."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "No Flash strategy or Pro-underwhelm claim in the fetched post."
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Not about open-weight releases or local inference."
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "No behavioral fingerprint or hidden-backend discussion."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug op7418-gemini-4-carbon-benchmarks; did not cite digest-only Argon credibility comment thread."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "Article centers on an open NVC Agent Skill (180+ GitHub stars) whose rules were compiled into a shipped web tool with Opus 5.5 in ~two hours—fits distill-from-skill / communication-rules authoring.",
+    "topics/workflows-before-agents.md": "Runtime product is a fixed rewrite pipeline (flag harsh words, three tiers, send-ready text), not an open-ended agent; Opus appears only in construction.",
+    "topics/agent-skills-open-standard.md": "Public GitHub Skill as forkable community rules asset with a second landing path (standalone localhost app), complementing cross-host SKILL.md installs.",
+    "topics/minimal-core-community-extensions.md": "UUMit + localhost sharing without cloud is adjacent to slim/local-first extension patterns, but existing synthesis already covers plugin hosts and Pi edges—no new integrated claim without duplicating workflows-before-agents."
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on Skill rules → zero-dep web product and NVC as behavior/taste-class skill source."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis separating fixed pre-send rewrite workflow from agent used only to build the page."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on community open Skill compiled into standalone product vs harness install packs."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Local UUMit sharing noted in Source and workflows topic; no distinct minimal-core architectural claim beyond those pages."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Digest pairs this URL with WorkBuddy browser ops (different status URL); not filed from digest body. No GitHub repo URL in fetched article text—only 180+ stars mentioned."
+}

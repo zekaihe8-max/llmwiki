@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/workflows-before-agents.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "Article is DSH dispatching Claude Code / Codex as sub-agents inside one harness—fits the narrow bound for splitting sub-agents (dedicated coding-agent execution) vs default org-chart stacking.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Same who-orchestrates-who pattern but with DSH as dispatch seat and CC/Codex as workers; extends cross-product foreman evidence beyond Grok-only wiring.",
+    "topics/dsh-grok-cross-dispatch.md": "Prior Xiaomo post said no direct DSH bridges; this post adds official DSH→CC/Codex plugins while DSH→Grok gap may still stand—timeline/contradiction for community vs official cross-dispatch.",
+    "topics/minimal-core-community-extensions.md": "Official experimental plugins reduce DIY bridges for CC/Codex on the plugin-composed DSH host; pairs with 0.2.1 experimental compatibility and Pi plugin wish.",
+    "topics/workflows-before-agents.md": "Consulted for overlap with orchestration defaults; article is harness-internal sub-agent plugins, not whether to add an open-ended agent—no file change warranted.",
+    "topics/premium-ai-subscription-value.md": "CLI login implies existing CC/Codex subscriptions; only peripheral to subscription layering—no integrated claim beyond foreman topic."
+  },
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on DSH official plugins delegating to CC/Codex as sub-agents within the measurable isolation / fresh execution window bound."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Added DSH-as-harness orchestrator dispatching CC/Codex workers alongside existing Grok foreman paths."
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "record_contradiction",
+      "reason": "Recorded official DSH→coding-agent progress vs unchanged DSH→Grok plugin gap from the earlier cross-dispatch source."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Linked hands-on official sub-agent plugins to 0.2.1 experimental CC/Codex compatibility on the plugin-composed host path."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "Sub-agent dispatch inside DSH does not change the workflows-before-agents thesis about when to add open-ended agents."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Article does not add a distinct subscription-value claim beyond prerequisites already covered under foreman layering."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "New source slug xiaomovps-dsh-claude-codex-subagent-plugins.md"
+}

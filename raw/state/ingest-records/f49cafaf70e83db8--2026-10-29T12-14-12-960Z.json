@@ -1,0 +1,91 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:14:12.960Z",
+  "url": "https://x.com/op7418/status/2115517927730606478",
+  "slug": "f49cafaf70e83db8",
+  "content_hash": "a6c77b1b786ff544dea5699d7e40b57079276ef2386916d721a01c9c1b0fbec3",
+  "source": {
+    "path": "sources/articles/op7418-gemini-4-carbon-benchmarks.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "add_evidence",
+      "reason": "Integrated 歸藏 Carbon relay with simultaneous score skepticism and Lambert-aligned contradiction note."
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "No behavioral fingerprint or hidden-backend discussion."
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Not about open-weight releases or local inference."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "No Flash strategy or Pro-underwhelm claim in the fetched post."
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "add_evidence",
+      "reason": "Added peer example of doubting AA/multi-board bundle before self-run or grader inspection."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "Post relays AA v5.0 #1 and multi-benchmark beats over Fable/Opus while asking if scores are correct—peer skepticism on leaderboard hype vs real use.",
+    "topics/public-benchmark-quality-scrutiny.md": "Same post treats popular board wins as unverified until questioned; fits scrutinize-before-trusting boards even without grader failure examples in the source.",
+    "topics/pro-vs-flash-model-strategy.md": "Checked for Flash-vs-Pro strategy angle; article only names Fable/Opus frontier comparators, not Flash tier economics—no file change.",
+    "topics/open-weight-frontier-models.md": "Checked for open-weight frontier claims; Carbon is a closed Google Gemini release relay—no file change.",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "Checked for backend fingerprint probes; post discusses public benchmark scores, not opaque product routing—no file change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/op7418-gemini-4-carbon-benchmarks.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "Post relays AA v5.0 #1 and multi-benchmark beats over Fable/Opus while asking if scores are correct—peer skepticism on leaderboard hype vs real use.",
+      "topics/public-benchmark-quality-scrutiny.md": "Same post treats popular board wins as unverified until questioned; fits scrutinize-before-trusting boards even without grader failure examples in the source.",
+      "topics/pro-vs-flash-model-strategy.md": "Checked for Flash-vs-Pro strategy angle; article only names Fable/Opus frontier comparators, not Flash tier economics—no file change.",
+      "topics/open-weight-frontier-models.md": "Checked for open-weight frontier claims; Carbon is a closed Google Gemini release relay—no file change.",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "Checked for backend fingerprint probes; post discusses public benchmark scores, not opaque product routing—no file change."
+    },
+    "notes": "Source slug op7418-gemini-4-carbon-benchmarks; did not cite digest-only Argon credibility comment thread.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/op7418-gemini-4-carbon-benchmarks.md",
+        "topics/community-evals-vs-score-hype.md",
+        "topics/public-benchmark-quality-scrutiny.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

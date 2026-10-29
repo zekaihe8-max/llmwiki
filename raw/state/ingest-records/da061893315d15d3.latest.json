@@ -1,0 +1,93 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:19:43.799Z",
+  "url": "https://x.com/0xLogicrw/status/2115763543194902801",
+  "slug": "da061893315d15d3",
+  "content_hash": "b99a025b9992333f1d67417d0288d925b9726e0af74cf63b6e5d45ead340afcf",
+  "source": {
+    "path": "sources/articles/logicrw-google-android-summit-claude-codex-cli.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "record_contradiction",
+      "reason": "Added Android MCP synthesis plus Contradictions entry on Google dev-tool openness vs consumer Gemini/MCP push asymmetry."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Integrated official Android Studio CLI / device-lab harness as a first-party IDE execution surface distinct from ad-hoc phone ops and cloud-browser cases."
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "add_evidence",
+      "reason": "Added Android Studio BYO Claude/Codex official IDE path alongside Wonder/baoyu-design design-loop examples."
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "No formal third-party model partner announcement in the post—platform MCP and IDE openness are a different pattern."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Article covers Google-native Android dev tooling, not the Grok Bot + Cursor mobile PR/CI chain documented on that page."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "Summit CLI plugins explicitly compile apps, inspect UI, simulate taps, and run tests—official Android dev harness under the model-thinks/tools-act split.",
+    "topics/design-to-code-byo-subscriptions.md": "Android Studio opens compiler/emulator/debugger to Claude, Codex, and 40+ agents using the user's existing coding-agent subscriptions.",
+    "topics/agent-skills-open-standard.md": "AppFunctions Beta, Connected Apps Platform, and Android MCP expand MCP tool surfaces on Android/Gemini; post notes dev-side openness vs user-side Gemini binding.",
+    "topics/mobile-agent-dev-full-chain.md": "Same mobile/coding-agent headline but evidence is Grok Bot→Cursor PR/CI, not Google official Android Studio CLI—no file change.",
+    "topics/in-app-model-partnerships.md": "About formal in-app model partner branding in agent products, not Google OS platform strategy or MCP app exposure—no file change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/logicrw-google-android-summit-claude-codex-cli.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/computer-use.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/in-app-model-partnerships.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "Summit CLI plugins explicitly compile apps, inspect UI, simulate taps, and run tests—official Android dev harness under the model-thinks/tools-act split.",
+      "topics/design-to-code-byo-subscriptions.md": "Android Studio opens compiler/emulator/debugger to Claude, Codex, and 40+ agents using the user's existing coding-agent subscriptions.",
+      "topics/agent-skills-open-standard.md": "AppFunctions Beta, Connected Apps Platform, and Android MCP expand MCP tool surfaces on Android/Gemini; post notes dev-side openness vs user-side Gemini binding.",
+      "topics/mobile-agent-dev-full-chain.md": "Same mobile/coding-agent headline but evidence is Grok Bot→Cursor PR/CI, not Google official Android Studio CLI—no file change.",
+      "topics/in-app-model-partnerships.md": "About formal in-app model partner branding in agent products, not Google OS platform strategy or MCP app exposure—no file change."
+    },
+    "notes": "Source slug logicrw-google-android-summit-claude-codex-cli; summit date Oct 28 per post body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/logicrw-google-android-summit-claude-codex-cli.md",
+        "topics/agent-skills-open-standard.md",
+        "topics/computer-use.md",
+        "topics/design-to-code-byo-subscriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

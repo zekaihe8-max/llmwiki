@@ -21,9 +21,12 @@ sources:
   - id: natolambert-real-world-over-aa
     resource: https://x.com/natolambert/status/2113967445727932676
     title: Nathan Lambert on real-world usability over AA scores
+  - id: op7418-gemini-4-carbon-benchmarks
+    resource: https://x.com/op7418/status/2115517927730606478
+    title: 歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus
 generated:
   by: cursor-agent/composer
-  at: 2026-10-26T08:42:21+08:00
+  at: 2026-10-29T20:13:00+08:00
 ---
 
 # 社区实测对抗刷分碰瓷
@@ -56,11 +59,15 @@ Leaderboards and paid score hype do not outrun peers’ hands-on tests; at the t
 
 [Nathan Lambert on real-world usability over AA scores](../sources/articles/natolambert-real-world-over-aa.md) states the “scores ≠ real use” mechanism: at the top end, real-world usability matters far more than ±2 AA points; AA is potential some models hit and some miss, with opus 5 vs 5.5 as the example, and Kimi 3.1 closer to miss.[^natolambert-real-world-over-aa] Post: <https://x.com/natolambert/status/2113967445727932676>. Context is a reply that OpenAI fell out of AA’s top 5 after Kimi K3.1—not denying the leaderboard move, but down-weighting small score gaps. It shares real-use priority with “peers’ tests / let people use it,” without discussing KOLs, paid posts, or Paid Partnership.
 
+[歸藏谈 Gemini 4 Carbon 跑分几乎全面超 Fable / Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md) 把 Google 两周内再发 Gemini 4 Carbon 与「多数测评几乎全面超过 Fable 5.1、Opus 5.5、Terminal Bench 4.0 尤其高」一并抛出，并**同时**问「这分数对吗？」——不是 KOL 商单链，而是推友在转 Sundar 所称 Artificial Analysis v5.0 第一时自带的榜分怀疑。帖文未给自测手感或失败样例，故只补强「顶档 AA/多榜大胜仍会被社区问兑现」，不当作已证实的真用 hit。[^op7418-gemini-4-carbon-benchmarks] 原帖 <https://x.com/op7418/status/2115517927730606478>。
+
+[歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md) bundles Google’s ~two-week follow-on Gemini 4 Carbon with “almost every eval beats Fable 5.1 and Opus 5.5, Terminal Bench 4.0 far ahead,” and **in the same breath** asks whether the scores are correct—not a KOL paid-post chain, but a peer relaying Sundar’s Artificial Analysis v5.0 #1 claim with built-in leaderboard skepticism. The post gives no hands-on usability or failure examples, so it only strengthens “even top AA / multi-board wins get community conversion questions,” not a verified real-use hit.[^op7418-gemini-4-carbon-benchmarks] Post: <https://x.com/op7418/status/2115517927730606478>.
+
 ## 矛盾与变化 / Contradictions
 
-马天翼两帖同作者、同日，机制一致：刷分/KOL 掩盖 → 社区实测 → 不如 DeepSeek v4.1 Flash；一帖强调碰瓷 Opus 与商单曝光，另一帖强调过度宣传反噬。[^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash] 邵萌帖点名 Kimi K3.1 Pro 英推，焦点是选人、Paid Partnership 合规与「让人用起来」相对怪话术刷屏，未给出与 Flash 的实测对比，也未重复 Opus 碰瓷叙事——与前两帖同属「付费/KOL 宣发不可信」，证据链不同。[^shao-meng-kimi-en-kol-promo-weird] Ding 帖同样点名 Kimi 英推语境，但主张「不投中推、买通英推上游」与「海外大号多为假号/MCN」，并给出 Flash 对照与额度批评；与邵萌「选人/合规/让人用」互补而非互斥，假号主张亦未经独立核验。[^dingyi-kimi-en-kol-fake-accounts] Lambert 帖承认 AA 语境下 Kimi 3.1 可抬高榜位，却判断真用更偏 miss——与「榜强但手感冷」同向，证据是潜力/兑现框架而非 Flash 对照或营销渠道。[^natolambert-real-world-over-aa]
+马天翼两帖同作者、同日，机制一致：刷分/KOL 掩盖 → 社区实测 → 不如 DeepSeek v4.1 Flash；一帖强调碰瓷 Opus 与商单曝光，另一帖强调过度宣传反噬。[^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash] 邵萌帖点名 Kimi K3.1 Pro 英推，焦点是选人、Paid Partnership 合规与「让人用起来」相对怪话术刷屏，未给出与 Flash 的实测对比，也未重复 Opus 碰瓷叙事——与前两帖同属「付费/KOL 宣发不可信」，证据链不同。[^shao-meng-kimi-en-kol-promo-weird] Ding 帖同样点名 Kimi 英推语境，但主张「不投中推、买通英推上游」与「海外大号多为假号/MCN」，并给出 Flash 对照与额度批评；与邵萌「选人/合规/让人用」互补而非互斥，假号主张亦未经独立核验。[^dingyi-kimi-en-kol-fake-accounts] Lambert 帖承认 AA 语境下 Kimi 3.1 可抬高榜位，却判断真用更偏 miss——与「榜强但手感冷」同向，证据是潜力/兑现框架而非 Flash 对照或营销渠道。[^natolambert-real-world-over-aa] 歸藏 Carbon 帖同一帖内既转述多榜超 Fable/Opus 与 AA v5.0 第一，又质疑分数——与 Lambert「榜位可动、真用待验」同向，但证据止于转述与怀疑，未给自测结论。[^op7418-gemini-4-carbon-benchmarks]
 
-马天翼’s two posts are same author and day and agree: score/KOL cover-up → community tests → lags DeepSeek v4.1 Flash; one stresses Opus name-dropping and paid-post leaks, the other over-promotion backlash.[^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash] meng shao names the Kimi K3.1 Pro English-Twitter campaign, focusing on talent pick, Paid Partnership compliance, and “let people use it” versus weird talking-point spam—without a Flash comparison or Opus name-dropping—so it shares “paid/KOL promo is untrustworthy” while the evidence chain differs.[^shao-meng-kimi-en-kol-promo-weird] Ding likewise names the Kimi English-Twitter context but stresses “skip CN KOLs, buy EN upstream” and “many overseas big accounts are fakes/MCNs,” plus a Flash contrast and quota dig—complementary to meng shao’s talent/compliance/real-use line rather than contradictory; the fake-account claim is also not independently verified here.[^dingyi-kimi-en-kol-fake-accounts] Lambert grants that Kimi 3.1 can move AA standings, yet judges real use closer to miss—aligned with “strong on the board, cold in the hand,” via a potential/conversion frame rather than Flash contrasts or marketing channels.[^natolambert-real-world-over-aa]
+马天翼’s two posts are same author and day and agree: score/KOL cover-up → community tests → lags DeepSeek v4.1 Flash; one stresses Opus name-dropping and paid-post leaks, the other over-promotion backlash.[^fkysly-score-hype-opus-grave][^fkysly-overhype-backlash] meng shao names the Kimi K3.1 Pro English-Twitter campaign, focusing on talent pick, Paid Partnership compliance, and “let people use it” versus weird talking-point spam—without a Flash comparison or Opus name-dropping—so it shares “paid/KOL promo is untrustworthy” while the evidence chain differs.[^shao-meng-kimi-en-kol-promo-weird] Ding likewise names the Kimi English-Twitter context but stresses “skip CN KOLs, buy EN upstream” and “many overseas big accounts are fakes/MCNs,” plus a Flash contrast and quota dig—complementary to meng shao’s talent/compliance/real-use line rather than contradictory; the fake-account claim is also not independently verified here.[^dingyi-kimi-en-kol-fake-accounts] Lambert grants that Kimi 3.1 can move AA standings, yet judges real use closer to miss—aligned with “strong on the board, cold in the hand,” via a potential/conversion frame rather than Flash contrasts or marketing channels.[^natolambert-real-world-over-aa] 歸藏’s Carbon post relays multi-board beats over Fable/Opus plus AA v5.0 #1 while questioning the scores in the same post—same “standings move, usability unproven” direction as Lambert, but evidence stops at relay plus skepticism, not a hands-on verdict.[^op7418-gemini-4-carbon-benchmarks]
 
 ## 相关 / Related
 
@@ -69,6 +76,7 @@ Leaderboards and paid score hype do not outrun peers’ hands-on tests; at the t
 - Source: [邵萌谈 Kimi 英推 KOL 宣发怪](../sources/articles/shao-meng-kimi-en-kol-promo-weird.md)
 - Source: [Ding 谈 Kimi 不投中推与英推假大号](../sources/articles/dingyi-kimi-en-kol-fake-accounts.md)
 - Source: [Nathan Lambert 谈顶档模型真用重于 AA 分数](../sources/articles/natolambert-real-world-over-aa.md)
+- Source: [歸藏谈 Gemini 4 Carbon 跑分几乎全面超 Fable / Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md)
 - Topic: [信任公开榜前先审质量](./public-benchmark-quality-scrutiny.md)
 - Topic: [Pro 与 Flash 模型策略](./pro-vs-flash-model-strategy.md)
 - Topic: [开放权重前沿模型](./open-weight-frontier-models.md)
@@ -78,3 +86,4 @@ Leaderboards and paid score hype do not outrun peers’ hands-on tests; at the t
 [^shao-meng-kimi-en-kol-promo-weird]: Meng Shao on the odd Kimi English-Twitter KOL promo
 [^dingyi-kimi-en-kol-fake-accounts]: Ding on Kimi skipping CN KOLs and fake English accounts
 [^natolambert-real-world-over-aa]: Nathan Lambert on real-world usability over AA scores
+[^op7418-gemini-4-carbon-benchmarks]: 歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus

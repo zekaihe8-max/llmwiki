@@ -1,0 +1,82 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:45:45.297Z",
+  "url": "https://x.com/fkysly/status/2115466450215563632",
+  "slug": "8563bb64048fbf67",
+  "content_hash": "c9723b913bc31197876fd7bc4691af32712c3a3b8c601608d36af36118f5c11f",
+  "source": {
+    "path": "sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Article has no risk-control or KYC content beyond implying multiple accounts."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "add_evidence",
+      "reason": "Integrated fkysly’s split-tier weekly quota lore alongside existing Sub2API scheduling and multi-account survival narrative."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis and a contradiction pairing Xiaomo’s single Claude Pro trim with fkysly’s multi-account split-tier lore."
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "Article does not discuss usage-limit A/B tests or SemiAnalysis-style monthly API-value changes."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "Same author already filed multi–Claude weekly-reset scheduling; this post is community lore on split 5×/Pro weekly allotments versus one 20× tier—directly extends the multi-account quota axis.",
+    "topics/premium-ai-subscription-value.md": "Post compares subscription tier stacking (2×5×, 5–6 Pro) against a single 20× weekly allotment—subscription worth-it and consolidation versus multi-tier strategies.",
+    "topics/claude-subscription-risk-control-weights.md": "Multi-account Claude stacks touch risk signals, but this post gives no KYC/risk claims—reviewed and left unchanged.",
+    "topics/usage-limit-ab-tests.md": "Post mentions 5×/20×/Pro tiers but not Anthropic A/B limit experiments—reviewed and left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "Same author already filed multi–Claude weekly-reset scheduling; this post is community lore on split 5×/Pro weekly allotments versus one 20× tier—directly extends the multi-account quota axis.",
+      "topics/premium-ai-subscription-value.md": "Post compares subscription tier stacking (2×5×, 5–6 Pro) against a single 20× weekly allotment—subscription worth-it and consolidation versus multi-tier strategies.",
+      "topics/claude-subscription-risk-control-weights.md": "Multi-account Claude stacks touch risk signals, but this post gives no KYC/risk claims—reviewed and left unchanged.",
+      "topics/usage-limit-ab-tests.md": "Post mentions 5×/20×/Pro tiers but not Anthropic A/B limit experiments—reviewed and left unchanged."
+    },
+    "notes": "Short X post only; no mechanism, cost math, or official citation in fetched body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md",
+        "topics/coding-agent-ux-vs-quota.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

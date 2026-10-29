@@ -1,0 +1,102 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:06:42.896Z",
+  "url": "https://x.com/dotey/status/2115667965328977920",
+  "slug": "948420f25a10a8c5",
+  "content_hash": "97ffeee22ff74bbfffd5f4671a7b7db9a676b65e0debacc20f0c069ad5c3a2f9",
+  "source": {
+    "path": "sources/articles/dotey-baoyu-design-v2-opensource.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Does not extend the building-agents-not-valuable or team-scaling claims in that topic."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added platform-surface port pack vs lean-skill authoring, plus contradictions on category/size and description budget."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "add_evidence",
+      "reason": "Integrated cross-host baoyu-design v2 port as Skills-ecosystem landing case with new source citation."
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "add_evidence",
+      "reason": "Added Artifact-decoupled design-agent shape as foil to BYO Claude/Codex subscription hook."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "No harness core/fork or plugin-host architecture claim in the X post."
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Design stack port, not natural-language editing assistant pattern covered by that topic."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "Post announces baoyu-design v2 as open Skills packaging that runs on any agent/model without Claude Artifacts—direct evidence for cross-host Skills adoption.",
+    "topics/agent-skill-authoring.md": "Release is a multi-skill product port (editors, sync, exports), contrasting with lean personal gotcha Skills and touching install/budget cautions.",
+    "topics/design-to-code-byo-subscriptions.md": "Ports Claude Design/Slides/Dashboard off the vendor web/Artifact surface; adjacent design-agent axis vs Wonder BYO-subscription pattern already on the page.",
+    "topics/minimal-core-community-extensions.md": "Checked for harness fork vs slim-core fit; article is a skill bundle port, not Pi/DSH host architecture—no file change.",
+    "topics/open-source-in-ai-assistant-editing.md": "Checked for open-source-in-assistant pattern; article is design/slides/dashboard, not video editing—no file change.",
+    "topics/agent-scaled-engineering.md": "Checked for dotey building-tools-for-agents value line; this post is a product launch announcement, not the value-ranking essay—no file change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-baoyu-design-v2-opensource.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skills-open-standard.md": "Post announces baoyu-design v2 as open Skills packaging that runs on any agent/model without Claude Artifacts—direct evidence for cross-host Skills adoption.",
+      "topics/agent-skill-authoring.md": "Release is a multi-skill product port (editors, sync, exports), contrasting with lean personal gotcha Skills and touching install/budget cautions.",
+      "topics/design-to-code-byo-subscriptions.md": "Ports Claude Design/Slides/Dashboard off the vendor web/Artifact surface; adjacent design-agent axis vs Wonder BYO-subscription pattern already on the page.",
+      "topics/minimal-core-community-extensions.md": "Checked for harness fork vs slim-core fit; article is a skill bundle port, not Pi/DSH host architecture—no file change.",
+      "topics/open-source-in-ai-assistant-editing.md": "Checked for open-source-in-assistant pattern; article is design/slides/dashboard, not video editing—no file change.",
+      "topics/agent-scaled-engineering.md": "Checked for dotey building-tools-for-agents value line; this post is a product launch announcement, not the value-ranking essay—no file change."
+    },
+    "notes": "Source slug dotey-baoyu-design-v2-opensource; fetched body is short X announcement only—did not cite digest-only details (Design System skill, export formats, local sync).",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-baoyu-design-v2-opensource.md",
+        "topics/agent-skill-authoring.md",
+        "topics/agent-skills-open-standard.md",
+        "topics/design-to-code-byo-subscriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

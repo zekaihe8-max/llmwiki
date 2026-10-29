@@ -37,6 +37,7 @@ date: 2026-10-28
 ## 相关 / Related
 
 - Topic: [桌面换装角色伴侣](../../topics/desktop-outfit-character-companions.md)
+- Source: [马尔福桌面开源仓库](./op7418-malfoy-desktop.md)
 - Topic: [随手 AI 小游戏一次成功](../../topics/casual-ai-minigame-first-try.md)
 - Topic: [模型吉祥物周边与 Harness 同热](../../topics/model-mascot-merch-harness-coheat.md)
 - Topic: [本地开放助手与机器人小模型](../../topics/local-open-assistant-models.md)

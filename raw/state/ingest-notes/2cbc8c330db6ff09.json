@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agentic-video-editing.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "Release adds shopping cards, mandatory confirm-before-order, and post-purchase logistics in the bot browser—same Computer Use commerce-automation family as the JD invoice source.",
+    "topics/premium-ai-subscription-value.md": "Built-in subscription manager (trials, billing reminders, renewal prices, idle subs) is a product-side angle on not wasting subscription spend.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Vault stores account cards with per-item 1Password auth and passwords invisible to the bot—credential hygiene on the shared cloud agent, adjacent to external backup guidance.",
+    "topics/agentic-video-editing.md": "v0.78.1 lists first-party text/reference-image video generation inside Grok Bot, alongside existing marketplace-bot and CLI evidence.",
+    "topics/grok-bot-x-intel-defense-not-post.md": "Checked whether 30-minute action-approval cards belong on the X intel/no-auto-post page; they are general bot safety UX, not outbound posting bounds.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Same author/product line but release notes do not add orchestration or foreman/worker layering evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Integrated v0.78.1 shopping cards, confirm-before-order, and logistics tracking as built-in cloud-browser commerce ops."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Integrated subscription manager feature as SaaS trial/renewal ops within the don't-waste-subscription-stack narrative."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "add_evidence",
+      "reason": "Integrated Vault + 1Password per-item authorization and bot-invisible passwords as product credential hygiene."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Integrated first-party Grok Bot video-from-text-or-reference-image as another assistant-surface generation path."
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "30-minute approval cards are not X posting/intel boundaries; no file edit."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Release notes do not change foreman orchestration claims; no file edit."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug cgnot996-grok-bot-v0781-shopping-vault-pages; Pages co-editing noted on Source only—no durable Topic owner for generic collaborative docs."
+}

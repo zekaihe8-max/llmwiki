@@ -1,0 +1,54 @@
+{
+  "topics_consulted": [
+    "topics/expert-decisions-follow-agent-presets.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/workflows-before-agents.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/expert-decisions-follow-agent-presets.md": "No existing Topic owned delegation-after-expert-work, measured alignment with agent preset tendencies, or lack of metacognitive awareness—the core claims of the FinanceYF5 relay of Anthropic’s n=50 analyst experiment.",
+    "topics/calibrating-ai-guidance.md": "Same human–AI collaboration family; article adds a failure mode outside over-/under-guidance toward the model—experts’ own decisions tracking agent presets without noticing.",
+    "topics/adversarial-review-external-evidence.md": "Felix-line distrust of same-session self-judge gains empirical human-side motivation when professionals do not notice agent influence after delegation.",
+    "topics/divergent-tasks-human-design-gate.md": "Also about where humans intervene in agent collaboration, but only task-divergence checkpoints—not post-delegation deference rates; checked for reuse, left unchanged.",
+    "topics/workflows-before-agents.md": "About when to use predefined workflows vs open agents, not who leads decisions after delegation; checked, left unchanged.",
+    "topics/ux-dx-and-ax.md": "Digest commentary mentioned UI copy vs leadership, but fetched article body does not discuss UX/AX; checked, left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/expert-decisions-follow-agent-presets.md",
+      "action": "create",
+      "reason": "New Topic for Anthropic analyst experiment relay: ~86% decisions follow agent preset tendency, many unaware, scope limited to captured 1/11 thread body."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "record_contradiction",
+      "reason": "Added synthesis on third failure surface (felt leadership vs preset alignment) and Contradictions pairing Rauch dial skill with unnoticed deference after delegation; new source id and related links."
+    },
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "add_evidence",
+      "reason": "Integrated human-judge motivation from analyst deference experiment; new source id, synthesis paragraphs, related link to new Topic."
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "Article does not specify design-draft gates or divergence-based checkpoints—only aggregate deference after handing work to agents."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "No workflow-vs-agent path evidence in the fetched article."
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "No UI/DX/AX claims in raw article body."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/expert-decisions-follow-agent-presets.md": "calibrating-ai-guidance owns the human→model guidance dial, not empirical expert decision alignment with agent presets after delegation; divergent-tasks-human-design-gate owns intervention timing by task type, not measured unaware deference."
+  },
+  "notes": "Source slug financeyf5-anthropic-analyst-agent-deference.md; thread 1/11—method detail not in fetched raw."
+}

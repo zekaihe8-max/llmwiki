@@ -1,0 +1,102 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:08:14.118Z",
+  "url": "https://github.com/jimliu/baoyu-design",
+  "slug": "964255179c4fb604",
+  "content_hash": "e83791441f8fcc244d05040f897ee15cc26382fe61e4dc49a34312928f1e1404",
+  "source": {
+    "path": "sources/articles/jimliu-baoyu-design.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added repo structure, partial install, and gen-pptx split; tightened contradictions with operational --skill guidance."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "add_evidence",
+      "reason": "Added README-grounded five-skill install story and scope-listing contradiction vs Dotey three-pack wording."
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "add_evidence",
+      "reason": "Added local-agent/no-upload loop vs Wonder BYO subscription; opened contradictions on comments gap only on X post."
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "Full design skill flow, not vista8-style site-clone-only path."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "No slim-core vs community extension harness claim in the GitHub README body."
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "Design artifact port, not the three-pack iOS recreation stack."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "README documents five installable Skills, npx skills CLI, and local artifact.mjs replacing web Artifacts—core cross-host Skills landing evidence.",
+    "topics/agent-skill-authoring.md": "Repo shows SKILL.md/system-prompt/references/built-in-skills layering, partial --skill installs, and out-of-skill gen-pptx CLI—extends platform-port vs lean-skill contrast.",
+    "topics/design-to-code-byo-subscriptions.md": "README pitches no claude.ai/design subscription/upload, localhost point-and-edit loop, and editor file round-trip—design-agent axis adjacent to Wonder BYO subs.",
+    "topics/minimal-core-community-extensions.md": "Checked for Pi/DSH slim-core parallels; this is Anthropic design surface repack, not harness fork architecture—no change.",
+    "topics/skills-stack-native-app-recreation.md": "Checked for iOS recreation stacks; repo is design/artifacts not Appllama/Expo/Emil stack—no change.",
+    "topics/landing-page-site-clone-over-skill.md": "Checked for reference-site clone path; baoyu is full design skill orchestration, not landing clone-only workflow—no change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/jimliu-baoyu-design.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/landing-page-site-clone-over-skill.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skills-open-standard.md": "README documents five installable Skills, npx skills CLI, and local artifact.mjs replacing web Artifacts—core cross-host Skills landing evidence.",
+      "topics/agent-skill-authoring.md": "Repo shows SKILL.md/system-prompt/references/built-in-skills layering, partial --skill installs, and out-of-skill gen-pptx CLI—extends platform-port vs lean-skill contrast.",
+      "topics/design-to-code-byo-subscriptions.md": "README pitches no claude.ai/design subscription/upload, localhost point-and-edit loop, and editor file round-trip—design-agent axis adjacent to Wonder BYO subs.",
+      "topics/minimal-core-community-extensions.md": "Checked for Pi/DSH slim-core parallels; this is Anthropic design surface repack, not harness fork architecture—no change.",
+      "topics/skills-stack-native-app-recreation.md": "Checked for iOS recreation stacks; repo is design/artifacts not Appllama/Expo/Emil stack—no change.",
+      "topics/landing-page-site-clone-over-skill.md": "Checked for reference-site clone path; baoyu is full design skill orchestration, not landing clone-only workflow—no change."
+    },
+    "notes": "New Source jimliu-baoyu-design.md; resource https://github.com/jimliu/baoyu-design. Did not cite digest-only claims as article body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/jimliu-baoyu-design.md",
+        "topics/agent-skill-authoring.md",
+        "topics/agent-skills-open-standard.md",
+        "topics/design-to-code-byo-subscriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:22:24.414Z",
+  "url": "https://x.com/0xLogicrw/status/2115737151405232503",
+  "slug": "e0e47c9d9b00f595",
+  "content_hash": "d79f1ca78d2e749b12110c62e7a927f904ec7284e8bc1194b7c2175bcd89a45d",
+  "source": {
+    "path": "sources/articles/logicrw-doubao-work-third-party-models.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/tools-building-own-models.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis paragraph separating enterprise Doubao Work picker from DSH/API channel tradeoffs."
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "Manual user model selection in Doubao Work chat UI is not task-based Auto routing (Gemini Auto / AutoRouter)."
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "add_evidence",
+      "reason": "Integrated enterprise Doubao Work multi-model menu vs Magpie single-partner pattern and updated Contradictions."
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "record_contradiction",
+      "reason": "Recorded foil and tension between own-model narrative and Doubao Work hosting rival frontier models in-product."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "Doubao Work folds Kimi, GLM, and DeepSeek into an enterprise in-app model menu—formal third-party model services beyond self-serve API keys.",
+    "topics/tools-building-own-models.md": "ByteDance reframes Doubao Work from Doubao-only toward a multi-vendor enterprise entry, foiling the own-model-for-narrative-only pattern.",
+    "topics/agent-model-channel-tradeoffs.md": "Article is hosted product model switching, not harness OpenRouter/OpenCode channels—needs a delivery-surface boundary note.",
+    "topics/cloud-auto-model-routing.md": "Checked for Auto/task routing overlap; post describes manual in-chat model picker, not platform Auto orchestration."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/logicrw-doubao-work-third-party-models.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/in-app-model-partnerships.md",
+      "topics/tools-building-own-models.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/in-app-model-partnerships.md": "Doubao Work folds Kimi, GLM, and DeepSeek into an enterprise in-app model menu—formal third-party model services beyond self-serve API keys.",
+      "topics/tools-building-own-models.md": "ByteDance reframes Doubao Work from Doubao-only toward a multi-vendor enterprise entry, foiling the own-model-for-narrative-only pattern.",
+      "topics/agent-model-channel-tradeoffs.md": "Article is hosted product model switching, not harness OpenRouter/OpenCode channels—needs a delivery-surface boundary note.",
+      "topics/cloud-auto-model-routing.md": "Checked for Auto/task routing overlap; post describes manual in-chat model picker, not platform Auto orchestration."
+    },
+    "notes": "Source slug logicrw-doubao-work-third-party-models.md; resource https://x.com/0xLogicrw/status/2115737151405232503",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/logicrw-doubao-work-third-party-models.md",
+        "topics/agent-model-channel-tradeoffs.md",
+        "topics/in-app-model-partnerships.md",
+        "topics/tools-building-own-models.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

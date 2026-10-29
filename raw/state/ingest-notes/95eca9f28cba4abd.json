@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/hunger-beats-tenure.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/hunger-beats-tenure.md": "Article is a detailed OpenAI SWE hiring loop relay—directly tensions Felix/Anthropic 'drop coding puzzles' narrative and belongs with interview-format / hiring-signal evidence.",
+    "topics/calibrating-ai-guidance.md": "Optional AI-agent coding round and OpenAI guide's mixed allow/no-AI rounds map to hiring-side tight/loose guidance calibration (Rauch #0 skill).",
+    "topics/agent-scaled-engineering.md": "Checked for team-scaling or 'agents not valuable' lines; post is interview process only—no extension to that topic's claims.",
+    "topics/coding-agent-ux-vs-quota.md": "Checked for Codex/Claude Code product UX or quota; article only names agents as interview tools—no quota/UX claims."
+  },
+  "topics": [
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "record_contradiction",
+      "reason": "Integrated OpenAI SWE Reddit relay as contrasting heavy coding/take-home signal vs Felix loop; expanded Contradictions scope boundary."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "add_evidence",
+      "reason": "Linked OpenAI mixed AI-tool interview policy and pilot agent-coding round to hiring #0 guidance-dial skill."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "No change to small-team throughput or workflow value claims on that page."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Interview mention of Codex/Claude Code does not update UX-vs-quota tradeoffs."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug dotey-openai-swe-interview-flow; primary evidence from Dotey X relay summarizing Reddit little_kwagga, not digest-only text."
+}

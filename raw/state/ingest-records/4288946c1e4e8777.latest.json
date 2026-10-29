@@ -1,0 +1,73 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:38:29.865Z",
+  "url": "https://x.com/yetone/status/2115516478254624914",
+  "slug": "4288946c1e4e8777",
+  "content_hash": "6f2db9af5de3371a2ef7a69fba68a9fb571c03aeabf85ded72e9be1c79f758c6",
+  "source": {
+    "path": "sources/articles/yetone-alma-ios-herdr-native-client.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Added Alma-author mobile integration paragraph alongside Pi Pocket / Cloudflare mobile-extension evidence."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "add_evidence",
+      "reason": "Integrated synthesis contrasting home-machine native GUI client path with existing cloud PR/CI chain; added source id and Related link."
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "Mobile pain is solved via Herdr/Alma product stack, not personal-agent hype or Grokbot session framing."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "Article describes a concrete phone-side coding path (native Alma iOS Herdr client vs prior uu remote desktop), parallel to existing Grok Bot→Cursor Cloud evidence on this Topic.",
+    "topics/minimal-core-community-extensions.md": "Post frames mobile access as an in-product extension (Alma iOS + E2E relay + Herdr client), same mobile-extension axis as Pi Pocket in this Topic.",
+    "topics/personal-agent-hype-familiarity-gap.md": "Touches mobile UX for Claude Code / harness use on phone, but evidence is native client engineering—not Grok craze, familiarity gap, or Grokbot session convenience—so no file change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yetone-alma-ios-herdr-native-client.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/personal-agent-hype-familiarity-gap.md"
+    ],
+    "selection_reasons": {
+      "topics/mobile-agent-dev-full-chain.md": "Article describes a concrete phone-side coding path (native Alma iOS Herdr client vs prior uu remote desktop), parallel to existing Grok Bot→Cursor Cloud evidence on this Topic.",
+      "topics/minimal-core-community-extensions.md": "Post frames mobile access as an in-product extension (Alma iOS + E2E relay + Herdr client), same mobile-extension axis as Pi Pocket in this Topic.",
+      "topics/personal-agent-hype-familiarity-gap.md": "Touches mobile UX for Claude Code / harness use on phone, but evidence is native client engineering—not Grok craze, familiarity gap, or Grokbot session convenience—so no file change."
+    },
+    "notes": "New Source yetone-alma-ios-herdr-native-client.md; index and log updated.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yetone-alma-ios-herdr-native-client.md",
+        "topics/minimal-core-community-extensions.md",
+        "topics/mobile-agent-dev-full-chain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

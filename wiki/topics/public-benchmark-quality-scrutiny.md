@@ -9,9 +9,15 @@ sources:
   - id: hamelhusain-public-benchmark-quality
     resource: https://x.com/HamelHusain/status/2114434195854684330
     title: Hamel Husain on poor public-benchmark quality vs industry reliance
+  - id: op7418-gemini-4-carbon-benchmarks
+    resource: https://x.com/op7418/status/2115517927730606478
+    title: 歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus
+  - id: heydengai-leaderboard-exam-weighting
+    resource: https://x.com/heydengai/status/2115754265155100896
+    title: Heydengai on AI leaderboards as exams—change the test, change the rankings
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-26T08:42:21+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:14:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -33,6 +39,14 @@ Industry reliance on public benchmarks can far outrun the quality of those bench
 
 Adjacent [Community evals vs score hype](./community-evals-vs-score-hype.md) covers leaderboard/marketing versus peers’ real use and KOL score hype; this page is about scrutinizing benchmark and grader quality itself—different evidence, same “don’t blindly trust popular boards” neighborhood. [Intelligence as an anthropocentric benchmark](./intelligence-as-anthropocentric-benchmark.md) is about “intelligence” as an anthropocentric narrative metric, not public-board datasets or grader failures.
 
+[歸藏谈 Gemini 4 Carbon 跑分几乎全面超 Fable / Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md) 是「热门榜名 ≠ 已验证事实」的推友侧例：他转述 Gemini 4 Carbon 在多数测评上几乎全面超过 Fable 5.1 与 Opus 5.5、Terminal Bench 4.0 尤其领先，并引用 Sundar 所称 Artificial Analysis v5.0 第一，但开篇即问分数是否可信——尚未落到 Hamel 式自行跑测或 grader 失败样例，只显示在采信 AA/多榜组合前社区会先起疑。[^op7418-gemini-4-carbon-benchmarks] 原帖 <https://x.com/op7418/status/2115517927730606478>。
+
+[歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md) is a peer-side instance of “popular board names ≠ verified fact”: he relays Gemini 4 Carbon beating Fable 5.1 and Opus 5.5 on most evals with Terminal Bench 4.0 far ahead, plus Sundar’s Artificial Analysis v5.0 #1 claim, yet opens by asking whether the scores are believable—not yet Hamel-style self-runs or grader failure inspection, only showing community doubt before trusting an AA / multi-board bundle.[^op7418-gemini-4-carbon-benchmarks] Post: <https://x.com/op7418/status/2115517927730606478>.
+
+[小邓同学谈 AI 排行榜像考试：换考卷排名就变](../sources/articles/heydengai-leaderboard-exam-weighting.md) 把测量工具问题说到**权重与科目**：榜像考试，编程加权时开源还能和闭源接近，科学题加权后同一对比下分差从 3 扩到 12，而模型集合未换——强调「换考卷即换名次」，不是 grader 失败样例或跑测复现。与 Hamel 审 grader、歸藏疑单次大胜不同轴，但同属采信前须问**榜在测什么**。[^heydengai-leaderboard-exam-weighting] 原帖 <https://x.com/heydengai/status/2115754265155100896>。
+
+[Heydengai on AI leaderboards as exams—change the test, change the rankings](../sources/articles/heydengai-leaderboard-exam-weighting.md) pushes the measuring-instrument issue to **weighting and subject mix**: boards look like exams—coding weighting kept open vs closed close, science weighting widened the same kind of gap from 3 to 12 while the models stayed fixed—stressing “change the test, change the standings,” not grader failures or a self-run reproduction. Different axis from Hamel’s grader scrutiny or 歸藏’s doubt of one big win, but the same “ask what the board is testing before trusting it.”[^heydengai-leaderboard-exam-weighting] Post: <https://x.com/heydengai/status/2115754265155100896>。
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -44,7 +58,11 @@ No conflict with [Community evals vs score hype](./community-evals-vs-score-hype
 ## 相关 / Related
 
 - Source: [Hamel Husain 谈公开榜质量差却被业界高度依赖](../sources/articles/hamelhusain-public-benchmark-quality.md)
+- Source: [歸藏谈 Gemini 4 Carbon 跑分几乎全面超 Fable / Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md)
+- Source: [小邓同学谈 AI 排行榜像考试：换考卷排名就变](../sources/articles/heydengai-leaderboard-exam-weighting.md)
 - Topic: [社区实测对抗刷分碰瓷](./community-evals-vs-score-hype.md)
 - Topic: [智能作为人类中心主义指标](./intelligence-as-anthropocentric-benchmark.md)
 
 [^hamelhusain-public-benchmark-quality]: Hamel Husain on poor public-benchmark quality vs industry reliance
+[^op7418-gemini-4-carbon-benchmarks]: 歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus
+[^heydengai-leaderboard-exam-weighting]: Heydengai on AI leaderboards as exams—change the test, change the rankings

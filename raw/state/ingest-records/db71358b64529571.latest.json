@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:54:14.192Z",
+  "url": "https://x.com/wquguru/status/2115650330633666737",
+  "slug": "db71358b64529571",
+  "content_hash": "fda173206d3582a9a8c36019d75119d06285b34dc1b64c26aba1a2aad979528c",
+  "source": {
+    "path": "sources/articles/wquguru-claude-dario-temper-index.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "add_evidence",
+      "reason": "Integrated the new Source synthesis, frontmatter source id, intro citations, scope caveat on the scoring site, and Related link."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "No new evidence on UX, weekly quota, or multi-account scheduling; only cross-linked risk framing already on the risk-control Topic."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Article does not address subscription value, pricing, or enough-quota claims."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "Same author and signal family as the existing weight-table Source; this post formalizes 16 factors into a 0–100 Dario temper index and expands dimension lists (usage, payment, environment, account reputation).",
+    "topics/coding-agent-ux-vs-quota.md": "Shares multi-Claude subscription anxiety but this article is risk scoring, not quota burn or weekly-reset scheduling.",
+    "topics/premium-ai-subscription-value.md": "Subscription-adjacent but the post does not argue worth-it or plan mix; only ban-risk mechanization."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/wquguru-claude-dario-temper-index.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "Same author and signal family as the existing weight-table Source; this post formalizes 16 factors into a 0–100 Dario temper index and expands dimension lists (usage, payment, environment, account reputation).",
+      "topics/coding-agent-ux-vs-quota.md": "Shares multi-Claude subscription anxiety but this article is risk scoring, not quota burn or weekly-reset scheduling.",
+      "topics/premium-ai-subscription-value.md": "Subscription-adjacent but the post does not argue worth-it or plan mix; only ban-risk mechanization."
+    },
+    "notes": "New Source slug wquguru-claude-dario-temper-index.md; resource URL https://x.com/wquguru/status/2115650330633666737",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/wquguru-claude-dario-temper-index.md",
+        "topics/claude-subscription-risk-control-weights.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

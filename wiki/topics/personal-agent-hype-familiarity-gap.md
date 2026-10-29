@@ -2,9 +2,9 @@
 type: Topic
 title: 个人 Agent 热潮与 Coding Agent 熟悉度差
 title_en: Personal-agent hype vs coding-agent familiarity
-description: 个人 Agent（如 Grok Bot、Muse）热潮对未高频用过前沿 Coding Agent 的人更像科幻震撼；天天用 Claude Code / Codex 的人波澜不大——熟悉度差决定体感，而非产品是否全新；手机端另有 session 便利差。
-description_en: Personal-agent crazes (e.g. Grok Bot, Muse) feel like sci-fi awe to people who rarely use frontier coding agents; daily Claude Code / Codex users barely flinch—the familiarity gap, not product novelty alone, drives the reaction; mobile also differs in session convenience.
-tags: [personal-agents, grok-bot, muse, coding-agents, hype, familiarity, claude-code, codex, mobile]
+description: 个人 Agent（如 Grok Bot、Muse）热潮对未高频用过前沿 Coding Agent 的人更像科幻震撼；天天用 Claude Code / Codex 的人波澜不大——熟悉度差决定体感；资本侧亦可见陡峭估值阶梯（如 Instinct 融资传闻）；手机端另有 session 便利差。
+description_en: Personal-agent crazes (e.g. Grok Bot, Muse) feel like sci-fi awe to people who rarely use frontier coding agents; daily Claude Code / Codex users barely flinch—the familiarity gap drives reception; capital markets also show steep valuation ladders (e.g. Instinct fundraise rumors); mobile also differs in session convenience.
+tags: [personal-agents, grok-bot, muse, coding-agents, hype, familiarity, claude-code, codex, mobile, valuation, instinct]
 sources:
   - id: dotey-grok-bot-like-crayfish
     resource: https://x.com/dotey/status/2114203536477053273
@@ -12,9 +12,12 @@ sources:
   - id: dotey-grokbot-mobile-vs-claude-codex
     resource: https://x.com/dotey/status/2114225068108550193
     title: Dotey on mobile Claude / Codex vs Grokbot convenience
+  - id: financeyf5-instinct-30b-valuation-fundraise
+    resource: https://x.com/FinanceYF5/status/2115705271104176451
+    title: AI Will on Instinct’s alleged ~$30B valuation fundraise
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-25T19:55:39+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:25:00+08:00
 ---
 
 # 个人 Agent 热潮与 Coding Agent 熟悉度差
@@ -35,20 +38,26 @@ The same personal-agent craze can split by familiarity with frontier coding agen
 
 The follow-up [Dotey on mobile Claude / Codex vs Grokbot convenience](../sources/articles/dotey-grokbot-mobile-vs-claude-codex.md), replying that most people use phones, get daily work done by talking, and want “program on phone, use on phone,” adds that Claude Code / Codex also support mobile but are less convenient than Grokbot—especially without thinking about a new session.[^dotey-grokbot-mobile-vs-claude-codex] Post: <https://x.com/dotey/status/2114225068108550193>. That names a product fact beside “why coding-agent users aren’t wowed”: even when capability reaches the phone, session friction can still make a personal agent easier on mobile; it sits alongside the familiarity gap rather than canceling it.
 
+[AI Will 谈 Instinct 约 300 亿美元估值融资](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md) 补**资本侧**同一类「个人 Agent 热」：帖文称 Instinct（Noah Shinn 创立的个人 AI Agent）上线不足一年、仍免费邀请制，却据称正以约 300 亿美元估值融资，估值自约 1 亿→5 亿→25 亿→100 亿美元阶梯上行，且年经手交易额近 10 亿美元——与 Dotey 线的「谁被产品震撼」正交，说明热潮亦体现在私募定价上；帖文为转述传闻，未核实条款或来源。[^financeyf5-instinct-30b-valuation-fundraise] 原帖 <https://x.com/FinanceYF5/status/2115705271104176451>。
+
+[AI Will on Instinct’s alleged ~$30B valuation fundraise](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md) adds a **capital-market** leg of the same personal-agent heat: the post says Instinct (Noah Shinn’s personal AI agent), less than a year live and still free invite-only, is allegedly fundraising at about $30B after a ladder from about $100M → $500M → $2.5B → $10B, with nearly $1B in annual transaction volume—orthogonal to Dotey’s “who is awed by the product,” showing the craze also in private pricing; the post relays rumors without verified terms or sources.[^financeyf5-instinct-30b-valuation-fundraise] Post: <https://x.com/FinanceYF5/status/2115705271104176451>.
+
 与 [Agent 经家居平台直控设备](./agent-home-platform-control.md) 同属个人 Agent 叙事，但那页讲的是 Home 直控路径切换，本页讲的是热潮体感、Coding Agent 熟悉度差与手机 session 便利，证据不重叠。
 
 It shares the personal-agent narrative with [Agents control devices via home platforms](./agent-home-platform-control.md), but that page is about Home-native control-path switching; this page is about craze reception, coding-agent familiarity, and mobile session convenience—the evidence does not overlap.
 
 ## 矛盾与变化 / Contradictions
 
-暂无。熟悉度差解释「谁被震撼」；手机 session 便利解释「Grokbot 在移动端为何更省事」——两帖互补，未互相改口。 / None yet. The familiarity gap explains who is awed; mobile session convenience explains why Grokbot is easier on phone—the two posts complement each other and do not walk back either claim.
+暂无。熟悉度差解释「谁被震撼」；手机 session 便利解释「Grokbot 在移动端为何更省事」；Instinct 融资传闻补资本侧热潮——三股证据正交互补，未互相改口。 / None yet. The familiarity gap explains who is awed; mobile session convenience explains why Grokbot is easier on phone; Instinct fundraise rumors add a capital-market leg—all three complement without walking back prior claims.
 
 ## 相关 / Related
 
 - Source: [宝玉谈 Grok Bot 热潮像「小龙虾」](../sources/articles/dotey-grok-bot-like-crayfish.md)
 - Source: [宝玉谈手机端 Claude / Codex 不如 Grokbot 便利](../sources/articles/dotey-grokbot-mobile-vs-claude-codex.md)
+- Source: [AI Will 谈 Instinct 约 300 亿美元估值融资](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md)
 - Topic: [Agent 经家居平台直控设备](./agent-home-platform-control.md)
 - Topic: [编程 Agent 体验与额度](./coding-agent-ux-vs-quota.md)
 
 [^dotey-grok-bot-like-crayfish]: Dotey on the Grok Bot craze being like crayfish
 [^dotey-grokbot-mobile-vs-claude-codex]: Dotey on mobile Claude / Codex vs Grokbot convenience
+[^financeyf5-instinct-30b-valuation-fundraise]: AI Will on Instinct’s alleged ~$30B valuation fundraise

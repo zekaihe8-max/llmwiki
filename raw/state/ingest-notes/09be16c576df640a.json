@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Post describes HTML plus image generation for rich narrative output—checked whether it extends the HTML-as-media thesis beyond video editing.",
+    "topics/casual-ai-minigame-first-try.md": "Same author (vista8) often files light AI artifacts; checked if a learning-community beta is the mini-game floor narrative.",
+    "topics/ai-product-self-rec-amplify.md": "Checked for self-rec/amplification thread; this post is a product radar note, not the comment-drive campaign.",
+    "topics/agent-scaled-engineering.md": "Checked for tools-for-agents or team-scaling claims; post is consumer edutainment beta only.",
+    "topics/agent-native-web-search.md": "Checked for Tencent search/API infra; Dongleya is a separate fun-knowledge community product, not Yuanbao Search."
+  },
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "create",
+      "reason": "No existing Topic owned HTML+image-gen fun-knowledge learning communities; integrated vista8 Dongleya beta as founding evidence."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Article is learning/story explainers, not agentic video editing, NLE replacement, or minimal preview UI claims—only cross-linked in Related on new Topic."
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "Product is edutainment community with picture-book examples, not casual playable mini-games or one-shot game floor rhetoric."
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "No self-recommendation drive or host amplification mechanics in the X post."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Does not speak to agent-scaled team practices or building-tools-for-agents value ranking."
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "Dongleya is not web-search API or Agent-native search rebuild evidence."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "Existing Topics cover video editing via HTML, casual mini-games, or Tencent Yuanbao Search—not consumer fun-knowledge learning communities that combine HTML narrative with image-gen for explainers such as children’s picture books."
+  },
+  "notes": "Source slug vista8-tencent-dongleya-beta; resource URL exact per task; did not cite digest-only positioning or anxiety-line commentary."
+}

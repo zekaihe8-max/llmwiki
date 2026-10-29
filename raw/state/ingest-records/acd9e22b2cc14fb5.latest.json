@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:25:52.817Z",
+  "url": "https://x.com/suno/status/2115506373001634206",
+  "slug": "acd9e22b2cc14fb5",
+  "content_hash": "e84a87cb64bc4cb9acd6991b8d53d69fee1b86787d7d496413985bdc0eb75d6b",
+  "source": {
+    "path": "sources/articles/suno-mcp-beta-announcement.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Vendor product MCP beta is outside AAIF Agent Skills standard governance."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Add official Suno source id and cite it for MCP Beta copy and scope limits; keep 歸藏 source for Claude video scoring use case."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Official Suno MCP is not a minimal-core vs community extension case study."
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "No new claim about magpie-style resource libraries or import flows."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Digest and prior 歸藏 source already wire Suno MCP to in-agent video scoring and adjacent media orchestration; the official Suno post is the canonical announcement text for that evidence line.",
+    "topics/agent-skills-open-standard.md": "MCP Beta is agent tooling surface; checked whether AAIF/Skills governance page should absorb a product launch—it should not.",
+    "topics/unified-agent-resource-library.md": "MCP install patterns are related but this post is Suno SaaS early access, not cross-agent resource-library mechanics.",
+    "topics/minimal-core-community-extensions.md": "Creative MCP plugins sometimes appear here; Suno is a vendor-hosted music service, not a community extension pattern."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/suno-mcp-beta-announcement.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "Digest and prior 歸藏 source already wire Suno MCP to in-agent video scoring and adjacent media orchestration; the official Suno post is the canonical announcement text for that evidence line.",
+      "topics/agent-skills-open-standard.md": "MCP Beta is agent tooling surface; checked whether AAIF/Skills governance page should absorb a product launch—it should not.",
+      "topics/unified-agent-resource-library.md": "MCP install patterns are related but this post is Suno SaaS early access, not cross-agent resource-library mechanics.",
+      "topics/minimal-core-community-extensions.md": "Creative MCP plugins sometimes appear here; Suno is a vendor-hosted music service, not a community extension pattern."
+    },
+    "notes": "New Source suno-mcp-beta-announcement.md; op7418-suno-mcp.md left unchanged (separate URL, commentary source).",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/suno-mcp-beta-announcement.md",
+        "topics/agentic-video-editing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

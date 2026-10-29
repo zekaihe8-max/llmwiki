@@ -23,6 +23,7 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [面向 Agent 的联网搜索重做](./agent-native-web-search.md) / Agent-native web search rebuild — 当搜索主用户从人变为 Agent，接口需直接给正文、抬高权威信源门槛并压低多轮延迟；通用 SERP 摘要不够用，垂类场景仍常要改写问句或接专用 API。
 - [Agent 产出直送 Notion 阅读](./agent-output-to-notion-reading.md) / Agent output routed to Notion for reading — 个人 Agent（如 Grok bot、Muse）可将生成内容直接发到 Notion；设备端（如 iPhone Duo）适配良好时，Notion 成为可读的阅读面。
 - [智能体规模化工程](./agent-scaled-engineering.md) / Agent-scaled engineering — 当智能体写出大部分代码时，团队靠自动化新瓶颈、跑长时智能体循环、保持小团队，并为数月后的模型而构建取胜；搭 Agent 本身不值钱，工具、工作流与业务熟知更值钱；人少当传话筒，把全量数据与真结果交给模型；各阶段有 Agent 还不等于有边界的 L4 软件工厂。
+- [大厂 AI 数字员工职级与编制](./enterprise-ai-digital-employee-headcount.md) / Enterprise AI digital employees—grades and headcount — 一线爆料显示大厂可能把「数字员工 / AI 员工」写进正式职级与独立编制（HC），而不只停留在演示；消息常未官方确认，但组织侧信号与「AI 抢工作」叙事不同。
 - [给 AI 的全栈仓图](./ai-facing-fullstack-repo-map.md) / AI-facing full-stack repo map — 跨多仓产研不必先揉成大仓：用统一入口 + 给 AI 的说明书（仓职责、规范、发布与联调）让一人带着同一智能体共享上下文走完各端；本地可验证、线上可读、发布可操作，审批仍可留在人。
 - [冲劲胜过资历](./hunger-beats-tenure.md) / Hunger beats tenure — AI 写代码使个人产出更少取决于框架资历；「冲劲」与周末可跑原型可胜过年资，传统编程面试题信号变弱，招聘更看品味与同理心的小原型。
 - [Agent Skill 编写](./agent-skill-authoring.md) / Agent skill authoring — 耐用 Skills 来自真实跑通、精瘦 description、体积限制、脆弱步骤写死与 gotchas；勿塞权重已有知识；同会话叠 Skills 要看是否需叠加与内容类型；装太多时描述预算（如约占上下文 1%）超限会静默砍掉低频触发描述只留名字；同时官方与一线劝慎用——半衰期短，有时删 skill 更好，旧规矩会绑住新模型；模型跃迁后补能力的 Skill 层也可被整片吃掉，风格/品味类 Skill 仍可用专家反馈训练，公开动效/UI 品味包亦可把 Agent 易错点写成可执行规则。
@@ -51,9 +52,13 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [AI 扩大高管管控跨度](./ai-management-span-of-control.md) / AI expands senior management span of control — 大组织可因 AI 扩大能直接监控全司的高管角色与管理跨度，深刻改变运营；相对整司改造，这条路径常更好落地。
 - [AI 审稿与科研实践适配](./ai-peer-review-science-adaptation.md) / AI peer review and adapting science practice — 前沿模型可在同行审稿上按多项指标胜过人类专家（含统计、形式模型与质性工作）；学界须尽快调整科学实践以适配 AI。
 - [AI 任务时界增长](./ai-task-horizon-growth.md) / AI task horizon growth — 在给定成功率下，AI 能完成的人类工作时长在约三十个月内从分钟级增长到小时级再到周级。
-- [校准对 AI 的过度与不足引导](./calibrating-ai-guidance.md) / Calibrating over- and under-guidance of AI — 用人与 AI 协作时，过度约束（模型其实更懂）与引导不足（跑偏、偏见、缺上下文）都会出错；管好这颗松紧旋钮可被当成招人时的首要技能信号。
+- [校准对 AI 的过度与不足引导](./calibrating-ai-guidance.md) / Calibrating over- and under-guidance of AI — 用人与 AI 协作时，过度约束（模型其实更懂）与引导不足（跑偏、偏见、缺上下文）都会出错；管好这颗松紧旋钮可被当成招人时的首要技能信号；委托后仍可能出现未察觉的预设跟随。
+- [专家决策跟随智能体预设](./expert-decisions-follow-agent-presets.md) / Expert decisions following agent presets — 专家把工作交给智能体后，关键决策可能大量对齐智能体预设倾向而本人未察觉——人机协作里「谁在主导」是实证风险，不能仅靠界面或自觉。
 - [把目标抬到更野心直到摸清 AI 前沿](./raise-ambition-until-ai-frontier.md) / Raise ambition until you find the AI frontier — 用 AI 时不断把目标抬得更野心（或拆成速度、高度、深度、广度等方向逐级提问）：撞墙则摸清前沿形状，常见结果是发现 AI 比想象更能干；卡住点常是不敢提要求，而非模型能力。
 - [随手 AI 小游戏一次成功](./casual-ai-minigame-first-try.md) / Casual AI mini-games succeeding on first try — 当前通用模型已强到随手提示即可做出可玩小游戏，且作者常报「一次就成」；由此引出「随便一个模型都太强了」的能力地板观感——不等于同题下不同 Harness 成品质量一样；亦见点名 Codex、开源欢迎魔改的第一版发布。
+- [Vibe Gaming 模型拐点](./vibe-gaming-model-inflection.md) / Vibe-gaming model inflection points — 当旗舰模型在 3D、音乐与游戏设计等能力上越过 tipping point 时，自然语言「Vibe Gaming」可与 Vibe Coding 拐点类比；能力够强后瓶颈前移到点子和生态，而「能做出游戏」与「好不好玩」仍可能跨厂商分化。
+- [Vibe Coding 的记忆悖论](./vibe-coding-memory-paradox.md) / Vibe-coding memory paradox — AI 本为减轻人类记忆负担，Vibe Coding 下人类却常把「帮 Agent 记住做过什么」当成核心工作——与上下文工程、跨 Session 记忆与交接文档同族，但是文化层反讽观察而非工具清单。
+- [HTML 与生图的趣味知识学习产品](./html-image-fun-knowledge-learning.md) / HTML and image-gen fun-knowledge learning products — 消费向 AI 可把 HTML 渲染与生图等能力包进「趣味知识学习」社区，用故事与可视化解释知识点（如儿童绘本）；腾讯「懂了鸭」内测是一线样例，完整定位与质量仍待更多体验反馈。
 - [中国开源领先与美国算力优势](./china-open-source-lead-us-compute.md) / China open-source lead and US compute advantage — 开源模型格局可同时读成：中国在开源侧全面领先，美国保有数量级算力优势；蒸馏常被点名为关键问题，但有讲座主张并非关键；开源相对闭源前沿仍有约「3 到 5」量级落后（单位依来源而定）。
 - [DeepSeek 自营推理相对聚合平台](./deepseek-inference-vs-aggregators.md) / DeepSeek first-party inference vs aggregators — 实验室自营开放模型推理量可远超多家主流聚合平台上开放模型推理之和；公开数字若标明「单集群」，总吞吐还可能更高，且依赖对各家报告的重建与官方口径。
 - [中国特供版与本地应用预装](./china-special-edition-preinstalls.md) / China special editions and local app preinstalls — 面向中国市场的软件/系统「特供版」会预装淘宝、支付宝、爱奇艺、华为全家桶等本地主流应用，常以调侃口吻展示「塞满」观感。
@@ -106,6 +111,7 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [宽松网页管控下的 Agent Harness 插件](./loose-web-agent-harness-plugins.md) / Agent harness plugins under loose web controls — 当消费级网页平台对网页管控较松时，Agent harness 插件（如 DSH）可驱动站上行为并在公开区（如评论区）留下可见的 AI 活动；利弊尚不确定，需看后续发展。
 - [menubar 管理工具真空](./menubar-management-tool-gap.md) / Menubar management tool gap — 即便通用 AI 能力很强，Mac menubar 图标管理一类日常工具仍可能长期缺「完美好用」选项——现有产品或难用、或更新不停仍不满意、或已停更。
 - [千禧年末日话语](./millenarian-apocalypse-discourse.md) / Millenarian apocalypse discourse — 近乎公理的短期末日信念、征兆扫描、恐惧与兴奋并存，以及封闭的共同信念圈，标示千禧年邪教动力学，此处用作对激进末日话语的批评。
+- [仿真就绪开放三维资产](./simulation-ready-open-3d-assets.md) / Simulation-ready open 3D assets — 厂商可开源大规模「仿真就绪」三维模型库，经 Hugging Face 等渠道分发，供机器人与物理 AI 仿真管线使用；社区帖常只报规模与总量而不拆规格。
 - [精简核心与社区扩展](./minimal-core-community-extensions.md) / Minimal core and community extensions — Agent harness 可把核心保持精简，由社区以增强、工作流改造、小模型分流、Issue 自动化与移动端等方向分化；对照路径是宿主自组插件/模型/工具与运行体系（「万物皆插件」）——不全是传统 Fork，也能玩出不同路线；插件组合宿主侧还出现第三方依赖冲突拖垮启动、细节靠社区补而维护权外放不安全等稳定性代价。
 - [手机端 Agent 全链路开发](./mobile-agent-dev-full-chain.md) / Mobile-first agent full-chain development — 用手机上的个人 Agent（如 Grok Bot）下发任务，经关联的云端编程 Agent（如 Cursor Cloud）改码与测试，再以 GitHub PR 与 CI/CD 合并发布；人主盯下发、审结果合并与确认上线，正式上线前仍自查代码、测试与权限。
 - [模型吉祥物周边与 Harness 同热](./model-mascot-merch-harness-coheat.md) / Model mascot merch co-heating with harness — 模型品牌吉祥物可做成实体周边（如金属键帽），并与配套 Agent harness 相互助燃；一旦时间线刷到该形象，信息流常迅速被同款刷屏。
@@ -121,7 +127,7 @@ Topic pages synthesize claims, applicability bounds, and contradictions across S
 - [托管优于自建代理节点](./managed-over-selfhosted-proxy-nodes.md) / Prefer managed over self-hosted proxy nodes — 个人代理与模型落地、应用托管上，一线可判断自建 VPS 节点 ROI 与稳定性已不敌托管：日常用机场、Claude 用廉价家宽、静态 Pages、动态廉价云主机——自建仍可玩，但性价比与省心常输。
 - [个人 Agent 当包工头调度编程 Agent](./personal-agent-foreman-over-coding-agents.md) / Personal agent as foreman over coding agents — 个人 Agent（如 Grok Bot）可调用本地或远程的 Codex、Claude Code、DeepSeek Harness 等编程 / harness Agent；在手下订阅或额度已备齐的前提下，Grok 只需最低够用套餐负责任务调度与质量验收，当包工头让手下各干各的。
 - [DSH 与 Grok Bot 社区互派](./dsh-grok-cross-dispatch.md) / Community bridges for DSH↔Grok Bot cross-dispatch — 社区可用编排器、CLI 与 webhook 在 DeepSeek Harness 与 Grok Bot 之间互相派活；把 Grok Bot 市场模板搬进 DSH 复用预设与 Skills，不算真正连接；尚缺原生 DSH→Grok 插件，生态仍不成熟。
-- [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md) / Personal-agent hype vs coding-agent familiarity — 个人 Agent（如 Grok Bot、Muse）热潮对未高频用过前沿 Coding Agent 的人更像科幻震撼；天天用 Claude Code / Codex 的人波澜不大——熟悉度差决定体感，而非产品是否全新；手机端另有 session 便利差。
+- [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md) / Personal-agent hype vs coding-agent familiarity — 个人 Agent（如 Grok Bot、Muse）热潮对未高频用过前沿 Coding Agent 的人更像科幻震撼；天天用 Claude Code / Codex 的人波澜不大——熟悉度差决定体感；资本侧亦可见陡峭估值阶梯（如 Instinct 融资传闻）；手机端另有 session 便利差。
 - [个人 Agent 对外分享与 Bot 互聊](./personal-agent-share-and-interbot-chat.md) / Personal-agent public sharing and bot-to-bot chat — 个人 Agent 可经网关注册专有 ID 与网页，对外分享给亲友；Bot 之间可聊天、传文件、协商日程，并以单向关注与互关好友区分私信路由与隐私边界。
 - [手机连自有服务器操控 Agent 工作台](./phone-own-server-agent-workbench.md) / Phone + own server as a mobile agent workbench — 用手机客户端连自己的服务器，即可随时访问与操控桌面侧的多款编程 / harness Agent 与本地模型，并把多 Agent 协作、任务交接与已有订阅一并带上——把电脑上的 Agent 工作台装进手机。
 - [播客 AI 精细转写精读](./podcast-ai-fine-transcription-close-reads.md) / Podcast AI fine-transcription close reads — 用 AI 精细转写（非摘要）把长播客压成可读文章，约十分钟覆盖一小时要点，感兴趣再听原音频；可做成按节目自动更新的精读站。

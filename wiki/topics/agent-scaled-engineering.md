@@ -42,9 +42,21 @@ sources:
   - id: shao-meng-manus-mono
     resource: https://x.com/shao__meng/status/2115048792483660088
     title: Meng Shao on Manus Mono — a full-stack map for AI
+  - id: shao-meng-amp-team-company-of-future
+    resource: https://x.com/shao__meng/status/2115647666160029715
+    title: Meng Shao on how the Amp team works — The Company of the Future
+  - id: heydengai-jd-ai-employee-p3-hc
+    resource: https://x.com/heydengai/status/2115768106010182122
+    title: Heydengai on JD assigning P3 grade and independent HC to AI employees
+  - id: logicrw-devv-shutdown-multica-pivot
+    resource: https://x.com/0xLogicrw/status/2115744209856799087
+    title: Logicrw on Devv shutdown and Multica pivot
+  - id: financeyf5-instinct-30b-valuation-fundraise
+    resource: https://x.com/FinanceYF5/status/2115705271104176451
+    title: AI Will on Instinct’s alleged ~$30B valuation fundraise
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T20:45:00+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:25:00+08:00
 ---
 
 # 智能体规模化工程
@@ -89,6 +101,22 @@ Once coding agents produce most or all of a team's output, the scarce work shift
 
 [Meng Shao on Manus Mono — a full-stack map for AI](../sources/articles/shao-meng-manus-mono.md) supplies a product/eng landing of “tools and workflows > stacking role Agents, small teams covering many surfaces”: the bottleneck was integration alignment, not coding; a unified entry plus AI-facing repo docs (not a mega-repo merge) lets about one builder plus one shared-context agent finish frontend, backend, and mobile, versus about five people plus five separate-context agents then human handoff; local verify and release ops land step by step with approvals still human. The repo-map pattern itself lives under [AI-facing full-stack repo map](./ai-facing-fullstack-repo-map.md); this page only takes the throughput and value-ordering evidence.[^shao-meng-manus-mono] Post: <https://x.com/shao__meng/status/2115048792483660088>.
 
+[邵萌谈 Amp 团队「未来公司」工作法](../sources/articles/shao-meng-amp-team-company-of-future.md) 给出另一套「小团队 + Agent 写大部分变更仍高吞吐」的组织样本：约 21 人从 Sourcegraph 拆出、无部门领地、周会一次、无季度口号硬套；直推 main、无强制 PR/人工评审，官网平均约 90 次/天、main 到全员约 7.7 分钟；质量靠 Agent 端到端证据（测试矩阵、数据流、录屏）与全员 dogfood + feature flag，而不是流程门禁。与 Cherny 线同向「保持人团队小、实现变便宜后拼产品/营收」；与 Boris 自动化 code review 不同——Amp 把评审换成「先证据、热路径才看人读代码」。播客反复强调前提：人少、彼此校准、共同营收动机；21 个磨合过的「联合创始人」是历史偶然，不是 2019 大编制 × AI 的模板。[^shao-meng-amp-team-company-of-future] 原帖 <https://x.com/shao__meng/status/2115647666160029715>。
+
+[Meng Shao on how the Amp team works — The Company of the Future](../sources/articles/shao-meng-amp-team-company-of-future.md) is another “small team + agents write most changes, still high throughput” org specimen: ~21 people spun out of Sourcegraph, no departmental turf, one weekly meeting, no forced quarterly slogans; trunk to main with no mandatory PR/human review, ~90 marketing-site releases/day on average, ~7.7 minutes from main to everyone; quality from agent end-to-end evidence (test matrices, data flows, recordings) plus company-wide dogfood and feature flags—not process gates. Aligns with Cherny on staying small and winning on product/revenue once implementation is cheap; differs from Boris’s automate-code-review line—Amp replaces review with “evidence first, humans read code only on hot paths.” The podcast repeats prerequisites: small headcount, mutual calibration, shared revenue motives; twenty-one calibrated “co-founders” is historical accident, not a 2019 large-org × AI template.[^shao-meng-amp-team-company-of-future] Post: <https://x.com/shao__meng/status/2115647666160029715>.
+
+[小邓同学谈京东给 AI 员工定 P3 与独立 HC](../sources/articles/heydengai-jd-ai-employee-p3-hc.md) 给出大型组织侧的**对照样本**（未确认爆料）：CFO 体系数字员工统一定 P3、配独立 HC，部分 Agent 在领导眼中甚至超过实习生——若属实，是把 Agent 写进既有职级与编制，而非 Amp/Cherny 线的「人少、去门禁、Agent 写码」。[^heydengai-jd-ai-employee-p3-hc] 原帖 <https://x.com/heydengai/status/2115768106010182122>。组织形态详述见 [大厂 AI 数字员工职级与编制](./enterprise-ai-digital-employee-headcount.md)。
+
+[Heydengai on JD assigning P3 grade and independent HC to AI employees](../sources/articles/heydengai-jd-ai-employee-p3-hc.md) is a **foil** at large-org scale (unconfirmed leak): CFO-system digital employees uniformly P3 with independent HC, some agents reportedly beating interns in leadership’s eyes—if true, agents enter existing grade/headcount rails rather than the Amp/Cherny “stay small, drop gates, agents write code” line.[^heydengai-jd-ai-employee-p3-hc] Post: <https://x.com/heydengai/status/2115768106010182122>. Org-shape detail lives under [Enterprise AI digital employees—grades and headcount](./enterprise-ai-digital-employee-headcount.md).
+
+[思维怪怪谈 Devv 停运转 Multica](../sources/articles/logicrw-devv-shutdown-multica-pivot.md) 用**产品迁徙**加固「实现变便宜 / 别堆垂类搜索或自研编程 Agent」：Devv 曾靠开发者索引 + AI 答问起量，却在 ChatGPT/Claude 联网与编程 Agent 自带检索写码跑测后失去差异化；团队放弃 DevCode 后押注 **Multica**——不做搜索、不自研编程 Agent，改做多 Agent 像团队一样协作，用户派活、Agent 执行汇报、人审结果。帖文 framing 为从「帮程序员找答案」到「让 AI 把活干完」。[^logicrw-devv-shutdown-multica-pivot] 原帖 <https://x.com/0xLogicrw/status/2115744209856799087>。编排角色与 [个人 Agent 当包工头调度编程 Agent](./personal-agent-foreman-over-coding-agents.md) 同族，但 Multica 是独立产品赌注而非 Grok+Codex 订阅栈；搜索侧退场见 [面向 Agent 的联网搜索重做](./agent-native-web-search.md)。
+
+[Logicrw on Devv shutdown and Multica pivot](../sources/articles/logicrw-devv-shutdown-multica-pivot.md) hardens the **product migration** line of “implementation got cheap / stop stacking vertical search or in-house coding agents”: Devv scaled on dev index + AI answers, then lost edge once ChatGPT/Claude web search and coding agents fetch, code, and test on their own; after dropping DevCode the team bets on **Multica**—no search SKU, no in-house coding agent, multiple agents collaborate like a team while the user assigns work, agents execute and report, humans review. The post frames the shift from “help developers find answers” to “let AI finish the work.”[^logicrw-devv-shutdown-multica-pivot] Post: <https://x.com/0xLogicrw/status/2115744209856799087>. Orchestration roles neighbor [Personal agent as foreman over coding agents](./personal-agent-foreman-over-coding-agents.md), but Multica is a standalone product bet, not the Grok+Codex subscription stack; search sunset detail lives under [Agent-native web search rebuild](./agent-native-web-search.md).
+
+[AI Will 谈 Instinct 约 300 亿美元估值融资](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md) 给出**资本定价侧**对照（传闻、未核实条款）：个人 AI Agent Instinct 上线不足一年、仍免费邀请制，帖文却称其正以约 300 亿美元估值融资，且年经手交易额近 10 亿美元——与 [宝玉谈搭 Agent 不值钱](../sources/articles/dotey-building-agents-not-valuable.md) 所据工程圈「搭 Agent 本身不值钱」可并存：本页收产能/价值排序主张，不替 VC 背书；张力记在「矛盾与变化」。[^financeyf5-instinct-30b-valuation-fundraise] 原帖 <https://x.com/FinanceYF5/status/2115705271104176451>。
+
+[AI Will on Instinct’s alleged ~$30B valuation fundraise](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md) supplies a **capital-pricing** foil (rumor; terms unverified): personal AI agent Instinct, less than a year live and still free invite-only, is allegedly fundraising at about $30B with nearly $1B in annual transaction volume—coexists with the engineering line in [Dotey on building agents not being valuable](../sources/articles/dotey-building-agents-not-valuable.md) that assembling Agents is low-value; this page keeps throughput/value-ordering claims and does not endorse VC marks; tension is under Contradictions.[^financeyf5-instinct-30b-valuation-fundraise] Post: <https://x.com/FinanceYF5/status/2115705271104176451>.
+
 ## 矛盾与变化 / Contradictions
 
 与「预定义工作流优先于开放式智能体」的张力，记在 [Workflows before agents](./workflows-before-agents.md)。
@@ -98,6 +126,18 @@ Tension with preferring predefined workflows over open-ended agents is recorded 
 与「默认把子 Agent 折进主循环」的张力，记在 [把子 Agent 折进主循环](./fold-subagents-into-main-loop.md)：本页据 Cherny 强调长时多智能体循环；[邵萌谈何时把子 Agent 折进主循环](../sources/articles/shao-meng-fold-subagents-main-loop.md) 所据 Claude 博文主张刚性按团队/问题类型拆子 Agent 常挡住更强模型，产品入口上应默认主循环 + Skills。[^shao-meng-fold-subagents-main-loop] 适用边界不同（产能 sparseness vs 编排默认），但「多 Agent 是否默认正确」上存在张力。
 
 Tension with “fold sub-agents into the main loop by default” is recorded under [Fold sub-agents into the main loop](./fold-subagents-into-main-loop.md): this page, via Cherny, stresses long multi-agent loops; [Meng Shao on when to fold sub-agents into the main loop](../sources/articles/shao-meng-fold-subagents-main-loop.md) relays a Claude post that rigid per-team / per-problem-type sub-agents often block stronger models and that product entry points should default to a main loop plus Skills.[^shao-meng-fold-subagents-main-loop] Scope differs (throughput sparseness vs orchestration default), but they tension on whether multi-agent is the right default.
+
+本页所据 Cherny 线把 **code review 自动化**当作 agent 写码后的下一瓶颈；[邵萌谈 Amp 团队「未来公司」工作法](../sources/articles/shao-meng-amp-team-company-of-future.md) 所据 Amp 则 **取消强制 PR/人工评审**，改以 Agent 端到端证据 + feature flag + 全员用产品守门，并仍保持 ~90 次/日发布——同是 ~20 人级高动团队，对「人审代码」赌注相反；Amp 侧把可复制性限在已校准小团队，勿读成普适 SDLC。[^shao-meng-amp-team-company-of-future]
+
+This page’s Cherny line treats **automating code review** as the next bottleneck once agents write code; [Meng Shao on how the Amp team works](../sources/articles/shao-meng-amp-team-company-of-future.md) relays Amp **dropping mandatory PR/human review** for agent end-to-end evidence, feature flags, and company-wide product use, still at ~90 releases/day—similar ~20-person high-agency teams, opposite bet on human code review; Amp scopes replicability to calibrated small teams—do not read as universal SDLC.[^shao-meng-amp-team-company-of-future]
+
+本页小团队 / 去门禁样本与 [小邓同学谈京东给 AI 员工定 P3 与独立 HC](../sources/articles/heydengai-jd-ai-employee-p3-hc.md) 所转述的大厂「职级 + 独立 HC」爆料（未确认）组织赌注相反：一边是压缩人传话与流程，一边是给数字员工占编制与级别；勿把任一侧面读成全行业模板。[^heydengai-jd-ai-employee-p3-hc]
+
+This page’s small-team / drop-gates specimens tension with the big-firm “grade + independent HC” leak relayed in [Heydengai on JD assigning P3 grade and independent HC to AI employees](../sources/articles/heydengai-jd-ai-employee-p3-hc.md) (unconfirmed)—opposite org bets: shrink human messengers and process vs assign headcount and levels to digital employees; do not read either side as an industry-wide template.[^heydengai-jd-ai-employee-p3-hc]
+
+本页所据 [宝玉谈搭 Agent 不值钱](../sources/articles/dotey-building-agents-not-valuable.md) 等工程价值排序主张——搭 Agent 本身不值钱、工具/工作流/业务熟知更值钱——与 [AI Will 谈 Instinct 约 300 亿美元估值融资](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md) 所转述的私募侧形成张力：个人 AI Agent 产品 Instinct（仍邀请制）据称以约 300 亿美元估值融资并伴随高交易额叙事；两边衡量不同（工程产出 vs 资本定价），帖文为传闻且未核实条款，勿把任一侧面读成对方已被推翻。[^dotey-building-agents-not-valuable][^financeyf5-instinct-30b-valuation-fundraise]
+
+The engineering value-ordering on this page—especially [Dotey on building agents not being valuable](../sources/articles/dotey-building-agents-not-valuable.md), that assembling Agents is low-value next to tools, workflows, and domain knowledge—tensions with the private-market relay in [AI Will on Instinct’s alleged ~$30B valuation fundraise](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md): invite-only personal AI agent Instinct allegedly fundraising at about $30B with a high transaction-volume story; the measures differ (engineering throughput vs capital marks), the post is rumor without verified terms—do not read either side as disproving the other.[^dotey-building-agents-not-valuable][^financeyf5-instinct-30b-valuation-fundraise]
 
 - 本页所据 [Mihail Eric](../sources/articles/mihail-eric-bcherny-stanford.md) / [Meng Shao](../sources/articles/shao-meng-bcherny-stanford.md) 将 Boris Cherny 称为 Claude Code 创作者；[歸藏转述 Thariq 离职爆料](../sources/articles/op7418-thariq-left-anthropic.md) 曾称 Thariq 为 Claude Code 作者；随后 [歸藏澄清](../sources/articles/op7418-boris-cherny-clarification.md) 改称 Boris 才是作者与产品线负责人。[^mihail-eric-bcherny-stanford][^op7418-thariq-left-anthropic][^op7418-boris-cherny-clarification] 角色与归属变化详见 [Claude Code 作者与社区话筒](./claude-code-authorship-and-voice.md)。
 - Sources on this page ([Mihail Eric](../sources/articles/mihail-eric-bcherny-stanford.md) / [Meng Shao](../sources/articles/shao-meng-bcherny-stanford.md)) call Boris Cherny the creator of Claude Code; [歸藏 relays Thariq departure leak](../sources/articles/op7418-thariq-left-anthropic.md) first called Thariq the Claude Code author; then [歸藏's clarification](../sources/articles/op7418-boris-cherny-clarification.md) names Boris as the author and product-line lead.[^mihail-eric-bcherny-stanford][^op7418-thariq-left-anthropic][^op7418-boris-cherny-clarification] Role and authorship changes are tracked under [Claude Code authorship and community voice](./claude-code-authorship-and-voice.md).
@@ -116,6 +156,9 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 - 来源：[宝玉转述 Felix：取消编程面试与冲劲胜过资历](../sources/articles/dotey-felix-hunger-beats-tenure.md)
 - 来源：[宝玉转述 Lesse：上千 Agent 仍缺四道基建题](../sources/articles/dotey-lesse-multiagent-four-infra.md)
 - 来源：[邵萌谈 Manus Mono：给 AI 一张全栈地图](../sources/articles/shao-meng-manus-mono.md)
+- 来源：[邵萌谈 Amp 团队「未来公司」工作法](../sources/articles/shao-meng-amp-team-company-of-future.md)
+- 来源：[思维怪怪谈 Devv 停运转 Multica](../sources/articles/logicrw-devv-shutdown-multica-pivot.md)
+- 来源：[AI Will 谈 Instinct 约 300 亿美元估值融资](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md)
 - 主题：[给 AI 的全栈仓图](./ai-facing-fullstack-repo-map.md)
 - 主题：[冲劲胜过资历](./hunger-beats-tenure.md)
 - 主题：[多智能体四道基建题](./multiagent-infra-four-problems.md)
@@ -125,6 +168,7 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 - 主题：[把子 Agent 折进主循环](./fold-subagents-into-main-loop.md)
 - 主题：[对抗评审与外部证据](./adversarial-review-external-evidence.md)
 - 主题：[面向 Agent 的联网搜索重做](./agent-native-web-search.md)
+- 主题：[大厂 AI 数字员工职级与编制](./enterprise-ai-digital-employee-headcount.md)
 
 - Source: [Mihail Eric on Boris Cherny at Stanford](../sources/articles/mihail-eric-bcherny-stanford.md)
 - Source: [Meng Shao on Boris Cherny at Stanford](../sources/articles/shao-meng-bcherny-stanford.md)
@@ -138,6 +182,7 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 - Source: [Dotey relays Felix—hunger beats tenure](../sources/articles/dotey-felix-hunger-beats-tenure.md)
 - Source: [Dotey relays Lesse—four infra gaps for thousand-agent systems](../sources/articles/dotey-lesse-multiagent-four-infra.md)
 - Source: [Meng Shao on Manus Mono — a full-stack map for AI](../sources/articles/shao-meng-manus-mono.md)
+- Source: [Meng Shao on how the Amp team works — The Company of the Future](../sources/articles/shao-meng-amp-team-company-of-future.md)
 - Topic: [AI-facing full-stack repo map](./ai-facing-fullstack-repo-map.md)
 - Topic: [Hunger beats tenure](./hunger-beats-tenure.md)
 - Topic: [Four infra gaps for large multiagent systems](./multiagent-infra-four-problems.md)
@@ -147,6 +192,9 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 - Topic: [Fold sub-agents into the main loop](./fold-subagents-into-main-loop.md)
 - Topic: [Adversarial review and external evidence](./adversarial-review-external-evidence.md)
 - Topic: [Agent-native web search rebuild](./agent-native-web-search.md)
+- Topic: [Enterprise AI digital employees—grades and headcount](./enterprise-ai-digital-employee-headcount.md)
+- Source: [Logicrw on Devv shutdown and Multica pivot](../sources/articles/logicrw-devv-shutdown-multica-pivot.md)
+- Source: [AI Will on Instinct’s alleged ~$30B valuation fundraise](../sources/articles/financeyf5-instinct-30b-valuation-fundraise.md)
 
 [^mihail-eric-bcherny-stanford]: Mihail Eric on Boris Cherny at Stanford
 [^shao-meng-bcherny-stanford]: Meng Shao on Boris Cherny at Stanford
@@ -160,3 +208,7 @@ Tension with “fold sub-agents into the main loop by default” is recorded und
 [^dotey-felix-hunger-beats-tenure]: Dotey relays Felix—hunger beats tenure
 [^dotey-lesse-multiagent-four-infra]: Dotey relays Lesse—four infra gaps for thousand-agent systems
 [^shao-meng-manus-mono]: Meng Shao on Manus Mono — a full-stack map for AI
+[^shao-meng-amp-team-company-of-future]: Meng Shao on how the Amp team works — The Company of the Future
+[^heydengai-jd-ai-employee-p3-hc]: Heydengai on JD assigning P3 grade and independent HC to AI employees
+[^logicrw-devv-shutdown-multica-pivot]: Logicrw on Devv shutdown and Multica pivot
+[^financeyf5-instinct-30b-valuation-fundraise]: AI Will on Instinct’s alleged ~$30B valuation fundraise

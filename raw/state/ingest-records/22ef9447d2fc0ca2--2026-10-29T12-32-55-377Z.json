@@ -1,0 +1,168 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:32:55.377Z",
+  "url": "https://x.com/xiaomovps/status/2115738442181333337",
+  "slug": "22ef9447d2fc0ca2",
+  "content_hash": "5d452d89140f3e00a64194c310d2fd8be590e89800a0728e4de7f71aec01eea6",
+  "source": {
+    "path": "sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/agentic-video-editing.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added marketplace-first Skill adoption and memory/Skill maintenance rules from onboarding chapter."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Video bot list duplicates xiaomovps-grok-bot-three-video-bots source already integrated on that topic."
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "No substantive new DSH bridge evidence beyond passing mention of future plugin work."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "change_conclusion",
+      "reason": "Updated X connector onboarding and clarified X API quota vs Grok weekly quota per 2026-10-29 connector changes."
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "add_evidence",
+      "reason": "Added xiaomovps read-first X ops playbook aligned with never-auto-post bound."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "Article memory hygiene is not harness default compression threshold misalignment."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "add_evidence",
+      "reason": "Added phone Connect apps and X Chat/Slack dispatch channels on the existing Cursor chain."
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "add_evidence",
+      "reason": "Added vendor black-box routing narrative and speculative lighter routing as non-confirmed backend labels."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "add_evidence",
+      "reason": "Integrated biweekly memory cleanup, GitHub backup routine, quota burn factors, and official non-security-boundary note from the long guide."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Added cursor-grokbot-agents path and recorded foreman-role inversion vs heydengai in Contradictions."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added $30 entry tier and long-form restatement of ~$120 stack alongside existing trim-120 source."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "add_evidence",
+      "reason": "Linked three-step Grok Bot onboarding as workflow-before-open-agent pattern."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "Long guide expands cloud-PC backup routines, shared-host isolation, memory cleanup, quota burn, and non-VPS ops beyond prior three-pitfalls/five-mechanisms posts.",
+    "topics/grok-bot-x-api-substitute.md": "Article documents 2026-10-29 X connector OAuth path and which X API quota applies vs Grok weekly quota—core to bridging/cost framing.",
+    "topics/grok-bot-x-intel-defense-not-post.md": "Author's X-ops workflow is read-first acceptance, intel/digest routines, and explicit avoid auto-post—same role bound as tibot.",
+    "topics/premium-ai-subscription-value.md": "Adds $30 try tier, Premium+ bundling, and reaffirms ~$120 Claude+Grok stack from chapter seven.",
+    "topics/mobile-agent-dev-full-chain.md": "Same Grok+Cursor PR chain plus new phone Connect apps and X Chat/Slack channels.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Adds cursor-grokbot-agents orchestration (Claude Code foreman, Grok worker) alongside existing foreman evidence.",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "Official black-box routing and single-request fingerprint limits reinforce confidence≠confirmation.",
+    "topics/agent-skill-authoring.md": "Marketplace-first onboarding, Skill vs memory split, and memory-cleanse editing rules add Grok Bot authoring practice.",
+    "topics/workflows-before-agents.md": "Three-step onboarding is a predefined workflow before open-ended agent ops.",
+    "topics/agentic-video-editing.md": "Chapter four re-lists three video bots already filed in xiaomovps-grok-bot-three-video-bots—no new claims beyond that source.",
+    "topics/long-conversation-default-compression.md": "Memory cleanup is agent memory/skills hygiene, not harness context-window compression defaults—different mechanism.",
+    "topics/dsh-grok-cross-dispatch.md": "Only mentions DSH webhook plugins as WIP; cross-dispatch bridges already covered in xiaomovps-dsh-grok-cross-dispatch source."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md",
+    "topics/agent-skill-authoring.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/agent-skill-authoring.md",
+      "topics/workflows-before-agents.md",
+      "topics/agentic-video-editing.md",
+      "topics/long-conversation-default-compression.md",
+      "topics/dsh-grok-cross-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "Long guide expands cloud-PC backup routines, shared-host isolation, memory cleanup, quota burn, and non-VPS ops beyond prior three-pitfalls/five-mechanisms posts.",
+      "topics/grok-bot-x-api-substitute.md": "Article documents 2026-10-29 X connector OAuth path and which X API quota applies vs Grok weekly quota—core to bridging/cost framing.",
+      "topics/grok-bot-x-intel-defense-not-post.md": "Author's X-ops workflow is read-first acceptance, intel/digest routines, and explicit avoid auto-post—same role bound as tibot.",
+      "topics/premium-ai-subscription-value.md": "Adds $30 try tier, Premium+ bundling, and reaffirms ~$120 Claude+Grok stack from chapter seven.",
+      "topics/mobile-agent-dev-full-chain.md": "Same Grok+Cursor PR chain plus new phone Connect apps and X Chat/Slack channels.",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Adds cursor-grokbot-agents orchestration (Claude Code foreman, Grok worker) alongside existing foreman evidence.",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "Official black-box routing and single-request fingerprint limits reinforce confidence≠confirmation.",
+      "topics/agent-skill-authoring.md": "Marketplace-first onboarding, Skill vs memory split, and memory-cleanse editing rules add Grok Bot authoring practice.",
+      "topics/workflows-before-agents.md": "Three-step onboarding is a predefined workflow before open-ended agent ops.",
+      "topics/agentic-video-editing.md": "Chapter four re-lists three video bots already filed in xiaomovps-grok-bot-three-video-bots—no new claims beyond that source.",
+      "topics/long-conversation-default-compression.md": "Memory cleanup is agent memory/skills hygiene, not harness context-window compression defaults—different mechanism.",
+      "topics/dsh-grok-cross-dispatch.md": "Only mentions DSH webhook plugins as WIP; cross-dispatch bridges already covered in xiaomovps-dsh-grok-cross-dispatch source."
+    },
+    "notes": "New source slug xiaomovps-grok-bot-zero-to-one-guide; digest hint used only for title context, body from raw article only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md",
+        "topics/agent-skill-authoring.md",
+        "topics/grok-bot-x-api-substitute.md",
+        "topics/grok-bot-x-intel-defense-not-post.md",
+        "topics/mobile-agent-dev-full-chain.md",
+        "topics/model-fingerprint-confidence-not-confirmation.md",
+        "topics/personal-agent-cloud-env-pitfalls.md",
+        "topics/personal-agent-foreman-over-coding-agents.md",
+        "topics/premium-ai-subscription-value.md",
+        "topics/workflows-before-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

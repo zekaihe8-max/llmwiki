@@ -24,9 +24,21 @@ sources:
   - id: shao-meng-manus-mono
     resource: https://x.com/shao__meng/status/2115048792483660088
     title: Meng Shao on Manus Mono — a full-stack map for AI
+  - id: shao-meng-deeplearning-context-engineering-course
+    resource: https://x.com/shao__meng/status/2115627250515320947
+    title: Meng Shao on the new DeepLearning.AI Context Engineering course
+  - id: shao-meng-minimax-mcode-stack
+    resource: https://x.com/shao__meng/status/2115428696672866729
+    title: Meng Shao on MiniMax open-sourcing the MCode Stack
+  - id: minimax-mcode-stack
+    resource: https://github.com/MiniMax-AI/mcode-stack
+    title: MiniMax MCode Stack open-source repository
+  - id: xiaomovps-dsh-claude-codex-subagent-plugins
+    resource: https://x.com/xiaomovps/status/2115640890417168388
+    title: Xiaomo on DSH official plugins dispatching Claude Code / Codex sub-agents
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T20:45:00+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T20:36:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -72,6 +84,22 @@ This sits with [Workflows before agents](./workflows-before-agents.md) in the �
 
 [Meng Shao on Manus Mono — a full-stack map for AI](../sources/articles/shao-meng-manus-mono.md) hardens “don’t open a separate context per role” from product/eng org practice: without Mono, product/design/frontend/backend/mobile each roughly had an agent with non-shared context then human handoff; with Mono, about one builder plus one shared-context agent finishes every surface. That aligns with this page’s one-context-window default, but the means are cross-repo docs and a unified entry—not Skills/tool-search progressive disclosure; the repo-map pattern lives under [AI-facing full-stack repo map](./ai-facing-fullstack-repo-map.md).[^shao-meng-manus-mono] Post: <https://x.com/shao__meng/status/2115048792483660088>.
 
+[邵萌谈 DeepLearning.AI Context Engineering 新课](../sources/articles/shao-meng-deeplearning-context-engineering-course.md) 从课程侧命名长程 **Context Rot**（重复、矛盾、过时信息塞满窗口、长上下文表现变差），并主张更大窗口与改一句 prompt 都不够——要在 harness 里策展上下文（检索、剪枝、压缩、草稿本、记忆）。这与本页「可测上下文膨胀」同族：并行新鲜窗/子 Agent 仍是架构备选，但课程主线是在主 harness 内修上下文并用 trace/eval 量化，而不是先拆更多 Agent；完整模块清单见 [Agent 上下文工程](./context-engineering-for-agents.md)。[^shao-meng-deeplearning-context-engineering-course] 原帖 <https://x.com/shao__meng/status/2115627250515320947>。
+
+[Meng Shao on the new DeepLearning.AI Context Engineering course](../sources/articles/shao-meng-deeplearning-context-engineering-course.md) names long-run **Context Rot** (duplicate, contradictory, stale fill; worse long-context performance) and argues bigger windows and one-line prompt edits are insufficient—you curate context inside the harness (retrieval, pruning, compaction, scratchpads, memory). That shares this page’s “measurable context bloat” family: parallel fresh windows/sub-agents remain an architecture option, but the course’s main thread is fixing context in the main harness with traces/evals, not splitting more agents first; full module cut lives under [Context engineering for agents](./context-engineering-for-agents.md).[^shao-meng-deeplearning-context-engineering-course] Post: <https://x.com/shao__meng/status/2115627250515320947>.
+
+[邵萌谈 MiniMax 开源 MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md) 用 MiniMax Code 开源清单把「何时拆」写成可安装 skill **`subagent-split-check`**，并在 **MCode Engineering Notes 01** 明确：子 Agent 首先是**隔离上下文**的工具，不是按工种/问题类型开分身；默认主循环 + 按需加载技能，**量到**上下文才是瓶颈再拆——与本页主循环默认及「可测上下文膨胀」边界同向，且把 `independent-review` 等评审 skill 绑到「干净上下文只看 diff+需求+测试」。[^shao-meng-minimax-mcode-stack] 原帖 <https://x.com/shao__meng/status/2115428696672866729>；仓库 <https://github.com/MiniMax-AI/mcode-stack>。
+
+[Meng Shao on MiniMax open-sourcing the MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md) packages “when to split” as the installable **`subagent-split-check`** skill and **MCode Engineering Notes 01**: sub-agents are first **context-isolation** tools, not clones by job type; default main loop plus on-demand skills, split only once context is **measured** as the bottleneck—aligned with this page’s main-loop default and the “measurable context bloat” bound, with review skills such as `independent-review` tied to a clean context that sees only diff, requirements, and tests.[^shao-meng-minimax-mcode-stack] Post: <https://x.com/shao__meng/status/2115428696672866729>; repo: <https://github.com/MiniMax-AI/mcode-stack>.
+
+[MiniMax MCode Stack 开源仓库](../sources/articles/minimax-mcode-stack-repo.md) 在 README 的 Notes 表把 **01-subagent** 的 companion skills 写全为 `independent-review`、`subagent-split-check`、`harness-experiment`，并把 `independent-review` 定义为在**干净上下文**里只看 diff、需求与测试结果——与本页「子 Agent 留给可测隔离 / 评审用 fresh 窗」的操作边界一致，且 stack 按人打包（`stacks/ronny/` 等）而非按工种常驻分身。[^minimax-mcode-stack]
+
+[MiniMax MCode Stack open-source repository](../sources/articles/minimax-mcode-stack-repo.md) README Notes table lists **01-subagent** companions as `independent-review`, `subagent-split-check`, and `harness-experiment`, and defines `independent-review` as reviewing from a **clean context** with only diff, requirements, and test results—aligned with this page’s “sub-agents for measurable isolation / review fresh windows,” with stacks bundled per person (`stacks/ronny/`, etc.) rather than standing clones by job type.[^minimax-mcode-stack]
+
+[小墨谈 DSH 官方插件调 Claude Code / Codex 子 Agent](../sources/articles/xiaomovps-dsh-claude-codex-subagent-plugins.md) 给出 harness 内「把别的 Coding Agent 当子 Agent 派活」的一线产品形态：DSH 实验性官方插件安装启用后，事先登录 Claude Code / Codex CLI，即可把任务交给它们执行，不必自写对接——落在本页「工具/能力冲突或需专用 fresh 执行窗时拆子 Agent」的窄边界，而不是默认按工种常驻多 Agent 编排；作者仍称实验性且 Codex 新版模型有兼容失败。[^xiaomovps-dsh-claude-codex-subagent-plugins] 原帖 <https://x.com/xiaomovps/status/2115640890417168388>。
+
+[Xiaomo on DSH official plugins dispatching Claude Code / Codex sub-agents](../sources/articles/xiaomovps-dsh-claude-codex-subagent-plugins.md) shows a product-line shape for “dispatch another coding agent as sub-agent” inside a harness: after enabling DSH’s experimental first-party plugins and logging into the Claude Code / Codex CLIs, DSH can hand tasks to them without a custom bridge—inside this page’s narrow bound of splitting when tools/capabilities conflict or a dedicated fresh execution window is needed, not a default org-chart of standing agents; the author still calls it experimental with Codex newer-model compatibility failures.[^xiaomovps-dsh-claude-codex-subagent-plugins] Post: <https://x.com/xiaomovps/status/2115640890417168388>.
+
 ## 矛盾与变化 / Contradictions
 
 [智能体规模化工程](./agent-scaled-engineering.md) 据 Cherny 斯坦福分享强调可跑长时、衍生大量智能体的循环；本页所据 Claude 博文则主张刚性「每问题类型/每团队一子 Agent」常挡住更强模型，默认应折回主循环。两者不互相取消：前者谈速度与组织 sparseness 下的多智能体产能，后者谈产品入口上的编排默认与迁移；适用边界不同，但「多 Agent 是否默认正确」上存在张力。[^shao-meng-fold-subagents-main-loop]
@@ -101,6 +129,11 @@ Felix’s interview multi-thread adversarial review is a **verification** split 
 - Topic: [项目指令与 Token 效率](./agents-md-token-efficiency.md)
 - Topic: [对抗评审与外部证据](./adversarial-review-external-evidence.md)
 - Topic: [公司级 Agent Harness 五原语](./company-agent-harness.md)
+- Topic: [Agent 上下文工程](./context-engineering-for-agents.md)
+- Source: [邵萌谈 DeepLearning.AI Context Engineering 新课](../sources/articles/shao-meng-deeplearning-context-engineering-course.md)
+- Source: [邵萌谈 MiniMax 开源 MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md)
+- Source: [MiniMax MCode Stack 开源仓库](../sources/articles/minimax-mcode-stack-repo.md)
+- Source: [小墨谈 DSH 官方插件调 Claude Code / Codex 子 Agent](../sources/articles/xiaomovps-dsh-claude-codex-subagent-plugins.md)
 
 [^shao-meng-fold-subagents-main-loop]: Meng Shao on when to fold sub-agents into the main loop
 [^shao-meng-felix-not-2024-claude-usage]: Meng Shao relays Felix—stop using Claude the 2024 way
@@ -108,3 +141,7 @@ Felix’s interview multi-thread adversarial review is a **verification** split 
 [^dexhorthy-skills-session-context]: Dex Horthy on stacking skills in one session and context dirtying
 [^shao-meng-langchain-content-studio]: Meng Shao on four months of LangChain Content Studio
 [^shao-meng-manus-mono]: Meng Shao on Manus Mono — a full-stack map for AI
+[^shao-meng-deeplearning-context-engineering-course]: Meng Shao on the new DeepLearning.AI Context Engineering course
+[^shao-meng-minimax-mcode-stack]: Meng Shao on MiniMax open-sourcing the MCode Stack
+[^minimax-mcode-stack]: MiniMax MCode Stack open-source repository
+[^xiaomovps-dsh-claude-codex-subagent-plugins]: Xiaomo on DSH official plugins dispatching Claude Code / Codex sub-agents

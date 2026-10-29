@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "Article centers on Devv shutting down because developer AI search was commoditized by ChatGPT/Claude web search and coding agents that fetch and complete work—direct evidence for vertical search sunset vs Agent-native search shift.",
+    "topics/agent-scaled-engineering.md": "Pivot from Devv search and abandoned DevCode to Multica multi-agent collaboration matches 'tools/workflows over stacking agents' and the framing from finding answers to agents finishing work.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Multica product shape is human assigns tasks, multiple agents execute/report/feedback, human reviews—same foreman/worker split as this Topic though not Grok-specific.",
+    "topics/workflows-before-agents.md": "Consulted because Multica is open-ended multi-agent orchestration; no file change—the page already records tension with multi-agent defaults under agent-scaled-engineering and fold-subagents, and this relay adds no new workflow-vs-agent claim beyond those Topics."
+  },
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "add_evidence",
+      "reason": "Integrated Devv shutdown as vertical developer AI search displaced by integrated upstream tools, with new source id and synthesis paragraphs."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "add_evidence",
+      "reason": "Integrated Devv→Multica product migration as evidence for not stacking vertical search or in-house coding agents."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrated Multica as non-Grok foreman product pattern (human assigns, agents collaborate, human reviews)."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "Multica multi-agent bet does not add a distinct workflow-vs-agent argument beyond existing cross-links; left page unchanged."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Digest hint mentioned Doubao/Kimi/GLM; fetched body is Devv/Multica only—Doubao not cited. Source slug logicrw-devv-shutdown-multica-pivot."
+}

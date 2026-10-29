@@ -9,9 +9,12 @@ sources:
   - id: oran-ge-intelligence-anthropocentric-benchmark
     resource: https://x.com/oran_ge/status/2113944865830846746
     title: Orange AI on intelligence as an anthropocentric benchmark
+  - id: heydengai-leaderboard-exam-weighting
+    resource: https://x.com/heydengai/status/2115754265155100896
+    title: Heydengai on AI leaderboards as exams—change the test, change the rankings
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-24T21:51:00+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:14:00+08:00
 ---
 
 # 智能作为人类中心主义指标
@@ -32,6 +35,10 @@ generated:
 
 Adjacent [AI task horizon growth](./ai-task-horizon-growth.md) tracks capability by how long a stretch of human work AI can finish—still an intelligence/capability yardstick; this page stresses the anthropocentric origin of that kind of metric and the ranking of qualities beyond intelligence, a different claim.
 
+[小邓同学谈 AI 排行榜像考试：换考卷排名就变](../sources/articles/heydengai-leaderboard-exam-weighting.md) 把同类问题接到**公开榜权重**：榜像考试，科目/权重一变排名大变，并反问榜是在**衡量**能力还是在**定义**能力——与 Orange AI 的「智能是人类中心主义指标」同向（能力标尺是人造的），但证据是榜权重 anecdote，未展开非人类中心叙事或决策三序。[^heydengai-leaderboard-exam-weighting] 原帖 <https://x.com/heydengai/status/2115754265155100896>。
+
+[Heydengai on AI leaderboards as exams—change the test, change the rankings](../sources/articles/heydengai-leaderboard-exam-weighting.md) connects the same theme to **public-board weighting**: exams reshuffle when the subject mix changes, and he asks whether boards **measure** capability or **define** it—aligned with Orange AI’s “intelligence as anthropocentric metric” (capability yardsticks are human-made), but evidence is a weighting anecdote, not the non-anthropocentric narrative or three-nature decision order.[^heydengai-leaderboard-exam-weighting] Post: <https://x.com/heydengai/status/2115754265155100896>。
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -39,6 +46,9 @@ Adjacent [AI task horizon growth](./ai-task-horizon-growth.md) tracks capability
 ## 相关 / Related
 
 - Source: [Orange AI 谈智能只是人类中心主义的 benchmark](../sources/articles/oran-ge-intelligence-anthropocentric-benchmark.md)
+- Source: [小邓同学谈 AI 排行榜像考试：换考卷排名就变](../sources/articles/heydengai-leaderboard-exam-weighting.md)
 - Topic: [AI task horizon growth](./ai-task-horizon-growth.md)
+- Topic: [信任公开榜前先审质量](./public-benchmark-quality-scrutiny.md)
 
 [^oran-ge-intelligence-anthropocentric-benchmark]: Orange AI on intelligence as an anthropocentric benchmark
+[^heydengai-leaderboard-exam-weighting]: Heydengai on AI leaderboards as exams—change the test, change the rankings

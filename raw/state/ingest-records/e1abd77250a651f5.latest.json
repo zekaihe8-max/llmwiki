@@ -1,0 +1,106 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:17:39.879Z",
+  "url": "https://x.com/0xLogicrw/status/2115649642604191797",
+  "slug": "e1abd77250a651f5",
+  "content_hash": "7cbe1751a4fb4d5afd2e1611c5a5c6439703ca1cc5027ba6c832782c0f3403bb",
+  "source": {
+    "path": "sources/articles/logicrw-information-deepseek-kimi-astra-distillation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/computer-use.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "record_contradiction",
+      "reason": "Added The Information relay on heavy Astra distillation against existing Lambert 'distillation not the key problem' claim in contradictions."
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "No KOL cover-up, Opus name-dropping, or community hands-on backlash chain in the fetched body—only The Information relay."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Added Browser Use 180-task web GUI benchmark as model capability evidence under browser-operation use cases."
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "add_evidence",
+      "reason": "Added training-provenance allegations for Kimi K3.1 Pro and DeepSeek Flash and tied to Gorden Sun 'steamed quite well' wording in contradictions."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "add_evidence",
+      "reason": "Integrated Browser Use Flash vs Astra scores/costs and distillation relay as second measurement surface and provenance layer on Flash tier discussion."
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Browser Use numbers are cited uncritically; source does not add grader-failure scrutiny or Epoch-style audit claims."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "Article centers DeepSeek V4.1-Flash-1017 and Kimi K3.1 Pro versus GPT-6 Astra on capability and per-task cost, extending existing Flash-near-Astra tier evidence.",
+    "topics/china-open-source-lead-us-compute.md": "Relay describes Chinese labs distilling GPT-6 Astra after Claude hardening, tensioning the page's Lambert 'distillation not key' lecture frame.",
+    "topics/computer-use.md": "Post cites Browser Use 180 real web tasks as browser-operation scores for DeepSeek vs Astra.",
+    "topics/open-weight-frontier-models.md": "The Information allegations target Kimi K3.1 Pro and DeepSeek open-weight releases' training provenance beside launch-table narratives.",
+    "topics/community-evals-vs-score-hype.md": "Checked for KOL/score-hype angle; this source is journalism relay plus benchmark numbers, not the existing paid-KOL evidence chain.",
+    "topics/public-benchmark-quality-scrutiny.md": "Checked whether Browser Use scores need benchmark-quality scrutiny; article cites scores without grader audit detail—no new scrutiny evidence to integrate."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/index.md",
+    "sources/articles/logicrw-information-deepseek-kimi-astra-distillation.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/computer-use.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/computer-use.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "Article centers DeepSeek V4.1-Flash-1017 and Kimi K3.1 Pro versus GPT-6 Astra on capability and per-task cost, extending existing Flash-near-Astra tier evidence.",
+      "topics/china-open-source-lead-us-compute.md": "Relay describes Chinese labs distilling GPT-6 Astra after Claude hardening, tensioning the page's Lambert 'distillation not key' lecture frame.",
+      "topics/computer-use.md": "Post cites Browser Use 180 real web tasks as browser-operation scores for DeepSeek vs Astra.",
+      "topics/open-weight-frontier-models.md": "The Information allegations target Kimi K3.1 Pro and DeepSeek open-weight releases' training provenance beside launch-table narratives.",
+      "topics/community-evals-vs-score-hype.md": "Checked for KOL/score-hype angle; this source is journalism relay plus benchmark numbers, not the existing paid-KOL evidence chain.",
+      "topics/public-benchmark-quality-scrutiny.md": "Checked whether Browser Use scores need benchmark-quality scrutiny; article cites scores without grader audit detail—no new scrutiny evidence to integrate."
+    },
+    "notes": "One new Source at wiki/sources/articles/logicrw-information-deepseek-kimi-astra-distillation.md; resource https://x.com/0xLogicrw/status/2115649642604191797",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/index.md",
+        "sources/articles/logicrw-information-deepseek-kimi-astra-distillation.md",
+        "topics/china-open-source-lead-us-compute.md",
+        "topics/computer-use.md",
+        "topics/open-weight-frontier-models.md",
+        "topics/pro-vs-flash-model-strategy.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

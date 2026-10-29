@@ -1,0 +1,75 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:47:38.831Z",
+  "url": "https://x.com/fkysly/status/2115681842422804772",
+  "slug": "51a84995239279ad",
+  "content_hash": "87aaaafc8ba33149fdaa17e4ae685d90dd4b5c3362b1c862a099fcd50886abf3",
+  "source": {
+    "path": "sources/articles/fkysly-claude-six-account-replace-on-ban.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "add_evidence",
+      "reason": "Added six-account ban-expectation context alongside WquGuru multi-account weight row; new contradiction pairing; synthesis and footnotes."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "add_evidence",
+      "reason": "Integrated full-pool six-account replace-on-ban ops into intro, synthesis, contradictions, sources, and related links."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added operationalized multi-account stacking as a subscription-value axis in intro, synthesis, contradictions, and catalog sources."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "Post is about running a six-account Claude pool and replace-on-ban as normal multi-account ops, continuing fkysly's quota/burnout/KYC thread on the same axis.",
+    "topics/premium-ai-subscription-value.md": "Maxing six Claude subscriptions and accepting ban/replace friction is a worth-it strategy (multi-account cost vs single Pro trim), adjacent to the author's five-to-six Pro lore post.",
+    "topics/claude-subscription-risk-control-weights.md": "Post explicitly anticipates Anthropic bans on a six-account stack; ties to mid-weight same-device multi-account signals without being bypass advice."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fkysly-claude-six-account-replace-on-ban.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "Post is about running a six-account Claude pool and replace-on-ban as normal multi-account ops, continuing fkysly's quota/burnout/KYC thread on the same axis.",
+      "topics/premium-ai-subscription-value.md": "Maxing six Claude subscriptions and accepting ban/replace friction is a worth-it strategy (multi-account cost vs single Pro trim), adjacent to the author's five-to-six Pro lore post.",
+      "topics/claude-subscription-risk-control-weights.md": "Post explicitly anticipates Anthropic bans on a six-account stack; ties to mid-weight same-device multi-account signals without being bypass advice."
+    },
+    "notes": "New Source fkysly-claude-six-account-replace-on-ban.md; resource https://x.com/fkysly/status/2115681842422804772",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fkysly-claude-six-account-replace-on-ban.md",
+        "topics/claude-subscription-risk-control-weights.md",
+        "topics/coding-agent-ux-vs-quota.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

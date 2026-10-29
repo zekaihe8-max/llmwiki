@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:12:16.914Z",
+  "url": "https://x.com/op7418/status/2115622019429781887",
+  "slug": "fd7780cc6a88e7b9",
+  "content_hash": "de8b653499b2dc7649bfa8d485ae562dbeb9cdf3f05cec941ab88c1f589d183a",
+  "source": {
+    "path": "sources/articles/op7418-suno-mcp.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "No Skill authoring, description budget, or half-life claims in the fetched post."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Does not extend AAIF or cross-host Skills standard narrative."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Integrated Suno MCP Beta as external music orchestration in agent video sessions; recorded nuance vs capability-patch MCP/Skills in Contradictions."
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "No open-source editor/assistant stack claim—Suno is closed music generation accessed via MCP."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Post wires Suno MCP into Claude video workflows and removes manual tab-switch music handoff—core agentic video orchestration evidence.",
+    "topics/open-source-in-ai-assistant-editing.md": "Checked for open-stack-in-assistant pattern; Suno is proprietary SaaS via MCP, not FFmpeg/Remotion assistant wiring—no file change.",
+    "topics/agent-skills-open-standard.md": "Checked for AAIF/MCP standard governance angle; post is a product beta launch and one user workflow, not foundation adoption—no file change.",
+    "topics/agent-skill-authoring.md": "Checked for Skill-vs-MCP authoring tension; article only mentions MCP tool call, not Skill authoring—no file change beyond cross-reference in agentic-video-editing contradictions."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/op7418-suno-mcp.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "Post wires Suno MCP into Claude video workflows and removes manual tab-switch music handoff—core agentic video orchestration evidence.",
+      "topics/open-source-in-ai-assistant-editing.md": "Checked for open-stack-in-assistant pattern; Suno is proprietary SaaS via MCP, not FFmpeg/Remotion assistant wiring—no file change.",
+      "topics/agent-skills-open-standard.md": "Checked for AAIF/MCP standard governance angle; post is a product beta launch and one user workflow, not foundation adoption—no file change.",
+      "topics/agent-skill-authoring.md": "Checked for Skill-vs-MCP authoring tension; article only mentions MCP tool call, not Skill authoring—no file change beyond cross-reference in agentic-video-editing contradictions."
+    },
+    "notes": "Source slug op7418-suno-mcp; quoted Suno beta copy and typeform URL from fetched body only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/op7418-suno-mcp.md",
+        "topics/agentic-video-editing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

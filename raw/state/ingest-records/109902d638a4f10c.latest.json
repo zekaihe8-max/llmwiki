@@ -1,0 +1,103 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:12:39.814Z",
+  "url": "https://x.com/heydengai/status/2115768106010182122",
+  "slug": "109902d638a4f10c",
+  "content_hash": "f947cfdfd1047dd368a9f140b39a9a3b62cf0efb5ac36eca14deabb0b167f72f",
+  "source": {
+    "path": "sources/articles/heydengai-jd-ai-employee-p3-hc.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/software-factory.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "add_evidence",
+      "reason": "Integrated JD P3/HC leak as large-org foil contrasting Amp/Cherny small-team template in Synthesis and Contradictions."
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "create",
+      "reason": "No existing topic owns big-firm assignment of job grades and independent HC to digital/AI employees."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Sub-agent orchestration default; no file change warranted."
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "Human hiring/tenure topic; intern comparison recorded on new topic only with scope note."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Personal orchestration workflow; no enterprise HC evidence to integrate."
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "L4 factory definition unrelated to HR grade/HC leak."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "Article claims JD assigns P3 and independent HC to CFO digital employees—organizational headcount signal distinct from agent-scaled engineering principles or personal agent workflows; no existing topic owned grades plus HC."
+  },
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "Article describes large-enterprise HR integration of digital employees (P3, independent HC)—contrasts this topic's small-team Amp/Cherny org specimens.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Same author (heydengai) but post is enterprise org/HC framing, not personal Grok foreman orchestration.",
+    "topics/hunger-beats-tenure.md": "Leak mentions agents outperforming interns—adjacent to performance signals but about AI employees, not human hunger vs tenure.",
+    "topics/software-factory.md": "Software factory is bounded L4 delivery production, not job grades or headcount—consulted to avoid conflating.",
+    "topics/fold-subagents-into-main-loop.md": "Enterprise org-chart agent patterns are a weak fit; consulted and left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/heydengai-jd-ai-employee-p3-hc.md",
+    "sources/articles/index.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/index.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/software-factory.md",
+      "topics/fold-subagents-into-main-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "Article describes large-enterprise HR integration of digital employees (P3, independent HC)—contrasts this topic's small-team Amp/Cherny org specimens.",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Same author (heydengai) but post is enterprise org/HC framing, not personal Grok foreman orchestration.",
+      "topics/hunger-beats-tenure.md": "Leak mentions agents outperforming interns—adjacent to performance signals but about AI employees, not human hunger vs tenure.",
+      "topics/software-factory.md": "Software factory is bounded L4 delivery production, not job grades or headcount—consulted to avoid conflating.",
+      "topics/fold-subagents-into-main-loop.md": "Enterprise org-chart agent patterns are a weak fit; consulted and left unchanged."
+    },
+    "notes": "Source slug heydengai-jd-ai-employee-p3-hc; unconfirmed leak explicitly flagged in Source and Topic.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/heydengai-jd-ai-employee-p3-hc.md",
+        "sources/articles/index.md",
+        "topics/agent-scaled-engineering.md",
+        "topics/enterprise-ai-digital-employee-headcount.md",
+        "topics/index.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

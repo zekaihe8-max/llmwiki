@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "Post frames public leaderboards as measuring instruments (exam metaphor) and argues standings shift when weighting/subject mix changes without model changes—core to scrutinizing what a board tests before trusting it.",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "Explicit question whether leaderboards measure capability or define what capability means—aligns with capability metrics as human-chosen definitions, complementary to Orange AI’s anthropocentric benchmark framing.",
+    "topics/community-evals-vs-score-hype.md": "Adjacent benchmark discourse; checked whether weighting anecdote belongs with KOL/real-use hype chain—it does not, so no file change."
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "add_evidence",
+      "reason": "Integrated Heydengai weighting/subject-mix exam metaphor and 3→12 gap example as a distinct axis from grader scrutiny and single-score skepticism."
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "add_evidence",
+      "reason": "Linked measure-vs-define capability question to anthropocentric yardstick theme; scoped as leaderboard-weight anecdote without expanding Orange AI narrative."
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Article does not discuss peer hands-on tests, AA ±2 framing, or marketing/KOL score hype—only benchmark weighting definition."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "New Source heydengai-leaderboard-exam-weighting.md; resource https://x.com/heydengai/status/2115754265155100896"
+}

@@ -18,9 +18,12 @@ sources:
   - id: introducing-d1
     resource: https://blog.cloudflare.com/introducing-d1
     title: "Introducing D1: our first SQL database"
+  - id: xiaomovps-cloudflare-ai-free-tier
+    resource: https://x.com/xiaomovps/status/2115683808033001567
+    title: Xiaomo on Cloudflare AI free tiers and usage
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-25T11:18:06+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T20:38:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -50,6 +53,10 @@ When the edge only ships fixed protocols and product features, custom caching, l
 
 [Introducing D1: our first SQL database](../sources/articles/introducing-d1.md) ([original](https://blog.cloudflare.com/introducing-d1)) announces [D1](https://blog.cloudflare.com/introducing-d1)—the first SQL database for Workers, built on SQLite—after KV, Durable Objects, and R2. The goal is to keep whole-app state in one place while still running arbitrary relational queries across the full set; unlike traditional centralized databases where reads and writes funnel to a single instance, D1 previews automatic read-only clones near users kept in sync, plus batching (many SQL statements in one round-trip for atomic transactions), embedded compute that runs Worker code next to the database, regular R2 snapshots with one-click restore, and self-healing on Durable Objects’ redundant storage. On the DX side it stresses console creation, Wrangler bindings (`env.DB`), and pricing intent with no egress and charges for storage plus operations.[^introducing-d1]
 
+[小墨谈 Cloudflare AI 免费额度与玩法](../sources/articles/xiaomovps-cloudflare-ai-free-tier.md) 从**社区 2026 用法侧**补同一可编程边缘上的 AI 层：在 Workers / **Durable Objects** 栈上，免费账户可试 **Browser Run**、**AI Search**、**Workers AI**（日 1 万 Neurons 等）与 **AI Gateway** 分析/缓存/限流，并把 **PiHarness** 上的 Pi Durable 部署到 DO——与上文官方博客的 KV/DO/D1 原语叙事衔接，但是**产品免费额度清单**而非架构宣言；帖提醒 AI Search 自 11 月 1 日起超额计费、Gateway 不免第三方模型费用。[^xiaomovps-cloudflare-ai-free-tier] 原帖 <https://x.com/xiaomovps/status/2115683808033001567>。
+
+[Xiaomo on Cloudflare AI free tiers and usage](../sources/articles/xiaomovps-cloudflare-ai-free-tier.md) adds a **2026 community usage** slice on the same programmable edge: on Workers / **Durable Objects**, free accounts can try **Browser Run**, **AI Search**, **Workers AI** (10k Neurons/day among other quotas), and **AI Gateway** analytics/cache/limits, plus **PiHarness** Pi Durable on DO—continuing the KV/DO/D1 primitive story above but as a **product free-tier roundup**, not an architecture post; it warns AI Search overage from November 1 and that Gateway does not free third-party model calls.[^xiaomovps-cloudflare-ai-free-tier] Post: <https://x.com/xiaomovps/status/2115683808033001567>.
+
 ## 矛盾与变化 / Contradictions
 
 - [介绍 Cloudflare Workers](../sources/articles/introducing-cloudflare-workers.md) 强调用边缘代码与 Cache API 改写请求、直接响应，尚未讨论脚本体积之外的大规模持久状态。[^introducing-cloudflare-workers] [Workers KV 正式可用](../sources/articles/workers-kv-ga.md) 则写明：仅靠硬编码与约 1 MB 脚本上限无法支撑数十亿键级用例，需要独立的最终一致 KV；并明确最终一致性不适合对同一键频繁写且不能容忍短暂双值的工作负载。[^workers-kv-ga]
@@ -65,8 +72,10 @@ When the edge only ships fixed protocols and product features, custom caching, l
 - Source: [Workers KV 正式可用](../sources/articles/workers-kv-ga.md)
 - Source: [介绍 Workers Durable Objects](../sources/articles/introducing-workers-durable-objects.md)
 - Source: [介绍 D1：首个 SQL 数据库](../sources/articles/introducing-d1.md)
+- Source: [小墨谈 Cloudflare AI 免费额度与玩法](../sources/articles/xiaomovps-cloudflare-ai-free-tier.md)
 
 [^introducing-cloudflare-workers]: Introducing Cloudflare Workers
 [^workers-kv-ga]: Workers KV is Generally Available
 [^introducing-workers-durable-objects]: Introducing Workers Durable Objects
 [^introducing-d1]: Introducing D1: our first SQL database
+[^xiaomovps-cloudflare-ai-free-tier]: Xiaomo on Cloudflare AI free tiers and usage

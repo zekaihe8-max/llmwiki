@@ -9,9 +9,12 @@ sources:
   - id: dingyi-ideogram-vector
     resource: https://x.com/dingyi/status/2114009771443667379
     title: Ding on Ideogram Vector and tools shipping their own models
+  - id: logicrw-doubao-work-third-party-models
+    resource: https://x.com/0xLogicrw/status/2115737151405232503
+    title: Logicrw on Doubao Work third-party model access for enterprises
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-25T20:50:01+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:22:00+08:00
 ---
 
 # 工具产品自建模型抢话语权
@@ -32,13 +35,19 @@ When a tool product ships its own specialized model, the capability launch can b
 
 Adjacent but different axis: [In-app model partnerships](./in-app-model-partnerships.md) is about tools naming model vendors as formal in-app partners (e.g. Magpie × Kimi)—borrowed-brand binding; this page is about tools shipping their own models and owning the narrative. Both can coexist in one product stack; do not merge their evidence or claims.
 
+[思维怪怪谈豆包工作向企业开放第三方大模型](../sources/articles/logicrw-doubao-work-third-party-models.md) 给出**对照**：字节把 **豆包工作**从「自家豆包应用」推向企业 **多模型 AI 入口**，首批内置 **Kimi K3.1 Pro**、**GLM-5.3**、**DeepSeek V4.1 Flash** 等——不是 Ideogram 式「工具上自有专用模型抢叙事」，而是**大平台/workbench 收编竞品模型进菜单**；与「没有自有模型就没有话语权」的读法可并存于不同产品层，抓取正文未写豆包模型是否仍默认或企业定价。[^logicrw-doubao-work-third-party-models] 原帖 <https://x.com/0xLogicrw/status/2115737151405232503>。
+
+[Logicrw on Doubao Work opening third-party models to enterprises](../sources/articles/logicrw-doubao-work-third-party-models.md) is a **foil**: ByteDance reframes **Doubao Work** from a Doubao-only app toward a multi-vendor enterprise AI entry, with **Kimi K3.1 Pro**, **GLM-5.3**, **DeepSeek V4.1 Flash**, and peers in built-in menus—not an Ideogram-style “ship your own specialized model for narrative,” but a **large workbench folding rival models into the picker**; that can coexist with “no owned model, no discourse power” at a different product layer; the fetched body does not say whether Doubao stays default or enterprise pricing.[^logicrw-doubao-work-third-party-models] Post: <https://x.com/0xLogicrw/status/2115737151405232503>.
+
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+Ding 概括「工具产品都在做自己的模型」抢话语权；豆包工作同日走向**内置多家第三方前沿模型**——大厂企业入口可同时押自有模型叙事与**多厂商菜单**，不等同于放弃豆包，抓取正文未写默认模型与份额。 / Ding generalizes tool products shipping own models for discourse power; Doubao Work the same day moves toward **built-in menus for many third-party frontier models**—a large enterprise entry can pursue owned-model narrative and **multi-vendor pickers** together, not necessarily abandoning Doubao; the fetched body does not state default model or share.[^dingyi-ideogram-vector][^logicrw-doubao-work-third-party-models]
 
 ## 相关 / Related
 
 - Source: [Ding 谈 Ideogram Vector 与工具自建模型](../sources/articles/dingyi-ideogram-vector.md)
+- Source: [思维怪怪谈豆包工作向企业开放第三方大模型](../sources/articles/logicrw-doubao-work-third-party-models.md)
 - Topic: [应用内模型合作伙伴](./in-app-model-partnerships.md)
 
 [^dingyi-ideogram-vector]: Ding on Ideogram Vector and tools shipping their own models
+[^logicrw-doubao-work-third-party-models]: Logicrw on Doubao Work third-party model access for enterprises
