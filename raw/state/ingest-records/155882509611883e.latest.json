@@ -1,0 +1,84 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:36:28.396Z",
+  "url": "https://x.com/xiaomovps/status/2115658635183587414",
+  "slug": "155882509611883e",
+  "content_hash": "baa38d1326842cbb383bc3c8f9c6e55e2e07fdb630ea863d14f4e77293227171",
+  "source": {
+    "path": "sources/articles/xiaomovps-pi-agent-six-hidden-settings.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "add_evidence",
+      "reason": "Added built-in Pi harness token path vs peripheral tools and recorded contradiction pairing with Claude Code tool list."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Pi preset tuning belongs on long-conversation and token-tooling Topics; no new builder-side context-engineering claims to merge."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "add_evidence",
+      "reason": "Integrated Pi-specific compaction and cache-warming knobs plus cache-warming cost caveat in Synthesis and Contradictions."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Added Synthesis on built-in Pi settings as first-party alternative to relying on plugins/branches."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/long-conversation-default-compression.md": "Article centers on Pi compaction reserveTokens/keepRecentTokens/modelOverrides, cache warming, and showCacheMissNotices—same product-default compression/cache tuning family as DSH/magpie on this Topic.",
+    "topics/minimal-core-community-extensions.md": "Author argues many Pi capabilities are built-in without plugins, aligning with slim-core vs plugin-composed host narrative already anchored on Xiaomo Pi posts.",
+    "topics/coding-agent-token-saving-tooling.md": "Post is practical token/cost control via harness cache and compaction observability, complementary to peripheral Claude Code tools on this Topic.",
+    "topics/context-engineering-for-agents.md": "Compaction is named but this article is Pi product knobs, not builder-side context-engineering curriculum; consulted to confirm boundary with long-conversation Topic."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomovps-pi-agent-six-hidden-settings.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/long-conversation-default-compression.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/long-conversation-default-compression.md": "Article centers on Pi compaction reserveTokens/keepRecentTokens/modelOverrides, cache warming, and showCacheMissNotices—same product-default compression/cache tuning family as DSH/magpie on this Topic.",
+      "topics/minimal-core-community-extensions.md": "Author argues many Pi capabilities are built-in without plugins, aligning with slim-core vs plugin-composed host narrative already anchored on Xiaomo Pi posts.",
+      "topics/coding-agent-token-saving-tooling.md": "Post is practical token/cost control via harness cache and compaction observability, complementary to peripheral Claude Code tools on this Topic.",
+      "topics/context-engineering-for-agents.md": "Compaction is named but this article is Pi product knobs, not builder-side context-engineering curriculum; consulted to confirm boundary with long-conversation Topic."
+    },
+    "notes": "Fetched body covers Pi settings only; digest Cloudflare wool is a separate URL—not filed from this article.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomovps-pi-agent-six-hidden-settings.md",
+        "topics/coding-agent-token-saving-tooling.md",
+        "topics/long-conversation-default-compression.md",
+        "topics/minimal-core-community-extensions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

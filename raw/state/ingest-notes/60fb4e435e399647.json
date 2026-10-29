@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "Community posts cite this URL when describing Google Developer Program monthly credits, Cloud Prepay gates, and AI Studio billing—same channel-tradeoff axis as cgnot996.",
+    "topics/premium-ai-subscription-value.md": "Digest and cgnot996 frame Gemini Pro plus developer credits as subscription value and avoid wasting gifted balance.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "cgnot996 workflow references the benefits URL but this official page adds no foreman/orchestration claims—consulted to confirm no Topic edit needed."
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Filed official benefits URL Source; integrated login-gated fetch limits versus community credit claims and recorded contradiction in Contradictions."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Linked official benefits page as the URL behind don't-waste-credits narrative without treating public fetch as verified amounts."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Official benefits fetch has no Grok/Pi foreman content; only cgnot996 already covers that thread."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fetched body is login-gated shell only; Source documents what the public fetch contains and points credit math to community Sources."
+}

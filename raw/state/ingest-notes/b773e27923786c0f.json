@@ -1,0 +1,54 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "Article is a full syllabus for DeepLearning.AI Context Engineering (Context Rot, agentic search, pruning/compaction/scratchpads, agentic memory, harness traces/evals)—no existing Topic owned that discipline.",
+    "topics/fold-subagents-into-main-loop.md": "Course names Context Rot and in-harness context curation vs bigger windows; aligns with this page's context-bloat and fresh-window boundaries.",
+    "topics/long-conversation-default-compression.md": "Module 3 teaches builder-side compaction/pruning distinct from product default compression misalignment covered here.",
+    "topics/company-agent-harness.md": "Module 4 memory taxonomy overlaps company two-tier memory only at a high level; company page owns five-primitive recipe, not curriculum—left unchanged.",
+    "topics/agent-skill-authoring.md": "Course mentions tool registry and progressive loading adjacent to Skills but does not change Skill authoring doctrine—left unchanged.",
+    "topics/workflows-before-agents.md": "Course is training for agent builders, not workflow-vs-agent product choice—left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "create",
+      "reason": "New Topic for context engineering as agent mainline with Context Rot and four-module skill split."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "add_evidence",
+      "reason": "Integrated Context Rot naming and course stance that fixing context in the main harness precedes splitting more agents."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "add_evidence",
+      "reason": "Contrasted product default compression with course-taught compaction/pruning/scratchpads in custom harnesses."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Pedagogical email-agent memory labs do not update the five-primitive company harness recipe."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "No new Skill authoring claims beyond incidental tool-registry mention in course outline."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "Course does not argue workflow vs open-ended agent at product entry level."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/context-engineering-for-agents.md": "Existing pages cover subagent architecture, product compression defaults, or company harness primitives—not the named Context Rot + search/management/memory + trace/eval curriculum as one idea."
+  },
+  "notes": "Source slug shao-meng-deeplearning-context-engineering-course.md; resource URL exactly https://x.com/shao__meng/status/2115627250515320947"
+}

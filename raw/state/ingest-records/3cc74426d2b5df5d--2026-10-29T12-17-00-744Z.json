@@ -1,0 +1,106 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:17:00.744Z",
+  "url": "https://x.com/shao__meng/status/2115428696672866729",
+  "slug": "3cc74426d2b5df5d",
+  "content_hash": "edc5c21e3644c8849d935cc6c8f2dd529cd8eba4786228cf20feef7e1a2632d0",
+  "source": {
+    "path": "sources/articles/shao-meng-minimax-mcode-stack.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Integrated production MCode Stack artifact types and Ronny skill inventory as real-run authoring specimen."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "add_evidence",
+      "reason": "Integrated MiniMax MCode Stack as cross-host Skills packaging for coding harness workflows."
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "No AGENTS.md/CLAUDE.md loading or persona-vs-rules claims; token audits are Skills in MCode Stack."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrated MCode Stack installable context/tool audit and long-session skills plus Notes vs course scope boundary."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "add_evidence",
+      "reason": "Integrated subagent-split-check and Notes 01 context-isolation framing with main-loop default."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "add_evidence",
+      "reason": "Integrated long-session-check/handoff-doc as builder-side session governance distinct from product compression defaults."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "MCode Stack skills explicitly audit tool/per-turn context (tool-budget-audit, context-tax-audit) and long-session governance—production context-engineering evidence adjacent to the DeepLearning.AI course topic.",
+    "topics/fold-subagents-into-main-loop.md": "Notes 01 and subagent-split-check align with main-loop default and measurable context isolation before splitting sub-agents.",
+    "topics/long-conversation-default-compression.md": "long-session-check and handoff-doc address long-chat degradation via builder skills, same family as compaction but not magpie/DSH product defaults.",
+    "topics/agent-skills-open-standard.md": "Post claims installable Skills for MiniMax Code and any Skills-capable agent—cross-host standard adoption case beyond AAIF governance posts.",
+    "topics/agent-skill-authoring.md": "Stack distills daily runs into SKILL.md, checklists, and workflows with named engineering skills—authoring-from-real-workflows specimen.",
+    "topics/agents-md-token-efficiency.md": "Checked for AGENTS.md / project-instruction angle; MCode encodes audits as Skills not AGENTS.md rules—overlap covered under context-engineering topic, no separate edit."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shao-meng-minimax-mcode-stack.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/long-conversation-default-compression.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "MCode Stack skills explicitly audit tool/per-turn context (tool-budget-audit, context-tax-audit) and long-session governance—production context-engineering evidence adjacent to the DeepLearning.AI course topic.",
+      "topics/fold-subagents-into-main-loop.md": "Notes 01 and subagent-split-check align with main-loop default and measurable context isolation before splitting sub-agents.",
+      "topics/long-conversation-default-compression.md": "long-session-check and handoff-doc address long-chat degradation via builder skills, same family as compaction but not magpie/DSH product defaults.",
+      "topics/agent-skills-open-standard.md": "Post claims installable Skills for MiniMax Code and any Skills-capable agent—cross-host standard adoption case beyond AAIF governance posts.",
+      "topics/agent-skill-authoring.md": "Stack distills daily runs into SKILL.md, checklists, and workflows with named engineering skills—authoring-from-real-workflows specimen.",
+      "topics/agents-md-token-efficiency.md": "Checked for AGENTS.md / project-instruction angle; MCode encodes audits as Skills not AGENTS.md rules—overlap covered under context-engineering topic, no separate edit."
+    },
+    "notes": "Source slug shao-meng-minimax-mcode-stack; resource URL exact per task; repo github.com/MiniMax-AI/mcode-stack from post t.co link text.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shao-meng-minimax-mcode-stack.md",
+        "topics/agent-skill-authoring.md",
+        "topics/agent-skills-open-standard.md",
+        "topics/context-engineering-for-agents.md",
+        "topics/fold-subagents-into-main-loop.md",
+        "topics/long-conversation-default-compression.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/tools-building-own-models.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "Doubao Work folds Kimi, GLM, and DeepSeek into an enterprise in-app model menu—formal third-party model services beyond self-serve API keys.",
+    "topics/tools-building-own-models.md": "ByteDance reframes Doubao Work from Doubao-only toward a multi-vendor enterprise entry, foiling the own-model-for-narrative-only pattern.",
+    "topics/agent-model-channel-tradeoffs.md": "Article is hosted product model switching, not harness OpenRouter/OpenCode channels—needs a delivery-surface boundary note.",
+    "topics/cloud-auto-model-routing.md": "Checked for Auto/task routing overlap; post describes manual in-chat model picker, not platform Auto orchestration."
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "add_evidence",
+      "reason": "Integrated enterprise Doubao Work multi-model menu vs Magpie single-partner pattern and updated Contradictions."
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "record_contradiction",
+      "reason": "Recorded foil and tension between own-model narrative and Doubao Work hosting rival frontier models in-product."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis paragraph separating enterprise Doubao Work picker from DSH/API channel tradeoffs."
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "Manual user model selection in Doubao Work chat UI is not task-based Auto routing (Gemini Auto / AutoRouter)."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug logicrw-doubao-work-third-party-models.md; resource https://x.com/0xLogicrw/status/2115737151405232503"
+}

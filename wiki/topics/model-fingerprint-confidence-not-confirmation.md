@@ -12,9 +12,12 @@ sources:
   - id: xiaomovps-grok-bot-three-video-bots
     resource: https://x.com/xiaomovps/status/2115314460340748454
     title: Xiaomo recommends three practical Grok Bot video bots
+  - id: xiaomovps-grok-bot-zero-to-one-guide
+    resource: https://x.com/xiaomovps/status/2115738442181333337
+    title: Xiaomo’s Grok Bot zero-to-one guide
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T21:12:00+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T20:26:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings. Pair ZH then EN as adjacent paragraphs/bullets, or same-line `中文。 / English.`. Shared code/URLs/wiki links are not translations; product names alone do not count as English. Format check ≠ translation quality. -->
 
@@ -31,6 +34,10 @@ Opaque personal-agent / Bot products often hide the backend model; the community
 [小墨用指纹检测器测 Grok Bot 为 Sonnet 5.5](../sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md) 给出一次可复述的流程：打开 [lm.ikale.io](https://lm.ikale.io) 的 Fingerprint Detector，取网页三段测试提示词交给 Grok Bot，再把回答回填提交；美国 IP 下结果为 Claude Sonnet 5.5、置信度 100%。作者主动区分两层含义——工具靠回答特征而非「直接问你是谁」来判断；100% 是检测器置信度，不代表已确认 Grok Bot 真实模型——并邀请他人复测对照。[^xiaomovps-grok-bot-fingerprint-sonnet] 原帖 <https://x.com/xiaomovps/status/2115336041574088906>。本页只收「指纹标签 vs 确认身份」这一主张，不把检测结果写成已核实的产品规格。
 
 [Xiaomo fingerprint-detects Grok Bot as Sonnet 5.5](../sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md) supplies a reproducible flow: open Fingerprint Detector at [lm.ikale.io](https://lm.ikale.io), feed Grok Bot the page’s three test prompts, paste answers back; on a U.S. IP the result was Claude Sonnet 5.5 at 100% confidence. The author separates two layers—the tool judges from answer features, not by asking “who are you”; 100% is detector confidence, not confirmation of Grok Bot’s real model—and invites others to reproduce.[^xiaomovps-grok-bot-fingerprint-sonnet] Post: <https://x.com/xiaomovps/status/2115336041574088906>. This page owns only the “fingerprint label vs confirmed identity” claim; it does not treat the detector output as verified product spec.
+
+[小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md) 从厂商侧补同一黑盒叙事：官方未披露具体模型，按任务自动路由（可能 Claude 或 Grok 自家）；指纹工具结果只说明单次请求。并猜测「越用越笨」部分可能因为简单任务被分到更轻量路由——与指纹标签一样，属一线推测，不是确认的后端清单。[^xiaomovps-grok-bot-zero-to-one-guide] 原帖 <https://x.com/xiaomovps/status/2115738442181333337>。
+
+[Xiaomo’s Grok Bot zero-to-one guide](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md) adds the vendor-side black-box story: no official model disclosure, task-based routing (possibly Claude or Grok); fingerprint tools describe one request. It also guesses “getting dumber” may partly come from lighter routing on simple tasks—like fingerprint labels, frontline speculation, not a confirmed backend list.[^xiaomovps-grok-bot-zero-to-one-guide] Post: <https://x.com/xiaomovps/status/2115738442181333337>.
 
 与 [社区实测对抗刷分碰瓷](./community-evals-vs-score-hype.md) 相邻：那边谈推友真用/自测压过刷分与榜分营销；本页谈的是对不透明后端的指纹探针及其置信度边界，证据链不同。与 [信任公开榜前先审质量](./public-benchmark-quality-scrutiny.md) 同属「勿盲信测量工具输出」，但彼页审公开基准与 grader，本页审产品后端指纹分类器。与 [面向 Agent 的模型渠道取舍](./agent-model-channel-tradeoffs.md) 不同轴：彼页在已知模型族下换供应商/套餐；本页处理的是产品是否暴露、如何猜测后端身份。
 
@@ -49,6 +56,7 @@ The fingerprint post’s self-bound still holds: the detector result sits next t
 ## 相关 / Related
 
 - Source: [小墨用指纹检测器测 Grok Bot 为 Sonnet 5.5](../sources/articles/xiaomovps-grok-bot-fingerprint-sonnet.md)
+- Source: [小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md)
 - Source: [小墨推荐三个实用 Grok Bot 视频 Bot](../sources/articles/xiaomovps-grok-bot-three-video-bots.md)
 - Topic: [社区实测对抗刷分碰瓷](./community-evals-vs-score-hype.md)
 - Topic: [信任公开榜前先审质量](./public-benchmark-quality-scrutiny.md)
@@ -57,3 +65,4 @@ The fingerprint post’s self-bound still holds: the detector result sits next t
 
 [^xiaomovps-grok-bot-fingerprint-sonnet]: Xiaomo fingerprint-detects Grok Bot as Sonnet 5.5
 [^xiaomovps-grok-bot-three-video-bots]: Xiaomo recommends three practical Grok Bot video bots
+[^xiaomovps-grok-bot-zero-to-one-guide]: Xiaomo’s Grok Bot zero-to-one guide

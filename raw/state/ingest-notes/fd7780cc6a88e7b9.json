@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Post wires Suno MCP into Claude video workflows and removes manual tab-switch music handoff—core agentic video orchestration evidence.",
+    "topics/open-source-in-ai-assistant-editing.md": "Checked for open-stack-in-assistant pattern; Suno is proprietary SaaS via MCP, not FFmpeg/Remotion assistant wiring—no file change.",
+    "topics/agent-skills-open-standard.md": "Checked for AAIF/MCP standard governance angle; post is a product beta launch and one user workflow, not foundation adoption—no file change.",
+    "topics/agent-skill-authoring.md": "Checked for Skill-vs-MCP authoring tension; article only mentions MCP tool call, not Skill authoring—no file change beyond cross-reference in agentic-video-editing contradictions."
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Integrated Suno MCP Beta as external music orchestration in agent video sessions; recorded nuance vs capability-patch MCP/Skills in Contradictions."
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "No open-source editor/assistant stack claim—Suno is closed music generation accessed via MCP."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Does not extend AAIF or cross-host Skills standard narrative."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "No Skill authoring, description budget, or half-life claims in the fetched post."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug op7418-suno-mcp; quoted Suno beta copy and typeform URL from fetched body only."
+}

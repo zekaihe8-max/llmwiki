@@ -1,0 +1,106 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:31:02.375Z",
+  "url": "https://github.com/MiniMax-AI/mcode-stack",
+  "slug": "1f2a1ef50372a46d",
+  "content_hash": "a7883039c2cf8ec39febc45b88f8a925c813da29cc5736d4e43e9e33278979c9",
+  "source": {
+    "path": "sources/articles/minimax-mcode-stack-repo.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "Review skills named in Source but Topic integration lives via fold-subagents and existing review Sources."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Authoring framing already integrated; README additions are factual detail in Source only."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Cross-host install evidence unchanged; Source install bullet expanded only."
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "tool-budget-audit PTC/tool-search detail already covered under context-engineering Topic; avoid duplicate per-article append."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "No company-harness primitive claims in README beyond per-person skill stacks."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Prior ingest added README-sourced synthesis; this pass only enriches the canonical Source summary bullets."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Subagent Notes and companion skills already cited from this Source; no file edit."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "long-session-check / handoff-doc pairing already in Topic from this Source."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "README maps tool-budget-audit, context-tax-audit, long-session-check, handoff-doc, and long-command-check to MCode Engineering Notes on context curation.",
+    "topics/fold-subagents-into-main-loop.md": "Notes 01 and subagent-split-check / independent-review / harness-experiment already integrated from prior repo and announcement Sources.",
+    "topics/long-conversation-default-compression.md": "long-session-check and handoff-doc with Notes 03 already cover builder-side session governance versus product default compression.",
+    "topics/agent-skills-open-standard.md": "Cross-host SKILL.md install paths and marketplace packaging already documented from this Source.",
+    "topics/agent-skill-authoring.md": "Repo framing as daily-run distill, checklist-as-skill, and evolving harness craft already integrated.",
+    "topics/coding-agent-token-saving-tooling.md": "tool-budget-audit and Notes 02 on tool search/PTC overlap token-tooling theme; no new synthesis beyond existing context-engineering paragraphs.",
+    "topics/adversarial-review-external-evidence.md": "independent-review and engineering-code-review skills align with adversarial review; fold-subagents page already ties independent-review to clean-context review.",
+    "topics/company-agent-harness.md": "Per-person stacks are coding-agent skill packs, not Harrison Chase five-primitive company harness; no distinct new claim for this re-ingest."
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/long-conversation-default-compression.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/adversarial-review-external-evidence.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "README maps tool-budget-audit, context-tax-audit, long-session-check, handoff-doc, and long-command-check to MCode Engineering Notes on context curation.",
+      "topics/fold-subagents-into-main-loop.md": "Notes 01 and subagent-split-check / independent-review / harness-experiment already integrated from prior repo and announcement Sources.",
+      "topics/long-conversation-default-compression.md": "long-session-check and handoff-doc with Notes 03 already cover builder-side session governance versus product default compression.",
+      "topics/agent-skills-open-standard.md": "Cross-host SKILL.md install paths and marketplace packaging already documented from this Source.",
+      "topics/agent-skill-authoring.md": "Repo framing as daily-run distill, checklist-as-skill, and evolving harness craft already integrated.",
+      "topics/coding-agent-token-saving-tooling.md": "tool-budget-audit and Notes 02 on tool search/PTC overlap token-tooling theme; no new synthesis beyond existing context-engineering paragraphs.",
+      "topics/adversarial-review-external-evidence.md": "independent-review and engineering-code-review skills align with adversarial review; fold-subagents page already ties independent-review to clean-context review.",
+      "topics/company-agent-harness.md": "Per-person stacks are coding-agent skill packs, not Harrison Chase five-primitive company harness; no distinct new claim for this re-ingest."
+    },
+    "notes": "Canonical Source at minimax-mcode-stack-repo.md for https://github.com/MiniMax-AI/mcode-stack; log already mentions this filename once—no new log line.",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

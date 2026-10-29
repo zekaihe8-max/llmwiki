@@ -1,0 +1,23 @@
+{
+  "slug": "60fb4e435e399647",
+  "url": "https://me.developers.google.com/benefits",
+  "title": "赠金页",
+  "digest": "2026-10-29-cn-x.md",
+  "status": "filed",
+  "hash": "60fb4e435e399647149d4f4f7a0be90fcd2094b43bb2be20a1121e340455b8b2",
+  "first_seen": "2026-10-29T12:04:51.894Z",
+  "last_seen": "2026-10-29T12:04:51.894Z",
+  "fetched_at": "2026-10-29T12:05:09.414Z",
+  "content_hash": "52471134bc9e61c28e4f319b4382212fd13d559287b430c122479b60b181b483",
+  "article_path": "articles/60fb4e435e399647.md",
+  "fetched_url": "https://me.developers.google.com/benefits",
+  "source_path": "sources/articles/google-developer-program-benefits.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-29T13:10:18.616Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

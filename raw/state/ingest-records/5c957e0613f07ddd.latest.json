@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:25:11.152Z",
+  "url": "https://x.com/FinanceYF5/status/2115705271104176451",
+  "slug": "5c957e0613f07ddd",
+  "content_hash": "63189efba959a406e7d6c1e3f07a6920fa2220792e25e8683a3c40c07eaffe39",
+  "source": {
+    "path": "sources/articles/financeyf5-instinct-30b-valuation-fundraise.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/expert-decisions-follow-agent-presets.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/agent-identity-platform-keys.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "No agent identity or platform key acquisition content."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "record_contradiction",
+      "reason": "Integrated Instinct ~$30B rumor as capital-pricing foil; recorded engineering low-value vs VC pricing tension in Contradictions; added synthesis, source id, footnote, related links."
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "No eval M&A or work-record gateway claims in this article."
+    },
+    {
+      "path": "topics/expert-decisions-follow-agent-presets.md",
+      "action": "unchanged",
+      "reason": "Article does not discuss human deference to agent presets or Anthropic analyst experiment."
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "add_evidence",
+      "reason": "Added Instinct fundraise as capital-market leg of personal-agent craze; updated descriptions, synthesis, contradictions note, sources id, footnote, related link."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "Instinct is a personal AI agent; the post documents steep private-market valuation escalation alongside user-side personal-agent heat—orthogonal to Dotey familiarity gap but same craze category.",
+    "topics/agent-scaled-engineering.md": "Page already holds engineering value ordering (assembling Agents low-value); Instinct fundraise rumor is capital-pricing foil and tensions with that thesis in Contradictions.",
+    "topics/expert-decisions-follow-agent-presets.md": "Same digest day as FinanceYF5 deference post but this article body is only Instinct valuation—no analyst experiment evidence; left unchanged.",
+    "topics/ai-eval-work-record-gateway.md": "FinanceYF5 M&A/eval gateway narrative, not startup round ladder; checked, left unchanged.",
+    "topics/agent-identity-platform-keys.md": "Platform identity M&A, not personal-agent valuation; checked, left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/financeyf5-instinct-30b-valuation-fundraise.md",
+    "sources/articles/index.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/index.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/expert-decisions-follow-agent-presets.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/agent-identity-platform-keys.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-hype-familiarity-gap.md": "Instinct is a personal AI agent; the post documents steep private-market valuation escalation alongside user-side personal-agent heat—orthogonal to Dotey familiarity gap but same craze category.",
+      "topics/agent-scaled-engineering.md": "Page already holds engineering value ordering (assembling Agents low-value); Instinct fundraise rumor is capital-pricing foil and tensions with that thesis in Contradictions.",
+      "topics/expert-decisions-follow-agent-presets.md": "Same digest day as FinanceYF5 deference post but this article body is only Instinct valuation—no analyst experiment evidence; left unchanged.",
+      "topics/ai-eval-work-record-gateway.md": "FinanceYF5 M&A/eval gateway narrative, not startup round ladder; checked, left unchanged.",
+      "topics/agent-identity-platform-keys.md": "Platform identity M&A, not personal-agent valuation; checked, left unchanged."
+    },
+    "notes": "Source slug financeyf5-instinct-30b-valuation-fundraise.md; post relays alleged terms without verified sources in fetched body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/financeyf5-instinct-30b-valuation-fundraise.md",
+        "sources/articles/index.md",
+        "topics/agent-scaled-engineering.md",
+        "topics/index.md",
+        "topics/personal-agent-hype-familiarity-gap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

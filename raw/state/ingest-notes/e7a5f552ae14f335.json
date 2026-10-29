@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Article is frontline evidence that ChatGPT Pro API credit claims land real dollars ($109), directly extending the OpenAI Pro/Business bundle and rollout thread already synthesized with Dotey and 歸藏 on this Topic.",
+    "topics/agent-model-channel-tradeoffs.md": "The post sizes the official membership-plus-developer-API channel with a concrete claimed pool ($109 vs Dotey $75), relevant to choosing OpenAI official API gift versus third-party routes."
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Integrated 0xlangeai successful-claim datapoint ($109, Pro 20 X), updated intro/contradictions on rollout vs amounts, and linked new Source."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added official-channel effective-pool sizing from $109 claim alongside existing $75 proration and UI rollout notes."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "New Source slug 0xlangeai-chatgpt-pro-api-claim-report; quotes embedded ChatGPT official up-to-$500/month post."
+}

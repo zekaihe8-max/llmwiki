@@ -1,0 +1,113 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:37:29.959Z",
+  "url": "https://x.com/xiaomovps/status/2115683808033001567",
+  "slug": "2ab84f38fdcd4f55",
+  "content_hash": "b5794ade354f632ff91550cd4961ae7bb69eb0931509bf83e70444383036f3d8",
+  "source": {
+    "path": "sources/articles/xiaomovps-cloudflare-ai-free-tier.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/computer-use.md",
+    "topics/programmable-edge-compute.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "No Claude Code / harness token-tool list content in the article."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Added Browser Run as managed cloud browser API for agent automation."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "AI Search MCP mention is ancillary; no integrated change to context-engineering course/harness synthesis."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on PiHarness/DO as first-party Pi Durable hosting vs community Pi Pocket branch."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "add_evidence",
+      "reason": "Added scope paragraph on Cloudflare serverless personal-agent hosting boundaries vs Grok cloud PC checklist."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Free Cloudflare quotas do not change subscription ROI conclusions on this page."
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "add_evidence",
+      "reason": "Added 2026 community free-tier AI layer on Workers/DO continuing edge platform narrative."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "Post covers native PiHarness deploying Pi Durable on Cloudflare Durable Objects—extends Pi slim-core / community hosting story beyond Pi Pocket-style forks.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Author frames serverless Pi + Browser Run as lightweight cloud agent without always-on VPS, with explicit non-equivalence to full Linux CLI—complements Grok cloud-PC pitfall narrative.",
+    "topics/computer-use.md": "Browser Run free tier is API-hosted browser automation for agents (screenshot, PDF, scrape)—another execution surface under model-thinks/program-clicks.",
+    "topics/programmable-edge-compute.md": "Article maps contemporary AI products (Workers AI, AI Search, DO-hosted Pi) onto the same Workers/DO stack documented by historical CF edge posts.",
+    "topics/context-engineering-for-agents.md": "AI Search offers hosted doc indexing and MCP hookup; checked whether it belongs in context-engineering synthesis—decided it is a product free-tier pointer, not harness context-curation practice.",
+    "topics/premium-ai-subscription-value.md": "Digest hint 羊毛 and free tiers; checked overlap with subscription-value Topic—article is vendor free quotas, not Pro/Grok tier ROI.",
+    "topics/coding-agent-token-saving-tooling.md": "Workers AI neurons and AI Gateway caching touch cost; checked—post is infra roundup, not Claude Code token-saving tooling list."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomovps-cloudflare-ai-free-tier.md",
+    "topics/computer-use.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/programmable-edge-compute.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/computer-use.md",
+      "topics/programmable-edge-compute.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "Post covers native PiHarness deploying Pi Durable on Cloudflare Durable Objects—extends Pi slim-core / community hosting story beyond Pi Pocket-style forks.",
+      "topics/personal-agent-cloud-env-pitfalls.md": "Author frames serverless Pi + Browser Run as lightweight cloud agent without always-on VPS, with explicit non-equivalence to full Linux CLI—complements Grok cloud-PC pitfall narrative.",
+      "topics/computer-use.md": "Browser Run free tier is API-hosted browser automation for agents (screenshot, PDF, scrape)—another execution surface under model-thinks/program-clicks.",
+      "topics/programmable-edge-compute.md": "Article maps contemporary AI products (Workers AI, AI Search, DO-hosted Pi) onto the same Workers/DO stack documented by historical CF edge posts.",
+      "topics/context-engineering-for-agents.md": "AI Search offers hosted doc indexing and MCP hookup; checked whether it belongs in context-engineering synthesis—decided it is a product free-tier pointer, not harness context-curation practice.",
+      "topics/premium-ai-subscription-value.md": "Digest hint 羊毛 and free tiers; checked overlap with subscription-value Topic—article is vendor free quotas, not Pro/Grok tier ROI.",
+      "topics/coding-agent-token-saving-tooling.md": "Workers AI neurons and AI Gateway caching touch cost; checked—post is infra roundup, not Claude Code token-saving tooling list."
+    },
+    "notes": "Source slug xiaomovps-cloudflare-ai-free-tier; resource https://x.com/xiaomovps/status/2115683808033001567",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomovps-cloudflare-ai-free-tier.md",
+        "topics/computer-use.md",
+        "topics/minimal-core-community-extensions.md",
+        "topics/personal-agent-cloud-env-pitfalls.md",
+        "topics/programmable-edge-compute.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/agent-skill-authoring.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/computer-use.md",
+    "topics/hireable-group-chat-digest-agent.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "Post centers external agents (Codex/Claude/GPT) orchestrating Grok Bot as workers, brain swap, and mid-task handoff—extends foreman/worker layering beyond Grok-over-Codex.",
+    "topics/dsh-grok-cross-dispatch.md": "Skill+CLI for Codex/Claude Code to dispatch Grok Bot is community cross-product glue alongside grok-bot-cli, even though harness is not DSH.",
+    "topics/agent-skill-authoring.md": "Author ships one skill plus companion CLI across Codex and Claude Code—concrete Skill+CLI split for cross-host orchestration.",
+    "topics/personal-agent-share-and-interbot-chat.md": "Multi-bot cross-account mesh mentioned; checked whether it fits social sharing vs task dispatch.",
+    "topics/computer-use.md": "Same author’s other Grok Bot posts cover cloud browser; this post is agent dispatch not GUI automation.",
+    "topics/hireable-group-chat-digest-agent.md": "Same author’s WeChat digest product line; this post is external-agent command surface not group digests."
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrated cgnot996 reverse-orchestration evidence, source entry, related link, and footnote."
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "add_evidence",
+      "reason": "Added Codex/Claude Code skill+CLI path as sibling to grok-bot-cli community glue."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added Skill+CLI orchestration paragraph tying to out-of-skill CLI pattern."
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "Cross-account bot mesh here is task dispatch under one operator, not Yobiru-style public ID or bot social graph."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "No computer-use or browser automation claims in this article."
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "Xiao Tiezhu hireable digest is a separate product narrative from external-agent Grok command."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug cgnot996-any-agent-command-grok-bot; resource https://x.com/cgnot996/status/2115722202712789476"
+}

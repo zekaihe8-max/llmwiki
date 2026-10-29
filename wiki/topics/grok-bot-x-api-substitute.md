@@ -12,9 +12,12 @@ sources:
   - id: xiaomovps-grok-bot-five-mechanisms
     resource: https://x.com/xiaomovps/status/2115378617614262327
     title: Xiaomo on five Grok Bot mechanism truths
+  - id: xiaomovps-grok-bot-zero-to-one-guide
+    resource: https://x.com/xiaomovps/status/2115738442181333337
+    title: Xiaomo’s Grok Bot zero-to-one guide
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T20:51:11+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T20:26:00+08:00
 ---
 
 # 用 Grok Bot 内置额度桥接 Agent 查 X
@@ -35,6 +38,10 @@ When a coding agent already sits deep in a Codex-like session but still needs fi
 
 [Xiaomo on five Grok Bot mechanism truths](../sources/articles/xiaomovps-grok-bot-five-mechanisms.md) rechecks the same quota order of magnitude from the mechanism side and adds detail: 30/min, 1000/day, at most 25 results per call, fixed-window reset; high volume can use multiple accounts. This page’s bridge claim is unchanged—only the quota bound is more concrete; non–X-search cloud mechanisms (sleep, shared host, backup) live in [Personal-agent cloud env: backup, isolation, and schedule checks](./personal-agent-cloud-env-pitfalls.md).[^xiaomovps-grok-bot-five-mechanisms] Post: <https://x.com/xiaomovps/status/2115378617614262327>.
 
+[小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md) 补充 2026-10-29 连接器变化：在 Grok Bot 内用 X 账号 OAuth 即可，不必再开 X Developer Account；并区分 **X API 额度**（作者称现在仅发帖消耗）与 **Grok Bot 周额度**（读时间线、搜站、读私信、List、存草稿、安排通话/直播等接好后不花前者）。桥接 Codex 省读帖费的主张仍成立，但「哪些读操作走哪本账」须按当时产品页核对。[^xiaomovps-grok-bot-zero-to-one-guide] 原帖 <https://x.com/xiaomovps/status/2115738442181333337>。
+
+[Xiaomo’s Grok Bot zero-to-one guide](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md) adds 2026-10-29 connector changes: OAuth X inside Grok Bot without an X Developer Account; it separates **X API quota** (the author says only posting burns it now) from **Grok Bot weekly quota** (timeline reads, search, DMs, Lists, draft articles, scheduled calls/livestreams, etc., do not burn the former once connected). The bridge-to-Codex cost story still holds, but which reads hit which ledger must be checked against the product page at the time.[^xiaomovps-grok-bot-zero-to-one-guide] Post: <https://x.com/xiaomovps/status/2115738442181333337>.
+
 适用边界：这是一线桥接与成本账分享，不是 X 或 Grok 的官方计价承诺；额度、单价与产品能力会变。与 [面向 Agent 的联网搜索重做](./agent-native-web-search.md) 同属「Agent 要拿外部信息」，但那页讲通用网页搜索接口形态（正文直出、权威信源、多轮延迟），本页讲用个人 Agent 内置 X 额度替代付费 X API 的桥接与选型。与 [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md) 同属 Grok Bot 叙事，但那页讲热潮体感与手机 session 便利，本页讲把 Bot 当 X 数据工具挂回 Codex。与 [可编程边缘计算](./programmable-edge-compute.md) 仅在 Webhook 方案触及 Worker/D1，并不推进边缘可编程主张，故不并入该页。
 
 Scope: this is a frontline bridge and cost-math share, not an official X or Grok pricing commitment; quotas, unit prices, and product features change. It shares “Agents need external information” with [Agent-native web search rebuild](./agent-native-web-search.md), but that page is general web-search API shape (full body, authority, multi-round latency); this page is bridging personal-agent built-in X quota as a paid X API substitute and how to choose the wire. It shares the Grok Bot narrative with [Personal-agent hype vs coding-agent familiarity](./personal-agent-hype-familiarity-gap.md), but that page is craze reception and mobile session convenience; this page is hanging the Bot as an X-data tool back onto Codex. It only touches Workers/D1 in the Webhook path and does not advance programmable-edge claims, so it stays out of [Programmable edge compute](./programmable-edge-compute.md).
@@ -47,6 +54,7 @@ Scope: this is a frontline bridge and cost-math share, not an official X or Grok
 
 - Source: [赵老师Jason谈用 Grok Bot 内置 X 检索替 Codex 省 X API](../sources/articles/fringjason-grok-bot-x-api-bridge.md)
 - Source: [小墨谈 Grok Bot 五个机制真相](../sources/articles/xiaomovps-grok-bot-five-mechanisms.md)
+- Source: [小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md)
 - Topic: [面向 Agent 的联网搜索重做](./agent-native-web-search.md)
 - Topic: [个人 Agent 云环境的备份、隔离与定时检查](./personal-agent-cloud-env-pitfalls.md)
 - Topic: [个人 Agent 热潮与 Coding Agent 熟悉度差](./personal-agent-hype-familiarity-gap.md)
@@ -54,3 +62,4 @@ Scope: this is a frontline bridge and cost-math share, not an official X or Grok
 
 [^fringjason-grok-bot-x-api-bridge]: FringJason on Grok Bot X search bridging Codex off paid X API
 [^xiaomovps-grok-bot-five-mechanisms]: Xiaomo on five Grok Bot mechanism truths
+[^xiaomovps-grok-bot-zero-to-one-guide]: Xiaomo’s Grok Bot zero-to-one guide

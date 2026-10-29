@@ -1,0 +1,88 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:49:09.959Z",
+  "url": "https://x.com/dingyi/status/2115662783060853044",
+  "slug": "e800282eeb82bc4d",
+  "content_hash": "f9d9c6c086bff28b67abbb632656d0e0d6fbd00d61f4579d40142ba5e1664fe9",
+  "source": {
+    "path": "sources/articles/dingyi-cook-exits-new-ceo-blame.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/iphone-duo-user-vs-developer-reception.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "No Claude Code authorship or named departure thread in the fetched post."
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "create",
+      "reason": "New Topic owns satirical incumbent-exit / successor-blame product-cycle meme; no existing page carried this framing."
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "Not about iPhone Duo reception splits."
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "No margin or serving-cost argument in the post."
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "IPO-window serious motive questions differ from cynical product-launch blame meme; only cross-linked from new Source/Topic."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "Pre-IPO motive questions and Claude authorship exits cover serious organizational signals, not the cynical Cook metaphor tying rough launches to a successor taking blame."
+  },
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "Same author (Ding) and executive-exit theme; checked whether satirical Cook/CEO blame meme fits IPO motive questioning or needs a separate cut.",
+    "topics/claude-code-authorship-and-voice.md": "Checked for person-specific departure narratives; post is generic Apple personnel satire with no named leavers.",
+    "topics/lab-inference-serving-cost-efficiency.md": "Checked for big-lab economics angle; post is product-cycle blame metaphor, not inference cost claims.",
+    "topics/iphone-duo-user-vs-developer-reception.md": "Checked for Apple device reception split; post is CEO succession satire, not Duo user vs developer divide."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dingyi-cook-exits-new-ceo-blame.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/iphone-duo-user-vs-developer-reception.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "Same author (Ding) and executive-exit theme; checked whether satirical Cook/CEO blame meme fits IPO motive questioning or needs a separate cut.",
+      "topics/claude-code-authorship-and-voice.md": "Checked for person-specific departure narratives; post is generic Apple personnel satire with no named leavers.",
+      "topics/lab-inference-serving-cost-efficiency.md": "Checked for big-lab economics angle; post is product-cycle blame metaphor, not inference cost claims.",
+      "topics/iphone-duo-user-vs-developer-reception.md": "Checked for Apple device reception split; post is CEO succession satire, not Duo user vs developer divide."
+    },
+    "notes": "Source slug dingyi-cook-exits-new-ceo-blame; digest hint used only for filing orientation, body from raw article only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dingyi-cook-exits-new-ceo-blame.md",
+        "topics/incumbent-exit-successor-blame-metaphor.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agentic-video-editing.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/model-mascot-merch-harness-coheat.md"
+  ],
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "Same op7418 Malfoy desktop companion line as the prior X post; repo implements daily desktop presence, affection, and outfit/album unlock called out in README.",
+    "topics/agentic-video-editing.md": "README documents Jimeng-generated footage/voice, Suno music, HyperFrames editing projects, and Three.js/GSAP magic transitions—editing-as-code plus adjacent generators.",
+    "topics/casual-ai-minigame-first-try.md": "Checked whether the shipped demo fits the one-shot playable mini-game floor narrative; it is an interactive drama desk pet, not a casual mini-game success story.",
+    "topics/model-mascot-merch-harness-coheat.md": "Checked overlap with brand-mascot physical merch; this is a noncommercial HP fan desktop project, not model-brand merchandise."
+  },
+  "topics": [
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "add_evidence",
+      "reason": "Integrated Malfoy Desktop repo as shipped evidence for daily desktop outfit-companion mechanics (affection, home outfit, album) complementing the X desire-line post."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on Jimeng + Suno + HyperFrames + Three.js pipeline and desktop delivery as an integrated fan-work production stack."
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "Article describes role-play desk companion and branching drama, not the casual mini-game first-try floor narrative."
+    },
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "unchanged",
+      "reason": "Fan HP genderbent character desktop app; no model-brand mascot merch or harness co-heat claims in the source body."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Created wiki/sources/articles/op7418-malfoy-desktop.md; linked from op7418-desktop-malfoy-outfits Related only."
+}

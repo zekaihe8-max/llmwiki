@@ -30,9 +30,36 @@ sources:
   - id: 0xlangeai-claude-code-three-pitfalls
     resource: https://x.com/0xlangeai/status/2115300040701096272
     title: 蓝哥AI on three silent Claude Code pitfalls
+  - id: dotey-baoyu-design-v2-opensource
+    resource: https://x.com/dotey/status/2115667965328977920
+    title: Dotey announces baoyu-design v2 open source
+  - id: jimliu-baoyu-design
+    resource: https://github.com/jimliu/baoyu-design
+    title: baoyu-design open-source repository
+  - id: shao-meng-minimax-mcode-stack
+    resource: https://x.com/shao__meng/status/2115428696672866729
+    title: Meng Shao on MiniMax open-sourcing the MCode Stack
+  - id: minimax-mcode-stack
+    resource: https://github.com/MiniMax-AI/mcode-stack
+    title: MiniMax MCode Stack open-source repository
+  - id: xiaomovps-grok-bot-zero-to-one-guide
+    resource: https://x.com/xiaomovps/status/2115738442181333337
+    title: Xiaomo’s Grok Bot zero-to-one guide
+  - id: xiaomovps-grok-bot-over-hermes-hot-take
+    resource: https://x.com/xiaomovps/status/2115743740577157595
+    title: Xiaomo’s hot take that Grok Bot supersedes Hermes Agent
+  - id: 0xlangeai-qingshang-waigua-nvc-skill
+    resource: https://x.com/0xlangeai/status/2115754265180574033
+    title: 0xlangeai on Ayi’s Opus 5.5 open-source EQ plug-in from an NVC Skill
+  - id: ayi-qingshang-waigua
+    resource: https://github.com/ayi-ai/qingshang-waigua
+    title: qingshang-waigua open-source repository
+  - id: cgnot996-any-agent-command-grok-bot
+    resource: https://x.com/cgnot996/status/2115722202712789476
+    title: cgnot996 on any agent commanding Grok Bot
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T22:45:00+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:08:00+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -70,6 +97,18 @@ Skills worth sharing are distilled from tasks an agent already completed well, n
 
 [Meng Shao on three Skills packs to recreate top iOS apps](../sources/articles/shao-meng-three-skills-top-ios.md) supplies a public taste-Skill specimen and a “safe to stack” bound: Emil Kowalski Skills’ core claim is that agents lack taste (wrong ease-in on enter, solid borders instead of translucent shadows, etc.) and encodes failure modes as executable rules (`emil-design-eng`, `animate` / `animate-expo`, strict review, and peers), with stars above the other two packs in the same post—same direction as “taste layers still repay writing,” as an installable third-party pack rather than an in-house designer feedback loop. The same post folds Appllama (who/look) + Expo official engineering Skills + Emil motion taste into a recreation stack on skills.sh, not IPA reverse engineering; for the product-recreation division of labor, see [Compose Skills to recreate native-feel apps](./skills-stack-native-app-recreation.md).[^shao-meng-three-skills-top-ios] Post: <https://x.com/shao__meng/status/2115332272152826248>.
 
+[小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md) 从 Grok Bot 侧补「先不空想 Skill」：首周优先官方模板市场（56 例）与社区索引，从改模板学提示词；具体流程封装成 Skill，长期偏好放记忆，且同一条规则只维护一处——与 Vox「从跑通提炼」同向，但入口是 **import 他人 Bot/Skill** 而非从零写 `SKILL.md`。记忆大扫除时只改有问题行、删不掉则覆盖新条目，与 Felix「须复查、勿绑死」一致。[^xiaomovps-grok-bot-zero-to-one-guide] 原帖 <https://x.com/xiaomovps/status/2115738442181333337>。
+
+[Xiaomo’s Grok Bot zero-to-one guide](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md) adds the Grok Bot side of “don’t invent Skills in a vacuum”: week one prefers the official marketplace (56 cases) and community indexes, learning prompts by adapting templates; put concrete flows in Skills, long-term prefs in memory, one place per rule—aligned with Vox’s “distill from runs,” but entry is **import others’ bots/skills** rather than authoring `SKILL.md` from scratch. Memory cleanup edits only bad lines and overwrites when delete fails—consistent with Felix’s “revisit, don’t freeze.”[^xiaomovps-grok-bot-zero-to-one-guide] Post: <https://x.com/xiaomovps/status/2115738442181333337>.
+
+[小墨暴论 Grok Bot 是 Hermes Agent 上位替代](../sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md) 从 **跨宿主迁移** 补 Skill/MCP 实务：个人助手需求含通过 Skill 或 MCP 连软件做自动化（含飞书 CLI 文档流）；Hermes 上已做好常用 Skill 与授权，迁到 Grok Bot 时主张用类似方法重装/接 MCP，并 **做好授权与配置备份还原**——不是重写 Skill 标准，而是同一套「流程进 Skill、接 MCP/CLI」在 Linux 云机上复用；与长文「模板市场入门」互补：本帖假设已在 Hermes 跑通，迁移时保留投资而非从零空想。[^xiaomovps-grok-bot-over-hermes-hot-take] 原帖 <https://x.com/xiaomovps/status/2115743740577157595>。
+
+[Xiaomo’s hot take that Grok Bot supersedes Hermes Agent](../sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md) adds a **cross-host migration** cut for Skill/MCP practice: personal-assistant needs include Skill or MCP automation (including Feishu CLI document flows); on Hermes he already had Skills and auth working, and on Grok Bot argues similar wiring plus **auth and config backup/restore**—not a new Skill standard, but the same “flows in Skills, wire MCP/CLI” pattern on a Linux host; complements the long guide’s marketplace onboarding: this post assumes Hermes runs already and preserves that investment rather than inventing from scratch.[^xiaomovps-grok-bot-over-hermes-hot-take] Post: <https://x.com/xiaomovps/status/2115743740577157595>.
+
+[铁柱AGI谈任意 Agent 可指挥 Grok Bot](../sources/articles/cgnot996-any-agent-command-grok-bot.md) 给出 **Skill + 配套 CLI** 的跨宿主编排切口：[@cgnot996](https://x.com/cgnot996) 把「外部 Agent 指挥 Grok Bot」封装成一个 skill 与 CLI，Codex 与 Claude Code 均可列出账号下 Bot、逐 Bot 派活并回收——Skill 侧负责在 coding harness 里触发与说明，CLI 侧负责与 Grok Bot 的实际派活协议（帖文未展开文件布局或命令面）。与 [baoyu-design 开源仓库](../sources/articles/jimliu-baoyu-design.md) 把重活推出 Skill 外的本地 CLI 同向：别让 `SKILL.md` 吞掉全部运行时，但这里 CLI 是跨产品调度 Grok 而非导出 PPTX。[^cgnot996-any-agent-command-grok-bot] 原帖 <https://x.com/cgnot996/status/2115722202712789476>。内测阶段，开源未定。
+
+[cgnot996 on any agent commanding Grok Bot](../sources/articles/cgnot996-any-agent-command-grok-bot.md) gives a **Skill plus companion CLI** cross-host orchestration cut: [@cgnot996](https://x.com/cgnot996) packages “external agents command Grok Bot” as one skill and CLI so Codex and Claude Code can list bots under the account, dispatch per bot, and collect results—the skill triggers and instructs inside the coding harness, the CLI carries the actual Grok dispatch protocol (post does not detail file layout or command surface). Aligns with [baoyu-design open-source repository](../sources/articles/jimliu-baoyu-design.md) pushing heavy work out of the skill into local CLI—do not bloat `SKILL.md` with all runtime—here the CLI cross-calls Grok rather than exporting PPTX.[^cgnot996-any-agent-command-grok-bot] Post: <https://x.com/cgnot996/status/2115722202712789476>. Private beta; open source TBD.
+
 [向阳乔木谈用 DSH 插件复刻 Landing Page](../sources/articles/vista8-dsh-landing-page-clone.md) 从 Web Landing 表面补「不必默认上 Skill」：前端 Skill「可以」，但更简单可靠是选优质站复刻，经 DSH 插件 `qiaomu-ui-learn-dsh` 把提示词交给 Agent——与 Felix「有时删/慎用 Skill」同向，但落地是参照站驱动路径而非删掉已有 skill；产品切面见 [Landing Page：选站复刻优于专用 Skill](./landing-page-site-clone-over-skill.md)。[^vista8-dsh-landing-page-clone] 原帖 <https://x.com/vista8/status/2115293920955605424>。
 
 [vista8 on cloning Landing Pages with a DSH plugin](../sources/articles/vista8-dsh-landing-page-clone.md) adds a web-Landing cut of “don’t default to a Skill”: a frontend Skill “can work,” but picking a quality site to clone is simpler and more reliable, via DSH plugin `qiaomu-ui-learn-dsh` with the prompt copied to an Agent—same direction as Felix’s “sometimes delete / use Skills carefully,” but landing as a reference-site path rather than deleting an existing skill; product cut under [Landing Pages — clone a reference site over a dedicated Skill](./landing-page-site-clone-over-skill.md).[^vista8-dsh-landing-page-clone] Post: <https://x.com/vista8/status/2115293920955605424>.
@@ -77,6 +116,30 @@ Skills worth sharing are distilled from tasks an agent already completed well, n
 [蓝哥AI谈 Claude Code「变笨」三隐形坑](../sources/articles/0xlangeai-claude-code-three-pitfalls.md) 从 Claude Code 描述预算侧补「装太多」的静默失败：描述预算只占上下文约 1%，超限会自动砍掉低频 Skill 的触发描述、只留名字，表现为失忆；治本是跑 `skill-doctor` 关掉不用的 Skill——与 Vox「精瘦 description」同向，并把失败从「写得太胖」扩到「总数触碰预算后触发文本被静默删掉」。[^0xlangeai-claude-code-three-pitfalls] 原帖 <https://x.com/0xlangeai/status/2115300040701096272>。指令文件加载与订阅凭据另见 [项目指令与 Token 效率](./agents-md-token-efficiency.md) 与 [高端 AI 订阅价值](./premium-ai-subscription-value.md)。
 
 [0xlangeai on three silent Claude Code pitfalls](../sources/articles/0xlangeai-claude-code-three-pitfalls.md) adds a Claude Code description-budget cut of “install too many”: the description budget is only about 1% of context; over limit, low-frequency Skills lose trigger descriptions and keep only names—looking like amnesia; the real fix is running `skill-doctor` to disable unused Skills—same direction as Vox’s lean descriptions, widening failure from “wrote too fat” to “count hits the budget and trigger text is silently stripped.”[^0xlangeai-claude-code-three-pitfalls] Post: <https://x.com/0xlangeai/status/2115300040701096272>. Instruction-file loading and subscription credentials: [Project instructions and token efficiency](./agents-md-token-efficiency.md) and [Premium AI subscription value](./premium-ai-subscription-value.md).
+
+[宝玉发布 baoyu-design v2 开源](../sources/articles/dotey-baoyu-design-v2-opensource.md) 代表与「个人精瘦 gotcha Skill」不同的**平台面移植包**：多 Skill 仓库把 Claude Design / Slides / Dashboard 与本地编辑器、双向文件同步、导出管线一起打包，目标是复刻 claude.ai 体验而非只补模型短板；宝玉称任意 Agent/模型可跑、不再依赖 Artifacts。它与 Vox 的 500 行/`references/` 精瘦写法**不同类**——体积大是因为要带宿主外编辑器与 Artifact 类型文件格式，不是把权重已有通识写进一条 Skill；仍须警惕「装太多」的描述预算（见 [蓝哥AI](../sources/articles/0xlangeai-claude-code-three-pitfalls.md)），与 Felix「有时删 skill」不矛盾：删的是过期补丁，不是整包设计基础设施。[^dotey-baoyu-design-v2-opensource] 原帖 <https://x.com/dotey/status/2115667965328977920>。跨宿主标准语境见 [Agent Skills 开放标准](./agent-skills-open-standard.md)。
+
+[Dotey announces baoyu-design v2 open source](../sources/articles/dotey-baoyu-design-v2-opensource.md) is a **platform-surface port pack**, not a lean personal gotcha Skill: a multi-skill repo bundles Claude Design / Slides / Dashboard with local editors, bidirectional file sync, and export pipelines to replay the claude.ai experience rather than patch model gaps; Dotey claims any agent/model and no Artifacts. It is a **different class** from Vox’s 500-line/`references/` lean authoring—bulk comes from out-of-host editors and Artifact-type file formats, not stuffing weight-known trivia into one Skill; the description-budget “install too many” caution still applies (see [0xlangeai](../sources/articles/0xlangeai-claude-code-three-pitfalls.md)), and Felix’s “sometimes delete a skill” still holds: delete stale patches, not the whole design infra bundle.[^dotey-baoyu-design-v2-opensource] Post: <https://x.com/dotey/status/2115667965328977920>. Cross-host standard context: [Agent Skills open standard](./agent-skills-open-standard.md).
+
+[baoyu-design 开源仓库](../sources/articles/jimliu-baoyu-design.md) 细化「大 Skill 包」的可维护切分：`SKILL.md` + `system-prompt.md` 保持工艺与 harness 无关；`references/cursor.md` 等只在检测到宿主时加载；`built-in-skills/` 按任务按需拉专项提示——接近 Vox「细节进 references/、正文编排」但规模是为整产品设计面服务。安装侧 README 明确 **`npx skills add … --skill`** 只装子集，与 [蓝哥AI](../sources/articles/0xlangeai-claude-code-three-pitfalls.md) 描述预算下「别一次装满五个触发描述」同向；PPTX 等重导出走 Skill 外本地 CLI（`gen-pptx` + Playwright），避免把运行时塞进 `SKILL.md` 正文。[^jimliu-baoyu-design]
+
+[baoyu-design open-source repository](../sources/articles/jimliu-baoyu-design.md) details how the large pack stays maintainable: `SKILL.md` plus `system-prompt.md` keep craft harness-independent; `references/cursor.md` and peers load only when the host is detected; `built-in-skills/` pulls specialized prompts on demand—close to Vox’s “detail in references/, body orchestrates” but sized for a whole product surface. The README’s **`npx skills add … --skill`** partial installs align with [0xlangeai](../sources/articles/0xlangeai-claude-code-three-pitfalls.md) description-budget advice not to enable all five trigger descriptions at once; heavy exports such as PPTX use out-of-skill local CLI (`gen-pptx` + Playwright) instead of bloating `SKILL.md`.[^jimliu-baoyu-design]
+
+[邵萌谈 MiniMax 开源 MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md) 给出「从真实日常跑通提炼」的公司 harness 样板：MiniMax Code 开源 **MCode Stack**，把何时拆子 Agent、长命令/长会话、工具与每轮 token、评审与热修等写成 **`SKILL.md`、Checklist、Workflow** 三类；Ronny stack 15 个 skill（如 `subagent-split-check`、`tool-budget-audit`、`long-session-check`），六条 `engineering-*` 改编自 Google Engineering Practices（CC-BY 3.0 改编部分），其余 MIT；**MCode Engineering Notes** 讲道理、技能可执行，Ronny 的 `WORKFLOW.md` 仍标 Coming soon、帖文称先以 skills 为准——与 Vox「先跑通再写」同向，但切面是**编码 Agent 治理**而非设计 Artifact 或品味包；与 Felix「半衰期短、敢删」不冲突，仓库仍收社区 stack 模板。[^shao-meng-minimax-mcode-stack] 原帖 <https://x.com/shao__meng/status/2115428696672866729>；仓库 <https://github.com/MiniMax-AI/mcode-stack>。子 Agent 默认见 [把子 Agent 折进主循环](./fold-subagents-into-main-loop.md)。
+
+[Meng Shao on MiniMax open-sourcing the MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md) supplies a company-harness specimen of “distill from real daily runs”: MiniMax Code open-sourced the **MCode Stack**, encoding when to split sub-agents, long commands/sessions, tool and per-turn token budgets, review, and hotfixes as three artifact types—**`SKILL.md`, checklists, workflows**; Ronny’s stack has 15 skills (e.g. `subagent-split-check`, `tool-budget-audit`, `long-session-check`), six `engineering-*` skills adapted from Google Engineering Practices (adapted portions CC-BY 3.0), rest MIT; **MCode Engineering Notes** explain while skills execute, Ronny’s `WORKFLOW.md` still marked Coming soon and the post says to treat skills as authoritative for now—same direction as Vox’s “run first, then write,” but the cut is **coding-agent governance**, not design Artifacts or taste packs; compatible with Felix’s short half-life and “dare to delete,” while the repo still welcomes community stack templates.[^shao-meng-minimax-mcode-stack] Post: <https://x.com/shao__meng/status/2115428696672866729>; repo: <https://github.com/MiniMax-AI/mcode-stack>. Sub-agent defaults: [Fold sub-agents into the main loop](./fold-subagents-into-main-loop.md).
+
+[MiniMax MCode Stack 开源仓库](../sources/articles/minimax-mcode-stack-repo.md) 从 README 强化「从真实日常提炼」而非写 prompt 百科：明确**不是**最佳实践清单；Checklist 与 Skill 同构（Agent 逐项过项目）；团队称 harness engineering 靠实验推进、仓库**会持续改**——与 Felix 半衰期同向，但这里是**敢改敢 fork** 的开源 craft，而非个人 gotcha 单文件；贡献侧 PR 暂限协作者，外人 stack 走 `community/` 模板并跑 `scripts/check.mjs`。[^minimax-mcode-stack]
+
+[MiniMax MCode Stack open-source repository](../sources/articles/minimax-mcode-stack-repo.md) README reinforces “distill from real daily use,” not a prompt encyclopedia: explicitly **not** a best-practices list; checklists share the Skill shape (agent walks items); the team calls harness engineering experiment-driven and the repo **will keep changing**—same direction as Felix’s half-life, but as open **craft you may fork**, not only personal gotcha files; contributing PRs are collaborator-only for now, outside stacks via `community/` template plus `scripts/check.mjs`.[^minimax-mcode-stack]
+
+[蓝哥AI谈 Ayi 用 Opus 5.5 开源「情商外挂」](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md) 给出 **Skill 规则 → 固定网页产品** 的短周期样板：Ayi 先把《非暴力沟通》写成 GitHub 180+ Star 的开源 Skill，再用 Opus 5.5 约两小时把同一套人际/措辞规则收成零依赖本地页——标刺耳词、温和/坚定/直接三档、坚定不缩水——与 Vox「从跑通提炼」同向，但交付物是 **可分享的 localhost 工具** 而非只在 harness 里按需加载的 `SKILL.md`；规则层仍是权重外的行为与措辞约束（品味/沟通类），不是补模型不会的能力。[^0xlangeai-qingshang-waigua-nvc-skill] 原帖 <https://x.com/0xlangeai/status/2115754265180574033>。
+
+[0xlangeai on Ayi’s Opus 5.5 open-source “EQ plug-in” from an NVC Skill](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md) supplies a short **Skill rules → fixed web product** specimen: Ayi authored an open NVC Skill (180+ GitHub stars), then used Opus 5.5 for about two hours to ship the same interpersonal wording rules as a zero-dependency local page—flag harsh words, gentle/firm/direct tiers, firm without watering down—same direction as Vox’s “distill from runs,” but the artifact is a **shareable localhost tool**, not only a `SKILL.md` loaded on demand in a harness; the rule layer is out-of-weight behavior and phrasing (communication/taste class), not patching missing model capability.[^0xlangeai-qingshang-waigua-nvc-skill] Post: <https://x.com/0xlangeai/status/2115754265180574033>.
+
+[情商外挂开源仓库](../sources/articles/ayi-qingshang-waigua.md) 从 README 把同一类产品 **落地成可 fork 的规则文件**：人际/措辞约束写在 `app.py` 的 `WHO`、`TONE` 与 `SYSTEM_PROMPT`（README 写明改规矩直接改这三处），NVC 四要素是方法说明而非权重补洞；运行期是 localhost 上的固定改写，不是 harness 里按需加载的 `SKILL.md`。与转述帖不同，仓库正文**未写**构建用了哪版模型、耗时或 Star 数——只描述两文件零依赖产品与 MIT 许可。[^ayi-qingshang-waigua] 仓库 <https://github.com/ayi-ai/qingshang-waigua>。构建叙事见 [蓝哥AI谈 Ayi 用 Opus 5.5 开源「情商外挂」](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md)。
+
+[qingshang-waigua open-source repository](../sources/articles/ayi-qingshang-waigua.md) README lands the same product class as **forkable rule source**: interpersonal wording lives in `app.py` as `WHO`, `TONE`, and `SYSTEM_PROMPT` (the README says edit those to change rules); NVC’s four components are methodology, not weight patching; runtime is a fixed localhost rewrite, not on-demand `SKILL.md` in a harness. Unlike the relay post, the repo body **does not** name which model built it, build time, or star count—only the two-file zero-dependency product and MIT license.[^ayi-qingshang-waigua] Repository: <https://github.com/ayi-ai/qingshang-waigua>. Build narrative: [0xlangeai on Ayi’s Opus 5.5 open-source “EQ plug-in” from an NVC Skill](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md).
 
 ## 矛盾与变化 / Contradictions
 
@@ -108,6 +171,18 @@ This page’s main line (Vox / official guide) teaches how to author durable Ski
 
 [0xlangeai](../sources/articles/0xlangeai-claude-code-three-pitfalls.md)’s silent description-budget strip of trigger text and Dex’s “~200 separate skills active before a fresh window” are both “install too many” frictions with different mechanisms: Claude Code’s ~1% description budget cutting trigger text versus session attention and whether skills must stack—complementary, not canceling; the durable fix still lands on disabling unused Skills (`skill-doctor`), same direction as Felix’s “sometimes better after deletion.”[^0xlangeai-claude-code-three-pitfalls][^dexhorthy-skills-session-context][^shao-meng-felix-not-2024-claude-usage]
 
+[宝玉](../sources/articles/dotey-baoyu-design-v2-opensource.md) 的 baoyu-design v2 与「一律写瘦 Skill」形成**品类对照**：官方指南/Vox 针对从单次跑通提炼的可删改 Skill；baoyu 则是 deliberately 大型的多 Skill 产品移植（本地编辑器 + 文件格式 + 导出），不应被误读为鼓励把任意工作流都写成同等体积——装整套仍可能触碰描述预算，宜按需只启用子 Skill。[^dotey-baoyu-design-v2-opensource][^voxyz-agent-skills-writing-rules][^0xlangeai-claude-code-three-pitfalls]
+
+[Dotey](../sources/articles/dotey-baoyu-design-v2-opensource.md)’s baoyu-design v2 **contrasts by category** with “always write lean Skills”: official guide/Vox target distill-from-a-run, revisable Skills; baoyu is a deliberately large multi-skill product port (local editors + file formats + export)—not a license to inflate every workflow to that size—installing the whole bundle can still hit description budgets; enable sub-skills on demand.[^dotey-baoyu-design-v2-opensource][^voxyz-agent-skills-writing-rules][^0xlangeai-claude-code-three-pitfalls]
+
+[baoyu-design 开源仓库](../sources/articles/jimliu-baoyu-design.md) README 把「按需只装子 Skill」写成一等安装路径（`--skill` / `--list`），与上句 operational 化一致，并展示 `references/` + `built-in-skills/` 分层而非单文件堆五套产品说明。[^jimliu-baoyu-design]
+
+[baoyu-design open-source repository](../sources/articles/jimliu-baoyu-design.md) README makes partial installs a first-class path (`--skill` / `--list`), operationalizing that advice, and shows `references/` plus `built-in-skills/` layering instead of one file carrying five product manuals.[^jimliu-baoyu-design]
+
+[蓝哥AI](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md) 转述 Ayi 用 Opus 5.5 约两小时、Skill 仓库 180+ Star；[情商外挂开源仓库](../sources/articles/ayi-qingshang-waigua.md) 正文只描述已发布的 `app.py`/`index.html` 产品与 `WHO`/`TONE`/`SYSTEM_PROMPT` 规则位，**未重复**构建模型、耗时或 Star——写 Skill→产品样板时应分清 **社区转述** 与 **作者仓库自述**，勿把转述数字写进 canonical Source。[^0xlangeai-qingshang-waigua-nvc-skill][^ayi-qingshang-waigua]
+
+[0xlangeai](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md) relays Opus 5.5, ~two hours, and 180+ stars on the Skill repo; [qingshang-waigua open-source repository](../sources/articles/ayi-qingshang-waigua.md) only describes the shipped `app.py`/`index.html` product and `WHO`/`TONE`/`SYSTEM_PROMPT` rule slots—**not** build model, duration, or stars—when authoring Skill→product specimens, separate **community relay** from **author repo copy** and do not paste relay numbers into the canonical Source.[^0xlangeai-qingshang-waigua-nvc-skill][^ayi-qingshang-waigua]
+
 ## 相关 / Related
 
 - 来源 / Source: [Vox on Agent Skills writing rules](../sources/articles/voxyz-agent-skills-writing-rules.md)
@@ -118,6 +193,15 @@ This page’s main line (Vox / official guide) teaches how to author durable Ski
 - 来源 / Source: [邵萌谈三套 Skills 复刻顶级 iOS](../sources/articles/shao-meng-three-skills-top-ios.md)
 - 来源 / Source: [向阳乔木谈用 DSH 插件复刻 Landing Page](../sources/articles/vista8-dsh-landing-page-clone.md)
 - 来源 / Source: [蓝哥AI谈 Claude Code「变笨」三隐形坑](../sources/articles/0xlangeai-claude-code-three-pitfalls.md)
+- 来源 / Source: [宝玉发布 baoyu-design v2 开源](../sources/articles/dotey-baoyu-design-v2-opensource.md)
+- 来源 / Source: [baoyu-design 开源仓库](../sources/articles/jimliu-baoyu-design.md)
+- 来源 / Source: [邵萌谈 MiniMax 开源 MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md)
+- 来源 / Source: [MiniMax MCode Stack 开源仓库](../sources/articles/minimax-mcode-stack-repo.md)
+- 来源 / Source: [小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md)
+- 来源 / Source: [小墨暴论 Grok Bot 是 Hermes Agent 上位替代](../sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md)
+- 来源 / Source: [铁柱AGI谈任意 Agent 可指挥 Grok Bot](../sources/articles/cgnot996-any-agent-command-grok-bot.md)
+- 来源 / Source: [蓝哥AI谈 Ayi 用 Opus 5.5 开源「情商外挂」](../sources/articles/0xlangeai-qingshang-waigua-nvc-skill.md)
+- 来源 / Source: [情商外挂开源仓库](../sources/articles/ayi-qingshang-waigua.md)
 - 主题 / Topic: [Agent Skills open standard](./agent-skills-open-standard.md)
 - 主题 / Topic: [用 Skills 组合复刻原生感 App](./skills-stack-native-app-recreation.md)
 - 主题 / Topic: [Landing Page：选站复刻优于专用 Skill](./landing-page-site-clone-over-skill.md)
@@ -135,3 +219,12 @@ This page’s main line (Vox / official guide) teaches how to author durable Ski
 [^shao-meng-three-skills-top-ios]: Meng Shao on three Skills packs to recreate top iOS apps
 [^vista8-dsh-landing-page-clone]: vista8 on cloning Landing Pages with a DSH plugin
 [^0xlangeai-claude-code-three-pitfalls]: 蓝哥AI on three silent Claude Code pitfalls
+[^dotey-baoyu-design-v2-opensource]: Dotey announces baoyu-design v2 open source
+[^jimliu-baoyu-design]: baoyu-design open-source repository
+[^shao-meng-minimax-mcode-stack]: Meng Shao on MiniMax open-sourcing the MCode Stack
+[^minimax-mcode-stack]: MiniMax MCode Stack open-source repository
+[^xiaomovps-grok-bot-zero-to-one-guide]: Xiaomo’s Grok Bot zero-to-one guide
+[^xiaomovps-grok-bot-over-hermes-hot-take]: Xiaomo’s hot take that Grok Bot supersedes Hermes Agent
+[^cgnot996-any-agent-command-grok-bot]: cgnot996 on any agent commanding Grok Bot
+[^0xlangeai-qingshang-waigua-nvc-skill]: 0xlangeai on Ayi’s Opus 5.5 open-source EQ plug-in from an NVC Skill
+[^ayi-qingshang-waigua]: qingshang-waigua open-source repository

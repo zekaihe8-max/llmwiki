@@ -2,16 +2,19 @@
 type: Topic
 title: 面向 Agent 的联网搜索重做
 title_en: Agent-native web search rebuild
-description: 当搜索主用户从人变为 Agent，接口需直接给正文、抬高权威信源门槛并压低多轮延迟；通用 SERP 摘要不够用，垂类场景仍常要改写问句或接专用 API。
-description_en: As Agents become the primary search user, APIs must return full body text, raise authoritative-source gates, and cut multi-round latency; classic SERP snippets are not enough, and vertical cases still often need query rewrite or dedicated APIs.
+description: 当搜索主用户从人变为 Agent，接口需直接给正文、抬高权威信源门槛并压低多轮延迟；通用 SERP 摘要不够用，垂类场景仍常要改写问句或接专用 API；面向开发者的独立 AI 搜索产品也可能在 ChatGPT/Claude 联网与编程 Agent 自带检索下失去差异化而停运。
+description_en: As Agents become the primary search user, APIs must return full body text, raise authoritative-source gates, and cut multi-round latency; classic SERP snippets are not enough, and vertical cases still often need query rewrite or dedicated APIs; standalone developer AI search products can also lose differentiation and shut down once ChatGPT/Claude web search and coding agents absorb fetch-and-answer work.
 tags: [search, agents, web-search, yuanbao, tools]
 sources:
   - id: oran-ge-ai-traffic-search-rebuild
     resource: https://x.com/oran_ge/status/2114212241188991318
     title: Orange AI on rebuilding search after AI traffic surpasses humans
+  - id: logicrw-devv-shutdown-multica-pivot
+    resource: https://x.com/0xLogicrw/status/2115744209856799087
+    title: Logicrw on Devv shutdown and Multica pivot
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-25T21:02:22+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T21:20:00+08:00
 ---
 
 # 面向 Agent 的联网搜索重做
@@ -32,6 +35,10 @@ Search’s primary user is shifting from people who open links and judge, to mod
 
 The same source uses Yuanbao Search as the case: full body out of the box, 13 industries / 157 authoritative sources, ~100-token compression at index time with KV Cache reuse, and Tencent internal products cutting average search calls from ~8 to ~5; the author’s standard-tier nine-category test is strong on authority / freshness / full text and weak on vague news, structured lifestyle, and academic-paper weight, with advice to expose parameters to Agents and plug vertical APIs for weak scenes. Access spans Skill / MCP / API plus usage pricing.[^oran-ge-ai-traffic-search-rebuild] That aligns with [Agent-scaled engineering](./agent-scaled-engineering.md)’s “tools for Agents matter more,” but the cut here is **search API shape**, not team throughput or assembling Agents.
 
+[思维怪怪谈 Devv 停运转 Multica](../sources/articles/logicrw-devv-shutdown-multica-pivot.md) 给出**垂类 AI 搜索产品退场**的对照：2023 年上线的开发者搜索 **Devv** 曾整合文档与 GitHub 并由 AI 直接答问，四周周活约 2.5 万、首月订阅收入超 2.8 万美元；三年后 ChatGPT、Claude 联网与 Claude Code、Codex 等编程 Agent 能自行检索、写码与跑测，Devv 的差异化被写成「通用 AI 的基础能力」，产品宣布停运并转向多 Agent 平台 Multica——不是搜索 API 形态升级，而是**独立开发者搜索层被上游工具吞并**。[^logicrw-devv-shutdown-multica-pivot] 原帖 <https://x.com/0xLogicrw/status/2115744209856799087>。与 Orange AI 的「Agent 主用户 → 重做接口」同向（搜索价值迁到 Agent 上下文链），但 Devv 案例强调**消费端一体化**也可挤掉垂类搜索 SKU。
+
+[Logicrw on Devv shutdown and Multica pivot](../sources/articles/logicrw-devv-shutdown-multica-pivot.md) is a **vertical AI search sunset** foil: developer search **Devv** (2023) indexed docs and GitHub for direct AI answers, hit ~25k WAU in four weeks and >$28k first subscription month; three years later ChatGPT/Claude web search plus Claude Code, Codex, and peers fetch, code, and test on their own, and the post treats Devv’s edge as baseline in general AI tools—Devv shuts down for multi-agent platform Multica—not a search-API upgrade but **standalone developer search displaced by integrated upstream tools**.[^logicrw-devv-shutdown-multica-pivot] Post: <https://x.com/0xLogicrw/status/2115744209856799087>. Aligns with Orange AI’s “Agents as primary user → rebuild interfaces” direction (search value moves into Agent context chains), but Devv stresses **consumer-side bundling** can also kill vertical search SKUs.
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -39,7 +46,9 @@ The same source uses Yuanbao Search as the case: full body out of the box, 13 in
 ## 相关 / Related
 
 - Source: [Orange AI 谈 AI 流量超人类后搜索要重做](../sources/articles/oran-ge-ai-traffic-search-rebuild.md)
+- Source: [思维怪怪谈 Devv 停运转 Multica](../sources/articles/logicrw-devv-shutdown-multica-pivot.md)
 - Topic: [智能体规模化工程](./agent-scaled-engineering.md)
 - Topic: [Agent Skills open standard](./agent-skills-open-standard.md)
 
 [^oran-ge-ai-traffic-search-rebuild]: Orange AI on rebuilding search after AI traffic surpasses humans
+[^logicrw-devv-shutdown-multica-pivot]: Logicrw on Devv shutdown and Multica pivot

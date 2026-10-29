@@ -1,0 +1,84 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:06:16.184Z",
+  "url": "https://x.com/0xlangeai/status/2115764128375881791",
+  "slug": "599a7f20cd421e59",
+  "content_hash": "f5835d5683e2afb85ffa8ed98f809af11df21286c7054672385c8238263bf3e5",
+  "source": {
+    "path": "sources/articles/0xlangeai-workbuddy-browser-codex-pro.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "No quota or UX-vs-quota claims in the article."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Integrated WorkBuddy built-in browser ops as Magpie/WorkBuddy desktop agent execution surface with scope limits."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "No token/harness quality comparison in the fetched body; only linked from Source Related."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added same-author Pro narrative: WorkBuddy crowds Codex browser use cases; conditional Pro cancel if Codex does not improve; contradiction note vs API gift claim."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "Post centers WorkBuddy gaining browser operations—a GUI/browser execution surface under the Computer Use split.",
+    "topics/premium-ai-subscription-value.md": "Author ties Codex/Pro renewal to product improvement and threatens canceling Pro if Codex does not step up.",
+    "topics/harness-comparison-beyond-tokens.md": "Existing WorkBuddy vs DSH quality topic; this post is substitution intent only, no harness comparison evidence.",
+    "topics/coding-agent-ux-vs-quota.md": "Checked for quota/UX angle; post is feature substitution and Pro cancel intent, not allotment burn or reset."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/0xlangeai-workbuddy-browser-codex-pro.md",
+    "sources/articles/index.md",
+    "topics/computer-use.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "Post centers WorkBuddy gaining browser operations—a GUI/browser execution surface under the Computer Use split.",
+      "topics/premium-ai-subscription-value.md": "Author ties Codex/Pro renewal to product improvement and threatens canceling Pro if Codex does not step up.",
+      "topics/harness-comparison-beyond-tokens.md": "Existing WorkBuddy vs DSH quality topic; this post is substitution intent only, no harness comparison evidence.",
+      "topics/coding-agent-ux-vs-quota.md": "Checked for quota/UX angle; post is feature substitution and Pro cancel intent, not allotment burn or reset."
+    },
+    "notes": "Short X post from @0xlangeai; digest WorkBuddy browser hint not used as body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/0xlangeai-workbuddy-browser-codex-pro.md",
+        "sources/articles/index.md",
+        "topics/computer-use.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

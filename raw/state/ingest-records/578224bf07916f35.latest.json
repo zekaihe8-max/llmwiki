@@ -1,0 +1,104 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:05:21.926Z",
+  "url": "https://github.com/ayi-ai/qingshang-waigua",
+  "slug": "578224bf07916f35",
+  "content_hash": "9094c69f8792db1c802d42747a2f4d383c2b93a0dba7af3ae00a74eff2696d2a",
+  "source": {
+    "path": "sources/articles/ayi-qingshang-waigua.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Multi-provider presets are product config, not the topic's harness channel comparison evidence."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added README-backed synthesis on WHO/TONE/SYSTEM_PROMPT rule layer and a Contradictions pair separating 0xlangeai build relay from canonical repo body."
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "add_evidence",
+      "reason": "Added canonical shipped form: rules in app.py, OpenAI-compatible presets, not SKILL.md tree."
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "Manual 【】 hint is out of scope for Magpie-style local desensitization topic."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Minimal file count does not extend the Pi/DSH slim-core vs plugin-host synthesis already on that page."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "add_evidence",
+      "reason": "Added README runtime workflow (paste→audience/tone→rewrite, MOCK, UUMit billing/caps) complementing existing 0xlangeai construction narrative."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "Repo encodes NVC interpersonal rules in app.py WHO/TONE/SYSTEM_PROMPT—the same Skill-rules→product arc already discussed via 0xlangeai; canonical README adds rule edit surface without build-time claims.",
+    "topics/workflows-before-agents.md": "Runtime is a fixed pre-send rewrite pipeline (audience + tone + model call), not open-ended agent orchestration; README documents MOCK mode and UUMit share shell.",
+    "topics/agent-skills-open-standard.md": "Shipped product is a two-file OpenAI-compatible localhost app rather than a SKILL.md install pack—second landing path for public rule assets alongside prior 0xlangeai relay.",
+    "topics/local-desensitization-before-models.md": "Privacy section suggests manual 【】 redaction before model calls; checked whether to add evidence—only lightweight user-side placeholder, not Magpie-class local desensitization pipeline.",
+    "topics/agent-model-channel-tradeoffs.md": "README lists many OpenAI-compatible presets; topic is harness/backend channel tradeoffs for coding agents, not small local rewrite tools—no integrated claim.",
+    "topics/minimal-core-community-extensions.md": "Two-file app is minimal but topic owns Pi/DSH harness fork architecture, not standalone micro-tools—left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ayi-qingshang-waigua.md",
+    "sources/articles/index.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/workflows-before-agents.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/local-desensitization-before-models.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "Repo encodes NVC interpersonal rules in app.py WHO/TONE/SYSTEM_PROMPT—the same Skill-rules→product arc already discussed via 0xlangeai; canonical README adds rule edit surface without build-time claims.",
+      "topics/workflows-before-agents.md": "Runtime is a fixed pre-send rewrite pipeline (audience + tone + model call), not open-ended agent orchestration; README documents MOCK mode and UUMit share shell.",
+      "topics/agent-skills-open-standard.md": "Shipped product is a two-file OpenAI-compatible localhost app rather than a SKILL.md install pack—second landing path for public rule assets alongside prior 0xlangeai relay.",
+      "topics/local-desensitization-before-models.md": "Privacy section suggests manual 【】 redaction before model calls; checked whether to add evidence—only lightweight user-side placeholder, not Magpie-class local desensitization pipeline.",
+      "topics/agent-model-channel-tradeoffs.md": "README lists many OpenAI-compatible presets; topic is harness/backend channel tradeoffs for coding agents, not small local rewrite tools—no integrated claim.",
+      "topics/minimal-core-community-extensions.md": "Two-file app is minimal but topic owns Pi/DSH harness fork architecture, not standalone micro-tools—left unchanged."
+    },
+    "notes": "Created wiki/sources/articles/ayi-qingshang-waigua.md with resource https://github.com/ayi-ai/qingshang-waigua; updated wiki/index.md, wiki/log.md, wiki/sources/articles/index.md.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ayi-qingshang-waigua.md",
+        "sources/articles/index.md",
+        "topics/agent-skill-authoring.md",
+        "topics/agent-skills-open-standard.md",
+        "topics/workflows-before-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

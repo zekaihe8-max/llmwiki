@@ -1,0 +1,73 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:09:54.969Z",
+  "url": "https://x.com/dotey/status/2115591064073413118",
+  "slug": "3a3cfb3f93f48790",
+  "content_hash": "fcbfd346ea96bcaac487ccf89caba6c23e155796e9e23e1fb071b1d45de40cbe",
+  "source": {
+    "path": "sources/articles/dotey-chatgpt-pro-business-api-credits.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added official OpenAI membership+API channel vs third-party packages, noting separate pools and Codex API-key exclusion."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Separate in-app vs API pools are subscription/channel policy; premium-ai-subscription-value and agent-model-channel-tradeoffs already record the boundary without repeating coding-agent cross-product UX evidence."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Integrated OpenAI Pro/Business API credit bundle, eligibility, limits, and contradiction with lxfater open quality question."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Article is OpenAI Pro/Business bundling up to $500/mo API credits into subscription—directly extends lxfater GPT $500 worth-it debate and stack-pricing narratives already on this Topic.",
+    "topics/agent-model-channel-tradeoffs.md": "Policy merges official ChatGPT membership with developer API allowance, separate from third-party $10/$80 packages and pay-as-you-go—fits official channel vs aggregator tradeoffs.",
+    "topics/coding-agent-ux-vs-quota.md": "Article states bundled API credits do not raise ChatGPT/Codex in-app limits; consulted for overlap but synthesis lives on premium/channel Topics to avoid duplicating cross-product UX vs quota framing."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-chatgpt-pro-business-api-credits.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "Article is OpenAI Pro/Business bundling up to $500/mo API credits into subscription—directly extends lxfater GPT $500 worth-it debate and stack-pricing narratives already on this Topic.",
+      "topics/agent-model-channel-tradeoffs.md": "Policy merges official ChatGPT membership with developer API allowance, separate from third-party $10/$80 packages and pay-as-you-go—fits official channel vs aggregator tradeoffs.",
+      "topics/coding-agent-ux-vs-quota.md": "Article states bundled API credits do not raise ChatGPT/Codex in-app limits; consulted for overlap but synthesis lives on premium/channel Topics to avoid duplicating cross-product UX vs quota framing."
+    },
+    "notes": "Source slug dotey-chatgpt-pro-business-api-credits; digest hint used only for filing context, not cited as body.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-chatgpt-pro-business-api-credits.md",
+        "topics/agent-model-channel-tradeoffs.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

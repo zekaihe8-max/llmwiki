@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Same OpenAI Pro/Business API credit bundle as the earlier Dotey policy post; this follow-up adds claim URLs and a firsthand first-month proration ($75) that affects worth-it and effective allowance math.",
+    "topics/agent-model-channel-tradeoffs.md": "Official OpenAI membership-plus-developer-API channel already documented from the policy post; this post operationalizes billing-page and Developers-plugin entry points and prorated first-cycle API pool sizing."
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on claim-steps post linking proration example to mid-cycle effective API pool vs tier headline cap."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on two-step official claim path and first-month proration when sizing membership API gift vs pay-as-you-go."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "New Source dotey-chatgpt-pro-business-api-claim-steps.md; resource https://x.com/dotey/status/2115610195053220343. Policy detail stays on dotey-chatgpt-pro-business-api-credits.md; digest not used as body."
+}

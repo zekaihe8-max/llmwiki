@@ -1,0 +1,122 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:34:22.711Z",
+  "url": "https://x.com/xiaomovps/status/2115743740577157595",
+  "slug": "e57db3ea19236327",
+  "content_hash": "0dc61afc9372a9d16683b26145cba2afd205725af56e7b9a1b0ae390252f57f4",
+  "source": {
+    "path": "sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "add_evidence",
+      "reason": "Added Hermes→Grok Skill/MCP migration practice with backup/restore."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "Primary post is Hermes vs Grok personal assistant, not X API bridging."
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Hermes mention is personal DIY agent, not HarnessRouter-style routing."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on Hermes framework ops tax vs Grok migration with auth, backup/restore, and official connectors."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Article does not discuss foreman orchestration of coding agents."
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "No hype/familiarity claim in the source."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added GPT domestic integration gap as personal-assistant stack selection evidence."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "add_evidence",
+      "reason": "Added managed product vs self-maintained Hermes framework maintenance contrast."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "Article contrasts Hermes self-maintenance (memory, scheduling, upgrades breaking cron) with Grok Bot migration, backup/restore, and official connectors—extends this topic's personal-agent cloud ops and Hermes→Grok narrative.",
+    "topics/premium-ai-subscription-value.md": "Author explains rejecting GPT's ecosystem for domestic app integration (Feishu, Quark) while building a personal-assistant stack—fits subscription/product choice beyond monthly fee alone.",
+    "topics/workflows-before-agents.md": "Claims preferring managed Grok Bot product workflows over daily maintenance of a DIY Hermes agent framework—aligns with simpler-system-first framing.",
+    "topics/agent-skill-authoring.md": "Personal assistant automation via Skill/MCP (including Feishu CLI) and migrating Hermes Skills to Grok with auth and config backup.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Same author/product line but post is personal-assistant ops, not Grok foreman over Codex/Claude—no file change warranted.",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Hermes Agent here is a self-hosted personal assistant framework, not multi-harness API routing infra—out of scope for this topic.",
+    "topics/personal-agent-hype-familiarity-gap.md": "Hot take is migration/maintenance economics, not craze vs coding-agent familiarity—no integration needed.",
+    "topics/grok-bot-x-api-substitute.md": "Embedded thread quote about X connector is not the filed post body; main article does not argue X API bridging—unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md",
+    "topics/agent-skill-authoring.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/workflows-before-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/grok-bot-x-api-substitute.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "Article contrasts Hermes self-maintenance (memory, scheduling, upgrades breaking cron) with Grok Bot migration, backup/restore, and official connectors—extends this topic's personal-agent cloud ops and Hermes→Grok narrative.",
+      "topics/premium-ai-subscription-value.md": "Author explains rejecting GPT's ecosystem for domestic app integration (Feishu, Quark) while building a personal-assistant stack—fits subscription/product choice beyond monthly fee alone.",
+      "topics/workflows-before-agents.md": "Claims preferring managed Grok Bot product workflows over daily maintenance of a DIY Hermes agent framework—aligns with simpler-system-first framing.",
+      "topics/agent-skill-authoring.md": "Personal assistant automation via Skill/MCP (including Feishu CLI) and migrating Hermes Skills to Grok with auth and config backup.",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Same author/product line but post is personal-assistant ops, not Grok foreman over Codex/Claude—no file change warranted.",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "Hermes Agent here is a self-hosted personal assistant framework, not multi-harness API routing infra—out of scope for this topic.",
+      "topics/personal-agent-hype-familiarity-gap.md": "Hot take is migration/maintenance economics, not craze vs coding-agent familiarity—no integration needed.",
+      "topics/grok-bot-x-api-substitute.md": "Embedded thread quote about X connector is not the filed post body; main article does not argue X API bridging—unchanged."
+    },
+    "notes": "New Source xiaomovps-grok-bot-over-hermes-hot-take.md; digest 暴论 only, body from raw article main post.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md",
+        "topics/agent-skill-authoring.md",
+        "topics/personal-agent-cloud-env-pitfalls.md",
+        "topics/premium-ai-subscription-value.md",
+        "topics/workflows-before-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

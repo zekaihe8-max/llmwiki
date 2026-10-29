@@ -2,8 +2,8 @@
 type: Topic
 title: 编程 Agent 体验与额度
 title_en: Coding agent UX vs quota
-description: 用户可在多个编程 Agent 间切换并更偏好某一产品的体验，但该产品的额度仍可能明显弱于对照产品；即便对照产品相对慷慨，重用也可能一天烧掉周额度的大半；另有实践者报告某整合套餐周额度基本用不完、峰值约 70%；额度还有周期重置（如 Codex「马上要重置」），多 Claude 订阅号还可按周重置时点优先消耗「限额快到」的账号；维持 Claude 可用本身也可能因账号随时 G、补货挂号与 Dispute 而运维燃尽，或使用中途突然 KYC 吊销登录态。
-description_en: Users may switch among coding agents and prefer one product’s experience, while that product’s quota still lags a comparison product; even a relatively generous allotment can see heavy use burn a large share of a weekly quota in a day; other practitioners report a bundled plan’s weekly quota rarely finishing, peaking around 70%; quotas also follow reset cycles (e.g. Codex “about to reset”), and multi–Claude subscription stacks may schedule by weekly reset to prefer accounts whose limit is about to hit; keeping Claude usable can itself burn people out via accounts dying anytime, restock/hang-up, and Dispute—or via KYC mid-use that revokes the login session.
+description: 用户可在多个编程 Agent 间切换并更偏好某一产品的体验，但该产品的额度仍可能明显弱于对照产品；即便对照产品相对慷慨，重用也可能一天烧掉周额度的大半；另有实践者报告某整合套餐周额度基本用不完、峰值约 70%；额度还有周期重置（如 Codex「马上要重置」），多 Claude 订阅号还可按周重置时点优先消耗「限额快到」的账号；社区亦传 Claude「冷知识」——两个 5× 周额度或五到六个 Pro 周额度往往优于单档 20×；亦有人把 Claude 号池拉满到 6 个并以「封一个补一个」当常态运维；维持 Claude 可用本身也可能因账号随时 G、补货挂号与 Dispute 而运维燃尽，或使用中途突然 KYC 吊销登录态。
+description_en: Users may switch among coding agents and prefer one product’s experience, while that product’s quota still lags a comparison product; even a relatively generous allotment can see heavy use burn a large share of a weekly quota in a day; other practitioners report a bundled plan’s weekly quota rarely finishing, peaking around 70%; quotas also follow reset cycles (e.g. Codex “about to reset”), and multi–Claude subscription stacks may schedule by weekly reset to prefer accounts whose limit is about to hit; community lore also claims two 5× weekly allotments or five to six Pro weekly allotments often beat a single 20× tier; others max a Claude pool at six accounts and treat “replace one when banned” as normal ops; keeping Claude usable can itself burn people out via accounts dying anytime, restock/hang-up, and Dispute—or via KYC mid-use that revokes the login session.
 tags: [coding-agents, ux, quota, reset, scheduling, sub2api, devin, claude, claude-code, codex, grok, burnout, kyc]
 sources:
   - id: gorden-sun-devin-experience-quota
@@ -27,18 +27,27 @@ sources:
   - id: fkysly-claude-kyc-mid-session
     resource: https://x.com/fkysly/status/2115320283439747384
     title: fkysly on Claude account hitting KYC mid-use
+  - id: fkysly-claude-weekly-quota-multi-account-tip
+    resource: https://x.com/fkysly/status/2115466450215563632
+    title: fkysly on Claude weekly quota—split accounts beat one 20× tier
+  - id: fkysly-claude-six-account-replace-on-ban
+    resource: https://x.com/fkysly/status/2115681842422804772
+    title: fkysly on six Claude accounts—replace one when banned
+  - id: vista8-claude-dual-pro-keepalive
+    resource: https://x.com/vista8/status/2115487808404230154
+    title: vista8 on Claude keepalive—dual Pro rotation and custom-domain email
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T21:49:29+08:00
+  by: cursor-agent/composer-2.5
+  at: 2026-10-29T20:58:00+08:00
 ---
 
 # 编程 Agent 体验与额度
 
 *Coding agent UX vs quota*
 
-编程 Agent 的「好用」常拆成体验与额度两轴：用户可以同时用多款产品、多数时候更喜欢某一款的手感，却仍因额度跟不上另一款而受阻。体验偏好与配额充足不必同向。即便某一产品的额度相对更慷慨，重用仍可能在一天内烧掉周额度的大半；另有用法下，某整合套餐的周额度基本用不完、峰值约七成。额度还有日历/周期侧：社区会提醒某产品「马上要重置」；持有多个 Claude 订阅、重置时点错开时，还可按周限额临近度调度优先消耗哪个号。多号池本身也可能因账号随时 G、重新注册补货挂号、再让 Grok Bot 申请 Dispute 而运维燃尽，或因使用中途突然 KYC、登录态被吊销而中断——「额度」不只是烧速与重置，还有账号存续与会话连续性。[^gorden-sun-devin-experience-quota][^turingou-claude-half-weekly-quota][^dotey-codex-quota-reset][^xiaomovps-ai-subs-trim-120][^fkysly-sub2api-weekly-claude-schedule][^fkysly-claude-access-burnout][^fkysly-claude-kyc-mid-session]
+编程 Agent 的「好用」常拆成体验与额度两轴：用户可以同时用多款产品、多数时候更喜欢某一款的手感，却仍因额度跟不上另一款而受阻。体验偏好与配额充足不必同向。即便某一产品的额度相对更慷慨，重用仍可能在一天内烧掉周额度的大半；另有用法下，某整合套餐的周额度基本用不完、峰值约七成。额度还有日历/周期侧：社区会提醒某产品「马上要重置」；持有多个 Claude 订阅、重置时点错开时，还可按周限额临近度调度优先消耗哪个号。多号池本身也可能因账号随时 G、重新注册补货挂号、再让 Grok Bot 申请 Dispute 而运维燃尽，或因使用中途突然 KYC、登录态被吊销而中断——「额度」不只是烧速与重置，还有账号存续与会话连续性。另有一条未证实的社区「冷知识」：拆成两个 5× 或五到六个 Pro 的周额度，往往比死磕单档 20× 更稳——与按周重置调度多号同属多账号策略，但本断言停在档位数量对比、未绑具体路由工具。同作者另帖把号池**拉满 6 个**并写「封一个补一个」，把补号写成常态运维而非单次事故——与燃尽帖的被动补货同族，但语气更主动。[^gorden-sun-devin-experience-quota][^turingou-claude-half-weekly-quota][^dotey-codex-quota-reset][^xiaomovps-ai-subs-trim-120][^fkysly-sub2api-weekly-claude-schedule][^fkysly-claude-weekly-quota-multi-account-tip][^fkysly-claude-six-account-replace-on-ban][^fkysly-claude-access-burnout][^fkysly-claude-kyc-mid-session]
 
-“Good to use” for coding agents often splits into experience versus quota: users can run several products at once and mostly prefer one product’s feel, yet still be blocked because its allotment lags another. Experience preference and quota abundance need not move together. Even when one product’s allotment looks relatively generous, heavy use can still burn a large share of a weekly quota in a single day; under other use, a bundled plan’s weekly quota may rarely finish, peaking around seventy percent. Quotas also have a calendar/cycle side: communities flag that a product is “about to reset”; with multiple Claude subscriptions on staggered resets, scheduling can prefer which account to spend by how soon its weekly limit hits. A multi-account pool itself can burn people out when accounts die anytime, requiring re-register, restock, hang-up, and Grok Bot Dispute—or break mid-use when KYC suddenly appears and revokes the login—so “quota” is not only burn rate and reset, but also account survival and session continuity.[^gorden-sun-devin-experience-quota][^turingou-claude-half-weekly-quota][^dotey-codex-quota-reset][^xiaomovps-ai-subs-trim-120][^fkysly-sub2api-weekly-claude-schedule][^fkysly-claude-access-burnout][^fkysly-claude-kyc-mid-session]
+“Good to use” for coding agents often splits into experience versus quota: users can run several products at once and mostly prefer one product’s feel, yet still be blocked because its allotment lags another. Experience preference and quota abundance need not move together. Even when one product’s allotment looks relatively generous, heavy use can still burn a large share of a weekly quota in a single day; under other use, a bundled plan’s weekly quota may rarely finish, peaking around seventy percent. Quotas also have a calendar/cycle side: communities flag that a product is “about to reset”; with multiple Claude subscriptions on staggered resets, scheduling can prefer which account to spend by how soon its weekly limit hits. A multi-account pool itself can burn people out when accounts die anytime, requiring re-register, restock, hang-up, and Grok Bot Dispute—or break mid-use when KYC suddenly appears and revokes the login—so “quota” is not only burn rate and reset, but also account survival and session continuity. Unverified community “lore” also claims splitting into two 5× or five to six Pro weekly allotments often beats a single 20× tier—same multi-account family as weekly-reset scheduling, but the assertion stops at tier/count comparison without naming a routing tool. The same author also posts maxing a **six-account** pool with “replace one when one is banned,” framing replacement as normal ops rather than a one-off—same family as the burnout post’s passive restock, but a more proactive stance.[^gorden-sun-devin-experience-quota][^turingou-claude-half-weekly-quota][^dotey-codex-quota-reset][^xiaomovps-ai-subs-trim-120][^fkysly-sub2api-weekly-claude-schedule][^fkysly-claude-weekly-quota-multi-account-tip][^fkysly-claude-six-account-replace-on-ban][^fkysly-claude-access-burnout][^fkysly-claude-kyc-mid-session]
 
 ## 综合分析 / Synthesis
 
@@ -70,6 +79,18 @@ generated:
 
 [fkysly on Claude account hitting KYC mid-use](../sources/articles/fkysly-claude-kyc-mid-session.md) adds the survival axis from session break: one Claude account suddenly hit KYC mid-use; he says he changed nothing, and the login was revoked outright.[^fkysly-claude-kyc-mid-session] Post: <https://x.com/fkysly/status/2115320283439747384>. Neighbors his access-burnout post: that one is restock/Dispute after an account dies; this one is kicked mid-use by KYC—same availability friction, different trigger shape. Weight table and KYC-nationality ranking: [Claude subscription risk-control weights](./claude-subscription-risk-control-weights.md).
 
+[马天翼谈 Claude 周额度：多号拆档优于单 20x](../sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md) 从「多号拆档」侧补周期轴：自称 Claude 冷知识——两个 5× 周额度优于一个 20×，五到六个 Pro 周额度也优于一个 20×；帖文未解释机制、成本或官方依据。[^fkysly-claude-weekly-quota-multi-account-tip] 原帖 <https://x.com/fkysly/status/2115466450215563632>。与同作者的 [Sub2API 按周重置调度](../sources/articles/fkysly-sub2api-weekly-claude-schedule.md) 相邻：那边是重置时点路由计划，这边是「别单吊 20×、多号拆档更稳」的数量断言——都假设多 Claude 订阅池，但本帖不含 Sub2API 或实现细节。
+
+[fkysly on Claude weekly quota—split accounts beat one 20× tier](../sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md) adds the multi-account split side of the cycle axis: “Claude lore” that two 5× weekly allotments beat one 20×, and five to six Pro weekly allotments beat one 20×; the post does not explain mechanism, cost, or an official basis.[^fkysly-claude-weekly-quota-multi-account-tip] Post: <https://x.com/fkysly/status/2115466450215563632>. Neighbors the same author’s [Sub2API weekly-reset scheduling](../sources/articles/fkysly-sub2api-weekly-claude-schedule.md): that post is a reset-time routing plan; this one asserts “do not rely on a single 20×—split accounts are steadier”—both assume a multi–Claude pool, but this post names no Sub2API or implementation detail.
+
+[马天翼谈开满 6 个 Claude 号：封一个补一个](../sources/articles/fkysly-claude-six-account-replace-on-ban.md) 把多号池从「拆档更稳」推到「满池运维」：自称直接拉满 **6 个** Claude 账号，「就不信 Anthropic 还能把我都封完了」，口号 **「封一个补一个」**；抓取正文仅一张配图，无 Pro/Max 档位、月费或具体补号流程。[^fkysly-claude-six-account-replace-on-ban] 原帖 <https://x.com/fkysly/status/2115681842422804772>。与同作者 [周额度冷知识](../sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md) 在「五到六个」数量上相邻；与 [燃尽实录](../sources/articles/fkysly-claude-access-burnout.md) 同族——那边是号 G 后补货与 Dispute 并自称燃尽，这边预设封号并把补号当日常 SOP。
+
+[fkysly on six Claude accounts—replace one when banned](../sources/articles/fkysly-claude-six-account-replace-on-ban.md) pushes the multi-account pool from “split tiers are steadier” to “full-pool ops”: he says he maxed **six** Claude accounts, “don’t believe Anthropic can ban me out completely,” with the motto **“replace one when one is banned”**; the fetched body is only one photo—no Pro/Max tier, monthly cost, or concrete replacement flow.[^fkysly-claude-six-account-replace-on-ban] Post: <https://x.com/fkysly/status/2115681842422804772>. Neighbors the same author’s [weekly-quota lore](../sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md) on the “five to six” count; same family as [access burnout](../sources/articles/fkysly-claude-access-burnout.md)—that post restocks/Dispute after death and says burnout; this one assumes bans and treats replacement as daily SOP.
+
+[向阳乔木谈 Claude 保活：双 Pro 轮换与自有域名邮](../sources/articles/vista8-claude-dual-pro-keepalive.md) 从「小规模双号轮换 + 备用免费号」侧补多 Claude 叙事：两个 **20 刀 Pro 轮换**，另备 **2–3 个免费号**正常对话；自称至今未封，并列举邮箱/IP/支付 hygiene——**不是**按周重置调度（对比 [Sub2API 按周重置调度](../sources/articles/fkysly-sub2api-weekly-claude-schedule.md)），也**不是**六号满池补号 SOP；轴是保活与冗余，且作者自认可能有幸存者偏差。[^vista8-claude-dual-pro-keepalive] 原帖 <https://x.com/vista8/status/2115487808404230154>。风控权重语境见 [Claude 订阅风控权重](./claude-subscription-risk-control-weights.md)。
+
+[vista8 on Claude keepalive—dual Pro rotation and custom-domain email](../sources/articles/vista8-claude-dual-pro-keepalive.md) adds the multi–Claude story from a **small dual-Pro rotation plus spare free accounts**: two **$20 Pro** subs rotated, plus **2–3 free** accounts used normally; he claims no bans yet and lists email/IP/payment hygiene—**not** weekly-reset scheduling (contrast [Sub2API weekly scheduling](../sources/articles/fkysly-sub2api-weekly-claude-schedule.md)), and **not** a six-account replacement SOP; the axis is keepalive and redundancy, with possible survivorship bias flagged.[^vista8-claude-dual-pro-keepalive] Post: <https://x.com/vista8/status/2115487808404230154>. Risk-weight context: [Claude subscription risk-control weights](./claude-subscription-risk-control-weights.md).
+
 ## 矛盾与变化 / Contradictions
 
 郭宇一天烧掉 Claude Code 周额度约一半；小墨报告 Grok $100 周额度峰值约 70% 且常用不完——产品与工作流不同，说明烧速与「够用」因栈而异，而非同一产品额度互相否定。 / Turingou burns about half a Claude Code weekly quota in a day; Xiaomo reports the Grok $100 weekly quota peaking around 70% and often unfinished—different products and workflows, so burn rate and “enough” vary by stack rather than the same product allotment canceling another.
@@ -80,6 +101,12 @@ generated:
 
 马天翼报账号随时 G 后补货与 Dispute（生命周期燃尽）；另报使用中途突然 KYC 吊销登录态（会话中断）——同属可用性摩擦，触发与补救形态不同，互不否定。 / 马天翼 reports restock/Dispute after accounts die anytime (lifecycle burnout) and separately KYC mid-use that revokes login (session break)—same availability friction, different trigger and recovery shapes; they do not cancel each other.
 
+马天翼在燃尽帖抱怨被动补货；另帖把号池拉满 6 个并写「封一个补一个」——同是号池运维，一则强调燃尽与随时 G，一则把补号写成常态 SOP；帖子语气不同，并非对「要不要多号」给出相反结论。 / In the burnout post 马天翼 complains about passive restock; in another he maxes a six-account pool with “replace one when banned”—same pool ops family; one stresses burnout and sudden death, the other writes replacement as normal SOP; different tone, not opposite answers on whether to run multiple accounts.
+
+向阳乔木用两个 Pro 轮换加免费备用并自称从未封；马天翼同族谱帖预设封号与补号——同属多 Claude 号，但前者是小规模保活与 hygiene 清单个案，后者是满池补号常态流程；抓取正文均未绑 Sub2API 式周重置路由，互不否定。
+
+vista8 runs two Pro subs in rotation plus free spares and claims never banned; 马天翼’s related posts assume bans and replacement—both multi–Claude, but one is small-scale keepalive and hygiene, the other a full-pool replacement SOP; neither fetched body ties to Sub2API-style weekly-reset routing; they do not cancel each other.
+
 ## 相关 / Related
 
 - Source: [Gorden Sun 评新版 Devin 体验常胜 Claude 但额度不如](../sources/articles/gorden-sun-devin-experience-quota.md)
@@ -89,6 +116,9 @@ generated:
 - Source: [马天翼谈 Sub2API 按周重置调度多 Claude 号](../sources/articles/fkysly-sub2api-weekly-claude-schedule.md)
 - Source: [马天翼谈 Claude 额度燃尽实录](../sources/articles/fkysly-claude-access-burnout.md)
 - Source: [马天翼谈 Claude 账号跑着用突然 KYC](../sources/articles/fkysly-claude-kyc-mid-session.md)
+- Source: [马天翼谈 Claude 周额度：多号拆档优于单 20x](../sources/articles/fkysly-claude-weekly-quota-multi-account-tip.md)
+- Source: [马天翼谈开满 6 个 Claude 号：封一个补一个](../sources/articles/fkysly-claude-six-account-replace-on-ban.md)
+- Source: [向阳乔木谈 Claude 保活：双 Pro 轮换与自有域名邮](../sources/articles/vista8-claude-dual-pro-keepalive.md)
 - Topic: [高端 AI 订阅价值](./premium-ai-subscription-value.md)
 - Topic: [Claude 订阅风控权重](./claude-subscription-risk-control-weights.md)
 - Topic: [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)
@@ -101,3 +131,6 @@ generated:
 [^fkysly-sub2api-weekly-claude-schedule]: fkysly on Sub2API weekly-reset scheduling for multiple Claude accounts
 [^fkysly-claude-access-burnout]: fkysly on Claude access burnout
 [^fkysly-claude-kyc-mid-session]: fkysly on Claude account hitting KYC mid-use
+[^fkysly-claude-weekly-quota-multi-account-tip]: fkysly on Claude weekly quota—split accounts beat one 20× tier
+[^fkysly-claude-six-account-replace-on-ban]: fkysly on six Claude accounts—replace one when banned
+[^vista8-claude-dual-pro-keepalive]: vista8 on Claude keepalive—dual Pro rotation and custom-domain email

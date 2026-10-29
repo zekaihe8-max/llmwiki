@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Post frames OpenAI Pro/Business tier-matched API gifts vs Claude and reports missing billing claim UI—extends existing Dotey-sourced subscription/API ledger narrative.",
+    "topics/agent-model-channel-tradeoffs.md": "Official membership API gift is an access channel; rollout friction (no claim button) affects whether subscribers can switch to that channel immediately.",
+    "topics/coding-agent-ux-vs-quota.md": "Checked for in-app Codex/ChatGPT quota burn; article is about developer API credits bundled with membership, not app-side weekly caps—no file change."
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Integrated 歸藏 competitive framing, tier-matched credit example, OpenAIDevs quote, and billing UI rollout friction; recorded contradiction vs Dotey same-day successful claim."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added UI rollout paragraph and contradiction on documented billing claim vs missing control for some accounts."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Fetched body does not discuss in-app coding-agent quotas or burn rate."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug op7418-chatgpt-pro-matched-api-credits; did not cite digest-only wording beyond fetched body and embedded OpenAIDevs quote."
+}

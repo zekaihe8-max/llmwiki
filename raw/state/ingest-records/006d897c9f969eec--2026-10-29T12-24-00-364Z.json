@@ -1,0 +1,84 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T12:24:00.364Z",
+  "url": "https://x.com/shao__meng/status/2115647666160029715",
+  "slug": "006d897c9f969eec",
+  "content_hash": "d525fea2a44229d69ebbfb994286f9e964f9936d2adb010d7800b66bef3f7c50",
+  "source": {
+    "path": "sources/articles/shao-meng-amp-team-company-of-future.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/workflows-before-agents.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "add_evidence",
+      "reason": "Integrated agent E2E evidence gate as verifiability pattern distinct from Felix judge threads."
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "add_evidence",
+      "reason": "Added Amp org specimen plus Cherny automate-review vs Amp no-mandatory-PR contradiction."
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "No five-primitive or ambient-agent harness claim in the relay."
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "add_evidence",
+      "reason": "Recorded light social workflow vs thin SDLC and cross-link to agent-scaled Cherny contrast under Contradictions."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "Podcast case is ~21-person high-throughput agent-native eng org (trunk ship, ~90/day)—direct throughput and small-team evidence for this topic.",
+    "topics/adversarial-review-external-evidence.md": "Amp replaces mandatory PR with agent-produced end-to-end irrefutable evidence before human code read—verifiability gate adjacent to Felix adversarial review.",
+    "topics/workflows-before-agents.md": "Amp mixes light social rituals with stripped SDLC workflow (no PR/quarterly slogans)—tension with predefined workflow-first guidance belongs here.",
+    "topics/company-agent-harness.md": "Checked for five-primitive multiplayer harness; post is product-team operating model, not LangChain-style company harness recipe—no file change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shao-meng-amp-team-company-of-future.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/adversarial-review-external-evidence.md",
+      "topics/workflows-before-agents.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "Podcast case is ~21-person high-throughput agent-native eng org (trunk ship, ~90/day)—direct throughput and small-team evidence for this topic.",
+      "topics/adversarial-review-external-evidence.md": "Amp replaces mandatory PR with agent-produced end-to-end irrefutable evidence before human code read—verifiability gate adjacent to Felix adversarial review.",
+      "topics/workflows-before-agents.md": "Amp mixes light social rituals with stripped SDLC workflow (no PR/quarterly slogans)—tension with predefined workflow-first guidance belongs here.",
+      "topics/company-agent-harness.md": "Checked for five-primitive multiplayer harness; post is product-team operating model, not LangChain-style company harness recipe—no file change."
+    },
+    "notes": "Source slug shao-meng-amp-team-company-of-future; podcast audio/video via t.co links in post; did not cite digest-only cross-links to Context Engineering / MCode Stack.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shao-meng-amp-team-company-of-future.md",
+        "topics/adversarial-review-external-evidence.md",
+        "topics/agent-scaled-engineering.md",
+        "topics/workflows-before-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

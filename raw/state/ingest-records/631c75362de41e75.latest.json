@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:08:59.436Z",
+  "url": "https://x.com/cgnot996/status/2115647822087544957",
+  "slug": "631c75362de41e75",
+  "content_hash": "285b8304a3204fec81fa7b0e9d8a01420d84ac433b2c719a4f9744407dcd4f4e",
+  "source": {
+    "path": "sources/articles/cgnot996-gemini-pro-developer-credits-argon-pi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "add_evidence",
+      "reason": "Added Google official channel billing/prepay/credit-pool evidence and OpenAI vs Google contradiction note; linked new Source."
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "No DSH or cross-dispatch bridge content in the article."
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Added Grok Bot configuring Pi Agent with Argon without touching agy Flash—foreman/setup pattern on Pi worker."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Added synthesis on Xianyu Gemini Pro + $70 idle developer credits and intro footnote; linked new Source."
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Harness split Argon/Flash is out of scope for lab Pro-vs-Flash strategy page."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Post centers on not wasting Gemini AI Pro / Google Developer Program monthly credits (~$10/mo, $70 accumulated) on cheap Xianyu subs—subscription value and gifted developer balance.",
+    "topics/agent-model-channel-tradeoffs.md": "Six-step guide is official Google AI Studio billing: paid tier, Cloud Prepay gate, credit vs prepay draw order, paid-project API keys vs Free—agent harness backend channel mechanics.",
+    "topics/personal-agent-foreman-over-coding-agents.md": "After Google setup, author uses Grok Bot to wire Gemini 4 Argon on Pi Agent while keeping agy on Gemini 3.8 Flash—personal agent orchestrates a coding harness worker.",
+    "topics/pro-vs-flash-model-strategy.md": "Article splits Argon on Pi vs Flash 3.8 on agy, but existing Topic is lab-tier strategy debates—not harness-level model split; no integrated paragraph warranted.",
+    "topics/dsh-grok-cross-dispatch.md": "Grok Bot appears only to configure Pi, not DSH↔Grok CLI/skill cross-dispatch; no file change."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cgnot996-gemini-pro-developer-credits-argon-pi.md",
+    "sources/articles/index.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/dsh-grok-cross-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "Post centers on not wasting Gemini AI Pro / Google Developer Program monthly credits (~$10/mo, $70 accumulated) on cheap Xianyu subs—subscription value and gifted developer balance.",
+      "topics/agent-model-channel-tradeoffs.md": "Six-step guide is official Google AI Studio billing: paid tier, Cloud Prepay gate, credit vs prepay draw order, paid-project API keys vs Free—agent harness backend channel mechanics.",
+      "topics/personal-agent-foreman-over-coding-agents.md": "After Google setup, author uses Grok Bot to wire Gemini 4 Argon on Pi Agent while keeping agy on Gemini 3.8 Flash—personal agent orchestrates a coding harness worker.",
+      "topics/pro-vs-flash-model-strategy.md": "Article splits Argon on Pi vs Flash 3.8 on agy, but existing Topic is lab-tier strategy debates—not harness-level model split; no integrated paragraph warranted.",
+      "topics/dsh-grok-cross-dispatch.md": "Grok Bot appears only to configure Pi, not DSH↔Grok CLI/skill cross-dispatch; no file change."
+    },
+    "notes": "Source slug cgnot996-gemini-pro-developer-credits-argon-pi; resource https://x.com/cgnot996/status/2115647822087544957",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cgnot996-gemini-pro-developer-credits-argon-pi.md",
+        "sources/articles/index.md",
+        "topics/agent-model-channel-tradeoffs.md",
+        "topics/personal-agent-foreman-over-coding-agents.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

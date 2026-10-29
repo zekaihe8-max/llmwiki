@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "Same author (vista8) already filed AI Fushengji as a light playable ship; this post explicitly ties Opus 5.5 vibe-gaming inflection to that demo direction and natural-language mini-game threshold.",
+    "topics/vibe-gaming-model-inflection.md": "No existing Topic owned the parallel vibe-coding / vibe-gaming tipping-point narrative, multimodal game pipeline (3D, music, design), bottleneck shift to ideas/ecosystem, or cross-vendor fun vs capability.",
+    "topics/peer-economics-before-vibe-coding.md": "Also about bottlenecks after building gets faster, but this article’s bottleneck is ideas/ecosystem for games—not monetizing peers before coding; checked for reuse, left unchanged.",
+    "topics/harness-comparison-beyond-tokens.md": "Related foil for equal finished quality across stacks; this post is inflection and vendor feel, not harness token/round comparison; checked, left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "create",
+      "reason": "New durable concept: vibe-gaming model inflection, Simon Willison-aligned timeline, Opus 5.5 multimodal jump, ideas/ecosystem bottleneck, GPT-6 Astra fun gap."
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "add_evidence",
+      "reason": "Integrated vista8 Opus 5.5 inflection post as same-author line linking open demos to threshold/inflection layer; added source id, synthesis, related links."
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "Bottleneck wording overlaps only at a high level; article does not discuss peer economics or pre-coding monetization research."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "No harness comparison or pelican-bike prompt evidence in this article."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "casual-ai-minigame-first-try covers first-try floor and unnamed models, not inflection timelines, multimodal game design stack, or post-inflection ideas/ecosystem bottlenecks; peer-economics-before-vibe-coding is monetization-ledgers before coding, not vibe gaming."
+  },
+  "notes": "Source slug vista8-opus-55-vibe-gaming-inflection.md; Simon Willison article linked in body only (no separate Source page)."
+}

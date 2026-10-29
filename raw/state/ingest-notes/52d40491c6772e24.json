@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-share-and-interbot-chat.md": "Same Yobiru Friends / Grok Bot sharing stack; post clarifies continued availability, default public-gateway-plus-webhook path, and optional Tailscale rebuild via Grok Bot.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Checked whether Tailscale login rebuild on Grok Bot belongs with cloud-env rebuild/login pitfalls; post is Yobiru integration ops, not VPS backup/sleep/cron—no file change.",
+    "topics/grok-bot-x-intel-defense-not-post.md": "Same author and Grok Bot product line but post is Yobiru reachability, not X outbound approval—no file change.",
+    "topics/dsh-grok-cross-dispatch.md": "Mentions webhooks in a DSH↔Grok dispatch context; this post is Yobiru Friends gateway wiring, not cross-harness orchestration—no file change."
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "add_evidence",
+      "reason": "Integrated operations clarification: Friends still on Grok Bot, public gateway + webhook default, Tailscale optional with explicit rebuild ask."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Tailscale rebuild anecdote is product-specific Yobiru troubleshooting, not the topic's cloud backup/isolation/cron scope."
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "No X intel, posting, or approval claims in the fetched reply."
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "No DSH or cross-dispatch bridge content."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source slug turingou-yobiru-friends-grok-bot-still-works; claims from raw article body only (reply to @G_Z_Y)."
+}

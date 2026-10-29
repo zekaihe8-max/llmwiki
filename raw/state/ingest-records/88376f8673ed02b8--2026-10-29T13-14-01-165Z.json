@@ -1,0 +1,97 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:14:01.165Z",
+  "url": "https://x.com/heydengai/status/2115756278190375243",
+  "slug": "88376f8673ed02b8",
+  "content_hash": "20130261d3a9474faff2bd55c3648fb7e6f6f2a3ad2bebb7a997f702030f1ff3",
+  "source": {
+    "path": "sources/articles/heydengai-vibe-coding-memory-paradox.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Tooling list page; source is observational with no named tools."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrated paradox as user-facing motivation aligned with Agentic Memory and MCode handoff/long-session skills."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "Technical product-default compression topic; single-line paradox does not add threshold evidence."
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "Different bottleneck (monetization homework before coding), not memory allocation."
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "create",
+      "reason": "New durable idea page for Heydengai's stated paradox; no prior Topic carried this cultural observation."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/vibe-coding-memory-paradox.md": "Existing vibe-coding Topics cover peer economics and gaming inflection, not the memory-role inversion; context-engineering is how-to builder practice, not the paradox framing."
+  },
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "Post is about humans helping agents remember session history—the same problem Agentic Memory, compaction, and handoffs address in builder practice.",
+    "topics/vibe-coding-memory-paradox.md": "No existing Topic owned the ironic inversion (AI to reduce human memory → human curates agent memory); digest hint and post text name this paradox directly.",
+    "topics/peer-economics-before-vibe-coding.md": "Same vibe-coding discourse but about pre-build economics, not memory labor—checked for reuse; left unchanged.",
+    "topics/long-conversation-default-compression.md": "Adjacent harness symptom (/compact, defaults) but post is not about compression thresholds—checked; left unchanged.",
+    "topics/coding-agent-token-saving-tooling.md": "Cross-session memory tools relate peripherally; post names no tools—checked; left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/heydengai-vibe-coding-memory-paradox.md",
+    "sources/articles/index.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/index.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/long-conversation-default-compression.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "Post is about humans helping agents remember session history—the same problem Agentic Memory, compaction, and handoffs address in builder practice.",
+      "topics/vibe-coding-memory-paradox.md": "No existing Topic owned the ironic inversion (AI to reduce human memory → human curates agent memory); digest hint and post text name this paradox directly.",
+      "topics/peer-economics-before-vibe-coding.md": "Same vibe-coding discourse but about pre-build economics, not memory labor—checked for reuse; left unchanged.",
+      "topics/long-conversation-default-compression.md": "Adjacent harness symptom (/compact, defaults) but post is not about compression thresholds—checked; left unchanged.",
+      "topics/coding-agent-token-saving-tooling.md": "Cross-session memory tools relate peripherally; post names no tools—checked; left unchanged."
+    },
+    "notes": "Single X post from @heydengai, 2026-10-29.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/heydengai-vibe-coding-memory-paradox.md",
+        "sources/articles/index.md",
+        "topics/context-engineering-for-agents.md",
+        "topics/index.md",
+        "topics/vibe-coding-memory-paradox.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

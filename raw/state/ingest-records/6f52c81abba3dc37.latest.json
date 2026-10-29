@@ -1,0 +1,95 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-29T13:27:46.001Z",
+  "url": "https://x.com/Gorden_Sun/status/2115474054279028860",
+  "slug": "6f52c81abba3dc37",
+  "content_hash": "e7be383c86ecc99f3cabf9950f7bb1a7f1864af34b5228f34dbb259c5e0a1d10",
+  "source": {
+    "path": "sources/articles/gorden-sun-nvidia-simready-assets.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/interactive-world-models.md",
+    "topics/on-chip-agent-runtime.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "Generative world-model inflection page; no evidence merge from a bulk asset announcement."
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Scope explicitly excludes asset datasets; only cross-linked from new Topic Related."
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "MCU agent runtime topic; article does not discuss on-chip execution."
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "LLM open-weight frontier narrative; simready-assets are 3D simulation content, not model weights."
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "create",
+      "reason": "No existing Topic owned open simulation-ready 3D asset libraries; integrated Gorden Sun relay with scope boundaries."
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "Existing Topics cover LLM weights, world models, or local robot LLMs—not vendor open libraries of simulation-ready 3D models distributed on Hugging Face."
+  },
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "Same NVIDIA robotics neighborhood and open-release framing, but that page owns few-GB on-device LLM stacks—not 3D asset datasets.",
+    "topics/open-weight-frontier-models.md": "Post mentions NVIDIA open release, but content is simulation 3D models on Hugging Face, not frontier LLM weights.",
+    "topics/interactive-world-models.md": "Both touch 3D environments; world models are generative interactive demos, not bulk sim-ready asset libraries.",
+    "topics/on-chip-agent-runtime.md": "Broad AI+hardware overlap only; ESP32/MCU agent loops do not carry simulation asset library releases.",
+    "topics/simulation-ready-open-3d-assets.md": "Article is exactly an open simready-assets library (2600+ models, 476 GB) for simulation—needs this Topic."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gorden-sun-nvidia-simready-assets.md",
+    "sources/articles/index.md",
+    "topics/index.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/interactive-world-models.md",
+      "topics/on-chip-agent-runtime.md",
+      "topics/simulation-ready-open-3d-assets.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "Same NVIDIA robotics neighborhood and open-release framing, but that page owns few-GB on-device LLM stacks—not 3D asset datasets.",
+      "topics/open-weight-frontier-models.md": "Post mentions NVIDIA open release, but content is simulation 3D models on Hugging Face, not frontier LLM weights.",
+      "topics/interactive-world-models.md": "Both touch 3D environments; world models are generative interactive demos, not bulk sim-ready asset libraries.",
+      "topics/on-chip-agent-runtime.md": "Broad AI+hardware overlap only; ESP32/MCU agent loops do not carry simulation asset library releases.",
+      "topics/simulation-ready-open-3d-assets.md": "Article is exactly an open simready-assets library (2600+ models, 476 GB) for simulation—needs this Topic."
+    },
+    "notes": "Single short X relay; Source cites only post body facts and t.co HF link.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gorden-sun-nvidia-simready-assets.md",
+        "sources/articles/index.md",
+        "topics/index.md",
+        "topics/simulation-ready-open-3d-assets.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

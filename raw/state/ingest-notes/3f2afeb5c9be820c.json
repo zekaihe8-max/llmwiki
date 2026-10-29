@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "SLEEP addresses long-run memory and consolidation vs Context Rot; complements course/MCode harness-side Agentic Memory with a model-weight research line.",
+    "topics/long-conversation-default-compression.md": "Post claims sleep-phase parametric consolidation of very long context (BABILong ~10M tokens)—adjacent to compaction but a different layer than product default thresholds.",
+    "topics/fold-subagents-into-main-loop.md": "Consulted as neighboring orchestration topic; SLEEP is model post-training, not sub-agent vs main-loop architecture—no file change warranted.",
+    "topics/public-benchmark-quality-scrutiny.md": "Post relays benchmark percentages; consulted for whether to open contradiction on score hype—SLEEP numbers are attributed as Google Research relay only, not a community eval dispute page."
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrated SLEEP as model-side continual memory/consolidation vs harness Agentic Memory; added scope and bilingual contradiction on buildable harness vs research weights."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "add_evidence",
+      "reason": "Added research-layer long-context parametric consolidation paragraph distinct from magpie/DSH/MCode session defaults."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "No overlap with wake/sleep weight consolidation; sub-agent page already covers parallel/fresh-window alternatives."
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Source scopes benchmark claims as blog relay; no new contradiction thesis for public benchmark scrutiny topic."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "New Source shao-meng-google-research-sleep.md; resource URL https://x.com/shao__meng/status/2115633448702615604"
+}
