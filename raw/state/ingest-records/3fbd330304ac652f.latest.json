@@ -1,0 +1,82 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:37:39.126Z",
+  "url": "https://github.com/wquguru/shisei",
+  "slug": "3fbd330304ac652f",
+  "content_hash": "b683cf906dde69814edc165f5874259d087159321199edbc10a0fac9fbc18396",
+  "source": {
+    "path": "sources/articles/shisei-pose-reference-library.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "已承载 Shisei 跨工具共享记忆案例；本 README 未补充记忆交接或效果证据，保持不变。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "create",
+      "reason": "新增持久概念，综合仓库与已有开发经历的姿势复用、质检和许可边界。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "限定编程 Agent 复用代码与平台能力，本文没有新增相关代码复用证据。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "相邻资产库主题，但限定机器人仿真三维模型，不适合承载二维生图姿势参考与质检。"
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "现有主题分别拥有共享记忆、三维仿真资产和代码复用，没有页面拥有二维生图姿势参考资产的多视角质检与许可边界。"
+  },
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "已承载 Shisei 跨工具共享记忆案例；本 README 未补充记忆交接或效果证据，保持不变。",
+    "topics/simulation-ready-open-3d-assets.md": "相邻资产库主题，但限定机器人仿真三维模型，不适合承载二维生图姿势参考与质检。",
+    "topics/reuse-before-write.md": "限定编程 Agent 复用代码与平台能力，本文没有新增相关代码复用证据。",
+    "topics/image-generation-pose-reference-libraries.md": "新增持久概念，综合仓库与已有开发经历的姿势复用、质检和许可边界。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shisei-pose-reference-library.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/reuse-before-write.md",
+      "topics/image-generation-pose-reference-libraries.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "已承载 Shisei 跨工具共享记忆案例；本 README 未补充记忆交接或效果证据，保持不变。",
+      "topics/simulation-ready-open-3d-assets.md": "相邻资产库主题，但限定机器人仿真三维模型，不适合承载二维生图姿势参考与质检。",
+      "topics/reuse-before-write.md": "限定编程 Agent 复用代码与平台能力，本文没有新增相关代码复用证据。",
+      "topics/image-generation-pose-reference-libraries.md": "新增持久概念，综合仓库与已有开发经历的姿势复用、质检和许可边界。"
+    },
+    "notes": "仅新增一个仓库 Source；已有 X 开发经历 Source 为不同文章，未修改。raw 仅写入用户明确要求的 ingest-notes。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shisei-pose-reference-library.md",
+        "topics/image-generation-pose-reference-libraries.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

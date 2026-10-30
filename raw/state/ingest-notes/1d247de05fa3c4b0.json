@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/long-conversation-default-compression.md": "Owns harness compaction thresholds; integrate quota motivation, estimate limits, and trade-offs with full-window use.",
+    "topics/coding-agent-token-saving-tooling.md": "Adjacent token-saving topic; unchanged because no peripheral tool or new cost measurement is supplied and threshold tuning belongs to the compaction Topic.",
+    "topics/coding-agent-ux-vs-quota.md": "Adjacent quota topic; unchanged because the post supplies no new quota policy, account-management evidence, or UX comparison; estimated consumption reduction is integrated in the compaction Topic."
+  },
+  "topics": [
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "add_evidence",
+      "reason": "Owns harness compaction thresholds; integrate quota motivation, estimate limits, and trade-offs with full-window use."
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Adjacent token-saving topic; unchanged because no peripheral tool or new cost measurement is supplied and threshold tuning belongs to the compaction Topic."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Adjacent quota topic; unchanged because the post supplies no new quota policy, account-management evidence, or UX comparison; estimated consumption reduction is integrated in the compaction Topic."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Only the fetched article is used as this Source; 29% remains an attributed estimate, and command availability is unverified. No new Topic needed."
+}

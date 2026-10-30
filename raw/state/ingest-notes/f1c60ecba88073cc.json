@@ -1,0 +1,52 @@
+{
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-in-inbox.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "补充 Skills 服务接入用途，并明确未验证开放标准符合性与全宿主兼容。",
+    "topics/agent-skill-authoring.md": "正文不含技能编写、加载或维护方法，保持原有结论。",
+    "topics/unified-agent-resource-library.md": "该主题管理跨 Agent 配置资产，原文谈网盘用户文件，不属于同类资源。",
+    "topics/agent-in-inbox.md": "该主题限定邮箱内嵌工作面，网盘 Skill 不提供邮件证据。",
+    "topics/minimal-core-community-extensions.md": "原文未讨论核心架构、社区扩展治理或插件组合代价。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "原文仅提备份用途，无云机持久化、隔离或定时可靠性证据，不足以修改该主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "add_evidence",
+      "reason": "补充 Skills 服务接入用途，并明确未验证开放标准符合性与全宿主兼容。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "正文不含技能编写、加载或维护方法，保持原有结论。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "该主题管理跨 Agent 配置资产，原文谈网盘用户文件，不属于同类资源。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "该主题限定邮箱内嵌工作面，网盘 Skill 不提供邮件证据。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "原文未讨论核心架构、社区扩展治理或插件组合代价。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "原文仅提备份用途，无云机持久化、隔离或定时可靠性证据，不足以修改该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "复用现有 Topic；未新建 Topic。仅指定 ingest notes 写入 raw/state；原文及简报未修改。"
+}

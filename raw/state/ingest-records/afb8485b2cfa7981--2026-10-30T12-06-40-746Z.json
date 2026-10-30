@@ -1,0 +1,75 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:06:40.746Z",
+  "url": "https://x.com/dotey/status/2115968852349567254",
+  "slug": "afb8485b2cfa7981",
+  "content_hash": "6654b8c5d72cfd04e3f00b235b998a73c1e43028f33a6e8699c98262982c3136",
+  "source": {
+    "path": "sources/articles/dotey-claude-api-request-size-128mb.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "record_contradiction",
+      "reason": "现有云托管主题需要限定完整功能不等于相同请求体限额，区分两类 Google Cloud 托管渠道。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "现有 GUI 截图循环主题需要纳入请求体容量瓶颈及未经证明的可靠性边界。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "现有上下文预算主题可承载字节额度与 token 窗口的区别，无需新建主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "现有 GUI 截图循环主题需要纳入请求体容量瓶颈及未经证明的可靠性边界。",
+    "topics/context-engineering-for-agents.md": "现有上下文预算主题可承载字节额度与 token 窗口的区别，无需新建主题。",
+    "topics/claude-on-google-cloud.md": "现有云托管主题需要限定完整功能不等于相同请求体限额，区分两类 Google Cloud 托管渠道。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-claude-api-request-size-128mb.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/computer-use.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/claude-on-google-cloud.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "现有 GUI 截图循环主题需要纳入请求体容量瓶颈及未经证明的可靠性边界。",
+      "topics/context-engineering-for-agents.md": "现有上下文预算主题可承载字节额度与 token 窗口的区别，无需新建主题。",
+      "topics/claude-on-google-cloud.md": "现有云托管主题需要限定完整功能不等于相同请求体限额，区分两类 Google Cloud 托管渠道。"
+    },
+    "notes": "复用三个现有主题；所有规格均归因于所给原帖，未另行抓取文档。未改动原文及 digest；未手工生成 ingest record。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-claude-api-request-size-128mb.md",
+        "topics/claude-on-google-cloud.md",
+        "topics/computer-use.md",
+        "topics/context-engineering-for-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

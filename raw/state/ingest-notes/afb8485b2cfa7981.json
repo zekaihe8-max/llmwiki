@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "现有 GUI 截图循环主题需要纳入请求体容量瓶颈及未经证明的可靠性边界。",
+    "topics/context-engineering-for-agents.md": "现有上下文预算主题可承载字节额度与 token 窗口的区别，无需新建主题。",
+    "topics/claude-on-google-cloud.md": "现有云托管主题需要限定完整功能不等于相同请求体限额，区分两类 Google Cloud 托管渠道。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "现有 GUI 截图循环主题需要纳入请求体容量瓶颈及未经证明的可靠性边界。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "现有上下文预算主题可承载字节额度与 token 窗口的区别，无需新建主题。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "record_contradiction",
+      "reason": "现有云托管主题需要限定完整功能不等于相同请求体限额，区分两类 Google Cloud 托管渠道。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "复用三个现有主题；所有规格均归因于所给原帖，未另行抓取文档。未改动原文及 digest；未手工生成 ingest record。"
+}

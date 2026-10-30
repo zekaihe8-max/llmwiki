@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:52:01.512Z",
+  "url": "https://x.com/dingyi/status/2116009021924950389",
+  "slug": "854d0860eff0f7f9",
+  "content_hash": "529731ac8aedc82aa3331dbebe59ef50b4d6ae005cb1f8a7ab29fac14622a65a",
+  "source": {
+    "path": "sources/articles/dingyi-bot-content-flood.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "Distribution is adjacent, but the post gives no evidence about curated product submissions or host screening; leave unchanged."
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "add_evidence",
+      "reason": "Owns the boundary between X intelligence assistance and public content production; integrate recipient-side dissatisfaction without attributing unspecified bots to Grok Bot."
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Adjacent public AI activity, but this post identifies no harness plugin, web-control mechanism, or Bilibili behavior; leave unchanged."
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "War wording is an outburst about feeds, not evidence about continuity of an individual’s antiwar and AI-misuse concerns; leave unchanged."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-intel-defense-not-post.md": "Owns the boundary between X intelligence assistance and public content production; integrate recipient-side dissatisfaction without attributing unspecified bots to Grok Bot.",
+    "topics/loose-web-agent-harness-plugins.md": "Adjacent public AI activity, but this post identifies no harness plugin, web-control mechanism, or Bilibili behavior; leave unchanged.",
+    "topics/ai-product-self-rec-amplify.md": "Distribution is adjacent, but the post gives no evidence about curated product submissions or host screening; leave unchanged.",
+    "topics/tech-misuse-concern-continuity.md": "War wording is an outburst about feeds, not evidence about continuity of an individual’s antiwar and AI-misuse concerns; leave unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dingyi-bot-content-flood.md",
+    "topics/grok-bot-x-intel-defense-not-post.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-intel-defense-not-post.md": "Owns the boundary between X intelligence assistance and public content production; integrate recipient-side dissatisfaction without attributing unspecified bots to Grok Bot.",
+      "topics/loose-web-agent-harness-plugins.md": "Adjacent public AI activity, but this post identifies no harness plugin, web-control mechanism, or Bilibili behavior; leave unchanged.",
+      "topics/ai-product-self-rec-amplify.md": "Distribution is adjacent, but the post gives no evidence about curated product submissions or host screening; leave unchanged.",
+      "topics/tech-misuse-concern-continuity.md": "War wording is an outburst about feeds, not evidence about continuity of an individual’s antiwar and AI-misuse concerns; leave unchanged."
+    },
+    "notes": "No new Topic needed. Fetched post only; no inferred bot identity, measured prevalence, or payout causality. Only requested ingest notes written under raw/state.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dingyi-bot-content-flood.md",
+        "topics/grok-bot-x-intel-defense-not-post.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

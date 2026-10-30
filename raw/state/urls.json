@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -1506,8 +1506,8 @@
     "hash": "964255179c4fb60489b07919b7c54528f522920c831896036966252f17fffe92",
     "slug": "964255179c4fb604",
     "first_seen": "2026-10-29T12:04:51.894Z",
-    "last_seen": "2026-10-29T12:04:51.894Z",
-    "digest": "2026-10-29-cn-x.md",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
     "title": "仓库"
   },
   "https://x.com/dotey/status/2115591064073413118": {
@@ -1917,5 +1917,421 @@
     "last_seen": "2026-10-29T12:04:51.894Z",
     "digest": "2026-10-29-cn-x.md",
     "title": "Gorden Sun"
+  },
+  "https://x.com/dotey/status/2116060639533969759": {
+    "hash": "b99953a4199caa7f41d20910b87335e430d305c5cbb5ca471fe1f15d26df1de2",
+    "slug": "b99953a4199caa7f",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "baoyu-design v2.1 评论"
+  },
+  "https://x.com/dotey/status/2115968852349567254": {
+    "hash": "afb8485b2cfa79819a7ddf36cb503a3dea1a7476c2b6990b8332d5e1da3adfe0",
+    "slug": "afb8485b2cfa7981",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Claude API 单次请求 32MB→128MB"
+  },
+  "https://x.com/dotey/status/2115923359149998490": {
+    "hash": "b5d4c274263bdbf9a49c5b1c15c68ddec20e5af2f95d96855b316c2f21459680",
+    "slug": "b5d4c274263bdbf9",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Claude 回答后自查「自我评估」"
+  },
+  "https://x.com/dotey/status/2115856411439575386": {
+    "hash": "52736ee22d757ec73053343acaf1b0274b465b9fe29c3e61651da48e56c2c1a3",
+    "slug": "52736ee22d757ec7",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "OpenAI Pro 用量翻倍"
+  },
+  "https://x.com/op7418/status/2116119701487337890": {
+    "hash": "f1c60ecba88073cc7986cee2f72801ca300b4e80742acdd77628016471ed0b29",
+    "slug": "f1c60ecba88073cc",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "夸克网盘出 Skill"
+  },
+  "https://x.com/op7418/status/2116010660735881602": {
+    "hash": "5d6d8674899f4fe617b9f485cc7d9f4c2ee173e50c131ca20c844a0a67740e45",
+    "slug": "5d6d8674899f4fe6",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Claude 上 CarPlay"
+  },
+  "https://x.com/op7418/status/2116005477805154537": {
+    "hash": "60f82c8f8777d11fb15bc8d72478972087841942140e24bb0a18e59f2e52b66b",
+    "slug": "60f82c8f8777d11f",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Grok Bot 适配 iPhone Duo"
+  },
+  "https://x.com/op7418/status/2115976609148834301": {
+    "hash": "20169e9b74297203261404b4698c9af94b094f9578350b3999b74ea6bc89d9eb",
+    "slug": "20169e9b74297203",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "OpenAI Pro 限额翻倍"
+  },
+  "https://x.com/shao__meng/status/2115975663148765204": {
+    "hash": "77c0147fb37a73199c422c36bdf4f2f8c5addbc0084bba375b382af74b954071",
+    "slug": "77c0147fb37a7319",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "阿里云开源《AI Agent Handbook》"
+  },
+  "https://github.com/aliyun/ai-agent-handbook": {
+    "hash": "f23df4716730cd996baf562cf11be0d55d183246d6c5fac994dcfdde7489f1e5",
+    "slug": "f23df4716730cd99",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/shao__meng/status/2115986116482613486": {
+    "hash": "728c8e1734cc67e58be0ff11125aae1a5d36dc9e6a451682337380ac1da4e287",
+    "slug": "728c8e1734cc67e5",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Addy：Opus 5.5 时代少堆提示"
+  },
+  "https://x.com/shao__meng/status/2115991611306086574": {
+    "hash": "cfb0e71aa71c6f52eccb028489e135c1f2ef7fc3036f674053bc76ddce994ef1",
+    "slug": "cfb0e71aa71c6f52",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Cursor 云端电脑「看着真 Slack」做成代码视频"
+  },
+  "https://x.com/shao__meng/status/2115999263121699221": {
+    "hash": "6c0f10b21b2093c67eb401ae9078334b9eccbd1aebd00f5a80c8817c2bcdca68",
+    "slug": "6c0f10b21b2093c6",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "方寸 Leap 对 DeepSeek V4.1 Flash-1017 的 87 页安全评测"
+  },
+  "https://x.com/xiaomovps/status/2116040504425255099": {
+    "hash": "80b60036d2990ad4641f767e4d2a1263327a0efc1fe799d4c4c8cb868cf339bc",
+    "slug": "80b60036d2990ad4",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "五开源 Grok Bot 替代"
+  },
+  "https://x.com/xiaomovps/status/2116055718424097085": {
+    "hash": "5770b73e70539f611e6e3e5b538c330b72f9bef8c63982431ce5c4f36e6674f1",
+    "slug": "5770b73e70539f61",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "两分钟用 Grok Bot 上线网站"
+  },
+  "https://x.com/xiaomovps/status/2116096229272637527": {
+    "hash": "7cdd10ecec8514b9d6776b05c29eae9371aa2ac98146897d97191fce2e9a850f",
+    "slug": "7cdd10ecec8514b9",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "DSH-Android 开源"
+  },
+  "https://x.com/xiaomovps/status/2116116088236937361": {
+    "hash": "3a4fa59f75131b154692fa8ef147c192815f57d93c26f6a5373f7f4db208f6c4",
+    "slug": "3a4fa59f75131b15",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Pi Durable 事务减 82%"
+  },
+  "https://x.com/yetone/status/2115843318693417429": {
+    "hash": "9ef70932c18d83e4cd8c3b72c6d91c14bac7f838e429e877179d92557a862f84",
+    "slug": "9ef70932c18d83e4",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Magpie 可只做 Claude Code 多账户切换"
+  },
+  "https://x.com/yetone/status/2116064188376502374": {
+    "hash": "164f45f3fccf01233c0ebf579feb41c53875915b60f689c9f387dce170548382",
+    "slug": "164f45f3fccf0123",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Alma 已双适配 herdr-core 与旧 TUI"
+  },
+  "https://x.com/yetone/status/2116123152292212794": {
+    "hash": "a61943ffbfd8145457339d49362e50684d3fa24e40da4ae96e90e5d85c17a871",
+    "slug": "a61943ffbfd81454",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Vertex AI 进 Magpie"
+  },
+  "https://x.com/turingou/status/2116111184068059429": {
+    "hash": "fdef723d13c2b21fb729f133ee694d71986a1186365914b77b728fd28e91b977",
+    "slug": "fdef723d13c2b21f",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Grok Bot 控烤箱做叉烧"
+  },
+  "https://x.com/turingou/status/2116113864710582400": {
+    "hash": "cbbbd886a036c473d2d6221c5bc6e2fdf52dcd4beace46b73fc23915e5b542ab",
+    "slug": "cbbbd886a036c473",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "转发 Neuralink「用想法说话」"
+  },
+  "https://x.com/vista8/status/2115959252275876147": {
+    "hash": "1af7ca3ea7710c1cc71607c6da48f599d32f608c96dc405e5d849f22a32d32b3",
+    "slug": "1af7ca3ea7710c1c",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "用 Grok Bot 把评论区 Vibe Coding 作品收成站"
+  },
+  "https://x.com/vista8/status/2116001563420586192": {
+    "hash": "1c6fa66415ccad19375121c5f1973f632ffff555791a5c5fb7ae8d9cc6a03c83",
+    "slug": "1c6fa66415ccad19",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "成站"
+  },
+  "https://x.com/vista8/status/2115956682291610055": {
+    "hash": "1c5e89f9d95b60763398d0edaebb64df6f8465419015eedaa0a9c2a82299d510",
+    "slug": "1c5e89f9d95b6076",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "42 章经全季总结"
+  },
+  "https://x.com/vista8/status/2115955851945193922": {
+    "hash": "7edb89f35fbbbb850d63dd8357479be9e730ee8501262df04995d168fb70ebdf",
+    "slug": "7edb89f35fbbbb85",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "编程只是热点之一"
+  },
+  "https://x.com/wquguru/status/2115972037403713688": {
+    "hash": "86504949dd6250ae86a541345fede71851f3ec26e01d068486d1628f35a41346",
+    "slug": "86504949dd6250ae",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "EverOS 实战：21 小时造 CC0 白模姿势库 Shisei"
+  },
+  "https://shisei.indaloop.app/": {
+    "hash": "ae4f640919c3cf7a001ab952048a3cc92b5f266aac0e773e70a1d378e89c3a05",
+    "slug": "ae4f640919c3cf7a",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "站点"
+  },
+  "https://github.com/wquguru/shisei": {
+    "hash": "3fbd330304ac652f910afc1b8353576e01e26f16fb4098ad707fa1b0851034b3",
+    "slug": "3fbd330304ac652f",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/wquguru/status/2115976473295347989": {
+    "hash": "89c0d458dba75bcc527f2f71df8e6d6d4e2ee40e4022ec7a4aa84bc1fa62e4e1",
+    "slug": "89c0d458dba75bcc",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Muse token 量产线稿提示词"
+  },
+  "https://x.com/0xlangeai/status/2116100139878318293": {
+    "hash": "a243438bbbed1b3cb225dd3aa6c460a28d247bfd2b3fac102a3e209dc7243450",
+    "slug": "a243438bbbed1b3c",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "用 AI 管订阅邮件账单"
+  },
+  "https://x.com/0xlangeai/status/2116011646024130677": {
+    "hash": "b4e9592529f379d1a7a1453a3ab4943c0df4bc6558919163c791ebd63283a242",
+    "slug": "b4e9592529f379d1",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "腾讯 WorkBuddy × Buddy One"
+  },
+  "https://x.com/0xlangeai/status/2115974734957703677": {
+    "hash": "e932ba1d23d903a3ef9a14dddb041e5d73a62b8ee8c4a1814117c220b3fd4f39",
+    "slug": "e932ba1d23d903a3",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Rea 约 40.8 万 Star"
+  },
+  "https://x.com/0xlangeai/status/2116061395347493324": {
+    "hash": "ee4e7d36ca526e9be85417e27bda879227a3173aab4e0396aa491cc52a7e41a3",
+    "slug": "ee4e7d36ca526e9b",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Grok Bot 0.75.5→0.78.1 要点"
+  },
+  "https://x.com/cgnot996/status/2116043968605774138": {
+    "hash": "09478a973176a1e058f464f7f855938367e8de7b718b76e0b029838422244eec",
+    "slug": "09478a973176a1e0",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Grok Bot Pages 做学习站报表"
+  },
+  "https://x.com/cgnot996/status/2116068457200726171": {
+    "hash": "7c96021ab8aefb60c8864e06e29889027c9200a5f47dc44d85d622c4edca692f",
+    "slug": "7c96021ab8aefb60",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "官方万圣节南瓜头像彩蛋"
+  },
+  "https://x.com/heydengai/status/2116121434326261778": {
+    "hash": "1d247de05fa3c4b0bfb3a3d4b3a92041808ce62630effffff6f94e696b0a05c3",
+    "slug": "1d247de05fa3c4b0",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "/autocompact 400k 省周额度"
+  },
+  "https://x.com/heydengai/status/2116127987095806159": {
+    "hash": "4143c693cc5f29f03d34c38c1c7b4c3bd254e25f8c6f248f7eb4c1cdfb665dc6",
+    "slug": "4143c693cc5f29f0",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Sol vs Opus：比任务别比 Token"
+  },
+  "https://x.com/heydengai/status/2116019898422083808": {
+    "hash": "5d8f6c3d46bd671aee25d15c45eeab9e5bdb4a434384c969011041213010a76f",
+    "slug": "5d8f6c3d46bd671a",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "压缩可能走错方向"
+  },
+  "https://x.com/heydengai/status/2116029608818815439": {
+    "hash": "f114e28aee98dfb89464287121b5a6cf2c0df336b1148dbefaa8f64b48505ee7",
+    "slug": "f114e28aee98dfb8",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "少说话多验收"
+  },
+  "https://x.com/dingyi/status/2116009021924950389": {
+    "hash": "854d0860eff0f7f9d396e67d33464c8aa81b4a2a8405f20d5cfa32327d82f6c3",
+    "slug": "854d0860eff0f7f9",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "吐槽 Bot 时代内容刷屏"
+  },
+  "https://x.com/dingyi/status/2115999357443195385": {
+    "hash": "b7f36b3f2c60f14d99e6ca2bb42b3150185cbd3bf00b8167ad0b9c79c03e6bbb",
+    "slug": "b7f36b3f2c60f14d",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "澄清 Lauren Tan / tibo CP"
+  },
+  "https://x.com/dingyi/status/2116102956160614904": {
+    "hash": "1b563341333020a46957c4ee114ae103c85ac8400a0ce85dc36d2bf996b7e987",
+    "slug": "1b563341333020a4",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "夸 Factory Droid 1.0 落地页"
+  },
+  "https://x.com/0xLogicrw/status/2116093465591452001": {
+    "hash": "55de7f00184d07f6dce7354c0721950481d381acc749770518ef5eab79531a22",
+    "slug": "55de7f00184d07f6",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Cursor 扩展商店 Claude Code 插件投毒"
+  },
+  "https://x.com/0xLogicrw/status/2116080352435577057": {
+    "hash": "139806bded51f038a5e7794bca1e9b0ca40986ed6d5ce18811a65672079be122",
+    "slug": "139806bded51f038",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Factory Droid 1.0 Code Mode"
+  },
+  "https://x.com/0xLogicrw/status/2116100816054403505": {
+    "hash": "fd85c673dbaaa8155212eedebd73825b8d38b10d5fb885218f5101c80c4eb74a",
+    "slug": "fd85c673dbaaa815",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Neuralink「Hey Neuralink」唤起 Grok Agent"
+  },
+  "https://x.com/FinanceYF5/status/2116070017179734276": {
+    "hash": "dc8b993dc7a7b3e7c24ebbf6cfb7d995597814361369b4dea78b53dbd6316829",
+    "slug": "dc8b993dc7a7b3e7",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Felix 四轴更野心用 AI"
+  },
+  "https://x.com/FinanceYF5/status/2116060695213289576": {
+    "hash": "d31b172ce7b0a3a64dc9088498cdffefa0ce49322804f92c66dd3c6bd26e2923",
+    "slug": "d31b172ce7b0a3a6",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Sam：本地推理是糟糕资源配置"
+  },
+  "https://x.com/FinanceYF5/status/2115997177038471255": {
+    "hash": "2763de58fa9a1e938859adc212f4fcbe789baab388ea4db1ea9054c8aef89470",
+    "slug": "2763de58fa9a1e93",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Databricks VP：下一波是 AI 软件工厂基建"
+  },
+  "https://x.com/Gorden_Sun/status/2115827663223050504": {
+    "hash": "c2699927f08c83c7ffe3eaf245a84c590bda2c9c30a223791d404a645e6d8a8f",
+    "slug": "c2699927f08c83c7",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Sam 播客要点"
+  },
+  "https://x.com/Gorden_Sun/status/2115821594660786342": {
+    "hash": "5997d9e79a10ba138ef5114c821db527b2ef61badac254effa2856165ca1afed",
+    "slug": "5997d9e79a10ba13",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "词光：单词配画的雅思背词开源"
+  },
+  "https://x.com/Gorden_Sun/status/2115808039785914677": {
+    "hash": "d27ff731e75dd0e928882fd9bae4dda47fa729b26bbce9de24ea499ed59a3cd8",
+    "slug": "d27ff731e75dd0e9",
+    "first_seen": "2026-10-30T12:03:41.569Z",
+    "last_seen": "2026-10-30T12:03:41.569Z",
+    "digest": "2026-10-30-cn-x.md",
+    "title": "Nemotron 3.5 Transcribe + Granary v2"
   }
 }

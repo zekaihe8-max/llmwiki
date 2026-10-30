@@ -2,10 +2,16 @@
 type: Topic
 title: 手机端 Agent 全链路开发
 title_en: Mobile-first agent full-chain development
-description: 用手机上的个人 Agent（如 Grok Bot）下发任务，经关联的云端编程 Agent（如 Cursor Cloud）改码与测试，再以 GitHub PR 与 CI/CD 合并发布；人主盯下发、审结果合并与确认上线，正式上线前仍自查代码、测试与权限。
-description_en: Dispatch from a personal agent on the phone (e.g. Grok Bot) to a linked cloud coding agent (e.g. Cursor Cloud) for edits and tests, then merge and release via GitHub PR and CI/CD; the human mainly submits, reviews and merges, and confirms production—still self-checking code, tests, and permissions before go-live.
+description: 个人 Agent 可从手机发起云端开发，经 Cursor Cloud、GitHub PR/CI 发布，也可直接部署 Cloudflare Workers；GitHub 在简单建站路径中可选，快速上线个案不替代代码、测试与权限核验。
+description_en: Personal agents can initiate cloud development from a phone, release through Cursor Cloud and GitHub PR/CI, or deploy directly to Cloudflare Workers; GitHub is optional for simple sites, and fast-launch accounts do not replace code, test, and permission checks.
 tags: [mobile, grok-bot, cursor, cursor-cloud, github, pr, ci-cd, personal-agents, coding-agents]
 sources:
+  - id: yetone-alma-herdr-core-tui-compatibility
+    resource: https://x.com/yetone/status/2116064188376502374
+    title: yetone on Alma supporting herdr-core and the legacy TUI
+  - id: xiaomovps-grok-bot-two-minute-website
+    resource: https://x.com/xiaomovps/status/2116055718424097085
+    title: Xiaomo launches a website with Grok Bot in two minutes
   - id: xiaomovps-grok-cursor-mobile-full-chain
     resource: https://x.com/xiaomovps/status/2114178579345080827
     title: Xiaomo on Grok Bot + Cursor mobile full-chain development
@@ -16,8 +22,8 @@ sources:
     resource: https://x.com/yetone/status/2115516478254624914
     title: yetone on Alma iOS integrating a native Herdr client
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:40:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:27:08+08:00
 ---
 
 # 手机端 Agent 全链路开发
@@ -28,7 +34,15 @@ generated:
 
 Once a personal agent is linked to a cloud coding agent and GitHub, a developer can dispatch from the phone, leave edits, tests, and runs in the cloud, then merge—and possibly auto-deploy—via PR and CI/CD; human attention shrinks to submitting work, checking results and merging, and confirming production, without sitting at a local editor the whole time.[^xiaomovps-grok-cursor-mobile-full-chain] Scope: the path needs account linking and repo access; before go-live—especially database and production changes—people should still self-check code, tests, and permissions rather than treat the agent’s “done” as sole evidence.[^xiaomovps-grok-cursor-mobile-full-chain]
 
+## 摘要 / Summary
+
+手机可作为任务与验收入口，执行和部署由关联的云端工具完成；具体是否需要仓库、PR 与 CI，取决于所选交付路径。 / The phone can serve as the task and review interface while linked cloud tools execute and deploy; repository, PR, and CI requirements depend on the delivery path.
+
 ## 综合分析 / Synthesis
+
+简单内容站还可以缩短交付链：在[小墨两分钟建站个案](../sources/articles/xiaomovps-grok-bot-two-minute-website.md)中，Bot 整理高赞帖子、创建网站项目并直接发布到 Cloudflare Workers，GitHub 仅在需要代码持久化与版本恢复时接入。这说明前述 Cursor Cloud→PR/CI 是一种路径，并非手机端开发的必要架构；代码版本管理与部署目标应分别选择。作者将 GitHub 管理与网站开发拆给不同 Bot，但未证明多 Bot 带来加速。两分钟是作者自述，不能推广为复杂项目的交付时限；基础部署免费也不覆盖所有成本，文中明确 R2 超额可能收费，自定义域名需购买。[^xiaomovps-grok-bot-two-minute-website]
+
+Simple content sites can also shorten the delivery chain: in [Xiaomo's two-minute website account](../sources/articles/xiaomovps-grok-bot-two-minute-website.md), the bot organizes popular posts, creates a website project, and publishes directly to Cloudflare Workers, with GitHub connected only for code persistence and version recovery. This shows that Cursor Cloud→PR/CI is one path rather than a required architecture for phone-based development; version management and deployment targets can be chosen separately. The author assigns GitHub management and website development to different bots but does not establish a multi-bot speedup. Two minutes is self-reported and cannot be generalized to complex projects; free basic deployment does not cover every cost, as the article explicitly mentions possible R2 overages and purchasing a custom domain.[^xiaomovps-grok-bot-two-minute-website]
 
 [小墨谈 Grok Bot + Cursor 手机全链路开发](../sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md) 给出一条可复述的操作链：同一账号/邮箱关联 Grok Bot 与 Cursor，两边都接 GitHub；手机在 Grok Bot 描述需求并调用 Cursor；Cursor Cloud 做改码、测试与运行，并用截图、录屏与结果说明供人检查；再提 GitHub PR，看测试与 CI/CD 后合并，已配自动部署则可继续发布。[^xiaomovps-grok-cursor-mobile-full-chain] 原帖 <https://x.com/xiaomovps/status/2114178579345080827>。作者把人侧收成三件事——提交任务、检查结果并合并 PR、确认发布到生产——并对比从前远程开电脑、开编辑器、跑测试的摩擦。这是个案工作流分享，不是产品官方规格，也未比较 Claude Code / Codex 等其他手机路径的优劣。
 
@@ -46,11 +60,23 @@ It shares the Grok Bot / mobile narrative with [Personal-agent hype vs coding-ag
 
 [yetone on Alma iOS integrating a native Herdr client](../sources/articles/yetone-alma-ios-herdr-native-client.md) describes another phone-side coding path: daily Herdr vibe coding, previously phone app uu remoting home Herdr with painful zoom and text/image I/O—not mobile native—so Alma iOS embeds a full Herdr client (Claude Code only for now), E2E relay, and remote desktop, auto-switching on LAN.[^yetone-alma-ios-herdr-native-client] Post: <https://x.com/yetone/status/2115516478254624914>. Unlike Grok Bot→Cursor Cloud→PR/CI, heavy compute stays on the home machine while the phone is a native GUI client rather than remoting a TUI; scope is still the author’s product narrative—no comparison to PR/CI chains or Grok convenience.
 
+原生手机客户端还需要独立处理后端演进的兼容性：[Alma 双适配帖](../sources/articles/yetone-alma-herdr-core-tui-compatibility.md)称，herdr 为 App 引入的 herdr-core 与旧 TUI 不兼容，但 Alma iOS/Desktop GUI 已适配两者。因此，手机入口可用与所连后端兼容应分别核验；客户端覆盖两条路径不代表后端已经统一，原文也未提供版本矩阵或测试结果。[^yetone-alma-herdr-core-tui-compatibility]
+
+Native phone clients also need to handle backend evolution separately: the [Alma dual-support post](../sources/articles/yetone-alma-herdr-core-tui-compatibility.md) says herdr-core, introduced for apps, is incompatible with the legacy TUI, while Alma iOS/Desktop GUI supports both. Phone access and compatibility with the connected backend therefore need separate checks; a client covering both paths does not establish a unified backend, and the post provides no version matrix or test results.[^yetone-alma-herdr-core-tui-compatibility]
+
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+较早的[手机全链路分享](../sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md)以 GitHub PR/CI 为发布路径；[本次建站分享](../sources/articles/xiaomovps-grok-bot-two-minute-website.md)明确 GitHub 可选、可直接部署 Workers。这是交付场景与路径的扩展，不是原有审查建议被推翻；新文没有说明省略测试与权限核验是安全的。[^xiaomovps-grok-bot-two-minute-website]
+
+The earlier [mobile full-chain account](../sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md) uses GitHub PR/CI for release; the [website account](../sources/articles/xiaomovps-grok-bot-two-minute-website.md) explicitly makes GitHub optional and deploys directly to Workers. This expands delivery scenarios and paths rather than overturning earlier review advice; the new article does not establish that omitting tests or permission checks is safe.[^xiaomovps-grok-bot-two-minute-website]
+
+较早的 [Alma iOS 帖](../sources/articles/yetone-alma-ios-herdr-native-client.md)记录手机原生客户端且当时仅适配 Claude Code；后续[双适配帖](../sources/articles/yetone-alma-herdr-core-tui-compatibility.md)补充 iOS/Desktop 对 herdr-core 与旧 TUI 的支持。这细化了客户端与后端兼容范围，没有说明原有 Claude Code 限制已经解除。[^yetone-alma-ios-herdr-native-client][^yetone-alma-herdr-core-tui-compatibility]
+
+The earlier [Alma iOS post](../sources/articles/yetone-alma-ios-herdr-native-client.md) records a native phone client with Claude Code support only at that time; the later [dual-support post](../sources/articles/yetone-alma-herdr-core-tui-compatibility.md) adds iOS/Desktop support for herdr-core and the legacy TUI. This refines client and backend compatibility scope without establishing that the earlier Claude Code limitation has been lifted.[^yetone-alma-ios-herdr-native-client][^yetone-alma-herdr-core-tui-compatibility]
 
 ## 相关 / Related
+
+- Source: [小墨两分钟上线网站 / Xiaomo launches a website in two minutes](../sources/articles/xiaomovps-grok-bot-two-minute-website.md)
 
 - Source: [小墨谈 Grok Bot + Cursor 手机全链路开发](../sources/articles/xiaomovps-grok-cursor-mobile-full-chain.md)
 - Source: [小墨谈 Grok Bot 从 0 到 1 长文](../sources/articles/xiaomovps-grok-bot-zero-to-one-guide.md)
@@ -61,3 +87,7 @@ It shares the Grok Bot / mobile narrative with [Personal-agent hype vs coding-ag
 [^xiaomovps-grok-cursor-mobile-full-chain]: Xiaomo on Grok Bot + Cursor mobile full-chain development
 [^xiaomovps-grok-bot-zero-to-one-guide]: Xiaomo’s Grok Bot zero-to-one guide
 [^yetone-alma-ios-herdr-native-client]: yetone on Alma iOS integrating a native Herdr client
+
+[^xiaomovps-grok-bot-two-minute-website]: Xiaomo on launching a website with Grok Bot in two minutes
+
+[^yetone-alma-herdr-core-tui-compatibility]: yetone on Alma supporting herdr-core and the legacy TUI

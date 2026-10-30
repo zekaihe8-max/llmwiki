@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "Owns inference efficiency; integrate hardware utilization while separating it from margin-based cost estimates.",
+    "topics/gpu-ai-compute-unlock.md": "Consulted for local hardware relevance; unchanged because the post provides no GPU unlock mechanism or throughput evidence.",
+    "topics/laptop-light-battery-remote-ai-coding.md": "Consulted for remote compute relevance; unchanged because global DRAM allocation does not establish travel laptop requirements.",
+    "topics/agent-compute-and-governance.md": "Consulted for compute placement relevance; unchanged because this post provides no enterprise agent governance evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "add_evidence",
+      "reason": "Owns inference efficiency; integrate hardware utilization while separating it from margin-based cost estimates."
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "Consulted for local hardware relevance; unchanged because the post provides no GPU unlock mechanism or throughput evidence."
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "Consulted for remote compute relevance; unchanged because global DRAM allocation does not establish travel laptop requirements."
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Consulted for compute placement relevance; unchanged because this post provides no enterprise agent governance evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Source records a secondary account, with 5% utilization attributed rather than verified."
+}

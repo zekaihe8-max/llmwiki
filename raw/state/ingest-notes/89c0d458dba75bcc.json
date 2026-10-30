@@ -1,0 +1,17 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "现有主题直接覆盖白模姿势资产的生成、复用与质量边界，可承载固定线稿规格及流程适用限制，无需新建主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "record_contradiction",
+      "reason": "加入短帖的两阶段生成与外观约束证据，并与已收录开发经历的拒绝及文字直生路径对照；保留既有质量与许可分析。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅新增一篇短帖 Source，未将所链长文预览当作正文；未改动原始文章或简报。"
+}

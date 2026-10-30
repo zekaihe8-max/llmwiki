@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "现有主题已承载多 Claude 账户调度；新增手动首选账户切换的证据及其与自动额度调度的适用边界。",
+    "topics/unified-agent-resource-library.md": "查阅以核对 Magpie 管理功能归属；本帖不涉及 skills/MCP/hooks 的存储分发，保持不变。",
+    "topics/claude-subscription-risk-control-weights.md": "核对多账户风控边界；本帖未提出风控信号或稳定性证据，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "add_evidence",
+      "reason": "现有主题已承载多 Claude 账户调度；新增手动首选账户切换的证据及其与自动额度调度的适用边界。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "查阅以核对 Magpie 管理功能归属；本帖不涉及 skills/MCP/hooks 的存储分发，保持不变。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "核对多账户风控边界；本帖未提出风控信号或稳定性证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "复用已有多账户主题，不新建 Topic；原文视频未展开，不推断其内容。"
+}

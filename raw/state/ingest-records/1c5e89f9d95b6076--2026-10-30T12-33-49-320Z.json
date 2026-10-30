@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:33:49.320Z",
+  "url": "https://x.com/vista8/status/2115956682291610055",
+  "slug": "1c5e89f9d95b6076",
+  "content_hash": "321067b5c9d5348ac37dfdc117b452043d8fb1a8ae47b86350ea45098de347a6",
+  "source": {
+    "path": "sources/articles/vista8-42zhangjing-podcast-summaries.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "No new evidence about clipping plugins or note-taking adoption; podcast-specific evidence belongs in the existing podcast Topic."
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "record_contradiction",
+      "reason": "Preserved earlier fine-transcription claim, integrated later batch-summary account and recognition warning, and recorded output-form tension without asserting site-wide replacement."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "Owns podcast transcription and Qiaomu reading sites, including 42 Zhang Jing; integrate summary workflow and fidelity boundary.",
+    "topics/ai-assisted-clipping-and-notes.md": "Adjacent media workflow examined; this article provides no clipping, Obsidian, RSS, or plugin adoption evidence."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vista8-42zhangjing-podcast-summaries.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/ai-assisted-clipping-and-notes.md"
+    ],
+    "selection_reasons": {
+      "topics/podcast-ai-fine-transcription-close-reads.md": "Owns podcast transcription and Qiaomu reading sites, including 42 Zhang Jing; integrate summary workflow and fidelity boundary.",
+      "topics/ai-assisted-clipping-and-notes.md": "Adjacent media workflow examined; this article provides no clipping, Obsidian, RSS, or plugin adoption evidence."
+    },
+    "notes": null,
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vista8-42zhangjing-podcast-summaries.md",
+        "topics/podcast-ai-fine-transcription-close-reads.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

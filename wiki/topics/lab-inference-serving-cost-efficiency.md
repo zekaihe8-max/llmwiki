@@ -2,16 +2,19 @@
 type: Topic
 title: 大厂推理成本效率被低估
 title_en: Big-lab inference cost efficiency is underestimated
-description: 前沿实验室公开毛利率（如约 85%）可被用来反推旗舰模型内部服务成本远低于对外标价；社区据此认为外界低估了大厂推理效率。
-description_en: Public gross margins at frontier labs (e.g. ~85%) can be used to back out flagship internal serving costs far below list prices; community takes this as evidence that outsiders underestimate big-lab inference efficiency.
+description: 大厂推理效率的讨论涉及毛利率反推的服务成本，以及供应紧张时稀缺硬件的利用率；两类论据不能互相验证。
+description_en: Discussions of big-lab inference efficiency concern serving costs inferred from gross margins and scarce-hardware utilization under tight supply; neither argument validates the other.
 tags: [inference, serving-cost, gross-margin, anthropic, opus, pricing, s-1]
 sources:
   - id: dotey-opus-55-serving-cost
     resource: https://x.com/dotey/status/2115286764294214011
     title: Dotey on Opus 5.5 serving cost around $0.6/$3.0
+  - id: financeyf5-altman-local-inference-resource-allocation
+    resource: https://x.com/FinanceYF5/status/2116060695213289576
+    title: AI Will relays Sam Altman on local inference
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T20:12:30+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:59:54+08:00
 ---
 
 # 大厂推理成本效率被低估
@@ -32,6 +35,10 @@ When a frontier lab discloses a very high gross margin, analysts and commenters 
 
 Scope: this page holds the “high gross margin → back out internal serving cost → efficiency underestimated” reading and where the numbers come from; it does not treat company-wide margin as exact per-model COGS, nor replace buyer-side “is the sub worth it” or “which API channel” pages. Adjacent to [Premium AI subscription value](./premium-ai-subscription-value.md): that page is buyer paid feel and stack trimming; this page is seller-side serving cost vs list. Adjacent to [Model provider channel tradeoffs for agents](./agent-model-channel-tradeoffs.md): that page is buyer choice among official/packages/routers; this page is lab-internal cost narrative. Same serving-side neighborhood as [DeepSeek first-party inference vs aggregators](./deepseek-inference-vs-aggregators.md), but that page compares throughput (daily tokens); this page compares cost efficiency and margin.
 
+推理效率还应区分单位服务成本与稀缺硬件的时间利用率。[AI Will 转述 Sam Altman](../sources/articles/financeyf5-altman-local-inference-resource-allocation.md) 将本地电脑上稀缺 DRAM 只使用 5% 时间作为低效配置的例子，主张供应紧张时提高云端利用率。这补充了资源池化的论证角度，却没有测量方法或云端对照，不能验证本页既有的 Opus 成本推算；能在本机运行也不等于资源配置最优，而该转述同样不足以排除高利用率、隐私或离线需求下的本地方案。[^financeyf5-altman-local-inference-resource-allocation]
+
+Inference efficiency should distinguish unit serving cost from the time utilization of scarce hardware. [AI Will’s account of Sam Altman](../sources/articles/financeyf5-altman-local-inference-resource-allocation.md) uses scarce DRAM in local computers being used only 5% of the time as an example of inefficient allocation and advocates higher cloud utilization under tight supply. This adds a resource-pooling argument, but supplies neither measurement methods nor a cloud comparison and cannot validate this page’s existing Opus cost estimate. Local feasibility does not establish optimal resource allocation, while the account also cannot rule out local deployments with high utilization, privacy needs, or offline requirements.[^financeyf5-altman-local-inference-resource-allocation]
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -44,3 +51,5 @@ Scope: this page holds the “high gross margin → back out internal serving co
 - Topic: [DeepSeek 自营推理相对聚合平台](./deepseek-inference-vs-aggregators.md)
 
 [^dotey-opus-55-serving-cost]: Dotey on Opus 5.5 serving cost around $0.6/$3.0
+
+[^financeyf5-altman-local-inference-resource-allocation]: AI Will relays Sam Altman on local inference

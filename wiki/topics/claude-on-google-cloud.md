@@ -2,8 +2,8 @@
 type: Topic
 title: Google Cloud 上的 Claude
 title_en: Claude on Google Cloud
-description: Anthropic 托管的 Claude 可在 Google Cloud 运行，兼具 Claude Platform 与 GCP 原生 IAM/计费；Google Cloud 的模型选择器 Auto 也可把作业编排到 Claude（与 Gemini），并预告以后接入更多私有与开源模型。
-description_en: Anthropic-managed Claude models can run on Google Cloud with Claude Platform features and native Google Cloud IAM and billing; Google Cloud’s model-picker Auto can also route jobs to Claude alongside Gemini, with more private and open models said to follow.
+description: Anthropic 托管部署、Auto 编排与 Magpie 的 Vertex AI 接入提供不同的 Claude 云端使用路径；客户端版本、Model Garden 启用条件与各渠道限额须分别确认。
+description_en: Anthropic-managed deployment, Auto routing, and Magpie’s Vertex AI integration offer distinct cloud access paths for Claude; client versions, Model Garden activation, and channel limits require separate confirmation.
 tags: [claude, google-cloud, platform, auto, model-routing]
 sources:
   - id: claude-models-google-cloud
@@ -12,9 +12,15 @@ sources:
   - id: google-cloud-auto-model-picker
     resource: https://x.com/googlecloud/status/2114431803394048151
     title: Google Cloud model picker Auto
+  - id: dotey-claude-api-request-size-128mb
+    resource: https://x.com/dotey/status/2115968852349567254
+    title: Dotey on Claude API request size increasing to 128 MB
+  - id: yetone-magpie-vertex-ai
+    resource: https://x.com/yetone/status/2116123152292212794
+    title: yetone on Magpie adding Vertex AI
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-26T08:10:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:27:59+08:00
 ---
 
 # Google Cloud 上的 Claude
@@ -27,6 +33,14 @@ Claude Models on Google Cloud can be offered as an Anthropic-managed deployment:
 
 ## 综合分析 / Synthesis
 
+云端模型可用性还需经过客户端的供应商适配与模型启用。[Magpie 接入 Vertex AI](../sources/articles/yetone-magpie-vertex-ai.md) 给出具体条件：从 v0.1.2196 起填写项目 ID 和区域，并先在 Vertex Model Garden 启用 `claude-opus-5-5`、`claude-sonnet-5-5` 等模型。这补充了云端部署与 Auto 编排之外的应用接入路径；该帖没有说明认证细节或请求体上限，因此不能把既有 Anthropic 托管产品的功能与容量结论直接移用于该集成。[^yetone-magpie-vertex-ai]
+
+Cloud model availability also depends on client provider support and model activation. [Magpie’s Vertex AI integration](../sources/articles/yetone-magpie-vertex-ai.md) gives concrete conditions: from v0.1.2196, enter a project ID and region and first enable models such as `claude-opus-5-5` and `claude-sonnet-5-5` in Vertex Model Garden. This adds an application access path alongside cloud deployment and Auto routing; the post specifies neither authentication details nor request-body limits, so existing conclusions about the Anthropic-managed offering’s features and capacity cannot be transferred directly to this integration.[^yetone-magpie-vertex-ai]
+
+部署渠道也是容量边界。[宝玉解读 Claude API 128 MB](../sources/articles/dotey-claude-api-request-size-128mb.md) 称 128 MB 仅覆盖 Anthropic 官方 Messages / Token Counting，而 Google 托管 Claude 为 30 MB、Google Cloud 上 Anthropic 托管版本为 32 MB。对图片或 PDF 密集应用，选同一模型或获得 Claude Platform 功能并不足以推断请求体额度相同；这里保留帖文归因，未独立核验云平台文档。[^dotey-claude-api-request-size-128mb]
+
+Deployment channels also define capacity boundaries. [Dotey on the Claude API 128 MB limit](../sources/articles/dotey-claude-api-request-size-128mb.md) says 128 MB covers only Anthropic’s own Messages / Token Counting, while Google-managed Claude allows 30 MB and Anthropic-managed Claude on Google Cloud allows 32 MB. For image- or PDF-heavy applications, choosing the same model or obtaining Claude Platform features is insufficient to infer identical request-body allowances; these remain attributed claims without independent verification of cloud documentation.[^dotey-claude-api-request-size-128mb]
+
 [Claude Models on Google Cloud](../sources/articles/claude-models-google-cloud.md) 称该 Anthropic 托管产品已一般可用，Google Cloud 客户可用既有 Google Cloud 凭证与计费使用 Claude Platform 功能。[^claude-models-google-cloud]
 
 [Claude Models on Google Cloud](../sources/articles/claude-models-google-cloud.md) states that this Anthropic-managed offering is generally available, so Google Cloud customers can use Claude Platform features with their existing Google Cloud credentials and billing.[^claude-models-google-cloud]
@@ -37,9 +51,15 @@ Claude Models on Google Cloud can be offered as an Anthropic-managed deployment:
 
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+[Claude Models on Google Cloud](../sources/articles/claude-models-google-cloud.md) 的「完整 Claude Platform 功能」表述，与[宝玉帖](../sources/articles/dotey-claude-api-request-size-128mb.md) 所述渠道请求体额度不同，应理解为功能与限额的适用范围区分；后者限定了前者可外推的范围，并未否定托管产品可用性。[^dotey-claude-api-request-size-128mb]
+
+The “full Claude Platform features” wording in [Claude Models on Google Cloud](../sources/articles/claude-models-google-cloud.md) and channel-specific request limits reported in [Dotey’s post](../sources/articles/dotey-claude-api-request-size-128mb.md) distinguish feature availability from capacity limits; the latter bounds extrapolation from the former without disputing availability of the managed offering.[^dotey-claude-api-request-size-128mb]
 
 ## 相关 / Related
+
+- [yetone 谈 Magpie 接入 Vertex AI / yetone on Magpie adding Vertex AI](../sources/articles/yetone-magpie-vertex-ai.md)
+
+- [宝玉解读 Claude API 请求上限 / Dotey on Claude API request limits](../sources/articles/dotey-claude-api-request-size-128mb.md)
 
 - 来源：[Claude Models on Google Cloud](../sources/articles/claude-models-google-cloud.md)
 - Source: [Claude Models on Google Cloud](../sources/articles/claude-models-google-cloud.md)
@@ -48,3 +68,7 @@ Claude Models on Google Cloud can be offered as an Anthropic-managed deployment:
 
 [^claude-models-google-cloud]: Claude Models on Google Cloud
 [^google-cloud-auto-model-picker]: Google Cloud model picker Auto
+
+[^dotey-claude-api-request-size-128mb]: Dotey on Claude API request size increasing to 128 MB
+
+[^yetone-magpie-vertex-ai]: yetone on Magpie adding Vertex AI

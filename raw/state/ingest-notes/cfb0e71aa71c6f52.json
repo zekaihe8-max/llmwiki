@@ -1,0 +1,30 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/computer-use.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Owns video as code, visual acceptance, human creative judgment, and the Skill-layer debate; integrated reference-based inner-loop evidence and scope tension.",
+    "topics/computer-use.md": "Consulted for the controllable desktop execution surface; unchanged because the article supplies no new mechanism, benchmark, or answer to existing OS and safety questions.",
+    "topics/agent-skill-authoring.md": "Consulted for distilling successful runs and debugging lessons into Skills; unchanged because these conclusions already exist, with this demo’s video-specific tension integrated in agentic-video-editing."
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Owns video as code, visual acceptance, human creative judgment, and the Skill-layer debate; integrated reference-based inner-loop evidence and scope tension."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Consulted for the controllable desktop execution surface; unchanged because the article supplies no new mechanism, benchmark, or answer to existing OS and safety questions."
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Consulted for distilling successful runs and debugging lessons into Skills; unchanged because these conclusions already exist, with this demo’s video-specific tension integrated in agentic-video-editing."
+    }
+  ],
+  "new_topic_reasons": {}
+}

@@ -24,9 +24,12 @@ sources:
   - id: cgnot996-grok-bot-v0781-shopping-vault-pages
     resource: https://x.com/cgnot996/status/2115752949276123606
     title: cgnot996 on Grok Bot v0.78.1 shopping cards, logistics, Pages, and Vault
+  - id: cgnot996-grok-bot-pages-site-reports
+    resource: https://x.com/cgnot996/status/2116043968605774138
+    title: Grok Bot Pages learning-site reports
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:12:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:43:44+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings. Pair ZH then EN as adjacent paragraphs/bullets, or same-line `中文。 / English.`. Shared code/URLs/wiki links are not translations; product names alone do not count as English. Format check ≠ translation quality. -->
 
@@ -80,6 +83,10 @@ Scope: this is frontline usage and a risk/mechanism checklist, not vendor specs 
 
 [cgnot996 on Grok Bot v0.78.1 shopping cards, logistics, Pages, and Vault](../sources/articles/cgnot996-grok-bot-v0781-shopping-vault-pages.md) adds **Vault + 1Password** credential hygiene: [@cgnot996](https://x.com/cgnot996) says **Vault** holds account cards, connects **1Password** with **per-item authorization**, and the **bot cannot see passwords**—aligned with three-pitfalls “don’t commit API keys/cookies to GitHub,” but as product-side password-vault wiring, not external backup replacing the cloud host; kin to [Xiaomo’s Hermes→Grok hot take](../sources/articles/xiaomovps-grok-bot-over-hermes-hot-take.md) on official password service; the fetched body does **not** say how Vault interacts with shared-host browser login state or rollback on failure.[^cgnot996-grok-bot-v0781-shopping-vault-pages] Post: <https://x.com/cgnot996/status/2115752949276123606>.
 
+每日任务的结果呈现与执行可靠性需要分开判断：[铁柱AGI的 Pages 报表案例](../sources/articles/cgnot996-grok-bot-pages-site-reports.md)把学习站访问量、SEO 数据与趋势做成卡片可打开的页面，并称让 Bot 每天刷新。它补充了周期任务的可读产出形态，但没有说明数据接入、调度机制或连续成功记录；页面方便查看不能代替上文的执行历史核对，也不能证明 SEO 已改善。[^cgnot996-grok-bot-pages-site-reports]
+
+Result presentation and execution reliability require separate assessment: [cgnot996’s Pages reporting case](../sources/articles/cgnot996-grok-bot-pages-site-reports.md) presents learning-site traffic, SEO data, and trends on pages opened through cards, with daily refreshes requested from the bot. It adds a readable output format for recurring tasks but gives no data-integration details, scheduling mechanism, or record of consecutive successes; convenient viewing cannot replace execution-history checks or establish SEO improvement.[^cgnot996-grok-bot-pages-site-reports]
+
 ## 矛盾与变化 / Contradictions
 
 [小墨谈 Grok Bot 三个坑](../sources/articles/xiaomovps-grok-bot-three-pitfalls.md) 强调产品侧 Scheduled Routines 可能延迟、漏跑，失败不一定自动补跑，故宜查 Run History，必要时用自有 VPS 或 GitHub Actions 做独立监控与补偿。[^xiaomovps-grok-bot-three-pitfalls] [小墨谈 Grok Bot 五个机制真相](../sources/articles/xiaomovps-grok-bot-five-mechanisms.md) 则因云电脑闲置休眠会停机内 cron，主张定时自动化尽量交给 Grok Bot 自带任务机制，云电脑主要执行任务与保环境。[^xiaomovps-grok-bot-five-mechanisms] 两帖并不互相否定「勿信机内 cron」，但对「自带任务是否够可信」态度不同：三坑把自带例程标成也需外置核对的风险面，五机制把自带任务标成相对机内 cron 的推荐落点。实务上宜同时采纳：优先产品任务通道，仍对重要例程做独立核对与补偿。
@@ -105,3 +112,5 @@ Scope: this is frontline usage and a risk/mechanism checklist, not vendor specs 
 [^xiaomovps-grok-bot-over-hermes-hot-take]: Xiaomo’s hot take that Grok Bot supersedes Hermes Agent
 [^xiaomovps-cloudflare-ai-free-tier]: Xiaomo on Cloudflare AI free tiers and usage
 [^cgnot996-grok-bot-v0781-shopping-vault-pages]: cgnot996 on Grok Bot v0.78.1 shopping cards, logistics, Pages, and Vault
+
+[^cgnot996-grok-bot-pages-site-reports]: Grok Bot Pages learning-site reports

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "页面赞赏与 Landing Page 相关，但无选站复刻、Skill 或工具路径的新证据，保持现有方法结论。",
+    "topics/design-taste-led-linux-desktop-trial.md": "同作者的页面品味评价可作邻近概念检查，但本帖不涉及 Linux 桌面、对照或闲置机试用，不扩大该 Topic 范围。",
+    "topics/coding-agent-ux-vs-quota.md": "Droid 属于编程 Agent 语境，但此帖评价网页而非使用体验或额度，嵌入的宣传也没有实测数据，不改变该 Topic。"
+  },
+  "topics": [
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "页面赞赏与 Landing Page 相关，但无选站复刻、Skill 或工具路径的新证据，保持现有方法结论。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "同作者的页面品味评价可作邻近概念检查，但本帖不涉及 Linux 桌面、对照或闲置机试用，不扩大该 Topic 范围。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Droid 属于编程 Agent 语境，但此帖评价网页而非使用体验或额度，嵌入的宣传也没有实测数据，不改变该 Topic。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文仅有页面主观赞赏与嵌入发布文案，不足以建立新的耐久概念。未抓取外链，未采用 digest 摘要作为正文。"
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:35:59.157Z",
+  "url": "https://x.com/wquguru/status/2115972037403713688",
+  "slug": "86504949dd6250ae",
+  "content_hash": "da611b09f050e6dcb1c59cc526f99ca1b9906e6bbe0bfc4db9fcf4023dbd91c4",
+  "source": {
+    "path": "sources/articles/wquguru-everos-shisei-pose-library.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "Owns external memory and handoffs; integrate cross-application write/retrieve/write-back evidence with attribution and limits."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Consulted for parallel review; existing guidance already permits independent review and parallel tasks, and this uncontrolled case does not change splitting conclusions."
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "Consulted for open assets; Shisei distributes 2D reference images rather than simulation-ready 3D models, so leave unchanged."
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "Consulted for human memory burden; the case offers a mechanism, not measured change in human cognitive labor, so retain its cultural observation."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "Owns external memory and handoffs; integrate cross-application write/retrieve/write-back evidence with attribution and limits.",
+    "topics/vibe-coding-memory-paradox.md": "Consulted for human memory burden; the case offers a mechanism, not measured change in human cognitive labor, so retain its cultural observation.",
+    "topics/simulation-ready-open-3d-assets.md": "Consulted for open assets; Shisei distributes 2D reference images rather than simulation-ready 3D models, so leave unchanged.",
+    "topics/fold-subagents-into-main-loop.md": "Consulted for parallel review; existing guidance already permits independent review and parallel tasks, and this uncontrolled case does not change splitting conclusions."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/wquguru-everos-shisei-pose-library.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/fold-subagents-into-main-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "Owns external memory and handoffs; integrate cross-application write/retrieve/write-back evidence with attribution and limits.",
+      "topics/vibe-coding-memory-paradox.md": "Consulted for human memory burden; the case offers a mechanism, not measured change in human cognitive labor, so retain its cultural observation.",
+      "topics/simulation-ready-open-3d-assets.md": "Consulted for open assets; Shisei distributes 2D reference images rather than simulation-ready 3D models, so leave unchanged.",
+      "topics/fold-subagents-into-main-loop.md": "Consulted for parallel review; existing guidance already permits independent review and parallel tasks, and this uncontrolled case does not change splitting conclusions."
+    },
+    "notes": "No new Topic needed. Author-reported counts, licensing and timings remain attributed; original fetched article is the sole Source provenance.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/wquguru-everos-shisei-pose-library.md",
+        "topics/context-engineering-for-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

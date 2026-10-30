@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:50:47.917Z",
+  "url": "https://x.com/heydengai/status/2116029608818815439",
+  "slug": "f114e28aee98dfb8",
+  "content_hash": "025fb5fccfd5fea9d31f3e7e50a68485d63a1cbf508f38f95ce12b8caedc2cf9",
+  "source": {
+    "path": "sources/articles/heydengai-less-prompting-more-acceptance.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/adversarial-review-external-evidence.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "Consulted to distinguish self-review from independent verification; this brief post adds no review mechanism or measured evidence, so unchanged."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "add_evidence",
+      "reason": "Owns balancing guidance and autonomy; integrated human-defined checks and the self-review/human-review sequence, including scope tensions."
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "Consulted for the boundary requiring early human design review; existing conclusions already express it, so unchanged."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "Owns balancing guidance and autonomy; integrated human-defined checks and the self-review/human-review sequence, including scope tensions.",
+    "topics/divergent-tasks-human-design-gate.md": "Consulted for the boundary requiring early human design review; existing conclusions already express it, so unchanged.",
+    "topics/adversarial-review-external-evidence.md": "Consulted to distinguish self-review from independent verification; this brief post adds no review mechanism or measured evidence, so unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/heydengai-less-prompting-more-acceptance.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/calibrating-ai-guidance.md",
+      "topics/divergent-tasks-human-design-gate.md",
+      "topics/adversarial-review-external-evidence.md"
+    ],
+    "selection_reasons": {
+      "topics/calibrating-ai-guidance.md": "Owns balancing guidance and autonomy; integrated human-defined checks and the self-review/human-review sequence, including scope tensions.",
+      "topics/divergent-tasks-human-design-gate.md": "Consulted for the boundary requiring early human design review; existing conclusions already express it, so unchanged.",
+      "topics/adversarial-review-external-evidence.md": "Consulted to distinguish self-review from independent verification; this brief post adds no review mechanism or measured evidence, so unchanged."
+    },
+    "notes": "Filed only the fetched heydengai post; embedded Addy preview is not a full article. No new Topic needed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/heydengai-less-prompting-more-acceptance.md",
+        "topics/calibrating-ai-guidance.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

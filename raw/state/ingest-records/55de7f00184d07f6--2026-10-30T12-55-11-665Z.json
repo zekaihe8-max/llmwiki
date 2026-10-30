@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:55:11.665Z",
+  "url": "https://x.com/0xLogicrw/status/2116093465591452001",
+  "slug": "55de7f00184d07f6",
+  "content_hash": "aabb789e3d89b576882fe37483cc873895feb63486a5802a9c73c883b5898b47",
+  "source": {
+    "path": "sources/articles/logicrw-cursor-claude-code-extension-poisoning.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "原文主要是扩展供应链事件，没有新增密码、2FA 或支付工具证据；交由插件治理主题承载。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "整合渠道完整性、加载触发、权限失败与残留的区别，并补充官方维护诉求的边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "已有插件维护与治理边界，可承载分发链路完整性及持久化风险。",
+    "topics/account-and-asset-security-hygiene.md": "检查个人安全主题是否合适；其范围为账号与支付工具卫生。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/logicrw-cursor-claude-code-extension-poisoning.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "已有插件维护与治理边界，可承载分发链路完整性及持久化风险。",
+      "topics/account-and-asset-security-hygiene.md": "检查个人安全主题是否合适；其范围为账号与支付工具卫生。"
+    },
+    "notes": null,
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/logicrw-cursor-claude-code-extension-poisoning.md",
+        "topics/minimal-core-community-extensions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

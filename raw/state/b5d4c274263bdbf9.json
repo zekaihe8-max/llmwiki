@@ -1,0 +1,23 @@
+{
+  "slug": "b5d4c274263bdbf9",
+  "url": "https://x.com/dotey/status/2115923359149998490",
+  "title": "Claude 回答后自查「自我评估」",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "filed",
+  "hash": "b5d4c274263bdbf9a49c5b1c15c68ddec20e5af2f95d96855b316c2f21459680",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": "2026-10-30T12:03:42.576Z",
+  "content_hash": "b7782bf8d4d8933bdb01719c038b26fa5b5d896f4b93ab839d5af9a43af9f5b5",
+  "article_path": "articles/b5d4c274263bdbf9.md",
+  "fetched_url": "https://x.com/dotey/status/2115923359149998490",
+  "source_path": "sources/articles/dotey-claude-self-assessment.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "codex",
+  "attempts": [],
+  "filed_at": "2026-10-30T12:08:24.713Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

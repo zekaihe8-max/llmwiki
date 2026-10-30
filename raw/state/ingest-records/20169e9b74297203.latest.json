@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:13:45.700Z",
+  "url": "https://x.com/op7418/status/2115976609148834301",
+  "slug": "20169e9b74297203",
+  "content_hash": "5b9cc22f20245f14d8830416d6ce3b03bff1ab528cf14e3b569bdbc8b7ba2281",
+  "source": {
+    "path": "sources/articles/op7418-openai-pro-usage-limits-double.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "add_evidence",
+      "reason": "Added user-intent evidence and compared restoration framing with existing cohort explanation, preserving both accounts."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Existing synthesis already covers the policy and cohort boundaries; no new value conclusion or quantitative evidence warrants duplicating it."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "Owns quota sufficiency and cohort differences; integrate willingness to select extra-high reasoning and distinguish perceived restoration from canceled reductions.",
+    "topics/premium-ai-subscription-value.md": "Already covers this announcement, cohort limits, and subscription value; this brief reaction adds no new pricing or value conclusion."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/op7418-openai-pro-usage-limits-double.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "Owns quota sufficiency and cohort differences; integrate willingness to select extra-high reasoning and distinguish perceived restoration from canceled reductions.",
+      "topics/premium-ai-subscription-value.md": "Already covers this announcement, cohort limits, and subscription value; this brief reaction adds no new pricing or value conclusion."
+    },
+    "notes": "No new Topic needed. Only requested ingest notes written under raw/state; fetched body remains untouched. Catalog Topic description unchanged because its scope and conclusion remain accurate.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/op7418-openai-pro-usage-limits-double.md",
+        "topics/coding-agent-ux-vs-quota.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

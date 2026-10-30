@@ -33,9 +33,18 @@ sources:
   - id: logicrw-google-android-summit-claude-codex-cli
     resource: https://x.com/0xLogicrw/status/2115763543194902801
     title: Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins
+  - id: dotey-claude-api-request-size-128mb
+    resource: https://x.com/dotey/status/2115968852349567254
+    title: Dotey on Claude API request size increasing to 128 MB
+  - id: xiaomovps-dsh-android
+    resource: https://x.com/xiaomovps/status/2116096229272637527
+    title: Xiaomo introduces DSH-Android
+  - id: 0xlangeai-grok-bot-v0755-v0781-highlights
+    resource: https://x.com/0xlangeai/status/2116061395347493324
+    title: Grok Bot 0.75.5 to 0.78.1 highlights
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:20:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:43:19+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -47,7 +56,23 @@ Computer Use 把「会想」与「会动手」拆开：模型负责看界面与�
 
 Computer Use splits thinking from acting: the model sees the UI and decides, another program clicks, and work advances in a look–think–do–check loop; how to target controls, whether work can stay in the background, speed, and click safety are open questions under that same architecture. The same path can land on a phone: drive a model inside a harness like Codex or Claude Code to act across apps one by one—either skipping a paid official batch export for data migration, or clearing long-deferred life ops such as redeeming credit-card points; it can also land in a personal agent’s cloud browser—log into a shopping account, filter orders by address, and reissue company-letterhead reimbursement invoices.[^dotey-computer-use-principles][^turingou-phone-migrate-flighty][^turingou-claude-clear-credit-card-points][^cgnot996-grok-bot-jd-invoice-reissue]
 
+## 摘要 / Summary
+
+模型决策与工具执行分工可跨桌面、手机和云浏览器复用；后台能力与人工接管须按平台和实现判断。 / The split between model decisions and tool execution spans desktops, phones, and cloud browsers; background operation and human handoff depend on the platform and implementation.
+
 ## 综合分析 / Synthesis
+
+浏览器代操作的安全边界应区分凭据填充、规则管理与交易批准。[蓝哥AI的版本概述](../sources/articles/0xlangeai-grok-bot-v0755-v0781-highlights.md) 将 1Password 的 App 内审批与 Bot 浏览器填充分开，称 Bot 看不到密码，并介绍 Settings 统一管规则、Bot 在聊天里提议改规则；其商品卡下单须批准的说法与已有购物卡来源一致。这补充了人工介入的具体位置，但未交代规则提议如何获批生效，也未验证凭据隔离实现，不能据此推断所有后续动作均已获授权。[^0xlangeai-grok-bot-v0755-v0781-highlights]
+
+Browser-operation safety boundaries should distinguish credential filling, rule management, and transaction approval. [0xlangeai’s release summary](../sources/articles/0xlangeai-grok-bot-v0755-v0781-highlights.md) separates 1Password approval in the app from filling in the Bot browser, says the Bot cannot see passwords, and describes centralized rules in Settings with rule-change proposals in chat. Its requirement for product-card order approval agrees with the existing shopping-card source. This adds specific points of human involvement, but does not explain how rule proposals gain approval and take effect or verify credential isolation; it cannot establish authorization for all subsequent actions.[^0xlangeai-grok-bot-v0755-v0781-highlights]
+
+执行位置、交互权限与模型位置应分别判断：[DSH-Android](../sources/articles/xiaomovps-dsh-android.md) 把 Node.js 24 与 DSH 引擎打包到 APK，以无障碍服务完成读屏与点按，说明手机本身也可承载执行循环。帖文称 Shizuku 提供后台屏幕操作，并在登录、验证码和付款时交还人工；这为后台与接管问题提供了一种 Android 实现路径，但未证明任务成功率或安全性，也不能从本机引擎推断模型本地推理。适用范围为 Android 10 及以上 ARM64，且第三方插件安装尚不具桌面版自由度。[^xiaomovps-dsh-android]
+
+Execution location, interaction permissions, and model location need separate assessment: [DSH-Android](../sources/articles/xiaomovps-dsh-android.md) bundles Node.js 24 and the DSH engine in an APK and uses accessibility for screen reading and taps, showing that the phone can host the execution loop itself. The post reports background-screen operation through Shizuku and human handoff for login, verification codes, and payments. This supplies an Android implementation path for background work and handoff, without establishing task success rates or safety; a local engine also does not establish local model inference. Scope is ARM64 on Android 10 and above, with less freedom to install third-party plugins than on desktop.[^xiaomovps-dsh-android]
+
+截图循环还受请求体字节额度约束：图片编码后的大小与视觉 token 用量不等价，因而窗口有余量时也可能无法继续发送历史截图。[宝玉解读 Claude API 128 MB](../sources/articles/dotey-claude-api-request-size-128mb.md) 将官方 Messages / Token Counting 从 32 MB 增至 128 MB 解释为缓解这一瓶颈；这为长会话提供传输空间，未提供完成率、速度或安全性改进的实测，且不适用于所有云渠道。[^dotey-claude-api-request-size-128mb]
+
+Screenshot loops also face a request-body byte budget: encoded image size is not equivalent to visual token usage, so sending screenshot history can fail while context capacity remains. [Dotey on the Claude API 128 MB limit](../sources/articles/dotey-claude-api-request-size-128mb.md) explains the official Messages / Token Counting increase from 32 MB to 128 MB as relief for this bottleneck; it supplies transport capacity for long sessions, without measured completion-rate, speed, or safety gains, and does not apply to every cloud channel.[^dotey-claude-api-request-size-128mb]
 
 [宝玉讲 Computer Use 原理](../sources/articles/dotey-computer-use-principles.md) 把 Computer Use 讲成可科普的分工：你对 AI 说一句话，它就能打开软件、点按钮，但 AI 没有手——模型只看和想，动手的是另一段程序的循环。[^dotey-computer-use-principles] 该帖列出四个待讲清的问题：截图 / 辅助功能 / 软件接口如何定位按钮；为何 Mac 可后台而 Windows 常占桌面；GPT-6 Astra 变快了多少及数字出处；乱点是否安全。[^dotey-computer-use-principles] 原帖 <https://x.com/dotey/status/2113694852281938162>。
 
@@ -91,6 +116,10 @@ Computer Use splits thinking from acting: the model sees the UI and decides, ano
 
 ## 相关 / Related
 
+- Source: [小墨介绍 DSH-Android 开源版 / Xiaomo introduces open-source DSH-Android](../sources/articles/xiaomovps-dsh-android.md)
+
+- [宝玉解读 Claude API 请求上限 / Dotey on Claude API request limits](../sources/articles/dotey-claude-api-request-size-128mb.md)
+
 - Source: [宝玉讲 Computer Use 原理](../sources/articles/dotey-computer-use-principles.md)
 - Source: [郭宇在手机上把一年行程迁到 Flighty](../sources/articles/turingou-phone-migrate-flighty.md)
 - Source: [郭宇用 Claude Code 清国内信用卡积分](../sources/articles/turingou-claude-clear-credit-card-points.md)
@@ -112,3 +141,9 @@ Computer Use splits thinking from acting: the model sees the UI and decides, ano
 [^cgnot996-grok-bot-v0781-shopping-vault-pages]: cgnot996 on Grok Bot v0.78.1 shopping cards, logistics, Pages, and Vault
 [^logicrw-information-deepseek-kimi-astra-distillation]: Logicrw on The Information—DeepSeek Flash / Kimi K3.1 Pro alleged GPT-6 Astra distillation
 [^logicrw-google-android-summit-claude-codex-cli]: Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins
+
+[^dotey-claude-api-request-size-128mb]: Dotey on Claude API request size increasing to 128 MB
+
+[^xiaomovps-dsh-android]: Xiaomo introduces DSH-Android
+
+[^0xlangeai-grok-bot-v0755-v0781-highlights]: Grok Bot 0.75.5 to 0.78.1 highlights

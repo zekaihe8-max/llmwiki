@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:59:57.948Z",
+  "url": "https://x.com/FinanceYF5/status/2116060695213289576",
+  "slug": "d31b172ce7b0a3a6",
+  "content_hash": "0d500aa8d1ce52c452fc0264ea29cf7cf51759cf18be4cfc4f61c9c0e262f283",
+  "source": {
+    "path": "sources/articles/financeyf5-altman-local-inference-resource-allocation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Consulted for compute placement relevance; unchanged because this post provides no enterprise agent governance evidence."
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "Consulted for local hardware relevance; unchanged because the post provides no GPU unlock mechanism or throughput evidence."
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "add_evidence",
+      "reason": "Owns inference efficiency; integrate hardware utilization while separating it from margin-based cost estimates."
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "Consulted for remote compute relevance; unchanged because global DRAM allocation does not establish travel laptop requirements."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "Owns inference efficiency; integrate hardware utilization while separating it from margin-based cost estimates.",
+    "topics/gpu-ai-compute-unlock.md": "Consulted for local hardware relevance; unchanged because the post provides no GPU unlock mechanism or throughput evidence.",
+    "topics/laptop-light-battery-remote-ai-coding.md": "Consulted for remote compute relevance; unchanged because global DRAM allocation does not establish travel laptop requirements.",
+    "topics/agent-compute-and-governance.md": "Consulted for compute placement relevance; unchanged because this post provides no enterprise agent governance evidence."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/financeyf5-altman-local-inference-resource-allocation.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/laptop-light-battery-remote-ai-coding.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "Owns inference efficiency; integrate hardware utilization while separating it from margin-based cost estimates.",
+      "topics/gpu-ai-compute-unlock.md": "Consulted for local hardware relevance; unchanged because the post provides no GPU unlock mechanism or throughput evidence.",
+      "topics/laptop-light-battery-remote-ai-coding.md": "Consulted for remote compute relevance; unchanged because global DRAM allocation does not establish travel laptop requirements.",
+      "topics/agent-compute-and-governance.md": "Consulted for compute placement relevance; unchanged because this post provides no enterprise agent governance evidence."
+    },
+    "notes": "No new Topic needed. Source records a secondary account, with 5% utilization attributed rather than verified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/financeyf5-altman-local-inference-resource-allocation.md",
+        "topics/lab-inference-serving-cost-efficiency.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

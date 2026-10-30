@@ -1,0 +1,17 @@
+{
+  "topics_consulted": [
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "selection_reasons": {
+    "topics/raise-ambition-until-ai-frontier.md": "该主题已拥有提高 AI 使用野心与 Felix 四轴框架；本次补入用途想象的对比，并限定为同一观点的首帖转述而非独立能力验证。"
+  },
+  "topics": [
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "add_evidence",
+      "reason": "该主题已拥有提高 AI 使用野心与 Felix 四轴框架；本次补入用途想象的对比，并限定为同一观点的首帖转述而非独立能力验证。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "扫描目录与 Topic 标题/描述后仅深入采用此主题；未新建主题。原文仅含 1/7 首帖，不补写后续内容；目录中既有 Topic 描述仍准确，保持原文。"
+}

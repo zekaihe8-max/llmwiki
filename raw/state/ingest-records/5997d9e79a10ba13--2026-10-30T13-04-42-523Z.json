@@ -1,0 +1,51 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T13:04:42.523Z",
+  "url": "https://x.com/Gorden_Sun/status/2115821594660786342",
+  "slug": "5997d9e79a10ba13",
+  "content_hash": "5e6cbd743d4791cfb59988dee794b605dd10f33157287ea70d43ba0c17db8bce",
+  "source": {
+    "path": "sources/articles/gorden-sun-ciguang-illustrated-ielts-vocabulary.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "该主题是目录中最接近的视觉学习概念，但正文限定于 HTML、AI 生图与知识解释叙事；词光帖文只介绍插画词汇练习和 FSRS，未说明 AI 或 HTML，不足以修改其结论、适用范围或矛盾。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "该主题是目录中最接近的视觉学习概念，但正文限定于 HTML、AI 生图与知识解释叙事；词光帖文只介绍插画词汇练习和 FSRS，未说明 AI 或 HTML，不足以修改其结论、适用范围或矛盾。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gorden-sun-ciguang-illustrated-ielts-vocabulary.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/html-image-fun-knowledge-learning.md"
+    ],
+    "selection_reasons": {
+      "topics/html-image-fun-knowledge-learning.md": "该主题是目录中最接近的视觉学习概念，但正文限定于 HTML、AI 生图与知识解释叙事；词光帖文只介绍插画词汇练习和 FSRS，未说明 AI 或 HTML，不足以修改其结论、适用范围或矛盾。"
+    },
+    "notes": "Reviewed topic catalog and existing article sources; no matching Source URL exists. No new Topic: this brief feature recommendation supplies no validated learning result or developed cross-source conclusion warranting a separate durable topic. Only this requested notes file is written under raw/.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gorden-sun-ciguang-illustrated-ielts-vocabulary.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

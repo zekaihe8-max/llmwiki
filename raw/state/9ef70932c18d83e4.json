@@ -1,0 +1,23 @@
+{
+  "slug": "9ef70932c18d83e4",
+  "url": "https://x.com/yetone/status/2115843318693417429",
+  "title": "Magpie 可只做 Claude Code 多账户切换",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "filed",
+  "hash": "9ef70932c18d83e4cd8c3b72c6d91c14bac7f838e429e877179d92557a862f84",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": "2026-10-30T12:03:58.742Z",
+  "content_hash": "17e8e6d995045b49c9b69832ab5f28edaa061c7717deea4d197501d81b951c3b",
+  "article_path": "articles/9ef70932c18d83e4.md",
+  "fetched_url": "https://x.com/yetone/status/2115843318693417429",
+  "source_path": "sources/articles/yetone-magpie-claude-code-account-switching.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "codex",
+  "attempts": [],
+  "filed_at": "2026-10-30T12:26:20.699Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

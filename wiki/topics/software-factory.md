@@ -2,8 +2,8 @@
 type: Topic
 title: 软件工厂
 title_en: Software factory
-description: 软件工厂是有边界的 L4 交付生产系统——授权生命周期能自主走完、产出可检验证据、失败能安全兜底；各阶段有 Agent 的 Agentic SDLC 还不等于工厂，团队须自建并拥有边界与反馈；可用技能/提示拷问是否值得上工厂式基建。
-description_en: A software factory is a bounded L4 delivery production system—authorized lifecycles completed with inspectable evidence and safe failure containment; agents across the SDLC are not yet a factory, and teams must build and own boundaries and feedback; skills or prompts can also grill whether factory-style infra is worth adopting.
+description: 软件工厂是有边界的 L4 交付生产系统——授权生命周期能自主走完、产出可检验证据、失败能安全兜底；各阶段有 Agent 的 Agentic SDLC 还不等于工厂，团队须自建并拥有边界与反馈；可用技能/提示拷问是否值得上工厂式基建。 交付基建还须考虑数据库状态，但相关转述未给出实现或比较验证。
+description_en: A software factory is a bounded L4 delivery production system—authorized lifecycles completed with inspectable evidence and safe failure containment; agents across the SDLC are not yet a factory, and teams must build and own boundaries and feedback; skills or prompts can also grill whether factory-style infra is worth adopting. Delivery infrastructure must also account for database state, though the relayed remarks provide no implementation or comparative validation.
 tags: [agents, software-factory, infrastructure, skills, l4, ownership]
 sources:
   - id: mattpocock-software-factory
@@ -12,9 +12,12 @@ sources:
   - id: shao-meng-agentic-sdlc-not-factory
     resource: https://x.com/shao__meng/status/2113923043936612792
     title: Meng Shao on Agentic SDLC ≠ software factory
+  - id: financeyf5-shamgunov-ai-factory
+    resource: https://x.com/FinanceYF5/status/2115997177038471255
+    title: AI Will relays Nikita Shamgunov on AI software factories
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-24T20:58:48+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T21:01:04+08:00
 ---
 
 # 软件工厂
@@ -39,12 +42,22 @@ A software factory is not “agents in every SDLC stage,” but a production sys
 
 The bottleneck shift once implementation is cheap aligns with [Agent-scaled engineering](./agent-scaled-engineering.md): scarce work moves from writing code to system boundaries, verification, ownership, and domain judgment.
 
+交付工厂还须处理软件实际运行的基础设施与状态。[AI Will 转述 Nikita Shamgunov](../sources/articles/financeyf5-shamgunov-ai-software-factory-infrastructure.md) 将从辅助生成代码到工厂式交付的转变，与 Agent 基础设施及数据库状态的难题联系起来。这补充了前述生产系统定义的运行约束：设计边界、验证和回退时，应纳入状态处理，而不能只看生成的代码。帖文未说明具体状态机制，也未证明 Agent 基础设施优于其他方案；此处是综合出的设计关注点，不是经过验证的实现配方。[^financeyf5-shamgunov-ai-factory]
+
+The delivery factory must also address the infrastructure and state on which software actually runs. [AI Will’s account of Nikita Shamgunov](../sources/articles/financeyf5-shamgunov-ai-software-factory-infrastructure.md) connects the shift from assisted code generation to factory-style delivery with agent infrastructure and the difficulty of database state. This adds an operating constraint to the production-system definition above: boundaries, verification, and rollback should account for state handling alongside generated code. The post specifies no state mechanism and does not demonstrate that agent infrastructure outperforms alternatives; this is a synthesized design consideration, not a validated implementation recipe.[^financeyf5-shamgunov-ai-factory]
+
 ## 矛盾与变化 / Contradictions
 
 - 较早入库的 [Matt Pocock on /software-factory](../sources/articles/mattpocock-software-factory.md) 把「软件工厂」主要当作待评估的工厂式基建与 glossary 技能；后来的 [邵萌谈 Agentic SDLC 不等于软件工厂](../sources/articles/shao-meng-agentic-sdlc-not-factory.md) 给出更硬的定义——工厂 = 有边界的 L4 生产系统，且明确区分于「各阶段有 Agent」的 Agentic SDLC。二者互补多于冲突：前者是采纳前的追问工具，后者是目标形态与所有权主张。[^mattpocock-software-factory][^shao-meng-agentic-sdlc-not-factory]
 - Earlier [Matt Pocock on /software-factory](../sources/articles/mattpocock-software-factory.md) treats “software factory” mainly as factory-style infra and a glossary skill to evaluate; later [Meng Shao on Agentic SDLC ≠ software factory](../sources/articles/shao-meng-agentic-sdlc-not-factory.md) gives a harder definition—factory = bounded L4 production system, explicitly distinct from Agentic SDLC with agents in each stage. They complement more than conflict: the former is a pre-adoption grilling tool; the latter is the target shape and ownership claim.[^mattpocock-software-factory][^shao-meng-agentic-sdlc-not-factory]
 
+AI Will 转述的未来平台方向，与邵萌转述的有边界 L4 定义并不直接冲突，但前者没有自主等级或验证标准，不能用来证明该定义已实现。[^financeyf5-shamgunov-ai-factory][^shao-meng-agentic-sdlc-not-factory]
+
+The future platform direction relayed by AI Will does not directly conflict with the bounded L4 definition relayed by Meng Shao, but supplies no autonomy level or verification criteria and cannot establish that the definition has been realized.[^financeyf5-shamgunov-ai-factory][^shao-meng-agentic-sdlc-not-factory]
+
 ## 相关 / Related
+
+- 来源 / Source: [AI Will 转述 AI 软件工厂基建 / AI Will on AI software factory infrastructure](../sources/articles/financeyf5-shamgunov-ai-software-factory-infrastructure.md)
 
 - Source: [邵萌谈 Agentic SDLC 不等于软件工厂](../sources/articles/shao-meng-agentic-sdlc-not-factory.md)
 - Source: [Matt Pocock on /software-factory](../sources/articles/mattpocock-software-factory.md)
@@ -53,3 +66,5 @@ The bottleneck shift once implementation is cheap aligns with [Agent-scaled engi
 
 [^mattpocock-software-factory]: Matt Pocock on /software-factory
 [^shao-meng-agentic-sdlc-not-factory]: Meng Shao on Agentic SDLC ≠ software factory
+
+[^financeyf5-shamgunov-ai-factory]: AI Will relays Nikita Shamgunov on AI software factories

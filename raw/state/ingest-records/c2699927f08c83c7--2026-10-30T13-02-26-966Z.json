@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T13:02:26.966Z",
+  "url": "https://x.com/Gorden_Sun/status/2115827663223050504",
+  "slug": "c2699927f08c83c7",
+  "content_hash": "cf8d1df8c270c24d29a16b6f0f6014a5fcbf5bcc40c2b929b0ed813d4e755665",
+  "source": {
+    "path": "sources/articles/gorden-sun-altman-science-plural-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "该页讨论企业运行治理；多元超级智能的社会偏好与作者分配批评未提供企业控制层证据，保持不变。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "add_evidence",
+      "reason": "复用科研实践适配主题，整合自动化发现的发布与研究者角色，并区分审稿实证主张与播客转述。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "已有 Navier–Stokes 方法迁移背景，但新帖没有训练隔离或红队证据，成本转述不能核验其方法与成果，保持不变。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "单次证明总算力成本没有单位推理成本或利用率口径，不可整合为服务成本效率证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "复用科研实践适配主题，整合自动化发现的发布与研究者角色，并区分审稿实证主张与播客转述。",
+    "topics/frontier-training-containment.md": "已有 Navier–Stokes 方法迁移背景，但新帖没有训练隔离或红队证据，成本转述不能核验其方法与成果，保持不变。",
+    "topics/agent-compute-and-governance.md": "该页讨论企业运行治理；多元超级智能的社会偏好与作者分配批评未提供企业控制层证据，保持不变。",
+    "topics/lab-inference-serving-cost-efficiency.md": "单次证明总算力成本没有单位推理成本或利用率口径，不可整合为服务成本效率证据，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gorden-sun-altman-science-plural-ai.md",
+    "topics/ai-peer-review-science-adaptation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/frontier-training-containment.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "复用科研实践适配主题，整合自动化发现的发布与研究者角色，并区分审稿实证主张与播客转述。",
+      "topics/frontier-training-containment.md": "已有 Navier–Stokes 方法迁移背景，但新帖没有训练隔离或红队证据，成本转述不能核验其方法与成果，保持不变。",
+      "topics/agent-compute-and-governance.md": "该页讨论企业运行治理；多元超级智能的社会偏好与作者分配批评未提供企业控制层证据，保持不变。",
+      "topics/lab-inference-serving-cost-efficiency.md": "单次证明总算力成本没有单位推理成本或利用率口径，不可整合为服务成本效率证据，保持不变。"
+    },
+    "notes": "仅据提供的抓取正文归档。多元 AI 偏好与作者的不平等预测保留于 Source，不以无机制或验证的转述新增治理 Topic。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gorden-sun-altman-science-plural-ai.md",
+        "topics/ai-peer-review-science-adaptation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

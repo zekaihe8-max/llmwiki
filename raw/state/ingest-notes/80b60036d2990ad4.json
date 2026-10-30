@@ -1,0 +1,45 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "Integrate existing CLI reuse as orchestration evidence, with acceptance-loop and cost boundaries.",
+    "topics/phone-own-server-agent-workbench.md": "Integrate Rakazo mobile/self-hosted evidence and preserve unresolved OpenBot identity/status tension.",
+    "topics/minimal-core-community-extensions.md": "Unchanged: Pi is named as Rakazo’s engine, but the post provides no new evidence about core minimalism or extension architecture.",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Unchanged: no new backup, sleep, scheduling-reliability or isolation observations; advertised independent computers do not establish operational isolation.",
+    "topics/agent-home-platform-control.md": "Unchanged: the article does not discuss home-platform or appliance control."
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "add_evidence",
+      "reason": "Integrate existing CLI reuse as orchestration evidence, with acceptance-loop and cost boundaries."
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "add_evidence",
+      "reason": "Integrate Rakazo mobile/self-hosted evidence and preserve unresolved OpenBot identity/status tension."
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Unchanged: Pi is named as Rakazo’s engine, but the post provides no new evidence about core minimalism or extension architecture."
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Unchanged: no new backup, sleep, scheduling-reliability or isolation observations; advertised independent computers do not establish operational isolation."
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "Unchanged: the article does not discuss home-platform or appliance control."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Claims reflect the fetched article only; no project verification or URL expansion. OpenBot identity across sources remains unresolved. Only the explicitly requested ingest note is written under raw/state; immutable article and digest inputs are untouched."
+}

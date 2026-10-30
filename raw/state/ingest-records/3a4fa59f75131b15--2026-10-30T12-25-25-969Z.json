@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:25:25.969Z",
+  "url": "https://x.com/xiaomovps/status/2116116088236937361",
+  "slug": "3a4fa59f75131b15",
+  "content_hash": "715e21134a363b9c86c423165c49ed3ca2b726da6ceec9ef75990f7f4851b8c0",
+  "source": {
+    "path": "sources/articles/xiaomovps-pi-durable-performance.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Added attributed persistence-cost evidence and clarified committed-step recovery versus delayed streaming output; retained prior claims."
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "No evidence addressing its scheduling, identity, sandboxing, or tamper-evident audit conclusions."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "Already owns Pi Pocket on Pi Durable and the operational costs of extensions; integrate persistence costs and recovery scope here.",
+    "topics/multiagent-infra-four-problems.md": "Checked infrastructure fit; its four gaps at thousand-agent scale are not resolved or directly evaluated by this 32-way SQLite test."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomovps-pi-durable-performance.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "Already owns Pi Pocket on Pi Durable and the operational costs of extensions; integrate persistence costs and recovery scope here.",
+      "topics/multiagent-infra-four-problems.md": "Checked infrastructure fit; its four gaps at thousand-agent scale are not resolved or directly evaluated by this 32-way SQLite test."
+    },
+    "notes": "Used fetched article only. No new Topic; no publication date inferred from digest date.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomovps-pi-durable-performance.md",
+        "topics/minimal-core-community-extensions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

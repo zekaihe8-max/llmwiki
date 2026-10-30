@@ -4,6 +4,108 @@ Wiki 页面创建、更新与废弃的时间线。
 
 Chronological record of page creations, updates, and deprecations.
 
+## 2026-10-30
+
+* **创建 / Creation**: 归档 [Nemotron Transcribe 与 Granary v2](./sources/articles/gorden-sun-nemotron-transcribe-granary.md)，为[播客转写精读](./topics/podcast-ai-fine-transcription-close-reads.md)整合说话人、术语与输出形式的核验边界。 / Filed the Nemotron Transcribe and Granary v2 source and integrated speaker, terminology, and output-mode verification limits into podcast transcription close reads.
+
+* **创建 / Creation**: 归档 [Gorden Sun 介绍词光](./sources/articles/gorden-sun-ciguang-illustrated-ielts-vocabulary.md)，记录配图背词与 FSRS 复习的产品说法及证据边界；相邻的视觉知识学习主题保持原范围。 / Filed Gorden Sun’s introduction to Ciguang, recording illustrated vocabulary and FSRS review claims and their evidence limits; the adjacent visual knowledge-learning topic retains its scope.
+
+* **创建 / Creation**: 归档 [Gorden Sun 转述 Altman](./sources/articles/gorden-sun-altman-science-plural-ai.md)，为[科研实践适配](./topics/ai-peer-review-science-adaptation.md)整合成果发布、研究者角色与转述证据边界。 / Filed Gorden Sun’s account of Altman and integrated result access, researchers’ roles, and limits of relayed evidence into science-practice adaptation.
+
+* **创建 / Creation**: 归档 [AI Will 转述软件工厂基建](./sources/articles/financeyf5-shamgunov-ai-software-factory-infrastructure.md)，为[软件工厂](./topics/software-factory.md)整合交付基建、数据库状态与证据边界。 / Filed AI Will’s account of software factory infrastructure and integrated delivery infrastructure, database state, and evidence limits into Software factory.
+
+* **创建 / Creation**: 归档 [AI Will 转述本地推理资源配置](./sources/articles/financeyf5-altman-local-inference-resource-allocation.md)，为[推理成本效率](./topics/lab-inference-serving-cost-efficiency.md)整合稀缺硬件利用率与证据边界。 / Filed AI Will’s account of local-inference resource allocation and integrated scarce-hardware utilization and evidence limits into inference cost efficiency.
+
+* **创建 / Creation**: 归档 [AI Will 转述 Felix 的四方向](./sources/articles/financeyf5-felix-ai-ambition-four-axes.md)，为[抬高 AI 使用野心](./topics/raise-ambition-until-ai-frontier.md)整合用途想象与首帖证据边界。 / Filed AI Will’s account of Felix’s four directions and integrated imagination about use and opening-post evidence limits into the ambition Topic.
+
+* **创建 / Creation**: 归档[Neuralink 唤起 Grok Agent 的转述](./sources/articles/logicrw-neuralink-grok-agent.md)，为[脑机接口辅助表达](./topics/brain-computer-assisted-speech.md)整合任务执行环节、语音指标边界与带宽预测。 / Filed the Neuralink–Grok Agent report and integrated task execution, speech-metric limits, and bandwidth forecasts into the assisted-speech Topic.
+
+* **创建 / Creation**: 归档[思维怪怪谈 Droid Code Mode](./sources/articles/logicrw-factory-droid-code-mode.md)，向[Harness 对比](./topics/harness-comparison-beyond-tokens.md)整合程序化工具调用、指标范围与速度主张边界。 / Filed Logicrw’s Droid Code Mode account and integrated programmatic tool calling, metric scope, and limits on speed claims into the harness-comparison Topic.
+
+* **创建 / Creation**: 归档 [Cursor 扩展投毒转述](./sources/articles/logicrw-cursor-claude-code-extension-poisoning.md)，为[精简核心与社区扩展](./topics/minimal-core-community-extensions.md)整合分发完整性、加载触发与卸载后残留边界。 / Filed the Cursor extension poisoning account and integrated distribution integrity, load triggers, and post-uninstall persistence boundaries into the community-extensions Topic.
+
+* **创建 / Creation**: 归档 [Ding 赞赏 Droid 页面](./sources/articles/dingyi-droid-one-page-praise.md)，区分页面赞赏与 Factory 发布主张；咨询的 Topic 因缺乏新增方法或实测证据保持不变。 / Filed Ding’s praise of the Droid page, distinguishing page praise from Factory’s announcement claims; consulted Topics remain unchanged for lack of new method or hands-on evidence.
+
+* **创建 / Creation**: 归档 [Ding 谈 Lauren Tan 与 tibo 的 CP 及走红](./sources/articles/dingyi-lauren-tan-tibo-clarification.md)，保留转述及归因的证据边界；相关 Topic 经审阅保持不变。 / Filed Ding’s post with limits on relayed claims and causal attribution; reviewed related Topics remain unchanged.
+
+* **创建 / Creation**: 归档 [Ding 吐槽 Bot 内容刷屏](./sources/articles/dingyi-bot-content-flood.md)，为[情报防护不代发帖](./topics/grok-bot-x-intel-defense-not-post.md)整合受众体验与证据边界。 / Filed Ding’s complaint about bot content flooding and integrated recipient experience and evidence limits into the X intelligence and posting-boundary Topic.
+
+* **创建 / Creation**: 归档[小邓谈少说话多验收](./sources/articles/heydengai-less-prompting-more-acceptance.md)，向[引导校准](./topics/calibrating-ai-guidance.md)整合执行、自审、人审的分工与事前设计门禁的适用边界。 / Filed heydengai’s acceptance-review advice and integrated execution, self-review, human review, and the scope of earlier design gates into guidance calibration.
+
+* **创建 / Creation**: 归档[检索代替压缩](./sources/articles/heydengai-retrieval-instead-of-compaction.md)，整合[上下文工程](./topics/context-engineering-for-agents.md)的恢复策略与证据边界，并在[长对话压缩](./topics/long-conversation-default-compression.md)中记录与提前压缩主张的张力。 / Filed retrieval instead of compaction, integrated recovery strategies and evidence limits into context engineering, and recorded tension with earlier compaction in the long-conversation Topic.
+
+* **创建 / Creation**: 归档 [Sol 与 Opus 单任务成本比较](./sources/articles/heydengai-sol-opus-cost-per-task.md)，为[高端 AI 订阅价值](./topics/premium-ai-subscription-value.md)整合任务效率与比例的证据边界。 / Filed the Sol-versus-Opus task-cost Source and integrated task efficiency and limits of the reported ratios into Premium AI subscription value.
+
+* **创建 / Creation**: 归档[提前压缩省周额度](./sources/articles/heydengai-autocompact-400k-weekly-quota.md)，整合[长对话压缩主题](./topics/long-conversation-default-compression.md)的成本动机、窗口取舍与估算边界。 / Filed the earlier-compaction Source and integrated cost motivation, window trade-offs, and estimate limits into the long-conversation compaction Topic.
+
+* **创建 / Creation**: 归档[铁柱AGI谈 Grok Bot 万圣节南瓜头像](./sources/articles/cgnot996-grok-bot-halloween-pumpkin-avatar.md)，区分头像观察、节后保留未知与功能期待；相关 Topic 保持不变，理由见入库 notes。 / Filed the Halloween pumpkin avatar Source, distinguishing the observed appearance, unknown post-holiday availability, and feature hopes; related Topics remain unchanged with reasons recorded in ingest notes.
+
+* **创建 / Creation**: 归档 [Pages 学习站报表](./sources/articles/cgnot996-grok-bot-pages-site-reports.md)，向[个人 Agent 云环境](./topics/personal-agent-cloud-env-pitfalls.md)整合周期报表的呈现用途与刷新可靠性的证据边界。 / Filed the Pages learning-site reports and integrated report presentation and refresh-reliability evidence limits into the personal-agent cloud-environment Topic.
+
+* **创建 / Creation**: 归档 [Grok Bot 版本概述](./sources/articles/0xlangeai-grok-bot-v0755-v0781-highlights.md)，向 [Computer Use](./topics/computer-use.md) 整合凭据填充、规则管理与交易审批的边界。 / Filed the Grok Bot release summary and integrated credential-filling, rule-management, and transaction-approval boundaries into Computer Use.
+
+* **创建 / Creation**: 归档[Rea Star 数报告](./sources/articles/0xlangeai-rea-github-stars.md)，保留数字与排名的作者归属及教程预览的证据边界；所咨询 Topic 因缺乏新增概念证据保持不变。 / Filed the Rea star-count report with attribution and limits of the tutorial preview; consulted Topics remain unchanged for lack of new conceptual evidence.
+
+* **创建 / Creation**: 归档[WorkBuddy 与 Buddy One](./sources/articles/0xlangeai-workbuddy-buddy-one.md)，向[高端 AI 订阅价值](./topics/premium-ai-subscription-value.md)整合账号绑定、共享积分与独立额度池的适用边界。 / Filed WorkBuddy and Buddy One and integrated account-linking conditions and the boundaries between shared credits and independent allowance pools into Premium AI subscription value.
+
+* **创建 / Creation**: 归档[订阅维护提示词](./sources/articles/0xlangeai-mail-agent-subscription-maintenance.md)，向[Agent 进收件箱](./topics/agent-in-inbox.md)整合通知转待办的用途及付费合作证据边界。 / Filed the subscription maintenance prompt and integrated notification-to-task organization and paid-partnership evidence limits into Agents in the inbox.
+
+* **创建 / Creation**: 归档 [Muse 白模线稿提示词](./sources/articles/wquguru-muse-mannequin-line-art-prompt.md)，向[姿势参考库主题](./topics/image-generation-pose-reference-libraries.md)整合外观约束及推荐流程与实际拒绝经历的差异。 / Filed the Muse mannequin prompt and integrated appearance constraints and differences between the recommended workflow and reported refusals into the pose-reference Topic.
+
+* **创建 / Creation**: 归档 [Shisei 仓库](./sources/articles/shisei-pose-reference-library.md)，创建[生图姿势参考库与质量边界](./topics/image-generation-pose-reference-libraries.md)，整合质检、许可与开发经历的规模口径差异。 / Filed the Shisei repository and created the pose-reference Topic, integrating quality checks, licensing, and differing scale measures in the development account.
+
+* **创建 / Creation**: 归档 [Shisei 实战](./sources/articles/wquguru-everos-shisei-pose-library.md)，向 [Agent 上下文工程](./topics/context-engineering-for-agents.md) 整合跨工具共享记忆的交接机制与证据边界。 / Filed the Shisei case and integrated cross-tool shared-memory handoffs and evidence limits into context engineering.
+
+* **创建 / Creation**: 归档[编程之外的机会](./sources/articles/vista8-opportunities-beyond-coding.md)，记录作者观点与抓取片段的证据边界；相关 Topic 因缺少具体新增证据保持不变。 / Filed the opportunities-beyond-coding Source with the limits of the opinion and fetched fragment; related Topics remain unchanged because no specific new evidence is supplied.
+
+* **创建 / Creation**: 归档[42 章经播客总结](./sources/articles/vista8-42zhangjing-podcast-summaries.md)，整合[播客 AI 精细转写精读](./topics/podcast-ai-fine-transcription-close-reads.md)的摘要用途、识别错误与前后表述差异。 / Filed the 42 Zhang Jing summaries and integrated summary use, recognition errors, and differing descriptions into the podcast close-reading Topic.
+
+* **创建 / Creation**: 归档[作品展示网站成站报告](./sources/articles/vista8-vibe-coding-project-showcase.md)，更新[AI 产品自荐与主持人加热](./topics/ai-product-self-rec-amplify.md)，记录从委托到作者报告成品的变化与验证边界。 / Filed the showcase website completion report and updated the distribution Topic with the shift from delegation to an author-reported artifact and its validation limits.
+
+* **创建 / Creation**: 归档[评论区作品建站尝试](./sources/articles/vista8-grok-bot-comment-project-website.md)，整合[AI 产品自荐与主持人加热](./topics/ai-product-self-rec-amplify.md)的聚合分发设想与未完成证据边界。 / Filed the reply-thread website attempt and integrated aggregation as a proposed distribution surface with completion evidence limits.
+
+* **创建 / Creation**: 归档[郭宇转发 Neuralink](./sources/articles/turingou-neuralink-thought-to-speech.md)，创建[脑机接口辅助表达](./topics/brain-computer-assisted-speech.md)，区分解码与声音合成并记录转述证据边界。 / Filed the Neuralink report and created the assisted-speech Topic, distinguishing decoding from voice synthesis and recording the limits of the relayed evidence.
+
+* **创建 / Creation**: 归档[郭宇的 Grok Bot 叉烧计划](./sources/articles/turingou-grok-bot-recipe-oven-char-siu.md)，整合[家居平台直控](./topics/agent-home-platform-control.md)的食谱编排用途与尚待试做的证据边界。 / Filed the recipe-driven oven-control Source and integrated recipe orchestration and pending-trial evidence limits into the home-control Topic.
+
+* **创建 / Creation**: 归档 [yetone 谈 Magpie 接入 Vertex AI](./sources/articles/yetone-magpie-vertex-ai.md)，整合 [Google Cloud 上的 Claude](./topics/claude-on-google-cloud.md) 的客户端版本、模型启用条件与渠道边界。 / Filed the Magpie Vertex AI Source and integrated client-version requirements, model activation, and channel boundaries into Claude on Google Cloud.
+
+* **创建 / Creation**: 归档 [Alma 双适配 herdr-core 与旧 TUI](./sources/articles/yetone-alma-herdr-core-tui-compatibility.md)，整合[手机端 Agent 全链路开发](./topics/mobile-agent-dev-full-chain.md)的客户端与后端兼容边界。 / Filed the Alma dual-support Source and integrated client/backend compatibility boundaries into the mobile development Topic.
+
+* **创建 / Creation**: 归档 [Magpie 多账户切换](./sources/articles/yetone-magpie-claude-code-account-switching.md)，整合[编程 Agent 体验与额度](./topics/coding-agent-ux-vs-quota.md)中手动选号与自动调度的边界。 / Filed the Magpie account-switching Source and integrated the boundary between manual selection and automatic scheduling into Coding agent UX vs quota.
+
+* **创建 / Creation**: 归档[小墨谈 Pi Durable 持久化性能优化](./sources/articles/xiaomovps-pi-durable-performance.md)，整合[精简核心与社区扩展](./topics/minimal-core-community-extensions.md)的持久化成本与恢复边界。 / Filed the Pi Durable performance Source and integrated persistence costs and recovery boundaries into Minimal core and community extensions.
+
+* **创建 / Creation**: 归档[小墨介绍 DSH-Android 开源版](./sources/articles/xiaomovps-dsh-android.md)，整合 [Computer Use](./topics/computer-use.md) 的手机本机执行、后台操作与人工接管边界。 / Filed the Source and integrated on-device phone execution, background operation, and human-handoff boundaries into Computer Use.
+
+* **创建 / Creation**: 归档[小墨两分钟上线网站](./sources/articles/xiaomovps-grok-bot-two-minute-website.md)，整合[手机端开发](./topics/mobile-agent-dev-full-chain.md)的直接部署路径、可选版本管理与计时边界。 / Filed the Source and integrated direct deployment, optional version management, and timing limits into the mobile development Topic.
+
+* **创建 / Creation**: 归档 [小墨整理五个 Grok Bot 开源替代项目](./sources/articles/xiaomovps-five-grok-bot-alternatives.md)，整合[编排分工](./topics/personal-agent-foreman-over-coding-agents.md)与[手机工作台](./topics/phone-own-server-agent-workbench.md)的成本、权限和项目身份边界。 / Filed the Source and integrated cost, permission, and project-identity boundaries into the orchestration and mobile-workbench Topics.
+
+* **创建 / Creation**: 归档 [邵萌解读方寸 DeepSeek V4.1 Flash-1017 安全评测 / Meng Shao on Fangcun’s DeepSeek V4.1 Flash-1017 safety evaluation](./sources/articles/shao-meng-deepseek-flash-safety-evaluation.md)，整合[公开基准审查](./topics/public-benchmark-quality-scrutiny.md)的评测意识边界及[智能体治理](./topics/agent-compute-and-governance.md)的全过程监控证据。 / Filed the Source and integrated evaluation-awareness limits and full-trajectory monitoring evidence into the linked Topics.
+
+* **创建 / Creation**: 归档 [邵萌谈 Cursor 看真实 Slack 生成代码视频 / Meng Shao on Cursor making video as code from real Slack](./sources/articles/shao-meng-cursor-slack-video-as-code.md)，整合 [智能体视频剪辑 / Agentic video editing](./topics/agentic-video-editing.md) 的真实参考验收内环与 Skill 适用边界。 / Filed the Source and integrated reference-based validation loops and Skill applicability boundaries into the Topic.
+
+* **创建 / Creation**: 归档 [邵萌转述 Addy / Meng Shao relays Addy](./sources/articles/shao-meng-addy-opus-overprompting.md)，补充 [引导校准 / guidance calibration](./topics/calibrating-ai-guidance.md)、[子 Agent 拆分 / subagent splitting](./topics/fold-subagents-into-main-loop.md) 与 [自动模式 / auto mode](./topics/agent-auto-mode.md)。 / Filed the source and integrated evidence into the three linked topics.
+
+* **创建 / Creation**: 归档 [邵萌谈阿里云《AI Agent Handbook》](./sources/articles/shao-meng-aliyun-ai-agent-handbook.md)，整合 [公司级 Harness](./topics/company-agent-harness.md) 与 [算力和治理](./topics/agent-compute-and-governance.md) 的生命周期责任与评估边界。 / Filed the Source and integrated lifecycle responsibilities and evaluation boundaries into the harness and governance Topics.
+
+* **创建 / Creation**: 归档 [歸藏谈 OpenAI Pro 限额翻倍](./sources/articles/op7418-openai-pro-usage-limits-double.md)，整合 [编程 Agent 体验与额度](./topics/coding-agent-ux-vs-quota.md) 的推理强度选择与订阅批次解释。 / Filed the Source and integrated reasoning-intensity choices and subscriber-cohort interpretation into the quota Topic.
+
+* **创建 / Creation**: 归档 [歸藏谈 Grok bot 适配 iPhone Duo](./sources/articles/op7418-grok-bot-iphone-duo.md)，并将证据整合至 [AI 应用适配 iPhone Duo](./topics/ai-app-iphone-duo-adaptation.md)。 / Filed the Grok bot adaptation source and integrated evidence into AI apps adapting to iPhone Duo.
+
+* **创建 / Creation**: 归档 [歸藏谈 Claude 上 CarPlay / Guizang on Claude coming to CarPlay](./sources/articles/op7418-claude-carplay.md)，创建 [CarPlay 语音助手接入 / Voice assistant access through CarPlay](./topics/carplay-voice-assistants.md)。 / Filed the Source and created the Topic.
+
+* **创建 / Creation**: 归档 [歸藏谈夸克网盘 Skill / Guizang on the Quark Drive Skill](./sources/articles/op7418-quark-drive-skill.md)，并为 [Agent Skills 开放标准 / Agent Skills open standard](./topics/agent-skills-open-standard.md) 补充服务接入案例与证据边界。 / Filed the Source and added a service-access case with evidence limits to the Topic.
+
+* **创建 / Creation**: 归档 [宝玉解读 OpenAI Pro 用量翻倍](./sources/articles/dotey-openai-pro-usage-limits-double.md)，更新 [高端 AI 订阅价值](./topics/premium-ai-subscription-value.md) 与 [编程 Agent 体验与额度](./topics/coding-agent-ux-vs-quota.md)。 / Filed the Source and integrated subscription-value and quota evidence into both Topics.
+
+* **创建 / Creation**: 归档[宝玉解读 Claude 安全自我评估](./sources/articles/dotey-claude-self-assessment.md)，整合[自动模式](./topics/agent-auto-mode.md)的事后监测边界与[订阅风控](./topics/claude-subscription-risk-control-weights.md)的信号及处罚区别。 / Filed Dotey’s safety self-assessment source and integrated monitoring boundaries and the distinction between risk signals and penalties into the linked topics.
+
+* **创建 / Creation**: 归档[宝玉解读 Claude API 请求上限](./sources/articles/dotey-claude-api-request-size-128mb.md)，整合 [Computer Use](./topics/computer-use.md)、[上下文工程](./topics/context-engineering-for-agents.md)及 [Google Cloud 上的 Claude](./topics/claude-on-google-cloud.md) 的容量边界。 / Filed the Claude API request-limit source and integrated capacity boundaries into the three linked topics.
+
+* **创建 / Creation**: 归档 [宝玉发布 baoyu-design v2.1 评论功能](./sources/articles/dotey-baoyu-design-v21-comments.md)，更新设计主题的评论协作证据与版本变化。 / Filed [Dotey announces comments in baoyu-design v2.1](./sources/articles/dotey-baoyu-design-v21-comments.md) and updated [design-to-code tools](./topics/design-to-code-byo-subscriptions.md) with comment collaboration evidence and version changes.
+
 ## 2026-10-29
 
 * **创建 / Creation**: Filed the [Gorden Sun 谈 NVIDIA simready-assets 开源仿真三维库](./sources/articles/gorden-sun-nvidia-simready-assets.md) source and opened [仿真就绪开放三维资产](./topics/simulation-ready-open-3d-assets.md).

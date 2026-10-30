@@ -1,0 +1,23 @@
+{
+  "slug": "afb8485b2cfa7981",
+  "url": "https://x.com/dotey/status/2115968852349567254",
+  "title": "Claude API 单次请求 32MB→128MB",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "filed",
+  "hash": "afb8485b2cfa79819a7ddf36cb503a3dea1a7476c2b6990b8332d5e1da3adfe0",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": "2026-10-30T12:03:42.084Z",
+  "content_hash": "6654b8c5d72cfd04e3f00b235b998a73c1e43028f33a6e8699c98262982c3136",
+  "article_path": "articles/afb8485b2cfa7981.md",
+  "fetched_url": "https://x.com/dotey/status/2115968852349567254",
+  "source_path": "sources/articles/dotey-claude-api-request-size-128mb.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "codex",
+  "attempts": [],
+  "filed_at": "2026-10-30T12:06:40.747Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

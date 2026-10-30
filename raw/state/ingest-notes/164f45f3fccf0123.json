@@ -1,0 +1,30 @@
+{
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/phone-own-server-agent-workbench.md"
+  ],
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "已有 Alma 原生客户端证据；整合双后端兼容边界及相对早期 Claude Code 限制的变化。",
+    "topics/minimal-core-community-extensions.md": "已包含 Alma 移动扩展，但新帖不提供核心精简或社区扩展策略证据，兼容细节集中到手机开发主题。",
+    "topics/phone-own-server-agent-workbench.md": "相邻的手机远程控制面主题；新帖未提供自有服务器部署、订阅复用或多 Agent 工作台的新证据，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "add_evidence",
+      "reason": "已有 Alma 原生客户端证据；整合双后端兼容边界及相对早期 Claude Code 限制的变化。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "已包含 Alma 移动扩展，但新帖不提供核心精简或社区扩展策略证据，兼容细节集中到手机开发主题。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "相邻的手机远程控制面主题；新帖未提供自有服务器部署、订阅复用或多 Agent 工作台的新证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {}
+}

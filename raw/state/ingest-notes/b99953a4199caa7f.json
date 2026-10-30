@@ -1,0 +1,17 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "现有主题已承载 baoyu-design 文件式设计协作与 v2 缺评论记录；v2.1 提供反馈数据随项目保存的新证据并改变旧版功能缺口。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "record_contradiction",
+      "reason": "现有主题已承载 baoyu-design 文件式设计协作与 v2 缺评论记录；v2.1 提供反馈数据随项目保存的新证据并改变旧版功能缺口。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "复用现有主题；保留 v2 历史主张并记录 v2.1 的功能变化。未将引用的旧帖另建 Source。"
+}

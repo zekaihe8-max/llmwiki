@@ -2,8 +2,8 @@
 type: Topic
 title: AI 产品自荐与主持人加热
 title_en: AI product self-rec and host amplify
-description: 社区创意 AI 产品常缺传播渠道；一线可用评论区自荐 + 点赞与实测门槛、由主持人转发加热，作为临时分发面——不等于搜索/GEO 或模型刷分对抗。
-description_en: Community creative AI products often lack distribution; a frontline pattern is reply-thread self-rec plus likes and hands-on gates, with a host forwarding to amplify—as a temporary distribution surface, not search/GEO or anti-score-hype evals.
+description: 社区 AI 产品可经评论区自荐、点赞与实测筛选及主持人转发获得曝光；作者后续报告已将作品聚合成网站，但筛选执行与获客效果仍未验证。
+description_en: Community AI products can gain exposure through reply-thread submissions, likes and hands-on screening, and host amplification; the author later reports a showcase website, while screening execution and acquisition outcomes remain unverified.
 tags: [ai-tools, self-recommendation, distribution, amplify, community, vista8]
 sources:
   - id: vista8-ai-tool-self-rec
@@ -12,9 +12,15 @@ sources:
   - id: vista8-raycast-ai
     resource: https://x.com/vista8/status/2115319209437872246
     title: vista8 on three years of Raycast AI
+  - id: vista8-grok-bot-comment-project-website
+    resource: https://x.com/vista8/status/2115959252275876147
+    title: vista8 tries turning reply-thread projects into a website with Grok Bot
+  - id: vista8-vibe-coding-project-showcase
+    resource: https://x.com/vista8/status/2116001563420586192
+    title: vista8 turns Vibe Coding projects into a showcase website
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T22:40:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:32:37+08:00
 ---
 
 # AI 产品自荐与主持人加热
@@ -26,6 +32,10 @@ generated:
 In livestreams or peer showcases, creative AI products (own coding tools, paid subscriptions, sites/apps/Skills/plugins/open source) are often built yet lack distribution; a frontline pattern is reply-thread self-rec, gated by high likes and a good hands-on test, with a host forwarding to amplify—treating exposure as a temporary distribution surface. The host may also self-rec a long-paid tool first, modeling the “long-paid subscription” submission shape.[^vista8-ai-tool-self-rec][^vista8-raycast-ai]
 
 ## 综合分析 / Synthesis
+
+投稿收集、质量筛选、展示载体和传播效果应分别判断：评论区提供候选项目，点赞与实测是原活动的转发门槛。较早的[Grok Bot 建站委托](../sources/articles/vista8-grok-bot-comment-project-website.md)尚未确认完成；后续[成站报告](../sources/articles/vista8-vibe-coding-project-showcase.md)称已将作品做成网站，并给出网站入口与开发录屏。这使集中展示从设想推进到作者报告的成品，但不能据此认定每项投稿已通过筛选，或曝光已转化为用户。[^vista8-grok-bot-comment-project-website][^vista8-vibe-coding-project-showcase]
+
+Submission collection, quality screening, presentation, and distribution outcomes need separate assessment: replies supply candidates, while likes and hands-on tests gate amplification in the original drive. The earlier [Grok Bot website delegation](../sources/articles/vista8-grok-bot-comment-project-website.md) had no confirmed completion; the later [completion report](../sources/articles/vista8-vibe-coding-project-showcase.md) says the projects have become a website and supplies an entry link and development recording. This advances consolidated presentation from a proposal to an author-reported artifact, without establishing that every submission passed screening or that exposure converted into users.[^vista8-grok-bot-comment-project-website][^vista8-vibe-coding-project-showcase]
 
 [向阳乔木谈 AI 工具自荐活动](../sources/articles/vista8-ai-tool-self-rec.md) 把机制钉死：评论发最爱 AI 工具与项目；可含自研 AI Coding 产品或一直花钱订阅的工具；形态含网站、App、Skill、插件、开源；点赞人多且测好用则他转发加热。动机是「未来硅世界」直播上创意产品缺传播渠道，故办自荐与推荐。[^vista8-ai-tool-self-rec] 原帖 <https://x.com/vista8/status/2115318655525523714>。证据是短帖活动规则与动机，未给转发效果或长期获客数据。
 
@@ -41,10 +51,15 @@ Scope: this page owns **self-rec + host-amplify distribution when community AI p
 
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+较早的[自荐活动](../sources/articles/vista8-ai-tool-self-rec.md)以主持人转发为机制，[建站尝试](../sources/articles/vista8-grok-bot-comment-project-website.md)随后提出聚合评论作品、但尚不确定能否完成；新的[成站报告](../sources/articles/vista8-vibe-coding-project-showcase.md)则称已经做成网站。这是完成状态的后续变化，应保留早期的不确定性记录；新帖仍未说明网站是否沿用原筛选规则，也未给出传播效果数据。[^vista8-grok-bot-comment-project-website][^vista8-vibe-coding-project-showcase]
+
+The earlier [recommendation drive](../sources/articles/vista8-ai-tool-self-rec.md) uses host forwarding; the [website attempt](../sources/articles/vista8-grok-bot-comment-project-website.md) then proposes aggregating replies with completion uncertain. The new [completion report](../sources/articles/vista8-vibe-coding-project-showcase.md) says the website is built. This is a subsequent change in completion status, so the earlier uncertainty remains part of the record; the new post still does not establish whether the site retains the original screening rules or provide distribution outcomes.[^vista8-grok-bot-comment-project-website][^vista8-vibe-coding-project-showcase]
 
 ## 相关 / Related
 
+- Source: [向阳乔木将 Vibe Coding 作品做成展示网站 / vista8 turns Vibe Coding projects into a showcase website](../sources/articles/vista8-vibe-coding-project-showcase.md)
+
+- Source: [向阳乔木尝试用 Grok Bot 将评论区作品整理成网站 / vista8 tries turning reply-thread projects into a website with Grok Bot](../sources/articles/vista8-grok-bot-comment-project-website.md)
 - Source: [向阳乔木谈 AI 工具自荐活动](../sources/articles/vista8-ai-tool-self-rec.md)
 - Source: [向阳乔木谈三年订阅 Raycast AI](../sources/articles/vista8-raycast-ai.md)
 - Topic: [启动器快捷键 AI 优于打开 Agent](./launcher-shortcut-ai-over-agent.md)
@@ -55,3 +70,7 @@ Scope: this page owns **self-rec + host-amplify distribution when community AI p
 
 [^vista8-ai-tool-self-rec]: vista8 on an AI-tool self-recommendation drive
 [^vista8-raycast-ai]: vista8 on three years of Raycast AI
+
+[^vista8-grok-bot-comment-project-website]: vista8 on asking Grok Bot to organize reply-thread projects into a website
+
+[^vista8-vibe-coding-project-showcase]: vista8 on a Vibe Coding project showcase website

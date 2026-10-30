@@ -1,0 +1,23 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "已有插件维护与治理边界，可承载分发链路完整性及持久化风险。",
+    "topics/account-and-asset-security-hygiene.md": "检查个人安全主题是否合适；其范围为账号与支付工具卫生。"
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "整合渠道完整性、加载触发、权限失败与残留的区别，并补充官方维护诉求的边界。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "原文主要是扩展供应链事件，没有新增密码、2FA 或支付工具证据；交由插件治理主题承载。"
+    }
+  ],
+  "new_topic_reasons": {}
+}

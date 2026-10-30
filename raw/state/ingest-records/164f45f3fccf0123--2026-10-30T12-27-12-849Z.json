@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:27:12.849Z",
+  "url": "https://x.com/yetone/status/2116064188376502374",
+  "slug": "164f45f3fccf0123",
+  "content_hash": "7c47baf91a76e3efd6b0b5e8e2276b479c1b74c82c1a0785888fcc0cddc4460b",
+  "source": {
+    "path": "sources/articles/yetone-alma-herdr-core-tui-compatibility.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/phone-own-server-agent-workbench.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "已包含 Alma 移动扩展，但新帖不提供核心精简或社区扩展策略证据，兼容细节集中到手机开发主题。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "add_evidence",
+      "reason": "已有 Alma 原生客户端证据；整合双后端兼容边界及相对早期 Claude Code 限制的变化。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "相邻的手机远程控制面主题；新帖未提供自有服务器部署、订阅复用或多 Agent 工作台的新证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "已有 Alma 原生客户端证据；整合双后端兼容边界及相对早期 Claude Code 限制的变化。",
+    "topics/minimal-core-community-extensions.md": "已包含 Alma 移动扩展，但新帖不提供核心精简或社区扩展策略证据，兼容细节集中到手机开发主题。",
+    "topics/phone-own-server-agent-workbench.md": "相邻的手机远程控制面主题；新帖未提供自有服务器部署、订阅复用或多 Agent 工作台的新证据，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yetone-alma-herdr-core-tui-compatibility.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/phone-own-server-agent-workbench.md"
+    ],
+    "selection_reasons": {
+      "topics/mobile-agent-dev-full-chain.md": "已有 Alma 原生客户端证据；整合双后端兼容边界及相对早期 Claude Code 限制的变化。",
+      "topics/minimal-core-community-extensions.md": "已包含 Alma 移动扩展，但新帖不提供核心精简或社区扩展策略证据，兼容细节集中到手机开发主题。",
+      "topics/phone-own-server-agent-workbench.md": "相邻的手机远程控制面主题；新帖未提供自有服务器部署、订阅复用或多 Agent 工作台的新证据，保持不变。"
+    },
+    "notes": null,
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yetone-alma-herdr-core-tui-compatibility.md",
+        "topics/mobile-agent-dev-full-chain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

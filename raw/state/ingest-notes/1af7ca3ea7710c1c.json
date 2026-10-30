@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "Owns the original community submission drive and distribution mechanism; integrate the proposed aggregation site and distinguish delegation from completion.",
+    "topics/mobile-agent-dev-full-chain.md": "Consulted for the Grok Bot website overlap; unchanged because this post provides no phone interface, cloud execution, deployment, or release-chain evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "add_evidence",
+      "reason": "Owns the original community submission drive and distribution mechanism; integrate the proposed aggregation site and distinguish delegation from completion."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for the Grok Bot website overlap; unchanged because this post provides no phone interface, cloud execution, deployment, or release-chain evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "One new Source for the exact supplied URL. Quoted earlier drive is context, not a second Source. No completion claim; no new Topic needed."
+}

@@ -1,0 +1,17 @@
+{
+  "topics_consulted": [
+    "topics/agent-home-platform-control.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-home-platform-control.md": "现有主题已覆盖同作者通过个人 Agent 控制烤箱；可承接食谱驱动温控的用途与验证边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "add_evidence",
+      "reason": "加入食谱驱动程序编排的证据，区分既有菜单控制与尚待试做的叉烧计划，并保留控制接口未知的范围。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Only the requested ingest-notes file is written under raw/state; fetched inputs are unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "已有企业 Harness 生命周期责任；新增 README 对恢复、完成验证及 Model/Harness 归因边界的直接依据。",
+    "topics/agent-compute-and-governance.md": "已有运行治理责任与调查证据边界；新增 README 对仿真、轨迹和回归闭环的直接依据。",
+    "topics/context-engineering-for-agents.md": "目录仅列上下文、状态与记忆主题，没有足以扩展已有具体机制或效果边界的章节正文，保持不变。",
+    "topics/workflows-before-agents.md": "最低充分架构与既有从简单系统起步结论一致，README 未展开新的选择规则，无需重复补写。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "add_evidence",
+      "reason": "已有企业 Harness 生命周期责任；新增 README 对恢复、完成验证及 Model/Harness 归因边界的直接依据。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "add_evidence",
+      "reason": "已有运行治理责任与调查证据边界；新增 README 对仿真、轨迹和回归闭环的直接依据。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "目录仅列上下文、状态与记忆主题，没有足以扩展已有具体机制或效果边界的章节正文，保持不变。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "最低充分架构与既有从简单系统起步结论一致，README 未展开新的选择规则，无需重复补写。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅归档给定 README，不抓取章节或调研；既有 X 介绍帖属于不同作品，保持原 Source 不变。"
+}

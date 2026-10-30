@@ -18,9 +18,15 @@ sources:
   - id: financeyf5-anthropic-analyst-agent-deference
     resource: https://x.com/FinanceYF5/status/2115698963919884666
     title: AI Will on Anthropic’s analyst–agent deference experiment
+  - id: shao-meng-addy-opus-overprompting
+    resource: https://x.com/shao__meng/status/2115986116482613486
+    title: "Meng Shao relays Addy on overprompting in the Opus 5.5 era"
+  - id: heydengai-less-prompting-more-acceptance
+    resource: https://x.com/heydengai/status/2116029608818815439
+    title: "heydengai on AI coding: less prompting, more acceptance review"
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:22:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:50:32+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -54,13 +60,29 @@ Working with AI is not “more detail always wins” or “more autonomy always 
 
 It shares “when to tighten vs loosen” with [Human design gate for divergent tasks](./divergent-tasks-human-design-gate.md), but different cuts: that page shifts checkpoints by task divergence (design-draft gate vs single prompt + result review); this page treats over-/under-guidance itself as a calibratable meta-skill and hiring signal. It aligns with [One question at a time](./one-question-at-a-time.md) on narrowing direction when underspecified, but that page is a sequential clarification move, not a bilateral tight/loose dial. It can be read alongside [Agent-scaled engineering](./agent-scaled-engineering.md)’s “stop being a messenger; hand full data and real outcomes” as resistance to one form of over-filtering, but that page owns team throughput and workflow value ranking, not this page’s #0 hiring calibration skill.
 
+模型升级后，校准引导可按“目标与验收明确、实现步骤放手”执行：先用澄清形成规格，再到新会话实现；旧指令先删后按实际遗漏恢复。这为 Content Studio 的删补丁经验增加操作方法，但文中系统提示删八成的评测说法缺少数据，不能推广成所有任务都应少写提示。 见[邵萌转述 Addy](../sources/articles/shao-meng-addy-opus-overprompting.md)。[^shao-meng-addy-opus-overprompting]
+
+After a model upgrade, guidance can be calibrated by making goals and verification explicit while leaving implementation steps open: clarify a specification, implement in a fresh session, and remove old instructions before restoring observed omissions. This operationalizes Content Studio’s patch-removal experience, but the reported evaluation claim about removing 80% of a system prompt lacks data and does not establish that every task needs less prompting. See [Meng Shao relaying Addy](../sources/articles/shao-meng-addy-opus-overprompting.md).[^shao-meng-addy-opus-overprompting]
+
+目标与验收明确后，减少过程提示还需要保留责任分工：[小邓的概括](../sources/articles/heydengai-less-prompting-more-acceptance.md)将其写为人定目标与检查标准、AI 自主执行并自审、最后由人验收。这与邵萌转述 Addy 的目标导向建议同向，补充的是自审先于人审的顺序；它仍保留人定义成功与最终检查的职责，不能把“少说话”理解为省去验收。原帖没有提供自审机制或效率比较。[^heydengai-less-prompting-more-acceptance]
+
+Once goals and acceptance criteria are clear, reducing implementation prompts still requires a division of responsibility: [heydengai’s summary](../sources/articles/heydengai-less-prompting-more-acceptance.md) assigns goals and checks to humans, execution and initial self-review to AI, and final acceptance review to humans. It aligns with Meng Shao’s account of Addy’s goal-oriented advice and adds an explicit self-review-before-human-review sequence. Humans still define success and inspect results; less talking does not remove acceptance review. The post supplies neither a self-review mechanism nor an efficiency comparison.[^heydengai-less-prompting-more-acceptance]
+
 ## 矛盾与变化 / Contradictions
 
 [Rauch 谈过度与不足引导 AI](../sources/articles/rauchg-over-under-guide-ai.md) 把协作失败收成「人对模型引导过紧或过松」，并把管好旋钮当作可训练的 #0 技能。[^rauchg-over-under-guide-ai] [AI Will 转述 Anthropic 分析师随智能体倾向实验](../sources/articles/financeyf5-anthropic-analyst-agent-deference.md) 则显示专家委托智能体后，决策可大量跟随智能体预设倾向而本人未察觉——问题不只在「有没有拧对松紧」，还在**自觉主导与实测对齐之间的裂缝**；后者详述见 [专家决策跟随智能体预设](./expert-decisions-follow-agent-presets.md)。[^financeyf5-anthropic-analyst-agent-deference] 两来源可并存：旋钮技能仍重要，但不能替代对委托后主导权的测量与外部核验。
 
 [Rauch on over- and under-guiding AI](../sources/articles/rauchg-over-under-guide-ai.md) folds collaboration failure into “humans guide the model too tight or too loose” and treats dial management as a trainable #0 skill.[^rauchg-over-under-guide-ai] [AI Will on Anthropic’s analyst–agent deference experiment](../sources/articles/financeyf5-anthropic-analyst-agent-deference.md) reports that after delegation, decisions can largely follow agent preset tendencies without awareness—a gap between **felt leadership and measured alignment**, not only mis-tuned guidance; detail under [Expert decisions following agent presets](./expert-decisions-follow-agent-presets.md).[^financeyf5-anthropic-analyst-agent-deference] Both can stand: dial skill still matters, but does not replace measuring leadership after delegation and external checks.
 
+[小邓](../sources/articles/heydengai-less-prompting-more-acceptance.md)笼统主张执行、自审后再由人看结果；[WquGuru](../sources/articles/wquguru-divergent-tasks-human-design-gate.md)则对界面设计等强发散任务要求先人审设计稿。两者在人介入时点上有张力：前者未区分任务类型，后者给出事前门禁的适用边界；不能据前者取消强发散任务的设计把关。小邓未说明自审是否独立，因此其建议也未解决[对抗评审与外部证据](./adversarial-review-external-evidence.md)所强调的同会话自评风险。[^heydengai-less-prompting-more-acceptance]
+
+[heydengai](../sources/articles/heydengai-less-prompting-more-acceptance.md) broadly recommends human inspection after execution and self-review, while [WquGuru](../sources/articles/wquguru-divergent-tasks-human-design-gate.md) calls for human approval of design drafts before highly divergent work such as UI implementation. Their human checkpoints are in tension: the former does not distinguish task types, while the latter defines a scope for earlier gates. The former does not justify removing design approval for divergent tasks. Since heydengai does not specify independent self-review, the advice also leaves unresolved the same-session self-evaluation risk emphasized in [Adversarial review and external evidence](./adversarial-review-external-evidence.md).[^heydengai-less-prompting-more-acceptance]
+
 ## 相关 / Related
+
+- [小邓谈少说话多验收 / heydengai on less prompting and more acceptance review](../sources/articles/heydengai-less-prompting-more-acceptance.md)
+
+- [邵萌转述 Addy / Meng Shao relays Addy](../sources/articles/shao-meng-addy-opus-overprompting.md)
 
 - Source: [Rauch 谈过度与不足引导 AI](../sources/articles/rauchg-over-under-guide-ai.md)
 - Source: [邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md)
@@ -77,3 +99,7 @@ It shares “when to tighten vs loosen” with [Human design gate for divergent 
 [^shao-meng-langchain-content-studio]: Meng Shao on four months of LangChain Content Studio
 [^dotey-openai-swe-interview-flow]: Dotey relays an OpenAI SWE interview walkthrough
 [^financeyf5-anthropic-analyst-agent-deference]: AI Will on Anthropic’s analyst–agent deference experiment
+
+[^shao-meng-addy-opus-overprompting]: Meng Shao relays Addy on overprompting in the Opus 5.5 era
+
+[^heydengai-less-prompting-more-acceptance]: heydengai on less prompting and more acceptance review

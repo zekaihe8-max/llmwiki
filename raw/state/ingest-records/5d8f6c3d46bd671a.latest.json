@@ -1,0 +1,64 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:49:29.526Z",
+  "url": "https://x.com/heydengai/status/2116019898422083808",
+  "slug": "5d8f6c3d46bd671a",
+  "content_hash": "cad432f10b8bfeb510b304967bfe411776da621e8633a1bc2c75cd247aa1a27c",
+  "source": {
+    "path": "sources/articles/heydengai-retrieval-instead-of-compaction.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "Owns retrieval, compaction, and session memory; integrate retention versus recall and limited recovery-cost evidence."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "record_contradiction",
+      "reason": "Owns compaction thresholds and the same author’s earlier-compaction advice; record the conflicting strategy directions without inferring a retraction."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "Owns retrieval, compaction, and session memory; integrate retention versus recall and limited recovery-cost evidence.",
+    "topics/long-conversation-default-compression.md": "Owns compaction thresholds and the same author’s earlier-compaction advice; record the conflicting strategy directions without inferring a retraction."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/heydengai-retrieval-instead-of-compaction.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/long-conversation-default-compression.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "Owns retrieval, compaction, and session memory; integrate retention versus recall and limited recovery-cost evidence.",
+      "topics/long-conversation-default-compression.md": "Owns compaction thresholds and the same author’s earlier-compaction advice; record the conflicting strategy directions without inferring a retraction."
+    },
+    "notes": "No new Topic needed. Fetched quoted English post is truncated; numerical results are attributed to the Chinese relay. Only the explicitly requested ingest notes are written under raw/.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/heydengai-retrieval-instead-of-compaction.md",
+        "topics/context-engineering-for-agents.md",
+        "topics/long-conversation-default-compression.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

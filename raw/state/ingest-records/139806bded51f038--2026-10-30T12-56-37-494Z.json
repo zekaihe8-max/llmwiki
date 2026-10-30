@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:56:37.494Z",
+  "url": "https://x.com/0xLogicrw/status/2116080352435577057",
+  "slug": "139806bded51f038",
+  "content_hash": "8c42bd53974d0c98da192b80982491fd2af6caca399d75bac95ad6850de52701",
+  "source": {
+    "path": "sources/articles/logicrw-factory-droid-code-mode.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Consulted for token-saving mechanisms; left unchanged because this article describes harness orchestration, not a new peripheral tool or configuration method."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted for context-budget overlap; left unchanged because no retrieval, pruning, memory, or context-selection technique is detailed; orchestration metrics fit the harness comparison Topic."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "add_evidence",
+      "reason": "Owns execution efficiency comparisons; added script-based orchestration, distinct metric scopes, and the speed-claim comparison boundary."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "Owns execution efficiency comparisons; added script-based orchestration, distinct metric scopes, and the speed-claim comparison boundary.",
+    "topics/coding-agent-token-saving-tooling.md": "Consulted for token-saving mechanisms; left unchanged because this article describes harness orchestration, not a new peripheral tool or configuration method.",
+    "topics/context-engineering-for-agents.md": "Consulted for context-budget overlap; left unchanged because no retrieval, pruning, memory, or context-selection technique is detailed; orchestration metrics fit the harness comparison Topic."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/logicrw-factory-droid-code-mode.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "Owns execution efficiency comparisons; added script-based orchestration, distinct metric scopes, and the speed-claim comparison boundary.",
+      "topics/coding-agent-token-saving-tooling.md": "Consulted for token-saving mechanisms; left unchanged because this article describes harness orchestration, not a new peripheral tool or configuration method.",
+      "topics/context-engineering-for-agents.md": "Consulted for context-budget overlap; left unchanged because no retrieval, pruning, memory, or context-selection technique is detailed; orchestration metrics fit the harness comparison Topic."
+    },
+    "notes": "No new Topic required. Preserved fetched input and existing unrelated edits; all numerical results remain attributed reports, with estimated and actual baselines distinguished.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/logicrw-factory-droid-code-mode.md",
+        "topics/harness-comparison-beyond-tokens.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

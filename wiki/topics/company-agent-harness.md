@@ -2,8 +2,8 @@
 type: Topic
 title: 公司级 Agent Harness 五原语
 title_en: Company agent harness — five primitives
-description: 多玩家公司级 agent harness 常收敛到五条原语：落在已有工作面、OBO/自有身份、全局与用户记忆、沙箱执行与鉴权代理、大量定时或 ambient 跑；身份被点成最难的一题。
-description_en: Multiplayer company agent harnesses often converge on five primitives—live where people already work, OBO vs own identity, global and user memory, sandboxed execution with auth proxy, and a large share of scheduled or ambient runs—with identity called the hardest problem.
+description: 企业 Harness 的五原语还需要贯穿生产生命周期的验证与治理；身份、记忆和沙箱是组件基础，评估、成本归因与资产管理决定其如何持续运行。
+description_en: The five enterprise harness primitives also need validation and governance across the production lifecycle; identity, memory, and sandboxes provide components, while evaluation, cost attribution, and asset management shape ongoing operation.
 tags: [langchain, company-harness, harness, identity, memory, sandbox, ambient-agents, multiplayer]
 sources:
   - id: hwchase17-company-harness
@@ -15,9 +15,15 @@ sources:
   - id: shao-meng-langchain-content-studio
     resource: https://x.com/shao__meng/status/2115345069570212202
     title: Meng Shao on four months of LangChain Content Studio
+  - id: shao-meng-aliyun-ai-agent-handbook
+    resource: https://x.com/shao__meng/status/2115975663148765204
+    title: Meng Shao on Alibaba Cloud’s AI Agent Handbook
+  - id: aliyun-ai-agent-handbook
+    resource: https://github.com/aliyun/ai-agent-handbook
+    title: AI Agent Handbook
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T20:40:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:16:19+08:00
 ---
 
 # 公司级 Agent Harness 五原语
@@ -29,6 +35,14 @@ generated:
 A company can run multiplayer agents across marketing, sales, and engineering at once; getting that right is often not another chatbot, but converging on the same harness primitives—live where people already work, separate OBO from the agent’s own identity when acting, memory at global and user scope, code in a sandbox with safe auth, and a large share of runs kicked by schedules or events rather than an explicit click.[^hwchase17-company-harness]
 
 ## 综合分析 / Synthesis
+
+Harness 的生命周期责任也需要明确完成判据与故障归因边界。直接的[手册 README](../sources/articles/aliyun-ai-agent-handbook.md) 将可中断恢复、可验证完成列为任务系统目标，并区分 Model 与 Harness 的责任；因此可以把五原语作为组件视图，再用任务推进、恢复与验证检查其协作是否闭环，而不能把执行失败一概归因于模型。这是设计目标与目录证据，尚不证明某种实现达到可靠性指标。[^aliyun-ai-agent-handbook]
+
+Lifecycle responsibilities for a harness also need explicit completion criteria and boundaries for failure attribution. The direct [handbook README](../sources/articles/aliyun-ai-agent-handbook.md) makes interruption recovery and verifiable completion goals for task systems and distinguishes Model and Harness responsibilities. The five primitives can therefore serve as a component view, with progress, recovery, and verification used to check whether the components form a complete loop, rather than attributing every execution failure to the model. These are design goals and outline evidence, without proof that an implementation meets reliability targets.[^aliyun-ai-agent-handbook]
+
+企业 Harness 的组件清单需要和生命周期责任一起设计：记忆与沙箱承接状态及执行，受控行动还要接身份鉴权、验证闭环和 HITL，持续运行则依赖可观测、成本归因、资产版本与上线前仿真。[邵萌介绍阿里云手册](../sources/articles/shao-meng-aliyun-ai-agent-handbook.md) 将这些环节围绕 Harness、Runtime 与治理分工组织，补充了 Chase 的五原语配方，而非增加第六条原语。帖子转述单 Agent、多 Agent 与 HITL 架构共存，支持把自主度当作可调参数；手册目录与调查转述不能证明这些环节已在所有企业成熟落地。[^shao-meng-aliyun-ai-agent-handbook]
+
+Enterprise harness components need lifecycle responsibilities alongside them: memory and sandboxes support state and execution, controlled action also requires identity and authentication, validation loops, and HITL, and ongoing operation relies on observability, cost attribution, asset versioning, and pre-release simulation. [Meng Shao’s introduction to the Alibaba Cloud handbook](../sources/articles/shao-meng-aliyun-ai-agent-handbook.md) organizes these concerns around harness, runtime, and governance responsibilities, complementing Chase’s five-primitive recipe rather than adding a sixth primitive. The post’s report that single-agent, multiagent, and HITL architectures coexist supports treating autonomy as adjustable; a handbook outline and relayed survey do not establish mature implementation across enterprises.[^shao-meng-aliyun-ai-agent-handbook]
 
 [Harrison Chase 谈公司级 Harness 五原语](../sources/articles/hwchase17-company-harness.md) 以 LangChain 内部 GTM Agent、OpenSWE、Content Studio 为据，给出「company harness」通例与五条原语，并点出身份是最棘手问题；体验上还有 Slack breakout 与积压场景的自定义 UI；基建落在 Managed Deep Agents（叠开源 Deep Agents）。[^hwchase17-company-harness] 原帖 <https://x.com/hwchase17/status/2114041443836903662>。
 
@@ -71,3 +85,7 @@ Adjacent but different cuts, so not folded into existing Topics: [Agent identity
 [^hwchase17-company-harness]: Harrison Chase on the five components of a company harness
 [^dotey-lesse-multiagent-four-infra]: Dotey relays Lesse—four infra gaps for thousand-agent systems
 [^shao-meng-langchain-content-studio]: Meng Shao on four months of LangChain Content Studio
+
+[^shao-meng-aliyun-ai-agent-handbook]: Meng Shao on Alibaba Cloud’s AI Agent Handbook
+
+[^aliyun-ai-agent-handbook]: AI Agent Handbook

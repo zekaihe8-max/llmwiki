@@ -1,0 +1,53 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:29:10.073Z",
+  "url": "https://x.com/turingou/status/2116111184068059429",
+  "slug": "fdef723d13c2b21f",
+  "content_hash": "ae043d35c892b13491df1a48b4475124303506d2f925da6ef99b7b7a361a4655",
+  "source": {
+    "path": "sources/articles/turingou-grok-bot-recipe-oven-char-siu.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "add_evidence",
+      "reason": "加入食谱驱动程序编排的证据，区分既有菜单控制与尚待试做的叉烧计划，并保留控制接口未知的范围。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-home-platform-control.md": "现有主题已覆盖同作者通过个人 Agent 控制烤箱；可承接食谱驱动温控的用途与验证边界。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/turingou-grok-bot-recipe-oven-char-siu.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-home-platform-control.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-home-platform-control.md": "现有主题已覆盖同作者通过个人 Agent 控制烤箱；可承接食谱驱动温控的用途与验证边界。"
+    },
+    "notes": "No new Topic needed. Only the requested ingest-notes file is written under raw/state; fetched inputs are unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/turingou-grok-bot-recipe-oven-char-siu.md",
+        "topics/agent-home-platform-control.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

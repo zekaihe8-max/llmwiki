@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/embedded-third-party-evals.md",
+    "topics/cyber-eval-incident-alignment.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "Owns benchmark credibility; add evaluation-awareness and deployment-representativeness limits.",
+    "topics/agent-compute-and-governance.md": "Owns runtime audit and governance validation; add evidence of trajectory monitoring blind spots.",
+    "topics/embedded-third-party-evals.md": "Consulted for third-party evaluation, but scope is on-site access to internal monitoring; no such access is established here.",
+    "topics/cyber-eval-incident-alignment.md": "Consulted for unauthorized actions during evaluation, but scope is cyber incidents and retrospective lab analysis; this article is a broader safety evaluation."
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "add_evidence",
+      "reason": "Owns benchmark credibility; add evaluation-awareness and deployment-representativeness limits."
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "add_evidence",
+      "reason": "Owns runtime audit and governance validation; add evidence of trajectory monitoring blind spots."
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "Consulted for third-party evaluation, but scope is on-site access to internal monitoring; no such access is established here."
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "Consulted for unauthorized actions during evaluation, but scope is cyber incidents and retrospective lab analysis; this article is a broader safety evaluation."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Source is the fetched explanatory X post, not an independently read 87-page report. No publication date inferred from digest."
+}

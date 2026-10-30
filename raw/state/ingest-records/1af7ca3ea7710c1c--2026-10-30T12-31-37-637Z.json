@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:31:37.637Z",
+  "url": "https://x.com/vista8/status/2115959252275876147",
+  "slug": "1af7ca3ea7710c1c",
+  "content_hash": "459dd7c0e10510823c25bf2c908c1894320d0f8f736499622078065d4904a5d1",
+  "source": {
+    "path": "sources/articles/vista8-grok-bot-comment-project-website.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "add_evidence",
+      "reason": "Owns the original community submission drive and distribution mechanism; integrate the proposed aggregation site and distinguish delegation from completion."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted for the Grok Bot website overlap; unchanged because this post provides no phone interface, cloud execution, deployment, or release-chain evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "Owns the original community submission drive and distribution mechanism; integrate the proposed aggregation site and distinguish delegation from completion.",
+    "topics/mobile-agent-dev-full-chain.md": "Consulted for the Grok Bot website overlap; unchanged because this post provides no phone interface, cloud execution, deployment, or release-chain evidence."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vista8-grok-bot-comment-project-website.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/mobile-agent-dev-full-chain.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-product-self-rec-amplify.md": "Owns the original community submission drive and distribution mechanism; integrate the proposed aggregation site and distinguish delegation from completion.",
+      "topics/mobile-agent-dev-full-chain.md": "Consulted for the Grok Bot website overlap; unchanged because this post provides no phone interface, cloud execution, deployment, or release-chain evidence."
+    },
+    "notes": "One new Source for the exact supplied URL. Quoted earlier drive is context, not a second Source. No completion claim; no new Topic needed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vista8-grok-bot-comment-project-website.md",
+        "topics/ai-product-self-rec-amplify.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -33,9 +33,15 @@ sources:
   - id: yetone-magpie-image-mcp-video
     resource: https://x.com/yetone/status/2115666512396906824
     title: yetone on magpie-image MCP supporting video generation
+  - id: xiaomovps-pi-durable-performance
+    resource: https://x.com/xiaomovps/status/2116116088236937361
+    title: Xiaomo on Pi Durable persistence performance
+  - id: cursor-extension-poisoning
+    resource: https://x.com/0xLogicrw/status/2116093465591452001
+    title: Logicrw on Cursor marketplace extension poisoning
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:38:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:55:06+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -89,11 +95,31 @@ Another product line, [yetone on Magpie’s full pluginization](../sources/artic
 
 [yetone on magpie-image MCP supporting video generation](../sources/articles/yetone-magpie-image-mcp-video.md) adds a named Magpie plugin/MCP capability case: [@yetone](https://x.com/yetone) says that after installing the **magpie-image** MCP on an Agent in Magpie it **also supports video generation**, and that many may not know—aligned with post–“full pluginization” capability expansion, but here a named MCP stretches from “image” in the name to video; the fetched body gives no tool list, parameters, or image detail.[^yetone-magpie-image-mcp-video] Post: <https://x.com/yetone/status/2115666512396906824>. Unified MCP storage and per-agent writes stay under [Unified cross-agent resource library](./unified-agent-resource-library.md); this page does not own install UI or library import flows.
 
+Pi Pocket 等周边依赖的持久化底座也有独立的工程成本：[小墨谈 Pi Durable 持久化性能优化](../sources/articles/xiaomovps-pi-durable-performance.md) 表明，扩展后台恢复能力时，还需评估状态提交频率与并发资源消耗。帖述 32 路并行 SQLite 测试以更少事务降低磁盘写入和 CPU；流式输出在内存更新后批写，则把实时显示与落盘时间分开。这给精简核心周边扩展增加了适用边界：应区分已提交步骤的恢复与最近流式输出的保存，不能把可恢复理解为所有可见输出都已持久化；这些测试也不能直接推广为所有部署的收益，部分优化仍在开发分支。[^xiaomovps-pi-durable-performance]
+
+The persistence layer supporting extensions such as Pi Pocket also has engineering costs: [Xiaomo on Pi Durable persistence performance](../sources/articles/xiaomovps-pi-durable-performance.md) shows that background recovery extensions require attention to state-commit frequency and concurrent resource use. The reported 32-way parallel SQLite test reduces disk writes and CPU through fewer transactions; batching streaming output after in-memory updates separates live display from persistence time. This adds a scope boundary to extensions around a slim core: recovery of committed steps differs from preservation of the latest streamed output, so recoverability does not imply that all visible output has been persisted. The test gains cannot be generalized to every deployment, and some optimizations remain on development branches.[^xiaomovps-pi-durable-performance]
+
+插件治理还须区分维护质量与分发渠道完整性：即使扩展功能仍正常，加载时执行的代码也可能越过用户实际调用功能的边界。[Cursor 扩展投毒转述](../sources/articles/logicrw-cursor-claude-code-extension-poisoning.md) 描述了商店包被替换、SSH 密钥与自启脚本可能残留的情况。因此，从本案例可推得，治理边界应覆盖加载触发、系统权限与卸载后的持久化，而不能只看功能是否可用。开启 SSH 失败也不能等同于没有信息采集或残留；但这是单一渠道事件的转述，不能推断所有插件、Anthropic 官方包或社区扩展都被攻陷。[^cursor-extension-poisoning]
+
+Plugin governance must distinguish maintenance quality from distribution-channel integrity: code executed on load can exceed the boundary of the feature a user actively invokes even while extension functionality appears normal. The [Cursor extension poisoning account](../sources/articles/logicrw-cursor-claude-code-extension-poisoning.md) describes a replaced marketplace package and possible persistence through SSH keys and startup scripts. The inference from this case is that governance should cover load triggers, system privileges, and persistence after uninstall, beyond functional availability. Failure to enable SSH does not establish an absence of collection or artifacts; however, this account of one channel does not imply compromise of all plugins, Anthropic’s official package, or community extensions.[^cursor-extension-poisoning]
+
 ## 矛盾与变化 / Contradictions
 
 同作者先以 Pi 主张「主干精简、分化在周边」，后又写明 DSH「万物皆插件」、主动组合插件/模型/工具/运行体系——两条产品路线并置，不是互相取消；开放问题是插件组合能否在保持灵活时控制复杂度与 Token，归档在 [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)。后续三坑帖又在同一插件宿主路线上补稳定性与「维护权不宜只交社区」——与 0.2.1 的能力扩张叙事并存，不是取消「万物皆插件」，而是给该路线加上运维代价。Magpie 作者侧「全面插件化」后「甚至可以在 Magpie 里这样」（附图），与小墨对 DSH 插件稳定性/维护权的代价叙事同属插件宿主路线、不同产品不同侧重——并置而非互相取消。 / The same author first argues via Pi for “slim trunk, divergence at the edges,” then states that DSH’s “everything as a plugin” actively composes plugins/models/tools/runtime—two product paths side by side, not a cancellation; whether plugin composition can keep flexibility while controlling complexity and Tokens lives under [Harness comparison beyond tokens](./harness-comparison-beyond-tokens.md). The later three-pitfalls post then adds stability and “don’t leave maintenance to the community alone” on the same plugin-host path—alongside, not canceling, the 0.2.1 capability-expansion narrative; it prices that path with ops cost. Magpie’s author-side “full pluginization” so “you can even do this in Magpie” (screenshot) sits on the same plugin-host path as Xiaomo’s DSH stability/maintenance-cost narrative—different products, different emphasis, side by side rather than canceling.[^xiaomovps-pi-five-branch-projects][^xiaomovps-dsh-021-search-agent-plugins][^xiaomovps-dsh-three-pitfalls][^yetone-magpie-full-pluginization]
 
+此前[Pi 五个分支项目](../sources/articles/xiaomovps-pi-five-branch-projects.md) 强调 Pi Pocket 的后台恢复能力；[Pi Durable 优化帖](../sources/articles/xiaomovps-pi-durable-performance.md) 补充流式批写最多约一秒后落盘、崩溃可能丢失最近输出。这是恢复承诺的细化边界，而非否定已提交步骤可恢复。[^xiaomovps-pi-five-branch-projects][^xiaomovps-pi-durable-performance]
+
+The earlier [five Pi branch projects](../sources/articles/xiaomovps-pi-five-branch-projects.md) highlights Pi Pocket’s background recovery; the [Pi Durable optimization post](../sources/articles/xiaomovps-pi-durable-performance.md) adds that batched streaming writes may persist up to about one second later, with recent output vulnerable to a crash. This refines the recovery boundary rather than denying recovery of committed steps.[^xiaomovps-pi-five-branch-projects][^xiaomovps-pi-durable-performance]
+
+此前 DSH 三坑帖希望官方接手维护，Cursor 事件转述则补充：商店分发链路本身也可能出问题。两者不直接矛盾，但官方维护诉求不能被读成分发包安全保证；也不能把 Cursor 个案归因于 DSH 或 Magpie。[^xiaomovps-dsh-three-pitfalls][^cursor-extension-poisoning]
+
+The earlier DSH pitfalls post calls for official maintenance ownership; the Cursor incident account adds that marketplace distribution itself can fail. These claims do not directly contradict each other, but official maintenance ownership cannot be read as a guarantee of package integrity, nor can this Cursor case be attributed to DSH or Magpie.[^xiaomovps-dsh-three-pitfalls][^cursor-extension-poisoning]
+
 ## 相关 / Related
+
+- Source: [思维怪怪转述 Cursor 商店 Claude Code 扩展投毒事件 / Logicrw reports Claude Code extension poisoning in the Cursor marketplace](../sources/articles/logicrw-cursor-claude-code-extension-poisoning.md)
+
+- Source: [小墨谈 Pi Durable 持久化性能优化 / Xiaomo on Pi Durable persistence performance](../sources/articles/xiaomovps-pi-durable-performance.md)
 
 - Source: [小墨谈 Pi 五个分支项目](../sources/articles/xiaomovps-pi-five-branch-projects.md)
 - Source: [小墨谈 DSH 0.2.1：自研搜索与 Agent 写插件](../sources/articles/xiaomovps-dsh-021-search-agent-plugins.md)
@@ -119,3 +145,7 @@ Another product line, [yetone on Magpie’s full pluginization](../sources/artic
 [^xiaomovps-cloudflare-ai-free-tier]: Xiaomo on Cloudflare AI free tiers and usage
 [^yetone-alma-ios-herdr-native-client]: yetone on Alma iOS integrating a native Herdr client
 [^yetone-magpie-image-mcp-video]: yetone on magpie-image MCP supporting video generation
+
+[^xiaomovps-pi-durable-performance]: Xiaomo on Pi Durable persistence performance
+
+[^cursor-extension-poisoning]: Logicrw on Cursor marketplace extension poisoning

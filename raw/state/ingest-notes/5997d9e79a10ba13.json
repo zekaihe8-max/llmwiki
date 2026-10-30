@@ -1,0 +1,17 @@
+{
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "该主题是目录中最接近的视觉学习概念，但正文限定于 HTML、AI 生图与知识解释叙事；词光帖文只介绍插画词汇练习和 FSRS，未说明 AI 或 HTML，不足以修改其结论、适用范围或矛盾。"
+  },
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "该主题是目录中最接近的视觉学习概念，但正文限定于 HTML、AI 生图与知识解释叙事；词光帖文只介绍插画词汇练习和 FSRS，未说明 AI 或 HTML，不足以修改其结论、适用范围或矛盾。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Reviewed topic catalog and existing article sources; no matching Source URL exists. No new Topic: this brief feature recommendation supplies no validated learning result or developed cross-source conclusion warranting a separate durable topic. Only this requested notes file is written under raw/."
+}

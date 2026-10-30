@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:45:30.241Z",
+  "url": "https://x.com/cgnot996/status/2116068457200726171",
+  "slug": "7c96021ab8aefb60",
+  "content_hash": "e3e03ec7fe428329b551e1aa56e564da03531359535b68fe24f4348a71c361e7",
+  "source": {
+    "path": "sources/articles/cgnot996-grok-bot-halloween-pumpkin-avatar.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/model-mascot-merch-harness-coheat.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "已阅读；该 Topic 聚焦常驻桌面、换装机制与角色陪伴。本帖仅报告节日头像，动画创作只是愿望，未提供桌面陪伴或换装机制的新证据，保持不变。"
+    },
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "unchanged",
+      "reason": "已阅读；该 Topic 聚焦实体吉祥物周边、Harness 同热与信息流传播。本帖没有实体周边或热度传播证据，仅有节日头像观察，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "已阅读；该 Topic 聚焦常驻桌面、换装机制与角色陪伴。本帖仅报告节日头像，动画创作只是愿望，未提供桌面陪伴或换装机制的新证据，保持不变。",
+    "topics/model-mascot-merch-harness-coheat.md": "已阅读；该 Topic 聚焦实体吉祥物周边、Harness 同热与信息流传播。本帖没有实体周边或热度传播证据，仅有节日头像观察，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cgnot996-grok-bot-halloween-pumpkin-avatar.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/desktop-outfit-character-companions.md",
+      "topics/model-mascot-merch-harness-coheat.md"
+    ],
+    "selection_reasons": {
+      "topics/desktop-outfit-character-companions.md": "已阅读；该 Topic 聚焦常驻桌面、换装机制与角色陪伴。本帖仅报告节日头像，动画创作只是愿望，未提供桌面陪伴或换装机制的新证据，保持不变。",
+      "topics/model-mascot-merch-harness-coheat.md": "已阅读；该 Topic 聚焦实体吉祥物周边、Harness 同热与信息流传播。本帖没有实体周边或热度传播证据，仅有节日头像观察，保持不变。"
+    },
+    "notes": "本帖为单次节日外观观察，尚不足以提出独立耐久议题；不新建 Topic，不把作者期待写成已发布功能。用户明确要求的 ingest notes 是本次唯一 raw/ 写入。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cgnot996-grok-bot-halloween-pumpkin-avatar.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

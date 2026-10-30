@@ -33,9 +33,12 @@ sources:
   - id: op7418-malfoy-desktop
     resource: https://github.com/op7418/malfoy-desktop
     title: Malfoy Desktop open-source repository
+  - id: shao-meng-cursor-slack-video-as-code
+    resource: https://x.com/shao__meng/status/2115991611306086574
+    title: Cursor agents rebuild Slack as video from the real interface
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:30:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:18:56+08:00
 ---
 
 # 智能体视频剪辑
@@ -47,6 +50,10 @@ generated:
 Once models have enough coding and tool-calling ability, video editing can follow the path coding already took: “write” cuts via HTML/CSS, SVG, browser rendering, and peers, with agents able to replace junior editors—and the present often still the worst the capability will be. Mid-layer Skills / MCP / plugins that patched ability get eaten by the general model; agent-facing UIs should stay minimal (preview and markers), hand rough cuts to existing pro software, and avoid rebuilding NLE timelines. Human value shifts from operation to taste, feedback, and brand/style consistency.[^dotey-opus-55-agent-video-editing]
 
 ## 综合分析 / Synthesis
+
+代码化视频的验收应区分“能渲染”和“像参考”，并把可判定的视觉失败放进 Agent 的制作—检查—修正内环；人的外环保留参考、偏好、权限与最终评判。[Cursor 看真实 Slack 的演示](../sources/articles/shao-meng-cursor-slack-video-as-code.md) 为这一分工提供实例：真实运行界面也能作为视觉与运动参考，无须反编译；但演示未证明视觉检查的普遍可靠性，登录与访问条件仍由人提供。[^shao-meng-cursor-slack-video-as-code]
+
+Acceptance for coded video should distinguish “renders successfully” from “matches the reference,” placing detectable visual failures inside the agent’s make–check–revise loop; the human outer loop retains references, preferences, access, and final judgment. [The Cursor demo using real Slack](../sources/articles/shao-meng-cursor-slack-video-as-code.md) illustrates this division: a running interface can serve as a visual and motion reference without decompilation, but the demo does not establish general reliability of visual checks, and people still supply login and access.[^shao-meng-cursor-slack-video-as-code]
 
 [宝玉谈 Opus 5.5 后 Agent 剪辑像 Claude Code 刚出](../sources/articles/dotey-opus-55-agent-video-editing.md) 把 Opus 5.5 框成剪辑侧的 Claude Code 时刻：已能替初级剪辑师，却仍刚开始。宝玉自测同片只给 ASR/TTS、不用 Skill 反而更好，并因此把此前剪辑 Skill 与 BaoCut 时间线编辑器退居二线——默认简单预览即可，类比 Codex 不需要 VSCode 式编辑器；Sabba 建议勿重造专业时间线、做好初剪再交出现有软件，与此同向。[^dotey-opus-55-agent-video-editing] 原帖 <https://x.com/dotey/status/2115282464935473225>。
 
@@ -94,6 +101,10 @@ For the tension between “most Skills drop after the model leap” and “style
 
 ## 矛盾与变化 / Contradictions
 
+[宝玉的剪辑实践](../sources/articles/dotey-opus-55-agent-video-editing.md) 认为多数补能力 Skill 可弃；[Matt Palmer 的阶梯（邵萌转述）](../sources/articles/shao-meng-cursor-slack-video-as-code.md) 则主张做成一次后收成 Skill、泛化，再自动化外环。两者的默认取向有张力：后者强调保留调试所得的经验，前者提醒旧能力补丁会失效；本页据此区分可复用的参考、评估与失败经验，以及须随模型能力复查的操作规矩，不能把演示理解为所有剪辑都必须先装 Skill。[^dotey-opus-55-agent-video-editing][^shao-meng-cursor-slack-video-as-code]
+
+[Dotey’s editing practice](../sources/articles/dotey-opus-55-agent-video-editing.md) argues that most capability-patching Skills can go; [Matt Palmer’s ladder, relayed by Meng Shao](../sources/articles/shao-meng-cursor-slack-video-as-code.md), advocates codifying a successful run as a Skill, generalizing it, and then automating the outer loop. Their defaults are in tension: the latter preserves lessons from debugging, while the former warns that old capability patches expire. This page therefore distinguishes reusable references, evaluation, and failure lessons from operating rules that need review as models improve; the demo does not imply that all editing requires installing Skills first.[^dotey-opus-55-agent-video-editing][^shao-meng-cursor-slack-video-as-code]
+
 同帖转述的 Alex 与 Sabba 已分歧：Alex 认为大量广告可全程在 Claude 对话里 agentic 完成；Sabba 认为时间轴与画面空间位置需要更复杂界面，并担忧品牌一致性与可重复性。宝玉将其归因于场景（短广告量产）与生意（卖工具）不同，并指出 Alex 的「按风格拆 Skill + 反馈」本身是在用户侧解决可重复性。[^dotey-opus-55-agent-video-editing]
 
 Alex and Sabba, as relayed in the same post, already split: Alex holds that most ads can finish agentically inside Claude chat; Sabba holds that timeline and on-canvas spatial work need richer UI and worries about brand consistency and repeatability. Dotey ties the split to scene (short-ad volume) versus business (selling tools), and notes Alex’s “style-split Skills + feedback” is itself a user-side fix for repeatability.[^dotey-opus-55-agent-video-editing]
@@ -115,6 +126,8 @@ This page’s lead bundles “mid-layer Skills / MCP / plugins that patched edit
 [Ding’s flatkey remix post](../sources/articles/dingyi-grok-flatkey-bilibili-mv.md) adds **model-choice tension** inside the same “make cuts inside the assistant surface” family: pick MiniMax-H3 for portrait moderation pass, drop seedance-2.5, pay with a 15 s cap and multi-clip stitching—compatible with Dotey’s “Skills can go, default simple preview,” but the bind is **generation API + platform moderation**, not the NLE UI debate; it also does not verify [Xiaomo’s video bots](../sources/articles/xiaomovps-grok-bot-three-video-bots.md) Opus 5.5 routing claim.[^dingyi-grok-flatkey-bilibili-mv][^xiaomovps-grok-bot-three-video-bots]
 
 ## 相关 / Related
+
+- 来源 / Source: [邵萌谈 Cursor 看真实 Slack 生成代码视频 / Meng Shao on Cursor making video as code from real Slack](../sources/articles/shao-meng-cursor-slack-video-as-code.md)
 
 - Source: [宝玉谈 Opus 5.5 后 Agent 剪辑像 Claude Code 刚出](../sources/articles/dotey-opus-55-agent-video-editing.md)
 - Source: [邵萌谈 LangChain Content Studio 四个月实践](../sources/articles/shao-meng-langchain-content-studio.md)
@@ -139,3 +152,5 @@ This page’s lead bundles “mid-layer Skills / MCP / plugins that patched edit
 [^0xlangeai-kid-question-explainer-video]: 0xlangeai on kid-question-driven science explainer video
 [^cgnot996-grok-bot-v0781-shopping-vault-pages]: cgnot996 on Grok Bot v0.78.1 shopping cards, logistics, Pages, and Vault
 [^op7418-malfoy-desktop]: Malfoy Desktop open-source repository
+
+[^shao-meng-cursor-slack-video-as-code]: Cursor agents rebuild Slack as video from the real interface

@@ -1,0 +1,53 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:38:44.577Z",
+  "url": "https://x.com/wquguru/status/2115976473295347989",
+  "slug": "89c0d458dba75bcc",
+  "content_hash": "3d48997beb56713ad3eebc84f5c61705c4ed50677a50376d95297871cda872b1",
+  "source": {
+    "path": "sources/articles/wquguru-muse-mannequin-line-art-prompt.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "record_contradiction",
+      "reason": "加入短帖的两阶段生成与外观约束证据，并与已收录开发经历的拒绝及文字直生路径对照；保留既有质量与许可分析。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "现有主题直接覆盖白模姿势资产的生成、复用与质量边界，可承载固定线稿规格及流程适用限制，无需新建主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/wquguru-muse-mannequin-line-art-prompt.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "现有主题直接覆盖白模姿势资产的生成、复用与质量边界，可承载固定线稿规格及流程适用限制，无需新建主题。"
+    },
+    "notes": "仅新增一篇短帖 Source，未将所链长文预览当作正文；未改动原始文章或简报。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/wquguru-muse-mannequin-line-art-prompt.md",
+        "topics/image-generation-pose-reference-libraries.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

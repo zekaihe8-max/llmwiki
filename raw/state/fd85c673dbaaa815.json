@@ -1,0 +1,23 @@
+{
+  "slug": "fd85c673dbaaa815",
+  "url": "https://x.com/0xLogicrw/status/2116100816054403505",
+  "title": "Neuralink「Hey Neuralink」唤起 Grok Agent",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "filed",
+  "hash": "fd85c673dbaaa8155212eedebd73825b8d38b10d5fb885218f5101c80c4eb74a",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": "2026-10-30T12:04:14.370Z",
+  "content_hash": "adf07f7fe1d5c942cefd8db7797ba6fb51fbf51e7c78f53d71358fa7f2d81fa3",
+  "article_path": "articles/fd85c673dbaaa815.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2116100816054403505",
+  "source_path": "sources/articles/logicrw-neuralink-grok-agent.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "codex",
+  "attempts": [],
+  "filed_at": "2026-10-30T12:57:47.830Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

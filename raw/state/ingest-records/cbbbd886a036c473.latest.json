@@ -1,0 +1,82 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:30:26.551Z",
+  "url": "https://x.com/turingou/status/2116113864710582400",
+  "slug": "cbbbd886a036c473",
+  "content_hash": "470fe6a8de021fc81e3a902bd51ec7282c66d01c190734483517bd92522bf5ec",
+  "source": {
+    "path": "sources/articles/turingou-neuralink-thought-to-speech.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/brain-computer-assisted-speech.md",
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/carplay-voice-assistants.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "create",
+      "reason": "脑信号解码与个人声音合成的辅助表达需要独立概念及证据边界。"
+    },
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "讨论车载语音助手入口，无脑机接口概念，保持不变。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "讨论声音输入输出与情绪保留，不承载脑信号解码；本文无全双工证据，保持不变。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "讨论口述转写后的文书整理，不承载脑机辅助表达，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/brain-computer-assisted-speech.md": "现有语音 Topic 分别承载全双工声音交互、口述文本整理和车载接入，没有页面承载脑信号解码辅助表达及其与个人声音合成的区别。"
+  },
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "讨论声音输入输出与情绪保留，不承载脑信号解码；本文无全双工证据，保持不变。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "讨论口述转写后的文书整理，不承载脑机辅助表达，保持不变。",
+    "topics/carplay-voice-assistants.md": "讨论车载语音助手入口，无脑机接口概念，保持不变。",
+    "topics/brain-computer-assisted-speech.md": "脑信号解码与个人声音合成的辅助表达需要独立概念及证据边界。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/turingou-neuralink-thought-to-speech.md",
+    "topics/brain-computer-assisted-speech.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pure-speech-full-duplex.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/carplay-voice-assistants.md",
+      "topics/brain-computer-assisted-speech.md"
+    ],
+    "selection_reasons": {
+      "topics/pure-speech-full-duplex.md": "讨论声音输入输出与情绪保留，不承载脑信号解码；本文无全双工证据，保持不变。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "讨论口述转写后的文书整理，不承载脑机辅助表达，保持不变。",
+      "topics/carplay-voice-assistants.md": "讨论车载语音助手入口，无脑机接口概念，保持不变。",
+      "topics/brain-computer-assisted-speech.md": "脑信号解码与个人声音合成的辅助表达需要独立概念及证据边界。"
+    },
+    "notes": "仅使用指定抓取正文；内嵌转述末句截断，不补全视频内容或临床结论。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/turingou-neuralink-thought-to-speech.md",
+        "topics/brain-computer-assisted-speech.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
