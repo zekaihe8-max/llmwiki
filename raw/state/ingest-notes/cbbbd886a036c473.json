@@ -1,0 +1,40 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/brain-computer-assisted-speech.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "讨论声音输入输出与情绪保留，不承载脑信号解码；本文无全双工证据，保持不变。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "讨论口述转写后的文书整理，不承载脑机辅助表达，保持不变。",
+    "topics/carplay-voice-assistants.md": "讨论车载语音助手入口，无脑机接口概念，保持不变。",
+    "topics/brain-computer-assisted-speech.md": "脑信号解码与个人声音合成的辅助表达需要独立概念及证据边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "讨论声音输入输出与情绪保留，不承载脑信号解码；本文无全双工证据，保持不变。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "讨论口述转写后的文书整理，不承载脑机辅助表达，保持不变。"
+    },
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "讨论车载语音助手入口，无脑机接口概念，保持不变。"
+    },
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "create",
+      "reason": "脑信号解码与个人声音合成的辅助表达需要独立概念及证据边界。"
+    }
+  ],
+  "new_topic_reasons": {
+    "topics/brain-computer-assisted-speech.md": "现有语音 Topic 分别承载全双工声音交互、口述文本整理和车载接入，没有页面承载脑信号解码辅助表达及其与个人声音合成的区别。"
+  },
+  "notes": "仅使用指定抓取正文；内嵌转述末句截断，不补全视频内容或临床结论。"
+}

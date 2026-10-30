@@ -1,0 +1,45 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "五原语已有概念归属，补充生命周期责任与自主度边界。",
+    "topics/agent-compute-and-governance.md": "已有运行治理主题，补充具体治理责任和部署与评估的区分。",
+    "topics/context-engineering-for-agents.md": "已覆盖上下文和记忆；本帖只报需求比例，没有新的上下文方法，保持不变。",
+    "topics/workflows-before-agents.md": "自主度可调与简单优先兼容，但没有新选择规则，保持不变。",
+    "topics/multiagent-infra-four-problems.md": "手册目录未证明上千 Agent 的四个开放问题已解决，保持既有结论。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "add_evidence",
+      "reason": "五原语已有概念归属，补充生命周期责任与自主度边界。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "add_evidence",
+      "reason": "已有运行治理主题，补充具体治理责任和部署与评估的区分。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "已覆盖上下文和记忆；本帖只报需求比例，没有新的上下文方法，保持不变。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "自主度可调与简单优先兼容，但没有新选择规则，保持不变。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "手册目录未证明上千 Agent 的四个开放问题已解决，保持既有结论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "只归档已提供的帖子；未抓取手册或将调研转述视为独立验证。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "Owns factory-style software delivery; integrate infrastructure and database-state constraints with existing bounded-delivery criteria.",
+    "topics/agent-compute-and-governance.md": "Adjacent runtime infrastructure topic; unchanged because the post adds no concrete compute or governance controls, and the factory Topic owns the claim.",
+    "topics/multiagent-infra-four-problems.md": "Stateful scheduling is adjacent; unchanged because the post supplies no thousand-agent scheduling, identity, isolation, or observability evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "add_evidence",
+      "reason": "Owns factory-style software delivery; integrate infrastructure and database-state constraints with existing bounded-delivery criteria."
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Adjacent runtime infrastructure topic; unchanged because the post adds no concrete compute or governance controls, and the factory Topic owns the claim."
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Stateful scheduling is adjacent; unchanged because the post supplies no thousand-agent scheduling, identity, isolation, or observability evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Source is the fetched FinanceYF5 post, not the digest or an independently verified interview. Existing unrelated workspace changes preserved."
+}

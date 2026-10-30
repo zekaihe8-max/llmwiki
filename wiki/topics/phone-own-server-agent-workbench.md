@@ -9,9 +9,12 @@ sources:
   - id: heydengai-openbot-app-store
     resource: https://x.com/heydengai/status/2115367414368202876
     title: Heydengai on OpenBot shipping on the App Store
+  - id: xiaomovps-five-grok-bot-alternatives
+    resource: https://x.com/xiaomovps/status/2116040504425255099
+    title: Xiaomo on five open-source alternatives to Grok Bot
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T23:01:24+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:21:47+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings. Pair ZH then EN as adjacent paragraphs/bullets, or same-line `中文。 / English.`. Shared code/URLs/wiki links are not translations; product names alone do not count as English. Format check ≠ translation quality. -->
 
@@ -25,6 +28,10 @@ When the agent workbench already sits on a self-owned (or self-managed) server, 
 
 ## 综合分析 / Synthesis
 
+手机入口与服务器执行应分开评估：[小墨的替代项目整理](../sources/articles/xiaomovps-five-grok-bot-alternatives.md) 称，基于 Pi 的 Rakazo 已有 iPhone、Android、桌面与 Web 客户端，并支持 Docker 部署到自有 VPS，扩展了本页控制面模式的产品证据。多端可访问并不能证明鉴权、Bot 隔离或长期运行可靠性；同帖对 OpenBot 的开发预览、高默认权限与非商业许可证提醒说明，自托管可控性仍须与成熟度、权限和使用许可分别判断。[^xiaomovps-five-grok-bot-alternatives]
+
+Phone access and server execution should be assessed separately: [Xiaomo’s alternatives survey](../sources/articles/xiaomovps-five-grok-bot-alternatives.md) describes Pi-based Rakazo with iPhone, Android, desktop, and web clients plus Docker deployment on a self-managed VPS, adding product evidence for this control-surface pattern. Multiple clients do not establish authentication quality, bot isolation, or long-running reliability; the same post’s warnings about OpenBot’s preview status, broad default permissions, and noncommercial license show that self-hosting control still needs separate assessment of maturity, permissions, and usage rights.[^xiaomovps-five-grok-bot-alternatives]
+
 [小邓同学谈 OpenBot 上架 App Store](../sources/articles/heydengai-openbot-app-store.md) 给出可复述产品切面：OpenBot 上架苹果 App Store；连自己的服务器后用 iPhone 操控列出的多款 Agent 与本地模型；支持多 Agent 协作与任务交接，并可直接用已有订阅；作者比喻是把电脑上的 AI Agent 工作台装进手机；官方补充「No more TestFlight」。[^heydengai-openbot-app-store] 原帖 <https://x.com/heydengai/status/2115367414368202876>；站点 <https://openbot.run/>。耐久点是「手机客户端 ↔ 自有服务器上的 Agent 工作台」控制面，而不是某一家 App 的功能表 alone。
 
 [Heydengai on OpenBot shipping on the App Store](../sources/articles/heydengai-openbot-app-store.md) gives a retellable product cut: OpenBot on the Apple App Store; after connecting your own server, control the listed agents and local models from an iPhone; multi-agent collaboration and task handoff, plus direct use of existing subscriptions; the author metaphor is putting the desktop AI-agent workbench into the phone; the official account adds “No more TestFlight.”[^heydengai-openbot-app-store] Post: <https://x.com/heydengai/status/2115367414368202876>; site <https://openbot.run/>. The durable point is the “phone client ↔ agent workbench on your own server” control surface, not one app’s feature list alone.
@@ -35,9 +42,13 @@ It shares “keep agent work moving from the phone without sitting at the heavy 
 
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+[小邓的 OpenBot 上架帖](../sources/articles/heydengai-openbot-app-store.md) 称已正式上架 App Store；[小墨的替代项目帖](../sources/articles/xiaomovps-five-grok-bot-alternatives.md) 则将其所列 OpenBot 称为开发预览。两帖未建立所指仓库与版本的一一对应，不能确认是同一项目状态变化，也不能据此撤回旧的上架记录。[^heydengai-openbot-app-store][^xiaomovps-five-grok-bot-alternatives]
+
+[Heydengai’s OpenBot post](../sources/articles/heydengai-openbot-app-store.md) reports an App Store release, while [Xiaomo’s alternatives post](../sources/articles/xiaomovps-five-grok-bot-alternatives.md) calls its listed OpenBot a development preview. The posts do not establish a repository and version mapping, so this cannot be confirmed as a status change in the same project or used to withdraw the earlier release record.[^heydengai-openbot-app-store][^xiaomovps-five-grok-bot-alternatives]
 
 ## 相关 / Related
+
+- Source: [小墨整理五个 Grok Bot 开源替代项目 / Xiaomo on five open-source alternatives to Grok Bot](../sources/articles/xiaomovps-five-grok-bot-alternatives.md)
 
 - Source: [小邓同学谈 OpenBot 上架 App Store](../sources/articles/heydengai-openbot-app-store.md)
 - Topic: [手机端 Agent 全链路开发](./mobile-agent-dev-full-chain.md)
@@ -47,3 +58,5 @@ It shares “keep agent work moving from the phone without sitting at the heavy 
 - Topic: [精简核心与社区扩展](./minimal-core-community-extensions.md)
 
 [^heydengai-openbot-app-store]: Heydengai on OpenBot shipping on the App Store
+
+[^xiaomovps-five-grok-bot-alternatives]: Xiaomo on five Grok Bot alternatives

@@ -39,9 +39,12 @@ sources:
   - id: logicrw-google-android-summit-claude-codex-cli
     resource: https://x.com/0xLogicrw/status/2115763543194902801
     title: Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins
+  - id: op7418-quark-drive-skill
+    resource: https://x.com/op7418/status/2116119701487337890
+    title: Guizang on the Quark Drive Skill
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:20:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:10:58+08:00
 ---
 
 # Agent Skills 开放标准
@@ -98,6 +101,10 @@ Agent Skills are an agent-platform standard that Anthropic is placing under the 
 
 [Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins](../sources/articles/logicrw-google-android-summit-claude-codex-cli.md) adds **MCP landing on the OS**: underlying **AppFunctions** hits Beta; **Connected Apps Platform** wires app functions to **Gemini** and **Google Search** via **Android MCP** or cloud MCP (**50+** linked apps per the post)—a different class from AAIF-governed cross-host **Agent Skills**, but still **MCP tool-surface** expansion; Claude/ChatGPT already reach third parties via MCP, while Google also holds **Android** to invoke **local app functions** (with app adaptation and system authorization). The post notes **open dev tools to rivals** vs **user-side Gemini push** asymmetry; the fetched body has no MCP tool schema or authorization flow detail.[^logicrw-google-android-summit-claude-codex-cli] Post: <https://x.com/0xLogicrw/status/2115763543194902801>.
 
+Skills 的应用范围还可延伸到已有服务中的个人数据与文件操作。[歸藏谈夸克网盘 Skill](../sources/articles/op7418-quark-drive-skill.md) 描述读取图片、视频与历史信息、上传对话生成文件及自动备份，并把智能搜索与相册整理限定为会员能力。与前述设计包、工程工作流的跨宿主分发相比，这个案例补充的是服务接入用途；它未提供 Skill 文件、安装路径或兼容性测试，因此只能作为生态应用的社区描述，不能单凭名称确认采用该开放标准，也不能把「所有的 AI」当成已验证的跨平台覆盖。[^op7418-quark-drive-skill]
+
+Skills can also extend to personal data and file operations in existing services. [Guizang on the Quark Drive Skill](../sources/articles/op7418-quark-drive-skill.md) describes reading images, videos, and historical information, uploading conversation-generated files, and automatic backup, with smart search and album organization reserved for members. Alongside the design packages and engineering workflows distributed across hosts above, this adds a service-access use case; it supplies no Skill files, installation path, or compatibility tests, so it remains a community account of ecosystem use. Its name alone does not establish adoption of the open standard, and “all AI” does not establish verified cross-platform coverage.[^op7418-quark-drive-skill]
+
 ## 矛盾与变化 / Contradictions
 
 - 去向名称：[Claude Agent Skills to AAIF](../sources/articles/claude-agent-skills-aaif.md)、[Boris Cherny on Agent Skills to AAIF](../sources/articles/bcherny-agent-skills-aaif.md) 与 [AAIF four new projects](../sources/articles/aaif-four-new-projects.md) 将接收方称为 Agentic AI Foundation；[Vox on Agent Skills writing rules](../sources/articles/voxyz-agent-skills-writing-rules.md) 则说是 Linux Foundation，「MCP 去的同一家」。若 AAIF 隶属 Linux Foundation，两者可同时成立，但帖文未写明该关系。[^claude-agent-skills-aaif][^voxyz-agent-skills-writing-rules]
@@ -113,6 +120,8 @@ Agent Skills are an agent-platform standard that Anthropic is placing under the 
 - **Google platform asymmetry**: [Logicrw on the Google Android summit](../sources/articles/logicrw-google-android-summit-claude-codex-cli.md) says **Android Studio / official CLI** opens to rival agents such as Claude and Codex while the **user side** pushes **AppFunctions / Connected Apps** into **Gemini and Search** via **Android MCP**—coexists with “neutral cross-host MCP tooling” as **platform-owner** openness on the dev side vs binding the consumer entry; the post does not say whether AAIF or Agent Skills standards hook Android MCP.[^logicrw-google-android-summit-claude-codex-cli]
 
 ## 相关 / Related
+
+- [夸克网盘 Skill / Quark Drive Skill](../sources/articles/op7418-quark-drive-skill.md)
 
 - 来源：[Claude Agent Skills to AAIF](../sources/articles/claude-agent-skills-aaif.md)
 - 来源：[Boris Cherny on Agent Skills to AAIF](../sources/articles/bcherny-agent-skills-aaif.md)
@@ -151,3 +160,5 @@ Agent Skills are an agent-platform standard that Anthropic is placing under the 
 [^0xlangeai-qingshang-waigua-nvc-skill]: 0xlangeai on Ayi’s Opus 5.5 open-source EQ plug-in from an NVC Skill
 [^ayi-qingshang-waigua]: qingshang-waigua open-source repository
 [^logicrw-google-android-summit-claude-codex-cli]: Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins
+
+[^op7418-quark-drive-skill]: Guizang on the Quark Drive Skill

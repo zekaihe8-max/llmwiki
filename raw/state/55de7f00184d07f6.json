@@ -1,0 +1,23 @@
+{
+  "slug": "55de7f00184d07f6",
+  "url": "https://x.com/0xLogicrw/status/2116093465591452001",
+  "title": "Cursor 扩展商店 Claude Code 插件投毒",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "filed",
+  "hash": "55de7f00184d07f6dce7354c0721950481d381acc749770518ef5eab79531a22",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": "2026-10-30T12:04:13.079Z",
+  "content_hash": "aabb789e3d89b576882fe37483cc873895feb63486a5802a9c73c883b5898b47",
+  "article_path": "articles/55de7f00184d07f6.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2116093465591452001",
+  "source_path": "sources/articles/logicrw-cursor-claude-code-extension-poisoning.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "codex",
+  "attempts": [],
+  "filed_at": "2026-10-30T12:55:11.665Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

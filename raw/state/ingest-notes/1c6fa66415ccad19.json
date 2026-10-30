@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "Owns the same community submission drive; integrate the reported completion and preserve the earlier uncertain status.",
+    "topics/grok-bot-x-api-substitute.md": "Consulted for Grok Bot context, but this article reports a showcase website rather than an API bridge, quota, or cost evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "add_evidence",
+      "reason": "Owns the same community submission drive; integrate the reported completion and preserve the earlier uncertain status."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "Consulted for Grok Bot context, but this article reports a showcase website rather than an API bridge, quota, or cost evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Completion is author-reported; fetched video contents and website functionality were not independently verified. Existing unrelated worktree changes preserved."
+}

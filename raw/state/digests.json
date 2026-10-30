@@ -48,5 +48,10 @@
     "content_hash": "2ab92c6f2e8198790288293aad38d2980497551bba4872cd8f61bd270b282f25",
     "ingested_at": "2026-10-29T12:04:51.894Z",
     "urls": 53
+  },
+  "2026-10-30-cn-x.md": {
+    "content_hash": "8fd1d4995c21c2d87f3bc1ec90529a967589a1f377f97239900007ad06d6c84d",
+    "ingested_at": "2026-10-30T12:03:41.569Z",
+    "urls": 53
   }
 }

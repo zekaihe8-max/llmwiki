@@ -2,8 +2,8 @@
 type: Topic
 title: Claude 订阅风控权重
 title_en: Claude subscription risk-control weights
-description: 社区经验把 Claude 订阅风控读成有权重的信号栈：恶意退款、蒸馏与危险越狱可一票否决；支付质量、国家/区域一致与支付时设备指纹权重高；IP、设备 ID、同设备多号与高额度档位居中；KYC 国籍权重低——但使用中仍可能突然触发 KYC 并吊销登录态；一线亦有人公开把 Claude 号池拉到 6 个并以封号补号为预期；WquGuru 侧另有 16 因素四维合成 0–100「Dario 暴躁指数」打分站；且应作机制笔记而非绕过手册。
-description_en: Community experience reads Claude subscription risk control as a weighted signal stack—malicious chargebacks, distillation, and dangerous jailbreaks can veto; payment quality, country/region consistency, and payment-time device fingerprint rank high; IP, device IDs, same-device multi-account, and high tiers sit mid; KYC nationality ranks low—yet KYC can still fire mid-use and revoke a login session—and frontline posts also openly max a six-account Claude pool expecting bans and replacement; on WquGuru’s side, a 16-factor four-dimension site also composes a 0–100 “Dario temper index”; it should be read as mechanism notes, not a bypass playbook.
+description: 社区经验把 Claude 订阅风控读成有权重的信号栈：恶意退款、蒸馏与危险越狱可一票否决；支付质量、国家/区域一致与支付时设备指纹权重高；IP、设备 ID、同设备多号与高额度档位居中；KYC 国籍权重低——但使用中仍可能突然触发 KYC 并吊销登录态；一线亦有人公开把 Claude 号池拉到 6 个并以封号补号为预期；WquGuru 侧另有 16 因素四维合成 0–100「Dario 暴躁指数」打分站；且应作机制笔记而非绕过手册。 单条自我评估标记不直接导致封号，须区分检测信号与处罚。
+description_en: Community experience reads Claude subscription risk control as a weighted signal stack—malicious chargebacks, distillation, and dangerous jailbreaks can veto; payment quality, country/region consistency, and payment-time device fingerprint rank high; IP, device IDs, same-device multi-account, and high tiers sit mid; KYC nationality ranks low—yet KYC can still fire mid-use and revoke a login session—and frontline posts also openly max a six-account Claude pool expecting bans and replacement; on WquGuru’s side, a 16-factor four-dimension site also composes a 0–100 “Dario temper index”; it should be read as mechanism notes, not a bypass playbook. An individual self-assessment flag does not directly cause a ban; detection signals and penalties must be distinguished.
 tags: [claude, claude-pro, anthropic, risk-control, payment, device-fingerprint, kyc]
 sources:
   - id: wquguru-claude-pro-risk-weights
@@ -21,9 +21,12 @@ sources:
   - id: vista8-claude-dual-pro-keepalive
     resource: https://x.com/vista8/status/2115487808404230154
     title: vista8 on Claude keepalive—dual Pro rotation and custom-domain email
+  - id: dotey-claude-self-assessment
+    resource: https://x.com/dotey/status/2115923359149998490
+    title: Dotey on Claude safety self-assessment after responses
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:58:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:08:06+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -71,6 +74,10 @@ WquGuru 把**高档位**标为中权重；向阳乔木另帖称**未开 200 刀*
 
 图拉鼎/WquGuru 个案为同机同网多 Pro「仍稳」；向阳乔木亦报多号（双 Pro 轮换 + 2–3 免费备用）未封——同属「多号仍稳」旁证，但抓取正文均未证明是否同机同网；与「同设备多号抬高蒸馏嫌疑」的中权重信号可并存。 / The 图拉鼎/WquGuru case is multiple Pro accounts still stable on one machine and network; 向阳乔木 also reports multiple accounts (dual Pro rotation plus 2–3 free spares) with no bans—both are “multi-account still stable” asides, but neither fetched body proves same machine/network; compatible with the mid-weight “same-device multi-account raises distillation suspicion” signal.
 
+WquGuru 将显著蒸馏等行为描述为风控的“一票否决”信号；[宝玉的自我评估解读](../sources/articles/dotey-claude-self-assessment.md) 则转述 Anthropic 称，单条自我评估标记不直接导致封号，在部分危害领域需按组织累积多条高优先级信号再交人工复查。前者是社区对整体风控的经验判断，后者限定了某一检测机制的处置流程，不能把单次模型标记等同于账号处罚，也不能据此推翻其他风控信号；两者范围不同。[^wquguru-claude-pro-risk-weights][^dotey-claude-self-assessment]
+
+WquGuru describes conspicuous distillation and similar behavior as a risk-control “veto” signal; [Dotey’s self-assessment explanation](../sources/articles/dotey-claude-self-assessment.md) instead relays Anthropic’s statement that an individual self-assessment flag does not directly cause a ban and that, in some harm areas, multiple high-priority signals accumulate by organization before human review. The former is community experience about overall risk control; the latter specifies one detector’s handling process. A single model flag should not be equated with an account penalty, nor does this invalidate other risk-control signals; the claims have different scopes.[^wquguru-claude-pro-risk-weights][^dotey-claude-self-assessment]
+
 ## 相关 / Related
 
 - Source: [WquGuru 谈 Claude Pro 风控权重](../sources/articles/wquguru-claude-pro-risk-weights.md)
@@ -87,3 +94,5 @@ WquGuru 把**高档位**标为中权重；向阳乔木另帖称**未开 200 刀*
 [^fkysly-claude-six-account-replace-on-ban]: fkysly on six Claude accounts—replace one when banned
 [^wquguru-claude-dario-temper-index]: WquGuru on Claude “Dario temper index” scoring site
 [^vista8-claude-dual-pro-keepalive]: vista8 on Claude keepalive—dual Pro rotation and custom-domain email
+
+[^dotey-claude-self-assessment]: Dotey on Claude safety self-assessment

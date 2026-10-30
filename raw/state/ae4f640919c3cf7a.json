@@ -1,0 +1,34 @@
+{
+  "slug": "ae4f640919c3cf7a",
+  "url": "https://shisei.indaloop.app/",
+  "title": "站点",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "failed",
+  "hash": "ae4f640919c3cf7a001ab952048a3cc92b5f266aac0e773e70a1d378e89c3a05",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-10-30T12:04:03.788Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    },
+    {
+      "at": "2026-10-30T13:08:12.908Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-10-30T13:08:12.908Z"
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:48:00.084Z",
+  "url": "https://x.com/heydengai/status/2116127987095806159",
+  "slug": "4143c693cc5f29f0",
+  "content_hash": "3eed8fd620c4248fa165b7c9f155daba49b3a6a949f9597348b7a0f6a3416e92",
+  "source": {
+    "path": "sources/articles/heydengai-sol-opus-cost-per-task.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Concerns inference channels and provider compatibility; this article compares different models on subscriptions without channel evidence."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Concerns quota availability and account operation; the fetched post supplies no quota quantities, reset cycles, or coding-agent UX evidence."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "Owns same-model harness comparisons; no controlled harness comparison is supplied, so retain scope and integrate subscription economics in the existing value Topic."
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Owns subscription value; integrate task-completion cost alongside usage per dollar, preserving limits of the unverified ratios."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Owns subscription value; integrate task-completion cost alongside usage per dollar, preserving limits of the unverified ratios.",
+    "topics/coding-agent-ux-vs-quota.md": "Concerns quota availability and account operation; the fetched post supplies no quota quantities, reset cycles, or coding-agent UX evidence.",
+    "topics/agent-model-channel-tradeoffs.md": "Concerns inference channels and provider compatibility; this article compares different models on subscriptions without channel evidence.",
+    "topics/harness-comparison-beyond-tokens.md": "Owns same-model harness comparisons; no controlled harness comparison is supplied, so retain scope and integrate subscription economics in the existing value Topic."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/heydengai-sol-opus-cost-per-task.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "Owns subscription value; integrate task-completion cost alongside usage per dollar, preserving limits of the unverified ratios.",
+      "topics/coding-agent-ux-vs-quota.md": "Concerns quota availability and account operation; the fetched post supplies no quota quantities, reset cycles, or coding-agent UX evidence.",
+      "topics/agent-model-channel-tradeoffs.md": "Concerns inference channels and provider compatibility; this article compares different models on subscriptions without channel evidence.",
+      "topics/harness-comparison-beyond-tokens.md": "Owns same-model harness comparisons; no controlled harness comparison is supplied, so retain scope and integrate subscription economics in the existing value Topic."
+    },
+    "notes": "One Source for the provided exact URL. No new Topic. Ratios attributed to the fetched post; the $1/$1.30 figures are hypothetical.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/heydengai-sol-opus-cost-per-task.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

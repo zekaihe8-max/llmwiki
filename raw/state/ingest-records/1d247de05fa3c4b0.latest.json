@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:46:47.264Z",
+  "url": "https://x.com/heydengai/status/2116121434326261778",
+  "slug": "1d247de05fa3c4b0",
+  "content_hash": "fb3d091f5251cd2c7209be3ca8f5df6c56059d34f4df58ad075e21fcd8656de4",
+  "source": {
+    "path": "sources/articles/heydengai-autocompact-400k-weekly-quota.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Adjacent token-saving topic; unchanged because no peripheral tool or new cost measurement is supplied and threshold tuning belongs to the compaction Topic."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Adjacent quota topic; unchanged because the post supplies no new quota policy, account-management evidence, or UX comparison; estimated consumption reduction is integrated in the compaction Topic."
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "add_evidence",
+      "reason": "Owns harness compaction thresholds; integrate quota motivation, estimate limits, and trade-offs with full-window use."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/long-conversation-default-compression.md": "Owns harness compaction thresholds; integrate quota motivation, estimate limits, and trade-offs with full-window use.",
+    "topics/coding-agent-token-saving-tooling.md": "Adjacent token-saving topic; unchanged because no peripheral tool or new cost measurement is supplied and threshold tuning belongs to the compaction Topic.",
+    "topics/coding-agent-ux-vs-quota.md": "Adjacent quota topic; unchanged because the post supplies no new quota policy, account-management evidence, or UX comparison; estimated consumption reduction is integrated in the compaction Topic."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/heydengai-autocompact-400k-weekly-quota.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/long-conversation-default-compression.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/long-conversation-default-compression.md": "Owns harness compaction thresholds; integrate quota motivation, estimate limits, and trade-offs with full-window use.",
+      "topics/coding-agent-token-saving-tooling.md": "Adjacent token-saving topic; unchanged because no peripheral tool or new cost measurement is supplied and threshold tuning belongs to the compaction Topic.",
+      "topics/coding-agent-ux-vs-quota.md": "Adjacent quota topic; unchanged because the post supplies no new quota policy, account-management evidence, or UX comparison; estimated consumption reduction is integrated in the compaction Topic."
+    },
+    "notes": "Only the fetched article is used as this Source; 29% remains an attributed estimate, and command availability is unverified. No new Topic needed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/heydengai-autocompact-400k-weekly-quota.md",
+        "topics/long-conversation-default-compression.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

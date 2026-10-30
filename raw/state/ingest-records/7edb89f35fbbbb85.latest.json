@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:34:39.391Z",
+  "url": "https://x.com/vista8/status/2115955851945193922",
+  "slug": "7edb89f35fbbbb85",
+  "content_hash": "4e3817c52c450462aba4601fa0db5456dcb7801adbf313400a99555a948f0a2c",
+  "source": {
+    "path": "sources/articles/vista8-opportunities-beyond-coding.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-local-businesses.md",
+    "topics/ai-cybersecurity-jobs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "是编程之外经营用途的相邻主题；原文未提本地生意或具体产品，不能将泛化机会判断作为该领域证据，保持不变。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "是 AI 机会与岗位的相邻主题；原文没有安全岗位、人员需求或投资数据，保持不变。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论创业与公司形态，故检查其归属；本帖未提供 AI 原生转型的新案例或结论，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论创业与公司形态，故检查其归属；本帖未提供 AI 原生转型的新案例或结论，保持不变。",
+    "topics/ai-assisted-local-businesses.md": "是编程之外经营用途的相邻主题；原文未提本地生意或具体产品，不能将泛化机会判断作为该领域证据，保持不变。",
+    "topics/ai-cybersecurity-jobs.md": "是 AI 机会与岗位的相邻主题；原文没有安全岗位、人员需求或投资数据，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vista8-opportunities-beyond-coding.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ai-assisted-local-businesses.md",
+      "topics/ai-cybersecurity-jobs.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "讨论创业与公司形态，故检查其归属；本帖未提供 AI 原生转型的新案例或结论，保持不变。",
+      "topics/ai-assisted-local-businesses.md": "是编程之外经营用途的相邻主题；原文未提本地生意或具体产品，不能将泛化机会判断作为该领域证据，保持不变。",
+      "topics/ai-cybersecurity-jobs.md": "是 AI 机会与岗位的相邻主题；原文没有安全岗位、人员需求或投资数据，保持不变。"
+    },
+    "notes": "Reviewed the Topic catalog and three adjacent pages in full. No new Topic: this short opinion supplies neither a concrete non-coding opportunity nor supporting evidence for a durable synthesis. Only the explicitly requested ingest-notes file is written under raw/state; fetched input is untouched.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vista8-opportunities-beyond-coding.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

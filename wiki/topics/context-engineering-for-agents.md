@@ -2,8 +2,8 @@
 type: Topic
 title: Agent 上下文工程
 title_en: Context engineering for agents
-description: 复杂多步 Agent 的可靠与省 token 常靠上下文工程——在合适时机以合适格式放入真正相关信息，而不是只换更大窗口或改一句 prompt；长程运行会出现 Context Rot；实践常分 Agentic Search、剪枝/压缩/草稿本与跨会话记忆，并在自搭 harness 里用 trace 与 eval 量化改动。
-description_en: Reliable, token-efficient multi-step agents often need context engineering—putting truly relevant information in at the right time and format, not only a bigger window or a one-line prompt rewrite; long runs suffer Context Rot; practice often splits into agentic search, pruning/compaction/scratchpads, and cross-session memory, with traces and evals in a custom harness to quantify changes.
+description: 复杂多步 Agent 的可靠与省 token 常靠上下文工程——在合适时机以合适格式放入真正相关信息，而不是只换更大窗口或改一句 prompt；长程运行会出现 Context Rot；实践常分 Agentic Search、剪枝/压缩/草稿本与跨会话记忆，并在自搭 harness 里用 trace 与 eval 量化改动。 检索替代摘要需同时评估恢复开销与细节召回。
+description_en: Reliable, token-efficient multi-step agents often need context engineering—putting truly relevant information in at the right time and format, not only a bigger window or a one-line prompt rewrite; long runs suffer Context Rot; practice often splits into agentic search, pruning/compaction/scratchpads, and cross-session memory, with traces and evals in a custom harness to quantify changes. Replacing summaries with retrieval requires evaluating both recovery overhead and detail recall.
 tags: [context-engineering, agents, context-rot, harness, eval, retrieval, memory, compaction]
 sources:
   - id: shao-meng-deeplearning-context-engineering-course
@@ -21,9 +21,18 @@ sources:
   - id: heydengai-vibe-coding-memory-paradox
     resource: https://x.com/heydengai/status/2115756278190375243
     title: Heydengai on the vibe-coding memory paradox
+  - id: dotey-claude-api-request-size-128mb
+    resource: https://x.com/dotey/status/2115968852349567254
+    title: Dotey on Claude API request size increasing to 128 MB
+  - id: wquguru-everos-shisei-pose-library
+    resource: https://x.com/wquguru/status/2115972037403713688
+    title: WquGuru on EverOS and Shisei
+  - id: heydengai-retrieval-instead-of-compaction
+    resource: https://x.com/heydengai/status/2116019898422083808
+    title: heydengai on retrieval instead of compaction
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:15:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:49:16+08:00
 ---
 
 # Agent 上下文工程
@@ -35,6 +44,18 @@ generated:
 For steady, token-efficient multi-step agents, the post and course narrative treat **context engineering** as the main line—what the model sees, ordering, when to retrieve and remember—not defaulting to a bigger window or rewriting one prompt.[^shao-meng-deeplearning-context-engineering-course]
 
 ## 综合分析 / Synthesis
+
+会话记忆的策略选择应区分“保存原始历史”与“给当前窗口选信息”。[小邓同学的检索主张](../sources/articles/heydengai-retrieval-instead-of-compaction.md)提出保留完整会话并按需恢复，以减少摘要丢细节；其转述的约 40 万 token 测试中，缓存失效压缩为 38 秒 / $1.99、缓存命中为 29 秒 / $0.17、检索恢复为 15 秒 / $0.10。这为检索替代摘要提供一个作者报告的成本案例，但缺少检索实现与恢复后质量对照，不能把全文留存等同于相关信息必然召回。策略比较应同时关注恢复开销与细节找回能力。[^heydengai-retrieval-instead-of-compaction]
+
+Session-memory choices should distinguish preserving original history from selecting information for the current window. [heydengai’s retrieval proposal](../sources/articles/heydengai-retrieval-instead-of-compaction.md) retains full sessions for on-demand recovery to reduce summary detail loss; its relayed roughly 400,000-token test reports 38 seconds / $1.99 for cache-miss compaction, 29 seconds / $0.17 for cache-hit compaction, and 15 seconds / $0.10 for retrieval recovery. This supplies an author-reported cost case for replacing summaries with retrieval, but lacks retrieval implementation and subsequent quality comparisons; full-history retention does not guarantee relevant recall. Strategy comparisons should consider both recovery overhead and detail retrieval.[^heydengai-retrieval-instead-of-compaction]
+
+跨应用交接还需要把可复用结论显式写入共享存储，再由新会话检索；这将记忆从单一 harness 扩展到独立工具间的协作。[Shisei 实战](../sources/articles/wquguru-everos-shisei-pose-library.md) 中，作者用同账号 EverOS MCP 在 Grok Bot、Muse 与 Claude Code 之间传递调研结论，结束后写回参数和流程并沉淀 skill。这为外部记忆的“写入—检索—经验回写”补充案例，但一分钟交接与 21 小时交付仅是作者报告，未隔离共享记忆对耗时或质量的贡献，也不等于工具自动共享全部会话历史。[^wquguru-everos-shisei-pose-library]
+
+Cross-application handoffs also require explicitly saving reusable conclusions to shared storage for retrieval by a new session, extending memory beyond one harness to independent tools. In the [Shisei case](../sources/articles/wquguru-everos-shisei-pose-library.md), the author used EverOS MCP under one account to pass research findings between Grok Bot, Muse, and Claude Code, then saved parameters and workflows and distilled a skill. This supplies a case of writing, retrieving, and writing back lessons to external memory, but the minute-long handoff and 21-hour delivery are author reports that do not isolate shared memory’s contribution to time or quality, nor imply automatic sharing of complete conversation histories.[^wquguru-everos-shisei-pose-library]
+
+上下文预算应分开核对 token 窗口与请求体字节大小：筛选、剪枝和压缩解决信息组织问题，传输额度则可能在截图或 PDF 密集请求中先耗尽。[宝玉解读 Claude API 128 MB](../sources/articles/dotey-claude-api-request-size-128mb.md) 报告官方 Messages / Token Counting 从 32 MB 提至 128 MB，说明更大请求体能缓解传输瓶颈，但不能据此推断 Context Rot 已解决、模型窗口扩大或跨会话记忆改善。[^dotey-claude-api-request-size-128mb]
+
+Context budgets should track token windows separately from request-body bytes: selection, pruning, and compaction address information organization, while transport allowances may run out first in screenshot- or PDF-heavy requests. [Dotey on the Claude API 128 MB limit](../sources/articles/dotey-claude-api-request-size-128mb.md) reports the official Messages / Token Counting increase from 32 MB to 128 MB, showing relief for a transport bottleneck without establishing that Context Rot is solved, model windows have grown, or cross-session memory has improved.[^dotey-claude-api-request-size-128mb]
 
 [邵萌谈 DeepLearning.AI Context Engineering 新课](../sources/articles/shao-meng-deeplearning-context-engineering-course.md) 据 DeepLearning.AI 新课页概括：Jeff Huber（Chroma / Replit）与 Drew Breunig（*Context Engineering Handbook*）主讲；Andrew Ng 与 Huber 在导论对谈。Agent 跑得越久，上下文越容易塞满重复、矛盾、过时信息，长上下文表现变差——Huber 与 Chroma 团队称 **Context Rot**；更大窗口与单纯改 prompt 都治不好，要修上下文本身。[^shao-meng-deeplearning-context-engineering-course] 原帖 <https://x.com/shao__meng/status/2115627250515320947>；课程链 <https://t.co/UKFzLhFAgb>。
 
@@ -70,11 +91,17 @@ Scope: evidence is one short-course syllabus, Meng Shao’s posts, and the MCode
 
 ## 矛盾与变化 / Contradictions
 
+[DeepLearning.AI 课程与 MCode Stack](../sources/articles/minimax-mcode-stack-repo.md)把压缩、摘要与落盘列为可选治理手段；[小邓同学的检索帖](../sources/articles/heydengai-retrieval-instead-of-compaction.md)则质疑压缩路线、主张全文检索。两者对摘要的角色存在分歧，但后者的单次转述比较不足以否定所有 compaction；本页保留策略并列与按任务评估的结论。[^minimax-mcode-stack][^heydengai-retrieval-instead-of-compaction]
+
+[The DeepLearning.AI course and MCode Stack](../sources/articles/minimax-mcode-stack-repo.md) treat compaction, summaries, and persistence as available management tools; [heydengai’s retrieval post](../sources/articles/heydengai-retrieval-instead-of-compaction.md) questions compaction and advocates full-history retrieval. They differ over summaries’ role, but the latter’s relayed individual comparison cannot invalidate all compaction; this page retains multiple strategies and task-specific evaluation.[^minimax-mcode-stack][^heydengai-retrieval-instead-of-compaction]
+
 [邵萌谈 DeepLearning.AI Context Engineering 新课](../sources/articles/shao-meng-deeplearning-context-engineering-course.md) 与 [邵萌谈 Google Research「SLEEP」](../sources/articles/shao-meng-google-research-sleep.md) 不互相否定「长期 Agent 要管记忆」，但默认落点不同：课程/MCode 主张在 **harness 内**用外部记忆记录、检索与 compaction/scratchpad 策展上下文；SLEEP 主张在 **固定模型架构**上离线改权重、把脆弱上下文蒸馏进参数并在睡眠期自我改进。实务 builder 今天能落地的是前者；后者是研究线与博客结果，不能因 SLEEP 叙事就省略 harness 侧 memory/compaction，也不能因课程未教权重巩固就假定产品已内置 SLEEP。
 
 [Meng Shao on the new DeepLearning.AI Context Engineering course](../sources/articles/shao-meng-deeplearning-context-engineering-course.md) and [Meng Shao on Google Research SLEEP](../sources/articles/shao-meng-google-research-sleep.md) do not cancel “long-run agents need memory,” but the default locus differs: the course/MCode push **external memory records, retrieval, and compaction/scratchpads inside the harness**; SLEEP pushes **offline weight updates on fixed architecture**, distilling fragile context into parameters and self-improving in sleep. Builders can ship the former today; the latter is a research/blog thread—you should not skip harness memory/compaction because of SLEEP, nor assume products embed SLEEP because the course does not teach weight consolidation.
 
 ## 相关 / Related
+
+- [宝玉解读 Claude API 请求上限 / Dotey on Claude API request limits](../sources/articles/dotey-claude-api-request-size-128mb.md)
 
 - Source: [邵萌谈 DeepLearning.AI Context Engineering 新课](../sources/articles/shao-meng-deeplearning-context-engineering-course.md)
 - Source: [邵萌谈 MiniMax 开源 MCode Stack](../sources/articles/shao-meng-minimax-mcode-stack.md)
@@ -92,3 +119,9 @@ Scope: evidence is one short-course syllabus, Meng Shao’s posts, and the MCode
 [^minimax-mcode-stack]: MiniMax MCode Stack open-source repository
 [^shao-meng-google-research-sleep]: Meng Shao on Google Research SLEEP offline memory consolidation
 [^heydengai-vibe-coding-memory-paradox]: Heydengai on the vibe-coding memory paradox
+
+[^dotey-claude-api-request-size-128mb]: Dotey on Claude API request size increasing to 128 MB
+
+[^wquguru-everos-shisei-pose-library]: WquGuru on EverOS and Shisei
+
+[^heydengai-retrieval-instead-of-compaction]: heydengai on retrieval instead of compaction

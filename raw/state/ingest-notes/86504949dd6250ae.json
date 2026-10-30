@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "Owns external memory and handoffs; integrate cross-application write/retrieve/write-back evidence with attribution and limits.",
+    "topics/vibe-coding-memory-paradox.md": "Consulted for human memory burden; the case offers a mechanism, not measured change in human cognitive labor, so retain its cultural observation.",
+    "topics/simulation-ready-open-3d-assets.md": "Consulted for open assets; Shisei distributes 2D reference images rather than simulation-ready 3D models, so leave unchanged.",
+    "topics/fold-subagents-into-main-loop.md": "Consulted for parallel review; existing guidance already permits independent review and parallel tasks, and this uncontrolled case does not change splitting conclusions."
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "add_evidence",
+      "reason": "Owns external memory and handoffs; integrate cross-application write/retrieve/write-back evidence with attribution and limits."
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "Consulted for human memory burden; the case offers a mechanism, not measured change in human cognitive labor, so retain its cultural observation."
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "Consulted for open assets; Shisei distributes 2D reference images rather than simulation-ready 3D models, so leave unchanged."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Consulted for parallel review; existing guidance already permits independent review and parallel tasks, and this uncontrolled case does not change splitting conclusions."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic needed. Author-reported counts, licensing and timings remain attributed; original fetched article is the sole Source provenance."
+}

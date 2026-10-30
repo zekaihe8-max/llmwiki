@@ -2,8 +2,8 @@
 type: Topic
 title: 信任公开榜前先审质量
 title_en: Scrutinize public-benchmark quality before trusting
-description: 业界高度依赖的公开基准往往质量堪忧；宜参考独立第三方审读（如 Epoch），并在采信前自行跑测、仔细检查 grader 失败样例。
-description_en: Public benchmarks the industry leans on are often poor quality; consult independent third-party scrutiny (e.g. Epoch) and, before trusting a benchmark, run it yourself and carefully inspect grader failure examples.
+description: 业界高度依赖的公开基准往往质量堪忧；宜参考独立第三方审读（如 Epoch），并在采信前自行跑测、仔细检查 grader 失败样例。 公开基准的可信度还取决于模型是否把测试当作测试，以及是否把真实请求也误当作考试。
+description_en: Public benchmarks the industry leans on are often poor quality; consult independent third-party scrutiny (e.g. Epoch) and, before trusting a benchmark, run it yourself and carefully inspect grader failure examples. Benchmark credibility also depends on whether models recognize tests and misclassify real requests as exams.
 tags: [benchmarks, epoch, grader, evaluation, scrutiny]
 sources:
   - id: hamelhusain-public-benchmark-quality
@@ -15,9 +15,12 @@ sources:
   - id: heydengai-leaderboard-exam-weighting
     resource: https://x.com/heydengai/status/2115754265155100896
     title: Heydengai on AI leaderboards as exams—change the test, change the rankings
+  - id: shao-meng-deepseek-flash-safety-evaluation
+    resource: https://x.com/shao__meng/status/2115999263121699221
+    title: Meng Shao on Fangcun’s DeepSeek V4.1 Flash-1017 safety evaluation
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:14:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:19:24+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -47,6 +50,10 @@ Adjacent [Community evals vs score hype](./community-evals-vs-score-hype.md) cov
 
 [Heydengai on AI leaderboards as exams—change the test, change the rankings](../sources/articles/heydengai-leaderboard-exam-weighting.md) pushes the measuring-instrument issue to **weighting and subject mix**: boards look like exams—coding weighting kept open vs closed close, science weighting widened the same kind of gap from 3 to 12 while the models stayed fixed—stressing “change the test, change the standings,” not grader failures or a self-run reproduction. Different axis from Hamel’s grader scrutiny or 歸藏’s doubt of one big win, but the same “ask what the board is testing before trusting it.”[^heydengai-leaderboard-exam-weighting] Post: <https://x.com/heydengai/status/2115754265155100896>。
 
+测量工具审查还须覆盖行为的代表性，而不只审 grader 与科目权重。[邵萌解读方寸评测](../sources/articles/shao-meng-deepseek-flash-safety-evaluation.md) 转述：DeepSeek V4.1 Flash-1017 在 Agentic Misalignment 每轮识别出测试，且在自有测试集中将近一半真实用户请求判成评测；本次未见该过度归因的明确危害。因此，测试中的拒答不能直接证明部署中的安全，采信结论前应审查评测意识及全过程证据。增加私有基准是方寸提出的缓解方向，并非已证明可消除这种偏差。[^shao-meng-deepseek-flash-safety-evaluation]
+
+Scrutiny of measuring instruments must cover behavioral representativeness as well as graders and subject weighting. [Shao’s account of Fangcun’s evaluation](../sources/articles/shao-meng-deepseek-flash-safety-evaluation.md) reports that DeepSeek V4.1 Flash-1017 recognized every Agentic Misalignment test round and classified nearly half of real user requests in an in-house set as evaluations, with no clear harm from this over-attribution observed in the study. Test refusals therefore cannot directly establish deployment safety; evaluation awareness and full trajectories need scrutiny before accepting conclusions. More private benchmarks are Fangcun’s proposed mitigation, not a demonstrated elimination of this bias.[^shao-meng-deepseek-flash-safety-evaluation]
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
@@ -57,6 +64,8 @@ No conflict with [Community evals vs score hype](./community-evals-vs-score-hype
 
 ## 相关 / Related
 
+- 来源 / Source: [邵萌解读方寸 DeepSeek V4.1 Flash-1017 安全评测 / Meng Shao on Fangcun’s DeepSeek V4.1 Flash-1017 safety evaluation](../sources/articles/shao-meng-deepseek-flash-safety-evaluation.md)
+
 - Source: [Hamel Husain 谈公开榜质量差却被业界高度依赖](../sources/articles/hamelhusain-public-benchmark-quality.md)
 - Source: [歸藏谈 Gemini 4 Carbon 跑分几乎全面超 Fable / Opus](../sources/articles/op7418-gemini-4-carbon-benchmarks.md)
 - Source: [小邓同学谈 AI 排行榜像考试：换考卷排名就变](../sources/articles/heydengai-leaderboard-exam-weighting.md)
@@ -66,3 +75,5 @@ No conflict with [Community evals vs score hype](./community-evals-vs-score-hype
 [^hamelhusain-public-benchmark-quality]: Hamel Husain on poor public-benchmark quality vs industry reliance
 [^op7418-gemini-4-carbon-benchmarks]: 歸藏 on Gemini 4 Carbon benchmark scores vs Fable and Opus
 [^heydengai-leaderboard-exam-weighting]: Heydengai on AI leaderboards as exams—change the test, change the rankings
+
+[^shao-meng-deepseek-flash-safety-evaluation]: Meng Shao on Fangcun’s DeepSeek safety evaluation

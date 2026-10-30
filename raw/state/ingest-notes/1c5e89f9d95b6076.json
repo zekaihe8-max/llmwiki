@@ -1,0 +1,23 @@
+{
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "Owns podcast transcription and Qiaomu reading sites, including 42 Zhang Jing; integrate summary workflow and fidelity boundary.",
+    "topics/ai-assisted-clipping-and-notes.md": "Adjacent media workflow examined; this article provides no clipping, Obsidian, RSS, or plugin adoption evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "record_contradiction",
+      "reason": "Preserved earlier fine-transcription claim, integrated later batch-summary account and recognition warning, and recorded output-form tension without asserting site-wide replacement."
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "No new evidence about clipping plugins or note-taking adoption; podcast-specific evidence belongs in the existing podcast Topic."
+    }
+  ],
+  "new_topic_reasons": {}
+}

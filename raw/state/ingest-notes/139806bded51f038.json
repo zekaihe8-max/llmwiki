@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "Owns execution efficiency comparisons; added script-based orchestration, distinct metric scopes, and the speed-claim comparison boundary.",
+    "topics/coding-agent-token-saving-tooling.md": "Consulted for token-saving mechanisms; left unchanged because this article describes harness orchestration, not a new peripheral tool or configuration method.",
+    "topics/context-engineering-for-agents.md": "Consulted for context-budget overlap; left unchanged because no retrieval, pruning, memory, or context-selection technique is detailed; orchestration metrics fit the harness comparison Topic."
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "add_evidence",
+      "reason": "Owns execution efficiency comparisons; added script-based orchestration, distinct metric scopes, and the speed-claim comparison boundary."
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Consulted for token-saving mechanisms; left unchanged because this article describes harness orchestration, not a new peripheral tool or configuration method."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted for context-budget overlap; left unchanged because no retrieval, pruning, memory, or context-selection technique is detailed; orchestration metrics fit the harness comparison Topic."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic required. Preserved fetched input and existing unrelated edits; all numerical results remain attributed reports, with estimated and actual baselines distinguished."
+}

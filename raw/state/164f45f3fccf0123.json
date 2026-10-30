@@ -1,0 +1,23 @@
+{
+  "slug": "164f45f3fccf0123",
+  "url": "https://x.com/yetone/status/2116064188376502374",
+  "title": "Alma 已双适配 herdr-core 与旧 TUI",
+  "digest": "2026-10-30-cn-x.md",
+  "status": "filed",
+  "hash": "164f45f3fccf01233c0ebf579feb41c53875915b60f689c9f387dce170548382",
+  "first_seen": "2026-10-30T12:03:41.569Z",
+  "last_seen": "2026-10-30T12:03:41.569Z",
+  "fetched_at": "2026-10-30T12:03:59.110Z",
+  "content_hash": "7c47baf91a76e3efd6b0b5e8e2276b479c1b74c82c1a0785888fcc0cddc4460b",
+  "article_path": "articles/164f45f3fccf0123.md",
+  "fetched_url": "https://x.com/yetone/status/2116064188376502374",
+  "source_path": "sources/articles/yetone-alma-herdr-core-tui-compatibility.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "codex",
+  "attempts": [],
+  "filed_at": "2026-10-30T12:27:12.849Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

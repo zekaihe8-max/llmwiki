@@ -36,9 +36,12 @@ sources:
   - id: xiaomovps-dsh-claude-codex-subagent-plugins
     resource: https://x.com/xiaomovps/status/2115640890417168388
     title: Xiaomo on DSH official plugins dispatching Claude Code / Codex sub-agents
+  - id: shao-meng-addy-opus-overprompting
+    resource: https://x.com/shao__meng/status/2115986116482613486
+    title: "Meng Shao relays Addy on overprompting in the Opus 5.5 era"
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:36:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:17:41+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -100,6 +103,10 @@ This sits with [Workflows before agents](./workflows-before-agents.md) in the �
 
 [Xiaomo on DSH official plugins dispatching Claude Code / Codex sub-agents](../sources/articles/xiaomovps-dsh-claude-codex-subagent-plugins.md) shows a product-line shape for “dispatch another coding agent as sub-agent” inside a harness: after enabling DSH’s experimental first-party plugins and logging into the Claude Code / Codex CLIs, DSH can hand tasks to them without a custom bridge—inside this page’s narrow bound of splitting when tools/capabilities conflict or a dedicated fresh execution window is needed, not a default org-chart of standing agents; the author still calls it experimental with Codex newer-model compatibility failures.[^xiaomovps-dsh-claude-codex-subagent-plugins] Post: <https://x.com/xiaomovps/status/2115640890417168388>.
 
+拆分的判断还应包含任务粒度与自主完成能力：大体量、可独立的长审计或迁移可以主动请求并行，琐碎活拆分则增加成本与延迟；先让单会话能独立跑完，再扩展到多会话。干净上下文中的 diff 评审属于核验隔离，与默认主循环一致；子 Agent 的并行与第二意见不自动意味着更高质量。 见[邵萌转述 Addy](../sources/articles/shao-meng-addy-opus-overprompting.md)。[^shao-meng-addy-opus-overprompting]
+
+Splitting decisions should also consider task size and autonomous completion: large independent audits or migrations can justify explicitly requested parallelism, while trivial splits add cost and latency; establish that one session can finish independently before expanding to multiple sessions. Diff review in a clean context provides verification isolation consistent with the main-loop default; parallelism and second opinions do not automatically improve quality. See [Meng Shao relaying Addy](../sources/articles/shao-meng-addy-opus-overprompting.md).[^shao-meng-addy-opus-overprompting]
+
 ## 矛盾与变化 / Contradictions
 
 [智能体规模化工程](./agent-scaled-engineering.md) 据 Cherny 斯坦福分享强调可跑长时、衍生大量智能体的循环；本页所据 Claude 博文则主张刚性「每问题类型/每团队一子 Agent」常挡住更强模型，默认应折回主循环。两者不互相取消：前者谈速度与组织 sparseness 下的多智能体产能，后者谈产品入口上的编排默认与迁移；适用边界不同，但「多 Agent 是否默认正确」上存在张力。[^shao-meng-fold-subagents-main-loop]
@@ -115,6 +122,8 @@ Felix 访谈中的对抗评审多线程，是**产出核验**上的多会话分�
 Felix’s interview multi-thread adversarial review is a **verification** split across sessions, not long-lived role sub-agents by org chart; it does not conflict with this page’s main-loop default, but hardening “prove you wrong” threads into standing expert-Agent orchestration would slide back into the default this page rejects. See [Adversarial review and external evidence](./adversarial-review-external-evidence.md).[^shao-meng-felix-not-2024-claude-usage]
 
 ## 相关 / Related
+
+- [邵萌转述 Addy / Meng Shao relays Addy](../sources/articles/shao-meng-addy-opus-overprompting.md)
 
 - Source: [邵萌谈何时把子 Agent 折进主循环](../sources/articles/shao-meng-fold-subagents-main-loop.md)
 - Source: [邵萌转述 Felix：别再用 2024 方式用 Claude](../sources/articles/shao-meng-felix-not-2024-claude-usage.md)
@@ -145,3 +154,5 @@ Felix’s interview multi-thread adversarial review is a **verification** split 
 [^shao-meng-minimax-mcode-stack]: Meng Shao on MiniMax open-sourcing the MCode Stack
 [^minimax-mcode-stack]: MiniMax MCode Stack open-source repository
 [^xiaomovps-dsh-claude-codex-subagent-plugins]: Xiaomo on DSH official plugins dispatching Claude Code / Codex sub-agents
+
+[^shao-meng-addy-opus-overprompting]: Meng Shao relays Addy on overprompting in the Opus 5.5 era

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Owns subscription value; integrate task-completion cost alongside usage per dollar, preserving limits of the unverified ratios.",
+    "topics/coding-agent-ux-vs-quota.md": "Concerns quota availability and account operation; the fetched post supplies no quota quantities, reset cycles, or coding-agent UX evidence.",
+    "topics/agent-model-channel-tradeoffs.md": "Concerns inference channels and provider compatibility; this article compares different models on subscriptions without channel evidence.",
+    "topics/harness-comparison-beyond-tokens.md": "Owns same-model harness comparisons; no controlled harness comparison is supplied, so retain scope and integrate subscription economics in the existing value Topic."
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Owns subscription value; integrate task-completion cost alongside usage per dollar, preserving limits of the unverified ratios."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Concerns quota availability and account operation; the fetched post supplies no quota quantities, reset cycles, or coding-agent UX evidence."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Concerns inference channels and provider compatibility; this article compares different models on subscriptions without channel evidence."
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "Owns same-model harness comparisons; no controlled harness comparison is supplied, so retain scope and integrate subscription economics in the existing value Topic."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "One Source for the provided exact URL. No new Topic. Ratios attributed to the fetched post; the $1/$1.30 figures are hypothetical."
+}

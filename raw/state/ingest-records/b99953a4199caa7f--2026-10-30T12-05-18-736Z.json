@@ -1,0 +1,53 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:05:18.736Z",
+  "url": "https://x.com/dotey/status/2116060639533969759",
+  "slug": "b99953a4199caa7f",
+  "content_hash": "09d07dbd40473b15987495dcbbf0ab5205f15870f13e4c53f1ef2ec5c8bfca6e",
+  "source": {
+    "path": "sources/articles/dotey-baoyu-design-v21-comments.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "record_contradiction",
+      "reason": "现有主题已承载 baoyu-design 文件式设计协作与 v2 缺评论记录；v2.1 提供反馈数据随项目保存的新证据并改变旧版功能缺口。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "现有主题已承载 baoyu-design 文件式设计协作与 v2 缺评论记录；v2.1 提供反馈数据随项目保存的新证据并改变旧版功能缺口。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-baoyu-design-v21-comments.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "现有主题已承载 baoyu-design 文件式设计协作与 v2 缺评论记录；v2.1 提供反馈数据随项目保存的新证据并改变旧版功能缺口。"
+    },
+    "notes": "复用现有主题；保留 v2 历史主张并记录 v2.1 的功能变化。未将引用的旧帖另建 Source。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-baoyu-design-v21-comments.md",
+        "topics/design-to-code-byo-subscriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -18,9 +18,12 @@ sources:
   - id: logicrw-google-android-summit-claude-codex-cli
     resource: https://x.com/0xLogicrw/status/2115763543194902801
     title: Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins
+  - id: dotey-baoyu-design-v21-comments
+    resource: https://x.com/dotey/status/2116060639533969759
+    title: Dotey announces comments in baoyu-design v2.1
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:20:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:05:14+08:00
 ---
 
 # 设计↔代码与自带 Claude/Codex 订阅
@@ -45,6 +48,10 @@ One class of design product pitches a design↔code round-trip—connect code, r
 
 [baoyu-design open-source repository](../sources/articles/jimliu-baoyu-design.md) grounds that axis: **no** claude.ai/design site or Artifact upload—you use the local coding agent you already run (and whatever model subscription or quota backs it); the README says no separate subscription and no upload step. The edit loop is localhost HTML plus browser preview **point-at-element** edits (Cursor Browser / Claude Preview / Codex Browser), while the four Artifact types use editors that **write back** to the same files for you and the agent—close to Wonder’s editable layers and ship-from-canvas round-trip, but as **Skills plus repo files**, not Wonder’s in-product Claude/Codex subscription hook.[^jimliu-baoyu-design]
 
+元素批注为文件式设计闭环补充了人与 Agent 的反馈上下文：[baoyu-design v2.1 评论功能](../sources/articles/dotey-baoyu-design-v21-comments.md) 允许用户在设计页面和 slides 上标记元素并评论，由 Agent 读取和回复，且评论与项目数据一同保存。结合仓库已描述的双向文件编辑，这表明协作数据可以随设计产物留在项目中。该帖仅明确页面和 slides，未说明 Dashboard 等其他产物的评论覆盖范围，也未给出存储格式或自动执行修改的保证。[^jimliu-baoyu-design][^dotey-baoyu-design-v21-comments]
+
+Element comments add human–agent feedback context to the file-based design loop: [comments in baoyu-design v2.1](../sources/articles/dotey-baoyu-design-v21-comments.md) let users mark elements on design pages and slides, with agents reading and replying and comments stored alongside project data. Together with the repository's description of two-way file editing, this indicates that collaboration data can stay in the project with design outputs. The post explicitly names only pages and slides; it does not specify comment coverage for dashboards or other artifacts, a storage format, or a guarantee that edits are automatically executed.[^jimliu-baoyu-design][^dotey-baoyu-design-v21-comments]
+
 [思维怪怪谈 Google Android 峰会：Claude Code / Codex 官方 Android CLI 插件](../sources/articles/logicrw-google-android-summit-claude-codex-cli.md) 再补 **IDE 内自带 Claude/Codex 订阅** 的官方路径：[@0xLogicrw](https://x.com/0xLogicrw) 转述 Google 在 **Android Studio** 向 **Claude**、**Codex** 等 **40+** 编程 Agent 敞开**编译器、模拟器与调试器**，并为 Claude Code / Codex 推出官方 **Android CLI** 插件（编译、查 UI、模拟点击、测、远程设备实验室真机）。形态是 **Google 官方 IDE + 用户已有编程 Agent 订阅**，不是 Wonder 式设计↔代码画布，但与「用你自己的 Claude/Codex 额度写 Android」同轴；抓取正文**无**订阅接入步骤或与 Wonder/baoyu-design 的功能对照。[^logicrw-google-android-summit-claude-codex-cli] 原帖 <https://x.com/0xLogicrw/status/2115763543194902801>。
 
 [Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins](../sources/articles/logicrw-google-android-summit-claude-codex-cli.md) adds an **official BYO Claude/Codex inside the IDE** lane: [@0xLogicrw](https://x.com/0xLogicrw) relays Google opening **Android Studio** to **Claude**, **Codex**, and **40+** coding agents for **compiler, emulator, and debugger**, plus official **Android CLI** plugins for Claude Code / Codex (compile, UI inspect, simulated taps, tests, remote device-lab phones). The shape is **Google’s official IDE + the user’s existing coding-agent subscription**, not Wonder’s design↔code canvas, but on the same axis as “use your Claude/Codex quota for Android work”; the fetched body has **no** subscription hook-up steps or feature foil vs Wonder/baoyu-design.[^logicrw-google-android-summit-claude-codex-cli] Post: <https://x.com/0xLogicrw/status/2115763543194902801>.
@@ -59,7 +66,13 @@ Adjacent but different axes: [Tool products building own models for discourse po
 
 - Comments feature: [Dotey announces baoyu-design v2 open source](../sources/articles/dotey-baoyu-design-v2-opensource.md) lists **missing comments** vs the originals; [baoyu-design open-source repository](../sources/articles/jimliu-baoyu-design.md) README **does not** name comments as a known gap—the “near-original” exception appears only on X, not in the repo’s own parity claims.[^dotey-baoyu-design-v2-opensource][^jimliu-baoyu-design]
 
+- 版本变化：[v2 发布帖](../sources/articles/dotey-baoyu-design-v2-opensource.md) 明确缺少评论；[v2.1 发布帖](../sources/articles/dotey-baoyu-design-v21-comments.md) 宣布已加入页面和 slides 元素评论，Agent 可读取和回复，并与项目数据一同保存。旧版缺口应按版本理解，不能继续当作 v2.1 的现状；仓库 README 未列缺口的旧观察本身也不能证明当时已有评论。[^dotey-baoyu-design-v2-opensource][^dotey-baoyu-design-v21-comments]
+
+- Version change: the [v2 announcement](../sources/articles/dotey-baoyu-design-v2-opensource.md) explicitly lacked comments; the [v2.1 announcement](../sources/articles/dotey-baoyu-design-v21-comments.md) adds element comments for pages and slides, readable and replyable by agents and stored alongside project data. The earlier gap is version-specific and should not be treated as the state of v2.1; the earlier observation that the repository README omitted the gap does not itself establish that comments existed then.[^dotey-baoyu-design-v2-opensource][^dotey-baoyu-design-v21-comments]
+
 ## 相关 / Related
+
+- Source: [宝玉发布 baoyu-design v2.1 评论功能](../sources/articles/dotey-baoyu-design-v21-comments.md)
 
 - Source: [Ding 谈 Wonder 设计软件优于 Paper](../sources/articles/dingyi-wonder-vs-paper.md)
 - Source: [宝玉发布 baoyu-design v2 开源](../sources/articles/dotey-baoyu-design-v2-opensource.md)
@@ -73,3 +86,5 @@ Adjacent but different axes: [Tool products building own models for discourse po
 [^dotey-baoyu-design-v2-opensource]: Dotey announces baoyu-design v2 open source
 [^jimliu-baoyu-design]: baoyu-design open-source repository
 [^logicrw-google-android-summit-claude-codex-cli]: Logicrw on Google Android summit—Claude Code / Codex official Android CLI plugins
+
+[^dotey-baoyu-design-v21-comments]: Dotey announces comments in baoyu-design v2.1

@@ -1,0 +1,93 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:17:50.492Z",
+  "url": "https://x.com/shao__meng/status/2115986116482613486",
+  "slug": "728c8e1734cc67e5",
+  "content_hash": "82dad20196818bc3664a94bba8c8ec899ffa1e33abd905ce82c5ea3586d7db71",
+  "source": {
+    "path": "sources/articles/shao-meng-addy-opus-overprompting.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "add_evidence",
+      "reason": "Owns automated permissions; adds explicit safety limits and distinction from outcome verification."
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "Consulted for prompt overhead; existing instruction-efficiency evidence remains valid, while model-upgrade guidance is integrated in calibrating-ai-guidance."
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "add_evidence",
+      "reason": "Owns over/under-guidance; adds outcome verification and pruning of stale instructions."
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Consulted for fresh sessions and specifications; existing broad context framework needs no conclusion change, and concrete guidance is integrated in the calibration topic."
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "add_evidence",
+      "reason": "Owns delegation defaults; adds task granularity and autonomous completion boundaries."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "Owns over/under-guidance; adds outcome verification and pruning of stale instructions.",
+    "topics/fold-subagents-into-main-loop.md": "Owns delegation defaults; adds task granularity and autonomous completion boundaries.",
+    "topics/agent-auto-mode.md": "Owns automated permissions; adds explicit safety limits and distinction from outcome verification.",
+    "topics/agents-md-token-efficiency.md": "Consulted for prompt overhead; existing instruction-efficiency evidence remains valid, while model-upgrade guidance is integrated in calibrating-ai-guidance.",
+    "topics/context-engineering-for-agents.md": "Consulted for fresh sessions and specifications; existing broad context framework needs no conclusion change, and concrete guidance is integrated in the calibration topic."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shao-meng-addy-opus-overprompting.md",
+    "topics/agent-auto-mode.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/calibrating-ai-guidance.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-auto-mode.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/calibrating-ai-guidance.md": "Owns over/under-guidance; adds outcome verification and pruning of stale instructions.",
+      "topics/fold-subagents-into-main-loop.md": "Owns delegation defaults; adds task granularity and autonomous completion boundaries.",
+      "topics/agent-auto-mode.md": "Owns automated permissions; adds explicit safety limits and distinction from outcome verification.",
+      "topics/agents-md-token-efficiency.md": "Consulted for prompt overhead; existing instruction-efficiency evidence remains valid, while model-upgrade guidance is integrated in calibrating-ai-guidance.",
+      "topics/context-engineering-for-agents.md": "Consulted for fresh sessions and specifications; existing broad context framework needs no conclusion change, and concrete guidance is integrated in the calibration topic."
+    },
+    "notes": "Uses fetched article only; no digest body or external verification. Product and evaluation statements are attributed reports. Existing unrelated workspace changes preserved.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shao-meng-addy-opus-overprompting.md",
+        "topics/agent-auto-mode.md",
+        "topics/calibrating-ai-guidance.md",
+        "topics/fold-subagents-into-main-loop.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

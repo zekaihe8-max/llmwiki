@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "Owns browser automation and existing Grok Bot shopping approvals; integrate credential and rule boundaries.",
+    "topics/agent-compute-and-governance.md": "Consulted for governance fit; enterprise compute and trajectory auditing are outside this consumer release summary, so left unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Owns browser automation and existing Grok Bot shopping approvals; integrate credential and rule boundaries."
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Consulted for governance fit; enterprise compute and trajectory auditing are outside this consumer release summary, so left unchanged."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Reused the existing browser-operation Topic. No new Topic needed; release claims remain attributed to the fetched post."
+}

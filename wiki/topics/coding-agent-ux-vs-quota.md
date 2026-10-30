@@ -2,8 +2,8 @@
 type: Topic
 title: 编程 Agent 体验与额度
 title_en: Coding agent UX vs quota
-description: 用户可在多个编程 Agent 间切换并更偏好某一产品的体验，但该产品的额度仍可能明显弱于对照产品；即便对照产品相对慷慨，重用也可能一天烧掉周额度的大半；另有实践者报告某整合套餐周额度基本用不完、峰值约 70%；额度还有周期重置（如 Codex「马上要重置」），多 Claude 订阅号还可按周重置时点优先消耗「限额快到」的账号；社区亦传 Claude「冷知识」——两个 5× 周额度或五到六个 Pro 周额度往往优于单档 20×；亦有人把 Claude 号池拉满到 6 个并以「封一个补一个」当常态运维；维持 Claude 可用本身也可能因账号随时 G、补货挂号与 Dispute 而运维燃尽，或使用中途突然 KYC 吊销登录态。
-description_en: Users may switch among coding agents and prefer one product’s experience, while that product’s quota still lags a comparison product; even a relatively generous allotment can see heavy use burn a large share of a weekly quota in a day; other practitioners report a bundled plan’s weekly quota rarely finishing, peaking around 70%; quotas also follow reset cycles (e.g. Codex “about to reset”), and multi–Claude subscription stacks may schedule by weekly reset to prefer accounts whose limit is about to hit; community lore also claims two 5× weekly allotments or five to six Pro weekly allotments often beat a single 20× tier; others max a Claude pool at six accounts and treat “replace one when banned” as normal ops; keeping Claude usable can itself burn people out via accounts dying anytime, restock/hang-up, and Dispute—or via KYC mid-use that revokes the login session.
+description: 用户可在多个编程 Agent 间切换并更偏好某一产品的体验，但该产品的额度仍可能明显弱于对照产品；即便对照产品相对慷慨，重用也可能一天烧掉周额度的大半；另有实践者报告某整合套餐周额度基本用不完、峰值约 70%；额度还有周期重置（如 Codex「马上要重置」），多 Claude 订阅号还可按周重置时点优先消耗「限额快到」的账号；社区亦传 Claude「冷知识」——两个 5× 周额度或五到六个 Pro 周额度往往优于单档 20×；亦有人把 Claude 号池拉满到 6 个并以「封一个补一个」当常态运维；维持 Claude 可用本身也可能因账号随时 G、补货挂号与 Dispute 而运维燃尽，或使用中途突然 KYC 吊销登录态。 额度比较还须区分政策变更、订阅批次和独立用量池，避免把取消降额误算为老用户再次翻倍。 Magpie 也可仅作手动首选账户切换工具，原帖未证明自动按额度调度。
+description_en: Users may switch among coding agents and prefer one product’s experience, while that product’s quota still lags a comparison product; even a relatively generous allotment can see heavy use burn a large share of a weekly quota in a day; other practitioners report a bundled plan’s weekly quota rarely finishing, peaking around 70%; quotas also follow reset cycles (e.g. Codex “about to reset”), and multi–Claude subscription stacks may schedule by weekly reset to prefer accounts whose limit is about to hit; community lore also claims two 5× weekly allotments or five to six Pro weekly allotments often beat a single 20× tier; others max a Claude pool at six accounts and treat “replace one when banned” as normal ops; keeping Claude usable can itself burn people out via accounts dying anytime, restock/hang-up, and Dispute—or via KYC mid-use that revokes the login session. Quota comparisons also require distinguishing policy changes, subscriber cohorts, and separate usage pools, to avoid mistaking a canceled reduction for another doubling for existing users. Magpie can also serve solely as a manual preferred-account switcher; the post does not establish automatic quota-based scheduling.
 tags: [coding-agents, ux, quota, reset, scheduling, sub2api, devin, claude, claude-code, codex, grok, burnout, kyc]
 sources:
   - id: gorden-sun-devin-experience-quota
@@ -36,9 +36,18 @@ sources:
   - id: vista8-claude-dual-pro-keepalive
     resource: https://x.com/vista8/status/2115487808404230154
     title: vista8 on Claude keepalive—dual Pro rotation and custom-domain email
+  - id: dotey-openai-pro-usage-limits-double
+    resource: https://x.com/dotey/status/2115856411439575386
+    title: Dotey on OpenAI doubling Pro usage limits
+  - id: op7418-openai-pro-usage-limits-double
+    resource: https://x.com/op7418/status/2115976609148834301
+    title: Guizang on OpenAI doubling Pro usage limits
+  - id: yetone-magpie-claude-code-account-switching
+    resource: https://x.com/yetone/status/2115843318693417429
+    title: yetone on using Magpie only to switch Claude Code accounts
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:58:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:25:46+08:00
 ---
 
 # 编程 Agent 体验与额度
@@ -50,6 +59,18 @@ generated:
 “Good to use” for coding agents often splits into experience versus quota: users can run several products at once and mostly prefer one product’s feel, yet still be blocked because its allotment lags another. Experience preference and quota abundance need not move together. Even when one product’s allotment looks relatively generous, heavy use can still burn a large share of a weekly quota in a single day; under other use, a bundled plan’s weekly quota may rarely finish, peaking around seventy percent. Quotas also have a calendar/cycle side: communities flag that a product is “about to reset”; with multiple Claude subscriptions on staggered resets, scheduling can prefer which account to spend by how soon its weekly limit hits. A multi-account pool itself can burn people out when accounts die anytime, requiring re-register, restock, hang-up, and Grok Bot Dispute—or break mid-use when KYC suddenly appears and revokes the login—so “quota” is not only burn rate and reset, but also account survival and session continuity. Unverified community “lore” also claims splitting into two 5× or five to six Pro weekly allotments often beats a single 20× tier—same multi-account family as weekly-reset scheduling, but the assertion stops at tier/count comparison without naming a routing tool. The same author also posts maxing a **six-account** pool with “replace one when one is banned,” framing replacement as normal ops rather than a one-off—same family as the burnout post’s passive restock, but a more proactive stance.[^gorden-sun-devin-experience-quota][^turingou-claude-half-weekly-quota][^dotey-codex-quota-reset][^xiaomovps-ai-subs-trim-120][^fkysly-sub2api-weekly-claude-schedule][^fkysly-claude-weekly-quota-multi-account-tip][^fkysly-claude-six-account-replace-on-ban][^fkysly-claude-access-burnout][^fkysly-claude-kyc-mid-session]
 
 ## 综合分析 / Synthesis
+
+多账户使用还需区分「手动选择账户」与「按周重置自动调度」。[yetone 的 Magpie 说明](../sources/articles/yetone-magpie-claude-code-account-switching.md) 提供了前者的具体路径：不启用 Agent 页的 Claude Code，在供应商页登录多个账号并指定首选，即可仅用账户切换功能。这使多号管理有了独立于启用 Agent 代理的入口；但不能由此推出已有按额度自动调度、额度增加或账号更稳定。作者称切换能力从发布首日已支持，未来计划显化的是入口。[^yetone-magpie-claude-code-account-switching]
+
+Multi-account use requires distinguishing manual account selection from automatic weekly-reset scheduling. [yetone’s Magpie explanation](../sources/articles/yetone-magpie-claude-code-account-switching.md) gives a concrete path for the former: leave Claude Code disabled on the Agent page, sign in to multiple accounts on the provider page, and select a preferred account to use account switching alone. This provides an account-management entry point independent of enabling Agent proxying, but does not establish automatic quota-based scheduling, increased allowances, or greater account stability. The author says switching has existed since launch; the planned change is making the entry point more visible.[^yetone-magpie-claude-code-account-switching]
+
+额度还影响用户愿意使用的推理强度：[歸藏的反应](../sources/articles/op7418-openai-pro-usage-limits-double.md) 将额度调整理解为恢复此前额度，并期待放心开极高推理。这补充了「够用」对使用选择的影响，但只是意愿表达，不能证明极高推理的实际消耗、完成任务数量或质量收益。[^op7418-openai-pro-usage-limits-double]
+
+Quota also affects the reasoning intensity users are willing to select: [Guizang’s reaction](../sources/articles/op7418-openai-pro-usage-limits-double.md) treats the adjustment as restored allowance and welcomes using extra-high reasoning freely. This adds a behavioral dimension to sufficient quota, but expresses intent rather than demonstrating actual consumption, completed-task counts, or quality gains.[^op7418-openai-pro-usage-limits-double]
+
+跨产品比较额度时，周期重置之外还要检查政策基准和订阅批次。[宝玉的用量调整说明](../sources/articles/dotey-openai-pro-usage-limits-double.md) 中，Pro 200 老用户取消原定 20×→10× 的降额，Codex 与 Work 保持 20×；新用户则从 10×升至 20×。同一最终上限对应不同实际增量，因此不能把公告中的「翻倍」套到每位用户的原有额度。dot 暂时延长的加长额度继续独立计量，也不能直接加进 Codex 与 Work 的常规池；本文未提供绝对 token 数或新的重置周期。[^dotey-openai-pro-usage-limits-double]
+
+Cross-product quota comparisons need policy baselines and subscriber cohorts as well as reset cycles. In [Dotey’s explanation](../sources/articles/dotey-openai-pro-usage-limits-double.md), existing Pro 200 subscribers retain 20× for Codex and Work because a planned 20×→10× reduction is canceled, while newer subscribers rise from 10× to 20×. The same final cap thus represents different actual increases, so the announcement’s “doubling” cannot be applied to every user’s previous allowance. The temporarily extended dot allowance also remains separately metered and cannot simply be added to the regular Codex and Work pool; the post gives no absolute token count or new reset cycle.[^dotey-openai-pro-usage-limits-double]
 
 [Gorden Sun 评新版 Devin 体验常胜 Claude 但额度不如](../sources/articles/gorden-sun-devin-experience-quota.md) 给出具体对照：在 Claude 与 Devin 之间切换，多数时候更喜欢新版 Devin 的体验，但「额度跟 Claude 没法比」。[^gorden-sun-devin-experience-quota] 原帖 <https://x.com/Gorden_Sun/status/2113862073260347890>。帖文同时引用 Cognition 对 refreshed Devin Desktop 与 agent command center 的介绍，把体验判断锚定在产品刷新之后，而把不满落在额度对比上。
 
@@ -93,6 +114,10 @@ generated:
 
 ## 矛盾与变化 / Contradictions
 
+[歸藏](../sources/articles/op7418-openai-pro-usage-limits-double.md) 把调整读成此前去掉的额度回来了；[宝玉](../sources/articles/dotey-openai-pro-usage-limits-double.md) 则区分 Pro 200 订阅批次，说明老用户是取消降额、保持 20×，新用户才由 10× 升至 20×。歸藏所引公告也写 Work 与 Codex 保持不变，故「恢复」应保留为作者体感，不能覆盖批次差异或读成老用户从 20× 升至 40×。[^op7418-openai-pro-usage-limits-double][^dotey-openai-pro-usage-limits-double]
+
+[Guizang](../sources/articles/op7418-openai-pro-usage-limits-double.md) reads the change as bringing back removed allowance; [Dotey](../sources/articles/dotey-openai-pro-usage-limits-double.md) distinguishes Pro 200 cohorts, with existing users retaining 20× through a canceled reduction and newer users rising from 10× to 20×. Guizang’s quoted announcement also says Work and Codex usage stays the same, so “restoration” remains his interpretation and cannot erase cohort differences or imply an increase from 20× to 40× for existing users.[^op7418-openai-pro-usage-limits-double][^dotey-openai-pro-usage-limits-double]
+
 郭宇一天烧掉 Claude Code 周额度约一半；小墨报告 Grok $100 周额度峰值约 70% 且常用不完——产品与工作流不同，说明烧速与「够用」因栈而异，而非同一产品额度互相否定。 / Turingou burns about half a Claude Code weekly quota in a day; Xiaomo reports the Grok $100 weekly quota peaking around 70% and often unfinished—different products and workflows, so burn rate and “enough” vary by stack rather than the same product allotment canceling another.
 
 马天翼打算用 Sub2API（必要时 Claude Code 补丁）按周重置调度多 Claude 号；帖文不确定官方是否已有该能力——与宝玉仅提醒 Codex 重置、未谈多号路由并存：一是计划中的调度策略，一是单产品周期提示，互不否定。 / 马天翼 plans Sub2API (and possibly a Claude Code patch) to schedule multiple Claude accounts by weekly reset, and is unsure whether official support already exists—alongside Dotey’s Codex reset heads-up with no multi-account routing: one is a planned scheduling strategy, the other a single-product cycle tip; they do not cancel each other.
@@ -109,6 +134,10 @@ vista8 runs two Pro subs in rotation plus free spares and claims never banned; �
 
 ## 相关 / Related
 
+- [Magpie 账户切换说明 / Magpie account-switching explanation](../sources/articles/yetone-magpie-claude-code-account-switching.md)
+
+- Source: [歸藏谈 OpenAI Pro 限额翻倍 / Guizang on OpenAI doubling Pro usage limits](../sources/articles/op7418-openai-pro-usage-limits-double.md)
+- Source: [宝玉解读 OpenAI Pro 用量翻倍 / Dotey on OpenAI doubling Pro usage limits](../sources/articles/dotey-openai-pro-usage-limits-double.md)
 - Source: [Gorden Sun 评新版 Devin 体验常胜 Claude 但额度不如](../sources/articles/gorden-sun-devin-experience-quota.md)
 - Source: [郭宇一天烧掉 Claude Code 周额度一半](../sources/articles/turingou-claude-half-weekly-quota.md)
 - Source: [宝玉谈 Codex 马上要重置](../sources/articles/dotey-codex-quota-reset.md)
@@ -134,3 +163,9 @@ vista8 runs two Pro subs in rotation plus free spares and claims never banned; �
 [^fkysly-claude-weekly-quota-multi-account-tip]: fkysly on Claude weekly quota—split accounts beat one 20× tier
 [^fkysly-claude-six-account-replace-on-ban]: fkysly on six Claude accounts—replace one when banned
 [^vista8-claude-dual-pro-keepalive]: vista8 on Claude keepalive—dual Pro rotation and custom-domain email
+
+[^dotey-openai-pro-usage-limits-double]: Dotey on OpenAI doubling Pro usage limits
+
+[^op7418-openai-pro-usage-limits-double]: Guizang on OpenAI doubling Pro usage limits
+
+[^yetone-magpie-claude-code-account-switching]: yetone on Magpie as a Claude Code account switcher

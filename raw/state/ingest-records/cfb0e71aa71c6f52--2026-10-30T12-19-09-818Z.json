@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:19:09.818Z",
+  "url": "https://x.com/shao__meng/status/2115991611306086574",
+  "slug": "cfb0e71aa71c6f52",
+  "content_hash": "060be92b6837ee0b0bf4f82c27accf1995a0304ff991426d5b7aadf889ea857a",
+  "source": {
+    "path": "sources/articles/shao-meng-cursor-slack-video-as-code.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/computer-use.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Consulted for distilling successful runs and debugging lessons into Skills; unchanged because these conclusions already exist, with this demo’s video-specific tension integrated in agentic-video-editing."
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "add_evidence",
+      "reason": "Owns video as code, visual acceptance, human creative judgment, and the Skill-layer debate; integrated reference-based inner-loop evidence and scope tension."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Consulted for the controllable desktop execution surface; unchanged because the article supplies no new mechanism, benchmark, or answer to existing OS and safety questions."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Owns video as code, visual acceptance, human creative judgment, and the Skill-layer debate; integrated reference-based inner-loop evidence and scope tension.",
+    "topics/computer-use.md": "Consulted for the controllable desktop execution surface; unchanged because the article supplies no new mechanism, benchmark, or answer to existing OS and safety questions.",
+    "topics/agent-skill-authoring.md": "Consulted for distilling successful runs and debugging lessons into Skills; unchanged because these conclusions already exist, with this demo’s video-specific tension integrated in agentic-video-editing."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shao-meng-cursor-slack-video-as-code.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/computer-use.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "Owns video as code, visual acceptance, human creative judgment, and the Skill-layer debate; integrated reference-based inner-loop evidence and scope tension.",
+      "topics/computer-use.md": "Consulted for the controllable desktop execution surface; unchanged because the article supplies no new mechanism, benchmark, or answer to existing OS and safety questions.",
+      "topics/agent-skill-authoring.md": "Consulted for distilling successful runs and debugging lessons into Skills; unchanged because these conclusions already exist, with this demo’s video-specific tension integrated in agentic-video-editing."
+    },
+    "notes": null,
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shao-meng-cursor-slack-video-as-code.md",
+        "topics/agentic-video-editing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

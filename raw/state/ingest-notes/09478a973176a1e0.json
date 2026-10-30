@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-output-to-notion-reading.md",
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/ontology-driven-observability.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "Owns recurring personal-agent task reliability; added the distinction between readable report output and evidence of successful refresh execution.",
+    "topics/agent-output-to-notion-reading.md": "Consulted as an output-reading surface; unchanged because the article supplies no Notion routing or device-adaptation evidence.",
+    "topics/deep-backends-and-jit-frontends.md": "Consulted for generated frontends; unchanged because Pages viewing supplies no backend architecture or ephemeral deployment evidence.",
+    "topics/ontology-driven-observability.md": "Consulted for dashboards; unchanged because site traffic reporting provides no ontology, entity reconciliation, or root-cause analysis evidence."
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "add_evidence",
+      "reason": "Owns recurring personal-agent task reliability; added the distinction between readable report output and evidence of successful refresh execution."
+    },
+    {
+      "path": "topics/agent-output-to-notion-reading.md",
+      "action": "unchanged",
+      "reason": "Consulted as an output-reading surface; unchanged because the article supplies no Notion routing or device-adaptation evidence."
+    },
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "Consulted for generated frontends; unchanged because Pages viewing supplies no backend architecture or ephemeral deployment evidence."
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "Consulted for dashboards; unchanged because site traffic reporting provides no ontology, entity reconciliation, or root-cause analysis evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Reused existing task-reliability Topic; no new Topic. Article claims are attributed, without treating the daily refresh request as verified sustained operation."
+}

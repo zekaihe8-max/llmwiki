@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:32:43.033Z",
+  "url": "https://x.com/vista8/status/2116001563420586192",
+  "slug": "1c6fa66415ccad19",
+  "content_hash": "252c9ad78ff489ed15fb626fc5b0348fa8753c7a0111e93850a93ecf5391839d",
+  "source": {
+    "path": "sources/articles/vista8-vibe-coding-project-showcase.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "add_evidence",
+      "reason": "Owns the same community submission drive; integrate the reported completion and preserve the earlier uncertain status."
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "Consulted for Grok Bot context, but this article reports a showcase website rather than an API bridge, quota, or cost evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "Owns the same community submission drive; integrate the reported completion and preserve the earlier uncertain status.",
+    "topics/grok-bot-x-api-substitute.md": "Consulted for Grok Bot context, but this article reports a showcase website rather than an API bridge, quota, or cost evidence."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vista8-vibe-coding-project-showcase.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/grok-bot-x-api-substitute.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-product-self-rec-amplify.md": "Owns the same community submission drive; integrate the reported completion and preserve the earlier uncertain status.",
+      "topics/grok-bot-x-api-substitute.md": "Consulted for Grok Bot context, but this article reports a showcase website rather than an API bridge, quota, or cost evidence."
+    },
+    "notes": "No new Topic needed. Completion is author-reported; fetched video contents and website functionality were not independently verified. Existing unrelated worktree changes preserved.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vista8-vibe-coding-project-showcase.md",
+        "topics/ai-product-self-rec-amplify.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

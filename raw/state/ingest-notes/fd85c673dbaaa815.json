@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/brain-computer-assisted-speech.md",
+    "topics/computer-use.md",
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "selection_reasons": {
+    "topics/brain-computer-assisted-speech.md": "Owns Neuralink intent decoding and assisted expression; integrate the downstream Agent stage, reported speech figures, and forecast boundaries.",
+    "topics/computer-use.md": "Consulted for autonomous computer operation; unchanged because the report provides no execution-loop, GUI targeting, permission, or task-validation details beyond the assisted-input prototype.",
+    "topics/pure-speech-full-duplex.md": "Consulted to distinguish speech pathways; unchanged because attempted speech via brain signals supplies no evidence about audio-native full-duplex training or emotion preservation."
+  },
+  "topics": [
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "add_evidence",
+      "reason": "Owns Neuralink intent decoding and assisted expression; integrate the downstream Agent stage, reported speech figures, and forecast boundaries."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Consulted for autonomous computer operation; unchanged because the report provides no execution-loop, GUI targeting, permission, or task-validation details beyond the assisted-input prototype."
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "Consulted to distinguish speech pathways; unchanged because attempted speech via brain signals supplies no evidence about audio-native full-duplex training or emotion preservation."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Reused the existing assisted-speech Topic; no new Topic. Figures and forecast remain attributed to the fetched post. Only the explicitly requested ingest-notes file is written under raw/state/."
+}

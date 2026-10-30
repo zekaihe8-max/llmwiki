@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:12:40.118Z",
+  "url": "https://x.com/op7418/status/2116005477805154537",
+  "slug": "60f82c8f8777d11f",
+  "content_hash": "43616a024e4de090195df7f5dd81c93a8040a1b18826203ef2f0f25c432ce94f",
+  "source": {
+    "path": "sources/articles/op7418-grok-bot-iphone-duo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/reading-app-iphone-duo-adaptation.md",
+    "topics/iphone-duo-user-vs-developer-reception.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "add_evidence",
+      "reason": "Owns AI-app adaptation to iPhone Duo; integrate Grok bot as additional evidence while limiting next-day timing to WorkBuddy."
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "Consulted to check adjacent device coverage; the post gives no evidence about audience reception or user/developer differences."
+    },
+    {
+      "path": "topics/reading-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "Consulted to check device-adaptation scope; the fetched post provides no reading, preview, or resume evidence."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "Owns AI-app adaptation to iPhone Duo; integrate Grok bot as additional evidence while limiting next-day timing to WorkBuddy.",
+    "topics/reading-app-iphone-duo-adaptation.md": "Consulted to check device-adaptation scope; the fetched post provides no reading, preview, or resume evidence.",
+    "topics/iphone-duo-user-vs-developer-reception.md": "Consulted to check adjacent device coverage; the post gives no evidence about audience reception or user/developer differences."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/op7418-grok-bot-iphone-duo.md",
+    "topics/ai-app-iphone-duo-adaptation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-app-iphone-duo-adaptation.md",
+      "topics/reading-app-iphone-duo-adaptation.md",
+      "topics/iphone-duo-user-vs-developer-reception.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-app-iphone-duo-adaptation.md": "Owns AI-app adaptation to iPhone Duo; integrate Grok bot as additional evidence while limiting next-day timing to WorkBuddy.",
+      "topics/reading-app-iphone-duo-adaptation.md": "Consulted to check device-adaptation scope; the fetched post provides no reading, preview, or resume evidence.",
+      "topics/iphone-duo-user-vs-developer-reception.md": "Consulted to check adjacent device coverage; the post gives no evidence about audience reception or user/developer differences."
+    },
+    "notes": "Reused the existing AI-app adaptation topic. No new Topic. Publication date omitted because the fetched parent post has no date; Oct 23 belongs to the quoted post. Only the explicitly requested ingest-notes file was written under raw/state/.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/op7418-grok-bot-iphone-duo.md",
+        "topics/ai-app-iphone-duo-adaptation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:41:21.464Z",
+  "url": "https://x.com/0xlangeai/status/2116011646024130677",
+  "slug": "b4e9592529f379d1",
+  "content_hash": "136bf2c51b2a5aae8ada44208f5ee464577b963a93fc9fda76f30ee5f1ec28dd",
+  "source": {
+    "path": "sources/articles/0xlangeai-workbuddy-buddy-one.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "侧重家居设备控制；账号与积分共享没有设备控制证据，保持不变。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "侧重推理渠道、API 和供应商兼容；本文未提供渠道或 API 证据，保持不变。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "侧重模型厂商合作与模型菜单；本文没有模型合作信息，保持不变。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "复用订阅组合、权益与额度池的既有概念，整合共享积分的绑定条件与不可直接推算节省的边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "复用订阅组合、权益与额度池的既有概念，整合共享积分的绑定条件与不可直接推算节省的边界。",
+    "topics/in-app-model-partnerships.md": "侧重模型厂商合作与模型菜单；本文没有模型合作信息，保持不变。",
+    "topics/agent-model-channel-tradeoffs.md": "侧重推理渠道、API 和供应商兼容；本文未提供渠道或 API 证据，保持不变。",
+    "topics/agent-home-platform-control.md": "侧重家居设备控制；账号与积分共享没有设备控制证据，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/0xlangeai-workbuddy-buddy-one.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/in-app-model-partnerships.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/agent-home-platform-control.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "复用订阅组合、权益与额度池的既有概念，整合共享积分的绑定条件与不可直接推算节省的边界。",
+      "topics/in-app-model-partnerships.md": "侧重模型厂商合作与模型菜单；本文没有模型合作信息，保持不变。",
+      "topics/agent-model-channel-tradeoffs.md": "侧重推理渠道、API 和供应商兼容；本文未提供渠道或 API 证据，保持不变。",
+      "topics/agent-home-platform-control.md": "侧重家居设备控制；账号与积分共享没有设备控制证据，保持不变。"
+    },
+    "notes": "复用现有 Topic，无新 Topic。仅创建指定的 ingest-notes；未改动抓取正文或 digest。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/0xlangeai-workbuddy-buddy-one.md",
+        "topics/premium-ai-subscription-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

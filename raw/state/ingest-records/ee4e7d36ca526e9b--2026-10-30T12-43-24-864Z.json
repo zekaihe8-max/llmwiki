@@ -1,0 +1,62 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:43:24.864Z",
+  "url": "https://x.com/0xlangeai/status/2116061395347493324",
+  "slug": "ee4e7d36ca526e9b",
+  "content_hash": "3e9c96dc09742af374500488c04e5796912836cd1a9d052cee46ee589d97f5d4",
+  "source": {
+    "path": "sources/articles/0xlangeai-grok-bot-v0755-v0781-highlights.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Consulted for governance fit; enterprise compute and trajectory auditing are outside this consumer release summary, so left unchanged."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Owns browser automation and existing Grok Bot shopping approvals; integrate credential and rule boundaries."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "Owns browser automation and existing Grok Bot shopping approvals; integrate credential and rule boundaries.",
+    "topics/agent-compute-and-governance.md": "Consulted for governance fit; enterprise compute and trajectory auditing are outside this consumer release summary, so left unchanged."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/0xlangeai-grok-bot-v0755-v0781-highlights.md",
+    "topics/computer-use.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "Owns browser automation and existing Grok Bot shopping approvals; integrate credential and rule boundaries.",
+      "topics/agent-compute-and-governance.md": "Consulted for governance fit; enterprise compute and trajectory auditing are outside this consumer release summary, so left unchanged."
+    },
+    "notes": "Reused the existing browser-operation Topic. No new Topic needed; release claims remain attributed to the fetched post.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/0xlangeai-grok-bot-v0755-v0781-highlights.md",
+        "topics/computer-use.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

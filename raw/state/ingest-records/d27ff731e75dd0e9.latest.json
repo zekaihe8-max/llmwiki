@@ -1,0 +1,80 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T13:05:46.183Z",
+  "url": "https://x.com/Gorden_Sun/status/2115808039785914677",
+  "slug": "d27ff731e75dd0e9",
+  "content_hash": "bc37817cc3fd212a63c85b61e9fb2559a83281e034ab85ecd62b482e500154fa",
+  "source": {
+    "path": "sources/articles/gorden-sun-nemotron-transcribe-granary.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/brain-computer-assisted-speech.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "unchanged",
+      "reason": "排除脑机辅助表达主题；本文是普通音频输入，不涉及脑信号解码。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "比较开放模型主题；其聚焦通用前沿 MoE 与成本，本文的专门语音能力不改变结论。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "add_evidence",
+      "reason": "承接长音频转写与信息保留工作流，加入说话人、术语和输出模式的核验边界。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "比较相邻语音输入主题；本文未提供面向编程 Agent 的文书整理证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "承接长音频转写与信息保留工作流，加入说话人、术语和输出模式的核验边界。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "比较相邻语音输入主题；本文未提供面向编程 Agent 的文书整理证据，保持不变。",
+    "topics/open-weight-frontier-models.md": "比较开放模型主题；其聚焦通用前沿 MoE 与成本，本文的专门语音能力不改变结论。",
+    "topics/brain-computer-assisted-speech.md": "排除脑机辅助表达主题；本文是普通音频输入，不涉及脑信号解码。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gorden-sun-nemotron-transcribe-granary.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/brain-computer-assisted-speech.md"
+    ],
+    "selection_reasons": {
+      "topics/podcast-ai-fine-transcription-close-reads.md": "承接长音频转写与信息保留工作流，加入说话人、术语和输出模式的核验边界。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "比较相邻语音输入主题；本文未提供面向编程 Agent 的文书整理证据，保持不变。",
+      "topics/open-weight-frontier-models.md": "比较开放模型主题；其聚焦通用前沿 MoE 与成本，本文的专门语音能力不改变结论。",
+      "topics/brain-computer-assisted-speech.md": "排除脑机辅助表达主题；本文是普通音频输入，不涉及脑信号解码。"
+    },
+    "notes": "复用现有长音频转写主题；不新建主题。仅依据已抓取正文，保留能力与评测主张的转述属性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gorden-sun-nemotron-transcribe-granary.md",
+        "topics/podcast-ai-fine-transcription-close-reads.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

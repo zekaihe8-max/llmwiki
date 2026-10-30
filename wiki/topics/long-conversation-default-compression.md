@@ -2,8 +2,8 @@
 type: Topic
 title: 长对话默认压缩低于模型窗口
 title_en: Long-conversation default compression below model window
-description: Agent 包装层或 harness 的长对话压缩默认值常与模型标称窗口错位——可在低于窗口处提前压以换首字延迟，也可在小窗口模型上预留过大导致压缩失败；表观「上限」或「压不动」有时是产品默认，可改完整窗口、按模型压缩点，或调 Compaction / 手动 /compact。
-description_en: Agent wrappers or harnesses often misalign long-chat compression defaults with the model’s nominal window—compressing early below the window for first-token latency, or reserving too much headroom on small-window models so compression fails; an apparent “cap” or “won’t compact” can be a product default, fixable via full-window or per-model compression points, Compaction tuning, or manual /compact.
+description: Agent 包装层或 harness 的长对话压缩默认值常与模型标称窗口错位——可在低于窗口处提前压以换首字延迟，也可在小窗口模型上预留过大导致压缩失败；表观「上限」或「压不动」有时是产品默认，可改完整窗口、按模型压缩点，或调 Compaction / 手动 /compact。 提前压缩也可出于额度控制，但社区估算的节省比例不构成普遍保证。 全文检索提出替代路线，但与提前压缩的主张尚未得到同任务质量验证。
+description_en: Agent wrappers or harnesses often misalign long-chat compression defaults with the model’s nominal window—compressing early below the window for first-token latency, or reserving too much headroom on small-window models so compression fails; an apparent “cap” or “won’t compact” can be a product default, fixable via full-window or per-model compression points, Compaction tuning, or manual /compact. Earlier compaction may also target quota control, but community saving estimates are not general guarantees. Full-history retrieval proposes an alternative, but it and earlier compaction lack matched task-quality validation.
 tags: [context, compression, magpie, workbuddy, latency, harness, long-conversation, dsh, compact]
 sources:
   - id: yetone-workbuddy-1m-magpie-272k
@@ -27,9 +27,15 @@ sources:
   - id: xiaomovps-pi-agent-six-hidden-settings
     resource: https://x.com/xiaomovps/status/2115658635183587414
     title: Xiaomo on six hidden Pi Agent settings
+  - id: heydengai-autocompact-400k-weekly-quota
+    resource: https://x.com/heydengai/status/2116121434326261778
+    title: heydengai on earlier compaction and weekly quota
+  - id: heydengai-retrieval-instead-of-compaction
+    resource: https://x.com/heydengai/status/2116019898422083808
+    title: heydengai on retrieval instead of compaction
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:36:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:49:16+08:00
 ---
 
 # 长对话默认压缩低于模型窗口
@@ -41,6 +47,14 @@ generated:
 A model or channel’s nominal context does not mean the session tool always feeds the full window or that compression always succeeds: a wrapper may proactively compress long chats at a lower threshold to keep first-token latency stable, or set too large a compaction reserve on small-window models so compression fails; the “ceiling” or “won’t compact” users see can be a product default, not a hard model limit.[^yetone-workbuddy-1m-magpie-272k][^xiaomovps-dsh-three-pitfalls]
 
 ## 综合分析 / Synthesis
+
+调压缩阈值之前，还需判断是否必须用摘要恢复会话。[小邓同学的检索帖](../sources/articles/heydengai-retrieval-instead-of-compaction.md)提出保留完整历史、按需检索；其转述测试区分缓存命中与失效，说明压缩成本比较不能忽略缓存状态。不过该文未给出产品设置或完整方法，不能据此声称现有 harness 已支持替代路线；其架构层意义见[上下文工程](./context-engineering-for-agents.md)。[^heydengai-retrieval-instead-of-compaction]
+
+Before tuning a compaction threshold, consider whether session recovery must use summaries. [heydengai’s retrieval post](../sources/articles/heydengai-retrieval-instead-of-compaction.md) proposes retaining full history for on-demand retrieval; its relayed test distinguishes cache hits from misses, showing why compaction cost comparisons must account for cache state. It provides no product setting or full methodology, so it does not establish that existing harnesses support this alternative; see [context engineering](./context-engineering-for-agents.md) for the architectural implications.[^heydengai-retrieval-instead-of-compaction]
+
+压缩点还应按优化目标判断：除了保留完整窗口、改善首字延迟与保证压缩可执行，长历史的重复读取开销也是调低阈值的理由。[小邓同学的 Claude Code 帖文](../sources/articles/heydengai-autocompact-400k-weekly-quota.md)称 1M 默认接近 970K 才压缩，建议 `/autocompact 400k`；但其转述的 29% 周额度节省仅为估算，未附版本、测试设计或质量对照，故证据支持的是成本动机与待验证的调参假设，不能推出统一最佳阈值或普遍节省比例。[^heydengai-autocompact-400k-weekly-quota]
+
+Compression points also depend on the optimization goal: alongside preserving the full window, improving first-token latency, and keeping compaction feasible, repeated reading of long histories is another reason to lower the threshold. [heydengai’s Claude Code post](../sources/articles/heydengai-autocompact-400k-weekly-quota.md) claims a 1M default compacts near 970K and suggests `/autocompact 400k`; its relayed 29% weekly-quota saving is only an estimate without versions, test design, or quality comparisons, so the evidence supports a cost motivation and a tuning hypothesis to test, rather than a universal optimal threshold or saving percentage.[^heydengai-autocompact-400k-weekly-quota]
 
 [yetone 谈 WorkBuddy DeepSeek 1M 与 magpie 默认 272K 压缩](../sources/articles/yetone-workbuddy-1m-magpie-272k.md) 给出 Magpie 作者侧一例：[@yetone](https://x.com/yetone) 称不是 Codex 的问题——WorkBuddy 的 DeepSeek V4.1 实际是 1M；magpie 默认让 Codex 在 272K 处压缩长对话（Codex 显示约 258K），避免上下文太长时首字很慢；要用满 1M 走「设置 → 长对话 → 完整窗口」，或只给该模型单独设压缩位置。[^yetone-workbuddy-1m-magpie-272k] 原帖 <https://x.com/yetone/status/2114231150709547338>。证据覆盖归因（包装默认 vs Codex）、默认阈值与 UI 显示差、延迟动机，以及可改设置——未给出压缩算法细节或延迟测量。
 
@@ -76,6 +90,14 @@ Adjacent to—but distinct from—the WorkBuddy same-prompt hands-on in [Harness
 
 ## 矛盾与变化 / Contradictions
 
+小邓同学在[检索帖](../sources/articles/heydengai-retrieval-instead-of-compaction.md)质疑压缩方向，在[提前压缩帖](../sources/articles/heydengai-autocompact-400k-weekly-quota.md)又建议用 `/autocompact 400k` 节省额度：前者要替换摘要恢复路线，后者在既有压缩流程内调阈值，策略取向存在张力。正文未解释两者关系，不能推断作者撤回了哪一观点；两帖也都未提供同任务质量对照来裁定路线优劣。[^heydengai-retrieval-instead-of-compaction][^heydengai-autocompact-400k-weekly-quota]
+
+heydengai questions compaction in the [retrieval post](../sources/articles/heydengai-retrieval-instead-of-compaction.md), yet recommends `/autocompact 400k` to save quota in the [earlier-compaction post](../sources/articles/heydengai-autocompact-400k-weekly-quota.md): the former would replace summary-based recovery, while the latter tunes a threshold within an existing compaction workflow. These strategies are in tension. Neither text explains their relationship, so no retraction can be inferred; neither supplies matched task-quality comparisons to settle which approach is better.[^heydengai-retrieval-instead-of-compaction][^heydengai-autocompact-400k-weekly-quota]
+
+[yetone 的 magpie 说明](../sources/articles/yetone-workbuddy-1m-magpie-272k.md)提供用满 1M 的选项；[小邓同学](../sources/articles/heydengai-autocompact-400k-weekly-quota.md)则为节省额度主张从接近 970K 提前到 400K 压缩。两者产品与目标不同，体现窗口保留与消耗控制的取舍；后者没有推翻前者，也未证明提前压缩不影响任务质量。[^yetone-workbuddy-1m-magpie-272k][^heydengai-autocompact-400k-weekly-quota]
+
+[yetone’s magpie explanation](../sources/articles/yetone-workbuddy-1m-magpie-272k.md) offers a full-1M option; [heydengai](../sources/articles/heydengai-autocompact-400k-weekly-quota.md) instead advocates moving compaction from near 970K to 400K to save quota. Different products and goals reveal a trade-off between window retention and consumption control; the latter neither overturns the former nor proves that earlier compaction preserves task quality.[^yetone-workbuddy-1m-magpie-272k][^heydengai-autocompact-400k-weekly-quota]
+
 [yetone 谈 WorkBuddy DeepSeek 1M 与 magpie 默认 272K 压缩](../sources/articles/yetone-workbuddy-1m-magpie-272k.md) 描述大窗模型被包装默认在远低于标称窗口处提前压缩（换首字延迟）。[^yetone-workbuddy-1m-magpie-272k] [小墨谈 DSH 桌面端三坑](../sources/articles/xiaomovps-dsh-three-pitfalls.md) 则描述小窗口模型上默认压缩预留可能过大，导致长会话压缩失败，需 `/compact` 或调 Compaction。[^xiaomovps-dsh-three-pitfalls] 两边不互相否定「产品默认可错位」，但错位方向相反：一个是压得太早/太短，一个是预留太大压不动。实务上应按模型核对压缩阈值与预留，而非假定「默认＝窗口」或「默认总能压」。
 
 [yetone on WorkBuddy DeepSeek 1M vs magpie’s default 272K compression](../sources/articles/yetone-workbuddy-1m-magpie-272k.md) describes a large-window model default-compressed by the wrapper far below the nominal window (for first-token latency).[^yetone-workbuddy-1m-magpie-272k] [Xiaomo on three DeepSeek Harness desktop pitfalls](../sources/articles/xiaomovps-dsh-three-pitfalls.md) describes small-window models where the default compaction reserve may be too large, so long-chat compression fails until `/compact` or Compaction tuning.[^xiaomovps-dsh-three-pitfalls] Neither cancels “product defaults can misalign,” but the directions oppose: one compresses too early/short; the other reserves so much that compaction fails. In practice check per-model compression thresholds and reserves—do not assume “default = window” or “default always compacts.”
@@ -86,6 +108,7 @@ Adjacent to—but distinct from—the WorkBuddy same-prompt hands-on in [Harness
 
 ## 相关 / Related
 
+- [小邓同学谈提前压缩 Claude Code 上下文以省周额度 / heydengai on earlier Claude Code compaction to save weekly quota](../sources/articles/heydengai-autocompact-400k-weekly-quota.md)
 - Source: [yetone 谈 WorkBuddy DeepSeek 1M 与 magpie 默认 272K 压缩](../sources/articles/yetone-workbuddy-1m-magpie-272k.md)
 - Source: [小墨谈 DSH 桌面端三坑](../sources/articles/xiaomovps-dsh-three-pitfalls.md)
 - Topic: [超越 token 数的 Harness 对比](./harness-comparison-beyond-tokens.md)
@@ -106,3 +129,7 @@ Adjacent to—but distinct from—the WorkBuddy same-prompt hands-on in [Harness
 [^minimax-mcode-stack]: MiniMax MCode Stack open-source repository
 [^shao-meng-google-research-sleep]: Meng Shao on Google Research SLEEP offline memory consolidation
 [^xiaomovps-pi-agent-six-hidden-settings]: Xiaomo on six hidden Pi Agent settings
+
+[^heydengai-autocompact-400k-weekly-quota]: heydengai on earlier compaction and weekly quota
+
+[^heydengai-retrieval-instead-of-compaction]: heydengai on retrieval instead of compaction

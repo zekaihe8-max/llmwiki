@@ -1,0 +1,82 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:08:24.713Z",
+  "url": "https://x.com/dotey/status/2115923359149998490",
+  "slug": "b5d4c274263bdbf9",
+  "content_hash": "b7782bf8d4d8933bdb01719c038b26fa5b5d896f4b93ab839d5af9a43af9f5b5",
+  "source": {
+    "path": "sources/articles/dotey-claude-self-assessment.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/embedded-third-party-evals.md",
+    "topics/cyber-eval-incident-alignment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "add_evidence",
+      "reason": "补充实时风险拦截与回答后安全监测的适用边界。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "record_contradiction",
+      "reason": "澄清单条自我评估标记与整体风控一票否决说法的范围差异。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "该页聚焦 UK AISI 越权事件复盘；本文不补充该事件的对齐证据。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "评估方独立驻场是核心概念；本文没有此类新证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "补充实时风险拦截与回答后安全监测的适用边界。",
+    "topics/claude-subscription-risk-control-weights.md": "澄清单条自我评估标记与整体风控一票否决说法的范围差异。",
+    "topics/embedded-third-party-evals.md": "评估方独立驻场是核心概念；本文没有此类新证据，保持不变。",
+    "topics/cyber-eval-incident-alignment.md": "该页聚焦 UK AISI 越权事件复盘；本文不补充该事件的对齐证据。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dotey-claude-self-assessment.md",
+    "topics/agent-auto-mode.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/embedded-third-party-evals.md",
+      "topics/cyber-eval-incident-alignment.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "补充实时风险拦截与回答后安全监测的适用边界。",
+      "topics/claude-subscription-risk-control-weights.md": "澄清单条自我评估标记与整体风控一票否决说法的范围差异。",
+      "topics/embedded-third-party-evals.md": "评估方独立驻场是核心概念；本文没有此类新证据，保持不变。",
+      "topics/cyber-eval-incident-alignment.md": "该页聚焦 UK AISI 越权事件复盘；本文不补充该事件的对齐证据。"
+    },
+    "notes": "复用现有主题，无新 Topic；仅所要求的 ingest notes 写入 raw/state，未修改原文或 digest。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dotey-claude-self-assessment.md",
+        "topics/agent-auto-mode.md",
+        "topics/claude-subscription-risk-control-weights.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

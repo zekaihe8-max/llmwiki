@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Owns subscription value, price-to-quota comparisons, and API-credit distinctions; integrated allowance pools, cohort boundaries, and temporary dot benefits.",
+    "topics/coding-agent-ux-vs-quota.md": "Owns coding-agent quota comparisons and Codex reset evidence; integrated policy baselines and differing Pro 200 cohort increases.",
+    "topics/usage-limit-ab-tests.md": "Consulted as a nearby quota-policy topic; unchanged because the article describes an announced tier-wide adjustment, not an A/B experiment."
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "add_evidence",
+      "reason": "Owns subscription value, price-to-quota comparisons, and API-credit distinctions; integrated allowance pools, cohort boundaries, and temporary dot benefits."
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "add_evidence",
+      "reason": "Owns coding-agent quota comparisons and Codex reset evidence; integrated policy baselines and differing Pro 200 cohort increases."
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "Consulted as a nearby quota-policy topic; unchanged because the article describes an announced tier-wide adjustment, not an A/B experiment."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "No new Topic required. Source reflects only fetched Dotey body; embedded Tibo quote is truncated. Only requested ingest notes written under raw/state; immutable inputs untouched."
+}

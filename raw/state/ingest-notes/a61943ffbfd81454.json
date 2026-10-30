@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-on-google-cloud.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-on-google-cloud.md": "Owns Claude cloud access paths; integrate Magpie client-version and Model Garden activation requirements without transferring other channels’ limits.",
+    "topics/agent-model-channel-tradeoffs.md": "Consulted for provider-selection scope; unchanged because this short announcement adds no pricing, quota, performance, or channel comparison evidence, and the concrete integration fits the Claude cloud Topic.",
+    "topics/in-app-model-partnerships.md": "Consulted because Magpie is named; unchanged because adding a Vertex AI provider does not establish a formal commercial partnership."
+  },
+  "topics": [
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "add_evidence",
+      "reason": "Owns Claude cloud access paths; integrate Magpie client-version and Model Garden activation requirements without transferring other channels’ limits."
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Consulted for provider-selection scope; unchanged because this short announcement adds no pricing, quota, performance, or channel comparison evidence, and the concrete integration fits the Claude cloud Topic."
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "Consulted because Magpie is named; unchanged because adding a Vertex AI provider does not establish a formal commercial partnership."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "One new Source; no new Topic. Only the explicitly requested ingest note is written under raw/state; fetched article and digests remain untouched."
+}

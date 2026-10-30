@@ -2,16 +2,19 @@
 type: Topic
 title: AI 审稿与科研实践适配
 title_en: AI peer review and adapting science practice
-description: 前沿模型可在同行审稿上按多项指标胜过人类专家（含统计、形式模型与质性工作）；学界须尽快调整科学实践以适配 AI。
-description_en: Frontier models can beat human experts as peer reviewers by multiple measures—including across statistical, formal-model, and qualitative work—and academia needs to adapt the practice of science to AI quickly.
+description: AI 科研适配既涉及同行审稿质量与流程，也涉及自动化发现的发布及研究者角色；审稿比较、播客转述与未公开成果须分开评估。
+description_en: Adapting science to AI concerns peer-review quality and workflows as well as releasing automated discoveries and researchers’ roles; review comparisons, podcast accounts, and unpublished results require separate assessment.
 tags: [ai, peer-review, academia, science, evaluation]
 sources:
   - id: emollick-ai-peer-review-science
     resource: https://x.com/emollick/status/2113483068174692831
     title: Ethan Mollick on Opus 4.8 beating human experts as peer reviewers
+  - id: gorden-sun-altman-science-plural-ai
+    resource: https://x.com/Gorden_Sun/status/2115827663223050504
+    title: Gorden Sun on Sam Altman’s podcast remarks
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-26T08:30:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T21:02:19+08:00
 ---
 <!-- Same-file bilingual (project extension): title + title_en, description + description_en, bilingual section headings, ZH then EN body pairs. Proper nouns / product names / APIs / resource URLs stay in their common form. Do not invent facts; translate existing claims faithfully. -->
 
@@ -37,11 +40,17 @@ Scope: evidence is **academic peer review** (social-science papers, human-expert
 
 Left [Adversarial review and external evidence](./adversarial-review-external-evidence.md), [LLM formal verification](./llm-formal-verification.md), and [AI task horizon growth](./ai-task-horizon-growth.md) unchanged: each already owns Agent-output verification, code formal proof, or task-horizon measurement; verifiable evidence here belongs on academic peer-review comparison and science-practice adaptation, so open this Topic with cross-links only.
 
+科研实践的适配还包含成果发布与研究者角色，而不只是审稿质量。[Gorden Sun 转述 Altman](../sources/articles/gorden-sun-altman-science-plural-ai.md) 将基础科学应惠及世界与对科研自动化所致失落的尊重并列，提示应分别讨论成果的可获取性与科学共同体的角色变化。该帖同时转述未公开发现和约 1,000 万美元的单次数学证明成本，但未附证明、成本方法或完整逐字稿；它可作为适配议题的观点材料，不能验证成果有效性，也不能外推上文审稿比较的结论。[^gorden-sun-altman-science-plural-ai]
+
+Adapting scientific practice also includes releasing results and researchers’ roles, beyond review quality. [Gorden Sun’s account of Altman](../sources/articles/gorden-sun-altman-science-plural-ai.md) places the world’s access to basic science alongside respect for the sense of loss caused by research automation, suggesting that access to findings and changing roles in the scientific community should be discussed separately. The post also reports unpublished discoveries and about $10 million per mathematical proof, but supplies no proof, costing method, or full transcript. It provides viewpoints on adaptation, without validating discoveries or extending the peer-review comparison above.[^gorden-sun-altman-science-plural-ai]
+
 ## 矛盾与变化 / Contradictions
 
 暂无。 / None yet.
 
 ## 相关 / Related
+
+- 来源 / Source: [Gorden Sun 转述 Altman 的科研观点 / Gorden Sun relays Altman on science](../sources/articles/gorden-sun-altman-science-plural-ai.md)
 
 - Source: [Ethan Mollick 谈 Opus 4.8 审稿胜过人类专家](../sources/articles/emollick-ai-peer-review-science.md)
 - Topic: [对抗评审与外部证据](./adversarial-review-external-evidence.md)
@@ -49,3 +58,5 @@ Left [Adversarial review and external evidence](./adversarial-review-external-ev
 - Topic: [AI 任务时界增长](./ai-task-horizon-growth.md)
 
 [^emollick-ai-peer-review-science]: Ethan Mollick on Opus 4.8 beating human experts as peer reviewers
+
+[^gorden-sun-altman-science-plural-ai]: Gorden Sun on Sam Altman’s podcast remarks

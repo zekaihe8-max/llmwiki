@@ -30,9 +30,12 @@ sources:
   - id: logicrw-devv-shutdown-multica-pivot
     resource: https://x.com/0xLogicrw/status/2115744209856799087
     title: Logicrw on Devv shutdown and Multica pivot
+  - id: xiaomovps-five-grok-bot-alternatives
+    resource: https://x.com/xiaomovps/status/2116040504425255099
+    title: Xiaomo on five open-source alternatives to Grok Bot
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T21:20:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:21:47+08:00
 ---
 
 # 个人 Agent 当包工头调度编程 Agent
@@ -44,6 +47,10 @@ generated:
 When coding/harness-agent subscriptions or quotas are already in place, a personal agent (e.g. Grok Bot) can act as “foreman”: call local or remote Codex, Claude Code, DeepSeek Harness (DSH), and peers to do the work, keep only a minimal enough plan for itself, and own task dispatch plus quality acceptance while workers each do their jobs.[^heydengai-grok-foreman-codex-claude][^xiaomovps-dsh-grok-cross-dispatch] Scope: a role-and-subscription layering workflow share, not an official product orchestration spec; it does not fix wire details, acceptance criteria, or which exact Grok tier is required.
 
 ## 综合分析 / Synthesis
+
+编排层与执行引擎的分工也可落在自托管产品上：[小墨的五项目整理](../sources/articles/xiaomovps-five-grok-bot-alternatives.md) 中，Munder Difflin、OpenMausBot 与 Open Duet 复用现有编程 CLI，后者还提供看板与操作审批。这为“不自研编程 Agent、在其上组织工作”增加产品形态证据；多 Agent 功能表本身不能证明具备质量验收闭环。复用订阅也只是复用执行授权，模型调用与云电脑仍有独立成本，不能由代码开放推出免费运行。[^xiaomovps-five-grok-bot-alternatives]
+
+The separation between orchestration and execution engines can also take the form of self-hosted products: in [Xiaomo’s five-project survey](../sources/articles/xiaomovps-five-grok-bot-alternatives.md), Munder Difflin, OpenMausBot, and Open Duet reuse existing coding CLIs, with the latter also offering boards and action approval. This adds product-form evidence for organizing work over existing coding agents; a multi-agent feature list alone does not establish a quality-acceptance loop. Reusing subscriptions also reuses execution authorization, while model calls and cloud computers still have separate costs; available code does not imply free operation.[^xiaomovps-five-grok-bot-alternatives]
 
 [小邓同学谈 Grok 当包工头调度 Codex / Claude Code](../sources/articles/heydengai-grok-foreman-codex-claude.md) 把玩法写清：Grok Bot 直接调用本地或远程的 Codex、Claude Code 等；「反正这些 Agent 的订阅都买了」，Grok 只需最低够用套餐负责任务调度与质量验收；比喻是 Grok 当包工头、手下各干各的。[^heydengai-grok-foreman-codex-claude] 原帖 <https://x.com/heydengai/status/2114145917393866756>。主张落在两层：产品角色（调度/验收 vs 干活）与订阅经济学（编程 Agent 全订 + Grok 最低档）。
 
@@ -87,6 +94,8 @@ It shares “personal agent dispatches, coding agent does the work” with [Mobi
 
 ## 相关 / Related
 
+- Source: [小墨整理五个 Grok Bot 开源替代项目 / Xiaomo on five open-source alternatives to Grok Bot](../sources/articles/xiaomovps-five-grok-bot-alternatives.md)
+
 - Source: [小邓同学谈 Grok 当包工头调度 Codex / Claude Code](../sources/articles/heydengai-grok-foreman-codex-claude.md)
 - Source: [gptkit 谈 HarnessRouter 不是 Grok Bot 升级](../sources/articles/suchuanyi-harnessrouter-not-grok-bot.md)
 - Source: [小墨谈 DSH 与 Grok Bot 互通互派](../sources/articles/xiaomovps-dsh-grok-cross-dispatch.md)
@@ -111,3 +120,5 @@ It shares “personal agent dispatches, coding agent does the work” with [Mobi
 [^cgnot996-any-agent-command-grok-bot]: cgnot996 on any agent commanding Grok Bot
 [^cgnot996-gemini-pro-developer-credits-argon]: cgnot996 on Xianyu Gemini Pro credits for Gemini 4 Argon on Pi Agent
 [^logicrw-devv-shutdown-multica-pivot]: Logicrw on Devv shutdown and Multica pivot
+
+[^xiaomovps-five-grok-bot-alternatives]: Xiaomo on five Grok Bot alternatives

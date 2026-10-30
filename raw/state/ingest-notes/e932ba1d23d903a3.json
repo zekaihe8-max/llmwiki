@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "原文仅报告热度，未描述复用决策、代码改动或效果，不能补充先复用再编写的证据。",
+    "topics/skills-stack-native-app-recreation.md": "教程预览涉及逆向与编程 Agent，但正文截断，未证明 Skills 分工或 App 复刻结果，保持既有结论。",
+    "topics/community-evals-vs-score-hype.md": "Star 与排名属于项目关注度，未提供模型实测、推广造假或社区反驳证据，不将其推断为刷分。",
+    "topics/personal-agent-hype-familiarity-gap.md": "热度相邻，但未涉及个人 Agent 用户熟悉度、移动会话便利或融资，不扩展此主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "原文仅报告热度，未描述复用决策、代码改动或效果，不能补充先复用再编写的证据。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "教程预览涉及逆向与编程 Agent，但正文截断，未证明 Skills 分工或 App 复刻结果，保持既有结论。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Star 与排名属于项目关注度，未提供模型实测、推广造假或社区反驳证据，不将其推断为刷分。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "热度相邻，但未涉及个人 Agent 用户熟悉度、移动会话便利或融资，不扩展此主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅创建一个 Source；短帖只支持带归属的热度记录，未形成需要新 Topic 的持久概念。未修改任何已有 Topic。"
+}

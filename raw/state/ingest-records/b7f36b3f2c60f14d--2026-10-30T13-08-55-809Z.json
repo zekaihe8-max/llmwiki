@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T13:08:55.809Z",
+  "url": "https://x.com/dingyi/status/2115999357443195385",
+  "slug": "b7f36b3f2c60f14d",
+  "content_hash": "5bdf307011bbdcbf8eaa3989aa702d69f9caa519f20cd3d3487cbf250432e101",
+  "source": {
+    "path": "sources/articles/dingyi-lauren-tan-tibo-clarification.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/model-mascot-merch-harness-coheat.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "同涉曝光增长，但本帖讨论人物知名度而非产品自荐、主持人筛选与推广机制，不能据此修改该主题。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同涉 poteto，但本帖不提供 tibot 功能、发帖权限或工作流的新证据；人物关系不改变账号自动化边界。"
+    },
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "unchanged",
+      "reason": "评估产品热度的相邻主题；本帖没有吉祥物、实体周边或 harness 同热证据，保持范围不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-intel-defense-not-post.md": "同涉 poteto，但本帖不提供 tibot 功能、发帖权限或工作流的新证据；人物关系不改变账号自动化边界。",
+    "topics/ai-product-self-rec-amplify.md": "同涉曝光增长，但本帖讨论人物知名度而非产品自荐、主持人筛选与推广机制，不能据此修改该主题。",
+    "topics/model-mascot-merch-harness-coheat.md": "评估产品热度的相邻主题；本帖没有吉祥物、实体周边或 harness 同热证据，保持范围不变。"
+  },
+  "files_changed": [
+    "sources/articles/dingyi-lauren-tan-tibo-clarification.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/model-mascot-merch-harness-coheat.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-intel-defense-not-post.md": "同涉 poteto，但本帖不提供 tibot 功能、发帖权限或工作流的新证据；人物关系不改变账号自动化边界。",
+      "topics/ai-product-self-rec-amplify.md": "同涉曝光增长，但本帖讨论人物知名度而非产品自荐、主持人筛选与推广机制，不能据此修改该主题。",
+      "topics/model-mascot-merch-harness-coheat.md": "评估产品热度的相邻主题；本帖没有吉祥物、实体周边或 harness 同热证据，保持范围不变。"
+    },
+    "notes": "复核现有 Source 与抓取原文，补充相邻 Topic 链接；链接不代表修改 Topic。三个已咨询 Topic 均保持不变，不新建 Topic：单帖人物关系转述与未核验的走红归因不足以形成独立耐久概念。目录描述仍与页面一致；日志已含该 Source 文件名，保持不变。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/dingyi-lauren-tan-tibo-clarification.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

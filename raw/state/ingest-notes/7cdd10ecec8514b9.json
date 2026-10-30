@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "Owns GUI execution, accessibility, background operation and human handoff; integrates Android on-device runtime evidence and scope limits.",
+    "topics/phone-own-server-agent-workbench.md": "Consulted to distinguish remote phone clients from on-device engines; the article provides no new evidence about connecting to a self-managed server, so unchanged.",
+    "topics/mobile-agent-dev-full-chain.md": "Consulted because it owns phone-based development; no cloud coding, PR/CI or deployment workflow is described here, so unchanged."
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "add_evidence",
+      "reason": "Owns GUI execution, accessibility, background operation and human handoff; integrates Android on-device runtime evidence and scope limits."
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "Consulted to distinguish remote phone clients from on-device engines; the article provides no new evidence about connecting to a self-managed server, so unchanged."
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Consulted because it owns phone-based development; no cloud coding, PR/CI or deployment workflow is described here, so unchanged."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Reused Computer Use; no new Topic required. Exact requested URL is used for Source resource and provenance. Publication date omitted because the fetched main post has no date."
+}

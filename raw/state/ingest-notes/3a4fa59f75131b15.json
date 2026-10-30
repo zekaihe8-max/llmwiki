@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "Already owns Pi Pocket on Pi Durable and the operational costs of extensions; integrate persistence costs and recovery scope here.",
+    "topics/multiagent-infra-four-problems.md": "Checked infrastructure fit; its four gaps at thousand-agent scale are not resolved or directly evaluated by this 32-way SQLite test."
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "add_evidence",
+      "reason": "Added attributed persistence-cost evidence and clarified committed-step recovery versus delayed streaming output; retained prior claims."
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "No evidence addressing its scheduling, identity, sandboxing, or tamper-evident audit conclusions."
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Used fetched article only. No new Topic; no publication date inferred from digest date."
+}

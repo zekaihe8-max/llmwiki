@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:23:09.037Z",
+  "url": "https://x.com/xiaomovps/status/2116055718424097085",
+  "slug": "5770b73e70539f61",
+  "content_hash": "5440d6b9444a92ab5f641074d90fea91eddca3ab8e7500ec71154f77bb19f997",
+  "source": {
+    "path": "sources/articles/xiaomovps-grok-bot-two-minute-website.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "add_evidence",
+      "reason": "直接拥有手机发起开发与发布链路；增加 Workers 直部署、GitHub 可选和计时适用边界。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "核对 GitHub 持久化与云环境边界；本文未提供新回滚、隔离或调度证据，现有结论无需修改。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "核对多 Bot 分工；本文仅拆 GitHub 管理与网站开发，未新增跨编程 Agent 调度或订阅分层证据，因此保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "直接拥有手机发起开发与发布链路；增加 Workers 直部署、GitHub 可选和计时适用边界。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "核对 GitHub 持久化与云环境边界；本文未提供新回滚、隔离或调度证据，现有结论无需修改。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "核对多 Bot 分工；本文仅拆 GitHub 管理与网站开发，未新增跨编程 Agent 调度或订阅分层证据，因此保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomovps-grok-bot-two-minute-website.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/mobile-agent-dev-full-chain.md": "直接拥有手机发起开发与发布链路；增加 Workers 直部署、GitHub 可选和计时适用边界。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "核对 GitHub 持久化与云环境边界；本文未提供新回滚、隔离或调度证据，现有结论无需修改。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "核对多 Bot 分工；本文仅拆 GitHub 管理与网站开发，未新增跨编程 Agent 调度或订阅分层证据，因此保持不变。"
+    },
+    "notes": "No new Topic needed. Two-minute timing and free-plan statements remain attributed to the fetched article; no external price verification claimed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomovps-grok-bot-two-minute-website.md",
+        "topics/mobile-agent-dev-full-chain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

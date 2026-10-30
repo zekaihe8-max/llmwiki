@@ -1,0 +1,71 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-30T12:57:47.829Z",
+  "url": "https://x.com/0xLogicrw/status/2116100816054403505",
+  "slug": "fd85c673dbaaa815",
+  "content_hash": "adf07f7fe1d5c942cefd8db7797ba6fb51fbf51e7c78f53d71358fa7f2d81fa3",
+  "source": {
+    "path": "sources/articles/logicrw-neuralink-grok-agent.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/brain-computer-assisted-speech.md",
+    "topics/computer-use.md",
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "add_evidence",
+      "reason": "Owns Neuralink intent decoding and assisted expression; integrate the downstream Agent stage, reported speech figures, and forecast boundaries."
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Consulted for autonomous computer operation; unchanged because the report provides no execution-loop, GUI targeting, permission, or task-validation details beyond the assisted-input prototype."
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "Consulted to distinguish speech pathways; unchanged because attempted speech via brain signals supplies no evidence about audio-native full-duplex training or emotion preservation."
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/brain-computer-assisted-speech.md": "Owns Neuralink intent decoding and assisted expression; integrate the downstream Agent stage, reported speech figures, and forecast boundaries.",
+    "topics/computer-use.md": "Consulted for autonomous computer operation; unchanged because the report provides no execution-loop, GUI targeting, permission, or task-validation details beyond the assisted-input prototype.",
+    "topics/pure-speech-full-duplex.md": "Consulted to distinguish speech pathways; unchanged because attempted speech via brain signals supplies no evidence about audio-native full-duplex training or emotion preservation."
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/logicrw-neuralink-grok-agent.md",
+    "topics/brain-computer-assisted-speech.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/brain-computer-assisted-speech.md",
+      "topics/computer-use.md",
+      "topics/pure-speech-full-duplex.md"
+    ],
+    "selection_reasons": {
+      "topics/brain-computer-assisted-speech.md": "Owns Neuralink intent decoding and assisted expression; integrate the downstream Agent stage, reported speech figures, and forecast boundaries.",
+      "topics/computer-use.md": "Consulted for autonomous computer operation; unchanged because the report provides no execution-loop, GUI targeting, permission, or task-validation details beyond the assisted-input prototype.",
+      "topics/pure-speech-full-duplex.md": "Consulted to distinguish speech pathways; unchanged because attempted speech via brain signals supplies no evidence about audio-native full-duplex training or emotion preservation."
+    },
+    "notes": "Reused the existing assisted-speech Topic; no new Topic. Figures and forecast remain attributed to the fetched post. Only the explicitly requested ingest-notes file is written under raw/state/.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/logicrw-neuralink-grok-agent.md",
+        "topics/brain-computer-assisted-speech.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

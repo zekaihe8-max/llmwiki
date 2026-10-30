@@ -2,8 +2,8 @@
 type: Topic
 title: 超越 token 数的 Harness 对比
 title_en: Harness comparison beyond tokens
-description: 同模型比 harness 应看轮次、缓存命中、时延与质量，而不是只看累计 token；Token 接近也不等于成品一样，还要看 Harness 如何组织执行；DSH 标准模式常更啰嗦多轮，后续可用 AGENTS.md 约束关掉反复截图自检；插件生态扩张时，功能多也不等于更好用，仍要盯执行效率与 Token。
-description_en: Compare agent harnesses on the same model by rounds, cache hits, latency, and output quality—not cumulative token totals alone; similar Token spend still need not mean equal quality—how the Harness organizes the run matters; DSH standard mode often runs more verbose multi-round loops, and later guidance uses AGENTS.md constraints to shut down repeated screenshot self-checks; as plugin ecosystems grow, more features still need not mean a better Agent—execution efficiency and Tokens still matter.
+description: 比较 Harness 应同时看模型往返、缓存、实际费用、耗时与质量；Code Mode 可通过脚本串联工具减少往返，但输入 Token 降幅不等于任务费用降幅，低成本也可能伴随更长耗时。
+description_en: Compare harnesses by model round trips, caching, actual cost, elapsed time, and quality; Code Mode can chain tools in scripts to reduce round trips, but input-token savings do not equal task-cost savings, and lower cost can accompany longer runs.
 tags: [agents, harness, tokens, cache, evaluation]
 sources:
   - id: xiaomovps-pi-vs-deepseek-harness
@@ -24,9 +24,12 @@ sources:
   - id: xiaomovps-dsh-021-search-agent-plugins
     resource: https://x.com/xiaomovps/status/2115102099226935462
     title: 小墨 on DSH 0.2.1 search and Agent-authored plugins
+  - id: logicrw-droid-code-mode
+    resource: https://x.com/0xLogicrw/status/2116080352435577057
+    title: Logicrw on Droid 1.0 Code Mode
 generated:
-  by: cursor-agent/composer
-  at: 2026-10-28T20:56:15+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:56:33+08:00
 ---
 
 # 超越 token 数的 Harness 对比
@@ -38,6 +41,10 @@ generated:
 The same model and prompt under different agent harnesses can produce very different round counts and cumulative input tokens while cost moves much less, because repeated context often hits cache. Judging harnesses by token totals alone misreads both expense and the speed-versus-quality tradeoff; even when both sides burn similar cumulative Tokens with high cache hits, final quality can still diverge—how the Harness organizes the run and whether extra Tokens improve the result still matter.[^xiaomovps-pi-vs-deepseek-harness][^xiaomovps-workbuddy-vs-dsh-quality]
 
 ## 综合分析 / Synthesis
+
+执行组织还可把多次工具调用移入脚本，而不必每几步重新请求模型。[思维怪怪的 Droid 转述](../sources/articles/logicrw-factory-droid-code-mode.md) 描述 JavaScript 串联工具的 Code Mode；151 条 Linear 工单例子的传统路径为预计 36 次请求、310 万输入 Token，对照实际 2 次请求、约 6.1 万输入 Token。其约 98% 输入降幅与更广泛 Opus 5.5 测试约 15% 任务成本降幅来自不同范围，不能互换。相同 GPT-6.1 Sol 的厂商 Terminal-Bench 4 自测又报告得分高 3.5 分、成功任务成本低 12%、耗时高 10%。这些转述补强了分别记录往返、费用、耗时与质量的必要性；完整方法未给出，且缓存及模型专属策略也有调整，不能把全部变化归因于 Code Mode。[^logicrw-droid-code-mode]
+
+Execution organization can also move multiple tool calls into scripts without requesting the model every few steps. [Logicrw’s Droid account](../sources/articles/logicrw-factory-droid-code-mode.md) describes Code Mode chaining tools in JavaScript; the 151-ticket Linear example compares an estimated conventional 36 requests and 3.1 million input tokens with an actual two requests and about 61,000 input tokens. Its roughly 98% input reduction and the roughly 15% task-cost reduction in broader Opus 5.5 testing have different scopes and are not interchangeable. The vendor’s Terminal-Bench 4 self-test with the same GPT-6.1 Sol also reports 3.5 points higher scores, 12% lower cost per successful task, and 10% longer elapsed time. These relayed results reinforce tracking round trips, cost, time, and quality separately; full methodology is absent, and caching and model-specific strategies also changed, so all effects cannot be attributed to Code Mode.[^logicrw-droid-code-mode]
 
 [小墨 on Pi vs DeepSeek Harness rounds and cost](../sources/articles/xiaomovps-pi-vs-deepseek-harness.md) 报告一次受控的「自行车上的鹈鹕」HTML 跑法（DeepSeek V4 Flash）：初始上下文相近（首轮 Pi 略高），但 Pi 约三轮结束，DeepSeek Harness 约二十八轮并多次截图自检。累计输入约差 18×；计入 DeepSeek Harness 约 98.9% 缓存命中后，估计费用大约只差 2×。耐久主张是方法论——对比 harness 时要把轮次、缓存命中率、墙钟时间与最终质量放一起看——也是实践：可运行输出够用时优先快结束；UI 质量是目标且多付费用划算时，接受迭代式视觉自检。[^xiaomovps-pi-vs-deepseek-harness]
 
@@ -65,11 +72,17 @@ The same author’s later [Xiaomo on DSH 0.2.1 — first-party search and Agent-
 
 ## 矛盾与变化 / Contradictions
 
+[Ding 收录的 Factory 发布主张](../sources/articles/dingyi-droid-one-page-praise.md)称更快；[思维怪怪转述的同模型自测](../sources/articles/logicrw-factory-droid-code-mode.md)却称耗时增加 10%。发布文案未说明比较基线，自测则是特定基准和对照，无法据此判定直接矛盾，也不能把“更快”扩成所有任务的保证。保留两种说法，按具体比较范围解释速度。[^logicrw-droid-code-mode]
+
+[The Factory announcement preserved by Ding](../sources/articles/dingyi-droid-one-page-praise.md) claims greater speed, while [Logicrw’s relayed same-model self-test](../sources/articles/logicrw-factory-droid-code-mode.md) reports 10% longer elapsed time. The announcement specifies no comparison baseline, while the self-test uses a particular benchmark and comparator; this does not establish a direct contradiction or make greater speed a guarantee for every task. Retain both accounts and interpret speed within each comparison’s scope.[^logicrw-droid-code-mode]
+
 [Orange AI 谈随手做成鹈鹕骑车 AI 小游戏](../sources/articles/oran-ge-pelican-bike-ai-game.md) 把同题材读成「随便一个模型都太强了」、一次随手成功；[^oran-ge-pelican-bike-ai-game] 本页小墨同题对照则显示：即便任务都能完成，Harness 仍可拉开轮次、费用与成品质感。切面不同——能力地板 vs 执行组织——不是互相取消。 / [Orange AI on casually shipping a pelican-bike AI mini-game](../sources/articles/oran-ge-pelican-bike-ai-game.md) reads the same motif as “any model is too strong” and a casual first-try win;[^oran-ge-pelican-bike-ai-game] Xiaomo’s same-prompt contrasts on this page show that even when the task completes, harnesses can still diverge on rounds, cost, and finished quality. Different cuts—capability floor vs execution organization—not a cancellation.
 
 流传「在 DSH 上跑分更高」与作者体验冲突：标准模式下作者感到模型更笨更啰嗦，质量只略升却不值成本；早前受控对比则留下「截图循环或有助于 UI」的可能，体验帖则把多轮主要归咎于系统提示词过重。后续帖主张用项目指令关掉无效循环——是补救，不是否认测量或体验。WorkBuddy 同题实测则与「DSH 多轮相对 Pi 常不值」并置而非直接否定：相对另一同样烧约百万 Token 的 Harness，作者更认 DSH 成品质感，并强调 Token 接近仍可比出质量差——对照对象从轻量 Pi 换成重消耗 WorkBuddy 后，主张从「少轮更划算」扩成「同量 Token 也要看执行组织与成品」。0.2.1 路线帖再把同一效率标准套到插件生态扩张：功能多仍须过执行效率与 Token 关——是延续，不是改口否认先前测量。 / Rumor that scores run higher on DSH conflicts with the author’s experience: under standard mode the model felt dumber and more verbose, with only a slight quality bump that was not worth the cost; the earlier controlled comparison left room that the screenshot loop might help UI work, while the experience post mainly blames a heavy system prompt. The later post urges project instructions to shut wasteful loops down—a remedy, not a denial of the measurement or the experience. The WorkBuddy same-prompt hands-on sits beside—not against—“DSH’s multi-rounds often not worth it vs Pi”: against another harness that also burns about a million Tokens, the author prefers DSH’s finished quality and stresses that similar Token totals can still diverge on quality—after the foil shifts from light Pi to heavy WorkBuddy, the claim widens from “fewer rounds pay better” to “even at similar Tokens, execution organization and the artifact still matter.” The 0.2.1 path post then applies the same efficiency bar to plugin-ecosystem growth: more features still must clear execution efficiency and Tokens—a continuation, not a recant of earlier measurements.[^xiaomovps-pi-vs-deepseek-harness][^xiaomovps-dsh-standard-mode-verbose][^xiaomovps-dsh-agents-md-tokens][^xiaomovps-workbuddy-vs-dsh-quality][^xiaomovps-dsh-021-search-agent-plugins]
 
 ## 相关 / Related
+
+- [思维怪怪谈 Droid Code Mode / Logicrw on Droid Code Mode](../sources/articles/logicrw-factory-droid-code-mode.md)
 
 - Source: [小墨 on Pi vs DeepSeek Harness rounds and cost](../sources/articles/xiaomovps-pi-vs-deepseek-harness.md)
 - Source: [小墨谈 DSH 标准模式偏啰嗦](../sources/articles/xiaomovps-dsh-standard-mode-verbose.md)
@@ -87,3 +100,5 @@ The same author’s later [Xiaomo on DSH 0.2.1 — first-party search and Agent-
 [^xiaomovps-workbuddy-vs-dsh-quality]: Xiaomo hands-on WorkBuddy vs DSH quality
 [^oran-ge-pelican-bike-ai-game]: Orange AI on casually shipping a pelican-bike AI mini-game
 [^xiaomovps-dsh-021-search-agent-plugins]: 小墨 on DSH 0.2.1 search and Agent-authored plugins
+
+[^logicrw-droid-code-mode]: Logicrw on Droid 1.0 Code Mode

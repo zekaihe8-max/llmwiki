@@ -15,9 +15,12 @@ sources:
   - id: turingou-grok-bot-x-subscriber-community
     resource: https://x.com/turingou/status/2115681632166486340
     title: Turingou automates an X subscriber fan group with Grok Bot
+  - id: dingyi-bot-content-flood
+    resource: https://x.com/dingyi/status/2116009021924950389
+    title: Ding on bot-generated content flooding X
 generated:
-  by: cursor-agent/composer-2.5
-  at: 2026-10-29T20:39:00+08:00
+  by: codex/gpt-6
+  at: 2026-10-30T20:51:52+08:00
 ---
 
 # Grok Bot 管 X：情报防护不代发帖
@@ -46,9 +49,15 @@ Managing an X account need not hand posting to a bot: a shareable Grok Bot templ
 
 Scope: this is a personal workflow and installable-template share, not an official xAI / X account-ops spec; auto-block depends on the user’s own X API and credits, and capabilities or quotas change. It shares “Grok Bot touches X” with [Bridge agents to X via Grok Bot built-in quota](./grok-bot-x-api-substitute.md), but that page bridges built-in search quota into Codex to spare paid reads; this page is account-side watch, digest, and defense with an explicit never-auto-post bound. It neighbors [Personal-agent cloud env: backup, isolation, and schedule checks](./personal-agent-cloud-env-pitfalls.md) on “scheduled X intake,” but that page is cloud rollback, shared hosts, and missed routines; this page is role bounds (intel/defense vs content production). It shares “share a bot” with [Personal-agent public sharing and bot-to-bot chat](./personal-agent-share-and-interbot-chat.md), but that page is gateway IDs and bot social interoperability; this page is x.ai template-style account-ops config.
 
+公开内容自动化还应考虑受众的信息流体验，而不只考虑账号主人的效率。[Ding 对 Bot 内容刷屏的抱怨](../sources/articles/dingyi-bot-content-flood.md)称 AI 内容已从评论区扩展到转发和普通帖子，并呼吁取消创作者收益。这为保留人工写作与发送判断补充了受众侧的风险信号，但只是个人观感：它没有指明 Grok Bot 或 tibot，也不能证明创作者收益导致刷屏，或人工批准就能消除噪音。情报整理与草拟可自动化，不等于扩大公开生成内容的供给必然改善交流。[^dingyi-bot-content-flood]
+
+Public-content automation also needs to consider recipients’ feed experience alongside the account owner’s efficiency. [Ding’s complaint about bot-generated content](../sources/articles/dingyi-bot-content-flood.md) says AI content has spread from replies into reposts and ordinary posts and calls for ending creator payouts. This adds a recipient-side risk signal for retaining human writing and sending judgment, but remains a personal impression: it names neither Grok Bot nor tibot and cannot establish that creator payouts cause flooding or that human approval eliminates noise. Automating intelligence gathering and drafts does not establish that increasing public generated content improves conversation.[^dingyi-bot-content-flood]
+
 ## 矛盾与变化 / Contradictions
 
-暂无。 / None yet.
+Ding 描述的是对 Bot 内容扩散的负面体验；邵萌的 tibot 模板与郭宇的订阅群工作流则强调不代发或逐条人工批准。它们呈现不同的使用边界与受众感受，并非对同一产品行为的事实冲突；不能将 Ding 的批评直接归给这些具体工作流。[^dingyi-bot-content-flood][^shao-meng-poteto-tibot][^turingou-grok-bot-x-subscriber-community]
+
+Ding describes a negative experience of spreading bot content, whereas Shao’s tibot template and Turingou’s subscriber-group workflow emphasize no posting or human approval for each reply. These show different usage boundaries and audience experiences rather than conflicting facts about the same product; Ding’s criticism cannot be attributed directly to those specific workflows.[^dingyi-bot-content-flood][^shao-meng-poteto-tibot][^turingou-grok-bot-x-subscriber-community]
 
 ## 相关 / Related
 
@@ -62,3 +71,5 @@ Scope: this is a personal workflow and installable-template share, not an offici
 [^shao-meng-poteto-tibot]: Meng Shao on poteto’s tibot — manage X, never auto-post
 [^xiaomovps-grok-bot-zero-to-one-guide]: Xiaomo’s Grok Bot zero-to-one guide
 [^turingou-grok-bot-x-subscriber-community]: Turingou automates an X subscriber fan group with Grok Bot
+
+[^dingyi-bot-content-flood]: Ding on bot-generated content flooding X
