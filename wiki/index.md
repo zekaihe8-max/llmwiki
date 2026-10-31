@@ -58,7 +58,7 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 - [XFreeze Import Memory 演示 / XFreeze Import Memory Demo](./sources/articles/xfreeze-import-memory-demo.md) — XFreeze 演示如何在 Grok Bot 中启用 Import Memory，迁移原助手的记忆、偏好、指令与文风。 / XFreeze demonstrates enabling Import Memory in Grok Bot to migrate memory, preferences, instructions, and writing style from the original assistant.
 
-- [Grok Bot 社区整理 3000+ 现成 Bot 分类目录 / Grok Bot Community Curates 3000+ Ready-to-Use Bot Directory](./sources/articles/grok-bot-community-curates-3000-ready-to-use-bot-directory.md) — Grok Bot 社区收集三千多个现成 Bot 按八大类分类，免费一键添加使用。 / Grok Bot community gathers 3000+ ready-made bots across eight categories, free one-click add.
+- [Grok Bot 社区 3000+ Bot 分类目录 / Grok Bot Community 3000+ Bot Categorized Directory](./sources/articles/grok-bot-community-curates-3000-ready-to-use-bot-directory.md) — Grok Bot 社区上线免费目录，收录三千多个现成 Bot 并按八大场景分类，支持一键加入并下达首个任务。 / Grok Bot Community launches a free directory of over 3,000 ready-made bots across eight scenarios, supporting one-click addition and first-task assignment.
 
 - [国内杀手级产品可能是中国版 Grok Bot / China's killer AI product may be a Chinese version of Grok Bot](./sources/articles/china-s-killer-ai-product-may-be-a-chinese-version-of-grok-bot.md) — 帖文称国内 AI 王者之争不在模型榜单，真正的杀手级产品可能是自主干活、多 Agent 协作的中国版 Grok Bot。 / The post claims the battle for China's AI king is not on model leaderboards; the real killer product may be a Chinese Grok Bot that autonomously works and has multiple agents collaborate.
 
@@ -66,7 +66,7 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 - [组织力 / Organizational Power](./sources/articles/organizational-power.md) — Agent 已具备独立执行能力，但缺乏自主运转的组织能力，未来价值在于让成千上万个 Agent 自主协作的系统。 / Agents can execute independently but lack autonomous organizational capability; future value lies in systems enabling thousands of agents to collaborate autonomously.
 
-- [AI 圈的神圣三位一体：Claude 写码、Codex 检查、Grok Bot 指挥 / AI's Holy Trinity: Claude Writes Code, Codex Reviews, Grok Bot Commands](./sources/articles/ai-s-holy-trinity-claude-writes-code-codex-reviews-grok-bot-comm.md) — 帖文称 Claude 负责写代码、Codex 负责检查、Grok Bot 负责指挥，人类只需交三份订阅费并纠结选谁。 / The post claims Claude writes code, Codex reviews it, Grok Bot commands them, while humans pay three subscriptions and wonder which to use.
+- [Claude 写码 / Codex 检查 / Grok Bot 指挥：AI 神圣三位一体与人类订阅费 / Claude Writes Code, Codex Reviews, Grok Bot Commands: The AI Holy Trinity and Human Subscription Fees](./sources/articles/ai-s-holy-trinity-claude-writes-code-codex-reviews-grok-bot-comm.md) — 一条 X 帖文调侃 Claude 负责写代码、Codex 负责检查代码、Grok Bot 负责指挥，而人类只需交三份订阅费并纠结选谁。 / An X post jokes that Claude writes code, Codex reviews it, and Grok Bot commands them, while humans only pay three subscriptions and wonder which one to use.
 
 - [Grok Bot Token 成本结构 / Grok Bot Token Cost Structure](./sources/articles/grok-bot-token-cost-structure.md) — Grok Bot 的最大成本来自重读历史聊天记录，而非实际任务执行。 / Grok Bot's biggest cost comes from re-reading chat history, not actual task execution.
 
