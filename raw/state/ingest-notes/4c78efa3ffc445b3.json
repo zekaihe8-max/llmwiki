@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-in-inbox.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "文章直接涉及 Grok Bot 与 X 平台的连接器升级，与该主题高度相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 对 X 的使用，适合作为对比或上下文参考。",
+    "topics/mobile-agent-dev-full-chain.md": "文章第一条更新涉及手机端系统应用调用，属手机端 Agent 全链路范畴。",
+    "topics/agent-in-inbox.md": "文章提到独立邮箱、邮件转发与定时检查，与 Agent 进收件箱主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文章直接涉及 Grok Bot 与 X 平台的连接器升级，与该主题高度相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 对 X 的使用，适合作为对比或上下文参考。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "文章第一条更新涉及手机端系统应用调用，属手机端 Agent 全链路范畴。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "文章提到独立邮箱、邮件转发与定时检查，与 Agent 进收件箱主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @xiaomovps 的帖文，所有功能主张均基于该帖文，未独立核实。"
+}

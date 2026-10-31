@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:09:17.128Z",
+  "url": "https://x.com/dotey/status/2116233564823974005",
+  "slug": "136739ae67cf2407",
+  "content_hash": "6247472862fda48b3e058f3efdc677e90c806d64c9756e25fac2eb37d8cf932f",
+  "source": {
+    "path": "sources/articles/claude-ultra-renamed-and-5-hour-limit-removed.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Claude 订阅验证与使用限额取消，与订阅风控权重主题相近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中提到重度用户和 Claude Code 长时间写代码受 5 小时窗口影响，与编程 Agent 体验与额度相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 200 美元高端 AI 订阅 Ultra 的定价与价值变化。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及使用量上限（5 小时窗口与周限额）的变更与测试。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章涉及 Claude 订阅验证与使用限额取消，与订阅风控权重主题相近。",
+    "topics/coding-agent-ux-vs-quota.md": "文中提到重度用户和 Claude Code 长时间写代码受 5 小时窗口影响，与编程 Agent 体验与额度相关。",
+    "topics/premium-ai-subscription-value.md": "涉及 200 美元高端 AI 订阅 Ultra 的定价与价值变化。",
+    "topics/usage-limit-ab-tests.md": "涉及使用量上限（5 小时窗口与周限额）的变更与测试。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-ultra-renamed-and-5-hour-limit-removed.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "文章涉及 Claude 订阅验证与使用限额取消，与订阅风控权重主题相近。",
+      "topics/coding-agent-ux-vs-quota.md": "文中提到重度用户和 Claude Code 长时间写代码受 5 小时窗口影响，与编程 Agent 体验与额度相关。",
+      "topics/premium-ai-subscription-value.md": "涉及 200 美元高端 AI 订阅 Ultra 的定价与价值变化。",
+      "topics/usage-limit-ab-tests.md": "涉及使用量上限（5 小时窗口与周限额）的变更与测试。"
+    },
+    "notes": "来源为 @dotey 在 X 上的帖文，引用了 Claude 官方 X 帖子及 Anthropic 帮助中心页面；未超出所提供文章内容编造事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-ultra-renamed-and-5-hour-limit-removed.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

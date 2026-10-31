@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "涉及 Agent Harness 相关讨论，与 DeepSeek Harness 主题最贴近。",
+    "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件，与自动升级插件的需求相关。",
+    "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件，与插件管理主题相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及定时检查，与定时任务自动升级的设想相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 相关讨论，与 DeepSeek Harness 主题最贴近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "讨论 Harness 插件，与自动升级插件的需求相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 插件，与插件管理主题相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及定时检查，与定时任务自动升级的设想相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自所获取的 X 帖文，未引入外部信息。"
+}

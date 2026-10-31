@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/china-special-edition-preinstalls.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文提到 Siri 基于阿里千问，属于设备或应用内的模型合作伙伴关系，与该主题高度相关。",
+    "topics/china-special-edition-preinstalls.md": "Apple 智能即在中国国内上线，涉及中国特供版或本地化上线，与该主题相关。",
+    "topics/carplay-voice-assistants.md": "涉及 Siri 语音助手功能，与语音助手接入主题相近。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文提到通话转文本和音频转文本，与语音输入转写整理相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Siri 基于阿里千问，属于设备或应用内的模型合作伙伴关系，与该主题高度相关。"
+    },
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "Apple 智能即在中国国内上线，涉及中国特供版或本地化上线，与该主题相关。"
+    },
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "涉及 Siri 语音助手功能，与语音助手接入主题相近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到通话转文本和音频转文本，与语音输入转写整理相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用帖文内容，未独立核实。"
+}

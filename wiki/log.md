@@ -1,3 +1,105 @@
+## 2026-10-31
+
+* **创建 / Creation**: 归档 [又试用 Raft](./sources/articles/trying-raft-again.md)。 / Filed [Trying Raft Again](./sources/articles/trying-raft-again.md).
+
+* **创建 / Creation**: 归档 [Rex 用着舒服](./sources/articles/rex-feels-comfortable-to-use.md)。 / Filed [Rex Feels Comfortable to Use](./sources/articles/rex-feels-comfortable-to-use.md).
+
+* **创建 / Creation**: 归档 [Apple 智能即将在中国上线，Siri 将基于阿里千问](./sources/articles/apple-intelligence-to-launch-in-china-with-siri-based-on-alibaba.md)。 / Filed [Apple Intelligence to Launch in China, with Siri Based on Alibaba Qwen](./sources/articles/apple-intelligence-to-launch-in-china-with-siri-based-on-alibaba.md).
+
+* **创建 / Creation**: 归档 [谷歌太空 TPU 成功运行大模型](./sources/articles/google-s-space-launched-tpu-successfully-runs-large-model.md)。 / Filed [Google's Space-Launched TPU Successfully Runs Large Model](./sources/articles/google-s-space-launched-tpu-successfully-runs-large-model.md).
+
+* **创建 / Creation**: 归档 [NVIDIA 开源 MotionBricks：实时生成角色与机器人动作](./sources/articles/nvidia-open-sources-motionbricks-real-time-character-and-robot-m.md)。 / Filed [NVIDIA Open-Sources MotionBricks: Real-Time Character and Robot Motion Generation](./sources/articles/nvidia-open-sources-motionbricks-real-time-character-and-robot-m.md).
+
+* **创建 / Creation**: 归档 [Surya 2.5：仅0.7B的高性能OCR模型](./sources/articles/surya-2-5-high-performance-0-7b-ocr-model.md)。 / Filed [Surya 2.5: High-Performance 0.7B OCR Model](./sources/articles/surya-2-5-high-performance-0-7b-ocr-model.md).
+
+* **创建 / Creation**: 归档 [Sperid Labs 开源 Idol：单张图片几秒内生成完整 3D 高斯模型](./sources/articles/sperid-labs-open-sources-idol-generate-complete-3d-gaussian-mode.md)。 / Filed [Sperid Labs Open-Sources Idol: Generate Complete 3D Gaussian Models from a Single Image in Seconds](./sources/articles/sperid-labs-open-sources-idol-generate-complete-3d-gaussian-mode.md).
+
+* **创建 / Creation**: 归档 [Anthropic 为 Claude Code 加限制：禁复刻现有游戏，仅允原创与借鉴玩法](./sources/articles/anthropic-adds-restrictions-to-claude-code-bans-game-cloning-all.md)。 / Filed [Anthropic Adds Restrictions to Claude Code: Bans Game Cloning, Allows Original Games and Gameplay Borrowing](./sources/articles/anthropic-adds-restrictions-to-claude-code-bans-game-cloning-all.md).
+
+* **创建 / Creation**: 归档 [小米开源 Xiaomi-OCR-0 文档理解模型](./sources/articles/xiaomi-open-sources-xiaomi-ocr-0-document-understanding-model.md)。 / Filed [Xiaomi Open-Sources Xiaomi-OCR-0 Document Understanding Model](./sources/articles/xiaomi-open-sources-xiaomi-ocr-0-document-understanding-model.md).
+
+* **创建 / Creation**: 归档 [Phodal 离开阿里 Qoder 团队，感慨大厂做产品难](./sources/articles/phodal-leaves-alibaba-qoder-team-laments-difficulty-of-building.md)。 / Filed [Phodal Leaves Alibaba Qoder Team, Laments Difficulty of Building Products in Big Tech](./sources/articles/phodal-leaves-alibaba-qoder-team-laments-difficulty-of-building.md).
+
+* **创建 / Creation**: 归档 [Grok 机器人定时任务仅工作日运行，用户质疑“双休”](./sources/articles/grok-bot-scheduled-task-runs-only-on-workdays-user-questions-wee.md)。 / Filed [Grok Bot Scheduled Task Runs Only on Workdays, User Questions 'Weekend Off'](./sources/articles/grok-bot-scheduled-task-runs-only-on-workdays-user-questions-wee.md).
+
+* **创建 / Creation**: 归档 [别在 Grok Bot 里接 Claude Code](./sources/articles/don-t-connect-claude-code-inside-grok-bot.md)。 / Filed [Don't Connect Claude Code Inside Grok Bot](./sources/articles/don-t-connect-claude-code-inside-grok-bot.md).
+
+* **创建 / Creation**: 归档 [能力做成全局 skills 而非单独 Bot](./sources/articles/make-capabilities-global-skills-instead-of-separate-bots.md)。 / Filed [Make capabilities global skills instead of separate bots](./sources/articles/make-capabilities-global-skills-instead-of-separate-bots.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 郑州、南京 Meetup 开始报名](./sources/articles/grok-bot-meetup-registration-opens-for-zhengzhou-and-nanjing.md)。 / Filed [Grok Bot Meetup Registration Opens for Zhengzhou and Nanjing](./sources/articles/grok-bot-meetup-registration-opens-for-zhengzhou-and-nanjing.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 可直接买麦当劳早餐](./sources/articles/grok-bot-can-directly-buy-mcdonald-s-breakfast.md)。 / Filed [Grok Bot Can Directly Buy McDonald's Breakfast](./sources/articles/grok-bot-can-directly-buy-mcdonald-s-breakfast.md).
+
+* **创建 / Creation**: 归档 [XFreeze Import Memory 演示](./sources/articles/xfreeze-import-memory-demo.md)。 / Filed [XFreeze Import Memory Demo](./sources/articles/xfreeze-import-memory-demo.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 社区整理 3000+ 现成 Bot 分类目录](./sources/articles/grok-bot-community-curates-3000-ready-to-use-bot-directory.md)。 / Filed [Grok Bot Community Curates 3000+ Ready-to-Use Bot Directory](./sources/articles/grok-bot-community-curates-3000-ready-to-use-bot-directory.md).
+
+* **创建 / Creation**: 归档 [国内杀手级产品可能是中国版 Grok Bot](./sources/articles/china-s-killer-ai-product-may-be-a-chinese-version-of-grok-bot.md)。 / Filed [China's killer AI product may be a Chinese version of Grok Bot](./sources/articles/china-s-killer-ai-product-may-be-a-chinese-version-of-grok-bot.md).
+
+* **创建 / Creation**: 归档 [CentOS/Rocky 创始人用 Codex 11 天写 13.9 万行内核 Ginux，称代码可一次性丢弃](./sources/articles/centos-rocky-founder-uses-codex-to-write-139-000-line-ginux-kern.md)。 / Filed [CentOS/Rocky Founder Uses Codex to Write 139,000-Line Ginux Kernel in 11 Days, Calls Code Disposable](./sources/articles/centos-rocky-founder-uses-codex-to-write-139-000-line-ginux-kern.md).
+
+* **创建 / Creation**: 归档 [组织力](./sources/articles/organizational-power.md)。 / Filed [Organizational Power](./sources/articles/organizational-power.md).
+
+* **创建 / Creation**: 归档 [AI 圈的神圣三位一体：Claude 写码、Codex 检查、Grok Bot 指挥](./sources/articles/ai-s-holy-trinity-claude-writes-code-codex-reviews-grok-bot-comm.md)。 / Filed [AI's Holy Trinity: Claude Writes Code, Codex Reviews, Grok Bot Commands](./sources/articles/ai-s-holy-trinity-claude-writes-code-codex-reviews-grok-bot-comm.md).
+
+* **创建 / Creation**: 归档 [Grok Bot Token 成本结构](./sources/articles/grok-bot-token-cost-structure.md)。 / Filed [Grok Bot Token Cost Structure](./sources/articles/grok-bot-token-cost-structure.md).
+
+* **创建 / Creation**: 归档 [澄清：AI 泡沫思考并非暴论，呼吁友好交流](./sources/articles/clarification-ai-bubble-thoughts-are-not-a-rant-calling-for-frie.md)。 / Filed [Clarification: AI bubble thoughts are not a rant, calling for friendly exchange](./sources/articles/clarification-ai-bubble-thoughts-are-not-a-rant-calling-for-frie.md).
+
+* **创建 / Creation**: 归档 [AI 泡沫破裂的前夜](./sources/articles/on-the-eve-of-the-ai-bubble-bursting.md)。 / Filed [On the Eve of the AI Bubble Bursting](./sources/articles/on-the-eve-of-the-ai-bubble-bursting.md).
+
+* **创建 / Creation**: 归档 [Claude 五小时限制移除后的担心](./sources/articles/concerns-after-claude-s-five-hour-limit-removal.md)。 / Filed [Concerns After Claude's Five-Hour Limit Removal](./sources/articles/concerns-after-claude-s-five-hour-limit-removal.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Argon「文豪」写作碾压](./sources/articles/gemini-4-argon-literary-master-writing-dominance.md)。 / Filed [Gemini 4 Argon "Literary Master" Writing Dominance](./sources/articles/gemini-4-argon-literary-master-writing-dominance.md).
+
+* **创建 / Creation**: 归档 [DSH 更新太快，Codex 写定时任务自动升级插件](./sources/articles/dsh-updates-too-fast-codex-writes-scheduled-task-to-auto-upgrade.md)。 / Filed [DSH updates too fast; Codex writes scheduled task to auto-upgrade plugin](./sources/articles/dsh-updates-too-fast-codex-writes-scheduled-task-to-auto-upgrade.md).
+
+* **创建 / Creation**: 归档 [OpenAI Dots 产品形态有需求，但智能体验差](./sources/articles/openai-dots-product-form-is-needed-but-intelligence-is-poor.md)。 / Filed [OpenAI Dots product form is needed, but intelligence is poor](./sources/articles/openai-dots-product-form-is-needed-but-intelligence-is-poor.md).
+
+* **创建 / Creation**: 归档 [微信视频号 AI 总结分析：乔木剪藏 + 本地 Qwen 0.6b 转写](./sources/articles/wechat-channels-ai-summary-qiaomu-clipper-local-qwen-0-6b-transc.md)。 / Filed [WeChat Channels AI Summary: Qiaomu Clipper + Local Qwen 0.6b Transcription](./sources/articles/wechat-channels-ai-summary-qiaomu-clipper-local-qwen-0-6b-transc.md).
+
+* **创建 / Creation**: 归档 [Magpie v0.1.2323 自重启与平滑端口交接](./sources/articles/magpie-v0-1-2323-self-restart-with-seamless-port-handover.md)。 / Filed [Magpie v0.1.2323 self-restart with seamless port handover](./sources/articles/magpie-v0-1-2323-self-restart-with-seamless-port-handover.md).
+
+* **创建 / Creation**: 归档 [Magpie 新增「列为」模型自定义 ID](./sources/articles/magpie-adds-list-as-custom-model-id.md)。 / Filed [Magpie Adds 'List As' Custom Model ID](./sources/articles/magpie-adds-list-as-custom-model-id.md).
+
+* **创建 / Creation**: 归档 [Alma 适配 iPad、灵动岛、Codex 和 Pi](./sources/articles/alma-adapts-to-ipad-dynamic-island-codex-and-pi.md)。 / Filed [Alma adapts to iPad, Dynamic Island, Codex and Pi](./sources/articles/alma-adapts-to-ipad-dynamic-island-codex-and-pi.md).
+
+* **创建 / Creation**: 归档 [Claude 更名后额度口径实测：Pro 五小时与周额度疑似缩水](./sources/articles/claude-quota-after-rename-pro-5-hour-and-weekly-quotas-tested-su.md)。 / Filed [Claude quota after rename: Pro 5-hour and weekly quotas tested, suspected shrinkage](./sources/articles/claude-quota-after-rename-pro-5-hour-and-weekly-quotas-tested-su.md).
+
+* **创建 / Creation**: 归档 [比价：DeepSeek Harness 四家 API 方案成本与额度对比](./sources/articles/price-comparison-four-deepseek-api-solutions-for-deepseek-harnes.md)。 / Filed [Price Comparison: Four DeepSeek API Solutions for DeepSeek Harness](./sources/articles/price-comparison-four-deepseek-api-solutions-for-deepseek-harnes.md).
+
+* **创建 / Creation**: 归档 [Pi Agent、Claude Code 与 DeepSeek Harness：新手 AI 编程工具选型](./sources/articles/pi-agent-claude-code-and-deepseek-harness-a-beginner-s-ai-coding.md)。 / Filed [Pi Agent, Claude Code, and DeepSeek Harness: A Beginner's AI Coding Tool Selection Guide](./sources/articles/pi-agent-claude-code-and-deepseek-harness-a-beginner-s-ai-coding.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 订阅与选型：$30 与 $100 档位如何选](./sources/articles/grok-bot-subscription-and-selection-how-to-choose-between-30-and.md)。 / Filed [Grok Bot Subscription and Selection: How to Choose Between $30 and $100 Tiers](./sources/articles/grok-bot-subscription-and-selection-how-to-choose-between-30-and.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 可继承其他 AI 记忆](./sources/articles/grok-bot-can-inherit-memory-from-other-ai.md)。 / Filed [Grok Bot Can Inherit Memory from Other AI](./sources/articles/grok-bot-can-inherit-memory-from-other-ai.md).
+
+* **创建 / Creation**: 归档 [10 月 Grok Bot 五大更新（0.66→0.78）](./sources/articles/five-major-grok-bot-updates-in-october-0-66-0-78.md)。 / Filed [Five Major Grok Bot Updates in October (0.66 → 0.78)](./sources/articles/five-major-grok-bot-updates-in-october-0-66-0-78.md).
+
+* **创建 / Creation**: 归档 [Amp 回应「人人都能推 main」：文化拦水货，Token 是新基建](./sources/articles/amp-responds-to-anyone-can-push-to-main-culture-stops-slop-token.md)。 / Filed [Amp Responds to "Anyone Can Push to Main": Culture Stops Slop, Tokens Are New Infrastructure](./sources/articles/amp-responds-to-anyone-can-push-to-main-culture-stops-slop-token.md).
+
+* **创建 / Creation**: 归档 [Qwenputer：RISC-V CPU 写进 Qwen3.5-4B 权重](./sources/articles/qwenputer-risc-v-cpu-written-into-qwen3-5-4b-weights.md)。 / Filed [Qwenputer: RISC-V CPU Written into Qwen3.5-4B Weights](./sources/articles/qwenputer-risc-v-cpu-written-into-qwen3-5-4b-weights.md).
+
+* **创建 / Creation**: 归档 [jbhuang「AI Training and Inference」9 集训推系列：从单卡显存到万卡并行与推理服务](./sources/articles/jbhuang-ai-training-and-inference-9-episode-training-and-inferen.md)。 / Filed [jbhuang 'AI Training and Inference' 9-episode training and inference series: from single-GPU memory to ten-thousand-card parallelism and inference serving](./sources/articles/jbhuang-ai-training-and-inference-9-episode-training-and-inferen.md).
+
+* **创建 / Creation**: 归档 [腾讯发布 78 页「2026 AI Agent 企业解决方案及落地实践手册」](./sources/articles/tencent-releases-78-page-2026-ai-agent-enterprise-solution-and-i.md)。 / Filed [Tencent Releases 78-Page "2026 AI Agent Enterprise Solution and Implementation Practice Manual"](./sources/articles/tencent-releases-78-page-2026-ai-agent-enterprise-solution-and-i.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 支持支付宝和银联卡支付](./sources/articles/grok-bot-supports-alipay-and-unionpay-payments.md)。 / Filed [Grok Bot Supports Alipay and UnionPay Payments](./sources/articles/grok-bot-supports-alipay-and-unionpay-payments.md).
+
+* **创建 / Creation**: 归档 [歸藏发布 guizang-pages-skill 网页排版 Skill，内置中文排版优化与 PDF 导出](./sources/articles/guizang-releases-guizang-pages-skill-web-layout-skill-with-chine.md)。 / Filed [Guizang releases guizang-pages-skill web layout Skill with Chinese typography optimization and PDF export](./sources/articles/guizang-releases-guizang-pages-skill-web-layout-skill-with-chine.md).
+
+* **创建 / Creation**: 归档 [歸藏发布 DSH 设计插件 dsh-guizang-design，更新 PPT 与社媒卡片 Skill](./sources/articles/guizang-releases-dsh-design-plugin-dsh-guizang-design-updating-p.md)。 / Filed [Guizang releases DSH design plugin dsh-guizang-design, updating PPT and social media card Skills](./sources/articles/guizang-releases-dsh-design-plugin-dsh-guizang-design-updating-p.md).
+
+* **创建 / Creation**: 归档 [歸藏发布 DSH 插件 dsh-guizang-design，合并多个设计 Skill](./sources/articles/guizang-releases-dsh-plugin-dsh-guizang-design-merging-multiple.md)。 / Filed [Guizang releases DSH plugin dsh-guizang-design, merging multiple design Skills](./sources/articles/guizang-releases-dsh-plugin-dsh-guizang-design-merging-multiple.md).
+
+* **创建 / Creation**: 归档 [思科总裁让 27 岁员工不限量 AI 重写 98% 老代码](./sources/articles/cisco-president-lets-27-year-old-use-unlimited-ai-to-rewrite-98.md)。 / Filed [Cisco President Lets 27-Year-Old Use Unlimited AI to Rewrite 98% of Legacy Code](./sources/articles/cisco-president-lets-27-year-old-use-unlimited-ai-to-rewrite-98.md).
+
+* **创建 / Creation**: 归档 [疑似造假：Claude Fable 5 权重兜售实为 DeepSeek 开源模型文件](./sources/articles/suspected-fake-claude-fable-5-weights-sale-turns-out-to-be-deeps.md)。 / Filed [Suspected Fake Claude Fable 5 Weights Sale Turns Out to Be DeepSeek Open-Source Model Files](./sources/articles/suspected-fake-claude-fable-5-weights-sale-turns-out-to-be-deeps.md).
+
+* **创建 / Creation**: 归档 [Claude Ultra 改名与取消 5h 限额](./sources/articles/claude-ultra-renamed-and-5-hour-limit-removed.md)。 / Filed [Claude Ultra Renamed and 5-Hour Limit Removed](./sources/articles/claude-ultra-renamed-and-5-hour-limit-removed.md).
+
+* **创建 / Creation**: 归档 [DSH 插件让 Claude Design 在 DeepSeek Harness 运行](./sources/articles/dsh-plugin-enables-claude-design-to-run-on-deepseek-harness.md)。 / Filed [DSH Plugin Enables Claude Design to Run on DeepSeek Harness](./sources/articles/dsh-plugin-enables-claude-design-to-run-on-deepseek-harness.md).
+
 # 日志 / Log
 
 Wiki 页面创建、更新与废弃的时间线。

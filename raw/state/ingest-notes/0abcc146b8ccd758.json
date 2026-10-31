@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/agent-auto-mode.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "Magpie 是代理/节点类工具，自重启与端口交接涉及自建代理节点的运维特性。",
+    "topics/agent-auto-mode.md": "更新后实例自动重启属于智能体/工具自动化运行模式的范畴。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "升级代理可走 Magpie，涉及 Harness/路由层与个人工具派发的边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "Magpie 是代理/节点类工具，自重启与端口交接涉及自建代理节点的运维特性。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "更新后实例自动重启属于智能体/工具自动化运行模式的范畴。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "升级代理可走 Magpie，涉及 Harness/路由层与个人工具派发的边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://x.com/yetone/status/2116377295758000165"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X API/内置额度，与本文主题最贴近",
+    "topics/agents-md-token-efficiency.md": "涉及项目指令与 Token 效率，与 Token 消耗拆解相关",
+    "topics/context-engineering-for-agents.md": "涉及 Agent 上下文工程，与重读历史聊天记录的开销相关",
+    "topics/coding-agent-token-saving-tooling.md": "涉及编程 Agent 省 Token 工具与开销，与 Token 成本结构相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与 X API/内置额度，与本文主题最贴近"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及项目指令与 Token 效率，与 Token 消耗拆解相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 上下文工程，与重读历史聊天记录的开销相关"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 省 Token 工具与开销，与 Token 成本结构相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有数据均来源于单条 X 帖文，未独立核实。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "文章涉及开源 3D 高斯模型与三维资产生成，与仿真就绪开放三维资产主题最贴近",
+    "topics/gpu-ai-compute-unlock.md": "文中提到消费级显卡 7.2GB 显存即可运行，与消费级 GPU AI 算力解锁相关",
+    "topics/open-weight-frontier-models.md": "Sperid Labs 在 Hugging Face 开源 Idol 模型，属于开放权重模型发布"
+  },
+  "topics": [
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文章涉及开源 3D 高斯模型与三维资产生成，与仿真就绪开放三维资产主题最贴近"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中提到消费级显卡 7.2GB 显存即可运行，与消费级 GPU AI 算力解锁相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Sperid Labs 在 Hugging Face 开源 Idol 模型，属于开放权重模型发布"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未独立核实；帖文显示日期为 2026-10-30，可能为发布环境时钟问题。"
+}

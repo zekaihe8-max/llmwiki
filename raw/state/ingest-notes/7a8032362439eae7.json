@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-swarms-cyber-defense.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接提及 Grok Bot，与帖文“中国版 Grok Bot”主题高度相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "直接提及 Grok Bot，与帖文核心比喻相关",
+    "topics/multiagent-infra-four-problems.md": "帖文强调“一群 Agent 协作”，属多智能体基建范畴",
+    "topics/agent-swarms-cyber-defense.md": "帖文提及 Agent 群体协作，与 Agent Swarm 品类相近"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接提及 Grok Bot，与帖文“中国版 Grok Bot”主题高度相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "直接提及 Grok Bot，与帖文核心比喻相关"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "帖文强调“一群 Agent 协作”，属多智能体基建范畴"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Agent 群体协作，与 Agent Swarm 品类相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，未引入外部事实。"
+}

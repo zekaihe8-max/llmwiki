@@ -1,0 +1,23 @@
+{
+  "slug": "a6683a2c7cafaec9",
+  "url": "https://x.com/Gorden_Sun/status/2116157329242718234",
+  "title": "OCR",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "a6683a2c7cafaec9f451b142ab110d14f584203af141b3749457d0078d7855f7",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:45.898Z",
+  "content_hash": "fad51427b93e77dbc4b84c7a6a16f4e7b6a0fc2048236b5b29cb876bf48edc89",
+  "article_path": "articles/a6683a2c7cafaec9.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2116157329242718234",
+  "source_path": "sources/articles/surya-2-5-high-performance-0-7b-ocr-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:47:08.820Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

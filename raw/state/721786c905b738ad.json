@@ -1,0 +1,23 @@
+{
+  "slug": "721786c905b738ad",
+  "url": "https://x.com/heydengai/status/2116476272360734974",
+  "title": "CentOS/Rocky 创始人用 Codex 11 天写 13.9 万行内核 Ginux",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "721786c905b738ad20092f0a80afb4a7f5d19d18304a6ce7cfced8f62ffce2d2",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:34.008Z",
+  "content_hash": "9c22aa62bfabe5adeee8c089c11a9d184f51b6fdcba8eb5e31983e15cf3503f8",
+  "article_path": "articles/721786c905b738ad.md",
+  "fetched_url": "https://x.com/heydengai/status/2116476272360734974",
+  "source_path": "sources/articles/centos-rocky-founder-uses-codex-to-write-139-000-line-ginux-kern.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:27:37.362Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

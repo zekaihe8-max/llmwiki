@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "实时交互世界模型与实时动作生成在实时性和场景交互上相近。",
+    "topics/simulation-ready-open-3d-assets.md": "仿真就绪三维资产与角色/机器人在场景中的运动生成相关。",
+    "topics/local-open-assistant-models.md": "本地开放模型与机器人小模型涉及具身机器人方向。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "实时交互世界模型与实时动作生成在实时性和场景交互上相近。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "仿真就绪三维资产与角色/机器人在场景中的运动生成相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本地开放模型与机器人小模型涉及具身机器人方向。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖子，所有主张均基于该帖文，未引入外部事实。"
+}

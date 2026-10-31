@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:41:50.157Z",
+  "url": "https://x.com/0xLogicrw/status/2116351187226329301",
+  "slug": "9f51ee9086d00675",
+  "content_hash": "dbc607ece3032ab83c80882609bb0d77c0040e2244f9fc3446cd5ff0b5e3cbc1",
+  "source": {
+    "path": "sources/articles/xiaomi-open-sources-xiaomi-ocr-0-document-understanding-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/agent-skill-authoring.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Agent Skill 已开源并可接入 AI Agent"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文中介绍的 8 亿参数开源小模型与本地开放助手及小模型主题相近"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "小米公开模型权重，符合开放权重模型的讨论范围"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "小米自建 OCR/文档理解模型，体现工具或产品自建模型以获取话语权"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文中介绍的 8 亿参数开源小模型与本地开放助手及小模型主题相近",
+    "topics/open-weight-frontier-models.md": "小米公开模型权重，符合开放权重模型的讨论范围",
+    "topics/agent-skill-authoring.md": "帖文明确提到 Agent Skill 已开源并可接入 AI Agent",
+    "topics/tools-building-own-models.md": "小米自建 OCR/文档理解模型，体现工具或产品自建模型以获取话语权"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomi-open-sources-xiaomi-ocr-0-document-understanding-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/agent-skill-authoring.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "文中介绍的 8 亿参数开源小模型与本地开放助手及小模型主题相近",
+      "topics/open-weight-frontier-models.md": "小米公开模型权重，符合开放权重模型的讨论范围",
+      "topics/agent-skill-authoring.md": "帖文明确提到 Agent Skill 已开源并可接入 AI Agent",
+      "topics/tools-building-own-models.md": "小米自建 OCR/文档理解模型，体现工具或产品自建模型以获取话语权"
+    },
+    "notes": "所有事实均来源于提供的帖文内容，未引入外部链接或未在文中出现的数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomi-open-sources-xiaomi-ocr-0-document-understanding-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

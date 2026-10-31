@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:46:47.755Z",
+  "url": "https://x.com/Gorden_Sun/status/2116145550672490873",
+  "slug": "8991e40697b1db27",
+  "content_hash": "b9904e1680459cddf6b7b9e165a089233f7fc7fe1ca5a0c51e85ea3adbc1a6e7",
+  "source": {
+    "path": "sources/articles/sperid-labs-open-sources-idol-generate-complete-3d-gaussian-mode.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中提到消费级显卡 7.2GB 显存即可运行，与消费级 GPU AI 算力解锁相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Sperid Labs 在 Hugging Face 开源 Idol 模型，属于开放权重模型发布"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文章涉及开源 3D 高斯模型与三维资产生成，与仿真就绪开放三维资产主题最贴近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "文章涉及开源 3D 高斯模型与三维资产生成，与仿真就绪开放三维资产主题最贴近",
+    "topics/gpu-ai-compute-unlock.md": "文中提到消费级显卡 7.2GB 显存即可运行，与消费级 GPU AI 算力解锁相关",
+    "topics/open-weight-frontier-models.md": "Sperid Labs 在 Hugging Face 开源 Idol 模型，属于开放权重模型发布"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sperid-labs-open-sources-idol-generate-complete-3d-gaussian-mode.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/simulation-ready-open-3d-assets.md": "文章涉及开源 3D 高斯模型与三维资产生成，与仿真就绪开放三维资产主题最贴近",
+      "topics/gpu-ai-compute-unlock.md": "文中提到消费级显卡 7.2GB 显存即可运行，与消费级 GPU AI 算力解锁相关",
+      "topics/open-weight-frontier-models.md": "Sperid Labs 在 Hugging Face 开源 Idol 模型，属于开放权重模型发布"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实；帖文显示日期为 2026-10-30，可能为发布环境时钟问题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sperid-labs-open-sources-idol-generate-complete-3d-gaussian-mode.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

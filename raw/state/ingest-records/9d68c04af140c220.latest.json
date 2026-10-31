@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:49:16.907Z",
+  "url": "https://x.com/dingyi/status/2116163474460168262",
+  "slug": "9d68c04af140c220",
+  "content_hash": "4325b575b68d6fdc63d788a4c0906ee95425bd5b643f0624118636d44a166159",
+  "source": {
+    "path": "sources/articles/trying-raft-again.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/design-taste-led-linux-desktop-trial.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及工具使用体验问题，属于 UX 范畴"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "涉及软件试用后的设计与交互反馈，现有主题可复用"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文核心是交互逻辑漏洞，与 UX/DX/AX 主题最贴近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文核心是交互逻辑漏洞，与 UX/DX/AX 主题最贴近",
+    "topics/coding-agent-ux-vs-quota.md": "涉及工具使用体验问题，属于 UX 范畴",
+    "topics/design-taste-led-linux-desktop-trial.md": "涉及软件试用后的设计与交互反馈，现有主题可复用"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/trying-raft-again.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/design-taste-led-linux-desktop-trial.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "帖文核心是交互逻辑漏洞，与 UX/DX/AX 主题最贴近",
+      "topics/coding-agent-ux-vs-quota.md": "涉及工具使用体验问题，属于 UX 范畴",
+      "topics/design-taste-led-linux-desktop-trial.md": "涉及软件试用后的设计与交互反馈，现有主题可复用"
+    },
+    "notes": "仅基于 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/trying-raft-again.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

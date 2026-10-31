@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:27:37.361Z",
+  "url": "https://x.com/heydengai/status/2116476272360734974",
+  "slug": "721786c905b738ad",
+  "content_hash": "9c22aa62bfabe5adeee8c089c11a9d184f51b6fdcba8eb5e31983e15cf3503f8",
+  "source": {
+    "path": "sources/articles/centos-rocky-founder-uses-codex-to-write-139-000-line-ginux-kern.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 辅助编写操作系统内核，与“AI 协助的系统破解移植风潮”主题高度相关。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "AI 生成的 13.9 万行代码是否应被视为一次性，涉及 AI 代码质量与双标问题。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "强调代码本身而非规格，与“内核不是产品、开发过程才是实验”的观点相近。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文讨论一次性代码与开发价值，对应“Vibe Coding 的记忆悖论”中关于代码可丢弃性的讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "文章涉及 AI 辅助编写操作系统内核，与“AI 协助的系统破解移植风潮”主题高度相关。",
+    "topics/vibe-coding-memory-paradox.md": "帖文讨论一次性代码与开发价值，对应“Vibe Coding 的记忆悖论”中关于代码可丢弃性的讨论。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "AI 生成的 13.9 万行代码是否应被视为一次性，涉及 AI 代码质量与双标问题。",
+    "topics/code-over-spec.md": "强调代码本身而非规格，与“内核不是产品、开发过程才是实验”的观点相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/centos-rocky-founder-uses-codex-to-write-139-000-line-ginux-kern.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-os-port-wave.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-os-port-wave.md": "文章涉及 AI 辅助编写操作系统内核，与“AI 协助的系统破解移植风潮”主题高度相关。",
+      "topics/vibe-coding-memory-paradox.md": "帖文讨论一次性代码与开发价值，对应“Vibe Coding 的记忆悖论”中关于代码可丢弃性的讨论。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "AI 生成的 13.9 万行代码是否应被视为一次性，涉及 AI 代码质量与双标问题。",
+      "topics/code-over-spec.md": "强调代码本身而非规格，与“内核不是产品、开发过程才是实验”的观点相近。"
+    },
+    "notes": "未核实创始人姓名及 Codex 使用细节，仅按帖文表述撰写。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/centos-rocky-founder-uses-codex-to-write-139-000-line-ginux-kern.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

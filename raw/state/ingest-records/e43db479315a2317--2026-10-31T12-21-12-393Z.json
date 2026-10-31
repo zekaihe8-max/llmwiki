@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:21:12.393Z",
+  "url": "https://x.com/yetone/status/2116439277395726836",
+  "slug": "e43db479315a2317",
+  "content_hash": "95a8e8dae655e890170116306700d3cfce4b6d01157f769b2bf067c5b7c3cd17",
+  "source": {
+    "path": "sources/articles/magpie-adds-list-as-custom-model-id.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道取舍，与模型 ID 别名和路由最相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台跨模型编排，与自定义模型 ID 路由语义相近。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及多 Harness 路由基建与个人助手派活，与 Magpie 路由行为相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，与模型 ID 别名和路由最相关。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台跨模型编排，与自定义模型 ID 路由语义相近。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "涉及多 Harness 路由基建与个人助手派活，与 Magpie 路由行为相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/magpie-adds-list-as-custom-model-id.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，与模型 ID 别名和路由最相关。",
+      "topics/cloud-auto-model-routing.md": "涉及云平台跨模型编排，与自定义模型 ID 路由语义相近。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "涉及多 Harness 路由基建与个人助手派活，与 Magpie 路由行为相关。"
+    },
+    "notes": "来源为 X 平台 yetone 的单条帖文，未独立核实功能细节，已在摘要中使用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/magpie-adds-list-as-custom-model-id.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

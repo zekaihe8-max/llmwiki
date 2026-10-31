@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:11:29.223Z",
+  "url": "https://x.com/op7418/status/2116357353566302376",
+  "slug": "0187ae223da9b623",
+  "content_hash": "6e291b55f22764896d08e29125a5114e02cdc8e3a784df86088c5ed190e68431",
+  "source": {
+    "path": "sources/articles/guizang-releases-dsh-design-plugin-dsh-guizang-design-updating-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Skill 的编写与更新，直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "讨论 Agent Skills 开放标准，与插件技能合并相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 插件样式统一与设计系统，与 Design Token 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心是 Skill 的编写与更新，直接相关。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件样式统一与设计系统，与 Design Token 相关。",
+    "topics/agent-skills-open-standard.md": "讨论 Agent Skills 开放标准，与插件技能合并相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/guizang-releases-dsh-design-plugin-dsh-guizang-design-updating-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/agent-skills-open-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章核心是 Skill 的编写与更新，直接相关。",
+      "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件样式统一与设计系统，与 Design Token 相关。",
+      "topics/agent-skills-open-standard.md": "讨论 Agent Skills 开放标准，与插件技能合并相关。"
+    },
+    "notes": "所有主张均基于提供的帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/guizang-releases-dsh-design-plugin-dsh-guizang-design-updating-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

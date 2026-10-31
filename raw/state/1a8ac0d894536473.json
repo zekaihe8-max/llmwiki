@@ -1,0 +1,23 @@
+{
+  "slug": "1a8ac0d894536473",
+  "url": "https://x.com/Gorden_Sun/status/2116389327072792722",
+  "title": "太空",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "1a8ac0d89453647301c69fef9ab0356a1355ca247c7fb51ebe7702bbec597ac9",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:47.822Z",
+  "content_hash": "7bea5ab2331f944549fdb8a6645c21a1d9e7bb586732048018329b74714a3286",
+  "article_path": "articles/1a8ac0d894536473.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2116389327072792722",
+  "source_path": "sources/articles/google-s-space-launched-tpu-successfully-runs-large-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:47:54.300Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

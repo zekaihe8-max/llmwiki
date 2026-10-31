@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:25:33.693Z",
+  "url": "https://x.com/oran_ge/status/2116366175018025469",
+  "slug": "f1adf9d8dc4b6d92",
+  "content_hash": "89a0b0a78a39e83675b294ef2230d6e9d57bedf17e618268cdcefbef7ea3b391",
+  "source": {
+    "path": "sources/articles/clarification-ai-bubble-thoughts-are-not-a-rant-calling-for-frie.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-native-companies.md",
+    "topics/millenarian-apocalypse-discourse.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI 泡沫叙事与 AI 原生公司的行业发展密切相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及对 AI 泡沫与炒作的质疑，与社区实测对抗刷分碰瓷主题相近。"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "泡沫破裂与末日式话语属于同类社会叙事，与千禧年末日话语主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "AI 泡沫讨论触及 AI 产品与订阅的经济价值，与高端 AI 订阅价值主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文涉及对 AI 泡沫与炒作的质疑，与社区实测对抗刷分碰瓷主题相近。",
+    "topics/premium-ai-subscription-value.md": "AI 泡沫讨论触及 AI 产品与订阅的经济价值，与高端 AI 订阅价值主题相关。",
+    "topics/ai-native-companies.md": "AI 泡沫叙事与 AI 原生公司的行业发展密切相关。",
+    "topics/millenarian-apocalypse-discourse.md": "泡沫破裂与末日式话语属于同类社会叙事，与千禧年末日话语主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/clarification-ai-bubble-thoughts-are-not-a-rant-calling-for-frie.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-native-companies.md",
+      "topics/millenarian-apocalypse-discourse.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "帖文涉及对 AI 泡沫与炒作的质疑，与社区实测对抗刷分碰瓷主题相近。",
+      "topics/premium-ai-subscription-value.md": "AI 泡沫讨论触及 AI 产品与订阅的经济价值，与高端 AI 订阅价值主题相关。",
+      "topics/ai-native-companies.md": "AI 泡沫叙事与 AI 原生公司的行业发展密切相关。",
+      "topics/millenarian-apocalypse-discourse.md": "泡沫破裂与末日式话语属于同类社会叙事，与千禧年末日话语主题相近。"
+    },
+    "notes": "仅基于抓取的 X 帖文内容，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/clarification-ai-bubble-thoughts-are-not-a-rant-calling-for-frie.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

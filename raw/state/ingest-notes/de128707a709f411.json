@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-share-and-interbot-chat.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心主张是将能力编写为全局 skills，与该主题直接相关。",
+    "topics/agent-skills-open-standard.md": "涉及 skills 作为可共享、可调用的开放能力，与全局 skills 设计方向一致。",
+    "topics/grok-bot-x-api-substitute.md": "帖文明确提及 Grok Bot 及其用法，与该主题语境相近。",
+    "topics/personal-agent-share-and-interbot-chat.md": "讨论 Bot 之间如何共享与调用能力，与“其他 Bot 知道怎么去调用”相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心主张是将能力编写为全局 skills，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 skills 作为可共享、可调用的开放能力，与全局 skills 设计方向一致。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 Grok Bot 及其用法，与该主题语境相近。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "讨论 Bot 之间如何共享与调用能力，与“其他 Bot 知道怎么去调用”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

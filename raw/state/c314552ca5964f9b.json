@@ -1,0 +1,23 @@
+{
+  "slug": "c314552ca5964f9b",
+  "url": "https://x.com/0xlangeai/status/2116158060158914975",
+  "title": "XFreeze Import Memory",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "c314552ca5964f9b658020b0c91b3886a4e6121b47e4d38a6136ef3a1e918375",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:37.586Z",
+  "content_hash": "7caa3956635241e7456db3f737a579c1b9bba489b6ddb4ed848798a881ea3167",
+  "article_path": "articles/c314552ca5964f9b.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2116158060158914975",
+  "source_path": "sources/articles/xfreeze-import-memory-demo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:38:28.818Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

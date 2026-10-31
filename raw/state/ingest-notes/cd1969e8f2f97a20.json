@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文给出未经独立核实的模型写作排名，涉及对公开榜单质量的审视。",
+    "topics/community-evals-vs-score-hype.md": "内容为个人主观实测与排名，属于社区评测与刷分炒作讨论范畴。",
+    "topics/ai-eval-work-record-gateway.md": "涉及 AI 模型能力评测与写作任务交付记录。",
+    "topics/tasks-confidently-handed-to-ai.md": "讨论哪些写作任务可以放心交给 AI 模型完成。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文给出未经独立核实的模型写作排名，涉及对公开榜单质量的审视。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "内容为个人主观实测与排名，属于社区评测与刷分炒作讨论范畴。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 模型能力评测与写作任务交付记录。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "讨论哪些写作任务可以放心交给 AI 模型完成。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未经独立核实；未创建新话题，仅复用现有目录。"
+}

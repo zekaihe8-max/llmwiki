@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:19:19.270Z",
+  "url": "https://x.com/xiaomovps/status/2116197210606174622",
+  "slug": "ba702c5b68c7d45b",
+  "content_hash": "209226a5131de83419eeec44cfc8fddf6546cba443ab20f9406245017f13fc63",
+  "source": {
+    "path": "sources/articles/pi-agent-claude-code-and-deepseek-harness-a-beginner-s-ai-coding.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文重点推荐 Claude Code 给新手，涉及该主题关注的 Claude Code 产品体验。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Claude Code 长期高强度使用成本，与编程 Agent 体验与额度相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文对三个 Agent/Harness 做定位对比，与该主题的 Harness 对比方向相近。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文讨论在多个 Agent/Harness 之间做个人选型，与个人助手派活与多 Harness 基建的区别相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文对三个 Agent/Harness 做定位对比，与该主题的 Harness 对比方向相近。",
+    "topics/claude-code-authorship-and-voice.md": "帖文重点推荐 Claude Code 给新手，涉及该主题关注的 Claude Code 产品体验。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提到 Claude Code 长期高强度使用成本，与编程 Agent 体验与额度相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文讨论在多个 Agent/Harness 之间做个人选型，与个人助手派活与多 Harness 基建的区别相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-agent-claude-code-and-deepseek-harness-a-beginner-s-ai-coding.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "帖文对三个 Agent/Harness 做定位对比，与该主题的 Harness 对比方向相近。",
+      "topics/claude-code-authorship-and-voice.md": "帖文重点推荐 Claude Code 给新手，涉及该主题关注的 Claude Code 产品体验。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文提到 Claude Code 长期高强度使用成本，与编程 Agent 体验与额度相关。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "帖文讨论在多个 Agent/Harness 之间做个人选型，与个人助手派活与多 Harness 基建的区别相近。"
+    },
+    "notes": "所有主题均复用并标记为 unchanged，未编造超出帖文的事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-agent-claude-code-and-deepseek-harness-a-beginner-s-ai-coding.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

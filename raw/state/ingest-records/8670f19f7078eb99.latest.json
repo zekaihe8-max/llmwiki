@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:27:16.791Z",
+  "url": "https://x.com/heydengai/status/2116387992218849646",
+  "slug": "8670f19f7078eb99",
+  "content_hash": "d8662dae8c7aa5e21610d174e887fdd141b02af099e8af872d6d530e2eea7002",
+  "source": {
+    "path": "sources/articles/organizational-power.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-auto-mode.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到 Agent 自主运转与持续运行，涉及智能体自动模式范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中强调成千上万个 Agent 的规模化协作，对应智能体规模化工程议题。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中以人类协作文明类比 AI 组织，涉及 AI 原生公司式的组织形态思考。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文章核心探讨多智能体自主协作的系统与基建，与多智能体四道基建题主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "文章核心探讨多智能体自主协作的系统与基建，与多智能体四道基建题主题高度相关。",
+    "topics/agent-scaled-engineering.md": "文中强调成千上万个 Agent 的规模化协作，对应智能体规模化工程议题。",
+    "topics/agent-auto-mode.md": "文中提到 Agent 自主运转与持续运行，涉及智能体自动模式范畴。",
+    "topics/ai-native-companies.md": "文中以人类协作文明类比 AI 组织，涉及 AI 原生公司式的组织形态思考。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/organizational-power.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-auto-mode.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/multiagent-infra-four-problems.md": "文章核心探讨多智能体自主协作的系统与基建，与多智能体四道基建题主题高度相关。",
+      "topics/agent-scaled-engineering.md": "文中强调成千上万个 Agent 的规模化协作，对应智能体规模化工程议题。",
+      "topics/agent-auto-mode.md": "文中提到 Agent 自主运转与持续运行，涉及智能体自动模式范畴。",
+      "topics/ai-native-companies.md": "文中以人类协作文明类比 AI 组织，涉及 AI 原生公司式的组织形态思考。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/organizational-power.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

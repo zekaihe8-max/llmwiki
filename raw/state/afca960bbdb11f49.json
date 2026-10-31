@@ -1,0 +1,23 @@
+{
+  "slug": "afca960bbdb11f49",
+  "url": "https://x.com/shao__meng/status/2116328500936265843",
+  "title": "Qwenputer：RISC-V CPU 写进 Qwen3.5-4B 权重",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "afca960bbdb11f495079d9859f23d6dde6ed07f530f6908e2805c8a037d25307",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:24.190Z",
+  "content_hash": "c8824096440efb8b26e1b2c4bd918fdc14fe8d78b0b602510d048de684b72491",
+  "article_path": "articles/afca960bbdb11f49.md",
+  "fetched_url": "https://x.com/shao__meng/status/2116328500936265843",
+  "source_path": "sources/articles/qwenputer-risc-v-cpu-written-into-qwen3-5-4b-weights.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:16:09.195Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

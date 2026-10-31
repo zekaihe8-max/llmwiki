@@ -1,0 +1,23 @@
+{
+  "slug": "0abcc146b8ccd758",
+  "url": "https://x.com/yetone/status/2116377295758000165",
+  "title": "自重启",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "0abcc146b8ccd75821437e7b687629a1a0934b7622934dc3a91abbddf80535ed",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:29.972Z",
+  "content_hash": "abc94ad744e425fd52fc8855186d940210c0effdeeaac3d50c153c8b29435d27",
+  "article_path": "articles/0abcc146b8ccd758.md",
+  "fetched_url": "https://x.com/yetone/status/2116377295758000165",
+  "source_path": "sources/articles/magpie-v0-1-2323-self-restart-with-seamless-port-handover.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:21:28.428Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

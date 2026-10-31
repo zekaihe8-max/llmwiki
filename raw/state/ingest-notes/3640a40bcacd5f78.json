@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "直接涉及 Claude 订阅套餐与额度限制，与帖文主题最贴近。",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 体验与额度，帖文中 Pro 额度消耗快对重度用户影响属于同一议题。",
+    "topics/usage-limit-ab-tests.md": "帖文基于个人使用记录倒推额度，涉及用量上限的实际表现与可能的差异化测试。",
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，帖文质疑 Pro 额度缩水后对订阅性价比的影响相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude 订阅套餐与额度限制，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 体验与额度，帖文中 Pro 额度消耗快对重度用户影响属于同一议题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "帖文基于个人使用记录倒推额度，涉及用量上限的实际表现与可能的差异化测试。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，帖文质疑 Pro 额度缩水后对订阅性价比的影响相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台单条帖文及其关联旧帖，数字均为博主个人倒推估算，非 Anthropic 官方公开公式；未引入图片中不可见的额外事实。"
+}

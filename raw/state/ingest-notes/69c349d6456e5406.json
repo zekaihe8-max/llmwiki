@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章详述 Agent Runtime 的治理平台层、沙箱、身份与可观测等原子能力，与该主题高度相关。",
+    "topics/company-agent-harness.md": "ClawPro 作为企业级 Agent 管控台与开通编排平台，对应公司级 Agent Harness 的语境。",
+    "topics/agent-model-channel-tradeoffs.md": "TokenHub 作为统一模型入口与多协议适配，涉及模型渠道取舍。",
+    "topics/unified-agent-resource-library.md": "SkillHub 25000+ 生态开源 Skills 属于跨 Agent 统一资源库范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章详述 Agent Runtime 的治理平台层、沙箱、身份与可观测等原子能力，与该主题高度相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "ClawPro 作为企业级 Agent 管控台与开通编排平台，对应公司级 Agent Harness 的语境。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "TokenHub 作为统一模型入口与多协议适配，涉及模型渠道取舍。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "SkillHub 25000+ 生态开源 Skills 属于跨 Agent 统一资源库范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @shao__meng 的帖文，未引用图片内容或手册内页细节。"
+}
