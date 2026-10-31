@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:21:44.300Z",
+  "url": "https://x.com/vista8/status/2116200606394384451",
+  "slug": "fd70714f33f3b310",
+  "content_hash": "6892e9f1b24244988c1e8747343dbcc67e2cce475172505d4f27302973bc9758",
+  "source": {
+    "path": "sources/articles/wechat-channels-ai-summary-qiaomu-clipper-local-qwen-0-6b-transc.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文核心是浏览器剪藏插件与媒体笔记，与该主题直接相关。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及本地 AI 转写与后续精读/对话，主题相近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "转写成文本后用于 AI 对话，属于语音/音频转文本整理范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章描述的是以插件和本地模型组成的具体工作流，而非智能体本身。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文核心是浏览器剪藏插件与媒体笔记，与该主题直接相关。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及本地 AI 转写与后续精读/对话，主题相近。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "转写成文本后用于 AI 对话，属于语音/音频转文本整理范畴。",
+    "topics/workflows-before-agents.md": "文章描述的是以插件和本地模型组成的具体工作流，而非智能体本身。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/wechat-channels-ai-summary-qiaomu-clipper-local-qwen-0-6b-transc.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "帖文核心是浏览器剪藏插件与媒体笔记，与该主题直接相关。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "涉及本地 AI 转写与后续精读/对话，主题相近。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "转写成文本后用于 AI 对话，属于语音/音频转文本整理范畴。",
+      "topics/workflows-before-agents.md": "文章描述的是以插件和本地模型组成的具体工作流，而非智能体本身。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/wechat-channels-ai-summary-qiaomu-clipper-local-qwen-0-6b-transc.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

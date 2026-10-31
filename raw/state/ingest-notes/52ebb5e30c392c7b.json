@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "涉及 Grok Bot 功能与额度，最贴近支付能力话题",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 上的行为定位",
+    "topics/dsh-grok-cross-dispatch.md": "提及 Grok Bot 社区互派，与 Grok Bot 相关",
+    "topics/premium-ai-subscription-value.md": "涉及 AI 订阅支付与价值，与支付宝/银联支付相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 功能与额度，最贴近支付能力话题"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 在 X 上的行为定位"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "提及 Grok Bot 社区互派，与 Grok Bot 相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 订阅支付与价值，与支付宝/银联支付相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于单一 X 帖文，未经独立核实，已在摘要中用「帖文称」标注。"
+}

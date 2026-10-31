@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "直接提及 Grok Bot 社区，与本文主题高度相关",
+    "topics/grok-bot-x-api-substitute.md": "涉及 Grok Bot 使用，属同一生态话题",
+    "topics/unified-agent-resource-library.md": "跨 Agent 统一资源库，与 Bot 分类目录概念相近",
+    "topics/reuse-before-write.md": "强调先复用现成工具，与“三千多个现成 Bot”主旨一致"
+  },
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "直接提及 Grok Bot 社区，与本文主题高度相关"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 使用，属同一生态话题"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "跨 Agent 统一资源库，与 Bot 分类目录概念相近"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "强调先复用现成工具，与“三千多个现成 Bot”主旨一致"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖子，发布于 2026-10-31，未独立核实 Bot 数量与 GitHub 仓库完整内容。"
+}

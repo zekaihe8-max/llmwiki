@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:47:54.300Z",
+  "url": "https://x.com/Gorden_Sun/status/2116389327072792722",
+  "slug": "1a8ac0d894536473",
+  "content_hash": "7bea5ab2331f944549fdb8a6645c21a1d9e7bb586732048018329b74714a3286",
+  "source": {
+    "path": "sources/articles/google-s-space-launched-tpu-successfully-runs-large-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/on-chip-agent-runtime.md",
+    "topics/programmable-edge-compute.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI/大模型运行所需的算力资源与部署环境。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "属于 AI 算力硬件在新场景下的可用性讨论。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "TPU 在轨道上运行推理，属于芯片端 Agent 运行时的极端边缘场景。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "太空卫星上的可编程算力是边缘计算的极端形态。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/on-chip-agent-runtime.md": "TPU 在轨道上运行推理，属于芯片端 Agent 运行时的极端边缘场景。",
+    "topics/programmable-edge-compute.md": "太空卫星上的可编程算力是边缘计算的极端形态。",
+    "topics/agent-compute-and-governance.md": "涉及 AI/大模型运行所需的算力资源与部署环境。",
+    "topics/gpu-ai-compute-unlock.md": "属于 AI 算力硬件在新场景下的可用性讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-s-space-launched-tpu-successfully-runs-large-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/on-chip-agent-runtime.md",
+      "topics/programmable-edge-compute.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/gpu-ai-compute-unlock.md"
+    ],
+    "selection_reasons": {
+      "topics/on-chip-agent-runtime.md": "TPU 在轨道上运行推理，属于芯片端 Agent 运行时的极端边缘场景。",
+      "topics/programmable-edge-compute.md": "太空卫星上的可编程算力是边缘计算的极端形态。",
+      "topics/agent-compute-and-governance.md": "涉及 AI/大模型运行所需的算力资源与部署环境。",
+      "topics/gpu-ai-compute-unlock.md": "属于 AI 算力硬件在新场景下的可用性讨论。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文及其引用的 Sundar Pichai 帖文，未独立核实；未创建新话题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-s-space-launched-tpu-successfully-runs-large-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

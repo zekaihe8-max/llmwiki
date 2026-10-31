@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-share-and-interbot-chat.md": "帖文涉及在不同机器人/助手之间迁移上下文与记忆，属于个人 Agent 与 Bot 互聊分享场景。",
+    "topics/context-engineering-for-agents.md": "内容围绕记忆、偏好、指令、文风等上下文要素的迁移，属于 Agent 上下文工程范畴。",
+    "topics/grok-bot-x-api-substitute.md": "帖文明确针对 Grok Bot，与该话题的 Grok Bot 应用场景相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在不同机器人/助手之间迁移上下文与记忆，属于个人 Agent 与 Bot 互聊分享场景。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "内容围绕记忆、偏好、指令、文风等上下文要素的迁移，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文明确针对 Grok Bot，与该话题的 Grok Bot 应用场景相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文截图文本，未引入外部事实。"
+}

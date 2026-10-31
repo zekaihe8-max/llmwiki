@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:18:53.442Z",
+  "url": "https://x.com/xiaomovps/status/2116378786531053683",
+  "slug": "d2e3b9a147fc86b7",
+  "content_hash": "dcfd108c3ae78c073e7c4ce2c88ddfd9484f88c812d4428e156d00f712b91104",
+  "source": {
+    "path": "sources/articles/grok-bot-subscription-and-selection-how-to-choose-between-30-and.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及 Cursor 编程 Agent 的使用体验与额度限制。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文核心围绕 Grok Bot 订阅与额度，与该主题直接相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论高端 AI 订阅的价值与档位选型，主题高度重合。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到每周使用额度与高峰期优先权，属于用量上限相关讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文核心围绕 Grok Bot 订阅与额度，与该主题直接相关。",
+    "topics/premium-ai-subscription-value.md": "文章讨论高端 AI 订阅的价值与档位选型，主题高度重合。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及 Cursor 编程 Agent 的使用体验与额度限制。",
+    "topics/usage-limit-ab-tests.md": "文中提到每周使用额度与高峰期优先权，属于用量上限相关讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-subscription-and-selection-how-to-choose-between-30-and.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "帖文核心围绕 Grok Bot 订阅与额度，与该主题直接相关。",
+      "topics/premium-ai-subscription-value.md": "文章讨论高端 AI 订阅的价值与档位选型，主题高度重合。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及 Cursor 编程 Agent 的使用体验与额度限制。",
+      "topics/usage-limit-ab-tests.md": "文中提到每周使用额度与高峰期优先权，属于用量上限相关讨论。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-subscription-and-selection-how-to-choose-between-30-and.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

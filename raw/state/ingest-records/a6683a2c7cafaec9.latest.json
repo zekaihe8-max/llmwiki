@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:47:08.818Z",
+  "url": "https://x.com/Gorden_Sun/status/2116157329242718234",
+  "slug": "a6683a2c7cafaec9",
+  "content_hash": "fad51427b93e77dbc4b84c7a6a16f4e7b6a0fc2048236b5b29cb876bf48edc89",
+  "source": {
+    "path": "sources/articles/surya-2-5-high-performance-0-7b-ocr-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文提到“1B 以下评分最高”，涉及模型评分与社区评估语境。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "0.7B 小型开放模型适合本地部署，与本地开放助手与小模型话题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文介绍的是在 Hugging Face 发布的开放权重 OCR 模型，与开放权重模型话题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及对公开榜单/评分主张的审慎引用，与公开基准质量审查相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文介绍的是在 Hugging Face 发布的开放权重 OCR 模型，与开放权重模型话题相关。",
+    "topics/local-open-assistant-models.md": "0.7B 小型开放模型适合本地部署，与本地开放助手与小模型话题相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文提到“1B 以下评分最高”，涉及模型评分与社区评估语境。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及对公开榜单/评分主张的审慎引用，与公开基准质量审查相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/surya-2-5-high-performance-0-7b-ocr-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "帖文介绍的是在 Hugging Face 发布的开放权重 OCR 模型，与开放权重模型话题相关。",
+      "topics/local-open-assistant-models.md": "0.7B 小型开放模型适合本地部署，与本地开放助手与小模型话题相关。",
+      "topics/community-evals-vs-score-hype.md": "帖文提到“1B 以下评分最高”，涉及模型评分与社区评估语境。",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及对公开榜单/评分主张的审慎引用，与公开基准质量审查相关。"
+    },
+    "notes": "未核实的性能与排名主张已用「帖文称」标注，未编造文中未出现的 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/surya-2-5-high-performance-0-7b-ocr-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

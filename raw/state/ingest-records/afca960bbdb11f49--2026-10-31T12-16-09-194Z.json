@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:16:09.194Z",
+  "url": "https://x.com/shao__meng/status/2116328500936265843",
+  "slug": "afca960bbdb11f49",
+  "content_hash": "c8824096440efb8b26e1b2c4bd918fdc14fe8d78b0b602510d048de684b72491",
+  "source": {
+    "path": "sources/articles/qwenputer-risc-v-cpu-written-into-qwen3-5-4b-weights.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/languages-for-agents.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是在模型前向中直接运行 CPU、C 和 MicroPython，属于模型内计算机使用。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中明确提到在权重内运行 C 和 MicroPython，涉及面向 Agent 的编程语言落地。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Qwen3.5-4B 是开放权重模型，帖文对其权重进行结构性改造以嵌入 CPU。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文末尾提到将推理藏进 RNN 状态逃避 CoT 监控、以及不可关闭的内置监视器，涉及技术滥用关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是在模型前向中直接运行 CPU、C 和 MicroPython，属于模型内计算机使用。",
+    "topics/languages-for-agents.md": "文中明确提到在权重内运行 C 和 MicroPython，涉及面向 Agent 的编程语言落地。",
+    "topics/open-weight-frontier-models.md": "Qwen3.5-4B 是开放权重模型，帖文对其权重进行结构性改造以嵌入 CPU。",
+    "topics/tech-misuse-concern-continuity.md": "帖文末尾提到将推理藏进 RNN 状态逃避 CoT 监控、以及不可关闭的内置监视器，涉及技术滥用关切。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qwenputer-risc-v-cpu-written-into-qwen3-5-4b-weights.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/languages-for-agents.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文核心是在模型前向中直接运行 CPU、C 和 MicroPython，属于模型内计算机使用。",
+      "topics/languages-for-agents.md": "文中明确提到在权重内运行 C 和 MicroPython，涉及面向 Agent 的编程语言落地。",
+      "topics/open-weight-frontier-models.md": "Qwen3.5-4B 是开放权重模型，帖文对其权重进行结构性改造以嵌入 CPU。",
+      "topics/tech-misuse-concern-continuity.md": "帖文末尾提到将推理藏进 RNN 状态逃避 CoT 监控、以及不可关闭的内置监视器，涉及技术滥用关切。"
+    },
+    "notes": "来源为 X 用户 @shao__meng 的帖文，文中链接指向 divagr.com/blog/qwenputer，未引入文中未提及的外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qwenputer-risc-v-cpu-written-into-qwen3-5-4b-weights.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

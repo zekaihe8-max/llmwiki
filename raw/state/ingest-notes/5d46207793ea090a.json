@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/reading-app-iphone-duo-adaptation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "均涉及 AI 应用在新型移动/大屏设备上的界面适配，与 iPad/灵动岛适配主题相近。",
+    "topics/mobile-agent-dev-full-chain.md": "涉及手机端 Agent 开发与移动端原生体验，与文中提及的移动端 Herdr 需求相关。",
+    "topics/reading-app-iphone-duo-adaptation.md": "同样是应用针对 iPhone Duo/iPad 类大屏设备的适配讨论，可复用。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "均涉及 AI 应用在新型移动/大屏设备上的界面适配，与 iPad/灵动岛适配主题相近。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及手机端 Agent 开发与移动端原生体验，与文中提及的移动端 Herdr 需求相关。"
+    },
+    {
+      "path": "topics/reading-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "同样是应用针对 iPhone Duo/iPad 类大屏设备的适配讨论，可复用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是插件内置的网页排版 Skill，与 Skill 编写主题直接相关。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及设计系统、Design Token 与插件样式统一，对应样式碎片化主题。",
+    "topics/ux-dx-and-ax.md": "排版为阅读设计、移动端优化与 PDF 导出，涉及用户体验与交付体验。",
+    "topics/landing-page-site-clone-over-skill.md": "帖文涉及专用 Skill 与网页排版产出，与 Landing Page/Skill 主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是插件内置的网页排版 Skill，与 Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及设计系统、Design Token 与插件样式统一，对应样式碎片化主题。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "排版为阅读设计、移动端优化与 PDF 导出，涉及用户体验与交付体验。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文涉及专用 Skill 与网页排版产出，与 Landing Page/Skill 主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用 X 帖文，未引入外部事实；未创建新话题。"
+}

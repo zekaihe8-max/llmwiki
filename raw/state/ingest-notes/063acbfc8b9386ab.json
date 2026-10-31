@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "帖文正在比较 DeepSeek 自营 API 与第三方聚合平台，与该主题直接相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论面向 Agent（DSH）的模型渠道取舍，包括价格、额度与稳定性。",
+    "topics/harness-comparison-beyond-tokens.md": "比价内容超越单纯 Token 价格，涉及额度窗口、并发与接入方式，符合该主题。",
+    "topics/pro-vs-flash-model-strategy.md": "文中分别列出了 Flash 与 Pro 的价格与等效额度，属于 Pro 与 Flash 模型策略讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "帖文正在比较 DeepSeek 自营 API 与第三方聚合平台，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论面向 Agent（DSH）的模型渠道取舍，包括价格、额度与稳定性。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "比价内容超越单纯 Token 价格，涉及额度窗口、并发与接入方式，符合该主题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中分别列出了 Flash 与 Pro 的价格与等效额度，属于 Pro 与 Flash 模型策略讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用仅基于提供的帖文 Markdown，未引入外部事实或 URL。"
+}

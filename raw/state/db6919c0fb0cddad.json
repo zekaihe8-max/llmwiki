@@ -1,0 +1,23 @@
+{
+  "slug": "db6919c0fb0cddad",
+  "url": "https://x.com/cgnot996/status/2116331745050337708",
+  "title": "定时任务只工作日上班",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "db6919c0fb0cddaded9db1fcd555751d8a588ddb967a28a7e40dd18d2ae921ab",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:43.252Z",
+  "content_hash": "a87e38e5a57de6937f4459f9c8248b5d886013e4887f5246f10d6234f8bd2a27",
+  "article_path": "articles/db6919c0fb0cddad.md",
+  "fetched_url": "https://x.com/cgnot996/status/2116331745050337708",
+  "source_path": "sources/articles/grok-bot-scheduled-task-runs-only-on-workdays-user-questions-wee.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:40:47.163Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

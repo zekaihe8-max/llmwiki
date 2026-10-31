@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/software-factory.md",
+    "topics/code-over-spec.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Amp 是 AI 原生公司，文中多次提到 Agent 改变交付方式、Token 是基建、21 人公司如何运作。",
+    "topics/software-factory.md": "文中描述 Amp 像软件工厂一样运作，小步快跑、客户现场原型、新闻帖当设计文档。",
+    "topics/code-over-spec.md": "文中强调代码重于规格，看 UI 和端到端而非单测，新闻帖当设计文档。",
+    "topics/agent-scaled-engineering.md": "文中讨论 Agent 规模化工程，适配器成本降低、客户自己补最后 20%、Agent 写代码改变交付模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Amp 是 AI 原生公司，文中多次提到 Agent 改变交付方式、Token 是基建、21 人公司如何运作。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中描述 Amp 像软件工厂一样运作，小步快跑、客户现场原型、新闻帖当设计文档。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文中强调代码重于规格，看 UI 和端到端而非单测，新闻帖当设计文档。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中讨论 Agent 规模化工程，适配器成本降低、客户自己补最后 20%、Agent 写代码改变交付模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 shao__meng 对 AmpCode 团队讨论的中文摘要，未独立核实所有主张，已在摘要中使用「帖文称」等表述。"
+}

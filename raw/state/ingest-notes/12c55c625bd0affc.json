@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文直接对比 Computer Use 任务在 Project Session 与 Dots 的表现。",
+    "topics/agent-in-chat-bug-feedback.md": "用户在帖中对智能体产品提出缺陷反馈与优化诉求。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文提及底层模型为 Astra，涉及模型渠道与宣称。",
+    "topics/agent-auto-mode.md": "Dots 被描述为自动执行任务的智能体产品形态。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文直接对比 Computer Use 任务在 Project Session 与 Dots 的表现。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "用户在帖中对智能体产品提出缺陷反馈与优化诉求。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文提及底层模型为 Astra，涉及模型渠道与宣称。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Dots 被描述为自动执行任务的智能体产品形态。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的主张已在 summary_zh 与 bullets 中用「帖文称」或 The post claims 标注。"
+}

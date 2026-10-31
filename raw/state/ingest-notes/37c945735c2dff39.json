@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章提到 Mobile Use 插件让 AI 在安卓、鸿蒙和 iOS 环境中检查应用实际效果，与 Computer Use 话题相关。",
+    "topics/mobile-agent-dev-full-chain.md": "Mobile Use 插件涉及手机端 Agent 全链路开发与代码修改后的环境检查。",
+    "topics/coding-agent-ux-vs-quota.md": "Qoder 是 AI 编程 Agent 产品，文章涉及其产品体验、用户迁移与积分权益问题。",
+    "topics/ai-native-companies.md": "Qoder 作为 AI 原生公司的产品线调整与人才离职，反映 AI 原生公司的运营与产品挑战。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章提到 Mobile Use 插件让 AI 在安卓、鸿蒙和 iOS 环境中检查应用实际效果，与 Computer Use 话题相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Mobile Use 插件涉及手机端 Agent 全链路开发与代码修改后的环境检查。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Qoder 是 AI 编程 Agent 产品，文章涉及其产品体验、用户迁移与积分权益问题。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Qoder 作为 AI 原生公司的产品线调整与人才离职，反映 AI 原生公司的运营与产品挑战。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自提供的推文正文，未引入外部信息。"
+}

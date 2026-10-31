@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章第 9 集涉及 LLM Serving 与 KV cache、调度，与推理成本效率主题相近",
+    "topics/deepseek-inference-vs-aggregators.md": "第 6 集将 GRPO 与 DeepSeek-R1 类推理训练挂钩，与 DeepSeek 推理主题相关",
+    "topics/open-weight-frontier-models.md": "系列讨论开放权重模型的训练、微调与蒸馏，与开放权重前沿模型主题相近",
+    "topics/ai-media-training-corpus-loop.md": "系列包含模型训练与数据复用、自蒸馏等内容，与训练语料回灌主题相近"
+  },
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章第 9 集涉及 LLM Serving 与 KV cache、调度，与推理成本效率主题相近"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "第 6 集将 GRPO 与 DeepSeek-R1 类推理训练挂钩，与 DeepSeek 推理主题相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "系列讨论开放权重模型的训练、微调与蒸馏，与开放权重前沿模型主题相近"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "系列包含模型训练与数据复用、自蒸馏等内容，与训练语料回灌主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实讲者表述（如单卡 48GB 微调 70B、Muon 算力效率约高一倍）。"
+}

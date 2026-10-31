@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章涉及 Agent Harness 插件与 Harness 使用场景，最贴近 DSH 插件主题。",
+    "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件样式与界面，与本文插件可用性相关。",
+    "topics/loose-web-agent-harness-plugins.md": "聚焦 Agent Harness 插件，与 DeepSeek Harness 插件开发相关。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计↔代码与 Claude 订阅，与 Claude Design 运行于 Harness 相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Agent Harness 插件与 Harness 使用场景，最贴近 DSH 插件主题。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "讨论 Harness 插件样式与界面，与本文插件可用性相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "聚焦 Agent Harness 插件，与 DeepSeek Harness 插件开发相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计↔代码与 Claude 订阅，与 Claude Design 运行于 Harness 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题。"
+}

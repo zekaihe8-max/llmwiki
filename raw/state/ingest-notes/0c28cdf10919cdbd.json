@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文提到人类需交三份订阅费，与高端 AI 订阅价值主题相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Grok Bot 指挥其他 Agent 干活，对应个人 Agent 当包工头调度编程 Agent。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文涉及在 Claude、Codex、Grok 之间选择与派工，与个人助手派活主题相近。",
+    "topics/design-to-code-byo-subscriptions.md": "该主题已提及自带 Claude/Codex 订阅，与帖文中的模型订阅场景重合。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到人类需交三份订阅费，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Grok Bot 指挥其他 Agent 干活，对应个人 Agent 当包工头调度编程 Agent。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在 Claude、Codex、Grok 之间选择与派工，与个人助手派活主题相近。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "该主题已提及自带 Claude/Codex 订阅，与帖文中的模型订阅场景重合。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

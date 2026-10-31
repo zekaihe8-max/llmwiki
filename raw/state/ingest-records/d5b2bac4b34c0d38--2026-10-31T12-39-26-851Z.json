@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:39:26.851Z",
+  "url": "https://x.com/0xlangeai/status/2116428653831815533",
+  "slug": "d5b2bac4b34c0d38",
+  "content_hash": "078f355acf9a569f561b24c6deb1ebf38e40ac4ac24467769eac7180ed3f4230",
+  "source": {
+    "path": "sources/articles/grok-bot-meetup-registration-opens-for-zhengzhou-and-nanjing.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与本条 Grok Bot 线下 Meetup 最为相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "属于 Grok Bot 系列话题，与本条主题同属 Grok Bot 社区活动。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 在 X 平台上的社区定位，与 Meetup 公告属于同一主题簇。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本条 Grok Bot 线下 Meetup 最为相关。",
+    "topics/grok-bot-x-api-substitute.md": "属于 Grok Bot 系列话题，与本条主题同属 Grok Bot 社区活动。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 平台上的社区定位，与 Meetup 公告属于同一主题簇。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-meetup-registration-opens-for-zhengzhou-and-nanjing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md"
+    ],
+    "selection_reasons": {
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本条 Grok Bot 线下 Meetup 最为相关。",
+      "topics/grok-bot-x-api-substitute.md": "属于 Grok Bot 系列话题，与本条主题同属 Grok Bot 社区活动。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 平台上的社区定位，与 Meetup 公告属于同一主题簇。"
+    },
+    "notes": "所有事实仅基于提供的帖文文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-meetup-registration-opens-for-zhengzhou-and-nanjing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

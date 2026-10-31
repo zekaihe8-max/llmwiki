@@ -1,0 +1,23 @@
+{
+  "slug": "9d68c04af140c220",
+  "url": "https://x.com/dingyi/status/2116163474460168262",
+  "title": "又试用 Raft",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "9d68c04af140c2202ef5162808ef5006925391224c42780d427f4981fb6865f7",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:49.306Z",
+  "content_hash": "4325b575b68d6fdc63d788a4c0906ee95425bd5b643f0624118636d44a166159",
+  "article_path": "articles/9d68c04af140c220.md",
+  "fetched_url": "https://x.com/dingyi/status/2116163474460168262",
+  "source_path": "sources/articles/trying-raft-again.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:49:16.908Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

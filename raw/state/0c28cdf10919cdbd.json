@@ -1,0 +1,23 @@
+{
+  "slug": "0c28cdf10919cdbd",
+  "url": "https://x.com/heydengai/status/2116378697540464894",
+  "title": "Claude 写码 / Codex 检查 / Grok Bot 指挥",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "0c28cdf10919cdbd509fe201869ee90a951895e3ebb20f134214049d0114976d",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:33.211Z",
+  "content_hash": "bd06de02e7bbaea5c5ad37a4b39a75147cfd00ce906ada286f2573a884a2ceb1",
+  "article_path": "articles/0c28cdf10919cdbd.md",
+  "fetched_url": "https://x.com/heydengai/status/2116378697540464894",
+  "source_path": "sources/articles/ai-s-holy-trinity-claude-writes-code-codex-reviews-grok-bot-comm.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:51:11.365Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

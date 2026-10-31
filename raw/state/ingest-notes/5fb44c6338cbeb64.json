@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及用 Grok Bot 桥接 Agent，与帖文中 Grok Bot 接入 Claude Code 的场景最相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 的使用边界与限制，属于同一主题集群",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派与调度，与 Grok Bot 稳定性和接入方式相关",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文提到 IP 不稳定与家宽/本地使用的对比，属于个人 Agent 云环境的坑点与选型"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及用 Grok Bot 桥接 Agent，与帖文中 Grok Bot 接入 Claude Code 的场景最相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 的使用边界与限制，属于同一主题集群"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派与调度，与 Grok Bot 稳定性和接入方式相关"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文提到 IP 不稳定与家宽/本地使用的对比，属于个人 Agent 云环境的坑点与选型"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题；事实仅来源于提供的 X 帖文文本。"
+}

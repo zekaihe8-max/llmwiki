@@ -1,0 +1,23 @@
+{
+  "slug": "7b50c48204053e65",
+  "url": "https://x.com/dotey/status/2116336030584574076",
+  "title": "DSH 插件跑 Claude Design",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "7b50c48204053e65e2731496186298b28205537e30b64654d96a126b329f0104",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:17.523Z",
+  "content_hash": "172b3177d6a7352490a1d8f6d53a6778a7f621ea78cc648018b4bd41306671f9",
+  "article_path": "articles/7b50c48204053e65.md",
+  "fetched_url": "https://x.com/dotey/status/2116336030584574076",
+  "source_path": "sources/articles/dsh-plugin-enables-claude-design-to-run-on-deepseek-harness.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:08:58.003Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

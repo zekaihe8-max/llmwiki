@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "直接涉及 DSH 平台，与帖文中的 DSH 插件主题最相关。",
+    "topics/harness-plugin-style-fragmentation.md": "讨论插件样式与设计系统碎片化，与共用设计系统和 Design Token 相呼应。",
+    "topics/agent-skill-authoring.md": "帖文提到合并多个设计 Skill，与 Skill 编写主题相近。",
+    "topics/reuse-before-write.md": "帖文强调合并已有 Skill 并复用一套设计系统，体现先复用再编写的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "直接涉及 DSH 平台，与帖文中的 DSH 插件主题最相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "讨论插件样式与设计系统碎片化，与共用设计系统和 Design Token 相呼应。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提到合并多个设计 Skill，与 Skill 编写主题相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文强调合并已有 Skill 并复用一套设计系统，体现先复用再编写的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文可见内容，未引用图片中不可见细节。"
+}

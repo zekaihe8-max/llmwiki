@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/on-chip-agent-runtime.md",
+    "topics/programmable-edge-compute.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/on-chip-agent-runtime.md": "TPU 在轨道上运行推理，属于芯片端 Agent 运行时的极端边缘场景。",
+    "topics/programmable-edge-compute.md": "太空卫星上的可编程算力是边缘计算的极端形态。",
+    "topics/agent-compute-and-governance.md": "涉及 AI/大模型运行所需的算力资源与部署环境。",
+    "topics/gpu-ai-compute-unlock.md": "属于 AI 算力硬件在新场景下的可用性讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "TPU 在轨道上运行推理，属于芯片端 Agent 运行时的极端边缘场景。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "太空卫星上的可编程算力是边缘计算的极端形态。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI/大模型运行所需的算力资源与部署环境。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "属于 AI 算力硬件在新场景下的可用性讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文及其引用的 Sundar Pichai 帖文，未独立核实；未创建新话题。"
+}

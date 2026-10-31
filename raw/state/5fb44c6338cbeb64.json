@@ -1,0 +1,23 @@
+{
+  "slug": "5fb44c6338cbeb64",
+  "url": "https://x.com/cgnot996/status/2116169095146246422",
+  "title": "别在 Grok Bot 里接 Claude Code",
+  "digest": "2026-10-31-cn-x.md",
+  "status": "filed",
+  "hash": "5fb44c6338cbeb64903c57bb01221a45769be0fc27c8f6c1328181f5fa5f5059",
+  "first_seen": "2026-10-31T11:57:17.430Z",
+  "last_seen": "2026-10-31T11:57:17.430Z",
+  "fetched_at": "2026-10-31T11:57:42.835Z",
+  "content_hash": "1518ed5fa122849eb066375d2d26f7c34c73d6d178a24e4616f1ce46ccc830a8",
+  "article_path": "articles/5fb44c6338cbeb64.md",
+  "fetched_url": "https://x.com/cgnot996/status/2116169095146246422",
+  "source_path": "sources/articles/don-t-connect-claude-code-inside-grok-bot.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-10-31T12:40:18.716Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

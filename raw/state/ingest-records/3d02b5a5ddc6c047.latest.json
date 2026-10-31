@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:47:31.450Z",
+  "url": "https://x.com/Gorden_Sun/status/2116470534867411207",
+  "slug": "3d02b5a5ddc6c047",
+  "content_hash": "86b8b938dea677a41c578bc1f27aa287af1bcfd388851c15f26567dc478ca0f8",
+  "source": {
+    "path": "sources/articles/nvidia-open-sources-motionbricks-real-time-character-and-robot-m.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "实时交互世界模型与实时动作生成在实时性和场景交互上相近。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本地开放模型与机器人小模型涉及具身机器人方向。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "仿真就绪三维资产与角色/机器人在场景中的运动生成相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "实时交互世界模型与实时动作生成在实时性和场景交互上相近。",
+    "topics/simulation-ready-open-3d-assets.md": "仿真就绪三维资产与角色/机器人在场景中的运动生成相关。",
+    "topics/local-open-assistant-models.md": "本地开放模型与机器人小模型涉及具身机器人方向。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/nvidia-open-sources-motionbricks-real-time-character-and-robot-m.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "实时交互世界模型与实时动作生成在实时性和场景交互上相近。",
+      "topics/simulation-ready-open-3d-assets.md": "仿真就绪三维资产与角色/机器人在场景中的运动生成相关。",
+      "topics/local-open-assistant-models.md": "本地开放模型与机器人小模型涉及具身机器人方向。"
+    },
+    "notes": "来源为 X 帖子，所有主张均基于该帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/nvidia-open-sources-motionbricks-real-time-character-and-robot-m.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

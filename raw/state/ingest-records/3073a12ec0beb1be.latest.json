@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-10-31T12:38:57.209Z",
+  "url": "https://x.com/0xlangeai/status/2116338316190851145",
+  "slug": "3073a12ec0beb1be",
+  "content_hash": "1d15720b1de96c8e8696a5b56ac2b12d910422c9293410165c3e8524d11cb985",
+  "source": {
+    "path": "sources/articles/grok-bot-can-directly-buy-mcdonald-s-breakfast.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-clears-deferred-life-todos.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "本文描述的是 Agent 自动下单场景，与智能体自动模式高度相关。"
+    },
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "unchanged",
+      "reason": "购买早餐属于生活待办类任务，与该主题适配。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 的能力与使用场景，与本文主题最相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 的行为边界，可作为主题复用参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 的能力与使用场景，与本文主题最相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 的行为边界，可作为主题复用参考。",
+    "topics/agent-auto-mode.md": "本文描述的是 Agent 自动下单场景，与智能体自动模式高度相关。",
+    "topics/agent-clears-deferred-life-todos.md": "购买早餐属于生活待办类任务，与该主题适配。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-can-directly-buy-mcdonald-s-breakfast.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-clears-deferred-life-todos.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 的能力与使用场景，与本文主题最相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 的行为边界，可作为主题复用参考。",
+      "topics/agent-auto-mode.md": "本文描述的是 Agent 自动下单场景，与智能体自动模式高度相关。",
+      "topics/agent-clears-deferred-life-todos.md": "购买早餐属于生活待办类任务，与该主题适配。"
+    },
+    "notes": "主张未经独立核实，仅反映帖文内容；付款环节明确标注仍需人工。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-can-directly-buy-mcdonald-s-breakfast.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/adversarial-review-external-evidence.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/adversarial-review-external-evidence.md": "文章核心是用外部证据（字节比对、AWS 文档、容量计算）对未核实的权重泄露主张进行对抗性复核。",
+    "topics/account-and-asset-security-hygiene.md": "涉及配置不当的 S3 存储桶和模型权重资产安全，属于账号与资产安全卫生范畴。",
+    "topics/open-weight-frontier-models.md": "围绕前沿模型权重是否应公开及兜售行为展开，与开放权重前沿模型话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "文章核心是用外部证据（字节比对、AWS 文档、容量计算）对未核实的权重泄露主张进行对抗性复核。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "涉及配置不当的 S3 存储桶和模型权重资产安全，属于账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "围绕前沿模型权重是否应公开及兜售行为展开，与开放权重前沿模型话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "标题沿用用户提供的中文提示“疑似造假 Claude Fable 5 权重”，并补充事实定性；未引用文章外事实。"
+}
