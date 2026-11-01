@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "Codex 属于编程 Agent，帖文核心讨论额度与用户体验，最贴近。",
+    "topics/premium-ai-subscription-value.md": "涉及 AI 订阅额度是否真正增值，与订阅价值主题相关。",
+    "topics/usage-limit-ab-tests.md": "额度合并属于用量上限变更，与用量限制测试主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "文中明确提到 Codex 订阅，与自带 Codex 订阅主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Codex 属于编程 Agent，帖文核心讨论额度与用户体验，最贴近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 订阅额度是否真正增值，与订阅价值主题相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "额度合并属于用量上限变更，与用量限制测试主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 Codex 订阅，与自带 Codex 订阅主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

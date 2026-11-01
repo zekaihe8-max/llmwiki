@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/programmable-edge-compute.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/computer-use.md",
+    "topics/phone-own-server-agent-workbench.md"
+  ],
+  "selection_reasons": {
+    "topics/programmable-edge-compute.md": "帖文提到使用 Cloudflare Workers 一键部署，属于可编程边缘计算场景。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "文章主打自建中继而非托管节点，与自建代理/中继节点讨论相关。",
+    "topics/computer-use.md": "Alma 用于远程控制电脑，属于 Computer Use 范畴。",
+    "topics/phone-own-server-agent-workbench.md": "强调用自己的中继服务器远程控制，与自有服务器操控工作台主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "帖文提到使用 Cloudflare Workers 一键部署，属于可编程边缘计算场景。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "文章主打自建中继而非托管节点，与自建代理/中继节点讨论相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Alma 用于远程控制电脑，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "强调用自己的中继服务器远程控制，与自有服务器操控工作台主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @yetone; the article links to GitHub repo yetone/alma-relay. No new topics created."
+}

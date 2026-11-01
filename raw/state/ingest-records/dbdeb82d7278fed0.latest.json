@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:05:44.173Z",
+  "url": "https://x.com/dotey/status/2116623097839149231",
+  "slug": "dbdeb82d7278fed0",
+  "content_hash": "864ab563f0e63a480a91dbf1a82e7bbe1adf4e26f5a3057261d0bb9ce79440f8",
+  "source": {
+    "path": "sources/articles/baoyu-design-lan-team-sharing.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/company-agent-harness.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/personal-agent-share-and-interbot-chat.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中提到团队共享与公司级协作场景，对应公司级 Agent Harness 话题。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章主体是设计工具 baoyu-design，与该话题的设计↔代码工具语境最贴近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中明确提及 DeepSeek Harness 插件更新，与 Harness 插件话题相关。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "文章核心是局域网内对外分享与协作，与个人 Agent 分享话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "文章主体是设计工具 baoyu-design，与该话题的设计↔代码工具语境最贴近。",
+    "topics/company-agent-harness.md": "文中提到团队共享与公司级协作场景，对应公司级 Agent Harness 话题。",
+    "topics/loose-web-agent-harness-plugins.md": "文中明确提及 DeepSeek Harness 插件更新，与 Harness 插件话题相关。",
+    "topics/personal-agent-share-and-interbot-chat.md": "文章核心是局域网内对外分享与协作，与个人 Agent 分享话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/baoyu-design-lan-team-sharing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/company-agent-harness.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/personal-agent-share-and-interbot-chat.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "文章主体是设计工具 baoyu-design，与该话题的设计↔代码工具语境最贴近。",
+      "topics/company-agent-harness.md": "文中提到团队共享与公司级协作场景，对应公司级 Agent Harness 话题。",
+      "topics/loose-web-agent-harness-plugins.md": "文中明确提及 DeepSeek Harness 插件更新，与 Harness 插件话题相关。",
+      "topics/personal-agent-share-and-interbot-chat.md": "文章核心是局域网内对外分享与协作，与个人 Agent 分享话题相关。"
+    },
+    "notes": "来源仅为 @dotey 的单条 X 帖文及其引用的前一条帖文，未独立核实功能细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/baoyu-design-lan-team-sharing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

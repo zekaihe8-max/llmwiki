@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "Jules 的“下达任务后合上电脑即可自主运行”属于智能体自动模式，与 Antigravity 能否继承该能力直接相关。",
+    "topics/agentic-ai-foundation.md": "涉及 AI 编程 Agent 的产品生命周期与基础能力迁移，属于智能体基础范畴。",
+    "topics/software-factory.md": "Jules 定位为 AI 编程 Agent，与软件工厂/自动化编程主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Jules 的“下达任务后合上电脑即可自主运行”属于智能体自动模式，与 Antigravity 能否继承该能力直接相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 编程 Agent 的产品生命周期与基础能力迁移，属于智能体基础范畴。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Jules 定位为 AI 编程 Agent，与软件工厂/自动化编程主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，其中关于产品关停与能力整合的主张均未独立核实。"
+}

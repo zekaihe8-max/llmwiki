@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/ai-assisted-local-businesses.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "帖文核心是安装与使用美团 Skill，属于 Agent Skill 开放标准与生态接入范畴。",
+    "topics/agent-skill-authoring.md": "涉及将第三方 Skill 地址发给 Grok Bot 进行自行安装，与 Skill 编写与部署相关。",
+    "topics/grok-bot-x-api-substitute.md": "主体为 Grok Bot，与该话题中 Grok Bot 的能力与生态互派直接相关。",
+    "topics/ai-assisted-local-businesses.md": "测试对象为蜜雪冰城等本地商户，涉及 AI 代下本地生活服务订单。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文核心是安装与使用美团 Skill，属于 Agent Skill 开放标准与生态接入范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及将第三方 Skill 地址发给 Grok Bot 进行自行安装，与 Skill 编写与部署相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "主体为 Grok Bot，与该话题中 Grok Bot 的能力与生态互派直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "测试对象为蜜雪冰城等本地商户，涉及 AI 代下本地生活服务订单。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文，未引入外部事实；未核实主张已用「帖文称」标注。"
+}

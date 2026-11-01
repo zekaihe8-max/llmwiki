@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:17:28.452Z",
+  "url": "https://x.com/xiaomovps/status/2116848967850041838",
+  "slug": "0d433dceb5501040",
+  "content_hash": "c685dc610f012960a9dbd164d425fa5745b1c478592804dcc84aabc45f44a05a",
+  "source": {
+    "path": "sources/articles/five-automatic-trigger-methods-for-grok-bot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/agent-in-inbox.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "自动触发属于智能体自动模式范畴，与文章核心主题一致。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "邮件自动触发对应 Agent 进收件箱场景，与第一条触发方式相近。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与本文主题高度相关，可复用。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 的使用边界与能力，与触发方式说明互补。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与本文主题高度相关，可复用。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 的使用边界与能力，与触发方式说明互补。",
+    "topics/agent-in-inbox.md": "邮件自动触发对应 Agent 进收件箱场景，与第一条触发方式相近。",
+    "topics/agent-auto-mode.md": "自动触发属于智能体自动模式范畴，与文章核心主题一致。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/five-automatic-trigger-methods-for-grok-bot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/agent-in-inbox.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与本文主题高度相关，可复用。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 的使用边界与能力，与触发方式说明互补。",
+      "topics/agent-in-inbox.md": "邮件自动触发对应 Agent 进收件箱场景，与第一条触发方式相近。",
+      "topics/agent-auto-mode.md": "自动触发属于智能体自动模式范畴，与文章核心主题一致。"
+    },
+    "notes": "来源为 X 帖文，未独立核实具体功能细节，所有主张均基于帖文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/five-automatic-trigger-methods-for-grok-bot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

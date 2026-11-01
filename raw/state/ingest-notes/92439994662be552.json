@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文聚焦第三方官方 Skill 与 MCP 接入，与 Agent Skill 编写主题相关",
+    "topics/agent-skills-open-standard.md": "涉及多家厂商开放 MCP/Skill 标准，与 Agent Skills 开放标准相关",
+    "topics/grok-bot-x-api-substitute.md": "帖文主体为 Grok Bot 接入国内生态，与 Grok Bot 主题相关",
+    "topics/skills-stack-native-app-recreation.md": "通过 Skill 组合实现生活服务原生体验，与 Skills 组合复刻原生感 App 相关"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦第三方官方 Skill 与 MCP 接入，与 Agent Skill 编写主题相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及多家厂商开放 MCP/Skill 标准，与 Agent Skills 开放标准相关"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文主体为 Grok Bot 接入国内生态，与 Grok Bot 主题相关"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "通过 Skill 组合实现生活服务原生体验，与 Skills 组合复刻原生感 App 相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

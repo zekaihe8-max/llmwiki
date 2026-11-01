@@ -1,0 +1,23 @@
+{
+  "slug": "b65123122fe5d61a",
+  "url": "https://x.com/cgnot996/status/2116746472016466031",
+  "title": "Grok Bot 老订阅额度异常",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "b65123122fe5d61a5684c194ddd6cc9ddaf5a96477cb2dfd63c527da7ebb2670",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:22.479Z",
+  "content_hash": "31caa89931a6fa8d84e3c4c1b9397ed739265f5c662322381f8487d75514bac3",
+  "article_path": "articles/b65123122fe5d61a.md",
+  "fetched_url": "https://x.com/cgnot996/status/2116746472016466031",
+  "source_path": "sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:09:26.571Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

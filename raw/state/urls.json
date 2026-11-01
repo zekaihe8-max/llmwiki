@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-10-31T11:57:17.430Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -2733,5 +2733,357 @@
     "last_seen": "2026-10-31T11:57:17.430Z",
     "digest": "2026-10-31-cn-x.md",
     "title": "又试用 Raft"
+  },
+  "https://x.com/shao__meng/status/2116541149443698968": {
+    "hash": "59d30c88ddb425b90ec73ac463ff5edca408f912758c75df1aad539a9d8e6b0d",
+    "slug": "59d30c88ddb425b9",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "DeepSeek Super-agent 架构"
+  },
+  "https://x.com/shao__meng/status/2116712070385185271": {
+    "hash": "b61f6c7fc70583d061fba916c5729027b01434067e520ed8bcdcb793ed7a9568",
+    "slug": "b61f6c7fc70583d0",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Chase 谈主动常驻智能体"
+  },
+  "https://x.com/shao__meng/status/2116778454200865097": {
+    "hash": "0c996dd4ab61649459ab79ac25ecc8a79e0c897ff360625a83107e0af9d9ad18",
+    "slug": "0c996dd4ab616494",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Karpathy 的 HackerTube"
+  },
+  "https://x.com/shao__meng/status/2116807132469235878": {
+    "hash": "f595f8051cb9f48c5d294f39103cdc63360feb56929a2e5b561606041793be3b",
+    "slug": "f595f8051cb9f48c",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "10 月 Codex 增速最快 Skills"
+  },
+  "https://x.com/yetone/status/2116525328390823955": {
+    "hash": "83484de1fd359a150a374040c48061a8975ad6a03df578e218e4a39312e79941",
+    "slug": "83484de1fd359a15",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Magpie 改用 Claude Code TUI"
+  },
+  "https://x.com/yetone/status/2116599592930488707": {
+    "hash": "fa5bce00423b8cd539f775f966c0b33c675d9c606f13d3bd67c20091c9f779ae",
+    "slug": "fa5bce00423b8cd5",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Alma Relay Server 开源"
+  },
+  "https://x.com/yetone/status/2116828120473096317": {
+    "hash": "30ccd17b77420bce84c77d06e42a31aa067f0f23bf1d5b651ea311cac959ef50",
+    "slug": "30ccd17b77420bce",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "对 Grok Bot 的判断"
+  },
+  "https://x.com/xiaomovps/status/2116806492179608039": {
+    "hash": "02c250f8ec24a933324dd4491bfc6b3cf4d102b2feaba75ef9c7cfa975b4c434",
+    "slug": "02c250f8ec24a933",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "读 Super-agent"
+  },
+  "https://x.com/xiaomovps/status/2116829727683940672": {
+    "hash": "cd302a925373b5158684d0487e27861c1f8bd37af186642087e1abd8ff356a07",
+    "slug": "cd302a925373b515",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Hermes Mobile Beta"
+  },
+  "https://x.com/xiaomovps/status/2116789958912733574": {
+    "hash": "4a200456a21815e947200a252ecaa9ff7466a12be9c7307486196b9dd915950a",
+    "slug": "4a200456a21815e9",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Grok Bot 管飞书"
+  },
+  "https://x.com/xiaomovps/status/2116690552188260496": {
+    "hash": "92439994662be55230461cca2001488d7a338a253896a6aef38f7297abc052d4",
+    "slug": "92439994662be552",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "国内 MCP/Skill 与美团实测"
+  },
+  "https://x.com/xiaomovps/status/2116738186168991921": {
+    "hash": "4cabfdb20db9e1bcc67fa86008cc2196e6319967e5cfe3e690c4404728450e81",
+    "slug": "4cabfdb20db9e1bc",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "美团"
+  },
+  "https://x.com/dotey/status/2116623097839149231": {
+    "hash": "dbdeb82d7278fed0c3aa090b7307f84ea0fe0ecf6eae67502d0afd305d037920",
+    "slug": "dbdeb82d7278fed0",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "baoyu-design 局域网团队共享"
+  },
+  "https://x.com/dotey/status/2116605149904781536": {
+    "hash": "6180e53beaab46913b932541479377a6684f69b7a0685b3cb3b24850c9416b10",
+    "slug": "6180e53beaab4691",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Grok Bot 可共享"
+  },
+  "https://x.com/op7418/status/2116711094622593292": {
+    "hash": "73b872041f03eb113f073e9fa24fe44c4d1dfe27cd638126638089075c395562",
+    "slug": "73b872041f03eb11",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Stageshow 设计 Skill"
+  },
+  "https://x.com/op7418/status/2116546563053178884": {
+    "hash": "4c67816505e9ba57810d363c2eb38cbc6cc47e6d1786dfdcc20a001d0ba984f7",
+    "slug": "4c67816505e9ba57",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "更爱刷 Threads"
+  },
+  "https://x.com/oran_ge/status/2116690225481334863": {
+    "hash": "a280001a7f6c8dca3aba0fcd5a2531c55a36397b8bd60ef127b282685fd8565d",
+    "slug": "a280001a7f6c8dca",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "「互联网已死」"
+  },
+  "https://x.com/oran_ge/status/2116834306912100423": {
+    "hash": "df78bf2bb1a99dc7c86c02007dd766425c575d48bb748c4fb94d4c9c9c4d938b",
+    "slug": "df78bf2bb1a99dc7",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Grok Bot 官方认证播客"
+  },
+  "https://x.com/heydengai/status/2116838660196945952": {
+    "hash": "b00d455810422be925d2110b38503e1b8f60517eb413f010623f9b6009b85ce5",
+    "slug": "b00d455810422be9",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Jules 并入 Antigravity"
+  },
+  "https://x.com/heydengai/status/2116854011286667527": {
+    "hash": "7583a7df78793f6a7c441cea1630cfa8edde491695c17e607504f4e022917a38",
+    "slug": "7583a7df78793f6a",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "ChatGPT 与 Codex 额度合并"
+  },
+  "https://x.com/heydengai/status/2116859044774527159": {
+    "hash": "f071f91016bef987c88894ffbd1a009b18581056dba0f599703fa308d0cb56e9",
+    "slug": "f071f91016bef987",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "电量焦虑"
+  },
+  "https://x.com/heydengai/status/2116796865433985385": {
+    "hash": "680bedae6c40887dfa50bea888fd8650cf02a7634aa2fcafa34f7f69d46b5429",
+    "slug": "680bedae6c40887d",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Super-agent 长文拆 Router/Worker"
+  },
+  "https://x.com/cgnot996/status/2116746472016466031": {
+    "hash": "b65123122fe5d61a5684c194ddd6cc9ddaf5a96477cb2dfd63c527da7ebb2670",
+    "slug": "b65123122fe5d61a",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Grok Bot 老订阅额度异常"
+  },
+  "https://x.com/cgnot996/status/2116760239655821776": {
+    "hash": "6a04358f4f3ae85fd6239b84bc5467af31575849b7522b445c18a74c8df947c1",
+    "slug": "6a04358f4f3ae85f",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "对照"
+  },
+  "https://x.com/cgnot996/status/2116838749153976728": {
+    "hash": "f5982c49808d4d8cc96e79d7c1e71739590308b24745f5e863a0017e263d863d",
+    "slug": "f5982c49808d4d8c",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "WhatsToken 配 DSH"
+  },
+  "https://x.com/cgnot996/status/2116748314859520112": {
+    "hash": "e381b431c2a4b9e55dd88f983637cd261fcc6cf0fde736cfbba448339f8390b2",
+    "slug": "e381b431c2a4b9e5",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Bot 邮箱注册踩坑"
+  },
+  "https://x.com/0xlangeai/status/2116795092015186145": {
+    "hash": "e5350694bcf5005e6c95936d0a19aecab8072839b94464e67903fee3d29ebba7",
+    "slug": "e5350694bcf5005e",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "老订阅额度猛涨"
+  },
+  "https://x.com/0xlangeai/status/2116848448775622866": {
+    "hash": "103297a8719df6649754522ff22d6b4fd1322ed26871a1bc340774951fd82c5c",
+    "slug": "103297a8719df664",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "飞书驱动无人值守工作流"
+  },
+  "https://x.com/0xlangeai/status/2116761352996073589": {
+    "hash": "5ae1f07594786c5217c48e27317cbb318928ee4deaf9689b31dfaffefbfbdbf2",
+    "slug": "5ae1f07594786c52",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "多 Gmail 管理"
+  },
+  "https://x.com/fkysly/status/2116735959224234397": {
+    "hash": "55e2240b8daae401293bbe53ead18c0b30f9562b9afb8c6baf83538b6a39e4ec",
+    "slug": "55e2240b8daae401",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "封禁 Claude Ultra 号解封"
+  },
+  "https://x.com/0xLogicrw/status/2116853107724533805": {
+    "hash": "0a1301f0511ab40559d6e4188e06f5306792b1f2bacc767ab60f78a68eb96017",
+    "slug": "0a1301f0511ab405",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "「帝国 CEO」时代"
+  },
+  "https://x.com/0xLogicrw/status/2116741308031316100": {
+    "hash": "f2275861d792e59f55d98cca90890b45fa51dd5c6ffad2b4c643743ae661b6ed",
+    "slug": "f2275861d792e59f",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Colossus 2 与水印"
+  },
+  "https://x.com/0xLogicrw/status/2116739860127944730": {
+    "hash": "1903dfb88c21e739490d4e4ac687a28d9992f7e4e79dbc7198bea06273cba98b",
+    "slug": "1903dfb88c21e739",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "水印"
+  },
+  "https://x.com/Gorden_Sun/status/2116856981185278258": {
+    "hash": "a259fa4ddc914acb389b197e6c3329edea415a0a8b2f5bee8937b6c3029787e2",
+    "slug": "a259fa4ddc914acb",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Aura Autopilot"
+  },
+  "https://x.com/Gorden_Sun/status/2116770003781587395": {
+    "hash": "00e5f5a4325ff1cc2345944d31f3d16f9d4680d73a3a994c1232ccd3ce5ffc16",
+    "slug": "00e5f5a4325ff1cc",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Filee 本地格式转换"
+  },
+  "https://x.com/vista8/status/2116507479836385615": {
+    "hash": "9811c965f4fdd3f6c8fe7b52ed019c6dfcf5e83ab6e9980e7baf80f3106414bd",
+    "slug": "9811c965f4fdd3f6",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "WorkBuddy 三大场景传闻"
+  },
+  "https://x.com/vista8/status/2116587103475916862": {
+    "hash": "6bcad735f17ec9ff1b124e4bb8f3d27070d00f7bfb4c63806bcf015acb179507",
+    "slug": "6bcad735f17ec9ff",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "广州 AI 博主闭门会"
+  },
+  "https://x.com/dingyi/status/2116838436388970990": {
+    "hash": "e3b68e0d94f2a169b58244c49b7a3a89d973a3d8fae012df311221232fb79255",
+    "slug": "e3b68e0d94f2a169",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "评论区四类人"
+  },
+  "https://x.com/dingyi/status/2116839963841175893": {
+    "hash": "b62218080e2a8e248795b327b41496be08517e769033fb0af3f080d205908197",
+    "slug": "b62218080e2a8e24",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "插件"
+  },
+  "https://x.com/FinanceYF5/status/2116745468814483552": {
+    "hash": "a5583dd4291f30ae6f4cd59f48853e966a5a42bab40eb6c8c172d26319456e98",
+    "slug": "a5583dd4291f30ae",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Rack Spread"
+  },
+  "https://x.com/FinanceYF5/status/2116744454401077604": {
+    "hash": "ac0db99da7996536715e1c4f351eacd131934a3975156d97fbe8a3756e3d8e7a",
+    "slug": "ac0db99da7996536",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Agent 支付生态地图"
+  },
+  "https://x.com/heydengai/status/2116824852304953788": {
+    "hash": "9b13b9300dde54e64f9e5b9e7e519e93d1a836c284a10676dab91039660908c0",
+    "slug": "9b13b9300dde54e6",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "jev-router"
+  },
+  "https://x.com/cgnot996/status/2116839220031697243": {
+    "hash": "c5bb2606115fe273203fd039db23e0f6049e99b28dd915879547830b57b1bcd2",
+    "slug": "c5bb2606115fe273",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "FlClash"
+  },
+  "https://x.com/xiaomovps/status/2116848967850041838": {
+    "hash": "0d433dceb5501040938621d3f3589f1e95b7195893ca4db39af93ecd802b9957",
+    "slug": "0d433dceb5501040",
+    "first_seen": "2026-11-01T12:00:09.635Z",
+    "last_seen": "2026-11-01T12:00:09.635Z",
+    "digest": "2026-11-01-cn-x.md",
+    "title": "Grok Bot 五类触发"
   }
 }

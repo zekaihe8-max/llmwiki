@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "WhatsToken 作为 DeepSeek 模型聚合/转售渠道，与该主题关于自营推理与聚合平台对比直接相关。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文明确提到在 DeepSeek Harness 上配置使用，属于 Harness 选型与使用场景。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及在不同模型渠道（WhatsToken vs 官方）之间的取舍与成本权衡。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文强调 token 成本更低、夜间免费，属于编程 Agent 的 Token 开销与节省工具讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "WhatsToken 作为 DeepSeek 模型聚合/转售渠道，与该主题关于自营推理与聚合平台对比直接相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到在 DeepSeek Harness 上配置使用，属于 Harness 选型与使用场景。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及在不同模型渠道（WhatsToken vs 官方）之间的取舍与成本权衡。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文强调 token 成本更低、夜间免费，属于编程 Agent 的 Token 开销与节省工具讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文与 WhatsTokenAI 引用帖，未引入外部事实；邀请链接已缩写，未展开完整 URL。"
+}

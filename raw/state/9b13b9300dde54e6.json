@@ -1,0 +1,23 @@
+{
+  "slug": "9b13b9300dde54e6",
+  "url": "https://x.com/heydengai/status/2116824852304953788",
+  "title": "jev-router",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "9b13b9300dde54e64f9e5b9e7e519e93d1a836c284a10676dab91039660908c0",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:33.937Z",
+  "content_hash": "dc4291ccc906339f9a9b36bc3edd2de0a5afc9992a1283baffa3e01880a01821",
+  "article_path": "articles/9b13b9300dde54e6.md",
+  "fetched_url": "https://x.com/heydengai/status/2116824852304953788",
+  "source_path": "sources/articles/jev-router-automatically-route-claude-code-models-by-task-comple.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:16:54.731Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

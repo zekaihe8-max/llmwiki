@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:16:19.830Z",
+  "url": "https://x.com/FinanceYF5/status/2116745468814483552",
+  "slug": "a5583dd4291f30ae",
+  "content_hash": "f5708af546fe4be75effd9653e88fc6bcd2a9ebaac0f7960e4eae51b504343b3",
+  "source": {
+    "path": "sources/articles/rack-spread-token-prices-fall-as-gpu-rental-prices-rise.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "高端算力供应紧张与智能体算力基建主题相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 GPU 租赁价格与算力，与消费级 GPU AI 算力主题相近。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中涉及推理成本与 Token 价格变动，与推理成本效率主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章聚焦 GPU 租赁价格与算力，与消费级 GPU AI 算力主题相近。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中涉及推理成本与 Token 价格变动，与推理成本效率主题相关。",
+    "topics/agent-compute-and-governance.md": "高端算力供应紧张与智能体算力基建主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rack-spread-token-prices-fall-as-gpu-rental-prices-rise.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "文章聚焦 GPU 租赁价格与算力，与消费级 GPU AI 算力主题相近。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中涉及推理成本与 Token 价格变动，与推理成本效率主题相关。",
+      "topics/agent-compute-and-governance.md": "高端算力供应紧张与智能体算力基建主题相关。"
+    },
+    "notes": "发帖时间显示为 2026 年 11 月 1 日，均按原文引用，未自行核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rack-spread-token-prices-fall-as-gpu-rental-prices-rise.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:03:13.727Z",
+  "url": "https://x.com/yetone/status/2116828120473096317",
+  "slug": "30ccd17b77420bce",
+  "content_hash": "d4fadd23e0a877217785de2637297a2baf00f14a11354e926a7df664362591f3",
+  "source": {
+    "path": "sources/articles/judgment-on-grok-bot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文对 Grok Bot 模型质量表达担忧，涉及面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提及通过 Grok Bot 调度 Claude Code 与 Codex，属个人 Agent 调度编程 Agent 场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与帖文主题高度相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "直接涉及 Grok Bot，与帖文主题高度相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文提及通过 Grok Bot 调度 Claude Code 与 Codex，属个人 Agent 调度编程 Agent 场景。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文对 Grok Bot 模型质量表达担忧，涉及面向 Agent 的模型渠道取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/judgment-on-grok-bot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与帖文主题高度相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "直接涉及 Grok Bot，与帖文主题高度相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文提及通过 Grok Bot 调度 Claude Code 与 Codex，属个人 Agent 调度编程 Agent 场景。",
+      "topics/agent-model-channel-tradeoffs.md": "帖文对 Grok Bot 模型质量表达担忧，涉及面向 Agent 的模型渠道取舍。"
+    },
+    "notes": "所有主题均复用现有条目，未新增。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/judgment-on-grok-bot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

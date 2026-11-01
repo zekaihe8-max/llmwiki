@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:09:58.569Z",
+  "url": "https://x.com/cgnot996/status/2116760239655821776",
+  "slug": "6a04358f4f3ae85f",
+  "content_hash": "89732afcf17e33bc5470aa84dbd85e868bf013944751e071fa83e20d99245fe4",
+  "source": {
+    "path": "sources/articles/contrast-old-subscription-quota-halved-while-new-unified-subscri.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/usage-limit-ab-tests.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及订阅风控与额度变动，可复用该主题的订阅风控语境。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文关注额度显示与用户体验，与编程 Agent 体验与额度主题相近。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文中引用的前一条帖文涉及 Grok Bot 额度统计，与该主题相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文章核心是旧订阅额度被砍半与用量上限异常，与用量上限 A/B 测试主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/usage-limit-ab-tests.md": "文章核心是旧订阅额度被砍半与用量上限异常，与用量上限 A/B 测试主题直接相关。",
+    "topics/claude-subscription-risk-control-weights.md": "涉及订阅风控与额度变动，可复用该主题的订阅风控语境。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文关注额度显示与用户体验，与编程 Agent 体验与额度主题相近。",
+    "topics/grok-bot-x-api-substitute.md": "文中引用的前一条帖文涉及 Grok Bot 额度统计，与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/contrast-old-subscription-quota-halved-while-new-unified-subscri.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/usage-limit-ab-tests.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/grok-bot-x-api-substitute.md"
+    ],
+    "selection_reasons": {
+      "topics/usage-limit-ab-tests.md": "文章核心是旧订阅额度被砍半与用量上限异常，与用量上限 A/B 测试主题直接相关。",
+      "topics/claude-subscription-risk-control-weights.md": "涉及订阅风控与额度变动，可复用该主题的订阅风控语境。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文关注额度显示与用户体验，与编程 Agent 体验与额度主题相近。",
+      "topics/grok-bot-x-api-substitute.md": "文中引用的前一条帖文涉及 Grok Bot 额度统计，与该主题相关。"
+    },
+    "notes": "所有主张均引用帖文表述，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/contrast-old-subscription-quota-halved-while-new-unified-subscri.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

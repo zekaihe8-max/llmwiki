@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:06:03.805Z",
+  "url": "https://x.com/dotey/status/2116605149904781536",
+  "slug": "6180e53beaab4691",
+  "content_hash": "e205555eb830cf8216a2ec372c37fc149c99762ff8baf99265d2564469af9df1",
+  "source": {
+    "path": "sources/articles/grok-bot-can-be-shared.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/grok-bot-x-intel-defense-not-post.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "属于 Grok Bot 社区互派与分享语境，与帖文主题相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 与 Agent 的使用场景，最贴近帖文主体。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 在 X 平台上的定位，供主题对照参考。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "直接对应“Grok bot 可共享”及机器人对外分享与互聊主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-share-and-interbot-chat.md": "直接对应“Grok bot 可共享”及机器人对外分享与互聊主题。",
+    "topics/grok-bot-x-api-substitute.md": "涉及 Grok Bot 与 Agent 的使用场景，最贴近帖文主体。",
+    "topics/dsh-grok-cross-dispatch.md": "属于 Grok Bot 社区互派与分享语境，与帖文主题相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 平台上的定位，供主题对照参考。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-can-be-shared.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/grok-bot-x-intel-defense-not-post.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-share-and-interbot-chat.md": "直接对应“Grok bot 可共享”及机器人对外分享与互聊主题。",
+      "topics/grok-bot-x-api-substitute.md": "涉及 Grok Bot 与 Agent 的使用场景，最贴近帖文主体。",
+      "topics/dsh-grok-cross-dispatch.md": "属于 Grok Bot 社区互派与分享语境，与帖文主题相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 平台上的定位，供主题对照参考。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文 markdown，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-can-be-shared.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

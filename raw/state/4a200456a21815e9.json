@@ -1,0 +1,23 @@
+{
+  "slug": "4a200456a21815e9",
+  "url": "https://x.com/xiaomovps/status/2116789958912733574",
+  "title": "Grok Bot 管飞书",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "4a200456a21815e947200a252ecaa9ff7466a12be9c7307486196b9dd915950a",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:16.001Z",
+  "content_hash": "54d41114463e4ed8584db4c02961d35443a114d38e64521b82c6baae9ab7af05",
+  "article_path": "articles/4a200456a21815e9.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2116789958912733574",
+  "source_path": "sources/articles/grok-bot-manages-feishu-migrating-from-hermes-agent-to-direct-do.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:04:16.797Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

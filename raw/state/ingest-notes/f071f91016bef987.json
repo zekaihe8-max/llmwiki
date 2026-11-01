@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "直接对应编程 Agent 与额度/用量体验，与帖文“额度查询”“电量焦虑”主题高度相关",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与限制机制，与额度焦虑相邻",
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与额度付费焦虑相关"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "直接对应编程 Agent 与额度/用量体验，与帖文“额度查询”“电量焦虑”主题高度相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与限制机制，与额度焦虑相邻"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，与额度付费焦虑相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于 X 帖文内容，未引入外部事实；未创建新话题。"
+}

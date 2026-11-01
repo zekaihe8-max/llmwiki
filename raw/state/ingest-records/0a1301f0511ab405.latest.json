@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:12:44.116Z",
+  "url": "https://x.com/0xLogicrw/status/2116853107724533805",
+  "slug": "0a1301f0511ab405",
+  "content_hash": "51ca4879a280320f9731e9d314761024d8f50da6104abe8338f8f7d2917a4bd8",
+  "source": {
+    "path": "sources/articles/empire-ceo-era-zuckerberg-musk-and-anthropic-s-founder-kingdoms.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Anthropic 由创始人与信托共同把持治理，涉及公司治理与权力制约问题。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "文中「帝国 CEO」集中决策权、不受股东直接约束，涉及高管管控跨度与治理结构。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论的 Meta、SpaceX、Anthropic 均为以 AI/前沿技术为核心的科技巨头，与 AI 原生公司主题相关。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "文末提出科技巨头决策影响广泛，谁来约束「帝国 CEO」成为公共关切，与技术滥用关切的连续性相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章讨论的 Meta、SpaceX、Anthropic 均为以 AI/前沿技术为核心的科技巨头，与 AI 原生公司主题相关。",
+    "topics/ai-management-span-of-control.md": "文中「帝国 CEO」集中决策权、不受股东直接约束，涉及高管管控跨度与治理结构。",
+    "topics/agent-compute-and-governance.md": "Anthropic 由创始人与信托共同把持治理，涉及公司治理与权力制约问题。",
+    "topics/tech-misuse-concern-continuity.md": "文末提出科技巨头决策影响广泛，谁来约束「帝国 CEO」成为公共关切，与技术滥用关切的连续性相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/empire-ceo-era-zuckerberg-musk-and-anthropic-s-founder-kingdoms.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ai-management-span-of-control.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章讨论的 Meta、SpaceX、Anthropic 均为以 AI/前沿技术为核心的科技巨头，与 AI 原生公司主题相关。",
+      "topics/ai-management-span-of-control.md": "文中「帝国 CEO」集中决策权、不受股东直接约束，涉及高管管控跨度与治理结构。",
+      "topics/agent-compute-and-governance.md": "Anthropic 由创始人与信托共同把持治理，涉及公司治理与权力制约问题。",
+      "topics/tech-misuse-concern-continuity.md": "文末提出科技巨头决策影响广泛，谁来约束「帝国 CEO」成为公共关切，与技术滥用关切的连续性相关。"
+    },
+    "notes": "来源为 X 用户 0xLogicrw 对《华尔街日报》文章的转述，未独立核实 WSJ 原文细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/empire-ceo-era-zuckerberg-musk-and-anthropic-s-founder-kingdoms.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

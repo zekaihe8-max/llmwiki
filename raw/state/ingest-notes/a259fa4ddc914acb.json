@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文明确将 Autopilot 称为游戏领域的 Computer Use，与该主题直接相关",
+    "topics/agent-auto-mode.md": "Autopilot 属于无需人工逐步操作的智能体自动模式，可复用该主题",
+    "topics/vibe-gaming-model-inflection.md": "内容涉及 AI 驱动的游戏测试与游戏体验，与 Vibe Gaming 主题相近",
+    "topics/agentic-ai-foundation.md": "Autopilot 是面向游戏的自主智能体，与 Agentic AI 基础主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文明确将 Autopilot 称为游戏领域的 Computer Use，与该主题直接相关"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Autopilot 属于无需人工逐步操作的智能体自动模式，可复用该主题"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 驱动的游戏测试与游戏体验，与 Vibe Gaming 主题相近"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Autopilot 是面向游戏的自主智能体，与 Agentic AI 基础主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

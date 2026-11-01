@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "文章核心是按任务复杂度自动跨模型路由，与云平台 Auto 跨模型编排主题直接相关。",
+    "topics/coding-agent-token-saving-tooling.md": "jev-router 定位为 Claude Code 省钱工具，涉及编程 Agent 的 Token/成本节约。",
+    "topics/agent-model-channel-tradeoffs.md": "方案在 Haiku、Sonnet、Opus 之间做模型渠道取舍，属于面向 Agent 的模型渠道权衡。"
+  },
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章核心是按任务复杂度自动跨模型路由，与云平台 Auto 跨模型编排主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "jev-router 定位为 Claude Code 省钱工具，涉及编程 Agent 的 Token/成本节约。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "方案在 Haiku、Sonnet、Opus 之间做模型渠道取舍，属于面向 Agent 的模型渠道权衡。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未独立核实实测数据。"
+}

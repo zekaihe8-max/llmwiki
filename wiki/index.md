@@ -26,6 +26,94 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [Grok Bot 五类自动触发方式 / Five Automatic Trigger Methods for Grok Bot](./sources/articles/five-automatic-trigger-methods-for-grok-bot.md) — 帖文介绍了通过邮件、GitHub、Slack、Linear/Sentry 及 Webhook 五种方式自动触发 Grok Bot 执行任务。 / The post introduces five ways to automatically trigger Grok Bot: Email, GitHub, Slack, Linear/Sentry, and Webhook.
+
+- [FlClash 界面改版获用户称赞 / FlClash Interface Redesign Praised by User](./sources/articles/flclash-interface-redesign-praised-by-user.md) — 用户在 X 上发帖称赞 FlClash 更新后界面更好看，但指出配置位置有所变动 / User posts on X praising FlClash's updated interface as better-looking, while noting configuration positions have changed
+
+- [jev-router：Claude Code 按任务复杂度自动路由模型以节省成本 / jev-router: Automatically route Claude Code models by task complexity to save costs](./sources/articles/jev-router-automatically-route-claude-code-models-by-task-comple.md) — jev-router 通过轻量模型判断任务复杂度，自动在 Haiku、Sonnet、Opus 之间路由，以降低 Claude Code 使用成本。 / jev-router uses a lightweight model to assess task complexity and automatically routes among Haiku, Sonnet, and Opus to lower Claude Code usage costs.
+
+- [Agent 支付生态地图 / AI Agent Payment Ecosystem Map](./sources/articles/ai-agent-payment-ecosystem-map.md) — 一条 X 帖文称有人整理了 AI Agent 支付生态地图并附带一张图片 / An X post says someone has compiled an AI Agent payment ecosystem map with an attached image
+
+- [Rack Spread：Token 价格下跌与 GPU 租赁价格上涨 / Rack Spread: Token Prices Fall as GPU Rental Prices Rise](./sources/articles/rack-spread-token-prices-fall-as-gpu-rental-prices-rise.md) — Token 价格持续下降而 GPU 租赁价格上涨，形成“Rack Spread”。 / Token prices keep falling while GPU rental prices rise, forming a “Rack Spread”.
+
+- [X 关系观察者 Chrome 插件可实时显示取关用户 / X Relationship Observer Chrome Plugin Shows Unfollowers in Real Time](./sources/articles/x-relationship-observer-chrome-plugin-shows-unfollowers-in-real.md) — Ding 在 X 上推荐 Chrome 插件「Not Brother — X Relationship Observer」，称其可实时查看谁取关了你并私下保存观察历史。 / Ding recommends the Chrome plugin “Not Brother — X Relationship Observer” on X, saying it can show in real time who unfollowed you and privately keep an observation history.
+
+- [评论区四类人 / Four Types in the Comment Section](./sources/articles/four-types-in-the-comment-section.md) — 帖文称随机打开一条 X 帖子，评论区出现普通人、无交集者、AI 回复和屏蔽发布者的海外反动派四类身份。 / The post claims that opening a random X post reveals four comment-section identities: a normal person, someone with no connection, an AI reply, and an overseas reactionary who blocked the poster.
+
+- [广州 AI 博主闭门会 / Guangzhou AI Blogger Closed-Door Meetup](./sources/articles/guangzhou-ai-blogger-closed-door-meetup.md) — 向阳乔木在广州参加企业微信和知识星球组织的 AI 博主闭门交流会，并提及万圣节夜生活。 / Xiangyang Yangmu attended a WeChat Work and Knowledge Planet organized AI blogger closed-door meetup in Guangzhou, mentioning Halloween nightlife.
+
+- [WorkBuddy 三大场景传闻 / Rumored Three Major WorkBuddy Usage Scenarios](./sources/articles/rumored-three-major-workbuddy-usage-scenarios.md) — 帖文称 WorkBuddy 主要用于炒股、大学生写论文和自媒体内容创作。 / The post claims WorkBuddy is mainly used for stock trading, college paper writing, and self-media content creation.
+
+- [Filee 本地格式转换 / Filee Local Format Conversion](./sources/articles/filee-local-format-conversion.md) — Filee 是一款拖拽式开源文件转换工具，全部转换在本地完成，无需联网或安装办公软件。 / Filee is a drag-and-drop open-source file conversion tool that performs all conversions locally without internet or office software installation.
+
+- [Aura Autopilot：AI 自动玩游戏与测试游戏 / Aura Autopilot: AI Auto-Play and Game Testing](./sources/articles/aura-autopilot-ai-auto-play-and-game-testing.md) — Aura 开源 Autopilot 插件，让 AI 在虚幻引擎、Unity 和 Godot 中自动玩游戏并生成 Bug 排查报告。 / Aura open-sources the Autopilot plugin, letting AI automatically play games in Unreal Engine, Unity, and Godot and generate bug-triage reports.
+
+- [xAI 为 Grok API 输出默认加隐形文字水印 / xAI Adds Invisible Text Watermarks to Grok API Outputs by Default](./sources/articles/xai-adds-invisible-text-watermarks-to-grok-api-outputs-by-defaul.md) — xAI 宣布从 11 月 7 日起为多款 Grok 模型 API 输出默认加入隐形文字水印，以响应欧盟 AI 法案透明度要求。 / xAI announces default invisible text watermarking for multiple Grok model API outputs from November 7 to meet EU AI Act transparency requirements.
+
+- [Colossus 2 与水印 / Colossus 2 and Watermarks](./sources/articles/colossus-2-and-watermarks.md) — 马斯克披露孟菲斯 Colossus 2 集群年底前将部署约 120 万块 Blackwell GPU，并新增 Gun Range、Spam 等设施。 / Musk disclosed that the Memphis Colossus 2 cluster will deploy about 1.2 million Blackwell GPUs by year-end, with new Gun Range and Spam facilities.
+
+- [「帝国 CEO」时代：扎克伯格、马斯克与 Anthropic 的创始人王国 / "Empire CEO" Era: Zuckerberg, Musk, and Anthropic's Founder Kingdoms](./sources/articles/empire-ceo-era-zuckerberg-musk-and-anthropic-s-founder-kingdoms.md) — WSJ 将 Meta、SpaceX 和 Anthropic 创始人比作古代君主，指出科技巨头正进入创始人意志主导的「帝国 CEO」时代。 / WSJ compares Meta, SpaceX, and Anthropic founders to ancient monarchs, noting tech giants are entering an "Empire CEO" era dominated by founder will.
+
+- [封禁的 Claude Ultra 账号意外解封 / Banned Claude Ultra Account Unexpectedly Unblocked](./sources/articles/banned-claude-ultra-account-unexpectedly-unblocked.md) — 帖文称此前被封禁的 Claude 200 美元账号收到移除 5 小时用量限制的邮件，经 Grok Bot 测试后发现账号已解封并恢复 Ultra 权限。 / The post claims a previously banned $200 Claude account received an email removing the 5-hour usage cap, and after testing with Grok Bot the account was found unblocked with Ultra access restored.
+
+- [多 Gmail 管理：用 Grok Bot 授权读取多个邮箱 / Multiple Gmail management: authorizing Grok Bot to read multiple mailboxes](./sources/articles/multiple-gmail-management-authorizing-grok-bot-to-read-multiple.md) — 通过 Google 邮箱连接器授权，让 Grok Bot 读取并管理多个 Gmail 邮箱内容。 / Authorize via the Google Mail connector to let Grok Bot read and manage multiple Gmail mailbox contents.
+
+- [飞书驱动无人值守工作流 / Feishu-Driven Unattended AI Relay Workflow](./sources/articles/feishu-driven-unattended-ai-relay-workflow.md) — 飞书发一句话，15 个 AI 接力跑完 14 小时无人值守任务，靠任务书与脚本保证交接。 / One Feishu message triggers 15 AI agents to run a 14-hour unattended relay, guaranteed by task books and scripts.
+
+- [Grok Bot 老订阅额度异常，用户怀疑被迫迁移新套餐 / Grok Bot legacy subscription quota anomaly, users suspect forced migration to new plans](./sources/articles/grok-bot-legacy-subscription-quota-anomaly-users-suspect-forced.md) — Grok Bot 老订阅用户反映额度异常，使用率从 21% 飙升至 67% 或被砍半，新套餐暂未受影响。 / Grok Bot legacy subscription users report quota anomalies, with usage spiking from 21% to 67% or quotas halved, while new plans remain unaffected.
+
+- [Grok Bot 自带邮箱注册账号的密码托管踩坑 / Grok Bot built-in email account registration password custody pitfall](./sources/articles/grok-bot-built-in-email-account-registration-password-custody-pi.md) — Grok Bot 自带邮箱或关联 Gmail 注册账号时，若不手动设置密码或先自行注册再托管，凭证将进入保险柜导致用户自身无法查看。 / When Grok Bot's built-in email or linked Gmail registers an account, failing to manually set a password or register first then hand over to the bot leaves credentials in a vault the user cannot view.
+
+- [WhatsToken 配 DSH：DeepSeek-V4.1-Flash-1017 夜间免费与低价渠道 / WhatsToken with DSH: DeepSeek-V4.1-Flash-1017 Night Free Access and Low-Cost Channel](./sources/articles/whatstoken-with-dsh-deepseek-v4-1-flash-1017-night-free-access-a.md) — 用户在 DeepSeek Harness 上配置 WhatsToken，使用夜间免费及低于官方价格的 DeepSeek-V4.1-Flash-1017 模型访问。 / User configures WhatsToken on DeepSeek Harness for night-time free access and below-official-price DeepSeek-V4.1-Flash-1017 access.
+
+- [旧订阅额度腰斩与新大一统订阅正常对照 / Contrast: Old subscription quota halved while new unified subscription stays normal](./sources/articles/contrast-old-subscription-quota-halved-while-new-unified-subscri.md) — X 用户 @cgnot996 称旧订阅套餐额度被砍半，新大一统订阅暂无异常，并引用此前关于 Grok Bot 额度统计跳变的帖文。 / X user @cgnot996 says the old subscription plan quota was halved, the new unified subscription shows no anomaly, and quotes an earlier post about Grok Bot quota statistics jumping around.
+
+- [Grok Bot 订阅额度异常波动 / Grok Bot subscription quota abnormal fluctuation](./sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md) — 用户称 Grok Bot 额度页面短时间内从 30% 多异常跳升至 81%，刷新后又回落至 40% 多。 / User says Grok Bot quota page abnormally jumped from over 30% to 81%, then dropped back to over 40% after refresh.
+
+- [DeepSeek Super-agent 架构拆解：Router/Worker 才是研究原型主菜 / DeepSeek Super-agent Architecture Deep Dive: Router/Worker Is the Main Course of the Research Prototype](./sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md) — DeepSeek 发布非正式产品、非新模型的研究原型，主打 Router 调度与 Worker 执行的双层架构。 / DeepSeek releases an unofficial product, non-new-model research prototype featuring a two-layer Router scheduling and Worker execution architecture.
+
+- [电量焦虑：Codex 最成功的功能是额度查询 / Quota Anxiety: Codex's Most Successful Feature Is Quota Checking](./sources/articles/quota-anxiety-codex-s-most-successful-feature-is-quota-checking.md) — 帖文称 Codex 最成功的功能是额度查询而非 AI 编程，已把程序员培养成“电量焦虑症”患者。 / The post claims Codex's most successful feature is quota checking rather than AI programming, turning programmers into “quota anxiety” patients.
+
+- [ChatGPT 与 Codex 额度合并：1+1 等于 2 还是 1？ / ChatGPT and Codex quota merger: does 1+1 equal 2 or 1?](./sources/articles/chatgpt-and-codex-quota-merger-does-1-1-equal-2-or-1.md) — 用户质疑 OpenAI 计划将 ChatGPT 与 Codex 额度合并，担心并非真正增加额度。 / A user questions OpenAI's plan to merge ChatGPT and Codex quotas, worrying it may not be a real quota increase.
+
+- [Jules 并入 Antigravity，Google 停止 AI 编程 Agent Jules / Google Shuts Down Jules AI Coding Agent, Merges Capabilities Into Antigravity](./sources/articles/google-shuts-down-jules-ai-coding-agent-merges-capabilities-into.md) — Google 宣布逐步关停 AI 编程 Agent Jules，将其异步远程执行能力整合进 Antigravity。 / Google announces gradual shutdown of AI coding agent Jules, integrating its asynchronous remote execution capabilities into Antigravity.
+
+- [Grok Bot 官方认证播客 / Grok Bot Officially Certified Podcast](./sources/articles/grok-bot-officially-certified-podcast.md) — 帖文称 Grok Bot 官方认证后推荐四个中文 AI 新闻账户，并提及三位 Next Token 播客主播 / The post claims that after official certification, Grok Bot recommends four Chinese AI news accounts and mentions three Next Token podcast hosts
+
+- [互联网已死：Reddit CEO 称 AI 不会带来流量 / The Internet Is Dead: Reddit CEO Says AI Brings No Traffic](./sources/articles/the-internet-is-dead-reddit-ceo-says-ai-brings-no-traffic.md) — Reddit CEO 称 AI 未为平台或他人带来流量，帖文宣称互联网已死。 / The Reddit CEO says AI has brought no traffic to the platform or anyone else; the post declares the internet is dead.
+
+- [更爱刷 Threads / Liking Threads More](./sources/articles/liking-threads-more.md) — 帖文称因无 AI 评论与明显 AI 生成内容，且交互体验更好，越来越喜欢刷 Threads。 / The post says the author increasingly prefers scrolling Threads because it has no AI comments or obvious AI-generated content and offers better interaction experience.
+
+- [Stageshow 设计 Skill / Stageshow Design Skill](./sources/articles/stageshow-design-skill.md) — 一个帮助 AI Agent 制作更优拟 UI 静图、动画与盒式网格的技能。 / A skill that helps AI agents create better faux UI stills, animations, and bento grids.
+
+- [Grok Bot 可共享 / Grok Bot Can Be Shared](./sources/articles/grok-bot-can-be-shared.md) — 宝玉转发 poteto 关于 Grok Bot 可共享及高质量机器人创建与团队管理指南的帖文。 / Bao Yu reposts poteto's post about Grok Bot shareability and a short guide to creating high-quality bots and managing teams.
+
+- [baoyu-design 局域网团队共享 / baoyu-design LAN team sharing](./sources/articles/baoyu-design-lan-team-sharing.md) — baoyu-design 新增局域网内设计稿与幻灯片共享，支持内部 IP 端口 URL、只读/评论/编辑权限及实时同步。 / baoyu-design adds LAN sharing for designs and slides via internal IP:port URLs, with read-only/comment/edit permissions and real-time sync.
+
+- [Grok Bot 接入美团 Skill，可通过跑腿代下外卖 / Grok Bot Connects to Meituan Skill, Can Place Food Delivery via Errand Running](./sources/articles/grok-bot-connects-to-meituan-skill-can-place-food-delivery-via-e.md) — 小墨同学演示 Grok Bot 安装美团 Skill 后，可通过美团跑腿代下蜜雪冰城订单，并指出国内服务正逐步开放 MCP 与 Skill。 / Xiaomovps demonstrates Grok Bot installing a Meituan Skill to place Mixue Bingcheng orders via Meituan errand running, noting that domestic services are gradually opening MCP and Skill access.
+
+- [国内 MCP/Skill 与美团实测 / Domestic MCP/Skill and Meituan Field Test](./sources/articles/domestic-mcp-skill-and-meituan-field-test.md) — Grok Bot 可接入瑞幸、美团、麦当劳、滴滴和高德等国内官方 MCP 与 Skill / Grok Bot can connect to domestic official MCP and Skill services from Luckin, Meituan, McDonald's, Didi, and Amap
+
+- [Grok Bot 管飞书：从 Hermes Agent 迁移后直接操作文档与日历 / Grok Bot Manages Feishu: Migrating from Hermes Agent to Direct Document and Calendar Operations](./sources/articles/grok-bot-manages-feishu-migrating-from-hermes-agent-to-direct-do.md) — 帖文称，安装飞书 CLI 并扫码授权后，Grok Bot 可直接创建文档、表格并管理日历与会议。 / The post says that after installing the Feishu CLI and authorizing via QR code, Grok Bot can directly create documents and spreadsheets and manage calendars and meetings.
+
+- [Hermes Mobile Beta 公测，个人 Agent 进军手机端 / Hermes Mobile Beta Launches, Personal Agents Move to Mobile](./sources/articles/hermes-mobile-beta-launches-personal-agents-move-to-mobile.md) — Nous Research 开放 Hermes Mobile Beta，支持 iOS 和 Android，可通过手机连接自建 VPS 网关、审批工具调用并管理自动化任务。 / Nous Research opens Hermes Mobile Beta for iOS and Android, letting phones connect to self-hosted VPS gateways, approve tool calls, and manage automated tasks.
+
+- [读 Super-agent：DeepSeek 持久化智能体架构设计 / Reading Super-agent: DeepSeek Persistent Agent Architecture Design](./sources/articles/reading-super-agent-deepseek-persistent-agent-architecture-desig.md) — 帖文称 DeepSeek Harness 团队开源 Super-agent 研究原型，通过 Ticket 机制、Router/Worker 分离、事件驱动和任务恢复，支持 Agent 长期运行并尽量减少人工干预。 / The post says DeepSeek Harness open-sourced a Super-agent research prototype, using Ticket mechanism, Router/Worker separation, event-driven triggers, and task recovery to support long-running agents with minimal human intervention.
+
+- [对 Grok Bot 的判断 / Judgment on Grok Bot](./sources/articles/judgment-on-grok-bot.md) — yetone 对 Grok Bot 模型质量表示担忧，但信任其产品与技术，因其由 Cursor 团队开发；引用用户称从 dots 迁移后体验更佳，可调用本地 Claude Code 与 Codex，唯欠主动性。 / yetone worries about Grok Bot's model quality but trusts its product and technology as it is built by the Cursor team; a cited user says migration from dots improved experience, enabling local Claude Code and Codex calls, with the only drawback being insufficient proactivity.
+
+- [Alma Relay Server 开源 / Alma Relay Server Open Sourced](./sources/articles/alma-relay-server-open-sourced.md) — Alma 开源自建中继服务器，支持 Cloudflare Workers 或 Docker 部署，实现端到端加密的远程桌面访问。 / Alma open-sources its self-hosted relay server, deployable via Cloudflare Workers or Docker, enabling end-to-end encrypted remote desktop access.
+
+- [Magpie 改用 Claude Code TUI / Magpie Switches to Claude Code TUI](./sources/articles/magpie-switches-to-claude-code-tui.md) — Magpie 将 Claude Code Provider 从 `claude -p` 切换为 Claude Code TUI，以降低 Token 消耗并规避第三方检测封号风险。 / Magpie switches its Claude Code Provider from `claude -p` to Claude Code TUI to match direct TUI token usage and reduce third-party detection and account-ban risk.
+
+- [10 月 Codex 增速最快的 10 个 Skills / Top 10 Fastest-Growing Codex Skills in October](./sources/articles/top-10-fastest-growing-codex-skills-in-october.md) — 帖文列出 Codex 上十月增速最快的十个技能，涵盖工程工作流、前端审美与图示代码理解三条线。 / The post lists the ten fastest-growing Codex Skills in October, covering engineering workflows, frontend aesthetics, and diagramming/code understanding.
+
+- [Karpathy 的 HackerTube / Karpathy's HackerTube](./sources/articles/karpathy-s-hackertube.md) — 安德烈·卡帕西用 Claude Opus 5.5 两小时基于 Hacker News 推荐构建了“净化版 YouTube”HackerTube。 / Andrej Karpathy built HackerTube, a “clean” YouTube based on Hacker News recommendations, in two hours using Claude Opus 5.5.
+
+- [Chase 谈主动常驻智能体：记忆、异步与目标成新难题 / Chase on Proactive Resident Agents: Memory, Async, and Goals Are New Challenges](./sources/articles/chase-on-proactive-resident-agents-memory-async-and-goals-are-ne.md) — Harrison Chase 认为智能体上下文工程旧题已趋于收敛，主动常驻目标导向智能体带来记忆、异步、目标追踪等新挑战。 / Harrison Chase believes agent context engineering old problems are converging, while proactive resident goal-oriented agents bring new challenges in memory, async, and goal tracking.
+
+- [DeepSeek Super-agent 架构：迈向更自主的 Agent 系统 / DeepSeek Super-agent Architecture: Toward More Autonomous Agent Systems](./sources/articles/deepseek-super-agent-architecture-toward-more-autonomous-agent-s.md) — DeepSeek Harness 团队提出双层 Router/Worker、事件驱动与异步 ReAct 的 Super-agent 架构，将 Session 降为实现细节。 / DeepSeek Harness team proposes a Super-agent architecture with dual-layer Router/Worker, event-driven triggers, and async ReAct, demoting Sessions to implementation details.
+
 - [又试用 Raft / Trying Raft Again](./sources/articles/trying-raft-again.md) — 用户在 X 上发帖称再次试用 Raft，发现存在多个交互逻辑漏洞。 / The user posted on X that they tried Raft again and found multiple interaction logic loopholes.
 
 - [Rex 用着舒服 / Rex Feels Comfortable to Use](./sources/articles/rex-feels-comfortable-to-use.md) — 用户称 Rex 界面平平但手感更好，使用起来很舒服。 / User says Rex has an unremarkable UI but better hand feel and is comfortable to use.

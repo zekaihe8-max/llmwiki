@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:12:18.012Z",
+  "url": "https://x.com/fkysly/status/2116735959224234397",
+  "slug": "55e2240b8daae401",
+  "content_hash": "10db52fce2ae2129a7b7470044556b9704383da18b5b20d05737be6ec643742d",
+  "source": {
+    "path": "sources/articles/banned-claude-ultra-account-unexpectedly-unblocked.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 Claude 订阅账号被封后解封，与该主题的风控与权重讨论直接相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "用户使用 Grok Bot 验证账号状态，与利用 Grok Bot 内置额度查询 X 相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "邮件提到移除 5 小时用量限制，与用量上限 A/B 测试主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "帖文围绕 Claude 订阅账号被封后解封，与该主题的风控与权重讨论直接相关。",
+    "topics/usage-limit-ab-tests.md": "邮件提到移除 5 小时用量限制，与用量上限 A/B 测试主题相关。",
+    "topics/grok-bot-x-api-substitute.md": "用户使用 Grok Bot 验证账号状态，与利用 Grok Bot 内置额度查询 X 相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/banned-claude-ultra-account-unexpectedly-unblocked.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/grok-bot-x-api-substitute.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "帖文围绕 Claude 订阅账号被封后解封，与该主题的风控与权重讨论直接相关。",
+      "topics/usage-limit-ab-tests.md": "邮件提到移除 5 小时用量限制，与用量上限 A/B 测试主题相关。",
+      "topics/grok-bot-x-api-substitute.md": "用户使用 Grok Bot 验证账号状态，与利用 Grok Bot 内置额度查询 X 相关。"
+    },
+    "notes": "所有主张均基于单一 X 帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/banned-claude-ultra-account-unexpectedly-unblocked.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

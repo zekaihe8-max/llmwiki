@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:02:26.187Z",
+  "url": "https://x.com/shao__meng/status/2116807132469235878",
+  "slug": "f595f8051cb9f48c",
+  "content_hash": "8287a3f07a46a8a7568ffd257100772e3fb4a95587d842f1a78cfb29361257a9",
+  "source": {
+    "path": "sources/articles/top-10-fastest-growing-codex-skills-in-october.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/reuse-before-write.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文内容围绕 Codex Skills 的编写与增长，直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skills 的开放标准与生态，与榜单主题相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "榜中多个 Skill 强调可组合与复用，符合先复用再编写的思路。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "讨论用 Skills 组合构建应用，与工程工作流类 Skill 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文内容围绕 Codex Skills 的编写与增长，直接相关。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent Skills 的开放标准与生态，与榜单主题相近。",
+    "topics/reuse-before-write.md": "榜中多个 Skill 强调可组合与复用，符合先复用再编写的思路。",
+    "topics/skills-stack-native-app-recreation.md": "讨论用 Skills 组合构建应用，与工程工作流类 Skill 相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/top-10-fastest-growing-codex-skills-in-october.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/reuse-before-write.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文内容围绕 Codex Skills 的编写与增长，直接相关。",
+      "topics/agent-skills-open-standard.md": "涉及 Agent Skills 的开放标准与生态，与榜单主题相近。",
+      "topics/reuse-before-write.md": "榜中多个 Skill 强调可组合与复用，符合先复用再编写的思路。",
+      "topics/skills-stack-native-app-recreation.md": "讨论用 Skills 组合构建应用，与工程工作流类 Skill 相关。"
+    },
+    "notes": "所有数据与主张均来源于该 X 帖文，未独立核实；未引用文中未出现的 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/top-10-fastest-growing-codex-skills-in-october.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

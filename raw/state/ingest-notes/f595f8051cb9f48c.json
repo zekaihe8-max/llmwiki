@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/reuse-before-write.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文内容围绕 Codex Skills 的编写与增长，直接相关。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent Skills 的开放标准与生态，与榜单主题相近。",
+    "topics/reuse-before-write.md": "榜中多个 Skill 强调可组合与复用，符合先复用再编写的思路。",
+    "topics/skills-stack-native-app-recreation.md": "讨论用 Skills 组合构建应用，与工程工作流类 Skill 相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文内容围绕 Codex Skills 的编写与增长，直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skills 的开放标准与生态，与榜单主题相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "榜中多个 Skill 强调可组合与复用，符合先复用再编写的思路。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "讨论用 Skills 组合构建应用，与工程工作流类 Skill 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有数据与主张均来源于该 X 帖文，未独立核实；未引用文中未出现的 URL 或事实。"
+}

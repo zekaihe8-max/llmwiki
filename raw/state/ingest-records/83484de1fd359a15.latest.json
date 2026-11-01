@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:02:42.720Z",
+  "url": "https://x.com/yetone/status/2116525328390823955",
+  "slug": "83484de1fd359a15",
+  "content_hash": "6f963a7be601b548f66154861b423018a0cd6208f8ccbcaed4a79ba7e16a0110",
+  "source": {
+    "path": "sources/articles/magpie-switches-to-claude-code-tui.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "内容围绕 Claude Code 的使用方式与社区实践。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "提到被检测为第三方使用导致封号的风险，与订阅风控相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于 `claude -p` 与 TUI 的 Token 消耗差异，直接对应省 Token 工具与开销。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 的体验与额度消耗权衡，以及 TUI 与命令行入口的差异。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "帖文核心在于 `claude -p` 与 TUI 的 Token 消耗差异，直接对应省 Token 工具与开销。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的体验与额度消耗权衡，以及 TUI 与命令行入口的差异。",
+    "topics/claude-code-authorship-and-voice.md": "内容围绕 Claude Code 的使用方式与社区实践。",
+    "topics/claude-subscription-risk-control-weights.md": "提到被检测为第三方使用导致封号的风险，与订阅风控相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/magpie-switches-to-claude-code-tui.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "帖文核心在于 `claude -p` 与 TUI 的 Token 消耗差异，直接对应省 Token 工具与开销。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的体验与额度消耗权衡，以及 TUI 与命令行入口的差异。",
+      "topics/claude-code-authorship-and-voice.md": "内容围绕 Claude Code 的使用方式与社区实践。",
+      "topics/claude-subscription-risk-control-weights.md": "提到被检测为第三方使用导致封号的风险，与订阅风控相关。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题；事实仅基于提供的帖文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/magpie-switches-to-claude-code-tui.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/menubar-management-tool-gap.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/menubar-management-tool-gap.md": "Filee 是桌面端实用工具，与 menubar 管理工具类别相近，均属轻量桌面软件讨论。",
+    "topics/desktop-outfit-character-companions.md": "两者都涉及桌面软件体验，可复用该主题的桌面工具语境。",
+    "topics/open-source-in-ai-assistant-editing.md": "Filee 为开源工具，与开源工具接入 AI 助手/编辑场景的主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "Filee 是桌面端实用工具，与 menubar 管理工具类别相近，均属轻量桌面软件讨论。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "两者都涉及桌面软件体验，可复用该主题的桌面工具语境。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Filee 为开源工具，与开源工具接入 AI 助手/编辑场景的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

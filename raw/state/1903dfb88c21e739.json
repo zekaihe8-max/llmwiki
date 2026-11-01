@@ -1,0 +1,23 @@
+{
+  "slug": "1903dfb88c21e739",
+  "url": "https://x.com/0xLogicrw/status/2116739860127944730",
+  "title": "水印",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "1903dfb88c21e739490d4e4ac687a28d9992f7e4e79dbc7198bea06273cba98b",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:27.429Z",
+  "content_hash": "df90d7993980cbdc8bf0140469140599730888f44828513cba331ffd2c84fd67",
+  "article_path": "articles/1903dfb88c21e739.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2116739860127944730",
+  "source_path": "sources/articles/xai-adds-invisible-text-watermarks-to-grok-api-outputs-by-defaul.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:13:32.890Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

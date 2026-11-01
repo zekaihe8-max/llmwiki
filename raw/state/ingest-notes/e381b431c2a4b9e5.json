@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 的使用场景，与帖文主题最贴近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 云环境的备份与访问问题，与密码保险柜不可自查的踩坑相关。",
+    "topics/agent-identity-platform-keys.md": "涉及 Agent 身份与平台凭证掌握，对应帖文中账号密码由平台保管的风险。",
+    "topics/account-and-asset-security-hygiene.md": "涉及账号安全与凭证卫生，与手动设置密码和找回流程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与 X 的使用场景，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 云环境的备份与访问问题，与密码保险柜不可自查的踩坑相关。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 身份与平台凭证掌握，对应帖文中账号密码由平台保管的风险。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "涉及账号安全与凭证卫生，与手动设置密码和找回流程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，未引入外部事实；日期与用户名均来自帖文页面。"
+}

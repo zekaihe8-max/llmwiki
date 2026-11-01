@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:06:42.208Z",
+  "url": "https://x.com/op7418/status/2116711094622593292",
+  "slug": "73b872041f03eb11",
+  "content_hash": "fd7b8c3ffb3e182fc2d10e8b270b0f569c2083f9ca3d6958c9d99f13a9ecb833",
+  "source": {
+    "path": "sources/articles/stageshow-design-skill.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文介绍的是一个可安装的 Agent Skill，与技能编写直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Stageshow 通过 `npx skills add` 安装，体现 Agent Skills 开放标准的使用场景。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及 UI 元素、动效与排版优化，属于用户体验与设计交付范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文介绍的是一个可安装的 Agent Skill，与技能编写直接相关。",
+    "topics/agent-skills-open-standard.md": "Stageshow 通过 `npx skills add` 安装，体现 Agent Skills 开放标准的使用场景。",
+    "topics/ux-dx-and-ax.md": "涉及 UI 元素、动效与排版优化，属于用户体验与设计交付范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stageshow-design-skill.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文介绍的是一个可安装的 Agent Skill，与技能编写直接相关。",
+      "topics/agent-skills-open-standard.md": "Stageshow 通过 `npx skills add` 安装，体现 Agent Skills 开放标准的使用场景。",
+      "topics/ux-dx-and-ax.md": "涉及 UI 元素、动效与排版优化，属于用户体验与设计交付范畴。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未独立核实 Stageshow 的实际效果。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stageshow-design-skill.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

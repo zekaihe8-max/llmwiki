@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:20:23.556Z",
+  "url": "https://x.com/vista8/status/2116587103475916862",
+  "slug": "6bcad735f17ec9ff",
+  "content_hash": "bb849fb634796b17b987f54f913cee683495ca97502ffc5309976846d219c15b",
+  "source": {
+    "path": "sources/articles/guangzhou-ai-blogger-closed-door-meetup.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 博主与 AI 产业圈层交流，最接近 AI 原生公司话题。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文中作者分享 AI 内容并自称博主，与 AI 产品自荐与主持人加热话题相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "活动由企业微信组织，与企业级 AI/数字员工语境有交集。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章涉及 AI 博主与 AI 产业圈层交流，最接近 AI 原生公司话题。",
+    "topics/ai-product-self-rec-amplify.md": "帖文中作者分享 AI 内容并自称博主，与 AI 产品自荐与主持人加热话题相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "活动由企业微信组织，与企业级 AI/数字员工语境有交集。"
+  },
+  "files_changed": [
+    "sources/articles/guangzhou-ai-blogger-closed-door-meetup.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章涉及 AI 博主与 AI 产业圈层交流，最接近 AI 原生公司话题。",
+      "topics/ai-product-self-rec-amplify.md": "帖文中作者分享 AI 内容并自称博主，与 AI 产品自荐与主持人加热话题相关。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "活动由企业微信组织，与企业级 AI/数字员工语境有交集。"
+    },
+    "notes": "未创建新话题，所有引用话题均保持 unchanged；内容仅基于推文文本，未核实线下会议细节。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/guangzhou-ai-blogger-closed-door-meetup.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
