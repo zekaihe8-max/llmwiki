@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:13:54.538Z",
+  "url": "https://x.com/Gorden_Sun/status/2116856981185278258",
+  "slug": "a259fa4ddc914acb",
+  "content_hash": "9c83b1303595895a98af522f12266d6febb5f870be15d457fe22b89fc20ae4af",
+  "source": {
+    "path": "sources/articles/aura-autopilot-ai-auto-play-and-game-testing.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Autopilot 属于无需人工逐步操作的智能体自动模式，可复用该主题"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Autopilot 是面向游戏的自主智能体，与 Agentic AI 基础主题相关"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文明确将 Autopilot 称为游戏领域的 Computer Use，与该主题直接相关"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 驱动的游戏测试与游戏体验，与 Vibe Gaming 主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文明确将 Autopilot 称为游戏领域的 Computer Use，与该主题直接相关",
+    "topics/agent-auto-mode.md": "Autopilot 属于无需人工逐步操作的智能体自动模式，可复用该主题",
+    "topics/vibe-gaming-model-inflection.md": "内容涉及 AI 驱动的游戏测试与游戏体验，与 Vibe Gaming 主题相近",
+    "topics/agentic-ai-foundation.md": "Autopilot 是面向游戏的自主智能体，与 Agentic AI 基础主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/aura-autopilot-ai-auto-play-and-game-testing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-auto-mode.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文明确将 Autopilot 称为游戏领域的 Computer Use，与该主题直接相关",
+      "topics/agent-auto-mode.md": "Autopilot 属于无需人工逐步操作的智能体自动模式，可复用该主题",
+      "topics/vibe-gaming-model-inflection.md": "内容涉及 AI 驱动的游戏测试与游戏体验，与 Vibe Gaming 主题相近",
+      "topics/agentic-ai-foundation.md": "Autopilot 是面向游戏的自主智能体，与 Agentic AI 基础主题相关"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/aura-autopilot-ai-auto-play-and-game-testing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

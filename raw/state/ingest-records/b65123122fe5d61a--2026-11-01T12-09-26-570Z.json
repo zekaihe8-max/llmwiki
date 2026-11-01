@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:09:26.570Z",
+  "url": "https://x.com/cgnot996/status/2116746472016466031",
+  "slug": "b65123122fe5d61a",
+  "content_hash": "31caa89931a6fa8d84e3c4c1b9397ed739265f5c662322381f8487d75514bac3",
+  "source": {
+    "path": "sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-in-chat-bug-feedback.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "帖文本质为对 Agent 对话内额度异常的反馈与询问"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度，与额度波动导致的用户困惑相关"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与内置额度，与帖文主题最贴近"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与额度异常，可复用于讨论额度显示问题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与内置额度，与帖文主题最贴近",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与额度异常，可复用于讨论额度显示问题",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度，与额度波动导致的用户困惑相关",
+    "topics/agent-in-chat-bug-feedback.md": "帖文本质为对 Agent 对话内额度异常的反馈与询问"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-in-chat-bug-feedback.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与内置额度，与帖文主题最贴近",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限与额度异常，可复用于讨论额度显示问题",
+      "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度，与额度波动导致的用户困惑相关",
+      "topics/agent-in-chat-bug-feedback.md": "帖文本质为对 Agent 对话内额度异常的反馈与询问"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

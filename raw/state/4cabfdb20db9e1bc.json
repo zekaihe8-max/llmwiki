@@ -1,0 +1,23 @@
+{
+  "slug": "4cabfdb20db9e1bc",
+  "url": "https://x.com/xiaomovps/status/2116738186168991921",
+  "title": "美团",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "4cabfdb20db9e1bcc67fa86008cc2196e6319967e5cfe3e690c4404728450e81",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:18.202Z",
+  "content_hash": "a4319104e0abed3b9d70afeb64f403e843f8e34332541403e18c22b3c0b5ec69",
+  "article_path": "articles/4cabfdb20db9e1bc.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2116738186168991921",
+  "source_path": "sources/articles/grok-bot-connects-to-meituan-skill-can-place-food-delivery-via-e.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:05:24.582Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

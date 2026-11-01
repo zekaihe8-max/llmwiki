@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:16:02.740Z",
+  "url": "https://x.com/dingyi/status/2116839963841175893",
+  "slug": "b62218080e2a8e24",
+  "content_hash": "c4c22845b34f4af1d9cd941ac081b158c577e63b6a7436b00561ad896ac16fa0",
+  "source": {
+    "path": "sources/articles/x-relationship-observer-chrome-plugin-shows-unfollowers-in-real.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及计算机使用与浏览器层面的自动化/观察，与插件功能边界相邻。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及插件与界面扩展，与 Chrome 插件主题最相近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "讨论宽松网页管控下的 Agent Harness 插件，与浏览器插件类别相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-plugin-style-fragmentation.md": "涉及插件与界面扩展，与 Chrome 插件主题最相近。",
+    "topics/loose-web-agent-harness-plugins.md": "讨论宽松网页管控下的 Agent Harness 插件，与浏览器插件类别相关。",
+    "topics/computer-use.md": "涉及计算机使用与浏览器层面的自动化/观察，与插件功能边界相邻。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/x-relationship-observer-chrome-plugin-shows-unfollowers-in-real.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-plugin-style-fragmentation.md": "涉及插件与界面扩展，与 Chrome 插件主题最相近。",
+      "topics/loose-web-agent-harness-plugins.md": "讨论宽松网页管控下的 Agent Harness 插件，与浏览器插件类别相关。",
+      "topics/computer-use.md": "涉及计算机使用与浏览器层面的自动化/观察，与插件功能边界相邻。"
+    },
+    "notes": "未创建新主题，全部复用现有条目。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/x-relationship-observer-chrome-plugin-shows-unfollowers-in-real.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

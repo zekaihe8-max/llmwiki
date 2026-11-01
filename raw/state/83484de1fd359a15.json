@@ -1,0 +1,23 @@
+{
+  "slug": "83484de1fd359a15",
+  "url": "https://x.com/yetone/status/2116525328390823955",
+  "title": "Magpie 改用 Claude Code TUI",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "83484de1fd359a150a374040c48061a8975ad6a03df578e218e4a39312e79941",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:13.030Z",
+  "content_hash": "6f963a7be601b548f66154861b423018a0cd6208f8ccbcaed4a79ba7e16a0110",
+  "article_path": "articles/83484de1fd359a15.md",
+  "fetched_url": "https://x.com/yetone/status/2116525328390823955",
+  "source_path": "sources/articles/magpie-switches-to-claude-code-tui.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:02:42.721Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

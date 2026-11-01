@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文聚焦界面视觉与配置体验，属用户体验范畴，但现有主题未涉及 FlClash，故保持不变。",
+    "topics/design-taste-led-linux-desktop-trial.md": "用户提及“风格”“好看”涉及设计品味，但主题针对 Linux 桌面试用，与本条无直接重叠，故保持不变。",
+    "topics/minimal-core-community-extensions.md": "FlClash 为社区工具，但帖文未讨论核心与扩展架构，故保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦界面视觉与配置体验，属用户体验范畴，但现有主题未涉及 FlClash，故保持不变。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "用户提及“风格”“好看”涉及设计品味，但主题针对 Linux 桌面试用，与本条无直接重叠，故保持不变。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "FlClash 为社区工具，但帖文未讨论核心与扩展架构，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用自 X 帖文，未核实 FlClash 具体版本号与更新细节。"
+}

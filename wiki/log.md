@@ -1,3 +1,93 @@
+## 2026-11-01
+
+* **创建 / Creation**: 归档 [Grok Bot 五类自动触发方式](./sources/articles/five-automatic-trigger-methods-for-grok-bot.md)。 / Filed [Five Automatic Trigger Methods for Grok Bot](./sources/articles/five-automatic-trigger-methods-for-grok-bot.md).
+
+* **创建 / Creation**: 归档 [FlClash 界面改版获用户称赞](./sources/articles/flclash-interface-redesign-praised-by-user.md)。 / Filed [FlClash Interface Redesign Praised by User](./sources/articles/flclash-interface-redesign-praised-by-user.md).
+
+* **创建 / Creation**: 归档 [jev-router：Claude Code 按任务复杂度自动路由模型以节省成本](./sources/articles/jev-router-automatically-route-claude-code-models-by-task-comple.md)。 / Filed [jev-router: Automatically route Claude Code models by task complexity to save costs](./sources/articles/jev-router-automatically-route-claude-code-models-by-task-comple.md).
+
+* **创建 / Creation**: 归档 [Agent 支付生态地图](./sources/articles/ai-agent-payment-ecosystem-map.md)。 / Filed [AI Agent Payment Ecosystem Map](./sources/articles/ai-agent-payment-ecosystem-map.md).
+
+* **创建 / Creation**: 归档 [Rack Spread：Token 价格下跌与 GPU 租赁价格上涨](./sources/articles/rack-spread-token-prices-fall-as-gpu-rental-prices-rise.md)。 / Filed [Rack Spread: Token Prices Fall as GPU Rental Prices Rise](./sources/articles/rack-spread-token-prices-fall-as-gpu-rental-prices-rise.md).
+
+* **创建 / Creation**: 归档 [X 关系观察者 Chrome 插件可实时显示取关用户](./sources/articles/x-relationship-observer-chrome-plugin-shows-unfollowers-in-real.md)。 / Filed [X Relationship Observer Chrome Plugin Shows Unfollowers in Real Time](./sources/articles/x-relationship-observer-chrome-plugin-shows-unfollowers-in-real.md).
+
+* **创建 / Creation**: 归档 [评论区四类人](./sources/articles/four-types-in-the-comment-section.md)。 / Filed [Four Types in the Comment Section](./sources/articles/four-types-in-the-comment-section.md).
+
+* **创建 / Creation**: 归档 [广州 AI 博主闭门会](./sources/articles/guangzhou-ai-blogger-closed-door-meetup.md)。 / Filed [Guangzhou AI Blogger Closed-Door Meetup](./sources/articles/guangzhou-ai-blogger-closed-door-meetup.md).
+
+* **创建 / Creation**: 归档 [WorkBuddy 三大场景传闻](./sources/articles/rumored-three-major-workbuddy-usage-scenarios.md)。 / Filed [Rumored Three Major WorkBuddy Usage Scenarios](./sources/articles/rumored-three-major-workbuddy-usage-scenarios.md).
+
+* **创建 / Creation**: 归档 [Filee 本地格式转换](./sources/articles/filee-local-format-conversion.md)。 / Filed [Filee Local Format Conversion](./sources/articles/filee-local-format-conversion.md).
+
+* **创建 / Creation**: 归档 [Aura Autopilot：AI 自动玩游戏与测试游戏](./sources/articles/aura-autopilot-ai-auto-play-and-game-testing.md)。 / Filed [Aura Autopilot: AI Auto-Play and Game Testing](./sources/articles/aura-autopilot-ai-auto-play-and-game-testing.md).
+
+* **创建 / Creation**: 归档 [xAI 为 Grok API 输出默认加隐形文字水印](./sources/articles/xai-adds-invisible-text-watermarks-to-grok-api-outputs-by-defaul.md)。 / Filed [xAI Adds Invisible Text Watermarks to Grok API Outputs by Default](./sources/articles/xai-adds-invisible-text-watermarks-to-grok-api-outputs-by-defaul.md).
+
+* **创建 / Creation**: 归档 [Colossus 2 与水印](./sources/articles/colossus-2-and-watermarks.md)。 / Filed [Colossus 2 and Watermarks](./sources/articles/colossus-2-and-watermarks.md).
+
+* **创建 / Creation**: 归档 [「帝国 CEO」时代：扎克伯格、马斯克与 Anthropic 的创始人王国](./sources/articles/empire-ceo-era-zuckerberg-musk-and-anthropic-s-founder-kingdoms.md)。 / Filed ["Empire CEO" Era: Zuckerberg, Musk, and Anthropic's Founder Kingdoms](./sources/articles/empire-ceo-era-zuckerberg-musk-and-anthropic-s-founder-kingdoms.md).
+
+* **创建 / Creation**: 归档 [封禁的 Claude Ultra 账号意外解封](./sources/articles/banned-claude-ultra-account-unexpectedly-unblocked.md)。 / Filed [Banned Claude Ultra Account Unexpectedly Unblocked](./sources/articles/banned-claude-ultra-account-unexpectedly-unblocked.md).
+
+* **创建 / Creation**: 归档 [多 Gmail 管理：用 Grok Bot 授权读取多个邮箱](./sources/articles/multiple-gmail-management-authorizing-grok-bot-to-read-multiple.md)。 / Filed [Multiple Gmail management: authorizing Grok Bot to read multiple mailboxes](./sources/articles/multiple-gmail-management-authorizing-grok-bot-to-read-multiple.md).
+
+* **创建 / Creation**: 归档 [飞书驱动无人值守工作流](./sources/articles/feishu-driven-unattended-ai-relay-workflow.md)。 / Filed [Feishu-Driven Unattended AI Relay Workflow](./sources/articles/feishu-driven-unattended-ai-relay-workflow.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 老订阅额度异常，用户怀疑被迫迁移新套餐](./sources/articles/grok-bot-legacy-subscription-quota-anomaly-users-suspect-forced.md)。 / Filed [Grok Bot legacy subscription quota anomaly, users suspect forced migration to new plans](./sources/articles/grok-bot-legacy-subscription-quota-anomaly-users-suspect-forced.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 自带邮箱注册账号的密码托管踩坑](./sources/articles/grok-bot-built-in-email-account-registration-password-custody-pi.md)。 / Filed [Grok Bot built-in email account registration password custody pitfall](./sources/articles/grok-bot-built-in-email-account-registration-password-custody-pi.md).
+
+* **创建 / Creation**: 归档 [WhatsToken 配 DSH：DeepSeek-V4.1-Flash-1017 夜间免费与低价渠道](./sources/articles/whatstoken-with-dsh-deepseek-v4-1-flash-1017-night-free-access-a.md)。 / Filed [WhatsToken with DSH: DeepSeek-V4.1-Flash-1017 Night Free Access and Low-Cost Channel](./sources/articles/whatstoken-with-dsh-deepseek-v4-1-flash-1017-night-free-access-a.md).
+
+* **创建 / Creation**: 归档 [旧订阅额度腰斩与新大一统订阅正常对照](./sources/articles/contrast-old-subscription-quota-halved-while-new-unified-subscri.md)。 / Filed [Contrast: Old subscription quota halved while new unified subscription stays normal](./sources/articles/contrast-old-subscription-quota-halved-while-new-unified-subscri.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 订阅额度异常波动](./sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md)。 / Filed [Grok Bot subscription quota abnormal fluctuation](./sources/articles/grok-bot-subscription-quota-abnormal-fluctuation.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Super-agent 架构拆解：Router/Worker 才是研究原型主菜](./sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md)。 / Filed [DeepSeek Super-agent Architecture Deep Dive: Router/Worker Is the Main Course of the Research Prototype](./sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md).
+
+* **创建 / Creation**: 归档 [电量焦虑：Codex 最成功的功能是额度查询](./sources/articles/quota-anxiety-codex-s-most-successful-feature-is-quota-checking.md)。 / Filed [Quota Anxiety: Codex's Most Successful Feature Is Quota Checking](./sources/articles/quota-anxiety-codex-s-most-successful-feature-is-quota-checking.md).
+
+* **创建 / Creation**: 归档 [ChatGPT 与 Codex 额度合并：1+1 等于 2 还是 1？](./sources/articles/chatgpt-and-codex-quota-merger-does-1-1-equal-2-or-1.md)。 / Filed [ChatGPT and Codex quota merger: does 1+1 equal 2 or 1?](./sources/articles/chatgpt-and-codex-quota-merger-does-1-1-equal-2-or-1.md).
+
+* **创建 / Creation**: 归档 [Jules 并入 Antigravity，Google 停止 AI 编程 Agent Jules](./sources/articles/google-shuts-down-jules-ai-coding-agent-merges-capabilities-into.md)。 / Filed [Google Shuts Down Jules AI Coding Agent, Merges Capabilities Into Antigravity](./sources/articles/google-shuts-down-jules-ai-coding-agent-merges-capabilities-into.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 官方认证播客](./sources/articles/grok-bot-officially-certified-podcast.md)。 / Filed [Grok Bot Officially Certified Podcast](./sources/articles/grok-bot-officially-certified-podcast.md).
+
+* **创建 / Creation**: 归档 [互联网已死：Reddit CEO 称 AI 不会带来流量](./sources/articles/the-internet-is-dead-reddit-ceo-says-ai-brings-no-traffic.md)。 / Filed [The Internet Is Dead: Reddit CEO Says AI Brings No Traffic](./sources/articles/the-internet-is-dead-reddit-ceo-says-ai-brings-no-traffic.md).
+
+* **创建 / Creation**: 归档 [更爱刷 Threads](./sources/articles/liking-threads-more.md)。 / Filed [Liking Threads More](./sources/articles/liking-threads-more.md).
+
+* **创建 / Creation**: 归档 [Stageshow 设计 Skill](./sources/articles/stageshow-design-skill.md)。 / Filed [Stageshow Design Skill](./sources/articles/stageshow-design-skill.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 可共享](./sources/articles/grok-bot-can-be-shared.md)。 / Filed [Grok Bot Can Be Shared](./sources/articles/grok-bot-can-be-shared.md).
+
+* **创建 / Creation**: 归档 [baoyu-design 局域网团队共享](./sources/articles/baoyu-design-lan-team-sharing.md)。 / Filed [baoyu-design LAN team sharing](./sources/articles/baoyu-design-lan-team-sharing.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 接入美团 Skill，可通过跑腿代下外卖](./sources/articles/grok-bot-connects-to-meituan-skill-can-place-food-delivery-via-e.md)。 / Filed [Grok Bot Connects to Meituan Skill, Can Place Food Delivery via Errand Running](./sources/articles/grok-bot-connects-to-meituan-skill-can-place-food-delivery-via-e.md).
+
+* **创建 / Creation**: 归档 [国内 MCP/Skill 与美团实测](./sources/articles/domestic-mcp-skill-and-meituan-field-test.md)。 / Filed [Domestic MCP/Skill and Meituan Field Test](./sources/articles/domestic-mcp-skill-and-meituan-field-test.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 管飞书：从 Hermes Agent 迁移后直接操作文档与日历](./sources/articles/grok-bot-manages-feishu-migrating-from-hermes-agent-to-direct-do.md)。 / Filed [Grok Bot Manages Feishu: Migrating from Hermes Agent to Direct Document and Calendar Operations](./sources/articles/grok-bot-manages-feishu-migrating-from-hermes-agent-to-direct-do.md).
+
+* **创建 / Creation**: 归档 [Hermes Mobile Beta 公测，个人 Agent 进军手机端](./sources/articles/hermes-mobile-beta-launches-personal-agents-move-to-mobile.md)。 / Filed [Hermes Mobile Beta Launches, Personal Agents Move to Mobile](./sources/articles/hermes-mobile-beta-launches-personal-agents-move-to-mobile.md).
+
+* **创建 / Creation**: 归档 [读 Super-agent：DeepSeek 持久化智能体架构设计](./sources/articles/reading-super-agent-deepseek-persistent-agent-architecture-desig.md)。 / Filed [Reading Super-agent: DeepSeek Persistent Agent Architecture Design](./sources/articles/reading-super-agent-deepseek-persistent-agent-architecture-desig.md).
+
+* **创建 / Creation**: 归档 [对 Grok Bot 的判断](./sources/articles/judgment-on-grok-bot.md)。 / Filed [Judgment on Grok Bot](./sources/articles/judgment-on-grok-bot.md).
+
+* **创建 / Creation**: 归档 [Alma Relay Server 开源](./sources/articles/alma-relay-server-open-sourced.md)。 / Filed [Alma Relay Server Open Sourced](./sources/articles/alma-relay-server-open-sourced.md).
+
+* **创建 / Creation**: 归档 [Magpie 改用 Claude Code TUI](./sources/articles/magpie-switches-to-claude-code-tui.md)。 / Filed [Magpie Switches to Claude Code TUI](./sources/articles/magpie-switches-to-claude-code-tui.md).
+
+* **创建 / Creation**: 归档 [10 月 Codex 增速最快的 10 个 Skills](./sources/articles/top-10-fastest-growing-codex-skills-in-october.md)。 / Filed [Top 10 Fastest-Growing Codex Skills in October](./sources/articles/top-10-fastest-growing-codex-skills-in-october.md).
+
+* **创建 / Creation**: 归档 [Karpathy 的 HackerTube](./sources/articles/karpathy-s-hackertube.md)。 / Filed [Karpathy's HackerTube](./sources/articles/karpathy-s-hackertube.md).
+
+* **创建 / Creation**: 归档 [Chase 谈主动常驻智能体：记忆、异步与目标成新难题](./sources/articles/chase-on-proactive-resident-agents-memory-async-and-goals-are-ne.md)。 / Filed [Chase on Proactive Resident Agents: Memory, Async, and Goals Are New Challenges](./sources/articles/chase-on-proactive-resident-agents-memory-async-and-goals-are-ne.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Super-agent 架构：迈向更自主的 Agent 系统](./sources/articles/deepseek-super-agent-architecture-toward-more-autonomous-agent-s.md)。 / Filed [DeepSeek Super-agent Architecture: Toward More Autonomous Agent Systems](./sources/articles/deepseek-super-agent-architecture-toward-more-autonomous-agent-s.md).
+
 ## 2026-10-31
 
 * **创建 / Creation**: 归档 [又试用 Raft](./sources/articles/trying-raft-again.md)。 / Filed [Trying Raft Again](./sources/articles/trying-raft-again.md).

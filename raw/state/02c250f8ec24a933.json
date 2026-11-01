@@ -1,0 +1,23 @@
+{
+  "slug": "02c250f8ec24a933",
+  "url": "https://x.com/xiaomovps/status/2116806492179608039",
+  "title": "读 Super-agent",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "02c250f8ec24a933324dd4491bfc6b3cf4d102b2feaba75ef9c7cfa975b4c434",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:15.003Z",
+  "content_hash": "8ebd808b99178c8eaa94f70236067febbe4e4f9edd85d3669d21738ecc2c3203",
+  "article_path": "articles/02c250f8ec24a933.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2116806492179608039",
+  "source_path": "sources/articles/reading-super-agent-deepseek-persistent-agent-architecture-desig.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:03:35.118Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

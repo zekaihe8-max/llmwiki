@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:03:48.834Z",
+  "url": "https://x.com/xiaomovps/status/2116829727683940672",
+  "slug": "cd302a925373b515",
+  "content_hash": "c4ee54dd212c2aaa965d7de537114f9844b0abb9cde1e4bf16ace7a8a5e83159",
+  "source": {
+    "path": "sources/articles/hermes-mobile-beta-launches-personal-agents-move-to-mobile.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到管理 Routines 并让 Agent 长期运行，与智能体自动模式相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Hermes Mobile Beta 属于手机端 Agent 形态，与“手机端 Agent 全链路开发”主题相近。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到 Agent 在云端/服务器长期运行、手机负责沟通审批，涉及个人 Agent 云环境使用。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "帖文核心是手机连接自建 VPS 上的 Hermes Gateway 操控 Agent，与该主题“手机连自有服务器操控 Agent 工作台”高度重合。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "帖文核心是手机连接自建 VPS 上的 Hermes Gateway 操控 Agent，与该主题“手机连自有服务器操控 Agent 工作台”高度重合。",
+    "topics/mobile-agent-dev-full-chain.md": "Hermes Mobile Beta 属于手机端 Agent 形态，与“手机端 Agent 全链路开发”主题相近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到 Agent 在云端/服务器长期运行、手机负责沟通审批，涉及个人 Agent 云环境使用。",
+    "topics/agent-auto-mode.md": "文中提到管理 Routines 并让 Agent 长期运行，与智能体自动模式相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hermes-mobile-beta-launches-personal-agents-move-to-mobile.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/phone-own-server-agent-workbench.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/phone-own-server-agent-workbench.md": "帖文核心是手机连接自建 VPS 上的 Hermes Gateway 操控 Agent，与该主题“手机连自有服务器操控 Agent 工作台”高度重合。",
+      "topics/mobile-agent-dev-full-chain.md": "Hermes Mobile Beta 属于手机端 Agent 形态，与“手机端 Agent 全链路开发”主题相近。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中提到 Agent 在云端/服务器长期运行、手机负责沟通审批，涉及个人 Agent 云环境使用。",
+      "topics/agent-auto-mode.md": "文中提到管理 Routines 并让 Agent 长期运行，与智能体自动模式相关。"
+    },
+    "notes": "所有主题均采用 unchanged，未创建新主题；事实仅来源于提供的帖文 markdown。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hermes-mobile-beta-launches-personal-agents-move-to-mobile.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

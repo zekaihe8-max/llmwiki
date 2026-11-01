@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章聚焦大规模 AI 算力集群部署，与智能体算力与治理主题相近。",
+    "topics/china-open-source-lead-us-compute.md": "文中涉及美国算力规模（孟菲斯 Colossus），与中美算力优势对比相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "Spam 设施专门用于 AI 推理，与大厂推理成本效率主题相关。",
+    "topics/frontier-training-containment.md": "Gun Range 等用于前沿模型训练，与训练环境规模相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章聚焦大规模 AI 算力集群部署，与智能体算力与治理主题相近。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "文中涉及美国算力规模（孟菲斯 Colossus），与中美算力优势对比相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "Spam 设施专门用于 AI 推理，与大厂推理成本效率主题相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Gun Range 等用于前沿模型训练，与训练环境规模相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

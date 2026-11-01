@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与帖文主题高度相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "直接涉及 Grok Bot，与帖文主题高度相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文提及通过 Grok Bot 调度 Claude Code 与 Codex，属个人 Agent 调度编程 Agent 场景。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文对 Grok Bot 模型质量表达担忧，涉及面向 Agent 的模型渠道取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提及通过 Grok Bot 调度 Claude Code 与 Codex，属个人 Agent 调度编程 Agent 场景。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文对 Grok Bot 模型质量表达担忧，涉及面向 Agent 的模型渠道取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新增。"
+}

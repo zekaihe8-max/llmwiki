@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-auto-mode.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文明确提到 DeepSeek Harness 团队，与公司级 Agent Harness 主题直接相关。",
+    "topics/agent-scaled-engineering.md": "文章聚焦 Router/Worker 分离、并行任务和工作目录隔离等智能体规模化工程设计。",
+    "topics/agent-auto-mode.md": "Super-agent 强调主动接活、事件驱动和长期运行，契合智能体自动模式与低人工干预方向。",
+    "topics/multiagent-infra-four-problems.md": "Ticket 机制、任务状态持久化与恢复属于多智能体基础设施建设的核心问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 DeepSeek Harness 团队，与公司级 Agent Harness 主题直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Router/Worker 分离、并行任务和工作目录隔离等智能体规模化工程设计。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Super-agent 强调主动接活、事件驱动和长期运行，契合智能体自动模式与低人工干预方向。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Ticket 机制、任务状态持久化与恢复属于多智能体基础设施建设的核心问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容均基于所提供帖文文本，未访问外部链接，未编造超出文章的事实或 URL。"
+}

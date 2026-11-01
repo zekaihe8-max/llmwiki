@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:11:23.147Z",
+  "url": "https://x.com/0xlangeai/status/2116848448775622866",
+  "slug": "103297a8719df664",
+  "content_hash": "2cf9a7465f39030d8f699c85e0916876792e29632112d634c98b2c9770f0949a",
+  "source": {
+    "path": "sources/articles/feishu-driven-unattended-ai-relay-workflow.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到约 14 小时无人值守、断棒自动重派，体现智能体自动模式与无人值守运行。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "15 棒接力、依赖与显卡锁、独立 git 工作区涉及多智能体基建与调度问题。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "总控写任务书并审核、工人互不私聊，类似个人 Agent 当包工头调度编程 Agent。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是以任务书和脚本驱动的工作流优先于依赖 AI 自觉，与“工作流优先于智能体”直接对应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "文章核心是以任务书和脚本驱动的工作流优先于依赖 AI 自觉，与“工作流优先于智能体”直接对应。",
+    "topics/agent-auto-mode.md": "文中提到约 14 小时无人值守、断棒自动重派，体现智能体自动模式与无人值守运行。",
+    "topics/multiagent-infra-four-problems.md": "15 棒接力、依赖与显卡锁、独立 git 工作区涉及多智能体基建与调度问题。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "总控写任务书并审核、工人互不私聊，类似个人 Agent 当包工头调度编程 Agent。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/feishu-driven-unattended-ai-relay-workflow.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/agent-auto-mode.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "文章核心是以任务书和脚本驱动的工作流优先于依赖 AI 自觉，与“工作流优先于智能体”直接对应。",
+      "topics/agent-auto-mode.md": "文中提到约 14 小时无人值守、断棒自动重派，体现智能体自动模式与无人值守运行。",
+      "topics/multiagent-infra-four-problems.md": "15 棒接力、依赖与显卡锁、独立 git 工作区涉及多智能体基建与调度问题。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "总控写任务书并审核、工人互不私聊，类似个人 Agent 当包工头调度编程 Agent。"
+    },
+    "notes": "来源为 X 帖文，文中引用了 JKL 的原始文章链接，未独立访问原文，所有主张均基于所获取帖文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/feishu-driven-unattended-ai-relay-workflow.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

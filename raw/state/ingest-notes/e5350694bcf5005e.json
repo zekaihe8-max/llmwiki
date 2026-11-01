@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与 X 查询，与老订阅额度异常主题高度相关",
+    "topics/usage-limit-ab-tests.md": "讨论用量上限与 A/B 测试，可关联额度突变可能的机制",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度关系，与订阅额度变化影响用户体验相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与 X 查询，与老订阅额度异常主题高度相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "讨论用量上限与 A/B 测试，可关联额度突变可能的机制"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度关系，与订阅额度变化影响用户体验相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于单条 X 帖文及其引用，未经独立核实。"
+}

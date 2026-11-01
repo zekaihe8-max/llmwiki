@@ -1,0 +1,23 @@
+{
+  "slug": "59d30c88ddb425b9",
+  "url": "https://x.com/shao__meng/status/2116541149443698968",
+  "title": "DeepSeek Super-agent 架构",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "59d30c88ddb425b90ec73ac463ff5edca408f912758c75df1aad539a9d8e6b0d",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:09.695Z",
+  "content_hash": "30b6caa06e8d3e8e2aecacd74d993c5f9724412f69a3ee9771dd88e92a4c0620",
+  "article_path": "articles/59d30c88ddb425b9.md",
+  "fetched_url": "https://x.com/shao__meng/status/2116541149443698968",
+  "source_path": "sources/articles/deepseek-super-agent-architecture-toward-more-autonomous-agent-s.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:01:00.227Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

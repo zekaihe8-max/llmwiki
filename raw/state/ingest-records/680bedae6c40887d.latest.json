@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:09:01.560Z",
+  "url": "https://x.com/heydengai/status/2116796865433985385",
+  "slug": "680bedae6c40887d",
+  "content_hash": "484cccf0e0bf2b4f5b29fc7521318d6644ac537f0ee9f656dc806c1b99d27164",
+  "source": {
+    "path": "sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章围绕 DeepSeek Harness 的研究原型与 bundle 展开，属公司级 Agent Harness 范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中详细阐述 Inline & Spill 与 Chain of Recall 上下文工程机制。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Router/Worker 双层、事件驱动与 Watchdog 属多智能体基建设计问题。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Router 被描述为只分活不干活的调度台，类似个人 Agent 当包工头调度编程 Agent。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章围绕 DeepSeek Harness 的研究原型与 bundle 展开，属公司级 Agent Harness 范畴。",
+    "topics/multiagent-infra-four-problems.md": "Router/Worker 双层、事件驱动与 Watchdog 属多智能体基建设计问题。",
+    "topics/context-engineering-for-agents.md": "文中详细阐述 Inline & Spill 与 Chain of Recall 上下文工程机制。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Router 被描述为只分活不干活的调度台，类似个人 Agent 当包工头调度编程 Agent。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章围绕 DeepSeek Harness 的研究原型与 bundle 展开，属公司级 Agent Harness 范畴。",
+      "topics/multiagent-infra-four-problems.md": "Router/Worker 双层、事件驱动与 Watchdog 属多智能体基建设计问题。",
+      "topics/context-engineering-for-agents.md": "文中详细阐述 Inline & Spill 与 Chain of Recall 上下文工程机制。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Router 被描述为只分活不干活的调度台，类似个人 Agent 当包工头调度编程 Agent。"
+    },
+    "notes": "所有事实均来源于提供的文章 markdown，未引入文章外 URL 或未核实主张。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

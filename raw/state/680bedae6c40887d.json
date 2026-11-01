@@ -1,0 +1,23 @@
+{
+  "slug": "680bedae6c40887d",
+  "url": "https://x.com/heydengai/status/2116796865433985385",
+  "title": "Super-agent 长文拆 Router/Worker",
+  "digest": "2026-11-01-cn-x.md",
+  "status": "filed",
+  "hash": "680bedae6c40887dfa50bea888fd8650cf02a7634aa2fcafa34f7f69d46b5429",
+  "first_seen": "2026-11-01T12:00:09.635Z",
+  "last_seen": "2026-11-01T12:00:09.635Z",
+  "fetched_at": "2026-11-01T12:00:22.008Z",
+  "content_hash": "484cccf0e0bf2b4f5b29fc7521318d6644ac537f0ee9f656dc806c1b99d27164",
+  "article_path": "articles/680bedae6c40887d.md",
+  "fetched_url": "https://x.com/heydengai/status/2116796865433985385",
+  "source_path": "sources/articles/deepseek-super-agent-architecture-deep-dive-router-worker-is-the.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T12:09:01.561Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

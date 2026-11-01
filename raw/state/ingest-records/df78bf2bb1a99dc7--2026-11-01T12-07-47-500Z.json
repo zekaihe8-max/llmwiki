@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T12:07:47.500Z",
+  "url": "https://x.com/oran_ge/status/2116834306912100423",
+  "slug": "df78bf2bb1a99dc7",
+  "content_hash": "6661ca2a73c2bd9223a6a65b31bbea8bfcb9ab50f83c1c75461a8ea341aa105a",
+  "source": {
+    "path": "sources/articles/grok-bot-officially-certified-podcast.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与本文提及的账号推荐有弱关联，故保持不变"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 与 X 平台的使用，主题相近但不覆盖官方认证与播客推荐，故保持不变"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 在 X 上的角色定位，与本文认证/推荐内容相关但不重复，故保持不变"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及播客内容消费，与 Next Token 播客主播提及相关，但本文不涉及精细转写，故保持不变"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "涉及 Grok Bot 与 X 平台的使用，主题相近但不覆盖官方认证与播客推荐，故保持不变",
+    "topics/grok-bot-x-intel-defense-not-post.md": "涉及 Grok Bot 在 X 上的角色定位，与本文认证/推荐内容相关但不重复，故保持不变",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本文提及的账号推荐有弱关联，故保持不变",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及播客内容消费，与 Next Token 播客主播提及相关，但本文不涉及精细转写，故保持不变"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-officially-certified-podcast.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "涉及 Grok Bot 与 X 平台的使用，主题相近但不覆盖官方认证与播客推荐，故保持不变",
+      "topics/grok-bot-x-intel-defense-not-post.md": "涉及 Grok Bot 在 X 上的角色定位，与本文认证/推荐内容相关但不重复，故保持不变",
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本文提及的账号推荐有弱关联，故保持不变",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "涉及播客内容消费，与 Next Token 播客主播提及相关，但本文不涉及精细转写，故保持不变"
+    },
+    "notes": "未核实 Grok Bot 官方认证及账号推荐的真实性，所有主张均源于帖文引用。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-officially-certified-podcast.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
