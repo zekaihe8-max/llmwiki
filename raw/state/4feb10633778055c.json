@@ -1,0 +1,23 @@
+{
+  "slug": "4feb10633778055c",
+  "url": "https://x.com/Voxyz_ai/status/2116998722106388796",
+  "title": "Vox (@Voxyz_ai)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "4feb10633778055c824437161d51fe9aa5b4505e90ebe06b58f4eaf0c9d380a8",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:29.460Z",
+  "content_hash": "a45233a835cb3719313b53a0642c81e0d379350bfa2d36ea448d2fbd622420e5",
+  "article_path": "articles/4feb10633778055c.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2116998722106388796",
+  "source_path": "sources/articles/vox-warns-claude-code-can-read-home-folder-secrets-restrict-file.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T00:04:22.090Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

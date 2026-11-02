@@ -1,3 +1,55 @@
+## 2026-11-02
+
+* **创建 / Creation**: 归档 [如果 AI 前你也能做，就说明没用够 AI](./sources/articles/if-you-could-have-done-it-before-ai-you-re-not-pushing-ai-enough.md)。 / Filed [If you could have done it before AI, you're not pushing AI enough](./sources/articles/if-you-could-have-done-it-before-ai-you-re-not-pushing-ai-enough.md).
+
+* **创建 / Creation**: 归档 [Addy Osmani 分享 Claude Code「ultrathink」技巧](./sources/articles/addy-osmani-shares-claude-code-ultrathink-tip.md)。 / Filed [Addy Osmani shares Claude Code "ultrathink" tip](./sources/articles/addy-osmani-shares-claude-code-ultrathink-tip.md).
+
+* **创建 / Creation**: 归档 [Matt Pocock 提出 Sandcastle v1 软件工厂构想](./sources/articles/matt-pocock-proposes-sandcastle-v1-software-factory-pitch.md)。 / Filed [Matt Pocock Proposes Sandcastle v1 Software Factory Pitch](./sources/articles/matt-pocock-proposes-sandcastle-v1-software-factory-pitch.md).
+
+* **创建 / Creation**: 归档 [用不带上下文的子 Agent 回读设计文档，先修文档再写代码](./sources/articles/re-read-design-docs-with-a-context-free-subagent-fix-the-doc-bef.md)。 / Filed [Re-read design docs with a context-free subagent; fix the doc before coding](./sources/articles/re-read-design-docs-with-a-context-free-subagent-fix-the-doc-bef.md).
+
+* **创建 / Creation**: 归档 [Claude Code 与 Codex 修Bug死循环：四条终止规则](./sources/articles/four-rules-to-end-claude-code-and-codex-bug-fix-loops.md)。 / Filed [Four rules to end Claude Code and Codex bug-fix loops](./sources/articles/four-rules-to-end-claude-code-and-codex-bug-fix-loops.md).
+
+* **创建 / Creation**: 归档 [Vox 警告：Claude Code 可读取主目录密钥，建议限制文件权限](./sources/articles/vox-warns-claude-code-can-read-home-folder-secrets-restrict-file.md)。 / Filed [Vox warns Claude Code can read home-folder secrets; restrict file access](./sources/articles/vox-warns-claude-code-can-read-home-folder-secrets-restrict-file.md).
+
+* **创建 / Creation**: 归档 [每天三万次合并：Anthropic 靠「可验证证据」而非更多人工读 diff](./sources/articles/30-000-daily-merges-anthropic-relies-on-verifiable-evidence-not.md)。 / Filed [30,000 daily merges: Anthropic relies on verifiable evidence, not more human diff reading](./sources/articles/30-000-daily-merges-anthropic-relies-on-verifiable-evidence-not.md).
+
+* **创建 / Creation**: 归档 [meng shao：编排层是软件产线新界面，Grok Bot 当经理，Claude Code / Cursor 负责写代码](./sources/articles/meng-shao-orchestration-layer-is-the-new-interface-of-the-softwa.md)。 / Filed [meng shao: Orchestration layer is the new interface of the software pipeline; Grok Bot manages, Claude Code / Cursor write code](./sources/articles/meng-shao-orchestration-layer-is-the-new-interface-of-the-softwa.md).
+
+* **创建 / Creation**: 归档 [AI 基准公司与评级机构同业](./sources/articles/ai-benchmark-companies-are-in-the-same-business-as-rating-agenci.md)。 / Filed [AI Benchmark Companies Are in the Same Business as Rating Agencies](./sources/articles/ai-benchmark-companies-are-in-the-same-business-as-rating-agenci.md).
+
+* **创建 / Creation**: 归档 [Nathan Lambert 称开放模型与网络风险观点未出错，AI 社区关注错了镜头](./sources/articles/nathan-lambert-on-open-models-and-cyber-risks-ai-community-focus.md)。 / Filed [Nathan Lambert on Open Models and Cyber Risks: AI Community Focuses on the Wrong Lens](./sources/articles/nathan-lambert-on-open-models-and-cyber-risks-ai-community-focus.md).
+
+* **创建 / Creation**: 归档 [Ethan Mollick：智能体工作约从 2026 年起步，此前生产力影响多局限于编程](./sources/articles/ethan-mollick-agentic-ai-work-starts-around-january-2026-pre-202.md)。 / Filed [Ethan Mollick: Agentic AI work starts around January 2026, pre-2026 productivity gains mostly in coding](./sources/articles/ethan-mollick-agentic-ai-work-starts-around-january-2026-pre-202.md).
+
+* **创建 / Creation**: 归档 [卡帕蒂周末用 Claude Code 做出 HackerTube，绕过 YouTube 推荐](./sources/articles/karpathy-builds-hackertube-over-a-weekend-with-claude-code-bypas.md)。 / Filed [Karpathy builds HackerTube over a weekend with Claude Code, bypassing YouTube recommendations](./sources/articles/karpathy-builds-hackertube-over-a-weekend-with-claude-code-bypas.md).
+
+* **创建 / Creation**: 归档 [AI 解锁廉价遗留系统迁移项目](./sources/articles/ai-unlocks-cheap-legacy-system-migration-projects.md)。 / Filed [AI Unlocks Cheap Legacy System Migration Projects](./sources/articles/ai-unlocks-cheap-legacy-system-migration-projects.md).
+
+* **创建 / Creation**: 归档 [Replit 反馈组件可将用户反馈转为 Agent 构建提示](./sources/articles/replit-feedback-widget-turns-user-feedback-into-agent-build-prom.md)。 / Filed [Replit feedback widget turns user feedback into agent build prompts](./sources/articles/replit-feedback-widget-turns-user-feedback-into-agent-build-prom.md).
+
+* **创建 / Creation**: 归档 [Harrison Chase：智能体可观测性更像“面向 Agent 的 Databricks”](./sources/articles/harrison-chase-agent-observability-is-more-like-databricks-for-a.md)。 / Filed [Harrison Chase: Agent observability is more like 'Databricks for agents'](./sources/articles/harrison-chase-agent-observability-is-more-like-databricks-for-a.md).
+
+* **创建 / Creation**: 归档 [2026 年末主动智能体的新上下文工程挑战](./sources/articles/new-context-engineering-challenges-for-proactive-agents-in-late.md)。 / Filed [New context engineering challenges for proactive agents in late 2026](./sources/articles/new-context-engineering-challenges-for-proactive-agents-in-late.md).
+
+* **创建 / Creation**: 归档 [格雷尔莫·劳赫：拥有你的智能，拥抱本地模型与开源](./sources/articles/guillermo-rauch-own-your-intelligence-embrace-local-models-and-o.md)。 / Filed [Guillermo Rauch: Own Your Intelligence, Embrace Local Models and Open Source](./sources/articles/guillermo-rauch-own-your-intelligence-embrace-local-models-and-o.md).
+
+* **创建 / Creation**: 归档 [OpenAI Agents API 周更](./sources/articles/openai-agents-api-weekly-update.md)。 / Filed [OpenAI Agents API Weekly Update](./sources/articles/openai-agents-api-weekly-update.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 以 Gemini 构建 PlanAssist，助力英国地方规划审批](./sources/articles/google-deepmind-builds-planassist-with-gemini-to-speed-up-uk-pla.md)。 / Filed [Google DeepMind builds PlanAssist with Gemini to speed up UK planning approvals](./sources/articles/google-deepmind-builds-planassist-with-gemini-to-speed-up-uk-pla.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布面向企业的 Private Intelligence 数据控制产品](./sources/articles/openai-launches-private-intelligence-enterprise-data-controls.md)。 / Filed [OpenAI Launches Private Intelligence Enterprise Data Controls](./sources/articles/openai-launches-private-intelligence-enterprise-data-controls.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 宣布 Project Suncatcher 太空 TPU“Hello World”里程碑](./sources/articles/sundar-pichai-announces-project-suncatcher-space-tpu-hello-world.md)。 / Filed [Sundar Pichai Announces Project Suncatcher Space TPU "Hello World" Milestone](./sources/articles/sundar-pichai-announces-project-suncatcher-space-tpu-hello-world.md).
+
+* **创建 / Creation**: 归档 [Claude 重命名 Max 订阅计划：Max 5x 改为 Max，Max 20x 改为 Ultra](./sources/articles/claude-renames-max-plans-max-5x-to-max-max-20x-to-ultra.md)。 / Filed [Claude Renames Max Plans: Max 5x to Max, Max 20x to Ultra](./sources/articles/claude-renames-max-plans-max-5x-to-max-max-20x-to-ultra.md).
+
+* **创建 / Creation**: 归档 [Anthropic：Claude 通过“自我评估”标记对话潜在滥用](./sources/articles/anthropic-claude-flags-potential-conversation-misuse-via-self-as.md)。 / Filed [Anthropic: Claude flags potential conversation misuse via self-assessment](./sources/articles/anthropic-claude-flags-potential-conversation-misuse-via-self-as.md).
+
+* **创建 / Creation**: 归档 [Anthropic 发布自动化隐蔽涌现失位研究](./sources/articles/anthropic-publishes-research-on-automating-subtle-emergent-misal.md)。 / Filed [Anthropic Publishes Research on Automating Subtle Emergent Misalignment](./sources/articles/anthropic-publishes-research-on-automating-subtle-emergent-misal.md).
+
+* **创建 / Creation**: 归档 [OpenAI 扩大前沿模型失配监控系统](./sources/articles/openai-expands-frontier-model-misalignment-monitoring-system.md)。 / Filed [OpenAI Expands Frontier Model Misalignment Monitoring System](./sources/articles/openai-expands-frontier-model-misalignment-monitoring-system.md).
+
 ## 2026-11-01
 
 * **创建 / Creation**: 归档 [Grok Bot 五类自动触发方式](./sources/articles/five-automatic-trigger-methods-for-grok-bot.md)。 / Filed [Five Automatic Trigger Methods for Grok Bot](./sources/articles/five-automatic-trigger-methods-for-grok-bot.md).

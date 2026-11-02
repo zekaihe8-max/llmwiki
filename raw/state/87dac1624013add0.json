@@ -1,0 +1,23 @@
+{
+  "slug": "87dac1624013add0",
+  "url": "https://x.com/karpathy/status/2116957135661945283",
+  "title": "Andrej Karpathy (@karpathy)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "87dac1624013add0bd2f8a5d0115805b52e9e0d8231b5a540acebdf0c127e8dd",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:26.602Z",
+  "content_hash": "4e0d9cf8c8c5e9de8cff8e441f73b4540c48a3f3718650b41ef3b3390decd8a2",
+  "article_path": "articles/87dac1624013add0.md",
+  "fetched_url": "https://x.com/karpathy/status/2116957135661945283",
+  "source_path": "sources/articles/karpathy-builds-hackertube-over-a-weekend-with-claude-code-bypas.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T00:02:01.782Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

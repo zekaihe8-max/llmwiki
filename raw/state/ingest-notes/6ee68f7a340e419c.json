@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "涉及上下文压缩、提示缓存与时间感知等 Agent 上下文工程主题",
+    "topics/long-conversation-default-compression.md": "异步压缩属于长对话默认压缩范畴",
+    "topics/coding-agent-token-saving-tooling.md": "系统提示跨会话缓存与 Token 费用节省相关",
+    "topics/agent-auto-mode.md": "自动审查在执行前评估命令，与智能体自动模式相近"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及上下文压缩、提示缓存与时间感知等 Agent 上下文工程主题"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "异步压缩属于长对话默认压缩范畴"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "系统提示跨会话缓存与 Token 费用节省相关"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "自动审查在执行前评估命令，与智能体自动模式相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; all claims are attributed to the post and no external URLs are invented."
+}

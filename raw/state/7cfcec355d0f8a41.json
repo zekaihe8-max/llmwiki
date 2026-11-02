@@ -1,0 +1,23 @@
+{
+  "slug": "7cfcec355d0f8a41",
+  "url": "https://x.com/hwchase17/status/2116553654857867330",
+  "title": "Harrison Chase (@hwchase17)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "7cfcec355d0f8a418d6d8dc9cea98752e18167cb87517ca895f90273ac06427d",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:21.306Z",
+  "content_hash": "fdb2799ee21c71d94eae8a927414c609f957bea0c2f3b35bd268d32bc61b4ff3",
+  "article_path": "articles/7cfcec355d0f8a41.md",
+  "fetched_url": "https://x.com/hwchase17/status/2116553654857867330",
+  "source_path": "sources/articles/new-context-engineering-challenges-for-proactive-agents-in-late.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T00:00:28.609Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

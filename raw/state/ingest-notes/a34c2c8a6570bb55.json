@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/on-chip-agent-runtime.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/ai-native-companies.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/on-chip-agent-runtime.md": "帖文涉及在轨道卫星上启动 TPU 并运行提示词，与芯片/设备端 Agent 运行时最为贴近。",
+    "topics/agent-compute-and-governance.md": "涉及将 AI 算力部署到卫星轨道并执行指令，属于智能体算力与治理场景。",
+    "topics/ai-native-companies.md": "发帖人为 Google CEO Sundar Pichai，体现 AI 原生公司在太空基础设施上的探索。",
+    "topics/agentic-ai-foundation.md": "“hello world”里程碑属于 Agentic AI 的基础性里程碑事件。"
+  },
+  "topics": [
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在轨道卫星上启动 TPU 并运行提示词，与芯片/设备端 Agent 运行时最为贴近。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及将 AI 算力部署到卫星轨道并执行指令，属于智能体算力与治理场景。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "发帖人为 Google CEO Sundar Pichai，体现 AI 原生公司在太空基础设施上的探索。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "“hello world”里程碑属于 Agentic AI 的基础性里程碑事件。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有引用主题均保持 unchanged，未创建新主题。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:02:01.781Z",
+  "url": "https://x.com/karpathy/status/2116957135661945283",
+  "slug": "87dac1624013add0",
+  "content_hash": "4e0d9cf8c8c5e9de8cff8e441f73b4540c48a3f3718650b41ef3b3390decd8a2",
+  "source": {
+    "path": "sources/articles/karpathy-builds-hackertube-over-a-weekend-with-claude-code-bypas.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章明确提到使用 Claude Code 桌面应用并让其完成全部编码工作，与该主题直接相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "卡帕蒂仅担任指令下达者，由 Claude Code 负责服务器加固与部署，符合“个人 Agent 当包工头调度编程 Agent”的模式。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "周末快速构建原本需数周的项目，体现了 AI 编程降低门槛与改变工作流的特征，与该主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "文章明确提到使用 Claude Code 桌面应用并让其完成全部编码工作，与该主题直接相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "卡帕蒂仅担任指令下达者，由 Claude Code 负责服务器加固与部署，符合“个人 Agent 当包工头调度编程 Agent”的模式。",
+    "topics/vibe-coding-memory-paradox.md": "周末快速构建原本需数周的项目，体现了 AI 编程降低门槛与改变工作流的特征，与该主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/karpathy-builds-hackertube-over-a-weekend-with-claude-code-bypas.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/vibe-coding-memory-paradox.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "文章明确提到使用 Claude Code 桌面应用并让其完成全部编码工作，与该主题直接相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "卡帕蒂仅担任指令下达者，由 Claude Code 负责服务器加固与部署，符合“个人 Agent 当包工头调度编程 Agent”的模式。",
+      "topics/vibe-coding-memory-paradox.md": "周末快速构建原本需数周的项目，体现了 AI 编程降低门槛与改变工作流的特征，与该主题相近。"
+    },
+    "notes": "文章发布时间显示为 2026 年 11 月 1 日，所有事实均仅基于所提供推文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/karpathy-builds-hackertube-over-a-weekend-with-claude-code-bypas.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "72581e1b942c8bd2",
+  "url": "https://x.com/hwchase17/status/2116279214731395453",
+  "title": "Harrison Chase (@hwchase17)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "72581e1b942c8bd236aed06a1ac505ec7cbfc85344f10dc674444d083f4acbea",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:23.612Z",
+  "content_hash": "9378dfa8e00642b943a011a8e09535232bafe08e056822c07135a33df8d131a5",
+  "article_path": "articles/72581e1b942c8bd2.md",
+  "fetched_url": "https://x.com/hwchase17/status/2116279214731395453",
+  "source_path": "sources/articles/harrison-chase-agent-observability-is-more-like-databricks-for-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T00:00:50.387Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

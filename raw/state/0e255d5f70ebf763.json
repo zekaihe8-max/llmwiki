@@ -1,0 +1,23 @@
+{
+  "slug": "0e255d5f70ebf763",
+  "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+  "title": "Anthropic (@AnthropicAI)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "0e255d5f70ebf763a8fb358a9120306952e768e90aadab0d42026d9f1b05bff8",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:07.361Z",
+  "content_hash": "278fcbdd118adf83d3d59ba6f9d90add3abe2bf54e7d247d0053c7baf6b2acc7",
+  "article_path": "articles/0e255d5f70ebf763.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2116349211549843666",
+  "source_path": "sources/articles/anthropic-publishes-research-on-automating-subtle-emergent-misal.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T23:58:04.246Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

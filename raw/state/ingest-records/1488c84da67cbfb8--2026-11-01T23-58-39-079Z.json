@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-01T23:58:39.079Z",
+  "url": "https://x.com/claudeai/status/2116220869479428500",
+  "slug": "1488c84da67cbfb8",
+  "content_hash": "d323cffe9814c126c673c9f0ddc37016480beb8044f735aea9abc0d7d247fc8b",
+  "source": {
+    "path": "sources/articles/claude-renames-max-plans-max-5x-to-max-max-20x-to-ultra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章涉及订阅验证与欺诈防护，与风控权重主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章涉及高端 AI 订阅定价与档位重命名，与订阅价值主题相近。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文章涉及使用上限移除与周限额不变，与用量上限测试主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章涉及订阅验证与欺诈防护，与风控权重主题相近。",
+    "topics/premium-ai-subscription-value.md": "文章涉及高端 AI 订阅定价与档位重命名，与订阅价值主题相近。",
+    "topics/usage-limit-ab-tests.md": "文章涉及使用上限移除与周限额不变，与用量上限测试主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-renames-max-plans-max-5x-to-max-max-20x-to-ultra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "文章涉及订阅验证与欺诈防护，与风控权重主题相近。",
+      "topics/premium-ai-subscription-value.md": "文章涉及高端 AI 订阅定价与档位重命名，与订阅价值主题相近。",
+      "topics/usage-limit-ab-tests.md": "文章涉及使用上限移除与周限额不变，与用量上限测试主题相近。"
+    },
+    "notes": "来源为 X 帖文，所有主张均基于帖文内容，未引用外部定价页面。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-renames-max-plans-max-5x-to-max-max-20x-to-ultra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
