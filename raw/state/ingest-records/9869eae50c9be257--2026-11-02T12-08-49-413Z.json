@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:08:49.413Z",
+  "url": "https://x.com/yetone/status/2117168041461264656",
+  "slug": "9869eae50c9be257",
+  "content_hash": "f884815ca98c75432d8ba05b16d702c3acae5ce885bf7ef24a5075688aa31941",
+  "source": {
+    "path": "sources/articles/xianyu-4-9-yuan-and-cue-retry.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/hireable-group-chat-digest-agent.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "闲鱼属于本地二手交易场景，与本地小生意主题相邻"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "yetone 发帖内容与个人 Agent 及社区互动话题相近"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "4.9 元闲鱼交易涉及小额经济账目，与同行赚钱主题有松散关联"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "文中提到 Cue，可能涉及个人 AI 工具或代理使用体验"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "闲鱼属于本地二手交易场景，与本地小生意主题相邻",
+    "topics/personal-agent-hype-familiarity-gap.md": "文中提到 Cue，可能涉及个人 AI 工具或代理使用体验",
+    "topics/peer-economics-before-vibe-coding.md": "4.9 元闲鱼交易涉及小额经济账目，与同行赚钱主题有松散关联",
+    "topics/hireable-group-chat-digest-agent.md": "yetone 发帖内容与个人 Agent 及社区互动话题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xianyu-4-9-yuan-and-cue-retry.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-local-businesses.md",
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/hireable-group-chat-digest-agent.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-local-businesses.md": "闲鱼属于本地二手交易场景，与本地小生意主题相邻",
+      "topics/personal-agent-hype-familiarity-gap.md": "文中提到 Cue，可能涉及个人 AI 工具或代理使用体验",
+      "topics/peer-economics-before-vibe-coding.md": "4.9 元闲鱼交易涉及小额经济账目，与同行赚钱主题有松散关联",
+      "topics/hireable-group-chat-digest-agent.md": "yetone 发帖内容与个人 Agent 及社区互动话题相近"
+    },
+    "notes": "内容极短，仅为 X 帖文文本，未核实闲鱼交易细节与 Cue 身份。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xianyu-4-9-yuan-and-cue-retry.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

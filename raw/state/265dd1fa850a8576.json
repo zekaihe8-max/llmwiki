@@ -1,0 +1,23 @@
+{
+  "slug": "265dd1fa850a8576",
+  "url": "https://x.com/heydengai/status/2117114445667442858",
+  "title": "万字拆 Agent 记忆",
+  "digest": "2026-11-02-cn-x.md",
+  "status": "filed",
+  "hash": "265dd1fa850a857605ee961b9ac9e6a8bb01e7e7676301bb1ae36fdc3d021541",
+  "first_seen": "2026-11-02T12:02:55.180Z",
+  "last_seen": "2026-11-02T12:02:55.180Z",
+  "fetched_at": "2026-11-02T12:03:12.827Z",
+  "content_hash": "c27624af520144dfde3ec8c68d73963d4a4b7cd86760abbff18d79b8723f17c2",
+  "article_path": "articles/265dd1fa850a8576.md",
+  "fetched_url": "https://x.com/heydengai/status/2117114445667442858",
+  "source_path": "sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T12:19:17.031Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

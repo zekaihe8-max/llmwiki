@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "会议纪要属于 AI 辅助笔记与媒体内容整理，与该话题聚焦的剪藏与笔记场景最接近。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "录音转写、口头内容转文书纪要与该话题的语音输入口头转述与文书整理直接相关。",
+    "topics/ux-dx-and-ax.md": "独立任务并行显示、超时控制、分支跳转原话等属于用户体验与交互设计决策。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "会议纪要属于 AI 辅助笔记与媒体内容整理，与该话题聚焦的剪藏与笔记场景最接近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "录音转写、口头内容转文书纪要与该话题的语音输入口头转述与文书整理直接相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "独立任务并行显示、超时控制、分支跳转原话等属于用户体验与交互设计决策。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未独立核实的主张均已用「帖文称」限定；未编造超出推文内容的 URL 或事实。"
+}

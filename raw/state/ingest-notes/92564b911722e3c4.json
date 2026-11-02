@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/hunger-beats-tenure.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论AI原生公司与大厂的对比，契合扣子终结与创业公司寿命的对比主题。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "关注大厂AI产品与编制，契合字节AI产品线终结的背景。",
+    "topics/lab-inference-serving-cost-efficiency.md": "涉及大厂AI推理成本效率，与大厂AI产品线生死相关。",
+    "topics/hunger-beats-tenure.md": "对比冲劲与资历，契合创业公司产品可能比大厂产品活得更久的观点。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论AI原生公司与大厂的对比，契合扣子终结与创业公司寿命的对比主题。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "关注大厂AI产品与编制，契合字节AI产品线终结的背景。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及大厂AI推理成本效率，与大厂AI产品线生死相关。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "对比冲劲与资历，契合创业公司产品可能比大厂产品活得更久的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于单条X帖文，未核实字节具体终结的产品线数量与名称。"
+}

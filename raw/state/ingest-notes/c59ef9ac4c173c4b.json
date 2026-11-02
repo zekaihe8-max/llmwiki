@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文涉及 Grok Bot 与外部平台的对接与额度使用，与该主题高度相关。",
+    "topics/personal-agent-share-and-interbot-chat.md": "帖文核心是将微信聊天记录分享给 Grok Bot 并与 Bot 交互，属于个人 Agent 对外分享与 Bot 互聊场景。",
+    "topics/account-and-asset-security-hygiene.md": "帖文专门回应微信封号风险，涉及账号安全与合规卫生。",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文描述将筛选后的微信聊天记录剪藏/发送给 AI 做上下文，属于 AI 辅助剪藏与笔记场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Grok Bot 与外部平台的对接与额度使用，与该主题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "帖文核心是将微信聊天记录分享给 Grok Bot 并与 Bot 交互，属于个人 Agent 对外分享与 Bot 互聊场景。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文专门回应微信封号风险，涉及账号安全与合规卫生。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文描述将筛选后的微信聊天记录剪藏/发送给 AI 做上下文，属于 AI 辅助剪藏与笔记场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "封号无风险的说法仅为帖文自称，未经独立核实。"
+}

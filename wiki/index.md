@@ -26,6 +26,106 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [拆解 poteto Grok Bot 使用指南：少猜、好检查、技能留存 / Dissecting poteto's Grok Bot Usage Guide: Less Guessing, Easier Checking, Skill Retention](./sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md) — 拆解 poteto 的 Grok Bot 指南，讲创建、协作与自动化，核心是让 bot 少猜、人更易检查。 / Dissecting poteto's Grok Bot guide covering creation, collaboration and automation, with the core principle of letting bots guess less and making outputs easier for humans to check.
+
+- [开源 AI 交易组合：Kronos + day-trader-skill / Open Source AI Trading Portfolio: Kronos + day-trader-skill](./sources/articles/open-source-ai-trading-portfolio-kronos-day-trader-skill.md) — Kronos 负责 K 线行情预测，day-trader-skill 负责 Claude 日内交易执行，两者组成开源交易组合。 / Kronos handles K-line market prediction while day-trader-skill handles Claude-based intraday trading execution, forming an open-source trading combo.
+
+- [给 DeepSeek Harness 养一只 dsh-pet 桌面宠物 / Raise a dsh-pet desktop pet for DeepSeek Harness](./sources/articles/raise-a-dsh-pet-desktop-pet-for-deepseek-harness.md) — 帖文介绍社区项目 dsh-pet，为 DeepSeek Harness 增加超百种动画、余额查询、聊天及工作状态联动的桌面宠物插件 / The post introduces community project dsh-pet, a DeepSeek Harness plugin desktop pet with over 100 animations, balance queries, chat, and work-state linkage
+
+- [普通人把琐事交给 Grok Bot / Ordinary People Delegate Daily Chores to Grok Bot](./sources/articles/ordinary-people-delegate-daily-chores-to-grok-bot.md) — 帖文称普通人开始将日常琐事交给 Grok Bot 处理，并列举了追溯家族根源、省网费、买礼物等案例。 / The post claims ordinary people are handing daily chores to Grok Bot, citing cases such as tracing family roots, saving on internet bills, and buying gifts.
+
+- [开源去 slop Claude Skill 推荐 / Open-source Unslop Claude Skill Recommendation](./sources/articles/open-source-unslop-claude-skill-recommendation.md) — 推荐一个免费的开源 Claude 技能，用于去除登录页、仪表盘和移动端应用中的 AI slop。 / Recommends a free open-source Claude skill for removing AI slop from login pages, dashboards, and mobile apps.
+
+- [租 B300 转卖成 AI 创业常见模式 / Renting B300s and reselling inference becomes a common AI startup model](./sources/articles/renting-b300s-and-reselling-inference-becomes-a-common-ai-startu.md) — 创业者通过租赁 B300 并自行部署后转卖推理服务，而非专注打磨产品。 / Entrepreneurs rent B300 GPUs, self-deploy models, and resell inference services instead of focusing on product refinement.
+
+- [Shisei 姿势库新增 484 件四视角服装，含 57 件中国历代服饰，代码开源图片 CC0 / Shisei pose library adds 484 four-view outfits including 57 Chinese historical costumes, code open-source and images CC0](./sources/articles/shisei-pose-library-adds-484-four-view-outfits-including-57-chin.md) — WquGuru 为开源姿势参考库 Shisei 增加搭配托盘，收录 484 件四视角服装及 57 件商至民国中国历代服饰，代码开源、图片 CC0 免费商用。 / WquGuru adds an outfit tray to the open-source pose reference library Shisei, with 484 four-view outfits including 57 Chinese historical costumes from Shang to Republic; code is open-source and images are CC0 free for commercial use.
+
+- [Shisei 姿势库：1000+ 组姿势参考图免费商用，可接 ControlNet 与视频模型 / Shisei Pose Library: 1000+ Free Pose References for ControlNet and Video Models](./sources/articles/shisei-pose-library-1000-free-pose-references-for-controlnet-and.md) — WquGuru 发布开源姿势库 Shisei，提供超 1000 组姿势的线稿、白模、深度和法线图，支持多机位且可商用，适合 ControlNet 与视频生成模型。 / WquGuru releases open-source pose library Shisei, offering over 1,000 pose sets with line art, white models, depth and normal maps, multi-angle and commercially free, suited for ControlNet and video generation models.
+
+- [用 REA 拆解飞书会议纪要：Mac 端录音转写与 AI 纪要设计 / Deconstructing Lark Meeting Minutes with REA: Mac Recording Transcription and AI Minutes Design](./sources/articles/deconstructing-lark-meeting-minutes-with-rea-mac-recording-trans.md) — 帖文称通过 REA 拆解飞书桌面端会议纪要工程设计，并基于此开发即将开源的 Mac 版本。 / The post claims to deconstruct Lark desktop meeting minutes engineering via REA and develop an upcoming open-source Mac version based on it.
+
+- [OpenRouter Token 用量暴涨，年化吞吐首次突破 1 京 / OpenRouter Token Usage Surges, Annualized Throughput Exceeds 10 Quadrillion](./sources/articles/openrouter-token-usage-surges-annualized-throughput-exceeds-10-q.md) — OpenRouter 单周处理约 194 万亿 Token，年化吞吐首次突破 1 京，AI Agent 成为主要增长动力。 / OpenRouter processed about 1.94 quadrillion tokens in one week, with annualized throughput exceeding 10 quadrillion for the first time, driven mainly by AI agents.
+
+- [腾讯混元 Hyra 2.0：让 AI 从解题走向自主造工具 / Tencent Hunyuan Hyra 2.0: Letting AI Move from Problem-Solving to Autonomous Tool-Building](./sources/articles/tencent-hunyuan-hyra-2-0-letting-ai-move-from-problem-solving-to.md) — 帖文称腾讯混元发布三层架构的科研 Agent Hyra 2.0，支持 AI 持续开展数天至数周研究，并沉淀可复用 Skill。 / The post says Tencent Hunyuan released Hyra 2.0, a three-layer research Agent supporting AI research spanning days to weeks and accumulating reusable Skills.
+
+- [Vercel Labs 推出开源桌面操作工具 agent-desktop / Vercel Labs releases open-source desktop control tool agent-desktop](./sources/articles/vercel-labs-releases-open-source-desktop-control-tool-agent-desk.md) — Vercel Labs 的开源工具 agent-desktop 让 AI Agent 可通过系统无障碍接口直接操作 macOS、Windows、Linux 上的桌面应用。 / Vercel Labs' open-source tool agent-desktop lets AI agents directly control desktop applications on macOS, Windows, and Linux via system accessibility interfaces.
+
+- [Anthropic 11 月 12 日新规：Claude 反代与订阅转卖纳入打击范围 / Anthropic Nov 12 Rules: Claude Proxy and Subscription Resale Targeted](./sources/articles/anthropic-nov-12-rules-claude-proxy-and-subscription-resale-targ.md) — Anthropic 即将于 11 月 12 日生效的 Claude 新政策，明确禁止将消费订阅额度包装成第三方 API 对外收费，以及伪装客户端绕过访问限制。 / Anthropic's Claude policy effective Nov 12 bans repackaging consumer subscription quotas as paid third-party APIs and impersonating official clients to bypass access limits.
+
+- [三账号登录死循环：X、Grok 与 Cursor 互相跳转 / Three-account login loop: X, Grok, and Cursor redirecting to each other](./sources/articles/three-account-login-loop-x-grok-and-cursor-redirecting-to-each-o.md) — 用户在 X、Grok 和 Cursor 三者间循环登录，最终仍被要求订阅，吐槽平台账号合并与权益识别失效 / A user is stuck in a login loop among X, Grok, and Cursor, only to be asked for a subscription, complaining about platform account merging and entitlement recognition failure.
+
+- [A 社封号经济学 / The Economics of Account Bans at Company A](./sources/articles/the-economics-of-account-bans-at-company-a.md) — 帖文称 A 社因封号损失 5%–7% 收入，但为防止模型蒸馏、保住代际差与推理毛利而执行封号。 / The post claims Company A lost 5–7% of revenue from bans, but enforces them to prevent model distillation, preserve generational gaps, and protect inference gross margins.
+
+- [扣子故事结束：字节AI产品线终结 / Kouzi Story Ends: ByteDance AI Product Lines Terminated](./sources/articles/kouzi-story-ends-bytedance-ai-product-lines-terminated.md) — 扣子（Coze）故事结束，字节多条AI产品线随之终结，大厂产品寿命或不及创业公司。 / The Kouzi (Coze) story ends as multiple ByteDance AI product lines are terminated; big tech product lifespans may not outlast startup products.
+
+- [乔木 SimpleUI 开源代码 / Qiaomu SimpleUI Open Source Code](./sources/articles/qiaomu-simpleui-open-source-code.md) — 向阳乔木在 X 上分享 joeseesun/qiaomu-simpleui 开源代码，用于 Kindle/KOReader 手机式阅读首页，含划线 AI 翻译与问答。 / Xiangyang Qiaomu shares joeseesun/qiaomu-simpleui open-source code on X for a phone-like Kindle/KOReader reading homepage, including line-highlight AI translation and Q&A.
+
+- [二手 Kindle Paperwhite 5 越狱后装 KOReader 并接入乔木 AI RSS / Second-hand Kindle Paperwhite 5 jailbroken with KOReader and Qiaomu AI RSS](./sources/articles/second-hand-kindle-paperwhite-5-jailbroken-with-koreader-and-qia.md) — 用户以 520 元入手二手 Kindle Paperwhite 5，越狱后安装 KOReader + SimpleUI，并接入乔木 AI RSS 实现 AI 对话与流式输出。 / The user bought a second-hand Kindle Paperwhite 5 for 520 yuan, jailbroken it, installed KOReader + SimpleUI, and integrated Qiaomu AI RSS for AI chat and streaming output.
+
+- [将 HackerNews 2006–2026 提及论文做成中文导读网站 / HackerNews Papers Site 2006–2026 with Chinese Guides](./sources/articles/hackernews-papers-site-2006-2026-with-chinese-guides.md) — 帖文称作者利用 Huggingface 上的 HackerNews 数据，将 2006 至 2026 年提及的论文做成带中文导读的网站 hackerpapers.qiaomu.ai。 / The post says the author used HackerNews data from Huggingface to build a site at hackerpapers.qiaomu.ai covering papers mentioned from 2006 to 2026, with Chinese guides.
+
+- [下载评：Hacker News 数据集在 Hugging Face 提供下载 / Download Review: Hacker News Dataset Available on Hugging Face](./sources/articles/download-review-hacker-news-dataset-available-on-hugging-face.md) — 帖文分享 Hugging Face 上的 Hacker News 数据集下载地址。 / The post shares a Hacker News dataset download link on Hugging Face.
+
+- [HuggingFace 上可下载 12G HackerNews 数据集 / 12G HackerNews Dataset Downloadable on HuggingFace](./sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md) — 帖文称 HuggingFace 上可直接下载 12G HackerNews 数据，并提及 Andrej Karpathy 曾用此类数据开发 HackerTube。 / The post claims a 12G HackerNews dataset is directly downloadable on HuggingFace, and mentions Andrej Karpathy used similar data to develop HackerTube.
+
+- [法律当巨型 Git / Law as a Giant Git](./sources/articles/law-as-a-giant-git.md) — 程序员将全球法律纳入 Git 版本控制，AI Agent 可像读代码一样读法律。 / Programmers put global law under Git version control so AI Agents can read law like code.
+
+- [AI 干回软件外包 / AI Comes Full Circle to Software Outsourcing](./sources/articles/ai-comes-full-circle-to-software-outsourcing.md) — AI 行业三年快速演进后，发现最稳定的商业模式仍是传统软件外包：理解需求、开发、交付、驻场维护。 / After three years of rapid AI evolution, the industry finds the most stable business model remains traditional software outsourcing: understanding requirements, development, delivery, and on-site maintenance.
+
+- [万字拆 Agent 记忆：40+ 开源系统按写路径分 9 原型 / 10,000-Word Breakdown of Agent Memory: 40+ Open Source Systems Classified into 9 Prototypes by Write Path](./sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md) — 帖文拆解 40 多个开源 Agent 记忆系统，按写路径归为 9 种原型，并给出对比表、踩坑清单与选型决策树。 / The post breaks down 40+ open-source Agent memory systems, classifies them into 9 prototypes by write path, and provides comparison tables, pitfall lists, and a selection decision tree.
+
+- [做出来≠上生产：资深开发者为何对 Coding Agent 保持警惕 / Built ≠ Production-Ready: Why Senior Developers Stay Wary of Coding Agents](./sources/articles/built-production-ready-why-senior-developers-stay-wary-of-coding.md) — 资深开发者并非拒绝 AI 编程助手，而是担忧 agent 生成的代码能否安全、稳定地运行在生产环境并持续演进。 / Senior developers are not rejecting AI coding assistants, but worry whether agent-generated code can run safely and stably in production and keep evolving.
+
+- [斯坦福 CS329A 自改进 AI 智能体课程推荐 / Stanford CS329A Self-Improving AI Agents Course Recommendation](./sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md) — 推荐斯坦福 CS329A 自改进 AI 智能体研究生研讨课，全部 9 讲已上架 YouTube / Recommends Stanford CS329A Self-Improving AI Agents graduate seminar, all 9 lectures now on YouTube
+
+- [OpenRouter 可验证 AI 代码审查 / OpenRouter Verifiable AI Code Review](./sources/articles/openrouter-verifiable-ai-code-review.md) — OpenRouter 发布基于 Responses API 的可验证 AI 代码审查脚本，通过沙箱复现与补丁验证将审查发现标记为 confirmed 或 unconfirmed。 / OpenRouter releases a verifiable AI code review script based on the Responses API, marking findings confirmed or unconfirmed via sandbox reproduction and patch verification.
+
+- [浙大团队开源个人 Agent 系统 nanoMuse，对标 Meta Muse / Zhejiang University Team Open-Sources Personal Agent System nanoMuse, Benchmarked Against Meta Muse](./sources/articles/zhejiang-university-team-open-sources-personal-agent-system-nano.md) — 浙大团队发布开源个人 Agent 系统报告并开源 nanoMuse，以 Meta Muse 为参照定义个人 Agent 形态。 / A Zhejiang University team released an open-source personal agent system report and open-sourced nanoMuse, using Meta Muse as a reference to define what a personal agent should look like.
+
+- [跟进 Grok Bot Anywhere：微信对话接入 Grok Bot / Following Grok Bot Anywhere: WeChat Conversations Connected to Grok Bot](./sources/articles/following-grok-bot-anywhere-wechat-conversations-connected-to-gr.md) — 铁柱AGI 开发的 Grok Bot Anywhere 让 Mac 用户可将微信聊天记录及系统上下文送入 Grok Bot，现面向内测招募。 / Tie Zhu AGI's Grok Bot Anywhere lets Mac users send WeChat chat records and system context to Grok Bot, now recruiting internal testers.
+
+- [卡兹克飞书事件中台：一年 Agent 自动化实践 / Khazix Feishu Event Middle Platform: One Year of Agent Automation Practice](./sources/articles/khazix-feishu-event-middle-platform-one-year-of-agent-automation.md) — 帖文称卡兹克历时近一年构建以飞书事件为触发的 Agent 自动化中台，支撑 AIHOT 与公司中台迭代。 / The post says Khazix spent nearly a year building a Feishu-event-triggered Agent automation middle platform supporting AIHOT and company middle-platform iteration.
+
+- [Poteto Grok Bot 使用指南拆解：少猜可查，先设计岗位再创建 Agent / Deconstructing Poteto Grok Bot Usage Guide: Guess Less, Design Role Before Creating Agent](./sources/articles/deconstructing-poteto-grok-bot-usage-guide-guess-less-design-rol.md) — 拆解 Poteto 的 Grok Bot 使用指南，核心是明确职责边界、先设计岗位再创建 Agent，并通过复述和 Skill 固化长期规则。 / Deconstructing Poteto's Grok Bot usage guide, core is clarifying responsibility boundaries, designing role before creating Agent, and fixing long-term rules via restatement and Skill.
+
+- [Grok Bot Anywhere 发布：群码热更，用户无感知 / Grok Bot Anywhere Launches: Group QR Code Hot Swap, Users Unaware](./sources/articles/grok-bot-anywhere-launches-group-qr-code-hot-swap-users-unaware.md) — Grok Bot Anywhere 通过更换群内二维码将满员群导向四个新群，入口对用户保持不变。 / Grok Bot Anywhere redirects a full group to four new groups by swapping the in-group QR code while keeping the entry unchanged for users.
+
+- [新订阅额度未恢复：新用户或因用量耗尽，老用户建议邮件询问 / New subscription quota not restored: new users may have exhausted usage, old users advised to email inquiry](./sources/articles/new-subscription-quota-not-restored-new-users-may-have-exhausted.md) — 帖文称新订阅额度未恢复可能因用量耗尽，老订阅用户建议发邮件询问，并提及 Grok Bot 额度异常已恢复。 / The post says new subscription quotas may not restore due to exhausted usage, old subscription users should email for inquiry, and mentions Grok Bot quota anomaly has been restored.
+
+- [额度异常已恢复：Grok Bot 用户称用量曾达 94% / Quota Abnormality Recovered: Grok Bot User Says Usage Once Reached 94%](./sources/articles/quota-abnormality-recovered-grok-bot-user-says-usage-once-reache.md) — 用户在 X 上发帖称 Grok Bot 额度异常已恢复，此前因用量显示异常升高曾感到焦虑。 / User posted on X that Grok Bot quota abnormality has recovered, after previously feeling anxious due to abnormally high usage display.
+
+- [微信封号说明与 Grok Bot Anywhere 接入 / WeChat Ban Clarification and Grok Bot Anywhere Integration](./sources/articles/wechat-ban-clarification-and-grok-bot-anywhere-integration.md) — 帖文称通过微信官方聊天记录出口接入 Grok Bot，未改造微信，声称无封号风险。 / The post claims Grok Bot Anywhere connects via WeChat's official chat record export without modifying WeChat, and states there is no account ban risk.
+
+- [Grok Bot Anywhere：微信与 Mac 接入 Grok Bot 的内测工具 / Grok Bot Anywhere: WeChat and Mac Access Tool for Grok Bot in Internal Testing](./sources/articles/grok-bot-anywhere-wechat-and-mac-access-tool-for-grok-bot-in-int.md) — 铁柱AGI 宣布 Grok Bot Anywhere 已打通微信并上线 Mac 内测，支持快捷键悬浮输入、聊天记录转发、文件分享及多 Bot 调用。 / Tiezhu AGI announces Grok Bot Anywhere has connected WeChat and launched Mac internal testing, supporting hotkey floating input, chat record forwarding, file sharing, and multi-Bot invocation.
+
+- [大失败，再用 Cue 试试 / Big Failure, Try Cue Again](./sources/articles/big-failure-try-cue-again.md) — yetone 在 X 上发帖称一次尝试大失败，计划再用 Cue 试试，并提及另一款“美国软件注册师”工具。 / yetone posted on X that an attempt ended in big failure, plans to try Cue again, and mentions another “US software registration master” tool.
+
+- [美国软件注册师任务 / US Software Registrar Task](./sources/articles/us-software-registrar-task.md) — 用户在 X 上发布“试试我的美国软件注册师”并附图，同时转发询问如何使用 Muse 的推文 / User posts 'Try my US software registrar' on X with a photo and quotes a follow-up asking how to use Muse
+
+- [如何上手使用 Muse / How to get started with Muse](./sources/articles/how-to-get-started-with-muse.md) — 用户在 X 上发帖询问社区如何使用 Muse。 / A user posts on X asking the community how to use Muse.
+
+- [闲鱼段 / Xianyu 4.9 Yuan and Cue Retry](./sources/articles/xianyu-4-9-yuan-and-cue-retry.md) — yetone 在 X 发帖称在闲鱼以 4.9 元搞定某事，随后称大失败并准备再用 Cue 试试。 / yetone posts on X that something was settled for 4.9 yuan on Xianyu, then calls it a big failure and plans to try Cue again.
+
+- [第一轮找壁纸最高清版：个人 Agent 能力实测 / First-Round Wallpaper Highest-Resolution Test: Personal Agent Capability Evaluation](./sources/articles/first-round-wallpaper-highest-resolution-test-personal-agent-cap.md) — 帖文称多个个人 Agent 在壁纸寻源任务中表现不一，只有 Alma 通过超分处理获得更高清图片。 / The post claims that multiple personal agents performed unevenly on a wallpaper sourcing task, with only Alma obtaining a higher-resolution image via super-resolution.
+
+- [Personal Agent 大考核开场 / Personal Agent Big Assessment Begins](./sources/articles/personal-agent-big-assessment-begins.md) — yetone 在 X 上宣布开始 Personal Agent 大考核，并附带一张照片；同一账号此前提到在闲鱼以 4.9 元搞定某事。 / yetone announces on X the start of the Personal Agent big assessment with an attached photo; the same account previously mentioned resolving something on Xianyu for 4.9 yuan.
+
+- [Grok Bot 省额度 5 招 / 5 Tips to Save Grok Bot Membership Quota](./sources/articles/5-tips-to-save-grok-bot-membership-quota.md) — 小墨同学在 X 上分享 5 条节省 Grok Bot 30 美元会员额度的方法 / Xiaomovps shares five methods on X to save Grok Bot's 30 USD membership quota
+
+- [Grok Bot 电话通话功能上线 / Grok Bot Phone Call Feature Launched](./sources/articles/grok-bot-phone-call-feature-launched.md) — Grok Bot 现支持在美国拨打电话，通话前需用户确认并告知对方是 AI 虚拟助手，提供实时字幕与录音回放。 / Grok Bot now supports phone calls in the US, requiring user confirmation before dialing and disclosing it is an AI virtual assistant, with real-time subtitles and call recordings.
+
+- [别在 Grok Bot 云主机跑 Claude Code / Don't Run Claude Code on Grok Bot Cloud Hosts](./sources/articles/don-t-run-claude-code-on-grok-bot-cloud-hosts.md) — 小墨同学警告，Grok Bot 云主机 IP 不稳定且可能重置，跑 Claude Code 存在账号风险与额度浪费。 / Xiaomovps warns that Grok Bot cloud host IPs are unstable and may reset, posing account risks and quota waste when running Claude Code.
+
+- [马斯克回应Grok Bot亏损，预警额度可能下调 / Musk says Grok Bot operates at a loss, warns usage quotas may be reduced](./sources/articles/musk-says-grok-bot-operates-at-a-loss-warns-usage-quotas-may-be.md) — 帖文称马斯克已回应Grok Bot处于亏损运营，预计后续会降低额度，并给出升级套餐、寻找替代或回归开源等建议。 / The post claims Musk has confirmed Grok Bot is running at a loss and warns that quotas may be cut, offering suggestions such as upgrading plans, finding alternatives, or returning to open source.
+
+- [语音输入吐槽：微信输入法反超 Typeless / Voice-input rant: WeChat Input Method surpasses Typeless](./sources/articles/voice-input-rant-wechat-input-method-surpasses-typeless.md) — 用户在 X 上吐槽 Typeless 越来越弱智，称微信输入法语音输入现在更好。 / User complains on X that Typeless is getting dumber, saying WeChat Input Method's voice input is now much better.
+
+- [Karpathy HackerTube 再提 / Karpathy HackerTube Revisited](./sources/articles/karpathy-hackertube-revisited.md) — 卡帕蒂利用 Claude Opus 筛选 Hacker News 20 年评论，自建 HackerTube 视频网站以逃避 YouTube 推荐。 / Karpathy used Claude Opus to filter 20 years of Hacker News comments and built HackerTube to escape YouTube recommendations.
+
+- [Grok Bot 服务成本不可持续 / Grok Bot Serving Cost Unsustainable Relative to Revenue](./sources/articles/grok-bot-serving-cost-unsustainable-relative-to-revenue.md) — Elon Musk 称运行 Grok Bot 的服务成本相对收入不可持续。 / Elon Musk says the cost of serving Grok Bot is unsustainably high relative to revenue.
+
+- [补贴扛不住与额度跳变 / Subsidies Unsustainable and Quota Sudden Jump](./sources/articles/subsidies-unsustainable-and-quota-sudden-jump.md) — 帖文称马斯克因成本过高无法持续补贴 Grok Bot，模型路由下调且用户额度突然大幅缩水。 / The post says Musk can no longer sustainably subsidize Grok Bot due to excessive costs, with model routing reduced and user quotas suddenly shrinking sharply.
+
 - [如果 AI 前你也能做，就说明没用够 AI / If you could have done it before AI, you're not pushing AI enough](./sources/articles/if-you-could-have-done-it-before-ai-you-re-not-pushing-ai-enough.md) — 艾伦·利维提出 AI 使用的试金石：若 AI 前已能完成，就说明没用够 AI。 / Aaron Levie proposes a litmus test: if you could have done it before AI, you're not pushing AI enough.
 
 - [Addy Osmani 分享 Claude Code「ultrathink」技巧 / Addy Osmani shares Claude Code "ultrathink" tip](./sources/articles/addy-osmani-shares-claude-code-ultrathink-tip.md) — Addy Osmani 在 X 上发布 Claude Code 终端技巧：任务比预期更难时输入 ultrathink，可提升当前轮次剩余时间的努力程度。 / Addy Osmani shares a Claude Code terminal tip on X: type ultrathink when a task is harder than expected to raise effort for the rest of the turn.

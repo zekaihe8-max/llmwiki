@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "文章涉及 Grok Bot 在 X 平台上的使用，与该话题中 Grok Bot 内置额度桥接 Agent 查 X 相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "文章讨论 Grok Bot 在 X 上的角色，与 Grok Bot 管 X 相关但不涉及代发帖。",
+    "topics/dsh-grok-cross-dispatch.md": "文章涉及 Grok Bot 社区互派与日常任务处理，与该话题相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "文章描述普通人将琐事交给 AI，与“哪些活已放心交给 AI”主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Grok Bot 在 X 平台上的使用，与该话题中 Grok Bot 内置额度桥接 Agent 查 X 相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Grok Bot 在 X 上的角色，与 Grok Bot 管 X 相关但不涉及代发帖。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Grok Bot 社区互派与日常任务处理，与该话题相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章描述普通人将琐事交给 AI，与“哪些活已放心交给 AI”主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "发布日期显示为 2026 年 11 月 2 日，均按抓取内容原文保留，未做事实核查。"
+}

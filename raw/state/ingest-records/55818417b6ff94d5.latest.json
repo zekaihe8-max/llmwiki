@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:17:58.874Z",
+  "url": "https://x.com/shao__meng/status/2116901124716347815",
+  "slug": "55818417b6ff94d5",
+  "content_hash": "6491b33cf79b9c094cfc3915cc9708b69f2cb81e35ce1176ff32c844779c208f",
+  "source": {
+    "path": "sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "自改进智能体体现 Agent 自动模式的探索方向"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "课程涉及从采样到训练更强模型的工程化循环，与智能体规模化工程相关"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "课程聚焦自改进智能体，与智能体 AI 基础主题最为贴近"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "智能体自我改进依赖上下文与验证机制，与面向 Agent 的上下文工程相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "课程聚焦自改进智能体，与智能体 AI 基础主题最为贴近",
+    "topics/agent-scaled-engineering.md": "课程涉及从采样到训练更强模型的工程化循环，与智能体规模化工程相关",
+    "topics/context-engineering-for-agents.md": "智能体自我改进依赖上下文与验证机制，与面向 Agent 的上下文工程相关",
+    "topics/agent-auto-mode.md": "自改进智能体体现 Agent 自动模式的探索方向"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "课程聚焦自改进智能体，与智能体 AI 基础主题最为贴近",
+      "topics/agent-scaled-engineering.md": "课程涉及从采样到训练更强模型的工程化循环，与智能体规模化工程相关",
+      "topics/context-engineering-for-agents.md": "智能体自我改进依赖上下文与验证机制，与面向 Agent 的上下文工程相关",
+      "topics/agent-auto-mode.md": "自改进智能体体现 Agent 自动模式的探索方向"
+    },
+    "notes": "所有主张均基于推文内容，未独立核实课程细节；URL 均来自文章原文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

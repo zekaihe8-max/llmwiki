@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文描述的审查流程由模型在沙箱中自主检查并提交补丁，属于智能体自动模式的典型应用。",
+    "topics/coding-agent-token-saving-tooling.md": "文中详细对比了不同模型的 token 费用、沙箱秒费与总成本，涉及编程 Agent 的开销与工具选型。",
+    "topics/agent-scaled-engineering.md": "审查器可挂 pre-push 或 GitHub Actions，并讨论 base 分支锁定、fork PR 跳过等工程接入方式，属于智能体规模化工程。",
+    "topics/agent-compute-and-governance.md": "托管 Linux 沙箱、默认无外网、沙箱计费等涉及智能体算力与治理边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述的审查流程由模型在沙箱中自主检查并提交补丁，属于智能体自动模式的典型应用。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中详细对比了不同模型的 token 费用、沙箱秒费与总成本，涉及编程 Agent 的开销与工具选型。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "审查器可挂 pre-push 或 GitHub Actions，并讨论 base 分支锁定、fork PR 跳过等工程接入方式，属于智能体规模化工程。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "托管 Linux 沙箱、默认无外网、沙箱计费等涉及智能体算力与治理边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实平台声明，所有事实均基于提供的推文正文。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:07:20.044Z",
+  "url": "https://x.com/xiaomovps/status/2116875018911010829",
+  "slug": "3b51b4d7a75d346a",
+  "content_hash": "7fa6e45ddaead780dc262cfe1ccddbef4cfffc572e5eff79a16a35c3669187ce",
+  "source": {
+    "path": "sources/articles/5-tips-to-save-grok-bot-membership-quota.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心是编程 Agent 省 Token/额度的工具与方法，与该主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Grok Bot 额度与使用体验的权衡，如浏览器操作 vs CLI、任务范围限制。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "第一条建议涉及新建会话以减少历史上下文消耗，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "作者建议 Grok Bot 主要负责管理调度，简单任务交给便宜模型，复杂任务交给 Coding Agent，符合个人 Agent 当包工头的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章核心是编程 Agent 省 Token/额度的工具与方法，与该主题直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文讨论 Grok Bot 额度与使用体验的权衡，如浏览器操作 vs CLI、任务范围限制。",
+    "topics/context-engineering-for-agents.md": "第一条建议涉及新建会话以减少历史上下文消耗，属于 Agent 上下文工程范畴。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "作者建议 Grok Bot 主要负责管理调度，简单任务交给便宜模型，复杂任务交给 Coding Agent，符合个人 Agent 当包工头的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/5-tips-to-save-grok-bot-membership-quota.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "文章核心是编程 Agent 省 Token/额度的工具与方法，与该主题直接相关。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文讨论 Grok Bot 额度与使用体验的权衡，如浏览器操作 vs CLI、任务范围限制。",
+      "topics/context-engineering-for-agents.md": "第一条建议涉及新建会话以减少历史上下文消耗，属于 Agent 上下文工程范畴。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "作者建议 Grok Bot 主要负责管理调度，简单任务交给便宜模型，复杂任务交给 Coding Agent，符合个人 Agent 当包工头的思路。"
+    },
+    "notes": "来源仅为 X 帖文及其附带图片链接文本，未引用图片内不可见内容；未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/5-tips-to-save-grok-bot-membership-quota.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

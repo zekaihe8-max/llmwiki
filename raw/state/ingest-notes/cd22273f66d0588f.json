@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/company-agent-harness.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心主张“用事件把起点从人身上拿掉”，与智能体自动模式的事件触发、免开窗口直接干活直接对应。",
+    "topics/agent-scaled-engineering.md": "文中自建 CI 中台、两周 298 个 PR、中位 2–3 分钟上线等属智能体规模化工程与交付基建。",
+    "topics/company-agent-harness.md": "帖文提到公司中台用同一套思路五天迭代一轮，属公司级 Agent Harness 落地。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "文中 Claude/GPT/Skill 分工调度，相当于个人 Agent 当包工头调度编程 Agent。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心主张“用事件把起点从人身上拿掉”，与智能体自动模式的事件触发、免开窗口直接干活直接对应。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中自建 CI 中台、两周 298 个 PR、中位 2–3 分钟上线等属智能体规模化工程与交付基建。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到公司中台用同一套思路五天迭代一轮，属公司级 Agent Harness 落地。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文中 Claude/GPT/Skill 分工调度，相当于个人 Agent 当包工头调度编程 Agent。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实主张已用「帖文称」标注；模型版本号（Claude Opus 5.5、GPT-6.1 等）仅按帖文原文引用，未独立验证。"
+}

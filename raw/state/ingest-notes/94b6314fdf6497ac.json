@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-skill-authoring.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文推广一款名为“美国软件注册师”的软件工具，与软件工厂类主题最为贴近",
+    "topics/agent-skill-authoring.md": "注册师工具可能表现为 Agent Skill 或自动化能力，与 Agent Skill 编写主题相关",
+    "topics/computer-use.md": "软件注册与使用涉及计算机操作，与 Computer Use 主题有交集"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文推广一款名为“美国软件注册师”的软件工具，与软件工厂类主题最为贴近"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "注册师工具可能表现为 Agent Skill 或自动化能力，与 Agent Skill 编写主题相关"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "软件注册与使用涉及计算机操作，与 Computer Use 主题有交集"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章仅为一条极短的 X 推文及其引用，未提供关于“美国软件注册师”或“Muse”的更多事实细节，因此主题均维持 unchanged。"
+}

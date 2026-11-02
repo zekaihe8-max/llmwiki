@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "HackerTube 属于 AI 辅助的视频剪藏与媒体笔记方向",
+    "topics/ai-media-training-corpus-loop.md": "把社区评论转化为可观看媒体内容，与媒体内容回灌主题相关",
+    "topics/premium-ai-subscription-value.md": "文中提及日常使用高端模型 Opus 5.5，关乎高端 AI 订阅价值",
+    "topics/pro-vs-flash-model-strategy.md": "提及使用中等推理强度的 Opus 5.5，涉及模型选型与策略"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "HackerTube 属于 AI 辅助的视频剪藏与媒体笔记方向"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "把社区评论转化为可观看媒体内容，与媒体内容回灌主题相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及日常使用高端模型 Opus 5.5，关乎高端 AI 订阅价值"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "提及使用中等推理强度的 Opus 5.5，涉及模型选型与策略"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @op7418 对 @karpathy 原推文的转发/评论，未独立核实 hackertube.org 当前可用性。"
+}

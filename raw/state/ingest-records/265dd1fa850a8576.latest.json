@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:19:17.030Z",
+  "url": "https://x.com/heydengai/status/2117114445667442858",
+  "slug": "265dd1fa850a8576",
+  "content_hash": "c27624af520144dfde3ec8c68d73963d4a4b7cd86760abbff18d79b8723f17c2",
+  "source": {
+    "path": "sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中多次提到程序记忆沉淀为技能文件（SKILL.md）与规则文件，与 Skill 编写直接相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章探讨 Agent 记忆的三层架构与长期记忆分类，属智能体基础能力建设。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论 Agent 上下文中的记忆层、写路径与检索，属上下文工程范畴。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "文中讨论多用户/多 Agent 记忆隔离与共享，涉及跨 Agent 统一资源与权限治理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心讨论 Agent 上下文中的记忆层、写路径与检索，属上下文工程范畴。",
+    "topics/agent-skill-authoring.md": "文中多次提到程序记忆沉淀为技能文件（SKILL.md）与规则文件，与 Skill 编写直接相关。",
+    "topics/agentic-ai-foundation.md": "文章探讨 Agent 记忆的三层架构与长期记忆分类，属智能体基础能力建设。",
+    "topics/unified-agent-resource-library.md": "文中讨论多用户/多 Agent 记忆隔离与共享，涉及跨 Agent 统一资源与权限治理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/unified-agent-resource-library.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心讨论 Agent 上下文中的记忆层、写路径与检索，属上下文工程范畴。",
+      "topics/agent-skill-authoring.md": "文中多次提到程序记忆沉淀为技能文件（SKILL.md）与规则文件，与 Skill 编写直接相关。",
+      "topics/agentic-ai-foundation.md": "文章探讨 Agent 记忆的三层架构与长期记忆分类，属智能体基础能力建设。",
+      "topics/unified-agent-resource-library.md": "文中讨论多用户/多 Agent 记忆隔离与共享，涉及跨 Agent 统一资源与权限治理。"
+    },
+    "notes": "来源为 X 上 heydengai 发布的长文，文中项目评价、基准分数及外部引用多为项目方自报或社区观点，已在摘要与 bullets 中加以限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-maintained-wiki.md",
+    "topics/agent-native-web-search.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-maintained-wiki.md": "文章讨论 AI 维护的可版本化知识库，与 LLM 维护的 wiki 主题相近。",
+    "topics/agent-native-web-search.md": "文章聚焦 AI Agent 读取和检索结构化信息，与面向 Agent 的联网搜索相关。",
+    "topics/agentic-ai-foundation.md": "文章涉及 AI Agent 作为自主读取与调用法律的主体，属于智能体基础能力范畴。",
+    "topics/agent-scaled-engineering.md": "文章把法律比作 Git 仓库并设想 AI 工程化应用，与智能体规模化工程有关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 维护的可版本化知识库，与 LLM 维护的 wiki 主题相近。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI Agent 读取和检索结构化信息，与面向 Agent 的联网搜索相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI Agent 作为自主读取与调用法律的主体，属于智能体基础能力范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章把法律比作 Git 仓库并设想 AI 工程化应用，与智能体规模化工程有关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入外部事实。"
+}

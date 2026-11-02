@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "与 Grok Bot 生态直接相关，讨论其内置额度与 Agent 查 X 的桥接用例。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同属 Grok Bot 系列话题，涉及 Grok Bot 对 X 的情报防护定位。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本文提到的 Grok Bot 社区工具语境相近。",
+    "topics/context-engineering-for-agents.md": "文中提到将操作系统与微信上下文送入 Grok Bot，与 Agent 上下文工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "与 Grok Bot 生态直接相关，讨论其内置额度与 Agent 查 X 的桥接用例。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同属 Grok Bot 系列话题，涉及 Grok Bot 对 X 的情报防护定位。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与本文提到的 Grok Bot 社区工具语境相近。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到将操作系统与微信上下文送入 Grok Bot，与 Agent 上下文工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文文本，未核实图片内容及内测资格细节。"
+}

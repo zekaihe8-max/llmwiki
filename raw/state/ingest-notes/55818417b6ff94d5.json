@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "课程聚焦自改进智能体，与智能体 AI 基础主题最为贴近",
+    "topics/agent-scaled-engineering.md": "课程涉及从采样到训练更强模型的工程化循环，与智能体规模化工程相关",
+    "topics/context-engineering-for-agents.md": "智能体自我改进依赖上下文与验证机制，与面向 Agent 的上下文工程相关",
+    "topics/agent-auto-mode.md": "自改进智能体体现 Agent 自动模式的探索方向"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "课程聚焦自改进智能体，与智能体 AI 基础主题最为贴近"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "课程涉及从采样到训练更强模型的工程化循环，与智能体规模化工程相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "智能体自我改进依赖上下文与验证机制，与面向 Agent 的上下文工程相关"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "自改进智能体体现 Agent 自动模式的探索方向"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文内容，未独立核实课程细节；URL 均来自文章原文。"
+}

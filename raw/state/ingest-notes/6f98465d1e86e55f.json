@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "直接涉及个人 Agent 话题，与浙大 nanoMuse 定义个人 Agent 形态最相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "讨论个人 Agent 调度与编程 Agent，与个人 Agent 系统设计相近。",
+    "topics/agentic-ai-foundation.md": "涵盖 Agentic AI 基础，适合作为个人 Agent 系统报告的上下文参考。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "对比多 Harness 路由与个人助手派发，与 nanoMuse 个人 Agent 定位相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "直接涉及个人 Agent 话题，与浙大 nanoMuse 定义个人 Agent 形态最相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 调度与编程 Agent，与个人 Agent 系统设计相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涵盖 Agentic AI 基础，适合作为个人 Agent 系统报告的上下文参考。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "对比多 Harness 路由与个人助手派发，与 nanoMuse 个人 Agent 定位相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新增或修改主题文件。"
+}

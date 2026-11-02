@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:26:09.069Z",
+  "url": "https://x.com/0xLogicrw/status/2117207306085826585",
+  "slug": "06802b2c1b5e1e24",
+  "content_hash": "03719df68e56ba86c8f9c82918a0e350a254e6be43cfc56e503fd37f9f73f0f4",
+  "source": {
+    "path": "sources/articles/tencent-hunyuan-hyra-2-0-letting-ai-move-from-problem-solving-to.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Hyra 2.0 能自主持续运行数天至数周，与智能体自动模式高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Overall/Mission/Worker 三层分工与持久化任务属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确提到有效经验沉淀成 Skill 供后续任务使用，直接对应 Agent Skill 编写。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "支持 AI 持续开展数天甚至数周的研究，体现 AI 任务时界增长。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文描述 Hyra 2.0 能自主持续运行数天至数周，与智能体自动模式高度相关。",
+    "topics/agent-scaled-engineering.md": "Overall/Mission/Worker 三层分工与持久化任务属于智能体规模化工程范畴。",
+    "topics/agent-skill-authoring.md": "文中明确提到有效经验沉淀成 Skill 供后续任务使用，直接对应 Agent Skill 编写。",
+    "topics/ai-task-horizon-growth.md": "支持 AI 持续开展数天甚至数周的研究，体现 AI 任务时界增长。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-hunyuan-hyra-2-0-letting-ai-move-from-problem-solving-to.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-skill-authoring.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文描述 Hyra 2.0 能自主持续运行数天至数周，与智能体自动模式高度相关。",
+      "topics/agent-scaled-engineering.md": "Overall/Mission/Worker 三层分工与持久化任务属于智能体规模化工程范畴。",
+      "topics/agent-skill-authoring.md": "文中明确提到有效经验沉淀成 Skill 供后续任务使用，直接对应 Agent Skill 编写。",
+      "topics/ai-task-horizon-growth.md": "支持 AI 持续开展数天甚至数周的研究，体现 AI 任务时界增长。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-hunyuan-hyra-2-0-letting-ai-move-from-problem-solving-to.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

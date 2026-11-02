@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-01T23:57:06.701Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -3285,5 +3285,405 @@
     "last_seen": "2026-11-01T23:57:06.701Z",
     "digest": "2026-11-02-frontier-ai.md",
     "title": "Addy Osmani (@addyosmani)"
+  },
+  "https://x.com/op7418/status/2117092326690726075": {
+    "hash": "b26cd90a6058c481d2e5a2b79659e7b9f181e0aa9cf08af65b26e766d9d029b8",
+    "slug": "b26cd90a6058c481",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "补贴扛不住与额度跳变"
+  },
+  "https://x.com/op7418/status/2117092419108028854": {
+    "hash": "53829c73bbd34e94d6d90aec83f47a5aa9d19b78caa951fc4590dd86e40583c4",
+    "slug": "53829c73bbd34e94",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "续"
+  },
+  "https://x.com/op7418/status/2117067687943909881": {
+    "hash": "1d25011839e7a23741c4cb825a1bd9cffabb82f336ceff65a9b0dec2189a1868",
+    "slug": "1d25011839e7a237",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Karpathy HackerTube 再提"
+  },
+  "https://x.com/op7418/status/2116888871057473746": {
+    "hash": "8a97c26a5cd0c6048d98f83c2d10df1d6f1d9c8b5a297dc8f2cae9a6f5e30103",
+    "slug": "8a97c26a5cd0c604",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "语音输入吐槽"
+  },
+  "https://x.com/xiaomovps/status/2117205814234738987": {
+    "hash": "9b75ba7178de34e2eb41a8071d80f3c5e20db2368391c474b51bb972a70dbb88",
+    "slug": "9b75ba7178de34e2",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "马斯克回应亏损"
+  },
+  "https://x.com/xiaomovps/status/2117177889414410553": {
+    "hash": "598aad729c8993f01350a3140216b3802b09f7ac63b812b79c34ea8fb32130d4",
+    "slug": "598aad729c8993f0",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "别在 Grok Bot 云主机跑 Claude Code"
+  },
+  "https://x.com/xiaomovps/status/2117134793867743398": {
+    "hash": "dda219548ae1def63297409cd18d25d401cbff1528394f3f0c814b6a62e168b6",
+    "slug": "dda219548ae1def6",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "电话通话上线"
+  },
+  "https://x.com/xiaomovps/status/2116875018911010829": {
+    "hash": "3b51b4d7a75d346a0094b11e3a82495d2886fd680ec275549946632a33ff1388",
+    "slug": "3b51b4d7a75d346a",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "省额度 5 招"
+  },
+  "https://x.com/yetone/status/2117170580327997905": {
+    "hash": "8d9873406279980dda38d2ac3d486e757ef054d0c7e875b5f9f3e249050064c1",
+    "slug": "8d9873406279980d",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Personal Agent 大考核开场"
+  },
+  "https://x.com/yetone/status/2117193082655719908": {
+    "hash": "6e098143b23bf12d4fdcfee0dec08deb667797e904bb77abe0c6d4ac2f9e87ff",
+    "slug": "6e098143b23bf12d",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "第一轮找壁纸最高清版"
+  },
+  "https://x.com/yetone/status/2117168041461264656": {
+    "hash": "9869eae50c9be257f425d23f33fd9c0c3ba6ceab243c4ea5b0b23ffe88f3d89f",
+    "slug": "9869eae50c9be257",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "闲鱼段"
+  },
+  "https://x.com/yetone/status/2117154072289767430": {
+    "hash": "60bdfd13e36ea1f0dac6e3aab6dfcd697a3d278d63bf228bba9853aa6de1c489",
+    "slug": "60bdfd13e36ea1f0",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "怎么用上 Muse"
+  },
+  "https://x.com/yetone/status/2117156342347731059": {
+    "hash": "94b6314fdf6497ac9ded4c467e7cb9076c911d721d69562b3021de2529ae6f1d",
+    "slug": "94b6314fdf6497ac",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "美国软件注册师任务"
+  },
+  "https://x.com/yetone/status/2117161160118309018": {
+    "hash": "4bcfb32dc7cd720cd8a97f7e37bee06fb88aabf3702cb156b07ea37e546fecf0",
+    "slug": "4bcfb32dc7cd720c",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Cue"
+  },
+  "https://x.com/cgnot996/status/2117138292399636760": {
+    "hash": "4dc28a03c228c735cad9d42235c63dde79b982ea3ca8dc34a935c26abe8514bb",
+    "slug": "4dc28a03c228c735",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Grok Bot Anywhere"
+  },
+  "https://x.com/cgnot996/status/2117163299456307581": {
+    "hash": "c59ef9ac4c173c4b33af1b7b373b47405c4c2a28001e50444df7fb8a925d0ea7",
+    "slug": "c59ef9ac4c173c4b",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "封号说明"
+  },
+  "https://x.com/cgnot996/status/2117164987668131990": {
+    "hash": "3e6fd64272ec89b984bba8904fcd2909e4df1b3e160a11fe341a90ef09000110",
+    "slug": "3e6fd64272ec89b9",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "额度异常已恢复"
+  },
+  "https://x.com/cgnot996/status/2117178110387114208": {
+    "hash": "9039dddc8caa8c034b35d7a7b982aec0262b7f0136afd41745019cc3dd5944b2",
+    "slug": "9039dddc8caa8c03",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "新订阅"
+  },
+  "https://x.com/cgnot996/status/2117216596452360625": {
+    "hash": "c55de3de1af1c9fcde9fd392d23214a4fc2a3ee8c6826f550453f7ba1cb139f9",
+    "slug": "c55de3de1af1c9fc",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "群码热更"
+  },
+  "https://x.com/0xlangeai/status/2117197419779866647": {
+    "hash": "61c2e3e36b80cdaa05b23e366d05f15ce8731bbad015af952013378ce879fda1",
+    "slug": "61c2e3e36b80cdaa",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "拆解 poteto 使用指南"
+  },
+  "https://x.com/0xlangeai/status/2117213280137789514": {
+    "hash": "70a6fcb34fdfdd9bbd1e9eea7b44a5920f41b3f63b95d8e00f85360db14bb83e",
+    "slug": "70a6fcb34fdfdd9b",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "要点"
+  },
+  "https://x.com/0xlangeai/status/2117064397793206553": {
+    "hash": "cd22273f66d0588fe22e4f90642595f62bc7ee3675a67f87094d7ada28ef2d42",
+    "slug": "cd22273f66d0588f",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "卡兹克飞书事件中台"
+  },
+  "https://x.com/0xlangeai/status/2117149362140930329": {
+    "hash": "802611f0f2b8bb68bc5723f16d35f9b84e33561995d1e72c3977ce76e277b643",
+    "slug": "802611f0f2b8bb68",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "跟进 GBA"
+  },
+  "https://x.com/shao__meng/status/2117171145342644530": {
+    "hash": "6f98465d1e86e55ff49ebc0dffc4a7ee8af31ea14b348d880cb5df7ee8c9fb22",
+    "slug": "6f98465d1e86e55f",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "浙大 nanoMuse"
+  },
+  "https://x.com/shao__meng/status/2117071027784056947": {
+    "hash": "bdb3e8971e7600db9342ea89fdfb09c931faee224916caa7cb372dd5bef0a916",
+    "slug": "bdb3e8971e7600db",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "OpenRouter 可验证代码审查"
+  },
+  "https://x.com/shao__meng/status/2116901124716347815": {
+    "hash": "55818417b6ff94d5b7256f1186f4dbb117b23f2931e0e2991b9b3b0d35704dfe",
+    "slug": "55818417b6ff94d5",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "斯坦福 CS329A"
+  },
+  "https://x.com/shao__meng/status/2117092563329179702": {
+    "hash": "2749ab94a29cbe8fc14e7e311a8f6aed6fa2c2a4f70bdddaeac4a82386512c8c",
+    "slug": "2749ab94a29cbe8f",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "做出来≠上生产"
+  },
+  "https://x.com/heydengai/status/2117114445667442858": {
+    "hash": "265dd1fa850a857605ee961b9ac9e6a8bb01e7e7676301bb1ae36fdc3d021541",
+    "slug": "265dd1fa850a8576",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "万字拆 Agent 记忆"
+  },
+  "https://x.com/heydengai/status/2117125802290524275": {
+    "hash": "4f6b4523999fe0236b821ff4d13c3dccf15ea730664e23776ada7452e6e1418f",
+    "slug": "4f6b4523999fe023",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "AI 干回软件外包"
+  },
+  "https://x.com/heydengai/status/2117204571470938206": {
+    "hash": "216912e1032f7b036c4a82d84bf7837029b884acdcea57b2872172947402dbad",
+    "slug": "216912e1032f7b03",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "法律当巨型 Git"
+  },
+  "https://x.com/vista8/status/2117144714516517148": {
+    "hash": "05a419293f6ab5608678964e100b03640dde1a2da54d8237fd435affa7629aef",
+    "slug": "05a419293f6ab560",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "HF 上 12G HackerNews 数据"
+  },
+  "https://x.com/vista8/status/2117145032650358932": {
+    "hash": "4f2776e5fb714c550bf63d7c9c31403c03c98ea408b780258764c170be132e0c",
+    "slug": "4f2776e5fb714c55",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "下载评"
+  },
+  "https://x.com/vista8/status/2117176698336842027": {
+    "hash": "40f84a94ac70e98b84776d9a08310cd2e8efcca27614b005b05f2d755be81c54",
+    "slug": "40f84a94ac70e98b",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "做成 2006–2026 论文站"
+  },
+  "https://x.com/vista8/status/2116929149285904574": {
+    "hash": "5b95d01a7773a164d4b59479f0889954c3de414aabf7900f5116e7563997e78b",
+    "slug": "5b95d01a7773a164",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Kindle PW5 + KOReader + 乔木 AI RSS"
+  },
+  "https://x.com/vista8/status/2116929206429028598": {
+    "hash": "9fc841b683658cc87a0330a3433227f73c755c85dc595b9c2e320324083640e4",
+    "slug": "9fc841b683658cc8",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "代码"
+  },
+  "https://x.com/oran_ge/status/2117025598375870876": {
+    "hash": "92564b911722e3c41b20eb11325516483f7002dec71a022c6489daeb51dbb33b",
+    "slug": "92564b911722e3c4",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "扣子故事结束"
+  },
+  "https://x.com/oran_ge/status/2117022556175942027": {
+    "hash": "0ea146329f771184a3bd3181a0c56c3dfdc45f9c61c5f4c31ee563dbbe1e1813",
+    "slug": "0ea146329f771184",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "A 社封号经济学"
+  },
+  "https://x.com/oran_ge/status/2117220878157283721": {
+    "hash": "2581af0823321cb2c0755d201c0efa5614329d6fa82d47a2fbd63f47cbbfaeb1",
+    "slug": "2581af0823321cb2",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "三账号登录死循环"
+  },
+  "https://x.com/0xLogicrw/status/2117181951325176126": {
+    "hash": "df5a2109cdda80098f749866d15c1dcedb9948f2392fdd2ee2ce75dd39e4504c",
+    "slug": "df5a2109cdda8009",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Anthropic 11/12 反代铁拳"
+  },
+  "https://x.com/0xLogicrw/status/2117222953574351154": {
+    "hash": "01356852c5dc08de187c96369407d054aaa59b97d782135d531500ba910d8053",
+    "slug": "01356852c5dc08de",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Vercel Labs agent-desktop"
+  },
+  "https://x.com/0xLogicrw/status/2117207306085826585": {
+    "hash": "06802b2c1b5e1e24ca78bd8ac090173eaa07f2fdf95c46665b5d262495a47bf3",
+    "slug": "06802b2c1b5e1e24",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "腾讯混元 Hyra 2.0"
+  },
+  "https://x.com/0xLogicrw/status/2117201841117360306": {
+    "hash": "6eb308e8c2b92e9f05cac35d227dc7770b09f16a011add829ebd2fad01d9d315",
+    "slug": "6eb308e8c2b92e9f",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "OpenRouter 用量"
+  },
+  "https://x.com/wquguru/status/2117070715803640272": {
+    "hash": "f11f96c911039ddcfadf36e0dacd2c491e8b08fdb71d9311735a903e1d705f52",
+    "slug": "f11f96c911039ddc",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "REA 拆飞书会议纪要"
+  },
+  "https://x.com/wquguru/status/2117202562160238691": {
+    "hash": "6ab4b8815bf1bc750f45819854ead34f04e019df93a6996d315da5919450829d",
+    "slug": "6ab4b8815bf1bc75",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Shisei 姿势库"
+  },
+  "https://x.com/wquguru/status/2117211671399940347": {
+    "hash": "0acf20fb1fe8ee0d678c3e319f40bd4515d1cee968b1bd874d6628ef63a5e573",
+    "slug": "0acf20fb1fe8ee0d",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "服装"
+  },
+  "https://x.com/dingyi/status/2117134112368837033": {
+    "hash": "ed492e10bf0d9dae3be3a31124509f88c8e4408d87dc8be3a1a3fd9ca9168192",
+    "slug": "ed492e10bf0d9dae",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "租 B300 转卖成创业模式"
+  },
+  "https://x.com/dingyi/status/2116908875031204179": {
+    "hash": "34371388de5c760affd0cb54dc7db29f079e7ac194c606b110022b243c5ee30e",
+    "slug": "34371388de5c760a",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "开源去 slop skill"
+  },
+  "https://x.com/FinanceYF5/status/2117142409603936648": {
+    "hash": "268fb09c58ca7ef9d71c7fa5e738b25f31bb19e1b3b5707f4098f640d8cc540b",
+    "slug": "268fb09c58ca7ef9",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "普通人把琐事交给 Grok Bot"
+  },
+  "https://x.com/xiaomovps/status/2117084582118096950": {
+    "hash": "f85eac9eb77223140e6878fb833967856784da698aff9e6a3155156c14664d65",
+    "slug": "f85eac9eb7722314",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "dsh-pet"
+  },
+  "https://x.com/Gorden_Sun/status/2117141523645235538": {
+    "hash": "ad1566c09900dc995fda01dec3d3ba284dc28fc347e6558298bd787de94164a1",
+    "slug": "ad1566c09900dc99",
+    "first_seen": "2026-11-02T12:02:55.180Z",
+    "last_seen": "2026-11-02T12:02:55.180Z",
+    "digest": "2026-11-02-cn-x.md",
+    "title": "Kronos + day-trader-skill"
   }
 }

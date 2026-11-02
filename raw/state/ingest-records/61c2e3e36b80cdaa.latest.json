@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:35:18.720Z",
+  "url": "https://x.com/0xlangeai/status/2117197419779866647",
+  "slug": "61c2e3e36b80cdaa",
+  "content_hash": "11feeef13f74776cdb3cbf638af64831ba377785d83bf43a69856f28e26e6528",
+  "source": {
+    "path": "sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/personal-agent-share-and-interbot-chat.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章反复强调职责、边界和工具配置的一致性，属于智能体治理范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确建议把验证过的做法写成 skill 保存，以便下次复用和检查。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "文中提到团队共享、结果交给推助手或内容主笔，涉及个人 Agent 对外分享与协作。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章建议先观察手动重复工作，再用连接器、脚本和 routines 自动化，与“工作流优先于智能体”相符。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "文章建议先观察手动重复工作，再用连接器、脚本和 routines 自动化，与“工作流优先于智能体”相符。",
+    "topics/agent-skill-authoring.md": "文中明确建议把验证过的做法写成 skill 保存，以便下次复用和检查。",
+    "topics/agent-compute-and-governance.md": "文章反复强调职责、边界和工具配置的一致性，属于智能体治理范畴。",
+    "topics/personal-agent-share-and-interbot-chat.md": "文中提到团队共享、结果交给推助手或内容主笔，涉及个人 Agent 对外分享与协作。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/personal-agent-share-and-interbot-chat.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "文章建议先观察手动重复工作，再用连接器、脚本和 routines 自动化，与“工作流优先于智能体”相符。",
+      "topics/agent-skill-authoring.md": "文中明确建议把验证过的做法写成 skill 保存，以便下次复用和检查。",
+      "topics/agent-compute-and-governance.md": "文章反复强调职责、边界和工具配置的一致性，属于智能体治理范畴。",
+      "topics/personal-agent-share-and-interbot-chat.md": "文中提到团队共享、结果交给推助手或内容主笔，涉及个人 Agent 对外分享与协作。"
+    },
+    "notes": "所有主张均基于提供的文章内容，未编造 URL 或事实；引用的 poteto 主帖、补充帖与 Dr Eggbot 链接均已在原文中出现。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

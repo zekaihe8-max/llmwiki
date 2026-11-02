@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "最贴近语音输入体验对比与使用场景讨论。",
+    "topics/carplay-voice-assistants.md": "涉及语音助手/输入交互，但侧重车载场景，与本文无直接扩展。",
+    "topics/pure-speech-full-duplex.md": "涉及纯语音交互形态，与语音输入吐槽相关但不直接重叠。"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "最贴近语音输入体验对比与使用场景讨论。"
+    },
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "涉及语音助手/输入交互，但侧重车载场景，与本文无直接扩展。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "涉及纯语音交互形态，与语音输入吐槽相关但不直接重叠。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，未独立核实。"
+}

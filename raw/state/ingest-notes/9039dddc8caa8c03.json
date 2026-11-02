@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文直接涉及 Grok Bot 额度异常与恢复，与该话题的 Grok Bot 内置额度讨论最相关",
+    "topics/usage-limit-ab-tests.md": "文中提到新订阅额度未恢复因用多，涉及用量上限与订阅额度问题",
+    "topics/coding-agent-ux-vs-quota.md": "用户因额度异常不敢与 AI 对话，体现体验与额度的紧张关系",
+    "topics/claude-subscription-risk-control-weights.md": "老订阅额度未恢复建议邮件询问，与订阅风控与权重话题相近"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文直接涉及 Grok Bot 额度异常与恢复，与该话题的 Grok Bot 内置额度讨论最相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到新订阅额度未恢复因用多，涉及用量上限与订阅额度问题"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "用户因额度异常不敢与 AI 对话，体现体验与额度的紧张关系"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "老订阅额度未恢复建议邮件询问，与订阅风控与权重话题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by @cgnot996; no external URLs or facts beyond the article were added."
+}
