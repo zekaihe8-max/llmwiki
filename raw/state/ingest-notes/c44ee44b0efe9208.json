@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/raise-ambition-until-ai-frontier.md": "帖文主张把目标抬到 AI 前沿，若 AI 前已能完成就说明没用够，与该主题高度相关。",
+    "topics/ai-native-companies.md": "帖文提到业务流程应完全不同并产生质变结果，与 AI 原生公司方向相近。",
+    "topics/ai-task-horizon-growth.md": "帖文强调 AI 让研究覆盖每个维度、任务时界扩大，与该主题相关。",
+    "topics/calibrating-ai-guidance.md": "帖文给出“试金石”来校准 AI 使用是否足够，与过度/不足引导相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文主张把目标抬到 AI 前沿，若 AI 前已能完成就说明没用够，与该主题高度相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提到业务流程应完全不同并产生质变结果，与 AI 原生公司方向相近。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文强调 AI 让研究覆盖每个维度、任务时界扩大，与该主题相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文给出“试金石”来校准 AI 使用是否足够，与过度/不足引导相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by Aaron Levie (@levie); all claims are grounded in the fetched markdown only."
+}

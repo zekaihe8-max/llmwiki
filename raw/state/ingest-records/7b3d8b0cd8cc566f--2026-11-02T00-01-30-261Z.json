@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:01:30.261Z",
+  "url": "https://x.com/emollick/status/2116526543346483419",
+  "slug": "7b3d8b0cd8cc566f",
+  "content_hash": "421bec838badc4befb528477da4c866fb74bda85fcb4aaf568625ec896ccae69",
+  "source": {
+    "path": "sources/articles/ai-unlocks-cheap-legacy-system-migration-projects.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "涉及遗留代码与 AI 代码的对比，与遗留系统迁移主题相关，无需新建主题"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "代码优先的工程视角与迁移实践相关，无需新建主题"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "软件工厂与迁移工程语境相近，无需新建主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "软件工厂与迁移工程语境相近，无需新建主题",
+    "topics/ai-code-vs-messy-code-double-standard.md": "涉及遗留代码与 AI 代码的对比，与遗留系统迁移主题相关，无需新建主题",
+    "topics/code-over-spec.md": "代码优先的工程视角与迁移实践相关，无需新建主题"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-unlocks-cheap-legacy-system-migration-projects.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "软件工厂与迁移工程语境相近，无需新建主题",
+      "topics/ai-code-vs-messy-code-double-standard.md": "涉及遗留代码与 AI 代码的对比，与遗留系统迁移主题相关，无需新建主题",
+      "topics/code-over-spec.md": "代码优先的工程视角与迁移实践相关，无需新建主题"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实；日期和互动数据为推文页面显示内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-unlocks-cheap-legacy-system-migration-projects.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文将 AI 基准公司与公开排名/评级机构类比，直接对应“信任公开榜前先审质量”的主题。",
+    "topics/community-evals-vs-score-hype.md": "帖文对 AI 基准公司的商业逻辑提出质疑，与社区实测对抗评分炒作相关。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文讨论基准作为指标的商业属性，与智能作为人类中心主义指标相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文将 AI 基准公司与公开排名/评级机构类比，直接对应“信任公开榜前先审质量”的主题。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文对 AI 基准公司的商业逻辑提出质疑，与社区实测对抗评分炒作相关。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文讨论基准作为指标的商业属性，与智能作为人类中心主义指标相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未引入外部事实。"
+}

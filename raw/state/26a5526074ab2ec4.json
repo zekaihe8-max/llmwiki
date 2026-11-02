@@ -1,0 +1,23 @@
+{
+  "slug": "26a5526074ab2ec4",
+  "url": "https://x.com/OpenAI/status/2116186509384815084",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "26a5526074ab2ec4af6e004e8d1177cc587005c32a986b54833602e63a11265d",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:11.585Z",
+  "content_hash": "ce1465b9808d5e23e154cd8a59c5964a54554bdce3c6a9fa0f8050b0134cb24d",
+  "article_path": "articles/26a5526074ab2ec4.md",
+  "fetched_url": "https://x.com/OpenAI/status/2116186509384815084",
+  "source_path": "sources/articles/openai-launches-private-intelligence-enterprise-data-controls.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T23:59:15.703Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

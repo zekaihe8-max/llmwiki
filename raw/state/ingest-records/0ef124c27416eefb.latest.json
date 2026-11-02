@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:02:31.495Z",
+  "url": "https://x.com/emollick/status/2116987671939875319",
+  "slug": "0ef124c27416eefb",
+  "content_hash": "5c4b5e773906b5e0a4006d596bd00252eaf536675421f45c29d14039b3763c76",
+  "source": {
+    "path": "sources/articles/ethan-mollick-agentic-ai-work-starts-around-january-2026-pre-202.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论智能体（agentic AI）何时开始产生生产力影响，与该主题直接相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提及从 GPT-4 的 4 分钟独立工作到当前模型的数周工作，涉及 AI 任务时界增长。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "引用中提到 2026 年是 AI 企业应用第零年，与企业级 AI 员工与生产力相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调智能体工作起点与此前生产力影响的边界，呼应工作流优先于智能体的讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文核心讨论智能体（agentic AI）何时开始产生生产力影响，与该主题直接相关。",
+    "topics/ai-task-horizon-growth.md": "帖文提及从 GPT-4 的 4 分钟独立工作到当前模型的数周工作，涉及 AI 任务时界增长。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "引用中提到 2026 年是 AI 企业应用第零年，与企业级 AI 员工与生产力相关。",
+    "topics/workflows-before-agents.md": "帖文强调智能体工作起点与此前生产力影响的边界，呼应工作流优先于智能体的讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ethan-mollick-agentic-ai-work-starts-around-january-2026-pre-202.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "帖文核心讨论智能体（agentic AI）何时开始产生生产力影响，与该主题直接相关。",
+      "topics/ai-task-horizon-growth.md": "帖文提及从 GPT-4 的 4 分钟独立工作到当前模型的数周工作，涉及 AI 任务时界增长。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "引用中提到 2026 年是 AI 企业应用第零年，与企业级 AI 员工与生产力相关。",
+      "topics/workflows-before-agents.md": "帖文强调智能体工作起点与此前生产力影响的边界，呼应工作流优先于智能体的讨论。"
+    },
+    "notes": "所有主张均引用自 X 帖文及其引用内容，未添加文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ethan-mollick-agentic-ai-work-starts-around-january-2026-pre-202.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

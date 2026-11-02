@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接对应 Claude Code 工具及其社区使用语境。",
+    "topics/coding-agent-ux-vs-quota.md": "ultrathink 属于编程 Agent 的体验与资源/额度相关开关。",
+    "topics/coding-agent-token-saving-tooling.md": "提升推理努力程度与 Agent Token 开销和工具行为相关。",
+    "topics/agent-auto-mode.md": "智能体自动模式与主动提升推理努力的命令相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接对应 Claude Code 工具及其社区使用语境。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "ultrathink 属于编程 Agent 的体验与资源/额度相关开关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "提升推理努力程度与 Agent Token 开销和工具行为相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "智能体自动模式与主动提升推理努力的命令相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新增或修改。"
+}

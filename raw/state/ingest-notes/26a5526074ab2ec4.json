@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "涉及云端 AI 与数据隐私控制，与 Private Intelligence 的企业数据保护主题最贴近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "聚焦企业级 AI 部署与大客户应用，与 OpenAI 面向大客户构建敏感工作保护的语境相关。",
+    "topics/ai-native-companies.md": "OpenAI 作为 AI 原生公司发布企业产品，与该话题的公司定位相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "涉及云端 AI 与数据隐私控制，与 Private Intelligence 的企业数据保护主题最贴近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "聚焦企业级 AI 部署与大客户应用，与 OpenAI 面向大客户构建敏感工作保护的语境相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 作为 AI 原生公司发布企业产品，与该话题的公司定位相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅基于推文原文，未引用文章外信息；链接保留推文中显示的缩写形式。"
+}

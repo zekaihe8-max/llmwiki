@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:05:11.584Z",
+  "url": "https://x.com/Voxyz_ai/status/2116968517157212271",
+  "slug": "952627e05a86eba9",
+  "content_hash": "3fe9787537d2c77f526a3f8aa1e4f1f261bea58a593666c34523261ca846b9c2",
+  "source": {
+    "path": "sources/articles/four-rules-to-end-claude-code-and-codex-bug-fix-loops.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/agent-worktree-cleanup.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Agent 对话内的 Bug 反馈与修复循环，与该主题高度相关"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "该主题同样涉及 AGENTS.md 规范，与帖文中提到的项目指令文件相近"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文明确建议将规则写入 CLAUDE.md 或 AGENTS.md，与该主题的项目指令讨论直接相关"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文主张对 Agent 修复与评审行为设定边界与停止条件，属于对 AI 引导的校准"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "帖文明确建议将规则写入 CLAUDE.md 或 AGENTS.md，与该主题的项目指令讨论直接相关",
+    "topics/agent-in-chat-bug-feedback.md": "帖文核心是 Agent 对话内的 Bug 反馈与修复循环，与该主题高度相关",
+    "topics/calibrating-ai-guidance.md": "帖文主张对 Agent 修复与评审行为设定边界与停止条件，属于对 AI 引导的校准",
+    "topics/agent-worktree-cleanup.md": "该主题同样涉及 AGENTS.md 规范，与帖文中提到的项目指令文件相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/four-rules-to-end-claude-code-and-codex-bug-fix-loops.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agents-md-token-efficiency.md",
+      "topics/agent-in-chat-bug-feedback.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/agent-worktree-cleanup.md"
+    ],
+    "selection_reasons": {
+      "topics/agents-md-token-efficiency.md": "帖文明确建议将规则写入 CLAUDE.md 或 AGENTS.md，与该主题的项目指令讨论直接相关",
+      "topics/agent-in-chat-bug-feedback.md": "帖文核心是 Agent 对话内的 Bug 反馈与修复循环，与该主题高度相关",
+      "topics/calibrating-ai-guidance.md": "帖文主张对 Agent 修复与评审行为设定边界与停止条件，属于对 AI 引导的校准",
+      "topics/agent-worktree-cleanup.md": "该主题同样涉及 AGENTS.md 规范，与帖文中提到的项目指令文件相近"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/four-rules-to-end-claude-code-and-codex-bug-fix-loops.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "9f0c28e45e9fe785",
+  "url": "https://x.com/AnthropicAI/status/2115871889549865429",
+  "title": "Anthropic (@AnthropicAI)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "9f0c28e45e9fe7857cddccd106715433b23c45b13d115d9d50ef6def02ca6a79",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:09.404Z",
+  "content_hash": "b4f742c092f6771a54fd34e2480d7f9b754afb5124b14299969677e027aa54a9",
+  "article_path": "articles/9f0c28e45e9fe785.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2115871889549865429",
+  "source_path": "sources/articles/anthropic-claude-flags-potential-conversation-misuse-via-self-as.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T23:58:20.824Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

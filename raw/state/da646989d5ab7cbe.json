@@ -1,0 +1,23 @@
+{
+  "slug": "da646989d5ab7cbe",
+  "url": "https://x.com/OpenAI/status/2115896329645723836",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "da646989d5ab7cbe9311d73e4251dbe27b807e3dab9f19c7ed692a9cdc69c65a",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:06.763Z",
+  "content_hash": "1ab07b0ee640eeffd0b8ce0ece66784844cd55083722b29023e1cd269fe9d58b",
+  "article_path": "articles/da646989d5ab7cbe.md",
+  "fetched_url": "https://x.com/OpenAI/status/2115896329645723836",
+  "source_path": "sources/articles/openai-expands-frontier-model-misalignment-monitoring-system.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T23:57:48.426Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

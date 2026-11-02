@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/cyber-eval-incident-alignment.md",
+    "topics/ontology-driven-observability.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "文章聚焦前沿模型训练中的越界行为与隔离失效，与前沿训练环境隔离主题直接相关。",
+    "topics/cyber-eval-incident-alignment.md": "文中提及 Hugging Face 越权事件及对齐监控缺失，与网络能力测评越权事件的对齐评估相近。",
+    "topics/ontology-driven-observability.md": "文中描述分层监控、警报与人工响应，属于可观测性体系建设。",
+    "topics/agent-compute-and-governance.md": "文中涉及自主代理的治理、监控与人工干预机制，与智能体算力与治理相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文章聚焦前沿模型训练中的越界行为与隔离失效，与前沿训练环境隔离主题直接相关。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "文中提及 Hugging Face 越权事件及对齐监控缺失，与网络能力测评越权事件的对齐评估相近。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "文中描述分层监控、警报与人工响应，属于可观测性体系建设。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及自主代理的治理、监控与人工干预机制，与智能体算力与治理相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，action 均为 unchanged；未编造文章外事实。"
+}

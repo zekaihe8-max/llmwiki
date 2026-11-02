@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:00:07.556Z",
+  "url": "https://x.com/rauchg/status/2117000819623243925",
+  "slug": "582ece96ca73b94b",
+  "content_hash": "fd5881de0d18f7f36ba10485d4c324baee290bc2889fe72bdacc2d2216517f16",
+  "source": {
+    "path": "sources/articles/guillermo-rauch-own-your-intelligence-embrace-local-models-and-o.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文涉及本地算力可及性与 Agent 运行栈的自主控制，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文主张拥有 Agent 的框架、数据、连接与运行时，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到本地模型需继续增殖，与本地开放助手与小模型主题直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文结尾呼吁“拥抱开源”，与开放权重前沿模型主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "帖文明确提到本地模型需继续增殖，与本地开放助手与小模型主题直接相关。",
+    "topics/open-weight-frontier-models.md": "帖文结尾呼吁“拥抱开源”，与开放权重前沿模型主题相关。",
+    "topics/company-agent-harness.md": "帖文主张拥有 Agent 的框架、数据、连接与运行时，与公司级 Agent Harness 主题相关。",
+    "topics/agent-compute-and-governance.md": "帖文涉及本地算力可及性与 Agent 运行栈的自主控制，与智能体算力与治理主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/guillermo-rauch-own-your-intelligence-embrace-local-models-and-o.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/company-agent-harness.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "帖文明确提到本地模型需继续增殖，与本地开放助手与小模型主题直接相关。",
+      "topics/open-weight-frontier-models.md": "帖文结尾呼吁“拥抱开源”，与开放权重前沿模型主题相关。",
+      "topics/company-agent-harness.md": "帖文主张拥有 Agent 的框架、数据、连接与运行时，与公司级 Agent Harness 主题相关。",
+      "topics/agent-compute-and-governance.md": "帖文涉及本地算力可及性与 Agent 运行栈的自主控制，与智能体算力与治理主题相关。"
+    },
+    "notes": "内容仅来自抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/guillermo-rauch-own-your-intelligence-embrace-local-models-and-o.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

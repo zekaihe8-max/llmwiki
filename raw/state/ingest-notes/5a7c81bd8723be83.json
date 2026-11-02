@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-skill-authoring.md",
+    "topics/company-agent-harness.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文核心是“软件工厂”概念，直接命中该主题。",
+    "topics/agent-skill-authoring.md": "帖文提出将仓库技能转化为 Agent() 函数，与 Agent Skill 编写密切相关。",
+    "topics/company-agent-harness.md": "帖文列举内置 Harness（Claude Code、Codex 等），与公司级 Agent Harness 主题相关。",
+    "topics/multiagent-infra-four-problems.md": "帖文涉及在自有基础设施上运行多智能体工厂，涉及多智能体基建问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文核心是“软件工厂”概念，直接命中该主题。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提出将仓库技能转化为 Agent() 函数，与 Agent Skill 编写密切相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文列举内置 Harness（Claude Code、Codex 等），与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在自有基础设施上运行多智能体工厂，涉及多智能体基建问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章显示的发布时间为 2026 年 11 月 1 日。"
+}

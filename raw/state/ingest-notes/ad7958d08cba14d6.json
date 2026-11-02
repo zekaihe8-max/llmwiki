@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "文章讲述 AI 工具协助地方议会（本地公共机构）提升效率，与“AI 助力本地生意/机构”主题最为贴近。",
+    "topics/agent-compute-and-governance.md": "涉及政府规划审批场景下的 AI 治理与部署，与智能体算力与治理主题相关。",
+    "topics/ai-native-companies.md": "Google DeepMind 将 Gemini 原生嵌入公共行政工作流，体现 AI 原生组织运作方式。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "文章讲述 AI 工具协助地方议会（本地公共机构）提升效率，与“AI 助力本地生意/机构”主题最为贴近。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及政府规划审批场景下的 AI 治理与部署，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Google DeepMind 将 Gemini 原生嵌入公共行政工作流，体现 AI 原生组织运作方式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入外部事实；日期为帖文显示的 2026-10-31。"
+}

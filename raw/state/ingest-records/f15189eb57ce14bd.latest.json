@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:04:04.638Z",
+  "url": "https://x.com/shao__meng/status/2116887381001248970",
+  "slug": "f15189eb57ce14bd",
+  "content_hash": "f44aaac5714160a44f72087de273f03b17b98edafd7153fe5214e9cee58ed91e",
+  "source": {
+    "path": "sources/articles/30-000-daily-merges-anthropic-relies-on-verifiable-evidence-not.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "文章强调可验证证据包取代逐行人工 diff，属于基于外部证据的评审模式。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中涉及自动合并、验证门槛与人工例外处理，符合智能体自动模式讨论。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心讲 Anthropic 靠智能体规模化合并 PR，日量达三万次，直接对应智能体规模化工程。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 software factory / 软件产线、亮灯工厂与黑灯工厂概念。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心讲 Anthropic 靠智能体规模化合并 PR，日量达三万次，直接对应智能体规模化工程。",
+    "topics/software-factory.md": "文中明确提到 software factory / 软件产线、亮灯工厂与黑灯工厂概念。",
+    "topics/adversarial-review-external-evidence.md": "文章强调可验证证据包取代逐行人工 diff，属于基于外部证据的评审模式。",
+    "topics/agent-auto-mode.md": "文中涉及自动合并、验证门槛与人工例外处理，符合智能体自动模式讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/30-000-daily-merges-anthropic-relies-on-verifiable-evidence-not.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/software-factory.md",
+      "topics/adversarial-review-external-evidence.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心讲 Anthropic 靠智能体规模化合并 PR，日量达三万次，直接对应智能体规模化工程。",
+      "topics/software-factory.md": "文中明确提到 software factory / 软件产线、亮灯工厂与黑灯工厂概念。",
+      "topics/adversarial-review-external-evidence.md": "文章强调可验证证据包取代逐行人工 diff，属于基于外部证据的评审模式。",
+      "topics/agent-auto-mode.md": "文中涉及自动合并、验证门槛与人工例外处理，符合智能体自动模式讨论。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/30-000-daily-merges-anthropic-relies-on-verifiable-evidence-not.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

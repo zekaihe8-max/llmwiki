@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:03:22.052Z",
+  "url": "https://x.com/HamelHusain/status/2116987667716223160",
+  "slug": "fc568a2001ece542",
+  "content_hash": "899226be106f831742094170a9d4ed03f3833d0256c9d8b4db9143dc4d4a3f03",
+  "source": {
+    "path": "sources/articles/ai-benchmark-companies-are-in-the-same-business-as-rating-agenci.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文对 AI 基准公司的商业逻辑提出质疑，与社区实测对抗评分炒作相关。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文讨论基准作为指标的商业属性，与智能作为人类中心主义指标相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文将 AI 基准公司与公开排名/评级机构类比，直接对应“信任公开榜前先审质量”的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文将 AI 基准公司与公开排名/评级机构类比，直接对应“信任公开榜前先审质量”的主题。",
+    "topics/community-evals-vs-score-hype.md": "帖文对 AI 基准公司的商业逻辑提出质疑，与社区实测对抗评分炒作相关。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文讨论基准作为指标的商业属性，与智能作为人类中心主义指标相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-benchmark-companies-are-in-the-same-business-as-rating-agenci.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/public-benchmark-quality-scrutiny.md": "帖文将 AI 基准公司与公开排名/评级机构类比，直接对应“信任公开榜前先审质量”的主题。",
+      "topics/community-evals-vs-score-hype.md": "帖文对 AI 基准公司的商业逻辑提出质疑，与社区实测对抗评分炒作相关。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "帖文讨论基准作为指标的商业属性，与智能作为人类中心主义指标相关。"
+    },
+    "notes": "所有主张均基于 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-benchmark-companies-are-in-the-same-business-as-rating-agenci.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

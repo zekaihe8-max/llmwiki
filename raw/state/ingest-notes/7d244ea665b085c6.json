@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/divergent-tasks-human-design-gate.md": "文章主张在写代码前先通过子 Agent 审查并修正设计文档，与“先人审设计”方向一致。",
+    "topics/fold-subagents-into-main-loop.md": "文章核心是把子 Agent 纳入开发循环做设计歧义检查，与子 Agent 编排主题相关。",
+    "topics/claude-code-authorship-and-voice.md": "文章直接讨论 Claude Code 的 fork 模式与子 Agent 使用方式，与 Claude Code 专题相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章把个人 Agent/子 Agent 用作编程 Agent 的包工头与设计把关人，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "文章主张在写代码前先通过子 Agent 审查并修正设计文档，与“先人审设计”方向一致。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章核心是把子 Agent 纳入开发循环做设计歧义检查，与子 Agent 编排主题相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章直接讨论 Claude Code 的 fork 模式与子 Agent 使用方式，与 Claude Code 专题相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章把个人 Agent/子 Agent 用作编程 Agent 的包工头与设计把关人，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用全部基于所抓取帖文，未引用外部链接或未在文中出现的事实。"
+}

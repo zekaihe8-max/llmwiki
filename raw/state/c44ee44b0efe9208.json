@@ -1,0 +1,29 @@
+{
+  "slug": "c44ee44b0efe9208",
+  "url": "https://x.com/levie/status/2116652002830963114",
+  "title": "Aaron Levie (@levie)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "c44ee44b0efe9208b7455efa150d1c9b0aa0fd8e6172860a2fa7f856c72fe7ff",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-02T00:07:46.877Z",
+  "content_hash": "7b7f93921fe7f37fc33b5f91b997967646a5175b13aa72d660967d4d362eac2d",
+  "article_path": "articles/c44ee44b0efe9208.md",
+  "fetched_url": "https://x.com/levie/status/2116652002830963114",
+  "source_path": "sources/articles/if-you-could-have-done-it-before-ai-you-re-not-pushing-ai-enough.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [
+    {
+      "at": "2026-11-01T23:57:15.858Z",
+      "stage": "fetch",
+      "error": "HTTP 503 Service Unavailable"
+    }
+  ],
+  "filed_at": "2026-11-02T00:08:16.294Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

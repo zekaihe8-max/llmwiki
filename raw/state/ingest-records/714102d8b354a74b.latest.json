@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T00:03:51.816Z",
+  "url": "https://x.com/shao__meng/status/2116888552411746697",
+  "slug": "714102d8b354a74b",
+  "content_hash": "4c509ed9f4ec40f7d0c80e1286a5b7f934e811d06499223ba7c696d01df70105",
+  "source": {
+    "path": "sources/articles/meng-shao-orchestration-layer-is-the-new-interface-of-the-softwa.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/deterministic-refactor-automerge.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及权限收窄、凭证进 vault、多 bot 共享云电脑凭证、沙箱与最小权限，属智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到月级上千 PR、自动合入、回滚占比、CI 验证基建，属智能体规模化工程的典型落地。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "文中 fix and fuzz PR 干净后自动合、按爆炸半径分绿黄红、关键路径不无脑自动合，与确定性自动合入主题相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文主张编排 bot 当包工头或经理，只派活不写代码，由 Claude Code、Cursor 等独立 coding agent 执行，与个人 Agent 当包工头调度编程 Agent 直接对应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文主张编排 bot 当包工头或经理，只派活不写代码，由 Claude Code、Cursor 等独立 coding agent 执行，与个人 Agent 当包工头调度编程 Agent 直接对应。",
+    "topics/agent-scaled-engineering.md": "文中提到月级上千 PR、自动合入、回滚占比、CI 验证基建，属智能体规模化工程的典型落地。",
+    "topics/agent-compute-and-governance.md": "文中涉及权限收窄、凭证进 vault、多 bot 共享云电脑凭证、沙箱与最小权限，属智能体算力与治理范畴。",
+    "topics/deterministic-refactor-automerge.md": "文中 fix and fuzz PR 干净后自动合、按爆炸半径分绿黄红、关键路径不无脑自动合，与确定性自动合入主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meng-shao-orchestration-layer-is-the-new-interface-of-the-softwa.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/deterministic-refactor-automerge.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文主张编排 bot 当包工头或经理，只派活不写代码，由 Claude Code、Cursor 等独立 coding agent 执行，与个人 Agent 当包工头调度编程 Agent 直接对应。",
+      "topics/agent-scaled-engineering.md": "文中提到月级上千 PR、自动合入、回滚占比、CI 验证基建，属智能体规模化工程的典型落地。",
+      "topics/agent-compute-and-governance.md": "文中涉及权限收窄、凭证进 vault、多 bot 共享云电脑凭证、沙箱与最小权限，属智能体算力与治理范畴。",
+      "topics/deterministic-refactor-automerge.md": "文中 fix and fuzz PR 干净后自动合、按爆炸半径分绿黄红、关键路径不无脑自动合，与确定性自动合入主题相关。"
+    },
+    "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 1 日，文中包含 YouTube 链接但未展开完整 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meng-shao-orchestration-layer-is-the-new-interface-of-the-softwa.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

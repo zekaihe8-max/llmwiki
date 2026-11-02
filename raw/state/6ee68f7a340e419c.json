@@ -1,0 +1,23 @@
+{
+  "slug": "6ee68f7a340e419c",
+  "url": "https://x.com/stevendcoffey/status/2116303789649236048",
+  "title": "OpenAI Agents API 周更",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "6ee68f7a340e419cdabd4b3cc69884580fe06a26f685f8ef90cc37178f08b48d",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:14.050Z",
+  "content_hash": "2629751fca8c2824dc23916bd0da3d56e0a958a8aeef9968649b3645379822d7",
+  "article_path": "articles/6ee68f7a340e419c.md",
+  "fetched_url": "https://x.com/stevendcoffey/status/2116303789649236048",
+  "source_path": "sources/articles/openai-agents-api-weekly-update.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T23:59:49.063Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

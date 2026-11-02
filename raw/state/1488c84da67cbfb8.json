@@ -1,0 +1,23 @@
+{
+  "slug": "1488c84da67cbfb8",
+  "url": "https://x.com/claudeai/status/2116220869479428500",
+  "title": "Claude (@claudeai)",
+  "digest": "2026-11-02-frontier-ai.md",
+  "status": "filed",
+  "hash": "1488c84da67cbfb83a17bc46698a29f70c849e3b2ddf287f06520e134df7c582",
+  "first_seen": "2026-11-01T23:57:06.701Z",
+  "last_seen": "2026-11-01T23:57:06.701Z",
+  "fetched_at": "2026-11-01T23:57:10.347Z",
+  "content_hash": "d323cffe9814c126c673c9f0ddc37016480beb8044f735aea9abc0d7d247fc8b",
+  "article_path": "articles/1488c84da67cbfb8.md",
+  "fetched_url": "https://x.com/claudeai/status/2116220869479428500",
+  "source_path": "sources/articles/claude-renames-max-plans-max-5x-to-max-max-20x-to-ultra.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-01T23:58:39.081Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
