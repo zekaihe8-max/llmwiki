@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:25:14.160Z",
+  "url": "https://x.com/0xLogicrw/status/2117181951325176126",
+  "slug": "df5a2109cdda8009",
+  "content_hash": "26586b597358ace74e381eca00185ddda36b77e4a417c0003e121fc9356e4c65",
+  "source": {
+    "path": "sources/articles/anthropic-nov-12-rules-claude-proxy-and-subscription-resale-targ.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "与 Claude 订阅风控直接相关，新规涉及消费订阅额度的合规边界。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "涉及自营模型与第三方聚合/中转平台的边界，逻辑相近。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "讨论代理节点与托管方式，新规打击反代中转站与之相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "新规针对使用额度包装与限制绕过，与用量上限管控相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "与 Claude 订阅风控直接相关，新规涉及消费订阅额度的合规边界。",
+    "topics/deepseek-inference-vs-aggregators.md": "涉及自营模型与第三方聚合/中转平台的边界，逻辑相近。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "讨论代理节点与托管方式，新规打击反代中转站与之相关。",
+    "topics/usage-limit-ab-tests.md": "新规针对使用额度包装与限制绕过，与用量上限管控相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-nov-12-rules-claude-proxy-and-subscription-resale-targ.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "与 Claude 订阅风控直接相关，新规涉及消费订阅额度的合规边界。",
+      "topics/deepseek-inference-vs-aggregators.md": "涉及自营模型与第三方聚合/中转平台的边界，逻辑相近。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "讨论代理节点与托管方式，新规打击反代中转站与之相关。",
+      "topics/usage-limit-ab-tests.md": "新规针对使用额度包装与限制绕过，与用量上限管控相关。"
+    },
+    "notes": "所有主张均基于所抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-nov-12-rules-claude-proxy-and-subscription-resale-targ.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

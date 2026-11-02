@@ -1,5 +1,105 @@
 ## 2026-11-02
 
+* **创建 / Creation**: 归档 [拆解 poteto Grok Bot 使用指南：少猜、好检查、技能留存](./sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md)。 / Filed [Dissecting poteto's Grok Bot Usage Guide: Less Guessing, Easier Checking, Skill Retention](./sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md).
+
+* **创建 / Creation**: 归档 [开源 AI 交易组合：Kronos + day-trader-skill](./sources/articles/open-source-ai-trading-portfolio-kronos-day-trader-skill.md)。 / Filed [Open Source AI Trading Portfolio: Kronos + day-trader-skill](./sources/articles/open-source-ai-trading-portfolio-kronos-day-trader-skill.md).
+
+* **创建 / Creation**: 归档 [给 DeepSeek Harness 养一只 dsh-pet 桌面宠物](./sources/articles/raise-a-dsh-pet-desktop-pet-for-deepseek-harness.md)。 / Filed [Raise a dsh-pet desktop pet for DeepSeek Harness](./sources/articles/raise-a-dsh-pet-desktop-pet-for-deepseek-harness.md).
+
+* **创建 / Creation**: 归档 [普通人把琐事交给 Grok Bot](./sources/articles/ordinary-people-delegate-daily-chores-to-grok-bot.md)。 / Filed [Ordinary People Delegate Daily Chores to Grok Bot](./sources/articles/ordinary-people-delegate-daily-chores-to-grok-bot.md).
+
+* **创建 / Creation**: 归档 [开源去 slop Claude Skill 推荐](./sources/articles/open-source-unslop-claude-skill-recommendation.md)。 / Filed [Open-source Unslop Claude Skill Recommendation](./sources/articles/open-source-unslop-claude-skill-recommendation.md).
+
+* **创建 / Creation**: 归档 [租 B300 转卖成 AI 创业常见模式](./sources/articles/renting-b300s-and-reselling-inference-becomes-a-common-ai-startu.md)。 / Filed [Renting B300s and reselling inference becomes a common AI startup model](./sources/articles/renting-b300s-and-reselling-inference-becomes-a-common-ai-startu.md).
+
+* **创建 / Creation**: 归档 [Shisei 姿势库新增 484 件四视角服装，含 57 件中国历代服饰，代码开源图片 CC0](./sources/articles/shisei-pose-library-adds-484-four-view-outfits-including-57-chin.md)。 / Filed [Shisei pose library adds 484 four-view outfits including 57 Chinese historical costumes, code open-source and images CC0](./sources/articles/shisei-pose-library-adds-484-four-view-outfits-including-57-chin.md).
+
+* **创建 / Creation**: 归档 [Shisei 姿势库：1000+ 组姿势参考图免费商用，可接 ControlNet 与视频模型](./sources/articles/shisei-pose-library-1000-free-pose-references-for-controlnet-and.md)。 / Filed [Shisei Pose Library: 1000+ Free Pose References for ControlNet and Video Models](./sources/articles/shisei-pose-library-1000-free-pose-references-for-controlnet-and.md).
+
+* **创建 / Creation**: 归档 [用 REA 拆解飞书会议纪要：Mac 端录音转写与 AI 纪要设计](./sources/articles/deconstructing-lark-meeting-minutes-with-rea-mac-recording-trans.md)。 / Filed [Deconstructing Lark Meeting Minutes with REA: Mac Recording Transcription and AI Minutes Design](./sources/articles/deconstructing-lark-meeting-minutes-with-rea-mac-recording-trans.md).
+
+* **创建 / Creation**: 归档 [OpenRouter Token 用量暴涨，年化吞吐首次突破 1 京](./sources/articles/openrouter-token-usage-surges-annualized-throughput-exceeds-10-q.md)。 / Filed [OpenRouter Token Usage Surges, Annualized Throughput Exceeds 10 Quadrillion](./sources/articles/openrouter-token-usage-surges-annualized-throughput-exceeds-10-q.md).
+
+* **创建 / Creation**: 归档 [腾讯混元 Hyra 2.0：让 AI 从解题走向自主造工具](./sources/articles/tencent-hunyuan-hyra-2-0-letting-ai-move-from-problem-solving-to.md)。 / Filed [Tencent Hunyuan Hyra 2.0: Letting AI Move from Problem-Solving to Autonomous Tool-Building](./sources/articles/tencent-hunyuan-hyra-2-0-letting-ai-move-from-problem-solving-to.md).
+
+* **创建 / Creation**: 归档 [Vercel Labs 推出开源桌面操作工具 agent-desktop](./sources/articles/vercel-labs-releases-open-source-desktop-control-tool-agent-desk.md)。 / Filed [Vercel Labs releases open-source desktop control tool agent-desktop](./sources/articles/vercel-labs-releases-open-source-desktop-control-tool-agent-desk.md).
+
+* **创建 / Creation**: 归档 [Anthropic 11 月 12 日新规：Claude 反代与订阅转卖纳入打击范围](./sources/articles/anthropic-nov-12-rules-claude-proxy-and-subscription-resale-targ.md)。 / Filed [Anthropic Nov 12 Rules: Claude Proxy and Subscription Resale Targeted](./sources/articles/anthropic-nov-12-rules-claude-proxy-and-subscription-resale-targ.md).
+
+* **创建 / Creation**: 归档 [三账号登录死循环：X、Grok 与 Cursor 互相跳转](./sources/articles/three-account-login-loop-x-grok-and-cursor-redirecting-to-each-o.md)。 / Filed [Three-account login loop: X, Grok, and Cursor redirecting to each other](./sources/articles/three-account-login-loop-x-grok-and-cursor-redirecting-to-each-o.md).
+
+* **创建 / Creation**: 归档 [A 社封号经济学](./sources/articles/the-economics-of-account-bans-at-company-a.md)。 / Filed [The Economics of Account Bans at Company A](./sources/articles/the-economics-of-account-bans-at-company-a.md).
+
+* **创建 / Creation**: 归档 [扣子故事结束：字节AI产品线终结](./sources/articles/kouzi-story-ends-bytedance-ai-product-lines-terminated.md)。 / Filed [Kouzi Story Ends: ByteDance AI Product Lines Terminated](./sources/articles/kouzi-story-ends-bytedance-ai-product-lines-terminated.md).
+
+* **创建 / Creation**: 归档 [乔木 SimpleUI 开源代码](./sources/articles/qiaomu-simpleui-open-source-code.md)。 / Filed [Qiaomu SimpleUI Open Source Code](./sources/articles/qiaomu-simpleui-open-source-code.md).
+
+* **创建 / Creation**: 归档 [二手 Kindle Paperwhite 5 越狱后装 KOReader 并接入乔木 AI RSS](./sources/articles/second-hand-kindle-paperwhite-5-jailbroken-with-koreader-and-qia.md)。 / Filed [Second-hand Kindle Paperwhite 5 jailbroken with KOReader and Qiaomu AI RSS](./sources/articles/second-hand-kindle-paperwhite-5-jailbroken-with-koreader-and-qia.md).
+
+* **创建 / Creation**: 归档 [将 HackerNews 2006–2026 提及论文做成中文导读网站](./sources/articles/hackernews-papers-site-2006-2026-with-chinese-guides.md)。 / Filed [HackerNews Papers Site 2006–2026 with Chinese Guides](./sources/articles/hackernews-papers-site-2006-2026-with-chinese-guides.md).
+
+* **创建 / Creation**: 归档 [下载评：Hacker News 数据集在 Hugging Face 提供下载](./sources/articles/download-review-hacker-news-dataset-available-on-hugging-face.md)。 / Filed [Download Review: Hacker News Dataset Available on Hugging Face](./sources/articles/download-review-hacker-news-dataset-available-on-hugging-face.md).
+
+* **创建 / Creation**: 归档 [HuggingFace 上可下载 12G HackerNews 数据集](./sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md)。 / Filed [12G HackerNews Dataset Downloadable on HuggingFace](./sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md).
+
+* **创建 / Creation**: 归档 [法律当巨型 Git](./sources/articles/law-as-a-giant-git.md)。 / Filed [Law as a Giant Git](./sources/articles/law-as-a-giant-git.md).
+
+* **创建 / Creation**: 归档 [AI 干回软件外包](./sources/articles/ai-comes-full-circle-to-software-outsourcing.md)。 / Filed [AI Comes Full Circle to Software Outsourcing](./sources/articles/ai-comes-full-circle-to-software-outsourcing.md).
+
+* **创建 / Creation**: 归档 [万字拆 Agent 记忆：40+ 开源系统按写路径分 9 原型](./sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md)。 / Filed [10,000-Word Breakdown of Agent Memory: 40+ Open Source Systems Classified into 9 Prototypes by Write Path](./sources/articles/10-000-word-breakdown-of-agent-memory-40-open-source-systems-cla.md).
+
+* **创建 / Creation**: 归档 [做出来≠上生产：资深开发者为何对 Coding Agent 保持警惕](./sources/articles/built-production-ready-why-senior-developers-stay-wary-of-coding.md)。 / Filed [Built ≠ Production-Ready: Why Senior Developers Stay Wary of Coding Agents](./sources/articles/built-production-ready-why-senior-developers-stay-wary-of-coding.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS329A 自改进 AI 智能体课程推荐](./sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md)。 / Filed [Stanford CS329A Self-Improving AI Agents Course Recommendation](./sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md).
+
+* **创建 / Creation**: 归档 [OpenRouter 可验证 AI 代码审查](./sources/articles/openrouter-verifiable-ai-code-review.md)。 / Filed [OpenRouter Verifiable AI Code Review](./sources/articles/openrouter-verifiable-ai-code-review.md).
+
+* **创建 / Creation**: 归档 [浙大团队开源个人 Agent 系统 nanoMuse，对标 Meta Muse](./sources/articles/zhejiang-university-team-open-sources-personal-agent-system-nano.md)。 / Filed [Zhejiang University Team Open-Sources Personal Agent System nanoMuse, Benchmarked Against Meta Muse](./sources/articles/zhejiang-university-team-open-sources-personal-agent-system-nano.md).
+
+* **创建 / Creation**: 归档 [跟进 Grok Bot Anywhere：微信对话接入 Grok Bot](./sources/articles/following-grok-bot-anywhere-wechat-conversations-connected-to-gr.md)。 / Filed [Following Grok Bot Anywhere: WeChat Conversations Connected to Grok Bot](./sources/articles/following-grok-bot-anywhere-wechat-conversations-connected-to-gr.md).
+
+* **创建 / Creation**: 归档 [卡兹克飞书事件中台：一年 Agent 自动化实践](./sources/articles/khazix-feishu-event-middle-platform-one-year-of-agent-automation.md)。 / Filed [Khazix Feishu Event Middle Platform: One Year of Agent Automation Practice](./sources/articles/khazix-feishu-event-middle-platform-one-year-of-agent-automation.md).
+
+* **创建 / Creation**: 归档 [Poteto Grok Bot 使用指南拆解：少猜可查，先设计岗位再创建 Agent](./sources/articles/deconstructing-poteto-grok-bot-usage-guide-guess-less-design-rol.md)。 / Filed [Deconstructing Poteto Grok Bot Usage Guide: Guess Less, Design Role Before Creating Agent](./sources/articles/deconstructing-poteto-grok-bot-usage-guide-guess-less-design-rol.md).
+
+* **创建 / Creation**: 归档 [Grok Bot Anywhere 发布：群码热更，用户无感知](./sources/articles/grok-bot-anywhere-launches-group-qr-code-hot-swap-users-unaware.md)。 / Filed [Grok Bot Anywhere Launches: Group QR Code Hot Swap, Users Unaware](./sources/articles/grok-bot-anywhere-launches-group-qr-code-hot-swap-users-unaware.md).
+
+* **创建 / Creation**: 归档 [新订阅额度未恢复：新用户或因用量耗尽，老用户建议邮件询问](./sources/articles/new-subscription-quota-not-restored-new-users-may-have-exhausted.md)。 / Filed [New subscription quota not restored: new users may have exhausted usage, old users advised to email inquiry](./sources/articles/new-subscription-quota-not-restored-new-users-may-have-exhausted.md).
+
+* **创建 / Creation**: 归档 [额度异常已恢复：Grok Bot 用户称用量曾达 94%](./sources/articles/quota-abnormality-recovered-grok-bot-user-says-usage-once-reache.md)。 / Filed [Quota Abnormality Recovered: Grok Bot User Says Usage Once Reached 94%](./sources/articles/quota-abnormality-recovered-grok-bot-user-says-usage-once-reache.md).
+
+* **创建 / Creation**: 归档 [微信封号说明与 Grok Bot Anywhere 接入](./sources/articles/wechat-ban-clarification-and-grok-bot-anywhere-integration.md)。 / Filed [WeChat Ban Clarification and Grok Bot Anywhere Integration](./sources/articles/wechat-ban-clarification-and-grok-bot-anywhere-integration.md).
+
+* **创建 / Creation**: 归档 [Grok Bot Anywhere：微信与 Mac 接入 Grok Bot 的内测工具](./sources/articles/grok-bot-anywhere-wechat-and-mac-access-tool-for-grok-bot-in-int.md)。 / Filed [Grok Bot Anywhere: WeChat and Mac Access Tool for Grok Bot in Internal Testing](./sources/articles/grok-bot-anywhere-wechat-and-mac-access-tool-for-grok-bot-in-int.md).
+
+* **创建 / Creation**: 归档 [大失败，再用 Cue 试试](./sources/articles/big-failure-try-cue-again.md)。 / Filed [Big Failure, Try Cue Again](./sources/articles/big-failure-try-cue-again.md).
+
+* **创建 / Creation**: 归档 [美国软件注册师任务](./sources/articles/us-software-registrar-task.md)。 / Filed [US Software Registrar Task](./sources/articles/us-software-registrar-task.md).
+
+* **创建 / Creation**: 归档 [如何上手使用 Muse](./sources/articles/how-to-get-started-with-muse.md)。 / Filed [How to get started with Muse](./sources/articles/how-to-get-started-with-muse.md).
+
+* **创建 / Creation**: 归档 [闲鱼段](./sources/articles/xianyu-4-9-yuan-and-cue-retry.md)。 / Filed [Xianyu 4.9 Yuan and Cue Retry](./sources/articles/xianyu-4-9-yuan-and-cue-retry.md).
+
+* **创建 / Creation**: 归档 [第一轮找壁纸最高清版：个人 Agent 能力实测](./sources/articles/first-round-wallpaper-highest-resolution-test-personal-agent-cap.md)。 / Filed [First-Round Wallpaper Highest-Resolution Test: Personal Agent Capability Evaluation](./sources/articles/first-round-wallpaper-highest-resolution-test-personal-agent-cap.md).
+
+* **创建 / Creation**: 归档 [Personal Agent 大考核开场](./sources/articles/personal-agent-big-assessment-begins.md)。 / Filed [Personal Agent Big Assessment Begins](./sources/articles/personal-agent-big-assessment-begins.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 省额度 5 招](./sources/articles/5-tips-to-save-grok-bot-membership-quota.md)。 / Filed [5 Tips to Save Grok Bot Membership Quota](./sources/articles/5-tips-to-save-grok-bot-membership-quota.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 电话通话功能上线](./sources/articles/grok-bot-phone-call-feature-launched.md)。 / Filed [Grok Bot Phone Call Feature Launched](./sources/articles/grok-bot-phone-call-feature-launched.md).
+
+* **创建 / Creation**: 归档 [别在 Grok Bot 云主机跑 Claude Code](./sources/articles/don-t-run-claude-code-on-grok-bot-cloud-hosts.md)。 / Filed [Don't Run Claude Code on Grok Bot Cloud Hosts](./sources/articles/don-t-run-claude-code-on-grok-bot-cloud-hosts.md).
+
+* **创建 / Creation**: 归档 [马斯克回应Grok Bot亏损，预警额度可能下调](./sources/articles/musk-says-grok-bot-operates-at-a-loss-warns-usage-quotas-may-be.md)。 / Filed [Musk says Grok Bot operates at a loss, warns usage quotas may be reduced](./sources/articles/musk-says-grok-bot-operates-at-a-loss-warns-usage-quotas-may-be.md).
+
+* **创建 / Creation**: 归档 [语音输入吐槽：微信输入法反超 Typeless](./sources/articles/voice-input-rant-wechat-input-method-surpasses-typeless.md)。 / Filed [Voice-input rant: WeChat Input Method surpasses Typeless](./sources/articles/voice-input-rant-wechat-input-method-surpasses-typeless.md).
+
+* **创建 / Creation**: 归档 [Karpathy HackerTube 再提](./sources/articles/karpathy-hackertube-revisited.md)。 / Filed [Karpathy HackerTube Revisited](./sources/articles/karpathy-hackertube-revisited.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 服务成本不可持续](./sources/articles/grok-bot-serving-cost-unsustainable-relative-to-revenue.md)。 / Filed [Grok Bot Serving Cost Unsustainable Relative to Revenue](./sources/articles/grok-bot-serving-cost-unsustainable-relative-to-revenue.md).
+
+* **创建 / Creation**: 归档 [补贴扛不住与额度跳变](./sources/articles/subsidies-unsustainable-and-quota-sudden-jump.md)。 / Filed [Subsidies Unsustainable and Quota Sudden Jump](./sources/articles/subsidies-unsustainable-and-quota-sudden-jump.md).
+
 * **创建 / Creation**: 归档 [如果 AI 前你也能做，就说明没用够 AI](./sources/articles/if-you-could-have-done-it-before-ai-you-re-not-pushing-ai-enough.md)。 / Filed [If you could have done it before AI, you're not pushing AI enough](./sources/articles/if-you-could-have-done-it-before-ai-you-re-not-pushing-ai-enough.md).
 
 * **创建 / Creation**: 归档 [Addy Osmani 分享 Claude Code「ultrathink」技巧](./sources/articles/addy-osmani-shares-claude-code-ultrathink-tip.md)。 / Filed [Addy Osmani shares Claude Code "ultrathink" tip](./sources/articles/addy-osmani-shares-claude-code-ultrathink-tip.md).

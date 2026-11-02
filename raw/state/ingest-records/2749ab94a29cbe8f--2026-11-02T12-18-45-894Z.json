@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:18:45.894Z",
+  "url": "https://x.com/shao__meng/status/2117092563329179702",
+  "slug": "2749ab94a29cbe8f",
+  "content_hash": "23b3ed793a7e11103c3662705d700a1d8268d70754dc9b4b728a4448f1dedb27",
+  "source": {
+    "path": "sources/articles/built-production-ready-why-senior-developers-stay-wary-of-coding.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/company-agent-harness.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讨论 agent 代码能否上生产、CI/CD 与交付稳定性，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 harness，人把学到的东西写进 harness 让构建与测试更稳，与公司级 Agent Harness 直接相关。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "实验中人大量时间在白板做领域划分、边界定义与计划，再交给 agent 执行，符合先人审设计的模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章讨论 agent 代码能否上生产、CI/CD 与交付稳定性，属智能体规模化工程范畴。",
+    "topics/company-agent-harness.md": "文中多次提到 harness，人把学到的东西写进 harness 让构建与测试更稳，与公司级 Agent Harness 直接相关。",
+    "topics/divergent-tasks-human-design-gate.md": "实验中人大量时间在白板做领域划分、边界定义与计划，再交给 agent 执行，符合先人审设计的模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/built-production-ready-why-senior-developers-stay-wary-of-coding.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/company-agent-harness.md",
+      "topics/divergent-tasks-human-design-gate.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章讨论 agent 代码能否上生产、CI/CD 与交付稳定性，属智能体规模化工程范畴。",
+      "topics/company-agent-harness.md": "文中多次提到 harness，人把学到的东西写进 harness 让构建与测试更稳，与公司级 Agent Harness 直接相关。",
+      "topics/divergent-tasks-human-design-gate.md": "实验中人大量时间在白板做领域划分、边界定义与计划，再交给 agent 执行，符合先人审设计的模式。"
+    },
+    "notes": "来源为 X 帖文，文中 martinfowler.com 链接已被短网址截断，未在此处补全。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/built-production-ready-why-senior-developers-stay-wary-of-coding.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/agent-skill-authoring.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "帖文核心是开源姿势参考库 Shisei 及其适用于生图与视频模型的机位图，与该主题直接相关。",
+    "topics/agent-skill-authoring.md": "帖文提及通过 npx skills add 安装并使用 Agent Skill 来操作云智算，涉及技能编写与调用。",
+    "topics/gpu-ai-compute-unlock.md": "帖文涉及自主租用与释放 GPU 机器，属于消费级/云端 AI 算力获取范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "帖文核心是开源姿势参考库 Shisei 及其适用于生图与视频模型的机位图，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提及通过 npx skills add 安装并使用 Agent Skill 来操作云智算，涉及技能编写与调用。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文涉及自主租用与释放 GPU 机器，属于消费级/云端 AI 算力获取范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入文章外事实或 URL。"
+}

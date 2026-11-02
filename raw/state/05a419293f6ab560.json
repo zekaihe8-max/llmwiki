@@ -1,0 +1,23 @@
+{
+  "slug": "05a419293f6ab560",
+  "url": "https://x.com/vista8/status/2117144714516517148",
+  "title": "HF 上 12G HackerNews 数据",
+  "digest": "2026-11-02-cn-x.md",
+  "status": "filed",
+  "hash": "05a419293f6ab5608678964e100b03640dde1a2da54d8237fd435affa7629aef",
+  "first_seen": "2026-11-02T12:02:55.180Z",
+  "last_seen": "2026-11-02T12:02:55.180Z",
+  "fetched_at": "2026-11-02T12:03:14.229Z",
+  "content_hash": "e67848e9b93b8a34b67a8509635eb9c576751327b212019bc142121378dc2900",
+  "article_path": "articles/05a419293f6ab560.md",
+  "fetched_url": "https://x.com/vista8/status/2117144714516517148",
+  "source_path": "sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T12:21:12.901Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:08:16.016Z",
+  "url": "https://x.com/yetone/status/2117193082655719908",
+  "slug": "6e098143b23bf12d",
+  "content_hash": "93f6b144e8c5f7b1b3dd8d8d95d0fa911f8c35b37cab8e181eff935223fc0f58",
+  "source": {
+    "path": "sources/articles/first-round-wallpaper-highest-resolution-test-personal-agent-cap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "记录了具体 Agent 执行任务的过程与结果。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "属于社区对 Agent 能力的非正式实测，而非刷分榜单。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦个人 Agent 的实际使用表现与热潮差距。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "涉及多个 Agent 与用户互动并分享结果的场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "帖文聚焦个人 Agent 的实际使用表现与热潮差距。",
+    "topics/personal-agent-share-and-interbot-chat.md": "涉及多个 Agent 与用户互动并分享结果的场景。",
+    "topics/community-evals-vs-score-hype.md": "属于社区对 Agent 能力的非正式实测，而非刷分榜单。",
+    "topics/ai-eval-work-record-gateway.md": "记录了具体 Agent 执行任务的过程与结果。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/first-round-wallpaper-highest-resolution-test-personal-agent-cap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-hype-familiarity-gap.md": "帖文聚焦个人 Agent 的实际使用表现与热潮差距。",
+      "topics/personal-agent-share-and-interbot-chat.md": "涉及多个 Agent 与用户互动并分享结果的场景。",
+      "topics/community-evals-vs-score-hype.md": "属于社区对 Agent 能力的非正式实测，而非刷分榜单。",
+      "topics/ai-eval-work-record-gateway.md": "记录了具体 Agent 执行任务的过程与结果。"
+    },
+    "notes": "Source: https://x.com/yetone/status/2117193082655719908",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/first-round-wallpaper-highest-resolution-test-personal-agent-cap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

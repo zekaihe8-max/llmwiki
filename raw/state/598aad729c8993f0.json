@@ -1,0 +1,23 @@
+{
+  "slug": "598aad729c8993f0",
+  "url": "https://x.com/xiaomovps/status/2117177889414410553",
+  "title": "别在 Grok Bot 云主机跑 Claude Code",
+  "digest": "2026-11-02-cn-x.md",
+  "status": "filed",
+  "hash": "598aad729c8993f01350a3140216b3802b09f7ac63b812b79c34ea8fb32130d4",
+  "first_seen": "2026-11-02T12:02:55.180Z",
+  "last_seen": "2026-11-02T12:02:55.180Z",
+  "fetched_at": "2026-11-02T12:02:58.194Z",
+  "content_hash": "1ddf4597b51bda7d58276a02a47b4d69f8877a385dd77465fb8aa0a78472143e",
+  "article_path": "articles/598aad729c8993f0.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2117177889414410553",
+  "source_path": "sources/articles/don-t-run-claude-code-on-grok-bot-cloud-hosts.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T12:06:11.595Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "55818417b6ff94d5",
+  "url": "https://x.com/shao__meng/status/2116901124716347815",
+  "title": "斯坦福 CS329A",
+  "digest": "2026-11-02-cn-x.md",
+  "status": "filed",
+  "hash": "55818417b6ff94d5b7256f1186f4dbb117b23f2931e0e2991b9b3b0d35704dfe",
+  "first_seen": "2026-11-02T12:02:55.180Z",
+  "last_seen": "2026-11-02T12:02:55.180Z",
+  "fetched_at": "2026-11-02T12:03:11.354Z",
+  "content_hash": "6491b33cf79b9c094cfc3915cc9708b69f2cb81e35ce1176ff32c844779c208f",
+  "article_path": "articles/55818417b6ff94d5.md",
+  "fetched_url": "https://x.com/shao__meng/status/2116901124716347815",
+  "source_path": "sources/articles/stanford-cs329a-self-improving-ai-agents-course-recommendation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T12:17:58.875Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

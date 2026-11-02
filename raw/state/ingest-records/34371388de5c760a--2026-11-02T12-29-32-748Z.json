@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:29:32.748Z",
+  "url": "https://x.com/dingyi/status/2116908875031204179",
+  "slug": "34371388de5c760a",
+  "content_hash": "37846683d3f1f2fb7001eb0c0d8d003bb8365ba2f726aa34f1dfb4b2f39b2fad",
+  "source": {
+    "path": "sources/articles/open-source-unslop-claude-skill-recommendation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是一个 Claude Skill，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "“slop”指代低质量 AI 生成内容，与 AI 代码与屎山质量主题相关。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "原文明确提到该 skill 作用于登录页（landing pages），与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是一个 Claude Skill，与 Agent Skill 编写主题直接相关。",
+    "topics/landing-page-site-clone-over-skill.md": "原文明确提到该 skill 作用于登录页（landing pages），与该主题相关。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "“slop”指代低质量 AI 生成内容，与 AI 代码与屎山质量主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/open-source-unslop-claude-skill-recommendation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/landing-page-site-clone-over-skill.md",
+      "topics/ai-code-vs-messy-code-double-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是一个 Claude Skill，与 Agent Skill 编写主题直接相关。",
+      "topics/landing-page-site-clone-over-skill.md": "原文明确提到该 skill 作用于登录页（landing pages），与该主题相关。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "“slop”指代低质量 AI 生成内容，与 AI 代码与屎山质量主题相关。"
+    },
+    "notes": "无新主题创建，所有主题均保持 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/open-source-unslop-claude-skill-recommendation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

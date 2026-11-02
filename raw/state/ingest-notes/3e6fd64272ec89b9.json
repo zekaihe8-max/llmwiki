@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与用户使用场景，与本文额度异常主题高度相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与测试，对理解额度异常波动有参考价值。",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度关系，与用户因额度显示异常产生焦虑的情境相近。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本文讨论的 Grok Bot 账户属于同一生态话题。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与用户使用场景，与本文额度异常主题高度相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与测试，对理解额度异常波动有参考价值。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度关系，与用户因额度显示异常产生焦虑的情境相近。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与本文讨论的 Grok Bot 账户属于同一生态话题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅基于 X 帖文截取，未独立核实 Grok 官方故障公告。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-auto-mode.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 AI Agent 直接操作桌面（Computer Use），与该主题直接相关。",
+    "topics/coding-agent-token-saving-tooling.md": "文中提到通过无障碍接口而非截图坐标可减少视觉分析 Token 开销，属于编程 Agent 省 Token 工具范畴。",
+    "topics/agent-auto-mode.md": "agent-desktop 让 Agent 自主执行桌面点击、输入并自行复核界面，体现智能体自动模式。",
+    "topics/multiagent-infra-four-problems.md": "演示中多个 Agent 并行操作不同应用，涉及多智能体并发与基建协调问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI Agent 直接操作桌面（Computer Use），与该主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中提到通过无障碍接口而非截图坐标可减少视觉分析 Token 开销，属于编程 Agent 省 Token 工具范畴。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "agent-desktop 让 Agent 自主执行桌面点击、输入并自行复核界面，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "演示中多个 Agent 并行操作不同应用，涉及多智能体并发与基建协调问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文及其引用的 ctatedev 介绍帖，未独立核实演示细节，已在摘要中使用「帖文称」等表述。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:26:36.241Z",
+  "url": "https://x.com/0xLogicrw/status/2117201841117360306",
+  "slug": "6eb308e8c2b92e9f",
+  "content_hash": "fc1e93b0c45fc93d9fe2072220e23a4c20699e209fa83d2ae44f1a86500d8fae",
+  "source": {
+    "path": "sources/articles/openrouter-token-usage-surges-annualized-throughput-exceeds-10-q.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/deepseek-inference-vs-aggregators.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章将增长归因于 AI Agent 的 Token 消耗，涉及智能体算力使用与治理语境。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "吞吐量短期内翻倍并超越历史总和，体现智能体规模化工程的基建压力。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "OpenRouter 属于跨模型路由与聚合平台，文章聚焦其 Token 吞吐增长，与该主题直接相关。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "OpenRouter 作为模型聚合平台，与聚合平台相对自营推理的讨论有语境重叠。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "OpenRouter 属于跨模型路由与聚合平台，文章聚焦其 Token 吞吐增长，与该主题直接相关。",
+    "topics/agent-compute-and-governance.md": "文章将增长归因于 AI Agent 的 Token 消耗，涉及智能体算力使用与治理语境。",
+    "topics/agent-scaled-engineering.md": "吞吐量短期内翻倍并超越历史总和，体现智能体规模化工程的基建压力。",
+    "topics/deepseek-inference-vs-aggregators.md": "OpenRouter 作为模型聚合平台，与聚合平台相对自营推理的讨论有语境重叠。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openrouter-token-usage-surges-annualized-throughput-exceeds-10-q.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/deepseek-inference-vs-aggregators.md"
+    ],
+    "selection_reasons": {
+      "topics/cloud-auto-model-routing.md": "OpenRouter 属于跨模型路由与聚合平台，文章聚焦其 Token 吞吐增长，与该主题直接相关。",
+      "topics/agent-compute-and-governance.md": "文章将增长归因于 AI Agent 的 Token 消耗，涉及智能体算力使用与治理语境。",
+      "topics/agent-scaled-engineering.md": "吞吐量短期内翻倍并超越历史总和，体现智能体规模化工程的基建压力。",
+      "topics/deepseek-inference-vs-aggregators.md": "OpenRouter 作为模型聚合平台，与聚合平台相对自营推理的讨论有语境重叠。"
+    },
+    "notes": "所有数据与主张均来源于 X 帖文及其引用的 Deedy 推文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openrouter-token-usage-surges-annualized-throughput-exceeds-10-q.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

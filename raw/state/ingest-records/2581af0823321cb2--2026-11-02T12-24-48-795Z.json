@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:24:48.795Z",
+  "url": "https://x.com/oran_ge/status/2117220878157283721",
+  "slug": "2581af0823321cb2",
+  "content_hash": "a70b4ac1e6a3a3af635b7bfca7425f876d0ed32c29fcabac7f987da1104e85a5",
+  "source": {
+    "path": "sources/articles/three-account-login-loop-x-grok-and-cursor-redirecting-to-each-o.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Cursor 作为编程 Agent，其登录流程与订阅门槛属于编程 Agent 体验与额度范畴。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Grok Bot 与 X 账号的登录跳转，与该主题的 Grok Bot 内置额度桥接 X 查询最为相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "用户吐槽已是 X 大会员却仍被要求订阅，触及高端 AI 订阅价值与权益识别问题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "登录后被提示订阅涉及用量上限与订阅分流机制。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文涉及 Grok Bot 与 X 账号的登录跳转，与该主题的 Grok Bot 内置额度桥接 X 查询最为相关。",
+    "topics/premium-ai-subscription-value.md": "用户吐槽已是 X 大会员却仍被要求订阅，触及高端 AI 订阅价值与权益识别问题。",
+    "topics/coding-agent-ux-vs-quota.md": "Cursor 作为编程 Agent，其登录流程与订阅门槛属于编程 Agent 体验与额度范畴。",
+    "topics/usage-limit-ab-tests.md": "登录后被提示订阅涉及用量上限与订阅分流机制。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/three-account-login-loop-x-grok-and-cursor-redirecting-to-each-o.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "帖文涉及 Grok Bot 与 X 账号的登录跳转，与该主题的 Grok Bot 内置额度桥接 X 查询最为相关。",
+      "topics/premium-ai-subscription-value.md": "用户吐槽已是 X 大会员却仍被要求订阅，触及高端 AI 订阅价值与权益识别问题。",
+      "topics/coding-agent-ux-vs-quota.md": "Cursor 作为编程 Agent，其登录流程与订阅门槛属于编程 Agent 体验与额度范畴。",
+      "topics/usage-limit-ab-tests.md": "登录后被提示订阅涉及用量上限与订阅分流机制。"
+    },
+    "notes": "所有主张均基于该帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/three-account-login-loop-x-grok-and-cursor-redirecting-to-each-o.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

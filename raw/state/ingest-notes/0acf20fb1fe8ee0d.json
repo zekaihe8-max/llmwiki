@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "帖文核心是开源姿势/服装参考库用于 AI 生图，与该主题直接相关。",
+    "topics/desktop-outfit-character-companions.md": "涉及服装与角色搭配，虽侧重桌面伴侣，但属同类换装/角色资产讨论。",
+    "topics/simulation-ready-open-3d-assets.md": "Shisei 提供开放、免费商用的多视角资产，与开放三维/仿真资产主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "帖文核心是开源姿势/服装参考库用于 AI 生图，与该主题直接相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "涉及服装与角色搭配，虽侧重桌面伴侣，但属同类换装/角色资产讨论。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "Shisei 提供开放、免费商用的多视角资产，与开放三维/仿真资产主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://x.com/wquguru/status/2117211671399940347"
+}

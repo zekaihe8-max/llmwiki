@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "帖文涉及可用于 AI 训练的公开语料数据集，与该主题的媒体内容回灌训练语料最为相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "Hacker News 数据集常用于公开评测与基准，与审查公开榜单质量的主题相近。",
+    "topics/community-evals-vs-score-hype.md": "Hacker News 本身是技术社区，数据集分发与社区评测文化相关，故参考该主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文涉及可用于 AI 训练的公开语料数据集，与该主题的媒体内容回灌训练语料最为相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Hacker News 数据集常用于公开评测与基准，与审查公开榜单质量的主题相近。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Hacker News 本身是技术社区，数据集分发与社区评测文化相关，故参考该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文极简，仅包含一条推文及其 Hugging Face 数据集链接，未提供额外事实可供核查。"
+}

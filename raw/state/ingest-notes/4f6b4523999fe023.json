@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文结论落脚于传统软件交付与外包模式，与软件工厂主题高度相关。",
+    "topics/agentic-ai-foundation.md": "帖文讨论 Agent 与多智能体演进，属于 Agentic AI 范畴。",
+    "topics/ai-native-companies.md": "涉及 AI 行业商业模式与人才价值变迁，与 AI 原生公司相关。",
+    "topics/workflows-before-agents.md": "帖文提到从 Agent 技术转向业务理解，呼应工作流优先于智能体的观点。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文结论落脚于传统软件交付与外包模式，与软件工厂主题高度相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Agent 与多智能体演进，属于 Agentic AI 范畴。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 行业商业模式与人才价值变迁，与 AI 原生公司相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到从 Agent 技术转向业务理解，呼应工作流优先于智能体的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @heydengai 的单条帖文，未核实其中的时间线与网友总结，已在摘要中用「帖文称」标注。"
+}

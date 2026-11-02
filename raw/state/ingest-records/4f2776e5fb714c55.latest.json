@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:21:38.948Z",
+  "url": "https://x.com/vista8/status/2117145032650358932",
+  "slug": "4f2776e5fb714c55",
+  "content_hash": "d20edb9ff6bd15ceb78f9cbec2736dd5b31564c6723ad34afa115c56c0168964",
+  "source": {
+    "path": "sources/articles/download-review-hacker-news-dataset-available-on-hugging-face.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文涉及可用于 AI 训练的公开语料数据集，与该主题的媒体内容回灌训练语料最为相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Hacker News 本身是技术社区，数据集分发与社区评测文化相关，故参考该主题。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Hacker News 数据集常用于公开评测与基准，与审查公开榜单质量的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "帖文涉及可用于 AI 训练的公开语料数据集，与该主题的媒体内容回灌训练语料最为相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "Hacker News 数据集常用于公开评测与基准，与审查公开榜单质量的主题相近。",
+    "topics/community-evals-vs-score-hype.md": "Hacker News 本身是技术社区，数据集分发与社区评测文化相关，故参考该主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/download-review-hacker-news-dataset-available-on-hugging-face.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-media-training-corpus-loop.md": "帖文涉及可用于 AI 训练的公开语料数据集，与该主题的媒体内容回灌训练语料最为相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "Hacker News 数据集常用于公开评测与基准，与审查公开榜单质量的主题相近。",
+      "topics/community-evals-vs-score-hype.md": "Hacker News 本身是技术社区，数据集分发与社区评测文化相关，故参考该主题。"
+    },
+    "notes": "原文极简，仅包含一条推文及其 Hugging Face 数据集链接，未提供额外事实可供核查。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/download-review-hacker-news-dataset-available-on-hugging-face.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

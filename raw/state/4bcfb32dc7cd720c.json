@@ -1,0 +1,23 @@
+{
+  "slug": "4bcfb32dc7cd720c",
+  "url": "https://x.com/yetone/status/2117161160118309018",
+  "title": "Cue",
+  "digest": "2026-11-02-cn-x.md",
+  "status": "filed",
+  "hash": "4bcfb32dc7cd720cd8a97f7e37bee06fb88aabf3702cb156b07ea37e546fecf0",
+  "first_seen": "2026-11-02T12:02:55.180Z",
+  "last_seen": "2026-11-02T12:02:55.180Z",
+  "fetched_at": "2026-11-02T12:03:01.965Z",
+  "content_hash": "805bd7633f9d1794337b6dd2de1a0991c10da484d28d6e9f9929c3879d2e5425",
+  "article_path": "articles/4bcfb32dc7cd720c.md",
+  "fetched_url": "https://x.com/yetone/status/2117161160118309018",
+  "source_path": "sources/articles/big-failure-try-cue-again.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-02T12:11:35.095Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

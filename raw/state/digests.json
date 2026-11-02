@@ -68,5 +68,10 @@
     "content_hash": "6df393100a4a86c7728fb33ebb19a71d3260b3396b71c68b3473fc20f9e1415c",
     "ingested_at": "2026-11-01T23:57:06.701Z",
     "urls": 25
+  },
+  "2026-11-02-cn-x.md": {
+    "content_hash": "f569f43a36f393612fd2943c7758c580d82354073c6d7645af41f0530fe18abc",
+    "ingested_at": "2026-11-02T12:02:55.180Z",
+    "urls": 50
   }
 }

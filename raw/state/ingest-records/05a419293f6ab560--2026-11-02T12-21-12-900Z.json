@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:21:12.900Z",
+  "url": "https://x.com/vista8/status/2117144714516517148",
+  "slug": "05a419293f6ab560",
+  "content_hash": "e67848e9b93b8a34b67a8509635eb9c576751327b212019bc142121378dc2900",
+  "source": {
+    "path": "sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/llm-maintained-wiki.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 训练语料与数据集，与 HuggingFace 上的 12G HackerNews 数据最为贴近"
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "HackerBooks 网站可视为基于数据构建的轻量知识/百科类站点，与 LLM 维护 wiki 的主题相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "HuggingFace 开放数据下载与开放资源分发理念相关"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "直接复用现成数据集而非从零采集，体现先复用再编写的原则"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "涉及 AI 训练语料与数据集，与 HuggingFace 上的 12G HackerNews 数据最为贴近",
+    "topics/llm-maintained-wiki.md": "HackerBooks 网站可视为基于数据构建的轻量知识/百科类站点，与 LLM 维护 wiki 的主题相关",
+    "topics/open-weight-frontier-models.md": "HuggingFace 开放数据下载与开放资源分发理念相关",
+    "topics/reuse-before-write.md": "直接复用现成数据集而非从零采集，体现先复用再编写的原则"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/llm-maintained-wiki.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-media-training-corpus-loop.md": "涉及 AI 训练语料与数据集，与 HuggingFace 上的 12G HackerNews 数据最为贴近",
+      "topics/llm-maintained-wiki.md": "HackerBooks 网站可视为基于数据构建的轻量知识/百科类站点，与 LLM 维护 wiki 的主题相关",
+      "topics/open-weight-frontier-models.md": "HuggingFace 开放数据下载与开放资源分发理念相关",
+      "topics/reuse-before-write.md": "直接复用现成数据集而非从零采集，体现先复用再编写的原则"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/12g-hackernews-dataset-downloadable-on-huggingface.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:05:17.023Z",
+  "url": "https://x.com/op7418/status/2116888871057473746",
+  "slug": "8a97c26a5cd0c604",
+  "content_hash": "30e9a3cc7c8af1c06f43a2ef51ef99a8d07d8c931f6b598dd96f33b5c3edb68f",
+  "source": {
+    "path": "sources/articles/voice-input-rant-wechat-input-method-surpasses-typeless.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "涉及语音助手/输入交互，但侧重车载场景，与本文无直接扩展。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "涉及纯语音交互形态，与语音输入吐槽相关但不直接重叠。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "最贴近语音输入体验对比与使用场景讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "最贴近语音输入体验对比与使用场景讨论。",
+    "topics/carplay-voice-assistants.md": "涉及语音助手/输入交互，但侧重车载场景，与本文无直接扩展。",
+    "topics/pure-speech-full-duplex.md": "涉及纯语音交互形态，与语音输入吐槽相关但不直接重叠。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/voice-input-rant-wechat-input-method-surpasses-typeless.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/carplay-voice-assistants.md",
+      "topics/pure-speech-full-duplex.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "最贴近语音输入体验对比与使用场景讨论。",
+      "topics/carplay-voice-assistants.md": "涉及语音助手/输入交互，但侧重车载场景，与本文无直接扩展。",
+      "topics/pure-speech-full-duplex.md": "涉及纯语音交互形态，与语音输入吐槽相关但不直接重叠。"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/voice-input-rant-wechat-input-method-surpasses-typeless.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

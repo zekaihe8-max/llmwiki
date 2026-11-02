@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "桌面宠物与角色伴侣主题直接对应",
+    "topics/harness-plugin-style-fragmentation.md": "文中提及 DSH 插件安装，属于 Harness 插件界面与样式讨论范围",
+    "topics/loose-web-agent-harness-plugins.md": "dsh-pet 是 Agent Harness 的社区插件，与该主题相关",
+    "topics/minimal-core-community-extensions.md": "社区项目对核心 Agent 工具的轻量扩展，符合该主题讨论方向"
+  },
+  "topics": [
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "桌面宠物与角色伴侣主题直接对应"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "文中提及 DSH 插件安装，属于 Harness 插件界面与样式讨论范围"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "dsh-pet 是 Agent Harness 的社区插件，与该主题相关"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "社区项目对核心 Agent 工具的轻量扩展，符合该主题讨论方向"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源于提供的帖文 markdown，未引用项目仓库具体内容或外部信息"
+}

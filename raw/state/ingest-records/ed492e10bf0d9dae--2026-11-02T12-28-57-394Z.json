@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-02T12:28:57.394Z",
+  "url": "https://x.com/dingyi/status/2117134112368837033",
+  "slug": "ed492e10bf0d9dae",
+  "content_hash": "4abecdf40fa7714b03778128e2c4177fe8ed09b7d288e44cf77e08d45e6e27c4",
+  "source": {
+    "path": "sources/articles/renting-b300s-and-reselling-inference-becomes-a-common-ai-startu.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中提到大部分 AI 创业公司采用此模式，与 AI 原生公司主题相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "租赁算力并部署模型涉及云平台模型编排与渠道取舍。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文章讨论推理服务商转卖模式，与自营推理相对聚合平台主题直接相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中涉及 B300 租赁成本与推理服务经济性，与推理成本效率主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "文章讨论推理服务商转卖模式，与自营推理相对聚合平台主题直接相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中涉及 B300 租赁成本与推理服务经济性，与推理成本效率主题相关。",
+    "topics/cloud-auto-model-routing.md": "租赁算力并部署模型涉及云平台模型编排与渠道取舍。",
+    "topics/ai-native-companies.md": "文中提到大部分 AI 创业公司采用此模式，与 AI 原生公司主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/renting-b300s-and-reselling-inference-becomes-a-common-ai-startu.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "文章讨论推理服务商转卖模式，与自营推理相对聚合平台主题直接相关。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中涉及 B300 租赁成本与推理服务经济性，与推理成本效率主题相关。",
+      "topics/cloud-auto-model-routing.md": "租赁算力并部署模型涉及云平台模型编排与渠道取舍。",
+      "topics/ai-native-companies.md": "文中提到大部分 AI 创业公司采用此模式，与 AI 原生公司主题相关。"
+    },
+    "notes": "原文中关于开源模型经济性的论述在截图处截断，未编造具体收益数字。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/renting-b300s-and-reselling-inference-becomes-a-common-ai-startu.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

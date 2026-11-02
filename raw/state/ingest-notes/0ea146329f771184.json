@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "文章核心是保护前沿模型领先地位、防止蒸馏，与前沿训练隔离与资产防护主题相近。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "封号依据用户行为推断其用于蒸馏，与行为指纹识别模型用途的主题相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中引用推理毛利率 85% 与研发成本结构，涉及推理经济性与大厂成本效率。",
+    "topics/open-weight-frontier-models.md": "讨论前沿模型代际差、蒸馏与封闭商业模式，与开放权重前沿模型的边界相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文章核心是保护前沿模型领先地位、防止蒸馏，与前沿训练隔离与资产防护主题相近。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "封号依据用户行为推断其用于蒸馏，与行为指纹识别模型用途的主题相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中引用推理毛利率 85% 与研发成本结构，涉及推理经济性与大厂成本效率。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "讨论前沿模型代际差、蒸馏与封闭商业模式，与开放权重前沿模型的边界相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自单一 X 帖文，未独立核实；财务数字直接引用帖文内容。"
+}
