@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:06:36.853Z",
+  "url": "https://x.com/simonw/status/2117337139633607167",
+  "slug": "997656a851f82572",
+  "content_hash": "7542e6f61613c553682d207c7302f7cc03f6c75e767298cdac46ee3a89afdcfe",
+  "source": {
+    "path": "sources/articles/simon-willison-u-s-census-bureau-ai-adoption-survey-sullied-by-s.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/adversarial-review-external-evidence.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文引用外部图表并对官方调查持批判态度，属对抗性评审与外部证据讨论。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章涉及美国企业 AI 采用率，与 AI 原生公司主题相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "内容关联大型企业 AI 采用与人员配置，属企业 AI 落地范畴。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文对人口普查局调查及阿波罗图表提出质疑，符合公开数据质量审查主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章涉及美国企业 AI 采用率，与 AI 原生公司主题相近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "内容关联大型企业 AI 采用与人员配置，属企业 AI 落地范畴。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文对人口普查局调查及阿波罗图表提出质疑，符合公开数据质量审查主题。",
+    "topics/adversarial-review-external-evidence.md": "帖文引用外部图表并对官方调查持批判态度，属对抗性评审与外部证据讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/simon-willison-u-s-census-bureau-ai-adoption-survey-sullied-by-s.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/adversarial-review-external-evidence.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章涉及美国企业 AI 采用率，与 AI 原生公司主题相近。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "内容关联大型企业 AI 采用与人员配置，属企业 AI 落地范畴。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文对人口普查局调查及阿波罗图表提出质疑，符合公开数据质量审查主题。",
+      "topics/adversarial-review-external-evidence.md": "帖文引用外部图表并对官方调查持批判态度，属对抗性评审与外部证据讨论。"
+    },
+    "notes": "仅基于抓取的 X 帖文 Markdown 撰写，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/simon-willison-u-s-census-bureau-ai-adoption-survey-sullied-by-s.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

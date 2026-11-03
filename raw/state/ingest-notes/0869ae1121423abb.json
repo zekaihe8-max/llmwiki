@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心在于如何编写、验证与判定 Agent 技能是否有效，与该主题直接相关。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent 技能的开放标准与社区实践，与帖文中关于技能质量的讨论相近。",
+    "topics/claude-code-authorship-and-voice.md": "帖文聚焦 Claude Code 生态及其作者与社区话筒，主题契合。",
+    "topics/reuse-before-write.md": "帖文建议删除无效技能而非盲目新增，体现先验证再编写的原则。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于如何编写、验证与判定 Agent 技能是否有效，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 技能的开放标准与社区实践，与帖文中关于技能质量的讨论相近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Claude Code 生态及其作者与社区话筒，主题契合。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文建议删除无效技能而非盲目新增，体现先验证再编写的原则。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未引用外部链接或未在文中出现的事实。"
+}

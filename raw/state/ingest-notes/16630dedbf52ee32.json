@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-cybersecurity-jobs.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文核心观点“人类当智能体包工头/经理”与该主题高度重合。",
+    "topics/ai-management-span-of-control.md": "讨论 AI 扩大管理管控跨度，与“每个人都成智能体团队经理”相关。",
+    "topics/agent-scaled-engineering.md": "涉及智能体在工程领域的规模化作用，对应文中提到的工程等信息密集型岗位。",
+    "topics/ai-cybersecurity-jobs.md": "文中明确将网络安全列为受 AI 智能体影响最大的岗位之一。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点“人类当智能体包工头/经理”与该主题高度重合。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 扩大管理管控跨度，与“每个人都成智能体团队经理”相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体在工程领域的规模化作用，对应文中提到的工程等信息密集型岗位。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "文中明确将网络安全列为受 AI 智能体影响最大的岗位之一。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 Aaron Levie (@levie) 的单条帖文，未引用外部链接或超出文中内容的事实。"
+}

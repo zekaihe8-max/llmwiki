@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "帖文核心是把任务交给 sub agent 并继续主循环，与“把子 Agent 折进主循环”主题直接相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "作者建议像包工头一样调度 sub agent 处理任务，与“个人 Agent 当包工头调度编程 Agent”相近。",
+    "topics/agent-auto-mode.md": "内容涉及无需等待即让 Agent 自动执行，与“智能体自动模式”相关。",
+    "topics/workflows-before-agents.md": "强调先理清任务派发再继续下一任务，呼应“工作流优先于智能体”的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文核心是把任务交给 sub agent 并继续主循环，与“把子 Agent 折进主循环”主题直接相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "作者建议像包工头一样调度 sub agent 处理任务，与“个人 Agent 当包工头调度编程 Agent”相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "内容涉及无需等待即让 Agent 自动执行，与“智能体自动模式”相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调先理清任务派发再继续下一任务，呼应“工作流优先于智能体”的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所抓取帖文，未引入外部事实。"
+}

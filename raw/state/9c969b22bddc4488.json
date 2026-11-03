@@ -1,0 +1,23 @@
+{
+  "slug": "9c969b22bddc4488",
+  "url": "https://x.com/OpenAI/status/2117307611338997846",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-03-frontier-ai.md",
+  "status": "filed",
+  "hash": "9c969b22bddc4488da67aee0e07e0200f94bb8cf25368f54bfe5e4acc51ec465",
+  "first_seen": "2026-11-03T00:01:46.613Z",
+  "last_seen": "2026-11-03T00:01:46.613Z",
+  "fetched_at": "2026-11-03T00:01:55.982Z",
+  "content_hash": "6c46ba0aface25325eaa32e57966bd4effddff6bafa6db620a3d46917e8b4756",
+  "article_path": "articles/9c969b22bddc4488.md",
+  "fetched_url": "https://x.com/OpenAI/status/2117307611338997846",
+  "source_path": "sources/articles/openai-releases-lifeval-benchmark-for-everyday-personal-assistan.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T00:02:54.272Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

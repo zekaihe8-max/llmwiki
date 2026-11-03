@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文核心正是质疑公开基准分数的质量，与该主题“信任公开榜前先审质量”直接对应。",
+    "topics/community-evals-vs-score-hype.md": "帖文列举基准缺陷并警示刷分/排名误导，与“社区实测对抗刷分碰瓷”方向一致。",
+    "topics/ai-eval-work-record-gateway.md": "涉及模型评测入口与如何评估评测本身，与帖文中“如何构建公平测试”“自有文档测试”相关。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文指出基准指标设计可能偏离实际能力，与“智能作为人类中心主义指标”的批判视角相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文核心正是质疑公开基准分数的质量，与该主题“信任公开榜前先审质量”直接对应。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文列举基准缺陷并警示刷分/排名误导，与“社区实测对抗刷分碰瓷”方向一致。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及模型评测入口与如何评估评测本身，与帖文中“如何构建公平测试”“自有文档测试”相关。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文指出基准指标设计可能偏离实际能力，与“智能作为人类中心主义指标”的批判视角相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，action 均为 unchanged；事实仅源于提供的帖文 markdown。"
+}

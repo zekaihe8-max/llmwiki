@@ -1,3 +1,49 @@
+## 2026-11-03
+
+* **创建 / Creation**: 归档 [别轻信公开 OCR 基准分数：Vik Paruchuri 解析榜单缺陷与模型选型建议](./sources/articles/don-t-trust-public-ocr-benchmark-scores-vik-paruchuri-breaks-dow.md)。 / Filed [Don't trust public OCR benchmark scores: Vik Paruchuri breaks down leaderboard flaws and model selection advice](./sources/articles/don-t-trust-public-ocr-benchmark-scores-vik-paruchuri-breaks-dow.md).
+
+* **创建 / Creation**: 归档 [Voxyz_ai 的 Claude Code “cover-me mode” 评审速查表](./sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md)。 / Filed [Voxyz_ai's Claude Code “cover-me mode” review cheat sheet](./sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md).
+
+* **创建 / Creation**: 归档 [Vox (@Voxyz_ai) 倡议以 Linear 与 Apple Notes 为标杆做极简构建](./sources/articles/vox-voxyz-ai-advocates-minimalist-building-benchmarked-by-linear.md)。 / Filed [Vox (@Voxyz_ai) Advocates Minimalist Building Benchmarked by Linear and Apple Notes](./sources/articles/vox-voxyz-ai-advocates-minimalist-building-benchmarked-by-linear.md).
+
+* **创建 / Creation**: 归档 [Vox：别让 Claude Code 只会加缓存，性能评审要结构先行](./sources/articles/vox-don-t-just-add-cache-structure-first-performance-review-for.md)。 / Filed [Vox: Don't just add cache; structure-first performance review for Claude Code](./sources/articles/vox-don-t-just-add-cache-structure-first-performance-review-for.md).
+
+* **创建 / Creation**: 归档 [Vox 提醒：Claude Code 技能未经对照可能是无效负担](./sources/articles/vox-warns-claude-code-skills-may-be-dead-weight-without-a-b-test.md)。 / Filed [Vox warns: Claude Code skills may be dead weight without A/B testing](./sources/articles/vox-warns-claude-code-skills-may-be-dead-weight-without-a-b-test.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Search/Fetch 工具 API 结束免费，按成功请求计费](./sources/articles/deepseek-search-and-fetch-tool-apis-end-free-tier-charge-per-suc.md)。 / Filed [DeepSeek Search and Fetch tool APIs end free tier, charge per successful request](./sources/articles/deepseek-search-and-fetch-tool-apis-end-free-tier-charge-per-suc.md).
+
+* **创建 / Creation**: 归档 [宝玉：Manus 客户端半透明，技术无护城河，品牌信任才是用户选择关键](./sources/articles/bao-yu-manus-client-is-semi-transparent-technology-has-no-moat-b.md)。 / Filed [Bao Yu: Manus Client Is Semi-Transparent, Technology Has No Moat, Brand Trust Is Key to User Choice](./sources/articles/bao-yu-manus-client-is-semi-transparent-technology-has-no-moat-b.md).
+
+* **创建 / Creation**: 归档 [伊森·莫利克评 GDPx 智能体基准](./sources/articles/ethan-mollick-on-gdpx-agent-benchmark.md)。 / Filed [Ethan Mollick on GDPx Agent Benchmark](./sources/articles/ethan-mollick-on-gdpx-agent-benchmark.md).
+
+* **创建 / Creation**: 归档 [西蒙·威利森：美国人口普查局 AI 采用率调查受“超级智能”行政令污染](./sources/articles/simon-willison-u-s-census-bureau-ai-adoption-survey-sullied-by-s.md)。 / Filed [Simon Willison: U.S. Census Bureau AI adoption survey sullied by “Super Intelligence” executive order](./sources/articles/simon-willison-u-s-census-bureau-ai-adoption-survey-sullied-by-s.md).
+
+* **创建 / Creation**: 归档 [弗朗索瓦·肖莱批评 LLM 写作处处是金句](./sources/articles/fran-ois-chollet-criticizes-llm-writing-for-making-every-sentenc.md)。 / Filed [François Chollet criticizes LLM writing for making every sentence a punchline](./sources/articles/fran-ois-chollet-criticizes-llm-writing-for-making-every-sentenc.md).
+
+* **创建 / Creation**: 归档 [开放模型经济：如何避免被封闭实验室吞噬](./sources/articles/open-model-economy-how-open-models-can-win.md)。 / Filed [Open Model Economy: How Open Models Can Win](./sources/articles/open-model-economy-how-open-models-can-win.md).
+
+* **创建 / Creation**: 归档 [铁锤人：AI 时代不要等 AI 回复，应将任务派发给 sub agent](./sources/articles/tie-chui-ren-don-t-wait-for-ai-replies-in-the-ai-era-dispatch-ta.md)。 / Filed [Tie Chui Ren: Don't Wait for AI Replies in the AI Era; Dispatch Tasks to Sub Agents](./sources/articles/tie-chui-ren-don-t-wait-for-ai-replies-in-the-ai-era-dispatch-ta.md).
+
+* **创建 / Creation**: 归档 [AI 实验室视当前软件为通往 AGI 的过渡产品](./sources/articles/ai-labs-view-current-software-as-transitional-products-en-route.md)。 / Filed [AI Labs View Current Software as Transitional Products En Route to AGI](./sources/articles/ai-labs-view-current-software-as-transitional-products-en-route.md).
+
+* **创建 / Creation**: 归档 [无状态沙箱不是正确基准：Agent 需随身携带工作空间](./sources/articles/stateless-sandboxes-are-the-wrong-benchmark-agents-need-their-wo.md)。 / Filed [Stateless sandboxes are the wrong benchmark; agents need their workspace with them](./sources/articles/stateless-sandboxes-are-the-wrong-benchmark-agents-need-their-wo.md).
+
+* **创建 / Creation**: 归档 [从 AI 辅助个人转向人类管理智能体团队](./sources/articles/from-ai-assisted-individuals-to-humans-managing-agent-teams.md)。 / Filed [From AI-Assisted Individuals to Humans Managing Agent Teams](./sources/articles/from-ai-assisted-individuals-to-humans-managing-agent-teams.md).
+
+* **创建 / Creation**: 归档 [莫利克转发“权重空间编程”声称：仅改 0.016% 权重即可让 Qwen3.5-0.8B 数学提升 6 倍](./sources/articles/mollick-amplifies-weight-space-programming-claim-editing-0-016-o.md)。 / Filed [Mollick amplifies 'Weight-Space Programming' claim: editing 0.016% of Qwen3.5-0.8B weights reportedly boosts math 6x](./sources/articles/mollick-amplifies-weight-space-programming-claim-editing-0-016-o.md).
+
+* **创建 / Creation**: 归档 [Rikiya Takehi 称 GPT-6 Astra 直接编辑 Qwen3.5-0.8B 权重，无需训练即大幅提升数学能力](./sources/articles/rikiya-takehi-claims-gpt-6-astra-directly-edits-qwen3-5-0-8b-wei.md)。 / Filed [Rikiya Takehi claims GPT-6 Astra directly edits Qwen3.5-0.8B weights, boosting math without training](./sources/articles/rikiya-takehi-claims-gpt-6-astra-directly-edits-qwen3-5-0-8b-wei.md).
+
+* **创建 / Creation**: 归档 [Anthropic Messages API 消息线程公测，服务器缓存对话以加速响应](./sources/articles/anthropic-messages-api-message-threads-enter-public-beta-with-se.md)。 / Filed [Anthropic Messages API message threads enter public beta with server-side conversation caching](./sources/articles/anthropic-messages-api-message-threads-enter-public-beta-with-se.md).
+
+* **创建 / Creation**: 归档 [Anthropic 开放 2026 年 AI 安全研究驻地计划申请](./sources/articles/anthropic-opens-applications-for-2026-ai-safety-research-residen.md)。 / Filed [Anthropic Opens Applications for 2026 AI Safety Research Residency](./sources/articles/anthropic-opens-applications-for-2026-ai-safety-research-residen.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布 LifeVal 日常任务个人助手基准](./sources/articles/openai-releases-lifeval-benchmark-for-everyday-personal-assistan.md)。 / Filed [OpenAI Releases LifeVal Benchmark for Everyday Personal Assistant Tasks](./sources/articles/openai-releases-lifeval-benchmark-for-everyday-personal-assistan.md).
+
+* **创建 / Creation**: 归档 [桑达尔·皮查伊称赞 SemiAnalysis GDPx 智能体基准与 Carbon 成本曲线](./sources/articles/sundar-pichai-praises-semianalysis-gdpx-agent-benchmark-and-carb.md)。 / Filed [Sundar Pichai Praises SemiAnalysis GDPx Agent Benchmark and Carbon Cost Curve](./sources/articles/sundar-pichai-praises-semianalysis-gdpx-agent-benchmark-and-carb.md).
+
+* **创建 / Creation**: 归档 [SemiAnalysis 发布 GDPx 智能体能力基准](./sources/articles/semianalysis-releases-gdpx-agentic-capability-benchmark.md)。 / Filed [SemiAnalysis Releases GDPx Agentic Capability Benchmark](./sources/articles/semianalysis-releases-gdpx-agentic-capability-benchmark.md).
+
 ## 2026-11-02
 
 * **创建 / Creation**: 归档 [拆解 poteto Grok Bot 使用指南：少猜、好检查、技能留存](./sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md)。 / Filed [Dissecting poteto's Grok Bot Usage Guide: Less Guessing, Easier Checking, Skill Retention](./sources/articles/dissecting-poteto-s-grok-bot-usage-guide-less-guessing-easier-ch.md).

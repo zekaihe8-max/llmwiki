@@ -1,0 +1,23 @@
+{
+  "slug": "f863aeba2ff4e97e",
+  "url": "https://x.com/emollick/status/2117142297934757916",
+  "title": "Ethan Mollick (@emollick)",
+  "digest": "2026-11-03-frontier-ai.md",
+  "status": "filed",
+  "hash": "f863aeba2ff4e97e1a9e20f91a63e819ddbe100e51de3f0966c3890742213d59",
+  "first_seen": "2026-11-03T00:01:46.613Z",
+  "last_seen": "2026-11-03T00:01:46.613Z",
+  "fetched_at": "2026-11-03T00:02:02.536Z",
+  "content_hash": "79333705835cffde468e99e95ecafaf2d81898dcd87d101db05c15f690c4342f",
+  "article_path": "articles/f863aeba2ff4e97e.md",
+  "fetched_url": "https://x.com/emollick/status/2117142297934757916",
+  "source_path": "sources/articles/ethan-mollick-on-gdpx-agent-benchmark.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T00:07:55.044Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

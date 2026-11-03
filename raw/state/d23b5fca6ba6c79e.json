@@ -1,0 +1,23 @@
+{
+  "slug": "d23b5fca6ba6c79e",
+  "url": "https://x.com/AnthropicAI/status/2117343929960112486",
+  "title": "Anthropic (@AnthropicAI)",
+  "digest": "2026-11-03-frontier-ai.md",
+  "status": "filed",
+  "hash": "d23b5fca6ba6c79e85ed9d10e1708d149271876073296c3baa131f3ad94f8259",
+  "first_seen": "2026-11-03T00:01:46.613Z",
+  "last_seen": "2026-11-03T00:01:46.613Z",
+  "fetched_at": "2026-11-03T00:01:56.459Z",
+  "content_hash": "aa56555e21a391f44127e1e4f390c10aa4f34965330b770d502d6053ed23270c",
+  "article_path": "articles/d23b5fca6ba6c79e.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2117343929960112486",
+  "source_path": "sources/articles/anthropic-opens-applications-for-2026-ai-safety-research-residen.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T00:03:12.066Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

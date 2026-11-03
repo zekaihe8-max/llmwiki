@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:13:02.449Z",
+  "url": "https://x.com/fchollet/status/2117315680119013865",
+  "slug": "dc765b0a57fbf0c0",
+  "content_hash": "5cf5ecda71145d5486fe90d0d2662419704fae6dbba823bb9fc6ccdc76fc4d8b",
+  "source": {
+    "path": "sources/articles/fran-ois-chollet-criticizes-llm-writing-for-making-every-sentenc.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/llm-maintained-wiki.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "该主题涉及 AI 生成内容的语料循环与风格模式，与帖文对 LLM 写作口吻的批评最为贴近。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "该主题讨论对 AI 过度与不足引导的校准，与“每句话都变成金句”的过度风格化现象相关。"
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "该主题涉及 LLM 生成的文本内容，与帖文讨论的 LLM 写作风格存在内容关联。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "该主题涵盖用户体验与内容呈现，帖文中关于 LLM 写作缺乏轻重缓急的批评属于体验层面问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "该主题涉及 AI 生成内容的语料循环与风格模式，与帖文对 LLM 写作口吻的批评最为贴近。",
+    "topics/ux-dx-and-ax.md": "该主题涵盖用户体验与内容呈现，帖文中关于 LLM 写作缺乏轻重缓急的批评属于体验层面问题。",
+    "topics/calibrating-ai-guidance.md": "该主题讨论对 AI 过度与不足引导的校准，与“每句话都变成金句”的过度风格化现象相关。",
+    "topics/llm-maintained-wiki.md": "该主题涉及 LLM 生成的文本内容，与帖文讨论的 LLM 写作风格存在内容关联。"
+  },
+  "files_changed": [
+    "sources/articles/fran-ois-chollet-criticizes-llm-writing-for-making-every-sentenc.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/llm-maintained-wiki.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-media-training-corpus-loop.md": "该主题涉及 AI 生成内容的语料循环与风格模式，与帖文对 LLM 写作口吻的批评最为贴近。",
+      "topics/ux-dx-and-ax.md": "该主题涵盖用户体验与内容呈现，帖文中关于 LLM 写作缺乏轻重缓急的批评属于体验层面问题。",
+      "topics/calibrating-ai-guidance.md": "该主题讨论对 AI 过度与不足引导的校准，与“每句话都变成金句”的过度风格化现象相关。",
+      "topics/llm-maintained-wiki.md": "该主题涉及 LLM 生成的文本内容，与帖文讨论的 LLM 写作风格存在内容关联。"
+    },
+    "notes": "Source is a single X post; all claims are limited to the visible post text and metrics.",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/fran-ois-chollet-criticizes-llm-writing-for-making-every-sentenc.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

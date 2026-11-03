@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:05:58.423Z",
+  "url": "https://x.com/natolambert/status/2117369681468399708",
+  "slug": "e2cf60925e221ccb",
+  "content_hash": "ca7f085b7b8cfe3b5c0f5b487a5c0294627a079e935569ca9fbda6ca3a105032",
+  "source": {
+    "path": "sources/articles/open-model-economy-how-open-models-can-win.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/deepseek-inference-vs-aggregators.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "涉及推理经济学与开放模型面向聚合平台/应用的收入回流问题。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中强调大幅降低推理成本，与大厂推理成本效率议题直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章围绕开放模型/开放权重模型的竞争定位与经济模型展开。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章围绕开放模型/开放权重模型的竞争定位与经济模型展开。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中强调大幅降低推理成本，与大厂推理成本效率议题直接相关。",
+    "topics/deepseek-inference-vs-aggregators.md": "涉及推理经济学与开放模型面向聚合平台/应用的收入回流问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/open-model-economy-how-open-models-can-win.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/deepseek-inference-vs-aggregators.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章围绕开放模型/开放权重模型的竞争定位与经济模型展开。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中强调大幅降低推理成本，与大厂推理成本效率议题直接相关。",
+      "topics/deepseek-inference-vs-aggregators.md": "涉及推理经济学与开放模型面向聚合平台/应用的收入回流问题。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/open-model-economy-how-open-models-can-win.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
