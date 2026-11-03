@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章披露 56 张 B200 自建推理、每百万 Token 0.30 美元且仅为此前十分之一，直接对应大厂推理成本效率议题。",
+    "topics/coding-agent-ux-vs-quota.md": "文章对比了 Claude Code 每人每月 300 美元额度与不限量 Token 后的使用行为变化，属于编程 Agent 体验与额度议题。",
+    "topics/agent-scaled-engineering.md": "约 2000 名工程师统一切换默认模型并扩展至整个研发流程，体现 AI 编程的规模化工程落地。"
+  },
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章披露 56 张 B200 自建推理、每百万 Token 0.30 美元且仅为此前十分之一，直接对应大厂推理成本效率议题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章对比了 Claude Code 每人每月 300 美元额度与不限量 Token 后的使用行为变化，属于编程 Agent 体验与额度议题。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "约 2000 名工程师统一切换默认模型并扩展至整个研发流程，体现 AI 编程的规模化工程落地。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于所抓取的 X 帖文，未独立核实。"
+}

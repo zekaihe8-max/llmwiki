@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/agentic-video-editing.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "涉及生图与生成质量边界，与 Grok Imagine 视频质量观察最为相近。",
+    "topics/agentic-video-editing.md": "涉及 AI 视频生成/剪辑领域，与帖文提及的视频质量相关。",
+    "topics/grok-bot-x-api-substitute.md": "涉及 X 平台上的 Grok 相关产品，与帖文使用的 Grok Imagine 属同一生态。"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "涉及生图与生成质量边界，与 Grok Imagine 视频质量观察最为相近。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 视频生成/剪辑领域，与帖文提及的视频质量相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "涉及 X 平台上的 Grok 相关产品，与帖文使用的 Grok Imagine 属同一生态。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

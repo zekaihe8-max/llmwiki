@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是通过屏幕投射与输入模拟操控手机，与 Computer Use 主题直接相关。",
+    "topics/mobile-agent-dev-full-chain.md": "iPhone-use 涉及手机端 Agent 的全链路控制方式，属于移动端 Agent 开发范畴。",
+    "topics/agent-home-platform-control.md": "方案通过蓝牙模拟输入设备直接控制手机，与通过平台直控设备的思路有相通之处。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是通过屏幕投射与输入模拟操控手机，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "iPhone-use 涉及手机端 Agent 的全链路控制方式，属于移动端 Agent 开发范畴。"
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "方案通过蓝牙模拟输入设备直接控制手机，与通过平台直控设备的思路有相通之处。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，部分内容（MCP 接入后）在原文截断处未展开，未编造相关细节。"
+}

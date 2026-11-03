@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/reuse-before-write.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文涉及将设计 Skill 合并为 DSH 插件，与智能体 Skill 编写主题相关。",
+    "topics/reuse-before-write.md": "插件共用一套设计系统与 Design Token，体现先复用再编写。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计系统、Design Token 与设计↔代码工具链。",
+    "topics/skills-stack-native-app-recreation.md": "涉及 Skills 组合与插件功能复刻。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文涉及将设计 Skill 合并为 DSH 插件，与智能体 Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "插件共用一套设计系统与 Design Token，体现先复用再编写。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计系统、Design Token 与设计↔代码工具链。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "涉及 Skills 组合与插件功能复刻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; Bilibili video link appears shortened in the article."
+}

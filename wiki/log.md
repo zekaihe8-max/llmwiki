@@ -1,5 +1,81 @@
 ## 2026-11-03
 
+* **创建 / Creation**: 归档 [FlashProve：零知识证明验证 AI 回答来源模型](./sources/articles/flashprove-zero-knowledge-proof-verifies-which-ai-model-generate.md)。 / Filed [FlashProve: Zero-knowledge proof verifies which AI model generated an answer](./sources/articles/flashprove-zero-knowledge-proof-verifies-which-ai-model-generate.md).
+
+* **创建 / Creation**: 归档 [知了 · Cicada：Mac 实时双语会议纪要与同声传译工具](./sources/articles/cicada-mac-real-time-bilingual-meeting-minutes-and-simultaneous.md)。 / Filed [Cicada (知了): Mac Real-time Bilingual Meeting Minutes and Simultaneous Interpretation Tool](./sources/articles/cicada-mac-real-time-bilingual-meeting-minutes-and-simultaneous.md).
+
+* **创建 / Creation**: 归档 [Anthropic S-1 算力账](./sources/articles/anthropic-s-1-the-895-billion-compute-bet.md)。 / Filed [Anthropic S-1: The $895 Billion Compute Bet](./sources/articles/anthropic-s-1-the-895-billion-compute-bet.md).
+
+* **创建 / Creation**: 归档 [LLM「常识」15 个月保质期](./sources/articles/llm-common-sense-15-month-shelf-life.md)。 / Filed [LLM "Common Sense" 15-Month Shelf Life](./sources/articles/llm-common-sense-15-month-shelf-life.md).
+
+* **创建 / Creation**: 归档 [超喜欢 Amp 的设计与大部分使用体验](./sources/articles/really-like-amp-s-design-and-most-of-the-usage-experience.md)。 / Filed [Really like Amp's design and most of the usage experience](./sources/articles/really-like-amp-s-design-and-most-of-the-usage-experience.md).
+
+* **创建 / Creation**: 归档 [大佬切 T3](./sources/articles/big-shots-switch-to-t3.md)。 / Filed [Big shots switch to T3](./sources/articles/big-shots-switch-to-t3.md).
+
+* **创建 / Creation**: 归档 [知了 / Cicada：Mac 开源会议纪要与同声传译软件](./sources/articles/zhile-cicada-open-source-mac-meeting-minutes-and-simultaneous-in.md)。 / Filed [ZhiLe / Cicada: Open-source Mac meeting minutes and simultaneous interpretation software](./sources/articles/zhile-cicada-open-source-mac-meeting-minutes-and-simultaneous-in.md).
+
+* **创建 / Creation**: 归档 [Revolut 默认智谱 GLM 作为 AI 编程模型](./sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md)。 / Filed [Revolut adopts Zhipu GLM as default AI coding model](./sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md).
+
+* **创建 / Creation**: 归档 [iPhone-use：免安装、零注入的 iPhone 屏幕投射与蓝牙输入操控](./sources/articles/iphone-use-install-free-injection-free-iphone-screen-mirroring-a.md)。 / Filed [iPhone-use: Install-free, injection-free iPhone screen mirroring and Bluetooth input control](./sources/articles/iphone-use-install-free-injection-free-iphone-screen-mirroring-a.md).
+
+* **创建 / Creation**: 归档 [iPhone-use 开源：AI 经 Mac USB 投屏与蓝牙输入操作 iPhone](./sources/articles/iphone-use-open-source-ai-operates-iphone-via-mac-usb-mirroring.md)。 / Filed [iPhone-use Open-Source: AI Operates iPhone via Mac USB Mirroring and Bluetooth Input](./sources/articles/iphone-use-open-source-ai-operates-iphone-via-mac-usb-mirroring.md).
+
+* **创建 / Creation**: 归档 [字节限制外部 AI 工具访问内部数据](./sources/articles/bytedance-restricts-external-ai-tools-from-accessing-internal-da.md)。 / Filed [ByteDance Restricts External AI Tools from Accessing Internal Data](./sources/articles/bytedance-restricts-external-ai-tools-from-accessing-internal-da.md).
+
+* **创建 / Creation**: 归档 [扣子企业版下线时间表](./sources/articles/coze-enterprise-edition-phase-out-timeline.md)。 / Filed [Coze Enterprise Edition Phase-Out Timeline](./sources/articles/coze-enterprise-edition-phase-out-timeline.md).
+
+* **创建 / Creation**: 归档 [AI 进交易决策链](./sources/articles/ai-enters-the-trading-decision-chain.md)。 / Filed [AI Enters the Trading Decision Chain](./sources/articles/ai-enters-the-trading-decision-chain.md).
+
+* **创建 / Creation**: 归档 [RSI 初现：无需训练直接修改模型权重](./sources/articles/rsi-emerges-directly-editing-model-weights-without-training.md)。 / Filed [RSI Emerges: Directly Editing Model Weights Without Training](./sources/articles/rsi-emerges-directly-editing-model-weights-without-training.md).
+
+* **创建 / Creation**: 归档 [AI 短剧边看评论边改剧本，帖文称可挑战奈飞](./sources/articles/ai-short-dramas-adjust-scripts-based-on-comments-post-claims-the.md)。 / Filed [AI short dramas adjust scripts based on comments, post claims they can challenge Netflix](./sources/articles/ai-short-dramas-adjust-scripts-based-on-comments-post-claims-the.md).
+
+* **创建 / Creation**: 归档 [AI 短剧《持械入宋》](./sources/articles/ai-short-drama-armed-entry-into-song.md)。 / Filed [AI Short Drama "Armed Entry into Song"](./sources/articles/ai-short-drama-armed-entry-into-song.md).
+
+* **创建 / Creation**: 归档 [文本水印万字文：Claude 统计水印原理、攻防与合规](./sources/articles/text-watermarking-deep-dive-claude-statistical-watermark-princip.md)。 / Filed [Text Watermarking Deep Dive: Claude Statistical Watermark Principles, Attack-Defense, and Compliance](./sources/articles/text-watermarking-deep-dive-claude-statistical-watermark-princip.md).
+
+* **创建 / Creation**: 归档 [少说废话省 Token：DeepSeek Harness 优化 Agent 流程](./sources/articles/cut-the-chatter-to-save-tokens-deepseek-harness-optimizes-agent.md)。 / Filed [Cut the Chatter to Save Tokens: DeepSeek Harness Optimizes Agent Workflow](./sources/articles/cut-the-chatter-to-save-tokens-deepseek-harness-optimizes-agent.md).
+
+* **创建 / Creation**: 归档 [Coze 企业版下线：AI Agent 平台，正在被 AI 自己淘汰？](./sources/articles/coze-enterprise-shutdown-is-the-ai-agent-platform-being-eliminat.md)。 / Filed [Coze Enterprise Shutdown: Is the AI Agent Platform Being Eliminated by AI Itself?](./sources/articles/coze-enterprise-shutdown-is-the-ai-agent-platform-being-eliminat.md).
+
+* **创建 / Creation**: 归档 [DecisionRAG：无检索器的决策模型树式导航](./sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md)。 / Filed [DecisionRAG: Retriever-free decision-model tree navigation for RAG](./sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md).
+
+* **创建 / Creation**: 归档 [Code Mode 收敛：智能体工具收缩为单一执行沙箱](./sources/articles/code-mode-convergence-agent-tools-collapse-into-a-single-exec-sa.md)。 / Filed [Code Mode Convergence: Agent Tools Collapse into a Single Exec Sandbox](./sources/articles/code-mode-convergence-agent-tools-collapse-into-a-single-exec-sa.md).
+
+* **创建 / Creation**: 归档 [批判性思考交不出去：Agent 能干活，对结果负责不能交](./sources/articles/critical-thinking-cannot-be-outsourced-agents-can-do-the-work-ac.md)。 / Filed [Critical Thinking Cannot Be Outsourced: Agents Can Do the Work, Accountability Cannot](./sources/articles/critical-thinking-cannot-be-outsourced-agents-can-do-the-work-ac.md).
+
+* **创建 / Creation**: 归档 [AYi 提示词实测：8 维 AI 美女人像生图焚决](./sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md)。 / Filed [AYi Prompt Test: 8-Dimensional AI Beauty Portrait Generation Secret](./sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md).
+
+* **创建 / Creation**: 归档 [官方飞书连接器还在坑：Grok Bot 接入受阻](./sources/articles/official-feishu-connector-still-problematic-grok-bot-integration.md)。 / Filed [Official Feishu connector still problematic: Grok Bot integration blocked](./sources/articles/official-feishu-connector-still-problematic-grok-bot-integration.md).
+
+* **创建 / Creation**: 归档 [Grok Bot × WorkBuddy 打通教程](./sources/articles/grok-bot-workbuddy-integration-tutorial.md)。 / Filed [Grok Bot × WorkBuddy Integration Tutorial](./sources/articles/grok-bot-workbuddy-integration-tutorial.md).
+
+* **创建 / Creation**: 归档 [梦中情人提示词：F1直播截图风格AI美人像生图公式](./sources/articles/dream-lover-prompt-f1-broadcast-screenshot-style-ai-beauty-portr.md)。 / Filed ["Dream Lover" Prompt: F1 Broadcast Screenshot Style AI Beauty Portrait Generation Formula](./sources/articles/dream-lover-prompt-f1-broadcast-screenshot-style-ai-beauty-portr.md).
+
+* **创建 / Creation**: 归档 [Grok Imagine 有底图更好](./sources/articles/grok-imagine-better-with-a-base-image.md)。 / Filed [Grok Imagine: Better with a Base Image](./sources/articles/grok-imagine-better-with-a-base-image.md).
+
+* **创建 / Creation**: 归档 [Alma 手机远程分窗口](./sources/articles/alma-mobile-remote-split-window-control.md)。 / Filed [Alma Mobile Remote Split-Window Control](./sources/articles/alma-mobile-remote-split-window-control.md).
+
+* **创建 / Creation**: 归档 [国内大厂卷 Personal Agent](./sources/articles/chinese-tech-giants-race-on-personal-agents.md)。 / Filed [Chinese Tech Giants Race on Personal Agents](./sources/articles/chinese-tech-giants-race-on-personal-agents.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 现可通过 X 连接器直接发布推文](./sources/articles/grok-bot-can-now-publish-posts-directly-via-x-connector.md)。 / Filed [Grok Bot can now publish posts directly via X connector](./sources/articles/grok-bot-can-now-publish-posts-directly-via-x-connector.md).
+
+* **创建 / Creation**: 归档 [飞书可能最早对接 Grok Bot](./sources/articles/feishu-may-be-the-first-domestic-vendor-to-connect-grok-bot.md)。 / Filed [Feishu may be the first domestic vendor to connect Grok Bot](./sources/articles/feishu-may-be-the-first-domestic-vendor-to-connect-grok-bot.md).
+
+* **创建 / Creation**: 归档 [五个可免费体验的国内 Agent](./sources/articles/five-domestic-agents-available-for-free-trial.md)。 / Filed [Five Domestic Agents Available for Free Trial](./sources/articles/five-domestic-agents-available-for-free-trial.md).
+
+* **创建 / Creation**: 归档 [歸藏 DSH 插件使用方法与 B 站长视频](./sources/articles/guizang-dsh-plugin-usage-and-bilibili-long-video.md)。 / Filed [Guizang DSH Plugin Usage and Bilibili Long Video](./sources/articles/guizang-dsh-plugin-usage-and-bilibili-long-video.md).
+
+* **创建 / Creation**: 归档 [dsh-guizang-design 宣传片](./sources/articles/dsh-guizang-design-promo-video.md)。 / Filed [dsh-guizang-design promo video](./sources/articles/dsh-guizang-design-promo-video.md).
+
+* **创建 / Creation**: 归档 [同题权重编程](./sources/articles/weight-space-programming.md)。 / Filed [Weight-Space Programming](./sources/articles/weight-space-programming.md).
+
+* **创建 / Creation**: 归档 [baoyu-design 上 Motion：多人协作与可编辑动画](./sources/articles/baoyu-design-adds-motion-with-multiplayer-collaboration-and-edit.md)。 / Filed [baoyu-design Adds Motion with Multiplayer Collaboration and Editable Animation](./sources/articles/baoyu-design-adds-motion-with-multiplayer-collaboration-and-edit.md).
+
+* **创建 / Creation**: 归档 [AI 写代码把 Git 写爆了](./sources/articles/ai-written-code-overwhelms-git.md)。 / Filed [AI-Written Code Overwhelms Git](./sources/articles/ai-written-code-overwhelms-git.md).
+
+* **创建 / Creation**: 归档 [权重空间编程：GPT-6 Astra 直接修改模型权重，Qwen 数学能力提升约 6 倍](./sources/articles/weight-space-programming-gpt-6-astra-directly-edits-model-weight.md)。 / Filed [Weight-Space Programming: GPT-6 Astra Directly Edits Model Weights, Boosting Qwen Math by ~6x](./sources/articles/weight-space-programming-gpt-6-astra-directly-edits-model-weight.md).
+
 * **创建 / Creation**: 归档 [别轻信公开 OCR 基准分数：Vik Paruchuri 解析榜单缺陷与模型选型建议](./sources/articles/don-t-trust-public-ocr-benchmark-scores-vik-paruchuri-breaks-dow.md)。 / Filed [Don't trust public OCR benchmark scores: Vik Paruchuri breaks down leaderboard flaws and model selection advice](./sources/articles/don-t-trust-public-ocr-benchmark-scores-vik-paruchuri-breaks-dow.md).
 
 * **创建 / Creation**: 归档 [Voxyz_ai 的 Claude Code “cover-me mode” 评审速查表](./sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md)。 / Filed [Voxyz_ai's Claude Code “cover-me mode” review cheat sheet](./sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md).

@@ -26,6 +26,82 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [FlashProve：零知识证明验证 AI 回答来源模型 / FlashProve: Zero-knowledge proof verifies which AI model generated an answer](./sources/articles/flashprove-zero-knowledge-proof-verifies-which-ai-model-generate.md) — Anthropic 开源 FlashProve，利用零知识证明与 Lean 4 形式化验证，让用户在不获取模型权重的情况下确认 AI 回答来自指定模型。 / Anthropic open-sources FlashProve, using zero-knowledge proofs and Lean 4 formal verification to let users confirm AI answers come from a specified model without accessing model weights.
+
+- [知了 · Cicada：Mac 实时双语会议纪要与同声传译工具 / Cicada (知了): Mac Real-time Bilingual Meeting Minutes and Simultaneous Interpretation Tool](./sources/articles/cicada-mac-real-time-bilingual-meeting-minutes-and-simultaneous.md) — 一款仅在 Mac 上运行的开源实时会议工具，提供双语字幕、结构化纪要与同声传译，声音处理主要在本机完成。 / An open-source Mac-only real-time meeting tool offering bilingual subtitles, structured minutes, and simultaneous interpretation, with audio processing done mostly on-device.
+
+- [Anthropic S-1 算力账 / Anthropic S-1: The $895 Billion Compute Bet](./sources/articles/anthropic-s-1-the-895-billion-compute-bet.md) — 帖文称 Anthropic 营收将从 2025 年 Q1 的 3.76 亿美元激增至 2026 年 Q3 的 170 亿美元，并已签署高达 8950 亿美元的算力义务。 / The post claims Anthropic's revenue will surge from $376 million in 2025 Q1 to $17 billion in 2026 Q3, with signed compute obligations reaching $895 billion.
+
+- [LLM「常识」15 个月保质期 / LLM "Common Sense" 15-Month Shelf Life](./sources/articles/llm-common-sense-15-month-shelf-life.md) — 斯坦福研究重测 50 条广泛引用的 LLM 结论，44% 已失效、34% 减弱，仅 16% 仍成立。 / Stanford re-test of 50 widely cited LLM conclusions: 44% invalidated, 34% weakened, only 16% still valid.
+
+- [超喜欢 Amp 的设计与大部分使用体验 / Really like Amp's design and most of the usage experience](./sources/articles/really-like-amp-s-design-and-most-of-the-usage-experience.md) — 用户在 X 上发帖称非常喜欢 Amp 的设计和大部分使用体验，但以“除了……”收尾，未展开具体不满。 / User posts on X saying they really like Amp's design and most of the usage experience, ending with “except…” without elaborating on specific complaints.
+
+- [大佬切 T3 / Big shots switch to T3](./sources/articles/big-shots-switch-to-t3.md) — 用户 @dingyi 观察到多位大佬切换到 T3 并盛赞，认为此前评测属实，自身尚未体验。 / User @dingyi observes multiple experts switching to T3 and praising it, finds earlier reviews credible, and says they have not tried it.
+
+- [知了 / Cicada：Mac 开源会议纪要与同声传译软件 / ZhiLe / Cicada: Open-source Mac meeting minutes and simultaneous interpretation software](./sources/articles/zhile-cicada-open-source-mac-meeting-minutes-and-simultaneous-in.md) — 知了 / Cicada 是一款基于 Apache-2.0 协议开源的 Mac 会议纪要与同声传译软件，支持实时字幕翻译、会议摘要与声纹克隆传译。 / ZhiLe / Cicada is an Apache-2.0 licensed open-source Mac app for meeting minutes and simultaneous interpretation, supporting real-time subtitle translation, meeting summaries, and voice-cloned interpretation.
+
+- [Revolut 默认智谱 GLM 作为 AI 编程模型 / Revolut adopts Zhipu GLM as default AI coding model](./sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md) — Revolut 将智谱 GLM 设为约 2000 名工程师的默认 AI 编程模型，Claude Code 与 Codex 退居备选，自建推理成本降至此前约十分之一。 / Revolut sets Zhipu GLM as the default AI coding model for about 2,000 engineers, demoting Claude Code and Codex to exception-only use while cutting inference cost to about one-tenth of prior Anthropic/OpenAI spend.
+
+- [iPhone-use：免安装、零注入的 iPhone 屏幕投射与蓝牙输入操控 / iPhone-use: Install-free, injection-free iPhone screen mirroring and Bluetooth input control](./sources/articles/iphone-use-install-free-injection-free-iphone-screen-mirroring-a.md) — 该项目通过 Mac USB 投屏和蓝牙模拟输入，在手机端零安装的情况下实现对 iPhone 的操控，并声称是目前最好用的 iPhone Use 方案。 / The project mirrors iPhone screen via Mac USB and simulates Bluetooth input to control iPhone with zero installation on the phone, and is claimed to be the currently best iPhone Use solution.
+
+- [iPhone-use 开源：AI 经 Mac USB 投屏与蓝牙输入操作 iPhone / iPhone-use Open-Source: AI Operates iPhone via Mac USB Mirroring and Bluetooth Input](./sources/articles/iphone-use-open-source-ai-operates-iphone-via-mac-usb-mirroring.md) — 开发者 YueChen 开源 iPhone-use，通过 USB 画面传输与 Mac 蓝牙模拟输入，接入 MCP 后 AI 可查看屏幕、点击与输入，并经改造支持本地 OCR、增量差异与中文输入。 / Developer YueChen open-sourced iPhone-use, mirroring iPhone screen to Mac over USB and simulating input via Bluetooth; after MCP integration, AI can view, click, and input, with modifications adding local OCR, incremental diffs, and Chinese input.
+
+- [字节限制外部 AI 工具访问内部数据 / ByteDance Restricts External AI Tools from Accessing Internal Data](./sources/articles/bytedance-restricts-external-ai-tools-from-accessing-internal-da.md) — 字节跳动计划从 11 月起限制 Claude、Codex 等外部 AI 工具访问 L4 代码仓库和飞书文档，个人购买的 AI 账号也将失效。 / ByteDance plans to restrict external AI tools such as Claude and Codex from accessing L4 code repositories and Feishu documents starting November, and personally purchased AI accounts will also lose access.
+
+- [扣子企业版下线时间表 / Coze Enterprise Edition Phase-Out Timeline](./sources/articles/coze-enterprise-edition-phase-out-timeline.md) — 字节跳动旗下 AI Agent 平台扣子（Coze）宣布分阶段下线企业版，新版企业套餐最晚于 2027 年 12 月 31 日全面下线。 / ByteDance's AI Agent platform Coze announces a phased phase-out of its enterprise edition, with new enterprise packages fully discontinued by December 31, 2027.
+
+- [AI 进交易决策链 / AI Enters the Trading Decision Chain](./sources/articles/ai-enters-the-trading-decision-chain.md) — 帖文称 AI 正悄然渗透专家与投资者的交易决策，引发对人类判断力是否可保留的担忧。 / The post claims AI is quietly infiltrating expert and investor trading decisions, raising concerns over whether human judgment can be retained.
+
+- [RSI 初现：无需训练直接修改模型权重 / RSI Emerges: Directly Editing Model Weights Without Training](./sources/articles/rsi-emerges-directly-editing-model-weights-without-training.md) — 帖文称通过“权重空间编程”仅修改 Qwen3.5-0.8B 0.016% 的权重，即可使数学能力提升六倍且无需梯度或训练。 / The post claims that “Weight-Space Programming” modified only 0.016% of Qwen3.5-0.8B’s weights to improve math up to 6x without gradients or training.
+
+- [AI 短剧边看评论边改剧本，帖文称可挑战奈飞 / AI short dramas adjust scripts based on comments, post claims they can challenge Netflix](./sources/articles/ai-short-dramas-adjust-scripts-based-on-comments-post-claims-the.md) — 用户@vista8 发帖称 AI 短剧可边看评论反馈边改剧本，低成本高产出，传统影视团队难以抗衡 / User @vista8 posts that AI short dramas can adjust scripts based on comment feedback, with low cost and high output, making it hard for traditional film and TV teams to compete
+
+- [AI 短剧《持械入宋》 / AI Short Drama "Armed Entry into Song"](./sources/articles/ai-short-drama-armed-entry-into-song.md) — 小团队用 AI 工具与资产中台制作 AI 短剧，依据观众反馈迭代剧情。 / A small team uses AI tools and an asset middle platform to produce an AI short drama, iterating the plot based on audience feedback.
+
+- [文本水印万字文：Claude 统计水印原理、攻防与合规 / Text Watermarking Deep Dive: Claude Statistical Watermark Principles, Attack-Defense, and Compliance](./sources/articles/text-watermarking-deep-dive-claude-statistical-watermark-princip.md) — 文章解析 Claude 基于 SynthID-Text 的文本统计水印，区分水印与 AI 检测器，并梳理欧盟 AI Act、中国及加州合规要求。 / The article analyzes Claude's SynthID-Text-based statistical text watermark, distinguishes watermarks from AI detectors, and outlines EU AI Act, China, and California compliance requirements.
+
+- [少说废话省 Token：DeepSeek Harness 优化 Agent 流程 / Cut the Chatter to Save Tokens: DeepSeek Harness Optimizes Agent Workflow](./sources/articles/cut-the-chatter-to-save-tokens-deepseek-harness-optimizes-agent.md) — 主张让 AI Agent 少说废话，通过编译/测试/下一步的自动询问流程，DeepSeek Harness 可节省近 88% Token 并提高成功率。 / Argues that AI Agents should talk less; an automated compile/test/next-step flow helped DeepSeek Harness save nearly 88% of tokens and improve success rate.
+
+- [Coze 企业版下线：AI Agent 平台，正在被 AI 自己淘汰？ / Coze Enterprise Shutdown: Is the AI Agent Platform Being Eliminated by AI Itself?](./sources/articles/coze-enterprise-shutdown-is-the-ai-agent-platform-being-eliminat.md) — Coze 企业版分阶段下线，折射出 AI Agent 开发正从低代码平台转向由编程 Agent 驱动的工程化模式。 / Coze Enterprise's phased shutdown reflects AI Agent development shifting from low-code platforms to engineering-driven models powered by coding agents.
+
+- [DecisionRAG：无检索器的决策模型树式导航 / DecisionRAG: Retriever-free decision-model tree navigation for RAG](./sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md) — 决策模型 Jev 在文档主题树上逐层做二元判断，无需检索器或预建向量索引即可定位证据段落。 / Decision model Jev makes layer-by-layer binary judgments on a document topic tree to locate evidence passages without a retriever or prebuilt vector index.
+
+- [Code Mode 收敛：智能体工具收缩为单一执行沙箱 / Code Mode Convergence: Agent Tools Collapse into a Single Exec Sandbox](./sources/articles/code-mode-convergence-agent-tools-collapse-into-a-single-exec-sa.md) — 帖文称，智能体工具调用正从多工具 JSON Schema 收敛为单一 exec(code) 的 Code Mode，中间结果大多不进入上下文。 / The post says agent tool calling is converging from multiple JSON-schema tools to a single exec(code) Code Mode, with most intermediate results kept out of context.
+
+- [批判性思考交不出去：Agent 能干活，对结果负责不能交 / Critical Thinking Cannot Be Outsourced: Agents Can Do the Work, Accountability Cannot](./sources/articles/critical-thinking-cannot-be-outsourced-agents-can-do-the-work-ac.md) — Agent 可以代劳，但独立判断和结果责任必须由人保留。 / Agents can do the work, but independent judgment and accountability for results must remain with humans.
+
+- [AYi 提示词实测：8 维 AI 美女人像生图焚决 / AYi Prompt Test: 8-Dimensional AI Beauty Portrait Generation Secret](./sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md) — 蓝哥AI转发AYi开源的8维AI美女人像提示词，并称实测生图质感无AI味。 / Blue Brother AI reposts AYi's open-sourced 8-dimensional AI beauty portrait prompt and claims the test-generated images have no AI feel.
+
+- [官方飞书连接器还在坑：Grok Bot 接入受阻 / Official Feishu connector still problematic: Grok Bot integration blocked](./sources/articles/official-feishu-connector-still-problematic-grok-bot-integration.md) — Grok Bot 安装官方飞书连接器后仍不可用，飞书远程 MCP 服务仍处内测，仅部分账号可见，建议改用飞书 CLI 连接。 / After installing the official Feishu connector, Grok Bot remains unusable; Feishu remote MCP service is still in internal testing and visible only to some accounts, so Feishu CLI is recommended instead.
+
+- [Grok Bot × WorkBuddy 打通教程 / Grok Bot × WorkBuddy Integration Tutorial](./sources/articles/grok-bot-workbuddy-integration-tutorial.md) — 通过私有飞书文档作为交接，把微信聊天记录转发给 WorkBuddy，再由 Grok Bot 查证并写回结果的保姆级教程。 / A step-by-step tutorial bridging WeChat chats, WorkBuddy, and Grok Bot through a private Feishu document for fact-checking and result handoff.
+
+- [梦中情人提示词：F1直播截图风格AI美人像生图公式 / "Dream Lover" Prompt: F1 Broadcast Screenshot Style AI Beauty Portrait Generation Formula](./sources/articles/dream-lover-prompt-f1-broadcast-screenshot-style-ai-beauty-portr.md) — 帖文分享一段用于AI图像生成的“梦中情人”提示词，模拟F1直播贵宾看台中的东亚女性特写，并引用另一账号的8维人像提示词方法。 / The post shares a "dream lover" prompt for AI image generation, simulating an East Asian woman in an F1 broadcast VIP grandstand close-up, and references another account's 8-dimensional portrait prompt method.
+
+- [Grok Imagine 有底图更好 / Grok Imagine: Better with a Base Image](./sources/articles/grok-imagine-better-with-a-base-image.md) — 帖文称 Grok Imagine 在有底图时生成的视频质量较高。 / The post claims Grok Imagine generates higher-quality video when given a base image.
+
+- [Alma 手机远程分窗口 / Alma Mobile Remote Split-Window Control](./sources/articles/alma-mobile-remote-split-window-control.md) — Alma 手机端远程桌面控制支持分窗口单独进行远程控制。 / Alma's mobile remote desktop control supports split-window individual remote control.
+
+- [国内大厂卷 Personal Agent / Chinese Tech Giants Race on Personal Agents](./sources/articles/chinese-tech-giants-race-on-personal-agents.md) — 阿里、字节、腾讯、百度四家大厂分别推出千问 Go!、扣子 3.0/小豆、WorkBuddy/LightVela、百度搭子，个人 Agent 开始配备云电脑、长期记忆与后台长期任务能力。 / Alibaba, ByteDance, Tencent, and Baidu are launching Personal Agents—Qianwen Go!, Coze 3.0/Xiao Dou, WorkBuddy/LightVela, and DuMate—equipping agents with cloud computers, long-term memory, and background task execution.
+
+- [Grok Bot 现可通过 X 连接器直接发布推文 / Grok Bot can now publish posts directly via X connector](./sources/articles/grok-bot-can-now-publish-posts-directly-via-x-connector.md) — Grok Bot 新增 X 连接器，支持直接发布推文而非仅保存草稿，配置步骤简单。 / Grok Bot adds an X connector supporting direct post publishing instead of drafts only, with simple configuration.
+
+- [飞书可能最早对接 Grok Bot / Feishu may be the first domestic vendor to connect Grok Bot](./sources/articles/feishu-may-be-the-first-domestic-vendor-to-connect-grok-bot.md) — 飞书（Lark）出现在 Grok Bot 插件连接器中，但实测连接因 Bug 失败 / Feishu (Lark) appears in the Grok Bot plugin connector, but testing shows the connection fails due to a bug
+
+- [五个可免费体验的国内 Agent / Five Domestic Agents Available for Free Trial](./sources/articles/five-domestic-agents-available-for-free-trial.md) — 帖文盘点了腾讯 LightVela、字节豆包工作、阿里千问 Go!、腾讯 WorkBuddy 和百度搭子 DuMate 五个国内 Agent 的免费体验方式与额度规则。 / The post reviews five domestic Agents—Tencent LightVela, ByteDance Doubao Work, Alibaba Qianwen Go!, Tencent WorkBuddy, and Baidu DuMate—covering their free trial methods and quota rules.
+
+- [歸藏 DSH 插件使用方法与 B 站长视频 / Guizang DSH Plugin Usage and Bilibili Long Video](./sources/articles/guizang-dsh-plugin-usage-and-bilibili-long-video.md) — 歸藏发布 DSH 设计插件并上 B 站发长视频讲解使用方法与创作思路。 / Guizang releases the DSH design plugin and posts a Bilibili long video explaining its usage and creative ideas.
+
+- [dsh-guizang-design 宣传片 / dsh-guizang-design promo video](./sources/articles/dsh-guizang-design-promo-video.md) — 歸藏为 DeepSeek Harness 插件 dsh-guizang-design 制作宣传片，整合多个设计 Skill 与内置作品库 / Guizang releases a promo video for the DeepSeek Harness plugin dsh-guizang-design, integrating multiple design Skills and a built-in work portfolio
+
+- [同题权重编程 / Weight-Space Programming](./sources/articles/weight-space-programming.md) — 帖文称 MIT CSAIL 用 GPT-6 Astra 仅改动 Qwen 0.8B 约 0.016% 权重，即无训练提升数学与指令跟随能力。 / The post claims MIT CSAIL used GPT-6 Astra to edit only about 0.016% of Qwen 0.8B weights, boosting math and instruction following without training.
+
+- [baoyu-design 上 Motion：多人协作与可编辑动画 / baoyu-design Adds Motion with Multiplayer Collaboration and Editable Animation](./sources/articles/baoyu-design-adds-motion-with-multiplayer-collaboration-and-edit.md) — baoyu-design 在 Claude Motion 基础上新增 Motion 功能，支持多人协作、实时渲染预览和可编辑文字。 / baoyu-design adds Motion on top of Claude Motion, supporting multiplayer collaboration, real-time rendering preview, and editable text.
+
+- [AI 写代码把 Git 写爆了 / AI-Written Code Overwhelms Git](./sources/articles/ai-written-code-overwhelms-git.md) — OpenAI 与 Anthropic 分别自研 Git 后端与新源码管理系统，以应对 AI agent 编写代码导致的版本控制瓶颈 / OpenAI and Anthropic built custom Git backends and new source-control systems to address version-control bottlenecks caused by AI agents writing code at scale.
+
+- [权重空间编程：GPT-6 Astra 直接修改模型权重，Qwen 数学能力提升约 6 倍 / Weight-Space Programming: GPT-6 Astra Directly Edits Model Weights, Boosting Qwen Math by ~6x](./sources/articles/weight-space-programming-gpt-6-astra-directly-edits-model-weight.md) — MIT CSAIL 研究者提出“权重空间编程”，无需训练或梯度即可直接修改大模型权重，Qwen3.5-0.8B 数学正确率提升约 6 倍，但结果尚未独立复现。 / MIT CSAIL researchers propose “weight-space programming,” directly editing model weights without training or gradients, boosting Qwen3.5-0.8B math accuracy by ~6x, though results remain unreproduced independently.
+
 - [别轻信公开 OCR 基准分数：Vik Paruchuri 解析榜单缺陷与模型选型建议 / Don't trust public OCR benchmark scores: Vik Paruchuri breaks down leaderboard flaws and model selection advice](./sources/articles/don-t-trust-public-ocr-benchmark-scores-vik-paruchuri-breaks-dow.md) — 帖文引用 Vik Paruchuri 的演讲，列举 ParseBench、olmOCR-bench 与 OmniDocBench 的具体缺陷，警示不应仅凭公开基准分数选模型。 / The post cites Vik Paruchuri's talk, listing specific flaws in ParseBench, olmOCR-bench, and OmniDocBench, warning against choosing models based solely on public benchmark scores.
 
 - [Voxyz_ai 的 Claude Code “cover-me mode” 评审速查表 / Voxyz_ai's Claude Code “cover-me mode” review cheat sheet](./sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md) — 帖文介绍了一种 Claude Code 输出风格，在发货前生成包含五部分的代码变更评审速查表。 / The post introduces a Claude Code output style that generates a five-part code-change review cheat sheet before shipping.

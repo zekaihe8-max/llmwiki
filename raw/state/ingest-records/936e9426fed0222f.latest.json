@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:15:59.012Z",
+  "url": "https://x.com/0xLogicrw/status/2117481815598674292",
+  "slug": "936e9426fed0222f",
+  "content_hash": "dd98f632adfa540150ced29de692a3ec1543d7b4f0ab8ad9ff42bf68733f6595",
+  "source": {
+    "path": "sources/articles/bytedance-restricts-external-ai-tools-from-accessing-internal-da.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文中提到员工个人账号导致业务数据沉淀在个人账户，属账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "字节对外部 AI 工具访问内部数据的限制，属于企业对 AI/智能体使用的治理决策。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "公司统一封禁外部 AI 工具并推广自家产品，体现公司级 Agent 工具链与管控边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文中提到员工个人账号导致业务数据沉淀在个人账户，属账号与资产安全卫生范畴。",
+    "topics/agent-compute-and-governance.md": "字节对外部 AI 工具访问内部数据的限制，属于企业对 AI/智能体使用的治理决策。",
+    "topics/company-agent-harness.md": "公司统一封禁外部 AI 工具并推广自家产品，体现公司级 Agent 工具链与管控边界。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bytedance-restricts-external-ai-tools-from-accessing-internal-da.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "文中提到员工个人账号导致业务数据沉淀在个人账户，属账号与资产安全卫生范畴。",
+      "topics/agent-compute-and-governance.md": "字节对外部 AI 工具访问内部数据的限制，属于企业对 AI/智能体使用的治理决策。",
+      "topics/company-agent-harness.md": "公司统一封禁外部 AI 工具并推广自家产品，体现公司级 Agent 工具链与管控边界。"
+    },
+    "notes": "来源为 X 帖子 @0xLogicrw，发布于 2026 年 11 月 3 日；内容基于内部流传通知，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bytedance-restricts-external-ai-tools-from-accessing-internal-da.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

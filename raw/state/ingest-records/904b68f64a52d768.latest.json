@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:03:05.188Z",
+  "url": "https://x.com/op7418/status/2117459252721971606",
+  "slug": "904b68f64a52d768",
+  "content_hash": "9c4ec6f475541bdf95332f9315f93db91047a376d3c2364b954295da922ff57f",
+  "source": {
+    "path": "sources/articles/weight-space-programming.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/languages-for-agents.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提出“权重空间编程”，属于面向模型的编程范式，与面向 Agent 的编程语言主题相近。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文中涉及千问 0.8B 等小型开放模型，与本地开放助手与小模型主题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是直接编辑开放模型权重，与开放权重模型主题直接相关。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "直接修改模型参数而非训练，可视为工具产品自建/掌控模型话语权的一种形式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章核心是直接编辑开放模型权重，与开放权重模型主题直接相关。",
+    "topics/local-open-assistant-models.md": "文中涉及千问 0.8B 等小型开放模型，与本地开放助手与小模型主题相关。",
+    "topics/languages-for-agents.md": "文中提出“权重空间编程”，属于面向模型的编程范式，与面向 Agent 的编程语言主题相近。",
+    "topics/tools-building-own-models.md": "直接修改模型参数而非训练，可视为工具产品自建/掌控模型话语权的一种形式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/weight-space-programming.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/languages-for-agents.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章核心是直接编辑开放模型权重，与开放权重模型主题直接相关。",
+      "topics/local-open-assistant-models.md": "文中涉及千问 0.8B 等小型开放模型，与本地开放助手与小模型主题相关。",
+      "topics/languages-for-agents.md": "文中提出“权重空间编程”，属于面向模型的编程范式，与面向 Agent 的编程语言主题相近。",
+      "topics/tools-building-own-models.md": "直接修改模型参数而非训练，可视为工具产品自建/掌控模型话语权的一种形式。"
+    },
+    "notes": "GPT-6 Astra 及 MIT CSAIL 相关主张均来源于该 X 帖文，未在本条目外独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/weight-space-programming.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

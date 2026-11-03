@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章涉及智能体平台的商业下线与治理过渡，与智能体算力与治理主题相关。",
+    "topics/agentic-ai-foundation.md": "扣子作为 AI Agent 平台的退出，触及智能体基础设施与产品形态的演变。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "企业版下线与大厂 AI 数字员工及办公 Agent 产品线整合相关。",
+    "topics/workflows-before-agents.md": "扣子办公能力并入豆包工作，涉及工作流与智能体产品定位的调整。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及智能体平台的商业下线与治理过渡，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "扣子作为 AI Agent 平台的退出，触及智能体基础设施与产品形态的演变。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "企业版下线与大厂 AI 数字员工及办公 Agent 产品线整合相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "扣子办公能力并入豆包工作，涉及工作流与智能体产品定位的调整。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于提供的 X 帖文及其引用的 IDC 数据，未引入外部事实。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/agent-in-chat-bug-feedback.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文围绕 Grok Bot 插件与连接器，直接相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样涉及 Grok Bot 生态与使用边界",
+    "topics/in-app-model-partnerships.md": "飞书对接 Grok Bot 属于应用内模型合作/接入场景",
+    "topics/agent-in-chat-bug-feedback.md": "文中提到连接失败及社区反映 Bug，属于 Agent 对话内问题反馈"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 Grok Bot 插件与连接器，直接相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样涉及 Grok Bot 生态与使用边界"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "飞书对接 Grok Bot 属于应用内模型合作/接入场景"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "文中提到连接失败及社区反映 Bug，属于 Agent 对话内问题反馈"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实主张已用「帖文称」标注；未编造 URL 或超出文章事实。"
+}

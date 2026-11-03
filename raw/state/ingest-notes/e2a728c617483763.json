@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/computer-use.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到云电脑、云端执行任务，属于个人 Agent 云环境使用场景，可复用该主题的备份、隔离与定时检查视角。",
+    "topics/personal-agent-hype-familiarity-gap.md": "帖文正值国内大厂卷 Personal Agent 之际，讨论个人 Agent 热潮与用户对其认知差距，主题高度相关。",
+    "topics/computer-use.md": "豆包工作支持操作电脑、浏览器，LightVela 可远程安排工作，涉及 Agent 对计算机的直接使用。",
+    "topics/agent-compute-and-governance.md": "文中多次提及 AI 积分、免费额度、签到领额度，属于 Agent 算力与使用治理范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到云电脑、云端执行任务，属于个人 Agent 云环境使用场景，可复用该主题的备份、隔离与定时检查视角。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "帖文正值国内大厂卷 Personal Agent 之际，讨论个人 Agent 热潮与用户对其认知差距，主题高度相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "豆包工作支持操作电脑、浏览器，LightVela 可远程安排工作，涉及 Agent 对计算机的直接使用。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中多次提及 AI 积分、免费额度、签到领额度，属于 Agent 算力与使用治理范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @xiaomovps; all claims are attributed to the post and no external URLs beyond those in the article are invented."
+}

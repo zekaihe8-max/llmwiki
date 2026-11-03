@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是让 AI 操作 iPhone 屏幕与输入，属于 Computer Use 范畴。",
+    "topics/mobile-agent-dev-full-chain.md": "涉及手机端 Agent 的全链路控制与开发改造，与移动端 Agent 开发密切相关。",
+    "topics/agents-md-token-efficiency.md": "文中明确提到通过增量差异与本地 OCR 大幅降低 Token 消耗与往返次数。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是让 AI 操作 iPhone 屏幕与输入，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及手机端 Agent 的全链路控制与开发改造，与移动端 Agent 开发密切相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中明确提到通过增量差异与本地 OCR 大幅降低 Token 消耗与往返次数。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用仅基于提供的 X 帖文 markdown，未访问 GitHub 链接。"
+}

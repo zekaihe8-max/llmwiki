@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:16:52.028Z",
+  "url": "https://x.com/0xLogicrw/status/2117575579587477958",
+  "slug": "28fc3f93c982897c",
+  "content_hash": "d3b2e6cc754e3cdbda421320361448c7102e27033622227475ed4eddebff5611",
+  "source": {
+    "path": "sources/articles/iphone-use-install-free-injection-free-iphone-screen-mirroring-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "方案通过蓝牙模拟输入设备直接控制手机，与通过平台直控设备的思路有相通之处。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是通过屏幕投射与输入模拟操控手机，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "iPhone-use 涉及手机端 Agent 的全链路控制方式，属于移动端 Agent 开发范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是通过屏幕投射与输入模拟操控手机，与 Computer Use 主题直接相关。",
+    "topics/mobile-agent-dev-full-chain.md": "iPhone-use 涉及手机端 Agent 的全链路控制方式，属于移动端 Agent 开发范畴。",
+    "topics/agent-home-platform-control.md": "方案通过蓝牙模拟输入设备直接控制手机，与通过平台直控设备的思路有相通之处。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/iphone-use-install-free-injection-free-iphone-screen-mirroring-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agent-home-platform-control.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是通过屏幕投射与输入模拟操控手机，与 Computer Use 主题直接相关。",
+      "topics/mobile-agent-dev-full-chain.md": "iPhone-use 涉及手机端 Agent 的全链路控制方式，属于移动端 Agent 开发范畴。",
+      "topics/agent-home-platform-control.md": "方案通过蓝牙模拟输入设备直接控制手机，与通过平台直控设备的思路有相通之处。"
+    },
+    "notes": "来源为 X 帖文，部分内容（MCP 接入后）在原文截断处未展开，未编造相关细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/iphone-use-install-free-injection-free-iphone-screen-mirroring-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "c241794ebce2ccbf",
+  "url": "https://x.com/Gorden_Sun/status/2117527237457240113",
+  "title": "FlashProve",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "c241794ebce2ccbffdd8edb1a6e57b28223049b89d7245c70aae5c11d7db1d64",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:50.672Z",
+  "content_hash": "35f44af6b0bab9f0972a3c005654e897efee2cb29cb27964c6472f67ab811283",
+  "article_path": "articles/c241794ebce2ccbf.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2117527237457240113",
+  "source_path": "sources/articles/flashprove-zero-knowledge-proof-verifies-which-ai-model-generate.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:20:22.475Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

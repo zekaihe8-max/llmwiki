@@ -1,0 +1,23 @@
+{
+  "slug": "7cb609317303ada1",
+  "url": "https://x.com/0xLogicrw/status/2117566699461345708",
+  "title": "Revolut 默认智谱",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "7cb609317303ada1d26c2d770295a6ac740e6547c176c08695d273f6cd310017",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:47.827Z",
+  "content_hash": "a66675d1c6b61f17aba21e76e4d682976d1817794a6929e67287b276fc4c520b",
+  "article_path": "articles/7cb609317303ada1.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2117566699461345708",
+  "source_path": "sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:17:20.798Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

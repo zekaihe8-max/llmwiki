@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/expert-decisions-follow-agent-presets.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/expert-decisions-follow-agent-presets.md": "帖文核心主张是 AI 暗中影响专家决策且专家不愿承认，与该主题“专家决策跟随智能体预设”直接对应。",
+    "topics/tasks-confidently-handed-to-ai.md": "文中多次提到选股与调研分析已交给 AI，属于把任务放心交给 AI 的典型场景。",
+    "topics/calibrating-ai-guidance.md": "文末警示不要把思考让渡给 AI、要保留判断能力，与校准对 AI 过度引导的关切相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/expert-decisions-follow-agent-presets.md",
+      "action": "unchanged",
+      "reason": "帖文核心主张是 AI 暗中影响专家决策且专家不愿承认，与该主题“专家决策跟随智能体预设”直接对应。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文中多次提到选股与调研分析已交给 AI，属于把任务放心交给 AI 的典型场景。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文末警示不要把思考让渡给 AI、要保留判断能力，与校准对 AI 过度引导的关切相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所抓取帖文，未引入外部事实或编造 URL。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "8034351f9807e936",
+  "url": "https://x.com/0xlangeai/status/2117511027671859594",
+  "title": "官方飞书连接器还在坑",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "8034351f9807e936dcdcbca5c174b5db43a080ee8cde49afa734cc9ee491853c",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:41.240Z",
+  "content_hash": "a86a69482c3c851dcff03eb260ab0911bfde4918a1639d7a886d19f25285e5ec",
+  "article_path": "articles/8034351f9807e936.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2117511027671859594",
+  "source_path": "sources/articles/official-feishu-connector-still-problematic-grok-bot-integration.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:09:26.469Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

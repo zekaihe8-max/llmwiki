@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:19:35.051Z",
+  "url": "https://x.com/FinanceYF5/status/2117507814910533819",
+  "slug": "3ac7b46811b6aeed",
+  "content_hash": "adc1f9c70476bc6c57fa5537a69b0b90615f4d966340e0dfd5b0ae83df667475",
+  "source": {
+    "path": "sources/articles/anthropic-s-1-the-895-billion-compute-bet.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章聚焦算力规模与治理层面的资源承诺。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 作为 AI 原生公司，与文章主题直接相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章涉及巨额算力义务与推理成本，与该主题相近。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "S-1 招股书通常与上市前后的公司动态相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司，与文章主题直接相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文章涉及巨额算力义务与推理成本，与该主题相近。",
+    "topics/pre-ipo-talent-departure-motives.md": "S-1 招股书通常与上市前后的公司动态相关。",
+    "topics/agent-compute-and-governance.md": "文章聚焦算力规模与治理层面的资源承诺。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-s-1-the-895-billion-compute-bet.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司，与文章主题直接相关。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文章涉及巨额算力义务与推理成本，与该主题相近。",
+      "topics/pre-ipo-talent-departure-motives.md": "S-1 招股书通常与上市前后的公司动态相关。",
+      "topics/agent-compute-and-governance.md": "文章聚焦算力规模与治理层面的资源承诺。"
+    },
+    "notes": "所有数据均引用 X 帖文，未独立验证；日期为帖文显示的 2026 年 11 月 3 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-s-1-the-895-billion-compute-bet.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

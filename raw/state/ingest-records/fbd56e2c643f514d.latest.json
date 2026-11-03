@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:05:51.819Z",
+  "url": "https://x.com/xiaomovps/status/2117573230563057951",
+  "slug": "fbd56e2c643f514d",
+  "content_hash": "3b7b74b3008cfd3f77d97b60b6cdff7ecd4e2b49bb241381673659916987dcc1",
+  "source": {
+    "path": "sources/articles/feishu-may-be-the-first-domestic-vendor-to-connect-grok-bot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/agent-in-chat-bug-feedback.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "文中提到连接失败及社区反映 Bug，属于 Agent 对话内问题反馈"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 Grok Bot 插件与连接器，直接相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样涉及 Grok Bot 生态与使用边界"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "飞书对接 Grok Bot 属于应用内模型合作/接入场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文围绕 Grok Bot 插件与连接器，直接相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样涉及 Grok Bot 生态与使用边界",
+    "topics/in-app-model-partnerships.md": "飞书对接 Grok Bot 属于应用内模型合作/接入场景",
+    "topics/agent-in-chat-bug-feedback.md": "文中提到连接失败及社区反映 Bug，属于 Agent 对话内问题反馈"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/feishu-may-be-the-first-domestic-vendor-to-connect-grok-bot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/in-app-model-partnerships.md",
+      "topics/agent-in-chat-bug-feedback.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "帖文围绕 Grok Bot 插件与连接器，直接相关",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样涉及 Grok Bot 生态与使用边界",
+      "topics/in-app-model-partnerships.md": "飞书对接 Grok Bot 属于应用内模型合作/接入场景",
+      "topics/agent-in-chat-bug-feedback.md": "文中提到连接失败及社区反映 Bug，属于 Agent 对话内问题反馈"
+    },
+    "notes": "未核实主张已用「帖文称」标注；未编造 URL 或超出文章事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/feishu-may-be-the-first-domestic-vendor-to-connect-grok-bot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
