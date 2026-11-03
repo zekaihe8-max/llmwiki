@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/code-over-spec.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文核心主张围绕 UX、DX 与 AX 的同步提升，与该主题直接相关。",
+    "topics/vibe-coding-memory-paradox.md": "帖文明确面向“vibecoders”并讨论 AI 编码实践，与该主题相关。",
+    "topics/code-over-spec.md": "帖文主张以简单实现和代码优先的极简理念取代冗余说明，与“代码重于规格”相近。",
+    "topics/landing-page-site-clone-over-skill.md": "帖文以 Linear 官网和 Apple Notes 作为网站/产品设计标杆，与选站复刻和极简落地相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文核心主张围绕 UX、DX 与 AX 的同步提升，与该主题直接相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文明确面向“vibecoders”并讨论 AI 编码实践，与该主题相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文主张以简单实现和代码优先的极简理念取代冗余说明，与“代码重于规格”相近。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文以 Linear 官网和 Apple Notes 作为网站/产品设计标杆，与选站复刻和极简落地相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为单条 X 帖文，未独立核实其主张；所有数据均引用自抓取的文章内容。"
+}

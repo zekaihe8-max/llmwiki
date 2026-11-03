@@ -1,0 +1,23 @@
+{
+  "slug": "0960b495f9babceb",
+  "url": "https://x.com/rauchg/status/2117338179535810957",
+  "title": "Guillermo Rauch (@rauchg)",
+  "digest": "2026-11-03-frontier-ai.md",
+  "status": "filed",
+  "hash": "0960b495f9babcebc60cb714ca40206d03eb2758964e80af598b069112c3e002",
+  "first_seen": "2026-11-03T00:01:46.613Z",
+  "last_seen": "2026-11-03T00:01:46.613Z",
+  "fetched_at": "2026-11-03T00:01:59.552Z",
+  "content_hash": "53dddc0f00b0171890ba2cff01a8f504d6dff980e328963005148eb97b0e250d",
+  "article_path": "articles/0960b495f9babceb.md",
+  "fetched_url": "https://x.com/rauchg/status/2117338179535810957",
+  "source_path": "sources/articles/stateless-sandboxes-are-the-wrong-benchmark-agents-need-their-wo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T00:04:58.957Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

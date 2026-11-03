@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:09:53.476Z",
+  "url": "https://x.com/Voxyz_ai/status/2117281830449942825",
+  "slug": "3e69e2fc2c633e5c",
+  "content_hash": "a9d68c49aa4bd5bbe6f7f9b46bb46b41b8d56e899be26c21ee9803b6470f4e4e",
+  "source": {
+    "path": "sources/articles/vox-voxyz-ai-advocates-minimalist-building-benchmarked-by-linear.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/code-over-spec.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文主张以简单实现和代码优先的极简理念取代冗余说明，与“代码重于规格”相近。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文以 Linear 官网和 Apple Notes 作为网站/产品设计标杆，与选站复刻和极简落地相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文核心主张围绕 UX、DX 与 AX 的同步提升，与该主题直接相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文明确面向“vibecoders”并讨论 AI 编码实践，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文核心主张围绕 UX、DX 与 AX 的同步提升，与该主题直接相关。",
+    "topics/vibe-coding-memory-paradox.md": "帖文明确面向“vibecoders”并讨论 AI 编码实践，与该主题相关。",
+    "topics/code-over-spec.md": "帖文主张以简单实现和代码优先的极简理念取代冗余说明，与“代码重于规格”相近。",
+    "topics/landing-page-site-clone-over-skill.md": "帖文以 Linear 官网和 Apple Notes 作为网站/产品设计标杆，与选站复刻和极简落地相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vox-voxyz-ai-advocates-minimalist-building-benchmarked-by-linear.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/code-over-spec.md",
+      "topics/landing-page-site-clone-over-skill.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "帖文核心主张围绕 UX、DX 与 AX 的同步提升，与该主题直接相关。",
+      "topics/vibe-coding-memory-paradox.md": "帖文明确面向“vibecoders”并讨论 AI 编码实践，与该主题相关。",
+      "topics/code-over-spec.md": "帖文主张以简单实现和代码优先的极简理念取代冗余说明，与“代码重于规格”相近。",
+      "topics/landing-page-site-clone-over-skill.md": "帖文以 Linear 官网和 Apple Notes 作为网站/产品设计标杆，与选站复刻和极简落地相关。"
+    },
+    "notes": "来源为单条 X 帖文，未独立核实其主张；所有数据均引用自抓取的文章内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vox-voxyz-ai-advocates-minimalist-building-benchmarked-by-linear.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:08:22.315Z",
+  "url": "https://x.com/dotey/status/2117306470727336321",
+  "slug": "73e47c35ea17aaab",
+  "content_hash": "1d8e6008a8cbde630ced875af31a85a8827af0f36b516d2001d38209f902fd26",
+  "source": {
+    "path": "sources/articles/bao-yu-manus-client-is-semi-transparent-technology-has-no-moat-b.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/company-agent-harness.md",
+    "topics/ai-native-companies.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Manus 客户端中的 skills 逻辑可被分析，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 AI 智能体产品 Manus 的客户端架构与产品护城河展开，属于 Agentic AI 基础话题。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文探讨 AI 产品的技术护城河、品牌信任与克隆产品的前途，契合 AI 原生公司的产品竞争讨论。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到 harness 逻辑可分析，并讨论 Agent Harness 相关的产品透明度与保护问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文明确提到 Manus 客户端中的 skills 逻辑可被分析，与该主题直接相关。",
+    "topics/company-agent-harness.md": "帖文提到 harness 逻辑可分析，并讨论 Agent Harness 相关的产品透明度与保护问题。",
+    "topics/ai-native-companies.md": "帖文探讨 AI 产品的技术护城河、品牌信任与克隆产品的前途，契合 AI 原生公司的产品竞争讨论。",
+    "topics/agentic-ai-foundation.md": "帖文围绕 AI 智能体产品 Manus 的客户端架构与产品护城河展开，属于 Agentic AI 基础话题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bao-yu-manus-client-is-semi-transparent-technology-has-no-moat-b.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/company-agent-harness.md",
+      "topics/ai-native-companies.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文明确提到 Manus 客户端中的 skills 逻辑可被分析，与该主题直接相关。",
+      "topics/company-agent-harness.md": "帖文提到 harness 逻辑可分析，并讨论 Agent Harness 相关的产品透明度与保护问题。",
+      "topics/ai-native-companies.md": "帖文探讨 AI 产品的技术护城河、品牌信任与克隆产品的前途，契合 AI 原生公司的产品竞争讨论。",
+      "topics/agentic-ai-foundation.md": "帖文围绕 AI 智能体产品 Manus 的客户端架构与产品护城河展开，属于 Agentic AI 基础话题。"
+    },
+    "notes": "来源为 X 上 @dotey（宝玉）的帖文及其回复线程，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bao-yu-manus-client-is-semi-transparent-technology-has-no-moat-b.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

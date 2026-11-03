@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章涉及 AI 能力评测基准，与该主题的评测入口与记录方向相近。",
+    "topics/tasks-confidently-handed-to-ai.md": "LifeVal 关注用户愿意交给 AI 的日常任务，与“哪些活已放心交给 AI”相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "LifeVal 是公开基准，主题强调在信任公开榜前审查质量，与文章语境相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 能力评测基准，与该主题的评测入口与记录方向相近。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "LifeVal 关注用户愿意交给 AI 的日常任务，与“哪些活已放心交给 AI”相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "LifeVal 是公开基准，主题强调在信任公开榜前审查质量，与文章语境相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布于 2026 年 11 月 2 日，互动数据为 444.6K 次浏览、498 条回复、557 转发、4.8K 喜欢、1.1K 收藏。"
+}

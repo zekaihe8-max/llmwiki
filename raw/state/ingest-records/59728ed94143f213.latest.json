@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:10:36.800Z",
+  "url": "https://x.com/Voxyz_ai/status/2117230188282966392",
+  "slug": "59728ed94143f213",
+  "content_hash": "8ca4dfb2cfbf852680d9e24b03206d8ccc17dd5b4e16804dea450d4ab0e7a81b",
+  "source": {
+    "path": "sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agent-skill-authoring.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "cover-me 模式在编码时关闭、仅在发货前启用，体现与智能体自动/手动模式切换的关联。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "cover-me.md 本质是给编程助手的指令与技能编写，与该主题相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Claude Code 的作者身份与输出表达，与帖文中输出风格（output style）主题最贴近。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦发货前的代码变更与 PR 评审，与确定性重构和自动合入主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接讨论 Claude Code 的作者身份与输出表达，与帖文中输出风格（output style）主题最贴近。",
+    "topics/agent-skill-authoring.md": "cover-me.md 本质是给编程助手的指令与技能编写，与该主题相关。",
+    "topics/deterministic-refactor-automerge.md": "帖文聚焦发货前的代码变更与 PR 评审，与确定性重构和自动合入主题相关。",
+    "topics/agent-auto-mode.md": "cover-me 模式在编码时关闭、仅在发货前启用，体现与智能体自动/手动模式切换的关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/agent-skill-authoring.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接讨论 Claude Code 的作者身份与输出表达，与帖文中输出风格（output style）主题最贴近。",
+      "topics/agent-skill-authoring.md": "cover-me.md 本质是给编程助手的指令与技能编写，与该主题相关。",
+      "topics/deterministic-refactor-automerge.md": "帖文聚焦发货前的代码变更与 PR 评审，与确定性重构和自动合入主题相关。",
+      "topics/agent-auto-mode.md": "cover-me 模式在编码时关闭、仅在发货前启用，体现与智能体自动/手动模式切换的关联。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未引用外部链接或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/voxyz-ai-s-claude-code-cover-me-mode-review-cheat-sheet.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

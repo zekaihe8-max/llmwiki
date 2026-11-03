@@ -1,0 +1,23 @@
+{
+  "slug": "dc765b0a57fbf0c0",
+  "url": "https://x.com/fchollet/status/2117315680119013865",
+  "title": "François Chollet (@fchollet)",
+  "digest": "2026-11-03-frontier-ai.md",
+  "status": "filed",
+  "hash": "dc765b0a57fbf0c0cc2d7951a9ecb34149dda4e32e4a060f9cad9121379b5e20",
+  "first_seen": "2026-11-03T00:01:46.613Z",
+  "last_seen": "2026-11-03T00:01:46.613Z",
+  "fetched_at": "2026-11-03T00:02:01.541Z",
+  "content_hash": "5cf5ecda71145d5486fe90d0d2662419704fae6dbba823bb9fc6ccdc76fc4d8b",
+  "article_path": "articles/dc765b0a57fbf0c0.md",
+  "fetched_url": "https://x.com/fchollet/status/2117315680119013865",
+  "source_path": "sources/articles/fran-ois-chollet-criticizes-llm-writing-for-making-every-sentenc.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T00:13:02.450Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

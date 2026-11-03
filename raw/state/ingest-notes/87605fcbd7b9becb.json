@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "文章核心是面向 Agent 的联网搜索与抓取工具 API 的计费变更，与该主题直接相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文中提到 Harness，且计费按成功请求而非 token，符合“超越 token 数”的对比语境。",
+    "topics/coding-agent-token-saving-tooling.md": "涉及编程 Agent 调用搜索/抓取工具的开销与计费，与工具成本主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文章核心是面向 Agent 的联网搜索与抓取工具 API 的计费变更，与该主题直接相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中提到 Harness，且计费按成功请求而非 token，符合“超越 token 数”的对比语境。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 调用搜索/抓取工具的开销与计费，与工具成本主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文，未独立核实；日期与价格均以帖文所示为准。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章围绕开放权重模型 Qwen3.5-0.8B 的权重直接编辑展开，该主题已覆盖相关模型类别。",
+    "topics/community-evals-vs-score-hype.md": "莫利克明确提示需等待复现，属于对未经独立验证的性能声称保持谨慎，与该主题一致。",
+    "topics/public-benchmark-quality-scrutiny.md": "未经验证的大幅性能提升声称需要在信任公开榜单前审查质量与基准可信度，主题已适配。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章围绕开放权重模型 Qwen3.5-0.8B 的权重直接编辑展开，该主题已覆盖相关模型类别。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "莫利克明确提示需等待复现，属于对未经独立验证的性能声称保持谨慎，与该主题一致。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "未经验证的大幅性能提升声称需要在信任公开榜单前审查质量与基准可信度，主题已适配。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文内容，未独立核实；Mollick 本人未断言结论，仅表示等待复现。"
+}

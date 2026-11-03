@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:04:58.957Z",
+  "url": "https://x.com/rauchg/status/2117338179535810957",
+  "slug": "0960b495f9babceb",
+  "content_hash": "53dddc0f00b0171890ba2cff01a8f504d6dff980e328963005148eb97b0e250d",
+  "source": {
+    "path": "sources/articles/stateless-sandboxes-are-the-wrong-benchmark-agents-need-their-wo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文讨论沙箱延迟、吞吐与可靠性，属于智能体计算基建与治理范畴。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "帖文强调 Agent 需携带身份与工作空间，与智能体身份和平台握钥相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "无状态与有状态沙箱的基建选型属于多智能体基建问题。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及云端沙箱环境、隔离与可靠性，与个人 Agent 云环境主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "帖文讨论沙箱延迟、吞吐与可靠性，属于智能体计算基建与治理范畴。",
+    "topics/agent-identity-platform-keys.md": "帖文强调 Agent 需携带身份与工作空间，与智能体身份和平台握钥相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及云端沙箱环境、隔离与可靠性，与个人 Agent 云环境主题相近。",
+    "topics/multiagent-infra-four-problems.md": "无状态与有状态沙箱的基建选型属于多智能体基建问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stateless-sandboxes-are-the-wrong-benchmark-agents-need-their-wo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/agent-identity-platform-keys.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "帖文讨论沙箱延迟、吞吐与可靠性，属于智能体计算基建与治理范畴。",
+      "topics/agent-identity-platform-keys.md": "帖文强调 Agent 需携带身份与工作空间，与智能体身份和平台握钥相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "涉及云端沙箱环境、隔离与可靠性，与个人 Agent 云环境主题相近。",
+      "topics/multiagent-infra-four-problems.md": "无状态与有状态沙箱的基建选型属于多智能体基建问题。"
+    },
+    "notes": "来源为 X 平台 Guillermo Rauch 帖文，未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stateless-sandboxes-are-the-wrong-benchmark-agents-need-their-wo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

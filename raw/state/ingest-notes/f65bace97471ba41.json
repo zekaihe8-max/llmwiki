@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文直接针对 Claude Code 的使用方式与提示词编写，与该话题的作者与社区话筒最为贴近。",
+    "topics/agents-md-token-efficiency.md": "帖文内容本质是给 AI 编程助手的项目级指令（AGENTS.md 风格），涉及指令效率与 token 使用。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文讨论编程 Agent（Claude Code）的工具化使用与性能优化指令，与编程 Agent 省 Token 工具相关。",
+    "topics/context-engineering-for-agents.md": "帖文强调给 Agent 明确的上下文与结构化指令，属于 Agent 上下文工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文直接针对 Claude Code 的使用方式与提示词编写，与该话题的作者与社区话筒最为贴近。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文内容本质是给 AI 编程助手的项目级指令（AGENTS.md 风格），涉及指令效率与 token 使用。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文讨论编程 Agent（Claude Code）的工具化使用与性能优化指令，与编程 Agent 省 Token 工具相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调给 Agent 明确的上下文与结构化指令，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实主张已用「帖文称」标注。"
+}

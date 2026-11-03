@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:02:23.978Z",
+  "url": "https://x.com/SemiAnalysis_/status/2117075900575477855",
+  "slug": "2fd911ad7123bb0b",
+  "content_hash": "a169a0f510dba648bfc95e2e30f5548b1433078cc9156445742e8283bca473a9",
+  "source": {
+    "path": "sources/articles/semianalysis-releases-gdpx-agentic-capability-benchmark.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章聚焦智能体（agentic）能力评测，与智能体基础主题最为贴近。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "GDPx 属于 AI 评测入口与能力记录类内容。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "前沿基准与低分结果涉及公开榜单与刷分质疑语境。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "对新发布公开基准的质量审视与该条目相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "文章聚焦智能体（agentic）能力评测，与智能体基础主题最为贴近。",
+    "topics/ai-eval-work-record-gateway.md": "GDPx 属于 AI 评测入口与能力记录类内容。",
+    "topics/community-evals-vs-score-hype.md": "前沿基准与低分结果涉及公开榜单与刷分质疑语境。",
+    "topics/public-benchmark-quality-scrutiny.md": "对新发布公开基准的质量审视与该条目相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/semianalysis-releases-gdpx-agentic-capability-benchmark.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "文章聚焦智能体（agentic）能力评测，与智能体基础主题最为贴近。",
+      "topics/ai-eval-work-record-gateway.md": "GDPx 属于 AI 评测入口与能力记录类内容。",
+      "topics/community-evals-vs-score-hype.md": "前沿基准与低分结果涉及公开榜单与刷分质疑语境。",
+      "topics/public-benchmark-quality-scrutiny.md": "对新发布公开基准的质量审视与该条目相关。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/semianalysis-releases-gdpx-agentic-capability-benchmark.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

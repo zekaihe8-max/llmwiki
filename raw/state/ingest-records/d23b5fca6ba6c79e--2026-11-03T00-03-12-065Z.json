@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T00:03:12.065Z",
+  "url": "https://x.com/AnthropicAI/status/2117343929960112486",
+  "slug": "d23b5fca6ba6c79e",
+  "content_hash": "aa56555e21a391f44127e1e4f390c10aa4f34965330b770d502d6053ed23270c",
+  "source": {
+    "path": "sources/articles/anthropic-opens-applications-for-2026-ai-safety-research-residen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/ai-native-companies.md",
+    "topics/embedded-third-party-evals.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 作为 AI 原生公司，其人才计划与公司定位相关。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "驻场研究与第三方评估在人才与评估维度上有相邻性。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿 AI 安全与训练环境，与驻地计划的安全导向研究最为贴近。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "计划强调 AI 安全与造福人类，与技术滥用关切相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "涉及前沿 AI 安全与训练环境，与驻地计划的安全导向研究最为贴近。",
+    "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司，其人才计划与公司定位相关。",
+    "topics/embedded-third-party-evals.md": "驻场研究与第三方评估在人才与评估维度上有相邻性。",
+    "topics/tech-misuse-concern-continuity.md": "计划强调 AI 安全与造福人类，与技术滥用关切相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-opens-applications-for-2026-ai-safety-research-residen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/frontier-training-containment.md",
+      "topics/ai-native-companies.md",
+      "topics/embedded-third-party-evals.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/frontier-training-containment.md": "涉及前沿 AI 安全与训练环境，与驻地计划的安全导向研究最为贴近。",
+      "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司，其人才计划与公司定位相关。",
+      "topics/embedded-third-party-evals.md": "驻场研究与第三方评估在人才与评估维度上有相邻性。",
+      "topics/tech-misuse-concern-continuity.md": "计划强调 AI 安全与造福人类，与技术滥用关切相关。"
+    },
+    "notes": "所有事实仅源自该 X 帖文，未引用外部页面内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-opens-applications-for-2026-ai-safety-research-residen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
