@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "T3 被描述为大佬切换并盛赞的付费 AI 工具/订阅，与高端 AI 订阅价值主题相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文提到“之前的评测还是很真实的”，涉及社区实测与评价可信度。",
+    "topics/pro-vs-flash-model-strategy.md": "T3 可能指代模型层级或产品策略，与模型策略选取主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "T3 被描述为大佬切换并盛赞的付费 AI 工具/订阅，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文提到“之前的评测还是很真实的”，涉及社区实测与评价可信度。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "T3 可能指代模型层级或产品策略，与模型策略选取主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; claims about T3 are user observations, not independently verified."
+}

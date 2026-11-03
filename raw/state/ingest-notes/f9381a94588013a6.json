@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agent-skill-authoring.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文聚焦 Motion 动画渲染与简单视频编辑，属智能体视频剪辑范畴。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及 Design System、风格样式与设计↔代码编辑器，与设计到代码主题相近。",
+    "topics/agent-skill-authoring.md": "文中提到需要特定提示词或 skill 才能做出更好效果，与 Agent Skill 编写相关。",
+    "topics/ux-dx-and-ax.md": "强调只需标记和评论即可修改，涉及编辑器体验与开发者/ AI 交互体验。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Motion 动画渲染与简单视频编辑，属智能体视频剪辑范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及 Design System、风格样式与设计↔代码编辑器，与设计到代码主题相近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到需要特定提示词或 skill 才能做出更好效果，与 Agent Skill 编写相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "强调只需标记和评论即可修改，涉及编辑器体验与开发者/ AI 交互体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，项目链接为文中缩短的 t.co 链接，未展开为完整 GitHub URL。"
+}

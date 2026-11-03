@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "会议纪要与笔记属于 AI 辅助剪藏与媒体笔记范畴",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "实时转写与字幕翻译涉及 AI 精细转写",
+    "topics/voice-input-oral-vs-document-for-agents.md": "同声传译与说话人识别属于语音输入转文书整理",
+    "topics/open-source-in-ai-assistant-editing.md": "知了是开源 AI 工具，符合开源工具装进 AI 助手主题"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "会议纪要与笔记属于 AI 辅助剪藏与媒体笔记范畴"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "实时转写与字幕翻译涉及 AI 精细转写"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "同声传译与说话人识别属于语音输入转文书整理"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "知了是开源 AI 工具，符合开源工具装进 AI 助手主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，未独立核实 GitHub 仓库、官网或模型详情；帖文显示日期为 2026 年 11 月 3 日，未在摘要中额外断言其真实性。"
+}

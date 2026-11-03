@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/embedded-third-party-evals.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章核心是对已有 LLM 结论的重新质疑与质量复核，与“信任公开榜前先审质量”最贴近。",
+    "topics/community-evals-vs-score-hype.md": "斯坦福用新模型重测旧结论，属于社区/第三方实测对抗刷分或过时分数的情形。",
+    "topics/ai-eval-work-record-gateway.md": "涉及 AI 评测入口、模型版本与测试日期的记录重要性。",
+    "topics/embedded-third-party-evals.md": "由斯坦福研究者进行的第三方重测，属于嵌入式第三方评估范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章核心是对已有 LLM 结论的重新质疑与质量复核，与“信任公开榜前先审质量”最贴近。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "斯坦福用新模型重测旧结论，属于社区/第三方实测对抗刷分或过时分数的情形。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 评测入口、模型版本与测试日期的记录重要性。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "由斯坦福研究者进行的第三方重测，属于嵌入式第三方评估范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

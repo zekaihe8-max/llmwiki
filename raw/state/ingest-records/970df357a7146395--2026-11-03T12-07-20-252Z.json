@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:07:20.252Z",
+  "url": "https://x.com/yetone/status/2117547490191004054",
+  "slug": "970df357a7146395",
+  "content_hash": "b520d871ebd4d946d609a892e0b6aad8ef027224915f16de8507894f2e2b629a",
+  "source": {
+    "path": "sources/articles/alma-mobile-remote-split-window-control.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "涉及远程直控设备，与分窗口控制相关，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "远程桌面控制属于计算机使用与远程操控范畴，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "内容涉及手机端远程控制与移动端 Agent 功能，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "远程桌面控制属于计算机使用与远程操控范畴，现有主题已覆盖。",
+    "topics/mobile-agent-dev-full-chain.md": "内容涉及手机端远程控制与移动端 Agent 功能，现有主题已覆盖。",
+    "topics/agent-home-platform-control.md": "涉及远程直控设备，与分窗口控制相关，现有主题已覆盖。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alma-mobile-remote-split-window-control.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agent-home-platform-control.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "远程桌面控制属于计算机使用与远程操控范畴，现有主题已覆盖。",
+      "topics/mobile-agent-dev-full-chain.md": "内容涉及手机端远程控制与移动端 Agent 功能，现有主题已覆盖。",
+      "topics/agent-home-platform-control.md": "涉及远程直控设备，与分窗口控制相关，现有主题已覆盖。"
+    },
+    "notes": "所有事实仅来自提供的 X 帖文文本，未引入外部信息或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alma-mobile-remote-split-window-control.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

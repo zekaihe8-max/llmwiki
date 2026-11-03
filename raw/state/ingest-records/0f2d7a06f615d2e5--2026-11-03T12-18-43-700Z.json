@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:18:43.700Z",
+  "url": "https://x.com/dingyi/status/2117542558314438931",
+  "slug": "0f2d7a06f615d2e5",
+  "content_hash": "0bb0ce9bc76c1cc1a56ed0862bfabec2f4a14d6a0c413a3049a24087e412098a",
+  "source": {
+    "path": "sources/articles/really-like-amp-s-design-and-most-of-the-usage-experience.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "用户明确表达对 Amp 设计的喜好，涉及设计品味判断"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "若 Amp 为付费 AI 产品，帖文触及使用体验与价值感知，保守引用且不改动"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文核心是对产品设计与使用体验的正面评价，属 UX 讨论范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文核心是对产品设计与使用体验的正面评价，属 UX 讨论范畴",
+    "topics/design-taste-led-linux-desktop-trial.md": "用户明确表达对 Amp 设计的喜好，涉及设计品味判断",
+    "topics/premium-ai-subscription-value.md": "若 Amp 为付费 AI 产品，帖文触及使用体验与价值感知，保守引用且不改动"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/really-like-amp-s-design-and-most-of-the-usage-experience.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/design-taste-led-linux-desktop-trial.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "帖文核心是对产品设计与使用体验的正面评价，属 UX 讨论范畴",
+      "topics/design-taste-led-linux-desktop-trial.md": "用户明确表达对 Amp 设计的喜好，涉及设计品味判断",
+      "topics/premium-ai-subscription-value.md": "若 Amp 为付费 AI 产品，帖文触及使用体验与价值感知，保守引用且不改动"
+    },
+    "notes": "Amp 的具体产品形态与身份在可见文本中未说明，未做推测性归类。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/really-like-amp-s-design-and-most-of-the-usage-experience.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

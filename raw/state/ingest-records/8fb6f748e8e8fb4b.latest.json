@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:03:27.687Z",
+  "url": "https://x.com/op7418/status/2117436999250649439",
+  "slug": "8fb6f748e8e8fb4b",
+  "content_hash": "e404b04603caf9b2968e5c7df6c2b9571b00d00d44970377d9c9691f663f1447",
+  "source": {
+    "path": "sources/articles/dsh-guizang-design-promo-video.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/company-agent-harness.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是将多个设计 Skill 合并为 DSH 插件，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "内容围绕 DeepSeek Harness 插件开发与使用，属于 Agent Harness 范畴。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "帖文提到共用一套设计系统和 Design Token，与 Harness 插件样式统一问题相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文提到内置作品库收集 PPT、网页、文档以供复用，与跨 Agent 统一资源库主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是将多个设计 Skill 合并为 DSH 插件，与 Agent Skill 编写主题直接相关。",
+    "topics/company-agent-harness.md": "内容围绕 DeepSeek Harness 插件开发与使用，属于 Agent Harness 范畴。",
+    "topics/harness-plugin-style-fragmentation.md": "帖文提到共用一套设计系统和 Design Token，与 Harness 插件样式统一问题相关。",
+    "topics/unified-agent-resource-library.md": "帖文提到内置作品库收集 PPT、网页、文档以供复用，与跨 Agent 统一资源库主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dsh-guizang-design-promo-video.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/company-agent-harness.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/unified-agent-resource-library.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是将多个设计 Skill 合并为 DSH 插件，与 Agent Skill 编写主题直接相关。",
+      "topics/company-agent-harness.md": "内容围绕 DeepSeek Harness 插件开发与使用，属于 Agent Harness 范畴。",
+      "topics/harness-plugin-style-fragmentation.md": "帖文提到共用一套设计系统和 Design Token，与 Harness 插件样式统一问题相关。",
+      "topics/unified-agent-resource-library.md": "帖文提到内置作品库收集 PPT、网页、文档以供复用，与跨 Agent 统一资源库主题相近。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题；所有事实仅来源于提供的帖文 markdown。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dsh-guizang-design-promo-video.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

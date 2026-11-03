@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:16:28.423Z",
+  "url": "https://x.com/0xLogicrw/status/2117564137488461958",
+  "slug": "87dbd21e84d5add9",
+  "content_hash": "546f5f2299f734a2f85f5c0d23cfd250f3b2c6e58cadb3bd8d2a7a247bee1d12",
+  "source": {
+    "path": "sources/articles/iphone-use-open-source-ai-operates-iphone-via-mac-usb-mirroring.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中明确提到通过增量差异与本地 OCR 大幅降低 Token 消耗与往返次数。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是让 AI 操作 iPhone 屏幕与输入，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及手机端 Agent 的全链路控制与开发改造，与移动端 Agent 开发密切相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是让 AI 操作 iPhone 屏幕与输入，属于 Computer Use 范畴。",
+    "topics/mobile-agent-dev-full-chain.md": "涉及手机端 Agent 的全链路控制与开发改造，与移动端 Agent 开发密切相关。",
+    "topics/agents-md-token-efficiency.md": "文中明确提到通过增量差异与本地 OCR 大幅降低 Token 消耗与往返次数。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/iphone-use-open-source-ai-operates-iphone-via-mac-usb-mirroring.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文核心是让 AI 操作 iPhone 屏幕与输入，属于 Computer Use 范畴。",
+      "topics/mobile-agent-dev-full-chain.md": "涉及手机端 Agent 的全链路控制与开发改造，与移动端 Agent 开发密切相关。",
+      "topics/agents-md-token-efficiency.md": "文中明确提到通过增量差异与本地 OCR 大幅降低 Token 消耗与往返次数。"
+    },
+    "notes": "引用仅基于提供的 X 帖文 markdown，未访问 GitHub 链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/iphone-use-open-source-ai-operates-iphone-via-mac-usb-mirroring.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

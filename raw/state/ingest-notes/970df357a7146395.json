@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "远程桌面控制属于计算机使用与远程操控范畴，现有主题已覆盖。",
+    "topics/mobile-agent-dev-full-chain.md": "内容涉及手机端远程控制与移动端 Agent 功能，现有主题已覆盖。",
+    "topics/agent-home-platform-control.md": "涉及远程直控设备，与分窗口控制相关，现有主题已覆盖。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "远程桌面控制属于计算机使用与远程操控范畴，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "内容涉及手机端远程控制与移动端 Agent 功能，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "涉及远程直控设备，与分窗口控制相关，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自提供的 X 帖文文本，未引入外部信息或编造 URL。"
+}

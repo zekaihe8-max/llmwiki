@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:08:10.586Z",
+  "url": "https://x.com/cgnot996/status/2117515704144658855",
+  "slug": "2df3bbdde5af8fb0",
+  "content_hash": "1ca772dc5c1d2415902d95b7139048bbf68380ad5590f9a27f45b95ef228e69d",
+  "source": {
+    "path": "sources/articles/dream-lover-prompt-f1-broadcast-screenshot-style-ai-beauty-portr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及AI媒体内容回灌训练语料，与直播截图风格生图有一定关联。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及“生图”趣味知识学习产品，与AI图像生成话题相近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "直接对应AI生图提示词与姿势/画面质量边界，与本文生图公式高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "直接对应AI生图提示词与姿势/画面质量边界，与本文生图公式高度相关。",
+    "topics/html-image-fun-knowledge-learning.md": "涉及“生图”趣味知识学习产品，与AI图像生成话题相近。",
+    "topics/ai-media-training-corpus-loop.md": "涉及AI媒体内容回灌训练语料，与直播截图风格生图有一定关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dream-lover-prompt-f1-broadcast-screenshot-style-ai-beauty-portr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/ai-media-training-corpus-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "直接对应AI生图提示词与姿势/画面质量边界，与本文生图公式高度相关。",
+      "topics/html-image-fun-knowledge-learning.md": "涉及“生图”趣味知识学习产品，与AI图像生成话题相近。",
+      "topics/ai-media-training-corpus-loop.md": "涉及AI媒体内容回灌训练语料，与直播截图风格生图有一定关联。"
+    },
+    "notes": "所有主张均基于提供的X帖文Markdown，未引用外部事实或编造URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dream-lover-prompt-f1-broadcast-screenshot-style-ai-beauty-portr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

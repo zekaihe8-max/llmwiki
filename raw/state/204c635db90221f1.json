@@ -1,0 +1,23 @@
+{
+  "slug": "204c635db90221f1",
+  "url": "https://x.com/heydengai/status/2117527196621500774",
+  "title": "文本水印万字文",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "204c635db90221f16ec7c2024cdb8cedf6af2ae4554f66cbca9ede8ef2568fcb",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:44.467Z",
+  "content_hash": "79d84d01f276812b58bef1622c4e03861e751cb0c55b0822fdd74853a31fb3ec",
+  "article_path": "articles/204c635db90221f1.md",
+  "fetched_url": "https://x.com/heydengai/status/2117527196621500774",
+  "source_path": "sources/articles/text-watermarking-deep-dive-claude-statistical-watermark-princip.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:13:12.331Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:13:44.899Z",
+  "url": "https://x.com/vista8/status/2117508130431283416",
+  "slug": "f44d5b6974473cf9",
+  "content_hash": "a4dcacf7488caef167e04d2cf95d7acbfac6b9fd9136bd094998652471b9e4a6",
+  "source": {
+    "path": "sources/articles/ai-short-drama-armed-entry-into-song.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agentic-video-editing.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文中提到使用 Seedance 2.5、AI 配音、剪映剪辑，属 AI 视频制作与剪辑范畴。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "根据评论区、粉丝群反馈调整下一季，属内容反馈回灌与迭代。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "小团队以 AI 为核心制作内容，符合 AI 原生公司特征。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "资产中台供全组统一调用，与跨 Agent 统一资源库理念相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "小团队以 AI 为核心制作内容，符合 AI 原生公司特征。",
+    "topics/agentic-video-editing.md": "文中提到使用 Seedance 2.5、AI 配音、剪映剪辑，属 AI 视频制作与剪辑范畴。",
+    "topics/unified-agent-resource-library.md": "资产中台供全组统一调用，与跨 Agent 统一资源库理念相近。",
+    "topics/ai-media-training-corpus-loop.md": "根据评论区、粉丝群反馈调整下一季，属内容反馈回灌与迭代。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-short-drama-armed-entry-into-song.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/agentic-video-editing.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/ai-media-training-corpus-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "小团队以 AI 为核心制作内容，符合 AI 原生公司特征。",
+      "topics/agentic-video-editing.md": "文中提到使用 Seedance 2.5、AI 配音、剪映剪辑，属 AI 视频制作与剪辑范畴。",
+      "topics/unified-agent-resource-library.md": "资产中台供全组统一调用，与跨 Agent 统一资源库理念相近。",
+      "topics/ai-media-training-corpus-loop.md": "根据评论区、粉丝群反馈调整下一季，属内容反馈回灌与迭代。"
+    },
+    "notes": "所有主张均源自该 X 帖文，未独立核实播放量与热度数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-short-drama-armed-entry-into-song.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

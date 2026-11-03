@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-03T00:01:46.613Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -3861,5 +3861,317 @@
     "last_seen": "2026-11-03T00:01:46.613Z",
     "digest": "2026-11-03-frontier-ai.md",
     "title": "Hamel Husain (@HamelHusain)"
+  },
+  "https://x.com/dotey/status/2117408133773705525": {
+    "hash": "0d67fbbfdfc3a81d60368840be279f523ddf6ad3fcb6e91be4796b1a3832db4e",
+    "slug": "0d67fbbfdfc3a81d",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "权重空间编程刷屏"
+  },
+  "https://x.com/dotey/status/2117484277277286623": {
+    "hash": "d15d863f25e57caa10761621ef19e15d8a50dc04d6d2cdbf6906b4401286ce32",
+    "slug": "d15d863f25e57caa",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "AI 写代码把 Git 写爆了"
+  },
+  "https://x.com/dotey/status/2117442507306901741": {
+    "hash": "f9381a94588013a68ae4364f0bb7b80b7d61c5bebaa455f6006a8827784ec4e2",
+    "slug": "f9381a94588013a6",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "baoyu-design 上 Motion"
+  },
+  "https://x.com/op7418/status/2117459252721971606": {
+    "hash": "904b68f64a52d7689dc9a7b5b03ba9bf52c1a9c961f3a4bbf21f232b087358fd",
+    "slug": "904b68f64a52d768",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "同题权重编程"
+  },
+  "https://x.com/op7418/status/2117436999250649439": {
+    "hash": "8fb6f748e8e8fb4b0bc0b8135fea80d8669fce43be18472d005ebc875225b164",
+    "slug": "8fb6f748e8e8fb4b",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "dsh-guizang-design 宣传片"
+  },
+  "https://x.com/op7418/status/2117535570046157144": {
+    "hash": "d2121c2cfcbc21415b8f1d4fb39ecbfd082f9a570f8e2151b60a115114bb1efe",
+    "slug": "d2121c2cfcbc2141",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "B 站长视频拆插件"
+  },
+  "https://x.com/xiaomovps/status/2117552142282363331": {
+    "hash": "e2a728c6174837634e5d667d87c1ea8d503fed65b559be901f2200cbd72709c5",
+    "slug": "e2a728c617483763",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "五个可免费体验的国内 Agent"
+  },
+  "https://x.com/xiaomovps/status/2117573230563057951": {
+    "hash": "fbd56e2c643f514d791a6036d27dba940afce8e91beac7789034f2bc85051633",
+    "slug": "fbd56e2c643f514d",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "飞书可能最早对接 Grok Bot"
+  },
+  "https://x.com/xiaomovps/status/2117527997884588090": {
+    "hash": "dc46bcf665e7770cc802f00c426797a518f3aac54e64b4161019911b85ba71ad",
+    "slug": "dc46bcf665e7770c",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Grok Bot 可直接发推"
+  },
+  "https://x.com/xiaomovps/status/2117502281021276410": {
+    "hash": "2f5a8921a0f5a5675bb6a6ef3a4d13b85f97a0571fd396ea28c0faa78f6e98c5",
+    "slug": "2f5a8921a0f5a567",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "国内大厂卷 Personal Agent"
+  },
+  "https://x.com/yetone/status/2117547490191004054": {
+    "hash": "970df357a71463959ad001141f0a5e60f67a46834a5712016e850e352094baf8",
+    "slug": "970df357a7146395",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Alma 手机远程分窗口"
+  },
+  "https://x.com/cgnot996/status/2117561801340792835": {
+    "hash": "9d055db7be5deda5b1572127cebe4c7ac0eed5d69c1c77e2c331eb1fb047895c",
+    "slug": "9d055db7be5deda5",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Grok Imagine 有底图更好"
+  },
+  "https://x.com/cgnot996/status/2117515704144658855": {
+    "hash": "2df3bbdde5af8fb082097eedb37f64d4c31003a77313662036c914c0c08b6333",
+    "slug": "2df3bbdde5af8fb0",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "梦中情人提示词"
+  },
+  "https://x.com/0xlangeai/status/2117582319473102854": {
+    "hash": "fc610eeebe5119fb87b2b5daf637a64e45256ae6803d50f001bd5a53db4f3a0b",
+    "slug": "fc610eeebe5119fb",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Grok Bot × WorkBuddy 打通教程"
+  },
+  "https://x.com/0xlangeai/status/2117511027671859594": {
+    "hash": "8034351f9807e936dcdcbca5c174b5db43a080ee8cde49afa734cc9ee491853c",
+    "slug": "8034351f9807e936",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "官方飞书连接器还在坑"
+  },
+  "https://x.com/0xlangeai/status/2117524445195829475": {
+    "hash": "4199bc4e04a5987067e1c18e176b9e4dd8f40338e06cb71ce9cf1a6b81f94753",
+    "slug": "4199bc4e04a59870",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "AYi 提示词实测"
+  },
+  "https://x.com/shao__meng/status/2117529828765356500": {
+    "hash": "cfcc2f607d62f8fd09e50b35e6202a90288e4b9fafe691dbde1d46597aa1345c",
+    "slug": "cfcc2f607d62f8fd",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "批判性思考交不出去"
+  },
+  "https://x.com/shao__meng/status/2117428427380957442": {
+    "hash": "555b0a3d6b065ef79b29b344f60265c9503f2d82283fd3212d646476acffa878",
+    "slug": "555b0a3d6b065ef7",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Code Mode 收敛"
+  },
+  "https://x.com/shao__meng/status/2117415296931901893": {
+    "hash": "bc98022930abc6078c07b58b03081d160f3ed9d0d5e5a8866a01db34a7d7a615",
+    "slug": "bc98022930abc607",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "DecisionRAG"
+  },
+  "https://x.com/heydengai/status/2117575264162943409": {
+    "hash": "52d1079b7ee09392d1c2031767c31c9c9bbf49219f891aaf4aa04dd65e250174",
+    "slug": "52d1079b7ee09392",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Coze 企业版下线解读"
+  },
+  "https://x.com/heydengai/status/2117579038806159539": {
+    "hash": "716b38fd3240d0ad0e4f8733cf9a486346ddaa39cbf751f55b8befbe08db37f7",
+    "slug": "716b38fd3240d0ad",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "少说废话省 Token"
+  },
+  "https://x.com/heydengai/status/2117527196621500774": {
+    "hash": "204c635db90221f16ec7c2024cdb8cedf6af2ae4554f66cbca9ede8ef2568fcb",
+    "slug": "204c635db90221f1",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "文本水印万字文"
+  },
+  "https://x.com/vista8/status/2117508130431283416": {
+    "hash": "f44d5b6974473cf979cb4d6bd7523e80f5dffe5af56fc6de729122e33e2923eb",
+    "slug": "f44d5b6974473cf9",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "AI 短剧《持械入宋》"
+  },
+  "https://x.com/vista8/status/2117511929807933494": {
+    "hash": "571881b440934de9c2d1f6d9768dea1e3b64e1afe48e2264c2adf8df94a7fa36",
+    "slug": "571881b440934de9",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "边看评论边改剧本"
+  },
+  "https://x.com/oran_ge/status/2117398931932082403": {
+    "hash": "5bc023a116c678de5a70555be2d3ca5df45f17c1fed32aff2b640ed524541228",
+    "slug": "5bc023a116c678de",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "RSI 初现"
+  },
+  "https://x.com/oran_ge/status/2117406916737659016": {
+    "hash": "239a6cde486d9618f7344f54d660784e20b15fbcc86566ff37e976287ca0e511",
+    "slug": "239a6cde486d9618",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "AI 进交易决策链"
+  },
+  "https://x.com/0xLogicrw/status/2117582277345411127": {
+    "hash": "d4885f14c8981e13a1195eca20affacbbb02b8d9cc399e9833d7bb05b7bb4aec",
+    "slug": "d4885f14c8981e13",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "扣子企业版时间表"
+  },
+  "https://x.com/0xLogicrw/status/2117481815598674292": {
+    "hash": "936e9426fed0222ff95e5afb259d644916b3c7d40dc82ee8621388e7f75b6a32",
+    "slug": "936e9426fed0222f",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "字节限制外部 AI"
+  },
+  "https://x.com/0xLogicrw/status/2117564137488461958": {
+    "hash": "87dbd21e84d5add9da72c48644c606372012d75837eb3e4578f49b378cf3f1c0",
+    "slug": "87dbd21e84d5add9",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "iPhone-use 开源"
+  },
+  "https://x.com/0xLogicrw/status/2117575579587477958": {
+    "hash": "28fc3f93c982897c7cefd7da455fc0b9d6a58b5071779e240e4df41ca2dfa8e9",
+    "slug": "28fc3f93c982897c",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "续"
+  },
+  "https://x.com/0xLogicrw/status/2117566699461345708": {
+    "hash": "7cb609317303ada1d26c2d770295a6ac740e6547c176c08695d273f6cd310017",
+    "slug": "7cb609317303ada1",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Revolut 默认智谱"
+  },
+  "https://x.com/wquguru/status/2117574590075691483": {
+    "hash": "2e3ead27ce9c63f7de1485a9fedcb44d9b1b0a289b891a5a0a4745db4a0c1670",
+    "slug": "2e3ead27ce9c63f7",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "知了 / Cicada 开源"
+  },
+  "https://x.com/dingyi/status/2117565841562857618": {
+    "hash": "c2d0f68ad4b414cc651bd92b18beed432f16ef0a1bfafd2380f6b272257cf2ec",
+    "slug": "c2d0f68ad4b414cc",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "大佬切 T3"
+  },
+  "https://x.com/dingyi/status/2117542558314438931": {
+    "hash": "0f2d7a06f615d2e58a5c0aea75c89d22923f5ff27aa7083700d3ac7f17cf6864",
+    "slug": "0f2d7a06f615d2e5",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "超喜欢 Amp"
+  },
+  "https://x.com/FinanceYF5/status/2117527056372432910": {
+    "hash": "0ce3b9de75e967767fee33b869d50dd2d91e155921e9cf89938053b40677172f",
+    "slug": "0ce3b9de75e96776",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "LLM「常识」15 个月保质期"
+  },
+  "https://x.com/FinanceYF5/status/2117507814910533819": {
+    "hash": "3ac7b46811b6aeed8cd2f8918e721f92b64daf90a297de4f15c036e3419793bd",
+    "slug": "3ac7b46811b6aeed",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "Anthropic S-1 算力账"
+  },
+  "https://github.com/wquguru/cicada": {
+    "hash": "2e3153378c0d5f3e9dfe017ce91ebca988c5cf2a552a2548d7f55c09606bf957",
+    "slug": "2e3153378c0d5f3e",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://cicada.indaloop.app/": {
+    "hash": "fb0323d52ff0d6a170c3b2b1cb56b7a905196b669f5ef63d3e700ad647df55a8",
+    "slug": "fb0323d52ff0d6a1",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "官网"
+  },
+  "https://x.com/Gorden_Sun/status/2117527237457240113": {
+    "hash": "c241794ebce2ccbffdd8edb1a6e57b28223049b89d7245c70aae5c11d7db1d64",
+    "slug": "c241794ebce2ccbf",
+    "first_seen": "2026-11-03T12:00:34.377Z",
+    "last_seen": "2026-11-03T12:00:34.377Z",
+    "digest": "2026-11-03-cn-x.md",
+    "title": "FlashProve"
   }
 }

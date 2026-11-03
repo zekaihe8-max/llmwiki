@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agentic-video-editing.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "小团队以 AI 为核心制作内容，符合 AI 原生公司特征。",
+    "topics/agentic-video-editing.md": "文中提到使用 Seedance 2.5、AI 配音、剪映剪辑，属 AI 视频制作与剪辑范畴。",
+    "topics/unified-agent-resource-library.md": "资产中台供全组统一调用，与跨 Agent 统一资源库理念相近。",
+    "topics/ai-media-training-corpus-loop.md": "根据评论区、粉丝群反馈调整下一季，属内容反馈回灌与迭代。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "小团队以 AI 为核心制作内容，符合 AI 原生公司特征。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文中提到使用 Seedance 2.5、AI 配音、剪映剪辑，属 AI 视频制作与剪辑范畴。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "资产中台供全组统一调用，与跨 Agent 统一资源库理念相近。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "根据评论区、粉丝群反馈调整下一季，属内容反馈回灌与迭代。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未独立核实播放量与热度数据。"
+}

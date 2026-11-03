@@ -1,0 +1,23 @@
+{
+  "slug": "bc98022930abc607",
+  "url": "https://x.com/shao__meng/status/2117415296931901893",
+  "title": "DecisionRAG",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "bc98022930abc6078c07b58b03081d160f3ed9d0d5e5a8866a01db34a7d7a615",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:43.630Z",
+  "content_hash": "f03ac5b8f3d3220e5d616a2d835a9f34556e8de872435e087f7803e4155cbddf",
+  "article_path": "articles/bc98022930abc607.md",
+  "fetched_url": "https://x.com/shao__meng/status/2117415296931901893",
+  "source_path": "sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:11:45.325Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

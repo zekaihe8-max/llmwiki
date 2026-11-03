@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:06:54.664Z",
+  "url": "https://x.com/xiaomovps/status/2117502281021276410",
+  "slug": "2f5a8921a0f5a567",
+  "content_hash": "37fe0b1c3f77708341312f3b3485070ab61d0028e43bc3067af4ed03751c8fa3",
+  "source": {
+    "path": "sources/articles/chinese-tech-giants-race-on-personal-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到 Agent 在后台长期处理任务、云端长期执行任务，属于智能体自动模式范畴，现有主题已相关，无需新建。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "四家大厂均为 Agent 配备云电脑与云端运行环境，涉及智能体算力与治理，现有主题已涵盖，故保持不变。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "字节扣子 3.0 提到多 Agent 协作并可统一管理多种 Agent，与多智能体基建问题相关，现有主题已足够，故保持不变。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文多次提到云电脑、云手机、云端 Agent，与个人 Agent 云环境的备份、隔离与定时检查主题高度相关，现有条目已足够覆盖，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文多次提到云电脑、云手机、云端 Agent，与个人 Agent 云环境的备份、隔离与定时检查主题高度相关，现有条目已足够覆盖，故保持不变。",
+    "topics/agent-auto-mode.md": "文中提到 Agent 在后台长期处理任务、云端长期执行任务，属于智能体自动模式范畴，现有主题已相关，无需新建。",
+    "topics/agent-compute-and-governance.md": "四家大厂均为 Agent 配备云电脑与云端运行环境，涉及智能体算力与治理，现有主题已涵盖，故保持不变。",
+    "topics/multiagent-infra-four-problems.md": "字节扣子 3.0 提到多 Agent 协作并可统一管理多种 Agent，与多智能体基建问题相关，现有主题已足够，故保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chinese-tech-giants-race-on-personal-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "帖文多次提到云电脑、云手机、云端 Agent，与个人 Agent 云环境的备份、隔离与定时检查主题高度相关，现有条目已足够覆盖，故保持不变。",
+      "topics/agent-auto-mode.md": "文中提到 Agent 在后台长期处理任务、云端长期执行任务，属于智能体自动模式范畴，现有主题已相关，无需新建。",
+      "topics/agent-compute-and-governance.md": "四家大厂均为 Agent 配备云电脑与云端运行环境，涉及智能体算力与治理，现有主题已涵盖，故保持不变。",
+      "topics/multiagent-infra-four-problems.md": "字节扣子 3.0 提到多 Agent 协作并可统一管理多种 Agent，与多智能体基建问题相关，现有主题已足够，故保持不变。"
+    },
+    "notes": "Source: X post by @xiaomovps. All claims are attributed to the post; no external facts or URLs beyond the article were added.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chinese-tech-giants-race-on-personal-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

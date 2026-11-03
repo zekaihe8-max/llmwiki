@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:12:21.122Z",
+  "url": "https://x.com/heydengai/status/2117575264162943409",
+  "slug": "52d1079b7ee09392",
+  "content_hash": "2c40551a4b5fb0b398eb93c203a455d30c451200c2d036d4e0c8ed4cf578c0b4",
+  "source": {
+    "path": "sources/articles/coze-enterprise-shutdown-is-the-ai-agent-platform-being-eliminat.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到 Agent 开发走向工程化、MCP、多 Agent 协作，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章对比低代码平台与编程 Agent 直接生成代码，契合“代码重于规格”的主题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中提及 Coze 的可视化工作流，与工作流优先于智能体的主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/code-over-spec.md": "文章对比低代码平台与编程 Agent 直接生成代码，契合“代码重于规格”的主题。",
+    "topics/agent-scaled-engineering.md": "文中提到 Agent 开发走向工程化、MCP、多 Agent 协作，与智能体规模化工程相关。",
+    "topics/workflows-before-agents.md": "文中提及 Coze 的可视化工作流，与工作流优先于智能体的主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/coze-enterprise-shutdown-is-the-ai-agent-platform-being-eliminat.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/code-over-spec.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/code-over-spec.md": "文章对比低代码平台与编程 Agent 直接生成代码，契合“代码重于规格”的主题。",
+      "topics/agent-scaled-engineering.md": "文中提到 Agent 开发走向工程化、MCP、多 Agent 协作，与智能体规模化工程相关。",
+      "topics/workflows-before-agents.md": "文中提及 Coze 的可视化工作流，与工作流优先于智能体的主题相关。"
+    },
+    "notes": "来源仅为单条 X 帖文，未独立核实 Coze 企业版下线等事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/coze-enterprise-shutdown-is-the-ai-agent-platform-being-eliminat.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

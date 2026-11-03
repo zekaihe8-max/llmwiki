@@ -1,0 +1,23 @@
+{
+  "slug": "5bc023a116c678de",
+  "url": "https://x.com/oran_ge/status/2117398931932082403",
+  "title": "RSI 初现",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "5bc023a116c678de5a70555be2d3ca5df45f17c1fed32aff2b640ed524541228",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:45.848Z",
+  "content_hash": "0f47ff5383fc8ca1f5768654bcab9c9b4bda89063cca3fe6bc14bbf4d4ba3e16",
+  "article_path": "articles/5bc023a116c678de.md",
+  "fetched_url": "https://x.com/oran_ge/status/2117398931932082403",
+  "source_path": "sources/articles/rsi-emerges-directly-editing-model-weights-without-training.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:14:27.072Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

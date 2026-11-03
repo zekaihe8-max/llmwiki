@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:11:13.985Z",
+  "url": "https://x.com/shao__meng/status/2117428427380957442",
+  "slug": "555b0a3d6b065ef7",
+  "content_hash": "4aceb0e153aabf07b5ebbe9d061fba566dce3d001beb8c10009290e346f35e63",
+  "source": {
+    "path": "sources/articles/code-mode-convergence-agent-tools-collapse-into-a-single-exec-sa.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/languages-for-agents.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章主张将工具目录浓缩为代码执行，而非依赖大量 JSON Schema 工具，体现代码重于规格。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及 store/load 避免大 JSON 占用 token、Terminal-Bench 花费下降，与编程 Agent 省 Token 工具直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章讨论中间结果不进入上下文、text/image/audio 控制下一轮上下文，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章对比 JS/Python 沙箱与 bash，强调类型化函数与 Promise.all，属于面向 Agent 的编程语言议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及 store/load 避免大 JSON 占用 token、Terminal-Bench 花费下降，与编程 Agent 省 Token 工具直接相关。",
+    "topics/context-engineering-for-agents.md": "文章讨论中间结果不进入上下文、text/image/audio 控制下一轮上下文，属于 Agent 上下文工程范畴。",
+    "topics/languages-for-agents.md": "文章对比 JS/Python 沙箱与 bash，强调类型化函数与 Promise.all，属于面向 Agent 的编程语言议题。",
+    "topics/code-over-spec.md": "文章主张将工具目录浓缩为代码执行，而非依赖大量 JSON Schema 工具，体现代码重于规格。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/code-mode-convergence-agent-tools-collapse-into-a-single-exec-sa.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/languages-for-agents.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "文章涉及 store/load 避免大 JSON 占用 token、Terminal-Bench 花费下降，与编程 Agent 省 Token 工具直接相关。",
+      "topics/context-engineering-for-agents.md": "文章讨论中间结果不进入上下文、text/image/audio 控制下一轮上下文，属于 Agent 上下文工程范畴。",
+      "topics/languages-for-agents.md": "文章对比 JS/Python 沙箱与 bash，强调类型化函数与 Promise.all，属于面向 Agent 的编程语言议题。",
+      "topics/code-over-spec.md": "文章主张将工具目录浓缩为代码执行，而非依赖大量 JSON Schema 工具，体现代码重于规格。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/code-mode-convergence-agent-tools-collapse-into-a-single-exec-sa.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

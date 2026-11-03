@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:11:45.325Z",
+  "url": "https://x.com/shao__meng/status/2117415296931901893",
+  "slug": "bc98022930abc607",
+  "content_hash": "f03ac5b8f3d3220e5d616a2d835a9f34556e8de872435e087f7803e4155cbddf",
+  "source": {
+    "path": "sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "决策模型一次前向输出是/否概率且不采样 token，体现智能体自动化决策。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中将 Jev 与 GPT-5 在速度与成本上作对比，涉及模型渠道取舍。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "DecisionRAG 提出无传统检索器的文档树导航，与面向 Agent 的联网搜索重做主题相近。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中强调在共享上下文中并行判断候选，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "DecisionRAG 提出无传统检索器的文档树导航，与面向 Agent 的联网搜索重做主题相近。",
+    "topics/context-engineering-for-agents.md": "文中强调在共享上下文中并行判断候选，属于 Agent 上下文工程范畴。",
+    "topics/agent-auto-mode.md": "决策模型一次前向输出是/否概率且不采样 token，体现智能体自动化决策。",
+    "topics/agent-model-channel-tradeoffs.md": "文中将 Jev 与 GPT-5 在速度与成本上作对比，涉及模型渠道取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "DecisionRAG 提出无传统检索器的文档树导航，与面向 Agent 的联网搜索重做主题相近。",
+      "topics/context-engineering-for-agents.md": "文中强调在共享上下文中并行判断候选，属于 Agent 上下文工程范畴。",
+      "topics/agent-auto-mode.md": "决策模型一次前向输出是/否概率且不采样 token，体现智能体自动化决策。",
+      "topics/agent-model-channel-tradeoffs.md": "文中将 Jev 与 GPT-5 在速度与成本上作对比，涉及模型渠道取舍。"
+    },
+    "notes": "来源为 @shao__meng 在 X 上的帖文，文中引用 arXiv 论文 2610.35868。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/decisionrag-retriever-free-decision-model-tree-navigation-for-ra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:14:52.641Z",
+  "url": "https://x.com/oran_ge/status/2117406916737659016",
+  "slug": "239a6cde486d9618",
+  "content_hash": "71516fce36703bfc6cc9fa5569d86f0bd663eb35eecca4b67e552d6c361bc25b",
+  "source": {
+    "path": "sources/articles/ai-enters-the-trading-decision-chain.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/expert-decisions-follow-agent-presets.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文末警示不要把思考让渡给 AI、要保留判断能力，与校准对 AI 过度引导的关切相关。"
+    },
+    {
+      "path": "topics/expert-decisions-follow-agent-presets.md",
+      "action": "unchanged",
+      "reason": "帖文核心主张是 AI 暗中影响专家决策且专家不愿承认，与该主题“专家决策跟随智能体预设”直接对应。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文中多次提到选股与调研分析已交给 AI，属于把任务放心交给 AI 的典型场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/expert-decisions-follow-agent-presets.md": "帖文核心主张是 AI 暗中影响专家决策且专家不愿承认，与该主题“专家决策跟随智能体预设”直接对应。",
+    "topics/tasks-confidently-handed-to-ai.md": "文中多次提到选股与调研分析已交给 AI，属于把任务放心交给 AI 的典型场景。",
+    "topics/calibrating-ai-guidance.md": "文末警示不要把思考让渡给 AI、要保留判断能力，与校准对 AI 过度引导的关切相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-enters-the-trading-decision-chain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/expert-decisions-follow-agent-presets.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/expert-decisions-follow-agent-presets.md": "帖文核心主张是 AI 暗中影响专家决策且专家不愿承认，与该主题“专家决策跟随智能体预设”直接对应。",
+      "topics/tasks-confidently-handed-to-ai.md": "文中多次提到选股与调研分析已交给 AI，属于把任务放心交给 AI 的典型场景。",
+      "topics/calibrating-ai-guidance.md": "文末警示不要把思考让渡给 AI、要保留判断能力，与校准对 AI 过度引导的关切相关。"
+    },
+    "notes": "所有主张均基于所抓取帖文，未引入外部事实或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-enters-the-trading-decision-chain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "文章明确区分可放心交给 AI 的低风险任务与必须由人保留推理的高影响决策，与该主题直接对应。",
+    "topics/divergent-tasks-human-design-gate.md": "帖文强调人在前端定义任务、后端按标准把关，且不达署名标准不发出，属于人审设计与发布闸。",
+    "topics/agent-auto-mode.md": "文中讨论 Agent 自主执行后人类仍需核验与承担责任，与智能体自动模式的人机边界相关。",
+    "topics/agent-scaled-engineering.md": "文中提到代码理解债、测试绿灯不等于全覆盖、PR 审阅等工程场景，与智能体规模化工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章明确区分可放心交给 AI 的低风险任务与必须由人保留推理的高影响决策，与该主题直接对应。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文强调人在前端定义任务、后端按标准把关，且不达署名标准不发出，属于人审设计与发布闸。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中讨论 Agent 自主执行后人类仍需核验与承担责任，与智能体自动模式的人机边界相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到代码理解债、测试绿灯不等于全覆盖、PR 审阅等工程场景，与智能体规模化工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 meng shao 的中文帖文，转述 Claude Code 团队 / Addy Osmani 的分享；未引用文章外事实。"
+}

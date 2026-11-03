@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "文章核心是实时语音转写与字幕，与播客 AI 精细转写主题最贴近",
+    "topics/voice-input-oral-vs-document-for-agents.md": "知了将口头发言转化为结构化纪要与文字记录，对应语音输入到文书整理场景",
+    "topics/ai-assisted-clipping-and-notes.md": "实时纪要、结论、待办和术语表属于 AI 辅助笔记与内容整理范畴"
+  },
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "文章核心是实时语音转写与字幕，与播客 AI 精细转写主题最贴近"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "知了将口头发言转化为结构化纪要与文字记录，对应语音输入到文书整理场景"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "实时纪要、结论、待办和术语表属于 AI 辅助笔记与内容整理范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "与文章核心主张“省 Token”直接相关，现有主题已覆盖项目指令与 Token 效率，无需新建。",
+    "topics/coding-agent-token-saving-tooling.md": "文章聚焦编程 Agent 的 Token 节省与流程开销，该主题已涵盖相关工具与开销讨论，保持不变。",
+    "topics/agent-auto-mode.md": "文章提到测试通过后询问“下一步干什么”，涉及 Agent 自动模式与自主推进，现有主题已相关，无需新建。",
+    "topics/workflows-before-agents.md": "文章强调优化编译-测试-下一步的固定流程，体现工作流优先于智能体的思路，现有主题已覆盖，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "与文章核心主张“省 Token”直接相关，现有主题已覆盖项目指令与 Token 效率，无需新建。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章聚焦编程 Agent 的 Token 节省与流程开销，该主题已涵盖相关工具与开销讨论，保持不变。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章提到测试通过后询问“下一步干什么”，涉及 Agent 自动模式与自主推进，现有主题已相关，无需新建。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调优化编译-测试-下一步的固定流程，体现工作流优先于智能体的思路，现有主题已覆盖，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用自 X 帖文及其提及的清华与微软研究，未独立核实。"
+}

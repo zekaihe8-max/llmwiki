@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agentic-video-editing.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文描述小团队利用 AI 高效制作短剧，符合 AI 原生公司轻量化、AI 驱动的生产模式。",
+    "topics/agentic-video-editing.md": "涉及 AI 加持下的影视场景制作与剧本调整，与智能体视频剪辑/制作相关。",
+    "topics/ai-media-training-corpus-loop.md": "边看评论反馈边调整剧本体现内容与用户反馈的回灌循环。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文描述小团队利用 AI 高效制作短剧，符合 AI 原生公司轻量化、AI 驱动的生产模式。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 加持下的影视场景制作与剧本调整，与智能体视频剪辑/制作相关。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "边看评论反馈边调整剧本体现内容与用户反馈的回灌循环。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，未经独立核实；日期与互动数据直接摘自帖文页面。"
+}

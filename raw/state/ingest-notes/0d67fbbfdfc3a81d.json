@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/languages-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章核心是直接读写开放模型权重，与开放权重前沿模型主题直接相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中多次强调结果仅由作者自报、缺乏独立复现，需审慎看待公开声称的基准提升。",
+    "topics/community-evals-vs-score-hype.md": "帖文宣称数学正确率提升约 6 倍，属于需要社区实测对抗刷分碰瓷式审视的夸大主张。",
+    "topics/languages-for-agents.md": "“权重空间编程”把模型权重当作代码读写，与面向 Agent 的编程语言概念相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是直接读写开放模型权重，与开放权重前沿模型主题直接相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中多次强调结果仅由作者自报、缺乏独立复现，需审慎看待公开声称的基准提升。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文宣称数学正确率提升约 6 倍，属于需要社区实测对抗刷分碰瓷式审视的夸大主张。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "“权重空间编程”把模型权重当作代码读写，与面向 Agent 的编程语言概念相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容全部来自提供的帖文 Markdown，未编造 URL 或额外事实。"
+}

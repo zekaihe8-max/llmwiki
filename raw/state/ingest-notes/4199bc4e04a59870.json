@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章核心是 AI 生图提示词与图像质感，与生图质量边界最相关。",
+    "topics/community-evals-vs-score-hype.md": "文中包含用户“实测”生图效果的社区分享，与社区实测主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 生图提示词与图像质感，与生图质量边界最相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中包含用户“实测”生图效果的社区分享，与社区实测主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文 markdown，未独立核实图片或提示词内容。"
+}

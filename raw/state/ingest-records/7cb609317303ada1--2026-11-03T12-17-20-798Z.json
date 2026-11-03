@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:17:20.798Z",
+  "url": "https://x.com/0xLogicrw/status/2117566699461345708",
+  "slug": "7cb609317303ada1",
+  "content_hash": "a66675d1c6b61f17aba21e76e4d682976d1817794a6929e67287b276fc4c520b",
+  "source": {
+    "path": "sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "约 2000 名工程师统一切换默认模型并扩展至整个研发流程，体现 AI 编程的规模化工程落地。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章对比了 Claude Code 每人每月 300 美元额度与不限量 Token 后的使用行为变化，属于编程 Agent 体验与额度议题。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章披露 56 张 B200 自建推理、每百万 Token 0.30 美元且仅为此前十分之一，直接对应大厂推理成本效率议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章披露 56 张 B200 自建推理、每百万 Token 0.30 美元且仅为此前十分之一，直接对应大厂推理成本效率议题。",
+    "topics/coding-agent-ux-vs-quota.md": "文章对比了 Claude Code 每人每月 300 美元额度与不限量 Token 后的使用行为变化，属于编程 Agent 体验与额度议题。",
+    "topics/agent-scaled-engineering.md": "约 2000 名工程师统一切换默认模型并扩展至整个研发流程，体现 AI 编程的规模化工程落地。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "文章披露 56 张 B200 自建推理、每百万 Token 0.30 美元且仅为此前十分之一，直接对应大厂推理成本效率议题。",
+      "topics/coding-agent-ux-vs-quota.md": "文章对比了 Claude Code 每人每月 300 美元额度与不限量 Token 后的使用行为变化，属于编程 Agent 体验与额度议题。",
+      "topics/agent-scaled-engineering.md": "约 2000 名工程师统一切换默认模型并扩展至整个研发流程，体现 AI 编程的规模化工程落地。"
+    },
+    "notes": "所有主张均来源于所抓取的 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/revolut-adopts-zhipu-glm-as-default-ai-coding-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

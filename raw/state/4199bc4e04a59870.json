@@ -1,0 +1,23 @@
+{
+  "slug": "4199bc4e04a59870",
+  "url": "https://x.com/0xlangeai/status/2117524445195829475",
+  "title": "AYi 提示词实测",
+  "digest": "2026-11-03-cn-x.md",
+  "status": "filed",
+  "hash": "4199bc4e04a5987067e1c18e176b9e4dd8f40338e06cb71ce9cf1a6b81f94753",
+  "first_seen": "2026-11-03T12:00:34.377Z",
+  "last_seen": "2026-11-03T12:00:34.377Z",
+  "fetched_at": "2026-11-03T12:00:41.517Z",
+  "content_hash": "ec2c5596684defd5354a41abd1357b3ca262d7481a4ece6648cbb80416a34fc7",
+  "article_path": "articles/4199bc4e04a59870.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2117524445195829475",
+  "source_path": "sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-03T12:10:05.442Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

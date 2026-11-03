@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-03T12:10:05.442Z",
+  "url": "https://x.com/0xlangeai/status/2117524445195829475",
+  "slug": "4199bc4e04a59870",
+  "content_hash": "ec2c5596684defd5354a41abd1357b3ca262d7481a4ece6648cbb80416a34fc7",
+  "source": {
+    "path": "sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中包含用户“实测”生图效果的社区分享，与社区实测主题相近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 生图提示词与图像质感，与生图质量边界最相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章核心是 AI 生图提示词与图像质感，与生图质量边界最相关。",
+    "topics/community-evals-vs-score-hype.md": "文中包含用户“实测”生图效果的社区分享，与社区实测主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "文章核心是 AI 生图提示词与图像质感，与生图质量边界最相关。",
+      "topics/community-evals-vs-score-hype.md": "文中包含用户“实测”生图效果的社区分享，与社区实测主题相近。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文 markdown，未独立核实图片或提示词内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ayi-prompt-test-8-dimensional-ai-beauty-portrait-generation-secr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
