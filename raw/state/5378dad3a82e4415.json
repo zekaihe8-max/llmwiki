@@ -1,0 +1,23 @@
+{
+  "slug": "5378dad3a82e4415",
+  "url": "https://github.com/anthropics/FlashProve",
+  "title": "代码",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "5378dad3a82e44155f36067cc45988d1487f76257bf1f2fef525fc274612b29c",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:31.455Z",
+  "content_hash": "ee095d2f186018da162fd63f84c230b617fa3ca982b71a847d3e2488c0d9c622",
+  "article_path": "articles/5378dad3a82e4415.md",
+  "fetched_url": "https://github.com/anthropics/FlashProve",
+  "source_path": "sources/articles/flashprove-prove-model-output-without-revealing-weights.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:04:28.740Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

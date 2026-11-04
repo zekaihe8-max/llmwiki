@@ -1,0 +1,23 @@
+{
+  "slug": "129fee511c32329b",
+  "url": "https://x.com/OpenAI/status/2117692475775258785",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "129fee511c32329bf897d6f7087f5885c8cbfe1af460415552e7ee7966072901",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:32.751Z",
+  "content_hash": "b54abd2a961a24cbad2b2e8eb50d979867e8500507e04461f500d000478e859d",
+  "article_path": "articles/129fee511c32329b.md",
+  "fetched_url": "https://x.com/OpenAI/status/2117692475775258785",
+  "source_path": "sources/articles/openai-says-chatgpt-and-codex-help-engineers-build-for-the-physi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:04:54.967Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

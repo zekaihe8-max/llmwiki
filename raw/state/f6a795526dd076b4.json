@@ -1,0 +1,23 @@
+{
+  "slug": "f6a795526dd076b4",
+  "url": "https://x.com/OpenAI/status/2117444048227123277",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "f6a795526dd076b45dfce080534fcc57cd9c943769d7daa1228dbc03dbf98d6d",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:33.153Z",
+  "content_hash": "e631bbadca4039e40fbf8a64e74b152ee69307d717ec6cd42663a72824371635",
+  "article_path": "articles/f6a795526dd076b4.md",
+  "fetched_url": "https://x.com/OpenAI/status/2117444048227123277",
+  "source_path": "sources/articles/openai-announces-next-security-sprint-raises-bug-bounties-partne.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:05:14.696Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

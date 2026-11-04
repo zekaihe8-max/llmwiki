@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/cyber-eval-incident-alignment.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文强调每行代码自动审计，与智能体自动模式相关",
+    "topics/agent-swarms-cyber-defense.md": "内部安全代理用于代码安全防护，属网防 Agent 范畴",
+    "topics/agent-scaled-engineering.md": "将安全团队能力以软件形式规模化交付，对应智能体规模化工程",
+    "topics/cyber-eval-incident-alignment.md": "每次推送的漏洞审查属于网络安全评测与事件对齐场景"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文强调每行代码自动审计，与智能体自动模式相关"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "内部安全代理用于代码安全防护，属网防 Agent 范畴"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "将安全团队能力以软件形式规模化交付，对应智能体规模化工程"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "每次推送的漏洞审查属于网络安全评测与事件对齐场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by Guillermo Rauch; claims about agent effectiveness are attributed to the post."
+}

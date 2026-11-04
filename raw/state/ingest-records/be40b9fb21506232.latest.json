@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:06:15.882Z",
+  "url": "https://x.com/amasad/status/2117504072416890937",
+  "slug": "be40b9fb21506232",
+  "content_hash": "5a3b27278559518abf25cd9894e90a6d5e686575a13e2583b3a862a7c8dff819",
+  "source": {
+    "path": "sources/articles/amjad-masad-ai-agents-on-employee-endpoints-become-systemic-secu.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 智能体的运行环境与组织治理，与智能体算力与治理主题高度相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体在终端设备上的使用与安全风险，与 Computer Use 主题相关。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "安全通告主张托管云环境优于员工终端自行运行，与托管优于自建代理节点的主题一致。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中涉及 AI 智能体云环境的隔离与访问控制，与个人 Agent 云环境的备份、隔离与定时检查相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章讨论 AI 智能体的运行环境与组织治理，与智能体算力与治理主题高度相关。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "安全通告主张托管云环境优于员工终端自行运行，与托管优于自建代理节点的主题一致。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中涉及 AI 智能体云环境的隔离与访问控制，与个人 Agent 云环境的备份、隔离与定时检查相近。",
+    "topics/computer-use.md": "文章核心是智能体在终端设备上的使用与安全风险，与 Computer Use 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/amjad-masad-ai-agents-on-employee-endpoints-become-systemic-secu.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章讨论 AI 智能体的运行环境与组织治理，与智能体算力与治理主题高度相关。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "安全通告主张托管云环境优于员工终端自行运行，与托管优于自建代理节点的主题一致。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中涉及 AI 智能体云环境的隔离与访问控制，与个人 Agent 云环境的备份、隔离与定时检查相近。",
+      "topics/computer-use.md": "文章核心是智能体在终端设备上的使用与安全风险，与 Computer Use 主题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/amjad-masad-ai-agents-on-employee-endpoints-become-systemic-secu.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

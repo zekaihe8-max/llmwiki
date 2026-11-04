@@ -1,0 +1,23 @@
+{
+  "slug": "0c73fb9586d2b27d",
+  "url": "https://x.com/rauchg/status/2117734833824948373",
+  "title": "Guillermo Rauch (@rauchg)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "0c73fb9586d2b27d1ee942f19989f9b1b13141ffebf8df6cd291da19863e5996",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:35.783Z",
+  "content_hash": "efb6cc48f410c5819d2739e6d3b7f4991f99bd693e29fbb26acef9fecd1fd2f7",
+  "article_path": "articles/0c73fb9586d2b27d.md",
+  "fetched_url": "https://x.com/rauchg/status/2117734833824948373",
+  "source_path": "sources/articles/vercel-releases-security-review-public-beta-security-agent-autom.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:06:44.948Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

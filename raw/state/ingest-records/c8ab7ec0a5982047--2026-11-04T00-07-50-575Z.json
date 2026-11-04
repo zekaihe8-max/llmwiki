@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:07:50.575Z",
+  "url": "https://x.com/emollick/status/2117445039211086096",
+  "slug": "c8ab7ec0a5982047",
+  "content_hash": "01cb4701ede4ba14dc67e0cabc374a8c1fbc1632c6dc7731e5d4bec8fabd9679",
+  "source": {
+    "path": "sources/articles/ethan-mollick-new-models-make-old-llm-findings-outdated.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文涉及大模型评测与复刻，属 AI 评测入口与记录范畴"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "大规模尝试性复刻与社区实测对抗刷分碰瓷相关"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "对旧发现重新检验，呼应公开榜单质量审查"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文涉及大模型评测与复刻，属 AI 评测入口与记录范畴",
+    "topics/community-evals-vs-score-hype.md": "大规模尝试性复刻与社区实测对抗刷分碰瓷相关",
+    "topics/public-benchmark-quality-scrutiny.md": "对旧发现重新检验，呼应公开榜单质量审查"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ethan-mollick-new-models-make-old-llm-findings-outdated.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文涉及大模型评测与复刻，属 AI 评测入口与记录范畴",
+      "topics/community-evals-vs-score-hype.md": "大规模尝试性复刻与社区实测对抗刷分碰瓷相关",
+      "topics/public-benchmark-quality-scrutiny.md": "对旧发现重新检验，呼应公开榜单质量审查"
+    },
+    "notes": "所有主张均源自该 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ethan-mollick-new-models-make-old-llm-findings-outdated.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

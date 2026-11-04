@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文讲述 AI 已接手原本由人类团队花费 1.5 年完成的建筑制图任务，属于可放心交给 AI 的工作范畴。",
+    "topics/ai-task-horizon-growth.md": "从 1.5 年压缩到 8 分钟体现 AI 使单个任务可完成的时间跨度发生剧烈变化。",
+    "topics/design-to-code-byo-subscriptions.md": "建筑设计到施工图的转化与设计到代码/产物的转化存在类比，属于设计转落地的 AI 应用场景。",
+    "topics/ai-native-companies.md": "AI 重塑专业服务工作流的案例，可关联 AI 原生公司与工作方式变革。"
+  },
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文讲述 AI 已接手原本由人类团队花费 1.5 年完成的建筑制图任务，属于可放心交给 AI 的工作范畴。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "从 1.5 年压缩到 8 分钟体现 AI 使单个任务可完成的时间跨度发生剧烈变化。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "建筑设计到施工图的转化与设计到代码/产物的转化存在类比，属于设计转落地的 AI 应用场景。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI 重塑专业服务工作流的案例，可关联 AI 原生公司与工作方式变革。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的主张均已用「帖文称」标注；互动数字按页面显示原文摘录，未做额外解读。"
+}

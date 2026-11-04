@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件与自动连接，最贴近 Claude 插件自动连接主题，但现有条目未覆盖 MCP 可信颁发者与企业管理员设置，故保持不变。",
+    "topics/agent-skill-authoring.md": "涉及 Agent Skill 编写，与为 Claude 构建插件相关，但未涉及企业自动连接机制，故保持不变。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent Skills 开放标准，与 MCP 标准相关，但未涉及 Claude 企业插件自动连接，故保持不变。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件界面碎片化，与插件体验相关，但未涉及自动连接或可信颁发者，故保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 插件与自动连接，最贴近 Claude 插件自动连接主题，但现有条目未覆盖 MCP 可信颁发者与企业管理员设置，故保持不变。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skill 编写，与为 Claude 构建插件相关，但未涉及企业自动连接机制，故保持不变。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skills 开放标准，与 MCP 标准相关，但未涉及 Claude 企业插件自动连接，故保持不变。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 插件界面碎片化，与插件体验相关，但未涉及自动连接或可信颁发者，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所获取推文内容，未引入外部事实或 URL。"
+}

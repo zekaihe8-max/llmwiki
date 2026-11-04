@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:10:49.530Z",
+  "url": "https://x.com/rauchg/status/2117719672951095772",
+  "slug": "e735f11a4f6512e8",
+  "content_hash": "66a7d99e88b24bab45bd3d665db3cc9dab2c87955e6ce6f04ad60c285c57c6d3",
+  "source": {
+    "path": "sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "成本与零数据留存控制属于智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章列举多种 Agent 与模型组合，涉及面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "AI Gateway 与成本、ZDR 控制属于云平台跨模型编排与治理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章列举多种 Agent 与模型组合，涉及面向 Agent 的模型渠道取舍。",
+    "topics/cloud-auto-model-routing.md": "AI Gateway 与成本、ZDR 控制属于云平台跨模型编排与治理。",
+    "topics/agent-compute-and-governance.md": "成本与零数据留存控制属于智能体算力与治理范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "文章列举多种 Agent 与模型组合，涉及面向 Agent 的模型渠道取舍。",
+      "topics/cloud-auto-model-routing.md": "AI Gateway 与成本、ZDR 控制属于云平台跨模型编排与治理。",
+      "topics/agent-compute-and-governance.md": "成本与零数据留存控制属于智能体算力与治理范畴。"
+    },
+    "notes": "仅基于推文内容，未引用外部链接或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

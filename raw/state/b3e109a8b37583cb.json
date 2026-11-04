@@ -1,0 +1,23 @@
+{
+  "slug": "b3e109a8b37583cb",
+  "url": "https://x.com/Voxyz_ai/status/2117718457621926236",
+  "title": "Vox (@Voxyz_ai)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "b3e109a8b37583cbfe37d3a4583183a37288edcd48fa1f30af8a01054c4a19cb",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:39.797Z",
+  "content_hash": "861e6188739d6a26ba343007178db3f443f9af173f872a3988067eca5d1ebb0d",
+  "article_path": "articles/b3e109a8b37583cb.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2117718457621926236",
+  "source_path": "sources/articles/claude-code-subagents-default-to-main-model-force-haiku-to-save.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:09:03.845Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/company-agent-harness.md",
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "帖文提到模型可处理更长任务、上下文窗口更宽，与任务时界增长直接相关。",
+    "topics/agent-scaled-engineering.md": "帖文强调智能体承担更大任务、多智能体协作，属智能体规模化工程范畴。",
+    "topics/company-agent-harness.md": "帖文提到编排工具支持智能体工作，与公司级 Agent Harness 主题相近。",
+    "topics/raise-ambition-until-ai-frontier.md": "帖文指出处于前沿与否会产生数量级产出差异，与提升目标至 AI 前沿相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到模型可处理更长任务、上下文窗口更宽，与任务时界增长直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文强调智能体承担更大任务、多智能体协作，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到编排工具支持智能体工作，与公司级 Agent Harness 主题相近。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文指出处于前沿与否会产生数量级产出差异，与提升目标至 AI 前沿相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未独立核实其中生产力数据与 RSI 预测。"
+}

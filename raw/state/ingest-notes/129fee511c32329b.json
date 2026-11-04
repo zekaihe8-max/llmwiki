@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/interactive-world-models.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文聚焦工程师与硬件团队的工程迭代，与智能体规模化工程主题最为贴近。",
+    "topics/software-factory.md": "涉及以 AI 辅助提升工程与硬件团队效率，与软件工厂主题相关。",
+    "topics/simulation-ready-open-3d-assets.md": "帖文明确提到仿真，与仿真就绪开放三维资产主题相关。",
+    "topics/interactive-world-models.md": "物理世界构建与仿真涉及交互式世界模型的相关语境。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦工程师与硬件团队的工程迭代，与智能体规模化工程主题最为贴近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及以 AI 辅助提升工程与硬件团队效率，与软件工厂主题相关。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到仿真，与仿真就绪开放三维资产主题相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "物理世界构建与仿真涉及交互式世界模型的相关语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文内容，未引入外部事实。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:09:03.845Z",
+  "url": "https://x.com/Voxyz_ai/status/2117718457621926236",
+  "slug": "b3e109a8b37583cb",
+  "content_hash": "861e6188739d6a26ba343007178db3f443f9af173f872a3988067eca5d1ebb0d",
+  "source": {
+    "path": "sources/articles/claude-code-subagents-default-to-main-model-force-haiku-to-save.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文建议按任务分派 Haiku/Sonnet/Opus，属于面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 使用与社区实践，最贴近帖文主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文核心是节省模型额度与子代理模型切换，属于 Token/额度工具话题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Opus 额度消耗与子代理体验，属于编程 Agent 体验与额度权衡。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 使用与社区实践，最贴近帖文主题。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文核心是节省模型额度与子代理模型切换，属于 Token/额度工具话题。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文讨论 Opus 额度消耗与子代理体验，属于编程 Agent 体验与额度权衡。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文建议按任务分派 Haiku/Sonnet/Opus，属于面向 Agent 的模型渠道取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-subagents-default-to-main-model-force-haiku-to-save.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 使用与社区实践，最贴近帖文主题。",
+      "topics/coding-agent-token-saving-tooling.md": "帖文核心是节省模型额度与子代理模型切换，属于 Token/额度工具话题。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文讨论 Opus 额度消耗与子代理体验，属于编程 Agent 体验与额度权衡。",
+      "topics/agent-model-channel-tradeoffs.md": "帖文建议按任务分派 Haiku/Sonnet/Opus，属于面向 Agent 的模型渠道取舍。"
+    },
+    "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 3 日 8:40 PM，浏览数 2,117。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-subagents-default-to-main-model-force-haiku-to-save.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
