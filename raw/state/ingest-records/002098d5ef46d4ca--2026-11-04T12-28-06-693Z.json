@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:28:06.693Z",
+  "url": "https://x.com/heydengai/status/2117945201658323235",
+  "slug": "002098d5ef46d4ca",
+  "content_hash": "dcbe5c10fb099e22540a8f52ac9a5acd76456ae0e71c0fdaaa3da3335e2684da",
+  "source": {
+    "path": "sources/articles/claude-code-review-feels-like-a-slot-machine.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "关注 AI 生成代码的质量与上线标准，与反复发现 Bug 的困境相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 与代码创作讨论，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "涉及对 LLM 生成代码的验证与完备性判断，与审查终止问题相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "探讨 AI 辅助编程中的认知与完成判断，与“代码何时完成”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 与代码创作讨论，与帖文主题最贴近。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "关注 AI 生成代码的质量与上线标准，与反复发现 Bug 的困境相关。",
+    "topics/vibe-coding-memory-paradox.md": "探讨 AI 辅助编程中的认知与完成判断，与“代码何时完成”相关。",
+    "topics/llm-formal-verification.md": "涉及对 LLM 生成代码的验证与完备性判断，与审查终止问题相关。"
+  },
+  "files_changed": [
+    "sources/articles/claude-code-review-feels-like-a-slot-machine.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/llm-formal-verification.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 与代码创作讨论，与帖文主题最贴近。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "关注 AI 生成代码的质量与上线标准，与反复发现 Bug 的困境相关。",
+      "topics/vibe-coding-memory-paradox.md": "探讨 AI 辅助编程中的认知与完成判断，与“代码何时完成”相关。",
+      "topics/llm-formal-verification.md": "涉及对 LLM 生成代码的验证与完备性判断，与审查终止问题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/claude-code-review-feels-like-a-slot-machine.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

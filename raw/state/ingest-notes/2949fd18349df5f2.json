@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/menubar-management-tool-gap.md",
+    "topics/launcher-shortcut-ai-over-agent.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "文章核心是网页/选中内容/截图的剪藏与笔记写入，与该主题的剪藏与媒体笔记最为贴近。",
+    "topics/menubar-management-tool-gap.md": "乔木闪记为常驻菜单栏的 macOS 小工具，与菜单栏工具领域相关。",
+    "topics/launcher-shortcut-ai-over-agent.md": "产品依赖全局快捷键快速触发记录，与启动器快捷键主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "文章核心是网页/选中内容/截图的剪藏与笔记写入，与该主题的剪藏与媒体笔记最为贴近。"
+    },
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "乔木闪记为常驻菜单栏的 macOS 小工具，与菜单栏工具领域相关。"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "产品依赖全局快捷键快速触发记录，与启动器快捷键主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为提供的 GitHub README 片段，未引用页面外事实。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "Muse 视频模型属于世界模型/交互式模型范畴，与该主题领域相近。",
+    "topics/ai-media-training-corpus-loop.md": "帖文讨论 AI 视频/媒体模型内容，与 AI 媒体内容与训练语料主题相关。",
+    "topics/premium-ai-subscription-value.md": "帖文对比免费试用与高价模型，涉及高端 AI 订阅与定价价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "Muse 视频模型属于世界模型/交互式模型范畴，与该主题领域相近。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI 视频/媒体模型内容，与 AI 媒体内容与训练语料主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文对比免费试用与高价模型，涉及高端 AI 订阅与定价价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未核实 Muse 模型具体能力及定价，所有主张均引用帖文表述。"
+}

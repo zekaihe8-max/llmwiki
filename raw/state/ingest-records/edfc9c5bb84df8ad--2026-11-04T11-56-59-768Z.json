@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T11:56:59.768Z",
+  "url": "https://x.com/dotey/status/2117739064455463086",
+  "slug": "edfc9c5bb84df8ad",
+  "content_hash": "2def5384457d72df46fdabc6d64f657eaf7cb4f1d61c67f947ecfb11f48c270d",
+  "source": {
+    "path": "sources/articles/cat-wu-leaves-anthropic.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到 Claude Code 从内部工具发展，涉及智能体工程规模化背景。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章核心人物曾负责 Claude Code 产品，与该话题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Claude Code 属于编程 Agent 产品，话题涵盖相关体验与额度语境。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章报道 AI 公司关键人才离职，与人才离职动机话题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "文章核心人物曾负责 Claude Code 产品，与该话题直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "Claude Code 属于编程 Agent 产品，话题涵盖相关体验与额度语境。",
+    "topics/agent-scaled-engineering.md": "文中提到 Claude Code 从内部工具发展，涉及智能体工程规模化背景。",
+    "topics/pre-ipo-talent-departure-motives.md": "文章报道 AI 公司关键人才离职，与人才离职动机话题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cat-wu-leaves-anthropic.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "文章核心人物曾负责 Claude Code 产品，与该话题直接相关。",
+      "topics/coding-agent-ux-vs-quota.md": "Claude Code 属于编程 Agent 产品，话题涵盖相关体验与额度语境。",
+      "topics/agent-scaled-engineering.md": "文中提到 Claude Code 从内部工具发展，涉及智能体工程规模化背景。",
+      "topics/pre-ipo-talent-departure-motives.md": "文章报道 AI 公司关键人才离职，与人才离职动机话题相近。"
+    },
+    "notes": "所有主张均基于所获取的 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cat-wu-leaves-anthropic.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "2daacdfbc83b600e",
+  "url": "https://dimble.fif7y.com/",
+  "title": "站点",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "failed",
+  "hash": "2daacdfbc83b600e655d5400c37ecfbcb842f9000627406b086322cf0fc3e7ae",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-04T11:55:17.497Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-04T11:55:17.497Z"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/llm-maintained-wiki.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 在 X 上的使用，与帖文主题最相关。",
+    "topics/unified-agent-resource-library.md": "帖文提到建立提示词库，与跨 Agent 统一资源库主题相近。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与 Grok Bot 相关。",
+    "topics/llm-maintained-wiki.md": "提示词库可视为 LLM 维护的知识/资源库，主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 在 X 上的使用，与帖文主题最相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文提到建立提示词库，与跨 Agent 统一资源库主题相近。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与 Grok Bot 相关。"
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "提示词库可视为 LLM 维护的知识/资源库，主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未核实 Grok Bot 实际功能及图片内容。"
+}

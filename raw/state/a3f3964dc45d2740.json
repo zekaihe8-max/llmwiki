@@ -1,0 +1,23 @@
+{
+  "slug": "a3f3964dc45d2740",
+  "url": "https://github.com/JimLiu/baoyu-design",
+  "title": "GitHub",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "filed",
+  "hash": "a3f3964dc45d27400b0e73c289d02ff71dd75b96ab35ff1a7b765a5a2246e10f",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": "2026-11-04T11:54:58.780Z",
+  "content_hash": "5572879d6e644502549a261af46bbbbf51830b02daaa67a3d1ef6b73ced70f48",
+  "article_path": "articles/a3f3964dc45d2740.md",
+  "fetched_url": "https://github.com/JimLiu/baoyu-design",
+  "source_path": "sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T12:02:51.703Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

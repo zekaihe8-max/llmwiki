@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:11:32.226Z",
+  "url": "https://x.com/0xLogicrw/status/2117887052146749702",
+  "slug": "42a46aba0c0a7c0f",
+  "content_hash": "e92b61e9f547d7e888e73d4b55e6d6736a9b18eb6e8c5b63d425f141b1432b26",
+  "source": {
+    "path": "sources/articles/shi-kaiwen-joins-stepfun-to-lead-agent-os-direction.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "施凯文负责 Agent OS 方向，属于智能体基础设施与基础模型层面。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "阶跃星辰是大模型/AI原生公司，施凯文加入属于AI公司人才流动。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "阶跃推出 Step AOS 与 STEPX Neo 手机，涉及手机端 Agent 全链路。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "施凯文创业不足3个月即终止并加入大模型公司，涉及人才离职与去向动机。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "阶跃星辰是大模型/AI原生公司，施凯文加入属于AI公司人才流动。",
+    "topics/mobile-agent-dev-full-chain.md": "阶跃推出 Step AOS 与 STEPX Neo 手机，涉及手机端 Agent 全链路。",
+    "topics/agentic-ai-foundation.md": "施凯文负责 Agent OS 方向，属于智能体基础设施与基础模型层面。",
+    "topics/pre-ipo-talent-departure-motives.md": "施凯文创业不足3个月即终止并加入大模型公司，涉及人才离职与去向动机。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shi-kaiwen-joins-stepfun-to-lead-agent-os-direction.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "阶跃星辰是大模型/AI原生公司，施凯文加入属于AI公司人才流动。",
+      "topics/mobile-agent-dev-full-chain.md": "阶跃推出 Step AOS 与 STEPX Neo 手机，涉及手机端 Agent 全链路。",
+      "topics/agentic-ai-foundation.md": "施凯文负责 Agent OS 方向，属于智能体基础设施与基础模型层面。",
+      "topics/pre-ipo-talent-departure-motives.md": "施凯文创业不足3个月即终止并加入大模型公司，涉及人才离职与去向动机。"
+    },
+    "notes": "未核实主张已在摘要与 bullets 中用「帖文称」标注；阶跃星辰未公开确认该人事变动。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shi-kaiwen-joins-stepfun-to-lead-agent-os-direction.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

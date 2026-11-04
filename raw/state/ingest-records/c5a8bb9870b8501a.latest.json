@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:08:45.504Z",
+  "url": "https://x.com/FinanceYF5/status/2117832187894697996",
+  "slug": "c5a8bb9870b8501a",
+  "content_hash": "bbda9b5f30b3ee23996dd066a579b9ef65c6bbdb0215f4d223743efadac84392",
+  "source": {
+    "path": "sources/articles/sequoia-ai-to-expand-the-service-market.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章提到 AI 可能直接售卖工作本身，涉及智能体/代理执行任务的基础议题。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 巨头的商业模式与市场定位，与 AI 原生公司主题相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "“售卖工作本身”可对应 AI 数字员工与编制/职级的讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章讨论 AI 巨头的商业模式与市场定位，与 AI 原生公司主题相近。",
+    "topics/agentic-ai-foundation.md": "文章提到 AI 可能直接售卖工作本身，涉及智能体/代理执行任务的基础议题。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "“售卖工作本身”可对应 AI 数字员工与编制/职级的讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sequoia-ai-to-expand-the-service-market.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章讨论 AI 巨头的商业模式与市场定位，与 AI 原生公司主题相近。",
+      "topics/agentic-ai-foundation.md": "文章提到 AI 可能直接售卖工作本身，涉及智能体/代理执行任务的基础议题。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "“售卖工作本身”可对应 AI 数字员工与编制/职级的讨论。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sequoia-ai-to-expand-the-service-market.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

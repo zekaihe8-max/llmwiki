@@ -1,0 +1,23 @@
+{
+  "slug": "5114e88529051508",
+  "url": "https://herdr.dev/gallery",
+  "title": "画廊",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "filed",
+  "hash": "5114e88529051508bda6a3e4823e8e4071f1849a9a4ac98c0869a8921884a03e",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": "2026-11-04T11:55:16.624Z",
+  "content_hash": "b27e125492f9f7b534edfb61fb3290284e14c212e3568becceb0aa97a94285d4",
+  "article_path": "articles/5114e88529051508.md",
+  "fetched_url": "https://herdr.dev/gallery/",
+  "source_path": "sources/articles/herdr-community-layouts-and-mods-gallery.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T12:22:48.877Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力与芯片领域，与文章中自研 AI 芯片和半导体设计工具市场相关。",
+    "topics/on-chip-agent-runtime.md": "关注芯片与 Agent/模型的结合，文章中 Claude 用于芯片设计属于模型与芯片的交叉应用。",
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与治理，文章讨论模型辅助芯片工程设计与算力自研，与治理和算力话题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力与芯片领域，与文章中自研 AI 芯片和半导体设计工具市场相关。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "关注芯片与 Agent/模型的结合，文章中 Claude 用于芯片设计属于模型与芯片的交叉应用。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与治理，文章讨论模型辅助芯片工程设计与算力自研，与治理和算力话题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，引用 theinformation.com 报道，发布时间显示为 2026 年 11 月 4 日；未核实主张已用「帖文称」标注。"
+}

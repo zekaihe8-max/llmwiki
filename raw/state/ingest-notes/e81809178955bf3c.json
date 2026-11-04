@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文核心在于通过选择性下发 MCP 工具来节省 Agent 上下文，与上下文工程主题直接相关。",
+    "topics/coding-agent-token-saving-tooling.md": "涉及编程 Agent 省 Token 的工具与开销，与按需加载工具以节省上下文相呼应。",
+    "topics/unified-agent-resource-library.md": "帖文提到「资源库 → MCP」的勾选机制，与跨 Agent 统一资源库主题相关。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确对比了 Claude Code 的按需加载行为，与该话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于通过选择性下发 MCP 工具来节省 Agent 上下文，与上下文工程主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 省 Token 的工具与开销，与按需加载工具以节省上下文相呼应。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文提到「资源库 → MCP」的勾选机制，与跨 Agent 统一资源库主题相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确对比了 Claude Code 的按需加载行为，与该话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 yetone 在 X 上的单条帖文，未独立核实 Claude Code 与其他 Agent 的具体行为。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章聚焦浏览器自动化与 AI 代理操控网页，与 Computer Use 主题直接相关。",
+    "topics/agent-auto-mode.md": "Lightpanda 的 Agent 模式让智能体直接驱动浏览器，契合智能体自动模式议题。",
+    "topics/loose-web-agent-harness-plugins.md": "项目提供 CDP、WebDriver BiDi 及 MCP 接口，属于网页 Agent 管控与插件集成范畴。",
+    "topics/agent-native-web-search.md": "Agent 模式可导航网页、提取结构化数据，涉及面向 Agent 的联网搜索与网页交互。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章聚焦浏览器自动化与 AI 代理操控网页，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Lightpanda 的 Agent 模式让智能体直接驱动浏览器，契合智能体自动模式议题。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "项目提供 CDP、WebDriver BiDi 及 MCP 接口，属于网页 Agent 管控与插件集成范畴。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "Agent 模式可导航网页、提取结构化数据，涉及面向 Agent 的联网搜索与网页交互。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 GitHub 页面 Markdown，未引用文章外信息。"
+}

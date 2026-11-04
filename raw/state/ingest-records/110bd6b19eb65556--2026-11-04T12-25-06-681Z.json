@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:25:06.681Z",
+  "url": "https://x.com/cgnot996/status/2117925517953515854",
+  "slug": "110bd6b19eb65556",
+  "content_hash": "4beb932e467eb1468cd70f5b54e535e7fb25eae44d9cfbd2a2d0fda6d69a0622",
+  "source": {
+    "path": "sources/articles/added-to-grok-bot-team-list.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/personal-agent-share-and-interbot-chat.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派与列表类社交关系"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "与 Grok Bot 在 X 平台上的使用直接相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 对 X 的角色与边界"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 与 Bot 互聊/分享，与被列入 Bot 团队列表相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "与 Grok Bot 在 X 平台上的使用直接相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 对 X 的角色与边界",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派与列表类社交关系",
+    "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 与 Bot 互聊/分享，与被列入 Bot 团队列表相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/added-to-grok-bot-team-list.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/personal-agent-share-and-interbot-chat.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "与 Grok Bot 在 X 平台上的使用直接相关",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 对 X 的角色与边界",
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派与列表类社交关系",
+      "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 与 Bot 互聊/分享，与被列入 Bot 团队列表相近"
+    },
+    "notes": "所有事实仅来自抓取的 X 帖文 markdown，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/added-to-grok-bot-team-list.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

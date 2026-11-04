@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:12:37.991Z",
+  "url": "https://x.com/heydengai/status/2117924314003456251",
+  "slug": "1790d9a9f1792f1b",
+  "content_hash": "7ca0a1d25b90d15e2ed240c9959162728c0a64c417ee178e8552b4f66e8a09a1",
+  "source": {
+    "path": "sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-native-web-search.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文突出内存与速度的算力效率对比，属智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的 Web 交互与联网能力重做，与浏览器为 Agent 设计相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "直接对应 AI Agent 控制浏览器/计算机的场景，与 Lightpanda 免渲染浏览器最相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "关注宽松网页管控下的 Agent Harness 插件，与无渲染浏览器的 Agent 导向设计相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "直接对应 AI Agent 控制浏览器/计算机的场景，与 Lightpanda 免渲染浏览器最相关。",
+    "topics/agent-native-web-search.md": "涉及面向 Agent 的 Web 交互与联网能力重做，与浏览器为 Agent 设计相近。",
+    "topics/loose-web-agent-harness-plugins.md": "关注宽松网页管控下的 Agent Harness 插件，与无渲染浏览器的 Agent 导向设计相关。",
+    "topics/agent-compute-and-governance.md": "帖文突出内存与速度的算力效率对比，属智能体算力与治理范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-native-web-search.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "直接对应 AI Agent 控制浏览器/计算机的场景，与 Lightpanda 免渲染浏览器最相关。",
+      "topics/agent-native-web-search.md": "涉及面向 Agent 的 Web 交互与联网能力重做，与浏览器为 Agent 设计相近。",
+      "topics/loose-web-agent-harness-plugins.md": "关注宽松网页管控下的 Agent Harness 插件，与无渲染浏览器的 Agent 导向设计相关。",
+      "topics/agent-compute-and-governance.md": "帖文突出内存与速度的算力效率对比，属智能体算力与治理范畴。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文，未独立核实；未创建新话题，仅引用现有目录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

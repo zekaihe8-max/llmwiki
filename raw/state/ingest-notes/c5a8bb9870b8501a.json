@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章讨论 AI 巨头的商业模式与市场定位，与 AI 原生公司主题相近。",
+    "topics/agentic-ai-foundation.md": "文章提到 AI 可能直接售卖工作本身，涉及智能体/代理执行任务的基础议题。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "“售卖工作本身”可对应 AI 数字员工与编制/职级的讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 巨头的商业模式与市场定位，与 AI 原生公司主题相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章提到 AI 可能直接售卖工作本身，涉及智能体/代理执行任务的基础议题。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "“售卖工作本身”可对应 AI 数字员工与编制/职级的讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

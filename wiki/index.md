@@ -26,6 +26,86 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [进了 Grok Bot Team 列表 / Added to Grok Bot Team List](./sources/articles/added-to-grok-bot-team-list.md) — 用户在 X 上被加入 Grok Bot Team 列表，并感谢认可。 / A user on X was added to the Grok Bot Team list and thanked the recognition.
+
+- [Bot 降智常因规则没配好 / Bot Intelligence Drop Often Caused by Misconfigured Rules](./sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md) — 除了模型本身，Bot 的指令、skills 等规则配置不当也会导致表现降智 / Besides the model itself, misconfigured Bot instructions, skills, and rules can also cause reduced intelligence
+
+- [ScientistTwo：Google 推出端到端全自动科研 AI 框架 / ScientistTwo: Google Launches End-to-End Fully Automated AI Research Framework](./sources/articles/scientisttwo-google-launches-end-to-end-fully-automated-ai-resea.md) — 帖文称 Google 的 ScientistTwo 可自动完成从选题、实验到论文打磨的全流程科研。 / The post claims Google's ScientistTwo can automatically complete the full research process from topic selection to paper polishing.
+
+- [试了 Dimble，menubar 管理工具竟好用 / Tried Dimble: Menubar Management Tool Actually Works](./sources/articles/tried-dimble-menubar-management-tool-actually-works.md) — 用户在 X 上试用 Dimble 后称其好用，并此前吐槽 Bartender 7、Thaw、Ice 等 menubar 管理工具均不尽如人意。 / User tried Dimble on X and said it works well, previously complaining that Bartender 7, Thaw, Ice and other menubar management tools are unsatisfactory.
+
+- [Superwhisper 发布 Linux 版本 / Superwhisper Releases Linux Version](./sources/articles/superwhisper-releases-linux-version.md) — 曾经被誉为最佳语音输入软件的 Superwhisper 现已推出 Linux 版，且 Omarchy 4.5 据称将把它作为内置默认语音输入。 / Superwhisper, once called the best voice input software, has released a Linux version, and Omarchy 4.5 reportedly will bundle it as the built-in default voice input.
+
+- [Herdr 社区布局与修改画廊 / Herdr Community Layouts and Mods Gallery](./sources/articles/herdr-community-layouts-and-mods-gallery.md) — Herdr 社区布局与修改程序的展示页面，列出用户提交的代理工作区界面方案及星级。 / A showcase page for Herdr community layouts and mods, listing user-submitted agent workspace interface schemes with star ratings.
+
+- [Herdr Layouts 被玩成 QQ 空间，作者呼吁改为插件机制 / Herdr Layouts Turned into QQ Space; Author Urges Plugin Architecture](./sources/articles/herdr-layouts-turned-into-qq-space-author-urges-plugin-architect.md) — Herdr 新版 Layouts 定制性极强，用户已将其 DIY 成 QQ 空间风格，但作者认为应采用插件而非布局切换的方式。 / Herdr's new Layouts are highly customizable; users have recreated QQ Space aesthetics, yet the author argues a plugin system would be more logical than layout switching.
+
+- [又一个 Claude Code 核心成员离开 / Another Claude Code core member leaves](./sources/articles/another-claude-code-core-member-leaves.md) — Orange AI 转发称 Claude Code 又一核心成员离开 Anthropic，并质疑上市信仰绑定反人性。 / Orange AI reports another Claude Code core member has left Anthropic and questions the IPO-related faith binding as anti-human.
+
+- [打开 Stripe 查订阅 / Open Stripe to Check Subscriptions](./sources/articles/open-stripe-to-check-subscriptions.md) — 提醒用户检查 Stripe 后台，取消不再使用的 AI 工具订阅，避免退款麻烦。 / Reminds users to check the Stripe backend and cancel unused AI tool subscriptions to avoid refund hassles.
+
+- [乔木闪记 · Jot / Jot (乔木闪记)](./sources/articles/jot.md) — macOS 菜单栏常驻工具，通过全局快捷键将想法、选中文字、截图和文件快速收录到 Obsidian 今日日记或任意 Markdown 文件夹。 / A macOS menu bar app that captures thoughts, selections, screenshots and files into Obsidian daily notes or any Markdown folder via global shortcuts.
+
+- [续：向阳乔木与乔木闪记 Jot，Obsidian 剪藏伴侣 / Continuation: Xiangyang Qiaomu and Qiaomu Jot, Obsidian Clipping Companion](./sources/articles/continuation-xiangyang-qiaomu-and-qiaomu-jot-obsidian-clipping-c.md) — 向阳乔木推出免费开源的 Obsidian 伴侣应用乔木闪记 Jot，支持快捷键记录、选中即存及截图本地识别。 / Xiangyang Qiaomu launches free open-source Obsidian companion Qiaomu Jot, supporting shortcut recording, select-and-save, and local screenshot OCR.
+
+- [乔木闪记 Jot：快捷键将灵感与截图存入 Obsidian 日记 / Jot: Capture Inspiration and Screenshots into Obsidian Daily Notes via Hotkeys](./sources/articles/jot-capture-inspiration-and-screenshots-into-obsidian-daily-note.md) — 向阳乔木（@vista8）发布 macOS 工具 Jot，通过自定义快捷键将文字、选中内容和截图本地识别后保存至 Obsidian 今日日记，暂未开放下载。 / @vista8 launches macOS tool Jot, capturing text, selections, and screenshots via custom hotkeys into Obsidian daily notes with local OCR; app download is pending Apple notarization.
+
+- [豆包工作蓝皮书“免费领取”跳转企业微信 / DouBao Work Blue Book “Free Claim” Redirects to WeCom](./sources/articles/doubao-work-blue-book-free-claim-redirects-to-wecom.md) — 豆包工作推出蓝皮书，但“添加顾问免费领取”弹出企业微信，体现私域仍依赖微信生态。 / DouBao Work launched a blue book, but its “add consultant for free claim” pops up WeCom, showing private-domain traffic still relies on the WeChat ecosystem.
+
+- [Hermes Mobile 可申请体验 / Hermes Mobile Now Open for Experience Applications](./sources/articles/hermes-mobile-now-open-for-experience-applications.md) — Hermes Mobile 现已开放体验资格申请，适合有移动端需求的用户 / Hermes Mobile is now accepting applications for experience access, suited for users with mobile needs
+
+- [接替「重置按钮」的男人：OpenAI Codex 与 ChatGPT 桌面应用负责人 Andrew Ambrosino / The Man Succeeding the "Reset Button": OpenAI Codex and ChatGPT Desktop App Lead Andrew Ambrosino](./sources/articles/the-man-succeeding-the-reset-button-openai-codex-and-chatgpt-des.md) — 帖文称 Andrew Ambrosino 接替 Tibo 成为 OpenAI Codex 与 ChatGPT 桌面应用负责人，并介绍其跨工程、设计、产品与创业背景。 / The post states Andrew Ambrosino succeeds Tibo as OpenAI Codex and ChatGPT desktop app lead, and introduces his engineering, design, product, and entrepreneurial background.
+
+- [新手蓝V入门全手册 / Beginner's Guide to X Blue Verification](./sources/articles/beginner-s-guide-to-x-blue-verification.md) — 一篇基于 X 官方文档与 xAI 开源算法仓的新手蓝 V 运营手册，涵盖订阅档位、主页四件套、推荐信号、冷启动 7 天与变现红线。 / A beginner's X Blue Verification operations manual based on X official docs and the xAI open-source algorithm repo, covering subscription tiers, homepage setup, recommendation signals, 7-day cold start, and monetization red lines.
+
+- [Claude 审代码像老虎机 / Claude code review feels like a slot machine](./sources/articles/claude-code-review-feels-like-a-slot-machine.md) — 反复让 Claude 审查代码总能发现新 Bug，难以判断代码何时完成。 / Repeatedly asking Claude to review code keeps surfacing new bugs, making it hard to tell when code is done.
+
+- [Lightpanda 浏览器：面向 AI Agent 的 Zig 编写头less浏览器 / Lightpanda Browser: Zig-written headless browser for AI agents](./sources/articles/lightpanda-browser-zig-written-headless-browser-for-ai-agents.md) — 一款从零构建、非 Chromium 分支的 Zig 语言头less浏览器，面向 AI 代理与自动化场景。 / A from-scratch, non-Chromium headless browser written in Zig for AI agents and automation.
+
+- [Lightpanda Agent 浏览器：无渲染、内存降 16 倍 / Lightpanda Agent Browser: Renderer-less, 16x Memory Reduction](./sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md) — Lightpanda 是面向 AI Agent 的开源无渲染浏览器，帖文称内存降 16 倍、速度近 9 倍，但缺布局引擎可能影响元素定位。 / Lightpanda is an open-source renderer-less browser for AI Agents; the post claims 16x lower memory and nearly 9x speed, but the lack of a layout engine may affect element localization.
+
+- [施凯文加入阶跃星辰，负责 Agent OS 方向 / Shi Kaiwen Joins StepFun to Lead Agent OS Direction](./sources/articles/shi-kaiwen-joins-stepfun-to-lead-agent-os-direction.md) — 帖文称前飞书产品副总裁施凯文加入阶跃星辰担任合伙人，负责 Agent OS，但阶跃未公开确认。 / The post says former Feishu product VP Shi Kaiwen joined StepFun as a partner to lead Agent OS, but StepFun has not publicly confirmed.
+
+- [OpenAI 内部工程模型 / OpenAI Internal Engineering Model](./sources/articles/openai-internal-engineering-model.md) — OpenAI 曝光未发布内部模型，在 BenchCAD 2.0 工程设计评测中显著超越 GPT-6 Astra。 / OpenAI exposed an unreleased internal model that significantly outperforms GPT-6 Astra on the BenchCAD 2.0 engineering design benchmark.
+
+- [Claude 帮 Anthropic 造芯 / Claude Helps Anthropic Design AI Chips](./sources/articles/claude-helps-anthropic-design-ai-chips.md) — Anthropic 让 15 人自研芯片团队使用 Claude 进行实际工程设计，并向 IPO 投资者展示此能力，未来可能向半导体企业出售设计工具。 / Anthropic has its 15-person in-house chip team use Claude for actual engineering design and showcases this to IPO investors, potentially selling design tools to semiconductor firms.
+
+- [姚顺雨打通混元部门墙，Hy4 引入腾讯游戏数据并具备电脑操作能力 / Yao Shunyu Breaks Down Hunyuan Department Walls; Hy4 Introduces Tencent Games Data and Computer Operation Capabilities](./sources/articles/yao-shunyu-breaks-down-hunyuan-department-walls-hy4-introduces-t.md) — 姚顺雨主导的腾讯混元发布 Hy4 正式版，跨部门引入游戏团队数据，新增视觉理解与电脑操作能力。 / Yao Shunyu-led Tencent Hunyuan releases Hy4 official version, introducing Tencent Games team data across departments and adding visual understanding and computer operation capabilities.
+
+- [红杉：AI 要扩大服务市场 / Sequoia: AI to Expand the Service Market](./sources/articles/sequoia-ai-to-expand-the-service-market.md) — 红杉在 AI Ascent 2026 判断 AI 将扩大服务市场，下一代 AI 巨头或售卖工作本身而非工具。 / Sequoia judged at AI Ascent 2026 that AI will expand the service market, and the next generation of AI giants may sell work itself rather than tools.
+
+- [Menlo 企业 AI 报告：支出 5.4 倍，Agent 与编程成主力 / Menlo Enterprise AI Report: Spend Up 5.4x, Agents and Coding Lead](./sources/articles/menlo-enterprise-ai-report-spend-up-5-4x-agents-and-coding-lead.md) — 帖文称企业 AI 支出一年涨 5.4 倍至 1768 亿美元，Agent 与编程成为最大用途，头部模型厂商份额进一步集中。 / The post says enterprise AI spending rose 5.4x to $176.8 billion, with agents and coding as the top use cases and spending concentrated among leading model providers.
+
+- [豆包成视频会议翻译最优解 / Doubao Becomes Optimal Solution for Video Conference Translation](./sources/articles/doubao-becomes-optimal-solution-for-video-conference-translation.md) — 豆包免费提供中英双语视频会议与媒体翻译，无需会员即可实时翻译并生成会议纪要 / Doubao offers free Chinese-English bilingual video conference and media translation without membership, enabling real-time translation and meeting minutes generation
+
+- [Cloudflare 五个免费福利：适合 AI Agent 与自动化服务的开发者工具 / Five Cloudflare Free Benefits for AI Agents and Automation Services](./sources/articles/five-cloudflare-free-benefits-for-ai-agents-and-automation-servi.md) — 帖文称 Cloudflare 提供五个免费开发者工具，包括 Queues、Workflows、Cron Triggers、Vectorize 和 Workers，适合个人开发者搭建轻量级 AI Agent 后端。 / The post says Cloudflare offers five free developer tools—Queues, Workflows, Cron Triggers, Vectorize, and Workers—suitable for individual developers to build lightweight AI Agent backends.
+
+- [Pi Durable 五个开源项目 / Five Pi Durable Open Source Projects](./sources/articles/five-pi-durable-open-source-projects.md) — 小墨同学分享 Pi Durable 社区五个新开源项目，涵盖多设备 Agent 网络、持久化多 Agent、浏览器 Agent、AI 监工与跨 Agent 通信 / Xiaomovps shares five new Pi Durable community open-source projects covering multi-device Agent networks, persistent multi-Agent, browser Agent, AI foreman, and cross-Agent communication.
+
+- [OpenAI 实体工程：GPT-6 Astra 一周设计硬件，马自达与 Ganassi 赛车队试用 / OpenAI Entity Engineering: GPT-6 Astra Designs Hardware in a Week, Mazda and Ganassi Racing Trial](./sources/articles/openai-entity-engineering-gpt-6-astra-designs-hardware-in-a-week.md) — 帖文称 OpenAI 用 GPT-6 与 Astra 从零设计可与 Codex 对话的硬件设备，并与马自达、Chip Ganassi Racing 开展机械与电子设计合作，但尚未通过量产评审。 / The post says OpenAI used GPT-6 and Astra to design a hardware device from scratch that can converse with Codex, and is collaborating with Mazda and Chip Ganassi Racing on mechanical and electronic design, but has not yet passed mass-production review.
+
+- [别急着删 Playwright：官方澄清其与浏览器安全的关系 / Don't Rush to Delete Playwright: Official Clarification on Browser Security Relationship](./sources/articles/don-t-rush-to-delete-playwright-official-clarification-on-browse.md) — Playwright 安装包不自带浏览器，仅固定版本浏览器默认关沙箱且不宜访问不可信网页，访问不可控页面应改用正式版 Chrome 并开启沙箱。 / Playwright packages do not bundle browsers; fixed-version test browsers run with sandbox off and should not visit untrusted pages—use official Chrome with sandbox enabled for uncontrolled pages.
+
+- [混元 Hy4 正式发布：首次支持视觉与 Computer Use，权重计划开源 / Tencent Hunyuan Hy4 Officially Released: First Supports Vision and Computer Use, Weights Planned for Open Release](./sources/articles/tencent-hunyuan-hy4-officially-released-first-supports-vision-an.md) — 腾讯混元发布 Hy4 大模型，新增视觉识别和电脑操作能力，覆盖金融、办公、前端游戏和科研场景，权重计划开源。 / Tencent Hunyuan releases Hy4 large model, adding visual recognition and computer operation capabilities, covering finance, office, frontend gaming and research scenarios, with weights planned for open release.
+
+- [歸藏的提示词库 / Guizang's Prompts](./sources/articles/guizang-s-prompts.md) — 歸藏的提示词库收录图像、视频与文本生成提示词，并关联 GitHub 仓库与 X 账号。 / Guizang's Prompts collects image, video, and text generation prompts and links to its GitHub repository and X account.
+
+- [一句话建提示词库 / One-sentence prompt library](./sources/articles/one-sentence-prompt-library.md) — 用户通过 Grok Bot 一句话建立了个人图片和视频模型提示词库。 / The user built a personal image and video model prompt library with one sentence via Grok Bot.
+
+- [Muse 视频模型免费试用引热议 / Muse Video Model Free Trial Draws Attention](./sources/articles/muse-video-model-free-trial-draws-attention.md) — 帖文称 Muse 视频模型近期走红，因首次免费试用此类高端模型，在真实场景中表现离谱，而同等级模型仍昂贵。 / The post says the Muse video model has recently become popular, performing outstandingly in real scenarios because users can try this high-end model for free for the first time, while similar models remain expensive.
+
+- [baoyu-design：将 Claude Artifact 类型带到本地智能体的技能集合 / baoyu-design: Skills Bringing Claude Artifact Types to Local Agents](./sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md) — 一个 GitHub 仓库提供 7 个技能，让本地编程智能体能创建可编辑的幻灯片、设计画布、设计系统、数据仪表板和动态影片，并在本地编辑器中协作。 / A GitHub repo providing 7 skills that let local coding agents create editable slide decks, design canvases, design systems, data dashboards, and motion films, with local editors for collaboration.
+
+- [宝玉：Baoyu Design Skill DeepSeek Harness 插件新增统一入口 / Bao Yu: Baoyu Design Skill DeepSeek Harness Plugin Adds Unified Entry](./sources/articles/bao-yu-baoyu-design-skill-deepseek-harness-plugin-adds-unified-e.md) — 宝玉更新了 Baoyu Design Skill 的 DeepSeek Harness 插件，提供 Slides、Design、Dashboard、Motion 结果的统一入口及会话发起功能。 / Bao Yu updated the Baoyu Design Skill DeepSeek Harness plugin to provide a unified entry for Slides, Design, Dashboard, and Motion results and session initiation.
+
+- [Cat Wu 离开 Anthropic / Cat Wu Leaves Anthropic](./sources/articles/cat-wu-leaves-anthropic.md) — Claude Code 产品负责人 Cat Wu 宣布离开 Anthropic，未透露离职原因及下一步去向。 / Claude Code product lead Cat Wu announces her departure from Anthropic without disclosing the reason or her next destination.
+
+- [MCP 按 Agent 勾选省上下文 / MCP Per-Agent Checkbox Saves Context](./sources/articles/mcp-per-agent-checkbox-saves-context.md) — Magpie 仅将勾选的 MCP 服务器下发给对应 Agent，避免每次请求携带全部工具定义，从而节省上下文。 / Magpie sends only the MCP servers checked for each Agent, avoiding full tool definitions on every request and saving context.
+
+- [Magpie 靠 Alma 开发 / Magpie Developed via Alma](./sources/articles/magpie-developed-via-alma.md) — yetone 称最近 Magpie 都是通过 Alma 开发，需先把 Alma 打磨好才能快速迭代 / yetone says Magpie is recently developed via Alma, and Alma must be polished first for Magpie to iterate quickly
+
+- [Alma Personal Agent 上线 / Alma Personal Agent Launched](./sources/articles/alma-personal-agent-launched.md) — yetone 在 X 上发布帖文称 Alma Personal Agent 已上线。 / yetone posts on X that Alma Personal Agent has launched.
+
 - [Rauchg 转发 AI CLI：Agent 可统一调用图音视频生成 / Rauchg boosts AI CLI: agents unified access to image, audio, and video generation](./sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md) — Guillermo Rauch 转发 Chris Tate 的 AI CLI，称其让每个 Agent 都能使用视频、语音、图像与文本生成，并通过 AI Gateway 实现成本与零数据留存控制。 / Guillermo Rauch boosted Chris Tate's AI CLI, saying it lets every agent use video, voice, image, and text generation, with cost and zero-data-retention controls via AI Gateway.
 
 - [宝玉：AI 时代应更关注产品细节而非代码整洁 / Dotey: In the AI era, focus more on product details than code cleanliness](./sources/articles/dotey-in-the-ai-era-focus-more-on-product-details-than-code-clea.md) — 宝玉认为 AI 时代应将更多精力放在用户体验、性能和安全等产品细节上，代码细节因 Agent 编码而变得不那么重要。 / Dotey argues that in the AI era, more effort should go into product details like UX, performance, and security, while code details matter less when Agents write code.

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:09:07.530Z",
+  "url": "https://x.com/0xLogicrw/status/2117885417953595797",
+  "slug": "871a2970b013ae61",
+  "content_hash": "994bcfc6cc91156e6ea1a605c9ac09171ab83501c2caf95d69d39d6d388ea739",
+  "source": {
+    "path": "sources/articles/yao-shunyu-breaks-down-hunyuan-department-walls-hy4-introduces-t.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到 Hy4 扩大了预训练和后训练规模，涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中 Hy4 新增电脑操作能力，可通过鼠标键盘命令行操作软件，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中提到腾讯云搭建专门沙箱环境部署数百款应用，涉及前沿训练环境隔离。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文中 Hy4 新增电脑操作能力，可通过鼠标键盘命令行操作软件，与 Computer Use 主题直接相关。",
+    "topics/frontier-training-containment.md": "文中提到腾讯云搭建专门沙箱环境部署数百款应用，涉及前沿训练环境隔离。",
+    "topics/agent-scaled-engineering.md": "文中提到 Hy4 扩大了预训练和后训练规模，涉及智能体规模化工程。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yao-shunyu-breaks-down-hunyuan-department-walls-hy4-introduces-t.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/frontier-training-containment.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文中 Hy4 新增电脑操作能力，可通过鼠标键盘命令行操作软件，与 Computer Use 主题直接相关。",
+      "topics/frontier-training-containment.md": "文中提到腾讯云搭建专门沙箱环境部署数百款应用，涉及前沿训练环境隔离。",
+      "topics/agent-scaled-engineering.md": "文中提到 Hy4 扩大了预训练和后训练规模，涉及智能体规模化工程。"
+    },
+    "notes": "所有主张均基于帖文内容，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yao-shunyu-breaks-down-hunyuan-department-walls-hy4-introduces-t.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

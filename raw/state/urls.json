@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -4306,8 +4306,8 @@
     "hash": "68cc129ac46fe2e12e9e4278ec95cd7363b3e6351b76331bed4d0739e95517f5",
     "slug": "68cc129ac46fe2e1",
     "first_seen": "2026-11-04T00:02:30.665Z",
-    "last_seen": "2026-11-04T00:02:30.665Z",
-    "digest": "2026-11-04-frontier-ai.md",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
     "title": "retro 讨论"
   },
   "https://x.com/Voxyz_ai/status/2117718457621926236": {
@@ -4349,5 +4349,333 @@
     "last_seen": "2026-11-04T00:02:30.665Z",
     "digest": "2026-11-04-frontier-ai.md",
     "title": "ai-cli（rauchg 转发）"
+  },
+  "https://x.com/yetone/status/2117707111790752185": {
+    "hash": "f89bb69a84899da3ae43fb05334e1b4f43a955bc396daa2f41556982a6404b9d",
+    "slug": "f89bb69a84899da3",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Alma Personal Agent 上线"
+  },
+  "https://x.com/yetone/status/2117944109277299170": {
+    "hash": "79234b9bb12577a0a42640d2b67982fad153bda596d01c1bb370fc2a8932a210",
+    "slug": "79234b9bb12577a0",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Magpie 靠 Alma 开发"
+  },
+  "https://x.com/yetone/status/2117943945259069746": {
+    "hash": "e81809178955bf3c29171fe159ac191685ddb0304b4cec204ef5f16d61a2c2aa",
+    "slug": "e81809178955bf3c",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "MCP 按 Agent 勾选省上下文"
+  },
+  "https://x.com/dotey/status/2117739064455463086": {
+    "hash": "edfc9c5bb84df8adb42b518f89a8dd299e9bc38456834fda989c47eda0677edb",
+    "slug": "edfc9c5bb84df8ad",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Cat Wu 离开 Anthropic"
+  },
+  "https://x.com/dotey/status/2117838908721660026": {
+    "hash": "cf28238e0792478915ed0375fdfb4f9ea6f4fd3ac37d470e27531c5ec41ee4cc",
+    "slug": "cf28238e07924789",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "baoyu-design 统一入口"
+  },
+  "https://github.com/JimLiu/baoyu-design": {
+    "hash": "a3f3964dc45d27400b0e73c289d02ff71dd75b96ab35ff1a7b765a5a2246e10f",
+    "slug": "a3f3964dc45d2740",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/op7418/status/2117940844217221604": {
+    "hash": "8e61ba7ecff32c6385c29bc501d286d2dab006927c9a2df1a0d0d40a1d309dd8",
+    "slug": "8e61ba7ecff32c63",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Muse 视频模型免费试用"
+  },
+  "https://x.com/op7418/status/2117924167991652384": {
+    "hash": "7fe8db518444ddf8ae3cd4742ccf327ad3ef5ec207b2920f4ded8c3a81137185",
+    "slug": "7fe8db518444ddf8",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "一句话建提示词库"
+  },
+  "https://op7418.github.io/guizang-s-prompt": {
+    "hash": "8e4cfaff6672518896ee07fb87f2998298878330a5f4f29b60ec0940b14cc092",
+    "slug": "8e4cfaff66725188",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "页面"
+  },
+  "https://x.com/shao__meng/status/2117934508985196730": {
+    "hash": "c570a3fa0f0b3f579c86efb7cd8a83214b3d1d4a1587d78dc27086d771016198",
+    "slug": "c570a3fa0f0b3f57",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "混元 Hy4 正式发布"
+  },
+  "https://x.com/shao__meng/status/2117811571674214571": {
+    "hash": "df78290f43b3b5e1d2effce99bde184a717fd1129e28765811da64d5e1921025",
+    "slug": "df78290f43b3b5e1",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "别急着删 Playwright"
+  },
+  "https://x.com/shao__meng/status/2117791043693551968": {
+    "hash": "0cd2d4a33e74c134094ab64744570987926ad0daae28a9e061f910ad8f42de50",
+    "slug": "0cd2d4a33e74c134",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "OpenAI 实体工程"
+  },
+  "https://x.com/xiaomovps/status/2117912799045202152": {
+    "hash": "9f858496bcf13af417e55ca81212315ff52c80ed26cf1dfec6c8f631703cf73f",
+    "slug": "9f858496bcf13af4",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Pi Durable 五个开源"
+  },
+  "https://x.com/xiaomovps/status/2117931109509939211": {
+    "hash": "178873c7430cd50604a0405c51a09cf2e603a0c43efb453b59c0f559b29249a3",
+    "slug": "178873c7430cd506",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Cloudflare 五个免费福利"
+  },
+  "https://x.com/xiaomovps/status/2117887216886436124": {
+    "hash": "5ff3d3e46c05ce11d6a8fa7f6a142d33ed1f19c32d981269e79fc1decb79f28b",
+    "slug": "5ff3d3e46c05ce11",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "豆包成视频会议翻译最优解"
+  },
+  "https://x.com/FinanceYF5/status/2117877887965532555": {
+    "hash": "9ee69479e4b1b21635a207c5875cf22b947b0f8db9143fab5d8b4ee0495cddec",
+    "slug": "9ee69479e4b1b216",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Menlo 企业 AI 报告"
+  },
+  "https://x.com/FinanceYF5/status/2117832187894697996": {
+    "hash": "c5a8bb9870b8501a5d4ccf547efd4a05fc1beb18c649cf2852adacc5ee7183ac",
+    "slug": "c5a8bb9870b8501a",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "红杉：AI 要扩大服务市场"
+  },
+  "https://x.com/0xLogicrw/status/2117885417953595797": {
+    "hash": "871a2970b013ae619d83a5d319655dc514ce4f9c9e4aeae780716741a5c036a0",
+    "slug": "871a2970b013ae61",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "姚顺雨打通混元部门墙"
+  },
+  "https://x.com/0xLogicrw/status/2117911126348612017": {
+    "hash": "70723186a189531dd93f30865146f98333e5e6de63173b9591322feb44b5727c",
+    "slug": "70723186a189531d",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Claude 帮 Anthropic 造芯"
+  },
+  "https://x.com/0xLogicrw/status/2117925988764168428": {
+    "hash": "e1f582ad236e83550603c50366c777a52adf03b06bf4f5439d28d86a32a8bc5d",
+    "slug": "e1f582ad236e8355",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "OpenAI 内部工程模型"
+  },
+  "https://x.com/0xLogicrw/status/2117887052146749702": {
+    "hash": "42a46aba0c0a7c0ffdcd8cfbc174ee8c3ecacb736d14763a8481ef2400856b10",
+    "slug": "42a46aba0c0a7c0f",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "施凯文加入阶跃"
+  },
+  "https://x.com/heydengai/status/2117924314003456251": {
+    "hash": "1790d9a9f1792f1bfbf3b82fcbd09f4bb01e97f509fee05a1c82639811a0fbdc",
+    "slug": "1790d9a9f1792f1b",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Lightpanda Agent 浏览器"
+  },
+  "https://github.com/lightpanda-io/browser": {
+    "hash": "3fbb0d0462685f17c7ee5a52ebbeb07b49bd094ff74c82f164c49a94e7f3688b",
+    "slug": "3fbb0d0462685f17",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/heydengai/status/2117945201658323235": {
+    "hash": "002098d5ef46d4ca78b8cda5a3585331b146f301ad58ef5edb6d21012ee2fa75",
+    "slug": "002098d5ef46d4ca",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Claude 审代码像老虎机"
+  },
+  "https://x.com/heydengai/status/2117911583280214503": {
+    "hash": "8b1f6ee23e5f011d58434429e5a3c6216564cfff4c906e0b48570484c430da81",
+    "slug": "8b1f6ee23e5f011d",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "新手蓝 V 万字手册"
+  },
+  "https://x.com/0xlangeai/status/2117933612133917013": {
+    "hash": "c59e71b95deb0a4771a77099e96bf84df34937f1f1c07a9d8208e91f7778f53f",
+    "slug": "c59e71b95deb0a47",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "接替「重置按钮」的男人"
+  },
+  "https://x.com/0xlangeai/status/2117882036258279760": {
+    "hash": "13f0e6478bd1fc2209eb5b474ec2e2303fbb8cecdffcd33576c26fd6d15a3134",
+    "slug": "13f0e6478bd1fc22",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Hermes Mobile 可申请体验"
+  },
+  "https://x.com/0xlangeai/status/2117922552375132173": {
+    "hash": "07308037f8f8d9d64c048aa2e285c25a84ab7bb5eabd788f2e7501f4c0acc7ce",
+    "slug": "07308037f8f8d9d6",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "豆包工作蓝皮书领进企微"
+  },
+  "https://x.com/vista8/status/2117682826313339095": {
+    "hash": "3930db817c7e73c190631950827dfbf222fbdbed1b586e191e7a330ba5580bfc",
+    "slug": "3930db817c7e73c1",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "乔木闪记 Jot"
+  },
+  "https://x.com/vista8/status/2117825761667371432": {
+    "hash": "e44c3c16f7419575fd0da6c959d6b5fdcfd052ad7cf7a15bf90b79002bc2838b",
+    "slug": "e44c3c16f7419575",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "续"
+  },
+  "https://github.com/joeseesun/qiaomu-jot": {
+    "hash": "2949fd18349df5f2f5fcc192ef577d1fde5bab34286a1875d2eb50a1d618c100",
+    "slug": "2949fd18349df5f2",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/vista8/status/2117864406122221916": {
+    "hash": "08d54c4787507e44b7ba6c1eaf35f6da5d55c1ff5ad28216dc1e00e7946f4b04",
+    "slug": "08d54c4787507e44",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "打开 Stripe 查订阅"
+  },
+  "https://x.com/oran_ge/status/2117767285775696372": {
+    "hash": "6cefc674ae79626e0ea0a3766c09f062b616ee2ae657d32e38427101da4ed86b",
+    "slug": "6cefc674ae79626e",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "又一个 Claude Code 核心成员离开"
+  },
+  "https://x.com/dingyi/status/2117905691864420445": {
+    "hash": "517fbaf5a68648c8e74dbd9d995932c9620caee2223e7d7feebec2da82c18ee9",
+    "slug": "517fbaf5a68648c8",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Herdr Layouts 玩成 QQ 空间"
+  },
+  "https://herdr.dev/gallery": {
+    "hash": "5114e88529051508bda6a3e4823e8e4071f1849a9a4ac98c0869a8921884a03e",
+    "slug": "5114e88529051508",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "画廊"
+  },
+  "https://x.com/dingyi/status/2117814619289079955": {
+    "hash": "47cd41ac588031f37860815ccef7eb1c7e8e9157db3d05a20230749ca76b7aa6",
+    "slug": "47cd41ac588031f3",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Superwhisper 出 Linux 版"
+  },
+  "https://x.com/dingyi/status/2117829956193624184": {
+    "hash": "49500751908a16a7cd4fb1635fd5d829521e1c12c0b0ae7c59bcc50c28ed180d",
+    "slug": "49500751908a16a7",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "试了 Dimble"
+  },
+  "https://dimble.fif7y.com/": {
+    "hash": "2daacdfbc83b600e655d5400c37ecfbcb842f9000627406b086322cf0fc3e7ae",
+    "slug": "2daacdfbc83b600e",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "站点"
+  },
+  "https://x.com/Gorden_Sun/status/2117881047073607825": {
+    "hash": "67a0f475865d0b6313d77ff3d46272d1518aec7bb7c6d1dd9832f62d77b0daba",
+    "slug": "67a0f475865d0b63",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "ScientistTwo 全自动科研"
+  },
+  "https://x.com/cgnot996/status/2117897159681232990": {
+    "hash": "5fc9e6316680f7d9fa06f1a06829e47b604f5001e153e873eafa46fdb6a425e9",
+    "slug": "5fc9e6316680f7d9",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "Bot 降智常因规则没配好"
+  },
+  "https://x.com/cgnot996/status/2117925517953515854": {
+    "hash": "110bd6b19eb655561d4288d7a1b410bffa35370f70654f3ecef5117f105ef8b8",
+    "slug": "110bd6b19eb65556",
+    "first_seen": "2026-11-04T11:54:56.804Z",
+    "last_seen": "2026-11-04T11:54:56.804Z",
+    "digest": "2026-11-04-cn-x.md",
+    "title": "进了 Grok Bot Team 列表"
   }
 }

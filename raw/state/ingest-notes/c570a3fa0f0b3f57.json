@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章重点介绍 Hy4 首次支持 Computer Use，可操作命令行与图形界面，直接对应该主题。",
+    "topics/open-weight-frontier-models.md": "文中多次提及 Hy4 权重「计划开源」，属于开放权重前沿模型的发布动态。",
+    "topics/pro-vs-flash-model-strategy.md": "文末提到更便宜的 Hy4 flash 即将推出，涉及 Pro 与 Flash 模型策略。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章大量引用内部与公开评测数据并自曝与闭源模型差距，涉及公开榜单质量审视。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章重点介绍 Hy4 首次支持 Computer Use，可操作命令行与图形界面，直接对应该主题。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文中多次提及 Hy4 权重「计划开源」，属于开放权重前沿模型的发布动态。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文末提到更便宜的 Hy4 flash 即将推出，涉及 Pro 与 Flash 模型策略。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章大量引用内部与公开评测数据并自曝与闭源模型差距，涉及公开榜单质量审视。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的推文正文，未引入外部信息。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:10:54.003Z",
+  "url": "https://x.com/0xLogicrw/status/2117925988764168428",
+  "slug": "e1f582ad236e8355",
+  "content_hash": "d3693f4f8c4debdc48f2ad7779f6360e0e3eb956b7e920846cdfd5dcec90602d",
+  "source": {
+    "path": "sources/articles/openai-internal-engineering-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章核心是 BenchCAD 2.0 评测分数与模型对比，属于 AI 评测入口与工作记录范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计转代码/图纸以及 Codex 交互，与设计↔代码工作流相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用公开榜排名及 Astra 低级错误，提示对公开评测结果需质量审查。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "涉及 3D 零件还原、CAD 模型与制造图纸，属于仿真就绪三维资产范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章核心是 BenchCAD 2.0 评测分数与模型对比，属于 AI 评测入口与工作记录范畴。",
+    "topics/simulation-ready-open-3d-assets.md": "涉及 3D 零件还原、CAD 模型与制造图纸，属于仿真就绪三维资产范畴。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用公开榜排名及 Astra 低级错误，提示对公开评测结果需质量审查。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计转代码/图纸以及 Codex 交互，与设计↔代码工作流相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-internal-engineering-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "文章核心是 BenchCAD 2.0 评测分数与模型对比，属于 AI 评测入口与工作记录范畴。",
+      "topics/simulation-ready-open-3d-assets.md": "涉及 3D 零件还原、CAD 模型与制造图纸，属于仿真就绪三维资产范畴。",
+      "topics/public-benchmark-quality-scrutiny.md": "文中引用公开榜排名及 Astra 低级错误，提示对公开评测结果需质量审查。",
+      "topics/design-to-code-byo-subscriptions.md": "涉及设计转代码/图纸以及 Codex 交互，与设计↔代码工作流相关。"
+    },
+    "notes": "GPT-6 Astra 及相关评测数据仅来源于该帖文，未在文中独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-internal-engineering-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

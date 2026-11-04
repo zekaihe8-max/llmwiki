@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-worktree-cleanup.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "画廊展示的是代理工作区的界面布局与社区扩展，属于用户体验与开发者体验范畴。",
+    "topics/minimal-core-community-extensions.md": "页面内容为社区提交的布局与修改程序，属于社区扩展生态。",
+    "topics/agent-auto-mode.md": "布局条目多围绕代理状态展示与终端交互，涉及智能体自动化工作流。",
+    "topics/agent-worktree-cleanup.md": "安装指令引用 AGENTS.md 并提及 worktree，与该话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "画廊展示的是代理工作区的界面布局与社区扩展，属于用户体验与开发者体验范畴。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "页面内容为社区提交的布局与修改程序，属于社区扩展生态。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "布局条目多围绕代理状态展示与终端交互，涉及智能体自动化工作流。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "安装指令引用 AGENTS.md 并提及 worktree，与该话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有信息均来自提供的页面 Markdown，未编造 URL 或事实。"
+}

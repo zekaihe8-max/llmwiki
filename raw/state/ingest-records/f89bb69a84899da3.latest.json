@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T11:55:45.893Z",
+  "url": "https://x.com/yetone/status/2117707111790752185",
+  "slug": "f89bb69a84899da3",
+  "content_hash": "b4f343ec9aa2f89afcf77308e10b689e84081fddc850d3dffe7573fd0d5d8d02",
+  "source": {
+    "path": "sources/articles/alma-personal-agent-launched.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及智能体自动模式，与个人 Agent 上线后的运行方式有潜在关联。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 调度角色，与 Alma Personal Agent 产品定位相关。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "与个人 Agent 上线公告主题最贴近，可复用其对个人 Agent 热潮的语境。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 对外分享与机器人互聊，与社交平台发布形式相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "与个人 Agent 上线公告主题最贴近，可复用其对个人 Agent 热潮的语境。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "涉及个人 Agent 调度角色，与 Alma Personal Agent 产品定位相关。",
+    "topics/personal-agent-share-and-interbot-chat.md": "讨论个人 Agent 对外分享与机器人互聊，与社交平台发布形式相关。",
+    "topics/agent-auto-mode.md": "涉及智能体自动模式，与个人 Agent 上线后的运行方式有潜在关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alma-personal-agent-launched.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-hype-familiarity-gap.md": "与个人 Agent 上线公告主题最贴近，可复用其对个人 Agent 热潮的语境。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "涉及个人 Agent 调度角色，与 Alma Personal Agent 产品定位相关。",
+      "topics/personal-agent-share-and-interbot-chat.md": "讨论个人 Agent 对外分享与机器人互聊，与社交平台发布形式相关。",
+      "topics/agent-auto-mode.md": "涉及智能体自动模式，与个人 Agent 上线后的运行方式有潜在关联。"
+    },
+    "notes": "来源仅为一条 X 帖文，正文极简，未提供产品功能细节，所有摘要均基于帖文可见文本与数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alma-personal-agent-launched.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

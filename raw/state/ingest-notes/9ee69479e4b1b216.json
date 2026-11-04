@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文重点讨论 Agent 流量超越人类并成为 AI 最大用户，与智能体自动模式主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "报告将编程列为首个爆发场景，并提及 Claude Code、Codex 与代码沙箱等工具使用上升。",
+    "topics/pro-vs-flash-model-strategy.md": "文中提到 Google 旗舰模型未跟上，支出更多流向便宜的 Flash 模型，涉及 Pro 与 Flash 取舍。",
+    "topics/ai-native-companies.md": "报告称编程市场 96% 被 AI 原生公司拿下，与 AI 原生公司主题直接相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文重点讨论 Agent 流量超越人类并成为 AI 最大用户，与智能体自动模式主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "报告将编程列为首个爆发场景，并提及 Claude Code、Codex 与代码沙箱等工具使用上升。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提到 Google 旗舰模型未跟上，支出更多流向便宜的 Flash 模型，涉及 Pro 与 Flash 取舍。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "报告称编程市场 96% 被 AI 原生公司拿下，与 AI 原生公司主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 FinanceYF5 的帖文，未独立核实报告原文；文中未核实主张已用「帖文称」标注。"
+}

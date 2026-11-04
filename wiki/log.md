@@ -1,5 +1,85 @@
 ## 2026-11-04
 
+* **创建 / Creation**: 归档 [进了 Grok Bot Team 列表](./sources/articles/added-to-grok-bot-team-list.md)。 / Filed [Added to Grok Bot Team List](./sources/articles/added-to-grok-bot-team-list.md).
+
+* **创建 / Creation**: 归档 [Bot 降智常因规则没配好](./sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md)。 / Filed [Bot Intelligence Drop Often Caused by Misconfigured Rules](./sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md).
+
+* **创建 / Creation**: 归档 [ScientistTwo：Google 推出端到端全自动科研 AI 框架](./sources/articles/scientisttwo-google-launches-end-to-end-fully-automated-ai-resea.md)。 / Filed [ScientistTwo: Google Launches End-to-End Fully Automated AI Research Framework](./sources/articles/scientisttwo-google-launches-end-to-end-fully-automated-ai-resea.md).
+
+* **创建 / Creation**: 归档 [试了 Dimble，menubar 管理工具竟好用](./sources/articles/tried-dimble-menubar-management-tool-actually-works.md)。 / Filed [Tried Dimble: Menubar Management Tool Actually Works](./sources/articles/tried-dimble-menubar-management-tool-actually-works.md).
+
+* **创建 / Creation**: 归档 [Superwhisper 发布 Linux 版本](./sources/articles/superwhisper-releases-linux-version.md)。 / Filed [Superwhisper Releases Linux Version](./sources/articles/superwhisper-releases-linux-version.md).
+
+* **创建 / Creation**: 归档 [Herdr 社区布局与修改画廊](./sources/articles/herdr-community-layouts-and-mods-gallery.md)。 / Filed [Herdr Community Layouts and Mods Gallery](./sources/articles/herdr-community-layouts-and-mods-gallery.md).
+
+* **创建 / Creation**: 归档 [Herdr Layouts 被玩成 QQ 空间，作者呼吁改为插件机制](./sources/articles/herdr-layouts-turned-into-qq-space-author-urges-plugin-architect.md)。 / Filed [Herdr Layouts Turned into QQ Space; Author Urges Plugin Architecture](./sources/articles/herdr-layouts-turned-into-qq-space-author-urges-plugin-architect.md).
+
+* **创建 / Creation**: 归档 [又一个 Claude Code 核心成员离开](./sources/articles/another-claude-code-core-member-leaves.md)。 / Filed [Another Claude Code core member leaves](./sources/articles/another-claude-code-core-member-leaves.md).
+
+* **创建 / Creation**: 归档 [打开 Stripe 查订阅](./sources/articles/open-stripe-to-check-subscriptions.md)。 / Filed [Open Stripe to Check Subscriptions](./sources/articles/open-stripe-to-check-subscriptions.md).
+
+* **创建 / Creation**: 归档 [乔木闪记 · Jot](./sources/articles/jot.md)。 / Filed [Jot (乔木闪记)](./sources/articles/jot.md).
+
+* **创建 / Creation**: 归档 [续：向阳乔木与乔木闪记 Jot，Obsidian 剪藏伴侣](./sources/articles/continuation-xiangyang-qiaomu-and-qiaomu-jot-obsidian-clipping-c.md)。 / Filed [Continuation: Xiangyang Qiaomu and Qiaomu Jot, Obsidian Clipping Companion](./sources/articles/continuation-xiangyang-qiaomu-and-qiaomu-jot-obsidian-clipping-c.md).
+
+* **创建 / Creation**: 归档 [乔木闪记 Jot：快捷键将灵感与截图存入 Obsidian 日记](./sources/articles/jot-capture-inspiration-and-screenshots-into-obsidian-daily-note.md)。 / Filed [Jot: Capture Inspiration and Screenshots into Obsidian Daily Notes via Hotkeys](./sources/articles/jot-capture-inspiration-and-screenshots-into-obsidian-daily-note.md).
+
+* **创建 / Creation**: 归档 [豆包工作蓝皮书“免费领取”跳转企业微信](./sources/articles/doubao-work-blue-book-free-claim-redirects-to-wecom.md)。 / Filed [DouBao Work Blue Book “Free Claim” Redirects to WeCom](./sources/articles/doubao-work-blue-book-free-claim-redirects-to-wecom.md).
+
+* **创建 / Creation**: 归档 [Hermes Mobile 可申请体验](./sources/articles/hermes-mobile-now-open-for-experience-applications.md)。 / Filed [Hermes Mobile Now Open for Experience Applications](./sources/articles/hermes-mobile-now-open-for-experience-applications.md).
+
+* **创建 / Creation**: 归档 [接替「重置按钮」的男人：OpenAI Codex 与 ChatGPT 桌面应用负责人 Andrew Ambrosino](./sources/articles/the-man-succeeding-the-reset-button-openai-codex-and-chatgpt-des.md)。 / Filed [The Man Succeeding the "Reset Button": OpenAI Codex and ChatGPT Desktop App Lead Andrew Ambrosino](./sources/articles/the-man-succeeding-the-reset-button-openai-codex-and-chatgpt-des.md).
+
+* **创建 / Creation**: 归档 [新手蓝V入门全手册](./sources/articles/beginner-s-guide-to-x-blue-verification.md)。 / Filed [Beginner's Guide to X Blue Verification](./sources/articles/beginner-s-guide-to-x-blue-verification.md).
+
+* **创建 / Creation**: 归档 [Claude 审代码像老虎机](./sources/articles/claude-code-review-feels-like-a-slot-machine.md)。 / Filed [Claude code review feels like a slot machine](./sources/articles/claude-code-review-feels-like-a-slot-machine.md).
+
+* **创建 / Creation**: 归档 [Lightpanda 浏览器：面向 AI Agent 的 Zig 编写头less浏览器](./sources/articles/lightpanda-browser-zig-written-headless-browser-for-ai-agents.md)。 / Filed [Lightpanda Browser: Zig-written headless browser for AI agents](./sources/articles/lightpanda-browser-zig-written-headless-browser-for-ai-agents.md).
+
+* **创建 / Creation**: 归档 [Lightpanda Agent 浏览器：无渲染、内存降 16 倍](./sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md)。 / Filed [Lightpanda Agent Browser: Renderer-less, 16x Memory Reduction](./sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md).
+
+* **创建 / Creation**: 归档 [施凯文加入阶跃星辰，负责 Agent OS 方向](./sources/articles/shi-kaiwen-joins-stepfun-to-lead-agent-os-direction.md)。 / Filed [Shi Kaiwen Joins StepFun to Lead Agent OS Direction](./sources/articles/shi-kaiwen-joins-stepfun-to-lead-agent-os-direction.md).
+
+* **创建 / Creation**: 归档 [OpenAI 内部工程模型](./sources/articles/openai-internal-engineering-model.md)。 / Filed [OpenAI Internal Engineering Model](./sources/articles/openai-internal-engineering-model.md).
+
+* **创建 / Creation**: 归档 [Claude 帮 Anthropic 造芯](./sources/articles/claude-helps-anthropic-design-ai-chips.md)。 / Filed [Claude Helps Anthropic Design AI Chips](./sources/articles/claude-helps-anthropic-design-ai-chips.md).
+
+* **创建 / Creation**: 归档 [姚顺雨打通混元部门墙，Hy4 引入腾讯游戏数据并具备电脑操作能力](./sources/articles/yao-shunyu-breaks-down-hunyuan-department-walls-hy4-introduces-t.md)。 / Filed [Yao Shunyu Breaks Down Hunyuan Department Walls; Hy4 Introduces Tencent Games Data and Computer Operation Capabilities](./sources/articles/yao-shunyu-breaks-down-hunyuan-department-walls-hy4-introduces-t.md).
+
+* **创建 / Creation**: 归档 [红杉：AI 要扩大服务市场](./sources/articles/sequoia-ai-to-expand-the-service-market.md)。 / Filed [Sequoia: AI to Expand the Service Market](./sources/articles/sequoia-ai-to-expand-the-service-market.md).
+
+* **创建 / Creation**: 归档 [Menlo 企业 AI 报告：支出 5.4 倍，Agent 与编程成主力](./sources/articles/menlo-enterprise-ai-report-spend-up-5-4x-agents-and-coding-lead.md)。 / Filed [Menlo Enterprise AI Report: Spend Up 5.4x, Agents and Coding Lead](./sources/articles/menlo-enterprise-ai-report-spend-up-5-4x-agents-and-coding-lead.md).
+
+* **创建 / Creation**: 归档 [豆包成视频会议翻译最优解](./sources/articles/doubao-becomes-optimal-solution-for-video-conference-translation.md)。 / Filed [Doubao Becomes Optimal Solution for Video Conference Translation](./sources/articles/doubao-becomes-optimal-solution-for-video-conference-translation.md).
+
+* **创建 / Creation**: 归档 [Cloudflare 五个免费福利：适合 AI Agent 与自动化服务的开发者工具](./sources/articles/five-cloudflare-free-benefits-for-ai-agents-and-automation-servi.md)。 / Filed [Five Cloudflare Free Benefits for AI Agents and Automation Services](./sources/articles/five-cloudflare-free-benefits-for-ai-agents-and-automation-servi.md).
+
+* **创建 / Creation**: 归档 [Pi Durable 五个开源项目](./sources/articles/five-pi-durable-open-source-projects.md)。 / Filed [Five Pi Durable Open Source Projects](./sources/articles/five-pi-durable-open-source-projects.md).
+
+* **创建 / Creation**: 归档 [OpenAI 实体工程：GPT-6 Astra 一周设计硬件，马自达与 Ganassi 赛车队试用](./sources/articles/openai-entity-engineering-gpt-6-astra-designs-hardware-in-a-week.md)。 / Filed [OpenAI Entity Engineering: GPT-6 Astra Designs Hardware in a Week, Mazda and Ganassi Racing Trial](./sources/articles/openai-entity-engineering-gpt-6-astra-designs-hardware-in-a-week.md).
+
+* **创建 / Creation**: 归档 [别急着删 Playwright：官方澄清其与浏览器安全的关系](./sources/articles/don-t-rush-to-delete-playwright-official-clarification-on-browse.md)。 / Filed [Don't Rush to Delete Playwright: Official Clarification on Browser Security Relationship](./sources/articles/don-t-rush-to-delete-playwright-official-clarification-on-browse.md).
+
+* **创建 / Creation**: 归档 [混元 Hy4 正式发布：首次支持视觉与 Computer Use，权重计划开源](./sources/articles/tencent-hunyuan-hy4-officially-released-first-supports-vision-an.md)。 / Filed [Tencent Hunyuan Hy4 Officially Released: First Supports Vision and Computer Use, Weights Planned for Open Release](./sources/articles/tencent-hunyuan-hy4-officially-released-first-supports-vision-an.md).
+
+* **创建 / Creation**: 归档 [歸藏的提示词库](./sources/articles/guizang-s-prompts.md)。 / Filed [Guizang's Prompts](./sources/articles/guizang-s-prompts.md).
+
+* **创建 / Creation**: 归档 [一句话建提示词库](./sources/articles/one-sentence-prompt-library.md)。 / Filed [One-sentence prompt library](./sources/articles/one-sentence-prompt-library.md).
+
+* **创建 / Creation**: 归档 [Muse 视频模型免费试用引热议](./sources/articles/muse-video-model-free-trial-draws-attention.md)。 / Filed [Muse Video Model Free Trial Draws Attention](./sources/articles/muse-video-model-free-trial-draws-attention.md).
+
+* **创建 / Creation**: 归档 [baoyu-design：将 Claude Artifact 类型带到本地智能体的技能集合](./sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md)。 / Filed [baoyu-design: Skills Bringing Claude Artifact Types to Local Agents](./sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md).
+
+* **创建 / Creation**: 归档 [宝玉：Baoyu Design Skill DeepSeek Harness 插件新增统一入口](./sources/articles/bao-yu-baoyu-design-skill-deepseek-harness-plugin-adds-unified-e.md)。 / Filed [Bao Yu: Baoyu Design Skill DeepSeek Harness Plugin Adds Unified Entry](./sources/articles/bao-yu-baoyu-design-skill-deepseek-harness-plugin-adds-unified-e.md).
+
+* **创建 / Creation**: 归档 [Cat Wu 离开 Anthropic](./sources/articles/cat-wu-leaves-anthropic.md)。 / Filed [Cat Wu Leaves Anthropic](./sources/articles/cat-wu-leaves-anthropic.md).
+
+* **创建 / Creation**: 归档 [MCP 按 Agent 勾选省上下文](./sources/articles/mcp-per-agent-checkbox-saves-context.md)。 / Filed [MCP Per-Agent Checkbox Saves Context](./sources/articles/mcp-per-agent-checkbox-saves-context.md).
+
+* **创建 / Creation**: 归档 [Magpie 靠 Alma 开发](./sources/articles/magpie-developed-via-alma.md)。 / Filed [Magpie Developed via Alma](./sources/articles/magpie-developed-via-alma.md).
+
+* **创建 / Creation**: 归档 [Alma Personal Agent 上线](./sources/articles/alma-personal-agent-launched.md)。 / Filed [Alma Personal Agent Launched](./sources/articles/alma-personal-agent-launched.md).
+
 * **创建 / Creation**: 归档 [Rauchg 转发 AI CLI：Agent 可统一调用图音视频生成](./sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md)。 / Filed [Rauchg boosts AI CLI: agents unified access to image, audio, and video generation](./sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md).
 
 * **创建 / Creation**: 归档 [宝玉：AI 时代应更关注产品细节而非代码整洁](./sources/articles/dotey-in-the-ai-era-focus-more-on-product-details-than-code-clea.md)。 / Filed [Dotey: In the AI era, focus more on product details than code cleanliness](./sources/articles/dotey-in-the-ai-era-focus-more-on-product-details-than-code-clea.md).

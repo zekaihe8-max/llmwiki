@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "豆包工作是字节旗下 AI 产品，与 AI 原生公司议题相关",
+    "topics/enterprise-ai-digital-employee-headcount.md": "豆包工作面向企业工作与数字员工场景，与大厂 AI 数字员工议题相关",
+    "topics/ai-product-self-rec-amplify.md": "蓝皮书免费领取属于 AI 产品自荐与引流行为"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "豆包工作是字节旗下 AI 产品，与 AI 原生公司议题相关"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "豆包工作面向企业工作与数字员工场景，与大厂 AI 数字员工议题相关"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "蓝皮书免费领取属于 AI 产品自荐与引流行为"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未独立核实蓝皮书或跳转链接的真实性。"
+}

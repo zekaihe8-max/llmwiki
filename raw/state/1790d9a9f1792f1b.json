@@ -1,0 +1,23 @@
+{
+  "slug": "1790d9a9f1792f1b",
+  "url": "https://x.com/heydengai/status/2117924314003456251",
+  "title": "Lightpanda Agent 浏览器",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "filed",
+  "hash": "1790d9a9f1792f1bfbf3b82fcbd09f4bb01e97f509fee05a1c82639811a0fbdc",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": "2026-11-04T11:55:06.787Z",
+  "content_hash": "7ca0a1d25b90d15e2ed240c9959162728c0a64c417ee178e8552b4f66e8a09a1",
+  "article_path": "articles/1790d9a9f1792f1b.md",
+  "fetched_url": "https://x.com/heydengai/status/2117924314003456251",
+  "source_path": "sources/articles/lightpanda-agent-browser-renderer-less-16x-memory-reduction.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T12:12:37.991Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
