@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:05:02.093Z",
+  "url": "https://x.com/shao__meng/status/2117934508985196730",
+  "slug": "c570a3fa0f0b3f57",
+  "content_hash": "074eb42f9562661a43641aabf8fa30c13c2d443d495d9de47979f7afbdc98c74",
+  "source": {
+    "path": "sources/articles/tencent-hunyuan-hy4-officially-released-first-supports-vision-an.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章重点介绍 Hy4 首次支持 Computer Use，可操作命令行与图形界面，直接对应该主题。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文中多次提及 Hy4 权重「计划开源」，属于开放权重前沿模型的发布动态。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文末提到更便宜的 Hy4 flash 即将推出，涉及 Pro 与 Flash 模型策略。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章大量引用内部与公开评测数据并自曝与闭源模型差距，涉及公开榜单质量审视。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章重点介绍 Hy4 首次支持 Computer Use，可操作命令行与图形界面，直接对应该主题。",
+    "topics/open-weight-frontier-models.md": "文中多次提及 Hy4 权重「计划开源」，属于开放权重前沿模型的发布动态。",
+    "topics/pro-vs-flash-model-strategy.md": "文末提到更便宜的 Hy4 flash 即将推出，涉及 Pro 与 Flash 模型策略。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章大量引用内部与公开评测数据并自曝与闭源模型差距，涉及公开榜单质量审视。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-hunyuan-hy4-officially-released-first-supports-vision-an.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章重点介绍 Hy4 首次支持 Computer Use，可操作命令行与图形界面，直接对应该主题。",
+      "topics/open-weight-frontier-models.md": "文中多次提及 Hy4 权重「计划开源」，属于开放权重前沿模型的发布动态。",
+      "topics/pro-vs-flash-model-strategy.md": "文末提到更便宜的 Hy4 flash 即将推出，涉及 Pro 与 Flash 模型策略。",
+      "topics/public-benchmark-quality-scrutiny.md": "文章大量引用内部与公开评测数据并自曝与闭源模型差距，涉及公开榜单质量审视。"
+    },
+    "notes": "所有事实均来源于提供的推文正文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-hunyuan-hy4-officially-released-first-supports-vision-an.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

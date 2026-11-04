@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/launcher-shortcut-ai-over-agent.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文描述的剪藏选中文字、截图并保存到笔记的功能，与 AI 辅助剪藏与媒体笔记主题高度相关。",
+    "topics/launcher-shortcut-ai-over-agent.md": "工具核心是通过自定义全局快捷键（⌘⇧J / ⌘⇧K）触发记录，符合启动器快捷键优于打开 Agent 的主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文描述的剪藏选中文字、截图并保存到笔记的功能，与 AI 辅助剪藏与媒体笔记主题高度相关。"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "工具核心是通过自定义全局快捷键（⌘⇧J / ⌘⇧K）触发记录，符合启动器快捷键优于打开 Agent 的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post thread by @vista8; no external URLs invented."
+}

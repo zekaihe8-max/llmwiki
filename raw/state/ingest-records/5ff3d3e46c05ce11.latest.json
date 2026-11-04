@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:07:52.077Z",
+  "url": "https://x.com/xiaomovps/status/2117887216886436124",
+  "slug": "5ff3d3e46c05ce11",
+  "content_hash": "f4c2cd78bd42bb3997e4fa4a0e3d26931c6eefa19b691ad1880f5d9e3242b73c",
+  "source": {
+    "path": "sources/articles/doubao-becomes-optimal-solution-for-video-conference-translation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "文章涉及视频字幕提取与媒体内容翻译，与 AI 辅助剪藏与媒体笔记主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章对比免费豆包与需会员的 Zoom/谷歌/微软会议，涉及 AI 订阅付费价值"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章提及语音对接会议记录与 MP3 转文字，与语音输入转述及文书整理相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "文章涉及视频字幕提取与媒体内容翻译，与 AI 辅助剪藏与媒体笔记主题相近",
+    "topics/premium-ai-subscription-value.md": "文章对比免费豆包与需会员的 Zoom/谷歌/微软会议，涉及 AI 订阅付费价值",
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章提及语音对接会议记录与 MP3 转文字，与语音输入转述及文书整理相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/doubao-becomes-optimal-solution-for-video-conference-translation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "文章涉及视频字幕提取与媒体内容翻译，与 AI 辅助剪藏与媒体笔记主题相近",
+      "topics/premium-ai-subscription-value.md": "文章对比免费豆包与需会员的 Zoom/谷歌/微软会议，涉及 AI 订阅付费价值",
+      "topics/voice-input-oral-vs-document-for-agents.md": "文章提及语音对接会议记录与 MP3 转文字，与语音输入转述及文书整理相关"
+    },
+    "notes": "引用仅基于提供的 X 帖文内容，未引入外部事实",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/doubao-becomes-optimal-solution-for-video-conference-translation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

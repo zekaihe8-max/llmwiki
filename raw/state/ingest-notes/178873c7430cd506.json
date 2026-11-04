@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/programmable-edge-compute.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文重点介绍 Cloudflare Workflows 用于 Agent 自动化流程，与该主题工作流优先于智能体的思路直接相关。",
+    "topics/programmable-edge-compute.md": "Cloudflare Workers 属于可编程边缘计算，帖文中关于免费计算额度与代码包限制属于该领域。",
+    "topics/multiagent-infra-four-problems.md": "帖文将 Queues、Workflows、Cron Triggers、Vectorize 组合成 Agent 后端，涉及多智能体基建问题。",
+    "topics/agent-compute-and-governance.md": "帖文提醒免费版存在 CPU 时间、存储和消息保留期限等限制，属于智能体算力与治理范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文重点介绍 Cloudflare Workflows 用于 Agent 自动化流程，与该主题工作流优先于智能体的思路直接相关。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Cloudflare Workers 属于可编程边缘计算，帖文中关于免费计算额度与代码包限制属于该领域。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "帖文将 Queues、Workflows、Cron Triggers、Vectorize 组合成 Agent 后端，涉及多智能体基建问题。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文提醒免费版存在 CPU 时间、存储和消息保留期限等限制，属于智能体算力与治理范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有数据均来自所提供帖文，未引用外部链接或未在文中出现的事实。"
+}

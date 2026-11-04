@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "涉及软件产品的快速迭代与工厂化开发，与 Magpie 依赖 Alma 打磨后快速迭代相近",
+    "topics/agent-scaled-engineering.md": "涉及智能体规模化工程，与通过 Alma 开发 Magpie 的工程方式相关",
+    "topics/personal-agent-foreman-over-coding-agents.md": "涉及以 Agent 调度编程 Agent，与 Alma 作为 Magpie 的开发工具相近"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及软件产品的快速迭代与工厂化开发，与 Magpie 依赖 Alma 打磨后快速迭代相近"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体规模化工程，与通过 Alma 开发 Magpie 的工程方式相关"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "涉及以 Agent 调度编程 Agent，与 Alma 作为 Magpie 的开发工具相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

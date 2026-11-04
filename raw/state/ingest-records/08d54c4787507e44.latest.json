@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:17:31.662Z",
+  "url": "https://x.com/vista8/status/2117864406122221916",
+  "slug": "08d54c4787507e44",
+  "content_hash": "ef494f0544d9dd202f3242376c985899d28ad855ef0f6dee31271f403d4630c6",
+  "source": {
+    "path": "sources/articles/open-stripe-to-check-subscriptions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章涉及检查支付后台与订阅，属于账号与资产卫生范畴"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中强调定时检查，与云环境定时检查主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提到 AI 工具订阅，与高端 AI 订阅价值相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章涉及检查支付后台与订阅，属于账号与资产卫生范畴",
+    "topics/premium-ai-subscription-value.md": "文中提到 AI 工具订阅，与高端 AI 订阅价值相关",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中强调定时检查，与云环境定时检查主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/open-stripe-to-check-subscriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "文章涉及检查支付后台与订阅，属于账号与资产卫生范畴",
+      "topics/premium-ai-subscription-value.md": "文中提到 AI 工具订阅，与高端 AI 订阅价值相关",
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中强调定时检查，与云环境定时检查主题相近"
+    },
+    "notes": "来源为 X 帖文，未核实 Stripe 后台具体界面及退款政策，仅按原文摘录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/open-stripe-to-check-subscriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

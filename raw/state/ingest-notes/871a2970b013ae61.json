@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文中 Hy4 新增电脑操作能力，可通过鼠标键盘命令行操作软件，与 Computer Use 主题直接相关。",
+    "topics/frontier-training-containment.md": "文中提到腾讯云搭建专门沙箱环境部署数百款应用，涉及前沿训练环境隔离。",
+    "topics/agent-scaled-engineering.md": "文中提到 Hy4 扩大了预训练和后训练规模，涉及智能体规模化工程。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中 Hy4 新增电脑操作能力，可通过鼠标键盘命令行操作软件，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中提到腾讯云搭建专门沙箱环境部署数百款应用，涉及前沿训练环境隔离。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到 Hy4 扩大了预训练和后训练规模，涉及智能体规模化工程。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入文章外事实。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:17:58.619Z",
+  "url": "https://x.com/oran_ge/status/2117767285775696372",
+  "slug": "6cefc674ae79626e",
+  "content_hash": "65682763f561db28b7f59fcccc703126d14f2d8127c0c4dcad47c58949c6e1fd",
+  "source": {
+    "path": "sources/articles/another-claude-code-core-member-leaves.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 作者与社区话筒，与核心成员离开主题高度相关。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "涉及先驱离任叙事，与核心成员离开相关。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "直接对应上市前夕人才离职动机，帖文提及上市信仰绑定。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 作者与社区话筒，与核心成员离开主题高度相关。",
+    "topics/pre-ipo-talent-departure-motives.md": "直接对应上市前夕人才离职动机，帖文提及上市信仰绑定。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "涉及先驱离任叙事，与核心成员离开相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/another-claude-code-core-member-leaves.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/incumbent-exit-successor-blame-metaphor.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 作者与社区话筒，与核心成员离开主题高度相关。",
+      "topics/pre-ipo-talent-departure-motives.md": "直接对应上市前夕人才离职动机，帖文提及上市信仰绑定。",
+      "topics/incumbent-exit-successor-blame-metaphor.md": "涉及先驱离任叙事，与核心成员离开相关。"
+    },
+    "notes": "原始推文在 \"When we first launched, most\" 处截断，未披露离职后去向及更多细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/another-claude-code-core-member-leaves.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

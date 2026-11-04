@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:02:51.702Z",
+  "url": "https://github.com/JimLiu/baoyu-design",
+  "slug": "a3f3964dc45d2740",
+  "content_hash": "5572879d6e644502549a261af46bbbbf51830b02daaa67a3d1ef6b73ced70f48",
+  "source": {
+    "path": "sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详细描述了 7 个可供智能体使用的技能，涵盖编写、运行、验证、分享等完整生命周期，属于 Agent Skill 编写的典型案例"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "这些技能遵循统一的 artifact.mjs 接口模式，可作为 Agent Skills 开放标准的参考实现"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "强调在本地智能体（Cursor、Claude Code、Claude Desktop）运行，无需云端服务，符合本地开放助手趋势"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "通过组合多个技能（幻灯片、画布、设计系统、仪表板、动态影片）复刻了原生应用般的编辑体验"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章详细描述了 7 个可供智能体使用的技能，涵盖编写、运行、验证、分享等完整生命周期，属于 Agent Skill 编写的典型案例",
+    "topics/agent-skills-open-standard.md": "这些技能遵循统一的 artifact.mjs 接口模式，可作为 Agent Skills 开放标准的参考实现",
+    "topics/skills-stack-native-app-recreation.md": "通过组合多个技能（幻灯片、画布、设计系统、仪表板、动态影片）复刻了原生应用般的编辑体验",
+    "topics/local-open-assistant-models.md": "强调在本地智能体（Cursor、Claude Code、Claude Desktop）运行，无需云端服务，符合本地开放助手趋势"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章详细描述了 7 个可供智能体使用的技能，涵盖编写、运行、验证、分享等完整生命周期，属于 Agent Skill 编写的典型案例",
+      "topics/agent-skills-open-standard.md": "这些技能遵循统一的 artifact.mjs 接口模式，可作为 Agent Skills 开放标准的参考实现",
+      "topics/skills-stack-native-app-recreation.md": "通过组合多个技能（幻灯片、画布、设计系统、仪表板、动态影片）复刻了原生应用般的编辑体验",
+      "topics/local-open-assistant-models.md": "强调在本地智能体（Cursor、Claude Code、Claude Desktop）运行，无需云端服务，符合本地开放助手趋势"
+    },
+    "notes": "Source URL is the GitHub repo. All facts derived from the fetched README markdown. No external verification performed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/baoyu-design-skills-bringing-claude-artifact-types-to-local-agen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

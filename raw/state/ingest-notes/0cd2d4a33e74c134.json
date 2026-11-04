@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/design-to-code-byo-subscriptions.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/divergent-tasks-human-design-gate.md": "已查阅；本文证据不足以改写该主题，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

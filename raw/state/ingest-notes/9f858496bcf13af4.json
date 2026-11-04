@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/computer-use.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中的 Foreman 项目正是个人 Agent 当包工头调度编程 Agent，直接对应该主题。",
+    "topics/multiagent-infra-four-problems.md": "Durable Pi、pi-agents、Entwurf 涉及多智能体协作、通信与基建，属于多智能体四道基建题范畴。",
+    "topics/computer-use.md": "Pi Tab 在浏览器中读取网页、操作 DOM、填写表单，属于面向 Agent 的计算机使用场景。",
+    "topics/unified-agent-resource-library.md": "Durable Pi 的跨设备统一管理与 Entwurf 的跨 Agent 通信，涉及跨 Agent 统一资源与协作。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中的 Foreman 项目正是个人 Agent 当包工头调度编程 Agent，直接对应该主题。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Durable Pi、pi-agents、Entwurf 涉及多智能体协作、通信与基建，属于多智能体四道基建题范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Pi Tab 在浏览器中读取网页、操作 DOM、填写表单，属于面向 Agent 的计算机使用场景。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "Durable Pi 的跨设备统一管理与 Entwurf 的跨 Agent 通信，涉及跨 Agent 统一资源与协作。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题动作均为 unchanged，未创建新主题；事实仅来源于提供的帖文 markdown。"
+}

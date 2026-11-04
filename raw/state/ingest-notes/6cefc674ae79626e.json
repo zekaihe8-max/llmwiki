@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 作者与社区话筒，与核心成员离开主题高度相关。",
+    "topics/pre-ipo-talent-departure-motives.md": "直接对应上市前夕人才离职动机，帖文提及上市信仰绑定。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "涉及先驱离任叙事，与核心成员离开相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 作者与社区话筒，与核心成员离开主题高度相关。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "直接对应上市前夕人才离职动机，帖文提及上市信仰绑定。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "涉及先驱离任叙事，与核心成员离开相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原始推文在 \"When we first launched, most\" 处截断，未披露离职后去向及更多细节。"
+}

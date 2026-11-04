@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:05:27.523Z",
+  "url": "https://x.com/shao__meng/status/2117811571674214571",
+  "slug": "df78290f43b3b5e1",
+  "content_hash": "999b61dd561ae4dfeed578fd51ccb1f291c3814c8ceab6db34be1384cdb02b23",
+  "source": {
+    "path": "sources/articles/don-t-rush-to-delete-playwright-official-clarification-on-browse.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章强调保持浏览器更新与避免访问不可信网页，属于资产与安全卫生范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章涉及通过 Playwright 驱动浏览器的 Agent 与计算机使用场景，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Agent Harness 在宽松网页管控下的安全边界与沙箱设置，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章涉及通过 Playwright 驱动浏览器的 Agent 与计算机使用场景，与 Computer Use 主题直接相关。",
+    "topics/loose-web-agent-harness-plugins.md": "文章讨论 Agent Harness 在宽松网页管控下的安全边界与沙箱设置，与该主题相关。",
+    "topics/account-and-asset-security-hygiene.md": "文章强调保持浏览器更新与避免访问不可信网页，属于资产与安全卫生范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-rush-to-delete-playwright-official-clarification-on-browse.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章涉及通过 Playwright 驱动浏览器的 Agent 与计算机使用场景，与 Computer Use 主题直接相关。",
+      "topics/loose-web-agent-harness-plugins.md": "文章讨论 Agent Harness 在宽松网页管控下的安全边界与沙箱设置，与该主题相关。",
+      "topics/account-and-asset-security-hygiene.md": "文章强调保持浏览器更新与避免访问不可信网页，属于资产与安全卫生范畴。"
+    },
+    "notes": "所有事实均来源于提供的帖文 markdown，未引入外部 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-rush-to-delete-playwright-official-clarification-on-browse.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

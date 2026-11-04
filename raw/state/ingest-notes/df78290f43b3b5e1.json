@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章涉及通过 Playwright 驱动浏览器的 Agent 与计算机使用场景，与 Computer Use 主题直接相关。",
+    "topics/loose-web-agent-harness-plugins.md": "文章讨论 Agent Harness 在宽松网页管控下的安全边界与沙箱设置，与该主题相关。",
+    "topics/account-and-asset-security-hygiene.md": "文章强调保持浏览器更新与避免访问不可信网页，属于资产与安全卫生范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章涉及通过 Playwright 驱动浏览器的 Agent 与计算机使用场景，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Agent Harness 在宽松网页管控下的安全边界与沙箱设置，与该主题相关。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章强调保持浏览器更新与避免访问不可信网页，属于资产与安全卫生范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的帖文 markdown，未引入外部 URL 或事实。"
+}

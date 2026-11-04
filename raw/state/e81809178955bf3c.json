@@ -1,0 +1,23 @@
+{
+  "slug": "e81809178955bf3c",
+  "url": "https://x.com/yetone/status/2117943945259069746",
+  "title": "MCP 按 Agent 勾选省上下文",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "filed",
+  "hash": "e81809178955bf3c29171fe159ac191685ddb0304b4cec204ef5f16d61a2c2aa",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": "2026-11-04T11:54:57.721Z",
+  "content_hash": "611f93d5acd90cdc0544b9f66f899d55d4e005c20bc68a3e373c6f0e3d51d54c",
+  "article_path": "articles/e81809178955bf3c.md",
+  "fetched_url": "https://x.com/yetone/status/2117943945259069746",
+  "source_path": "sources/articles/mcp-per-agent-checkbox-saves-context.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T11:56:27.064Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

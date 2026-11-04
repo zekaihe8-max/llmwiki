@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章涉及账号设置、蓝标审核期改资料风险与风控红线，与账号卫生与安全最为相近",
+    "topics/premium-ai-subscription-value.md": "文章详细拆解 X Premium 各档位价格与权益，与高端订阅价值评估主题相近",
+    "topics/grok-bot-x-api-substitute.md": "文章多次提及 X 平台及 xAI 算法仓，与 X 生态相关话题最为相近"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章涉及账号设置、蓝标审核期改资料风险与风控红线，与账号卫生与安全最为相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章详细拆解 X Premium 各档位价格与权益，与高端订阅价值评估主题相近"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文章多次提及 X 平台及 xAI 算法仓，与 X 生态相关话题最为相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章引用多位 X 作者自称数据，已在摘要中标注；未编造超出文章的 URL 或事实。"
+}

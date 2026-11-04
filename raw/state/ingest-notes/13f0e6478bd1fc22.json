@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "帖文涉及移动端应用体验，与手机端 Agent 全链路开发主题最为贴近",
+    "topics/ai-app-iphone-duo-adaptation.md": "Hermes Mobile 为移动端 AI 类应用，与 AI 应用适配 iPhone Duo 相关",
+    "topics/skills-stack-native-app-recreation.md": "涉及移动端原生感 App 构建，与用 Skills 组合复刻原生感 App 主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "帖文涉及移动端应用体验，与手机端 Agent 全链路开发主题最为贴近"
+    },
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "Hermes Mobile 为移动端 AI 类应用，与 AI 应用适配 iPhone Duo 相关"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "涉及移动端原生感 App 构建，与用 Skills 组合复刻原生感 App 主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于单条 X 帖文，未独立核实 Hermes Mobile 相关事实"
+}

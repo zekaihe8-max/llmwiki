@@ -1,0 +1,23 @@
+{
+  "slug": "0cd2d4a33e74c134",
+  "url": "https://x.com/shao__meng/status/2117791043693551968",
+  "title": "OpenAI 实体工程",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "filed",
+  "hash": "0cd2d4a33e74c134094ab64744570987926ad0daae28a9e061f910ad8f42de50",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": "2026-11-04T11:55:02.140Z",
+  "content_hash": "d843e95fe25a5adebd9573ab9030f5c27bb0354f96919780fb35d906cf6a3af1",
+  "article_path": "articles/0cd2d4a33e74c134.md",
+  "fetched_url": "https://x.com/shao__meng/status/2117791043693551968",
+  "source_path": "sources/articles/openai-entity-engineering-gpt-6-astra-designs-hardware-in-a-week.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T12:06:30.801Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

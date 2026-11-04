@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "与提示词库中图像生成内容最为贴近",
+    "topics/html-image-fun-knowledge-learning.md": "涉及生图类内容与提示词应用",
+    "topics/unified-agent-resource-library.md": "均属跨用途资源库性质",
+    "topics/agent-skill-authoring.md": "提示词编写与 Agent Skill 编写存在方法论相通性"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "与提示词库中图像生成内容最为贴近"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及生图类内容与提示词应用"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "均属跨用途资源库性质"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "提示词编写与 Agent Skill 编写存在方法论相通性"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "本条目为页面类资源索引，未创建新主题。"
+}

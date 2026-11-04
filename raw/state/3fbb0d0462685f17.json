@@ -1,0 +1,23 @@
+{
+  "slug": "3fbb0d0462685f17",
+  "url": "https://github.com/lightpanda-io/browser",
+  "title": "GitHub",
+  "digest": "2026-11-04-cn-x.md",
+  "status": "filed",
+  "hash": "3fbb0d0462685f17c7ee5a52ebbeb07b49bd094ff74c82f164c49a94e7f3688b",
+  "first_seen": "2026-11-04T11:54:56.804Z",
+  "last_seen": "2026-11-04T11:54:56.804Z",
+  "fetched_at": "2026-11-04T11:55:07.798Z",
+  "content_hash": "5c5580853acc27acac72f3d0fc11822d187307228c4e464f9fec4616d3eacb0f",
+  "article_path": "articles/3fbb0d0462685f17.md",
+  "fetched_url": "https://github.com/lightpanda-io/browser",
+  "source_path": "sources/articles/lightpanda-browser-zig-written-headless-browser-for-ai-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T12:12:56.477Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

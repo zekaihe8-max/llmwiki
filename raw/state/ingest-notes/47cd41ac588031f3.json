@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章核心是语音输入软件上线 Linux，与该话题的语音输入讨论最贴近。",
+    "topics/design-taste-led-linux-desktop-trial.md": "涉及 Linux 桌面软件发布与内置默认应用，与 Linux 桌面试用话题相关。",
+    "topics/pure-speech-full-duplex.md": "Superwhisper 属于语音输入类产品，与纯语音交互话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是语音输入软件上线 Linux，与该话题的语音输入讨论最贴近。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "涉及 Linux 桌面软件发布与内置默认应用，与 Linux 桌面试用话题相关。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "Superwhisper 属于语音输入类产品，与纯语音交互话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文内容，未引入外部事实。"
+}

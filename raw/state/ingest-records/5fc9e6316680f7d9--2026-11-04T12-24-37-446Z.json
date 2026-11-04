@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T12:24:37.446Z",
+  "url": "https://x.com/cgnot996/status/2117897159681232990",
+  "slug": "5fc9e6316680f7d9",
+  "content_hash": "c5b73aacac985a6f6388d46f414d9600be4a7dc379a2d9856846be653dd06391",
+  "source": {
+    "path": "sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/grok-bot-x-intel-defense-not-post.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 skills 规则需要配置好，与技能编写主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中强调指令与规则配置影响 Bot 表现，属于 Agent 上下文/指令工程范畴。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文中引用的内容涉及 Grok 自定义 Bot，与 Grok Bot 主题相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "文中同样围绕 Grok Bot 使用展开，与该主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文中明确提到 skills 规则需要配置好，与技能编写主题直接相关。",
+    "topics/grok-bot-x-api-substitute.md": "文中引用的内容涉及 Grok 自定义 Bot，与 Grok Bot 主题相关。",
+    "topics/context-engineering-for-agents.md": "文中强调指令与规则配置影响 Bot 表现，属于 Agent 上下文/指令工程范畴。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "文中同样围绕 Grok Bot 使用展开，与该主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/grok-bot-x-intel-defense-not-post.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文中明确提到 skills 规则需要配置好，与技能编写主题直接相关。",
+      "topics/grok-bot-x-api-substitute.md": "文中引用的内容涉及 Grok 自定义 Bot，与 Grok Bot 主题相关。",
+      "topics/context-engineering-for-agents.md": "文中强调指令与规则配置影响 Bot 表现，属于 Agent 上下文/指令工程范畴。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "文中同样围绕 Grok Bot 使用展开，与该主题相近。"
+    },
+    "notes": "内容源自 X 帖文，未核实 x.ai 链接及 Dr Eggbot 身份，均用「帖文称」或直接转述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
