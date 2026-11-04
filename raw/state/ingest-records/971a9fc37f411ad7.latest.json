@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:08:09.999Z",
+  "url": "https://x.com/simonw/status/2117655816581071203",
+  "slug": "971a9fc37f411ad7",
+  "content_hash": "6df7ca83442f843b555b12b5882ef6b81651e319b31129e5ec75d5a0fa53bc3f",
+  "source": {
+    "path": "sources/articles/simon-willison-qwen-3-8-27b-can-interpret-model-weights-on-a-lap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "在消费级笔记本上运行 27B 参数模型涉及消费级 GPU AI 算力使用。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确在笔记本本地运行模型，属本地开放助手模型场景。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Qwen 3.8 27B 是开放权重模型，帖文围绕其模型权重解读能力展开。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文涉及新论文主张与个人复现，需审慎看待未经独立验证的能力声明。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "Qwen 3.8 27B 是开放权重模型，帖文围绕其模型权重解读能力展开。",
+    "topics/local-open-assistant-models.md": "帖文明确在笔记本本地运行模型，属本地开放助手模型场景。",
+    "topics/gpu-ai-compute-unlock.md": "在消费级笔记本上运行 27B 参数模型涉及消费级 GPU AI 算力使用。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文涉及新论文主张与个人复现，需审慎看待未经独立验证的能力声明。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/simon-willison-qwen-3-8-27b-can-interpret-model-weights-on-a-lap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "Qwen 3.8 27B 是开放权重模型，帖文围绕其模型权重解读能力展开。",
+      "topics/local-open-assistant-models.md": "帖文明确在笔记本本地运行模型，属本地开放助手模型场景。",
+      "topics/gpu-ai-compute-unlock.md": "在消费级笔记本上运行 27B 参数模型涉及消费级 GPU AI 算力使用。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文涉及新论文主张与个人复现，需审慎看待未经独立验证的能力声明。"
+    },
+    "notes": "帖文日期显示为 2026 年 11 月 3 日，所有主张均基于所抓取文章，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/simon-willison-qwen-3-8-27b-can-interpret-model-weights-on-a-lap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:04:28.739Z",
+  "url": "https://github.com/anthropics/FlashProve",
+  "slug": "5378dad3a82e4415",
+  "content_hash": "ee095d2f186018da162fd63f84c230b617fa3ca982b71a847d3e2488c0d9c622",
+  "source": {
+    "path": "sources/articles/flashprove-prove-model-output-without-revealing-weights.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/agent-auto-mode.md",
+    "topics/confidential-computing-cloud-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文档多次强调 FlashProve 构建为由 Agent 运行，并给出面向 Agent 的构建与验证指令。"
+    },
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "核心功能是在不泄露模型权重的情况下证明输出来源，符合机密计算与云端 AI 的主题。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文中明确提到协议可靠性在 Lean 4 中形式化证明，与 LLM 形式化验证主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文中明确提到协议可靠性在 Lean 4 中形式化证明，与 LLM 形式化验证主题直接相关。",
+    "topics/agent-auto-mode.md": "文档多次强调 FlashProve 构建为由 Agent 运行，并给出面向 Agent 的构建与验证指令。",
+    "topics/confidential-computing-cloud-ai.md": "核心功能是在不泄露模型权重的情况下证明输出来源，符合机密计算与云端 AI 的主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/flashprove-prove-model-output-without-revealing-weights.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/agent-auto-mode.md",
+      "topics/confidential-computing-cloud-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "文中明确提到协议可靠性在 Lean 4 中形式化证明，与 LLM 形式化验证主题直接相关。",
+      "topics/agent-auto-mode.md": "文档多次强调 FlashProve 构建为由 Agent 运行，并给出面向 Agent 的构建与验证指令。",
+      "topics/confidential-computing-cloud-ai.md": "核心功能是在不泄露模型权重的情况下证明输出来源，符合机密计算与云端 AI 的主题。"
+    },
+    "notes": "All facts are grounded in the fetched FlashProve README; no external URLs or facts invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/flashprove-prove-model-output-without-revealing-weights.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

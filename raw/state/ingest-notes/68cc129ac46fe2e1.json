@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心讨论通过修改 Skill 文件让 AI 自我进化，与该主题的技能编写方法直接相关。",
+    "topics/agents-md-token-efficiency.md": "文中多次提到 CLAUDE.md 项目指令及其对 AI 行为和耗时的影响，与项目指令与 Token 效率主题相关。",
+    "topics/context-engineering-for-agents.md": "研究考察的是把复盘结果写入项目说明（CLAUDE.md）作为上下文，属于面向 Agent 的上下文工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论通过修改 Skill 文件让 AI 自我进化，与该主题的技能编写方法直接相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 CLAUDE.md 项目指令及其对 AI 行为和耗时的影响，与项目指令与 Token 效率主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "研究考察的是把复盘结果写入项目说明（CLAUDE.md）作为上下文，属于面向 Agent 的上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文及其引用的论文摘要，未引入外部信息。"
+}

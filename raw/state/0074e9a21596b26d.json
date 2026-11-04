@@ -1,0 +1,23 @@
+{
+  "slug": "0074e9a21596b26d",
+  "url": "https://x.com/AnthropicAI/status/2117710942826123294",
+  "title": "Anthropic (@AnthropicAI)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "0074e9a21596b26d84f4c1e19aff37dff00380c9b6620ae814974d50cf4d4601",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:30.892Z",
+  "content_hash": "9990e5a89c366958a3deca82f57842e4581d540de29cc72e7bc73837b1a31452",
+  "article_path": "articles/0074e9a21596b26d.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2117710942826123294",
+  "source_path": "sources/articles/anthropic-releases-flashprove-provable-inference-research-for-la.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:03:23.727Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

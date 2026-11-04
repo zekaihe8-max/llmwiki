@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文涉及大模型评测与复刻，属 AI 评测入口与记录范畴",
+    "topics/community-evals-vs-score-hype.md": "大规模尝试性复刻与社区实测对抗刷分碰瓷相关",
+    "topics/public-benchmark-quality-scrutiny.md": "对旧发现重新检验，呼应公开榜单质量审查"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文涉及大模型评测与复刻，属 AI 评测入口与记录范畴"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "大规模尝试性复刻与社区实测对抗刷分碰瓷相关"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "对旧发现重新检验，呼应公开榜单质量审查"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未引入外部事实。"
+}

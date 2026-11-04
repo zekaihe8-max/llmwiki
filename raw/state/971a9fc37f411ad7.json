@@ -1,0 +1,23 @@
+{
+  "slug": "971a9fc37f411ad7",
+  "url": "https://x.com/simonw/status/2117655816581071203",
+  "title": "Simon Willison (@simonw)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "971a9fc37f411ad7d8ae9d6ae28405b418804651f7655fc9cb73656af86ba800",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:37.481Z",
+  "content_hash": "6df7ca83442f843b555b12b5882ef6b81651e319b31129e5ec75d5a0fa53bc3f",
+  "article_path": "articles/971a9fc37f411ad7.md",
+  "fetched_url": "https://x.com/simonw/status/2117655816581071203",
+  "source_path": "sources/articles/simon-willison-qwen-3-8-27b-can-interpret-model-weights-on-a-lap.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:08:10.000Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

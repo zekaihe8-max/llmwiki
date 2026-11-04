@@ -1,0 +1,23 @@
+{
+  "slug": "c8ab7ec0a5982047",
+  "url": "https://x.com/emollick/status/2117445039211086096",
+  "title": "Ethan Mollick (@emollick)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "c8ab7ec0a59820471c9063f7671da007fe755396a45adb039f7405249a32f49e",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:37.134Z",
+  "content_hash": "01cb4701ede4ba14dc67e0cabc374a8c1fbc1632c6dc7731e5d4bec8fabd9679",
+  "article_path": "articles/c8ab7ec0a5982047.md",
+  "fetched_url": "https://x.com/emollick/status/2117445039211086096",
+  "source_path": "sources/articles/ethan-mollick-new-models-make-old-llm-findings-outdated.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:07:50.576Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

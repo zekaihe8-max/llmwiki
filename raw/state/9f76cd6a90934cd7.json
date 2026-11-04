@@ -1,0 +1,23 @@
+{
+  "slug": "9f76cd6a90934cd7",
+  "url": "https://x.com/bcherny/status/2117693181651542387",
+  "title": "Boris Cherny (@bcherny)",
+  "digest": "2026-11-04-frontier-ai.md",
+  "status": "filed",
+  "hash": "9f76cd6a90934cd767a0818db15bd9e00332444e2644bba01048f74ca88b4c60",
+  "first_seen": "2026-11-04T00:02:30.665Z",
+  "last_seen": "2026-11-04T00:02:30.665Z",
+  "fetched_at": "2026-11-04T00:02:34.023Z",
+  "content_hash": "9dab953d65f8b36437a9346018d869693b9a6bb0b41eadeeaec3076ecfe3690e",
+  "article_path": "articles/9f76cd6a90934cd7.md",
+  "fetched_url": "https://x.com/bcherny/status/2117693181651542387",
+  "source_path": "sources/articles/claude-auto-connects-enterprise-plugins-via-mcp-trusted-issuer.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-04T00:05:48.125Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

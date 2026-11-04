@@ -1,3 +1,49 @@
+## 2026-11-04
+
+* **创建 / Creation**: 归档 [Rauchg 转发 AI CLI：Agent 可统一调用图音视频生成](./sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md)。 / Filed [Rauchg boosts AI CLI: agents unified access to image, audio, and video generation](./sources/articles/rauchg-boosts-ai-cli-agents-unified-access-to-image-audio-and-vi.md).
+
+* **创建 / Creation**: 归档 [宝玉：AI 时代应更关注产品细节而非代码整洁](./sources/articles/dotey-in-the-ai-era-focus-more-on-product-details-than-code-clea.md)。 / Filed [Dotey: In the AI era, focus more on product details than code cleanliness](./sources/articles/dotey-in-the-ai-era-focus-more-on-product-details-than-code-clea.md).
+
+* **创建 / Creation**: 归档 [Matt Pocock 称有人为其 /retro 技能撰写效果评估论文](./sources/articles/matt-pocock-says-someone-wrote-a-paper-assessing-his-retro-skill.md)。 / Filed [Matt Pocock says someone wrote a paper assessing his /retro skill's effectiveness](./sources/articles/matt-pocock-says-someone-wrote-a-paper-assessing-his-retro-skill.md).
+
+* **创建 / Creation**: 归档 [Hamel Husain 指出公开基准存在评测缺陷，主张私有评测](./sources/articles/hamel-husain-highlights-public-benchmark-flaws-advocates-private.md)。 / Filed [Hamel Husain highlights public benchmark flaws, advocates private evals](./sources/articles/hamel-husain-highlights-public-benchmark-flaws-advocates-private.md).
+
+* **创建 / Creation**: 归档 [Claude Code 子代理默认跑主模型，建议强制切 Haiku 省 Opus 额度](./sources/articles/claude-code-subagents-default-to-main-model-force-haiku-to-save.md)。 / Filed [Claude Code subagents default to main model; force Haiku to save Opus quota](./sources/articles/claude-code-subagents-default-to-main-model-force-haiku-to-save.md).
+
+* **创建 / Creation**: 归档 [AI 编程 Agent 的 /retro 复盘与技能自我进化实证讨论](./sources/articles/empirical-discussion-on-retro-retrospection-and-ai-coding-agent.md)。 / Filed [Empirical Discussion on /retro Retrospection and AI Coding Agent Skill Self-Evolution](./sources/articles/empirical-discussion-on-retro-retrospection-and-ai-coding-agent.md).
+
+* **创建 / Creation**: 归档 [Fireworks 每日服务超 40T 代币的“专用模型”](./sources/articles/fireworks-serves-over-40-trillion-tokens-daily-of-specialized-mo.md)。 / Filed [Fireworks Serves Over 40 Trillion Tokens Daily of "Specialized Models"](./sources/articles/fireworks-serves-over-40-trillion-tokens-daily-of-specialized-mo.md).
+
+* **创建 / Creation**: 归档 [西蒙·威利森：Qwen 3.8 27B 在笔记本上也能解读模型权重](./sources/articles/simon-willison-qwen-3-8-27b-can-interpret-model-weights-on-a-lap.md)。 / Filed [Simon Willison: Qwen 3.8 27B Can Interpret Model Weights on a Laptop Too](./sources/articles/simon-willison-qwen-3-8-27b-can-interpret-model-weights-on-a-lap.md).
+
+* **创建 / Creation**: 归档 [Ethan Mollick：新模型复刻旧发现，常规认知已过时](./sources/articles/ethan-mollick-new-models-make-old-llm-findings-outdated.md)。 / Filed [Ethan Mollick: New Models Make Old LLM Findings Outdated](./sources/articles/ethan-mollick-new-models-make-old-llm-findings-outdated.md).
+
+* **创建 / Creation**: 归档 [当智能体执行工作时保持批判性思维](./sources/articles/critical-thinking-when-agents-do-the-work.md)。 / Filed [Critical thinking when agents do the work](./sources/articles/critical-thinking-when-agents-do-the-work.md).
+
+* **创建 / Creation**: 归档 [Matt Pocock 提出本地编排器与软件工厂组合构思](./sources/articles/matt-pocock-proposes-combining-a-local-orchestrator-with-a-softw.md)。 / Filed [Matt Pocock proposes combining a local orchestrator with a software factory](./sources/articles/matt-pocock-proposes-combining-a-local-orchestrator-with-a-softw.md).
+
+* **创建 / Creation**: 归档 [Lenny Rachitsky：AI 将建筑施工图绘制从 1.5 年缩短至 8 分钟](./sources/articles/lenny-rachitsky-ai-cuts-architectural-construction-drawing-work.md)。 / Filed [Lenny Rachitsky: AI cuts architectural construction drawing work from 1.5 years to 8 minutes](./sources/articles/lenny-rachitsky-ai-cuts-architectural-construction-drawing-work.md).
+
+* **创建 / Creation**: 归档 [Vercel 发布 Security Review 公测，安全 Agent 自动审计每一行代码](./sources/articles/vercel-releases-security-review-public-beta-security-agent-autom.md)。 / Filed [Vercel Releases Security Review Public Beta, Security Agent Automatically Audits Every Line of Code](./sources/articles/vercel-releases-security-review-public-beta-security-agent-autom.md).
+
+* **创建 / Creation**: 归档 [Amjad Masad：员工终端上的 AI 智能体成为系统性安全风险](./sources/articles/amjad-masad-ai-agents-on-employee-endpoints-become-systemic-secu.md)。 / Filed [Amjad Masad: AI agents on employee endpoints become systemic security risk](./sources/articles/amjad-masad-ai-agents-on-employee-endpoints-become-systemic-secu.md).
+
+* **创建 / Creation**: 归档 [Aaron Levie：AI 产出分化达历史最高，生产力上限跃升至 5-10 倍](./sources/articles/aaron-levie-ai-output-divergence-at-historic-high-productivity-c.md)。 / Filed [Aaron Levie: AI output divergence at historic high, productivity ceiling jumps to 5-10x](./sources/articles/aaron-levie-ai-output-divergence-at-historic-high-productivity-c.md).
+
+* **创建 / Creation**: 归档 [Claude 企业插件自动连接](./sources/articles/claude-auto-connects-enterprise-plugins-via-mcp-trusted-issuer.md)。 / Filed [Claude Auto-connects Enterprise Plugins via MCP Trusted Issuer](./sources/articles/claude-auto-connects-enterprise-plugins-via-mcp-trusted-issuer.md).
+
+* **创建 / Creation**: 归档 [cat（@_catwu）离开 Anthropic，回顾 Claude Code 从内部工具到行业定义产品的两年](./sources/articles/cat-catwu-leaves-anthropic-reflecting-on-claude-code-s-two-year.md)。 / Filed [cat (@_catwu) leaves Anthropic, reflecting on Claude Code's two-year journey from internal tool to industry-defining product](./sources/articles/cat-catwu-leaves-anthropic-reflecting-on-claude-code-s-two-year.md).
+
+* **创建 / Creation**: 归档 [OpenAI 宣布下一轮内部安全冲刺，提升漏洞赏金并与 Cathedral Systems 合作](./sources/articles/openai-announces-next-security-sprint-raises-bug-bounties-partne.md)。 / Filed [OpenAI Announces Next Security Sprint, Raises Bug Bounties, Partners with Cathedral Systems](./sources/articles/openai-announces-next-security-sprint-raises-bug-bounties-partne.md).
+
+* **创建 / Creation**: 归档 [OpenAI 称 ChatGPT 与 Codex 助力工程师构建物理世界](./sources/articles/openai-says-chatgpt-and-codex-help-engineers-build-for-the-physi.md)。 / Filed [OpenAI Says ChatGPT and Codex Help Engineers Build for the Physical World](./sources/articles/openai-says-chatgpt-and-codex-help-engineers-build-for-the-physi.md).
+
+* **创建 / Creation**: 归档 [FlashProve：无需泄露权重即证明模型输出](./sources/articles/flashprove-prove-model-output-without-revealing-weights.md)。 / Filed [FlashProve: Prove model output without revealing weights](./sources/articles/flashprove-prove-model-output-without-revealing-weights.md).
+
+* **创建 / Creation**: 归档 [大语言模型可证明推理的进展](./sources/articles/progress-on-provable-inference-for-large-language-models.md)。 / Filed [Progress on provable inference for large language models](./sources/articles/progress-on-provable-inference-for-large-language-models.md).
+
+* **创建 / Creation**: 归档 [Anthropic 发布 FlashProve：面向大语言模型的可证明推理研究](./sources/articles/anthropic-releases-flashprove-provable-inference-research-for-la.md)。 / Filed [Anthropic releases FlashProve: provable inference research for large language models](./sources/articles/anthropic-releases-flashprove-provable-inference-research-for-la.md).
+
 ## 2026-11-03
 
 * **创建 / Creation**: 归档 [FlashProve：零知识证明验证 AI 回答来源模型](./sources/articles/flashprove-zero-knowledge-proof-verifies-which-ai-model-generate.md)。 / Filed [FlashProve: Zero-knowledge proof verifies which AI model generated an answer](./sources/articles/flashprove-zero-knowledge-proof-verifies-which-ai-model-generate.md).

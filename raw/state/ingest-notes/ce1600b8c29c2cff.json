@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文直接提及“软件工厂”，与该主题直接相关，现有主题已覆盖。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的编排器调度实现者、管理线程的设计，与个人 Agent 当包工头调度编程 Agent 逻辑相近，现有主题已覆盖。",
+    "topics/multiagent-infra-four-problems.md": "本地长期运行编排器属于多智能体编排与基建范畴，现有主题已覆盖。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及“软件工厂”，与该主题直接相关，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文描述的编排器调度实现者、管理线程的设计，与个人 Agent 当包工头调度编程 Agent 逻辑相近，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "本地长期运行编排器属于多智能体编排与基建范畴，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期与互动数均按抓取页面显示内容如实记录，未引入页面外信息。"
+}

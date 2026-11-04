@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-04T00:09:39.909Z",
+  "url": "https://x.com/mattpocockuk/status/2117588845864575397",
+  "slug": "2a59a756d77816eb",
+  "content_hash": "1f94890548b2ae8d9cee2640442a7b506b4888d2f6c778e606701c1f37a2b81b",
+  "source": {
+    "path": "sources/articles/matt-pocock-says-someone-wrote-a-paper-assessing-his-retro-skill.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/embedded-third-party-evals.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心涉及 /retro 技能的编写与评估，与该主题直接相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 技能的开放标准与社区评估语境"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文引用第三方论文对技能效果进行评估，属于社区实测类讨论"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "外部论文对技能进行评估，与驻场第三方评估主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心涉及 /retro 技能的编写与评估，与该主题直接相关",
+    "topics/agent-skills-open-standard.md": "涉及 Agent 技能的开放标准与社区评估语境",
+    "topics/community-evals-vs-score-hype.md": "帖文引用第三方论文对技能效果进行评估，属于社区实测类讨论",
+    "topics/embedded-third-party-evals.md": "外部论文对技能进行评估，与驻场第三方评估主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/matt-pocock-says-someone-wrote-a-paper-assessing-his-retro-skill.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/embedded-third-party-evals.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心涉及 /retro 技能的编写与评估，与该主题直接相关",
+      "topics/agent-skills-open-standard.md": "涉及 Agent 技能的开放标准与社区评估语境",
+      "topics/community-evals-vs-score-hype.md": "帖文引用第三方论文对技能效果进行评估，属于社区实测类讨论",
+      "topics/embedded-third-party-evals.md": "外部论文对技能进行评估，与驻场第三方评估主题相近"
+    },
+    "notes": "日期为推文显示的 2026 年 11 月 3 日，未独立核实 arXiv 论文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/matt-pocock-says-someone-wrote-a-paper-assessing-his-retro-skill.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

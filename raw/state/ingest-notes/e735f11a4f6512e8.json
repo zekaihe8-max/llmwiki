@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章列举多种 Agent 与模型组合，涉及面向 Agent 的模型渠道取舍。",
+    "topics/cloud-auto-model-routing.md": "AI Gateway 与成本、ZDR 控制属于云平台跨模型编排与治理。",
+    "topics/agent-compute-and-governance.md": "成本与零数据留存控制属于智能体算力与治理范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章列举多种 Agent 与模型组合，涉及面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "AI Gateway 与成本、ZDR 控制属于云平台跨模型编排与治理。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "成本与零数据留存控制属于智能体算力与治理范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于推文内容，未引用外部链接或未在文中出现的事实。"
+}

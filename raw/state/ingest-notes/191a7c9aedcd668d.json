@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/embedded-third-party-evals.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章直接质疑公开基准的质量与可信度，与“信任公开榜前先审质量”主题完全对应。",
+    "topics/community-evals-vs-score-hype.md": "文中强调不轻信第三方指标、应自建私有评测，对应“社区实测对抗刷分碰瓷”。",
+    "topics/embedded-third-party-evals.md": "涉及第三方评估/基准的局限与问题，属于相邻主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章直接质疑公开基准的质量与可信度，与“信任公开榜前先审质量”主题完全对应。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中强调不轻信第三方指标、应自建私有评测，对应“社区实测对抗刷分碰瓷”。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "涉及第三方评估/基准的局限与问题，属于相邻主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}
