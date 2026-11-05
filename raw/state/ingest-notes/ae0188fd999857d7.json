@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "与 Grok Bot 生态直接相关，讨论其内置额度与 Agent 查 X，最贴近本文主题",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同属 Grok Bot 系列话题，涉及 Grok Bot 对 X 的管控与定位",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与本文的 Grok Bot Anywhere 发布属于同一生态圈"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "与 Grok Bot 生态直接相关，讨论其内置额度与 Agent 查 X，最贴近本文主题"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同属 Grok Bot 系列话题，涉及 Grok Bot 对 X 的管控与定位"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与本文的 Grok Bot Anywhere 发布属于同一生态圈"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅基于 X 帖文及其引用的 11 月 2 日帖文，未独立核实功能细节。"
+}

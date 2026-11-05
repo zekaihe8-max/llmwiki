@@ -1,0 +1,61 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:30:20.700Z",
+  "url": "https://x.com/heydengai/status/2118299284726534458",
+  "slug": "95ccedbdd45f0af8",
+  "content_hash": "8412966509adf7223a09ebfec2420b1f9706522770e93abb5784695134521112",
+  "source": {
+    "path": "sources/articles/remote-is-no-match-for-ssh-tmux.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到 AI 开始替人写代码，对应智能体自动模式的语境"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "文章讨论远程 AI 编程与设备选择，与帖文中 Mac mini 和远程方案的对比直接相关"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文提到人类仍需防掉线，与该主题的云环境备份、隔离与定时检查相呼应"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/laptop-light-battery-remote-ai-coding.md": "文章讨论远程 AI 编程与设备选择，与帖文中 Mac mini 和远程方案的对比直接相关",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文提到人类仍需防掉线，与该主题的云环境备份、隔离与定时检查相呼应",
+    "topics/agent-auto-mode.md": "帖文提到 AI 开始替人写代码，对应智能体自动模式的语境"
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/laptop-light-battery-remote-ai-coding.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/laptop-light-battery-remote-ai-coding.md": "文章讨论远程 AI 编程与设备选择，与帖文中 Mac mini 和远程方案的对比直接相关",
+      "topics/personal-agent-cloud-env-pitfalls.md": "帖文提到人类仍需防掉线，与该主题的云环境备份、隔离与定时检查相呼应",
+      "topics/agent-auto-mode.md": "帖文提到 AI 开始替人写代码，对应智能体自动模式的语境"
+    },
+    "notes": "来源为 X 帖文，未核实其中关于 Codex/Claude 产品进展的具体主张，已用「帖文称」限定。",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

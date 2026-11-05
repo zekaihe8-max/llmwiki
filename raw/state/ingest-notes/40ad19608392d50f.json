@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/casual-ai-minigame-first-try.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "与生图模型新特性和表情包制作最相关",
+    "topics/html-image-fun-knowledge-learning.md": "涉及以生图为核心的趣味产品使用场景",
+    "topics/casual-ai-minigame-first-try.md": "对应随手用 AI 做趣味内容的尝试"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "与生图模型新特性和表情包制作最相关"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及以生图为核心的趣味产品使用场景"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "对应随手用 AI 做趣味内容的尝试"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该 X 帖文，未引入外部事实。"
+}

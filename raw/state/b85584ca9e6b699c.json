@@ -1,0 +1,23 @@
+{
+  "slug": "b85584ca9e6b699c",
+  "url": "https://x.com/0xLogicrw/status/2118298492578021660",
+  "title": "Claude Code 省额度修复",
+  "digest": "2026-11-05-cn-x.md",
+  "status": "filed",
+  "hash": "b85584ca9e6b699c0232c690c8abd6c49bc0cb1f077018538cec7c38341bb6c4",
+  "first_seen": "2026-11-05T12:02:29.836Z",
+  "last_seen": "2026-11-05T12:02:29.836Z",
+  "fetched_at": "2026-11-05T12:02:37.255Z",
+  "content_hash": "227d340cfda174479ce9ec66f316e3362bfef63f9309ffd34230a21f41e7dfef",
+  "article_path": "articles/b85584ca9e6b699c.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118298492578021660",
+  "source_path": "sources/articles/claude-code-quota-saving-fix.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T12:14:54.193Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

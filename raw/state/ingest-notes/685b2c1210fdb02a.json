@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论 AI 原生公司如何以低成本构建软件，与帖文中 Agent 取代传统 SaaS 开发的逻辑相近。",
+    "topics/software-factory.md": "软件工厂概念强调低成本、规模化交付，对应帖文中“几个人和一群 Agent”做出八成功能的情景。",
+    "topics/agent-scaled-engineering.md": "智能体规模化工程涉及以 Agent 团队完成工程任务，直接对应帖文中的成本颠覆场景。",
+    "topics/peer-economics-before-vibe-coding.md": "强调在 AI 编码浪潮中先算清赚钱同行，与帖文对 SaaS 高利润定价的质疑相呼应。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 原生公司如何以低成本构建软件，与帖文中 Agent 取代传统 SaaS 开发的逻辑相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "软件工厂概念强调低成本、规模化交付，对应帖文中“几个人和一群 Agent”做出八成功能的情景。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "智能体规模化工程涉及以 Agent 团队完成工程任务，直接对应帖文中的成本颠覆场景。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "强调在 AI 编码浪潮中先算清赚钱同行，与帖文对 SaaS 高利润定价的质疑相呼应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实其主张；日期、浏览量与互动数按页面显示。"
+}

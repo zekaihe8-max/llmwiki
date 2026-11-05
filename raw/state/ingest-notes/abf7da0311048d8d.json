@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章涉及 AI 参与科研全流程及预印本发表，与科研实践适配相关。",
+    "topics/agentic-ai-foundation.md": "Claude 在项目中担任执行者与建议者，体现智能体基础能力。",
+    "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司开展生物研究，符合 AI 原生公司议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 参与科研全流程及预印本发表，与科研实践适配相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Claude 在项目中担任执行者与建议者，体现智能体基础能力。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 作为 AI 原生公司开展生物研究，符合 AI 原生公司议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文内容，未引用外部链接或未在文中出现的事实。"
+}

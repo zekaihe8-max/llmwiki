@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/code-over-spec.md"
+  ],
+  "selection_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "帖文涉及 Vibe Coding 缺乏市场验证与同行赚钱情况的问题，与该主题强调先算清赚钱同行直接相关。",
+    "topics/premium-ai-subscription-value.md": "开发者因 AI 订阅持续续费且花费不少却无用户验证，与高端 AI 订阅价值的审视相关。",
+    "topics/vibe-coding-memory-paradox.md": "内容围绕 AI 辅助编程带来的产出错觉与回避真实工作，与 Vibe Coding 相关。",
+    "topics/code-over-spec.md": "开发者优先让 AI 写代码、完善产品，而非先确认市场需求，体现代码重于规格/验证的倾向。"
+  },
+  "topics": [
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Vibe Coding 缺乏市场验证与同行赚钱情况的问题，与该主题强调先算清赚钱同行直接相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "开发者因 AI 订阅持续续费且花费不少却无用户验证，与高端 AI 订阅价值的审视相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "内容围绕 AI 辅助编程带来的产出错觉与回避真实工作，与 Vibe Coding 相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "开发者优先让 AI 写代码、完善产品，而非先确认市场需求，体现代码重于规格/验证的倾向。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

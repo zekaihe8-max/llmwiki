@@ -1,0 +1,23 @@
+{
+  "slug": "4e2b995d7d578d5c",
+  "url": "https://x.com/dotey/status/2118146071020888193",
+  "title": "逆向 Design Skill",
+  "digest": "2026-11-05-cn-x.md",
+  "status": "filed",
+  "hash": "4e2b995d7d578d5c93823d7f9c7221ba9ec47cbb487d3fbd427773369908750c",
+  "first_seen": "2026-11-05T12:02:29.836Z",
+  "last_seen": "2026-11-05T12:02:29.836Z",
+  "fetched_at": "2026-11-05T12:02:31.226Z",
+  "content_hash": "61b3cc1e250f6de3f03ff457a953802321e1697451dfda56e48a8ebc662bcd08",
+  "article_path": "articles/4e2b995d7d578d5c.md",
+  "fetched_url": "https://x.com/dotey/status/2118146071020888193",
+  "source_path": "sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T12:04:36.620Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

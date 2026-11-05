@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/design-taste-led-linux-desktop-trial.md": "设计工具与桌面体验主题最贴近本文",
+    "topics/design-to-code-byo-subscriptions.md": "设计↔代码与订阅工具主题与免费设计工具相关",
+    "topics/ux-dx-and-ax.md": "用户体验与设计领域主题与设计工具推荐相关"
+  },
+  "topics": [
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "设计工具与桌面体验主题最贴近本文"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "设计↔代码与订阅工具主题与免费设计工具相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "用户体验与设计领域主题与设计工具推荐相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文原文，未独立核实工具是否真正开源或免费。"
+}

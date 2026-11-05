@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章聚焦本地运行的开源模型控制机器人，与该主题的本地开放助手与机器人小模型最为贴近。",
+    "topics/harness-comparison-beyond-tokens.md": "文中对比多个 Agent 框架在 RoboDojo 和真机上的得分，属于超越 token 的 Harness 对比。",
+    "topics/context-engineering-for-agents.md": "文中提到旧图像分批替换为文字占位以节省上下文并复用缓存，涉及 Agent 上下文工程。",
+    "topics/agent-scaled-engineering.md": "文中描述五层架构、流水线执行和 flush_queue 等机制，属于智能体规模化工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章聚焦本地运行的开源模型控制机器人，与该主题的本地开放助手与机器人小模型最为贴近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中对比多个 Agent 框架在 RoboDojo 和真机上的得分，属于超越 token 的 Harness 对比。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到旧图像分批替换为文字占位以节省上下文并复用缓存，涉及 Agent 上下文工程。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中描述五层架构、流水线执行和 flush_queue 等机制，属于智能体规模化工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有数据均来自提供的帖文 markdown，未引用外部链接或未在文中出现的事实。"
+}

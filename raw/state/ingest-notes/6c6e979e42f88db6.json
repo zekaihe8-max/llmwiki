@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章聚焦企业级 Agent 托管与底层框架，与公司级 Agent Harness 主题高度相关。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "Kimi Hosted Agents 主张托管优于企业自建运行环境，直接对应该主题。",
+    "topics/multiagent-infra-four-problems.md": "文中三 Agent 分工对账及模板方案涉及多智能体基建与编排问题。",
+    "topics/agent-scaled-engineering.md": "12 套模板、140 多项 Skills、30 多个插件体现 Agent 规模化工程与平台化能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章聚焦企业级 Agent 托管与底层框架，与公司级 Agent Harness 主题高度相关。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "Kimi Hosted Agents 主张托管优于企业自建运行环境，直接对应该主题。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文中三 Agent 分工对账及模板方案涉及多智能体基建与编排问题。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "12 套模板、140 多项 Skills、30 多个插件体现 Agent 规模化工程与平台化能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 5 日，所有事实仅依据所获取的帖文正文。"
+}

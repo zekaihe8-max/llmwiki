@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/personal-agent-share-and-interbot-chat.md"
+  ],
+  "selection_reasons": {
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文章正体现“个人助手派活”而非多 Harness 路由基建，且明确拒绝群聊组合，与该主题对比最为贴切。",
+    "topics/fold-subagents-into-main-loop.md": "小墨助手充当总入口并把任务折给子 Bot，与“把子 Agent 折进主循环”的思路相近。",
+    "topics/personal-agent-share-and-interbot-chat.md": "文中明确否定群聊/机器人互聊，与该主题探讨的 Bot 互聊与对外分享形成反面对照。"
+  },
+  "topics": [
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文章正体现“个人助手派活”而非多 Harness 路由基建，且明确拒绝群聊组合，与该主题对比最为贴切。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "小墨助手充当总入口并把任务折给子 Bot，与“把子 Agent 折进主循环”的思路相近。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "文中明确否定群聊/机器人互聊，与该主题探讨的 Bot 互聊与对外分享形成反面对照。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "发帖时间按文章显示为 2026 年 11 月 5 日，互动数据为 3,464 次浏览、11 条回复、4 转发、19 点赞、13 收藏。"
+}

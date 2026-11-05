@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/computer-use.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章涉及推理集群扩容与算力治理，属该主题范畴。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中提及高端算力总量受限与推理服务排队，关联推理成本与效率。",
+    "topics/computer-use.md": "Hy4 新增视觉理解与电脑操作能力，涉及 Computer Use 场景。",
+    "topics/in-app-model-partnerships.md": "Hy4 与 WorkBuddy 的联合项目属于应用内模型合作。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及推理集群扩容与算力治理，属该主题范畴。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提及高端算力总量受限与推理服务排队，关联推理成本与效率。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Hy4 新增视觉理解与电脑操作能力，涉及 Computer Use 场景。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "Hy4 与 WorkBuddy 的联合项目属于应用内模型合作。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文摘要，未引入外部事实或 URL。"
+}

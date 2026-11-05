@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:11:15.808Z",
+  "url": "https://x.com/FinanceYF5/status/2118165510143779002",
+  "slug": "9dbb4398cd7571a0",
+  "content_hash": "c914e9333ddc58e57ff2c52f68f3987ee07df4f43edfe9ad8c3f58a0dc2c3140",
+  "source": {
+    "path": "sources/articles/who-infers-deepseek-tokens.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道选择与推理供应商取舍"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台跨模型/跨服务商推理路由与分发"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "直接对应 DeepSeek 自营推理与聚合平台的市场份额对比"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "直接对应 DeepSeek 自营推理与聚合平台的市场份额对比",
+    "topics/cloud-auto-model-routing.md": "涉及云平台跨模型/跨服务商推理路由与分发",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道选择与推理供应商取舍"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/who-infers-deepseek-tokens.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "直接对应 DeepSeek 自营推理与聚合平台的市场份额对比",
+      "topics/cloud-auto-model-routing.md": "涉及云平台跨模型/跨服务商推理路由与分发",
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道选择与推理供应商取舍"
+    },
+    "notes": "来源为 X 用户 FinanceYF5 发布的帖文，未核实 OpenRouter 数据真实性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/who-infers-deepseek-tokens.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

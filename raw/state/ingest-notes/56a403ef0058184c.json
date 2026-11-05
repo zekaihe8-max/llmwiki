@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章聚焦开源模型与机器人小模型，与本条目主题高度相关。",
+    "topics/computer-use.md": "涉及 AI 模型直接操控物理设备，与计算机使用/机器人控制相近。",
+    "topics/agent-auto-mode.md": "框架支持 AI 模型在机械臂移动时自主思考下一步动作，属于智能体自动模式范畴。",
+    "topics/agent-model-channel-tradeoffs.md": "文中对比开源与闭源模型的成本、性能与可训练性，涉及模型渠道取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章聚焦开源模型与机器人小模型，与本条目主题高度相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 模型直接操控物理设备，与计算机使用/机器人控制相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "框架支持 AI 模型在机械臂移动时自主思考下一步动作，属于智能体自动模式范畴。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中对比开源与闭源模型的成本、性能与可训练性，涉及模型渠道取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

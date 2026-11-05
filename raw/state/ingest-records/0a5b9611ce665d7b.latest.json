@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:08:07.835Z",
+  "url": "https://x.com/shao__meng/status/2118169771049111671",
+  "slug": "0a5b9611ce665d7b",
+  "content_hash": "d46994036d94c508edae5ca59e2f5e62cbbc18808de78951374fdeb32d76b52a",
+  "source": {
+    "path": "sources/articles/lovable-founder-retrospective-from-gpt-engineer-to-70-million-pr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Lovable 从 7000 万项目、10 万 PR 的规模化工程演变与架构重构。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到用知识文件替代微调、检索相关说明注入上下文，属于 Agent 上下文工程。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Lovable 删除了子 Agent 与复杂异步设计，改回可预测的主循环工具调用。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "创始人强调目标是经营整个生意的平台，而非单一 AI 软件工程师，与软件工厂概念相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章涉及 Lovable 从 7000 万项目、10 万 PR 的规模化工程演变与架构重构。",
+    "topics/context-engineering-for-agents.md": "文中提到用知识文件替代微调、检索相关说明注入上下文，属于 Agent 上下文工程。",
+    "topics/fold-subagents-into-main-loop.md": "Lovable 删除了子 Agent 与复杂异步设计，改回可预测的主循环工具调用。",
+    "topics/software-factory.md": "创始人强调目标是经营整个生意的平台，而非单一 AI 软件工程师，与软件工厂概念相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lovable-founder-retrospective-from-gpt-engineer-to-70-million-pr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章涉及 Lovable 从 7000 万项目、10 万 PR 的规模化工程演变与架构重构。",
+      "topics/context-engineering-for-agents.md": "文中提到用知识文件替代微调、检索相关说明注入上下文，属于 Agent 上下文工程。",
+      "topics/fold-subagents-into-main-loop.md": "Lovable 删除了子 Agent 与复杂异步设计，改回可预测的主循环工具调用。",
+      "topics/software-factory.md": "创始人强调目标是经营整个生意的平台，而非单一 AI 软件工程师，与软件工厂概念相近。"
+    },
+    "notes": "所有事实均来源于提供的 X 帖文 Markdown，未引入外部 URL 或未核实信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lovable-founder-retrospective-from-gpt-engineer-to-70-million-pr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

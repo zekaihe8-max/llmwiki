@@ -1,3 +1,83 @@
+## 2026-11-05
+
+* **创建 / Creation**: 归档 [深圳 GEO 大会嘉宾预热：WaytoAGI 创始人 AJ 将分享海外营销增长策略](./sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md)。 / Filed [Shenzhen GEO Conference Guest Preview: WaytoAGI Founder AJ to Share Overseas Marketing Growth Strategy](./sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md).
+
+* **创建 / Creation**: 归档 [Leaf 省额度长文：Grok Bot 带法与配额机制](./sources/articles/leaf-s-long-article-on-grok-bot-quota-saving-and-usage-methods.md)。 / Filed [Leaf's Long Article on Grok Bot Quota Saving and Usage Methods](./sources/articles/leaf-s-long-article-on-grok-bot-quota-saving-and-usage-methods.md).
+
+* **创建 / Creation**: 归档 [ChatGPT Images 2.6 支持 GIF 参考与生成，做表情包更简单](./sources/articles/chatgpt-images-2-6-supports-gif-reference-and-generation-for-eas.md)。 / Filed [ChatGPT Images 2.6 Supports GIF Reference and Generation for Easier Emoji Packs](./sources/articles/chatgpt-images-2-6-supports-gif-reference-and-generation-for-eas.md).
+
+* **创建 / Creation**: 归档 [GBA v0.1.3 发布：微信打通与万圣节彩蛋头像](./sources/articles/gba-v0-1-3-released-wechat-integration-and-halloween-egg-avatar.md)。 / Filed [GBA v0.1.3 Released: WeChat Integration and Halloween Egg Avatar](./sources/articles/gba-v0-1-3-released-wechat-integration-and-halloween-egg-avatar.md).
+
+* **创建 / Creation**: 归档 [uni-robot-agent：开源AI模型直接控制机器人的统一框架](./sources/articles/uni-robot-agent-a-unified-framework-for-open-source-ai-models-to.md)。 / Filed [uni-robot-agent: A unified framework for open-source AI models to directly control robots](./sources/articles/uni-robot-agent-a-unified-framework-for-open-source-ai-models-to.md).
+
+* **创建 / Creation**: 归档 [Ripple-65B Preview：开源65B稠密模型](./sources/articles/ripple-65b-preview-open-source-65b-dense-model.md)。 / Filed [Ripple-65B Preview: Open-Source 65B Dense Model](./sources/articles/ripple-65b-preview-open-source-65b-dense-model.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 省额度合集](./sources/articles/grok-bot-quota-saving-collection.md)。 / Filed [Grok Bot Quota Saving Collection](./sources/articles/grok-bot-quota-saving-collection.md).
+
+* **创建 / Creation**: 归档 [ChrisHKAI-Video Skill：贴 X 链接生成 3D 公仔自我介绍短片](./sources/articles/chrishkai-video-skill-paste-x-link-to-generate-3d-doll-self-intr.md)。 / Filed [ChrisHKAI-Video Skill: Paste X Link to Generate 3D Doll Self-Introduction Short Video](./sources/articles/chrishkai-video-skill-paste-x-link-to-generate-3d-doll-self-intr.md).
+
+* **创建 / Creation**: 归档 [大佬创业再被收购](./sources/articles/veteran-founders-start-up-then-get-acquired-again.md)。 / Filed [Veteran founders start up, then get acquired again](./sources/articles/veteran-founders-start-up-then-get-acquired-again.md).
+
+* **创建 / Creation**: 归档 [模型能力放大光环](./sources/articles/model-capability-amplifies-the-halo.md)。 / Filed [Model Capability Amplifies the Halo](./sources/articles/model-capability-amplifies-the-halo.md).
+
+* **创建 / Creation**: 归档 [三个免费设计工具](./sources/articles/three-free-design-tools.md)。 / Filed [Three Free Design Tools](./sources/articles/three-free-design-tools.md).
+
+* **创建 / Creation**: 归档 [推特热、现实冷：Agent 热潮与 Uber 真实使用量的反差](./sources/articles/hot-on-twitter-cold-in-reality-the-gap-between-agent-hype-and-ub.md)。 / Filed [Hot on Twitter, Cold in Reality: The Gap Between Agent Hype and Uber Usage](./sources/articles/hot-on-twitter-cold-in-reality-the-gap-between-agent-hype-and-ub.md).
+
+* **创建 / Creation**: 归档 [Vibe Coding 是另一种奶头乐](./sources/articles/vibe-coding-is-another-form-of-naitou-le.md)。 / Filed [Vibe Coding Is Another Form of 'Naitou Le'](./sources/articles/vibe-coding-is-another-form-of-naitou-le.md).
+
+* **创建 / Creation**: 归档 [逃避真问题：用 AI 编程掩盖缺乏市场验证的产品](./sources/articles/avoiding-the-real-problem-using-ai-programming-to-mask-a-product.md)。 / Filed [Avoiding the Real Problem: Using AI Programming to Mask a Product Lacking Market Validation](./sources/articles/avoiding-the-real-problem-using-ai-programming-to-mask-a-product.md).
+
+* **创建 / Creation**: 归档 [Vibe Coding 的成就](./sources/articles/the-achievement-of-vibe-coding.md)。 / Filed [The Achievement of Vibe Coding](./sources/articles/the-achievement-of-vibe-coding.md).
+
+* **创建 / Creation**: 归档 [Remote 不如 SSH + tmux](./sources/articles/remote-is-no-match-for-ssh-tmux.md)。 / Filed [Remote Is No Match for SSH + tmux](./sources/articles/remote-is-no-match-for-ssh-tmux.md).
+
+* **创建 / Creation**: 归档 [AI 杀的是 SaaS 高利润](./sources/articles/ai-may-not-kill-saas-but-it-can-kill-saas-s-high-margins.md)。 / Filed [AI May Not Kill SaaS, But It Can Kill SaaS's High Margins](./sources/articles/ai-may-not-kill-saas-but-it-can-kill-saas-s-high-margins.md).
+
+* **创建 / Creation**: 归档 [Interrupt 大会第三年：AI Agent 进入“谁负责”阶段](./sources/articles/interrupt-conference-year-three-ai-agents-enter-the-who-is-respo.md)。 / Filed [Interrupt Conference Year Three: AI Agents Enter the “Who Is Responsible” Stage](./sources/articles/interrupt-conference-year-three-ai-agents-enter-the-who-is-respo.md).
+
+* **创建 / Creation**: 归档 [腾讯混元 Hy4 接入 WorkBuddy 后推理集群扩容 10 倍](./sources/articles/tencent-hunyuan-hy4-inference-cluster-expanded-10x-after-workbud.md)。 / Filed [Tencent Hunyuan Hy4 inference cluster expanded 10x after WorkBuddy integration](./sources/articles/tencent-hunyuan-hy4-inference-cluster-expanded-10x-after-workbud.md).
+
+* **创建 / Creation**: 归档 [月之暗面发布 Kimi Hosted Agents 托管智能体云服务](./sources/articles/moonshot-ai-launches-kimi-hosted-agents-cloud-service.md)。 / Filed [Moonshot AI Launches Kimi Hosted Agents Cloud Service](./sources/articles/moonshot-ai-launches-kimi-hosted-agents-cloud-service.md).
+
+* **创建 / Creation**: 归档 [Claude Code 省额度修复](./sources/articles/claude-code-quota-saving-fix.md)。 / Filed [Claude Code Quota Saving Fix](./sources/articles/claude-code-quota-saving-fix.md).
+
+* **创建 / Creation**: 归档 [OpenAI 挖 Linux 内核漏洞](./sources/articles/openai-mines-linux-kernel-vulnerabilities-with-ai.md)。 / Filed [OpenAI Mines Linux Kernel Vulnerabilities with AI](./sources/articles/openai-mines-linux-kernel-vulnerabilities-with-ai.md).
+
+* **创建 / Creation**: 归档 [24 小时用 AI 做完整原创游戏](./sources/articles/complete-original-game-made-in-24-hours-with-ai.md)。 / Filed [Complete original game made in 24 hours with AI](./sources/articles/complete-original-game-made-in-24-hours-with-ai.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Token 谁在推理](./sources/articles/who-infers-deepseek-tokens.md)。 / Filed [Who Infers DeepSeek Tokens](./sources/articles/who-infers-deepseek-tokens.md).
+
+* **创建 / Creation**: 归档 [Cat Wu 加入 OpenAI 负责 Core Products 产品管理](./sources/articles/cat-wu-joins-openai-to-lead-core-products-product-management.md)。 / Filed [Cat Wu Joins OpenAI to Lead Core Products Product Management](./sources/articles/cat-wu-joins-openai-to-lead-core-products-product-management.md).
+
+* **创建 / Creation**: 归档 [九个 Grok Bot 分工，拒绝群聊](./sources/articles/nine-grok-bots-division-of-labor-no-group-chats.md)。 / Filed [Nine Grok Bots Division of Labor, No Group Chats](./sources/articles/nine-grok-bots-division-of-labor-no-group-chats.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 赚钱五案例](./sources/articles/five-grok-bot-money-making-cases.md)。 / Filed [Five Grok Bot Money-Making Cases](./sources/articles/five-grok-bot-money-making-cases.md).
+
+* **创建 / Creation**: 归档 [dsh-im 接微信飞书 QQ，DeepSeek Harness 社区插件支持 12 类聊天渠道](./sources/articles/dsh-im-connects-wechat-feishu-qq-deepseek-harness-community-plug.md)。 / Filed [dsh-im connects WeChat, Feishu, QQ; DeepSeek Harness community plugin supports 12 chat channels](./sources/articles/dsh-im-connects-wechat-feishu-qq-deepseek-harness-community-plug.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 社区插件实现 B 站与抖音自动化](./sources/articles/deepseek-harness-community-plugins-enable-bilibili-and-douyin-au.md)。 / Filed [DeepSeek Harness Community Plugins Enable Bilibili and Douyin Automation](./sources/articles/deepseek-harness-community-plugins-enable-bilibili-and-douyin-au.md).
+
+* **创建 / Creation**: 归档 [Lovable 创始人复盘：从 GPT Engineer 到 7000 万个项目，架构推倒重来](./sources/articles/lovable-founder-retrospective-from-gpt-engineer-to-70-million-pr.md)。 / Filed [Lovable Founder Retrospective: From GPT Engineer to 70 Million Projects, Architecture Rebuilt Multiple Times](./sources/articles/lovable-founder-retrospective-from-gpt-engineer-to-70-million-pr.md).
+
+* **创建 / Creation**: 归档 [清华×伯克利开源 uni-robot-agent：开源模型零样本操作机器人](./sources/articles/tsinghua-berkeley-open-source-uni-robot-agent-open-models-zero-s.md)。 / Filed [Tsinghua × Berkeley open-source uni-robot-agent: open models zero-shot robot operation](./sources/articles/tsinghua-berkeley-open-source-uni-robot-agent-open-models-zero-s.md).
+
+* **创建 / Creation**: 归档 [百度开源 ERNIE 5.5 Flash Base，280B 参数 MoE 模型](./sources/articles/baidu-open-sources-ernie-5-5-flash-base-280b-parameter-moe-model.md)。 / Filed [Baidu Open-Sources ERNIE 5.5 Flash Base, 280B-Parameter MoE Model](./sources/articles/baidu-open-sources-ernie-5-5-flash-base-280b-parameter-moe-model.md).
+
+* **创建 / Creation**: 归档 [Claude Code 产品经理 Cat Wu 将加入 OpenAI](./sources/articles/claude-code-product-manager-cat-wu-to-join-openai.md)。 / Filed [Claude Code Product Manager Cat Wu to Join OpenAI](./sources/articles/claude-code-product-manager-cat-wu-to-join-openai.md).
+
+* **创建 / Creation**: 归档 [网易叭哥说语音输入法体验](./sources/articles/netease-bage-shuo-voice-input-experience.md)。 / Filed [NetEase Bage Shuo Voice Input Experience](./sources/articles/netease-bage-shuo-voice-input-experience.md).
+
+* **创建 / Creation**: 归档 [GPT-image-2.6 可直接生成 GIF，用户做大肥鱼表情包](./sources/articles/gpt-image-2-6-can-directly-generate-gifs-user-makes-big-fat-fish.md)。 / Filed [GPT-image-2.6 can directly generate GIFs; user makes big fat fish emoji packs](./sources/articles/gpt-image-2-6-can-directly-generate-gifs-user-makes-big-fat-fish.md).
+
+* **创建 / Creation**: 归档 [逆向 Design Skill：先示例后诱导，绕过直接询问系统提示词](./sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md)。 / Filed [Reverse-Engineering Claude's Design Skill: Demonstrate First, Then Induce, Avoiding Direct System-Prompt Requests](./sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md).
+
+* **创建 / Creation**: 归档 [一天合并三万次，人看的是 AI 交上来的证据](./sources/articles/30-000-merges-a-day-humans-review-ai-evidence-not-code-lines.md)。 / Filed [30,000 Merges a Day: Humans Review AI Evidence, Not Code Lines](./sources/articles/30-000-merges-a-day-humans-review-ai-evidence-not-code-lines.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布 Images 2.6：支持 SVG 导出与 GIF 动图，出图快一半](./sources/articles/openai-releases-images-2-6-with-svg-export-gif-support-and-50-fa.md)。 / Filed [OpenAI Releases Images 2.6 with SVG Export, GIF Support, and 50% Faster Generation](./sources/articles/openai-releases-images-2-6-with-svg-export-gif-support-and-50-fa.md).
+
+* **创建 / Creation**: 归档 [Claude 解出细菌穹窿体结构](./sources/articles/claude-solves-bacterial-vault-structure.md)。 / Filed [Claude Solves Bacterial Vault Structure](./sources/articles/claude-solves-bacterial-vault-structure.md).
+
 ## 2026-11-04
 
 * **创建 / Creation**: 归档 [进了 Grok Bot Team 列表](./sources/articles/added-to-grok-bot-team-list.md)。 / Filed [Added to Grok Bot Team List](./sources/articles/added-to-grok-bot-team-list.md).

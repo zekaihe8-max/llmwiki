@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:17:39.991Z",
+  "url": "https://x.com/heydengai/status/2118292993153081797",
+  "slug": "2299adca075a186d",
+  "content_hash": "359337b19baa20320c0f363365474794f1402bfa12ed3a4f1e9dd7b0ff5e00e9",
+  "source": {
+    "path": "sources/articles/the-achievement-of-vibe-coding.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 生成代码与代码质量问题，与帖文关于非专业人士制造难题的隐喻相关。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "标题直接提及 Vibe Coding，属于最相近现有话题。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Vibe Coding 主题，与帖文讨论对象一致。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "属于 Vibe 系列话题，与 Vibe Coding 语境相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-coding-memory-paradox.md": "直接涉及 Vibe Coding 主题，与帖文讨论对象一致。",
+    "topics/peer-economics-before-vibe-coding.md": "标题直接提及 Vibe Coding，属于最相近现有话题。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "讨论 AI 生成代码与代码质量问题，与帖文关于非专业人士制造难题的隐喻相关。",
+    "topics/vibe-gaming-model-inflection.md": "属于 Vibe 系列话题，与 Vibe Coding 语境相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/the-achievement-of-vibe-coding.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-coding-memory-paradox.md": "直接涉及 Vibe Coding 主题，与帖文讨论对象一致。",
+      "topics/peer-economics-before-vibe-coding.md": "标题直接提及 Vibe Coding，属于最相近现有话题。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "讨论 AI 生成代码与代码质量问题，与帖文关于非专业人士制造难题的隐喻相关。",
+      "topics/vibe-gaming-model-inflection.md": "属于 Vibe 系列话题，与 Vibe Coding 语境相近。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/the-achievement-of-vibe-coding.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

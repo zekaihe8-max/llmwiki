@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "直接讨论 Vibe Coding 与经济回报，与帖文将其奶头乐化并提及 Token 费用的批判相关。",
+    "topics/vibe-coding-memory-paradox.md": "标题直接包含 Vibe Coding，与帖文主题最为贴近。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的体验与额度，对应帖文中“自己花钱买 Token”的成本关切。"
+  },
+  "topics": [
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Vibe Coding 与经济回报，与帖文将其奶头乐化并提及 Token 费用的批判相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "标题直接包含 Vibe Coding，与帖文主题最为贴近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 的体验与额度，对应帖文中“自己花钱买 Token”的成本关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容源自 X 平台帖文，未独立核实其中主张。"
+}

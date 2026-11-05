@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:10:52.665Z",
+  "url": "https://x.com/FinanceYF5/status/2118190051641418131",
+  "slug": "af02f07b97d889af",
+  "content_hash": "99b91979a56333db7d2c26db13ae3bf5ba7a827660d7ec1e8ab474f6e178e6fa",
+  "source": {
+    "path": "sources/articles/cat-wu-joins-openai-to-lead-core-products-product-management.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-auto-mode.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "产品负责人转岗可能影响 Agent 自动模式的产品路线。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "OpenAI Core Products 与智能体基础能力方向相关，适合作为背景参考。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI 原生公司之间的人才流动与组织变动，符合本文主题。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品负责人流动，与帖文主角及其原岗位最相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品负责人流动，与帖文主角及其原岗位最相关。",
+    "topics/agentic-ai-foundation.md": "OpenAI Core Products 与智能体基础能力方向相关，适合作为背景参考。",
+    "topics/agent-auto-mode.md": "产品负责人转岗可能影响 Agent 自动模式的产品路线。",
+    "topics/ai-native-companies.md": "AI 原生公司之间的人才流动与组织变动，符合本文主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cat-wu-joins-openai-to-lead-core-products-product-management.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-auto-mode.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品负责人流动，与帖文主角及其原岗位最相关。",
+      "topics/agentic-ai-foundation.md": "OpenAI Core Products 与智能体基础能力方向相关，适合作为背景参考。",
+      "topics/agent-auto-mode.md": "产品负责人转岗可能影响 Agent 自动模式的产品路线。",
+      "topics/ai-native-companies.md": "AI 原生公司之间的人才流动与组织变动，符合本文主题。"
+    },
+    "notes": "Source is an X post by FinanceYF5 referencing Cat Wu's announcement; claims are attributed to the post and not independently verified beyond the article.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cat-wu-joins-openai-to-lead-core-products-product-management.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

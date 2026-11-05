@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:11:35.233Z",
+  "url": "https://x.com/FinanceYF5/status/2118186514115133460",
+  "slug": "b5b29295050810ed",
+  "content_hash": "31b5110aaa3f1b5e8f624e18835fbed38eeb88d802b71595eab933606837fb28",
+  "source": {
+    "path": "sources/articles/complete-original-game-made-in-24-hours-with-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "与“用 AI 快速做小游戏”主题最贴近"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及以 AI 缩短软件/游戏制作周期"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 驱动游戏制作的模型拐点讨论"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "与“用 AI 快速做小游戏”主题最贴近",
+    "topics/vibe-gaming-model-inflection.md": "涉及 AI 驱动游戏制作的模型拐点讨论",
+    "topics/software-factory.md": "涉及以 AI 缩短软件/游戏制作周期"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/complete-original-game-made-in-24-hours-with-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "与“用 AI 快速做小游戏”主题最贴近",
+      "topics/vibe-gaming-model-inflection.md": "涉及 AI 驱动游戏制作的模型拐点讨论",
+      "topics/software-factory.md": "涉及以 AI 缩短软件/游戏制作周期"
+    },
+    "notes": "仅基于单条 X 帖文，未独立核实游戏是否真实存在或工具版本是否准确。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/complete-original-game-made-in-24-hours-with-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

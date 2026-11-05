@@ -1,0 +1,23 @@
+{
+  "slug": "6c6e979e42f88db6",
+  "url": "https://x.com/0xLogicrw/status/2118276783095087315",
+  "title": "Kimi Hosted Agents",
+  "digest": "2026-11-05-cn-x.md",
+  "status": "filed",
+  "hash": "6c6e979e42f88db64bef0d434f4cd41501129ba2ee8a68c5c8d94713232ffa2c",
+  "first_seen": "2026-11-05T12:02:29.836Z",
+  "last_seen": "2026-11-05T12:02:29.836Z",
+  "fetched_at": "2026-11-05T12:02:37.627Z",
+  "content_hash": "a721838888e089f767e78042c1ca2ec5c78941683b4aab2bff53ac8cd20436f0",
+  "article_path": "articles/6c6e979e42f88db6.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118276783095087315",
+  "source_path": "sources/articles/moonshot-ai-launches-kimi-hosted-agents-cloud-service.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T12:15:20.722Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

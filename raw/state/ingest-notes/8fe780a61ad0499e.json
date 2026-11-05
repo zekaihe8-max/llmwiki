@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/company-agent-harness.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 社区插件，与该主题的 Agent Harness 插件讨论最贴近。",
+    "topics/minimal-core-community-extensions.md": "dsh-im 属于社区提供的扩展插件，与精简核心与社区扩展的主题相关。",
+    "topics/company-agent-harness.md": "涉及 DeepSeek Harness 的部署与远程任务编排，与公司级 Agent Harness 主题相关。",
+    "topics/harness-plugin-style-fragmentation.md": "提及插件市场安装与多平台接入，涉及 Harness 插件体验，与现有主题重复。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 社区插件，与该主题的 Agent Harness 插件讨论最贴近。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "dsh-im 属于社区提供的扩展插件，与精简核心与社区扩展的主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及 DeepSeek Harness 的部署与远程任务编排，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "提及插件市场安装与多平台接入，涉及 Harness 插件体验，与现有主题重复。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @xiaomovps 的帖文，未独立核实插件细节，均用「帖文称」表述。"
+}

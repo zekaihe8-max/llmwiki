@@ -1,0 +1,23 @@
+{
+  "slug": "29cbe7ec46fec11b",
+  "url": "https://x.com/0xLogicrw/status/2118300122375499922",
+  "title": "OpenAI 挖 Linux 内核漏洞",
+  "digest": "2026-11-05-cn-x.md",
+  "status": "filed",
+  "hash": "29cbe7ec46fec11b9b1e222a391e88865abb70df790e78b1cd8acd092109cece",
+  "first_seen": "2026-11-05T12:02:29.836Z",
+  "last_seen": "2026-11-05T12:02:29.836Z",
+  "fetched_at": "2026-11-05T12:02:36.831Z",
+  "content_hash": "33d83c58d780c69f05badfbb9d51c4a86c27821edd42e55663ae8639a3ea7d95",
+  "article_path": "articles/29cbe7ec46fec11b.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118300122375499922",
+  "source_path": "sources/articles/openai-mines-linux-kernel-vulnerabilities-with-ai.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T12:12:16.006Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

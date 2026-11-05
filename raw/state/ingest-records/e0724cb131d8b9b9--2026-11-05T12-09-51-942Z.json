@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:09:51.942Z",
+  "url": "https://x.com/xiaomovps/status/2118220105620562129",
+  "slug": "e0724cb131d8b9b9",
+  "content_hash": "a79520dd2061710ccd1955cbfba2d606ab737c6b2edf46b8f4fc415450080058",
+  "source": {
+    "path": "sources/articles/five-grok-bot-money-making-cases.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/ai-assisted-local-businesses.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "案例中提到制作 Grok Bot 模板并获奖励，涉及 Agent 技能/模板编写。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "案例中包含帮商家做广告投放和获客，属于 AI 助力本地小生意。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Grok Bot 社区用法，与该主题直接相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 在 X 平台的生态与定位。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文聚焦 Grok Bot 社区用法，与该主题直接相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 平台的生态与定位。",
+    "topics/ai-assisted-local-businesses.md": "案例中包含帮商家做广告投放和获客，属于 AI 助力本地小生意。",
+    "topics/agent-skill-authoring.md": "案例中提到制作 Grok Bot 模板并获奖励，涉及 Agent 技能/模板编写。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/five-grok-bot-money-making-cases.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/ai-assisted-local-businesses.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "帖文聚焦 Grok Bot 社区用法，与该主题直接相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 平台的生态与定位。",
+      "topics/ai-assisted-local-businesses.md": "案例中包含帮商家做广告投放和获客，属于 AI 助力本地小生意。",
+      "topics/agent-skill-authoring.md": "案例中提到制作 Grok Bot 模板并获奖励，涉及 Agent 技能/模板编写。"
+    },
+    "notes": "来源为 X 帖文，其中收益声明均为作者自述或短期估算，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/five-grok-bot-money-making-cases.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "95ccedbdd45f0af8",
+  "url": "https://x.com/heydengai/status/2118299284726534458",
+  "title": "Remote 不如 SSH + tmux",
+  "digest": "2026-11-05-cn-x.md",
+  "status": "filed",
+  "hash": "95ccedbdd45f0af8387352d4c94170e53741fcd14e7ca8a9ec571b4d0e705dec",
+  "first_seen": "2026-11-05T12:02:29.836Z",
+  "last_seen": "2026-11-05T12:02:29.836Z",
+  "fetched_at": "2026-11-05T12:02:39.138Z",
+  "content_hash": "8412966509adf7223a09ebfec2420b1f9706522770e93abb5784695134521112",
+  "article_path": "articles/95ccedbdd45f0af8.md",
+  "fetched_url": "https://x.com/heydengai/status/2118299284726534458",
+  "source_path": "sources/articles/remote-is-no-match-for-ssh-tmux.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T12:30:20.701Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

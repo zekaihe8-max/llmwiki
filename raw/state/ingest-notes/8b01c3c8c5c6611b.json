@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "本文报道百度开源发布 ERNIE 5.5 Flash Base，属开放权重前沿模型发布，主题高度相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Flash 系列模型发布与 Pro/Flash 定位，与本文 ERNIE 5.5 Flash Base 相关。",
+    "topics/china-open-source-lead-us-compute.md": "百度作为中国厂商开源大模型，与中国开源领先话题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中讨论 benchmark 对比未用最新模型且列出同参数量级模型，涉及公开榜单质量审视。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "本文报道百度开源发布 ERNIE 5.5 Flash Base，属开放权重前沿模型发布，主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Flash 系列模型发布与 Pro/Flash 定位，与本文 ERNIE 5.5 Flash Base 相关。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "百度作为中国厂商开源大模型，与中国开源领先话题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中讨论 benchmark 对比未用最新模型且列出同参数量级模型，涉及公开榜单质量审视。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

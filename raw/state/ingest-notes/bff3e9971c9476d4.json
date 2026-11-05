@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章核心是生图参考图像与 GIF 生成，与该主题的生图参考库和质量边界最为贴近",
+    "topics/html-image-fun-knowledge-learning.md": "表情包制作属于生图趣味应用，与该主题的生图趣味知识学习产品相关",
+    "topics/pro-vs-flash-model-strategy.md": "OpenAI 提及 API 新增两款模型与生成速度提升，涉及模型策略与产品定位"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章核心是生图参考图像与 GIF 生成，与该主题的生图参考库和质量边界最为贴近"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "表情包制作属于生图趣味应用，与该主题的生图趣味知识学习产品相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "OpenAI 提及 API 新增两款模型与生成速度提升，涉及模型策略与产品定位"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实的主张已用「帖文称」标注；未引用图片 URL，仅引用文中可见文字。"
+}

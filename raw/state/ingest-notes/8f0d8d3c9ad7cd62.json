@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接提及 Claude Code，与离职人员的原雇主相关",
+    "topics/ai-native-companies.md": "OpenAI 是 AI 原生公司，是人才流动的去向背景",
+    "topics/pre-ipo-talent-departure-motives.md": "涉及 AI 产品经理离职并加入另一 AI 实验室"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接提及 Claude Code，与离职人员的原雇主相关"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 是 AI 原生公司，是人才流动的去向背景"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 产品经理离职并加入另一 AI 实验室"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均归属于 X 帖文，未独立核实。"
+}

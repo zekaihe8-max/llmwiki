@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:06:10.746Z",
+  "url": "https://x.com/op7418/status/2118154688101331319",
+  "slug": "8f0d8d3c9ad7cd62",
+  "content_hash": "b92815873d0370fa49eb11d7401338177d439b35a4d25c5d63e01954063be516",
+  "source": {
+    "path": "sources/articles/claude-code-product-manager-cat-wu-to-join-openai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 是 AI 原生公司，是人才流动的去向背景"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接提及 Claude Code，与离职人员的原雇主相关"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 产品经理离职并加入另一 AI 实验室"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接提及 Claude Code，与离职人员的原雇主相关",
+    "topics/ai-native-companies.md": "OpenAI 是 AI 原生公司，是人才流动的去向背景",
+    "topics/pre-ipo-talent-departure-motives.md": "涉及 AI 产品经理离职并加入另一 AI 实验室"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-product-manager-cat-wu-to-join-openai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/ai-native-companies.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接提及 Claude Code，与离职人员的原雇主相关",
+      "topics/ai-native-companies.md": "OpenAI 是 AI 原生公司，是人才流动的去向背景",
+      "topics/pre-ipo-talent-departure-motives.md": "涉及 AI 产品经理离职并加入另一 AI 实验室"
+    },
+    "notes": "所有主张均归属于 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-product-manager-cat-wu-to-join-openai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
