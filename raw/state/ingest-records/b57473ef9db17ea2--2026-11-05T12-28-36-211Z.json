@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:28:36.211Z",
+  "url": "https://x.com/vista8/status/2118290872781652467",
+  "slug": "b57473ef9db17ea2",
+  "content_hash": "e71eb81bddf8466b3b9610b076146aaeae62835b88b86b3fad9a8782112146c7",
+  "source": {
+    "path": "sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-local-businesses.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "AJ 分享主题涉及海外营销增长，与 AI 助力业务增长的主题有交叉。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文重点介绍 AI 社区 WaytoAGI 及其创始人，与 AI 原生公司/社区主题相关。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "文章标题提示涉及深圳 GEO 大会，与 GEO 相关条目最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "文章标题提示涉及深圳 GEO 大会，与 GEO 相关条目最为贴近。",
+    "topics/ai-native-companies.md": "帖文重点介绍 AI 社区 WaytoAGI 及其创始人，与 AI 原生公司/社区主题相关。",
+    "topics/ai-assisted-local-businesses.md": "AJ 分享主题涉及海外营销增长，与 AI 助力业务增长的主题有交叉。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/geo-personal-website-first-step.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-assisted-local-businesses.md"
+    ],
+    "selection_reasons": {
+      "topics/geo-personal-website-first-step.md": "文章标题提示涉及深圳 GEO 大会，与 GEO 相关条目最为贴近。",
+      "topics/ai-native-companies.md": "帖文重点介绍 AI 社区 WaytoAGI 及其创始人，与 AI 原生公司/社区主题相关。",
+      "topics/ai-assisted-local-businesses.md": "AJ 分享主题涉及海外营销增长，与 AI 助力业务增长的主题有交叉。"
+    },
+    "notes": "All claims are attributed to the X post; no external URLs or facts beyond the article were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

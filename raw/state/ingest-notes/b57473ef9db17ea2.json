@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-local-businesses.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "文章标题提示涉及深圳 GEO 大会，与 GEO 相关条目最为贴近。",
+    "topics/ai-native-companies.md": "帖文重点介绍 AI 社区 WaytoAGI 及其创始人，与 AI 原生公司/社区主题相关。",
+    "topics/ai-assisted-local-businesses.md": "AJ 分享主题涉及海外营销增长，与 AI 助力业务增长的主题有交叉。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "文章标题提示涉及深圳 GEO 大会，与 GEO 相关条目最为贴近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文重点介绍 AI 社区 WaytoAGI 及其创始人，与 AI 原生公司/社区主题相关。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "AJ 分享主题涉及海外营销增长，与 AI 助力业务增长的主题有交叉。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "All claims are attributed to the X post; no external URLs or facts beyond the article were invented."
+}

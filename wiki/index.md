@@ -26,6 +26,84 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [深圳 GEO 大会嘉宾预热：WaytoAGI 创始人 AJ 将分享海外营销增长策略 / Shenzhen GEO Conference Guest Preview: WaytoAGI Founder AJ to Share Overseas Marketing Growth Strategy](./sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md) — 帖文称深圳 GEO 大会嘉宾和议程基本定妆，今日介绍 AI 圈嘉宾 AJ，她将于 11 月 21 日上午分享 WaytoGrowth 海外营销增长策略。 / The post says Shenzhen GEO Conference guests and agenda are basically set, introducing AI-circle guest AJ today, who will share WaytoGrowth overseas marketing growth strategy on the morning of November 21.
+
+- [Leaf 省额度长文：Grok Bot 带法与配额机制 / Leaf's Long Article on Grok Bot Quota Saving and Usage Methods](./sources/articles/leaf-s-long-article-on-grok-bot-quota-saving-and-usage-methods.md) — 帖文称老叶撰写超 5900 字 Grok Bot 省额度与带 Bot 方法指南，获十万级阅读与千余收藏。 / The post says Lao Ye wrote a 5,900-character guide on Grok Bot quota saving and Bot usage, receiving over 100,000 views and more than 1,000 collections.
+
+- [ChatGPT Images 2.6 支持 GIF 参考与生成，做表情包更简单 / ChatGPT Images 2.6 Supports GIF Reference and Generation for Easier Emoji Packs](./sources/articles/chatgpt-images-2-6-supports-gif-reference-and-generation-for-eas.md) — ChatGPT Images 2.6 发布，支持以 GIF 作为参考图像生成 GIF，也可以直接生成 GIF，用户称做表情包从未如此简单。 / ChatGPT Images 2.6 released, supports generating GIFs from GIF reference images or directly; user says making emoji packs has never been simpler.
+
+- [GBA v0.1.3 发布：微信打通与万圣节彩蛋头像 / GBA v0.1.3 Released: WeChat Integration and Halloween Egg Avatar](./sources/articles/gba-v0-1-3-released-wechat-integration-and-halloween-egg-avatar.md) — Grok Bot Anywhere v0.1.3 发布，新增万圣节彩蛋头像同步，并宣布微信已打通 Grok Bot。 / Grok Bot Anywhere v0.1.3 released, adding Halloween egg avatar sync and announcing WeChat integration with Grok Bot.
+
+- [uni-robot-agent：开源AI模型直接控制机器人的统一框架 / uni-robot-agent: A unified framework for open-source AI models to directly control robots](./sources/articles/uni-robot-agent-a-unified-framework-for-open-source-ai-models-to.md) — 清华大学和 UC Berkeley 开发的 uni-robot-agent 框架，让开源 AI 模型能直接控制机器人，并在成本、速度与任务得分上超越闭源模型。 / Tsinghua and UC Berkeley's uni-robot-agent framework lets open-source AI models directly control robots, outperforming closed-source models on cost, speed, and task scores.
+
+- [Ripple-65B Preview：开源65B稠密模型 / Ripple-65B Preview: Open-Source 65B Dense Model](./sources/articles/ripple-65b-preview-open-source-65b-dense-model.md) — 帖文称 Ripple-65B Preview 是基于 Olmo 3 与 StepFun 方案从头训练的开源 65B 稠密模型，成本 3200 万美元，支持 100 万上下文。 / The post describes Ripple-65B Preview as an open-source 65B dense model trained from scratch using AI2 Olmo 3 and StepFun approaches, costing $32 million with a 1-million-token context window.
+
+- [Grok Bot 省额度合集 / Grok Bot Quota Saving Collection](./sources/articles/grok-bot-quota-saving-collection.md) — 蓝哥AI转发Leaf关于Grok Bot省额度方法的整合帖，介绍市面上各类省额度大法。 / Blue Brother AI reposts Leaf's integrated post on Grok Bot quota-saving methods, introducing various quota-saving practices available in the market.
+
+- [ChrisHKAI-Video Skill：贴 X 链接生成 3D 公仔自我介绍短片 / ChrisHKAI-Video Skill: Paste X Link to Generate 3D Doll Self-Introduction Short Video](./sources/articles/chrishkai-video-skill-paste-x-link-to-generate-3d-doll-self-intr.md) — ChrisHKAI 开源的面向编程 Agent 的视频 Skill，贴 X 主页链接即可生成默认 30 秒的 3D 搪胶公仔自我介绍短片，无视频/图片生成。 / ChrisHKAI's open-source video Skill for programming agents: paste an X homepage link to generate a default 30-second 3D clay doll self-introduction short video, with no video or image generation.
+
+- [大佬创业再被收购 / Veteran founders start up, then get acquired again](./sources/articles/veteran-founders-start-up-then-get-acquired-again.md) — 资深技术人员离开大厂创业，数年后被 Meta 或 OpenAI 收购，重回原点，新一轮创业收购周期开启。 / Senior tech professionals leave big tech to start companies, only to be acquired by Meta or OpenAI years later, returning to the start as a new entrepreneurship-acquisition cycle begins.
+
+- [模型能力放大光环 / Model Capability Amplifies the Halo](./sources/articles/model-capability-amplifies-the-halo.md) — 模型能力决定产品是否受关注，并无限放大参与者的光环。 / Model capability determines whether a product receives attention, and infinitely amplifies the halo of those involved.
+
+- [三个免费设计工具 / Three Free Design Tools](./sources/articles/three-free-design-tools.md) — 帖文介绍三款号称 Paper、Figma、Canva 开源替代的免费设计工具。 / The post introduces three free design tools claimed as open-source alternatives to Paper, Figma, and Canva.
+
+- [推特热、现实冷：Agent 热潮与 Uber 真实使用量的反差 / Hot on Twitter, Cold in Reality: The Gap Between Agent Hype and Uber Usage](./sources/articles/hot-on-twitter-cold-in-reality-the-gap-between-agent-hype-and-ub.md) — 推特上 Agent 很火，但 Uber 万圣节周仅有极少订单通过 Agent 完成，揭示智能体热潮与实际落地的差距。 / Agents are hot on Twitter, but Uber saw only a handful of Agent-completed orders during Halloween week, revealing the gap between AI agent hype and real-world adoption.
+
+- [Vibe Coding 是另一种奶头乐 / Vibe Coding Is Another Form of 'Naitou Le'](./sources/articles/vibe-coding-is-another-form-of-naitou-le.md) — 帖文将 Vibe Coding 与看红果短剧相类比，称其为另一种奶头乐，并指出看红果短剧免费，而 Vibe Coding 需要自己花钱购买 Token。 / The post likens Vibe Coding to watching Hongguo short dramas, calling it another form of 'naitou le' and noting that short dramas are free while Vibe Coding requires paying for tokens.
+
+- [逃避真问题：用 AI 编程掩盖缺乏市场验证的产品 / Avoiding the Real Problem: Using AI Programming to Mask a Product Lacking Market Validation](./sources/articles/avoiding-the-real-problem-using-ai-programming-to-mask-a-product.md) — 开发者沉溺于让 Claude 和 Codex 构建功能，却回避向真实用户展示产品并验证需求。 / A developer immerses himself in having Claude and Codex build features while avoiding showing the product to real users and validating demand.
+
+- [Vibe Coding 的成就 / The Achievement of Vibe Coding](./sources/articles/the-achievement-of-vibe-coding.md) — 帖文称 Vibe Coding 最大的成就或许不在于让人人都能写代码，而在于让人人都能制造只有专业程序员才能解决的问题。 / The post claims Vibe Coding's greatest achievement may not be making everyone able to write code, but enabling everyone to create problems only professional programmers can solve.
+
+- [Remote 不如 SSH + tmux / Remote Is No Match for SSH + tmux](./sources/articles/remote-is-no-match-for-ssh-tmux.md) — AI 编程工具主打远程开发，但有人用 Mac mini 发现 SSH + tmux 更好用，人类仍需防掉线。 / AI coding tools emphasize remote development, yet a Mac mini user finds SSH + tmux more usable, and humans still prevent disconnects.
+
+- [AI 杀的是 SaaS 高利润 / AI May Not Kill SaaS, But It Can Kill SaaS's High Margins](./sources/articles/ai-may-not-kill-saas-but-it-can-kill-saas-s-high-margins.md) — AI 通过低成本 Agent 开发削弱 SaaS 的高利润空间，企业仍需安全、稳定与售后。 / AI erodes SaaS high margins via low-cost agent development, while enterprises still need security, stability, and after-sales support.
+
+- [Interrupt 大会第三年：AI Agent 进入“谁负责”阶段 / Interrupt Conference Year Three: AI Agents Enter the “Who Is Responsible” Stage](./sources/articles/interrupt-conference-year-three-ai-agents-enter-the-who-is-respo.md) — LangChain Interrupt 大会第三年新增高管专场，标志 AI Agent 从能力探索转向责任归属讨论。 / LangChain's Interrupt conference adds an executive session in its third year, marking AI agents' shift from capability exploration to accountability.
+
+- [腾讯混元 Hy4 接入 WorkBuddy 后推理集群扩容 10 倍 / Tencent Hunyuan Hy4 inference cluster expanded 10x after WorkBuddy integration](./sources/articles/tencent-hunyuan-hy4-inference-cluster-expanded-10x-after-workbud.md) — 腾讯混元 Hy4 正式版接入 WorkBuddy 首日出现额度与排队，团队紧急将推理集群扩容 10 倍并提高免费体验额度。 / After Tencent Hunyuan Hy4 official version integrated with WorkBuddy, usage limits and queuing appeared on day one; the team urgently expanded the inference cluster 10x and increased free experience quota.
+
+- [月之暗面发布 Kimi Hosted Agents 托管智能体云服务 / Moonshot AI Launches Kimi Hosted Agents Cloud Service](./sources/articles/moonshot-ai-launches-kimi-hosted-agents-cloud-service.md) — 月之暗面推出 Kimi Hosted Agents，将智能体运行框架、工具调用与任务状态托管到云端，企业仅需配置任务与接入数据即可持续运行。 / Moonshot AI launches Kimi Hosted Agents, hosting agent runtime, tool invocation, and task state in the cloud so enterprises only need to configure tasks and connect data for continuous operation.
+
+- [Claude Code 省额度修复 / Claude Code Quota Saving Fix](./sources/articles/claude-code-quota-saving-fix.md) — Anthropic 修复 Claude Code 后台子 Agent 因重复读取对话而浪费额度的问题，单次状态更新成本降约 99%。 / Anthropic fixed a Claude Code issue where background sub-agents wasted quota by re-reading conversations, cutting per-update cost by about 99%.
+
+- [OpenAI 挖 Linux 内核漏洞 / OpenAI Mines Linux Kernel Vulnerabilities with AI](./sources/articles/openai-mines-linux-kernel-vulnerabilities-with-ai.md) — OpenAI 利用未发布模型自动发现 Linux 内核提权漏洞、编写攻击程序并生成补丁，单次实验验证 948 个漏洞，API 费用约 121 万美元。 / OpenAI used an unreleased model to automatically discover Linux kernel privilege-escalation vulnerabilities, write exploits, and generate patches, validating 948 vulnerabilities in one run at about $1.21 million in API costs.
+
+- [24 小时用 AI 做完整原创游戏 / Complete original game made in 24 hours with AI](./sources/articles/complete-original-game-made-in-24-hours-with-ai.md) — 帖文称有人在 24 小时内利用多款 AI 工具完成一款原创游戏。 / The post claims someone completed an original game in 24 hours using multiple AI tools.
+
+- [DeepSeek Token 谁在推理 / Who Infers DeepSeek Tokens](./sources/articles/who-infers-deepseek-tokens.md) — OpenRouter 数据显示 DeepSeek 自营仅承担 16.84% 推理，推理市场高度分散。 / OpenRouter data shows DeepSeek's own inference accounts for only 16.84% of DeepSeek Tokens, with a highly dispersed inference market.
+
+- [Cat Wu 加入 OpenAI 负责 Core Products 产品管理 / Cat Wu Joins OpenAI to Lead Core Products Product Management](./sources/articles/cat-wu-joins-openai-to-lead-core-products-product-management.md) — Claude Code 产品负责人 Cat Wu 离开 Anthropic 加入 OpenAI，主导核心产品产品管理。 / Claude Code product lead Cat Wu leaves Anthropic to join OpenAI, leading product management for Core Products.
+
+- [九个 Grok Bot 分工，拒绝群聊 / Nine Grok Bots Division of Labor, No Group Chats](./sources/articles/nine-grok-bots-division-of-labor-no-group-chats.md) — 帖文称小墨同学用 9 个专职 Grok Bot 通过总入口分派任务，并因浪费 Token 与效果差而放弃群聊方式。 / The post says @xiaomovps uses nine dedicated Grok Bots dispatched through a single entry, and abandoned group chats due to token waste and poor results.
+
+- [Grok Bot 赚钱五案例 / Five Grok Bot Money-Making Cases](./sources/articles/five-grok-bot-money-making-cases.md) — 帖文整理了社区利用 Grok Bot 变现的五个案例，包括闲鱼运营、Bot 模板奖励、自媒体商务、AI 服务售前和商家广告投放。 / The post rounds up five community cases of monetizing Grok Bot, covering Xianyu operations, Bot template rewards, self-media sponsorships, AI service presales, and merchant ad placement.
+
+- [dsh-im 接微信飞书 QQ，DeepSeek Harness 社区插件支持 12 类聊天渠道 / dsh-im connects WeChat, Feishu, QQ; DeepSeek Harness community plugin supports 12 chat channels](./sources/articles/dsh-im-connects-wechat-feishu-qq-deepseek-harness-community-plug.md) — DeepSeek Harness 社区插件 dsh-im 可在插件市场一键安装，接入微信、飞书、QQ 等 12 类聊天渠道，实现手机远程任务下发与模型会话管理。 / The DeepSeek Harness community plugin dsh-im installs from the plugin market and connects WeChat, Feishu, QQ and 12 chat channels for mobile remote task dispatch and model session management.
+
+- [DeepSeek Harness 社区插件实现 B 站与抖音自动化 / DeepSeek Harness Community Plugins Enable Bilibili and Douyin Automation](./sources/articles/deepseek-harness-community-plugins-enable-bilibili-and-douyin-au.md) — DeepSeek Harness 社区出现多款第三方插件，可自动刷 B 站和抖音、发私信与评论，并提醒使用小号避免污染他人评论区。 / Multiple third-party DeepSeek Harness plugins automate Bilibili and Douyin browsing, messaging, and commenting, with warnings to use secondary accounts to avoid polluting others' comment sections.
+
+- [Lovable 创始人复盘：从 GPT Engineer 到 7000 万个项目，架构推倒重来 / Lovable Founder Retrospective: From GPT Engineer to 70 Million Projects, Architecture Rebuilt Multiple Times](./sources/articles/lovable-founder-retrospective-from-gpt-engineer-to-70-million-pr.md) — Lovable 创始人复盘如何多次推倒重构架构，从自主 Agent 转向可预测工具调用、知识文件与运行中机器的分支合并。 / Lovable founder retrospects on repeatedly rebuilding architecture, shifting from autonomous agents to predictable tool calls, knowledge files, and branching/merging running machines.
+
+- [清华×伯克利开源 uni-robot-agent：开源模型零样本操作机器人 / Tsinghua × Berkeley open-source uni-robot-agent: open models zero-shot robot operation](./sources/articles/tsinghua-berkeley-open-source-uni-robot-agent-open-models-zero-s.md) — 清华与伯克利开源的 uni-robot-agent 框架让开源模型无需仿真器真值或专门训练即可零样本操作机器人。 / Tsinghua and Berkeley's open-source uni-robot-agent framework lets open models operate robots zero-shot without simulator ground truth or dedicated training.
+
+- [百度开源 ERNIE 5.5 Flash Base，280B 参数 MoE 模型 / Baidu Open-Sources ERNIE 5.5 Flash Base, 280B-Parameter MoE Model](./sources/articles/baidu-open-sources-ernie-5-5-flash-base-280b-parameter-moe-model.md) — 百度开源发布 ERNIE 5.5 Flash Base，采用 MoE 架构，280B 总参数、每 Token 14B 激活参数。 / Baidu open-sources ERNIE 5.5 Flash Base, an MoE model with 280B total parameters and 14B active parameters per token.
+
+- [Claude Code 产品经理 Cat Wu 将加入 OpenAI / Claude Code Product Manager Cat Wu to Join OpenAI](./sources/articles/claude-code-product-manager-cat-wu-to-join-openai.md) — 帖文称离职的 Claude Code 产品经理 Cat Wu 将加入 OpenAI，负责核心产品产品管理。 / The post says former Claude Code product manager Cat Wu will join OpenAI to lead product management for core products.
+
+- [网易叭哥说语音输入法体验 / NetEase Bage Shuo Voice Input Experience](./sources/articles/netease-bage-shuo-voice-input-experience.md) — 用户在 X 上分享网易免费本地 ASR 语音输入法“叭哥说”的使用体验，并与 Typeless 等产品对比。 / A user on X shares their experience with NetEase's free local ASR voice input "Bage Shuo" and compares it with Typeless and other products.
+
+- [GPT-image-2.6 可直接生成 GIF，用户做大肥鱼表情包 / GPT-image-2.6 can directly generate GIFs; user makes big fat fish emoji packs](./sources/articles/gpt-image-2-6-can-directly-generate-gifs-user-makes-big-fat-fish.md) — 帖文称 GPT-image-2.6 新增直接生成 GIF 动图功能，用户在 GPT 中制作大肥鱼表情包，Codex 则称无法调用 2.6。 / The post says GPT-image-2.6 adds direct GIF animation generation; the user made big fat fish emoji packs in GPT, while Codex reportedly could not call 2.6.
+
+- [逆向 Design Skill：先示例后诱导，绕过直接询问系统提示词 / Reverse-Engineering Claude's Design Skill: Demonstrate First, Then Induce, Avoiding Direct System-Prompt Requests](./sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md) — 帖文称，不直接问 Claude 索取系统提示词，而是先让它用 Design Skill 做简单设计，再要求生成输入输出一致的同类 Skill，即可大体还原原版技能。 / The post claims that instead of directly asking Claude for its system prompt, users should first have it complete a simple design using its Design Skill, then request a similar Skill with identical input/output, roughly reproducing the original.
+
+- [一天合并三万次，人看的是 AI 交上来的证据 / 30,000 Merges a Day: Humans Review AI Evidence, Not Code Lines](./sources/articles/30-000-merges-a-day-humans-review-ai-evidence-not-code-lines.md) — Anthropic 靠让 Claude 先像真实用户一样运行并出具录屏、截图等证据，使人无需逐行审代码，日合并量从 2500 次增至 3 万次，验证成为新瓶颈。 / Anthropic has Claude act like a real user and produce recordings and screenshots as evidence, so humans need not review every line; daily merges rose from 2,500 to 30,000, making verification the new bottleneck.
+
+- [OpenAI 发布 Images 2.6：支持 SVG 导出与 GIF 动图，出图快一半 / OpenAI Releases Images 2.6 with SVG Export, GIF Support, and 50% Faster Generation](./sources/articles/openai-releases-images-2-6-with-svg-export-gif-support-and-50-fa.md) — OpenAI 发布图像模型 Images 2.6，支持导出 SVG 矢量图和生成 GIF 动图，出图速度比上一代快 50%，并推出 Flare 与 Sunburst 两个 API 版本。 / OpenAI releases image model Images 2.6, supporting SVG vector export and GIF animation generation, with 50% faster image generation and two new API variants, Flare and Sunburst.
+
+- [Claude 解出细菌穹窿体结构 / Claude Solves Bacterial Vault Structure](./sources/articles/claude-solves-bacterial-vault-structure.md) — Anthropic 团队利用 Claude 在细菌和噬菌体中发现穹窿体同类，并解出 L05 穹窿体的 3D 结构，将实验分析时间从数周缩短至数天。 / Anthropic's team used Claude to find vault-like proteins in bacteria and phages and solve the 3D structure of L05, cutting analysis time from weeks to days.
+
 - [进了 Grok Bot Team 列表 / Added to Grok Bot Team List](./sources/articles/added-to-grok-bot-team-list.md) — 用户在 X 上被加入 Grok Bot Team 列表，并感谢认可。 / A user on X was added to the Grok Bot Team list and thanked the recognition.
 
 - [Bot 降智常因规则没配好 / Bot Intelligence Drop Often Caused by Misconfigured Rules](./sources/articles/bot-intelligence-drop-often-caused-by-misconfigured-rules.md) — 除了模型本身，Bot 的指令、skills 等规则配置不当也会导致表现降智 / Besides the model itself, misconfigured Bot instructions, skills, and rules can also cause reduced intelligence

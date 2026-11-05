@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:05:42.098Z",
+  "url": "https://x.com/op7418/status/2118255706759651755",
+  "slug": "de368011f14de7a1",
+  "content_hash": "92323a9e9e699ae3c730fdfc69dea659788b85830045353701af2551097618ab",
+  "source": {
+    "path": "sources/articles/netease-bage-shuo-voice-input-experience.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/tools-building-own-models.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及语音转写与输入场景"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "文中提到网易使用自行训练的本地 ASR 模型"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论语音输入法体验与桌面端分开使用的方式"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章核心讨论语音输入法体验与桌面端分开使用的方式",
+    "topics/tools-building-own-models.md": "文中提到网易使用自行训练的本地 ASR 模型",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及语音转写与输入场景"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/netease-bage-shuo-voice-input-experience.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/tools-building-own-models.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "文章核心讨论语音输入法体验与桌面端分开使用的方式",
+      "topics/tools-building-own-models.md": "文中提到网易使用自行训练的本地 ASR 模型",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "涉及语音转写与输入场景"
+    },
+    "notes": "文章发布时间显示为 2026 年 11 月 5 日，所有主张均基于帖文内容，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/netease-bage-shuo-voice-input-experience.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

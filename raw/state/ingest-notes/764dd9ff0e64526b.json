@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-auto-mode.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 的社区插件与网页平台自动化，直接对应该主题。",
+    "topics/agent-auto-mode.md": "文中多个项目实现自动刷视频、发私信与评论，属于智能体自动模式场景。",
+    "topics/minimal-core-community-extensions.md": "文中介绍的均为社区第三方插件扩展，而非官方核心功能。",
+    "topics/tech-misuse-concern-continuity.md": "帖文明确提醒勿用自动模式污染他人评论区，涉及技术滥用关切。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 的社区插件与网页平台自动化，直接对应该主题。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中多个项目实现自动刷视频、发私信与评论，属于智能体自动模式场景。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "文中介绍的均为社区第三方插件扩展，而非官方核心功能。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文明确提醒勿用自动模式污染他人评论区，涉及技术滥用关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新增或修改主题文件。"
+}

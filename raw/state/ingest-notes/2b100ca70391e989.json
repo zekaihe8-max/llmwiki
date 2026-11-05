@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文中被收购方与 Meta、OpenAI 等 AI 大厂相关，最接近 AI 原生公司话题",
+    "topics/pre-ipo-talent-departure-motives.md": "文中核心是资深人才离开大厂创业，与人才离职动机话题相近",
+    "topics/enterprise-ai-digital-employee-headcount.md": "Meta 作为大厂在 AI 领域的收购动作，与大厂 AI 组织与编制话题相邻"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中被收购方与 Meta、OpenAI 等 AI 大厂相关，最接近 AI 原生公司话题"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文中核心是资深人才离开大厂创业，与人才离职动机话题相近"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "Meta 作为大厂在 AI 领域的收购动作，与大厂 AI 组织与编制话题相邻"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 5 日，均按原文引用，未自行核实。"
+}

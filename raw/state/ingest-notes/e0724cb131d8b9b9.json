@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/ai-assisted-local-businesses.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文聚焦 Grok Bot 社区用法，与该主题直接相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 平台的生态与定位。",
+    "topics/ai-assisted-local-businesses.md": "案例中包含帮商家做广告投放和获客，属于 AI 助力本地小生意。",
+    "topics/agent-skill-authoring.md": "案例中提到制作 Grok Bot 模板并获奖励，涉及 Agent 技能/模板编写。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Grok Bot 社区用法，与该主题直接相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 在 X 平台的生态与定位。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "案例中包含帮商家做广告投放和获客，属于 AI 助力本地小生意。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "案例中提到制作 Grok Bot 模板并获奖励，涉及 Agent 技能/模板编写。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，其中收益声明均为作者自述或短期估算，未经独立核实。"
+}

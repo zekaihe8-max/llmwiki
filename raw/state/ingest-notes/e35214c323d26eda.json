@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/local-open-assistant-models.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章主体是开放权重的前沿大语言模型，与该主题直接相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文涉及模型评分与未与国产模型比较的表述，属于社区实测与刷分话题。",
+    "topics/local-open-assistant-models.md": "Ripple-65B 是开源助手类模型，与本地开放助手模型主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文中未核实的评分主张需要对公开榜单质量保持审慎。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章主体是开放权重的前沿大语言模型，与该主题直接相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型评分与未与国产模型比较的表述，属于社区实测与刷分话题。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Ripple-65B 是开源助手类模型，与本地开放助手模型主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文中未核实的评分主张需要对公开榜单质量保持审慎。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 Gorden_Sun 于 2026 年 11 月 5 日发布的帖文，未独立核实模型性能与成本主张。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是如何逆向并复写 Agent Skill，与技能编写主题直接相关。",
+    "topics/context-engineering-for-agents.md": "方法依赖将完整 Skill 载入上下文再诱导输出，属于上下文工程范畴。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及 Claude 与设计↔代码技能，主题与帖文场景相近。",
+    "topics/reuse-before-write.md": "帖文主张先利用模型已有能力再复写，符合先复用再编写的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是如何逆向并复写 Agent Skill，与技能编写主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "方法依赖将完整 Skill 载入上下文再诱导输出，属于上下文工程范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 与设计↔代码技能，主题与帖文场景相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文主张先利用模型已有能力再复写，符合先复用再编写的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 5 日 12:59 AM，未独立核实其声明。"
+}

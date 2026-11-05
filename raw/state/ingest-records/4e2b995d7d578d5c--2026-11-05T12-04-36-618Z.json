@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:04:36.618Z",
+  "url": "https://x.com/dotey/status/2118146071020888193",
+  "slug": "4e2b995d7d578d5c",
+  "content_hash": "61b3cc1e250f6de3f03ff457a953802321e1697451dfda56e48a8ebc662bcd08",
+  "source": {
+    "path": "sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是如何逆向并复写 Agent Skill，与技能编写主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "方法依赖将完整 Skill 载入上下文再诱导输出，属于上下文工程范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 与设计↔代码技能，主题与帖文场景相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文主张先利用模型已有能力再复写，符合先复用再编写的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是如何逆向并复写 Agent Skill，与技能编写主题直接相关。",
+    "topics/context-engineering-for-agents.md": "方法依赖将完整 Skill 载入上下文再诱导输出，属于上下文工程范畴。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及 Claude 与设计↔代码技能，主题与帖文场景相近。",
+    "topics/reuse-before-write.md": "帖文主张先利用模型已有能力再复写，符合先复用再编写的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是如何逆向并复写 Agent Skill，与技能编写主题直接相关。",
+      "topics/context-engineering-for-agents.md": "方法依赖将完整 Skill 载入上下文再诱导输出，属于上下文工程范畴。",
+      "topics/design-to-code-byo-subscriptions.md": "涉及 Claude 与设计↔代码技能，主题与帖文场景相近。",
+      "topics/reuse-before-write.md": "帖文主张先利用模型已有能力再复写，符合先复用再编写的思路。"
+    },
+    "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 5 日 12:59 AM，未独立核实其声明。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/reverse-engineering-claude-s-design-skill-demonstrate-first-then.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

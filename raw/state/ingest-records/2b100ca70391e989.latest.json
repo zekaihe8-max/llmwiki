@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:21:30.153Z",
+  "url": "https://x.com/dingyi/status/2118149343920508937",
+  "slug": "2b100ca70391e989",
+  "content_hash": "27450b8db4e41eeb91fca79dcf672657c3e58e822316b539aad85eccfe520ebb",
+  "source": {
+    "path": "sources/articles/veteran-founders-start-up-then-get-acquired-again.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中被收购方与 Meta、OpenAI 等 AI 大厂相关，最接近 AI 原生公司话题"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "Meta 作为大厂在 AI 领域的收购动作，与大厂 AI 组织与编制话题相邻"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文中核心是资深人才离开大厂创业，与人才离职动机话题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文中被收购方与 Meta、OpenAI 等 AI 大厂相关，最接近 AI 原生公司话题",
+    "topics/pre-ipo-talent-departure-motives.md": "文中核心是资深人才离开大厂创业，与人才离职动机话题相近",
+    "topics/enterprise-ai-digital-employee-headcount.md": "Meta 作为大厂在 AI 领域的收购动作，与大厂 AI 组织与编制话题相邻"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/veteran-founders-start-up-then-get-acquired-again.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文中被收购方与 Meta、OpenAI 等 AI 大厂相关，最接近 AI 原生公司话题",
+      "topics/pre-ipo-talent-departure-motives.md": "文中核心是资深人才离开大厂创业，与人才离职动机话题相近",
+      "topics/enterprise-ai-digital-employee-headcount.md": "Meta 作为大厂在 AI 领域的收购动作，与大厂 AI 组织与编制话题相邻"
+    },
+    "notes": "帖文发布时间显示为 2026 年 11 月 5 日，均按原文引用，未自行核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/veteran-founders-start-up-then-get-acquired-again.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

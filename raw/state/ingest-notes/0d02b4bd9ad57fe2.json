@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/workflows-before-agents.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "文章核心正是个人 Agent 热潮与实际使用落差，直接对应该主题。",
+    "topics/workflows-before-agents.md": "Uber 数据表明实际任务仍未大规模交给 Agent，佐证工作流优先于智能体的观点。",
+    "topics/agentic-ai-foundation.md": "讨论 Agentic AI 基础与现状，为理解 Agent 热潮与现实冷落提供背景。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "文章核心正是个人 Agent 热潮与实际使用落差，直接对应该主题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "Uber 数据表明实际任务仍未大规模交给 Agent，佐证工作流优先于智能体的观点。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "讨论 Agentic AI 基础与现状，为理解 Agent 热潮与现实冷落提供背景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文截图文本，未引入外部信息。"
+}

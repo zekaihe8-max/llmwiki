@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:03:34.200Z",
+  "url": "https://x.com/dotey/status/2118127825186177270",
+  "slug": "c04d8578adb10a74",
+  "content_hash": "bee69c457c3e7af3d458a5cdf5281176a10a72e7af70d3b197002457ceb928b4",
+  "source": {
+    "path": "sources/articles/openai-releases-images-2-6-with-svg-export-gif-support-and-50-fa.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "文章涉及 SVG 矢量图导出与网页/App 图片应用，与该主题的生图与 HTML 图像知识相关。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 生图质量、格式与编辑边界，与生图质量边界主题相近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Flare 与 Sunburst 分别侧重速度与画质，对应模型策略中速度与质量的取舍。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章面向开发者介绍 API 接入、定价与 Figma/Picsart 集成，涉及开发者体验与产品体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "文章涉及 SVG 矢量图导出与网页/App 图片应用，与该主题的生图与 HTML 图像知识相关。",
+    "topics/image-generation-pose-reference-libraries.md": "文章讨论 AI 生图质量、格式与编辑边界，与生图质量边界主题相近。",
+    "topics/ux-dx-and-ax.md": "文章面向开发者介绍 API 接入、定价与 Figma/Picsart 集成，涉及开发者体验与产品体验。",
+    "topics/pro-vs-flash-model-strategy.md": "Flare 与 Sunburst 分别侧重速度与画质，对应模型策略中速度与质量的取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-releases-images-2-6-with-svg-export-gif-support-and-50-fa.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/html-image-fun-knowledge-learning.md": "文章涉及 SVG 矢量图导出与网页/App 图片应用，与该主题的生图与 HTML 图像知识相关。",
+      "topics/image-generation-pose-reference-libraries.md": "文章讨论 AI 生图质量、格式与编辑边界，与生图质量边界主题相近。",
+      "topics/ux-dx-and-ax.md": "文章面向开发者介绍 API 接入、定价与 Figma/Picsart 集成，涉及开发者体验与产品体验。",
+      "topics/pro-vs-flash-model-strategy.md": "Flare 与 Sunburst 分别侧重速度与画质，对应模型策略中速度与质量的取舍。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题；引用内容仅基于提供的帖文 markdown。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-releases-images-2-6-with-svg-export-gif-support-and-50-fa.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

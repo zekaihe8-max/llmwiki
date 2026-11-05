@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:04:07.032Z",
+  "url": "https://x.com/dotey/status/2118164405594595702",
+  "slug": "511aba84aea9ec8e",
+  "content_hash": "2596b5af1928ebebf4a091bcdf9172cf349f5d7bcc56f176a0451f139b24690f",
+  "source": {
+    "path": "sources/articles/30-000-merges-a-day-humans-review-ai-evidence-not-code-lines.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中提到企业对智能体控制、权限与沙箱的治理担忧。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 编程 Agent 规模化提升代码产出与合并量。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提到 CLAUDE.md、AGENTS.md 作为写给 AI 的项目说明文件。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文直接讨论“软件工厂”、亮灯工厂与熄灯工厂的概念。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文直接讨论“软件工厂”、亮灯工厂与熄灯工厂的概念。",
+    "topics/agent-scaled-engineering.md": "内容涉及 AI 编程 Agent 规模化提升代码产出与合并量。",
+    "topics/agent-compute-and-governance.md": "文中提到企业对智能体控制、权限与沙箱的治理担忧。",
+    "topics/agents-md-token-efficiency.md": "文中提到 CLAUDE.md、AGENTS.md 作为写给 AI 的项目说明文件。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/30-000-merges-a-day-humans-review-ai-evidence-not-code-lines.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "帖文直接讨论“软件工厂”、亮灯工厂与熄灯工厂的概念。",
+      "topics/agent-scaled-engineering.md": "内容涉及 AI 编程 Agent 规模化提升代码产出与合并量。",
+      "topics/agent-compute-and-governance.md": "文中提到企业对智能体控制、权限与沙箱的治理担忧。",
+      "topics/agents-md-token-efficiency.md": "文中提到 CLAUDE.md、AGENTS.md 作为写给 AI 的项目说明文件。"
+    },
+    "notes": "来源为 X 帖文，文中附带 YouTube 短链接，未独立核实视频细节，所有主张均基于帖文文本。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/30-000-merges-a-day-humans-review-ai-evidence-not-code-lines.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

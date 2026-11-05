@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/tools-building-own-models.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章核心讨论语音输入法体验与桌面端分开使用的方式",
+    "topics/tools-building-own-models.md": "文中提到网易使用自行训练的本地 ASR 模型",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及语音转写与输入场景"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论语音输入法体验与桌面端分开使用的方式"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "文中提到网易使用自行训练的本地 ASR 模型"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及语音转写与输入场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章发布时间显示为 2026 年 11 月 5 日，所有主张均基于帖文内容，未独立核实。"
+}

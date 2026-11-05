@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:20:27.690Z",
+  "url": "https://x.com/dingyi/status/2118243497312751984",
+  "slug": "ef492d9ebb76772d",
+  "content_hash": "fd517cd1ce4548ab3e1be5529f6c8d59cf9f5d2e15986235591d335b2973db9a",
+  "source": {
+    "path": "sources/articles/model-capability-amplifies-the-halo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "AI 放大人类影响力/管控跨度，与光环放大逻辑相通"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "标题含“加热/放大”，与模型能力放大光环的主题相近"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及 Claude Code，与作者归因和社区话语权相近"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "模型能力作为决定关注度的核心指标，与智能作为衡量标准相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文直接提及 Claude Code，与作者归因和社区话语权相近",
+    "topics/ai-product-self-rec-amplify.md": "标题含“加热/放大”，与模型能力放大光环的主题相近",
+    "topics/ai-management-span-of-control.md": "AI 放大人类影响力/管控跨度，与光环放大逻辑相通",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "模型能力作为决定关注度的核心指标，与智能作为衡量标准相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/model-capability-amplifies-the-halo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/ai-management-span-of-control.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "帖文直接提及 Claude Code，与作者归因和社区话语权相近",
+      "topics/ai-product-self-rec-amplify.md": "标题含“加热/放大”，与模型能力放大光环的主题相近",
+      "topics/ai-management-span-of-control.md": "AI 放大人类影响力/管控跨度，与光环放大逻辑相通",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "模型能力作为决定关注度的核心指标，与智能作为衡量标准相近"
+    },
+    "notes": "引用仅基于抓取的 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/model-capability-amplifies-the-halo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:24:00.420Z",
+  "url": "https://x.com/0xlangeai/status/2118294503488463347",
+  "slug": "98e491eb3d0a965d",
+  "content_hash": "f9d5fcbd23cd9e1959792fab73b5285e91fcb119e4f5a49be8abed7c176c3cc3",
+  "source": {
+    "path": "sources/articles/chrishkai-video-skill-paste-x-link-to-generate-3d-doll-self-intr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心是一个面向编程 Agent 的开源 Skill，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章描述由 Agent 驱动的视频制作流程，与智能体视频剪辑主题相近。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文章展示以 Skill 形式交付特定交互产品，与 Skills 组合复刻原生感 App 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心是一个面向编程 Agent 的开源 Skill，与 Agent Skill 编写主题直接相关。",
+    "topics/agentic-video-editing.md": "文章描述由 Agent 驱动的视频制作流程，与智能体视频剪辑主题相近。",
+    "topics/skills-stack-native-app-recreation.md": "文章展示以 Skill 形式交付特定交互产品，与 Skills 组合复刻原生感 App 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chrishkai-video-skill-paste-x-link-to-generate-3d-doll-self-intr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-video-editing.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章核心是一个面向编程 Agent 的开源 Skill，与 Agent Skill 编写主题直接相关。",
+      "topics/agentic-video-editing.md": "文章描述由 Agent 驱动的视频制作流程，与智能体视频剪辑主题相近。",
+      "topics/skills-stack-native-app-recreation.md": "文章展示以 Skill 形式交付特定交互产品，与 Skills 组合复刻原生感 App 主题相关。"
+    },
+    "notes": "引用仅基于提供的 X 帖文 markdown，未访问外部链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chrishkai-video-skill-paste-x-link-to-generate-3d-doll-self-intr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

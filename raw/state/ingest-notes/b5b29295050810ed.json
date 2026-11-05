@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "与“用 AI 快速做小游戏”主题最贴近",
+    "topics/vibe-gaming-model-inflection.md": "涉及 AI 驱动游戏制作的模型拐点讨论",
+    "topics/software-factory.md": "涉及以 AI 缩短软件/游戏制作周期"
+  },
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "与“用 AI 快速做小游戏”主题最贴近"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 驱动游戏制作的模型拐点讨论"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及以 AI 缩短软件/游戏制作周期"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于单条 X 帖文，未独立核实游戏是否真实存在或工具版本是否准确。"
+}

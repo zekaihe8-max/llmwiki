@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "直接对应 DeepSeek 自营推理与聚合平台的市场份额对比",
+    "topics/cloud-auto-model-routing.md": "涉及云平台跨模型/跨服务商推理路由与分发",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道选择与推理供应商取舍"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "直接对应 DeepSeek 自营推理与聚合平台的市场份额对比"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台跨模型/跨服务商推理路由与分发"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道选择与推理供应商取舍"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 FinanceYF5 发布的帖文，未核实 OpenRouter 数据真实性。"
+}

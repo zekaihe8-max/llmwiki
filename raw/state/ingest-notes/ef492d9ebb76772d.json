@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文直接提及 Claude Code，与作者归因和社区话语权相近",
+    "topics/ai-product-self-rec-amplify.md": "标题含“加热/放大”，与模型能力放大光环的主题相近",
+    "topics/ai-management-span-of-control.md": "AI 放大人类影响力/管控跨度，与光环放大逻辑相通",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "模型能力作为决定关注度的核心指标，与智能作为衡量标准相近"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及 Claude Code，与作者归因和社区话语权相近"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "标题含“加热/放大”，与模型能力放大光环的主题相近"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "AI 放大人类影响力/管控跨度，与光环放大逻辑相通"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "模型能力作为决定关注度的核心指标，与智能作为衡量标准相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用仅基于抓取的 X 帖文内容，未引入外部事实。"
+}

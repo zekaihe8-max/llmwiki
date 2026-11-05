@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T12:14:54.193Z",
+  "url": "https://x.com/0xLogicrw/status/2118298492578021660",
+  "slug": "b85584ca9e6b699c",
+  "content_hash": "227d340cfda174479ce9ec66f316e3362bfef63f9309ffd34230a21f41e7dfef",
+  "source": {
+    "path": "sources/articles/claude-code-quota-saving-fix.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及 Token 效率与项目指令，与状态更新耗 Token 的问题相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "专门针对 Claude Code 产品，适合作为产品语境参考。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心是编程 Agent 的 Token 开销与省额度优化，直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude Code 用户额度与体验权衡，主题接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章核心是编程 Agent 的 Token 开销与省额度优化，直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及 Claude Code 用户额度与体验权衡，主题接近。",
+    "topics/claude-code-authorship-and-voice.md": "专门针对 Claude Code 产品，适合作为产品语境参考。",
+    "topics/agents-md-token-efficiency.md": "涉及 Token 效率与项目指令，与状态更新耗 Token 的问题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-quota-saving-fix.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "文章核心是编程 Agent 的 Token 开销与省额度优化，直接相关。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及 Claude Code 用户额度与体验权衡，主题接近。",
+      "topics/claude-code-authorship-and-voice.md": "专门针对 Claude Code 产品，适合作为产品语境参考。",
+      "topics/agents-md-token-efficiency.md": "涉及 Token 效率与项目指令，与状态更新耗 Token 的问题相关。"
+    },
+    "notes": "来源为 X 帖文，具体费用占比与版本覆盖细节未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-quota-saving-fix.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
