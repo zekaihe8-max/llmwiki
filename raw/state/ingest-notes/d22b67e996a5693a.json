@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "涉及 AI 辅助视频与动效制作，与 Motion Prompt 的镜头与动效词典主题最为贴近。",
+    "topics/image-generation-pose-reference-libraries.md": "涉及 AI 生成的参考库与质量边界，与 Motion Prompt 的专业词汇与提示词示例相关。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计到代码的转换，与 Motion Prompt 插件将画廊效果转为代码规范接入项目的功能相关。",
+    "topics/ux-dx-and-ax.md": "涉及界面组件与开发者体验，与 Motion Prompt 覆盖界面组件及可视化画廊的方面相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助视频与动效制作，与 Motion Prompt 的镜头与动效词典主题最为贴近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 生成的参考库与质量边界，与 Motion Prompt 的专业词汇与提示词示例相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计到代码的转换，与 Motion Prompt 插件将画廊效果转为代码规范接入项目的功能相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及界面组件与开发者体验，与 Motion Prompt 覆盖界面组件及可视化画廊的方面相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 是典型的 AI 原生公司，其 IPO 估值与收入增长直接反映 AI 原生公司的资本市场表现",
+    "topics/pre-ipo-talent-departure-motives.md": "虽主题聚焦人才离职，但属少数涉及上市前夕动态的现有主题，可关联 IPO 进程背景"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 是典型的 AI 原生公司，其 IPO 估值与收入增长直接反映 AI 原生公司的资本市场表现"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "虽主题聚焦人才离职，但属少数涉及上市前夕动态的现有主题，可关联 IPO 进程背景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post citing WSJ; figures attributed to WSJ/insiders per the post. No independent verification performed."
+}

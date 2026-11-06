@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:14:14.804Z",
+  "url": "https://x.com/0xLogicrw/status/2118614889908625425",
+  "slug": "dcb4083042436160",
+  "content_hash": "8d340c87d595d28abc2d7083177f4c7f8fe2ffc71d55666793df5836621caf7a",
+  "source": {
+    "path": "sources/articles/anthropic-ipo-valuation-under-pressure-institutional-investors-s.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 是典型的 AI 原生公司，其 IPO 估值与收入增长直接反映 AI 原生公司的资本市场表现"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "虽主题聚焦人才离职，但属少数涉及上市前夕动态的现有主题，可关联 IPO 进程背景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 是典型的 AI 原生公司，其 IPO 估值与收入增长直接反映 AI 原生公司的资本市场表现",
+    "topics/pre-ipo-talent-departure-motives.md": "虽主题聚焦人才离职，但属少数涉及上市前夕动态的现有主题，可关联 IPO 进程背景"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-ipo-valuation-under-pressure-institutional-investors-s.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Anthropic 是典型的 AI 原生公司，其 IPO 估值与收入增长直接反映 AI 原生公司的资本市场表现",
+      "topics/pre-ipo-talent-departure-motives.md": "虽主题聚焦人才离职，但属少数涉及上市前夕动态的现有主题，可关联 IPO 进程背景"
+    },
+    "notes": "Source is an X post citing WSJ; figures attributed to WSJ/insiders per the post. No independent verification performed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-ipo-valuation-under-pressure-institutional-investors-s.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

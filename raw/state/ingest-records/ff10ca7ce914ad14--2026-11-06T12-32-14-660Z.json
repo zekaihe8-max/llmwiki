@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:32:14.660Z",
+  "url": "https://x.com/heydengai/status/2118653116421750907",
+  "slug": "ff10ca7ce914ad14",
+  "content_hash": "87cb2a80d8c94abddb375298f8df051735281cf7220f4bda63d4187d6cc0b6bd",
+  "source": {
+    "path": "sources/articles/ai-first-destroys-the-browser-then-rebuilds-it.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/reuse-before-write.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "1 万行 AI 代码却连 Tab 键都不可用，体现 AI 生成代码与可用性的双标张力。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点是“先废掉浏览器能力再重造”，与“先复用再编写”形成反面教材。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文直接对比浏览器原生键盘导航（UX）与 AI React 代码（DX），属该主题讨论范围。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "AI 生成代码丢失基础交互，与 Vibe Coding 中代码生成与上下文/记忆脱节相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文直接对比浏览器原生键盘导航（UX）与 AI React 代码（DX），属该主题讨论范围。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "1 万行 AI 代码却连 Tab 键都不可用，体现 AI 生成代码与可用性的双标张力。",
+    "topics/reuse-before-write.md": "帖文核心观点是“先废掉浏览器能力再重造”，与“先复用再编写”形成反面教材。",
+    "topics/vibe-coding-memory-paradox.md": "AI 生成代码丢失基础交互，与 Vibe Coding 中代码生成与上下文/记忆脱节相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-first-destroys-the-browser-then-rebuilds-it.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/reuse-before-write.md",
+      "topics/vibe-coding-memory-paradox.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "帖文直接对比浏览器原生键盘导航（UX）与 AI React 代码（DX），属该主题讨论范围。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "1 万行 AI 代码却连 Tab 键都不可用，体现 AI 生成代码与可用性的双标张力。",
+      "topics/reuse-before-write.md": "帖文核心观点是“先废掉浏览器能力再重造”，与“先复用再编写”形成反面教材。",
+      "topics/vibe-coding-memory-paradox.md": "AI 生成代码丢失基础交互，与 Vibe Coding 中代码生成与上下文/记忆脱节相关。"
+    },
+    "notes": "Source is a single X post by @heydengai; all claims are grounded in the fetched article only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-first-destroys-the-browser-then-rebuilds-it.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

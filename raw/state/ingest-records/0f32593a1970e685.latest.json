@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:24:57.115Z",
+  "url": "https://x.com/heydengai/status/2118660219421233602",
+  "slug": "0f32593a1970e685",
+  "content_hash": "a6c96dec74c1d71a60cb83a220f65851ecef7de4be1d7468a2de012d196737ac",
+  "source": {
+    "path": "sources/articles/pyramids-built-without-mcp-skills-or-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及“没有 Skills”，与 Agent Skill 编写主题相关，现有条目无需变更。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Skills 概念，与 Agent Skills 开放标准主题相关，现有条目无需变更。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论对智能体的依赖，与 Agentic AI 基础主题相关，现有条目无需变更。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文主张无需 Agent 也能完成宏大工程，与“工作流优先于智能体”主题相近，现有条目无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文主张无需 Agent 也能完成宏大工程，与“工作流优先于智能体”主题相近，现有条目无需变更。",
+    "topics/agent-skill-authoring.md": "帖文明确提及“没有 Skills”，与 Agent Skill 编写主题相关，现有条目无需变更。",
+    "topics/agent-skills-open-standard.md": "帖文涉及 Skills 概念，与 Agent Skills 开放标准主题相关，现有条目无需变更。",
+    "topics/agentic-ai-foundation.md": "帖文讨论对智能体的依赖，与 Agentic AI 基础主题相关，现有条目无需变更。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pyramids-built-without-mcp-skills-or-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "帖文主张无需 Agent 也能完成宏大工程，与“工作流优先于智能体”主题相近，现有条目无需变更。",
+      "topics/agent-skill-authoring.md": "帖文明确提及“没有 Skills”，与 Agent Skill 编写主题相关，现有条目无需变更。",
+      "topics/agent-skills-open-standard.md": "帖文涉及 Skills 概念，与 Agent Skills 开放标准主题相关，现有条目无需变更。",
+      "topics/agentic-ai-foundation.md": "帖文讨论对智能体的依赖，与 Agentic AI 基础主题相关，现有条目无需变更。"
+    },
+    "notes": "所有主张均源自单条 X 帖文，未经独立核实，已在摘要与 bullets 中用“帖文称”限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pyramids-built-without-mcp-skills-or-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

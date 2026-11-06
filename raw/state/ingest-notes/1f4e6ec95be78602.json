@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/cyber-research-models-without-jailbreak.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "直接对应帖文核心指标：AI 能可靠完成的最长网安任务时长增长。",
+    "topics/agent-swarms-cyber-defense.md": "涉及网防 Agent 群体能力演进，与攻防能力翻倍曲线相关。",
+    "topics/open-models-cyber-defense.md": "开源模型在网络防御中的角色，呼应漏洞利用与修补的不对称。",
+    "topics/cyber-research-models-without-jailbreak.md": "网安研究模型选型与 Harness，关联模型可靠完成任务的评估方式。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "直接对应帖文核心指标：AI 能可靠完成的最长网安任务时长增长。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及网防 Agent 群体能力演进，与攻防能力翻倍曲线相关。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "开源模型在网络防御中的角色，呼应漏洞利用与修补的不对称。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "网安研究模型选型与 Harness，关联模型可靠完成任务的评估方式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文日期为 2026-11-06，属于前瞻性陈述；所有量化主张均标注为「帖文称」。"
+}

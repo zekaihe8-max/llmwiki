@@ -1,0 +1,23 @@
+{
+  "slug": "6d96a0fd1ab952b6",
+  "url": "https://x.com/shao__meng/status/2118625562864275781",
+  "title": "Uber 加速 Spark",
+  "digest": "2026-11-06-cn-x.md",
+  "status": "filed",
+  "hash": "6d96a0fd1ab952b61430b9f9c6ee27b16e93af95a4df4bc9327610e6930f24a5",
+  "first_seen": "2026-11-06T12:02:16.572Z",
+  "last_seen": "2026-11-06T12:02:16.572Z",
+  "fetched_at": "2026-11-06T12:02:20.482Z",
+  "content_hash": "0d83b1d9dc0f5e29108318a0be66001234ee52511b23cdc28fbf2244d30406e4",
+  "article_path": "articles/6d96a0fd1ab952b6.md",
+  "fetched_url": "https://x.com/shao__meng/status/2118625562864275781",
+  "source_path": "sources/articles/uber-accelerates-spark-gluten-velox-and-quanton-optimization-pat.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T12:16:25.196Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

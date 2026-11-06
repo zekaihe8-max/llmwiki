@@ -1,0 +1,23 @@
+{
+  "slug": "bda131f3bb6136d6",
+  "url": "https://x.com/yetone/status/2118666503361057159",
+  "title": "magpie 修额度透传",
+  "digest": "2026-11-06-cn-x.md",
+  "status": "filed",
+  "hash": "bda131f3bb6136d64aef6546c577f99e92a7fa2ab6737ceb43b968d12420033e",
+  "first_seen": "2026-11-06T12:02:16.572Z",
+  "last_seen": "2026-11-06T12:02:16.572Z",
+  "fetched_at": "2026-11-06T12:02:28.276Z",
+  "content_hash": "8db3bfe370b190a77161973ede563ec7af7bac132eb6b717fc82b2c09c7f3081",
+  "article_path": "articles/bda131f3bb6136d6.md",
+  "fetched_url": "https://x.com/yetone/status/2118666503361057159",
+  "source_path": "sources/articles/magpie-passes-chatgpt-quota-exhausted-status-through-to-codex.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T12:52:51.618Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

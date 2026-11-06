@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:04:51.855Z",
+  "url": "https://x.com/xiaomovps/status/2118637026581094656",
+  "slug": "f078c843ce9b0022",
+  "content_hash": "80e410e1f292511e75fd4a4b2775876069e595859180445627cc9b24a28b3f85",
+  "source": {
+    "path": "sources/articles/grok-bot-quota-drops-faster-user-reports-model-routing-and-exper.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注智能体使用体验与额度关系，对应文中体验变差与额度掉快的双重反馈。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与 Agent 桥接，与本文额度下降主题最相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，对应文中关于项目盈利与削减体验的推断。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与测试，可关联文中提到的额度异常与下降现象。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与 Agent 桥接，与本文额度下降主题最相关。",
+    "topics/coding-agent-ux-vs-quota.md": "关注智能体使用体验与额度关系，对应文中体验变差与额度掉快的双重反馈。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与测试，可关联文中提到的额度异常与下降现象。",
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，对应文中关于项目盈利与削减体验的推断。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-quota-drops-faster-user-reports-model-routing-and-exper.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与 Agent 桥接，与本文额度下降主题最相关。",
+      "topics/coding-agent-ux-vs-quota.md": "关注智能体使用体验与额度关系，对应文中体验变差与额度掉快的双重反馈。",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限与测试，可关联文中提到的额度异常与下降现象。",
+      "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，对应文中关于项目盈利与削减体验的推断。"
+    },
+    "notes": "所有关于模型路由、额度下降、额度异常及厂商动机的表述均来源于单一 X 帖文的用户主张，未经独立核实，已在摘要与 bullets 中使用“帖文称”“作者称”进行属性标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-quota-drops-faster-user-reports-model-routing-and-exper.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

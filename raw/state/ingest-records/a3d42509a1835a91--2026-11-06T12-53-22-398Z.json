@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:53:22.398Z",
+  "url": "https://x.com/yetone/status/2118664671943434360",
+  "slug": "a3d42509a1835a91",
+  "content_hash": "2410f1990152811dd93c320b794d1e1741ba64abe3cc37cf63927b70cc71820b",
+  "source": {
+    "path": "sources/articles/forced-responses-api.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论面向 Agent 的模型渠道取舍，与 Responses API 与 Chat API 的切换相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台自动跨模型编排，与分组强制走 Responses API 的路由逻辑最相近。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及公司级 Agent Harness，与 magpie 这类 Agent 工具的版本更新相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及多 Harness 路由基建，与 magpie 分组路由行为相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "涉及云平台自动跨模型编排，与分组强制走 Responses API 的路由逻辑最相近。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论面向 Agent 的模型渠道取舍，与 Responses API 与 Chat API 的切换相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "涉及多 Harness 路由基建，与 magpie 分组路由行为相关。",
+    "topics/company-agent-harness.md": "涉及公司级 Agent Harness，与 magpie 这类 Agent 工具的版本更新相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/forced-responses-api.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/cloud-auto-model-routing.md": "涉及云平台自动跨模型编排，与分组强制走 Responses API 的路由逻辑最相近。",
+      "topics/agent-model-channel-tradeoffs.md": "讨论面向 Agent 的模型渠道取舍，与 Responses API 与 Chat API 的切换相关。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "涉及多 Harness 路由基建，与 magpie 分组路由行为相关。",
+      "topics/company-agent-harness.md": "涉及公司级 Agent Harness，与 magpie 这类 Agent 工具的版本更新相关。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/forced-responses-api.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:43:33.020Z",
+  "url": "https://x.com/op7418/status/2118343623901389146",
+  "slug": "b8e1e8c92eb1745b",
+  "content_hash": "7d54c908994e6efab15b529cf4343c123bf1a347e9496cdaf6c5d0e89930660e",
+  "source": {
+    "path": "sources/articles/omarchy-4-5-adds-support-for-apple-m1-m2-m3-chips.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/ai-assisted-os-port-wave.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "涉及将 Linux 系统移植到苹果 Silicon 硬件，与系统移植/破解风潮主题相关"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Linux 桌面发行版 Omarchy 4.5，与 Linux 桌面试用主题最相关"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Omarchy 主打精简核心与社区扩展，与该主题方向接近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-taste-led-linux-desktop-trial.md": "文章聚焦 Linux 桌面发行版 Omarchy 4.5，与 Linux 桌面试用主题最相关",
+    "topics/minimal-core-community-extensions.md": "Omarchy 主打精简核心与社区扩展，与该主题方向接近",
+    "topics/ai-assisted-os-port-wave.md": "涉及将 Linux 系统移植到苹果 Silicon 硬件，与系统移植/破解风潮主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/omarchy-4-5-adds-support-for-apple-m1-m2-m3-chips.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-taste-led-linux-desktop-trial.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/ai-assisted-os-port-wave.md"
+    ],
+    "selection_reasons": {
+      "topics/design-taste-led-linux-desktop-trial.md": "文章聚焦 Linux 桌面发行版 Omarchy 4.5，与 Linux 桌面试用主题最相关",
+      "topics/minimal-core-community-extensions.md": "Omarchy 主打精简核心与社区扩展，与该主题方向接近",
+      "topics/ai-assisted-os-port-wave.md": "涉及将 Linux 系统移植到苹果 Silicon 硬件，与系统移植/破解风潮主题相关"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；M4 支持为作者推测。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/omarchy-4-5-adds-support-for-apple-m1-m2-m3-chips.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

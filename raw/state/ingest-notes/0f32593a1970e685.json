@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文主张无需 Agent 也能完成宏大工程，与“工作流优先于智能体”主题相近，现有条目无需变更。",
+    "topics/agent-skill-authoring.md": "帖文明确提及“没有 Skills”，与 Agent Skill 编写主题相关，现有条目无需变更。",
+    "topics/agent-skills-open-standard.md": "帖文涉及 Skills 概念，与 Agent Skills 开放标准主题相关，现有条目无需变更。",
+    "topics/agentic-ai-foundation.md": "帖文讨论对智能体的依赖，与 Agentic AI 基础主题相关，现有条目无需变更。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文主张无需 Agent 也能完成宏大工程，与“工作流优先于智能体”主题相近，现有条目无需变更。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及“没有 Skills”，与 Agent Skill 编写主题相关，现有条目无需变更。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Skills 概念，与 Agent Skills 开放标准主题相关，现有条目无需变更。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论对智能体的依赖，与 Agentic AI 基础主题相关，现有条目无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自单条 X 帖文，未经独立核实，已在摘要与 bullets 中用“帖文称”限定。"
+}

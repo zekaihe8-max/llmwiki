@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:23:57.950Z",
+  "url": "https://x.com/dingyi/status/2118552957000331281",
+  "slug": "7451bd2051ebac17",
+  "content_hash": "85f960b55b119b6a2011d698e12b15c28b62a33f34ca31ae75bd9c7eaa077f75",
+  "source": {
+    "path": "sources/articles/superserve-virtual-machine-sandbox-for-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体运行所需的算力与环境基建，与虚拟机沙箱产品相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Superserve 定位为 Agent 虚拟机沙箱，与 Computer Use 的 Agent 环境交付主题相近。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "属于多智能体基建范畴，与 Agent 运行环境产品相近。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 云环境的隔离与备份，与 VM 沙箱的隔离属性相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "Superserve 定位为 Agent 虚拟机沙箱，与 Computer Use 的 Agent 环境交付主题相近。",
+    "topics/agent-compute-and-governance.md": "涉及智能体运行所需的算力与环境基建，与虚拟机沙箱产品相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "讨论个人 Agent 云环境的隔离与备份，与 VM 沙箱的隔离属性相关。",
+    "topics/multiagent-infra-four-problems.md": "属于多智能体基建范畴，与 Agent 运行环境产品相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/superserve-virtual-machine-sandbox-for-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "Superserve 定位为 Agent 虚拟机沙箱，与 Computer Use 的 Agent 环境交付主题相近。",
+      "topics/agent-compute-and-governance.md": "涉及智能体运行所需的算力与环境基建，与虚拟机沙箱产品相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "讨论个人 Agent 云环境的隔离与备份，与 VM 沙箱的隔离属性相关。",
+      "topics/multiagent-infra-four-problems.md": "属于多智能体基建范畴，与 Agent 运行环境产品相近。"
+    },
+    "notes": "所有关于同类产品增多的表述均源自帖文，未作独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/superserve-virtual-machine-sandbox-for-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

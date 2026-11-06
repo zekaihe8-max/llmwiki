@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:23:25.279Z",
+  "url": "https://x.com/dingyi/status/2118609800770846928",
+  "slug": "ccddcf7d43e12656",
+  "content_hash": "355844df2dd1ae3be1d5ceaba77739c38548d0d6deeeef6a24fe714a2e037242",
+  "source": {
+    "path": "sources/articles/too-many-local-grok-bot-like-solutions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/local-open-assistant-models.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "讨论 Grok Bot 社区互派，属于同一 Grok Bot 话题簇。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与 X 平台的使用场景，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "涵盖本地部署的开放助手与机器人小模型，对应 Mac Mini 自建需求。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 与 Bot 互聊，与类 Grok Bot 服务的讨论相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 平台的使用场景，与帖文主题最贴近。",
+    "topics/local-open-assistant-models.md": "涵盖本地部署的开放助手与机器人小模型，对应 Mac Mini 自建需求。",
+    "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 与 Bot 互聊，与类 Grok Bot 服务的讨论相关。",
+    "topics/dsh-grok-cross-dispatch.md": "讨论 Grok Bot 社区互派，属于同一 Grok Bot 话题簇。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/too-many-local-grok-bot-like-solutions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/local-open-assistant-models.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/dsh-grok-cross-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 平台的使用场景，与帖文主题最贴近。",
+      "topics/local-open-assistant-models.md": "涵盖本地部署的开放助手与机器人小模型，对应 Mac Mini 自建需求。",
+      "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 与 Bot 互聊，与类 Grok Bot 服务的讨论相关。",
+      "topics/dsh-grok-cross-dispatch.md": "讨论 Grok Bot 社区互派，属于同一 Grok Bot 话题簇。"
+    },
+    "notes": "所有主张均基于抓取的 X 推文文本，未核实链接内容或第三方服务实际可用性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/too-many-local-grok-bot-like-solutions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

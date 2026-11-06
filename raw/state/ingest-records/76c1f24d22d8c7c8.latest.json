@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:03:05.475Z",
+  "url": "https://x.com/dotey/status/2118569598379229219",
+  "slug": "76c1f24d22d8c7c8",
+  "content_hash": "ad973598bcb4529343fd65c4fddf24d01e57a07725adbd13c7ed9cde83ab4dd2",
+  "source": {
+    "path": "sources/articles/agent-deliveries-must-include-screenshots.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/adversarial-review-external-evidence.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文主张以截图作为外部证据供评审，与对抗评审与外部证据直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "将人工代码审查的截图规则推广到 AI Agent 任务，涉及智能体规模化工程实践。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "Agent 自测并产出截图作为干活记录，属于 AI 评测入口与干活记录范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/adversarial-review-external-evidence.md": "帖文主张以截图作为外部证据供评审，与对抗评审与外部证据直接相关。",
+    "topics/ai-eval-work-record-gateway.md": "Agent 自测并产出截图作为干活记录，属于 AI 评测入口与干活记录范畴。",
+    "topics/agent-scaled-engineering.md": "将人工代码审查的截图规则推广到 AI Agent 任务，涉及智能体规模化工程实践。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/agent-deliveries-must-include-screenshots.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/adversarial-review-external-evidence.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/adversarial-review-external-evidence.md": "帖文主张以截图作为外部证据供评审，与对抗评审与外部证据直接相关。",
+      "topics/ai-eval-work-record-gateway.md": "Agent 自测并产出截图作为干活记录，属于 AI 评测入口与干活记录范畴。",
+      "topics/agent-scaled-engineering.md": "将人工代码审查的截图规则推广到 AI Agent 任务，涉及智能体规模化工程实践。"
+    },
+    "notes": "来源为 X 平台 @dotey（宝玉）的单条帖文，未引用除帖文本身外的外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/agent-deliveries-must-include-screenshots.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

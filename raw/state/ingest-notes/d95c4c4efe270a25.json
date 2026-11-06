@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章聚焦 Claude 封号与订阅，与该主题的订阅风控权重最为贴近",
+    "topics/premium-ai-subscription-value.md": "文中提及高薪订阅相关岗位，与高端 AI 订阅价值相关",
+    "topics/usage-limit-ab-tests.md": "封号与用量限制相关，属于邻近话题"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Claude 封号与订阅，与该主题的订阅风控权重最为贴近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及高薪订阅相关岗位，与高端 AI 订阅价值相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "封号与用量限制相关，属于邻近话题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "薪资与封号声明均来源于该帖文，未经平台核实，已在摘要中使用「帖文称」标注。"
+}

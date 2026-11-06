@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:03:38.881Z",
+  "url": "https://x.com/xiaomovps/status/2118652864721817935",
+  "slug": "c36e090e8778893e",
+  "content_hash": "ea2f149a3bbe36dbb0aa2a3591e31dc4f48f121c6689311031a90ad189ad3d3b",
+  "source": {
+    "path": "sources/articles/pi-author-builds-pico-a-programming-language-for-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/on-chip-agent-runtime.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Codemode 调度多个子 Agent 进行测试，涉及子 Agent 折入主循环的机制。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "Pico 是面向 Agent 的专用编程语言，与该主题直接相关。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "Mario 想构建可保存与恢复执行状态的 Agent 虚拟机运行时。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Mario 让 Agent 开发 Pico 并调度子 Agent，体现个人 Agent 调度编程 Agent 的模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "Pico 是面向 Agent 的专用编程语言，与该主题直接相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Mario 让 Agent 开发 Pico 并调度子 Agent，体现个人 Agent 调度编程 Agent 的模式。",
+    "topics/fold-subagents-into-main-loop.md": "Codemode 调度多个子 Agent 进行测试，涉及子 Agent 折入主循环的机制。",
+    "topics/on-chip-agent-runtime.md": "Mario 想构建可保存与恢复执行状态的 Agent 虚拟机运行时。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-author-builds-pico-a-programming-language-for-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/languages-for-agents.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/on-chip-agent-runtime.md"
+    ],
+    "selection_reasons": {
+      "topics/languages-for-agents.md": "Pico 是面向 Agent 的专用编程语言，与该主题直接相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Mario 让 Agent 开发 Pico 并调度子 Agent，体现个人 Agent 调度编程 Agent 的模式。",
+      "topics/fold-subagents-into-main-loop.md": "Codemode 调度多个子 Agent 进行测试，涉及子 Agent 折入主循环的机制。",
+      "topics/on-chip-agent-runtime.md": "Mario 想构建可保存与恢复执行状态的 Agent 虚拟机运行时。"
+    },
+    "notes": "所有主张均基于推文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-author-builds-pico-a-programming-language-for-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

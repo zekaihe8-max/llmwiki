@@ -1,0 +1,23 @@
+{
+  "slug": "a3d42509a1835a91",
+  "url": "https://x.com/yetone/status/2118664671943434360",
+  "title": "强制 Responses API",
+  "digest": "2026-11-06-cn-x.md",
+  "status": "filed",
+  "hash": "a3d42509a1835a91405ecfd1597fcaf320be35e45494b1ccdc13853548055b72",
+  "first_seen": "2026-11-06T12:02:16.572Z",
+  "last_seen": "2026-11-06T12:02:16.572Z",
+  "fetched_at": "2026-11-06T12:02:28.461Z",
+  "content_hash": "2410f1990152811dd93c320b794d1e1741ba64abe3cc37cf63927b70cc71820b",
+  "article_path": "articles/a3d42509a1835a91.md",
+  "fetched_url": "https://x.com/yetone/status/2118664671943434360",
+  "source_path": "sources/articles/forced-responses-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T12:53:22.399Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

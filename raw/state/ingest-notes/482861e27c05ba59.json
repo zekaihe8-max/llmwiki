@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章属于社区模型实测与榜单分数语境，与“社区实测对抗刷分碰瓷”主题相近，现有条目无需改动。",
+    "topics/ai-eval-work-record-gateway.md": "涉及 AI 模型评测入口与测试记录，与“AI 评测入口与干活记录”主题相近，现有条目无需改动。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中模型 Elo 排名与能力拆解属于公开榜单质量审查范畴，与“信任公开榜前先审质量”主题相近，现有条目无需改动。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章属于社区模型实测与榜单分数语境，与“社区实测对抗刷分碰瓷”主题相近，现有条目无需改动。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 模型评测入口与测试记录，与“AI 评测入口与干活记录”主题相近，现有条目无需改动。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中模型 Elo 排名与能力拆解属于公开榜单质量审查范畴，与“信任公开榜前先审质量”主题相近，现有条目无需改动。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有模型名称、Elo 分数与能力判断均来源于该 X 帖文，未独立核实，已在摘要与要点中使用“帖文称”进行属性标注。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "涉及云平台自动跨模型编排，与分组强制走 Responses API 的路由逻辑最相近。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论面向 Agent 的模型渠道取舍，与 Responses API 与 Chat API 的切换相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "涉及多 Harness 路由基建，与 magpie 分组路由行为相关。",
+    "topics/company-agent-harness.md": "涉及公司级 Agent Harness，与 magpie 这类 Agent 工具的版本更新相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台自动跨模型编排，与分组强制走 Responses API 的路由逻辑最相近。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论面向 Agent 的模型渠道取舍，与 Responses API 与 Chat API 的切换相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及多 Harness 路由基建，与 magpie 分组路由行为相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及公司级 Agent Harness，与 magpie 这类 Agent 工具的版本更新相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实。"
+}

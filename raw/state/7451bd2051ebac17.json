@@ -1,0 +1,23 @@
+{
+  "slug": "7451bd2051ebac17",
+  "url": "https://x.com/dingyi/status/2118552957000331281",
+  "title": "Superserve",
+  "digest": "2026-11-06-cn-x.md",
+  "status": "filed",
+  "hash": "7451bd2051ebac17b9545653e347e1e8dee9d2946a5a0e7f6d6414b04d03604f",
+  "first_seen": "2026-11-06T12:02:16.572Z",
+  "last_seen": "2026-11-06T12:02:16.572Z",
+  "fetched_at": "2026-11-06T12:02:22.713Z",
+  "content_hash": "85f960b55b119b6a2011d698e12b15c28b62a33f34ca31ae75bd9c7eaa077f75",
+  "article_path": "articles/7451bd2051ebac17.md",
+  "fetched_url": "https://x.com/dingyi/status/2118552957000331281",
+  "source_path": "sources/articles/superserve-virtual-machine-sandbox-for-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T12:23:57.950Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

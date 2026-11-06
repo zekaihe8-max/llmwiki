@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接讨论 Grok Bot 内置额度与 Agent 桥接，与帖文中关于 Grok Bot 订阅与额度使用的建议最相关。",
+    "topics/dsh-grok-cross-dispatch.md": "直接涉及 Grok Bot 社区互派与调度，对应帖文中把额度用于调度分派的主张。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论面向 Agent 的模型渠道取舍，与帖文中关于是否应追求 Opus 路由的决策取舍相呼应。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文称模型指纹不能作为路由到底层模型的依据，与该主题的置信度不等于确认立场直接相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Grok Bot 内置额度与 Agent 桥接，与帖文中关于 Grok Bot 订阅与额度使用的建议最相关。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 社区互派与调度，对应帖文中把额度用于调度分派的主张。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论面向 Agent 的模型渠道取舍，与帖文中关于是否应追求 Opus 路由的决策取舍相呼应。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文称模型指纹不能作为路由到底层模型的依据，与该主题的置信度不等于确认立场直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于模型路由、额度和支出的表述均按帖文作者的主张处理，未作为平台事实呈现。"
+}

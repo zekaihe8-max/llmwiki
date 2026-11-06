@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/near-real-time-decisions-api.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "文章涉及推荐算法与 AI 模型对媒体内容分发的闭环，与该主题的 AI 媒体内容回灌训练语料方向相近。",
+    "topics/near-real-time-decisions-api.md": "文中实时采集设备变量并据此触发紧急批次、推直播等决策，属于近实时决策 API 范畴。",
+    "topics/tech-misuse-concern-continuity.md": "帖文披露的传感器与输入数据采集引发隐私与技术滥用关切，与该主题相关。",
+    "topics/mobile-agent-dev-full-chain.md": "内容源于对手机端 App 的逆向分析，与手机端 Agent 全链路开发主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "文章涉及推荐算法与 AI 模型对媒体内容分发的闭环，与该主题的 AI 媒体内容回灌训练语料方向相近。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "文中实时采集设备变量并据此触发紧急批次、推直播等决策，属于近实时决策 API 范畴。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文披露的传感器与输入数据采集引发隐私与技术滥用关切，与该主题相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "内容源于对手机端 App 的逆向分析，与手机端 Agent 全链路开发主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @vista8 的帖文，并引用 @ayoships 的逆向内容；所有平台行为主张均未经独立实测，仅为作者/视频作者说法。"
+}

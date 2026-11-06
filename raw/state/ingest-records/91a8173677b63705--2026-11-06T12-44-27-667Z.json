@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:44:27.667Z",
+  "url": "https://x.com/FinanceYF5/status/2118558292360429977",
+  "slug": "91a8173677b63705",
+  "content_hash": "f7882f4c74d971a5274e8974adad36e5f40c3eaaacfe05893918e2125cb2fc7f",
+  "source": {
+    "path": "sources/articles/stop-watching-the-40-ai-benchmarks-ask-whether-agents-can-actual.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章讨论以真实工作记录替代基准评估 AI，与该主题的评测入口与干活记录方向相近。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文中提到 METR 长周期任务与 AI 自主完成活的标准，涉及任务时界与能力评估。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文质疑 40 个基准测试并主张真实有经济价值的工作，与社区实测对抗刷分碰瓷的立场相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文呼吁不要盲信公开基准榜，先审查基准本身的质量与实际价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章讨论以真实工作记录替代基准评估 AI，与该主题的评测入口与干活记录方向相近。",
+    "topics/community-evals-vs-score-hype.md": "帖文质疑 40 个基准测试并主张真实有经济价值的工作，与社区实测对抗刷分碰瓷的立场相近。",
+    "topics/ai-task-horizon-growth.md": "文中提到 METR 长周期任务与 AI 自主完成活的标准，涉及任务时界与能力评估。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文呼吁不要盲信公开基准榜，先审查基准本身的质量与实际价值。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stop-watching-the-40-ai-benchmarks-ask-whether-agents-can-actual.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "文章讨论以真实工作记录替代基准评估 AI，与该主题的评测入口与干活记录方向相近。",
+      "topics/community-evals-vs-score-hype.md": "帖文质疑 40 个基准测试并主张真实有经济价值的工作，与社区实测对抗刷分碰瓷的立场相近。",
+      "topics/ai-task-horizon-growth.md": "文中提到 METR 长周期任务与 AI 自主完成活的标准，涉及任务时界与能力评估。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文呼吁不要盲信公开基准榜，先审查基准本身的质量与实际价值。"
+    },
+    "notes": "所有关于模型能力、基准评估及 Fable 的表述均来源于该帖文及其中引用的 Jeff Ladish 观点，未作为平台事实独立核实。帖文显示日期为 2026 年 11 月 6 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stop-watching-the-40-ai-benchmarks-ask-whether-agents-can-actual.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

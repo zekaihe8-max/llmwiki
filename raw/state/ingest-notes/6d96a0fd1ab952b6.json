@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/deep-backends-and-jit-frontends.md": "涉及后端系统与执行引擎优化，与 Spark 加速路线最为相邻",
+    "topics/software-factory.md": "涉及大规模软件工程与生产落地，与文中生产验证 caveat 相关",
+    "topics/agent-scaled-engineering.md": "涉及规模化工程，与 Uber 20 万核 Spark 集群场景相近"
+  },
+  "topics": [
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "涉及后端系统与执行引擎优化，与 Spark 加速路线最为相邻"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及大规模软件工程与生产落地，与文中生产验证 caveat 相关"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及规模化工程，与 Uber 20 万核 Spark 集群场景相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

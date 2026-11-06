@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:22:57.706Z",
+  "url": "https://x.com/dingyi/status/2118508917131243990",
+  "slug": "d38a95b462c101ac",
+  "content_hash": "5095dfd3c579c5142d1abc6e68cc4da9a9619bf70a75f9a2e82ccf5c9c372781",
+  "source": {
+    "path": "sources/articles/routers-grow-popular-vendors-build-moats.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文提到封号与风控，与订阅风控权重相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及模型路由与厂商措施，帖文提到缓存命中与 token 消耗。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文提到 router 软件流行，与多 Harness 路由基建相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "帖文提到 token 消耗与用量限制措施。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文提到 router 软件流行，与多 Harness 路由基建相关。",
+    "topics/cloud-auto-model-routing.md": "涉及模型路由与厂商措施，帖文提到缓存命中与 token 消耗。",
+    "topics/claude-subscription-risk-control-weights.md": "帖文提到封号与风控，与订阅风控权重相关。",
+    "topics/usage-limit-ab-tests.md": "帖文提到 token 消耗与用量限制措施。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/routers-grow-popular-vendors-build-moats.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/multi-harness-router-vs-personal-dispatch.md": "帖文提到 router 软件流行，与多 Harness 路由基建相关。",
+      "topics/cloud-auto-model-routing.md": "涉及模型路由与厂商措施，帖文提到缓存命中与 token 消耗。",
+      "topics/claude-subscription-risk-control-weights.md": "帖文提到封号与风控，与订阅风控权重相关。",
+      "topics/usage-limit-ab-tests.md": "帖文提到 token 消耗与用量限制措施。"
+    },
+    "notes": "所有关于封号、缓存命中、token 消耗及护城河的表述均来源于帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/routers-grow-popular-vendors-build-moats.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
