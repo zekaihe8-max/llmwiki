@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T23:56:13.852Z",
+  "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+  "slug": "4a4ac6dd3283dd06",
+  "content_hash": "dfa720f46ff9721eed1b21e626ccc4df81b7cd7de76e34841aa7d716a3373858",
+  "source": {
+    "path": "sources/articles/independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-oc.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/frontier-training-containment.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "报告涉及 AI 研发加速、训练计算与治理风险，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "报告使用 AECI 衡量模型能力增长与任务时界相关进展，与 AI 任务时界增长主题相关。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "METR 作为第三方进入 Anthropic 内部开展嵌入式评估，与该主题的驻场第三方评估高度相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Anthropic 为前沿 AI 实验室，评估关注能力加速带来的失控风险，与前沿训练环境隔离相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "METR 作为第三方进入 Anthropic 内部开展嵌入式评估，与该主题的驻场第三方评估高度相关。",
+    "topics/agent-compute-and-governance.md": "报告涉及 AI 研发加速、训练计算与治理风险，与智能体算力与治理主题相关。",
+    "topics/frontier-training-containment.md": "Anthropic 为前沿 AI 实验室，评估关注能力加速带来的失控风险，与前沿训练环境隔离相关。",
+    "topics/ai-task-horizon-growth.md": "报告使用 AECI 衡量模型能力增长与任务时界相关进展，与 AI 任务时界增长主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-oc.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/embedded-third-party-evals.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/frontier-training-containment.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/embedded-third-party-evals.md": "METR 作为第三方进入 Anthropic 内部开展嵌入式评估，与该主题的驻场第三方评估高度相关。",
+      "topics/agent-compute-and-governance.md": "报告涉及 AI 研发加速、训练计算与治理风险，与智能体算力与治理主题相关。",
+      "topics/frontier-training-containment.md": "Anthropic 为前沿 AI 实验室，评估关注能力加速带来的失控风险，与前沿训练环境隔离相关。",
+      "topics/ai-task-horizon-growth.md": "报告使用 AECI 衡量模型能力增长与任务时界相关进展，与 AI 任务时界增长主题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-oc.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

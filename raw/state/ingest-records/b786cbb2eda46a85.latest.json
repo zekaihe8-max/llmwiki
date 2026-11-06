@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:09:17.240Z",
+  "url": "https://x.com/rauchg/status/2118464177211940997",
+  "slug": "b786cbb2eda46a85",
+  "content_hash": "d1c53eaa75f65dd34966be3c6b64ce9ad695204eff06f5e8eced516798e358d4",
+  "source": {
+    "path": "sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Agent 自动完成从编码到部署的全流程，与“智能体自动模式”主题相近。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及构建、数据库、安全检查与扩展部署，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "以 Agent 为核心完成端到端应用交付，属于 Agentic AI 基础能力场景。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Cursor 一键生成并部署应用，体现“软件工厂”式的自动化软件交付。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文描述 Agent 自动完成从编码到部署的全流程，与“智能体自动模式”主题相近。",
+    "topics/software-factory.md": "Cursor 一键生成并部署应用，体现“软件工厂”式的自动化软件交付。",
+    "topics/agent-scaled-engineering.md": "涉及构建、数据库、安全检查与扩展部署，属于智能体规模化工程范畴。",
+    "topics/agentic-ai-foundation.md": "以 Agent 为核心完成端到端应用交付，属于 Agentic AI 基础能力场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文描述 Agent 自动完成从编码到部署的全流程，与“智能体自动模式”主题相近。",
+      "topics/software-factory.md": "Cursor 一键生成并部署应用，体现“软件工厂”式的自动化软件交付。",
+      "topics/agent-scaled-engineering.md": "涉及构建、数据库、安全检查与扩展部署，属于智能体规模化工程范畴。",
+      "topics/agentic-ai-foundation.md": "以 Agent 为核心完成端到端应用交付，属于 Agentic AI 基础能力场景。"
+    },
+    "notes": "所有主张均基于所抓取的 X 帖文，未引用页面外事实；未核实内容已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

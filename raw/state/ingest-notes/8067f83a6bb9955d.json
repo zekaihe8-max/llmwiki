@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/software-factory.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文作者为 Box 相关人物，选用企业与 AI 原生公司相邻话题并保持不变。",
+    "topics/software-factory.md": "现有话题与软件工程领域相邻，本帖仅含元数据，无需新建或修改。",
+    "topics/workflows-before-agents.md": "该话题属通用工作流与智能体范畴，作为最接近的现有分类保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文作者为 Box 相关人物，选用企业与 AI 原生公司相邻话题并保持不变。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "现有话题与软件工程领域相邻，本帖仅含元数据，无需新建或修改。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "该话题属通用工作流与智能体范畴，作为最接近的现有分类保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fetched markdown contains only post metadata and engagement counts; no body text or verifiable claims are present."
+}

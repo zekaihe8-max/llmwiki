@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:00:33.659Z",
+  "url": "https://x.com/steipete/status/2118116514700386439",
+  "slug": "8bc337735fd718ae",
+  "content_hash": "61e8abd78fa8bc7c2b3cddf76127cd2fe32f780c5f76a7225c1ce2b454385c16",
+  "source": {
+    "path": "sources/articles/do-individual-ai-limits-still-make-sense-agents-evolve-codebases.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到智能体运行循环，与自动模式主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体演进代码库，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "个体限额与额度直接对应编程 Agent 的体验与配额议题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "苹果削减员工 AI 预算涉及使用上限与 A/B 测试语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文提到智能体运行循环，与自动模式主题相关。",
+    "topics/agent-scaled-engineering.md": "帖文讨论智能体演进代码库，属于智能体规模化工程范畴。",
+    "topics/usage-limit-ab-tests.md": "苹果削减员工 AI 预算涉及使用上限与 A/B 测试语境。",
+    "topics/coding-agent-ux-vs-quota.md": "个体限额与额度直接对应编程 Agent 的体验与配额议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/do-individual-ai-limits-still-make-sense-agents-evolve-codebases.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文提到智能体运行循环，与自动模式主题相关。",
+      "topics/agent-scaled-engineering.md": "帖文讨论智能体演进代码库，属于智能体规模化工程范畴。",
+      "topics/usage-limit-ab-tests.md": "苹果削减员工 AI 预算涉及使用上限与 A/B 测试语境。",
+      "topics/coding-agent-ux-vs-quota.md": "个体限额与额度直接对应编程 Agent 的体验与配额议题。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文及其引用内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/do-individual-ai-limits-still-make-sense-agents-evolve-codebases.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

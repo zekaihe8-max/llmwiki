@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文聚焦 Flash 系列模型的发布与定价，与 Pro/Flash 模型策略主题直接相关",
+    "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道与版本选用的权衡，适合作为模型发布语境的参考",
+    "topics/cloud-auto-model-routing.md": "云平台模型编排与 Flash 模型定位相关，可供上下文复用",
+    "topics/agentic-video-editing.md": "帖文提及多轮对话编辑与视频生成，与智能体视频剪辑主题有交集"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Flash 系列模型的发布与定价，与 Pro/Flash 模型策略主题直接相关"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及模型渠道与版本选用的权衡，适合作为模型发布语境的参考"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台模型编排与 Flash 模型定位相关，可供上下文复用"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提及多轮对话编辑与视频生成，与智能体视频剪辑主题有交集"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来源于单条 X 帖文及其引用的 blog.google 链接标题，未访问外部链接，未核实博客正文内容。"
+}

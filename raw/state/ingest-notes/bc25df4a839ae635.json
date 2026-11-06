@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/programmable-edge-compute.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "涉及 Agent 调度与管理其他 Agent 的工作，与 Schedules 让代理自行安排工作最为贴近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 云环境中的定时检查，与定时作业主题相关。",
+    "topics/programmable-edge-compute.md": "Vercel 属于可编程边缘计算平台，Schedules 为其平台能力之一。",
+    "topics/agent-auto-mode.md": "涉及 Agent 自动运行模式，与应用自行管理定时工作相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 调度与管理其他 Agent 的工作，与 Schedules 让代理自行安排工作最为贴近。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 云环境中的定时检查，与定时作业主题相关。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Vercel 属于可编程边缘计算平台，Schedules 为其平台能力之一。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 自动运行模式，与应用自行管理定时工作相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 上 @vercel 的一条帖文，未引入文章外事实。"
+}

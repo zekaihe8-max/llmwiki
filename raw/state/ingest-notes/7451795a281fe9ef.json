@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "METR 嵌入 Anthropic 内部进行第三方评估，与“驻场第三方评估”主题高度相关。",
+    "topics/frontier-training-containment.md": "报告关注前沿 AI 研发加速与失控风险，涉及前沿训练环境的安全与管控。",
+    "topics/agent-compute-and-governance.md": "文章讨论 AI 公司用 AI 写代码、跑实验、训练下一代模型，属于 AI 研发算力与治理议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "METR 嵌入 Anthropic 内部进行第三方评估，与“驻场第三方评估”主题高度相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "报告关注前沿 AI 研发加速与失控风险，涉及前沿训练环境的安全与管控。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 公司用 AI 写代码、跑实验、训练下一代模型，属于 AI 研发算力与治理议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 @dotey 的帖文，内容基于其转发的 METR 报告摘要，未引入文章外事实。"
+}

@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T12:02:29.836Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -4989,5 +4989,221 @@
     "last_seen": "2026-11-05T12:02:29.836Z",
     "digest": "2026-11-05-cn-x.md",
     "title": "深圳 GEO 大会"
+  },
+  "https://x.com/OpenAI/status/2118390190246879554": {
+    "hash": "b9e74ad416c52a3c62e0498d9b188d93d708e42881dca458729f056900d820f2",
+    "slug": "b9e74ad416c52a3c",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "OpenAI (@OpenAI)"
+  },
+  "https://openai.com/index/introducing-gpt-6-cyber": {
+    "hash": "14e90e72d3401ddf817f6448fcef8d95a77a43c8c720ccf3b66937d995ee0634",
+    "slug": "14e90e72d3401ddf",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/OpenAIDevs/status/2118386439675420743": {
+    "hash": "fef2d280b26fc797d371ae392c39a813836e03bb14ea76f7108523ffd8cd6ac9",
+    "slug": "fef2d280b26fc797",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "OpenAI Developers (@OpenAIDevs)"
+  },
+  "https://x.com/claudeai/status/2118403114890137895": {
+    "hash": "7a32d0631a46885f64595e1bdbdb83e389e7e105f734446a6196928885739382",
+    "slug": "7a32d0631a46885f",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Claude (@claudeai)"
+  },
+  "https://x.com/OfficialLoganK/status/2118390838434693281": {
+    "hash": "498983b3cc2f907b6efcf5d5c357f0561e6c92673342b6c42eb93b71f939c565",
+    "slug": "498983b3cc2f907b",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Logan Kilpatrick (@OfficialLoganK)"
+  },
+  "https://x.com/METR_Evals/status/2118412183860351084": {
+    "hash": "a8a60610d4d45fa5b7101bc50352b2b5678bb55736c87b73752ab1d523a9a4cb",
+    "slug": "a8a60610d4d45fa5",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "METR (@METR_Evals)"
+  },
+  "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment": {
+    "hash": "4a4ac6dd3283dd0620ae01c2f62f83e766f71b7826f2403a994e0bb566b71a7c",
+    "slug": "4a4ac6dd3283dd06",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "报告"
+  },
+  "https://x.com/rauchg/status/2118166970273292299": {
+    "hash": "76c95f3fda1f1f56b4671dc1f980e6e689690982c80f901e4a937a532b763595",
+    "slug": "76c95f3fda1f1f56",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Guillermo Rauch (@rauchg)"
+  },
+  "https://x.com/rauchg/status/2118440831355068671": {
+    "hash": "0600bc7017e9f70ba3b3d68360de3fc154ca88f25b1ea4d5fbbed8c251391190",
+    "slug": "0600bc7017e9f70b",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Guillermo Rauch (@rauchg)"
+  },
+  "https://x.com/vercel/status/2118438184594149784": {
+    "hash": "bc25df4a839ae635d1c3fc9ae1df23c4f7106314a9a35b5d8ef735ff839fcf44",
+    "slug": "bc25df4a839ae635",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Schedules"
+  },
+  "https://x.com/levie/status/2118429008711102831": {
+    "hash": "8067f83a6bb9955db3442dd1685fdf94189a4ade07eab3b608acab858c7b78ab",
+    "slug": "8067f83a6bb9955d",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Aaron Levie (@levie)"
+  },
+  "https://x.com/steipete/status/2118116514700386439": {
+    "hash": "8bc337735fd718ae27a40c2f91ce429f9e23ef10f402a9d955047ce292fa6035",
+    "slug": "8bc337735fd718ae",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Peter Steinberger (@steipete)"
+  },
+  "https://x.com/hwchase17/status/2118464263497142576": {
+    "hash": "256ff28e9439975067f372438b7d0cbffd9a7d03e0835bfe3b73848c12f0688d",
+    "slug": "256ff28e94399750",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Harrison Chase (@hwchase17)"
+  },
+  "https://x.com/emollick/status/2118371656939053117": {
+    "hash": "9196a4c702cdd69ac8323b51a17741f68cedf45183a73a01aa050504fec26117",
+    "slug": "9196a4c702cdd69a",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Ethan Mollick (@emollick)"
+  },
+  "https://x.com/natolambert/status/2118425465988014534": {
+    "hash": "0baf68dd049141a30744cbb41af3d7964903997f8256911c52e324e512745373",
+    "slug": "0baf68dd049141a3",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Nathan Lambert (@natolambert)"
+  },
+  "https://x.com/DrJimFan/status/2118380813498892301": {
+    "hash": "ddddb354892699f2f7b89721809ca6b62ba48b035c93e7e20582420547bd9155",
+    "slug": "ddddb354892699f2",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Jim Fan (@DrJimFan)"
+  },
+  "https://x.com/dotey/status/2118466539510960161": {
+    "hash": "7451795a281fe9ef1dd1d7b3e3d577e86ec0dd2070d8656f2ec3f7283e9ef44f",
+    "slug": "7451795a281fe9ef",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "METR"
+  },
+  "https://x.com/dotey/status/2118455489423905097": {
+    "hash": "4cc325534e4981d34cabba995e49de519cdd2eeb668165bae773fa1cf5372d5f",
+    "slug": "4cc325534e4981d3",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "理财"
+  },
+  "https://x.com/dotey/status/2118471688866213999": {
+    "hash": "9ab837eb385a6195014c4b3ce9efa47468aa17bb0c65c23e359d5fe8e64345b9",
+    "slug": "9ab837eb385a6195",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Thariq"
+  },
+  "https://x.com/mattpocockuk/status/2118313863917564136": {
+    "hash": "d8ec0fa0d86588ae4275de7d752d08a2484b56d467c24e2b8fba132532ff7e31",
+    "slug": "d8ec0fa0d86588ae",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Matt Pocock (@mattpocockuk)"
+  },
+  "https://x.com/Voxyz_ai/status/2118448272742486490": {
+    "hash": "516c3039fd575dd527e456cf1403f0e29e7368cc3e0c6cb680ffe0717a855118",
+    "slug": "516c3039fd575dd5",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Vox (@Voxyz_ai)"
+  },
+  "https://x.com/Voxyz_ai/status/2118387877939921361": {
+    "hash": "c60a157e14f93959eeb8727e0a75aa838d72747223aec63b2074d19b12e89bbb",
+    "slug": "c60a157e14f93959",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Vox (@Voxyz_ai)"
+  },
+  "https://x.com/Voxyz_ai/status/2118357672106029272": {
+    "hash": "29c39c6b47aab334eb3cce6d1cebbd23fd8cc64ad937a80e8edf3c021ac1e159",
+    "slug": "29c39c6b47aab334",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Vox (@Voxyz_ai)"
+  },
+  "https://x.com/HamelHusain/status/2118357661750288570": {
+    "hash": "a840a6d3d9f6b9934c518c6b4fa482efd68924429a4a554d3f1a4bc41f070a96",
+    "slug": "a840a6d3d9f6b993",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Hamel Husain (@HamelHusain)"
+  },
+  "https://x.com/vista8/status/2118370399440539711": {
+    "hash": "34d57e815fe6c3afdc21ea563e1df4e9033e0465e5bc9ea989b95abba95c8317",
+    "slug": "34d57e815fe6c3af",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "vista8 (@vista8)"
+  },
+  "https://vercel.com/blog/introducing-vercel-schedules": {
+    "hash": "2e6a221cac7d2de4112e85482d9caccd961e2d155641d4627422d52d2b59dbf0",
+    "slug": "2e6a221cac7d2de4",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "介绍"
+  },
+  "https://x.com/rauchg/status/2118464177211940997": {
+    "hash": "b786cbb2eda46a8577137310b0a87364afe700072bf0d34a641fecbea9ad72b7",
+    "slug": "b786cbb2eda46a85",
+    "first_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-05T23:53:45.588Z",
+    "digest": "2026-11-06-frontier-ai.md",
+    "title": "Cursor 一键部署"
   }
 }

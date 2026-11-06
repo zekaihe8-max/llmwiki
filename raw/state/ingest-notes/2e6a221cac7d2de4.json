@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-auto-mode.md",
+    "topics/programmable-edge-compute.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章聚焦代理通过代码调度任务，与智能体算力与治理主题相关。",
+    "topics/agent-auto-mode.md": "定时任务的自动创建与取消属于智能体自动化模式的范畴。",
+    "topics/programmable-edge-compute.md": "Vercel Schedules 是面向边缘/无服务器平台的可编程计时能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章聚焦代理通过代码调度任务，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "定时任务的自动创建与取消属于智能体自动化模式的范畴。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Vercel Schedules 是面向边缘/无服务器平台的可编程计时能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容均基于提供的文章摘录，未引用外部事实。"
+}

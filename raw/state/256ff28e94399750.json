@@ -1,0 +1,23 @@
+{
+  "slug": "256ff28e94399750",
+  "url": "https://x.com/hwchase17/status/2118464263497142576",
+  "title": "Harrison Chase (@hwchase17)",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "filed",
+  "hash": "256ff28e9439975067f372438b7d0cbffd9a7d03e0835bfe3b73848c12f0688d",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": "2026-11-05T23:53:56.244Z",
+  "content_hash": "564b3da0e2905099cca9f3baca3a35d8d4441db4c5a9de4d27e780af2c38a78c",
+  "article_path": "articles/256ff28e94399750.md",
+  "fetched_url": "https://x.com/hwchase17/status/2118464263497142576",
+  "source_path": "sources/articles/langchain-deep-agents-now-support-async-subagents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T00:00:54.792Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

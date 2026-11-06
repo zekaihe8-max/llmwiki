@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:03:24.935Z",
+  "url": "https://x.com/dotey/status/2118455489423905097",
+  "slug": "4cc325534e4981d3",
+  "content_hash": "c1c7523299d24d2af5262fa28787afbcc51748b39774e861a37b1c65892a8276",
+  "source": {
+    "path": "sources/articles/claude-launches-personal-finance-read-only-bank-connection-for-s.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章涉及银行账户连接、只读权限与数据安全，与账号资产安全卫生主题高度相关"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Claude 订阅用户分批推出及地域和 VPN 风控限制与该主题相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "功能仅对高端订阅层（Pro/Max/Ultra）开放，涉及订阅价值与分级权益"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "用户将日常收支查询交给 AI 处理，属于可放心交给 AI 的任务边界讨论"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章涉及银行账户连接、只读权限与数据安全，与账号资产安全卫生主题高度相关",
+    "topics/premium-ai-subscription-value.md": "功能仅对高端订阅层（Pro/Max/Ultra）开放，涉及订阅价值与分级权益",
+    "topics/claude-subscription-risk-control-weights.md": "Claude 订阅用户分批推出及地域和 VPN 风控限制与该主题相关",
+    "topics/tasks-confidently-handed-to-ai.md": "用户将日常收支查询交给 AI 处理，属于可放心交给 AI 的任务边界讨论"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-launches-personal-finance-read-only-bank-connection-for-s.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "文章涉及银行账户连接、只读权限与数据安全，与账号资产安全卫生主题高度相关",
+      "topics/premium-ai-subscription-value.md": "功能仅对高端订阅层（Pro/Max/Ultra）开放，涉及订阅价值与分级权益",
+      "topics/claude-subscription-risk-control-weights.md": "Claude 订阅用户分批推出及地域和 VPN 风控限制与该主题相关",
+      "topics/tasks-confidently-handed-to-ai.md": "用户将日常收支查询交给 AI 处理，属于可放心交给 AI 的任务边界讨论"
+    },
+    "notes": "未创建新话题，全部复用现有目录条目，action 均为 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-launches-personal-finance-read-only-bank-connection-for-s.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

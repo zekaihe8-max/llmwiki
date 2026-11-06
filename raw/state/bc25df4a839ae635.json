@@ -1,0 +1,23 @@
+{
+  "slug": "bc25df4a839ae635",
+  "url": "https://x.com/vercel/status/2118438184594149784",
+  "title": "Schedules",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "filed",
+  "hash": "bc25df4a839ae635d1c3fc9ae1df23c4f7106314a9a35b5d8ef735ff839fcf44",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": "2026-11-05T23:53:54.434Z",
+  "content_hash": "faf38b0e14f849f27f5f1c0841b1b06d34042b88acd83b0e09eb83709b8d386d",
+  "article_path": "articles/bc25df4a839ae635.md",
+  "fetched_url": "https://x.com/vercel/status/2118438184594149784",
+  "source_path": "sources/articles/vercel-schedules-enters-public-beta.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T23:57:23.153Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

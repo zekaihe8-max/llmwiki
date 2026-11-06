@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-output-to-notion-reading.md",
+    "topics/ai-native-companies.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文提到第三方 Agent 用 Notion 存储上下文、MCP 调用激增，与 Agent 上下文工程直接相关。",
+    "topics/agent-output-to-notion-reading.md": "帖文称 Notion 一半页面由 Agent 创建，涉及 Agent 产出直送 Notion 的场景。",
+    "topics/ai-native-companies.md": "Notion 调整组织与营销、转型为 Agent 中枢，体现 AI 原生公司的组织演变。",
+    "topics/unified-agent-resource-library.md": "将 Notion 定位为各 Agent 产品的上下文中枢，对应跨 Agent 统一资源库的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到第三方 Agent 用 Notion 存储上下文、MCP 调用激增，与 Agent 上下文工程直接相关。"
+    },
+    {
+      "path": "topics/agent-output-to-notion-reading.md",
+      "action": "unchanged",
+      "reason": "帖文称 Notion 一半页面由 Agent 创建，涉及 Agent 产出直送 Notion 的场景。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Notion 调整组织与营销、转型为 Agent 中枢，体现 AI 原生公司的组织演变。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "将 Notion 定位为各 Agent 产品的上下文中枢，对应跨 Agent 统一资源库的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所获取帖文 markdown，未引用外部事实。"
+}

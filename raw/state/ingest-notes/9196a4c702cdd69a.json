@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论以 AI 为核心的公司形态，与企业 AI 转型语境相近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂 AI 员工与组织变革，贴近帖文中企业内部力量对比。",
+    "topics/ai-management-span-of-control.md": "聚焦 AI 对管理与高管管控的影响，与转型中不同派系的态度相关。",
+    "topics/workflows-before-agents.md": "强调工作流优先于智能体，对应帖文中“将 AI 视为常规技术、不改变现状”的观点。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论以 AI 为核心的公司形态，与企业 AI 转型语境相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大厂 AI 员工与组织变革，贴近帖文中企业内部力量对比。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "聚焦 AI 对管理与高管管控的影响，与转型中不同派系的态度相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调工作流优先于智能体，对应帖文中“将 AI 视为常规技术、不改变现状”的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期为 2026 年 11 月 5 日，所有事实仅依据抓取的帖文页面。"
+}

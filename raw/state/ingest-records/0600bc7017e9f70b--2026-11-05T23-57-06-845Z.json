@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-05T23:57:06.845Z",
+  "url": "https://x.com/rauchg/status/2118440831355068671",
+  "slug": "0600bc7017e9f70b",
+  "content_hash": "4f57fce65be30e9b2d6224c2115939c65fa5a258ccfde5cd94dddd8f69a8a182",
+  "source": {
+    "path": "sources/articles/guillermo-rauch-doing-stuff-for-you-over-time-is-the-killer-app.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/programmable-edge-compute.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文强调智能体随时间主动办事，与“智能体自动模式”主题高度相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Muse 与 Instinct 的夜间记忆整合涉及智能体上下文工程。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Vercel Schedules 作为可编程定时计算基建，与“可编程边缘计算”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文强调智能体随时间主动办事，与“智能体自动模式”主题高度相关。",
+    "topics/programmable-edge-compute.md": "Vercel Schedules 作为可编程定时计算基建，与“可编程边缘计算”相关。",
+    "topics/context-engineering-for-agents.md": "Muse 与 Instinct 的夜间记忆整合涉及智能体上下文工程。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/guillermo-rauch-doing-stuff-for-you-over-time-is-the-killer-app.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/programmable-edge-compute.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文强调智能体随时间主动办事，与“智能体自动模式”主题高度相关。",
+      "topics/programmable-edge-compute.md": "Vercel Schedules 作为可编程定时计算基建，与“可编程边缘计算”相关。",
+      "topics/context-engineering-for-agents.md": "Muse 与 Instinct 的夜间记忆整合涉及智能体上下文工程。"
+    },
+    "notes": "来源为 X 帖文及其引用的 Vercel 发布，未引入文中未提及的外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/guillermo-rauch-doing-stuff-for-you-over-time-is-the-killer-app.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

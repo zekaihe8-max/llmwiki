@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:02:58.366Z",
+  "url": "https://x.com/dotey/status/2118466539510960161",
+  "slug": "7451795a281fe9ef",
+  "content_hash": "03612701dd1ae0b6e9f1b7645baab88d9a8855c3dee1c2896883fc9c8be45e6a",
+  "source": {
+    "path": "sources/articles/metr-independent-assessment-anthropic-model-capability-progress.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 公司用 AI 写代码、跑实验、训练下一代模型，属于 AI 研发算力与治理议题。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "METR 嵌入 Anthropic 内部进行第三方评估，与“驻场第三方评估”主题高度相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "报告关注前沿 AI 研发加速与失控风险，涉及前沿训练环境的安全与管控。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "METR 嵌入 Anthropic 内部进行第三方评估，与“驻场第三方评估”主题高度相关。",
+    "topics/frontier-training-containment.md": "报告关注前沿 AI 研发加速与失控风险，涉及前沿训练环境的安全与管控。",
+    "topics/agent-compute-and-governance.md": "文章讨论 AI 公司用 AI 写代码、跑实验、训练下一代模型，属于 AI 研发算力与治理议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/metr-independent-assessment-anthropic-model-capability-progress.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/embedded-third-party-evals.md",
+      "topics/frontier-training-containment.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/embedded-third-party-evals.md": "METR 嵌入 Anthropic 内部进行第三方评估，与“驻场第三方评估”主题高度相关。",
+      "topics/frontier-training-containment.md": "报告关注前沿 AI 研发加速与失控风险，涉及前沿训练环境的安全与管控。",
+      "topics/agent-compute-and-governance.md": "文章讨论 AI 公司用 AI 写代码、跑实验、训练下一代模型，属于 AI 研发算力与治理议题。"
+    },
+    "notes": "来源为 X 上 @dotey 的帖文，内容基于其转发的 METR 报告摘要，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/metr-independent-assessment-anthropic-model-capability-progress.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

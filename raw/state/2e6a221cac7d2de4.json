@@ -1,0 +1,23 @@
+{
+  "slug": "2e6a221cac7d2de4",
+  "url": "https://vercel.com/blog/introducing-vercel-schedules",
+  "title": "介绍",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "filed",
+  "hash": "2e6a221cac7d2de4112e85482d9caccd961e2d155641d4627422d52d2b59dbf0",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": "2026-11-05T23:54:01.968Z",
+  "content_hash": "36aea08c4e79da46f2f5b16776be0b85a74a9faa9c41243f44d7c8d249512cf0",
+  "article_path": "articles/2e6a221cac7d2de4.md",
+  "fetched_url": "https://vercel.com/blog/introducing-vercel-schedules",
+  "source_path": "sources/articles/introducing-vercel-schedules.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T00:08:47.289Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

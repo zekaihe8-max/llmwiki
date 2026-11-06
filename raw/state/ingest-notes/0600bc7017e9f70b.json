@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/programmable-edge-compute.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文强调智能体随时间主动办事，与“智能体自动模式”主题高度相关。",
+    "topics/programmable-edge-compute.md": "Vercel Schedules 作为可编程定时计算基建，与“可编程边缘计算”相关。",
+    "topics/context-engineering-for-agents.md": "Muse 与 Instinct 的夜间记忆整合涉及智能体上下文工程。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文强调智能体随时间主动办事，与“智能体自动模式”主题高度相关。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Vercel Schedules 作为可编程定时计算基建，与“可编程边缘计算”相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Muse 与 Instinct 的夜间记忆整合涉及智能体上下文工程。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文及其引用的 Vercel 发布，未引入文中未提及的外部事实。"
+}

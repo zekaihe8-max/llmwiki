@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章涉及物理 AI 与具身预测，与实时交互世界模型主题相近。",
+    "topics/on-chip-agent-runtime.md": "文中提到 Jetson Thor、DGX Spark 等边缘芯片上的推理加速，与芯片上 Agent 运行时相关。",
+    "topics/pro-vs-flash-model-strategy.md": "VFlash 命名与 Flash 模型策略话题在模型系列命名上有呼应。",
+    "topics/gpu-ai-compute-unlock.md": "边缘 GPU 推理速度提升与消费级/边缘 GPU AI 算力主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章涉及物理 AI 与具身预测，与实时交互世界模型主题相近。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "文中提到 Jetson Thor、DGX Spark 等边缘芯片上的推理加速，与芯片上 Agent 运行时相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "VFlash 命名与 Flash 模型策略话题在模型系列命名上有呼应。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "边缘 GPU 推理速度提升与消费级/边缘 GPU AI 算力主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文原文，未引入外部事实；推文时间显示为 2026 年 11 月 5 日。"
+}

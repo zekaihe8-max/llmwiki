@@ -1,0 +1,29 @@
+{
+  "slug": "14e90e72d3401ddf",
+  "url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "title": "公告",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "failed",
+  "hash": "14e90e72d3401ddf817f6448fcef8d95a77a43c8c720ccf3b66937d995ee0634",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-05T23:53:46.498Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-05T23:53:46.498Z"
+}

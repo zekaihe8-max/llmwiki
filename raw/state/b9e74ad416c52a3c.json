@@ -1,0 +1,23 @@
+{
+  "slug": "b9e74ad416c52a3c",
+  "url": "https://x.com/OpenAI/status/2118390190246879554",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "filed",
+  "hash": "b9e74ad416c52a3c62e0498d9b188d93d708e42881dca458729f056900d820f2",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": "2026-11-05T23:53:45.652Z",
+  "content_hash": "615329d6b85dfced5285ed5ce75c46a46a749681a6e7eee9e46bb4228527f9fb",
+  "article_path": "articles/b9e74ad416c52a3c.md",
+  "fetched_url": "https://x.com/OpenAI/status/2118390190246879554",
+  "source_path": "sources/articles/openai-introduces-gpt-6-cyber-for-security-research.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-05T23:54:26.459Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

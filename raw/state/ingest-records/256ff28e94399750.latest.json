@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:00:54.792Z",
+  "url": "https://x.com/hwchase17/status/2118464263497142576",
+  "slug": "256ff28e94399750",
+  "content_hash": "564b3da0e2905099cca9f3baca3a35d8d4441db4c5a9de4d27e780af2c38a78c",
+  "source": {
+    "path": "sources/articles/langchain-deep-agents-now-support-async-subagents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "异步子智能体体现智能体自动化运行模式，与该主题相近"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文核心是异步子智能体，与“把子 Agent 折进主循环”主题高度相关"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Deep Agents 的子智能体编排属于多智能体基建范畴，与该主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "帖文核心是异步子智能体，与“把子 Agent 折进主循环”主题高度相关",
+    "topics/agent-auto-mode.md": "异步子智能体体现智能体自动化运行模式，与该主题相近",
+    "topics/multiagent-infra-four-problems.md": "Deep Agents 的子智能体编排属于多智能体基建范畴，与该主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langchain-deep-agents-now-support-async-subagents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-auto-mode.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "帖文核心是异步子智能体，与“把子 Agent 折进主循环”主题高度相关",
+      "topics/agent-auto-mode.md": "异步子智能体体现智能体自动化运行模式，与该主题相近",
+      "topics/multiagent-infra-four-problems.md": "Deep Agents 的子智能体编排属于多智能体基建范畴，与该主题相关"
+    },
+    "notes": "内容仅基于抓取的 X 帖文及其引用的 Sydney Runkle 文章摘要，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langchain-deep-agents-now-support-async-subagents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
