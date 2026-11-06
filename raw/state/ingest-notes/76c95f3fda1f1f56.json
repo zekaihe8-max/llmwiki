@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文明确提到 AI 会对软件进行“形式化验证”，与该主题直接相关，但无需修改。",
+    "topics/software-factory.md": "帖文描述 AI 大规模重写软件，契合“软件工厂”概念，但现有主题已足够，保持不变。",
+    "topics/agent-scaled-engineering.md": "文中 AI 重写所有软件并进行工程化加固，涉及智能体规模化工程，暂不新增。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "帖文对比人造软件缺陷与 AI 改写潜力，与代码质量双标主题相近，但本条不改动该主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 AI 会对软件进行“形式化验证”，与该主题直接相关，但无需修改。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 大规模重写软件，契合“软件工厂”概念，但现有主题已足够，保持不变。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中 AI 重写所有软件并进行工程化加固，涉及智能体规模化工程，暂不新增。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "帖文对比人造软件缺陷与 AI 改写潜力，与代码质量双标主题相近，但本条不改动该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于所提供的 X 帖文截图文本，未引入外部事实。"
+}

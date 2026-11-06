@@ -1,0 +1,23 @@
+{
+  "slug": "8bc337735fd718ae",
+  "url": "https://x.com/steipete/status/2118116514700386439",
+  "title": "Peter Steinberger (@steipete)",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "filed",
+  "hash": "8bc337735fd718ae27a40c2f91ce429f9e23ef10f402a9d955047ce292fa6035",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": "2026-11-05T23:53:55.444Z",
+  "content_hash": "61e8abd78fa8bc7c2b3cddf76127cd2fe32f780c5f76a7225c1ce2b454385c16",
+  "article_path": "articles/8bc337735fd718ae.md",
+  "fetched_url": "https://x.com/steipete/status/2118116514700386439",
+  "source_path": "sources/articles/do-individual-ai-limits-still-make-sense-agents-evolve-codebases.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T00:00:33.659Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

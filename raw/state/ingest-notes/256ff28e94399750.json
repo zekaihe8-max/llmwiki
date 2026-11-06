@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "帖文核心是异步子智能体，与“把子 Agent 折进主循环”主题高度相关",
+    "topics/agent-auto-mode.md": "异步子智能体体现智能体自动化运行模式，与该主题相近",
+    "topics/multiagent-infra-four-problems.md": "Deep Agents 的子智能体编排属于多智能体基建范畴，与该主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文核心是异步子智能体，与“把子 Agent 折进主循环”主题高度相关"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "异步子智能体体现智能体自动化运行模式，与该主题相近"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Deep Agents 的子智能体编排属于多智能体基建范畴，与该主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅基于抓取的 X 帖文及其引用的 Sydney Runkle 文章摘要，未引入外部事实。"
+}

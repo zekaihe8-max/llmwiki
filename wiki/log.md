@@ -1,3 +1,57 @@
+## 2026-11-06
+
+* **创建 / Creation**: 归档 [Cursor 一键部署：Grok 与 Cursor 可构建、部署并扩展应用](./sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md)。 / Filed [Cursor One-Click Deploy: Grok and Cursor Can Build, Deploy, and Scale Apps](./sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md).
+
+* **创建 / Creation**: 归档 [介绍 Vercel Schedules](./sources/articles/introducing-vercel-schedules.md)。 / Filed [Introducing Vercel Schedules](./sources/articles/introducing-vercel-schedules.md).
+
+* **创建 / Creation**: 归档 [Notion 创始人：半数页面由 Agent 生成，AI 使用量增长 9 倍](./sources/articles/notion-founder-half-of-pages-agent-generated-ai-usage-up-9x.md)。 / Filed [Notion Founder: Half of Pages Agent-Generated, AI Usage Up 9x](./sources/articles/notion-founder-half-of-pages-agent-generated-ai-usage-up-9x.md).
+
+* **创建 / Creation**: 归档 [Hamel Husain：自行做私有评测，别信公开基准](./sources/articles/hamel-husain-run-your-own-private-evals-don-t-trust-public-bench.md)。 / Filed [Hamel Husain: Run your own private evals; don't trust public benchmarks](./sources/articles/hamel-husain-run-your-own-private-evals-don-t-trust-public-bench.md).
+
+* **创建 / Creation**: 归档 [Vox：Codex 额度重置前用完，用 `/goal` 清理 vibe coding 积累](./sources/articles/vox-voxyz-ai-use-up-codex-quota-before-reset-clean-vibe-coding-b.md)。 / Filed [Vox (@Voxyz_ai): Use up Codex quota before reset, clean vibe-coding buildup with `/goal`](./sources/articles/vox-voxyz-ai-use-up-codex-quota-before-reset-clean-vibe-coding-b.md).
+
+* **创建 / Creation**: 归档 [Vox：Claude Code 子 Agent 状态更新费用下降 99%，附三项省额度设置](./sources/articles/vox-claude-code-background-subagent-status-update-costs-cut-99-p.md)。 / Filed [Vox: Claude Code background subagent status update costs cut 99%, plus three usage-limit settings](./sources/articles/vox-claude-code-background-subagent-status-update-costs-cut-99-p.md).
+
+* **创建 / Creation**: 归档 [让 Opus 与 Astra 共享仓库级 Agent 记忆](./sources/articles/share-repo-level-agent-memory-between-opus-and-astra.md)。 / Filed [Share repo-level Agent memory between Opus and Astra](./sources/articles/share-repo-level-agent-memory-between-opus-and-astra.md).
+
+* **创建 / Creation**: 归档 [马特·波科克的“可验证变更”Agent 提示词](./sources/articles/matt-pocock-s-fully-verifiable-change-agent-prompt.md)。 / Filed [Matt Pocock's "Fully Verifiable Change" Agent Prompt](./sources/articles/matt-pocock-s-fully-verifiable-change-agent-prompt.md).
+
+* **创建 / Creation**: 归档 [Thariq Shihipar 离开 Anthropic：不把身份绑定实验室，勇气比天才稀缺](./sources/articles/thariq-shihipar-leaves-anthropic-don-t-tie-identity-to-labs-cour.md)。 / Filed [Thariq Shihipar Leaves Anthropic: Don't Tie Identity to Labs, Courage Scarcer Than Genius](./sources/articles/thariq-shihipar-leaves-anthropic-don-t-tie-identity-to-labs-cour.md).
+
+* **创建 / Creation**: 归档 [Claude 推出个人理财功能，连银行账户只读查收支](./sources/articles/claude-launches-personal-finance-read-only-bank-connection-for-s.md)。 / Filed [Claude launches Personal Finance, read-only bank connection for spending queries](./sources/articles/claude-launches-personal-finance-read-only-bank-connection-for-s.md).
+
+* **创建 / Creation**: 归档 [METR 独立评估：Anthropic 模型能力进步速度约翻倍，主因可能是 AI 参与研发](./sources/articles/metr-independent-assessment-anthropic-model-capability-progress.md)。 / Filed [METR Independent Assessment: Anthropic Model Capability Progress Speed Roughly Doubles, Main Cause Possibly AI Participation in R&D](./sources/articles/metr-independent-assessment-anthropic-model-capability-progress.md).
+
+* **创建 / Creation**: 归档 [VFlash：并行视觉模型开启 System One 时代，面向物理 AI](./sources/articles/vflash-system-one-vision-model-era-for-physical-ai.md)。 / Filed [VFlash: System One Vision Model Era for Physical AI](./sources/articles/vflash-system-one-vision-model-era-for-physical-ai.md).
+
+* **创建 / Creation**: 归档 [纳森·兰伯特称基准不足是 RSI 瓶颈，METR 发布 AI 加速 AI 开发风险评估](./sources/articles/nathan-lambert-says-benchmark-gaps-bottleneck-rsi-metr-releases.md)。 / Filed [Nathan Lambert says benchmark gaps bottleneck RSI; METR releases AI-accelerating-AI risk assessment](./sources/articles/nathan-lambert-says-benchmark-gaps-bottleneck-rsi-metr-releases.md).
+
+* **创建 / Creation**: 归档 [企业 AI 转型内部的两种力量](./sources/articles/two-forces-inside-corporate-ai-transformation.md)。 / Filed [Two Forces Inside Corporate AI Transformation](./sources/articles/two-forces-inside-corporate-ai-transformation.md).
+
+* **创建 / Creation**: 归档 [LangChain Deep Agents 现已支持异步子智能体](./sources/articles/langchain-deep-agents-now-support-async-subagents.md)。 / Filed [LangChain Deep Agents Now Support Async Subagents](./sources/articles/langchain-deep-agents-now-support-async-subagents.md).
+
+* **创建 / Creation**: 归档 [个体 AI 限额还合理吗？智能体演进代码库，苹果却在削减预算](./sources/articles/do-individual-ai-limits-still-make-sense-agents-evolve-codebases.md)。 / Filed [Do Individual AI Limits Still Make Sense? Agents Evolve Codebases as Apple Cuts Budgets](./sources/articles/do-individual-ai-limits-still-make-sense-agents-evolve-codebases.md).
+
+* **创建 / Creation**: 归档 [Aaron Levie (@levie) 的 X 帖文](./sources/articles/aaron-levie-levie-x-post.md)。 / Filed [Aaron Levie (@levie) X Post](./sources/articles/aaron-levie-levie-x-post.md).
+
+* **创建 / Creation**: 归档 [Vercel Schedules 进入公开测试](./sources/articles/vercel-schedules-enters-public-beta.md)。 / Filed [Vercel Schedules enters public beta](./sources/articles/vercel-schedules-enters-public-beta.md).
+
+* **创建 / Creation**: 归档 [吉列尔莫·劳奇：跨时主动服务是智能体杀手级应用](./sources/articles/guillermo-rauch-doing-stuff-for-you-over-time-is-the-killer-app.md)。 / Filed [Guillermo Rauch: "Doing stuff for you over time" is the killer app of agents](./sources/articles/guillermo-rauch-doing-stuff-for-you-over-time-is-the-killer-app.md).
+
+* **创建 / Creation**: 归档 [AI 将重写所有软件，标志软件工程真正诞生](./sources/articles/ai-will-rewrite-all-software-marking-the-true-birth-of-software.md)。 / Filed [AI Will Rewrite All Software, Marking the True Birth of Software Engineering](./sources/articles/ai-will-rewrite-all-software-marking-the-true-birth-of-software.md).
+
+* **创建 / Creation**: 归档 [Anthropic AI 研发加速独立评估报告](./sources/articles/independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-oc.md)。 / Filed [Independent Assessment of AI R&D Acceleration at Anthropic in October 2026](./sources/articles/independent-assessment-of-ai-r-d-acceleration-at-anthropic-in-oc.md).
+
+* **创建 / Creation**: 归档 [METR 发布 AI 自加速风险评估报告](./sources/articles/metr-publishes-ai-self-acceleration-risk-assessment-report.md)。 / Filed [METR Publishes AI Self-Acceleration Risk Assessment Report](./sources/articles/metr-publishes-ai-self-acceleration-risk-assessment-report.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 发布 Gemini Omni Flash 1.2，视频生成延长至 15 秒并降价 30%](./sources/articles/google-deepmind-rolls-out-gemini-omni-flash-1-2-with-15-second-v.md)。 / Filed [Google DeepMind Rolls Out Gemini Omni Flash 1.2 With 15-Second Video and 30% Price Cut](./sources/articles/google-deepmind-rolls-out-gemini-omni-flash-1-2-with-15-second-v.md).
+
+* **创建 / Creation**: 归档 [Claude 推出个人理财功能，美国 Beta 测试](./sources/articles/claude-launches-personal-finance-feature-in-us-beta.md)。 / Filed [Claude Launches Personal Finance Feature in US Beta](./sources/articles/claude-launches-personal-finance-feature-in-us-beta.md).
+
+* **创建 / Creation**: 归档 [OpenAI 开发者账号发布“私密安全处理”功能说明](./sources/articles/openai-developers-posts-private-safety-processing-explanation.md)。 / Filed [OpenAI Developers posts "Private Safety Processing" explanation](./sources/articles/openai-developers-posts-private-safety-processing-explanation.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布面向安全研究的 GPT‑6 Cyber](./sources/articles/openai-introduces-gpt-6-cyber-for-security-research.md)。 / Filed [OpenAI Introduces GPT‑6 Cyber for Security Research](./sources/articles/openai-introduces-gpt-6-cyber-for-security-research.md).
+
 ## 2026-11-05
 
 * **创建 / Creation**: 归档 [深圳 GEO 大会嘉宾预热：WaytoAGI 创始人 AJ 将分享海外营销增长策略](./sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md)。 / Filed [Shenzhen GEO Conference Guest Preview: WaytoAGI Founder AJ to Share Overseas Marketing Growth Strategy](./sources/articles/shenzhen-geo-conference-guest-preview-waytoagi-founder-aj-to-sha.md).

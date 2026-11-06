@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:04:23.522Z",
+  "url": "https://x.com/mattpocockuk/status/2118313863917564136",
+  "slug": "d8ec0fa0d86588ae",
+  "content_hash": "979bb7a214b8ee90f040db3cc453704059b3ad191c4c77560670b2d5f213968f",
+  "source": {
+    "path": "sources/articles/matt-pocock-s-fully-verifiable-change-agent-prompt.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/computer-use.md",
+    "topics/llm-formal-verification.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 工程实践与提示词设计，与“可验证变更”提示词最贴近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到 Agent 点击前端、注册服务，属于计算机使用/网页交互场景。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "强变更验证可视为人类设计审核/质量闸的一种变体。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "“完全可验证”与形式化验证和变更可证性相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "涉及 Agent 工程实践与提示词设计，与“可验证变更”提示词最贴近。",
+    "topics/computer-use.md": "文中提到 Agent 点击前端、注册服务，属于计算机使用/网页交互场景。",
+    "topics/llm-formal-verification.md": "“完全可验证”与形式化验证和变更可证性相关。",
+    "topics/divergent-tasks-human-design-gate.md": "强变更验证可视为人类设计审核/质量闸的一种变体。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/matt-pocock-s-fully-verifiable-change-agent-prompt.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/computer-use.md",
+      "topics/llm-formal-verification.md",
+      "topics/divergent-tasks-human-design-gate.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "涉及 Agent 工程实践与提示词设计，与“可验证变更”提示词最贴近。",
+      "topics/computer-use.md": "文中提到 Agent 点击前端、注册服务，属于计算机使用/网页交互场景。",
+      "topics/llm-formal-verification.md": "“完全可验证”与形式化验证和变更可证性相关。",
+      "topics/divergent-tasks-human-design-gate.md": "强变更验证可视为人类设计审核/质量闸的一种变体。"
+    },
+    "notes": "来源仅为 X 帖文，未核实主张均用“帖文称”表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/matt-pocock-s-fully-verifiable-change-agent-prompt.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

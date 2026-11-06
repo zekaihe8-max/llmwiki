@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T00:03:44.551Z",
+  "url": "https://x.com/dotey/status/2118471688866213999",
+  "slug": "9ab837eb385a6195",
+  "content_hash": "6a00e1eb1f0e73750d52fe8d9662fd1aa81c533205ca13ec3a8b6b20f815403d",
+  "source": {
+    "path": "sources/articles/thariq-shihipar-leaves-anthropic-don-t-tie-identity-to-labs-cour.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/software-factory.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章主角是 Claude Code 工程师，在 X 上因该产品高频露面，与该话题直接相关。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "他强调“勇气比天才更稀缺”，与冲劲胜过资历的主题相近。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章核心事件是其离开 Anthropic 及离职动机讨论。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中明确提到他用 Claude Code 盯数据库和事件，属于“软件工厂”做法。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "文章主角是 Claude Code 工程师，在 X 上因该产品高频露面，与该话题直接相关。",
+    "topics/software-factory.md": "文中明确提到他用 Claude Code 盯数据库和事件，属于“软件工厂”做法。",
+    "topics/hunger-beats-tenure.md": "他强调“勇气比天才更稀缺”，与冲劲胜过资历的主题相近。",
+    "topics/pre-ipo-talent-departure-motives.md": "文章核心事件是其离开 Anthropic 及离职动机讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/thariq-shihipar-leaves-anthropic-don-t-tie-identity-to-labs-cour.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/software-factory.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "文章主角是 Claude Code 工程师，在 X 上因该产品高频露面，与该话题直接相关。",
+      "topics/software-factory.md": "文中明确提到他用 Claude Code 盯数据库和事件，属于“软件工厂”做法。",
+      "topics/hunger-beats-tenure.md": "他强调“勇气比天才更稀缺”，与冲劲胜过资历的主题相近。",
+      "topics/pre-ipo-talent-departure-motives.md": "文章核心事件是其离开 Anthropic 及离职动机讨论。"
+    },
+    "notes": "所有主张均基于所提供文章，未编造 URL 或额外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/thariq-shihipar-leaves-anthropic-don-t-tie-identity-to-labs-cour.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "b786cbb2eda46a85",
+  "url": "https://x.com/rauchg/status/2118464177211940997",
+  "title": "Cursor 一键部署",
+  "digest": "2026-11-06-frontier-ai.md",
+  "status": "filed",
+  "hash": "b786cbb2eda46a8577137310b0a87364afe700072bf0d34a641fecbea9ad72b7",
+  "first_seen": "2026-11-05T23:53:45.588Z",
+  "last_seen": "2026-11-05T23:53:45.588Z",
+  "fetched_at": "2026-11-05T23:54:02.740Z",
+  "content_hash": "d1c53eaa75f65dd34966be3c6b64ce9ad695204eff06f5e8eced516798e358d4",
+  "article_path": "articles/b786cbb2eda46a85.md",
+  "fetched_url": "https://x.com/rauchg/status/2118464177211940997",
+  "source_path": "sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T00:09:17.241Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

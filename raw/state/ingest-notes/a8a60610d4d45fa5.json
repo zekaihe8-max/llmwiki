@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章核心是第三方 AI 风险评估与评测工作，与该主题的评测入口与记录最为贴近。",
+    "topics/frontier-training-containment.md": "涉及前沿 AI 开发加速与风险评估，与前沿训练环境隔离主题相关。",
+    "topics/agent-compute-and-governance.md": "涉及 AI 发展治理与风险管控，与智能体算力与治理主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章核心是第三方 AI 风险评估与评测工作，与该主题的评测入口与记录最为贴近。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿 AI 开发加速与风险评估，与前沿训练环境隔离主题相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 发展治理与风险管控，与智能体算力与治理主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未引用报告全文或外部事实。"
+}

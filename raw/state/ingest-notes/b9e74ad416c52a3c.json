@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/cyber-eval-incident-alignment.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/open-models-cyber-defense.md"
+  ],
+  "selection_reasons": {
+    "topics/cyber-research-models-without-jailbreak.md": "帖文聚焦网安研究模型，与该主题关于网安研究选型与少破甲模型的讨论相近。",
+    "topics/cyber-eval-incident-alignment.md": "帖文提及模型对齐与安全研究，与网络能力测评越权事件的对齐评估主题相关。",
+    "topics/agent-swarms-cyber-defense.md": "涉及安全团队使用模型进行网防，与网防 Agent Swarm 品类主题有交叉。",
+    "topics/open-models-cyber-defense.md": "围绕模型与网络防御的应用，与开源模型与网络防御主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦网安研究模型，与该主题关于网安研究选型与少破甲模型的讨论相近。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "帖文提及模型对齐与安全研究，与网络能力测评越权事件的对齐评估主题相关。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及安全团队使用模型进行网防，与网防 Agent Swarm 品类主题有交叉。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "围绕模型与网络防御的应用，与开源模型与网络防御主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "源文中出现的“Calif”保持原文拼写，未做更正或推断。"
+}

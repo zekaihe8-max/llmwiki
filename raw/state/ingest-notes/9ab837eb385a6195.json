@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/software-factory.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "文章主角是 Claude Code 工程师，在 X 上因该产品高频露面，与该话题直接相关。",
+    "topics/software-factory.md": "文中明确提到他用 Claude Code 盯数据库和事件，属于“软件工厂”做法。",
+    "topics/hunger-beats-tenure.md": "他强调“勇气比天才更稀缺”，与冲劲胜过资历的主题相近。",
+    "topics/pre-ipo-talent-departure-motives.md": "文章核心事件是其离开 Anthropic 及离职动机讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章主角是 Claude Code 工程师，在 X 上因该产品高频露面，与该话题直接相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中明确提到他用 Claude Code 盯数据库和事件，属于“软件工厂”做法。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "他强调“勇气比天才更稀缺”，与冲劲胜过资历的主题相近。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章核心事件是其离开 Anthropic 及离职动机讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所提供文章，未编造 URL 或额外事实。"
+}

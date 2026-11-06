@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/ai-chatbot-safety-consumer-suits.md"
+  ],
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "涉及云端 AI 与机密计算，与帖文中不保留内容、记录留在本地环境的隐私设计最为接近",
+    "topics/local-desensitization-before-models.md": "强调本地处理与脱敏，与“记录留在你的环境”相关",
+    "topics/ai-chatbot-safety-consumer-suits.md": "涉及 AI 安全审查，与帖文中自动化安全代理审核相关"
+  },
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "涉及云端 AI 与机密计算，与帖文中不保留内容、记录留在本地环境的隐私设计最为接近"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "强调本地处理与脱敏，与“记录留在你的环境”相关"
+    },
+    {
+      "path": "topics/ai-chatbot-safety-consumer-suits.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 安全审查，与帖文中自动化安全代理审核相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该帖文，未引入外部事实。"
+}
