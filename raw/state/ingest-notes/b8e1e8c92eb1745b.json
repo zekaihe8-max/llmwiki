@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/ai-assisted-os-port-wave.md"
+  ],
+  "selection_reasons": {
+    "topics/design-taste-led-linux-desktop-trial.md": "文章聚焦 Linux 桌面发行版 Omarchy 4.5，与 Linux 桌面试用主题最相关",
+    "topics/minimal-core-community-extensions.md": "Omarchy 主打精简核心与社区扩展，与该主题方向接近",
+    "topics/ai-assisted-os-port-wave.md": "涉及将 Linux 系统移植到苹果 Silicon 硬件，与系统移植/破解风潮主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Linux 桌面发行版 Omarchy 4.5，与 Linux 桌面试用主题最相关"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Omarchy 主打精简核心与社区扩展，与该主题方向接近"
+    },
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "涉及将 Linux 系统移植到苹果 Silicon 硬件，与系统移植/破解风潮主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实；M4 支持为作者推测。"
+}

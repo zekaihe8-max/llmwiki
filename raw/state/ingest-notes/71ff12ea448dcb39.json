@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论AI领域的数据公司及其在行业中的定位",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及对公开排名或投票榜单的质量审视与解读",
+    "topics/community-evals-vs-score-hype.md": "涉及社区投票与影响力评价的可信度讨论"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论AI领域的数据公司及其在行业中的定位"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及对公开排名或投票榜单的质量审视与解读"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区投票与影响力评价的可信度讨论"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为X平台帖文，配图未抓取，所有排名与评价依据均以帖文表述为准。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:04:33.634Z",
+  "url": "https://x.com/xiaomovps/status/2118596364250808706",
+  "slug": "2f861b1918e4cc92",
+  "content_hash": "7255943e50e3bbd7e5749b218f6c9e2b3d5fb88dc31c9da81b9379b718bb72de",
+  "source": {
+    "path": "sources/articles/esp-mosaico-agents-directly-develop-esp32-hardware.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/programmable-edge-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Agent 自动完成从代码到烧录的硬件开发流程，与智能体自动模式高度相关。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "ESP-Mosaico 将 Agent 流程接入 ESP32 芯片端，涉及芯片上的 Agent 运行时与反馈闭环。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "ESP32-S31 及模块化硬件属于可编程边缘计算设备，Agent 开发直接面向边缘硬件。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 Vibe Coding 并描述 Agent 直接操作硬件、基于真机反馈迭代代码。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文核心是 Agent 自动完成从代码到烧录的硬件开发流程，与智能体自动模式高度相关。",
+    "topics/vibe-coding-memory-paradox.md": "文中明确提到 Vibe Coding 并描述 Agent 直接操作硬件、基于真机反馈迭代代码。",
+    "topics/on-chip-agent-runtime.md": "ESP-Mosaico 将 Agent 流程接入 ESP32 芯片端，涉及芯片上的 Agent 运行时与反馈闭环。",
+    "topics/programmable-edge-compute.md": "ESP32-S31 及模块化硬件属于可编程边缘计算设备，Agent 开发直接面向边缘硬件。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/esp-mosaico-agents-directly-develop-esp32-hardware.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/on-chip-agent-runtime.md",
+      "topics/programmable-edge-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文核心是 Agent 自动完成从代码到烧录的硬件开发流程，与智能体自动模式高度相关。",
+      "topics/vibe-coding-memory-paradox.md": "文中明确提到 Vibe Coding 并描述 Agent 直接操作硬件、基于真机反馈迭代代码。",
+      "topics/on-chip-agent-runtime.md": "ESP-Mosaico 将 Agent 流程接入 ESP32 芯片端，涉及芯片上的 Agent 运行时与反馈闭环。",
+      "topics/programmable-edge-compute.md": "ESP32-S31 及模块化硬件属于可编程边缘计算设备，Agent 开发直接面向边缘硬件。"
+    },
+    "notes": "来源为 X 平台帖文，未独立核实 ESP-Mosaico 项目细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/esp-mosaico-agents-directly-develop-esp32-hardware.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

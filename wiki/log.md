@@ -1,5 +1,83 @@
 ## 2026-11-06
 
+* **创建 / Creation**: 归档 [高端模型只需简单 Harness](./sources/articles/high-end-models-only-need-a-simple-harness.md)。 / Filed [High-End Models Only Need a Simple Harness](./sources/articles/high-end-models-only-need-a-simple-harness.md).
+
+* **创建 / Creation**: 归档 [强制 Responses API](./sources/articles/forced-responses-api.md)。 / Filed [Forced Responses API](./sources/articles/forced-responses-api.md).
+
+* **创建 / Creation**: 归档 [magpie 将额度用尽原样透传给 Codex](./sources/articles/magpie-passes-chatgpt-quota-exhausted-status-through-to-codex.md)。 / Filed [magpie passes ChatGPT quota-exhausted status through to Codex](./sources/articles/magpie-passes-chatgpt-quota-exhausted-status-through-to-codex.md).
+
+* **创建 / Creation**: 归档 [Motion Prompt：建立 AI 动效与镜头标准词典](./sources/articles/motion-prompt-a-standard-dictionary-for-ai-motion-effects-and-ca.md)。 / Filed [Motion Prompt: A Standard Dictionary for AI Motion Effects and Camera Work](./sources/articles/motion-prompt-a-standard-dictionary-for-ai-motion-effects-and-ca.md).
+
+* **创建 / Creation**: 归档 [StudyOnTV：答题通关才能看电视的开源屏幕管理工具](./sources/articles/studyontv-open-source-screen-manager-that-unlocks-tv-time-after.md)。 / Filed [StudyOnTV: Open-source screen manager that unlocks TV time after quiz completion](./sources/articles/studyontv-open-source-screen-manager-that-unlocks-tv-time-after.md).
+
+* **创建 / Creation**: 归档 [Inkling 2 Small：西方开源的“像模像样”模型](./sources/articles/inkling-2-small-a-decent-western-open-source-model.md)。 / Filed [Inkling 2 Small: A Decent Western Open-Source Model](./sources/articles/inkling-2-small-a-decent-western-open-source-model.md).
+
+* **创建 / Creation**: 归档 [数据公司研究影响力投票](./sources/articles/data-company-research-influence-vote.md)。 / Filed [Data Company Research Influence Vote](./sources/articles/data-company-research-influence-vote.md).
+
+* **创建 / Creation**: 归档 [AI 网安任务跨度一年扩大 52 倍，漏洞利用加速但修补跟不上](./sources/articles/ai-cyber-task-horizon-grows-52-in-a-year-exploitation-outpaces-p.md)。 / Filed [AI Cyber Task Horizon Grows 52× in a Year; Exploitation Outpaces Patching](./sources/articles/ai-cyber-task-horizon-grows-52-in-a-year-exploitation-outpaces-p.md).
+
+* **创建 / Creation**: 归档 [别再盯着 40 个 AI 基准，应问 Agent 能否自主把活干完](./sources/articles/stop-watching-the-40-ai-benchmarks-ask-whether-agents-can-actual.md)。 / Filed [Stop Watching the 40 AI Benchmarks; Ask Whether Agents Can Actually Get the Work Done](./sources/articles/stop-watching-the-40-ai-benchmarks-ask-whether-agents-can-actual.md).
+
+* **创建 / Creation**: 归档 [美股 AI 板块与 AI 硬件全线暴跌，帖文称民主党胜利影响力过大](./sources/articles/us-ai-sectors-and-ai-hardware-crash-across-the-board-post-says-d.md)。 / Filed [US AI sectors and AI hardware crash across the board; post says Democratic victory has too much influence](./sources/articles/us-ai-sectors-and-ai-hardware-crash-across-the-board-post-says-d.md).
+
+* **创建 / Creation**: 归档 [Omarchy 4.5 支持 Apple M1/M2/M3 芯片](./sources/articles/omarchy-4-5-adds-support-for-apple-m1-m2-m3-chips.md)。 / Filed [Omarchy 4.5 Adds Support for Apple M1/M2/M3 Chips](./sources/articles/omarchy-4-5-adds-support-for-apple-m1-m2-m3-chips.md).
+
+* **创建 / Creation**: 归档 [TikTok 推荐逆向笔记](./sources/articles/tiktok-recommendation-reverse-engineering-notes.md)。 / Filed [TikTok Recommendation Reverse-Engineering Notes](./sources/articles/tiktok-recommendation-reverse-engineering-notes.md).
+
+* **创建 / Creation**: 归档 [中文开源字体合集](./sources/articles/chinese-open-source-font-collection.md)。 / Filed [Chinese Open Source Font Collection](./sources/articles/chinese-open-source-font-collection.md).
+
+* **创建 / Creation**: 归档 [vista8 改造 Cap 替代 Screen Studio：接入国产模型解决中文语音识别不准](./sources/articles/vista8-modifies-cap-to-replace-screen-studio-integrates-domestic.md)。 / Filed [vista8 Modifies Cap to Replace Screen Studio: Integrates Domestic Models to Fix Chinese Speech Recognition](./sources/articles/vista8-modifies-cap-to-replace-screen-studio-integrates-domestic.md).
+
+* **创建 / Creation**: 归档 [Eian AI视频长文爆红，X中文区收藏量破43万](./sources/articles/eian-s-ai-video-long-post-goes-viral-x-chinese-zone-collections.md)。 / Filed [Eian's AI video long post goes viral, X Chinese zone collections exceed 430,000](./sources/articles/eian-s-ai-video-long-post-goes-viral-x-chinese-zone-collections.md).
+
+* **创建 / Creation**: 归档 [闲鱼 AI 监控工具 ai-goofish-monitor 开源走红](./sources/articles/ai-powered-xianyu-monitor-ai-goofish-monitor-gains-open-source-t.md)。 / Filed [AI-powered Xianyu monitor ai-goofish-monitor gains open-source traction](./sources/articles/ai-powered-xianyu-monitor-ai-goofish-monitor-gains-open-source-t.md).
+
+* **创建 / Creation**: 归档 [Claude 催生订阅工程师：月薪 4 万新职业](./sources/articles/claude-spawns-subscription-engineer-40k-monthly-new-profession.md)。 / Filed [Claude spawns subscription engineer: 40k monthly new profession](./sources/articles/claude-spawns-subscription-engineer-40k-monthly-new-profession.md).
+
+* **创建 / Creation**: 归档 [A 社 IPO 与蚂蚁诅咒](./sources/articles/company-a-ipo-and-the-ant-curse.md)。 / Filed [Company A IPO and the Ant Curse](./sources/articles/company-a-ipo-and-the-ant-curse.md).
+
+* **创建 / Creation**: 归档 [AI 先废掉浏览器再重造](./sources/articles/ai-first-destroys-the-browser-then-rebuilds-it.md)。 / Filed [AI First Destroys the Browser, Then Rebuilds It](./sources/articles/ai-first-destroys-the-browser-then-rebuilds-it.md).
+
+* **创建 / Creation**: 归档 [混元 4 的生态位：让腾讯高管放心的牌](./sources/articles/hunyuan-4-s-niche-the-card-tencent-execs-need-for-reassurance.md)。 / Filed [Hunyuan 4's Niche: The Card Tencent Execs Need for Reassurance](./sources/articles/hunyuan-4-s-niche-the-card-tencent-execs-need-for-reassurance.md).
+
+* **创建 / Creation**: 归档 [没有 MCP 也造出金字塔](./sources/articles/pyramids-built-without-mcp-skills-or-agents.md)。 / Filed [Pyramids Built Without MCP, Skills, or Agents](./sources/articles/pyramids-built-without-mcp-skills-or-agents.md).
+
+* **创建 / Creation**: 归档 [屎山不参加选美](./sources/articles/shit-mountain-doesn-t-join-beauty-contests.md)。 / Filed [Shit Mountain Doesn't Join Beauty Contests](./sources/articles/shit-mountain-doesn-t-join-beauty-contests.md).
+
+* **创建 / Creation**: 归档 [Superserve：给 Agent 用的虚拟机沙箱](./sources/articles/superserve-virtual-machine-sandbox-for-agents.md)。 / Filed [Superserve: Virtual Machine Sandbox for Agents](./sources/articles/superserve-virtual-machine-sandbox-for-agents.md).
+
+* **创建 / Creation**: 归档 [本地类 Grok Bot 方案太多](./sources/articles/too-many-local-grok-bot-like-solutions.md)。 / Filed [Too many local Grok Bot-like solutions](./sources/articles/too-many-local-grok-bot-like-solutions.md).
+
+* **创建 / Creation**: 归档 [Router 流行，厂商筑护城河](./sources/articles/routers-grow-popular-vendors-build-moats.md)。 / Filed [Routers Grow Popular, Vendors Build Moats](./sources/articles/routers-grow-popular-vendors-build-moats.md).
+
+* **创建 / Creation**: 归档 [GBA 0.1.4 推出全功能头像编辑器，支持自定义颜色替代 Grok 万圣节南瓜头](./sources/articles/gba-0-1-4-launches-full-featured-avatar-editor-with-custom-color.md)。 / Filed [GBA 0.1.4 Launches Full-Featured Avatar Editor with Custom Colors Replacing Grok Halloween Pumpkin](./sources/articles/gba-0-1-4-launches-full-featured-avatar-editor-with-custom-color.md).
+
+* **创建 / Creation**: 归档 [推荐 mirasim ADE：多 Agent 一地协作，iOS 远程控制](./sources/articles/recommending-mirasim-ade-multiple-agents-collaborate-in-one-plac.md)。 / Filed [Recommending mirasim ADE: multiple agents collaborate in one place, iOS remote control](./sources/articles/recommending-mirasim-ade-multiple-agents-collaborate-in-one-plac.md).
+
+* **创建 / Creation**: 归档 [劝退 Grok Bot 冲 Opus：模型路由不可控与额度风险](./sources/articles/dissuading-grok-bot-opus-chasing-uncontrollable-model-routing-an.md)。 / Filed [Dissuading Grok Bot Opus Chasing: Uncontrollable Model Routing and Quota Risks](./sources/articles/dissuading-grok-bot-opus-chasing-uncontrollable-model-routing-an.md).
+
+* **创建 / Creation**: 归档 [Uber 加速 Spark：Gluten/Velox 与 Quanton 两条优化路线](./sources/articles/uber-accelerates-spark-gluten-velox-and-quanton-optimization-pat.md)。 / Filed [Uber Accelerates Spark: Gluten/Velox and Quanton Optimization Paths](./sources/articles/uber-accelerates-spark-gluten-velox-and-quanton-optimization-pat.md).
+
+* **创建 / Creation**: 归档 [Shopify Reflex：让 AI 无需模拟器验证原生 App 行为](./sources/articles/shopify-reflex-verifying-native-app-behavior-without-simulators.md)。 / Filed [Shopify Reflex: Verifying Native App Behavior Without Simulators](./sources/articles/shopify-reflex-verifying-native-app-behavior-without-simulators.md).
+
+* **创建 / Creation**: 归档 [Thinking Machines 发布 Inkling 2 Small 开源模型](./sources/articles/thinking-machines-releases-inkling-2-small-open-model.md)。 / Filed [Thinking Machines Releases Inkling 2 Small Open Model](./sources/articles/thinking-machines-releases-inkling-2-small-open-model.md).
+
+* **创建 / Creation**: 归档 [Anthropic IPO 估值承压：机构投资者建议下调至 1 万亿美元](./sources/articles/anthropic-ipo-valuation-under-pressure-institutional-investors-s.md)。 / Filed [Anthropic IPO Valuation Under Pressure: Institutional Investors Suggest Cut to $1T](./sources/articles/anthropic-ipo-valuation-under-pressure-institutional-investors-s.md).
+
+* **创建 / Creation**: 归档 [Cursor 推出 Live Apps，云端 Agent 可直接构建并发布可运行网页应用](./sources/articles/cursor-launches-live-apps-letting-cloud-agents-build-and-publish.md)。 / Filed [Cursor Launches Live Apps, Letting Cloud Agents Build and Publish Runnable Web Apps](./sources/articles/cursor-launches-live-apps-letting-cloud-agents-build-and-publish.md).
+
+* **创建 / Creation**: 归档 [2 万美元 API 额度测 AI 狼人杀，GPT-6 Astra 遥遥领先](./sources/articles/20-000-api-werewolf-test-gpt-6-astra-leads.md)。 / Filed [$20,000 API Werewolf Test: GPT-6 Astra Leads](./sources/articles/20-000-api-werewolf-test-gpt-6-astra-leads.md).
+
+* **创建 / Creation**: 归档 [Pi 没停更，在改底层](./sources/articles/pi-hasn-t-stopped-updating-it-s-reworking-the-underlying-archite.md)。 / Filed [Pi Hasn't Stopped Updating, It's Reworking the Underlying Architecture](./sources/articles/pi-hasn-t-stopped-updating-it-s-reworking-the-underlying-archite.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 额度掉得更快，用户称模型路由与体验双变](./sources/articles/grok-bot-quota-drops-faster-user-reports-model-routing-and-exper.md)。 / Filed [Grok Bot Quota Drops Faster, User Reports Model Routing and Experience Changes](./sources/articles/grok-bot-quota-drops-faster-user-reports-model-routing-and-exper.md).
+
+* **创建 / Creation**: 归档 [ESP-Mosaico：Agent 直接开发 ESP32 硬件](./sources/articles/esp-mosaico-agents-directly-develop-esp32-hardware.md)。 / Filed [ESP-Mosaico: Agents Directly Develop ESP32 Hardware](./sources/articles/esp-mosaico-agents-directly-develop-esp32-hardware.md).
+
+* **创建 / Creation**: 归档 [Pi 作者给 AI 造了 Pico](./sources/articles/pi-author-builds-pico-a-programming-language-for-ai.md)。 / Filed [Pi Author Builds Pico, a Programming Language for AI](./sources/articles/pi-author-builds-pico-a-programming-language-for-ai.md).
+
+* **创建 / Creation**: 归档 [Agent 交活必须带截图](./sources/articles/agent-deliveries-must-include-screenshots.md)。 / Filed [Agent Deliveries Must Include Screenshots](./sources/articles/agent-deliveries-must-include-screenshots.md).
+
 * **创建 / Creation**: 归档 [Cursor 一键部署：Grok 与 Cursor 可构建、部署并扩展应用](./sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md)。 / Filed [Cursor One-Click Deploy: Grok and Cursor Can Build, Deploy, and Scale Apps](./sources/articles/cursor-one-click-deploy-grok-and-cursor-can-build-deploy-and-sca.md).
 
 * **创建 / Creation**: 归档 [介绍 Vercel Schedules](./sources/articles/introducing-vercel-schedules.md)。 / Filed [Introducing Vercel Schedules](./sources/articles/introducing-vercel-schedules.md).

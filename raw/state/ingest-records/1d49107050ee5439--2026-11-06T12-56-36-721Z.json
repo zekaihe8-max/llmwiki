@@ -1,0 +1,70 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:56:36.721Z",
+  "url": "https://x.com/op7418/status/2118374811202416848",
+  "slug": "1d49107050ee5439",
+  "content_hash": "360411357682c213417349d2f335c04e3c3327706c2ab089cc2c0ab82f78dfa2",
+  "source": {
+    "path": "sources/articles/us-ai-sectors-and-ai-hardware-crash-across-the-board-post-says-d.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力与治理，与帖文提及的 AI 硬件/算力板块最为相邻。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "提及美国算力优势，与美股 AI 板块语境有远程关联。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "聚焦消费级 GPU AI 算力，与 AI 硬件话题相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "关注大厂推理成本效率，触及 AI 产业经济面。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "涉及 AI 算力与治理，与帖文提及的 AI 硬件/算力板块最为相邻。",
+    "topics/gpu-ai-compute-unlock.md": "聚焦消费级 GPU AI 算力，与 AI 硬件话题相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "关注大厂推理成本效率，触及 AI 产业经济面。",
+    "topics/china-open-source-lead-us-compute.md": "提及美国算力优势，与美股 AI 板块语境有远程关联。"
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/china-open-source-lead-us-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "涉及 AI 算力与治理，与帖文提及的 AI 硬件/算力板块最为相邻。",
+      "topics/gpu-ai-compute-unlock.md": "聚焦消费级 GPU AI 算力，与 AI 硬件话题相关。",
+      "topics/lab-inference-serving-cost-efficiency.md": "关注大厂推理成本效率，触及 AI 产业经济面。",
+      "topics/china-open-source-lead-us-compute.md": "提及美国算力优势，与美股 AI 板块语境有远程关联。"
+    },
+    "notes": "本条目仅基于单条 X 帖文，其中关于市场暴跌及政治因果的主张均为帖文方说法，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

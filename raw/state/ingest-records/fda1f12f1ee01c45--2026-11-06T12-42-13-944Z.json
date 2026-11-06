@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:42:13.944Z",
+  "url": "https://x.com/vista8/status/2118498521712316782",
+  "slug": "fda1f12f1ee01c45",
+  "content_hash": "0ad4248ed3bfb8517992610348dd2db82e065be8fba0b3eb83870bd57ba50a2b",
+  "source": {
+    "path": "sources/articles/chinese-open-source-font-collection.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "字体属于设计资产，与设计↔代码主题有一定关联。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "分享内容为开源字体合集，与开源工具主题相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文强调搜到已有人整理好的字体合集，体现先复用再创作的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "帖文强调搜到已有人整理好的字体合集，体现先复用再创作的思路。",
+    "topics/open-source-in-ai-assistant-editing.md": "分享内容为开源字体合集，与开源工具主题相近。",
+    "topics/design-to-code-byo-subscriptions.md": "字体属于设计资产，与设计↔代码主题有一定关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chinese-open-source-font-collection.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/reuse-before-write.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/reuse-before-write.md": "帖文强调搜到已有人整理好的字体合集，体现先复用再创作的思路。",
+      "topics/open-source-in-ai-assistant-editing.md": "分享内容为开源字体合集，与开源工具主题相近。",
+      "topics/design-to-code-byo-subscriptions.md": "字体属于设计资产，与设计↔代码主题有一定关联。"
+    },
+    "notes": "所有咨询主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chinese-open-source-font-collection.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

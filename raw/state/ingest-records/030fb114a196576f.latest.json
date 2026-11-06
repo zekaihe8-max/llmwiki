@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:14:46.356Z",
+  "url": "https://x.com/0xLogicrw/status/2118600835978715524",
+  "slug": "030fb114a196576f",
+  "content_hash": "2378e927f031e74dab3e2587cc20460672d91b444ff51014907a6fd6f967a980",
+  "source": {
+    "path": "sources/articles/thinking-machines-releases-inkling-2-small-open-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章重点披露 Agent 能力提升与模型参数/激活取舍"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章包含评测 Token 消耗、成本与耗时等干活记录细节"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章引用 Artificial Analysis 分数并对比模型，涉及公开评测与分数炒作"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Apache 2.0 开源完整权重计划，与开放权重前沿模型主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章涉及 Apache 2.0 开源完整权重计划，与开放权重前沿模型主题相关",
+    "topics/community-evals-vs-score-hype.md": "文章引用 Artificial Analysis 分数并对比模型，涉及公开评测与分数炒作",
+    "topics/agent-model-channel-tradeoffs.md": "文章重点披露 Agent 能力提升与模型参数/激活取舍",
+    "topics/ai-eval-work-record-gateway.md": "文章包含评测 Token 消耗、成本与耗时等干活记录细节"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/thinking-machines-releases-inkling-2-small-open-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章涉及 Apache 2.0 开源完整权重计划，与开放权重前沿模型主题相关",
+      "topics/community-evals-vs-score-hype.md": "文章引用 Artificial Analysis 分数并对比模型，涉及公开评测与分数炒作",
+      "topics/agent-model-channel-tradeoffs.md": "文章重点披露 Agent 能力提升与模型参数/激活取舍",
+      "topics/ai-eval-work-record-gateway.md": "文章包含评测 Token 消耗、成本与耗时等干活记录细节"
+    },
+    "notes": "所有主张均基于帖文内容，未独立核实；未创建新话题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/thinking-machines-releases-inkling-2-small-open-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述多个 Agent 在同一平台协作，与个人 Agent 调度编程 Agents 的主题相近。",
+    "topics/multiagent-infra-four-problems.md": "涉及多智能体在同一环境下工作的基建体验，与多智能体基建话题相关。",
+    "topics/unified-agent-resource-library.md": "多 Agent 一地干活、切换不耽误事，与跨 Agent 统一资源/平台相关。",
+    "topics/computer-use.md": "人不在电脑前也能管、iOS 远程控制，与 Computer Use 远程操控相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文描述多个 Agent 在同一平台协作，与个人 Agent 调度编程 Agents 的主题相近。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "涉及多智能体在同一环境下工作的基建体验，与多智能体基建话题相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "多 Agent 一地干活、切换不耽误事，与跨 Agent 统一资源/平台相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "人不在电脑前也能管、iOS 远程控制，与 Computer Use 远程操控相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实 mirasim 的功能与性能；UI 优劣为作者主观体验。"
+}

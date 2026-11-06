@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:50:35.912Z",
+  "url": "https://x.com/FinanceYF5/status/2118529449159451051",
+  "slug": "71ff12ea448dcb39",
+  "content_hash": "6900aa0041248e84401cdf79fdab0d5edebcd383b119e0b6ae7c5a37dcbfcf9b",
+  "source": {
+    "path": "sources/articles/data-company-research-influence-vote.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论AI领域的数据公司及其在行业中的定位"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区投票与影响力评价的可信度讨论"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及对公开排名或投票榜单的质量审视与解读"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论AI领域的数据公司及其在行业中的定位",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及对公开排名或投票榜单的质量审视与解读",
+    "topics/community-evals-vs-score-hype.md": "涉及社区投票与影响力评价的可信度讨论"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/data-company-research-influence-vote.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "讨论AI领域的数据公司及其在行业中的定位",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及对公开排名或投票榜单的质量审视与解读",
+      "topics/community-evals-vs-score-hype.md": "涉及社区投票与影响力评价的可信度讨论"
+    },
+    "notes": "来源为X平台帖文，配图未抓取，所有排名与评价依据均以帖文表述为准。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/data-company-research-influence-vote.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:51:46.788Z",
+  "url": "https://x.com/Gorden_Sun/status/2118634081584107888",
+  "slug": "700ce74d602daa2b",
+  "content_hash": "0f4c559556fe0a0c818caf8cc6383651e706b30a462e64f6b26157da288a68b8",
+  "source": {
+    "path": "sources/articles/studyontv-open-source-screen-manager-that-unlocks-tv-time-after.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "这是一款通过答题闯关进行知识学习的消费级产品，与趣味知识学习产品主题相近。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章强调数据本地存储、无需云端，并可接入 DeepSeek 等模型，与本地开放助手主题相近。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "StudyOnTV 是开源工具并接入 AI 助手进行主观题批改，与开源工具装入 AI 助手主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章强调数据本地存储、无需云端，并可接入 DeepSeek 等模型，与本地开放助手主题相近。",
+    "topics/open-source-in-ai-assistant-editing.md": "StudyOnTV 是开源工具并接入 AI 助手进行主观题批改，与开源工具装入 AI 助手主题相关。",
+    "topics/html-image-fun-knowledge-learning.md": "这是一款通过答题闯关进行知识学习的消费级产品，与趣味知识学习产品主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/studyontv-open-source-screen-manager-that-unlocks-tv-time-after.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/html-image-fun-knowledge-learning.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "文章强调数据本地存储、无需云端，并可接入 DeepSeek 等模型，与本地开放助手主题相近。",
+      "topics/open-source-in-ai-assistant-editing.md": "StudyOnTV 是开源工具并接入 AI 助手进行主观题批改，与开源工具装入 AI 助手主题相关。",
+      "topics/html-image-fun-knowledge-learning.md": "这是一款通过答题闯关进行知识学习的消费级产品，与趣味知识学习产品主题相近。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/studyontv-open-source-screen-manager-that-unlocks-tv-time-after.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

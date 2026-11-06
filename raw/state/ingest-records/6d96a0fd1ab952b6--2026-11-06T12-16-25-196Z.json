@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:16:25.196Z",
+  "url": "https://x.com/shao__meng/status/2118625562864275781",
+  "slug": "6d96a0fd1ab952b6",
+  "content_hash": "0d83b1d9dc0f5e29108318a0be66001234ee52511b23cdc28fbf2244d30406e4",
+  "source": {
+    "path": "sources/articles/uber-accelerates-spark-gluten-velox-and-quanton-optimization-pat.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及规模化工程，与 Uber 20 万核 Spark 集群场景相近"
+    },
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "涉及后端系统与执行引擎优化，与 Spark 加速路线最为相邻"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及大规模软件工程与生产落地，与文中生产验证 caveat 相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deep-backends-and-jit-frontends.md": "涉及后端系统与执行引擎优化，与 Spark 加速路线最为相邻",
+    "topics/software-factory.md": "涉及大规模软件工程与生产落地，与文中生产验证 caveat 相关",
+    "topics/agent-scaled-engineering.md": "涉及规模化工程，与 Uber 20 万核 Spark 集群场景相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/uber-accelerates-spark-gluten-velox-and-quanton-optimization-pat.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deep-backends-and-jit-frontends.md",
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/deep-backends-and-jit-frontends.md": "涉及后端系统与执行引擎优化，与 Spark 加速路线最为相邻",
+      "topics/software-factory.md": "涉及大规模软件工程与生产落地，与文中生产验证 caveat 相关",
+      "topics/agent-scaled-engineering.md": "涉及规模化工程，与 Uber 20 万核 Spark 集群场景相近"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/uber-accelerates-spark-gluten-velox-and-quanton-optimization-pat.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:51:17.002Z",
+  "url": "https://x.com/Gorden_Sun/status/2118516919997534329",
+  "slug": "2d63dc0c00fa82dd",
+  "content_hash": "cfb9c8013d245c13f97875bd55029264bacd3c6df69834fb8aa689dfadd5f22f",
+  "source": {
+    "path": "sources/articles/inkling-2-small-a-decent-western-open-source-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文引用模型评分与其他模型比较，涉及公开榜单与分数解读。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Inkling 2 Small 属于开源助手类模型，与本地开放助手模型话题相近。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章主体是开放权重前沿模型 Inkling 2 Small，主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中将 Inkling 2 Small 与 Flash 系列模型做对比，涉及 Pro/Flash 模型策略语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章主体是开放权重前沿模型 Inkling 2 Small，主题高度相关。",
+    "topics/pro-vs-flash-model-strategy.md": "文中将 Inkling 2 Small 与 Flash 系列模型做对比，涉及 Pro/Flash 模型策略语境。",
+    "topics/community-evals-vs-score-hype.md": "帖文引用模型评分与其他模型比较，涉及公开榜单与分数解读。",
+    "topics/local-open-assistant-models.md": "Inkling 2 Small 属于开源助手类模型，与本地开放助手模型话题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/inkling-2-small-a-decent-western-open-source-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章主体是开放权重前沿模型 Inkling 2 Small，主题高度相关。",
+      "topics/pro-vs-flash-model-strategy.md": "文中将 Inkling 2 Small 与 Flash 系列模型做对比，涉及 Pro/Flash 模型策略语境。",
+      "topics/community-evals-vs-score-hype.md": "帖文引用模型评分与其他模型比较，涉及公开榜单与分数解读。",
+      "topics/local-open-assistant-models.md": "Inkling 2 Small 属于开源助手类模型，与本地开放助手模型话题相近。"
+    },
+    "notes": "所有模型性能与开源时间表均据帖文称，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/inkling-2-small-a-decent-western-open-source-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

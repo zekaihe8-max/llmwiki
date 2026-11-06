@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/workflows-before-agents.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "与公司级 Agent Harness 相关，最贴近帖文提及的 Harness 概念。",
+    "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比，与简单 Harness 的主题相关。",
+    "topics/workflows-before-agents.md": "主张工作流优先于智能体，与“简单 Harness”足够的观点方向一致。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "区分多 Harness 路由与个人助手派活，与 Harness 复杂度讨论相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "与公司级 Agent Harness 相关，最贴近帖文提及的 Harness 概念。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 对比，与简单 Harness 的主题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "主张工作流优先于智能体，与“简单 Harness”足够的观点方向一致。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "区分多 Harness 路由与个人助手派活，与 Harness 复杂度讨论相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于模型与 Harness 的主张均源自该帖文，未独立核实。"
+}

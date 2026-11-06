@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/local-open-assistant-models.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "涉及视频剪辑工具 Screen Studio 与 Cap 的智能体化改造",
+    "topics/ai-assisted-clipping-and-notes.md": "属于 AI 辅助媒体剪辑与笔记场景",
+    "topics/local-open-assistant-models.md": "明确提到接入国产本地模型",
+    "topics/open-source-in-ai-assistant-editing.md": "开源工具接入 AI 助手做自然语言剪辑的典型案例"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及视频剪辑工具 Screen Studio 与 Cap 的智能体化改造"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "属于 AI 辅助媒体剪辑与笔记场景"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "明确提到接入国产本地模型"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "开源工具接入 AI 助手做自然语言剪辑的典型案例"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by @vista8 dated Nov 6, 2026 (per post metadata); claims about model integration and roadmap are attributed to the author. No independent verification of model performance or release timeline."
+}

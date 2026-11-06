@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:31:47.691Z",
+  "url": "https://x.com/heydengai/status/2118657394834280940",
+  "slug": "3dc7b6e990ee2009",
+  "content_hash": "8a50ab163041e525ba9d49eac5d771744c93ba8e16e69742acf7a24ef06b577d",
+  "source": {
+    "path": "sources/articles/hunyuan-4-s-niche-the-card-tencent-execs-need-for-reassurance.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tools-building-own-models.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "反映非 AI 原生大厂在模型层的被动参赛姿态，可对比 AI 原生公司路径"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大厂高管对 AI 战略的考量与编制决策，关联「大厂 AI 数字员工职级与编制」"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "帖文讨论腾讯自建大模型的战略动机，符合「工具产品自建模型抢话语权」主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/tools-building-own-models.md": "帖文讨论腾讯自建大模型的战略动机，符合「工具产品自建模型抢话语权」主题",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂高管对 AI 战略的考量与编制决策，关联「大厂 AI 数字员工职级与编制」",
+    "topics/ai-native-companies.md": "反映非 AI 原生大厂在模型层的被动参赛姿态，可对比 AI 原生公司路径"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hunyuan-4-s-niche-the-card-tencent-execs-need-for-reassurance.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/tools-building-own-models.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/tools-building-own-models.md": "帖文讨论腾讯自建大模型的战略动机，符合「工具产品自建模型抢话语权」主题",
+      "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂高管对 AI 战略的考量与编制决策，关联「大厂 AI 数字员工职级与编制」",
+      "topics/ai-native-companies.md": "反映非 AI 原生大厂在模型层的被动参赛姿态，可对比 AI 原生公司路径"
+    },
+    "notes": "内容为讽刺性评论，所有定性判断均标注为帖文称/作者称；不构成对模型能力或腾讯内部决策的实证陈述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hunyuan-4-s-niche-the-card-tencent-execs-need-for-reassurance.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

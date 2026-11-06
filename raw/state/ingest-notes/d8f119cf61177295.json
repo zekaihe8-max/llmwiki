@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/code-over-spec.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "直接对比 AI 代码与屎山，与帖文中“屎山不参加选美”的核心隐喻高度相关。",
+    "topics/code-over-spec.md": "帖文提到代码审美与架构重建，涉及代码优先于规格或审美的工程价值观。",
+    "topics/ux-dx-and-ax.md": "帖文关注代码品味与开发者体验，属于 DX 范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "直接对比 AI 代码与屎山，与帖文中“屎山不参加选美”的核心隐喻高度相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文提到代码审美与架构重建，涉及代码优先于规格或审美的工程价值观。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文关注代码品味与开发者体验，属于 DX 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于模型路由、配额、限流或厂商护城河的表述均已归因为帖文称/作者称，未作为平台事实呈现。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/tools-building-own-models.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/tools-building-own-models.md": "帖文讨论腾讯自建大模型的战略动机，符合「工具产品自建模型抢话语权」主题",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂高管对 AI 战略的考量与编制决策，关联「大厂 AI 数字员工职级与编制」",
+    "topics/ai-native-companies.md": "反映非 AI 原生大厂在模型层的被动参赛姿态，可对比 AI 原生公司路径"
+  },
+  "topics": [
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "帖文讨论腾讯自建大模型的战略动机，符合「工具产品自建模型抢话语权」主题"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大厂高管对 AI 战略的考量与编制决策，关联「大厂 AI 数字员工职级与编制」"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "反映非 AI 原生大厂在模型层的被动参赛姿态，可对比 AI 原生公司路径"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容为讽刺性评论，所有定性判断均标注为帖文称/作者称；不构成对模型能力或腾讯内部决策的实证陈述。"
+}

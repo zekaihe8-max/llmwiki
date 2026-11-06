@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/millenarian-apocalypse-discourse.md"
+  ],
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "帖文核心围绕 IPO 成败，与上市相关话题最为接近。",
+    "topics/ai-native-companies.md": "A 社为 AI 公司，与 AI 原生公司话题相关。",
+    "topics/millenarian-apocalypse-discourse.md": "帖文使用“诅咒”“邪门”等超自然表述，与末日/超自然话语语境相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "帖文核心围绕 IPO 成败，与上市相关话题最为接近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "A 社为 AI 公司，与 AI 原生公司话题相关。"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "帖文使用“诅咒”“邪门”等超自然表述，与末日/超自然话语语境相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于 IPO 失败、诅咒及特朗普改名的说法均来源于该帖文，未经独立核实。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "c36e090e8778893e",
+  "url": "https://x.com/xiaomovps/status/2118652864721817935",
+  "title": "Pi 作者给 AI 造了 Pico",
+  "digest": "2026-11-06-cn-x.md",
+  "status": "filed",
+  "hash": "c36e090e8778893e813593b00fa86d9539a86ca93e7083ffd9615f53a53fa438",
+  "first_seen": "2026-11-06T12:02:16.572Z",
+  "last_seen": "2026-11-06T12:02:16.572Z",
+  "fetched_at": "2026-11-06T12:02:17.055Z",
+  "content_hash": "ea2f149a3bbe36dbb0aa2a3591e31dc4f48f121c6689311031a90ad189ad3d3b",
+  "article_path": "articles/c36e090e8778893e.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2118652864721817935",
+  "source_path": "sources/articles/pi-author-builds-pico-a-programming-language-for-ai.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-06T12:03:38.882Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

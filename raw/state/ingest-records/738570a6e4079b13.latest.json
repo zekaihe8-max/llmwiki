@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:15:32.523Z",
+  "url": "https://x.com/shao__meng/status/2118622217525416174",
+  "slug": "738570a6e4079b13",
+  "content_hash": "a2cdaa9c7d74d48bb946f19ef6b0abeb8988e05b26b8d0abb257a8c315e86783",
+  "source": {
+    "path": "sources/articles/shopify-reflex-verifying-native-app-behavior-without-simulators.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-auto-mode.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 可自主发送动作、读取状态并验证结果，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讲述 Shopify 用 Agent 重建移动应用并保持质量标准，属于智能体规模化工程场景。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Reflex 被定义为 agentic-first 架构，与 Agentic AI Foundation 主题相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "AI 编程参与构建和验证原生 App，符合软件工厂主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章讲述 Shopify 用 Agent 重建移动应用并保持质量标准，属于智能体规模化工程场景。",
+    "topics/agentic-ai-foundation.md": "Reflex 被定义为 agentic-first 架构，与 Agentic AI Foundation 主题相关。",
+    "topics/agent-auto-mode.md": "Agent 可自主发送动作、读取状态并验证结果，体现智能体自动模式。",
+    "topics/software-factory.md": "AI 编程参与构建和验证原生 App，符合软件工厂主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shopify-reflex-verifying-native-app-behavior-without-simulators.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-auto-mode.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章讲述 Shopify 用 Agent 重建移动应用并保持质量标准，属于智能体规模化工程场景。",
+      "topics/agentic-ai-foundation.md": "Reflex 被定义为 agentic-first 架构，与 Agentic AI Foundation 主题相关。",
+      "topics/agent-auto-mode.md": "Agent 可自主发送动作、读取状态并验证结果，体现智能体自动模式。",
+      "topics/software-factory.md": "AI 编程参与构建和验证原生 App，符合软件工厂主题。"
+    },
+    "notes": "引用均基于推文内容，未核实 Shopify 工程博客原文；未编造 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shopify-reflex-verifying-native-app-behavior-without-simulators.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

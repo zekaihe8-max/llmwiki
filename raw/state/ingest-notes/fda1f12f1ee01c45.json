@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "帖文强调搜到已有人整理好的字体合集，体现先复用再创作的思路。",
+    "topics/open-source-in-ai-assistant-editing.md": "分享内容为开源字体合集，与开源工具主题相近。",
+    "topics/design-to-code-byo-subscriptions.md": "字体属于设计资产，与设计↔代码主题有一定关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文强调搜到已有人整理好的字体合集，体现先复用再创作的思路。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "分享内容为开源字体合集，与开源工具主题相近。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "字体属于设计资产，与设计↔代码主题有一定关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有咨询主题均保持 unchanged，未创建新主题。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是 AI 视频制作全流程与多模型工作流，与智能体视频剪辑主题最贴近",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助媒体内容制作与长文传播，与 AI 辅助剪藏与媒体笔记相关",
+    "topics/open-source-in-ai-assistant-editing.md": "提到 Claude Code/Codex 等 AI 助手工具用于视频编辑流程，与 AI 助手剪辑主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 视频制作全流程与多模型工作流，与智能体视频剪辑主题最贴近"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助媒体内容制作与长文传播，与 AI 辅助剪藏与媒体笔记相关"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "提到 Claude Code/Codex 等 AI 助手工具用于视频编辑流程，与 AI 助手剪辑主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于收藏量、涨粉数及工作流效果的表述均源于帖文，未独立核实。"
+}

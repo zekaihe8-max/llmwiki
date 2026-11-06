@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-06T12:06:26.416Z",
+  "url": "https://x.com/0xLogicrw/status/2118632345511317540",
+  "slug": "a84d3299ee0b050e",
+  "content_hash": "34386a4df2ccb495d5f2685de4d616e0540fb8e3ea6b7bd715e9c5a0c4b02700",
+  "source": {
+    "path": "sources/articles/cursor-launches-live-apps-letting-cloud-agents-build-and-publish.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "发布前检查 API 密钥与暴露凭证，属于资产安全与凭证卫生范畴。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及团队管理员、安全规则、应用上下架等治理与管控内容。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文章描述的云端 Agent 自动构建、部署网页应用，与“软件工厂”自动化产出主题相近。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "用自然语言描述需求即由 Agent 生成应用，属于 Vibe Coding 类交互。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "文章描述的云端 Agent 自动构建、部署网页应用，与“软件工厂”自动化产出主题相近。",
+    "topics/agent-compute-and-governance.md": "涉及团队管理员、安全规则、应用上下架等治理与管控内容。",
+    "topics/account-and-asset-security-hygiene.md": "发布前检查 API 密钥与暴露凭证，属于资产安全与凭证卫生范畴。",
+    "topics/vibe-coding-memory-paradox.md": "用自然语言描述需求即由 Agent 生成应用，属于 Vibe Coding 类交互。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cursor-launches-live-apps-letting-cloud-agents-build-and-publish.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/vibe-coding-memory-paradox.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "文章描述的云端 Agent 自动构建、部署网页应用，与“软件工厂”自动化产出主题相近。",
+      "topics/agent-compute-and-governance.md": "涉及团队管理员、安全规则、应用上下架等治理与管控内容。",
+      "topics/account-and-asset-security-hygiene.md": "发布前检查 API 密钥与暴露凭证，属于资产安全与凭证卫生范畴。",
+      "topics/vibe-coding-memory-paradox.md": "用自然语言描述需求即由 Agent 生成应用，属于 Vibe Coding 类交互。"
+    },
+    "notes": "来源为 X 平台 @0xLogicrw 帖文，并引用官方 @cursor_ai 帖子；未引用文章外的事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cursor-launches-live-apps-letting-cloud-agents-build-and-publish.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

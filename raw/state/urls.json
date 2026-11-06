@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-05T23:53:45.588Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -5205,5 +5205,317 @@
     "last_seen": "2026-11-05T23:53:45.588Z",
     "digest": "2026-11-06-frontier-ai.md",
     "title": "Cursor 一键部署"
+  },
+  "https://x.com/dotey/status/2118569598379229219": {
+    "hash": "76c1f24d22d8c7c85b54c3d929674a598b806bb9e1f9b406b9e8ef29bf880ac8",
+    "slug": "76c1f24d22d8c7c8",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Agent 交活必须带截图"
+  },
+  "https://x.com/xiaomovps/status/2118652864721817935": {
+    "hash": "c36e090e8778893e813593b00fa86d9539a86ca93e7083ffd9615f53a53fa438",
+    "slug": "c36e090e8778893e",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Pi 作者给 AI 造了 Pico"
+  },
+  "https://x.com/xiaomovps/status/2118596364250808706": {
+    "hash": "2f861b1918e4cc9246ba96c0b772154513badc4899a17587129a8e12a753b31d",
+    "slug": "2f861b1918e4cc92",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "ESP-Mosaico：Agent 直接开发 ESP32"
+  },
+  "https://x.com/xiaomovps/status/2118637026581094656": {
+    "hash": "f078c843ce9b0022788866ce34bb36bc0035dafead30c738ed8965e25a8c19b4",
+    "slug": "f078c843ce9b0022",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Grok Bot 额度掉得更快"
+  },
+  "https://x.com/xiaomovps/status/2118579001325126118": {
+    "hash": "6e5478dc0440d42f223034fc0a1b7bc816e6d8c60ec879ee4741373621d9a69b",
+    "slug": "6e5478dc0440d42f",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Pi 没停更，在改底层"
+  },
+  "https://x.com/0xLogicrw/status/2118647389645140050": {
+    "hash": "482861e27c05ba594cf15f35ee3fd8fbc532cc5ad0aa5bce0b9a5c1ca1f775b6",
+    "slug": "482861e27c05ba59",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "2 万美元 AI 狼人杀"
+  },
+  "https://x.com/0xLogicrw/status/2118632345511317540": {
+    "hash": "a84d3299ee0b050e4e012699c30ae946919695ef2472e2487b74f029e2592c13",
+    "slug": "a84d3299ee0b050e",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Cursor Live Apps"
+  },
+  "https://x.com/0xLogicrw/status/2118614889908625425": {
+    "hash": "dcb40830424361600bddb4312b14438201019e5aeacbff1b5a66427463a745b7",
+    "slug": "dcb4083042436160",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Anthropic IPO 估值承压"
+  },
+  "https://x.com/0xLogicrw/status/2118600835978715524": {
+    "hash": "030fb114a196576f6e5f9a80f0aaba6e9f9677d7900ad9bc36e15b9b10115b69",
+    "slug": "030fb114a196576f",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Inkling 2 Small"
+  },
+  "https://x.com/shao__meng/status/2118622217525416174": {
+    "hash": "738570a6e4079b13950804a34fb01fd85cb58a6632aa64ef75d58583ae9a536a",
+    "slug": "738570a6e4079b13",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Shopify Reflex"
+  },
+  "https://x.com/shao__meng/status/2118625562864275781": {
+    "hash": "6d96a0fd1ab952b61430b9f9c6ee27b16e93af95a4df4bc9327610e6930f24a5",
+    "slug": "6d96a0fd1ab952b6",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Uber 加速 Spark"
+  },
+  "https://x.com/cgnot996/status/2118608337872810262": {
+    "hash": "f14f55b4bfb467312cd32003b46c9d98c5e0b841922a112ccee083e4157c1450",
+    "slug": "f14f55b4bfb46731",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "劝退 Grok Bot 冲 Opus"
+  },
+  "https://x.com/cgnot996/status/2118597288490922379": {
+    "hash": "88b3276c93040a5131bc6d81e31f8d548d6a48b2a68e9075577dd552358b9b9c",
+    "slug": "88b3276c93040a51",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "推荐 mirasim"
+  },
+  "https://x.com/cgnot996/status/2118573037851414910": {
+    "hash": "71568f02ac0ec9cd1a888363b4a5c7a6cddb27dfebe2fc503b7dfb4eaeac0127",
+    "slug": "71568f02ac0ec9cd",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "GBA 0.1.4 头像编辑器"
+  },
+  "https://x.com/dingyi/status/2118508917131243990": {
+    "hash": "d38a95b462c101aca6177a223bf7f06ecb3d92cb96ae60dd2a7825f7e55a53a2",
+    "slug": "d38a95b462c101ac",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Router 流行，厂商筑护城河"
+  },
+  "https://x.com/dingyi/status/2118609800770846928": {
+    "hash": "ccddcf7d43e1265602c23e08a437aa0c8dae9834310cb9d99be74657e8845bc0",
+    "slug": "ccddcf7d43e12656",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "本地类 Grok Bot 方案太多"
+  },
+  "https://x.com/dingyi/status/2118552957000331281": {
+    "hash": "7451bd2051ebac17b9545653e347e1e8dee9d2946a5a0e7f6d6414b04d03604f",
+    "slug": "7451bd2051ebac17",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Superserve"
+  },
+  "https://x.com/heydengai/status/2118661169518981556": {
+    "hash": "d8f119cf61177295e035fb40207cd5ea9b1a2234222dc2a6e70a00e7181ebbc2",
+    "slug": "d8f119cf61177295",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "屎山不参加选美"
+  },
+  "https://x.com/heydengai/status/2118660219421233602": {
+    "hash": "0f32593a1970e685252e2be640b178efe7ac3852b9ee946750c34ab5a70eb43c",
+    "slug": "0f32593a1970e685",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "没有 MCP 也造出金字塔"
+  },
+  "https://x.com/heydengai/status/2118657394834280940": {
+    "hash": "3dc7b6e990ee20095edbbf5b83b945ebb0eada82dee8d622c78742a99a33e71e",
+    "slug": "3dc7b6e990ee2009",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "混元 4 的生态位"
+  },
+  "https://x.com/heydengai/status/2118653116421750907": {
+    "hash": "ff10ca7ce914ad1432677020e2bb89ec789e15502f62182b7c5cc1019b99636b",
+    "slug": "ff10ca7ce914ad14",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "AI 先废掉浏览器再重造"
+  },
+  "https://x.com/oran_ge/status/2118656646130069556": {
+    "hash": "706cedf98779c5902b29e97f08d9a0ca48e72ce33aa7870feec59c5001e302b0",
+    "slug": "706cedf98779c590",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "A 社 IPO 与蚂蚁诅咒"
+  },
+  "https://x.com/0xlangeai/status/2118659912049819743": {
+    "hash": "d95c4c4efe270a250188bf0c6feb897afc32f98de447f8ada8e3a0e302d3c203",
+    "slug": "d95c4c4efe270a25",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Claude 催生订阅工程师"
+  },
+  "https://x.com/0xlangeai/status/2118599765009314131": {
+    "hash": "211ceaa839130cdb2ffca7035acc9756079ee6d9f032d135f643dab9ffaf0564",
+    "slug": "211ceaa839130cdb",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "ai-goofish-monitor"
+  },
+  "https://x.com/0xlangeai/status/2118634745169088879": {
+    "hash": "0f7392bc14c2d9f13f036a4b307eb684b377019646d8bfa859d24b7d5a9f4616",
+    "slug": "0f7392bc14c2d9f1",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Eian 视频长文爆了"
+  },
+  "https://x.com/vista8/status/2118626034123993303": {
+    "hash": "4cbc59bb4c4b13570f9e9b3c7b7b785f9a7ea984ee069c560bb545f2cbc4066f",
+    "slug": "4cbc59bb4c4b1357",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "改造 Cap 替代 Screen Studio"
+  },
+  "https://x.com/vista8/status/2118498521712316782": {
+    "hash": "fda1f12f1ee01c45fb74082e3bc2231a5389f74264ed16b592e983c5435b9d0c",
+    "slug": "fda1f12f1ee01c45",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "中文开源字体合集"
+  },
+  "https://x.com/vista8/status/2118367210418925840": {
+    "hash": "b7cef7c4f21d998fcd38b570af954bd75b8ae4f1efc9ec7668fb31f65d59a0e4",
+    "slug": "b7cef7c4f21d998f",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "TikTok 推荐逆向笔记"
+  },
+  "https://x.com/op7418/status/2118343623901389146": {
+    "hash": "b8e1e8c92eb1745b80d571d8b7f444dd5452d6fa5bde34cbc09848be72e555e1",
+    "slug": "b8e1e8c92eb1745b",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Omarchy 4.5 支持 M1/M2/M3"
+  },
+  "https://x.com/op7418/status/2118374811202416848": {
+    "hash": "1d49107050ee543935867a5db1633ee642073819c1a7804773fb81e8e7d65511",
+    "slug": "1d49107050ee5439",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "美股 AI 相关暴跌"
+  },
+  "https://x.com/FinanceYF5/status/2118558292360429977": {
+    "hash": "91a8173677b6370592fe2b6eeabd427d1d2aadb1694026550ff37ec70103f632",
+    "slug": "91a8173677b63705",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "别再看那 40 个基准"
+  },
+  "https://x.com/FinanceYF5/status/2118531515672113639": {
+    "hash": "1f4e6ec95be78602b901a9f1d7d487852093c55fc2b0c5390322e3624121a833",
+    "slug": "1f4e6ec95be78602",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "网安任务跨度一年扩约 52 倍"
+  },
+  "https://x.com/FinanceYF5/status/2118529449159451051": {
+    "hash": "71ff12ea448dcb3949a6834dc2a58af94b58ef61c2c5a6c551d8fd97c87c3f4b",
+    "slug": "71ff12ea448dcb39",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "数据公司研究影响力投票"
+  },
+  "https://x.com/Gorden_Sun/status/2118516919997534329": {
+    "hash": "2d63dc0c00fa82dd4ac9df6183eb764787e5efb768f35bc88d923cc9f333fe3b",
+    "slug": "2d63dc0c00fa82dd",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Inkling 2 Small"
+  },
+  "https://x.com/Gorden_Sun/status/2118634081584107888": {
+    "hash": "700ce74d602daa2b9b071f27a57f038fc2774b6891a81c223592616b3f7c5044",
+    "slug": "700ce74d602daa2b",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "StudyOnTV"
+  },
+  "https://x.com/Gorden_Sun/status/2118648055381811599": {
+    "hash": "d22b67e996a5693a7fa5e8f746b5500e6ff70c015d7aab7d0251317bebe47b9f",
+    "slug": "d22b67e996a5693a",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "Motion Prompt"
+  },
+  "https://x.com/yetone/status/2118666503361057159": {
+    "hash": "bda131f3bb6136d64aef6546c577f99e92a7fa2ab6737ceb43b968d12420033e",
+    "slug": "bda131f3bb6136d6",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "magpie 修额度透传"
+  },
+  "https://x.com/yetone/status/2118664671943434360": {
+    "hash": "a3d42509a1835a91405ecfd1597fcaf320be35e45494b1ccdc13853548055b72",
+    "slug": "a3d42509a1835a91",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "强制 Responses API"
+  },
+  "https://x.com/fkysly/status/2118656779236299238": {
+    "hash": "967195f15904fc9924f4a5d9e376b24c2d0d70fca94a83515b71d6589fee6600",
+    "slug": "967195f15904fc99",
+    "first_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-06T12:02:16.572Z",
+    "digest": "2026-11-06-cn-x.md",
+    "title": "高端模型只需简单 Harness"
   }
 }
