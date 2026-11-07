@@ -1,0 +1,23 @@
+{
+  "slug": "dc8e4d3b123c528e",
+  "url": "https://x.com/yetone/status/2118937895746912524",
+  "title": "magpie 接 OpenMausBot",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "dc8e4d3b123c528e7125edf3606bc54b675eae80000f803b94a2aab619bb5daf",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:20.527Z",
+  "content_hash": "8a3c851ffa9358e2f78a524f3bc8c7d16b925d194fc3ca32d9c8457d1706ff3e",
+  "article_path": "articles/dc8e4d3b123c528e.md",
+  "fetched_url": "https://x.com/yetone/status/2118937895746912524",
+  "source_path": "sources/articles/magpie-v0-1-3221-integrates-with-openmausbot-all-models-availabl.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:45:30.171Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

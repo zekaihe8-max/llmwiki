@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:10:39.180Z",
+  "url": "https://x.com/cgnot996/status/2118979564617769107",
+  "slug": "c1cfd4fc94751b26",
+  "content_hash": "46902b74b6014e12e68b903f3fec13971b8be8d821991cc57c0586e1185f3825",
+  "source": {
+    "path": "sources/articles/recommending-grok-bot-memory-manager-backup-again-guard-against.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文来自 Grok Bot 社区讨论，涉及 Grok Bot 用户间的经验互派与备份。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Grok Bot 额度告罄与迁移，与内置额度桥接主题相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文章核心是个人 Agent 云环境（Grok Bot）的备份与定期检查，与该主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "文章核心是个人 Agent 云环境（Grok Bot）的备份与定期检查，与该主题直接相关。",
+    "topics/grok-bot-x-api-substitute.md": "帖文涉及 Grok Bot 额度告罄与迁移，与内置额度桥接主题相关。",
+    "topics/dsh-grok-cross-dispatch.md": "帖文来自 Grok Bot 社区讨论，涉及 Grok Bot 用户间的经验互派与备份。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/recommending-grok-bot-memory-manager-backup-again-guard-against.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/dsh-grok-cross-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "文章核心是个人 Agent 云环境（Grok Bot）的备份与定期检查，与该主题直接相关。",
+      "topics/grok-bot-x-api-substitute.md": "帖文涉及 Grok Bot 额度告罄与迁移，与内置额度桥接主题相关。",
+      "topics/dsh-grok-cross-dispatch.md": "帖文来自 Grok Bot 社区讨论，涉及 Grok Bot 用户间的经验互派与备份。"
+    },
+    "notes": "未核实的平台封号原因与配额限制均已标注为帖文称或作者称，未将其呈现为平台事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/recommending-grok-bot-memory-manager-backup-again-guard-against.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

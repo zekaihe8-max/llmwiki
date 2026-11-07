@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-06T12:02:16.572Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -5517,5 +5517,349 @@
     "last_seen": "2026-11-06T12:02:16.572Z",
     "digest": "2026-11-06-cn-x.md",
     "title": "高端模型只需简单 Harness"
+  },
+  "https://x.com/dotey/status/2118820452038557790": {
+    "hash": "eebd9f1863fcf87bc55f8da41559389a356ca13f265f86ef453d4a2809cdbf70",
+    "slug": "eebd9f1863fcf87b",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Gemini Omni 1.2 Flash 正式商用"
+  },
+  "https://x.com/dotey/status/2118790959341441289": {
+    "hash": "6f3637dad36b441c1a992189ce66b33d72995a1f1f801f4bbd074508331ad520",
+    "slug": "6f3637dad36b441c",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "DeepSeek Harness 插件自己做自动更新"
+  },
+  "https://x.com/dotey/status/2118773706402967960": {
+    "hash": "e113c4a55314cc0059453109c8958b6b1205376e223a408216829e12f6e9fed9",
+    "slug": "e113c4a55314cc00",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Ramp：企业用 AI 更多，花钱几乎不涨"
+  },
+  "https://x.com/xiaomovps/status/2118998894931530101": {
+    "hash": "94cf40bb5a2abe4915f5c86afc41afd75b5818a62cb3c308e9a6a51c00217e73",
+    "slug": "94cf40bb5a2abe49",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Pi 移动端三条路"
+  },
+  "https://x.com/xiaomovps/status/2118944876658335775": {
+    "hash": "0f33980c7a61b1677bc66d29f53e08c2e039403a9b8a977879660b349e8c1a86",
+    "slug": "0f33980c7a61b167",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "HerdrChat 上架 App Store"
+  },
+  "https://x.com/xiaomovps/status/2118983783445827951": {
+    "hash": "8cb736dda60d7cb00bb7e374add936b36e7ff8012de50a718370c1446ee87485",
+    "slug": "8cb736dda60d7cb0",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "GPT 封号潮预案"
+  },
+  "https://x.com/xiaomovps/status/2119017470354940128": {
+    "hash": "d6c34b863eff38e0d3a018ac925dca0ce7c2b258847922fb7cd3e22540628b96",
+    "slug": "d6c34b863eff38e0",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "GPT 封号潮预案"
+  },
+  "https://x.com/0xLogicrw/status/2118930575298093232": {
+    "hash": "06db19a10c0909dc50062e0d852e57e39dba4a05671389ab73c1aebf807c44e8",
+    "slug": "06db19a10c0909dc",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Claude Dreaming 机制"
+  },
+  "https://x.com/0xLogicrw/status/2118929520514466179": {
+    "hash": "d9975dca27fde80d74b8162f7b2964bcbffe3226546759cc693bc6dcad46510b",
+    "slug": "d9975dca27fde80d",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Claude Code 邮箱进 User-Agent"
+  },
+  "https://x.com/0xLogicrw/status/2118924446073499776": {
+    "hash": "79bcbdfbcdfdb63351398f01aaf916e0c9be4905e73881dd7cd06d74fa3fbaea",
+    "slug": "79bcbdfbcdfdb633",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Duet 接上 Claude Code"
+  },
+  "https://x.com/0xLogicrw/status/2118914076365697062": {
+    "hash": "3717775a56f88ce71ae24529b4c43405da86c3cfd2abeaf4926faf77e719e208",
+    "slug": "3717775a56f88ce7",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Arete-27B"
+  },
+  "https://x.com/shao__meng/status/2118977740690841862": {
+    "hash": "9c5909e68703e6b0484983ec9cc0ab302cf2f0755a9d0018dd67dba59d73bbf4",
+    "slug": "9c5909e68703e6b0",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Dreaming：记忆要能纠错"
+  },
+  "https://x.com/shao__meng/status/2118922168868221238": {
+    "hash": "291246f59eff046f48c12462ae3cc96da08c90a50f971f36ef3d92a0ef30f7be",
+    "slug": "291246f59eff046f",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "智谱蒸馏成梗"
+  },
+  "https://x.com/shao__meng/status/2118944612299805088": {
+    "hash": "d9adcfb62c7857a45973a71a89dd198d7f8fbd4b4bacc4a3269d05394d1a1be1",
+    "slug": "d9adcfb62c7857a4",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Airbnb 小模型约 1% 成本"
+  },
+  "https://x.com/shao__meng/status/2118936056548688090": {
+    "hash": "16a752f808d5b0bc9d417f55d3e672b21178d7c8ea469509557064b6d691b1ca",
+    "slug": "16a752f808d5b0bc",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Uber Secure AI"
+  },
+  "https://x.com/cgnot996/status/2118918133948056041": {
+    "hash": "a3ab14844e81b92e7dc5ba80050d26b281a6ef360a9ab5928db9e36b820f4b93",
+    "slug": "a3ab14844e81b92e",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Grok Bot 浏览器插件过审"
+  },
+  "https://x.com/cgnot996/status/2118963595711025593": {
+    "hash": "317a0fd0510318d2b81de82083945a5610878f6783bc8da3cbd763342615720c",
+    "slug": "317a0fd0510318d2",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "ego-lite 跑报销"
+  },
+  "https://x.com/cgnot996/status/2118874407083102519": {
+    "hash": "819b55cfafba3451ab1790a9b8e1b1645cb6a9fe228478ecf7dfb22734e732e2",
+    "slug": "819b55cfafba3451",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "再推记忆管家备份"
+  },
+  "https://x.com/cgnot996/status/2118979564617769107": {
+    "hash": "c1cfd4fc94751b26c4ec30e43a1ae0f6b7ec724acd1ea3bba938f16dd81e4494",
+    "slug": "c1cfd4fc94751b26",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "再推记忆管家备份"
+  },
+  "https://x.com/dingyi/status/2118993609009791120": {
+    "hash": "97646f60feead642a3ad8e07f90a94280a7530271d9888fa390635090a1ce8de",
+    "slug": "97646f60feead642",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "「今后 A 社可能不会封号了」"
+  },
+  "https://x.com/dingyi/status/2118957306172109184": {
+    "hash": "fb1e4866bd33793ea7e18f05780e12db1b8b8a983a4ad83a207f12141e593bef",
+    "slug": "fb1e4866bd33793e",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Magpie 相关封号截图"
+  },
+  "https://x.com/dingyi/status/2118884338381238357": {
+    "hash": "cb9d55b76f335245cffa50d34c79dd88240eeac533c1986662850c21de76cfa8",
+    "slug": "cb9d55b76f335245",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "推荐 Lattice"
+  },
+  "https://x.com/dingyi/status/2118900624779780416": {
+    "hash": "97dc60eda7039d8be004cbf9f0c963aa54f04b916c6f00d053aa6fda05f57e0b",
+    "slug": "97dc60eda7039d8b",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "推荐 Lattice"
+  },
+  "https://x.com/heydengai/status/2118963662371086619": {
+    "hash": "474928fbffc3a343cf3d5cd9bbd0ef3c13c24ce61fa159381dfd3ac1b3ce46fa",
+    "slug": "474928fbffc3a343",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "很多 Agent 本质是绑信用卡的 cron"
+  },
+  "https://x.com/heydengai/status/2118940365218893876": {
+    "hash": "402b22d89d389e9cb5ec1a99efd57ad06d217f7e6bf9447d2b005fc67738a22b",
+    "slug": "402b22d89d389e9c",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "旗舰晚发或许在抢规则权"
+  },
+  "https://x.com/heydengai/status/2119028338731724912": {
+    "hash": "0e75522ca4847501a56f8df0c7e66a25eea3996453546366d0133268a7d27094",
+    "slug": "0e75522ca4847501",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Claude 工期与动画梗"
+  },
+  "https://x.com/heydengai/status/2119023306154365373": {
+    "hash": "6b85ebb12903f4e4a81635396264ef41d0cd2e7381dc3a9a348fb75256a06673",
+    "slug": "6b85ebb12903f4e4",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Claude 工期与动画梗"
+  },
+  "https://x.com/oran_ge/status/2118854648979402945": {
+    "hash": "d0dab84dd11048adee64482fbed7d07774cb0d4caadb2ed0dc77f2da94075008",
+    "slug": "d0dab84dd11048ad",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "《世界一下就切换到了禁止 AI 的时间线》"
+  },
+  "https://x.com/oran_ge/status/2118847068001431641": {
+    "hash": "31d99e8720b196f4f471ef2127ca4e96758159b489d988cb2a12ca92b36144a3",
+    "slug": "31d99e8720b196f4",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "文章"
+  },
+  "https://x.com/0xlangeai/status/2118912818120724547": {
+    "hash": "a9ec3da1ec5fe32ca09e89bf4c6eef61d83cac39dcffa18cf20548c1a217ec29",
+    "slug": "a9ec3da1ec5fe32c",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "X 原创收益回本"
+  },
+  "https://x.com/0xlangeai/status/2118941735141408929": {
+    "hash": "9da9777bf3c4aaa093e182f96afdd1f7ec279c0fea13db805d90dee012512512",
+    "slug": "9da9777bf3c4aaa0",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "clothesline-ui"
+  },
+  "https://x.com/0xlangeai/status/2119021818849964303": {
+    "hash": "9f9a6fcdfd51c356c9671755a18e3c7e3c4ac5683297e38558ceb1fb1117a815",
+    "slug": "9f9a6fcdfd51c356",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "万字出海方法论"
+  },
+  "https://x.com/0xlangeai/status/2118860224660664826": {
+    "hash": "63f1a585ee4d5279c95e58eb823386d766f30f1db002782e73394697ad9984ee",
+    "slug": "63f1a585ee4d5279",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "X Creators 官方 Grok Bot 创作流"
+  },
+  "https://x.com/vista8/status/2118868459295797281": {
+    "hash": "05c1a2701ed9d2367dd57a5211441604aab7e6f9a22f8ab4732816d859d80c87",
+    "slug": "05c1a2701ed9d236",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Capwise 第一版基本完成"
+  },
+  "https://x.com/vista8/status/2119009629594415417": {
+    "hash": "ad6f52868889879c3b44fbcc7de78917ef5c194612053371a52096c5d6687aba",
+    "slug": "ad6f52868889879c",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "深圳 GEO 嘉宾谭少卿"
+  },
+  "https://x.com/Gorden_Sun/status/2119024174119465142": {
+    "hash": "f3c332d05761453013978a66e79bb7b5e9383569cfee87fed8ba3458c5aa90c2",
+    "slug": "f3c332d057614530",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Anthropic 记忆博客转述"
+  },
+  "https://x.com/Gorden_Sun/status/2119011436030799981": {
+    "hash": "9f26fbc4b69b43b942291c4b445aecf36e669288a8826c6cc1dd4607c0e9af7c",
+    "slug": "9f26fbc4b69b43b9",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Lyra 2.0"
+  },
+  "https://x.com/Gorden_Sun/status/2119029485207162997": {
+    "hash": "00dd775f4d54c85f0be47cab1af9f5b8ee5202e35b673da85f7fe104c64bd074",
+    "slug": "00dd775f4d54c85f",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "PSI 证明 Aaronson-Ambainis 猜想"
+  },
+  "https://x.com/Gorden_Sun/status/2118883256934523174": {
+    "hash": "a4a6ca2a0af1ae941e94c2f5c306ace6ae705011618f9337c12fa3c96c63d7ed",
+    "slug": "a4a6ca2a0af1ae94",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "anidoodle"
+  },
+  "https://x.com/yetone/status/2118969995283841319": {
+    "hash": "698fb367f64433d5edf9c1e87ab378c62ae39ed34917a5f856bc79629c44180d",
+    "slug": "698fb367f64433d5",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Alma 远程控 Herdr"
+  },
+  "https://x.com/yetone/status/2119027948053574099": {
+    "hash": "bddec6929e2cd3b6f9220270a9559ef4b5ff1d68d0537d0fc3a2535d47ae060e",
+    "slug": "bddec6929e2cd3b6",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "Alma 远程控 Herdr"
+  },
+  "https://x.com/yetone/status/2118937895746912524": {
+    "hash": "dc8e4d3b123c528e7125edf3606bc54b675eae80000f803b94a2aab619bb5daf",
+    "slug": "dc8e4d3b123c528e",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "magpie 接 OpenMausBot"
+  },
+  "https://x.com/yetone/status/2119027725130420479": {
+    "hash": "bad1b721f0411f945ce85c64733f7bae07adc474eeca45c652fe4bde0ba5bad0",
+    "slug": "bad1b721f0411f94",
+    "first_seen": "2026-11-07T12:00:03.484Z",
+    "last_seen": "2026-11-07T12:00:03.484Z",
+    "digest": "2026-11-07-cn-x.md",
+    "title": "封号与共享账号"
   }
 }

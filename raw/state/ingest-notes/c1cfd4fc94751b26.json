@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "文章核心是个人 Agent 云环境（Grok Bot）的备份与定期检查，与该主题直接相关。",
+    "topics/grok-bot-x-api-substitute.md": "帖文涉及 Grok Bot 额度告罄与迁移，与内置额度桥接主题相关。",
+    "topics/dsh-grok-cross-dispatch.md": "帖文来自 Grok Bot 社区讨论，涉及 Grok Bot 用户间的经验互派与备份。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文章核心是个人 Agent 云环境（Grok Bot）的备份与定期检查，与该主题直接相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Grok Bot 额度告罄与迁移，与内置额度桥接主题相关。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文来自 Grok Bot 社区讨论，涉及 Grok Bot 用户间的经验互派与备份。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实的平台封号原因与配额限制均已标注为帖文称或作者称，未将其呈现为平台事实。"
+}

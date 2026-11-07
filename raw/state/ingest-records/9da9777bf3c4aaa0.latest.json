@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:28:04.160Z",
+  "url": "https://x.com/0xlangeai/status/2118941735141408929",
+  "slug": "9da9777bf3c4aaa0",
+  "content_hash": "ab02f0c0db6b1f707b7decb8a013e23ee5f17b1fc0c12c6995653295818731a0",
+  "source": {
+    "path": "sources/articles/clothesline-ui-codex-skill-hangs-to-dos-and-read-later-items-on.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Codex Skill 的编写与使用，直接对应该主题。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及稍后阅读、灵感记录与笔记类自用工具。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文中将 Skill 用于复刻 Mac 原生感边缘工具，与“用 Skills 组合复刻原生感 App”相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "屏幕边缘隐藏/展开的交互属于 UX 设计范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心是 Codex Skill 的编写与使用，直接对应该主题。",
+    "topics/skills-stack-native-app-recreation.md": "文中将 Skill 用于复刻 Mac 原生感边缘工具，与“用 Skills 组合复刻原生感 App”相近。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及稍后阅读、灵感记录与笔记类自用工具。",
+    "topics/ux-dx-and-ax.md": "屏幕边缘隐藏/展开的交互属于 UX 设计范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/clothesline-ui-codex-skill-hangs-to-dos-and-read-later-items-on.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章核心是 Codex Skill 的编写与使用，直接对应该主题。",
+      "topics/skills-stack-native-app-recreation.md": "文中将 Skill 用于复刻 Mac 原生感边缘工具，与“用 Skills 组合复刻原生感 App”相近。",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及稍后阅读、灵感记录与笔记类自用工具。",
+      "topics/ux-dx-and-ax.md": "屏幕边缘隐藏/展开的交互属于 UX 设计范畴。"
+    },
+    "notes": "本条目基于 X 帖文内容，未独立验证 clothesline-ui 代码或仓库。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/clothesline-ui-codex-skill-hangs-to-dos-and-read-later-items-on.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

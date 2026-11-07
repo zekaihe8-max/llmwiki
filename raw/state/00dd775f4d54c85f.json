@@ -1,0 +1,23 @@
+{
+  "slug": "00dd775f4d54c85f",
+  "url": "https://x.com/Gorden_Sun/status/2119029485207162997",
+  "title": "PSI 证明 Aaronson-Ambainis 猜想",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "00dd775f4d54c85f0be47cab1af9f5b8ee5202e35b673da85f7fe104c64bd074",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:19.158Z",
+  "content_hash": "1e46b7b49dd1923561ebb9fe59f70adeb90d4d3e4efe688a1bd9c570c976b22f",
+  "article_path": "articles/00dd775f4d54c85f.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2119029485207162997",
+  "source_path": "sources/articles/psi-claims-ai-and-lean-proved-the-aaronson-ambainis-conjecture.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:43:17.374Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

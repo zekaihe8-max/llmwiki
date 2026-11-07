@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-maintained-wiki.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-maintained-wiki.md": "文章核心是 Claude 维护 Wiki 知识库以整合经验，与该主题直接相关。",
+    "topics/context-engineering-for-agents.md": "四层记忆与启动索引属于 Agent 上下文工程范畴。",
+    "topics/long-conversation-default-compression.md": "做梦机制涉及长对话历史的压缩与检索，与主题相近。",
+    "topics/agent-auto-mode.md": "Agent 在任务间隙自主回顾与整理记忆，体现自动模式特征。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Claude 维护 Wiki 知识库以整合经验，与该主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "四层记忆与启动索引属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "做梦机制涉及长对话历史的压缩与检索，与主题相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 在任务间隙自主回顾与整理记忆，体现自动模式特征。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文及其引用的 Anthropic 研究摘要，未独立核实实验数据。"
+}

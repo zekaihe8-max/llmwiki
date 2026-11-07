@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章提到企业默认不让长任务跑最贵模型，并用路由工具把活分给更便宜小模型，与模型渠道取舍直接相关。",
+    "topics/cloud-auto-model-routing.md": "文中提到路由工具将任务分发给更便宜模型，属于跨模型编排与成本控制。",
+    "topics/coding-agent-token-saving-tooling.md": "文中涉及 Token 用量激增但支出停滞、单价下降，以及 Jev 等省 Token 模型，与 Token 开销工具相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中多次提及模型降价、单价下降及推理成本下降，与大厂推理成本效率主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章提到企业默认不让长任务跑最贵模型，并用路由工具把活分给更便宜小模型，与模型渠道取舍直接相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中提到路由工具将任务分发给更便宜模型，属于跨模型编排与成本控制。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Token 用量激增但支出停滞、单价下降，以及 Jev 等省 Token 模型，与 Token 开销工具相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中多次提及模型降价、单价下降及推理成本下降，与大厂推理成本效率主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文中出现的 GPT-6 Sol、Fable 5.1 等模型名称均为文章所称，已按文章引用处理，未作为独立核实事实。"
+}

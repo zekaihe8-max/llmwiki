@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文核心是平台封号与账号可用性，属账号与资产安全范畴。",
+    "topics/claude-subscription-risk-control-weights.md": "文中提到 Cursor 限制中国用户使用 Claude，与订阅风控和模型访问限制相关。",
+    "topics/usage-limit-ab-tests.md": "文中涉及平台对特定地区用户的使用限制，与用量上限与 A/B 测试相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文核心是平台封号与账号可用性，属账号与资产安全范畴。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中提到 Cursor 限制中国用户使用 Claude，与订阅风控和模型访问限制相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中涉及平台对特定地区用户的使用限制，与用量上限与 A/B 测试相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于封号原因和人员关联的说法均来自帖文及其引用内容，未经独立核实。"
+}

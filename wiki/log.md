@@ -1,3 +1,91 @@
+## 2026-11-07
+
+* **创建 / Creation**: 归档 [封号与共享账号](./sources/articles/account-bans-and-shared-accounts.md)。 / Filed [Account Bans and Shared Accounts](./sources/articles/account-bans-and-shared-accounts.md).
+
+* **创建 / Creation**: 归档 [magpie v0.1.3221 接入 OpenMausBot，全部模型可作为 magpie 引擎供机器人选择](./sources/articles/magpie-v0-1-3221-integrates-with-openmausbot-all-models-availabl.md)。 / Filed [magpie v0.1.3221 integrates with OpenMausBot, all models available as magpie engine for bots](./sources/articles/magpie-v0-1-3221-integrates-with-openmausbot-all-models-availabl.md).
+
+* **创建 / Creation**: 归档 [Alma 远程控 Herdr](./sources/articles/alma-remote-controls-herdr.md)。 / Filed [Alma Remote Controls Herdr](./sources/articles/alma-remote-controls-herdr.md).
+
+* **创建 / Creation**: 归档 [Alma 远程控 Herdr，用户称体验流畅优于传统远程桌面](./sources/articles/alma-remote-control-of-herdr-reported-smooth-and-better-than-tra.md)。 / Filed [Alma remote control of Herdr reported smooth and better than traditional remote desktop](./sources/articles/alma-remote-control-of-herdr-reported-smooth-and-better-than-tra.md).
+
+* **创建 / Creation**: 归档 [anidoodle：用纯代码绘制手绘风动画与电影](./sources/articles/anidoodle-hand-drawn-animation-and-film-via-pure-code.md)。 / Filed [anidoodle: Hand-drawn Animation and Film via Pure Code](./sources/articles/anidoodle-hand-drawn-animation-and-film-via-pure-code.md).
+
+* **创建 / Creation**: 归档 [PSI 称用 AI 与 Lean 证明 Aaronson-Ambainis 猜想](./sources/articles/psi-claims-ai-and-lean-proved-the-aaronson-ambainis-conjecture.md)。 / Filed [PSI Claims AI and Lean Proved the Aaronson-Ambainis Conjecture](./sources/articles/psi-claims-ai-and-lean-proved-the-aaronson-ambainis-conjecture.md).
+
+* **创建 / Creation**: 归档 [Lyra 2.0：让一张静态图片变成可自由探索的3D虚拟世界](./sources/articles/lyra-2-0-turn-a-static-image-into-a-freely-explorable-3d-virtual.md)。 / Filed [Lyra 2.0: Turn a Static Image into a Freely Explorable 3D Virtual World](./sources/articles/lyra-2-0-turn-a-static-image-into-a-freely-explorable-3d-virtual.md).
+
+* **创建 / Creation**: 归档 [Anthropic 记忆博客转述：AI 智能体通过“做梦”整理经验](./sources/articles/anthropic-memory-blog-retelling-ai-agents-organize-experience-th.md)。 / Filed [Anthropic Memory Blog Retelling: AI Agents Organize Experience Through 'Dreaming'](./sources/articles/anthropic-memory-blog-retelling-ai-agents-organize-experience-th.md).
+
+* **创建 / Creation**: 归档 [深圳 GEO 嘉宾谭少卿：Floatboat 创始人分享如何打造超级 Agent](./sources/articles/shenzhen-geo-guest-tan-shaoqing-floatboat-founder-on-building-a.md)。 / Filed [Shenzhen GEO Guest Tan Shaoqing: Floatboat Founder on Building a Super Agent](./sources/articles/shenzhen-geo-guest-tan-shaoqing-floatboat-founder-on-building-a.md).
+
+* **创建 / Creation**: 归档 [Capwise 第一版基本完成](./sources/articles/capwise-first-version-basically-complete.md)。 / Filed [Capwise first version basically complete](./sources/articles/capwise-first-version-basically-complete.md).
+
+* **创建 / Creation**: 归档 [X Creators 官方 Grok Bot 创作流](./sources/articles/x-creators-official-grok-bot-creation-flow.md)。 / Filed [X Creators Official Grok Bot Creation Flow](./sources/articles/x-creators-official-grok-bot-creation-flow.md).
+
+* **创建 / Creation**: 归档 [蓝哥AI分享万字出海方法论：普通人如何用AI构建海外美金收入](./sources/articles/lange-ai-shares-10k-word-overseas-methodology-how-ordinary-peopl.md)。 / Filed [Lange AI Shares 10K-Word Overseas Methodology: How Ordinary People Use AI to Build USD Income Abroad](./sources/articles/lange-ai-shares-10k-word-overseas-methodology-how-ordinary-peopl.md).
+
+* **创建 / Creation**: 归档 [Clothesline-ui：Codex 技能把待办与稍后阅读挂在 Mac 屏幕边缘](./sources/articles/clothesline-ui-codex-skill-hangs-to-dos-and-read-later-items-on.md)。 / Filed [Clothesline-ui: Codex skill hangs to-dos and read-later items on Mac screen edge](./sources/articles/clothesline-ui-codex-skill-hangs-to-dos-and-read-later-items-on.md).
+
+* **创建 / Creation**: 归档 [X 原创收益已双倍回本 Grok Ultra 年费](./sources/articles/x-original-earnings-already-double-paid-back-grok-ultra-annual-f.md)。 / Filed [X Original Earnings Already Double Paid Back Grok Ultra Annual Fee](./sources/articles/x-original-earnings-already-double-paid-back-grok-ultra-annual-f.md).
+
+* **创建 / Creation**: 归档 [世界一下就切换到了禁止 AI 的时间线](./sources/articles/the-world-suddenly-switched-to-a-timeline-banning-ai.md)。 / Filed [The World Suddenly Switched to a Timeline Banning AI](./sources/articles/the-world-suddenly-switched-to-a-timeline-banning-ai.md).
+
+* **创建 / Creation**: 归档 [《世界一下就切换到了禁止 AI 的时间线》—— 橘 AI 对超级 AI 禁令的理性复盘](./sources/articles/world-switched-to-ai-ban-timeline-overnight-orange-ai-s-rational.md)。 / Filed ["World Switched to AI-Ban Timeline Overnight" — Orange AI's Rational Take on Super-AI Prohibition](./sources/articles/world-switched-to-ai-ban-timeline-overnight-orange-ai-s-rational.md).
+
+* **创建 / Creation**: 归档 [Claude 会做动画，不代表每个 UI 元素都要加动画](./sources/articles/claude-can-animate-but-not-every-ui-element-needs-animation.md)。 / Filed [Claude Can Animate, But Not Every UI Element Needs Animation](./sources/articles/claude-can-animate-but-not-every-ui-element-needs-animation.md).
+
+* **创建 / Creation**: 归档 [Claude 工期与动画梗](./sources/articles/claude-work-estimates-and-animation-meme.md)。 / Filed [Claude Work Estimates and Animation Meme](./sources/articles/claude-work-estimates-and-animation-meme.md).
+
+* **创建 / Creation**: 归档 [旗舰晚发或许在抢规则权](./sources/articles/delayed-flagship-releases-may-be-a-bid-for-rule-making-power.md)。 / Filed [Delayed Flagship Releases May Be a Bid for Rule-Making Power](./sources/articles/delayed-flagship-releases-may-be-a-bid-for-rule-making-power.md).
+
+* **创建 / Creation**: 归档 [很多 AI Agent 本质是绑信用卡的 cron job](./sources/articles/many-ai-agents-are-essentially-cron-jobs-with-credit-cards.md)。 / Filed [Many AI Agents Are Essentially Cron Jobs with Credit Cards](./sources/articles/many-ai-agents-are-essentially-cron-jobs-with-credit-cards.md).
+
+* **创建 / Creation**: 归档 [对 AI 内容疲劳，想转当吃喝视频博主](./sources/articles/tired-of-ai-content-wants-to-become-a-food-and-drink-vlogger.md)。 / Filed [Tired of AI content, wants to become a food and drink vlogger](./sources/articles/tired-of-ai-content-wants-to-become-a-food-and-drink-vlogger.md).
+
+* **创建 / Creation**: 归档 [推荐 Lattice：本地 LaTeX 科研工作区](./sources/articles/recommending-lattice-a-local-latex-research-workspace.md)。 / Filed [Recommending Lattice: A Local LaTeX Research Workspace](./sources/articles/recommending-lattice-a-local-latex-research-workspace.md).
+
+* **创建 / Creation**: 归档 [Magpie 相关封号截图：帖文仅称“笑死”](./sources/articles/magpie-related-account-suspension-screenshots-post-only-says-lau.md)。 / Filed [Magpie-related account suspension screenshots: post only says 'Laughing to death'](./sources/articles/magpie-related-account-suspension-screenshots-post-only-says-lau.md).
+
+* **创建 / Creation**: 归档 [今后 A 社可能不会封号了](./sources/articles/post-claims-company-a-may-stop-banning-accounts.md)。 / Filed [Post claims company A may stop banning accounts](./sources/articles/post-claims-company-a-may-stop-banning-accounts.md).
+
+* **创建 / Creation**: 归档 [再推 Grok Bot 记忆管家备份：防止封号与额度耗尽](./sources/articles/recommending-grok-bot-memory-manager-backup-again-guard-against.md)。 / Filed [Recommending Grok Bot Memory Manager Backup Again: Guard Against Bans and Quota Exhaustion](./sources/articles/recommending-grok-bot-memory-manager-backup-again-guard-against.md).
+
+* **创建 / Creation**: 归档 [再推 Grok Bot 记忆管家备份方案](./sources/articles/recommending-grok-bot-memory-manager-backup-plan-again.md)。 / Filed [Recommending Grok Bot Memory Manager Backup Plan Again](./sources/articles/recommending-grok-bot-memory-manager-backup-plan-again.md).
+
+* **创建 / Creation**: 归档 [ego-lite 跑报销：浏览器 Agent 自动化费用报销](./sources/articles/ego-lite-runs-expense-reimbursement-browser-agent-automates-fee.md)。 / Filed [ego-lite Runs Expense Reimbursement: Browser Agent Automates Fee Process](./sources/articles/ego-lite-runs-expense-reimbursement-browser-agent-automates-fee.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 浏览器插件通过 Chrome 应用商店审核](./sources/articles/grok-bot-browser-extension-passes-chrome-web-store-review.md)。 / Filed [Grok Bot browser extension passes Chrome Web Store review](./sources/articles/grok-bot-browser-extension-passes-chrome-web-store-review.md).
+
+* **创建 / Creation**: 归档 [Uber Agent 安全实践：有权限执行，不代表符合用户本意](./sources/articles/uber-agent-security-practice-permission-to-execute-does-not-mean.md)。 / Filed [Uber Agent Security Practice: Permission to Execute Does Not Mean It Matches User Intent](./sources/articles/uber-agent-security-practice-permission-to-execute-does-not-mean.md).
+
+* **创建 / Creation**: 归档 [Airbnb 小模型以约 1% 推理成本匹敌前沿模型分类水平](./sources/articles/airbnb-small-model-matches-frontier-model-classification-at-1-in.md)。 / Filed [Airbnb Small Model Matches Frontier Model Classification at ~1% Inference Cost](./sources/articles/airbnb-small-model-matches-frontier-model-classification-at-1-in.md).
+
+* **创建 / Creation**: 归档 [智谱蒸馏成梗](./sources/articles/has-zhipu-distillation-become-an-industry-benchmark.md)。 / Filed [Has Zhipu Distillation Become an Industry Benchmark?](./sources/articles/has-zhipu-distillation-become-an-industry-benchmark.md).
+
+* **创建 / Creation**: 归档 [Dreaming：记忆要能纠错](./sources/articles/dreaming-memory-must-be-correctable.md)。 / Filed [Dreaming: Memory Must Be Correctable](./sources/articles/dreaming-memory-must-be-correctable.md).
+
+* **创建 / Creation**: 归档 [Nous Research 发布基于 Qwen3.8-27B 的 Arete-27B，宣称强化西方价值观](./sources/articles/nous-research-releases-arete-27b-based-on-qwen3-8-27b-claiming-t.md)。 / Filed [Nous Research releases Arete-27B based on Qwen3.8-27B, claiming to reinforce Western values](./sources/articles/nous-research-releases-arete-27b-based-on-qwen3-8-27b-claiming-t.md).
+
+* **创建 / Creation**: 归档 [Claude Duet 接上 Claude Code，手机可审批与调度编程任务](./sources/articles/claude-duet-connects-to-claude-code-phone-can-approve-and-schedu.md)。 / Filed [Claude Duet Connects to Claude Code; Phone Can Approve and Schedule Coding Tasks](./sources/articles/claude-duet-connects-to-claude-code-phone-can-approve-and-schedu.md).
+
+* **创建 / Creation**: 归档 [Claude Code 将登录邮箱写入 User-Agent 并外泄](./sources/articles/claude-code-leaks-login-email-via-user-agent.md)。 / Filed [Claude Code leaks login email via User-Agent](./sources/articles/claude-code-leaks-login-email-via-user-agent.md).
+
+* **创建 / Creation**: 归档 [Claude 的 Agent 长期记忆与「做梦」机制](./sources/articles/claude-s-agent-long-term-memory-and-dreaming-mechanism.md)。 / Filed [Claude's Agent Long-Term Memory and "Dreaming" Mechanism](./sources/articles/claude-s-agent-long-term-memory-and-dreaming-mechanism.md).
+
+* **创建 / Creation**: 归档 [GPT 封号潮预案：作者称 DeepSeek Harness 支持多模型切换与迁移](./sources/articles/contingency-plan-for-gpt-ban-wave-author-says-deepseek-harness-s.md)。 / Filed [Contingency plan for GPT ban wave: author says DeepSeek Harness supports multi-model switching and migration](./sources/articles/contingency-plan-for-gpt-ban-wave-author-says-deepseek-harness-s.md).
+
+* **创建 / Creation**: 归档 [GPT 封号潮预案：建议先导出 ChatGPT 数据备份](./sources/articles/gpt-ban-wave-contingency-export-chatgpt-data-first.md)。 / Filed [GPT Ban Wave Contingency: Export ChatGPT Data First](./sources/articles/gpt-ban-wave-contingency-export-chatgpt-data-first.md).
+
+* **创建 / Creation**: 归档 [HerdrChat 上架 App Store](./sources/articles/herdrchat-launches-on-app-store.md)。 / Filed [HerdrChat Launches on App Store](./sources/articles/herdrchat-launches-on-app-store.md).
+
+* **创建 / Creation**: 归档 [Pi 移动端三条路](./sources/articles/three-mobile-routes-for-pi-agent.md)。 / Filed [Three Mobile Routes for Pi Agent](./sources/articles/three-mobile-routes-for-pi-agent.md).
+
+* **创建 / Creation**: 归档 [Ramp：企业用 AI 更多，花钱几乎不涨](./sources/articles/ramp-enterprises-use-more-ai-spend-almost-no-more.md)。 / Filed [Ramp: Enterprises Use More AI, Spend Almost No More](./sources/articles/ramp-enterprises-use-more-ai-spend-almost-no-more.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 插件需自行实现自动更新机制](./sources/articles/deepseek-harness-plugin-requires-self-implemented-auto-update-me.md)。 / Filed [DeepSeek Harness Plugin Requires Self-Implemented Auto-Update Mechanism](./sources/articles/deepseek-harness-plugin-requires-self-implemented-auto-update-me.md).
+
+* **创建 / Creation**: 归档 [Gemini Omni 1.2 Flash 正式商用](./sources/articles/gemini-omni-1-2-flash-generally-available.md)。 / Filed [Gemini Omni 1.2 Flash Generally Available](./sources/articles/gemini-omni-1-2-flash-generally-available.md).
+
 ## 2026-11-06
 
 * **创建 / Creation**: 归档 [高端模型只需简单 Harness](./sources/articles/high-end-models-only-need-a-simple-harness.md)。 / Filed [High-End Models Only Need a Simple Harness](./sources/articles/high-end-models-only-need-a-simple-harness.md).

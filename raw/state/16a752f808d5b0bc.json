@@ -1,0 +1,23 @@
+{
+  "slug": "16a752f808d5b0bc",
+  "url": "https://x.com/shao__meng/status/2118936056548688090",
+  "title": "Uber Secure AI",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "16a752f808d5b0bc9d417f55d3e672b21178d7c8ea469509557064b6d691b1ca",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:11.068Z",
+  "content_hash": "0bce47b9dbe9b6fd16d2ce1813bfa5cf2888e153db1d04da4d7569e8c39d899c",
+  "article_path": "articles/16a752f808d5b0bc.md",
+  "fetched_url": "https://x.com/shao__meng/status/2118936056548688090",
+  "source_path": "sources/articles/uber-agent-security-practice-permission-to-execute-does-not-mean.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:08:38.531Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

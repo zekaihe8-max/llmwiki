@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/ai-assisted-local-businesses.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心讨论高端 AI 订阅（Grok Ultra）是否值得，与该话题“高端 AI 订阅价值”直接相关",
+    "topics/peer-economics-before-vibe-coding.md": "帖文强调“两倍回本”，属于先算清赚钱同行的收益核算场景",
+    "topics/ai-assisted-local-businesses.md": "旧帖提到社群成员接 AI 咨询业务，涉及 AI 助力小生意/副业"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论高端 AI 订阅（Grok Ultra）是否值得，与该话题“高端 AI 订阅价值”直接相关"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "帖文强调“两倍回本”，属于先算清赚钱同行的收益核算场景"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "旧帖提到社群成员接 AI 咨询业务，涉及 AI 助力小生意/副业"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有金额与回本说法均来源于帖文自述，未经平台独立核实，已在摘要与正文中使用「帖文称」/作者称进行属性标注。"
+}

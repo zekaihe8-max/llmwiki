@@ -1,0 +1,23 @@
+{
+  "slug": "d9975dca27fde80d",
+  "url": "https://x.com/0xLogicrw/status/2118929520514466179",
+  "title": "Claude Code 邮箱进 User-Agent",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "d9975dca27fde80d74b8162f7b2964bcbffe3226546759cc693bc6dcad46510b",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:08.718Z",
+  "content_hash": "75d654cb5e7c9a316b76e7207082dfe6e533f62e16a3a7af9636ea7b10445577",
+  "article_path": "articles/d9975dca27fde80d.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118929520514466179",
+  "source_path": "sources/articles/claude-code-leaks-login-email-via-user-agent.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:04:58.823Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文涉及公开模型权重，与开放权重前沿模型主题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文中的自设评测与 Grok 裁判涉及公开榜单与评测质量审查。",
+    "topics/community-evals-vs-score-hype.md": "Nous 自设 803 道题与「宣传率」说法，属于社区实测与刷分碰瓷议题。",
+    "topics/china-open-source-lead-us-compute.md": "帖文提及中国开源模型目前实力最强，与中美开源与算力优势主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文涉及公开模型权重，与开放权重前沿模型主题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文中的自设评测与 Grok 裁判涉及公开榜单与评测质量审查。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Nous 自设 803 道题与「宣传率」说法，属于社区实测与刷分碰瓷议题。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "帖文提及中国开源模型目前实力最强，与中美开源与算力优势主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实 Nous 的评测方法与 Grok 裁判结果。"
+}

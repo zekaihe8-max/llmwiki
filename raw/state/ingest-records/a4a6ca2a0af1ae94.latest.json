@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:43:50.041Z",
+  "url": "https://x.com/Gorden_Sun/status/2118883256934523174",
+  "slug": "a4a6ca2a0af1ae94",
+  "content_hash": "6ddb3055b311a852e7ed29410f41e4b688b4f9fde1f60d2794bcfc23a71a6dae",
+  "source": {
+    "path": "sources/articles/anidoodle-hand-drawn-animation-and-film-via-pure-code.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agentic-video-editing.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及代码生成动画与短片渲染，属于视频制作与编辑相关范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文描述将插画与运镜转化为代码函数，与设计↔代码主题高度相关。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "帖文提及为网站生成可交互角色插画，与 HTML 图像类趣味产品相近。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提供 GitHub 链接并强调代码驱动的内容生成，与开源工具接入 AI 助手做剪辑相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文描述将插画与运镜转化为代码函数，与设计↔代码主题高度相关。",
+    "topics/agentic-video-editing.md": "帖文涉及代码生成动画与短片渲染，属于视频制作与编辑相关范畴。",
+    "topics/html-image-fun-knowledge-learning.md": "帖文提及为网站生成可交互角色插画，与 HTML 图像类趣味产品相近。",
+    "topics/open-source-in-ai-assistant-editing.md": "帖文提供 GitHub 链接并强调代码驱动的内容生成，与开源工具接入 AI 助手做剪辑相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anidoodle-hand-drawn-animation-and-film-via-pure-code.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/agentic-video-editing.md",
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "帖文描述将插画与运镜转化为代码函数，与设计↔代码主题高度相关。",
+      "topics/agentic-video-editing.md": "帖文涉及代码生成动画与短片渲染，属于视频制作与编辑相关范畴。",
+      "topics/html-image-fun-knowledge-learning.md": "帖文提及为网站生成可交互角色插画，与 HTML 图像类趣味产品相近。",
+      "topics/open-source-in-ai-assistant-editing.md": "帖文提供 GitHub 链接并强调代码驱动的内容生成，与开源工具接入 AI 助手做剪辑相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anidoodle-hand-drawn-animation-and-film-via-pure-code.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

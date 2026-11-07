@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:09:39.815Z",
+  "url": "https://x.com/cgnot996/status/2118963595711025593",
+  "slug": "317a0fd0510318d2",
+  "content_hash": "e9aa5b8561e0b3a77cea533410785642d7ffe18c4cb24a1720237c643b2c51e5",
+  "source": {
+    "path": "sources/articles/ego-lite-runs-expense-reimbursement-browser-agent-automates-fee.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 自动完成琐碎报销流程并仅需人工检查，体现自动模式。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到 /ego-browser 作为可导入的 Agent Skill 激活使用。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "跨多个 Agent 平台（Codex、Claude Code、Cursor）复用技能与开放标准相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是浏览器操作由 Agent 代执行，属计算机使用场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是浏览器操作由 Agent 代执行，属计算机使用场景。",
+    "topics/agent-skill-authoring.md": "文中提到 /ego-browser 作为可导入的 Agent Skill 激活使用。",
+    "topics/agent-skills-open-standard.md": "跨多个 Agent 平台（Codex、Claude Code、Cursor）复用技能与开放标准相关。",
+    "topics/agent-auto-mode.md": "Agent 自动完成琐碎报销流程并仅需人工检查，体现自动模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ego-lite-runs-expense-reimbursement-browser-agent-automates-fee.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文核心是浏览器操作由 Agent 代执行，属计算机使用场景。",
+      "topics/agent-skill-authoring.md": "文中提到 /ego-browser 作为可导入的 Agent Skill 激活使用。",
+      "topics/agent-skills-open-standard.md": "跨多个 Agent 平台（Codex、Claude Code、Cursor）复用技能与开放标准相关。",
+      "topics/agent-auto-mode.md": "Agent 自动完成琐碎报销流程并仅需人工检查，体现自动模式。"
+    },
+    "notes": "所有主张均源于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ego-lite-runs-expense-reimbursement-browser-agent-automates-fee.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

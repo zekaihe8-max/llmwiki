@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-home-platform-control.md",
+    "topics/laptop-light-battery-remote-ai-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "最贴近远程控制电脑的主题，与 Alma 控制 herdr 的场景相关",
+    "topics/agent-home-platform-control.md": "涉及对设备的直接控制，可作为远程操控类主题的参考",
+    "topics/laptop-light-battery-remote-ai-coding.md": "标题含远程与笔记本使用场景，与远程控制电脑相关"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "最贴近远程控制电脑的主题，与 Alma 控制 herdr 的场景相关"
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "涉及对设备的直接控制，可作为远程操控类主题的参考"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "标题含远程与笔记本使用场景，与远程控制电脑相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实 Alma 与 herdr 的实际性能对比。"
+}

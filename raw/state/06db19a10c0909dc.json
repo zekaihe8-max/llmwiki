@@ -1,0 +1,23 @@
+{
+  "slug": "06db19a10c0909dc",
+  "url": "https://x.com/0xLogicrw/status/2118930575298093232",
+  "title": "Claude Dreaming 机制",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "06db19a10c0909dc50062e0d852e57e39dba4a05671389ab73c1aebf807c44e8",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:08.552Z",
+  "content_hash": "ec10e777103a29bdb3ca9bd1beec4313081570ed6fd2b6b618ae5e73d369337c",
+  "article_path": "articles/06db19a10c0909dc.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118930575298093232",
+  "source_path": "sources/articles/claude-s-agent-long-term-memory-and-dreaming-mechanism.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:04:29.238Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

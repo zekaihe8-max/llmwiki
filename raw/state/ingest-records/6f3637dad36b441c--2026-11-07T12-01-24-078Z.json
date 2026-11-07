@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:01:24.078Z",
+  "url": "https://x.com/dotey/status/2118790959341441289",
+  "slug": "6f3637dad36b441c",
+  "content_hash": "8e311809fb8d20e8e79b844fd4cf9750fcce5adc4737ce38d3555ef82a9ccf65",
+  "source": {
+    "path": "sources/articles/deepseek-harness-plugin-requires-self-implemented-auto-update-me.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Harness 插件/技能的开发与自动更新，与 Agent Skill 编写主题相近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "文章讨论 DeepSeek Harness 插件，与 Harness 插件界面碎片化主题相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Agent Harness 插件机制，与宽松网页管控下的 Agent Harness 插件主题相近。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "关联推文提到统一入口查看 Slides、Design、Dashboard、Motion 结果，与跨 Agent 统一资源库主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章涉及 Harness 插件/技能的开发与自动更新，与 Agent Skill 编写主题相近。",
+    "topics/harness-plugin-style-fragmentation.md": "文章讨论 DeepSeek Harness 插件，与 Harness 插件界面碎片化主题相关。",
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 Agent Harness 插件机制，与宽松网页管控下的 Agent Harness 插件主题相近。",
+    "topics/unified-agent-resource-library.md": "关联推文提到统一入口查看 Slides、Design、Dashboard、Motion 结果，与跨 Agent 统一资源库主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-plugin-requires-self-implemented-auto-update-me.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/unified-agent-resource-library.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章涉及 Harness 插件/技能的开发与自动更新，与 Agent Skill 编写主题相近。",
+      "topics/harness-plugin-style-fragmentation.md": "文章讨论 DeepSeek Harness 插件，与 Harness 插件界面碎片化主题相关。",
+      "topics/loose-web-agent-harness-plugins.md": "文章聚焦 Agent Harness 插件机制，与宽松网页管控下的 Agent Harness 插件主题相近。",
+      "topics/unified-agent-resource-library.md": "关联推文提到统一入口查看 Slides、Design、Dashboard、Motion 结果，与跨 Agent 统一资源库主题相关。"
+    },
+    "notes": "所有主张均基于帖文内容，未引入外部事实；关于插件自动更新和 GitHub 更新地址均由帖文本身提供。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-plugin-requires-self-implemented-auto-update-me.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

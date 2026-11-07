@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/agentic-video-editing.md",
+    "topics/hunger-beats-tenure.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "帖文提到用视频让饭馆排队，涉及本地生意获客与曝光，与该主题相关。",
+    "topics/agentic-video-editing.md": "作者表达想做视频博主的意愿，与视频创作主题相关。",
+    "topics/hunger-beats-tenure.md": "作者感叹人生选择与职业路径，涉及职业反思与资历冲劲议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "帖文提到用视频让饭馆排队，涉及本地生意获客与曝光，与该主题相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "作者表达想做视频博主的意愿，与视频创作主题相关。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "作者感叹人生选择与职业路径，涉及职业反思与资历冲劲议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文为个人感慨，未核实隋坡带火饭馆的具体事实，已用「帖文称」限定。"
+}

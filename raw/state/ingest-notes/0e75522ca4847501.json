@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "主题涉及 AI 任务时界与工期预期，与帖文中 Claude 工期估算失准最为贴近。",
+    "topics/tasks-confidently-handed-to-ai.md": "讨论哪些工作可放心交给 AI，帖文以 Claude 快速完成任务为例，相关性较高。",
+    "topics/claude-code-authorship-and-voice.md": "直接提及 Claude，与帖文主体模型一致。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "主题涉及 AI 任务时界与工期预期，与帖文中 Claude 工期估算失准最为贴近。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "讨论哪些工作可放心交给 AI，帖文以 Claude 快速完成任务为例，相关性较高。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接提及 Claude，与帖文主体模型一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未创建新话题，全部复用现有目录。"
+}

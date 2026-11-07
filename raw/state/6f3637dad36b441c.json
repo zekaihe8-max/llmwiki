@@ -1,0 +1,23 @@
+{
+  "slug": "6f3637dad36b441c",
+  "url": "https://x.com/dotey/status/2118790959341441289",
+  "title": "DeepSeek Harness 插件自己做自动更新",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "6f3637dad36b441c1a992189ce66b33d72995a1f1f801f4bbd074508331ad520",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:04.777Z",
+  "content_hash": "8e311809fb8d20e8e79b844fd4cf9750fcce5adc4737ce38d3555ef82a9ccf65",
+  "article_path": "articles/6f3637dad36b441c.md",
+  "fetched_url": "https://x.com/dotey/status/2118790959341441289",
+  "source_path": "sources/articles/deepseek-harness-plugin-requires-self-implemented-auto-update-me.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:01:24.078Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

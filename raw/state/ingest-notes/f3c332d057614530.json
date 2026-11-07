@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-maintained-wiki.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-native-web-search.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-maintained-wiki.md": "文章提到 AI 将零碎笔记整理成类似知识库的 wiki 页面，与该主题直接相关。",
+    "topics/context-engineering-for-agents.md": "涉及 AI 智能体记忆管理、置顶核心规则与上下文工程。",
+    "topics/agent-native-web-search.md": "文中提到配合搜索工具可提升准确率并节省 Token。",
+    "topics/long-conversation-default-compression.md": "核心规则精简与记忆压缩属于长对话上下文压缩范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "文章提到 AI 将零碎笔记整理成类似知识库的 wiki 页面，与该主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 智能体记忆管理、置顶核心规则与上下文工程。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中提到配合搜索工具可提升准确率并节省 Token。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "核心规则精简与记忆压缩属于长对话上下文压缩范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 Gorden Sun 在 X 上的转述帖文，帖中附带 Anthropic 官方博客链接；实验数据未独立核实。"
+}

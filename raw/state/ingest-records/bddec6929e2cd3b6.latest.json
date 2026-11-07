@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:45:00.786Z",
+  "url": "https://x.com/yetone/status/2119027948053574099",
+  "slug": "bddec6929e2cd3b6",
+  "content_hash": "c269c4ab4e53d1a1cd88e1ada2c95dba3ba12b5213d75caceb0000ee86abcc0b",
+  "source": {
+    "path": "sources/articles/alma-remote-controls-herdr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-in-chat-bug-feedback.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Alma 在 0.4.486 中只走 alma herdr，涉及智能体自动模式行为。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "帖文为在平台内反馈并修复 Agent 行为的 bug。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 herdr 自带 skill 及其环境变量判断，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Alma 作为个人 Agent 操作 herdr，与个人 Agent 当包工头调度编程 Agent 主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文涉及 herdr 自带 skill 及其环境变量判断，与 Agent Skill 编写主题相关。",
+    "topics/agent-auto-mode.md": "帖文描述 Alma 在 0.4.486 中只走 alma herdr，涉及智能体自动模式行为。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Alma 作为个人 Agent 操作 herdr，与个人 Agent 当包工头调度编程 Agent 主题相近。",
+    "topics/agent-in-chat-bug-feedback.md": "帖文为在平台内反馈并修复 Agent 行为的 bug。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alma-remote-controls-herdr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-auto-mode.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-in-chat-bug-feedback.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文涉及 herdr 自带 skill 及其环境变量判断，与 Agent Skill 编写主题相关。",
+      "topics/agent-auto-mode.md": "帖文描述 Alma 在 0.4.486 中只走 alma herdr，涉及智能体自动模式行为。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Alma 作为个人 Agent 操作 herdr，与个人 Agent 当包工头调度编程 Agent 主题相近。",
+      "topics/agent-in-chat-bug-feedback.md": "帖文为在平台内反馈并修复 Agent 行为的 bug。"
+    },
+    "notes": "来源仅为 X 帖文，未核实平台事实，所有技术主张均用「帖文称」表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alma-remote-controls-herdr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

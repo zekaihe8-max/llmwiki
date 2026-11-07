@@ -1,0 +1,23 @@
+{
+  "slug": "3717775a56f88ce7",
+  "url": "https://x.com/0xLogicrw/status/2118914076365697062",
+  "title": "Arete-27B",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "3717775a56f88ce71ae24529b4c43405da86c3cfd2abeaf4926faf77e719e208",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:09.505Z",
+  "content_hash": "fb8eb1deebfa56293b32fd6e6195361e67eb1d14452232b6089007eeeef9a664",
+  "article_path": "articles/3717775a56f88ce7.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118914076365697062",
+  "source_path": "sources/articles/nous-research-releases-arete-27b-based-on-qwen3-8-27b-claiming-t.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:06:07.631Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

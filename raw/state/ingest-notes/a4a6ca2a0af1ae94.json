@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agentic-video-editing.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文描述将插画与运镜转化为代码函数，与设计↔代码主题高度相关。",
+    "topics/agentic-video-editing.md": "帖文涉及代码生成动画与短片渲染，属于视频制作与编辑相关范畴。",
+    "topics/html-image-fun-knowledge-learning.md": "帖文提及为网站生成可交互角色插画，与 HTML 图像类趣味产品相近。",
+    "topics/open-source-in-ai-assistant-editing.md": "帖文提供 GitHub 链接并强调代码驱动的内容生成，与开源工具接入 AI 助手做剪辑相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文描述将插画与运镜转化为代码函数，与设计↔代码主题高度相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及代码生成动画与短片渲染，属于视频制作与编辑相关范畴。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "帖文提及为网站生成可交互角色插画，与 HTML 图像类趣味产品相近。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提供 GitHub 链接并强调代码驱动的内容生成，与开源工具接入 AI 助手做剪辑相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

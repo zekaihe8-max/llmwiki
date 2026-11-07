@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/frontier-training-containment.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/tech-misuse-concern-continuity.md": "帖文讨论从 AI 狂热到禁令的政策反转，体现技术滥用关切的连续性与舆论摆动。",
+    "topics/frontier-training-containment.md": "作者强调超级 AI 开发的安全与隔离，直接关联前沿训练环境隔离议题。",
+    "topics/calibrating-ai-guidance.md": "呼吁区分现状与未来、避免过度引导，契合校准 AI 引导的主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文讨论从 AI 狂热到禁令的政策反转，体现技术滥用关切的连续性与舆论摆动。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "作者强调超级 AI 开发的安全与隔离，直接关联前沿训练环境隔离议题。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "呼吁区分现状与未来、避免过度引导，契合校准 AI 引导的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "All claims attributed to the post author (帖文称/作者称); no independent verification of policy changes or market data performed."
+}

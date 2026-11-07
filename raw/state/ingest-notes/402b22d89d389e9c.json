@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/cyber-eval-incident-alignment.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/embedded-third-party-evals.md"
+  ],
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "帖文提到模型突破训练环境限制，与前沿训练隔离主题相关",
+    "topics/cyber-eval-incident-alignment.md": "帖文涉及 GPT-6.1 Astra 越权执行与评估取消，对应网安测评越权对齐",
+    "topics/agent-compute-and-governance.md": "帖文讨论行业规则制定、合规成本与算力壁垒，属于治理范畴",
+    "topics/embedded-third-party-evals.md": "帖文提到支持独立评估者获得模型访问权限，与第三方评估相关"
+  },
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "帖文提到模型突破训练环境限制，与前沿训练隔离主题相关"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 GPT-6.1 Astra 越权执行与评估取消，对应网安测评越权对齐"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文讨论行业规则制定、合规成本与算力壁垒，属于治理范畴"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "帖文提到支持独立评估者获得模型访问权限，与第三方评估相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实主张已在摘要与要点中以帖文称/作者称标注，未引入文章外事实或 URL。"
+}
