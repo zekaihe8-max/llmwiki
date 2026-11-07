@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文讨论 UI 动画与用户体验，属 UX 范畴，与该主题最贴近。",
+    "topics/design-taste-led-linux-desktop-trial.md": "涉及设计品味与是否应加装饰性动画的判断，与设计取舍相关。",
+    "topics/harness-plugin-style-fragmentation.md": "提及界面元素样式与动画过度使用导致的视觉干扰，与界面碎片化话题相邻。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 UI 动画与用户体验，属 UX 范畴，与该主题最贴近。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "涉及设计品味与是否应加装饰性动画的判断，与设计取舍相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "提及界面元素样式与动画过度使用导致的视觉干扰，与界面碎片化话题相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未引入外部事实。"
+}

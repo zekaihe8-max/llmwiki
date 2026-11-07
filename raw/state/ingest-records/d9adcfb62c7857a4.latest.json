@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:07:55.429Z",
+  "url": "https://x.com/shao__meng/status/2118944612299805088",
+  "slug": "d9adcfb62c7857a4",
+  "content_hash": "d88aef264bf1136901635e0d64017df275aa73638e808cc0343ed58426c0751e",
+  "source": {
+    "path": "sources/articles/airbnb-small-model-matches-frontier-model-classification-at-1-in.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/local-open-assistant-models.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及小模型与前沿模型在延迟、费用上的取舍，属跨模型编排与成本权衡的相邻话题。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心是自托管小模型推理成本远低于前沿 API，与大厂推理成本效率主题直接相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "使用开放权重 Gemma4-E2B 做专用小模型，与本地开放小模型主题相近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "对比专有前沿模型与更小、更便宜模型的策略定位，与 Pro/Flash 模型策略相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章核心是自托管小模型推理成本远低于前沿 API，与大厂推理成本效率主题直接相关。",
+    "topics/cloud-auto-model-routing.md": "涉及小模型与前沿模型在延迟、费用上的取舍，属跨模型编排与成本权衡的相邻话题。",
+    "topics/local-open-assistant-models.md": "使用开放权重 Gemma4-E2B 做专用小模型，与本地开放小模型主题相近。",
+    "topics/pro-vs-flash-model-strategy.md": "对比专有前沿模型与更小、更便宜模型的策略定位，与 Pro/Flash 模型策略相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/airbnb-small-model-matches-frontier-model-classification-at-1-in.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/local-open-assistant-models.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "文章核心是自托管小模型推理成本远低于前沿 API，与大厂推理成本效率主题直接相关。",
+      "topics/cloud-auto-model-routing.md": "涉及小模型与前沿模型在延迟、费用上的取舍，属跨模型编排与成本权衡的相邻话题。",
+      "topics/local-open-assistant-models.md": "使用开放权重 Gemma4-E2B 做专用小模型，与本地开放小模型主题相近。",
+      "topics/pro-vs-flash-model-strategy.md": "对比专有前沿模型与更小、更便宜模型的策略定位，与 Pro/Flash 模型策略相关。"
+    },
+    "notes": "所有主张均基于帖文，未引入文章外事实；成本数字为作者按公开租用费与标价计算，未含端到端总成本。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/airbnb-small-model-matches-frontier-model-classification-at-1-in.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

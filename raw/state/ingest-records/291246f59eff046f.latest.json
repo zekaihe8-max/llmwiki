@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:07:10.479Z",
+  "url": "https://x.com/shao__meng/status/2118922168868221238",
+  "slug": "291246f59eff046f",
+  "content_hash": "8e85295b6bb817445acf7e1cae9903c1e1cac342afb3fd74dfad006c9211d77e",
+  "source": {
+    "path": "sources/articles/has-zhipu-distillation-become-an-industry-benchmark.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "模型推理与蒸馏属于同类行业基建讨论。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "蒸馏模型的底层来源难以仅凭行为指纹确认。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "蒸馏话题常与开放权重前沿模型相关联。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "行业典范说法需要先审查公开榜单与质量证据。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "蒸馏话题常与开放权重前沿模型相关联。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "蒸馏模型的底层来源难以仅凭行为指纹确认。",
+    "topics/deepseek-inference-vs-aggregators.md": "模型推理与蒸馏属于同类行业基建讨论。",
+    "topics/public-benchmark-quality-scrutiny.md": "行业典范说法需要先审查公开榜单与质量证据。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/has-zhipu-distillation-become-an-industry-benchmark.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "蒸馏话题常与开放权重前沿模型相关联。",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "蒸馏模型的底层来源难以仅凭行为指纹确认。",
+      "topics/deepseek-inference-vs-aggregators.md": "模型推理与蒸馏属于同类行业基建讨论。",
+      "topics/public-benchmark-quality-scrutiny.md": "行业典范说法需要先审查公开榜单与质量证据。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文，未独立核实智谱蒸馏是否真成为行业典范。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/has-zhipu-distillation-become-an-industry-benchmark.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

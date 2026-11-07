@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "文章讨论AI如何帮助个人低成本启动海外业务，与AI助力小生意主题高度相关。",
+    "topics/peer-economics-before-vibe-coding.md": "内容核心是出海赚钱的经济账与套利逻辑，对应同行经济与变现前置思考。",
+    "topics/raise-ambition-until-ai-frontier.md": "强调利用AI前沿能力将个人目标提升至全球化变现，契合把目标抬到AI前沿的主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "文章讨论AI如何帮助个人低成本启动海外业务，与AI助力小生意主题高度相关。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "内容核心是出海赚钱的经济账与套利逻辑，对应同行经济与变现前置思考。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "强调利用AI前沿能力将个人目标提升至全球化变现，契合把目标抬到AI前沿的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post summarizing a longer article; all claims attributed to the post author. No independent verification of revenue figures or user counts."
+}

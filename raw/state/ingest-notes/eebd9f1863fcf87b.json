@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agentic-video-editing.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章聚焦 Flash 系列模型的定价与定位变化。",
+    "topics/agentic-video-editing.md": "Omni 支持对同一条视频连续迭代修改，贴合智能体视频剪辑主题。",
+    "topics/cloud-auto-model-routing.md": "1.1 请求自动转给 1.2 涉及云平台模型路由。",
+    "topics/image-generation-pose-reference-libraries.md": "最多 6 张参考图加动作视频用于视频生成，与参考图/姿势边界相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Flash 系列模型的定价与定位变化。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Omni 支持对同一条视频连续迭代修改，贴合智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "1.1 请求自动转给 1.2 涉及云平台模型路由。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "最多 6 张参考图加动作视频用于视频生成，与参考图/姿势边界相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于单条 X 帖文整理，未独立核实模型性能、定价与路由声明。"
+}

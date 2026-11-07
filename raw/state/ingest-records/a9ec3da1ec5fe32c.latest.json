@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:27:24.580Z",
+  "url": "https://x.com/0xlangeai/status/2118912818120724547",
+  "slug": "a9ec3da1ec5fe32c",
+  "content_hash": "021bca9041272205fa77957d02f9f50d5c68ca9267bc7f2d1e50b76f75ddd646",
+  "source": {
+    "path": "sources/articles/x-original-earnings-already-double-paid-back-grok-ultra-annual-f.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/ai-assisted-local-businesses.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "旧帖提到社群成员接 AI 咨询业务，涉及 AI 助力小生意/副业"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "帖文强调“两倍回本”，属于先算清赚钱同行的收益核算场景"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论高端 AI 订阅（Grok Ultra）是否值得，与该话题“高端 AI 订阅价值”直接相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心讨论高端 AI 订阅（Grok Ultra）是否值得，与该话题“高端 AI 订阅价值”直接相关",
+    "topics/peer-economics-before-vibe-coding.md": "帖文强调“两倍回本”，属于先算清赚钱同行的收益核算场景",
+    "topics/ai-assisted-local-businesses.md": "旧帖提到社群成员接 AI 咨询业务，涉及 AI 助力小生意/副业"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/x-original-earnings-already-double-paid-back-grok-ultra-annual-f.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/ai-assisted-local-businesses.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心讨论高端 AI 订阅（Grok Ultra）是否值得，与该话题“高端 AI 订阅价值”直接相关",
+      "topics/peer-economics-before-vibe-coding.md": "帖文强调“两倍回本”，属于先算清赚钱同行的收益核算场景",
+      "topics/ai-assisted-local-businesses.md": "旧帖提到社群成员接 AI 咨询业务，涉及 AI 助力小生意/副业"
+    },
+    "notes": "所有金额与回本说法均来源于帖文自述，未经平台独立核实，已在摘要与正文中使用「帖文称」/作者称进行属性标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/x-original-earnings-already-double-paid-back-grok-ultra-annual-f.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

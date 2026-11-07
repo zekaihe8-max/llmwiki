@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文直接讨论 Agent 自动化运行模式的缺陷，属于自动模式治理范畴。",
+    "topics/workflows-before-agents.md": "帖文隐含批评直接上 Agent 而非先建工作流与检查机制，呼应工作流优先观点。",
+    "topics/agent-scaled-engineering.md": "研究样本量大、涉及工程规模化中的普遍问题，属于规模化工程关注点。",
+    "topics/agent-compute-and-governance.md": "缺乏检查/退出机制与持续扣费，正是算力治理与成本控制缺失的体现。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文直接讨论 Agent 自动化运行模式的缺陷，属于自动模式治理范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文隐含批评直接上 Agent 而非先建工作流与检查机制，呼应工作流优先观点。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "研究样本量大、涉及工程规模化中的普遍问题，属于规模化工程关注点。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "缺乏检查/退出机制与持续扣费，正是算力治理与成本控制缺失的体现。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post citing an unverified study; all claims attributed to 帖文称/作者称. No new topics needed."
+}

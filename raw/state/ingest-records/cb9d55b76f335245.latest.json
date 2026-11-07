@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:51:47.605Z",
+  "url": "https://x.com/dingyi/status/2118884338381238357",
+  "slug": "cb9d55b76f335245",
+  "content_hash": "43ba3fb3bc8500465da5d1484b354289c82e50bbe8c0a47cbe3a8551c9284455",
+  "source": {
+    "path": "sources/articles/recommending-lattice-a-local-latex-research-workspace.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/workflows-before-agents.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Lattice 包含 AI 代理功能，与智能体基础主题相关"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "Lattice 涉及研究笔记与论文管理，与 AI 辅助剪藏与笔记主题相近"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Lattice 是开源 AI 助手式编辑工具，适合该主题"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "Lattice 主张以研究工作流为核心再引入 AI 代理"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "Lattice 涉及研究笔记与论文管理，与 AI 辅助剪藏与笔记主题相近",
+    "topics/open-source-in-ai-assistant-editing.md": "Lattice 是开源 AI 助手式编辑工具，适合该主题",
+    "topics/workflows-before-agents.md": "Lattice 主张以研究工作流为核心再引入 AI 代理",
+    "topics/agentic-ai-foundation.md": "Lattice 包含 AI 代理功能，与智能体基础主题相关"
+  },
+  "files_changed": [
+    "sources/articles/recommending-lattice-a-local-latex-research-workspace.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/workflows-before-agents.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "Lattice 涉及研究笔记与论文管理，与 AI 辅助剪藏与笔记主题相近",
+      "topics/open-source-in-ai-assistant-editing.md": "Lattice 是开源 AI 助手式编辑工具，适合该主题",
+      "topics/workflows-before-agents.md": "Lattice 主张以研究工作流为核心再引入 AI 代理",
+      "topics/agentic-ai-foundation.md": "Lattice 包含 AI 代理功能，与智能体基础主题相关"
+    },
+    "notes": "来源为 X 上 Ding 对 Leonardo 关于 Lattice 推文的转发，未引入未经核实的平台事实。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/recommending-lattice-a-local-latex-research-workspace.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

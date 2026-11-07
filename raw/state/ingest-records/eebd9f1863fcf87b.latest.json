@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:01:03.987Z",
+  "url": "https://x.com/dotey/status/2118820452038557790",
+  "slug": "eebd9f1863fcf87b",
+  "content_hash": "d35d8bd3f30ec417ae8245af2a5694c00a12f43ae2bc831dafa740f3aed58918",
+  "source": {
+    "path": "sources/articles/gemini-omni-1-2-flash-generally-available.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agentic-video-editing.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Omni 支持对同一条视频连续迭代修改，贴合智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "1.1 请求自动转给 1.2 涉及云平台模型路由。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "最多 6 张参考图加动作视频用于视频生成，与参考图/姿势边界相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Flash 系列模型的定价与定位变化。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章聚焦 Flash 系列模型的定价与定位变化。",
+    "topics/agentic-video-editing.md": "Omni 支持对同一条视频连续迭代修改，贴合智能体视频剪辑主题。",
+    "topics/cloud-auto-model-routing.md": "1.1 请求自动转给 1.2 涉及云平台模型路由。",
+    "topics/image-generation-pose-reference-libraries.md": "最多 6 张参考图加动作视频用于视频生成，与参考图/姿势边界相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-omni-1-2-flash-generally-available.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agentic-video-editing.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/image-generation-pose-reference-libraries.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文章聚焦 Flash 系列模型的定价与定位变化。",
+      "topics/agentic-video-editing.md": "Omni 支持对同一条视频连续迭代修改，贴合智能体视频剪辑主题。",
+      "topics/cloud-auto-model-routing.md": "1.1 请求自动转给 1.2 涉及云平台模型路由。",
+      "topics/image-generation-pose-reference-libraries.md": "最多 6 张参考图加动作视频用于视频生成，与参考图/姿势边界相关。"
+    },
+    "notes": "基于单条 X 帖文整理，未独立核实模型性能、定价与路由声明。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-omni-1-2-flash-generally-available.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

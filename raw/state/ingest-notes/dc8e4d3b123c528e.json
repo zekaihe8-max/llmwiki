@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 与 Bot 互聊/对外分享，与 magpie 将模型作为引擎接入 OpenMausBot 最为贴近",
+    "topics/grok-bot-x-api-substitute.md": "讨论以 Bot 内置能力桥接 Agent，与将 magpie 模型暴露为 OpenMausBot 引擎的机制相近",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道/引擎取舍，与 magpie 模型作为 magpie 引擎出现相关",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "涉及 Harness 路由与个人助手派活边界，与模型引擎接入机器人平台有关"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 与 Bot 互聊/对外分享，与 magpie 将模型作为引擎接入 OpenMausBot 最为贴近"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "讨论以 Bot 内置能力桥接 Agent，与将 magpie 模型暴露为 OpenMausBot 引擎的机制相近"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道/引擎取舍，与 magpie 模型作为 magpie 引擎出现相关"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 路由与个人助手派活边界，与模型引擎接入机器人平台有关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，未独立核实 magpie 与 OpenMausBot 的集成细节，所有功能主张均按帖文表述呈现。"
+}

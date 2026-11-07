@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:43:17.373Z",
+  "url": "https://x.com/Gorden_Sun/status/2119029485207162997",
+  "slug": "00dd775f4d54c85f",
+  "content_hash": "1e46b7b49dd1923561ebb9fe59f70adeb90d4d3e4efe688a1bd9c570c976b22f",
+  "source": {
+    "path": "sources/articles/psi-claims-ai-and-lean-proved-the-aaronson-ambainis-conjecture.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "PSI 作为 AI 公司自主搭建系统并使用自有基础设施进行前沿科学研究。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 系统自主完成长期未解的数学猜想证明，涉及 AI 与科研实践的结合。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文核心涉及 Lean 交互式定理证明器对 AI 生成证明进行形式化验证。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文核心涉及 Lean 交互式定理证明器对 AI 生成证明进行形式化验证。",
+    "topics/ai-peer-review-science-adaptation.md": "帖文描述 AI 系统自主完成长期未解的数学猜想证明，涉及 AI 与科研实践的结合。",
+    "topics/ai-native-companies.md": "PSI 作为 AI 公司自主搭建系统并使用自有基础设施进行前沿科学研究。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/psi-claims-ai-and-lean-proved-the-aaronson-ambainis-conjecture.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "帖文核心涉及 Lean 交互式定理证明器对 AI 生成证明进行形式化验证。",
+      "topics/ai-peer-review-science-adaptation.md": "帖文描述 AI 系统自主完成长期未解的数学猜想证明，涉及 AI 与科研实践的结合。",
+      "topics/ai-native-companies.md": "PSI 作为 AI 公司自主搭建系统并使用自有基础设施进行前沿科学研究。"
+    },
+    "notes": "所有量子计算结论均源自单一 X 帖文，尚未见独立学术验证，故使用「帖文称」等表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/psi-claims-ai-and-lean-proved-the-aaronson-ambainis-conjecture.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

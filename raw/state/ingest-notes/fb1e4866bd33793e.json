@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/adversarial-review-external-evidence.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文涉及账号被封的截图，与账号安全与资产卫生主题最为接近。",
+    "topics/adversarial-review-external-evidence.md": "帖文通过图片呈现外部证据，与对抗评审与外部证据主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文涉及账号被封的截图，与账号安全与资产卫生主题最为接近。"
+    },
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文通过图片呈现外部证据，与对抗评审与外部证据主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Magpie 封号语境来自用户提供的摘要标题提示，帖文正文本身仅包含“笑死。”与图片链接。"
+}

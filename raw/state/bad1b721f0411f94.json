@@ -1,0 +1,23 @@
+{
+  "slug": "bad1b721f0411f94",
+  "url": "https://x.com/yetone/status/2119027725130420479",
+  "title": "封号与共享账号",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "bad1b721f0411f945ce85c64733f7bae07adc474eeca45c652fe4bde0ba5bad0",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:20.963Z",
+  "content_hash": "81f6af071c92f981335832fa818ed0283e11f5db091e3208b79abc65e36026e0",
+  "article_path": "articles/bad1b721f0411f94.md",
+  "fetched_url": "https://x.com/yetone/status/2119027725130420479",
+  "source_path": "sources/articles/account-bans-and-shared-accounts.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:46:02.139Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

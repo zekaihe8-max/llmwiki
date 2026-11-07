@@ -1,0 +1,23 @@
+{
+  "slug": "79bcbdfbcdfdb633",
+  "url": "https://x.com/0xLogicrw/status/2118924446073499776",
+  "title": "Duet 接上 Claude Code",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "79bcbdfbcdfdb63351398f01aaf916e0c9be4905e73881dd7cd06d74fa3fbaea",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:09.282Z",
+  "content_hash": "e56078ee4d954862b64ff62e03f8331b6649ca5b640f2346f2556e35739c43d2",
+  "article_path": "articles/79bcbdfbcdfdb633.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2118924446073499776",
+  "source_path": "sources/articles/claude-duet-connects-to-claude-code-phone-can-approve-and-schedu.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:05:23.446Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

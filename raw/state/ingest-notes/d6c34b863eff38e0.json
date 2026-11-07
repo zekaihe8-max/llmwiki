@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论 DSH 跨多家模型厂商切换，与面向 Agent 的模型渠道取舍密切相关。",
+    "topics/deepseek-inference-vs-aggregators.md": "文章重点推荐 DeepSeek 及其开源 Harness，与 DeepSeek 自营推理相对聚合平台的议题相近。",
+    "topics/harness-comparison-beyond-tokens.md": "文章将 DSH 定位为 Agent 框架并对比其模型适配能力，与 Harness 对比主题相关。",
+    "topics/account-and-asset-security-hygiene.md": "文章提到封号风险并建议导出 ChatGPT 数据，与账号与资产安全卫生相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论 DSH 跨多家模型厂商切换，与面向 Agent 的模型渠道取舍密切相关。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文章重点推荐 DeepSeek 及其开源 Harness，与 DeepSeek 自营推理相对聚合平台的议题相近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章将 DSH 定位为 Agent 框架并对比其模型适配能力，与 Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章提到封号风险并建议导出 ChatGPT 数据，与账号与资产安全卫生相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经平台验证的封号、模型统治力、渠道优势等表述均已用“帖文称/作者称”限定。"
+}

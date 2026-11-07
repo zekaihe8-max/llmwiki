@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Capwise 涉及 AI 辅助的录屏与视频剪辑功能，与智能体视频剪辑主题高度相关。",
+    "topics/open-source-in-ai-assistant-editing.md": "帖文介绍开源录屏工具接入 AI 字幕、ASR、LLM 等能力，契合开源工具做 AI 自然语言剪辑。",
+    "topics/ai-assisted-clipping-and-notes.md": "Capwise 的字幕、素材库与片头片尾管理属于 AI 辅助媒体剪辑与笔记范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Capwise 涉及 AI 辅助的录屏与视频剪辑功能，与智能体视频剪辑主题高度相关。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "帖文介绍开源录屏工具接入 AI 字幕、ASR、LLM 等能力，契合开源工具做 AI 自然语言剪辑。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "Capwise 的字幕、素材库与片头片尾管理属于 AI 辅助媒体剪辑与笔记范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有信息均来自单条 X 帖文，未独立核实；发布时间为 2026-11-07。"
+}

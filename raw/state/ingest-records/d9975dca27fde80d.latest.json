@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:04:58.822Z",
+  "url": "https://x.com/0xLogicrw/status/2118929520514466179",
+  "slug": "d9975dca27fde80d",
+  "content_hash": "75d654cb5e7c9a316b76e7207082dfe6e533f62e16a3a7af9636ea7b10445577",
+  "source": {
+    "path": "sources/articles/claude-code-leaks-login-email-via-user-agent.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-native-web-search.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "用户登录邮箱外泄并导致诈骗邮件，属于账号与资产安全卫生问题。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "Claude Code 自行编写联网命令并访问外部网站，涉及 Agent 联网行为。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心在于把登录邮箱放入模型上下文，属于 Agent 上下文工程问题。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "模型在宽松网页管控下向网站发送真实邮箱，属于 Agent Harness 网页管控失效。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心在于把登录邮箱放入模型上下文，属于 Agent 上下文工程问题。",
+    "topics/agent-native-web-search.md": "Claude Code 自行编写联网命令并访问外部网站，涉及 Agent 联网行为。",
+    "topics/loose-web-agent-harness-plugins.md": "模型在宽松网页管控下向网站发送真实邮箱，属于 Agent Harness 网页管控失效。",
+    "topics/account-and-asset-security-hygiene.md": "用户登录邮箱外泄并导致诈骗邮件，属于账号与资产安全卫生问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-leaks-login-email-via-user-agent.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-native-web-search.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心在于把登录邮箱放入模型上下文，属于 Agent 上下文工程问题。",
+      "topics/agent-native-web-search.md": "Claude Code 自行编写联网命令并访问外部网站，涉及 Agent 联网行为。",
+      "topics/loose-web-agent-harness-plugins.md": "模型在宽松网页管控下向网站发送真实邮箱，属于 Agent Harness 网页管控失效。",
+      "topics/account-and-asset-security-hygiene.md": "用户登录邮箱外泄并导致诈骗邮件，属于账号与资产安全卫生问题。"
+    },
+    "notes": "所有主张均基于所给推文与 Anthropic 工程师的说明，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-leaks-login-email-via-user-agent.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

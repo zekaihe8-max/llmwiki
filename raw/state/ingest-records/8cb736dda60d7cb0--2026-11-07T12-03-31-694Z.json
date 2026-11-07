@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:03:31.694Z",
+  "url": "https://x.com/xiaomovps/status/2118983783445827951",
+  "slug": "8cb736dda60d7cb0",
+  "content_hash": "a85bb8059f5e1e5bab21a3f24229239b1a5568f3fe1bb0b1499d04c18191e6cb",
+  "source": {
+    "path": "sources/articles/gpt-ban-wave-contingency-export-chatgpt-data-first.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦账号封号风险与数据导出备份，属账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中将 GPT 封号与 Claude 风控类比，涉及订阅账号风控背景。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "数据导出与云端内容备份涉及个人云环境备份检查，但本文未超出该主题现有范围。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文聚焦账号封号风险与数据导出备份，属账号与资产安全卫生范畴。",
+    "topics/claude-subscription-risk-control-weights.md": "文中将 GPT 封号与 Claude 风控类比，涉及订阅账号风控背景。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "数据导出与云端内容备份涉及个人云环境备份检查，但本文未超出该主题现有范围。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gpt-ban-wave-contingency-export-chatgpt-data-first.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "帖文聚焦账号封号风险与数据导出备份，属账号与资产安全卫生范畴。",
+      "topics/claude-subscription-risk-control-weights.md": "文中将 GPT 封号与 Claude 风控类比，涉及订阅账号风控背景。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "数据导出与云端内容备份涉及个人云环境备份检查，但本文未超出该主题现有范围。"
+    },
+    "notes": "嵌入的第二条关于 GPT Dots 的推文与封号预案无关，已不计入摘要。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gpt-ban-wave-contingency-export-chatgpt-data-first.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

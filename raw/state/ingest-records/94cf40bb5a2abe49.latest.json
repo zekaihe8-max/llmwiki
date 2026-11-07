@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:02:46.040Z",
+  "url": "https://x.com/xiaomovps/status/2118998894931530101",
+  "slug": "94cf40bb5a2abe49",
+  "content_hash": "0f446ff78645f414baf1114c22d67a68929a3ac57c526fe16d519428d617e730",
+  "source": {
+    "path": "sources/articles/three-mobile-routes-for-pi-agent.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/computer-use.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Pocket Pi 通过无障碍权限操作其他 App，涉及 Agent 对手机端应用的计算机使用能力。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "文章聚焦手机端 Agent 的使用与部署路径，与移动端全链路开发主题直接相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中对比多个 Agent 管理工具，涉及多 Harness 与个人助手派活的区分。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到用 Herdr 等工具统一管理多个 Coding Agent，对应个人 Agent 调度编程 Agent 的场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "文章聚焦手机端 Agent 的使用与部署路径，与移动端全链路开发主题直接相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "文中提到用 Herdr 等工具统一管理多个 Coding Agent，对应个人 Agent 调度编程 Agent 的场景。",
+    "topics/computer-use.md": "Pocket Pi 通过无障碍权限操作其他 App，涉及 Agent 对手机端应用的计算机使用能力。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中对比多个 Agent 管理工具，涉及多 Harness 与个人助手派活的区分。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/three-mobile-routes-for-pi-agent.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/computer-use.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/mobile-agent-dev-full-chain.md": "文章聚焦手机端 Agent 的使用与部署路径，与移动端全链路开发主题直接相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "文中提到用 Herdr 等工具统一管理多个 Coding Agent，对应个人 Agent 调度编程 Agent 的场景。",
+      "topics/computer-use.md": "Pocket Pi 通过无障碍权限操作其他 App，涉及 Agent 对手机端应用的计算机使用能力。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "文中对比多个 Agent 管理工具，涉及多 Harness 与个人助手派活的区分。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/three-mobile-routes-for-pi-agent.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

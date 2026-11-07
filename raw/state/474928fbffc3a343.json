@@ -1,0 +1,23 @@
+{
+  "slug": "474928fbffc3a343",
+  "url": "https://x.com/heydengai/status/2118963662371086619",
+  "title": "很多 Agent 本质是绑信用卡的 cron",
+  "digest": "2026-11-07-cn-x.md",
+  "status": "filed",
+  "hash": "474928fbffc3a343cf3d5cd9bbd0ef3c13c24ce61fa159381dfd3ac1b3ce46fa",
+  "first_seen": "2026-11-07T12:00:03.484Z",
+  "last_seen": "2026-11-07T12:00:03.484Z",
+  "fetched_at": "2026-11-07T12:00:15.085Z",
+  "content_hash": "479e3141f90ec6e1026f1e15a4cb3d1b2dc297f4c1a4c29441bd29e0a77599e5",
+  "article_path": "articles/474928fbffc3a343.md",
+  "fetched_url": "https://x.com/heydengai/status/2118963662371086619",
+  "source_path": "sources/articles/many-ai-agents-are-essentially-cron-jobs-with-credit-cards.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-07T12:17:55.261Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:41:32.775Z",
+  "url": "https://x.com/Gorden_Sun/status/2119011436030799981",
+  "slug": "9f26fbc4b69b43b9",
+  "content_hash": "ae95a8ff65a19fd30e83cc44b9c988d5b35e9f56f60433d339d9bfcb123deaf0",
+  "source": {
+    "path": "sources/articles/lyra-2-0-turn-a-static-image-into-a-freely-explorable-3d-virtual.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是可漫游、可实时渲染的3D虚拟世界，与实时交互世界模型主题直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "英伟达将 Lyra 2.0 开源并在 Hugging Face 发布权重，涉及开放权重前沿模型。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "生成的3D高斯点云场景文件可用于渲染引擎和仿真，与仿真就绪开放三维资产主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是可漫游、可实时渲染的3D虚拟世界，与实时交互世界模型主题直接相关。",
+    "topics/simulation-ready-open-3d-assets.md": "生成的3D高斯点云场景文件可用于渲染引擎和仿真，与仿真就绪开放三维资产主题相关。",
+    "topics/open-weight-frontier-models.md": "英伟达将 Lyra 2.0 开源并在 Hugging Face 发布权重，涉及开放权重前沿模型。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lyra-2-0-turn-a-static-image-into-a-freely-explorable-3d-virtual.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "文章核心是可漫游、可实时渲染的3D虚拟世界，与实时交互世界模型主题直接相关。",
+      "topics/simulation-ready-open-3d-assets.md": "生成的3D高斯点云场景文件可用于渲染引擎和仿真，与仿真就绪开放三维资产主题相关。",
+      "topics/open-weight-frontier-models.md": "英伟达将 Lyra 2.0 开源并在 Hugging Face 发布权重，涉及开放权重前沿模型。"
+    },
+    "notes": "所有主张均归属于该 X 帖文，未独立核实模型性能或发布日期。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lyra-2-0-turn-a-static-image-into-a-freely-explorable-3d-virtual.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

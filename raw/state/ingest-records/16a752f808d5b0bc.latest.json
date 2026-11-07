@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:08:38.530Z",
+  "url": "https://x.com/shao__meng/status/2118936056548688090",
+  "slug": "16a752f808d5b0bc",
+  "content_hash": "0bce47b9dbe9b6fd16d2ce1813bfa5cf2888e153db1d04da4d7569e8c39d899c",
+  "source": {
+    "path": "sources/articles/uber-agent-security-practice-permission-to-execute-does-not-mean.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到智能体读取外部内容后自行决定下一步，与自动模式主题相关，保持不变。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及智能体治理、权限边界与上线审查，与该主题的治理维度相近，但无需修改。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中讨论 Agentic AI 的安全模型与基础防护，与基础主题相关，保持不变。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Uber 作为公司级部署 Agent 的实践案例，与公司级 Agent Harness 主题相近，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章涉及智能体治理、权限边界与上线审查，与该主题的治理维度相近，但无需修改。",
+    "topics/agentic-ai-foundation.md": "文中讨论 Agentic AI 的安全模型与基础防护，与基础主题相关，保持不变。",
+    "topics/company-agent-harness.md": "Uber 作为公司级部署 Agent 的实践案例，与公司级 Agent Harness 主题相近，无需新建。",
+    "topics/agent-auto-mode.md": "文中提到智能体读取外部内容后自行决定下一步，与自动模式主题相关，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/uber-agent-security-practice-permission-to-execute-does-not-mean.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/company-agent-harness.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章涉及智能体治理、权限边界与上线审查，与该主题的治理维度相近，但无需修改。",
+      "topics/agentic-ai-foundation.md": "文中讨论 Agentic AI 的安全模型与基础防护，与基础主题相关，保持不变。",
+      "topics/company-agent-harness.md": "Uber 作为公司级部署 Agent 的实践案例，与公司级 Agent Harness 主题相近，无需新建。",
+      "topics/agent-auto-mode.md": "文中提到智能体读取外部内容后自行决定下一步，与自动模式主题相关，保持不变。"
+    },
+    "notes": "来源为 @shao__meng 在 X 上的帖文，引用 @UberEng 的博客；未独立核实 Uber 博客全文，所有量化缺失及效果判断均按帖文表述处理。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/uber-agent-security-practice-permission-to-execute-does-not-mean.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

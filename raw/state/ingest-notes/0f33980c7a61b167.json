@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "帖文描述手机通过 SSH 直连自有电脑操控 Agent，与“手机连自有服务器操控 Agent 工作台”高度相关。",
+    "topics/mobile-agent-dev-full-chain.md": "HerdrChat 是面向移动端的 Agent 管理工具，涉及手机端 Agent 全链路使用场景。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文提到统一管理多个编程 Agent（Claude Code、Codex 等），对应个人 Agent 调度编程 Agent 的场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "帖文描述手机通过 SSH 直连自有电脑操控 Agent，与“手机连自有服务器操控 Agent 工作台”高度相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "HerdrChat 是面向移动端的 Agent 管理工具，涉及手机端 Agent 全链路使用场景。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到统一管理多个编程 Agent（Claude Code、Codex 等），对应个人 Agent 调度编程 Agent 的场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所提供帖文，未引入外部事实或 URL。"
+}

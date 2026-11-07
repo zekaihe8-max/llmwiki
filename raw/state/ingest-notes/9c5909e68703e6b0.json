@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-maintained-wiki.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-maintained-wiki.md": "帖文提到把分散文档整理成带来源、相互关联的 wiki，与 LLM 维护的 wiki 主题直接相关。",
+    "topics/context-engineering-for-agents.md": "帖文涉及重要索引预加载、按需检索及减少上下文干扰，属于 Agent 上下文工程范畴。",
+    "topics/vibe-coding-memory-paradox.md": "帖文核心讨论 Agent 记忆的纠错与重组，与记忆悖论主题相近。",
+    "topics/agents-md-token-efficiency.md": "帖文提到 wiki 配合搜索可节省约两万 token，与 Token 效率主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "帖文提到把分散文档整理成带来源、相互关联的 wiki，与 LLM 维护的 wiki 主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文涉及重要索引预加载、按需检索及减少上下文干扰，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论 Agent 记忆的纠错与重组，与记忆悖论主题相近。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文提到 wiki 配合搜索可节省约两万 token，与 Token 效率主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 meng shao 的帖文，转发 Anthropic 系统分享；文中 Anthropic 内部实验数据未经独立核实，已在摘要与 bullets 中用“帖文称”属性化表述。"
+}

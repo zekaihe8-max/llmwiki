@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-07T12:09:07.051Z",
+  "url": "https://x.com/cgnot996/status/2118918133948056041",
+  "slug": "a3ab14844e81b92e",
+  "content_hash": "8aff6c74971f51e0e010ff05acf2ace67fc32ad258cc9312c96f5a49558e185e",
+  "source": {
+    "path": "sources/articles/grok-bot-browser-extension-passes-chrome-web-store-review.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "插件核心功能是网页内容剪藏与采集，属 AI 辅助剪藏与笔记场景。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区与用户自定义 Bot 的内容分发。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文章主体是 Grok Bot 浏览器插件，与 Grok Bot 生态直接相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Chrome 浏览器插件属于宽松网页管控下的 Agent Harness 插件形态。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "文章主体是 Grok Bot 浏览器插件，与 Grok Bot 生态直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "插件核心功能是网页内容剪藏与采集，属 AI 辅助剪藏与笔记场景。",
+    "topics/loose-web-agent-harness-plugins.md": "Chrome 浏览器插件属于宽松网页管控下的 Agent Harness 插件形态。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区与用户自定义 Bot 的内容分发。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-browser-extension-passes-chrome-web-store-review.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/dsh-grok-cross-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "文章主体是 Grok Bot 浏览器插件，与 Grok Bot 生态直接相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "插件核心功能是网页内容剪藏与采集，属 AI 辅助剪藏与笔记场景。",
+      "topics/loose-web-agent-harness-plugins.md": "Chrome 浏览器插件属于宽松网页管控下的 Agent Harness 插件形态。",
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区与用户自定义 Bot 的内容分发。"
+    },
+    "notes": "所有产品功能与审核状态均引用帖文表述，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-browser-extension-passes-chrome-web-store-review.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
