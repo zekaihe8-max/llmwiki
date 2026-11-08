@@ -1,0 +1,23 @@
+{
+  "slug": "1506471e679d8215",
+  "url": "https://x.com/yetone/status/2119376688857715100",
+  "title": "magpie 公网访问和额度不够用",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "1506471e679d8215a27007e6d54a12d0f81c278ce093e2fe9661252f147d3fe9",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:36.314Z",
+  "content_hash": "86d068a000ed7a0727e5ae7fd596dd2421a99ef7dee8bfd3e7071b6ebf54eaf4",
+  "article_path": "articles/1506471e679d8215.md",
+  "fetched_url": "https://x.com/yetone/status/2119376688857715100",
+  "source_path": "sources/articles/magpie-public-access-recommends-enabling-tls-certificate.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:48:35.085Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/agent-native-web-search.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "直接涉及 GEO 主题，与帖文的生成式引擎优化市场地图最为贴近。",
+    "topics/agent-native-web-search.md": "涵盖面向 Agent 的联网搜索与答题引擎，对应帖文中答题引擎与 AI 爬虫层级。",
+    "topics/ai-native-companies.md": "关注 AI 原生公司格局，与帖文列举的 145 家 AI 相关公司相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "直接涉及 GEO 主题，与帖文的生成式引擎优化市场地图最为贴近。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "涵盖面向 Agent 的联网搜索与答题引擎，对应帖文中答题引擎与 AI 爬虫层级。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "关注 AI 原生公司格局，与帖文列举的 145 家 AI 相关公司相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

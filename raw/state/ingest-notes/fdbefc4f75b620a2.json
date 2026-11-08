@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "Arete-27B 是开放权重前沿模型，与该主题直接相关。",
+    "topics/community-evals-vs-score-hype.md": "Nous Research 提到自建 803 条提示词评测，涉及社区/自有评测与分数炒作。",
+    "topics/local-open-assistant-models.md": "Arete-27B 属于本地开放助手模型范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Arete-27B 是开放权重前沿模型，与该主题直接相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Nous Research 提到自建 803 条提示词评测，涉及社区/自有评测与分数炒作。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Arete-27B 属于本地开放助手模型范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实 Nous Research 的模型能力及评测结果，均按帖文内容引用。"
+}

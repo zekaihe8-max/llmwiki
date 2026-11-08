@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/frontier-training-containment.md",
+    "topics/millenarian-apocalypse-discourse.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "文章聚焦 Anthropic 即将上市及 Dario 离开 OpenAI 创办新公司的背景，与上市前人才离职动机主题高度相关。",
+    "topics/frontier-training-containment.md": "文中涉及 Dario 对 AI 安全、前沿模型发展放缓及失控风险的主张，与前沿训练隔离与安全主题相关。",
+    "topics/millenarian-apocalypse-discourse.md": "Dario 早年深度参与理性主义与有效利他主义，并受 AI 毁灭论影响，与千禧年末日话语主题相关。",
+    "topics/agent-compute-and-governance.md": "Dario 公开主张 AI 监管、芯片出口管制及军事应用限制，与 AI 治理主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Anthropic 即将上市及 Dario 离开 OpenAI 创办新公司的背景，与上市前人才离职动机主题高度相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Dario 对 AI 安全、前沿模型发展放缓及失控风险的主张，与前沿训练隔离与安全主题相关。"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "Dario 早年深度参与理性主义与有效利他主义，并受 AI 毁灭论影响，与千禧年末日话语主题相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Dario 公开主张 AI 监管、芯片出口管制及军事应用限制，与 AI 治理主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自 @dotey 对纽约时报文章的转述，未独立核实；Dario 本人未接受采访。"
+}

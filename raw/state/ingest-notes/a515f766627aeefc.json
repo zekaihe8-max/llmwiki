@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章讨论 AI 在科研工作流中的实际使用与适配，与该主题关于 AI 审稿与科研实践适配高度相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "报告按任务 AI 能力分和使用倍数区分哪些活适合交给 AI，直接对应该主题。",
+    "topics/agent-auto-mode.md": "Claude Science 中 73% 会话高度自主完成，涉及智能体自动模式的科研场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 在科研工作流中的实际使用与适配，与该主题关于 AI 审稿与科研实践适配高度相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "报告按任务 AI 能力分和使用倍数区分哪些活适合交给 AI，直接对应该主题。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Claude Science 中 73% 会话高度自主完成，涉及智能体自动模式的科研场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @dotey 在 X 上的帖文，转述 Anthropic 研究报告；未核实主张已用「帖文称」标注。"
+}

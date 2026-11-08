@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:03:22.223Z",
+  "url": "https://x.com/xiaomovps/status/2119390726933107116",
+  "slug": "024479c7a2190621",
+  "content_hash": "ebce52fbcd6321e982a0536a5ac9dd841b8d1d686d78bd215eced5f4faaa389d",
+  "source": {
+    "path": "sources/articles/deepseek-also-has-small-models-runnable-on-consumer-gpus.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦消费级显卡本地推理大模型，与消费级 GPU AI 算力解锁主题直接相关"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章介绍可在本地运行的开源小参数助手模型，与本地开放助手与机器人小模型主题重合"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "DeepSeek 所列模型均为开放权重并可下载，与开放权重前沿模型主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文聚焦消费级显卡本地推理大模型，与消费级 GPU AI 算力解锁主题直接相关",
+    "topics/local-open-assistant-models.md": "文章介绍可在本地运行的开源小参数助手模型，与本地开放助手与机器人小模型主题重合",
+    "topics/open-weight-frontier-models.md": "DeepSeek 所列模型均为开放权重并可下载，与开放权重前沿模型主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-also-has-small-models-runnable-on-consumer-gpus.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "帖文聚焦消费级显卡本地推理大模型，与消费级 GPU AI 算力解锁主题直接相关",
+      "topics/local-open-assistant-models.md": "文章介绍可在本地运行的开源小参数助手模型，与本地开放助手与机器人小模型主题重合",
+      "topics/open-weight-frontier-models.md": "DeepSeek 所列模型均为开放权重并可下载，与开放权重前沿模型主题相关"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-also-has-small-models-runnable-on-consumer-gpus.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

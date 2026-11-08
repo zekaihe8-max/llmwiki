@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:05:02.881Z",
+  "url": "https://x.com/xiaomovps/status/2119241686845211081",
+  "slug": "ff8575504d4ae83f",
+  "content_hash": "ad0a362f9d2e4b9f77e7a4da63e1b76cf532c3b786f02f8434afbabb4ded5714",
+  "source": {
+    "path": "sources/articles/dsh-plugin-developer-token-incentive-program-opens-intent-applic.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skill 编写，与插件开发者激励场景相通。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "讨论 Harness 插件界面与生态，与插件开发激励主题相近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Agent Harness 插件，与 DSH 插件生态最相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "关注精简核心与社区扩展，与社区插件推荐方向相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "直接涉及 Agent Harness 插件，与 DSH 插件生态最相关。",
+    "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件界面与生态，与插件开发激励主题相近。",
+    "topics/agent-skill-authoring.md": "涉及 Agent Skill 编写，与插件开发者激励场景相通。",
+    "topics/minimal-core-community-extensions.md": "关注精简核心与社区扩展，与社区插件推荐方向相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dsh-plugin-developer-token-incentive-program-opens-intent-applic.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/agent-skill-authoring.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "直接涉及 Agent Harness 插件，与 DSH 插件生态最相关。",
+      "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件界面与生态，与插件开发激励主题相近。",
+      "topics/agent-skill-authoring.md": "涉及 Agent Skill 编写，与插件开发者激励场景相通。",
+      "topics/minimal-core-community-extensions.md": "关注精简核心与社区扩展，与社区插件推荐方向相关。"
+    },
+    "notes": "来源仅为 X 帖文，未独立核实激励细节与申请资格。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dsh-plugin-developer-token-incentive-program-opens-intent-applic.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

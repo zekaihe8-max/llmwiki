@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "METR 作为第三方机构深入 Anthropic 内部进行独立评估，直接对应驻场第三方评估主题。",
+    "topics/ai-task-horizon-growth.md": "报告量化了模型能力提升速度的翻倍，且预测未来 12 个月无瓶颈，涉及 AI 任务时界与能力增长的核心议题。",
+    "topics/ai-eval-work-record-gateway.md": "METR 的评估工作本身即为 AI 评测的实例，涉及评测入口与记录机制。"
+  },
+  "topics": [
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "METR 作为第三方机构深入 Anthropic 内部进行独立评估，直接对应驻场第三方评估主题。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "报告量化了模型能力提升速度的翻倍，且预测未来 12 个月无瓶颈，涉及 AI 任务时界与能力增长的核心议题。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "METR 的评估工作本身即为 AI 评测的实例，涉及评测入口与记录机制。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by Gorden Sun summarizing METR's blog report; claims attributed to the post (帖文称/作者称). The METR blog URL is truncated in the post (t.co short link)."
+}

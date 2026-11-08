@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "1分钱月会员直接关联AI订阅定价与用户价值感知。",
+    "topics/ai-product-self-rec-amplify.md": "直播卖token与官方旗舰店促销属于AI产品自荐与主持人/平台加热。",
+    "topics/usage-limit-ab-tests.md": "卖token与会员额度触及用量上限与定价实验的边缘。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "1分钱月会员直接关联AI订阅定价与用户价值感知。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "直播卖token与官方旗舰店促销属于AI产品自荐与主持人/平台加热。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "卖token与会员额度触及用量上限与定价实验的边缘。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文，未引入外部事实。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章重点突出 RTX 3090 等消费级显卡可流畅运行，与消费级 GPU AI 算力解锁主题相关。",
+    "topics/agentic-video-editing.md": "MatAnyone-E 是视频抠像/视频编辑相关的 AI 算法，与智能体视频剪辑主题相近。",
+    "topics/open-source-in-ai-assistant-editing.md": "帖文提到项目后续会开源，与开源工具装进 AI 助手做剪辑主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章重点突出 RTX 3090 等消费级显卡可流畅运行，与消费级 GPU AI 算力解锁主题相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "MatAnyone-E 是视频抠像/视频编辑相关的 AI 算法，与智能体视频剪辑主题相近。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提到项目后续会开源，与开源工具装进 AI 助手做剪辑主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有性能数据均来源于该帖文，未独立核实。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-management-span-of-control.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章对比助手式被动等待与岗位式主动推进，与智能体自动模式的核心议题相近。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "“学会当老板”与 Agent 当包工头调度的隐喻高度相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "涉及将哪些任务放心交给 AI 并让其主动交付，与帖文主旨一致。",
+    "topics/ai-management-span-of-control.md": "从管理视角探讨人类如何驾驭 AI，与“当老板”的思路相通。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章对比助手式被动等待与岗位式主动推进，与智能体自动模式的核心议题相近。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "“学会当老板”与 Agent 当包工头调度的隐喻高度相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "涉及将哪些任务放心交给 AI 并让其主动交付，与帖文主旨一致。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "从管理视角探讨人类如何驾驭 AI，与“当老板”的思路相通。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均标注为帖文称，未引入文章外事实。"
+}

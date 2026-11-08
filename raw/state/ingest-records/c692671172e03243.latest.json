@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:12:00.808Z",
+  "url": "https://x.com/dingyi/status/2119329806261404078",
+  "slug": "c692671172e03243",
+  "content_hash": "20060c468fc63e6c7000eaf422553f4f5ff874cc72298768520859651029d441",
+  "source": {
+    "path": "sources/articles/reading-grok-bot-s-halved-quota-as-the-receding-ai-subsidy-tide.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 体验与额度，与额度腰斩对用户体验的影响相近。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，属同一 Grok Bot 生态话题。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接讨论用 Grok Bot 内置额度桥接 Agent 查 X，与本文 Grok Bot 额度砍半最相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 在 X 上的定位与能力边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接讨论用 Grok Bot 内置额度桥接 Agent 查 X，与本文 Grok Bot 额度砍半最相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 上的定位与能力边界。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，属同一 Grok Bot 生态话题。",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 体验与额度，与额度腰斩对用户体验的影响相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/reading-grok-bot-s-halved-quota-as-the-receding-ai-subsidy-tide.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接讨论用 Grok Bot 内置额度桥接 Agent 查 X，与本文 Grok Bot 额度砍半最相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 上的定位与能力边界。",
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，属同一 Grok Bot 生态话题。",
+      "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 体验与额度，与额度腰斩对用户体验的影响相近。"
+    },
+    "notes": "所有关于模型路由、额度砍减及 AI 泡沫的断言均来源于 X 帖文，未独立核实，已用「帖文称」等表述归属。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/reading-grok-bot-s-halved-quota-as-the-receding-ai-subsidy-tide.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

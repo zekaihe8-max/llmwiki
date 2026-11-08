@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:05:55.265Z",
+  "url": "https://github.com/sarbarshem/grok-bot-3d-campus",
+  "slug": "6a2ea4b0bc730c85",
+  "content_hash": "5354993902c94c340b4d09a138c25be4df33c0f1d378ca330a61b53728b7a308",
+  "source": {
+    "path": "sources/articles/grok-bot-control-center-demo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中涉及定时任务、自动刷新、事件触发器和机器人自主运行，属于智能体自动模式范畴。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章详细说明了每周使用量、算力成本估算、审批治理与只读安全模型，与智能体算力与治理相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "仓库定位为 AI 智能体组成的公司校园，每个团队一个房间，契合 AI 原生公司主题。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章描述的是公司级 AI 智能体团队的控制中心与协调面板，与公司级 Agent Harness 主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章描述的是公司级 AI 智能体团队的控制中心与协调面板，与公司级 Agent Harness 主题高度相关。",
+    "topics/agent-auto-mode.md": "文中涉及定时任务、自动刷新、事件触发器和机器人自主运行，属于智能体自动模式范畴。",
+    "topics/agent-compute-and-governance.md": "文章详细说明了每周使用量、算力成本估算、审批治理与只读安全模型，与智能体算力与治理相关。",
+    "topics/ai-native-companies.md": "仓库定位为 AI 智能体组成的公司校园，每个团队一个房间，契合 AI 原生公司主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-control-center-demo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章描述的是公司级 AI 智能体团队的控制中心与协调面板，与公司级 Agent Harness 主题高度相关。",
+      "topics/agent-auto-mode.md": "文中涉及定时任务、自动刷新、事件触发器和机器人自主运行，属于智能体自动模式范畴。",
+      "topics/agent-compute-and-governance.md": "文章详细说明了每周使用量、算力成本估算、审批治理与只读安全模型，与智能体算力与治理相关。",
+      "topics/ai-native-companies.md": "仓库定位为 AI 智能体组成的公司校园，每个团队一个房间，契合 AI 原生公司主题。"
+    },
+    "notes": "来源为 GitHub 仓库 README，未引用仓库外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-control-center-demo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

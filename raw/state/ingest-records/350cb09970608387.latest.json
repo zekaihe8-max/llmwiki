@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:09:31.416Z",
+  "url": "https://x.com/shao__meng/status/2119272398587617634",
+  "slug": "350cb09970608387",
+  "content_hash": "a6724ce3747578741c027308035d299812cef6637913f40be1903d366ea2253d",
+  "source": {
+    "path": "sources/articles/qwen-office-binds-double-11-e-commerce-to-sell-1-cent-monthly-me.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "直播卖token与官方旗舰店促销属于AI产品自荐与主持人/平台加热。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "1分钱月会员直接关联AI订阅定价与用户价值感知。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "卖token与会员额度触及用量上限与定价实验的边缘。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "1分钱月会员直接关联AI订阅定价与用户价值感知。",
+    "topics/ai-product-self-rec-amplify.md": "直播卖token与官方旗舰店促销属于AI产品自荐与主持人/平台加热。",
+    "topics/usage-limit-ab-tests.md": "卖token与会员额度触及用量上限与定价实验的边缘。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qwen-office-binds-double-11-e-commerce-to-sell-1-cent-monthly-me.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "1分钱月会员直接关联AI订阅定价与用户价值感知。",
+      "topics/ai-product-self-rec-amplify.md": "直播卖token与官方旗舰店促销属于AI产品自荐与主持人/平台加热。",
+      "topics/usage-limit-ab-tests.md": "卖token与会员额度触及用量上限与定价实验的边缘。"
+    },
+    "notes": "所有主张均基于帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qwen-office-binds-double-11-e-commerce-to-sell-1-cent-monthly-me.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

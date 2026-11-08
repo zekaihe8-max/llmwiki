@@ -1,0 +1,23 @@
+{
+  "slug": "6a2ea4b0bc730c85",
+  "url": "https://github.com/sarbarshem/grok-bot-3d-campus",
+  "title": "GitHub",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "6a2ea4b0bc730c8528ef2b06990120d6a15decd3582f96173c28a06dff07f043",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:25.983Z",
+  "content_hash": "5354993902c94c340b4d09a138c25be4df33c0f1d378ca330a61b53728b7a308",
+  "article_path": "articles/6a2ea4b0bc730c85.md",
+  "fetched_url": "https://github.com/sarbarshem/grok-bot-3d-campus",
+  "source_path": "sources/articles/grok-bot-control-center-demo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:05:55.266Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

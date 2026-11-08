@@ -113,5 +113,10 @@
     "content_hash": "a4e448678195bbe457251f2b0b88f071d47819b7cd693bd051b7b106e1305a7b",
     "ingested_at": "2026-11-07T12:00:03.484Z",
     "urls": 43
+  },
+  "2026-11-08-cn-x.md": {
+    "content_hash": "414e8f2d1d71c684bcdc8cfe1a6148e099567f768be4ba6dbf32ec20b1b5f64b",
+    "ingested_at": "2026-11-08T11:58:19.650Z",
+    "urls": 55
   }
 }

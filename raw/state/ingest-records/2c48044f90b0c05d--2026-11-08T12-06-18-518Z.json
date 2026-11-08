@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:06:18.518Z",
+  "url": "https://x.com/0xLogicrw/status/2119077068923429005",
+  "slug": "2c48044f90b0c05d",
+  "content_hash": "663b6d36d075ffbf1c482ba8be11ad94672ddbdaa4d6b755d5824bdccb36d3ec",
+  "source": {
+    "path": "sources/articles/cua-driver-bench-background-work-without-stealing-keyboard-and-m.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "Cua Driver Bench 属于 AI 评测入口与干活记录范畴，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中给出多工具通过率横向对比，涉及社区实测与评分可信度，现有主题足够。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是电脑操作智能体的后台评测，与 Computer Use 主题直接相关，无需新建或修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是电脑操作智能体的后台评测，与 Computer Use 主题直接相关，无需新建或修改。",
+    "topics/ai-eval-work-record-gateway.md": "Cua Driver Bench 属于 AI 评测入口与干活记录范畴，现有主题已覆盖。",
+    "topics/community-evals-vs-score-hype.md": "文中给出多工具通过率横向对比，涉及社区实测与评分可信度，现有主题足够。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cua-driver-bench-background-work-without-stealing-keyboard-and-m.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是电脑操作智能体的后台评测，与 Computer Use 主题直接相关，无需新建或修改。",
+      "topics/ai-eval-work-record-gateway.md": "Cua Driver Bench 属于 AI 评测入口与干活记录范畴，现有主题已覆盖。",
+      "topics/community-evals-vs-score-hype.md": "文中给出多工具通过率横向对比，涉及社区实测与评分可信度，现有主题足够。"
+    },
+    "notes": "所有数据与主张均源自该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cua-driver-bench-background-work-without-stealing-keyboard-and-m.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

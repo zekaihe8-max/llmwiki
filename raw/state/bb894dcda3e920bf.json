@@ -1,0 +1,29 @@
+{
+  "slug": "bb894dcda3e920bf",
+  "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+  "title": "纽约时报",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "failed",
+  "hash": "bb894dcda3e920bfca766faf7966f1f23739e4365b660b672fb1c4884479dad9",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-08T11:58:20.875Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-08T11:58:20.875Z"
+}

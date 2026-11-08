@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "涉及 AI 原生产品的商业模式与盈利压力，与 AI 漫剧亏损讨论相近。",
+    "topics/premium-ai-subscription-value.md": "讨论 AI 产品的订阅与付费价值，对应投流获客与变现难题。",
+    "topics/peer-economics-before-vibe-coding.md": "强调先算清赚钱同行与经济性，与帖文中关于生产关系与卷利润的观点相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 原生产品的商业模式与盈利压力，与 AI 漫剧亏损讨论相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 产品的订阅与付费价值，对应投流获客与变现难题。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "强调先算清赚钱同行与经济性，与帖文中关于生产关系与卷利润的观点相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文，未独立核实。"
+}

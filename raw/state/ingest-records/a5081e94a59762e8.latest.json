@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:17:13.757Z",
+  "url": "https://x.com/heydengai/status/2119363044287578415",
+  "slug": "a5081e94a59762e8",
+  "content_hash": "ce3c082c75e79752726f75185348d3b4e3d83ad38bca8eebc651ab81843d729d",
+  "source": {
+    "path": "sources/articles/macbook-pro-128gb-ram-upgrade-for-local-ai-vs-buying-deepseek-ap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "智能体算力治理层面，本地与云端算力的选型决策是核心议题之一。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及消费级硬件 AI 算力解锁与成本权衡，贴文核心即为内存升级与云端算力的经济账对比。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "关注笔记本规格对 AI 编码/推理的影响，贴文以 MacBook Pro 内存升级为例切中该主题。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本地开放模型部署的硬件门槛与局限，贴文直接指出 128GB 仍跑不动顶级模型。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "涉及消费级硬件 AI 算力解锁与成本权衡，贴文核心即为内存升级与云端算力的经济账对比。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "关注笔记本规格对 AI 编码/推理的影响，贴文以 MacBook Pro 内存升级为例切中该主题。",
+    "topics/agent-compute-and-governance.md": "智能体算力治理层面，本地与云端算力的选型决策是核心议题之一。",
+    "topics/local-open-assistant-models.md": "本地开放模型部署的硬件门槛与局限，贴文直接指出 128GB 仍跑不动顶级模型。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/macbook-pro-128gb-ram-upgrade-for-local-ai-vs-buying-deepseek-ap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/laptop-light-battery-remote-ai-coding.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "涉及消费级硬件 AI 算力解锁与成本权衡，贴文核心即为内存升级与云端算力的经济账对比。",
+      "topics/laptop-light-battery-remote-ai-coding.md": "关注笔记本规格对 AI 编码/推理的影响，贴文以 MacBook Pro 内存升级为例切中该主题。",
+      "topics/agent-compute-and-governance.md": "智能体算力治理层面，本地与云端算力的选型决策是核心议题之一。",
+      "topics/local-open-assistant-models.md": "本地开放模型部署的硬件门槛与局限，贴文直接指出 128GB 仍跑不动顶级模型。"
+    },
+    "notes": "Source is a single X post; all claims attributed to the post author (帖文称). No independent verification of token pricing or model memory requirements performed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/macbook-pro-128gb-ram-upgrade-for-local-ai-vs-buying-deepseek-ap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:46:01.113Z",
+  "url": "https://x.com/Gorden_Sun/status/2119390142960193998",
+  "slug": "3c8352913fb20c9f",
+  "content_hash": "426f0c112b676e9166e4d9d88830edd1cf410f1c09a9ca46389d41d974871b58",
+  "source": {
+    "path": "sources/articles/matanyone-e-uhd-video-matting-algorithm-for-consumer-gpus.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "MatAnyone-E 是视频抠像/视频编辑相关的 AI 算法，与智能体视频剪辑主题相近。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章重点突出 RTX 3090 等消费级显卡可流畅运行，与消费级 GPU AI 算力解锁主题相关。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提到项目后续会开源，与开源工具装进 AI 助手做剪辑主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章重点突出 RTX 3090 等消费级显卡可流畅运行，与消费级 GPU AI 算力解锁主题相关。",
+    "topics/agentic-video-editing.md": "MatAnyone-E 是视频抠像/视频编辑相关的 AI 算法，与智能体视频剪辑主题相近。",
+    "topics/open-source-in-ai-assistant-editing.md": "帖文提到项目后续会开源，与开源工具装进 AI 助手做剪辑主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/matanyone-e-uhd-video-matting-algorithm-for-consumer-gpus.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/agentic-video-editing.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "文章重点突出 RTX 3090 等消费级显卡可流畅运行，与消费级 GPU AI 算力解锁主题相关。",
+      "topics/agentic-video-editing.md": "MatAnyone-E 是视频抠像/视频编辑相关的 AI 算法，与智能体视频剪辑主题相近。",
+      "topics/open-source-in-ai-assistant-editing.md": "帖文提到项目后续会开源，与开源工具装进 AI 助手做剪辑主题相关。"
+    },
+    "notes": "所有性能数据均来源于该帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/matanyone-e-uhd-video-matting-algorithm-for-consumer-gpus.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

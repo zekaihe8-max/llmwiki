@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:25:23.718Z",
+  "url": "https://x.com/oran_ge/status/2119265495295942864",
+  "slug": "a70715e54ffb3003",
+  "content_hash": "14ecf772f4b818ae91cc855e01826629ad75394b137d1f5d2079f351c2c0c6de",
+  "source": {
+    "path": "sources/articles/orange-ai-if-personal-agent-can-handle-eu-visa-it-s-god-tier.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-clears-deferred-life-todos.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "unchanged",
+      "reason": "签证办理属于典型的搁置生活待办，帖文直接呼应 Agent 清理此类待办的主题"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "帖文以「愿称之为神」的夸张口吻，体现个人 Agent 热潮中用户的极高心理预期"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "欧洲签证申请是用户希望能放心交给 AI 的复杂任务典型代表"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-clears-deferred-life-todos.md": "签证办理属于典型的搁置生活待办，帖文直接呼应 Agent 清理此类待办的主题",
+    "topics/personal-agent-hype-familiarity-gap.md": "帖文以「愿称之为神」的夸张口吻，体现个人 Agent 热潮中用户的极高心理预期",
+    "topics/tasks-confidently-handed-to-ai.md": "欧洲签证申请是用户希望能放心交给 AI 的复杂任务典型代表"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/orange-ai-if-personal-agent-can-handle-eu-visa-it-s-god-tier.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-clears-deferred-life-todos.md",
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-clears-deferred-life-todos.md": "签证办理属于典型的搁置生活待办，帖文直接呼应 Agent 清理此类待办的主题",
+      "topics/personal-agent-hype-familiarity-gap.md": "帖文以「愿称之为神」的夸张口吻，体现个人 Agent 热潮中用户的极高心理预期",
+      "topics/tasks-confidently-handed-to-ai.md": "欧洲签证申请是用户希望能放心交给 AI 的复杂任务典型代表"
+    },
+    "notes": "极短推文，仅表达愿望与情绪，无技术细节或产品信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/orange-ai-if-personal-agent-can-handle-eu-visa-it-s-god-tier.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

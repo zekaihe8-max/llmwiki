@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文讨论账号封号与 IP 风控，属于账号安全卫生范畴。",
+    "topics/claude-subscription-risk-control-weights.md": "文中提及 Claude 封号节奏与风控环节，与订阅风控权重主题相近。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "文中涉及 IP 乱飞与中转代理，与代理节点管理主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文讨论账号封号与 IP 风控，属于账号安全卫生范畴。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中提及 Claude 封号节奏与风控环节，与订阅风控权重主题相近。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "文中涉及 IP 乱飞与中转代理，与代理节点管理主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @wquguru 的单条帖文，未独立核实封号机制，所有平台行为描述均按帖文表述引用。"
+}

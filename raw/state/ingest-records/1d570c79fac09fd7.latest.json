@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:19:03.445Z",
+  "url": "https://x.com/heydengai/status/2119383931774521522",
+  "slug": "1d570c79fac09fd7",
+  "content_hash": "188bffccd0c44b3cb7c3acc68f8ffc813eedd05cbc46a0cce86a6a21f2894632",
+  "source": {
+    "path": "sources/articles/tokyo-researchers-run-neural-networks-on-200-meter-fiber-loop-cu.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/programmable-edge-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力与治理，属于算力创新范畴"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力替代方案，与光纤神经网络降低计算成本相关"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及推理成本效率，与文中“计算成本减少 90%”相关"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "光纤环路可视为一种非传统边缘计算形态"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力替代方案，与光纤神经网络降低计算成本相关",
+    "topics/lab-inference-serving-cost-efficiency.md": "涉及推理成本效率，与文中“计算成本减少 90%”相关",
+    "topics/agent-compute-and-governance.md": "涉及 AI 算力与治理，属于算力创新范畴",
+    "topics/programmable-edge-compute.md": "光纤环路可视为一种非传统边缘计算形态"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tokyo-researchers-run-neural-networks-on-200-meter-fiber-loop-cu.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/programmable-edge-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力替代方案，与光纤神经网络降低计算成本相关",
+      "topics/lab-inference-serving-cost-efficiency.md": "涉及推理成本效率，与文中“计算成本减少 90%”相关",
+      "topics/agent-compute-and-governance.md": "涉及 AI 算力与治理，属于算力创新范畴",
+      "topics/programmable-edge-compute.md": "光纤环路可视为一种非传统边缘计算形态"
+    },
+    "notes": "所有主张均来源于单一 X 帖文，未经独立核实；文中日期显示为 2026 年 11 月 8 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tokyo-researchers-run-neural-networks-on-200-meter-fiber-loop-cu.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

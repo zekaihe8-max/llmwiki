@@ -1,0 +1,23 @@
+{
+  "slug": "024479c7a2190621",
+  "url": "https://x.com/xiaomovps/status/2119390726933107116",
+  "title": "DeepSeek 也有消费级显卡能跑的小模型",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "024479c7a2190621be846584a2f6e2c6bc4cc0c36aab764483efe2c5f76214d0",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:21.305Z",
+  "content_hash": "ebce52fbcd6321e982a0536a5ac9dd841b8d1d686d78bd215eced5f4faaa389d",
+  "article_path": "articles/024479c7a2190621.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2119390726933107116",
+  "source_path": "sources/articles/deepseek-also-has-small-models-runnable-on-consumer-gpus.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:03:22.224Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

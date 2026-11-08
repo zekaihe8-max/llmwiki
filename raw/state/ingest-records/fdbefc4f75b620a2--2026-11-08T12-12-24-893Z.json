@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:12:24.893Z",
+  "url": "https://x.com/dingyi/status/2119286841451180433",
+  "slug": "fdbefc4f75b620a2",
+  "content_hash": "f1650cdd91687cb31522e5d15add432a84518d7a8859acea946ca4ec43321682",
+  "source": {
+    "path": "sources/articles/furious-at-arete-27b.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "Nous Research 提到自建 803 条提示词评测，涉及社区/自有评测与分数炒作。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Arete-27B 属于本地开放助手模型范畴。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Arete-27B 是开放权重前沿模型，与该主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "Arete-27B 是开放权重前沿模型，与该主题直接相关。",
+    "topics/community-evals-vs-score-hype.md": "Nous Research 提到自建 803 条提示词评测，涉及社区/自有评测与分数炒作。",
+    "topics/local-open-assistant-models.md": "Arete-27B 属于本地开放助手模型范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/furious-at-arete-27b.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "Arete-27B 是开放权重前沿模型，与该主题直接相关。",
+      "topics/community-evals-vs-score-hype.md": "Nous Research 提到自建 803 条提示词评测，涉及社区/自有评测与分数炒作。",
+      "topics/local-open-assistant-models.md": "Arete-27B 属于本地开放助手模型范畴。"
+    },
+    "notes": "未核实 Nous Research 的模型能力及评测结果，均按帖文内容引用。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/furious-at-arete-27b.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

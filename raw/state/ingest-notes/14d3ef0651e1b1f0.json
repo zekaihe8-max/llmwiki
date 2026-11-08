@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/llm-maintained-wiki.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章聚焦 AI 原生协作工作区公司图谱，与 AI 原生公司主题直接相关，无需修改。",
+    "topics/agentic-ai-foundation.md": "文中多次提到 Agent 成为队友并承担工作，属于 Agentic AI 范畴，现有主题已覆盖。",
+    "topics/llm-maintained-wiki.md": "图谱第一层为 Docs & wiki 并提及开源 wiki，与 LLM 维护的 wiki 主题相关，无需新建。",
+    "topics/workflows-before-agents.md": "协作工作区与工作流编排相关，现有主题可复用，无需变更。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI 原生协作工作区公司图谱，与 AI 原生公司主题直接相关，无需修改。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 Agent 成为队友并承担工作，属于 Agentic AI 范畴，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "图谱第一层为 Docs & wiki 并提及开源 wiki，与 LLM 维护的 wiki 主题相关，无需新建。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "协作工作区与工作流编排相关，现有主题可复用，无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，其中 ai-workspace-map.vercel.app 通过 t.co 短链接给出，未展开为完整 URL。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:12:45.143Z",
+  "url": "https://x.com/heydengai/status/2119390978104815946",
+  "slug": "b8fd1361612dbd04",
+  "content_hash": "da0725a4ccf8161b2bf72371c1a6d6c90d4c6659c2aef48dcadc173cceea3cf7",
+  "source": {
+    "path": "sources/articles/hot-take-in-the-ai-era-90-of-ide-features-can-be-cut.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI 编程 Agent 对传统 IDE 体验的取代，与编程 Agent 体验相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "主张保留最小核心（Diff Viewer + 回滚），与精简核心、社区扩展的主题一致。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文将编辑、补全、重构调试交给 AI，属于可交给 AI 的任务讨论。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及开发者工具与交互体验的精简，与 IDE 功能砍掉后的 DX 讨论相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文讨论 AI 编程 Agent 对传统 IDE 体验的取代，与编程 Agent 体验相关。",
+    "topics/ux-dx-and-ax.md": "涉及开发者工具与交互体验的精简，与 IDE 功能砍掉后的 DX 讨论相邻。",
+    "topics/minimal-core-community-extensions.md": "主张保留最小核心（Diff Viewer + 回滚），与精简核心、社区扩展的主题一致。",
+    "topics/tasks-confidently-handed-to-ai.md": "帖文将编辑、补全、重构调试交给 AI，属于可交给 AI 的任务讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hot-take-in-the-ai-era-90-of-ide-features-can-be-cut.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "帖文讨论 AI 编程 Agent 对传统 IDE 体验的取代，与编程 Agent 体验相关。",
+      "topics/ux-dx-and-ax.md": "涉及开发者工具与交互体验的精简，与 IDE 功能砍掉后的 DX 讨论相邻。",
+      "topics/minimal-core-community-extensions.md": "主张保留最小核心（Diff Viewer + 回滚），与精简核心、社区扩展的主题一致。",
+      "topics/tasks-confidently-handed-to-ai.md": "帖文将编辑、补全、重构调试交给 AI，属于可交给 AI 的任务讨论。"
+    },
+    "notes": "所有主张均源自该 X 帖文，未独立核实；发布日期、浏览数与回复数按页面显示记录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hot-take-in-the-ai-era-90-of-ide-features-can-be-cut.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

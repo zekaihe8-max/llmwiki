@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:11:39.548Z",
+  "url": "https://x.com/cgnot996/status/2119389784112255021",
+  "slug": "6e828a5a0014afd8",
+  "content_hash": "f2a0f1214d1157ba42017c7774f0485b3d709d8590b340e352294b572f8cfe05",
+  "source": {
+    "path": "sources/articles/formally-introducing-the-199-yuan-grok-bot-q-a-group-180-friends.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与帖文中 Grok Bot 答疑群主题最贴近"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "围绕 Grok Bot 内置额度与工具接入，帖文中群友常咨询 Codex 等工具如何给 Grok Bot 使用"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "帖文提到“小铁柱每日群聊总结”自动整理群聊信息，与群聊日报 Agent 主题相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文正式介绍 199 元付费答疑群并讨论付费社群交付，与高端 AI 订阅/社群付费价值相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与帖文中 Grok Bot 答疑群主题最贴近",
+    "topics/grok-bot-x-api-substitute.md": "围绕 Grok Bot 内置额度与工具接入，帖文中群友常咨询 Codex 等工具如何给 Grok Bot 使用",
+    "topics/hireable-group-chat-digest-agent.md": "帖文提到“小铁柱每日群聊总结”自动整理群聊信息，与群聊日报 Agent 主题相关",
+    "topics/premium-ai-subscription-value.md": "帖文正式介绍 199 元付费答疑群并讨论付费社群交付，与高端 AI 订阅/社群付费价值相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/formally-introducing-the-199-yuan-grok-bot-q-a-group-180-friends.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/hireable-group-chat-digest-agent.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与帖文中 Grok Bot 答疑群主题最贴近",
+      "topics/grok-bot-x-api-substitute.md": "围绕 Grok Bot 内置额度与工具接入，帖文中群友常咨询 Codex 等工具如何给 Grok Bot 使用",
+      "topics/hireable-group-chat-digest-agent.md": "帖文提到“小铁柱每日群聊总结”自动整理群聊信息，与群聊日报 Agent 主题相关",
+      "topics/premium-ai-subscription-value.md": "帖文正式介绍 199 元付费答疑群并讨论付费社群交付，与高端 AI 订阅/社群付费价值相关"
+    },
+    "notes": "帖文中的 [插件名]、[案例名] 为占位符，未给出具体名称；发布时间显示为 Nov 8, 2026，按原文保留。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/formally-introducing-the-199-yuan-grok-bot-q-a-group-180-friends.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
