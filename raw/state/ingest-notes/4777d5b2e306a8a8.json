@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 插件开发提示词，与该主题的 Agent Harness 插件最为贴近。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件生态与界面表现，与插件开发主题相关。",
+    "topics/agent-skill-authoring.md": "插件提示词开发属于 Agent 技能/插件编写范畴，可复用该主题。",
+    "topics/reuse-before-write.md": "文章提到未来可能无需寻找现成插件，直接让 AI 开发，与先复用再编写的理念相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 插件开发提示词，与该主题的 Agent Harness 插件最为贴近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 插件生态与界面表现，与插件开发主题相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "插件提示词开发属于 Agent 技能/插件编写范畴，可复用该主题。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "文章提到未来可能无需寻找现成插件，直接让 AI 开发，与先复用再编写的理念相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文中出现的 CDN 接为短链接形式，未展开完整地址，未编造任何 URL 或额外事实。"
+}

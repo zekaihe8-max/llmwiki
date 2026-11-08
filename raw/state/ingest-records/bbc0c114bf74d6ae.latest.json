@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:54:31.782Z",
+  "url": "https://x.com/fkysly/status/2119081074748006784",
+  "slug": "bbc0c114bf74d6ae",
+  "content_hash": "111714e4653a2376305c7bb33a49ca99141cb061b6b9372a888326896b90aa97",
+  "source": {
+    "path": "sources/articles/nanjing-jinling-hotel-front-desk-and-room-service-switch-to-ai-v.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "酒店前台 AI 语音属于本地服务业引入 AI 的场景"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "帖文描述的是 AI 语音交互，与纯语音全双工相关"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "前台以语音方式理解口头需求并落实到送充电器的动作"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "酒店前台 AI 语音属于本地服务业引入 AI 的场景",
+    "topics/pure-speech-full-duplex.md": "帖文描述的是 AI 语音交互，与纯语音全双工相关",
+    "topics/voice-input-oral-vs-document-for-agents.md": "前台以语音方式理解口头需求并落实到送充电器的动作"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/nanjing-jinling-hotel-front-desk-and-room-service-switch-to-ai-v.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-local-businesses.md",
+      "topics/pure-speech-full-duplex.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-local-businesses.md": "酒店前台 AI 语音属于本地服务业引入 AI 的场景",
+      "topics/pure-speech-full-duplex.md": "帖文描述的是 AI 语音交互，与纯语音全双工相关",
+      "topics/voice-input-oral-vs-document-for-agents.md": "前台以语音方式理解口头需求并落实到送充电器的动作"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；帖文显示时间为 2026 年 11 月 7 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/nanjing-jinling-hotel-front-desk-and-room-service-switch-to-ai-v.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

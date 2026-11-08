@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/languages-for-agents.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "文章介绍的 Sand3D 开源超 10 万个 3D 组件并面向仿真与游戏引擎导出，与“仿真就绪开放三维资产”主题高度相关。",
+    "topics/languages-for-agents.md": "Sand3D 是面向大模型的 Python 库，可写入提示词调用，属于面向 Agent 的编程/接口语言范畴。",
+    "topics/agent-skill-authoring.md": "帖文提到可直接放进 AI 提示词中调用，涉及为智能体编写可调用的技能或工具。"
+  },
+  "topics": [
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文章介绍的 Sand3D 开源超 10 万个 3D 组件并面向仿真与游戏引擎导出，与“仿真就绪开放三维资产”主题高度相关。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "Sand3D 是面向大模型的 Python 库，可写入提示词调用，属于面向 Agent 的编程/接口语言范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提到可直接放进 AI 提示词中调用，涉及为智能体编写可调用的技能或工具。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，GitHub 和 HuggingFace 链接内容未独立核实。"
+}

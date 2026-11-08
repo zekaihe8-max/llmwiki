@@ -1,3 +1,109 @@
+## 2026-11-08
+
+* **创建 / Creation**: 归档 [去苹果旗舰店看 iPhone Duo，雾面屏与折痕担忧未现](./sources/articles/visiting-apple-flagship-store-to-see-iphone-duo-matte-screen-and.md)。 / Filed [Visiting Apple flagship store to see iPhone Duo, matte screen and crease concerns not materialized](./sources/articles/visiting-apple-flagship-store-to-see-iphone-duo-matte-screen-and.md).
+
+* **创建 / Creation**: 归档 [南京金陵饭店前台与客房服务改用 AI 语音](./sources/articles/nanjing-jinling-hotel-front-desk-and-room-service-switch-to-ai-v.md)。 / Filed [Nanjing Jinling Hotel front desk and room service switch to AI voice](./sources/articles/nanjing-jinling-hotel-front-desk-and-room-service-switch-to-ai-v.md).
+
+* **创建 / Creation**: 归档 [AI 原生协作工作区：65 家公司，11 层](./sources/articles/ai-native-collaboration-workspaces-65-companies-11-layers.md)。 / Filed [AI-native collaboration workspaces: 65 companies, 11 layers](./sources/articles/ai-native-collaboration-workspaces-65-companies-11-layers.md).
+
+* **创建 / Creation**: 归档 [端侧模型地图：119 家公司，14 层](./sources/articles/on-device-model-map-119-companies-14-layers.md)。 / Filed [On-Device Model Map: 119 Companies, 14 Layers](./sources/articles/on-device-model-map-119-companies-14-layers.md).
+
+* **创建 / Creation**: 归档 [2026 年 GEO 市场地图：145 家公司，10 层](./sources/articles/2026-geo-market-map-145-companies-10-layers.md)。 / Filed [2026 GEO Market Map: 145 Companies, 10 Layers](./sources/articles/2026-geo-market-map-145-companies-10-layers.md).
+
+* **创建 / Creation**: 归档 [拆一支价值六位数的 AI 商业短片：Opus 5.5 与 Seedance 2.5 如何炼成森马 TVC](./sources/articles/dissecting-a-six-figure-ai-commercial-short-how-opus-5-5-and-see.md)。 / Filed [Dissecting a Six-Figure AI Commercial Short: How Opus 5.5 and Seedance 2.5 Produced a Senma TVC](./sources/articles/dissecting-a-six-figure-ai-commercial-short-how-opus-5-5-and-see.md).
+
+* **创建 / Creation**: 归档 [ChatGPT 封号的一个误区是「IP 乱飞没事」](./sources/articles/a-misconception-about-chatgpt-bans-is-ip-hopping-is-harmless.md)。 / Filed [A misconception about ChatGPT bans is "IP hopping is harmless"](./sources/articles/a-misconception-about-chatgpt-bans-is-ip-hopping-is-harmless.md).
+
+* **创建 / Creation**: 归档 [电话申请美国公司 EIN 的坑](./sources/articles/pitfalls-of-applying-for-us-company-ein-by-phone.md)。 / Filed [Pitfalls of Applying for US Company EIN by Phone](./sources/articles/pitfalls-of-applying-for-us-company-ein-by-phone.md).
+
+* **创建 / Creation**: 归档 [知了 / Cicada 更新到 1.5.1，Mac、Windows、Linux、Android 四平台全覆盖](./sources/articles/cicada-updated-to-1-5-1-now-covers-mac-windows-linux-and-android.md)。 / Filed [Cicada / 知了 updated to 1.5.1, now covers Mac, Windows, Linux, and Android](./sources/articles/cicada-updated-to-1-5-1-now-covers-mac-windows-linux-and-android.md).
+
+* **创建 / Creation**: 归档 [magpie 多账号路由与 5 小时额度轮换](./sources/articles/magpie-multi-account-routing-and-5-hour-quota-rotation.md)。 / Filed [magpie multi-account routing and 5-hour quota rotation](./sources/articles/magpie-multi-account-routing-and-5-hour-quota-rotation.md).
+
+* **创建 / Creation**: 归档 [Magpie 公网访问建议开启 TLS 证书](./sources/articles/magpie-public-access-recommends-enabling-tls-certificate.md)。 / Filed [Magpie Public Access Recommends Enabling TLS Certificate](./sources/articles/magpie-public-access-recommends-enabling-tls-certificate.md).
+
+* **创建 / Creation**: 归档 [Opus 5.5 写 iOS，像以前的大模型写落地页一样](./sources/articles/opus-5-5-writes-ios-apps-as-easily-as-old-models-wrote-landing-p.md)。 / Filed [Opus 5.5 Writes iOS Apps as Easily as Old Models Wrote Landing Pages](./sources/articles/opus-5-5-writes-ios-apps-as-easily-as-old-models-wrote-landing-p.md).
+
+* **创建 / Creation**: 归档 [Alma UI 层已用 MyGo 重构为原生版本](./sources/articles/alma-s-ui-layer-rebuilt-natively-with-mygo.md)。 / Filed [Alma's UI layer rebuilt natively with MyGo](./sources/articles/alma-s-ui-layer-rebuilt-natively-with-mygo.md).
+
+* **创建 / Creation**: 归档 [MatAnyone-E：基于稀疏内存传播的高效高分辨率视频抠图](./sources/articles/matanyone-e-sparse-memory-propagation-for-efficient-high-resolut.md)。 / Filed [MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting](./sources/articles/matanyone-e-sparse-memory-propagation-for-efficient-high-resolut.md).
+
+* **创建 / Creation**: 归档 [MatAnyone-E：消费级显卡也能跑的超高清视频抠像算法](./sources/articles/matanyone-e-uhd-video-matting-algorithm-for-consumer-gpus.md)。 / Filed [MatAnyone-E: UHD Video Matting Algorithm for Consumer GPUs](./sources/articles/matanyone-e-uhd-video-matting-algorithm-for-consumer-gpus.md).
+
+* **创建 / Creation**: 归档 [sand3d：面向 LLM 的 Python 3D 建模库](./sources/articles/sand3d-python-3d-modeling-library-built-for-llms.md)。 / Filed [sand3d: Python 3D Modeling Library Built for LLMs](./sources/articles/sand3d-python-3d-modeling-library-built-for-llms.md).
+
+* **创建 / Creation**: 归档 [Sand3D：给大模型用的 3D 建模库](./sources/articles/sand3d-3d-modeling-library-for-large-models.md)。 / Filed [Sand3D: 3D Modeling Library for Large Models](./sources/articles/sand3d-3d-modeling-library-for-large-models.md).
+
+* **创建 / Creation**: 归档 [METR 评估 Anthropic 研发加速：模型能力提升速度翻倍，AI 辅助研发成主力](./sources/articles/metr-evaluates-anthropic-r-d-acceleration-model-capability-impro.md)。 / Filed [METR Evaluates Anthropic R&D Acceleration: Model Capability Improvement Doubles, AI-Assisted R&D Primary Driver](./sources/articles/metr-evaluates-anthropic-r-d-acceleration-model-capability-impro.md).
+
+* **创建 / Creation**: 归档 [Grok Bot「基本废了」：路由与额度双砍](./sources/articles/grok-bot-basically-useless-routing-and-quota-both-cut.md)。 / Filed [Grok Bot "Basically Useless": Routing and Quota Both Cut](./sources/articles/grok-bot-basically-useless-routing-and-quota-both-cut.md).
+
+* **创建 / Creation**: 归档 [AI 恐怖漫剧模型对比：Wan3.0 成主力，SD 系列各有短板](./sources/articles/ai-horror-comic-drama-model-comparison-wan3-0-main-force-sd-seri.md)。 / Filed [AI Horror Comic Drama Model Comparison: Wan3.0 Main Force, SD Series Each Has Shortcomings](./sources/articles/ai-horror-comic-drama-model-comparison-wan3-0-main-force-sd-seri.md).
+
+* **创建 / Creation**: 归档 [Minimax H3 的性价比把他劝动了，推荐 Claude + H3 拍 AI 短剧](./sources/articles/minimax-h3-s-cost-effectiveness-convinces-him-recommending-claud.md)。 / Filed [Minimax H3's cost-effectiveness convinces him, recommending Claude + H3 for AI short dramas](./sources/articles/minimax-h3-s-cost-effectiveness-convinces-him-recommending-claud.md).
+
+* **创建 / Creation**: 归档 [自己做了一支 30 秒 AI 短片](./sources/articles/made-a-30-second-ai-short-film.md)。 / Filed [Made a 30-second AI short film](./sources/articles/made-a-30-second-ai-short-film.md).
+
+* **创建 / Creation**: 归档 [Orange AI：若 Personal Agent 能搞定欧洲签证，堪称「神」](./sources/articles/orange-ai-if-personal-agent-can-handle-eu-visa-it-s-god-tier.md)。 / Filed [Orange AI: If Personal Agent Can Handle EU Visa, It's 'God-tier'](./sources/articles/orange-ai-if-personal-agent-can-handle-eu-visa-it-s-god-tier.md).
+
+* **创建 / Creation**: 归档 [AI 漫剧开始亏钱](./sources/articles/ai-comics-start-losing-money.md)。 / Filed [AI comics start losing money](./sources/articles/ai-comics-start-losing-money.md).
+
+* **创建 / Creation**: 归档 [用好 Agent，先学会当老板](./sources/articles/to-use-agents-well-first-learn-to-be-the-boss.md)。 / Filed [To Use Agents Well, First Learn to Be the Boss](./sources/articles/to-use-agents-well-first-learn-to-be-the-boss.md).
+
+* **创建 / Creation**: 归档 [东京研究人员用 200 米光纤环路跑神经网络，计算成本和参数最多降 90%](./sources/articles/tokyo-researchers-run-neural-networks-on-200-meter-fiber-loop-cu.md)。 / Filed [Tokyo researchers run neural networks on 200-meter fiber loop, cutting compute cost and parameters by up to 90%](./sources/articles/tokyo-researchers-run-neural-networks-on-200-meter-fiber-loop-cu.md).
+
+* **创建 / Creation**: 归档 [内存升级和 GPU 云都在算金融账](./sources/articles/memory-upgrades-and-gpu-clouds-are-both-calculating-financial-ac.md)。 / Filed [Memory upgrades and GPU clouds are both calculating financial accounts](./sources/articles/memory-upgrades-and-gpu-clouds-are-both-calculating-financial-ac.md).
+
+* **创建 / Creation**: 归档 [MacBook Pro 升级 128GB 内存跑本地 AI，不如买 DeepSeek API Token 划算](./sources/articles/macbook-pro-128gb-ram-upgrade-for-local-ai-vs-buying-deepseek-ap.md)。 / Filed [MacBook Pro 128GB RAM Upgrade for Local AI vs Buying DeepSeek API Tokens](./sources/articles/macbook-pro-128gb-ram-upgrade-for-local-ai-vs-buying-deepseek-ap.md).
+
+* **创建 / Creation**: 归档 [暴论：AI 时代，90% 的 IDE 功能都可以砍掉](./sources/articles/hot-take-in-the-ai-era-90-of-ide-features-can-be-cut.md)。 / Filed [Hot take: In the AI era, 90% of IDE features can be cut](./sources/articles/hot-take-in-the-ai-era-90-of-ide-features-can-be-cut.md).
+
+* **创建 / Creation**: 归档 [对 Arete-27B 很火大](./sources/articles/furious-at-arete-27b.md)。 / Filed [Furious at Arete-27B](./sources/articles/furious-at-arete-27b.md).
+
+* **创建 / Creation**: 归档 [把 Grok Bot 额度腰斩读成补贴退潮](./sources/articles/reading-grok-bot-s-halved-quota-as-the-receding-ai-subsidy-tide.md)。 / Filed [Reading Grok Bot's Halved Quota as the Receding AI Subsidy Tide](./sources/articles/reading-grok-bot-s-halved-quota-as-the-receding-ai-subsidy-tide.md).
+
+* **创建 / Creation**: 归档 [正式介绍 199 元 Grok Bot 答疑群：已有 180 位朋友加入](./sources/articles/formally-introducing-the-199-yuan-grok-bot-q-a-group-180-friends.md)。 / Filed [Formally Introducing the 199 Yuan Grok Bot Q&A Group: 180 Friends Joined](./sources/articles/formally-introducing-the-199-yuan-grok-bot-q-a-group-180-friends.md).
+
+* **创建 / Creation**: 归档 [蓝哥转述：微信聊天记录可直发 Grok Bot，开源工具 Grok Bot Anywhere 发布](./sources/articles/blue-brother-retells-wechat-chat-records-can-be-sent-directly-to.md)。 / Filed [Blue Brother Retells: WeChat Chat Records Can Be Sent Directly to Grok Bot, Open-Source Tool Grok Bot Anywhere Released](./sources/articles/blue-brother-retells-wechat-chat-records-can-be-sent-directly-to.md).
+
+* **创建 / Creation**: 归档 [微信聊天记录直通 Grok Bot，开源工具 Grok Bot Anywhere 发布](./sources/articles/wechat-chat-records-connect-directly-to-grok-bot-open-source-too.md)。 / Filed [WeChat Chat Records Connect Directly to Grok Bot, Open-Source Tool Grok Bot Anywhere Released](./sources/articles/wechat-chat-records-connect-directly-to-grok-bot-open-source-too.md).
+
+* **创建 / Creation**: 归档 [Agent 说「完成了」，过程里可能藏着坑](./sources/articles/agent-says-done-but-the-process-may-hide-pitfalls.md)。 / Filed [Agent Says "Done", But the Process May Hide Pitfalls](./sources/articles/agent-says-done-but-the-process-may-hide-pitfalls.md).
+
+* **创建 / Creation**: 归档 [千问办公双11绑电商卖1分钱月会员，作者质疑留存与下沉](./sources/articles/qwen-office-binds-double-11-e-commerce-to-sell-1-cent-monthly-me.md)。 / Filed [Qwen Office binds Double 11 e-commerce to sell 1-cent monthly membership, author questions retention and mass-market sinking](./sources/articles/qwen-office-binds-double-11-e-commerce-to-sell-1-cent-monthly-me.md).
+
+* **创建 / Creation**: 归档 [rea-video：AI 智能体逐镜反向工程视频](./sources/articles/rea-video-ai-agents-reverse-engineer-videos-shot-by-shot.md)。 / Filed [rea-video: AI agents reverse-engineer videos shot by shot](./sources/articles/rea-video-ai-agents-reverse-engineer-videos-shot-by-shot.md).
+
+* **创建 / Creation**: 归档 [rea-video：让 Agent 逆向拆解与复刻任意视频](./sources/articles/rea-video-letting-agents-reverse-engineer-and-recreate-any-video.md)。 / Filed [rea-video: Letting Agents Reverse-Engineer and Recreate Any Video](./sources/articles/rea-video-letting-agents-reverse-engineer-and-recreate-any-video.md).
+
+* **创建 / Creation**: 归档 [Addy Osmani：管 Agent 不该让你更忙](./sources/articles/addy-osmani-managing-agents-shouldn-t-make-you-busier.md)。 / Filed [Addy Osmani: Managing Agents Shouldn't Make You Busier](./sources/articles/addy-osmani-managing-agents-shouldn-t-make-you-busier.md).
+
+* **创建 / Creation**: 归档 [OpenCode Browse 接管你正在用的浏览器](./sources/articles/opencode-browse-takes-over-the-browser-you-re-already-using.md)。 / Filed [OpenCode Browse Takes Over the Browser You're Already Using](./sources/articles/opencode-browse-takes-over-the-browser-you-re-already-using.md).
+
+* **创建 / Creation**: 归档 [Cua Driver Bench：后台干活别抢键鼠](./sources/articles/cua-driver-bench-background-work-without-stealing-keyboard-and-m.md)。 / Filed [Cua Driver Bench: Background Work Without Stealing Keyboard and Mouse](./sources/articles/cua-driver-bench-background-work-without-stealing-keyboard-and-m.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 3D 智能体校园控制中心（演示版）](./sources/articles/grok-bot-control-center-demo.md)。 / Filed [Grok Bot Control Center (demo)](./sources/articles/grok-bot-control-center-demo.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 3D Campus 开源：多 Bot 3D 虚拟办公园区](./sources/articles/grok-bot-3d-campus-open-source-3d-virtual-office-campus-for-mult.md)。 / Filed [Grok Bot 3D Campus Open-Source: 3D Virtual Office Campus for Multiple Bots](./sources/articles/grok-bot-3d-campus-open-source-3d-virtual-office-campus-for-mult.md).
+
+* **创建 / Creation**: 归档 [DSH 插件开发者 Token 激励计划开放意向申请](./sources/articles/dsh-plugin-developer-token-incentive-program-opens-intent-applic.md)。 / Filed [DSH Plugin Developer Token Incentive Program Opens Intent Applications](./sources/articles/dsh-plugin-developer-token-incentive-program-opens-intent-applic.md).
+
+* **创建 / Creation**: 归档 [6 家 AI Agent 开发者福利，外加 DeepSeek Harness 插件激励](./sources/articles/6-ai-agent-developer-benefits-plus-deepseek-harness-plugin-incen.md)。 / Filed [6 AI Agent Developer Benefits, Plus DeepSeek Harness Plugin Incentives](./sources/articles/6-ai-agent-developer-benefits-plus-deepseek-harness-plugin-incen.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 创造模式提示词合集](./sources/articles/deepseek-harness-creator-mode-prompt-collection.md)。 / Filed [DeepSeek Harness Creator Mode Prompt Collection](./sources/articles/deepseek-harness-creator-mode-prompt-collection.md).
+
+* **创建 / Creation**: 归档 [DSH 公开 7 套插件开发 Prompt](./sources/articles/dsh-releases-7-plugin-development-prompts.md)。 / Filed [DSH Releases 7 Plugin Development Prompts](./sources/articles/dsh-releases-7-plugin-development-prompts.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 也有消费级显卡能跑的小模型](./sources/articles/deepseek-also-has-small-models-runnable-on-consumer-gpus.md)。 / Filed [DeepSeek Also Has Small Models Runnable on Consumer GPUs](./sources/articles/deepseek-also-has-small-models-runnable-on-consumer-gpus.md).
+
+* **创建 / Creation**: 归档 [纽约时报给 Dario Amodei 写上市前人物稿](./sources/articles/nyt-publishes-pre-ipo-profile-of-anthropic-ceo-dario-amodei.md)。 / Filed [NYT publishes pre-IPO profile of Anthropic CEO Dario Amodei](./sources/articles/nyt-publishes-pre-ipo-profile-of-anthropic-ceo-dario-amodei.md).
+
+* **创建 / Creation**: 归档 [姚顺雨谈用户黏性：护城河在产品层而非模型层](./sources/articles/yao-shunyu-on-user-stickiness-moats-lie-at-the-product-layer-not.md)。 / Filed [Yao Shunyu on User Stickiness: Moats Lie at the Product Layer, Not the Model Layer](./sources/articles/yao-shunyu-on-user-stickiness-moats-lie-at-the-product-layer-not.md).
+
+* **创建 / Creation**: 归档 [AI 科学发现报告：研究人员如何使用 Claude](./sources/articles/ai-for-scientific-discovery-how-researchers-use-claude.md)。 / Filed [AI for Scientific Discovery: How Researchers Use Claude](./sources/articles/ai-for-scientific-discovery-how-researchers-use-claude.md).
+
+* **创建 / Creation**: 归档 [Anthropic 分析约 20.7 万次科研会话：数据分析与写作最重，构思与采集用得最少](./sources/articles/anthropic-analyzes-207-000-research-sessions-data-analysis-and-w.md)。 / Filed [Anthropic analyzes ~207,000 research sessions: data analysis and writing dominate, ideation and collection used least](./sources/articles/anthropic-analyzes-207-000-research-sessions-data-analysis-and-w.md).
+
 ## 2026-11-07
 
 * **创建 / Creation**: 归档 [封号与共享账号](./sources/articles/account-bans-and-shared-accounts.md)。 / Filed [Account Bans and Shared Accounts](./sources/articles/account-bans-and-shared-accounts.md).

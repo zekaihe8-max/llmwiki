@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:45:12.508Z",
+  "url": "https://github.com/Sandflow-ai/sand3d",
+  "slug": "43b226d3f8c0e87c",
+  "content_hash": "d41c0a554163886326a43723a5d2512227edfb1a7f27519190377354c61b3a7a",
+  "source": {
+    "path": "sources/articles/sand3d-python-3d-modeling-library-built-for-llms.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/ai-facing-fullstack-repo-map.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "全 API 仅 3,600 token、零件程序仅几百 token，极致体现 Token 效率设计。"
+    },
+    {
+      "path": "topics/ai-facing-fullstack-repo-map.md",
+      "action": "unchanged",
+      "reason": "API 设计为可放入提示词的“全栈仓图”，让 LLM 一次性掌握全部词表与规范。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "sand3d 是专为 Agent/LLM 设计的 3D 编程语言/词表，直接对应“面向 Agent 的编程语言”主题。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "原生导出 URDF/USD、提供 SimReady 等仿真就绪数据集，契合仿真就绪开放三维资产主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "sand3d 是专为 Agent/LLM 设计的 3D 编程语言/词表，直接对应“面向 Agent 的编程语言”主题。",
+    "topics/agents-md-token-efficiency.md": "全 API 仅 3,600 token、零件程序仅几百 token，极致体现 Token 效率设计。",
+    "topics/simulation-ready-open-3d-assets.md": "原生导出 URDF/USD、提供 SimReady 等仿真就绪数据集，契合仿真就绪开放三维资产主题。",
+    "topics/ai-facing-fullstack-repo-map.md": "API 设计为可放入提示词的“全栈仓图”，让 LLM 一次性掌握全部词表与规范。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sand3d-python-3d-modeling-library-built-for-llms.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/languages-for-agents.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/ai-facing-fullstack-repo-map.md"
+    ],
+    "selection_reasons": {
+      "topics/languages-for-agents.md": "sand3d 是专为 Agent/LLM 设计的 3D 编程语言/词表，直接对应“面向 Agent 的编程语言”主题。",
+      "topics/agents-md-token-efficiency.md": "全 API 仅 3,600 token、零件程序仅几百 token，极致体现 Token 效率设计。",
+      "topics/simulation-ready-open-3d-assets.md": "原生导出 URDF/USD、提供 SimReady 等仿真就绪数据集，契合仿真就绪开放三维资产主题。",
+      "topics/ai-facing-fullstack-repo-map.md": "API 设计为可放入提示词的“全栈仓图”，让 LLM 一次性掌握全部词表与规范。"
+    },
+    "notes": "Source URL is the GitHub repo; all facts drawn from the README. Version cited as 1.6.3 per CITATION.cff in repo.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sand3d-python-3d-modeling-library-built-for-llms.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:04:44.656Z",
+  "url": "https://x.com/xiaomovps/status/2119296103292301532",
+  "slug": "8827fd18e1192d50",
+  "content_hash": "b00fe6be91a55deaae9f17516ac080248147591eff87a44c206b6e7bed5313d9",
+  "source": {
+    "path": "sources/articles/6-ai-agent-developer-benefits-plus-deepseek-harness-plugin-incen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "多个福利涉及 API 额度与会员配额，与编程 Agent 体验与额度主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文涉及多个 Agent Harness/插件平台的开发者激励，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中提到 DeepSeek Harness 的 Token 激励，与超越 token 数的 Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及 ChatGPT Pro、Claude Ultra 等高端订阅福利，与高端 AI 订阅价值主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文涉及多个 Agent Harness/插件平台的开发者激励，与公司级 Agent Harness 主题相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文中提到 DeepSeek Harness 的 Token 激励，与超越 token 数的 Harness 对比主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "多个福利涉及 API 额度与会员配额，与编程 Agent 体验与额度主题相关。",
+    "topics/premium-ai-subscription-value.md": "文中提及 ChatGPT Pro、Claude Ultra 等高端订阅福利，与高端 AI 订阅价值主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/6-ai-agent-developer-benefits-plus-deepseek-harness-plugin-incen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "帖文涉及多个 Agent Harness/插件平台的开发者激励，与公司级 Agent Harness 主题相关。",
+      "topics/harness-comparison-beyond-tokens.md": "文中提到 DeepSeek Harness 的 Token 激励，与超越 token 数的 Harness 对比主题相关。",
+      "topics/coding-agent-ux-vs-quota.md": "多个福利涉及 API 额度与会员配额，与编程 Agent 体验与额度主题相关。",
+      "topics/premium-ai-subscription-value.md": "文中提及 ChatGPT Pro、Claude Ultra 等高端订阅福利，与高端 AI 订阅价值主题相关。"
+    },
+    "notes": "来源为 X 帖文，未独立核实各平台激励细节，所有平台声明均按帖文表述处理。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/6-ai-agent-developer-benefits-plus-deepseek-harness-plugin-incen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "7951c5b8003d194f",
+  "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+  "title": "报告",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "7951c5b8003d194fd80a2c2a77b8fcf6eebf83f35f89cfa2ce91b91fc1e4a37d",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:20.132Z",
+  "content_hash": "9beec974a7f091f4e64fc702744239c68f0e416d0c965c096d80c9828726ea2f",
+  "article_path": "articles/7951c5b8003d194f.md",
+  "fetched_url": "https://www.anthropic.com/research/how-researchers-use-claude",
+  "source_path": "sources/articles/ai-for-scientific-discovery-how-researchers-use-claude.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:00:30.307Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

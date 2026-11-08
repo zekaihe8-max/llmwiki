@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:35:17.363Z",
+  "url": "https://x.com/Gorden_Sun/status/2119251746207977952",
+  "slug": "2b066dfdc902463b",
+  "content_hash": "93908d3319e9596169d8b1b0c20c5959b87bd853e025f9b489648cd8fe9963bb",
+  "source": {
+    "path": "sources/articles/sand3d-3d-modeling-library-for-large-models.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/languages-for-agents.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提到可直接放进 AI 提示词中调用，涉及为智能体编写可调用的技能或工具。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "Sand3D 是面向大模型的 Python 库，可写入提示词调用，属于面向 Agent 的编程/接口语言范畴。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文章介绍的 Sand3D 开源超 10 万个 3D 组件并面向仿真与游戏引擎导出，与“仿真就绪开放三维资产”主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "文章介绍的 Sand3D 开源超 10 万个 3D 组件并面向仿真与游戏引擎导出，与“仿真就绪开放三维资产”主题高度相关。",
+    "topics/languages-for-agents.md": "Sand3D 是面向大模型的 Python 库，可写入提示词调用，属于面向 Agent 的编程/接口语言范畴。",
+    "topics/agent-skill-authoring.md": "帖文提到可直接放进 AI 提示词中调用，涉及为智能体编写可调用的技能或工具。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sand3d-3d-modeling-library-for-large-models.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/languages-for-agents.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/simulation-ready-open-3d-assets.md": "文章介绍的 Sand3D 开源超 10 万个 3D 组件并面向仿真与游戏引擎导出，与“仿真就绪开放三维资产”主题高度相关。",
+      "topics/languages-for-agents.md": "Sand3D 是面向大模型的 Python 库，可写入提示词调用，属于面向 Agent 的编程/接口语言范畴。",
+      "topics/agent-skill-authoring.md": "帖文提到可直接放进 AI 提示词中调用，涉及为智能体编写可调用的技能或工具。"
+    },
+    "notes": "来源为 X 帖文，GitHub 和 HuggingFace 链接内容未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sand3d-3d-modeling-library-for-large-models.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

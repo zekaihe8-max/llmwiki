@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文描述 AI Agent 直接操控浏览器，属于计算机使用（Computer Use）范畴。",
+    "topics/agent-auto-mode.md": "Browse 让 Agent 在后台自动执行点击、填表等操作，涉及智能体自动模式。",
+    "topics/loose-web-agent-harness-plugins.md": "通过浏览器扩展和 MCP 接入现有浏览器，属于宽松网页管控下的 Agent Harness 插件场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI Agent 直接操控浏览器，属于计算机使用（Computer Use）范畴。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Browse 让 Agent 在后台自动执行点击、填表等操作，涉及智能体自动模式。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "通过浏览器扩展和 MCP 接入现有浏览器，属于宽松网页管控下的 Agent Harness 插件场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文内容，未引入外部事实或 URL。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:34:48.738Z",
+  "url": "https://x.com/Gorden_Sun/status/2119278879907189214",
+  "slug": "e13e38d82bcb05c3",
+  "content_hash": "2941c0a01636dc3fae79c9698a2974835204466f03d1d764ce8edfb49085a2e5",
+  "source": {
+    "path": "sources/articles/metr-evaluates-anthropic-r-d-acceleration-model-capability-impro.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "METR 的评估工作本身即为 AI 评测的实例，涉及评测入口与记录机制。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "报告量化了模型能力提升速度的翻倍，且预测未来 12 个月无瓶颈，涉及 AI 任务时界与能力增长的核心议题。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "METR 作为第三方机构深入 Anthropic 内部进行独立评估，直接对应驻场第三方评估主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "METR 作为第三方机构深入 Anthropic 内部进行独立评估，直接对应驻场第三方评估主题。",
+    "topics/ai-task-horizon-growth.md": "报告量化了模型能力提升速度的翻倍，且预测未来 12 个月无瓶颈，涉及 AI 任务时界与能力增长的核心议题。",
+    "topics/ai-eval-work-record-gateway.md": "METR 的评估工作本身即为 AI 评测的实例，涉及评测入口与记录机制。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/metr-evaluates-anthropic-r-d-acceleration-model-capability-impro.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/embedded-third-party-evals.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/embedded-third-party-evals.md": "METR 作为第三方机构深入 Anthropic 内部进行独立评估，直接对应驻场第三方评估主题。",
+      "topics/ai-task-horizon-growth.md": "报告量化了模型能力提升速度的翻倍，且预测未来 12 个月无瓶颈，涉及 AI 任务时界与能力增长的核心议题。",
+      "topics/ai-eval-work-record-gateway.md": "METR 的评估工作本身即为 AI 评测的实例，涉及评测入口与记录机制。"
+    },
+    "notes": "Source is a single X post by Gorden Sun summarizing METR's blog report; claims attributed to the post (帖文称/作者称). The METR blog URL is truncated in the post (t.co short link).",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/metr-evaluates-anthropic-r-d-acceleration-model-capability-impro.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

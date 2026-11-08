@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:00:58.051Z",
+  "url": "https://x.com/dotey/status/2119264167483850884",
+  "slug": "0fb715faed5a2c4c",
+  "content_hash": "7b455bef9c70a46cee00f0deb4bd7816f4ec37d45caeebd65faa5dacea4588c0",
+  "source": {
+    "path": "sources/articles/yao-shunyu-on-user-stickiness-moats-lie-at-the-product-layer-not.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/ai-native-companies.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论AI产品层护城河而非模型层，与AI原生公司的产品策略相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心论点将私有数据与上下文视为护城河，与该主题的上下文工程方向相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章强调用户信任与产品体验中的黏性，与用户体验/交互维度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心论点将私有数据与上下文视为护城河，与该主题的上下文工程方向相近。",
+    "topics/ai-native-companies.md": "文章讨论AI产品层护城河而非模型层，与AI原生公司的产品策略相关。",
+    "topics/ux-dx-and-ax.md": "文章强调用户信任与产品体验中的黏性，与用户体验/交互维度相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yao-shunyu-on-user-stickiness-moats-lie-at-the-product-layer-not.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/ai-native-companies.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心论点将私有数据与上下文视为护城河，与该主题的上下文工程方向相近。",
+      "topics/ai-native-companies.md": "文章讨论AI产品层护城河而非模型层，与AI原生公司的产品策略相关。",
+      "topics/ux-dx-and-ax.md": "文章强调用户信任与产品体验中的黏性，与用户体验/交互维度相关。"
+    },
+    "notes": "无新主题创建，全部复用现有主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yao-shunyu-on-user-stickiness-moats-lie-at-the-product-layer-not.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

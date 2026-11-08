@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:17:57.657Z",
+  "url": "https://x.com/heydengai/status/2119373110461997293",
+  "slug": "709815f53d22b459",
+  "content_hash": "ac3f7908ee18c8c0cf31de9fbf1d1b8262e3143d23581ea072984ccd2a32f2e1",
+  "source": {
+    "path": "sources/articles/memory-upgrades-and-gpu-clouds-are-both-calculating-financial-ac.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/deepseek-inference-vs-aggregators.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与治理，与算力云供应链相关，但本文聚焦金融工程而非治理，保持不变。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "涉及自营推理与聚合平台的经济对比，与云厂商合同定价相关，但无需新增或修改。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及大厂推理成本与算力经济，与 GPU 云商业模式相近，但无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "涉及大厂推理成本与算力经济，与 GPU 云商业模式相近，但无需变更。",
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与治理，与算力云供应链相关，但本文聚焦金融工程而非治理，保持不变。",
+    "topics/deepseek-inference-vs-aggregators.md": "涉及自营推理与聚合平台的经济对比，与云厂商合同定价相关，但无需新增或修改。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/memory-upgrades-and-gpu-clouds-are-both-calculating-financial-ac.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/deepseek-inference-vs-aggregators.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "涉及大厂推理成本与算力经济，与 GPU 云商业模式相近，但无需变更。",
+      "topics/agent-compute-and-governance.md": "涉及智能体算力与治理，与算力云供应链相关，但本文聚焦金融工程而非治理，保持不变。",
+      "topics/deepseek-inference-vs-aggregators.md": "涉及自营推理与聚合平台的经济对比，与云厂商合同定价相关，但无需新增或修改。"
+    },
+    "notes": "所有关于商业模式与金融工程的表述均源自该帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/memory-upgrades-and-gpu-clouds-are-both-calculating-financial-ac.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

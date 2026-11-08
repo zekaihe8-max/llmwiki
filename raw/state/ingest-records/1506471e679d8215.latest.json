@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:48:35.084Z",
+  "url": "https://x.com/yetone/status/2119376688857715100",
+  "slug": "1506471e679d8215",
+  "content_hash": "86d068a000ed7a0727e5ae7fd596dd2421a99ef7dee8bfd3e7071b6ebf54eaf4",
+  "source": {
+    "path": "sources/articles/magpie-public-access-recommends-enabling-tls-certificate.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/phone-own-server-agent-workbench.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "标题提示涉及额度不足，该主题讨论编程 Agent 体验与额度，最为贴近。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "该主题对比托管与自建代理节点，与自签证书或前置 Caddy/nginx 的选择相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "该主题讨论个人 Agent 云环境运维，与 Magpie 自托管公网访问相关。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "该主题涉及手机连自有服务器操控 Agent 工作台，与远程 HTTPS 访问场景相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "标题提示涉及额度不足，该主题讨论编程 Agent 体验与额度，最为贴近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "该主题讨论个人 Agent 云环境运维，与 Magpie 自托管公网访问相关。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "该主题对比托管与自建代理节点，与自签证书或前置 Caddy/nginx 的选择相关。",
+    "topics/phone-own-server-agent-workbench.md": "该主题涉及手机连自有服务器操控 Agent 工作台，与远程 HTTPS 访问场景相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/magpie-public-access-recommends-enabling-tls-certificate.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/phone-own-server-agent-workbench.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "标题提示涉及额度不足，该主题讨论编程 Agent 体验与额度，最为贴近。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "该主题讨论个人 Agent 云环境运维，与 Magpie 自托管公网访问相关。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "该主题对比托管与自建代理节点，与自签证书或前置 Caddy/nginx 的选择相关。",
+      "topics/phone-own-server-agent-workbench.md": "该主题涉及手机连自有服务器操控 Agent 工作台，与远程 HTTPS 访问场景相关。"
+    },
+    "notes": "内容仅为单条 X 帖文，所有技术主张均使用「帖文称」表述，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/magpie-public-access-recommends-enabling-tls-certificate.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "af9b06a9e59f9df9",
+  "url": "https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-zh.html",
+  "title": "Prompt 合集",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "af9b06a9e59f9df9fb9db4a5d2b50795887ea0ccdf314206d0b57873b64caa7e",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:22.274Z",
+  "content_hash": "bef197094ff6fa861dea45a16af467652fd2658838e351181d1f983ea576f61a",
+  "article_path": "articles/af9b06a9e59f9df9.md",
+  "fetched_url": "https://cdn.deepseek.com/harness/dsh-creator-mode-prompt-collection-zh.html",
+  "source_path": "sources/articles/deepseek-harness-creator-mode-prompt-collection.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:04:13.483Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

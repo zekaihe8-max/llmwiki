@@ -1,0 +1,23 @@
+{
+  "slug": "34568beb7ba2667f",
+  "url": "https://x.com/yetone/status/2119353062951428178",
+  "title": "magpie 公网访问和额度不够用",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "34568beb7ba2667febf1bbb406bd3a1e81df0e94368afa1e195c7218bba69803",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:36.585Z",
+  "content_hash": "15af6658c16903298ceb655eb675a3acfab446c57aa4dc1a26c47711a182d1a4",
+  "article_path": "articles/34568beb7ba2667f.md",
+  "fetched_url": "https://x.com/yetone/status/2119353062951428178",
+  "source_path": "sources/articles/magpie-multi-account-routing-and-5-hour-quota-rotation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:49:18.142Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

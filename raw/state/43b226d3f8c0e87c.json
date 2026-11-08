@@ -1,0 +1,23 @@
+{
+  "slug": "43b226d3f8c0e87c",
+  "url": "https://github.com/Sandflow-ai/sand3d",
+  "title": "GitHub",
+  "digest": "2026-11-08-cn-x.md",
+  "status": "filed",
+  "hash": "43b226d3f8c0e87c3fdf7fa8316496f119acaaf775fc37647e450f03a34c5e8d",
+  "first_seen": "2026-11-08T11:58:19.650Z",
+  "last_seen": "2026-11-08T11:58:19.650Z",
+  "fetched_at": "2026-11-08T11:58:33.687Z",
+  "content_hash": "d41c0a554163886326a43723a5d2512227edfb1a7f27519190377354c61b3a7a",
+  "article_path": "articles/43b226d3f8c0e87c.md",
+  "fetched_url": "https://github.com/Sandflow-ai/sand3d",
+  "source_path": "sources/articles/sand3d-python-3d-modeling-library-built-for-llms.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T12:45:12.510Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

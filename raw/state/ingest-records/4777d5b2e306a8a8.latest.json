@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:03:50.522Z",
+  "url": "https://x.com/xiaomovps/status/2119340144822214767",
+  "slug": "4777d5b2e306a8a8",
+  "content_hash": "5d7c6ca5b8e459cd6376c0bed724b8b7bc6795f01da753520e50ffad4182fc1e",
+  "source": {
+    "path": "sources/articles/dsh-releases-7-plugin-development-prompts.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "插件提示词开发属于 Agent 技能/插件编写范畴，可复用该主题。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 插件生态与界面表现，与插件开发主题相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 插件开发提示词，与该主题的 Agent Harness 插件最为贴近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "文章提到未来可能无需寻找现成插件，直接让 AI 开发，与先复用再编写的理念相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 插件开发提示词，与该主题的 Agent Harness 插件最为贴近。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件生态与界面表现，与插件开发主题相关。",
+    "topics/agent-skill-authoring.md": "插件提示词开发属于 Agent 技能/插件编写范畴，可复用该主题。",
+    "topics/reuse-before-write.md": "文章提到未来可能无需寻找现成插件，直接让 AI 开发，与先复用再编写的理念相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dsh-releases-7-plugin-development-prompts.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/agent-skill-authoring.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 插件开发提示词，与该主题的 Agent Harness 插件最为贴近。",
+      "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件生态与界面表现，与插件开发主题相关。",
+      "topics/agent-skill-authoring.md": "插件提示词开发属于 Agent 技能/插件编写范畴，可复用该主题。",
+      "topics/reuse-before-write.md": "文章提到未来可能无需寻找现成插件，直接让 AI 开发，与先复用再编写的理念相关。"
+    },
+    "notes": "文中出现的 CDN 接为短链接形式，未展开完整地址，未编造任何 URL 或额外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dsh-releases-7-plugin-development-prompts.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

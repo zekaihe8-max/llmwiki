@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:47:52.018Z",
+  "url": "https://x.com/yetone/status/2119346364996100127",
+  "slug": "297437ff282b308d",
+  "content_hash": "a59210180f72a00e1241d9eb89726168a52a6dd691792f6c8814fa93792a5bf3",
+  "source": {
+    "path": "sources/articles/opus-5-5-writes-ios-apps-as-easily-as-old-models-wrote-landing-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及 iOS 应用开发与适配，与帖文提及的 iOS 应用最相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "强调代码重于规格，与大模型直接编写应用的观点相近。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "涉及用 AI 技能复刻原生感 App，与 iOS 原生应用开发语境相近。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 编程（Vibe Coding），与帖文关于大模型写代码的论述相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "涉及 iOS 应用开发与适配，与帖文提及的 iOS 应用最相关。",
+    "topics/skills-stack-native-app-recreation.md": "涉及用 AI 技能复刻原生感 App，与 iOS 原生应用开发语境相近。",
+    "topics/vibe-coding-memory-paradox.md": "涉及 AI 编程（Vibe Coding），与帖文关于大模型写代码的论述相关。",
+    "topics/code-over-spec.md": "强调代码重于规格，与大模型直接编写应用的观点相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/opus-5-5-writes-ios-apps-as-easily-as-old-models-wrote-landing-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-app-iphone-duo-adaptation.md",
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-app-iphone-duo-adaptation.md": "涉及 iOS 应用开发与适配，与帖文提及的 iOS 应用最相关。",
+      "topics/skills-stack-native-app-recreation.md": "涉及用 AI 技能复刻原生感 App，与 iOS 原生应用开发语境相近。",
+      "topics/vibe-coding-memory-paradox.md": "涉及 AI 编程（Vibe Coding），与帖文关于大模型写代码的论述相关。",
+      "topics/code-over-spec.md": "强调代码重于规格，与大模型直接编写应用的观点相近。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/opus-5-5-writes-ios-apps-as-easily-as-old-models-wrote-landing-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

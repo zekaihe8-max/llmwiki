@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章聚焦 AI 在科研工作流中的应用与适配，与本报告的科研任务使用分析主题高度相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "本报告区分了研究人员放心交给 AI 的任务（如数据分析、写作）与较少使用的任务，与该话题的任务交付边界讨论相近。",
+    "topics/ai-task-horizon-growth.md": "报告涉及 AI 能力与任务类型的匹配及对科研产出的推演，与 AI 任务时界与能力增长议题相关。",
+    "topics/agentic-ai-foundation.md": "报告中包含 Claude Code 等代理式编程工具的使用分析，与智能体基础设施话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI 在科研工作流中的应用与适配，与本报告的科研任务使用分析主题高度相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "本报告区分了研究人员放心交给 AI 的任务（如数据分析、写作）与较少使用的任务，与该话题的任务交付边界讨论相近。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "报告涉及 AI 能力与任务类型的匹配及对科研产出的推演，与 AI 任务时界与能力增长议题相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "报告中包含 Claude Code 等代理式编程工具的使用分析，与智能体基础设施话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自所提供文章，未引入外部 URL 或未经核实的平台声明。"
+}

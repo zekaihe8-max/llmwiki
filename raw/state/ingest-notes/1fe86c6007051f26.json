@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章核心正是把编程 Agent 视为需管理的团队成员，与“个人 Agent 当包工头调度编程 Agent”主题高度相关。",
+    "topics/agent-auto-mode.md": "文中强调 Agent 自行验证、带证据交付，与智能体自动模式下的自检与闭环直接相关。",
+    "topics/workflows-before-agents.md": "文中提到无人值守任务前需明确完成条件、验证方式与审批人，体现工作流优先于智能体。",
+    "topics/agent-scaled-engineering.md": "文中讨论并行上限、交付周期与返工等规模化工程问题，与智能体规模化工程主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心正是把编程 Agent 视为需管理的团队成员，与“个人 Agent 当包工头调度编程 Agent”主题高度相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中强调 Agent 自行验证、带证据交付，与智能体自动模式下的自检与闭环直接相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到无人值守任务前需明确完成条件、验证方式与审批人，体现工作流优先于智能体。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中讨论并行上限、交付周期与返工等规模化工程问题，与智能体规模化工程主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 meng shao 转发的 Addy Osmani 帖文，未引用超出截图文本的外部事实。"
+}

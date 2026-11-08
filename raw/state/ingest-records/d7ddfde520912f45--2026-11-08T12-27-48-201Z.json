@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:27:48.201Z",
+  "url": "https://x.com/0xlangeai/status/2119389983391859149",
+  "slug": "d7ddfde520912f45",
+  "content_hash": "489bcc1f2666999d48a85187db08402c72d7cfa3f0a045b534211f3fe34d98cb",
+  "source": {
+    "path": "sources/articles/ai-horror-comic-drama-model-comparison-wan3-0-main-force-sd-seri.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 视频制作流程与模型选用，与智能体视频剪辑主题相近。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "文中提到剪映叠加 UI/对话框及媒体素材组装，与 AI 辅助剪辑与媒体笔记相近。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中提到“游戏内味”、3A 游戏风格与第一人称镜头，与 Vibe Gaming 模型拐点相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章涉及 AI 视频制作流程与模型选用，与智能体视频剪辑主题相近。",
+    "topics/vibe-gaming-model-inflection.md": "文中提到“游戏内味”、3A 游戏风格与第一人称镜头，与 Vibe Gaming 模型拐点相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "文中提到剪映叠加 UI/对话框及媒体素材组装，与 AI 辅助剪辑与媒体笔记相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-horror-comic-drama-model-comparison-wan3-0-main-force-sd-seri.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/ai-assisted-clipping-and-notes.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章涉及 AI 视频制作流程与模型选用，与智能体视频剪辑主题相近。",
+      "topics/vibe-gaming-model-inflection.md": "文中提到“游戏内味”、3A 游戏风格与第一人称镜头，与 Vibe Gaming 模型拐点相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "文中提到剪映叠加 UI/对话框及媒体素材组装，与 AI 辅助剪辑与媒体笔记相近。"
+    },
+    "notes": "来源为 X 帖文，模型优劣与积分消耗均为作者针对该片的主观测试感受，非通用结论。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-horror-comic-drama-model-comparison-wan3-0-main-force-sd-seri.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

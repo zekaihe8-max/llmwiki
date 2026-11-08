@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-08T12:05:20.368Z",
+  "url": "https://x.com/xiaomovps/status/2119261159681560750",
+  "slug": "330561435bca847d",
+  "content_hash": "c100eaf484201efe584e8cc588b843dac6897a0f281ef02f61cae9b78b78f281",
+  "source": {
+    "path": "sources/articles/grok-bot-3d-campus-open-source-3d-virtual-office-campus-for-mult.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "管理十几个 Bot 的可视化运维涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 生态与额度使用，与文中提到的 Grok Bot 管理和额度消耗相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文中多 Bot 可视化管理属于多智能体基建与协调场景。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "3D 园区充当 Agent 团队的调度面板，用于安排任务与审批。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 生态与额度使用，与文中提到的 Grok Bot 管理和额度消耗相关。",
+    "topics/multiagent-infra-four-problems.md": "文中多 Bot 可视化管理属于多智能体基建与协调场景。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "3D 园区充当 Agent 团队的调度面板，用于安排任务与审批。",
+    "topics/agent-scaled-engineering.md": "管理十几个 Bot 的可视化运维涉及智能体规模化工程。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grok-bot-3d-campus-open-source-3d-virtual-office-campus-for-mult.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 生态与额度使用，与文中提到的 Grok Bot 管理和额度消耗相关。",
+      "topics/multiagent-infra-four-problems.md": "文中多 Bot 可视化管理属于多智能体基建与协调场景。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "3D 园区充当 Agent 团队的调度面板，用于安排任务与审批。",
+      "topics/agent-scaled-engineering.md": "管理十几个 Bot 的可视化运维涉及智能体规模化工程。"
+    },
+    "notes": "GitHub 链接在原文中被截断，仅保留作者提供的演示站点域名；未核实的平台事实均以帖文称表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grok-bot-3d-campus-open-source-3d-virtual-office-campus-for-mult.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

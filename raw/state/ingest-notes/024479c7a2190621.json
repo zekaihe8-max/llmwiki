@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文聚焦消费级显卡本地推理大模型，与消费级 GPU AI 算力解锁主题直接相关",
+    "topics/local-open-assistant-models.md": "文章介绍可在本地运行的开源小参数助手模型，与本地开放助手与机器人小模型主题重合",
+    "topics/open-weight-frontier-models.md": "DeepSeek 所列模型均为开放权重并可下载，与开放权重前沿模型主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦消费级显卡本地推理大模型，与消费级 GPU AI 算力解锁主题直接相关"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章介绍可在本地运行的开源小参数助手模型，与本地开放助手与机器人小模型主题重合"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "DeepSeek 所列模型均为开放权重并可下载，与开放权重前沿模型主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

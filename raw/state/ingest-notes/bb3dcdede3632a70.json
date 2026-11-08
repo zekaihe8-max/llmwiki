@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/programmable-edge-compute.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "本地开放助手与小模型主题与端侧模型图谱最贴近，可复用。",
+    "topics/open-weight-frontier-models.md": "图谱中多家开放权重模型与运行器（如 llama.cpp、Ollama）与该主题相关。",
+    "topics/programmable-edge-compute.md": "端侧 NPU 与边缘计算层涉及可编程边缘计算，可复用该主题。",
+    "topics/gpu-ai-compute-unlock.md": "消费级芯片与 NPU 算力层与消费级 GPU AI 算力主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本地开放助手与小模型主题与端侧模型图谱最贴近，可复用。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "图谱中多家开放权重模型与运行器（如 llama.cpp、Ollama）与该主题相关。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "端侧 NPU 与边缘计算层涉及可编程边缘计算，可复用该主题。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "消费级芯片与 NPU 算力层与消费级 GPU AI 算力主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文及其附带图片链接，未独立核实估值与下载量等公司自报数据。"
+}

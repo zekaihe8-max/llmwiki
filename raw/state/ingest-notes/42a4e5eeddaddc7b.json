@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "rea-video 是面向智能体的视频拆解与重制规划工具，直接对应智能体视频剪辑主题。",
+    "topics/open-source-in-ai-assistant-editing.md": "该仓库是开源工具，旨在装入 AI 助手做自然语言视频分析与剪辑决策。",
+    "topics/agent-skill-authoring.md": "rea-video 以 CLI 技能形式安装到 ~/.claude、~/.codex、~/.agents，属于 Agent Skill 编写与接入场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "rea-video 是面向智能体的视频拆解与重制规划工具，直接对应智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "该仓库是开源工具，旨在装入 AI 助手做自然语言视频分析与剪辑决策。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "rea-video 以 CLI 技能形式安装到 ~/.claude、~/.codex、~/.agents，属于 Agent Skill 编写与接入场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来自提供的 README 内容，未编造 URL 或数据。"
+}
