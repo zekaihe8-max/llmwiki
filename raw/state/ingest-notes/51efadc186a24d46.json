@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "屏幕录制工具与计算机使用和交互记录场景相关",
+    "topics/ai-assisted-clipping-and-notes.md": "录屏后一键导出可视为媒体剪藏与笔记场景",
+    "topics/ai-code-vs-messy-code-double-standard.md": "帖文提及 AI 新增 6.43 万行代码，涉及 AI 代码产出与质量讨论"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "屏幕录制工具与计算机使用和交互记录场景相关"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "录屏后一键导出可视为媒体剪藏与笔记场景"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "帖文提及 AI 新增 6.43 万行代码，涉及 AI 代码产出与质量讨论"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未核实平台额度、账号状态及代码行数等事实，已在摘要与 bullets 中使用“帖文称”限定。"
+}

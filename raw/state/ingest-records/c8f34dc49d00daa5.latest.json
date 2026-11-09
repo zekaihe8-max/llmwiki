@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:09:52.379Z",
+  "url": "https://x.com/hwchase17/status/2118739844696277338",
+  "slug": "c8f34dc49d00daa5",
+  "content_hash": "c66cef8e1409dea4629e2438aef17d3f81554e170434d288f63b2d28cabd5593",
+  "source": {
+    "path": "sources/articles/langchain-weekly-update-deep-agents-async-subagents-mda-browser.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/computer-use.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Deep Agents 异步子智能体，与智能体自动模式主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文提到 LangSmith 在多云平台上的 BYOC，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文提到 MDA 中浏览器使用的调优与工具集测试，与 Computer Use 主题相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文描述子智能体在后台工作而主循环保持对话，与将子 Agent 折进主循环相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文提到 Deep Agents 异步子智能体，与智能体自动模式主题相关。",
+    "topics/fold-subagents-into-main-loop.md": "帖文描述子智能体在后台工作而主循环保持对话，与将子 Agent 折进主循环相关。",
+    "topics/computer-use.md": "帖文提到 MDA 中浏览器使用的调优与工具集测试，与 Computer Use 主题相关。",
+    "topics/agent-scaled-engineering.md": "帖文提到 LangSmith 在多云平台上的 BYOC，与智能体规模化工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langchain-weekly-update-deep-agents-async-subagents-mda-browser.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/computer-use.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文提到 Deep Agents 异步子智能体，与智能体自动模式主题相关。",
+      "topics/fold-subagents-into-main-loop.md": "帖文描述子智能体在后台工作而主循环保持对话，与将子 Agent 折进主循环相关。",
+      "topics/computer-use.md": "帖文提到 MDA 中浏览器使用的调优与工具集测试，与 Computer Use 主题相关。",
+      "topics/agent-scaled-engineering.md": "帖文提到 LangSmith 在多云平台上的 BYOC，与智能体规模化工程相关。"
+    },
+    "notes": "所有主张均基于该 X 帖文，未独立核实；发布日期及互动数据均引用帖文显示内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langchain-weekly-update-deep-agents-async-subagents-mda-browser.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

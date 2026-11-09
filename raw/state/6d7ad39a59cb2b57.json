@@ -1,0 +1,23 @@
+{
+  "slug": "6d7ad39a59cb2b57",
+  "url": "https://x.com/levie/status/2119502716770902234",
+  "title": "Aaron Levie (@levie)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "6d7ad39a59cb2b571edaa7cd7ff2053e94e45d007ad01879f6786918a032f332",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:40.631Z",
+  "content_hash": "70c2d62962f399b5034e8b7d7bf4d29db814aaaf126814bb90a7746ef649eb5e",
+  "article_path": "articles/6d7ad39a59cb2b57.md",
+  "fetched_url": "https://x.com/levie/status/2119502716770902234",
+  "source_path": "sources/articles/aaron-levie-ai-agents-can-control-apis-and-existing-systems-beco.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:08:14.868Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:05:55.560Z",
+  "url": "https://addyosmani.com/blog/coding-agents-manager",
+  "slug": "321473ca332c57bd",
+  "content_hash": "1d1c066b179001a059e4394f8b00a7efcd64aef0c04d3ab526688131fcb02330",
+  "source": {
+    "path": "sources/articles/your-ai-coding-agents-need-a-manager.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-worktree-cleanup.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中将 AI 编程比作管理分布式团队，涉及智能体并行治理与 WIP 限制，与“智能体算力与治理”主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心论述如何以团队管理方式编排多个并行编程智能体，与“智能体规模化工程”主题直接相关。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "文中明确提到使用 Git worktree 隔离并行智能体会话，与该主题的 worktree 使用场景相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章详细讨论哪些工作可完全授权给智能体、哪些需要人工检查点，与“哪些活已放心交给 AI”主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心论述如何以团队管理方式编排多个并行编程智能体，与“智能体规模化工程”主题直接相关。",
+    "topics/agent-worktree-cleanup.md": "文中明确提到使用 Git worktree 隔离并行智能体会话，与该主题的 worktree 使用场景相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "文章详细讨论哪些工作可完全授权给智能体、哪些需要人工检查点，与“哪些活已放心交给 AI”主题相关。",
+    "topics/agent-compute-and-governance.md": "文中将 AI 编程比作管理分布式团队，涉及智能体并行治理与 WIP 限制，与“智能体算力与治理”主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/your-ai-coding-agents-need-a-manager.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-worktree-cleanup.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心论述如何以团队管理方式编排多个并行编程智能体，与“智能体规模化工程”主题直接相关。",
+      "topics/agent-worktree-cleanup.md": "文中明确提到使用 Git worktree 隔离并行智能体会话，与该主题的 worktree 使用场景相关。",
+      "topics/tasks-confidently-handed-to-ai.md": "文章详细讨论哪些工作可完全授权给智能体、哪些需要人工检查点，与“哪些活已放心交给 AI”主题相关。",
+      "topics/agent-compute-and-governance.md": "文中将 AI 编程比作管理分布式团队，涉及智能体并行治理与 WIP 限制，与“智能体算力与治理”主题相关。"
+    },
+    "notes": "文章结尾被截断，未包含完整的“简单操作系统”最后一步及后续内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/your-ai-coding-agents-need-a-manager.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

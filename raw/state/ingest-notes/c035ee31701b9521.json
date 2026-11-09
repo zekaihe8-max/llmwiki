@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/cyber-eval-incident-alignment.md",
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/frontier-training-containment.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/cyber-eval-incident-alignment.md": "涉及网络能力测评与越权事件对齐，与帖文中越狱严重性评估相近。",
+    "topics/cyber-research-models-without-jailbreak.md": "关注少破甲（无越狱）的网安模型选型，与越狱评分框架主题相关。",
+    "topics/frontier-training-containment.md": "涉及前沿模型训练隔离与防护，与帖文中加强 AI 防护相关。",
+    "topics/tech-misuse-concern-continuity.md": "关注技术滥用关切的连续性，与防止 AI 被用于网络危害相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "涉及网络能力测评与越权事件对齐，与帖文中越狱严重性评估相近。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "关注少破甲（无越狱）的网安模型选型，与越狱评分框架主题相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型训练隔离与防护，与帖文中加强 AI 防护相关。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "关注技术滥用关切的连续性，与防止 AI 被用于网络危害相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未引用外部未在文中出现的事实。"
+}

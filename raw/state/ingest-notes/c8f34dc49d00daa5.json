@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/computer-use.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文提到 Deep Agents 异步子智能体，与智能体自动模式主题相关。",
+    "topics/fold-subagents-into-main-loop.md": "帖文描述子智能体在后台工作而主循环保持对话，与将子 Agent 折进主循环相关。",
+    "topics/computer-use.md": "帖文提到 MDA 中浏览器使用的调优与工具集测试，与 Computer Use 主题相关。",
+    "topics/agent-scaled-engineering.md": "帖文提到 LangSmith 在多云平台上的 BYOC，与智能体规模化工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Deep Agents 异步子智能体，与智能体自动模式主题相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文描述子智能体在后台工作而主循环保持对话，与将子 Agent 折进主循环相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文提到 MDA 中浏览器使用的调优与工具集测试，与 Computer Use 主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文提到 LangSmith 在多云平台上的 BYOC，与智能体规模化工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该 X 帖文，未独立核实；发布日期及互动数据均引用帖文显示内容。"
+}

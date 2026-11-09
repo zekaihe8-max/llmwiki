@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:05:22.491Z",
+  "url": "https://x.com/addyosmani/status/2119332146485891501",
+  "slug": "6c191c8cd8155b82",
+  "content_hash": "c1ed76627c69561aa88f98f3ff0d67bcb5ca46953b447d44f9540c6a60f9c0f4",
+  "source": {
+    "path": "sources/articles/your-coding-agents-made-you-a-manager.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 CLAUDE.md 作为持久化团队知识与验证命令的载体，与该主题相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文中关于“提前纠偏、快速重置”以及硬强制与软建议的区分，与该主题的引导校准相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章“设定清晰上下文”章节与该主题的上下文工程方向相近，保持原样即可。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "标题与核心论点高度契合，都把编程 Agent 视为需要被管理的团队成员。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "标题与核心论点高度契合，都把编程 Agent 视为需要被管理的团队成员。",
+    "topics/context-engineering-for-agents.md": "文章“设定清晰上下文”章节与该主题的上下文工程方向相近，保持原样即可。",
+    "topics/calibrating-ai-guidance.md": "文中关于“提前纠偏、快速重置”以及硬强制与软建议的区分，与该主题的引导校准相关。",
+    "topics/agents-md-token-efficiency.md": "文中多次提到 CLAUDE.md 作为持久化团队知识与验证命令的载体，与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/your-coding-agents-made-you-a-manager.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "标题与核心论点高度契合，都把编程 Agent 视为需要被管理的团队成员。",
+      "topics/context-engineering-for-agents.md": "文章“设定清晰上下文”章节与该主题的上下文工程方向相近，保持原样即可。",
+      "topics/calibrating-ai-guidance.md": "文中关于“提前纠偏、快速重置”以及硬强制与软建议的区分，与该主题的引导校准相关。",
+      "topics/agents-md-token-efficiency.md": "文中多次提到 CLAUDE.md 作为持久化团队知识与验证命令的载体，与该主题相关。"
+    },
+    "notes": "所有主张均源自 Addy Osmani 在 X 上的帖文，未引入文章外事实；未涉及模型路由、配额、限速或供应商护城河等需特别标注为作者观点的内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/your-coding-agents-made-you-a-manager.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

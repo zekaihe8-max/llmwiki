@@ -1,0 +1,23 @@
+{
+  "slug": "c035ee31701b9521",
+  "url": "https://x.com/OpenAI/status/2118795218099253606",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "c035ee31701b9521720308636b1879df0548cc9459e98122eee06aa21c7a1568",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:35.041Z",
+  "content_hash": "ef9d4758095c1c02f85db967c0eaf06a15ce701f06670b92cf6e9016d4ec4a36",
+  "article_path": "articles/c035ee31701b9521.md",
+  "fetched_url": "https://x.com/OpenAI/status/2118795218099253606",
+  "source_path": "sources/articles/openai-and-fmf-release-jailbreak-rating-framework-for-frontier-c.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:03:52.320Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

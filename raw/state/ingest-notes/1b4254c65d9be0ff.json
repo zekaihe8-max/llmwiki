@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "涉及 Agent 能力与组件定义，与 json-render 组件目录概念相近",
+    "topics/agent-skills-open-standard.md": "涉及 Agent 技能开放标准，与跨平台卡片规范相关",
+    "topics/agent-in-chat-bug-feedback.md": "涉及对话内 Agent 交互，与 Chat SDK Agent 场景相近",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计↔代码与生成式 UI，与流式卡片渲染相关"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 能力与组件定义，与 json-render 组件目录概念相近"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 技能开放标准，与跨平台卡片规范相关"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "涉及对话内 Agent 交互，与 Chat SDK Agent 场景相近"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计↔代码与生成式 UI，与流式卡片渲染相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 Vercel Changelog，未引用文中未出现的外部事实。"
+}

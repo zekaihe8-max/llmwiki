@@ -1,3 +1,71 @@
+## 2026-11-09
+
+* **创建 / Creation**: 归档 [文档：Claude 仅在部分地区可用](./sources/articles/docs-claude-available-only-in-certain-regions.md)。 / Filed [Docs: Claude available only in certain regions](./sources/articles/docs-claude-available-only-in-certain-regions.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 定位 Agent 时代操作系统](./sources/articles/deepseek-harness-positioned-as-agent-era-operating-system.md)。 / Filed [DeepSeek Harness Positioned as Agent Era Operating System](./sources/articles/deepseek-harness-positioned-as-agent-era-operating-system.md).
+
+* **创建 / Creation**: 归档 [铁锤人：billion-context 让模型自主压缩编程 Agent 上下文](./sources/articles/tie-churen-billion-context-lets-models-self-compress-coding-agen.md)。 / Filed [Tie Churen: billion-context Lets Models Self-Compress Coding Agent Context](./sources/articles/tie-churen-billion-context-lets-models-self-compress-coding-agen.md).
+
+* **创建 / Creation**: 归档 [CapWise（灵录）录屏工具基本可用，AI 新增 6.43 万行代码](./sources/articles/capwise-linglu-screen-recorder-basically-usable-ai-added-64-300.md)。 / Filed [CapWise (Linglu) screen recorder basically usable; AI added 64,300 lines of code](./sources/articles/capwise-linglu-screen-recorder-basically-usable-ai-added-64-300.md).
+
+* **创建 / Creation**: 归档 [AI 走查提示词：让 Agent 主动审视产品页面与交互](./sources/articles/ai-walkthrough-prompt-letting-agents-proactively-inspect-product.md)。 / Filed [AI Walkthrough Prompt: Letting Agents Proactively Inspect Product Pages and Interactions](./sources/articles/ai-walkthrough-prompt-letting-agents-proactively-inspect-product.md).
+
+* **创建 / Creation**: 归档 [Claude Code 自动记忆堆积会让智能体越用越笨，Anthropic 发布“梦境”整理帖](./sources/articles/claude-code-auto-memory-bloat-makes-agents-dumber-over-time-anth.md)。 / Filed [Claude Code auto-memory bloat makes agents dumber over time; Anthropic publishes 'dreaming' cleanup post](./sources/articles/claude-code-auto-memory-bloat-makes-agents-dumber-over-time-anth.md).
+
+* **创建 / Creation**: 归档 [Vox 发文推荐 AGENTS.md 加入六条省 Token 准则](./sources/articles/vox-recommends-adding-six-token-saving-lines-to-agents-md.md)。 / Filed [Vox recommends adding six token-saving lines to AGENTS.md](./sources/articles/vox-recommends-adding-six-token-saving-lines-to-agents-md.md).
+
+* **创建 / Creation**: 归档 [Vox 呼吁 vibe 编码者让 AI 挖掘隐式状态机并统筹 UX、DX、AX](./sources/articles/vox-urges-vibe-coders-to-have-ai-uncover-implicit-state-machines.md)。 / Filed [Vox urges vibe coders to have AI uncover implicit state machines and balance UX, DX, and AX](./sources/articles/vox-urges-vibe-coders-to-have-ai-uncover-implicit-state-machines.md).
+
+* **创建 / Creation**: 归档 [Logan Kilpatrick：丰富智能渗透物理世界，通过代码加速工程](./sources/articles/logan-kilpatrick-abundant-intelligence-permeates-physical-world.md)。 / Filed [Logan Kilpatrick: Abundant Intelligence Permeates Physical World, Accelerating Engineering via Code](./sources/articles/logan-kilpatrick-abundant-intelligence-permeates-physical-world.md).
+
+* **创建 / Creation**: 归档 [卡帕蒂用 Claude Code 三分钟做出 TristanTube，两小时过滤出 HackerTube](./sources/articles/karpathy-builds-tristantube-in-three-minutes-with-claude-code-an.md)。 / Filed [Karpathy Builds TristanTube in Three Minutes with Claude Code and Filters HackerTube in Two Hours](./sources/articles/karpathy-builds-tristantube-in-three-minutes-with-claude-code-an.md).
+
+* **创建 / Creation**: 归档 [数据与算力只是乘数，更聪明的 AI 方法才能更好地扩展](./sources/articles/data-and-compute-are-only-multipliers-cleverer-ai-methods-scale.md)。 / Filed [Data and Compute Are Only Multipliers; Cleverer AI Methods Scale Better](./sources/articles/data-and-compute-are-only-multipliers-cleverer-ai-methods-scale.md).
+
+* **创建 / Creation**: 归档 [Anthropic 数据：AI 可承担 27%–52% 科研人员时间](./sources/articles/anthropic-data-ai-could-take-on-27-52-of-researcher-time.md)。 / Filed [Anthropic data: AI could take on 27–52% of researcher time](./sources/articles/anthropic-data-ai-could-take-on-27-52-of-researcher-time.md).
+
+* **创建 / Creation**: 归档 [LLM 让调查新闻进入黄金时代](./sources/articles/llms-usher-in-a-golden-age-of-investigative-journalism.md)。 / Filed [LLMs Usher in a Golden Age of Investigative Journalism](./sources/articles/llms-usher-in-a-golden-age-of-investigative-journalism.md).
+
+* **创建 / Creation**: 归档 [艾森·莫利克称近期 AI 模型事实核查能力超越人类专家](./sources/articles/ethan-mollick-says-recent-ai-models-surpass-human-experts-in-fac.md)。 / Filed [Ethan Mollick Says Recent AI Models Surpass Human Experts in Fact-Checking](./sources/articles/ethan-mollick-says-recent-ai-models-surpass-human-experts-in-fac.md).
+
+* **创建 / Creation**: 归档 [Lenny Rachitsky 与 Tulsee Doshi 探讨 AI 时代 PM 价值回升](./sources/articles/lenny-rachitsky-and-tulsee-doshi-discuss-the-resurgent-value-of.md)。 / Filed [Lenny Rachitsky and Tulsee Doshi Discuss the Resurgent Value of Product Managers in the AI Era](./sources/articles/lenny-rachitsky-and-tulsee-doshi-discuss-the-resurgent-value-of.md).
+
+* **创建 / Creation**: 归档 [LangChain 本周更新：Deep Agents 异步子智能体、MDA 浏览器使用调优与 LangSmith 多云 BYOC](./sources/articles/langchain-weekly-update-deep-agents-async-subagents-mda-browser.md)。 / Filed [LangChain Weekly Update: Deep Agents Async Subagents, MDA Browser-Use Tuning, and LangSmith Multi-Cloud BYOC](./sources/articles/langchain-weekly-update-deep-agents-async-subagents-mda-browser.md).
+
+* **创建 / Creation**: 归档 [Harrison Chase：长任务不应阻塞聊天，异步子智能体保持响应](./sources/articles/harrison-chase-long-tasks-shouldn-t-block-the-chat-async-subagen.md)。 / Filed [Harrison Chase: Long tasks shouldn't block the chat; async subagents keep agents responsive](./sources/articles/harrison-chase-long-tasks-shouldn-t-block-the-chat-async-subagen.md).
+
+* **创建 / Creation**: 归档 [libghostty 1.0 发布：ABI 稳定，数百项目与数千万用户采用](./sources/articles/libghostty-1-0-released-abi-stable-adopted-by-hundreds-of-projec.md)。 / Filed [libghostty 1.0 Released: ABI Stable, Adopted by Hundreds of Projects and Tens of Millions of Users](./sources/articles/libghostty-1-0-released-abi-stable-adopted-by-hundreds-of-projec.md).
+
+* **创建 / Creation**: 归档 [Aaron Levie：AI 智能体可掌控 API 与现有系统，成跨行业自主协作者](./sources/articles/aaron-levie-ai-agents-can-control-apis-and-existing-systems-beco.md)。 / Filed [Aaron Levie: AI Agents Can Control APIs and Existing Systems, Becoming Autonomous Collaborators Across Industries](./sources/articles/aaron-levie-ai-agents-can-control-apis-and-existing-systems-beco.md).
+
+* **创建 / Creation**: 归档 [Aaron Levie：AI 编程杠杆正在拉大工程师产出差距](./sources/articles/aaron-levie-ai-coding-leverage-is-widening-engineer-productivity.md)。 / Filed [Aaron Levie: AI coding leverage is widening engineer productivity gaps](./sources/articles/aaron-levie-ai-coding-leverage-is-widening-engineer-productivity.md).
+
+* **创建 / Creation**: 归档 [Chat SDK Agent 可通过 json-render 流式渲染生成式 UI](./sources/articles/chat-sdk-agents-stream-generative-ui-via-json-render.md)。 / Filed [Chat SDK Agents Stream Generative UI via json-render](./sources/articles/chat-sdk-agents-stream-generative-ui-via-json-render.md).
+
+* **创建 / Creation**: 归档 [Guillermo Rauch：生成式 UI 将成对话智能体主导交互范式](./sources/articles/guillermo-rauch-generative-ui-as-the-dominant-human-agent-intera.md)。 / Filed [Guillermo Rauch: Generative UI as the Dominant Human-Agent Interaction Paradigm](./sources/articles/guillermo-rauch-generative-ui-as-the-dominant-human-agent-intera.md).
+
+* **创建 / Creation**: 归档 [你的 AI 编程智能体需要一位经理](./sources/articles/your-ai-coding-agents-need-a-manager.md)。 / Filed [Your AI coding agents need a manager](./sources/articles/your-ai-coding-agents-need-a-manager.md).
+
+* **创建 / Creation**: 归档 [你的编程 Agent 让你当上了经理](./sources/articles/your-coding-agents-made-you-a-manager.md)。 / Filed [Your coding agents made you a manager](./sources/articles/your-coding-agents-made-you-a-manager.md).
+
+* **创建 / Creation**: 归档 [吉姆·范预告真实机器人实时自主演示](./sources/articles/jim-fan-teases-real-time-autonomous-real-robot-demo.md)。 / Filed [Jim Fan Teases Real-Time Autonomous Real Robot Demo](./sources/articles/jim-fan-teases-real-time-autonomous-real-robot-demo.md).
+
+* **创建 / Creation**: 归档 [OpenAI 开发者发布“Tomorrow”预热推文](./sources/articles/openai-developers-posts-tomorrow-teaser-tweet.md)。 / Filed [OpenAI Developers Posts “Tomorrow” Teaser Tweet](./sources/articles/openai-developers-posts-tomorrow-teaser-tweet.md).
+
+* **创建 / Creation**: 归档 [OpenAI 与 FMF 联合发布前沿网络威胁越狱评分框架](./sources/articles/openai-and-fmf-release-jailbreak-rating-framework-for-frontier-c.md)。 / Filed [OpenAI and FMF Release Jailbreak Rating Framework for Frontier Cyber Threats](./sources/articles/openai-and-fmf-release-jailbreak-rating-framework-for-frontier-c.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 称 AI 智能体可加速加密压力测试，发现 RSA 弱点](./sources/articles/google-deepmind-says-ai-agents-can-accelerate-encryption-stress.md)。 / Filed [Google DeepMind Says AI Agents Can Accelerate Encryption Stress-Testing and Find RSA Weaknesses](./sources/articles/google-deepmind-says-ai-agents-can-accelerate-encryption-stress.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布 BioBasicsBench 湿实验 AI 智能体评测基准](./sources/articles/openai-releases-biobasicsbench-wet-lab-ai-agent-benchmark.md)。 / Filed [OpenAI Releases BioBasicsBench Wet-Lab AI Agent Benchmark](./sources/articles/openai-releases-biobasicsbench-wet-lab-ai-agent-benchmark.md).
+
+* **创建 / Creation**: 归档 [教 AI 构建科学模型](./sources/articles/teaching-ai-to-build-scientific-models.md)。 / Filed [Teaching AI to build scientific models](./sources/articles/teaching-ai-to-build-scientific-models.md).
+
+* **创建 / Creation**: 归档 [Anthropic 发布科学博客：AI 开始协助构建科学模型](./sources/articles/anthropic-publishes-science-blog-ai-begins-to-help-build-scienti.md)。 / Filed [Anthropic Publishes Science Blog: AI Begins to Help Build Scientific Models](./sources/articles/anthropic-publishes-science-blog-ai-begins-to-help-build-scienti.md).
+
+* **创建 / Creation**: 归档 [智能体记忆的组成部分](./sources/articles/the-components-of-agent-memory.md)。 / Filed [The components of agent memory](./sources/articles/the-components-of-agent-memory.md).
+
+* **创建 / Creation**: 归档 [Anthropic 发布 Claude“梦境”机制，帮助模型整理学习内容并纠正错误](./sources/articles/anthropic-releases-claude-dreaming-mechanism-to-help-model-organ.md)。 / Filed [Anthropic Releases Claude "Dreaming" Mechanism to Help Model Organize Learning and Correct Mistakes](./sources/articles/anthropic-releases-claude-dreaming-mechanism-to-help-model-organ.md).
+
 ## 2026-11-08
 
 * **创建 / Creation**: 归档 [去苹果旗舰店看 iPhone Duo，雾面屏与折痕担忧未现](./sources/articles/visiting-apple-flagship-store-to-see-iphone-duo-matte-screen-and.md)。 / Filed [Visiting Apple flagship store to see iPhone Duo, matte screen and crease concerns not materialized](./sources/articles/visiting-apple-flagship-store-to-see-iphone-duo-matte-screen-and.md).

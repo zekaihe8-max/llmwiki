@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:02:54.679Z",
+  "url": "https://x.com/OpenAI/status/2118782708767965238",
+  "slug": "43ec3d3dd70a17e3",
+  "content_hash": "d2cb7c38e6d36d483ed8259f72bef0d299807e79f5ffe55ef77c7979034f8252",
+  "source": {
+    "path": "sources/articles/openai-releases-biobasicsbench-wet-lab-ai-agent-benchmark.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章围绕 AI 评测基准，与评测入口与干活记录主题相近。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 在真实湿实验科学任务中的应用，与科研实践适配相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及公开基准与评测质量，属于相近评测话题。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章介绍新公开基准，与公开榜单质量审查主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章围绕 AI 评测基准，与评测入口与干活记录主题相近。",
+    "topics/community-evals-vs-score-hype.md": "涉及公开基准与评测质量，属于相近评测话题。",
+    "topics/ai-peer-review-science-adaptation.md": "内容涉及 AI 在真实湿实验科学任务中的应用，与科研实践适配相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章介绍新公开基准，与公开榜单质量审查主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-releases-biobasicsbench-wet-lab-ai-agent-benchmark.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "文章围绕 AI 评测基准，与评测入口与干活记录主题相近。",
+      "topics/community-evals-vs-score-hype.md": "涉及公开基准与评测质量，属于相近评测话题。",
+      "topics/ai-peer-review-science-adaptation.md": "内容涉及 AI 在真实湿实验科学任务中的应用，与科研实践适配相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "文章介绍新公开基准，与公开榜单质量审查主题相近。"
+    },
+    "notes": "来源为 OpenAI 在 X 上的帖文，发布于 2026 年 11 月 6 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-releases-biobasicsbench-wet-lab-ai-agent-benchmark.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

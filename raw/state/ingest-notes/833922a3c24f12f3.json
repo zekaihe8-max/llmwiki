@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "该主题涉及 AI 与科研实践的结合，与科学建模中 AI 辅助研究最为贴近。",
+    "topics/interactive-world-models.md": "该主题涉及世界模型，与科学建模和系统预测的概念相近。",
+    "topics/simulation-ready-open-3d-assets.md": "该主题涉及仿真资产，与科学模型用于模拟真实系统的用例相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "该主题涉及 AI 与科研实践的结合，与科学建模中 AI 辅助研究最为贴近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "该主题涉及世界模型，与科学建模和系统预测的概念相近。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "该主题涉及仿真资产，与科学模型用于模拟真实系统的用例相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未引用外部事实；日期和互动数据直接来自抓取的帖文。"
+}

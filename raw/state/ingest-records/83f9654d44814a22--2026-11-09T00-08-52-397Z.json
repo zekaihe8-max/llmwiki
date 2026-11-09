@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:08:52.397Z",
+  "url": "https://x.com/mitchellh/status/2118848233762078971",
+  "slug": "83f9654d44814a22",
+  "content_hash": "14757347e4092f094d512f23e44a96500ee9879e5ed18c8e723ddaadb33f77d9",
+  "source": {
+    "path": "sources/articles/libghostty-1-0-released-abi-stable-adopted-by-hundreds-of-projec.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "libghostty 作为核心库配合社区语言绑定与上百个衍生项目，体现精简核心与社区扩展"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文强调基于 libghostty 构建而非重复编写终端模拟器，与“先复用再编写”相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中涉及 TUI 渲染、开发者工具与终端体验，与开发者体验和终端用户体验相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "帖文强调基于 libghostty 构建而非重复编写终端模拟器，与“先复用再编写”相关",
+    "topics/minimal-core-community-extensions.md": "libghostty 作为核心库配合社区语言绑定与上百个衍生项目，体现精简核心与社区扩展",
+    "topics/ux-dx-and-ax.md": "文中涉及 TUI 渲染、开发者工具与终端体验，与开发者体验和终端用户体验相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/libghostty-1-0-released-abi-stable-adopted-by-hundreds-of-projec.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/reuse-before-write.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/reuse-before-write.md": "帖文强调基于 libghostty 构建而非重复编写终端模拟器，与“先复用再编写”相关",
+      "topics/minimal-core-community-extensions.md": "libghostty 作为核心库配合社区语言绑定与上百个衍生项目，体现精简核心与社区扩展",
+      "topics/ux-dx-and-ax.md": "文中涉及 TUI 渲染、开发者工具与终端体验，与开发者体验和终端用户体验相关"
+    },
+    "notes": "所有内容仅基于提供的 X 帖文，未引入外部事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/libghostty-1-0-released-abi-stable-adopted-by-hundreds-of-projec.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "f0247d2be6d23fda",
+  "url": "https://www.anthropic.com/research/components-of-agent-memory",
+  "title": "文章",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "f0247d2be6d23fda27989bba50a71943168bf8e5f68168df2bbd40b50bab75f3",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:33.447Z",
+  "content_hash": "b1c826461cfdc98c111019f619741a64464037a3b15ff7d087f7781e1b0f14dd",
+  "article_path": "articles/f0247d2be6d23fda.md",
+  "fetched_url": "https://www.anthropic.com/research/components-of-agent-memory",
+  "source_path": "sources/articles/the-components-of-agent-memory.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:00:26.004Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "5ecc97c6b03881c4",
+  "url": "https://x.com/fchollet/status/2119201339020648849",
+  "title": "François Chollet (@fchollet)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "5ecc97c6b03881c477a7506ec3b92ff52d15de5143327cd810a5526929d98786",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:45.095Z",
+  "content_hash": "ed8bd7223aaca8facd88b95ec0daae4e1a0f19a0b8f30071795a72b8c584cd4b",
+  "article_path": "articles/5ecc97c6b03881c4.md",
+  "fetched_url": "https://x.com/fchollet/status/2119201339020648849",
+  "source_path": "sources/articles/data-and-compute-are-only-multipliers-cleverer-ai-methods-scale.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:12:31.266Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

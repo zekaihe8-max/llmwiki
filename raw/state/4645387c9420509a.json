@@ -1,0 +1,23 @@
+{
+  "slug": "4645387c9420509a",
+  "url": "https://x.com/Voxyz_ai/status/2119414635485130801",
+  "title": "Vox (@Voxyz_ai)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "4645387c9420509a37094975a7303f09a83d4ee3d306f874f19698b483471fde",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:50.086Z",
+  "content_hash": "2d67956f34e4a28335003cdc1c00059d66cdcd10a0f02b0bdef6c4bf0b5b1f4c",
+  "article_path": "articles/4645387c9420509a.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2119414635485130801",
+  "source_path": "sources/articles/claude-code-auto-memory-bloat-makes-agents-dumber-over-time-anth.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:15:21.913Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/software-factory.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章讨论智能体在工程领域的规模化产出提升，与该主题直接相关。",
+    "topics/ai-task-horizon-growth.md": "作者提到模型能承担更大、更难的工作，对应 AI 任务时界增长。",
+    "topics/software-factory.md": "核心场景为软件工程产出的数量级跃升，与软件工厂主题相近。",
+    "topics/agentic-ai-foundation.md": "文中强调多智能体协作与工作流搭建，属于 Agentic AI 基础能力范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讨论智能体在工程领域的规模化产出提升，与该主题直接相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "作者提到模型能承担更大、更难的工作，对应 AI 任务时界增长。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "核心场景为软件工程产出的数量级跃升，与软件工厂主题相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中强调多智能体协作与工作流搭建，属于 Agentic AI 基础能力范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的主张均已用“帖文称”或“作者认为”限定。"
+}
