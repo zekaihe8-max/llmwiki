@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:04:59.859Z",
+  "url": "https://x.com/DrJimFan/status/2119455465910542552",
+  "slug": "e8f85fecc68ff2e0",
+  "content_hash": "88a38570e2ab80d91675e56661ce55fc0fa7bfb5e96da611c7ead7fb43a63a80",
+  "source": {
+    "path": "sources/articles/jim-fan-teases-real-time-autonomous-real-robot-demo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/interactive-world-models.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦自主机器人与智能体演示，与智能体基础主题相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "自主操作与计算机/机器人使用场景相近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "实时机器人演示与交互式世界模型领域相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文聚焦自主机器人与智能体演示，与智能体基础主题相近。",
+    "topics/interactive-world-models.md": "实时机器人演示与交互式世界模型领域相关。",
+    "topics/computer-use.md": "自主操作与计算机/机器人使用场景相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/jim-fan-teases-real-time-autonomous-real-robot-demo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/interactive-world-models.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "帖文聚焦自主机器人与智能体演示，与智能体基础主题相近。",
+      "topics/interactive-world-models.md": "实时机器人演示与交互式世界模型领域相关。",
+      "topics/computer-use.md": "自主操作与计算机/机器人使用场景相近。"
+    },
+    "notes": "原文极短，未涉及模型路由、配额或供应商护城河等声明，所有细节均仅来自该帖文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/jim-fan-teases-real-time-autonomous-real-robot-demo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

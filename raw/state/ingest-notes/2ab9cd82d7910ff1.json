@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文中 AI “无需等待指令，自行决定顺序与优先级”体现智能体自动模式。",
+    "topics/fold-subagents-into-main-loop.md": "高优先级问题“交子 Agent 修复”对应把子 Agent 折进主循环。",
+    "topics/ux-dx-and-ax.md": "内容聚焦产品页面、交互细节与 UX 优化。",
+    "topics/divergent-tasks-human-design-gate.md": "走查验收属于设计评审与质量把关环节。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文中 AI “无需等待指令，自行决定顺序与优先级”体现智能体自动模式。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "高优先级问题“交子 Agent 修复”对应把子 Agent 折进主循环。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "内容聚焦产品页面、交互细节与 UX 优化。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "走查验收属于设计评审与质量把关环节。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章显示发帖时间为 2026 年 11 月 8 日，浏览约 1,063 次，互动数据为 9 条回复、15 次点赞、16 次收藏。"
+}

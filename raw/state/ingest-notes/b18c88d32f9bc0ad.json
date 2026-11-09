@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/software-factory.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "OpenAI 开发者账号预热可能涉及智能体或自动化模式发布，与该主题领域相近。",
+    "topics/software-factory.md": "OpenAI 作为 AI 原生软件平台，其开发者预热与软件工厂类主题有关联。",
+    "topics/usage-limit-ab-tests.md": "开发者平台预告常伴随用量或订阅政策变化，与用量上限测试主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "OpenAI 开发者账号预热可能涉及智能体或自动化模式发布，与该主题领域相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "OpenAI 作为 AI 原生软件平台，其开发者预热与软件工厂类主题有关联。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "开发者平台预告常伴随用量或订阅政策变化，与用量上限测试主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文极度简短，仅包含“Tomorrow.”及时间戳，未披露具体宣布事项，因此未引入新主题。"
+}

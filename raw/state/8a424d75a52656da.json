@@ -1,0 +1,23 @@
+{
+  "slug": "8a424d75a52656da",
+  "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+  "title": "文章",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "8a424d75a52656da5062b8ac6d5800d6b2f796315ef1b38fc7d594aec59b0d68",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:34.091Z",
+  "content_hash": "c5b01b92124169c4b94cd7685dbec8a1ca0283cdd8c61fdc49011ce69dc15e1f",
+  "article_path": "articles/8a424d75a52656da.md",
+  "fetched_url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+  "source_path": "sources/articles/teaching-ai-to-build-scientific-models.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:02:23.913Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

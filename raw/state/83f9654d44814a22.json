@@ -1,0 +1,23 @@
+{
+  "slug": "83f9654d44814a22",
+  "url": "https://x.com/mitchellh/status/2118848233762078971",
+  "title": "Mitchell Hashimoto (@mitchellh)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "83f9654d44814a22da32ae8b0ddf13fdccf22fc8165fd8c48cc0d02f464e64c8",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:41.482Z",
+  "content_hash": "14757347e4092f094d512f23e44a96500ee9879e5ed18c8e723ddaadb33f77d9",
+  "article_path": "articles/83f9654d44814a22.md",
+  "fetched_url": "https://x.com/mitchellh/status/2118848233762078971",
+  "source_path": "sources/articles/libghostty-1-0-released-abi-stable-adopted-by-hundreds-of-projec.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:08:52.397Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

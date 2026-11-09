@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:08:14.868Z",
+  "url": "https://x.com/levie/status/2119502716770902234",
+  "slug": "6d7ad39a59cb2b57",
+  "content_hash": "70c2d62962f399b5034e8b7d7bf4d29db814aaaf126814bb90a7746ef649eb5e",
+  "source": {
+    "path": "sources/articles/aaron-levie-ai-agents-can-control-apis-and-existing-systems-beco.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/computer-use.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文核心论述智能体自主执行流程，与“智能体自动模式”主题高度相关，现有条目已覆盖，无需新建。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到智能体覆盖每个职能和行业，涉及规模化部署，与“智能体规模化工程”相关，现有条目已覆盖。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文阐述智能体基础能力与系统集成，属 Agentic AI Foundation 范畴，现有条目已覆盖。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中明确提到“computer and tool use”及模型控制系统，与“Computer Use”主题直接对应，现有条目已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文核心论述智能体自主执行流程，与“智能体自动模式”主题高度相关，现有条目已覆盖，无需新建。",
+    "topics/computer-use.md": "文中明确提到“computer and tool use”及模型控制系统，与“Computer Use”主题直接对应，现有条目已覆盖。",
+    "topics/agentic-ai-foundation.md": "帖文阐述智能体基础能力与系统集成，属 Agentic AI Foundation 范畴，现有条目已覆盖。",
+    "topics/agent-scaled-engineering.md": "文中提到智能体覆盖每个职能和行业，涉及规模化部署，与“智能体规模化工程”相关，现有条目已覆盖。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/aaron-levie-ai-agents-can-control-apis-and-existing-systems-beco.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/computer-use.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文核心论述智能体自主执行流程，与“智能体自动模式”主题高度相关，现有条目已覆盖，无需新建。",
+      "topics/computer-use.md": "文中明确提到“computer and tool use”及模型控制系统，与“Computer Use”主题直接对应，现有条目已覆盖。",
+      "topics/agentic-ai-foundation.md": "帖文阐述智能体基础能力与系统集成，属 Agentic AI Foundation 范畴，现有条目已覆盖。",
+      "topics/agent-scaled-engineering.md": "文中提到智能体覆盖每个职能和行业，涉及规模化部署，与“智能体规模化工程”相关，现有条目已覆盖。"
+    },
+    "notes": "文章发布时间显示为 2026 年 11 月 8 日，所有主张均来源于该帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/aaron-levie-ai-agents-can-control-apis-and-existing-systems-beco.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "5f721228af3682c2",
+  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "title": "公告",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "failed",
+  "hash": "5f721228af3682c2417b4131d4680ee3211f1024fcf682ecae1568fe5c5140e2",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-08T23:58:34.594Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-08T23:58:34.594Z"
+}

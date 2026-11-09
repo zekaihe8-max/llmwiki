@@ -1,0 +1,23 @@
+{
+  "slug": "4764ce597582a5dd",
+  "url": "https://x.com/AnthropicAI/status/2118814753154064501",
+  "title": "Anthropic (@AnthropicAI)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "4764ce597582a5dd8c2c830edd4db7d025808daf5e06547fb648bc874f3e723a",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:31.996Z",
+  "content_hash": "4f1be08174afe414401aecfe9df55ff22abaa9b73604eb616aef6ee201611079",
+  "article_path": "articles/4764ce597582a5dd.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2118814753154064501",
+  "source_path": "sources/articles/anthropic-releases-claude-dreaming-mechanism-to-help-model-organ.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-08T23:59:39.822Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

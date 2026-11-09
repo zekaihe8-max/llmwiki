@@ -1,0 +1,23 @@
+{
+  "slug": "7d02c97e1358a6fd",
+  "url": "https://x.com/karpathy/status/2119114537442189652",
+  "title": "Andrej Karpathy (@karpathy)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "7d02c97e1358a6fde772b861813312c61635a3d13cc8b285cd03ddd13e7e1af5",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:45.394Z",
+  "content_hash": "acbb45443dcbc9780e977fb87470ae487402ad59cec1b8197d8b775fa2e805fc",
+  "article_path": "articles/7d02c97e1358a6fd.md",
+  "fetched_url": "https://x.com/karpathy/status/2119114537442189652",
+  "source_path": "sources/articles/karpathy-builds-tristantube-in-three-minutes-with-claude-code-an.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:13:09.710Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

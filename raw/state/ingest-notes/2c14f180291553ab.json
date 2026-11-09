@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "帖文直接围绕 AGENTS.md 与 Token 效率展开，与该主题高度相关。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文中的省 Token 做法属于编程 Agent 的工具与开销范畴。",
+    "topics/context-engineering-for-agents.md": "帖文通过子代理、diff 等方式控制上下文，与 Agent 上下文工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文直接围绕 AGENTS.md 与 Token 效率展开，与该主题高度相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文中的省 Token 做法属于编程 Agent 的工具与开销范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文通过子代理、diff 等方式控制上下文，与 Agent 上下文工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台帖文，未独立核实其主张。"
+}

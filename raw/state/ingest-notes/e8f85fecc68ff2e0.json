@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/interactive-world-models.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文聚焦自主机器人与智能体演示，与智能体基础主题相近。",
+    "topics/interactive-world-models.md": "实时机器人演示与交互式世界模型领域相关。",
+    "topics/computer-use.md": "自主操作与计算机/机器人使用场景相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦自主机器人与智能体演示，与智能体基础主题相近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "实时机器人演示与交互式世界模型领域相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "自主操作与计算机/机器人使用场景相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文极短，未涉及模型路由、配额或供应商护城河等声明，所有细节均仅来自该帖文。"
+}

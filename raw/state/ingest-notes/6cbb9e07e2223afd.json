@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "涉及 Claude 订阅与访问管控，最接近区域可用性话题。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与可用性限制，与地区不可用相近。",
+    "topics/claude-on-google-cloud.md": "涉及 Claude 平台部署与渠道可用性。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "涉及托管平台与代理节点，与托管代理文档语境相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 订阅与访问管控，最接近区域可用性话题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与可用性限制，与地区不可用相近。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 平台部署与渠道可用性。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "涉及托管平台与代理节点，与托管代理文档语境相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文仅为区域不可用提示页，未包含托管代理实质内容，故不新建话题，全部标记为 unchanged。"
+}

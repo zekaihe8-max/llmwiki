@@ -1,0 +1,23 @@
+{
+  "slug": "43ec3d3dd70a17e3",
+  "url": "https://x.com/OpenAI/status/2118782708767965238",
+  "title": "OpenAI (@OpenAI)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "43ec3d3dd70a17e3d15d4d01759e1d130347424917f151126752b66d0c4f74bb",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:34.187Z",
+  "content_hash": "d2cb7c38e6d36d483ed8259f72bef0d299807e79f5ffe55ef77c7979034f8252",
+  "article_path": "articles/43ec3d3dd70a17e3.md",
+  "fetched_url": "https://x.com/OpenAI/status/2118782708767965238",
+  "source_path": "sources/articles/openai-releases-biobasicsbench-wet-lab-ai-agent-benchmark.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:02:54.680Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

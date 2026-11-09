@@ -1,0 +1,23 @@
+{
+  "slug": "1b4254c65d9be0ff",
+  "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+  "title": "Changelog",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "1b4254c65d9be0ff84bf7a0bd48115389883b6fa0ef6dbc891fc32cb760cca95",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:38.993Z",
+  "content_hash": "6921eacefca6859a7cebc4f9fd31a87df48770eb5cbba2beccbe95b1bb4cff0f",
+  "article_path": "articles/1b4254c65d9be0ff.md",
+  "fetched_url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
+  "source_path": "sources/articles/chat-sdk-agents-stream-generative-ui-via-json-render.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:07:17.930Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

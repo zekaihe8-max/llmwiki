@@ -1,0 +1,23 @@
+{
+  "slug": "652121a522a09cd3",
+  "url": "https://x.com/hwchase17/status/2119190885871312911",
+  "title": "Harrison Chase (@hwchase17)",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "652121a522a09cd38d89f9db51d143fa387ee1810f78961cc062b1d938d97638",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:41.786Z",
+  "content_hash": "ae7e4e14e99747a80d28adace975d5dd712de387b40562271014c6a3b267fba8",
+  "article_path": "articles/652121a522a09cd3.md",
+  "fetched_url": "https://x.com/hwchase17/status/2119190885871312911",
+  "source_path": "sources/articles/harrison-chase-long-tasks-shouldn-t-block-the-chat-async-subagen.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:09:31.110Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

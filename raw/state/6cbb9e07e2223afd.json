@@ -1,0 +1,23 @@
+{
+  "slug": "6cbb9e07e2223afd",
+  "url": "https://platform.claude.com/docs/en/managed-agents/dreams",
+  "title": "Docs",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "6cbb9e07e2223afdf63a2c93665f0711644c89335191eaf3785f475fcf49e873",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:51.844Z",
+  "content_hash": "3b520f689628f49eb0481109ef551f386fd73ba3a5b38e9bb7d4efdb1c6be1ab",
+  "article_path": "articles/6cbb9e07e2223afd.md",
+  "fetched_url": "https://claude.com/app-unavailable-in-region",
+  "source_path": "sources/articles/docs-claude-available-only-in-certain-regions.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:17:43.416Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

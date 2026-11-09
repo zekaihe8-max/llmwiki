@@ -1,0 +1,23 @@
+{
+  "slug": "c8f34dc49d00daa5",
+  "url": "https://x.com/hwchase17/status/2118739844696277338",
+  "title": "周报",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "c8f34dc49d00daa5df63c47699dbf01056036c24e0a5ddf075101cdd917e104c",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:42.698Z",
+  "content_hash": "c66cef8e1409dea4629e2438aef17d3f81554e170434d288f63b2d28cabd5593",
+  "article_path": "articles/c8f34dc49d00daa5.md",
+  "fetched_url": "https://x.com/hwchase17/status/2118739844696277338",
+  "source_path": "sources/articles/langchain-weekly-update-deep-agents-async-subagents-mda-browser.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:09:52.380Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

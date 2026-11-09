@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文涉及哪些 AI 任务可放心交付，与“哪些活已放心交给 AI”主题相关。",
+    "topics/calibrating-ai-guidance.md": "帖文讨论对 AI 核验的过度担忧，与“校准对 AI 的过度与不足引导”主题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文引用模型优于专家的数据，涉及对公开评测或能力声明质量的审视。",
+    "topics/community-evals-vs-score-hype.md": "帖文对模型能力表述带有评测性质，与社区实测对抗刷分碰瓷主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文涉及哪些 AI 任务可放心交付，与“哪些活已放心交给 AI”主题相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文讨论对 AI 核验的过度担忧，与“校准对 AI 的过度与不足引导”主题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文引用模型优于专家的数据，涉及对公开评测或能力声明质量的审视。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文对模型能力表述带有评测性质，与社区实测对抗刷分碰瓷主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实的模型能力主张已在摘要与要点中使用“帖文称/作者称”表述，未将其作为平台事实呈现。"
+}

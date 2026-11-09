@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心讨论智能体如何在会话间管理与整理上下文记忆，与上下文工程主题直接相关。",
+    "topics/agentic-ai-foundation.md": "涉及智能体基础能力与记忆作为经验学习的组成部分，属于智能体基石范畴。",
+    "topics/agent-scaled-engineering.md": "文中对多个 Claude 模型在记忆使用上的差异与工程化评估，与智能体规模化工程相关。",
+    "topics/workflows-before-agents.md": "文章提示模型在回答前读取记忆文件，体现工作流设计对智能体记忆使用的影响。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论智能体如何在会话间管理与整理上下文记忆，与上下文工程主题直接相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及智能体基础能力与记忆作为经验学习的组成部分，属于智能体基石范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中对多个 Claude 模型在记忆使用上的差异与工程化评估，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章提示模型在回答前读取记忆文件，体现工作流设计对智能体记忆使用的影响。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文中提及的 Claude 模型版本（如 Sonnet 4.6、Opus 5、Fable 5）及发布日期均按原文呈现，未独立核实。"
+}

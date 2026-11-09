@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T00:02:23.912Z",
+  "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+  "slug": "8a424d75a52656da",
+  "content_hash": "c5b01b92124169c4b94cd7685dbec8a1ca0283cdd8c61fdc49011ce69dc15e1f",
+  "source": {
+    "path": "sources/articles/teaching-ai-to-build-scientific-models.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中讨论 AI 智能体自主建模与迭代，与智能体基础能力相关。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 与科研实践，该主题最贴近科学建模与研究方法的交叉。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文中反复提及模拟器、世界模型与基于仿真的推理，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章涉及 AI 与科研实践，该主题最贴近科学建模与研究方法的交叉。",
+    "topics/agentic-ai-foundation.md": "文中讨论 AI 智能体自主建模与迭代，与智能体基础能力相关。",
+    "topics/interactive-world-models.md": "文中反复提及模拟器、世界模型与基于仿真的推理，与该主题高度相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/teaching-ai-to-build-scientific-models.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "文章涉及 AI 与科研实践，该主题最贴近科学建模与研究方法的交叉。",
+      "topics/agentic-ai-foundation.md": "文中讨论 AI 智能体自主建模与迭代，与智能体基础能力相关。",
+      "topics/interactive-world-models.md": "文中反复提及模拟器、世界模型与基于仿真的推理，与该主题高度相关。"
+    },
+    "notes": "所有事实均源于提供的文章 Markdown，未引入外部 URL 或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/teaching-ai-to-build-scientific-models.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

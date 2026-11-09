@@ -1,0 +1,23 @@
+{
+  "slug": "321473ca332c57bd",
+  "url": "https://addyosmani.com/blog/coding-agents-manager",
+  "title": "博客",
+  "digest": "2026-11-09-frontier-ai.md",
+  "status": "filed",
+  "hash": "321473ca332c57bdcdc842acd874958d07ae9e7487e91b688305d073782fb149",
+  "first_seen": "2026-11-08T23:58:31.862Z",
+  "last_seen": "2026-11-08T23:58:31.862Z",
+  "fetched_at": "2026-11-08T23:58:36.940Z",
+  "content_hash": "1d1c066b179001a059e4394f8b00a7efcd64aef0c04d3ab526688131fcb02330",
+  "article_path": "articles/321473ca332c57bd.md",
+  "fetched_url": "https://addyosmani.com/blog/coding-agents-manager/",
+  "source_path": "sources/articles/your-ai-coding-agents-need-a-manager.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T00:05:55.561Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

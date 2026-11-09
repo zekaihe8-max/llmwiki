@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "帖文核心是编程 Agent 的 Token 节省工具，与该主题直接相关。",
+    "topics/context-engineering-for-agents.md": "billion-context 属于 Agent 上下文工程范畴，涉及长会话上下文管理。",
+    "topics/long-conversation-default-compression.md": "文章讨论长对话压缩与窗口限制，与该主题高度相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文核心是编程 Agent 的 Token 节省工具，与该主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "billion-context 属于 Agent 上下文工程范畴，涉及长会话上下文管理。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "文章讨论长对话压缩与窗口限制，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @lxfater 帖文，未独立核实 GitHub 项目实际效果。"
+}

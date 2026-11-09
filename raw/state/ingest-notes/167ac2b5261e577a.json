@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "帖文聚焦 AI 对科学研究与科研工作流的影响，与该主题的 AI 审稿与科研实践适配最为贴近",
+    "topics/ai-task-horizon-growth.md": "数据涉及 AI 可承担的研究时间比例，与 AI 任务时界和工作范围相关",
+    "topics/agentic-ai-foundation.md": "AI 承担研究工作属于更广泛的智能体与人机协作基础议题"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 AI 对科学研究与科研工作流的影响，与该主题的 AI 审稿与科研实践适配最为贴近"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "数据涉及 AI 可承担的研究时间比例，与 AI 任务时界和工作范围相关"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "AI 承担研究工作属于更广泛的智能体与人机协作基础议题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所获推文文本，未引用 Anthropic 原始报告以外的内容；日期与互动数据按推文页面显示保留。"
+}

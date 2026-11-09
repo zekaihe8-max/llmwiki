@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/casual-ai-minigame-first-try.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文直接提及使用 Claude Code 一键生成 TristanTube，与该主题关于 Claude Code 作者与社区话筒的讨论直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "TristanTube 与 HackerTube 属于 AI 辅助的视频内容筛选与媒体笔记类产品，与该主题相近。",
+    "topics/casual-ai-minigame-first-try.md": "卡帕蒂将 HackerTube 描述为周末快速 hack，与该主题的轻量一次成功 AI 小项目精神相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及使用 Claude Code 一键生成 TristanTube，与该主题关于 Claude Code 作者与社区话筒的讨论直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "TristanTube 与 HackerTube 属于 AI 辅助的视频内容筛选与媒体笔记类产品，与该主题相近。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "卡帕蒂将 HackerTube 描述为周末快速 hack，与该主题的轻量一次成功 AI 小项目精神相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均使用“帖文称”或“卡帕蒂称”进行归因，未将其作为平台事实呈现。"
+}
