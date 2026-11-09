@@ -1,5 +1,87 @@
 ## 2026-11-09
 
+* **创建 / Creation**: 归档 [老马亲自督战 Grok Bot 体验修复](./sources/articles/elon-musk-personally-oversees-grok-bot-experience-fixes.md)。 / Filed [Elon Musk Personally Oversees Grok Bot Experience Fixes](./sources/articles/elon-musk-personally-oversees-grok-bot-experience-fixes.md).
+
+* **创建 / Creation**: 归档 [GitHub Lever：面向编程 Agent 的反馈循环 Copilot 插件](./sources/articles/github-lever-feedback-loop-copilot-plugin-for-coding-agents.md)。 / Filed [GitHub Lever: Feedback-loop Copilot Plugin for Coding Agents](./sources/articles/github-lever-feedback-loop-copilot-plugin-for-coding-agents.md).
+
+* **创建 / Creation**: 归档 [Gojo 官网：面向 Agent 的内存安全系统语言](./sources/articles/gojo-official-website-memory-safe-systems-language-for-agents.md)。 / Filed [Gojo Official Website: Memory-Safe Systems Language for Agents](./sources/articles/gojo-official-website-memory-safe-systems-language-for-agents.md).
+
+* **创建 / Creation**: 归档 [正式发布 Gojo 编程语言](./sources/articles/gojo-programming-language-officially-released.md)。 / Filed [Gojo Programming Language Officially Released](./sources/articles/gojo-programming-language-officially-released.md).
+
+* **创建 / Creation**: 归档 [歸藏设计插件获 DeepSeek Harness 官方推荐](./sources/articles/guizang-design-plugin-recommended-by-deepseek-harness-official-t.md)。 / Filed [Guizang Design Plugin Recommended by DeepSeek Harness Official Team](./sources/articles/guizang-design-plugin-recommended-by-deepseek-harness-official-t.md).
+
+* **创建 / Creation**: 归档 [老套餐 Grok Bot 用量仍顶，质量下降引关注](./sources/articles/old-plan-grok-bot-usage-remains-high-amid-quality-concerns.md)。 / Filed [Old-plan Grok Bot usage remains high amid quality concerns](./sources/articles/old-plan-grok-bot-usage-remains-high-amid-quality-concerns.md).
+
+* **创建 / Creation**: 归档 [eian-article-art：为文章生成粉笔风格配图的 Agent Skill](./sources/articles/eian-article-art-chalkboard-style-article-illustration-agent-ski.md)。 / Filed [eian-article-art: Chalkboard-style article illustration Agent Skill](./sources/articles/eian-article-art-chalkboard-style-article-illustration-agent-ski.md).
+
+* **创建 / Creation**: 归档 [开源文章配图 Skill：长文自动生成黑白手绘线稿配图](./sources/articles/open-source-article-illustration-skill-auto-generate-black-and-w.md)。 / Filed [Open-source Article Illustration Skill: Auto-generate Black-and-white Hand-drawn Line Art for Long Articles](./sources/articles/open-source-article-illustration-skill-auto-generate-black-and-w.md).
+
+* **创建 / Creation**: 归档 [独立开发后室网页游戏 36 小时吸引 3.5 万玩家](./sources/articles/indie-backrooms-web-game-attracts-35k-players-in-36-hours.md)。 / Filed [Indie Backrooms Web Game Attracts 35K Players in 36 Hours](./sources/articles/indie-backrooms-web-game-attracts-35k-players-in-36-hours.md).
+
+* **创建 / Creation**: 归档 [用 Claude Code 扫公开收入找小生意](./sources/articles/using-claude-code-to-scan-public-income-for-small-businesses.md)。 / Filed [Using Claude Code to scan public income for small businesses](./sources/articles/using-claude-code-to-scan-public-income-for-small-businesses.md).
+
+* **创建 / Creation**: 归档 [HF MoE 训练手册：80 万 GPU 小时与 7 万字免费指南](./sources/articles/hf-moe-training-handbook-800k-gpu-hours-and-70k-word-free-guide.md)。 / Filed [HF MoE Training Handbook: 800k GPU Hours and 70k-Word Free Guide](./sources/articles/hf-moe-training-handbook-800k-gpu-hours-and-70k-word-free-guide.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 插件生态起飞：官方内置非终点，第三方可随时替换](./sources/articles/deepseek-harness-plugin-ecosystem-takes-off-official-built-ins-n.md)。 / Filed [DeepSeek Harness Plugin Ecosystem Takes Off: Official Built-ins Not the End, Third-Party Can Replace Anytime](./sources/articles/deepseek-harness-plugin-ecosystem-takes-off-official-built-ins-n.md).
+
+* **创建 / Creation**: 归档 [在 Cicada 里跑隐式状态机提示词](./sources/articles/running-the-implicit-state-machines-prompt-in-cicada.md)。 / Filed [Running the implicit-state-machines prompt in Cicada](./sources/articles/running-the-implicit-state-machines-prompt-in-cicada.md).
+
+* **创建 / Creation**: 归档 [T3 Code：Agent 控制台与多代理管理工具](./sources/articles/t3-code-agent-control-surface-and-multi-agent-management-tool.md)。 / Filed [T3 Code: Agent Control Surface and Multi-Agent Management Tool](./sources/articles/t3-code-agent-control-surface-and-multi-agent-management-tool.md).
+
+* **创建 / Creation**: 归档 [体验 T3 Code：界面交互出色，无缝导入 Claude 与 Codex 会话](./sources/articles/trying-t3-code-great-ui-ux-seamless-import-of-claude-codex-threa.md)。 / Filed [Trying T3 Code: Great UI/UX, Seamless Import of Claude & Codex Threads](./sources/articles/trying-t3-code-great-ui-ux-seamless-import-of-claude-codex-threa.md).
+
+* **创建 / Creation**: 归档 [灵录 Capwise：本地优先的 Mac 录屏与 AI 剪辑工作台](./sources/articles/capwise-local-first-mac-screen-recording-and-ai-editing-studio.md)。 / Filed [Capwise (灵录): Local-First Mac Screen Recording and AI Editing Studio](./sources/articles/capwise-local-first-mac-screen-recording-and-ai-editing-studio.md).
+
+* **创建 / Creation**: 归档 [Capwise 开源录屏内测版](./sources/articles/capwise-open-source-screen-recording-beta.md)。 / Filed [Capwise Open Source Screen Recording Beta](./sources/articles/capwise-open-source-screen-recording-beta.md).
+
+* **创建 / Creation**: 归档 [Rewind for X 推文回看](./sources/articles/rewind-for-x-tweet-rewatch.md)。 / Filed [Rewind for X — Tweet Rewatch](./sources/articles/rewind-for-x-tweet-rewatch.md).
+
+* **创建 / Creation**: 归档 [Rewind for X：开源插件本地保存 X 首页浏览过的推文](./sources/articles/rewind-for-x-open-source-extension-locally-saves-x-homepage-twee.md)。 / Filed [Rewind for X: Open-source extension locally saves X homepage tweets you've scrolled past](./sources/articles/rewind-for-x-open-source-extension-locally-saves-x-homepage-twee.md).
+
+* **创建 / Creation**: 归档 [billion-context：编程 Agent 的上下文压缩插件，支持十亿级 Token 长会话](./sources/articles/billion-context-context-compression-plugin-for-coding-agents-ena.md)。 / Filed [billion-context: Context Compression Plugin for Coding Agents Enabling Billion-Token Sessions](./sources/articles/billion-context-context-compression-plugin-for-coding-agents-ena.md).
+
+* **创建 / Creation**: 归档 [billion-context：节省上下文的 Agent 插件](./sources/articles/billion-context-an-agent-plugin-that-saves-context.md)。 / Filed [billion-context: An Agent Plugin That Saves Context](./sources/articles/billion-context-an-agent-plugin-that-saves-context.md).
+
+* **创建 / Creation**: 归档 [确认：Grok Bot 免费重置了，而且不是假重置](./sources/articles/confirmed-grok-bot-free-reset-is-real-not-a-fake-reset.md)。 / Filed [Confirmed: Grok Bot free reset is real, not a fake reset](./sources/articles/confirmed-grok-bot-free-reset-is-real-not-a-fake-reset.md).
+
+* **创建 / Creation**: 归档 [挂着 Agent 干活，账单扛不扛得住？DeepSeek Harness 成本思路与上手清单](./sources/articles/can-you-afford-the-bill-for-agents-working-in-the-background-dee.md)。 / Filed [Can You Afford the Bill for Agents Working in the Background? DeepSeek Harness Cost Thinking and Getting-Started List](./sources/articles/can-you-afford-the-bill-for-agents-working-in-the-background-dee.md).
+
+* **创建 / Creation**: 归档 [外贸圈 AI 渗透率现实检查：多数从业者尚未接触 Agent](./sources/articles/reality-check-on-ai-penetration-in-foreign-trade-most-practition.md)。 / Filed [Reality Check on AI Penetration in Foreign Trade: Most Practitioners Have Not Adopted Agents](./sources/articles/reality-check-on-ai-penetration-in-foreign-trade-most-practition.md).
+
+* **创建 / Creation**: 归档 [Hermes Agent v0.23.0 稳定版发布：多入口共用会话，桌面可连多台机器](./sources/articles/hermes-agent-v0-23-0-stable-release-shared-sessions-across-entry.md)。 / Filed [Hermes Agent v0.23.0 Stable Release: Shared Sessions Across Entry Points, Desktop Connects to Multiple Machines](./sources/articles/hermes-agent-v0-23-0-stable-release-shared-sessions-across-entry.md).
+
+* **创建 / Creation**: 归档 [Hermes 与 Grok Bot 的 DIY 与开箱即用对比](./sources/articles/hermes-vs-grok-bot-diy-host-vs-brand-laptop-analogy.md)。 / Filed [Hermes vs Grok Bot: DIY Host vs Brand Laptop Analogy](./sources/articles/hermes-vs-grok-bot-diy-host-vs-brand-laptop-analogy.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 老套餐额度重置，新订阅暂未重置](./sources/articles/grok-bot-legacy-plan-quota-reset-new-unified-subscription-not-ye.md)。 / Filed [Grok Bot Legacy Plan Quota Reset, New Unified Subscription Not Yet Reset](./sources/articles/grok-bot-legacy-plan-quota-reset-new-unified-subscription-not-ye.md).
+
+* **创建 / Creation**: 归档 [PM 回归：Gemini 产品负责人谈 AI 时代，为什么产品判断更值钱](./sources/articles/pms-are-back-gemini-product-lead-on-why-product-judgment-matters.md)。 / Filed [PMs Are Back: Gemini Product Lead on Why Product Judgment Matters More in the AI Era](./sources/articles/pms-are-back-gemini-product-lead-on-why-product-judgment-matters.md).
+
+* **创建 / Creation**: 归档 [给孩子 Vibe Coding App](./sources/articles/vibe-coding-apps-for-kids.md)。 / Filed [Vibe Coding Apps for Kids](./sources/articles/vibe-coding-apps-for-kids.md).
+
+* **创建 / Creation**: 归档 [前沿模型 Agent Harness 对比评测](./sources/articles/frontier-model-agent-harness-comparison-evaluation.md)。 / Filed [Frontier Model Agent Harness Comparison Evaluation](./sources/articles/frontier-model-agent-harness-comparison-evaluation.md).
+
+* **创建 / Creation**: 归档 [Garry Tan 开源 g-harness-evals：同模型换 harness，比准确率与成本](./sources/articles/garry-tan-open-sources-g-harness-evals-same-model-swap-harness-c.md)。 / Filed [Garry Tan open-sources g-harness-evals: same model, swap harness, compare accuracy and cost](./sources/articles/garry-tan-open-sources-g-harness-evals-same-model-swap-harness-c.md).
+
+* **创建 / Creation**: 归档 [阿里云 Token Plan 个人版加量约 74% 至 78%，价格不变](./sources/articles/alibaba-cloud-token-plan-personal-edition-increases-quotas-by-ab.md)。 / Filed [Alibaba Cloud Token Plan Personal Edition Increases Quotas by About 74% to 78%, Prices Unchanged](./sources/articles/alibaba-cloud-token-plan-personal-edition-increases-quotas-by-ab.md).
+
+* **创建 / Creation**: 归档 [GitHub Rubicon：为 Agent 并行改仓](./sources/articles/github-rubicon-retrofitting-repos-for-agent-parallelism.md)。 / Filed [GitHub Rubicon: Retrofitting Repos for Agent Parallelism](./sources/articles/github-rubicon-retrofitting-repos-for-agent-parallelism.md).
+
+* **创建 / Creation**: 归档 [Swipt：自动化跑在 iPhone 本机](./sources/articles/swipt-automation-runs-natively-on-iphone.md)。 / Filed [Swipt: Automation Runs Natively on iPhone](./sources/articles/swipt-automation-runs-natively-on-iphone.md).
+
+* **创建 / Creation**: 归档 [Pinky：让 AI Agent 在电脑上操控真实 iPhone 或 Android 手机](./sources/articles/pinky-let-any-ai-agent-use-your-real-iphone-or-android-phone-fro.md)。 / Filed [Pinky: Let any AI agent use your real iPhone or Android phone from your computer](./sources/articles/pinky-let-any-ai-agent-use-your-real-iphone-or-android-phone-fro.md).
+
+* **创建 / Creation**: 归档 [Pinky：DIYgod 开源 AI 真机控制工具，支持 iPhone 与 Android](./sources/articles/pinky-diygod-s-open-source-ai-real-device-control-tool-supportin.md)。 / Filed [Pinky: DIYgod's open-source AI real-device control tool supporting iPhone and Android](./sources/articles/pinky-diygod-s-open-source-ai-real-device-control-tool-supportin.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 官方推荐插件](./sources/articles/deepseek-harness-official-recommended-plugins.md)。 / Filed [DeepSeek Harness Official Recommended Plugins](./sources/articles/deepseek-harness-official-recommended-plugins.md).
+
+* **创建 / Creation**: 归档 [Pi 书单：从入门到自研 Agent 的五篇必读文章](./sources/articles/pi-reading-list-five-must-read-articles-from-getting-started-to.md)。 / Filed [Pi Reading List: Five Must-Read Articles from Getting Started to Building Your Own Agent](./sources/articles/pi-reading-list-five-must-read-articles-from-getting-started-to.md).
+
+* **创建 / Creation**: 归档 [DSH 插件超 3.5 万，稳定性与兼容性成隐忧](./sources/articles/deepseek-harness-tops-35-000-plugins-stability-and-compatibility.md)。 / Filed [DeepSeek Harness Tops 35,000 Plugins, Stability and Compatibility Become Concerns](./sources/articles/deepseek-harness-tops-35-000-plugins-stability-and-compatibility.md).
+
+* **创建 / Creation**: 归档 [好 Personal Agent 的三个条件](./sources/articles/three-conditions-for-a-good-personal-agent.md)。 / Filed [Three Conditions for a Good Personal Agent](./sources/articles/three-conditions-for-a-good-personal-agent.md).
+
+* **创建 / Creation**: 归档 [把 Grok Bot 从 100 刀降到 30 刀：重新审视个人 Agent 与数据主权](./sources/articles/downgrading-grok-bot-from-100-to-30-reassessing-personal-agents.md)。 / Filed [Downgrading Grok Bot from $100 to $30: Reassessing Personal Agents and Data Sovereignty](./sources/articles/downgrading-grok-bot-from-100-to-30-reassessing-personal-agents.md).
+
 * **创建 / Creation**: 归档 [文档：Claude 仅在部分地区可用](./sources/articles/docs-claude-available-only-in-certain-regions.md)。 / Filed [Docs: Claude available only in certain regions](./sources/articles/docs-claude-available-only-in-certain-regions.md).
 
 * **创建 / Creation**: 归档 [DeepSeek Harness 定位 Agent 时代操作系统](./sources/articles/deepseek-harness-positioned-as-agent-era-operating-system.md)。 / Filed [DeepSeek Harness Positioned as Agent Era Operating System](./sources/articles/deepseek-harness-positioned-as-agent-era-operating-system.md).

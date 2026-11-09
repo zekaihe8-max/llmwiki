@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件生态，与设计插件被官方推荐相关",
+    "topics/loose-web-agent-harness-plugins.md": "讨论 Agent Harness 插件，与 DSH 插件推荐场景相近",
+    "topics/minimal-core-community-extensions.md": "关注精简核心与社区扩展，与官方推荐社区插件相关",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计类插件工具，与歸藏设计插件主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 插件生态，与设计插件被官方推荐相关"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "讨论 Agent Harness 插件，与 DSH 插件推荐场景相近"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "关注精简核心与社区扩展，与官方推荐社区插件相关"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计类插件工具，与歸藏设计插件主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "154 万日活仅为帖文中的说法，未经独立核实。"
+}

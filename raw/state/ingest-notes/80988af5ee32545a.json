@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "文章核心是同模型下更换 Agent harness 并对比准确率、成本与速度，直接命中 Harness 对比主题。",
+    "topics/community-evals-vs-score-hype.md": "文中强调不看 Agent 自说自话、检查系统状态与日志，且为开发集非留出集，符合社区实测与刷分质疑语境。",
+    "topics/public-benchmark-quality-scrutiny.md": "作者自述通过率接近饱和、差距无法统计确认、未做显著性检验，属于对公开评测质量的审视。",
+    "topics/agent-model-channel-tradeoffs.md": "文中对比 Opus 与 Sol 在不同 harness 下的每题成本与耗时中位数，涉及模型与渠道的成本速度取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章核心是同模型下更换 Agent harness 并对比准确率、成本与速度，直接命中 Harness 对比主题。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中强调不看 Agent 自说自话、检查系统状态与日志，且为开发集非留出集，符合社区实测与刷分质疑语境。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "作者自述通过率接近饱和、差距无法统计确认、未做显著性检验，属于对公开评测质量的审视。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中对比 Opus 与 Sol 在不同 harness 下的每题成本与耗时中位数，涉及模型与渠道的成本速度取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 9 日，所有模型名称、价格与结论均引用自该帖文，未独立核实。"
+}

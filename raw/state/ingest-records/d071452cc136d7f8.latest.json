@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:04:28.041Z",
+  "url": "https://github.com/DIYgod/pinky",
+  "slug": "d071452cc136d7f8",
+  "content_hash": "8848ebbe0bbb8128ba289769bf1a9a0378560dc4d868c65bb0d7e97ce011e18a",
+  "source": {
+    "path": "sources/articles/pinky-let-any-ai-agent-use-your-real-iphone-or-android-phone-fro.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Pinky 强调“人在环节”审批风险步骤，体现智能体自动模式下的人工干预与治理。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Agent 操控真实手机/电脑，与“Computer Use”主题直接相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Pinky 覆盖手机端 Agent 的连接、审批与录像全流程，属于手机端 Agent 全链路工具。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 Agent 操控真实手机/电脑，与“Computer Use”主题直接相关。",
+    "topics/mobile-agent-dev-full-chain.md": "Pinky 覆盖手机端 Agent 的连接、审批与录像全流程，属于手机端 Agent 全链路工具。",
+    "topics/agent-auto-mode.md": "Pinky 强调“人在环节”审批风险步骤，体现智能体自动模式下的人工干预与治理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pinky-let-any-ai-agent-use-your-real-iphone-or-android-phone-fro.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是 Agent 操控真实手机/电脑，与“Computer Use”主题直接相关。",
+      "topics/mobile-agent-dev-full-chain.md": "Pinky 覆盖手机端 Agent 的连接、审批与录像全流程，属于手机端 Agent 全链路工具。",
+      "topics/agent-auto-mode.md": "Pinky 强调“人在环节”审批风险步骤，体现智能体自动模式下的人工干预与治理。"
+    },
+    "notes": "来源为 GitHub 仓库 README，未引用文中未提及的外部链接或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pinky-let-any-ai-agent-use-your-real-iphone-or-android-phone-fro.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

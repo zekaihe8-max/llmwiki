@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文中第三篇详细介绍 Pi 的 Skill 扩展方式，与该主题的 Agent Skill 编写内容高度相关。",
+    "topics/minimal-core-community-extensions.md": "第二篇主张只保留 Subagent、代码检索、网页访问等真正需要的功能，体现精简核心与社区扩展的理念。",
+    "topics/harness-comparison-beyond-tokens.md": "第一篇将 Pi 定位为可扩展的 AI Agent Harness，与 Agent Harness 对比主题相关。",
+    "topics/fold-subagents-into-main-loop.md": "第五篇工作流中包含异步 Subagent，与把子 Agent 折进主循环相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文中第三篇详细介绍 Pi 的 Skill 扩展方式，与该主题的 Agent Skill 编写内容高度相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "第二篇主张只保留 Subagent、代码检索、网页访问等真正需要的功能，体现精简核心与社区扩展的理念。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "第一篇将 Pi 定位为可扩展的 AI Agent Harness，与 Agent Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "第五篇工作流中包含异步 Subagent，与把子 Agent 折进主循环相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均采用 unchanged，未创建新话题；文中外部链接为 t.co 短链，未自行补全完整 URL。"
+}

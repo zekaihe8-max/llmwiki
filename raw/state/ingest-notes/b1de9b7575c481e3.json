@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/llm-formal-verification.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "本文核心是一段给 LLM 的提示词，属于面向 Agent 的上下文工程实践。",
+    "topics/agent-scaled-engineering.md": "在 Cicada 等应用中挖掘状态机属于智能体规模化工程与健壮性优化。",
+    "topics/llm-formal-verification.md": "隐式状态机的发现与形式化验证思路相关，但本文未做严格验证。",
+    "topics/workflows-before-agents.md": "状态机梳理属于工作流层面的梳理，优先于智能体本身。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "本文核心是一段给 LLM 的提示词，属于面向 Agent 的上下文工程实践。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "在 Cicada 等应用中挖掘状态机属于智能体规模化工程与健壮性优化。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "隐式状态机的发现与形式化验证思路相关，但本文未做严格验证。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "状态机梳理属于工作流层面的梳理，优先于智能体本身。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的数字与效果主张均已用“帖文称”限定。"
+}

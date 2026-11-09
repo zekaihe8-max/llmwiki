@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 产品与替代讨论，与帖文主题高度相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文强调数据自持与迁移准备，对应云环境备份、隔离与定时检查议题。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文核心抱怨模型路由不透明与无法指定模型，属面向 Agent 的模型渠道取舍范畴。",
+    "topics/premium-ai-subscription-value.md": "帖文讨论高端 AI 订阅从 100 刀降到 30 刀及其价值判断，与订阅价值议题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 产品与替代讨论，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文强调数据自持与迁移准备，对应云环境备份、隔离与定时检查议题。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文核心抱怨模型路由不透明与无法指定模型，属面向 Agent 的模型渠道取舍范畴。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文讨论高端 AI 订阅从 100 刀降到 30 刀及其价值判断，与订阅价值议题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源帖文中的 GitHub 链接为短链接形式，未展开完整 URL，因此未在 JSON 中列出完整地址。"
+}

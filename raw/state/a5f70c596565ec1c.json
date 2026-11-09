@@ -1,0 +1,23 @@
+{
+  "slug": "a5f70c596565ec1c",
+  "url": "https://github.com/github/lever",
+  "title": "github/lever",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "a5f70c596565ec1cbf08ba8eab0ed9b78efdb7965842ae2f18580ccdb68e7c0e",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:33.333Z",
+  "content_hash": "2dc19c2d83f30f61d5b96290023d33e175f7876bf2722d27901533d776174d3b",
+  "article_path": "articles/a5f70c596565ec1c.md",
+  "fetched_url": "https://github.com/github/lever",
+  "source_path": "sources/articles/github-lever-feedback-loop-copilot-plugin-for-coding-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:50:07.204Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

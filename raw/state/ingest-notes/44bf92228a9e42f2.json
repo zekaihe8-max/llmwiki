@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章核心是为编程 Agent 提供省 Token 的压缩工具，直接对应该主题。",
+    "topics/long-conversation-default-compression.md": "billion-context 实现了长对话默认压缩至模型窗口以下，是该主题的典型实例。",
+    "topics/context-engineering-for-agents.md": "文中详述增量分层摘要、工具注入、前缀缓存友好等上下文工程技术细节。",
+    "topics/agent-scaled-engineering.md": "生产级纵向研究与多宿主、多模型、超长会话的工程化表现属于智能体规模化工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心是为编程 Agent 提供省 Token 的压缩工具，直接对应该主题。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "billion-context 实现了长对话默认压缩至模型窗口以下，是该主题的典型实例。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中详述增量分层摘要、工具注入、前缀缓存友好等上下文工程技术细节。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "生产级纵向研究与多宿主、多模型、超长会话的工程化表现属于智能体规模化工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "All claims about benchmarks, production study results, and vendor-specific behaviors are attributed to the author/post (帖文称/作者称) as they have not been independently verified."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "968da4ceb89b6987",
+  "url": "https://github.com/garrytan/g-harness-evals",
+  "title": "GitHub",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "968da4ceb89b69871669e41d77a1cb1df9cffd0621904d0e20f2944aa2b99964",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:15.518Z",
+  "content_hash": "c8991aef1daaf419faa9d8dda4984cc14755335e360d3afb149f59ae5551073a",
+  "article_path": "articles/968da4ceb89b6987.md",
+  "fetched_url": "https://github.com/garrytan/g-harness-evals",
+  "source_path": "sources/articles/frontier-model-agent-harness-comparison-evaluation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:10:12.937Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

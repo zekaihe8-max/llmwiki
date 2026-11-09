@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与 X 查询，与帖文主题最贴近",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与重置机制，对“额度重置”有背景关联",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度关系，帖文提到模型降智与体验问题",
+    "topics/premium-ai-subscription-value.md": "涉及高端 AI 订阅价值，帖文对比老套餐与新大一统订阅"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与 X 查询，与帖文主题最贴近"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与重置机制，对“额度重置”有背景关联"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度关系，帖文提到模型降智与体验问题"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及高端 AI 订阅价值，帖文对比老套餐与新大一统订阅"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于额度、模型降智与虚拟机休眠的主张均来源于帖文作者，未作平台层面事实核实。"
+}

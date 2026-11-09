@@ -1,0 +1,23 @@
+{
+  "slug": "922fdac4937f6ac4",
+  "url": "https://gojo.egoist.dev/",
+  "title": "官网",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "922fdac4937f6ac43feef693d6ae33ecdce67b7d02bc89bf961db52618e941fd",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:33.036Z",
+  "content_hash": "7faecefe39a0a8c26046e704b17ee253dd128415f6e474a92da770196066c791",
+  "article_path": "articles/922fdac4937f6ac4.md",
+  "fetched_url": "https://gojo.egoist.dev/",
+  "source_path": "sources/articles/gojo-official-website-memory-safe-systems-language-for-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:49:26.847Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

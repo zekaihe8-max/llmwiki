@@ -1,0 +1,23 @@
+{
+  "slug": "2b270f237c59329c",
+  "url": "https://x.com/localhost_4173/status/2119686007515947441",
+  "title": "正式发布 Gojo 编程语言",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "2b270f237c59329cf5f801b6c712508b8a169137314e74af6fea524dbc82f798",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:32.390Z",
+  "content_hash": "c5edec0c32be5db2e57c20f62dc4c14cf9068c803e56d6eca091c960897f1bc9",
+  "article_path": "articles/2b270f237c59329c.md",
+  "fetched_url": "https://x.com/localhost_4173/status/2119686007515947441",
+  "source_path": "sources/articles/gojo-programming-language-officially-released.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:49:00.760Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章涉及终端显示图片与桌面多机操作，属于 Computer Use 范畴，现有主题无需变更。",
+    "topics/agent-auto-mode.md": "文中提到跨入口共用任务队列与继续同一件事，与智能体自动模式相关，现有主题无需变更。",
+    "topics/ux-dx-and-ax.md": "多入口会话同步、/rewind 回退与分支属于交互与开发者体验改进，现有主题无需变更。",
+    "topics/harness-plugin-style-fragmentation.md": "插件批量/自动更新及付费 MCP 费用提示涉及插件管理与界面一致性，现有主题无需变更。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章涉及终端显示图片与桌面多机操作，属于 Computer Use 范畴，现有主题无需变更。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到跨入口共用任务队列与继续同一件事，与智能体自动模式相关，现有主题无需变更。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "多入口会话同步、/rewind 回退与分支属于交互与开发者体验改进，现有主题无需变更。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "插件批量/自动更新及付费 MCP 费用提示涉及插件管理与界面一致性，现有主题无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引用 GitHub 发布页以外的事实。"
+}

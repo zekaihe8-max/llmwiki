@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -6546,8 +6546,8 @@
     "hash": "58e86828df7a658bfb95c5f35624d9400e4a24e6031a611aac0af1a66abb0bb7",
     "slug": "58e86828df7a658b",
     "first_seen": "2026-11-08T23:58:31.862Z",
-    "last_seen": "2026-11-08T23:58:31.862Z",
-    "digest": "2026-11-09-frontier-ai.md",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
     "title": "OS 定位"
   },
   "https://platform.claude.com/docs/en/managed-agents/dreams": {
@@ -6557,5 +6557,357 @@
     "last_seen": "2026-11-08T23:58:31.862Z",
     "digest": "2026-11-09-frontier-ai.md",
     "title": "Docs"
+  },
+  "https://x.com/xiaomovps/status/2119664340278378659": {
+    "hash": "e194141cb27b2ec9c2a75a6859a74c24e284c32d439866547d8be8ddcdb66024",
+    "slug": "e194141cb27b2ec9",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "把 Grok Bot 从 100 刀降到 30 刀"
+  },
+  "https://x.com/xiaomovps/status/2119637854888378691": {
+    "hash": "dc7aebdf4584e2f33f8ae7563dc1a698a8e5818bb6da7e6f81096062c0c66862",
+    "slug": "dc7aebdf4584e2f3",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "好 Personal Agent 的三个条件"
+  },
+  "https://x.com/xiaomovps/status/2119694729927671820": {
+    "hash": "fefd65f79e261687143fdba744641a43ea89ac029d2daef6a6d5998abef73ddf",
+    "slug": "fefd65f79e261687",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "DSH 3.5 万插件后开始担心稳定性"
+  },
+  "https://x.com/xiaomovps/status/2119717470730940740": {
+    "hash": "0214e417cfb49f7ccbaf68ef9fff03c702e6a4e36d75a2e1caeb1723509d943f",
+    "slug": "0214e417cfb49f7c",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Pi 书单"
+  },
+  "https://x.com/xiaomovps/status/2119733737126563952": {
+    "hash": "8ab64c391e35a9a77310e3ae6ba7793ba7b438d87fa8a947865ac0b2e4a1a23b",
+    "slug": "8ab64c391e35a9a7",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "官方推荐插件"
+  },
+  "https://x.com/0xLogicrw/status/2119638011763941577": {
+    "hash": "5aabb3f5e311d272f405d141f92215ca8652c0f54bb35219d13d2792ea21fc57",
+    "slug": "5aabb3f5e311d272",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Pinky：RSSHub 作者 DIYgod 开源的真机控制"
+  },
+  "https://github.com/DIYgod/pinky": {
+    "hash": "d071452cc136d7f864cdd866ccfa1d23518a8d67f98a2ced2232199f6f09199c",
+    "slug": "d071452cc136d7f8",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/0xLogicrw/status/2119750796476829832": {
+    "hash": "416053524fa4a4dbe09e422141d810d72feaea3f2d4e595c02c74dcb95354142",
+    "slug": "416053524fa4a4db",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Swipt：自动化跑在 iPhone 本机"
+  },
+  "https://swipt.io/": {
+    "hash": "af6f990f57b0e7f7e40ee7fd228f5ee1ed54bca2a2f0f9b02873b1e8a523b7f5",
+    "slug": "af6f990f57b0e7f7",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "官网"
+  },
+  "https://x.com/0xLogicrw/status/2119744561660764353": {
+    "hash": "0a94c7017f884ac39bfe99895e8c30acafa9c06e88414ebe986d7f4a8d57ed1c",
+    "slug": "0a94c7017f884ac3",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub Rubicon：为 Agent 并行改仓"
+  },
+  "https://x.com/0xLogicrw/status/2119674363490476145": {
+    "hash": "9c4a888e1233d1c5191f808b798888733da9f77aa12d76d2f6d867f66e50eebf",
+    "slug": "9c4a888e1233d1c5",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "阿里云 Token Plan 个人版加量约 74% 到 78%，价格不变"
+  },
+  "https://x.com/shao__meng/status/2119715268393836956": {
+    "hash": "80988af5ee32545a71c41cfb623103b2d3810e20d39e5d16bf3ec358cac7577a",
+    "slug": "80988af5ee32545a",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Garry Tan 开源 g-harness-evals"
+  },
+  "https://github.com/garrytan/g-harness-evals": {
+    "hash": "968da4ceb89b69871669e41d77a1cb1df9cffd0621904d0e20f2944aa2b99964",
+    "slug": "968da4ceb89b6987",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/shao__meng/status/2119678626442662111": {
+    "hash": "d9db9b3dfd96239c6534583f6fdde11403630463e1b93eefd445cd2b233120e3",
+    "slug": "d9db9b3dfd96239c",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "给孩子 Vibe Coding App"
+  },
+  "https://x.com/shao__meng/status/2119632702014132569": {
+    "hash": "72e0a58ee266182303d5cf92523a36e1af8ce7f0b62e2bc1edd936c4a485b1f5",
+    "slug": "72e0a58ee2661823",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "PMs are back"
+  },
+  "https://x.com/cgnot996/status/2119683780223074523": {
+    "hash": "56043bfc68b34ba0677643eef1e1da8e21d2de10c7bc5a4eaeae55b2101162ca",
+    "slug": "56043bfc68b34ba0",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Grok Bot 老套餐额度重置了"
+  },
+  "https://x.com/cgnot996/status/2119622500070183289": {
+    "hash": "59cd270cc10fbb752e712757aeab50aa42a0bf4b413f8bc3f5f3f2237d3d942c",
+    "slug": "59cd270cc10fbb75",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "对比"
+  },
+  "https://x.com/cgnot996/status/2119620767818359252": {
+    "hash": "094ef2ee9236658d381093b36e42315085f9df25fcf8e830121fb4beaa5a92cf",
+    "slug": "094ef2ee9236658d",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "督战"
+  },
+  "https://x.com/0xlangeai/status/2119705441974600044": {
+    "hash": "cfb9bd9d6084e2b24966a48b0df984b0de970db3a682bb4d5d0d6a20e96d7253",
+    "slug": "cfb9bd9d6084e2b2",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Hermes Agent v0.23.0"
+  },
+  "https://x.com/0xlangeai/status/2119732227235852526": {
+    "hash": "fdf1b94b1b6fa367a007caab8298fa0218febc53a3b187066067d38ea9c23a01",
+    "slug": "fdf1b94b1b6fa367",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "外贸圈渗透率现实检查"
+  },
+  "https://x.com/0xlangeai/status/2119713855555371421": {
+    "hash": "576cf5a7a2b038c1f8a66216093364cc96933f6a9d117bb030292ff3257cc39a",
+    "slug": "576cf5a7a2b038c1",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "挂着 Agent 干活，账单扛不扛得住"
+  },
+  "https://x.com/Gorden_Sun/status/2119684410715054217": {
+    "hash": "286e6fca7c52fa6670a3a0a5d432c739555cd2861a3d30fbeac8a64e8c0afdef",
+    "slug": "286e6fca7c52fa66",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "确认：Grok Bot 免费重置了，而且不是假重置"
+  },
+  "https://x.com/Gorden_Sun/status/2119742606460813495": {
+    "hash": "35202b492b4e17f77c666e93a47bf9dca6f4d572a1259544546e47ec2549f20d",
+    "slug": "35202b492b4e17f7",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "billion-context：省上下文的 Agent 插件"
+  },
+  "https://github.com/ranxianglei/billion-context": {
+    "hash": "44bf92228a9e42f24114113e2b50e2bd1fa2596127e6a5b3d9e8407681c0b0b6",
+    "slug": "44bf92228a9e42f2",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/yetone/status/2119752096421687336": {
+    "hash": "94bf7f37190a77e90fe2ffe728ab81b822f0ee9046a714501b62c994579eb214",
+    "slug": "94bf7f37190a77e9",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "开源 Rewind for X"
+  },
+  "https://github.com/yetone/rewind-for-x": {
+    "hash": "79472edcf419d82729173960ad696af27d6172f05aebded95414b3f39f11e6cb",
+    "slug": "79472edcf419d827",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/vista8/status/2119744512448987155": {
+    "hash": "1ada723938273e97f070c6e97df32adc00f66afc82cd59df98e052cec96d09db",
+    "slug": "1ada723938273e97",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "Capwise 开源录屏内测版"
+  },
+  "https://github.com/joeseesun/capwise": {
+    "hash": "9dec9b18cbf1e23d35fedd5e3527fffe75ed999fcef3698bcfdf8b5ffad8b912",
+    "slug": "9dec9b18cbf1e23d",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://capwise.qiaomu.ai/": {
+    "hash": "84f7ae028fd990637e6502c0b2dd74a9d49b3da6e28cc6c7ea63b8fa922bed78",
+    "slug": "84f7ae028fd99063",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "官网"
+  },
+  "https://x.com/vista8/status/2119664801546916266": {
+    "hash": "d807639fe4f953ad06a2bad9e8acc4a71adb8ef4a45c7c675ec88381b735e1f3",
+    "slug": "d807639fe4f953ad",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "体验 T3 Code"
+  },
+  "https://github.com/pingdotgg/t3code": {
+    "hash": "553e1cc54ebc818266579b0a7fc033441b72fdb37a85fa394dd8d2f5fa826229",
+    "slug": "553e1cc54ebc8182",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/wquguru/status/2119630602366488732": {
+    "hash": "b1de9b7575c481e3deb54e620d9d6af5881c0f9558dad33d9e503064a17b2c43",
+    "slug": "b1de9b7575c481e3",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "在 Cicada 里跑隐式状态机提示词"
+  },
+  "https://x.com/wquguru/status/2119463877583028631": {
+    "hash": "dc3b80da4dbaae570134bfac1362e9d4fa51b446354591f25e2dadbf44bc208a",
+    "slug": "dc3b80da4dbaae57",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "插件被官方内置怎么办"
+  },
+  "https://x.com/FinanceYF5/status/2119676693464158373": {
+    "hash": "3933a9caa59f917faebcf0e0cfd4bfac00ca426b647547d948422699c031dbc4",
+    "slug": "3933a9caa59f917f",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "HF MoE Training Handbook"
+  },
+  "https://huggingface.co/spaces/huggingface/moe-blogpost": {
+    "hash": "34ea5d5855604f9eb6b8b527dde9630edd418c75d0fdc34dc75fa5bbb6f3d9b6",
+    "slug": "34ea5d5855604f9e",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "手册"
+  },
+  "https://x.com/FinanceYF5/status/2119670614697103587": {
+    "hash": "1ce7f194efa429d666e4789f6a390515b24bcfa5ebfe4eb3c36deb3fc1b92d6d",
+    "slug": "1ce7f194efa429d6",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "用 Claude Code 扫公开收入找小生意"
+  },
+  "https://x.com/FinanceYF5/status/2119685466052334071": {
+    "hash": "26249736d82f17b7dec7dc12192494a3b021afb6c942abcd49f9b4b31f09e23f",
+    "slug": "26249736d82f17b7",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "36 小时后室网页游戏"
+  },
+  "https://x.com/EianLu/status/2119681760619630986": {
+    "hash": "0e8a312526677fb8d12502bf25f4ab4c22e0f0fafa309d96247dc34868601ca3",
+    "slug": "0e8a312526677fb8",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "开源文章配图 Skill"
+  },
+  "https://github.com/YIAN6557/eian-article-art": {
+    "hash": "30deda05d289378898323bbf0a6f79cc4d1ebd130f3fd99f26ecae35ca42eeec",
+    "slug": "30deda05d2893788",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/op7418/status/2119647207746121763": {
+    "hash": "5d3f6ac74c5a5f4c80236e22fff42a78a1e0da7a101e138d431dea0f837c003f",
+    "slug": "5d3f6ac74c5a5f4c",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "老套餐 Grok Bot 用量仍顶"
+  },
+  "https://x.com/op7418/status/2119432018450870276": {
+    "hash": "92a237139aaf99004f9c8a9a2f5606ab514891186133e5b6ea050a9eb3443716",
+    "slug": "92a237139aaf9900",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "设计插件被 DSH 官方推荐"
+  },
+  "https://x.com/localhost_4173/status/2119686007515947441": {
+    "hash": "2b270f237c59329cf5f801b6c712508b8a169137314e74af6fea524dbc82f798",
+    "slug": "2b270f237c59329c",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "正式发布 Gojo 编程语言"
+  },
+  "https://gojo.egoist.dev/": {
+    "hash": "922fdac4937f6ac43feef693d6ae33ecdce67b7d02bc89bf961db52618e941fd",
+    "slug": "922fdac4937f6ac4",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "官网"
+  },
+  "https://github.com/github/lever": {
+    "hash": "a5f70c596565ec1cbf08ba8eab0ed9b78efdb7965842ae2f18580ccdb68e7c0e",
+    "slug": "a5f70c596565ec1c",
+    "first_seen": "2026-11-09T11:59:07.998Z",
+    "last_seen": "2026-11-09T11:59:07.998Z",
+    "digest": "2026-11-09-cn-x.md",
+    "title": "github/lever"
   }
 }

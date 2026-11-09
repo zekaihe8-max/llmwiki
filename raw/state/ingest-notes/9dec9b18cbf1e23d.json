@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是 AI 助手辅助视频剪辑与封面生成，与智能体视频剪辑主题直接相关。",
+    "topics/open-source-in-ai-assistant-editing.md": "Capwise 基于 Cap 开源，将 AI 助手接入自然语言剪辑流程，契合该主题。",
+    "topics/agent-skill-authoring.md": "文中提到技能目录与 SKILL.md 导入，涉及 Agent Skill 编写与使用。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 助手辅助视频剪辑与封面生成，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Capwise 基于 Cap 开源，将 AI 助手接入自然语言剪辑流程，契合该主题。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到技能目录与 SKILL.md 导入，涉及 Agent Skill 编写与使用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 README，未引用文中未出现的 URL 或事实。"
+}

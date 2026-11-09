@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:05:33.843Z",
+  "url": "https://x.com/0xLogicrw/status/2119744561660764353",
+  "slug": "0a94c7017f884ac3",
+  "content_hash": "eeab3618629bea5656356ef42dc158f63c2d9fcf7cafa1f17db6d7a97e5bc296",
+  "source": {
+    "path": "sources/articles/github-rubicon-retrofitting-repos-for-agent-parallelism.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是数千 AI Agent 并行提交代码，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "分支并发冲突与读取延迟属多智能体基建问题。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Rubicon 使 AI Agent 全天候提交并触发测试部署，接近软件工厂自动化场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是数千 AI Agent 并行提交代码，属智能体规模化工程范畴。",
+    "topics/software-factory.md": "Rubicon 使 AI Agent 全天候提交并触发测试部署，接近软件工厂自动化场景。",
+    "topics/multiagent-infra-four-problems.md": "分支并发冲突与读取延迟属多智能体基建问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/github-rubicon-retrofitting-repos-for-agent-parallelism.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/software-factory.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心是数千 AI Agent 并行提交代码，属智能体规模化工程范畴。",
+      "topics/software-factory.md": "Rubicon 使 AI Agent 全天候提交并触发测试部署，接近软件工厂自动化场景。",
+      "topics/multiagent-infra-four-problems.md": "分支并发冲突与读取延迟属多智能体基建问题。"
+    },
+    "notes": "来源为 X 上 @0xLogicrw 的帖文，引用 GitHub 官方公告；未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/github-rubicon-retrofitting-repos-for-agent-parallelism.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

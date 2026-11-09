@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:04:00.578Z",
+  "url": "https://x.com/0xLogicrw/status/2119638011763941577",
+  "slug": "5aabb3f5e311d272",
+  "content_hash": "54f3f5c64fa37ab87568918a8aef9d9bcb35e7393f06f15bd56f1db444c6ba18",
+  "source": {
+    "path": "sources/articles/pinky-diygod-s-open-source-ai-real-device-control-tool-supportin.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文中重点描述付款/转账人工审批、敏感应用隐藏等资产安全与卫生机制。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI Agent 控制真实手机屏幕与操作，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Pinky 整合 ADB/scrcpy、WDA/CoreDevice 等多种手机端 Agent 控制技术路线，与手机端 Agent 全链路开发相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 AI Agent 控制真实手机屏幕与操作，属于 Computer Use 范畴。",
+    "topics/mobile-agent-dev-full-chain.md": "Pinky 整合 ADB/scrcpy、WDA/CoreDevice 等多种手机端 Agent 控制技术路线，与手机端 Agent 全链路开发相关。",
+    "topics/account-and-asset-security-hygiene.md": "文中重点描述付款/转账人工审批、敏感应用隐藏等资产安全与卫生机制。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pinky-diygod-s-open-source-ai-real-device-control-tool-supportin.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是 AI Agent 控制真实手机屏幕与操作，属于 Computer Use 范畴。",
+      "topics/mobile-agent-dev-full-chain.md": "Pinky 整合 ADB/scrcpy、WDA/CoreDevice 等多种手机端 Agent 控制技术路线，与手机端 Agent 全链路开发相关。",
+      "topics/account-and-asset-security-hygiene.md": "文中重点描述付款/转账人工审批、敏感应用隐藏等资产安全与卫生机制。"
+    },
+    "notes": "所有主张均基于 X 帖文及其引用的 DIYgod 介绍，未独立核实；平台事实类表述已按帖文称/作者称处理。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pinky-diygod-s-open-source-ai-real-device-control-tool-supportin.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

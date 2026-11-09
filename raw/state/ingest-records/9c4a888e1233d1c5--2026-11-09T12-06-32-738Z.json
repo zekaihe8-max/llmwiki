@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:06:32.738Z",
+  "url": "https://x.com/0xLogicrw/status/2119674363490476145",
+  "slug": "9c4a888e1233d1c5",
+  "content_hash": "729232d1df0f16f7d12a0a67908b324979bf26d71c92b6c7ebdb1578020e15ed",
+  "source": {
+    "path": "sources/articles/alibaba-cloud-token-plan-personal-edition-increases-quotas-by-ab.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Token 额度变化直接影响编程 Agent 的使用体验与额度感知。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及订阅费用与每 Credit 成本下降，关联高端 AI 订阅价值评估。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文章讨论订阅额度上调与用量阶梯变化，与用量上限测试主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/usage-limit-ab-tests.md": "文章讨论订阅额度上调与用量阶梯变化，与用量上限测试主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "Token 额度变化直接影响编程 Agent 的使用体验与额度感知。",
+    "topics/premium-ai-subscription-value.md": "文中提及订阅费用与每 Credit 成本下降，关联高端 AI 订阅价值评估。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alibaba-cloud-token-plan-personal-edition-increases-quotas-by-ab.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/usage-limit-ab-tests.md": "文章讨论订阅额度上调与用量阶梯变化，与用量上限测试主题相关。",
+      "topics/coding-agent-ux-vs-quota.md": "Token 额度变化直接影响编程 Agent 的使用体验与额度感知。",
+      "topics/premium-ai-subscription-value.md": "文中提及订阅费用与每 Credit 成本下降，关联高端 AI 订阅价值评估。"
+    },
+    "notes": "单一 X 帖文作为来源，所有额度与定价主张均归属该帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alibaba-cloud-token-plan-personal-edition-increases-quotas-by-ab.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

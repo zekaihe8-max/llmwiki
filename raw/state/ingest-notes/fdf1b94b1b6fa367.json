@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/ai-assisted-local-businesses.md",
+    "topics/workflows-before-agents.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "文章对比 AI 圈 Agent 热潮与外贸圈实际认知差距，贴合“热潮与熟悉度差”主题。",
+    "topics/ai-assisted-local-businesses.md": "外贸从业者属于小微商业群体，AI 使用现状与该话题相关。",
+    "topics/workflows-before-agents.md": "文中多数人尚未用 AI，佐证工作流普及应先于智能体推广。",
+    "topics/computer-use.md": "提及 Meta Muse 可浏览网页、生成文件，涉及 Computer Use 能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "文章对比 AI 圈 Agent 热潮与外贸圈实际认知差距，贴合“热潮与熟悉度差”主题。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "外贸从业者属于小微商业群体，AI 使用现状与该话题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中多数人尚未用 AI，佐证工作流普及应先于智能体推广。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "提及 Meta Muse 可浏览网页、生成文件，涉及 Computer Use 能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入外部事实。"
+}

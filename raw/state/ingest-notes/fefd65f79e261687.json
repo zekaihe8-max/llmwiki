@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "直接涉及 Agent Harness 插件生态，与帖文讨论的 DSH 插件稳定性最为贴近",
+    "topics/minimal-core-community-extensions.md": "讨论精简核心与社区扩展的边界，对应帖文中“Everything is a Plugin”理念与插件数量不等于成熟的观点",
+    "topics/harness-plugin-style-fragmentation.md": "属于 Harness 插件碎片化问题，与帖文中插件兼容性、接口变化导致失效相关",
+    "topics/company-agent-harness.md": "公司级 Agent Harness 建设，与帖文提出的官方插件市场、升级回滚等治理需求相关"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Agent Harness 插件生态，与帖文讨论的 DSH 插件稳定性最为贴近"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "讨论精简核心与社区扩展的边界，对应帖文中“Everything is a Plugin”理念与插件数量不等于成熟的观点"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "属于 Harness 插件碎片化问题，与帖文中插件兼容性、接口变化导致失效相关"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "公司级 Agent Harness 建设，与帖文提出的官方插件市场、升级回滚等治理需求相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

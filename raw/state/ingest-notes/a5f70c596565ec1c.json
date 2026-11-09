@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "lever 的自动循环与 L0-L5 自主权设置直接对应智能体自动模式议题",
+    "topics/agent-scaled-engineering.md": "lever 用于 CI 加速、仓库拆分等规模化工程场景，与该主题相关",
+    "topics/agent-skill-authoring.md": "lever 以 skills/ 目录组织技能，每个动词对应一个技能，与 Agent Skill 编写相关",
+    "topics/software-factory.md": "lever 自动化 PR 护航、交付与合并，类似软件工厂的无人化流水线"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "lever 的自动循环与 L0-L5 自主权设置直接对应智能体自动模式议题"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "lever 用于 CI 加速、仓库拆分等规模化工程场景，与该主题相关"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "lever 以 skills/ 目录组织技能，每个动词对应一个技能，与 Agent Skill 编写相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "lever 自动化 PR 护航、交付与合并，类似软件工厂的无人化流水线"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

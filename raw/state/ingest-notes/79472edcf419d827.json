@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "本文介绍的是社区开发的 Chrome 扩展，与“精简核心与社区扩展”主题相关",
+    "topics/ai-assisted-clipping-and-notes.md": "扩展实现对 X 推文的剪藏与本地回看，属于剪藏与笔记场景",
+    "topics/ux-dx-and-ax.md": "文中涉及抽屉界面、按钮避让与深色主题等 UX 设计细节"
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "本文介绍的是社区开发的 Chrome 扩展，与“精简核心与社区扩展”主题相关"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "扩展实现对 X 推文的剪藏与本地回看，属于剪藏与笔记场景"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中涉及抽屉界面、按钮避让与深色主题等 UX 设计细节"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 yetone/rewind-for-x 的 README，未引用店铺页面或外部事实。"
+}
