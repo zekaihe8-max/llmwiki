@@ -1,0 +1,29 @@
+{
+  "slug": "34ea5d5855604f9e",
+  "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+  "title": "手册",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "failed",
+  "hash": "34ea5d5855604f9eb6b8b527dde9630edd418c75d0fdc34dc75fa5bbb6f3d9b6",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-09T11:59:29.588Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-09T11:59:29.588Z"
+}

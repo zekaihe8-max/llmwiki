@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/code-over-spec.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "文章主题是新编程语言发布，与编程语言类目最贴近",
+    "topics/code-over-spec.md": "帖文强调代码语言特性（无 GC、无 Nil pointer），与代码重于规格相关",
+    "topics/software-factory.md": "涉及编程语言与软件工程工具发布，与软件工厂类目相关"
+  },
+  "topics": [
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章主题是新编程语言发布，与编程语言类目最贴近"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文强调代码语言特性（无 GC、无 Nil pointer），与代码重于规格相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及编程语言与软件工程工具发布，与软件工厂类目相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于 Rust/Go 对比及“我会赢”的表述均归属于帖文作者，未作为平台事实呈现。"
+}

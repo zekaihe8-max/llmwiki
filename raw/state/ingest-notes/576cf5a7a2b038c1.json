@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章关注Agent运行账单与Token开销，与编程Agent省Token工具最贴近。",
+    "topics/context-engineering-for-agents.md": "文中提到上下文压缩选择，属于Agent上下文工程范畴。",
+    "topics/loose-web-agent-harness-plugins.md": "文中提到插件商店与10款插件，涉及Agent Harness插件生态。",
+    "topics/agent-compute-and-governance.md": "账单承受能力与算力成本属于智能体算力与治理议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章关注Agent运行账单与Token开销，与编程Agent省Token工具最贴近。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到上下文压缩选择，属于Agent上下文工程范畴。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中提到插件商店与10款插件，涉及Agent Harness插件生态。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "账单承受能力与算力成本属于智能体算力与治理议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有增长数据与Token消耗数据均来自被转发帖文，未独立核实，已用“帖文称”标注。"
+}

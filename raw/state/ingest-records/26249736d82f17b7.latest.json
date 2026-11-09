@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:45:52.015Z",
+  "url": "https://x.com/FinanceYF5/status/2119685466052334071",
+  "slug": "26249736d82f17b7",
+  "content_hash": "36178b6b3b01cdf07c5e24d791b9178135800ada87fb7f6e20f31c67e288c2f3",
+  "source": {
+    "path": "sources/articles/indie-backrooms-web-game-attracts-35k-players-in-36-hours.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/interactive-world-models.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "单世界从 200 扩至 2000 人的工程挑战属于智能体/系统规模化工程范畴"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "对应随手/轻量级 AI 辅助小游戏的爆发式增长案例"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "无限演化世界与实时多人交互符合交互式世界模型主题"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 Vibe Gaming 范式下的快速原型与规模化表现"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "涉及 Vibe Gaming 范式下的快速原型与规模化表现",
+    "topics/casual-ai-minigame-first-try.md": "对应随手/轻量级 AI 辅助小游戏的爆发式增长案例",
+    "topics/interactive-world-models.md": "无限演化世界与实时多人交互符合交互式世界模型主题",
+    "topics/agent-scaled-engineering.md": "单世界从 200 扩至 2000 人的工程挑战属于智能体/系统规模化工程范畴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/indie-backrooms-web-game-attracts-35k-players-in-36-hours.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/interactive-world-models.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "涉及 Vibe Gaming 范式下的快速原型与规模化表现",
+      "topics/casual-ai-minigame-first-try.md": "对应随手/轻量级 AI 辅助小游戏的爆发式增长案例",
+      "topics/interactive-world-models.md": "无限演化世界与实时多人交互符合交互式世界模型主题",
+      "topics/agent-scaled-engineering.md": "单世界从 200 扩至 2000 人的工程挑战属于智能体/系统规模化工程范畴"
+    },
+    "notes": "Source is a single X post; all metrics are as reported by the author (@FinanceYF5) and not independently verified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/indie-backrooms-web-game-attracts-35k-players-in-36-hours.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

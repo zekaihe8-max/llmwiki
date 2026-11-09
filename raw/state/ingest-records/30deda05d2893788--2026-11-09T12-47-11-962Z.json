@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:47:11.962Z",
+  "url": "https://github.com/YIAN6557/eian-article-art",
+  "slug": "30deda05d2893788",
+  "content_hash": "061fb7bf35ee15efc9fe66b4f455e890332b8721bacedc29f64900385571f433",
+  "source": {
+    "path": "sources/articles/eian-article-art-chalkboard-style-article-illustration-agent-ski.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-auto-mode.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "技能可自动选点作图，但保留人工审批节点，与自动模式边界相关"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "本文即一个可安装的 Agent Skill，与技能编写主题直接相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "仓库提供 SKILL.md 与规范化文件，体现 Agent Skill 开放标准实践"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及代理端体验（AX）与开发者工具链，适合参考"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "本文即一个可安装的 Agent Skill，与技能编写主题直接相关",
+    "topics/agent-skills-open-standard.md": "仓库提供 SKILL.md 与规范化文件，体现 Agent Skill 开放标准实践",
+    "topics/agent-auto-mode.md": "技能可自动选点作图，但保留人工审批节点，与自动模式边界相关",
+    "topics/ux-dx-and-ax.md": "涉及代理端体验（AX）与开发者工具链，适合参考"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/eian-article-art-chalkboard-style-article-illustration-agent-ski.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-auto-mode.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "本文即一个可安装的 Agent Skill，与技能编写主题直接相关",
+      "topics/agent-skills-open-standard.md": "仓库提供 SKILL.md 与规范化文件，体现 Agent Skill 开放标准实践",
+      "topics/agent-auto-mode.md": "技能可自动选点作图，但保留人工审批节点，与自动模式边界相关",
+      "topics/ux-dx-and-ax.md": "涉及代理端体验（AX）与开发者工具链，适合参考"
+    },
+    "notes": "Source: https://github.com/YIAN6557/eian-article-art",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/eian-article-art-chalkboard-style-article-illustration-agent-ski.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

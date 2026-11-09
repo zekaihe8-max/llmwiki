@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "讨论个人 Agent 调度编程 Agent，与 T3 Code 作为 Agent 控制台的定位最为贴近",
+    "topics/company-agent-harness.md": "涉及公司级 Agent Harness 概念，与 T3 Code 的“Agent Harness 控制台”定位相关",
+    "topics/harness-comparison-beyond-tokens.md": "关注 Harness 对比维度，与本文介绍的 Agent 控制工具相关",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "区分多 Harness 路由与个人助手派活，与 T3 Code 个人机器 Agent 控制场景相关"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 调度编程 Agent，与 T3 Code 作为 Agent 控制台的定位最为贴近"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及公司级 Agent Harness 概念，与 T3 Code 的“Agent Harness 控制台”定位相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "关注 Harness 对比维度，与本文介绍的 Agent 控制工具相关"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "区分多 Harness 路由与个人助手派活，与 T3 Code 个人机器 Agent 控制场景相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 README；未引用文章中未出现的 URL 或事实。"
+}

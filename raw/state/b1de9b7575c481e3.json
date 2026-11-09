@@ -1,0 +1,23 @@
+{
+  "slug": "b1de9b7575c481e3",
+  "url": "https://x.com/wquguru/status/2119630602366488732",
+  "title": "在 Cicada 里跑隐式状态机提示词",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "b1de9b7575c481e3deb54e620d9d6af5881c0f9558dad33d9e503064a17b2c43",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:27.883Z",
+  "content_hash": "618fd5c67317ca507dada11d9fcc7a1d7a4409056330ffcbc241d27b067eab86",
+  "article_path": "articles/b1de9b7575c481e3.md",
+  "fetched_url": "https://x.com/wquguru/status/2119630602366488732",
+  "source_path": "sources/articles/running-the-implicit-state-machines-prompt-in-cicada.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:34:00.971Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:49:26.846Z",
+  "url": "https://gojo.egoist.dev/",
+  "slug": "922fdac4937f6ac4",
+  "content_hash": "7faecefe39a0a8c26046e704b17ee253dd128415f6e474a92da770196066c791",
+  "source": {
+    "path": "sources/articles/gojo-official-website-memory-safe-systems-language-for-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "页面以大量可运行代码示例展示语言特性，体现代码重于规格的呈现方式。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "Gojo 明确定位为面向编程代理（coding agents）的语言，与该主题直接相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "官网强调编译快速、单一二进制工具链及代理友好的诊断，属于开发者体验（DX）范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "Gojo 明确定位为面向编程代理（coding agents）的语言，与该主题直接相关。",
+    "topics/ux-dx-and-ax.md": "官网强调编译快速、单一二进制工具链及代理友好的诊断，属于开发者体验（DX）范畴。",
+    "topics/code-over-spec.md": "页面以大量可运行代码示例展示语言特性，体现代码重于规格的呈现方式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gojo-official-website-memory-safe-systems-language-for-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/languages-for-agents.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/languages-for-agents.md": "Gojo 明确定位为面向编程代理（coding agents）的语言，与该主题直接相关。",
+      "topics/ux-dx-and-ax.md": "官网强调编译快速、单一二进制工具链及代理友好的诊断，属于开发者体验（DX）范畴。",
+      "topics/code-over-spec.md": "页面以大量可运行代码示例展示语言特性，体现代码重于规格的呈现方式。"
+    },
+    "notes": "Source URL: https://gojo.egoist.dev/；所有声明均基于提供的文章 markdown，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gojo-official-website-memory-safe-systems-language-for-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

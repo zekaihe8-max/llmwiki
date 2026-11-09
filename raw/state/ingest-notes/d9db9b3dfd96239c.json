@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文核心是用 AI 快速手搓给孩子的打字小游戏，与“随手 AI 小游戏”主题高度相关。",
+    "topics/pro-vs-flash-model-strategy.md": "作者明确对比 Flash 与 Opus 5.5，认为轻量 Flash 模型更适合小型迭代，直接对应模型选型主题。",
+    "topics/vibe-coding-memory-paradox.md": "文章围绕 Vibe Coding 为家庭场景生成 App，与 Vibe Coding 主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "文中提到用 Claude Code / Codex 进行设计到代码的迭代，与自带模型订阅的设计↔代码主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 快速手搓给孩子的打字小游戏，与“随手 AI 小游戏”主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "作者明确对比 Flash 与 Opus 5.5，认为轻量 Flash 模型更适合小型迭代，直接对应模型选型主题。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文章围绕 Vibe Coding 为家庭场景生成 App，与 Vibe Coding 主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文中提到用 Claude Code / Codex 进行设计到代码的迭代，与自带模型订阅的设计↔代码主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于模型选型、速度与迭代的表述均归属于帖文作者，未将其作为平台事实呈现。"
+}

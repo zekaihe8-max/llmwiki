@@ -1,0 +1,23 @@
+{
+  "slug": "0a94c7017f884ac3",
+  "url": "https://x.com/0xLogicrw/status/2119744561660764353",
+  "title": "GitHub Rubicon：为 Agent 并行改仓",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "0a94c7017f884ac39bfe99895e8c30acafa9c06e88414ebe986d7f4a8d57ed1c",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:13.694Z",
+  "content_hash": "eeab3618629bea5656356ef42dc158f63c2d9fcf7cafa1f17db6d7a97e5bc296",
+  "article_path": "articles/0a94c7017f884ac3.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2119744561660764353",
+  "source_path": "sources/articles/github-rubicon-retrofitting-repos-for-agent-parallelism.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:05:33.844Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章重点讨论模型评测入口与自建质量标准，与该主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文警告只看排行榜可能错过产品化变化，与社区实测对抗刷分碰瓷相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中提示不要只信公开榜单，需亲自判断模型能力，与先审质量再信榜单一致。",
+    "topics/pro-vs-flash-model-strategy.md": "60/20/20 资源分配与模型能力分层投入，与 Pro/Flash 模型策略主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章重点讨论模型评测入口与自建质量标准，与该主题高度相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文警告只看排行榜可能错过产品化变化，与社区实测对抗刷分碰瓷相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中提示不要只信公开榜单，需亲自判断模型能力，与先审质量再信榜单一致。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "60/20/20 资源分配与模型能力分层投入，与 Pro/Flash 模型策略主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源：https://x.com/shao__meng/status/2119632702014132569；未核实主张已用「帖文称」标注。"
+}

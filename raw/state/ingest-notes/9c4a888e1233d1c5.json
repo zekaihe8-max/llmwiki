@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/usage-limit-ab-tests.md": "文章讨论订阅额度上调与用量阶梯变化，与用量上限测试主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "Token 额度变化直接影响编程 Agent 的使用体验与额度感知。",
+    "topics/premium-ai-subscription-value.md": "文中提及订阅费用与每 Credit 成本下降，关联高端 AI 订阅价值评估。"
+  },
+  "topics": [
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文章讨论订阅额度上调与用量阶梯变化，与用量上限测试主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Token 额度变化直接影响编程 Agent 的使用体验与额度感知。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及订阅费用与每 Credit 成本下降，关联高端 AI 订阅价值评估。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "单一 X 帖文作为来源，所有额度与定价主张均归属该帖文，未独立核实。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "文章核心是多款 Agent Harness 的对比评测，与“超越 token 数的 Harness 对比”主题直接相关。",
+    "topics/community-evals-vs-score-hype.md": "评测基于公开任务并强调未经留出确认，呼应社区实测对抗刷分碰瓷的语境。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中多次提示结果为开发版本、区间重叠、未经统计检验，符合“信任公开榜前先审质量”的审慎立场。",
+    "topics/agent-compute-and-governance.md": "评测衡量每解决一题成本与耗时，涉及智能体算力开销与治理披露。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章核心是多款 Agent Harness 的对比评测，与“超越 token 数的 Harness 对比”主题直接相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "评测基于公开任务并强调未经留出确认，呼应社区实测对抗刷分碰瓷的语境。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中多次提示结果为开发版本、区间重叠、未经统计检验，符合“信任公开榜前先审质量”的审慎立场。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "评测衡量每解决一题成本与耗时，涉及智能体算力开销与治理披露。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 GitHub 文章 Markdown，未引入外部 URL 或未在文中出现的数据。"
+}

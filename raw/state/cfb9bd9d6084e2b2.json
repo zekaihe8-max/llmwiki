@@ -1,0 +1,23 @@
+{
+  "slug": "cfb9bd9d6084e2b2",
+  "url": "https://x.com/0xlangeai/status/2119705441974600044",
+  "title": "Hermes Agent v0.23.0",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "cfb9bd9d6084e2b24966a48b0df984b0de970db3a682bb4d5d0d6a20e96d7253",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:19.064Z",
+  "content_hash": "bf76b0676cd89c87178cf9dd971b11821545a0fdcf42c291e4cf35ea6f079539",
+  "article_path": "articles/cfb9bd9d6084e2b2.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2119705441974600044",
+  "source_path": "sources/articles/hermes-agent-v0-23-0-stable-release-shared-sessions-across-entry.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:14:31.344Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -123,5 +123,10 @@
     "content_hash": "8ff40e22e5a254acf4774393a060b15684a633f57e34666830fd731404f319ce",
     "ingested_at": "2026-11-08T23:58:31.862Z",
     "urls": 36
+  },
+  "2026-11-09-cn-x.md": {
+    "content_hash": "07fd263b79054de17dd197f9ba4c87ab4e1c80b78cf116916ff222008332c431",
+    "ingested_at": "2026-11-09T11:59:07.998Z",
+    "urls": 45
   }
 }

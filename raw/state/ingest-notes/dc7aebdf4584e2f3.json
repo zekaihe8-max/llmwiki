@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文提到理想 Personal Agent 应自主发现需求、自主执行任务，与智能体自动模式主题相关。",
+    "topics/agent-model-channel-tradeoffs.md": "作者讨论基座模型与模型路由对任务稳定性的影响，与面向 Agent 的模型渠道取舍相关。",
+    "topics/ux-dx-and-ax.md": "作者强调 UI 与任务反馈机制对 Personal Agent 体验的重要性，与 UX、DX 与 AX 主题相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "作者区分个人助手派活与多 Harness 路由基建，并论述应用生态打通难度，与个人助手派活主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到理想 Personal Agent 应自主发现需求、自主执行任务，与智能体自动模式主题相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "作者讨论基座模型与模型路由对任务稳定性的影响，与面向 Agent 的模型渠道取舍相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "作者强调 UI 与任务反馈机制对 Personal Agent 体验的重要性，与 UX、DX 与 AX 主题相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "作者区分个人助手派活与多 Harness 路由基建，并论述应用生态打通难度，与个人助手派活主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，所有关于模型路由、产品对比和生态优劣的表述均按帖文作者观点处理，未作为平台事实断言。"
+}

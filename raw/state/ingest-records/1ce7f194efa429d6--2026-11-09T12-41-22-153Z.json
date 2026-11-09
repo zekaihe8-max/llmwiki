@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:41:22.153Z",
+  "url": "https://x.com/FinanceYF5/status/2119670614697103587",
+  "slug": "1ce7f194efa429d6",
+  "content_hash": "b43378be5e40a22a3b1451d3806599c7e5f6c491d7f04e8e15328eaaa3420e2c",
+  "source": {
+    "path": "sources/articles/using-claude-code-to-scan-public-income-for-small-businesses.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 挖掘真实收款的小生意，与本地小生意 AI 助力主题直接相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 Claude Code 执行数据扫描，与 Claude Code 作者与社区话筒主题相关。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "文中通过公开收入数据寻找赚钱同行，符合“先算清赚钱同行”的思路。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "使用 Claude Code 作为编程 Agent 执行扫描任务，体现个人 Agent 调度编程 Agent 的模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "帖文核心是用 AI 挖掘真实收款的小生意，与本地小生意 AI 助力主题直接相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "使用 Claude Code 作为编程 Agent 执行扫描任务，体现个人 Agent 调度编程 Agent 的模式。",
+    "topics/claude-code-authorship-and-voice.md": "文中明确提到 Claude Code 执行数据扫描，与 Claude Code 作者与社区话筒主题相关。",
+    "topics/peer-economics-before-vibe-coding.md": "文中通过公开收入数据寻找赚钱同行，符合“先算清赚钱同行”的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/using-claude-code-to-scan-public-income-for-small-businesses.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-local-businesses.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/peer-economics-before-vibe-coding.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-local-businesses.md": "帖文核心是用 AI 挖掘真实收款的小生意，与本地小生意 AI 助力主题直接相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "使用 Claude Code 作为编程 Agent 执行扫描任务，体现个人 Agent 调度编程 Agent 的模式。",
+      "topics/claude-code-authorship-and-voice.md": "文中明确提到 Claude Code 执行数据扫描，与 Claude Code 作者与社区话筒主题相关。",
+      "topics/peer-economics-before-vibe-coding.md": "文中通过公开收入数据寻找赚钱同行，符合“先算清赚钱同行”的思路。"
+    },
+    "notes": "所有主张均来源于单一 X 帖文，未经独立核实，摘要中已用“帖文称”限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/using-claude-code-to-scan-public-income-for-small-businesses.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

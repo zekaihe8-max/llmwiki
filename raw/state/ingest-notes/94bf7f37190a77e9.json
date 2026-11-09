@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/menubar-management-tool-gap.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文描述的“记下推文、回看、搜索”与剪藏笔记场景相近。",
+    "topics/ux-dx-and-ax.md": "浏览器侧栏插件改善社交平台浏览体验，属于 UX 改进范畴。",
+    "topics/menubar-management-tool-gap.md": "侧栏工具可视为浏览器/桌面层面的轻量管理工具补丁。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文描述的“记下推文、回看、搜索”与剪藏笔记场景相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "浏览器侧栏插件改善社交平台浏览体验，属于 UX 改进范畴。"
+    },
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "侧栏工具可视为浏览器/桌面层面的轻量管理工具补丁。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于单条 X 帖文撰写，未独立验证插件功能。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 Agent 操控真实手机/电脑，与“Computer Use”主题直接相关。",
+    "topics/mobile-agent-dev-full-chain.md": "Pinky 覆盖手机端 Agent 的连接、审批与录像全流程，属于手机端 Agent 全链路工具。",
+    "topics/agent-auto-mode.md": "Pinky 强调“人在环节”审批风险步骤，体现智能体自动模式下的人工干预与治理。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Agent 操控真实手机/电脑，与“Computer Use”主题直接相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Pinky 覆盖手机端 Agent 的连接、审批与录像全流程，属于手机端 Agent 全链路工具。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Pinky 强调“人在环节”审批风险步骤，体现智能体自动模式下的人工干预与治理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 README，未引用文中未提及的外部链接或事实。"
+}

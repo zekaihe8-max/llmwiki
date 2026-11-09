@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:03:20.374Z",
+  "url": "https://x.com/xiaomovps/status/2119733737126563952",
+  "slug": "8ab64c391e35a9a7",
+  "content_hash": "3b4da78ed8105980bf900f92693b1a2dd08c01bd54bc8d4e7172ea91a02df9ac",
+  "source": {
+    "path": "sources/articles/deepseek-harness-official-recommended-plugins.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中 dsh-context 涉及上下文组成与 Token 使用，与该主题相关"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "讨论 Harness 插件界面碎片化，文中提及插件兼容与更新问题，相关度较高"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "直接对标 Agent Harness 插件生态，与文中插件推荐主题高度相关"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "讨论精简核心与社区扩展，文中社区插件即属此类扩展"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "直接对标 Agent Harness 插件生态，与文中插件推荐主题高度相关",
+    "topics/minimal-core-community-extensions.md": "讨论精简核心与社区扩展，文中社区插件即属此类扩展",
+    "topics/context-engineering-for-agents.md": "文中 dsh-context 涉及上下文组成与 Token 使用，与该主题相关",
+    "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件界面碎片化，文中提及插件兼容与更新问题，相关度较高"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-official-recommended-plugins.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/harness-plugin-style-fragmentation.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "直接对标 Agent Harness 插件生态，与文中插件推荐主题高度相关",
+      "topics/minimal-core-community-extensions.md": "讨论精简核心与社区扩展，文中社区插件即属此类扩展",
+      "topics/context-engineering-for-agents.md": "文中 dsh-context 涉及上下文组成与 Token 使用，与该主题相关",
+      "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件界面碎片化，文中提及插件兼容与更新问题，相关度较高"
+    },
+    "notes": "所有数据与插件功能均源自该帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-official-recommended-plugins.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

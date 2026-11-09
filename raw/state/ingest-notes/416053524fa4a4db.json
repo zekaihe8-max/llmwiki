@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-skill-authoring.md",
+    "topics/ai-assisted-os-port-wave.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "Swipt 属于手机端 Computer Use / Phone Use 类项目，与该主题直接相关。",
+    "topics/mobile-agent-dev-full-chain.md": "文章涉及 iPhone 上 Agent 全链路自动化（脚本、插件、后台任务），与手机端 Agent 开发全链路相关。",
+    "topics/agent-skill-authoring.md": "Swiplet 插件机制与 TypeScript 编写可扩展技能，与 Agent Skill 编写相近。",
+    "topics/ai-assisted-os-port-wave.md": "涉及开发者模式、侧载签名、CoreDevice 协议等系统级越界/移植相关做法，与 AI 协助的系统破解移植风潮有交叉。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Swipt 属于手机端 Computer Use / Phone Use 类项目，与该主题直接相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "文章涉及 iPhone 上 Agent 全链路自动化（脚本、插件、后台任务），与手机端 Agent 开发全链路相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Swiplet 插件机制与 TypeScript 编写可扩展技能，与 Agent Skill 编写相近。"
+    },
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "涉及开发者模式、侧载签名、CoreDevice 协议等系统级越界/移植相关做法，与 AI 协助的系统破解移植风潮有交叉。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实技术细节与兼容性声明。"
+}

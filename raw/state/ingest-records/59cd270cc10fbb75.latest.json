@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:12:59.400Z",
+  "url": "https://x.com/cgnot996/status/2119622500070183289",
+  "slug": "59cd270cc10fbb75",
+  "content_hash": "420b5d0983a195ed9ba464a89f4b178783aecdc65ac6882586fe294808b75501",
+  "source": {
+    "path": "sources/articles/hermes-vs-grok-bot-diy-host-vs-brand-laptop-analogy.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "提及 Grok Bot 与社区分发，属于同一 Agent/Bot 比较语境。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与帖文比较对象之一相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 在 X 平台上的定位，与帖文主题相近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "属于 Agent/Harness 类比与对比类主题，与帖文的对比性质相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与帖文比较对象之一相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 平台上的定位，与帖文主题相近。",
+    "topics/dsh-grok-cross-dispatch.md": "提及 Grok Bot 与社区分发，属于同一 Agent/Bot 比较语境。",
+    "topics/harness-comparison-beyond-tokens.md": "属于 Agent/Harness 类比与对比类主题，与帖文的对比性质相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hermes-vs-grok-bot-diy-host-vs-brand-laptop-analogy.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与帖文比较对象之一相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 平台上的定位，与帖文主题相近。",
+      "topics/dsh-grok-cross-dispatch.md": "提及 Grok Bot 与社区分发，属于同一 Agent/Bot 比较语境。",
+      "topics/harness-comparison-beyond-tokens.md": "属于 Agent/Harness 类比与对比类主题，与帖文的对比性质相近。"
+    },
+    "notes": "所有关于 Hermes 与 Grok Bot 差异的表述均源自帖文类比，未独立核实，已用“帖文称”限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hermes-vs-grok-bot-diy-host-vs-brand-laptop-analogy.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "44bf92228a9e42f2",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "title": "GitHub",
+  "digest": "2026-11-09-cn-x.md",
+  "status": "filed",
+  "hash": "44bf92228a9e42f24114113e2b50e2bd1fa2596127e6a5b3d9e8407681c0b0b6",
+  "first_seen": "2026-11-09T11:59:07.998Z",
+  "last_seen": "2026-11-09T11:59:07.998Z",
+  "fetched_at": "2026-11-09T11:59:21.518Z",
+  "content_hash": "1b3a6c2a0c3b6e6579d85b39df20061fc0bbad7a4c87bb24183908c513ac4122",
+  "article_path": "articles/44bf92228a9e42f2.md",
+  "fetched_url": "https://github.com/ranxianglei/billion-context",
+  "source_path": "sources/articles/billion-context-context-compression-plugin-for-coding-agents-ena.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-09T12:23:20.235Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

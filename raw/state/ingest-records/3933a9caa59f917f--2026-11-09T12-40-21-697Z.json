@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:40:21.697Z",
+  "url": "https://x.com/FinanceYF5/status/2119676693464158373",
+  "slug": "3933a9caa59f917f",
+  "content_hash": "416d1c5f6522e7f8764123f76c6140c4d526a5a2361defe863eb1ef56317ab86",
+  "source": {
+    "path": "sources/articles/hf-moe-training-handbook-800k-gpu-hours-and-70k-word-free-guide.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "DeepSeek 为代表性 MoE 模型，与 MoE 训练话题关联紧密。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "MoE 模型常属开放权重前沿模型，主题与手册对象相近。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "手册面向自建模型训练，与工具产品自建模型话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "MoE 模型常属开放权重前沿模型，主题与手册对象相近。",
+    "topics/deepseek-inference-vs-aggregators.md": "DeepSeek 为代表性 MoE 模型，与 MoE 训练话题关联紧密。",
+    "topics/tools-building-own-models.md": "手册面向自建模型训练，与工具产品自建模型话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hf-moe-training-handbook-800k-gpu-hours-and-70k-word-free-guide.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "MoE 模型常属开放权重前沿模型，主题与手册对象相近。",
+      "topics/deepseek-inference-vs-aggregators.md": "DeepSeek 为代表性 MoE 模型，与 MoE 训练话题关联紧密。",
+      "topics/tools-building-own-models.md": "手册面向自建模型训练，与工具产品自建模型话题相关。"
+    },
+    "notes": "所有未经独立核实的主张（如 MoE 占比、GPU 工时）已标注为帖文称或作者称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hf-moe-training-handbook-800k-gpu-hours-and-70k-word-free-guide.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

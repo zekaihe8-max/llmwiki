@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与用量，与老套餐用量高的主张最相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样聚焦 Grok Bot 在 X 平台上的行为与定位",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派与使用场景",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与 A/B 测试，与额度使用相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与用量，与老套餐用量高的主张最相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样聚焦 Grok Bot 在 X 平台上的行为与定位"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派与使用场景"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与 A/B 测试，与额度使用相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实平台额度与质量改善时间表，均按帖文所述处理。"
+}

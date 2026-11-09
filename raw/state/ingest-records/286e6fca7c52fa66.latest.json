@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:17:06.237Z",
+  "url": "https://x.com/Gorden_Sun/status/2119684410715054217",
+  "slug": "286e6fca7c52fa66",
+  "content_hash": "737c5c22f895f385aa89812cf67dc1e7e22560894d9fbf43eb8fa618b8ee5996",
+  "source": {
+    "path": "sources/articles/confirmed-grok-bot-free-reset-is-real-not-a-fake-reset.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Grok Bot 内置额度桥接 Agent 查 X，与本文重置及额度变动最相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同为 Grok Bot 在 X 上的定位与限制讨论，可复用作为上下文。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 订阅价值，与免费重置话题相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限变化，与文中称额度砍半以上相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接讨论 Grok Bot 内置额度桥接 Agent 查 X，与本文重置及额度变动最相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同为 Grok Bot 在 X 上的定位与限制讨论，可复用作为上下文。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限变化，与文中称额度砍半以上相关。",
+    "topics/premium-ai-subscription-value.md": "涉及 AI 订阅价值，与免费重置话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/confirmed-grok-bot-free-reset-is-real-not-a-fake-reset.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接讨论 Grok Bot 内置额度桥接 Agent 查 X，与本文重置及额度变动最相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同为 Grok Bot 在 X 上的定位与限制讨论，可复用作为上下文。",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限变化，与文中称额度砍半以上相关。",
+      "topics/premium-ai-subscription-value.md": "涉及 AI 订阅价值，与免费重置话题相关。"
+    },
+    "notes": "所有关于模型路由、额度砍减的表述均标注为帖文/作者称，未作为平台事实断言。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/confirmed-grok-bot-free-reset-is-real-not-a-fake-reset.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

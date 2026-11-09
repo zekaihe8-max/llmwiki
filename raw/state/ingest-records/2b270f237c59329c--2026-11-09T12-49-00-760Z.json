@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-09T12:49:00.760Z",
+  "url": "https://x.com/localhost_4173/status/2119686007515947441",
+  "slug": "2b270f237c59329c",
+  "content_hash": "c5edec0c32be5db2e57c20f62dc4c14cf9068c803e56d6eca091c960897f1bc9",
+  "source": {
+    "path": "sources/articles/gojo-programming-language-officially-released.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/code-over-spec.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文强调代码语言特性（无 GC、无 Nil pointer），与代码重于规格相关"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章主题是新编程语言发布，与编程语言类目最贴近"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及编程语言与软件工程工具发布，与软件工厂类目相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "文章主题是新编程语言发布，与编程语言类目最贴近",
+    "topics/code-over-spec.md": "帖文强调代码语言特性（无 GC、无 Nil pointer），与代码重于规格相关",
+    "topics/software-factory.md": "涉及编程语言与软件工程工具发布，与软件工厂类目相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gojo-programming-language-officially-released.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/languages-for-agents.md",
+      "topics/code-over-spec.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/languages-for-agents.md": "文章主题是新编程语言发布，与编程语言类目最贴近",
+      "topics/code-over-spec.md": "帖文强调代码语言特性（无 GC、无 Nil pointer），与代码重于规格相关",
+      "topics/software-factory.md": "涉及编程语言与软件工程工具发布，与软件工厂类目相关"
+    },
+    "notes": "所有关于 Rust/Go 对比及“我会赢”的表述均归属于帖文作者，未作为平台事实呈现。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gojo-programming-language-officially-released.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
