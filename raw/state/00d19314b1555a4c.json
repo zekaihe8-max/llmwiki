@@ -1,0 +1,23 @@
+{
+  "slug": "00d19314b1555a4c",
+  "url": "https://x.com/0xlangeai/status/2120049568331280486",
+  "title": "一个月上千个 PR，靠的不是多开 Agent",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "00d19314b1555a4c919dfec44ef05d18a5fd460c6392df0013fd21a912d0cec9",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:55.685Z",
+  "content_hash": "6a4d4212dd86f288f745c6142d6aacb488e2c15a1fb47850f1435121b7ca7112",
+  "article_path": "articles/00d19314b1555a4c.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2120049568331280486",
+  "source_path": "sources/articles/delivering-1-000-prs-a-month-depends-on-agent-self-verifying-env.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:48:18.236Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

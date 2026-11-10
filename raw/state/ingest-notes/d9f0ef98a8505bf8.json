@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/interactive-world-models.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文发生在 Claude Code 中，与该话题的 Claude Code 使用场景最贴近。",
+    "topics/image-generation-pose-reference-libraries.md": "核心内容是用模型进行绘图/复刻照片，与生图质量边界相关。",
+    "topics/interactive-world-models.md": "帖文称语言模型可兼图生与视频生成，涉及模型作为世界模型的可能性。",
+    "topics/agent-model-channel-tradeoffs.md": "文中提到在 Claude Code 内调用特定模型 Fable5.2，涉及面向 Agent 的模型选用。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文发生在 Claude Code 中，与该话题的 Claude Code 使用场景最贴近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "核心内容是用模型进行绘图/复刻照片，与生图质量边界相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文称语言模型可兼图生与视频生成，涉及模型作为世界模型的可能性。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中提到在 Claude Code 内调用特定模型 Fable5.2，涉及面向 Agent 的模型选用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实 Fable5.2 的实际多模态能力，所有模型能力主张均为帖文称。"
+}

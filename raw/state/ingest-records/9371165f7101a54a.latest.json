@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:26:24.579Z",
+  "url": "https://github.com/alchaincyf/huashu-selfie-sticker",
+  "slug": "9371165f7101a54a",
+  "content_hash": "3045259f60504a79ef455ba0696f33674cd8560c479f4b6df88e18a468b536b4",
+  "source": {
+    "path": "sources/articles/huashu-selfie-sticker-agent-skill-for-generating-transparent-ani.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "本项目即为一个可安装、可对话驱动的 Agent Skill，涵盖技能编写、安装、参数化调用全流程。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "展示了 Skill 的开放安装方式（GitHub URL 直装、手动克隆）与跨 Agent 复用潜力。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "使用角色设定图作为姿势/形象参考，再生成多帧精灵图，属于生图姿势参考库的典型应用。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "通过组合生图工具、脚本切帧、抠图等原子能力，复刻出类原生表情包制作 App 的完整体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "本项目即为一个可安装、可对话驱动的 Agent Skill，涵盖技能编写、安装、参数化调用全流程。",
+    "topics/agent-skills-open-standard.md": "展示了 Skill 的开放安装方式（GitHub URL 直装、手动克隆）与跨 Agent 复用潜力。",
+    "topics/image-generation-pose-reference-libraries.md": "使用角色设定图作为姿势/形象参考，再生成多帧精灵图，属于生图姿势参考库的典型应用。",
+    "topics/skills-stack-native-app-recreation.md": "通过组合生图工具、脚本切帧、抠图等原子能力，复刻出类原生表情包制作 App 的完整体验。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/huashu-selfie-sticker-agent-skill-for-generating-transparent-ani.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "本项目即为一个可安装、可对话驱动的 Agent Skill，涵盖技能编写、安装、参数化调用全流程。",
+      "topics/agent-skills-open-standard.md": "展示了 Skill 的开放安装方式（GitHub URL 直装、手动克隆）与跨 Agent 复用潜力。",
+      "topics/image-generation-pose-reference-libraries.md": "使用角色设定图作为姿势/形象参考，再生成多帧精灵图，属于生图姿势参考库的典型应用。",
+      "topics/skills-stack-native-app-recreation.md": "通过组合生图工具、脚本切帧、抠图等原子能力，复刻出类原生表情包制作 App 的完整体验。"
+    },
+    "notes": "文章为 GitHub README 内容，包含中英双语说明；引用的模型能力（如即梦 Seedream 5.5 一次出 9 张无错字）为作者实测报告，非平台官方验证事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/huashu-selfie-sticker-agent-skill-for-generating-transparent-ani.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

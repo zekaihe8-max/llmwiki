@@ -1,5 +1,111 @@
 ## 2026-11-10
 
+* **创建 / Creation**: 归档 [WquGuru 发布 SAM3D Body、MiniMax H3 与 BFS 角色置换帖文](./sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md)。 / Filed [WquGuru posts on SAM3D Body, MiniMax H3, and BFS Character Swap](./sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md).
+
+* **创建 / Creation**: 归档 [蓝哥AI称 Muse 可白嫖 box.simular.ai 2核4G免费云服务器](./sources/articles/blue-brother-ai-says-muse-can-get-free-2-core-4g-cloud-server-fr.md)。 / Filed [Blue Brother AI says Muse can get free 2-core 4G cloud server from box.simular.ai](./sources/articles/blue-brother-ai-says-muse-can-get-free-2-core-4g-cloud-server-fr.md).
+
+* **创建 / Creation**: 归档 [Simular Box：面向 AI 的云端 Linux 桌面](./sources/articles/simular-box-cloud-linux-desktop-for-ai.md)。 / Filed [Simular Box: Cloud Linux Desktop for AI](./sources/articles/simular-box-cloud-linux-desktop-for-ai.md).
+
+* **创建 / Creation**: 归档 [关于 IconMCP 免费图标库与 AI Agent 持续扩充的帖文](./sources/articles/ding-s-x-post-about-iconmcp-free-icon-library-and-ai-agent-expan.md)。 / Filed [Ding's X post about IconMCP free icon library and AI agent expansion](./sources/articles/ding-s-x-post-about-iconmcp-free-icon-library-and-ai-agent-expan.md).
+
+* **创建 / Creation**: 归档 [限制 AI 的主要是 CI，有人在做更快的 CI 吗](./sources/articles/ci-is-the-main-limit-on-ai-is-anyone-building-faster-ci.md)。 / Filed [CI is the main limit on AI; is anyone building faster CI?](./sources/articles/ci-is-the-main-limit-on-ai-is-anyone-building-faster-ci.md).
+
+* **创建 / Creation**: 归档 [停车场应用 parkuma 一天做完，复用 harness 中台与 wanman 能力](./sources/articles/parking-app-parkuma-built-in-one-day-by-reusing-harness-middle-p.md)。 / Filed [Parking app parkuma built in one day by reusing harness middle platform and wanman capabilities](./sources/articles/parking-app-parkuma-built-in-one-day-by-reusing-harness-middle-p.md).
+
+* **创建 / Creation**: 归档 [用 Fable 5.2 重写旧 Intentware 并植入个人垂直 Agent App](./sources/articles/rewriting-old-intentware-with-fable-5-2-and-implanting-into-vert.md)。 / Filed [Rewriting Old Intentware with Fable 5.2 and Implanting into Vertical Personal Agent Apps](./sources/articles/rewriting-old-intentware-with-fable-5-2-and-implanting-into-vert.md).
+
+* **创建 / Creation**: 归档 [Claude 与 ChatGPT 用户集中反映账号被封](./sources/articles/claude-and-chatgpt-users-report-concentrated-account-bans.md)。 / Filed [Claude and ChatGPT users report concentrated account bans](./sources/articles/claude-and-chatgpt-users-report-concentrated-account-bans.md).
+
+* **创建 / Creation**: 归档 [月之暗面被曝国内租用 B300，公司随即否认](./sources/articles/bloomberg-reports-moonshot-ai-rented-b300-chips-in-china-company.md)。 / Filed [Bloomberg reports Moonshot AI rented B300 chips in China, company denies](./sources/articles/bloomberg-reports-moonshot-ai-rented-b300-chips-in-china-company.md).
+
+* **创建 / Creation**: 归档 [第二场面试更像付费咨询](./sources/articles/the-second-interview-felt-more-like-paid-consulting.md)。 / Filed [The second interview felt more like paid consulting](./sources/articles/the-second-interview-felt-more-like-paid-consulting.md).
+
+* **创建 / Creation**: 归档 [Airbnb 微调 Gemma 2B 做实时分类：质量对标前沿模型，高流量成本仅 1%](./sources/articles/airbnb-fine-tunes-gemma-2b-for-real-time-classification-frontier.md)。 / Filed [Airbnb Fine-tunes Gemma 2B for Real-time Classification: Frontier Quality at ~1% Cost](./sources/articles/airbnb-fine-tunes-gemma-2b-for-real-time-classification-frontier.md).
+
+* **创建 / Creation**: 归档 [在代码上线前捕获缺陷：JiTTesting 人机环环相扣的全规模方法](./sources/articles/catching-bugs-before-they-land-jittesting-s-human-on-the-loop-ap.md)。 / Filed [Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale](./sources/articles/catching-bugs-before-they-land-jittesting-s-human-on-the-loop-ap.md).
+
+* **创建 / Creation**: 归档 [Meta 的 JiTTests：不靠更快审代码，而是生成会失败的测试](./sources/articles/meta-s-jittests-not-faster-code-review-but-generating-failing-te.md)。 / Filed [Meta's JiTTests: Not Faster Code Review, But Generating Failing Tests](./sources/articles/meta-s-jittests-not-faster-code-review-but-generating-failing-te.md).
+
+* **创建 / Creation**: 归档 [Seedream 5.5 计划接入 Obsidian 插件，帖文称多轮编辑一致性 SOTA](./sources/articles/seedream-5-5-planned-for-obsidian-plugin-post-claims-sota-multi.md)。 / Filed [Seedream 5.5 Planned for Obsidian Plugin, Post Claims SOTA Multi-round Editing Consistency](./sources/articles/seedream-5-5-planned-for-obsidian-plugin-post-claims-sota-multi.md).
+
+* **创建 / Creation**: 归档 [Capwise 正在设计虚拟形象，供不愿出镜的用户录屏演示](./sources/articles/capwise-designing-virtual-avatars-for-camera-shy-screen-recordin.md)。 / Filed [Capwise designing virtual avatars for camera-shy screen-recording demos](./sources/articles/capwise-designing-virtual-avatars-for-camera-shy-screen-recordin.md).
+
+* **创建 / Creation**: 归档 [X News：X 与 AI 视频中文改写站](./sources/articles/x-news-chinese-rewriting-site-for-x-posts-and-ai-videos.md)。 / Filed [X News: Chinese Rewriting Site for X Posts and AI Videos](./sources/articles/x-news-chinese-rewriting-site-for-x-posts-and-ai-videos.md).
+
+* **创建 / Creation**: 归档 [1000 个 Claude Fable 5.2 智能体重做费马大定理形式化证明](./sources/articles/1000-claude-fable-5-2-agents-redo-formal-proof-of-fermat-s-last.md)。 / Filed [1000 Claude Fable 5.2 Agents Redo Formal Proof of Fermat's Last Theorem](./sources/articles/1000-claude-fable-5-2-agents-redo-formal-proof-of-fermat-s-last.md).
+
+* **创建 / Creation**: 归档 [开源 Grok Bot 每日抓取 X 海外长文并转中文发布为网站的项目](./sources/articles/open-source-project-grok-bot-daily-scrapes-x-overseas-long-artic.md)。 / Filed [Open-source project: Grok Bot daily scrapes X overseas long articles, translates to Chinese, and publishes as a website](./sources/articles/open-source-project-grok-bot-daily-scrapes-x-overseas-long-artic.md).
+
+* **创建 / Creation**: 归档 [一个月上千个 PR，靠的是让 Agent 能自我验证的环境](./sources/articles/delivering-1-000-prs-a-month-depends-on-agent-self-verifying-env.md)。 / Filed [Delivering 1,000+ PRs a Month Depends on Agent-Self-Verifying Environments, Not More Agents](./sources/articles/delivering-1-000-prs-a-month-depends-on-agent-self-verifying-env.md).
+
+* **创建 / Creation**: 归档 [自媒体工作台：DeepSeek Harness 社区插件](./sources/articles/self-media-workbench-a-deepseek-harness-community-plugin.md)。 / Filed [Self-Media Workbench: A DeepSeek Harness Community Plugin](./sources/articles/self-media-workbench-a-deepseek-harness-community-plugin.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 自媒体插件五模块拆解](./sources/articles/five-module-breakdown-of-the-deepseek-harness-self-media-plugin.md)。 / Filed [Five-Module Breakdown of the DeepSeek Harness Self-Media Plugin](./sources/articles/five-module-breakdown-of-the-deepseek-harness-self-media-plugin.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 工作台：dsh-media-desk 与 dsh-guizang-design 插件一键安装](./sources/articles/deepseek-harness-workbench-dsh-media-desk-and-dsh-guizang-design.md)。 / Filed [DeepSeek Harness Workbench: dsh-media-desk and dsh-guizang-design plugins install with one click](./sources/articles/deepseek-harness-workbench-dsh-media-desk-and-dsh-guizang-design.md).
+
+* **创建 / Creation**: 归档 [Pi 里可以用豆包了](./sources/articles/doubao-now-available-in-pi.md)。 / Filed [Doubao now available in Pi](./sources/articles/doubao-now-available-in-pi.md).
+
+* **创建 / Creation**: 归档 [Magpie 在 X 上启用唯一官方账号 @magpie_router](./sources/articles/magpie-launches-sole-official-x-account-magpie-router.md)。 / Filed [Magpie launches sole official X account @magpie_router](./sources/articles/magpie-launches-sole-official-x-account-magpie-router.md).
+
+* **创建 / Creation**: 归档 [新订阅也重置：Grok Bot 额度重置与消耗观察](./sources/articles/grok-bot-new-subscription-quota-reset-and-consumption-observatio.md)。 / Filed [Grok Bot New Subscription Quota Reset and Consumption Observations](./sources/articles/grok-bot-new-subscription-quota-reset-and-consumption-observatio.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 周额度重置出现时间差，新老订阅用户分批恢复](./sources/articles/time-lag-in-grok-bot-weekly-quota-reset-old-and-new-subscribers.md)。 / Filed [Time lag in Grok Bot weekly quota reset: old and new subscribers restored in batches](./sources/articles/time-lag-in-grok-bot-weekly-quota-reset-old-and-new-subscribers.md).
+
+* **创建 / Creation**: 归档 [Google Drive PDF 来源（正文不可读）](./sources/articles/google-drive-pdf-source-body-unreadable.md)。 / Filed [Google Drive PDF Source (Body Unreadable)](./sources/articles/google-drive-pdf-source-body-unreadable.md).
+
+* **创建 / Creation**: 归档 [11 页报告拆解 Grok Bot 变难用成因：额度空转、上下文膨胀与成本难以为继](./sources/articles/11-page-report-breaks-down-why-grok-bot-is-getting-harder-to-use.md)。 / Filed [11-Page Report Breaks Down Why Grok Bot Is Getting Harder to Use: Quota Waste, Context Bloat, Unsustainable Costs](./sources/articles/11-page-report-breaks-down-why-grok-bot-is-getting-harder-to-use.md).
+
+* **创建 / Creation**: 归档 [《苦涩的教训》常被误读为“堆算力就够了”，Sutton 称仍需巧妙新方法](./sources/articles/the-bitter-lesson-brute-force-compute-is-not-enough-clever-new-m.md)。 / Filed [The Bitter Lesson: Brute-force compute is not enough; clever new methods are still needed](./sources/articles/the-bitter-lesson-brute-force-compute-is-not-enough-clever-new-m.md).
+
+* **创建 / Creation**: 归档 [彭博社的 AI Coding 面试并不比 LeetCode 更友好](./sources/articles/bloomberg-s-ai-coding-interview-is-no-friendlier-than-leetcode.md)。 / Filed [Bloomberg's AI Coding Interview Is No Friendlier Than LeetCode](./sources/articles/bloomberg-s-ai-coding-interview-is-no-friendlier-than-leetcode.md).
+
+* **创建 / Creation**: 归档 [Cactus-Compute Mirage 模型](./sources/articles/cactus-compute-mirage-model.md)。 / Filed [Cactus-Compute Mirage Model](./sources/articles/cactus-compute-mirage-model.md).
+
+* **创建 / Creation**: 归档 [Mirage：22MB 的端侧视觉模型](./sources/articles/mirage-22mb-edge-side-visual-ai-model.md)。 / Filed [Mirage: 22MB Edge-Side Visual AI Model](./sources/articles/mirage-22mb-edge-side-visual-ai-model.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 视频生成展示：同场景多画风拼接，细节超越 Opus 5.5](./sources/articles/fable-5-2-video-generation-demo-same-scene-multi-style-splicing.md)。 / Filed [Fable 5.2 Video Generation Demo: Same Scene Multi-Style Splicing, Details Surpass Opus 5.5](./sources/articles/fable-5-2-video-generation-demo-same-scene-multi-style-splicing.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 生成华语流行音乐，帖文称更胜 Opus 5.5](./sources/articles/fable-5-2-generates-mandopop-post-claims-it-surpasses-opus-5-5.md)。 / Filed [Fable 5.2 generates Mandopop; post claims it surpasses Opus 5.5](./sources/articles/fable-5-2-generates-mandopop-post-claims-it-surpasses-opus-5-5.md).
+
+* **创建 / Creation**: 归档 [帖文称 Claude Fable 5.2 前端与视频能力强于 Opus 5.5，且更省额度](./sources/articles/post-claims-claude-fable-5-2-frontend-and-video-capabilities-exc.md)。 / Filed [Post claims Claude Fable 5.2 frontend and video capabilities exceed Opus 5.5 and save quota](./sources/articles/post-claims-claude-fable-5-2-frontend-and-video-capabilities-exc.md).
+
+* **创建 / Creation**: 归档 [新模型发布不到一天，开源项目先迭代一轮](./sources/articles/open-source-projects-iterated-within-a-day-of-new-model-release.md)。 / Filed [Open-source projects iterated within a day of new model release](./sources/articles/open-source-projects-iterated-within-a-day-of-new-model-release.md).
+
+* **创建 / Creation**: 归档 [huashu-selfie-sticker：从自拍或任意图生成透明底动态表情包的 Agent Skill](./sources/articles/huashu-selfie-sticker-agent-skill-for-generating-transparent-ani.md)。 / Filed [huashu-selfie-sticker: Agent Skill for Generating Transparent Animated Stickers from Selfies or Any Image](./sources/articles/huashu-selfie-sticker-agent-skill-for-generating-transparent-ani.md).
+
+* **创建 / Creation**: 归档 [Seedream 5.5 连改20轮人还是同一个人（附GIF表情包教程）](./sources/articles/seedream-5-5-same-person-after-20-consecutive-edits-with-gif-emo.md)。 / Filed [Seedream 5.5: Same Person After 20 Consecutive Edits (with GIF Emoji Pack Tutorial)](./sources/articles/seedream-5-5-same-person-after-20-consecutive-edits-with-gif-emo.md).
+
+* **创建 / Creation**: 归档 [笔触说明](./sources/articles/stroke-explanation-fable5-2-generates-images-via-python-code-not.md)。 / Filed [Stroke Explanation: Fable5.2 Generates Images via Python Code, Not Drawing Software](./sources/articles/stroke-explanation-fable5-2-generates-images-via-python-code-not.md).
+
+* **创建 / Creation**: 归档 [复刻：Fable5.2 在 Claude Code 中重绘 Bora Bora 照片](./sources/articles/recreate-fable5-2-redraws-bora-bora-photo-in-claude-code.md)。 / Filed [Recreate: Fable5.2 Redraws Bora Bora Photo in Claude Code](./sources/articles/recreate-fable5-2-redraws-bora-bora-photo-in-claude-code.md).
+
+* **创建 / Creation**: 归档 [实测 Claude Fable 5.2：审美与细节的绝对统治，但贵得惊人](./sources/articles/hands-on-claude-fable-5-2-aesthetic-detail-supremacy-at-a-stagge.md)。 / Filed [Hands-on Claude Fable 5.2: Aesthetic & Detail Supremacy at a Staggering Cost](./sources/articles/hands-on-claude-fable-5-2-aesthetic-detail-supremacy-at-a-stagge.md).
+
+* **创建 / Creation**: 归档 [用 Fable 5.2 给 ChatGPT 提前做四周年庆生视频](./sources/articles/making-an-early-chatgpt-fourth-anniversary-birthday-video-with-f.md)。 / Filed [Making an early ChatGPT fourth-anniversary birthday video with Fable 5.2](./sources/articles/making-an-early-chatgpt-fourth-anniversary-birthday-video-with-f.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 降级到 30 美元后，作者称额度基本够用](./sources/articles/after-downgrading-grok-bot-to-30-author-says-quota-is-basically.md)。 / Filed [After Downgrading Grok Bot to $30, Author Says Quota Is Basically Sufficient](./sources/articles/after-downgrading-grok-bot-to-30-author-says-quota-is-basically.md).
+
+* **创建 / Creation**: 归档 [国内 AI Coding 套餐卷到 40 元左右](./sources/articles/domestic-ai-coding-plans-compete-around-40-rmb.md)。 / Filed [Domestic AI coding plans compete around 40 RMB](./sources/articles/domestic-ai-coding-plans-compete-around-40-rmb.md).
+
+* **创建 / Creation**: 归档 [《Goodbye Claude, Hello Pi》在 HN 引发热议：为何开发者弃用 Claude Code 转投 Pi](./sources/articles/hn-discussion-on-goodbye-claude-hello-pi-why-developers-are-leav.md)。 / Filed [HN Discussion on "Goodbye Claude, Hello Pi": Why Developers Are Leaving Claude Code for Pi](./sources/articles/hn-discussion-on-goodbye-claude-hello-pi-why-developers-are-leav.md).
+
+* **创建 / Creation**: 归档 [《Goodbye Claude, Hello Pi》在 Hacker News 引发热议](./sources/articles/goodbye-claude-hello-pi-sparks-hacker-news-debate.md)。 / Filed ["Goodbye Claude, Hello Pi" Sparks Hacker News Debate](./sources/articles/goodbye-claude-hello-pi-sparks-hacker-news-debate.md).
+
+* **创建 / Creation**: 归档 [Pi 1.5.1 四条使用差异：缓存保温、登录与对话线程变更](./sources/articles/pi-1-5-1-four-usage-differences-cache-warming-login-and-message.md)。 / Filed [Pi 1.5.1 Four Usage Differences: Cache Warming, Login, and Message Threads Changes](./sources/articles/pi-1-5-1-four-usage-differences-cache-warming-login-and-message.md).
+
+* **创建 / Creation**: 归档 [Pi 1.5.1 更新要点](./sources/articles/pi-1-5-1-release-highlights.md)。 / Filed [Pi 1.5.1 Release Highlights](./sources/articles/pi-1-5-1-release-highlights.md).
+
+* **创建 / Creation**: 归档 [国行 iPhone Air 开启满血 Apple Intelligence 的跑通注意点](./sources/articles/notes-on-enabling-full-apple-intelligence-on-a-china-market-ipho.md)。 / Filed [Notes on enabling full Apple Intelligence on a China-market iPhone Air](./sources/articles/notes-on-enabling-full-apple-intelligence-on-a-china-market-ipho.md).
+
+* **创建 / Creation**: 归档 [开发者项目让国行 iPhone 解锁完整版 Apple Intelligence 并移除 eSIM 限制](./sources/articles/developer-project-unlocks-full-apple-intelligence-on-mainland-ip.md)。 / Filed [Developer Project Unlocks Full Apple Intelligence on Mainland iPhones and Removes eSIM Limits](./sources/articles/developer-project-unlocks-full-apple-intelligence-on-mainland-ip.md).
+
+* **创建 / Creation**: 归档 [Fable 赠送重置按订阅年限加码](./sources/articles/fable-reset-bonus-scales-with-subscription-tenure.md)。 / Filed [Fable reset bonus scales with subscription tenure](./sources/articles/fable-reset-bonus-scales-with-subscription-tenure.md).
+
+* **创建 / Creation**: 归档 [试试 Fable 5.2 的成色](./sources/articles/testing-fable-5-2-s-quality.md)。 / Filed [Testing Fable 5.2's Quality](./sources/articles/testing-fable-5-2-s-quality.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 生成实时水墨流体交互作品](./sources/articles/fable-5-2-generates-real-time-ink-fluid-interactive-work.md)。 / Filed [Fable 5.2 Generates Real-Time Ink Fluid Interactive Work](./sources/articles/fable-5-2-generates-real-time-ink-fluid-interactive-work.md).
+
 * **创建 / Creation**: 归档 [OpenAI dot 现支持同一账号连接多台本地电脑](./sources/articles/openai-dot-now-supports-connecting-multiple-local-computers-to-o.md)。 / Filed [OpenAI dot now supports connecting multiple local computers to one account](./sources/articles/openai-dot-now-supports-connecting-multiple-local-computers-to-o.md).
 
 * **创建 / Creation**: 归档 [OpenAI 发售 200 美元 Codex 版 Chromatic 掌机，一句话用 AI 做 Game Boy 游戏](./sources/articles/openai-sells-200-codex-edition-chromatic-handheld-make-game-boy.md)。 / Filed [OpenAI Sells $200 Codex Edition Chromatic Handheld, Make Game Boy Games with One Sentence via AI](./sources/articles/openai-sells-200-codex-edition-chromatic-handheld-make-game-boy.md).

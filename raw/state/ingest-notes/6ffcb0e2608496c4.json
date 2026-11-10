@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章重点涉及 Claude 订阅账号的身份验证与封号风控，与该主题高度相关。",
+    "topics/account-and-asset-security-hygiene.md": "帖文描述账号被封、申诉恢复等账号安全与资产卫生问题，属该主题范畴。",
+    "topics/usage-limit-ab-tests.md": "OpenAI 对同一卡片/设备多订阅的限制涉及用量与订阅上限管控，可参考该主题。",
+    "topics/premium-ai-subscription-value.md": "文中提及 Plus、Pro 等付费层级及 API 额度赠送，与高端 AI 订阅价值相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章重点涉及 Claude 订阅账号的身份验证与封号风控，与该主题高度相关。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文描述账号被封、申诉恢复等账号安全与资产卫生问题，属该主题范畴。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "OpenAI 对同一卡片/设备多订阅的限制涉及用量与订阅上限管控，可参考该主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及 Plus、Pro 等付费层级及 API 额度赠送，与高端 AI 订阅价值相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台单条帖文，所有平台行为与政策生效日期均按帖文表述。"
+}

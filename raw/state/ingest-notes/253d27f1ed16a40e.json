@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及用 Grok Bot 内置额度桥接 Agent 查 X，与帖文中 Grok Bot 降级后仍足够用于 X 相关定时任务的主张高度相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文提到让 Grok Bot 当包工头把任务下发给 Codex、CLI 等编程 Agent，与个人 Agent 调度编程 Agent 的主题一致。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文核心讨论 AI 订阅额度是否够用与体验取舍，直接对应编程 Agent 体验与额度的话题。",
+    "topics/premium-ai-subscription-value.md": "帖文讨论从高端 100 美元订阅降级到 30 美元的价值判断，与高端 AI 订阅价值主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及用 Grok Bot 内置额度桥接 Agent 查 X，与帖文中 Grok Bot 降级后仍足够用于 X 相关定时任务的主张高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到让 Grok Bot 当包工头把任务下发给 Codex、CLI 等编程 Agent，与个人 Agent 调度编程 Agent 的主题一致。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论 AI 订阅额度是否够用与体验取舍，直接对应编程 Agent 体验与额度的话题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文讨论从高端 100 美元订阅降级到 30 美元的价值判断，与高端 AI 订阅价值主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于额度是否够用、模型渠道取舍及替代方案的表述均来源于帖文作者，未独立核实。"
+}

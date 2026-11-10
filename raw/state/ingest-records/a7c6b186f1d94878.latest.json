@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:03:50.971Z",
+  "url": "https://x.com/op7418/status/2120035025655574865",
+  "slug": "a7c6b186f1d94878",
+  "content_hash": "b9d7ccf4bf495a06fb4fc533f9ffd255baf5ebe91d87cb7f3023dc49694bba09",
+  "source": {
+    "path": "sources/articles/notes-on-enabling-full-apple-intelligence-on-a-china-market-ipho.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/llm-assisted-ereader-jailbreak.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "文章涉及用 AI 辅助手段在设备上解锁或移植系统功能，与该主题最贴近。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "均属大模型协助进行设备越狱或功能解锁的实践类主题。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "用户明确提到让 Codex 完成操作，体现 AI 编程代理代劳的场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "文章涉及用 AI 辅助手段在设备上解锁或移植系统功能，与该主题最贴近。",
+    "topics/llm-assisted-ereader-jailbreak.md": "均属大模型协助进行设备越狱或功能解锁的实践类主题。",
+    "topics/vibe-coding-memory-paradox.md": "用户明确提到让 Codex 完成操作，体现 AI 编程代理代劳的场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/notes-on-enabling-full-apple-intelligence-on-a-china-market-ipho.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-os-port-wave.md",
+      "topics/llm-assisted-ereader-jailbreak.md",
+      "topics/vibe-coding-memory-paradox.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-os-port-wave.md": "文章涉及用 AI 辅助手段在设备上解锁或移植系统功能，与该主题最贴近。",
+      "topics/llm-assisted-ereader-jailbreak.md": "均属大模型协助进行设备越狱或功能解锁的实践类主题。",
+      "topics/vibe-coding-memory-paradox.md": "用户明确提到让 Codex 完成操作，体现 AI 编程代理代劳的场景。"
+    },
+    "notes": "来源为 X 帖文 https://x.com/op7418/status/2120035025655574865，未核实项目名称及 eSIM 相关声明。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/notes-on-enabling-full-apple-intelligence-on-a-china-market-ipho.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

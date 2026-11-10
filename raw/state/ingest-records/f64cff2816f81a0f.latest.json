@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:12:43.989Z",
+  "url": "https://x.com/xiaomovps/status/2119772167231693052",
+  "slug": "f64cff2816f81a0f",
+  "content_hash": "dd0a2d90fc3d1a1961e384171469cbf3c9700e6843ac29750852faadf665230b",
+  "source": {
+    "path": "sources/articles/domestic-ai-coding-plans-compete-around-40-rmb.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文对比多家厂商模型渠道与套餐取舍，与该主题高度相关"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "火山方舟一个套餐切换多家模型，涉及跨模型编排取舍"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Token/Credits 额度计费与 Agent 工具使用，相关度高"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "套餐额度、5 小时限制与编程 Agent 体验直接相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文对比多家厂商模型渠道与套餐取舍，与该主题高度相关",
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及 Token/Credits 额度计费与 Agent 工具使用，相关度高",
+    "topics/coding-agent-ux-vs-quota.md": "套餐额度、5 小时限制与编程 Agent 体验直接相关",
+    "topics/cloud-auto-model-routing.md": "火山方舟一个套餐切换多家模型，涉及跨模型编排取舍"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/domestic-ai-coding-plans-compete-around-40-rmb.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "帖文对比多家厂商模型渠道与套餐取舍，与该主题高度相关",
+      "topics/coding-agent-token-saving-tooling.md": "文章涉及 Token/Credits 额度计费与 Agent 工具使用，相关度高",
+      "topics/coding-agent-ux-vs-quota.md": "套餐额度、5 小时限制与编程 Agent 体验直接相关",
+      "topics/cloud-auto-model-routing.md": "火山方舟一个套餐切换多家模型，涉及跨模型编排取舍"
+    },
+    "notes": "所有主张均来源于该帖文，未独立核实模型能力与额度细节；日期按帖文显示为 2026 年 11 月 9 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/domestic-ai-coding-plans-compete-around-40-rmb.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "dacf5aefc0725611",
+  "url": "https://x.com/shao__meng/status/2119978619196084717",
+  "title": "Meta 的 JiTTests：不靠更快审代码，而是生成会失败的测试",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "dacf5aefc07256111d4753ee19149d66828e9aee14f5519a4cbc8abf4e029662",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:58.852Z",
+  "content_hash": "5d1870447bc3264baedf82cedbaab4fe1e8bf33c9c4136851ed1cc30e7f483ac",
+  "article_path": "articles/dacf5aefc0725611.md",
+  "fetched_url": "https://x.com/shao__meng/status/2119978619196084717",
+  "source_path": "sources/articles/meta-s-jittests-not-faster-code-review-but-generating-failing-te.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:51:42.836Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

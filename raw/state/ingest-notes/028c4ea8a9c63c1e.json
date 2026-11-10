@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "文章核心对比 Pi 的“精简核心+社区扩展”与 Claude Code 的一体化交付，直接命中该主题。",
+    "topics/coding-agent-ux-vs-quota.md": "文中讨论功能增多不等于体验更好、工作流稳定性优先，属于编程 Agent 体验议题。",
+    "topics/agent-auto-mode.md": "HN 评论提到不希望 Agent 自动决定启动子 Agent 或使用 Worktree，涉及智能体自动模式争议。"
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "文章核心对比 Pi 的“精简核心+社区扩展”与 Claude Code 的一体化交付，直接命中该主题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中讨论功能增多不等于体验更好、工作流稳定性优先，属于编程 Agent 体验议题。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "HN 评论提到不希望 Agent 自动决定启动子 Agent 或使用 Worktree，涉及智能体自动模式争议。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": " fetched markdown 末尾包含关于 Pi 1.5.1 更新的独立推文片段，本摘要仅聚焦主推文中关于 Claude Code 与 Pi 在 Hacker News 上的讨论。"
+}

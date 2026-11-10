@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "文章核心是对比 Claude Code 与 Pi 两款 Harness 的优劣，超越单纯 Token 数量的维度。",
+    "topics/coding-agent-token-saving-tooling.md": "作者批评 Claude Code 系统提示词与工具描述臃肿，Pi 则极度精简，直接关联 Token 开销优化。",
+    "topics/minimal-core-community-extensions.md": "Pi 的精简核心与社区扩展模式是作者推崇的关键，符合该主题。",
+    "topics/agent-auto-mode.md": "文中脚注提及 auto mode 与手动审查规则，涉及 Agent 自动模式的交互细节。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章核心是对比 Claude Code 与 Pi 两款 Harness 的优劣，超越单纯 Token 数量的维度。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "作者批评 Claude Code 系统提示词与工具描述臃肿，Pi 则极度精简，直接关联 Token 开销优化。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Pi 的精简核心与社区扩展模式是作者推崇的关键，符合该主题。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中脚注提及 auto mode 与手动审查规则，涉及 Agent 自动模式的交互细节。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章为个人博客观点，涉及 Claude Code 与 Pi 的主观体验对比；引用时请标注为作者观点/帖文称。"
+}

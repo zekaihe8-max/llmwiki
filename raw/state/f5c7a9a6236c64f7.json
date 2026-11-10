@@ -1,0 +1,34 @@
+{
+  "slug": "f5c7a9a6236c64f7",
+  "url": "https://www.reddit.com/r/leetcode/comments/1xrrdps/to_anyone_who_thinks_ai_interview_is_good_well",
+  "title": "Reddit",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "failed",
+  "hash": "f5c7a9a6236c64f785bb89306991683461b882e6a916a5baa3822131feef281d",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetch failed: fetch failed",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-10T11:56:41.128Z",
+      "stage": "fetch",
+      "error": "fetch failed: fetch failed"
+    },
+    {
+      "at": "2026-11-10T13:06:55.031Z",
+      "stage": "fetch",
+      "error": "fetch failed: fetch failed"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetch failed: fetch failed",
+  "last_fetch_failed_at": "2026-11-10T13:06:55.031Z"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T13:04:03.663Z",
+  "url": "https://box.simular.ai/",
+  "slug": "7f5d53cd87d542b3",
+  "content_hash": "5e09ce3f6711e099248b086f5e76e157095d23d85de1167bad25c465dffecf92",
+  "source": {
+    "path": "sources/articles/simular-box-cloud-linux-desktop-for-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章提及每日积分与云端计算资源，属于 Agent 算力与治理范畴"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是让 AI 操作真实云端桌面，与 Computer Use 主题直接相关"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章介绍多个 Agent/Harness 的 MCP 插件接入方式，与插件碎片化与接入主题相近"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 云环境的休眠、删除与备份问题，与文章中云桌面生命周期相符"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是让 AI 操作真实云端桌面，与 Computer Use 主题直接相关",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 云环境的休眠、删除与备份问题，与文章中云桌面生命周期相符",
+    "topics/agent-compute-and-governance.md": "文章提及每日积分与云端计算资源，属于 Agent 算力与治理范畴",
+    "topics/loose-web-agent-harness-plugins.md": "文章介绍多个 Agent/Harness 的 MCP 插件接入方式，与插件碎片化与接入主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/simular-box-cloud-linux-desktop-for-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/loose-web-agent-harness-plugins.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是让 AI 操作真实云端桌面，与 Computer Use 主题直接相关",
+      "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 云环境的休眠、删除与备份问题，与文章中云桌面生命周期相符",
+      "topics/agent-compute-and-governance.md": "文章提及每日积分与云端计算资源，属于 Agent 算力与治理范畴",
+      "topics/loose-web-agent-harness-plugins.md": "文章介绍多个 Agent/Harness 的 MCP 插件接入方式，与插件碎片化与接入主题相近"
+    },
+    "notes": "所有事实均源于提供的文章 Markdown，未编造 URL 或平台声明外的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/simular-box-cloud-linux-desktop-for-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

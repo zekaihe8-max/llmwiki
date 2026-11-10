@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是大模型智能体重做数学形式化证明，直接对应形式化验证话题。",
+    "topics/agent-scaled-engineering.md": "涉及 1000 个智能体的大规模并行工程，属于智能体规模化工程范畴。",
+    "topics/multiagent-infra-four-problems.md": "多智能体共享数据库、无人指挥的协作模式，与多智能体基建问题相关。",
+    "topics/agent-auto-mode.md": "智能体在无研究员当场指挥的情况下自主运行，体现自动模式特征。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是大模型智能体重做数学形式化证明，直接对应形式化验证话题。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及 1000 个智能体的大规模并行工程，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多智能体共享数据库、无人指挥的协作模式，与多智能体基建问题相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "智能体在无研究员当场指挥的情况下自主运行，体现自动模式特征。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://xnews.qiaomu.ai/ ; 原文链接: https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"
+}

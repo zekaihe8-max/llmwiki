@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/software-factory.md",
+    "topics/deterministic-refactor-automerge.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是 LLM 生成可执行测试进行缺陷验证，与形式化验证和自动化测试最相关",
+    "topics/software-factory.md": "Meta 的大规模代码合入流程与软件工厂/工程体系话题相近",
+    "topics/deterministic-refactor-automerge.md": "涉及代码变更合入前的自动化把关与风险优先级，与 PR 自动合入主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是 LLM 生成可执行测试进行缺陷验证，与形式化验证和自动化测试最相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Meta 的大规模代码合入流程与软件工厂/工程体系话题相近"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "涉及代码变更合入前的自动化把关与风险优先级，与 PR 自动合入主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 @shao__meng 的帖文，引用 Meta Engineers 和 engineering.fb.com；未独立核对文中声明的效果数据。"
+}

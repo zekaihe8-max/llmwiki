@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T13:02:50.007Z",
+  "url": "https://x.com/turingou/status/2119805239121580538",
+  "slug": "e3b84f3745d1607d",
+  "content_hash": "8eb3769904897a1e8a95d9ac6a7ab705ada3adcad7cd5015297bc7ec827f3f06",
+  "source": {
+    "path": "sources/articles/ci-is-the-main-limit-on-ai-is-anyone-building-faster-ci.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "讨论智能体规模化工程，与 CI 对 AI 研发交付的限制最为相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "围绕编程 Agent 工具与开销，CI 加速属于同类工程效率议题。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "涉及 PR 自动合入与 CI 流程确定性，与更快 CI 话题相邻。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调工作流优先于智能体，CI 作为工作流基础设施与之相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "讨论智能体规模化工程，与 CI 对 AI 研发交付的限制最为相关。",
+    "topics/deterministic-refactor-automerge.md": "涉及 PR 自动合入与 CI 流程确定性，与更快 CI 话题相邻。",
+    "topics/coding-agent-token-saving-tooling.md": "围绕编程 Agent 工具与开销，CI 加速属于同类工程效率议题。",
+    "topics/workflows-before-agents.md": "强调工作流优先于智能体，CI 作为工作流基础设施与之相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ci-is-the-main-limit-on-ai-is-anyone-building-faster-ci.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "讨论智能体规模化工程，与 CI 对 AI 研发交付的限制最为相关。",
+      "topics/deterministic-refactor-automerge.md": "涉及 PR 自动合入与 CI 流程确定性，与更快 CI 话题相邻。",
+      "topics/coding-agent-token-saving-tooling.md": "围绕编程 Agent 工具与开销，CI 加速属于同类工程效率议题。",
+      "topics/workflows-before-agents.md": "强调工作流优先于智能体，CI 作为工作流基础设施与之相关。"
+    },
+    "notes": "内容仅基于单条 X 帖文，未引入文章外事实；未核实主张均用“帖文称”表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ci-is-the-main-limit-on-ai-is-anyone-building-faster-ci.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/company-agent-harness.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "文中强调 parkuma 快速成型源于复用已有 harness 中台，与“先复用再编写”主题直接相关。",
+    "topics/company-agent-harness.md": "文中多次提到 harness 中台作为基础设施，对应公司级 Agent Harness 主题。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中提到应用可与个人助理联动，涉及基建与个人助手派活的区分。",
+    "topics/loose-web-agent-harness-plugins.md": "文中涉及沙盒、云浏览器等网页管控与插件能力，与 Harness 插件主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "文中强调 parkuma 快速成型源于复用已有 harness 中台，与“先复用再编写”主题直接相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 harness 中台作为基础设施，对应公司级 Agent Harness 主题。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中提到应用可与个人助理联动，涉及基建与个人助手派活的区分。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中涉及沙盒、云浏览器等网页管控与插件能力，与 Harness 插件主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实；未编造 URL 或超出文章内容的事实。"
+}

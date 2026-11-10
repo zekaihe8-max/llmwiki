@@ -1,0 +1,23 @@
+{
+  "slug": "d3c308689d2183a2",
+  "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+  "title": "博客",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "d3c308689d2183a239cc171d6a18604f865f9bcd1e502f311beb42dd6a400758",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:59.178Z",
+  "content_hash": "6d3ceab54ed38430e8bce0a219cfe9b3e6dcbe871af9417861e695ab7599cdea",
+  "article_path": "articles/d3c308689d2183a2.md",
+  "fetched_url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+  "source_path": "sources/articles/catching-bugs-before-they-land-jittesting-s-human-on-the-loop-ap.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:52:50.968Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

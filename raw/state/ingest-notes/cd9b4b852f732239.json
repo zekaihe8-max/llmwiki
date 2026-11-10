@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度，与本文额度重置主题最相关",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与重置机制，与分批重置的时间差相关",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 体验与额度，与用户对额度重置的反应相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度，与本文额度重置主题最相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与重置机制，与分批重置的时间差相关"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 体验与额度，与用户对额度重置的反应相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实的官方动机与整合推断已标注为作者称/帖文称，未将其作为平台事实呈现。"
+}

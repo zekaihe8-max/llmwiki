@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章提到复盘建议可导出为 DeepSeek Harness Skill，与该主题直接相关。",
+    "topics/loose-web-agent-harness-plugins.md": "本文介绍的是 DeepSeek Harness 社区插件，属于该主题讨论的 Agent Harness 插件范畴。",
+    "topics/minimal-core-community-extensions.md": "自媒体工作台是社区开发的插件扩展，而非官方核心功能，符合社区扩展主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章提到复盘建议可导出为 DeepSeek Harness Skill，与该主题直接相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "本文介绍的是 DeepSeek Harness 社区插件，属于该主题讨论的 Agent Harness 插件范畴。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "自媒体工作台是社区开发的插件扩展，而非官方核心功能，符合社区扩展主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "双语来源为 GitHub README 中文版，未引用文中未出现的外部链接或事实。"
+}

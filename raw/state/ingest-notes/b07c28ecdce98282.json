@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-in-chat-bug-feedback.md": "帖文核心是统一产品反馈入口，与“Agent 对话内问题反馈”主题相近。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Magpie 为路由产品，且帖文区分官方路由账号与个人吐槽号，与“多 Harness 路由基建 ≠ 个人助手派活”主题相关。",
+    "topics/cloud-auto-model-routing.md": "涉及 Magpie 路由产品的官方渠道，与模型路由/编排主题有关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "帖文核心是统一产品反馈入口，与“Agent 对话内问题反馈”主题相近。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Magpie 为路由产品，且帖文区分官方路由账号与个人吐槽号，与“多 Harness 路由基建 ≠ 个人助手派活”主题相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及 Magpie 路由产品的官方渠道，与模型路由/编排主题有关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题。"
+}

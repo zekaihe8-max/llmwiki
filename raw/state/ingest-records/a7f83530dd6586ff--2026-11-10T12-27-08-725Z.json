@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:27:08.725Z",
+  "url": "https://x.com/AlchainHust/status/2120039187621769620",
+  "slug": "a7f83530dd6586ff",
+  "content_hash": "9e2b9dfed032092f22dc200db8ef136f0affa885ef311b9418abf5ee7cc79669",
+  "source": {
+    "path": "sources/articles/open-source-projects-iterated-within-a-day-of-new-model-release.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "多个开源仓库快速迭代与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Nuwa skill 等 Agent Skill 的编写与迭代。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "开源技能项目与 Agent Skills 开放标准主题相近。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到对内部 harness 进行快速迭代，与公司级 Agent Harness 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文提到对内部 harness 进行快速迭代，与公司级 Agent Harness 主题相关。",
+    "topics/agent-skill-authoring.md": "帖文涉及 Nuwa skill 等 Agent Skill 的编写与迭代。",
+    "topics/agent-skills-open-standard.md": "开源技能项目与 Agent Skills 开放标准主题相近。",
+    "topics/agent-scaled-engineering.md": "多个开源仓库快速迭代与智能体规模化工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/open-source-projects-iterated-within-a-day-of-new-model-release.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "帖文提到对内部 harness 进行快速迭代，与公司级 Agent Harness 主题相关。",
+      "topics/agent-skill-authoring.md": "帖文涉及 Nuwa skill 等 Agent Skill 的编写与迭代。",
+      "topics/agent-skills-open-standard.md": "开源技能项目与 Agent Skills 开放标准主题相近。",
+      "topics/agent-scaled-engineering.md": "多个开源仓库快速迭代与智能体规模化工程相关。"
+    },
+    "notes": "文中三个 GitHub 链接为 t.co 短链，仅 nuwa-skill 仓库名在预览中可见，其余仓库名未在文中完整给出，未做编造。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/open-source-projects-iterated-within-a-day-of-new-model-release.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

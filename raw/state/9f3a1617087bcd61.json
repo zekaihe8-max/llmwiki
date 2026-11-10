@@ -1,0 +1,23 @@
+{
+  "slug": "9f3a1617087bcd61",
+  "url": "https://xnews.qiaomu.ai/",
+  "title": "体验站",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "9f3a1617087bcd6116656817860a8dbcbcf0f6d01310f5785224cf282e041300",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:56.101Z",
+  "content_hash": "0e6c36f1f80bafd9a7061e65a126064002143ea9a7f5a0fde6aa998e76e1a291",
+  "article_path": "articles/9f3a1617087bcd61.md",
+  "fetched_url": "https://xnews.qiaomu.ai/",
+  "source_path": "sources/articles/1000-claude-fable-5-2-agents-redo-formal-proof-of-fermat-s-last.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:49:04.639Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

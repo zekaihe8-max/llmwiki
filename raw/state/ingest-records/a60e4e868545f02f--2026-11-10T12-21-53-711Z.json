@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:21:53.711Z",
+  "url": "https://x.com/AlchainHust/status/2119948102698475938",
+  "slug": "a60e4e868545f02f",
+  "content_hash": "798301870c2f3dfa66ec2cbd21b1599b5e338d7c694a5e3fb99f5a6c77fa4b64",
+  "source": {
+    "path": "sources/articles/seedream-5-5-same-person-after-20-consecutive-edits-with-gif-emo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/agent-skill-authoring.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文末介绍了用于制作GIF表情包的Skill安装与使用流程，属于Agent Skill编写范畴。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "文章展示了以生图模型制作趣味贴纸与表情包的知识型AI应用，与生图趣味学习产品相近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章涉及生图角色一致性、姿势参考与多轮编辑质量边界，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章涉及生图角色一致性、姿势参考与多轮编辑质量边界，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "文末介绍了用于制作GIF表情包的Skill安装与使用流程，属于Agent Skill编写范畴。",
+    "topics/html-image-fun-knowledge-learning.md": "文章展示了以生图模型制作趣味贴纸与表情包的知识型AI应用，与生图趣味学习产品相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/seedream-5-5-same-person-after-20-consecutive-edits-with-gif-emo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/agent-skill-authoring.md",
+      "topics/html-image-fun-knowledge-learning.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "文章涉及生图角色一致性、姿势参考与多轮编辑质量边界，与该主题高度相关。",
+      "topics/agent-skill-authoring.md": "文末介绍了用于制作GIF表情包的Skill安装与使用流程，属于Agent Skill编写范畴。",
+      "topics/html-image-fun-knowledge-learning.md": "文章展示了以生图模型制作趣味贴纸与表情包的知识型AI应用，与生图趣味学习产品相近。"
+    },
+    "notes": "所有主张均来源于所提供的X帖文/文章正文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/seedream-5-5-same-person-after-20-consecutive-edits-with-gif-emo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

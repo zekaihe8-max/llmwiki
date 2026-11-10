@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅的价值与差异化待遇，与按订阅年限加赠重置相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与重置配额的分发机制，贴合按订阅时长分配重置次数。",
+    "topics/coding-agent-ux-vs-quota.md": "Fable 属于编程 Agent 类产品，重置次数直接关系到用户体验与额度。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅的价值与差异化待遇，与按订阅年限加赠重置相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与重置配额的分发机制，贴合按订阅时长分配重置次数。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Fable 属于编程 Agent 类产品，重置次数直接关系到用户体验与额度。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

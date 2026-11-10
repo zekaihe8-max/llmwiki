@@ -1,0 +1,23 @@
+{
+  "slug": "c2de48868a0472d6",
+  "url": "https://x.com/turingou/status/2119900399469785144",
+  "title": "Fable 5.2 被他拿去重写几个月前的 Intentware",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "c2de48868a0472d6f2f38b0061f689bad30fac4256f72b118995111d2bc821e9",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:57:01.725Z",
+  "content_hash": "2bca630910604382826421fd4be49667fbf1020f78c7513c01dd46970ac63732",
+  "article_path": "articles/c2de48868a0472d6.md",
+  "fetched_url": "https://x.com/turingou/status/2119900399469785144",
+  "source_path": "sources/articles/rewriting-old-intentware-with-fable-5-2-and-implanting-into-vert.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T13:01:49.276Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

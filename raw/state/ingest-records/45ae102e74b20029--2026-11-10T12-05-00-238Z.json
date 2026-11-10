@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:05:00.238Z",
+  "url": "https://x.com/xiaomovps/status/2120051114200711252",
+  "slug": "45ae102e74b20029",
+  "content_hash": "a42dba341bd03043bf7745560b89714555402e476436e61454b79a9e6c647b41",
+  "source": {
+    "path": "sources/articles/pi-1-5-1-four-usage-differences-cache-warming-login-and-message.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及缓存保温与 Message Threads 对 Token 开销的影响，与编程 Agent 省 Token 工具主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章涉及登录流程、终端界面模式等编程 Agent 体验与额度相关的使用变更。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章提到 Message Threads、上下文压缩回退，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "文章提到上下文压缩导致回退到完整请求，与长对话默认压缩主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及缓存保温与 Message Threads 对 Token 开销的影响，与编程 Agent 省 Token 工具主题相关。",
+    "topics/context-engineering-for-agents.md": "文章提到 Message Threads、上下文压缩回退，属于 Agent 上下文工程范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "文章涉及登录流程、终端界面模式等编程 Agent 体验与额度相关的使用变更。",
+    "topics/long-conversation-default-compression.md": "文章提到上下文压缩导致回退到完整请求，与长对话默认压缩主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-1-5-1-four-usage-differences-cache-warming-login-and-message.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/long-conversation-default-compression.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "文章涉及缓存保温与 Message Threads 对 Token 开销的影响，与编程 Agent 省 Token 工具主题相关。",
+      "topics/context-engineering-for-agents.md": "文章提到 Message Threads、上下文压缩回退，属于 Agent 上下文工程范畴。",
+      "topics/coding-agent-ux-vs-quota.md": "文章涉及登录流程、终端界面模式等编程 Agent 体验与额度相关的使用变更。",
+      "topics/long-conversation-default-compression.md": "文章提到上下文压缩导致回退到完整请求，与长对话默认压缩主题相近。"
+    },
+    "notes": "来源为 X 上 @xiaomovps 的帖文，未引用外部链接或超出文章的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-1-5-1-four-usage-differences-cache-warming-login-and-message.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

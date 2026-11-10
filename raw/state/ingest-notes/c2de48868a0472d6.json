@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/reuse-before-write.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文涉及个人 Agent 与 AI 编写/重写代码的结合，与“个人 Agent 调度编程 Agent”主题最贴近。",
+    "topics/reuse-before-write.md": "作者重写数月前的旧代码而非从零编写，体现“先复用再编写”的思路。",
+    "topics/agent-auto-mode.md": "将重写后的代码植入 Agent App 并运行 demo，涉及智能体自动运行模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文涉及个人 Agent 与 AI 编写/重写代码的结合，与“个人 Agent 调度编程 Agent”主题最贴近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "作者重写数月前的旧代码而非从零编写，体现“先复用再编写”的思路。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "将重写后的代码植入 Agent App 并运行 demo，涉及智能体自动运行模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期为帖文显示的 2026-11-09，未独立核实；模型能力与“动机被解决”等主张仅为作者观点，已用「帖文称」标注。"
+}

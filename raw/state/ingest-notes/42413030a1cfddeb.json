@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "Obsidian 插件与笔记集成属于 AI 辅助剪藏与媒体笔记范畴",
+    "topics/image-generation-pose-reference-libraries.md": "Seedream 5.5 生图质量与多轮编辑边界与生图参考库与质量边界相近",
+    "topics/html-image-fun-knowledge-learning.md": "生图模型作为趣味知识学习产品的一部分，主题相近"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "Obsidian 插件与笔记集成属于 AI 辅助剪藏与媒体笔记范畴"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "Seedream 5.5 生图质量与多轮编辑边界与生图参考库与质量边界相近"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "生图模型作为趣味知识学习产品的一部分，主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

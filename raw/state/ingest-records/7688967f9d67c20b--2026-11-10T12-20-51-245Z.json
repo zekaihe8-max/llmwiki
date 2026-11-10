@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:20:51.245Z",
+  "url": "https://x.com/AlchainHust/status/2120095832154501495",
+  "slug": "7688967f9d67c20b",
+  "content_hash": "40d61a1f1d3b01167c5e6e8b854d614b7f5f4424f226f6f85bb83061ae93823a",
+  "source": {
+    "path": "sources/articles/stroke-explanation-fable5-2-generates-images-via-python-code-not.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Fable5.2 作为语言模型执行跨模态任务，涉及智能体 AI 基础能力。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "视频内容为笔触按顺序回放，涉及智能体生成或编辑视频的相关议题。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文描述模型编写并运行 Python 程序控制图像生成，属计算机使用/工具使用场景。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "帖文讨论非传统绘图软件的图像生成方式，与生图边界相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文描述模型编写并运行 Python 程序控制图像生成，属计算机使用/工具使用场景。",
+    "topics/agentic-video-editing.md": "视频内容为笔触按顺序回放，涉及智能体生成或编辑视频的相关议题。",
+    "topics/image-generation-pose-reference-libraries.md": "帖文讨论非传统绘图软件的图像生成方式，与生图边界相关。",
+    "topics/agentic-ai-foundation.md": "Fable5.2 作为语言模型执行跨模态任务，涉及智能体 AI 基础能力。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stroke-explanation-fable5-2-generates-images-via-python-code-not.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agentic-video-editing.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文描述模型编写并运行 Python 程序控制图像生成，属计算机使用/工具使用场景。",
+      "topics/agentic-video-editing.md": "视频内容为笔触按顺序回放，涉及智能体生成或编辑视频的相关议题。",
+      "topics/image-generation-pose-reference-libraries.md": "帖文讨论非传统绘图软件的图像生成方式，与生图边界相关。",
+      "topics/agentic-ai-foundation.md": "Fable5.2 作为语言模型执行跨模态任务，涉及智能体 AI 基础能力。"
+    },
+    "notes": "来源为 X 帖文，未核实 Fable5.2 实际模型身份及其声称的跨模态能力。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stroke-explanation-fable5-2-generates-images-via-python-code-not.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

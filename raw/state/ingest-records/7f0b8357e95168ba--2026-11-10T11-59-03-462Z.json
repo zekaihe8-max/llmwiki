@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T11:59:03.462Z",
+  "url": "https://x.com/op7418/status/2119973618751057974",
+  "slug": "7f0b8357e95168ba",
+  "content_hash": "64a6216a840d9ab73f52d093ae4e58cc9ab4543db1afef8c408940d244abd5fa",
+  "source": {
+    "path": "sources/articles/fable-reset-bonus-scales-with-subscription-tenure.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Fable 属于编程 Agent 类产品，重置次数直接关系到用户体验与额度。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅的价值与差异化待遇，与按订阅年限加赠重置相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与重置配额的分发机制，贴合按订阅时长分配重置次数。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅的价值与差异化待遇，与按订阅年限加赠重置相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与重置配额的分发机制，贴合按订阅时长分配重置次数。",
+    "topics/coding-agent-ux-vs-quota.md": "Fable 属于编程 Agent 类产品，重置次数直接关系到用户体验与额度。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-reset-bonus-scales-with-subscription-tenure.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅的价值与差异化待遇，与按订阅年限加赠重置相关。",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限与重置配额的分发机制，贴合按订阅时长分配重置次数。",
+      "topics/coding-agent-ux-vs-quota.md": "Fable 属于编程 Agent 类产品，重置次数直接关系到用户体验与额度。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-reset-bonus-scales-with-subscription-tenure.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

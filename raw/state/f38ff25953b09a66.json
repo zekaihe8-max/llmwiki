@@ -1,0 +1,23 @@
+{
+  "slug": "f38ff25953b09a66",
+  "url": "https://x.com/turingou/status/2119910213943959753",
+  "title": "停车场应用 parkuma 一天做完，因为 harness 中台早就在",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "f38ff25953b09a66832d425dcfdad87c5e4db441206d334681fb5c9071880f06",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:57:01.902Z",
+  "content_hash": "23027613bcd21f278709a12ff1a6dc787c543798976e67705d91f6e1b1cfff3c",
+  "article_path": "articles/f38ff25953b09a66.md",
+  "fetched_url": "https://x.com/turingou/status/2119910213943959753",
+  "source_path": "sources/articles/parking-app-parkuma-built-in-one-day-by-reusing-harness-middle-p.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T13:02:16.288Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

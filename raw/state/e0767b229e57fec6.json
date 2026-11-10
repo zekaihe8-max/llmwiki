@@ -1,0 +1,23 @@
+{
+  "slug": "e0767b229e57fec6",
+  "url": "https://drive.google.com/file/d/1SsM7mBM4gVfQPXDFx6rx9IRdikjtZHQc/view",
+  "title": "PDF",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "e0767b229e57fec641467fc048e3ae867e6993292b8bd494ad659e73576d4e3c",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:51.999Z",
+  "content_hash": "f2b2a19fd85503ee2eaa51abfe78501b5e16f4c592f4fbda9779bf225428f113",
+  "article_path": "articles/e0767b229e57fec6.md",
+  "fetched_url": "https://drive.google.com/file/d/1SsM7mBM4gVfQPXDFx6rx9IRdikjtZHQc/view",
+  "source_path": "sources/articles/google-drive-pdf-source-body-unreadable.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:43:09.250Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

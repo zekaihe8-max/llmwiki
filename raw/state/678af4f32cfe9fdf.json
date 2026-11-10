@@ -1,0 +1,23 @@
+{
+  "slug": "678af4f32cfe9fdf",
+  "url": "https://github.com/joeseesun/xnews",
+  "title": "GitHub",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "678af4f32cfe9fdfd1665923f3878603eaa2aed13e52bb5849e77fd191fbee1a",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:57.648Z",
+  "content_hash": "968dc801b46ce6d6f6e75436bba54ec5e6f83c0ad0eb5dcc605d10b39e07c3e6",
+  "article_path": "articles/678af4f32cfe9fdf.md",
+  "fetched_url": "https://github.com/joeseesun/xnews",
+  "source_path": "sources/articles/x-news-chinese-rewriting-site-for-x-posts-and-ai-videos.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:49:50.640Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是 Claude Fable 5.2 的视频生成与剪辑表现，属智能体视频编辑范畴。",
+    "topics/claude-code-authorship-and-voice.md": "涉及 Claude 模型及其社区反响，但本条不讨论编程作者身份，故仅作参考并保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Claude Fable 5.2 的视频生成与剪辑表现，属智能体视频编辑范畴。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 模型及其社区反响，但本条不讨论编程作者身份，故仅作参考并保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "关于模型能力进化的表述均来源于帖文，已使用「帖文称／作者称」进行归属，未将其作为平台事实呈现。"
+}
