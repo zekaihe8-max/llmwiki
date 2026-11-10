@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文涉及对模型成色的自行试用，与公开榜单质量审查相近，但无需变更。",
+    "topics/community-evals-vs-score-hype.md": "用户自发试用 Fable 5.2 属社区实测行为，与该主题相关，但保持不变。",
+    "topics/ai-eval-work-record-gateway.md": "试用成色可视为评测入口与干活记录的微型样例，故咨询该主题，动作为 unchanged。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文涉及对模型成色的自行试用，与公开榜单质量审查相近，但无需变更。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "用户自发试用 Fable 5.2 属社区实测行为，与该主题相关，但保持不变。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "试用成色可视为评测入口与干活记录的微型样例，故咨询该主题，动作为 unchanged。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fable 5.2 的具体身份与能力未在文章中说明，所有主张均以帖文称引述。"
+}

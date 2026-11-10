@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:42:33.452Z",
+  "url": "https://x.com/cgnot996/status/2120022724471111953",
+  "slug": "1c5ccbccab454b75",
+  "content_hash": "6595cd06d20d1e1b94ee2fd372fffb05c6f925598b92199bd5386e4c65030375",
+  "source": {
+    "path": "sources/articles/11-page-report-breaks-down-why-grok-bot-is-getting-harder-to-use.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "马斯克承认成本难以为继，涉及智能体算力治理与成本控制"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "报告核心建议涉及上下文精简与工程，强相关"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 额度与使用体验，最贴切"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同为 Grok Bot 专题，补充社区视角"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 额度与使用体验，最贴切",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同为 Grok Bot 专题，补充社区视角",
+    "topics/context-engineering-for-agents.md": "报告核心建议涉及上下文精简与工程，强相关",
+    "topics/agent-compute-and-governance.md": "马斯克承认成本难以为继，涉及智能体算力治理与成本控制"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/11-page-report-breaks-down-why-grok-bot-is-getting-harder-to-use.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 额度与使用体验，最贴切",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同为 Grok Bot 专题，补充社区视角",
+      "topics/context-engineering-for-agents.md": "报告核心建议涉及上下文精简与工程，强相关",
+      "topics/agent-compute-and-governance.md": "马斯克承认成本难以为继，涉及智能体算力治理与成本控制"
+    },
+    "notes": "Source is a single X post with an attached 11-page PDF (linked in comments). Claims about quota savings (100%→20%) are attributed to the report's simulation, not official measurements. Model degradation and VM hibernation are described as user-observed issues without official acknowledgment or timeline.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/11-page-report-breaks-down-why-grok-bot-is-getting-harder-to-use.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

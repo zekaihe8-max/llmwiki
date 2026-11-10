@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:52:50.967Z",
+  "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+  "slug": "d3c308689d2183a2",
+  "content_hash": "6d3ceab54ed38430e8bce0a219cfe9b3e6dcbe871af9417861e695ab7599cdea",
+  "source": {
+    "path": "sources/articles/catching-bugs-before-they-land-jittesting-s-human-on-the-loop-ap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/llm-formal-verification.md",
+    "topics/software-factory.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讲述 Meta 将 AI 测试系统扩展到全公司基础设施，与智能体规模化工程主题高度相关。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是用 LLM 生成可执行测试来捕获代码缺陷，属于 LLM 驱动的代码验证与测试场景。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中描述将测试流程工业化并集成到 Meta 工程基础设施，符合软件工厂主题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先定义工作流与成功标准，再让 AI 执行测试，人类在策略层面干预，契合工作流优先于智能体的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章讲述 Meta 将 AI 测试系统扩展到全公司基础设施，与智能体规模化工程主题高度相关。",
+    "topics/llm-formal-verification.md": "文章核心是用 LLM 生成可执行测试来捕获代码缺陷，属于 LLM 驱动的代码验证与测试场景。",
+    "topics/software-factory.md": "文中描述将测试流程工业化并集成到 Meta 工程基础设施，符合软件工厂主题。",
+    "topics/workflows-before-agents.md": "文章强调先定义工作流与成功标准，再让 AI 执行测试，人类在策略层面干预，契合工作流优先于智能体的主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/catching-bugs-before-they-land-jittesting-s-human-on-the-loop-ap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/llm-formal-verification.md",
+      "topics/software-factory.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章讲述 Meta 将 AI 测试系统扩展到全公司基础设施，与智能体规模化工程主题高度相关。",
+      "topics/llm-formal-verification.md": "文章核心是用 LLM 生成可执行测试来捕获代码缺陷，属于 LLM 驱动的代码验证与测试场景。",
+      "topics/software-factory.md": "文中描述将测试流程工业化并集成到 Meta 工程基础设施，符合软件工厂主题。",
+      "topics/workflows-before-agents.md": "文章强调先定义工作流与成功标准，再让 AI 执行测试，人类在策略层面干预，契合工作流优先于智能体的主题。"
+    },
+    "notes": "Source URL: https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/catching-bugs-before-they-land-jittesting-s-human-on-the-loop-ap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

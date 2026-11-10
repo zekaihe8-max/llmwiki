@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:45:46.300Z",
+  "url": "https://x.com/yetone/status/2119813846240231699",
+  "slug": "96596e2e21bce47a",
+  "content_hash": "ab5007d3becd9023136fa76cec39d7c8d09c18df99cab5ccccdbddaabf32402f",
+  "source": {
+    "path": "sources/articles/doubao-now-available-in-pi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及模型渠道接入与选用，与帖文提到的模型可用性相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及跨模型编排与接入，与在 Pi 中使用豆包相关。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在 Pi 应用内接入豆包模型，与应用内模型合作主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文涉及在 Pi 应用内接入豆包模型，与应用内模型合作主题相关。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道接入与选用，与帖文提到的模型可用性相关。",
+    "topics/cloud-auto-model-routing.md": "涉及跨模型编排与接入，与在 Pi 中使用豆包相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/doubao-now-available-in-pi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/in-app-model-partnerships.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/in-app-model-partnerships.md": "帖文涉及在 Pi 应用内接入豆包模型，与应用内模型合作主题相关。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道接入与选用，与帖文提到的模型可用性相关。",
+      "topics/cloud-auto-model-routing.md": "涉及跨模型编排与接入，与在 Pi 中使用豆包相关。"
+    },
+    "notes": "帖文内容极简，仅确认豆包在 Pi 中可用，未披露具体接入方式、配额、速率限制或技术细节；所有主张均按帖文表述引用，未作为平台事实背书。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/doubao-now-available-in-pi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

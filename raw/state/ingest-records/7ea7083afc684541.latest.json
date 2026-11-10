@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:50:36.341Z",
+  "url": "https://x.com/vista8/status/2120068596034646061",
+  "slug": "7ea7083afc684541",
+  "content_hash": "c5925e1e013e65851e554a2c1378e20ac1f1edfb09f262a6f3a0fa8e958f6027",
+  "source": {
+    "path": "sources/articles/capwise-designing-virtual-avatars-for-camera-shy-screen-recordin.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agentic-video-editing.md",
+    "topics/model-mascot-merch-harness-coheat.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "录屏演示与视频内容制作属于视频编辑相关场景"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "虚拟形象与角色伴侣设计与帖文中的虚拟人设计最为贴近"
+    },
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "unchanged",
+      "reason": "虚拟形象可类比模型吉祥物与角色设计"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "虚拟形象与角色伴侣设计与帖文中的虚拟人设计最为贴近",
+    "topics/agentic-video-editing.md": "录屏演示与视频内容制作属于视频编辑相关场景",
+    "topics/model-mascot-merch-harness-coheat.md": "虚拟形象可类比模型吉祥物与角色设计"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/capwise-designing-virtual-avatars-for-camera-shy-screen-recordin.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/desktop-outfit-character-companions.md",
+      "topics/agentic-video-editing.md",
+      "topics/model-mascot-merch-harness-coheat.md"
+    ],
+    "selection_reasons": {
+      "topics/desktop-outfit-character-companions.md": "虚拟形象与角色伴侣设计与帖文中的虚拟人设计最为贴近",
+      "topics/agentic-video-editing.md": "录屏演示与视频内容制作属于视频编辑相关场景",
+      "topics/model-mascot-merch-harness-coheat.md": "虚拟形象可类比模型吉祥物与角色设计"
+    },
+    "notes": "所有主张均引用自该帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/capwise-designing-virtual-avatars-for-camera-shy-screen-recordin.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

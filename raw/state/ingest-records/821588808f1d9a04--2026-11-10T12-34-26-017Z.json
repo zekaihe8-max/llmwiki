@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:34:26.017Z",
+  "url": "https://x.com/Gorden_Sun/status/2120100891927974107",
+  "slug": "821588808f1d9a04",
+  "content_hash": "39736cccfc8e0d38a7ef9e11194a1ec1b93f2f492a03def587668abb4c97448e",
+  "source": {
+    "path": "sources/articles/fable-5-2-video-generation-demo-same-scene-multi-style-splicing.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "直接对应 AI 视频生成与剪辑主题，Fable 5.2 属于生成式视频工具"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "涉及生成质量边界与细节对比，作者将 Fable 5.2 与 Opus 5.5 对比"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "视频生成的连贯性与世界模型能力相关，展示场景一致性"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "直接对应 AI 视频生成与剪辑主题，Fable 5.2 属于生成式视频工具",
+    "topics/image-generation-pose-reference-libraries.md": "涉及生成质量边界与细节对比，作者将 Fable 5.2 与 Opus 5.5 对比",
+    "topics/interactive-world-models.md": "视频生成的连贯性与世界模型能力相关，展示场景一致性"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-video-generation-demo-same-scene-multi-style-splicing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "直接对应 AI 视频生成与剪辑主题，Fable 5.2 属于生成式视频工具",
+      "topics/image-generation-pose-reference-libraries.md": "涉及生成质量边界与细节对比，作者将 Fable 5.2 与 Opus 5.5 对比",
+      "topics/interactive-world-models.md": "视频生成的连贯性与世界模型能力相关，展示场景一致性"
+    },
+    "notes": "Source is a single X post with embedded video; claims about model superiority are author's subjective opinion, not independently verified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-video-generation-demo-same-scene-multi-style-splicing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

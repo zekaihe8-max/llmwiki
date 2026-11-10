@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:43:40.024Z",
+  "url": "https://x.com/cgnot996/status/2119949288646300075",
+  "slug": "cd9b4b852f732239",
+  "content_hash": "d68b9b5e70c38bf018dd2668410318b044ea7f72a840dd2105949b38874b17d4",
+  "source": {
+    "path": "sources/articles/time-lag-in-grok-bot-weekly-quota-reset-old-and-new-subscribers.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 体验与额度，与用户对额度重置的反应相关"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度，与本文额度重置主题最相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与重置机制，与分批重置的时间差相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度，与本文额度重置主题最相关",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与重置机制，与分批重置的时间差相关",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 体验与额度，与用户对额度重置的反应相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/time-lag-in-grok-bot-weekly-quota-reset-old-and-new-subscribers.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度，与本文额度重置主题最相关",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限与重置机制，与分批重置的时间差相关",
+      "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 体验与额度，与用户对额度重置的反应相关"
+    },
+    "notes": "未核实的官方动机与整合推断已标注为作者称/帖文称，未将其作为平台事实呈现。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/time-lag-in-grok-bot-weekly-quota-reset-old-and-new-subscribers.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

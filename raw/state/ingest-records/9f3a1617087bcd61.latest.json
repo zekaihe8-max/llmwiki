@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:49:04.638Z",
+  "url": "https://xnews.qiaomu.ai/",
+  "slug": "9f3a1617087bcd61",
+  "content_hash": "0e6c36f1f80bafd9a7061e65a126064002143ea9a7f5a0fde6aa998e76e1a291",
+  "source": {
+    "path": "sources/articles/1000-claude-fable-5-2-agents-redo-formal-proof-of-fermat-s-last.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "智能体在无研究员当场指挥的情况下自主运行，体现自动模式特征。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及 1000 个智能体的大规模并行工程，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是大模型智能体重做数学形式化证明，直接对应形式化验证话题。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多智能体共享数据库、无人指挥的协作模式，与多智能体基建问题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是大模型智能体重做数学形式化证明，直接对应形式化验证话题。",
+    "topics/agent-scaled-engineering.md": "涉及 1000 个智能体的大规模并行工程，属于智能体规模化工程范畴。",
+    "topics/multiagent-infra-four-problems.md": "多智能体共享数据库、无人指挥的协作模式，与多智能体基建问题相关。",
+    "topics/agent-auto-mode.md": "智能体在无研究员当场指挥的情况下自主运行，体现自动模式特征。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/1000-claude-fable-5-2-agents-redo-formal-proof-of-fermat-s-last.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "文章核心是大模型智能体重做数学形式化证明，直接对应形式化验证话题。",
+      "topics/agent-scaled-engineering.md": "涉及 1000 个智能体的大规模并行工程，属于智能体规模化工程范畴。",
+      "topics/multiagent-infra-four-problems.md": "多智能体共享数据库、无人指挥的协作模式，与多智能体基建问题相关。",
+      "topics/agent-auto-mode.md": "智能体在无研究员当场指挥的情况下自主运行，体现自动模式特征。"
+    },
+    "notes": "Source URL: https://xnews.qiaomu.ai/ ; 原文链接: https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/1000-claude-fable-5-2-agents-redo-formal-proof-of-fermat-s-last.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

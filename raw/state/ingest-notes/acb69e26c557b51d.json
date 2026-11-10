@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/on-chip-agent-runtime.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "本文聚焦小参数量、开放权重的端侧模型，与本地开放小模型主题最贴近。",
+    "topics/mobile-agent-dev-full-chain.md": "模型在手机 NPU 上运行，涉及移动端侧 AI 部署与端到端使用。",
+    "topics/on-chip-agent-runtime.md": "强调芯片级 NPU 运行时与低延迟推理，与端侧模型运行相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本文聚焦小参数量、开放权重的端侧模型，与本地开放小模型主题最贴近。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "模型在手机 NPU 上运行，涉及移动端侧 AI 部署与端到端使用。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "强调芯片级 NPU 运行时与低延迟推理，与端侧模型运行相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有参数、体积、延迟与能力主张均来源于该 X 帖文，未经独立核实，已使用「帖文称」等表述进行归属。"
+}

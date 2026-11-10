@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是规模化 Agent 工程（月交千 PR），与该主题直接相关。",
+    "topics/agent-skill-authoring.md": "文中多次提到“验证技能”“技能目录”“playbook”，属于 Agent Skill 编写范畴。",
+    "topics/context-engineering-for-agents.md": "功能地图和代码库作为 Agent 上下文，涉及上下文工程。",
+    "topics/workflows-before-agents.md": "先建流程和检查手段，再让 Agent 自动化，符合“工作流优先于智能体”。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是规模化 Agent 工程（月交千 PR），与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中多次提到“验证技能”“技能目录”“playbook”，属于 Agent Skill 编写范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "功能地图和代码库作为 Agent 上下文，涉及上下文工程。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "先建流程和检查手段，再让 Agent 自动化，符合“工作流优先于智能体”。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未直接观看 Lauren 原始分享视频，所有主张均基于该帖文复述。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:47:14.448Z",
+  "url": "https://x.com/xiaomovps/status/2119986770855297348",
+  "slug": "3a33ce21ebc932a8",
+  "content_hash": "d6a1fcaf7da9b8b15967c652326311d4e80d23e765ccc9c5189ed81af6b7c8b9",
+  "source": {
+    "path": "sources/articles/five-module-breakdown-of-the-deepseek-harness-self-media-plugin.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "帖文重点称赞插件 UI 界面，与插件样式一致性及 Harness 界面碎片化讨论相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章主体为 DeepSeek Harness 社区插件，与该主题直接相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "插件由社区开发者制作并获官方推荐，对应精简核心与社区扩展主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章主体为 DeepSeek Harness 社区插件，与该主题直接相关。",
+    "topics/harness-plugin-style-fragmentation.md": "帖文重点称赞插件 UI 界面，与插件样式一致性及 Harness 界面碎片化讨论相关。",
+    "topics/minimal-core-community-extensions.md": "插件由社区开发者制作并获官方推荐，对应精简核心与社区扩展主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/five-module-breakdown-of-the-deepseek-harness-self-media-plugin.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "文章主体为 DeepSeek Harness 社区插件，与该主题直接相关。",
+      "topics/harness-plugin-style-fragmentation.md": "帖文重点称赞插件 UI 界面，与插件样式一致性及 Harness 界面碎片化讨论相关。",
+      "topics/minimal-core-community-extensions.md": "插件由社区开发者制作并获官方推荐，对应精简核心与社区扩展主题。"
+    },
+    "notes": "来源为 X 帖文，项目地址为缩短的 t.co 链接，未展开完整 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/five-module-breakdown-of-the-deepseek-harness-self-media-plugin.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

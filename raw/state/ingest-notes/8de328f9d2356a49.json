@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比 Fable 5.2 medium 与 Opus 5.5 high 的能力档位，属模型策略取舍。",
+    "topics/claude-subscription-risk-control-weights.md": "涉及 Claude Pro 订阅用户权限与重置次数，属订阅风控/权重范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提到“更省额度”，与编程 Agent 体验与额度相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Fable 5.2 medium 与 Opus 5.5 high 的能力档位，属模型策略取舍。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude Pro 订阅用户权限与重置次数，属订阅风控/权重范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提到“更省额度”，与编程 Agent 体验与额度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有模型能力、订阅权限与额度说法均来源于单一 X 帖文，已用“帖文称”限定，未将其作为平台验证事实。"
+}

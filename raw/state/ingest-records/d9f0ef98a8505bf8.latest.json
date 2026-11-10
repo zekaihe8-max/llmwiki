@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:20:13.462Z",
+  "url": "https://x.com/AlchainHust/status/2120065556003102731",
+  "slug": "d9f0ef98a8505bf8",
+  "content_hash": "c1d6cba712c4b31e48cca1e1c371b57f5fe4799a5b8eea62aacb88b4f0c8dd3a",
+  "source": {
+    "path": "sources/articles/recreate-fable5-2-redraws-bora-bora-photo-in-claude-code.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/interactive-world-models.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中提到在 Claude Code 内调用特定模型 Fable5.2，涉及面向 Agent 的模型选用。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文发生在 Claude Code 中，与该话题的 Claude Code 使用场景最贴近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "核心内容是用模型进行绘图/复刻照片，与生图质量边界相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文称语言模型可兼图生与视频生成，涉及模型作为世界模型的可能性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文发生在 Claude Code 中，与该话题的 Claude Code 使用场景最贴近。",
+    "topics/image-generation-pose-reference-libraries.md": "核心内容是用模型进行绘图/复刻照片，与生图质量边界相关。",
+    "topics/interactive-world-models.md": "帖文称语言模型可兼图生与视频生成，涉及模型作为世界模型的可能性。",
+    "topics/agent-model-channel-tradeoffs.md": "文中提到在 Claude Code 内调用特定模型 Fable5.2，涉及面向 Agent 的模型选用。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/recreate-fable5-2-redraws-bora-bora-photo-in-claude-code.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/interactive-world-models.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "帖文发生在 Claude Code 中，与该话题的 Claude Code 使用场景最贴近。",
+      "topics/image-generation-pose-reference-libraries.md": "核心内容是用模型进行绘图/复刻照片，与生图质量边界相关。",
+      "topics/interactive-world-models.md": "帖文称语言模型可兼图生与视频生成，涉及模型作为世界模型的可能性。",
+      "topics/agent-model-channel-tradeoffs.md": "文中提到在 Claude Code 内调用特定模型 Fable5.2，涉及面向 Agent 的模型选用。"
+    },
+    "notes": "未核实 Fable5.2 的实际多模态能力，所有模型能力主张均为帖文称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/recreate-fable5-2-redraws-bora-bora-photo-in-claude-code.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

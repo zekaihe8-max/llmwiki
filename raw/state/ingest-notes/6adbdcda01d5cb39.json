@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/china-special-edition-preinstalls.md",
+    "topics/ai-app-iphone-duo-adaptation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "项目通过非常规手段在国行设备上移植/解锁 Apple Intelligence，属于 AI 协助的系统破解移植风潮",
+    "topics/china-special-edition-preinstalls.md": "涉及中国特供版 iPhone 的功能限制（Apple Intelligence 缺失、eSIM 限制）及其被破解",
+    "topics/ai-app-iphone-duo-adaptation.md": "Apple Intelligence 作为核心 AI 功能在 iPhone 上的适配与解锁"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "项目通过非常规手段在国行设备上移植/解锁 Apple Intelligence，属于 AI 协助的系统破解移植风潮"
+    },
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "涉及中国特供版 iPhone 的功能限制（Apple Intelligence 缺失、eSIM 限制）及其被破解"
+    },
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "Apple Intelligence 作为核心 AI 功能在 iPhone 上的适配与解锁"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Claims about the project's capabilities are attributed to the post author; no independent verification provided. The project name/link not disclosed in the tweet."
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:37:06.451Z",
+  "url": "https://x.com/dotey/status/2120039846118821976",
+  "slug": "55e0f0b9788c07b9",
+  "content_hash": "e336a4c1f1e0cdc16edabc114b890e8f5a0eb50917e16269303f3faf27fc1571",
+  "source": {
+    "path": "sources/articles/the-bitter-lesson-brute-force-compute-is-not-enough-clever-new-m.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及算力与智能的关系，与算力治理主题相近，但无需变更。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 算法与智能基础，与智能体基础主题相近，但无需变更。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文中提到模型能力随算法和算力增长，与任务时界主题相近，但无需变更。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "文中区分人类硬编码与通用学习机制，与智能指标主题相近，但无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "文章讨论 AI 算法与智能基础，与智能体基础主题相近，但无需变更。",
+    "topics/agent-compute-and-governance.md": "文中涉及算力与智能的关系，与算力治理主题相近，但无需变更。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "文中区分人类硬编码与通用学习机制，与智能指标主题相近，但无需变更。",
+    "topics/ai-task-horizon-growth.md": "文中提到模型能力随算法和算力增长，与任务时界主题相近，但无需变更。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/the-bitter-lesson-brute-force-compute-is-not-enough-clever-new-m.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "文章讨论 AI 算法与智能基础，与智能体基础主题相近，但无需变更。",
+      "topics/agent-compute-and-governance.md": "文中涉及算力与智能的关系，与算力治理主题相近，但无需变更。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "文中区分人类硬编码与通用学习机制，与智能指标主题相近，但无需变更。",
+      "topics/ai-task-horizon-growth.md": "文中提到模型能力随算法和算力增长，与任务时界主题相近，但无需变更。"
+    },
+    "notes": "来源为 @dotey 在 X 上的帖文，引用了 Richard Sutton 与 Prashant Rai 的推文；未引用外部链接或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/the-bitter-lesson-brute-force-compute-is-not-enough-clever-new-m.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

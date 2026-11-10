@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:46:28.543Z",
+  "url": "https://x.com/0xlangeai/status/2120023646974640332",
+  "slug": "44551296ec007a71",
+  "content_hash": "068f3cac76366e30aa2212799f25456631ce095692447a08a05f8ef0f94278a5",
+  "source": {
+    "path": "sources/articles/deepseek-harness-workbench-dsh-media-desk-and-dsh-guizang-design.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/deepseek-inference-vs-aggregators.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "与 Agent Harness 公司级使用主题最贴近，但本文仅为单条社交帖文，故保持原主题不变。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文中提及 DeepSeek 自营产品，与该主题相关，但帖文不涉及推理与聚合平台对比，故不作更改。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "讨论 Harness 插件界面碎片化，与插件安装体验相关，保持原主题不变。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 插件，与文中 dsh-media-desk、dsh-guizang-design 插件相关，但无需新建或修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "与 Agent Harness 公司级使用主题最贴近，但本文仅为单条社交帖文，故保持原主题不变。",
+    "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件，与文中 dsh-media-desk、dsh-guizang-design 插件相关，但无需新建或修改。",
+    "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件界面碎片化，与插件安装体验相关，保持原主题不变。",
+    "topics/deepseek-inference-vs-aggregators.md": "文中提及 DeepSeek 自营产品，与该主题相关，但帖文不涉及推理与聚合平台对比，故不作更改。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-workbench-dsh-media-desk-and-dsh-guizang-design.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/deepseek-inference-vs-aggregators.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "与 Agent Harness 公司级使用主题最贴近，但本文仅为单条社交帖文，故保持原主题不变。",
+      "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件，与文中 dsh-media-desk、dsh-guizang-design 插件相关，但无需新建或修改。",
+      "topics/harness-plugin-style-fragmentation.md": "讨论 Harness 插件界面碎片化，与插件安装体验相关，保持原主题不变。",
+      "topics/deepseek-inference-vs-aggregators.md": "文中提及 DeepSeek 自营产品，与该主题相关，但帖文不涉及推理与聚合平台对比，故不作更改。"
+    },
+    "notes": "所有主张均使用「帖文称」等表述，未将社交媒体内容作为平台事实呈现。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-workbench-dsh-media-desk-and-dsh-guizang-design.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

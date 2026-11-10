@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T13:05:30.629Z",
+  "url": "https://x.com/wquguru/status/2120023424663974193",
+  "slug": "5fdea2a8a6aaf6e8",
+  "content_hash": "916c4334c6959f591699cce5081b1ff5344a74e784d52758e05631255314ccca",
+  "source": {
+    "path": "sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "MiniMax H3 属于视频生成模型，与智能体视频剪辑主题相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "帖文涉及角色置换（Character Swap），与桌面换装角色伴侣主题相近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "SAM3D Body 涉及三维体态与生图，与生图姿势参考库主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "帖文涉及角色置换（Character Swap），与桌面换装角色伴侣主题相近。",
+    "topics/agentic-video-editing.md": "MiniMax H3 属于视频生成模型，与智能体视频剪辑主题相关。",
+    "topics/image-generation-pose-reference-libraries.md": "SAM3D Body 涉及三维体态与生图，与生图姿势参考库主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/desktop-outfit-character-companions.md",
+      "topics/agentic-video-editing.md",
+      "topics/image-generation-pose-reference-libraries.md"
+    ],
+    "selection_reasons": {
+      "topics/desktop-outfit-character-companions.md": "帖文涉及角色置换（Character Swap），与桌面换装角色伴侣主题相近。",
+      "topics/agentic-video-editing.md": "MiniMax H3 属于视频生成模型，与智能体视频剪辑主题相关。",
+      "topics/image-generation-pose-reference-libraries.md": "SAM3D Body 涉及三维体态与生图，与生图姿势参考库主题相关。"
+    },
+    "notes": "帖文正文极简，仅包含标题、媒体时间标记与基础互动数据，未披露技术细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与 X 查询，与本文 Grok Bot 额度重置主题最相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与重置机制，与文中额度重置和消耗讨论相近。",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度，与文中体验变快、消耗快的观察相关。",
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与新旧订阅重置差异相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与 X 查询，与本文 Grok Bot 额度重置主题最相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与重置机制，与文中额度重置和消耗讨论相近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度，与文中体验变快、消耗快的观察相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，与新旧订阅重置差异相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于额度重置、速度变化和消耗的表述均来源于帖文作者主张，未独立核实。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T13:00:17.668Z",
+  "url": "https://x.com/0xLogicrw/status/2120089702602514500",
+  "slug": "64593ad79617d8fe",
+  "content_hash": "8d4ade828542f29645d1fdd5e349bede49ca08566f9185f57f1e754f26182c38",
+  "source": {
+    "path": "sources/articles/bloomberg-reports-moonshot-ai-rented-b300-chips-in-china-company.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章围绕 AI 算力租赁、融资抵押与监管数据库备案，属算力治理范畴。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "涉及中国获取受美国出口管制的顶级 AI 算力，与中美算力优势对比直接相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "B300 属前沿 AI 芯片，其在国内出现涉及训练与推理算力的合规与管控关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/china-open-source-lead-us-compute.md": "涉及中国获取受美国出口管制的顶级 AI 算力，与中美算力优势对比直接相关。",
+    "topics/agent-compute-and-governance.md": "文章围绕 AI 算力租赁、融资抵押与监管数据库备案，属算力治理范畴。",
+    "topics/frontier-training-containment.md": "B300 属前沿 AI 芯片，其在国内出现涉及训练与推理算力的合规与管控关切。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bloomberg-reports-moonshot-ai-rented-b300-chips-in-china-company.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/china-open-source-lead-us-compute.md": "涉及中国获取受美国出口管制的顶级 AI 算力，与中美算力优势对比直接相关。",
+      "topics/agent-compute-and-governance.md": "文章围绕 AI 算力租赁、融资抵押与监管数据库备案，属算力治理范畴。",
+      "topics/frontier-training-containment.md": "B300 属前沿 AI 芯片，其在国内出现涉及训练与推理算力的合规与管控关切。"
+    },
+    "notes": "来源为 X 用户 @0xLogicrw 的帖文，内容引述彭博报道及公司否认声明，未独立核实未披露的采购渠道。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bloomberg-reports-moonshot-ai-rented-b300-chips-in-china-company.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

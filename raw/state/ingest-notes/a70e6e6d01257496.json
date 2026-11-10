@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章涉及面向微型设备的基础模型，与本地开放小模型主题最贴近",
+    "topics/open-weight-frontier-models.md": "Mirage 托管于 Hugging Face 并属模型集合，与开放权重模型主题相关",
+    "topics/gpu-ai-compute-unlock.md": "微型设备模型通常关联消费级算力与边缘部署，与该主题有交叉"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章涉及面向微型设备的基础模型，与本地开放小模型主题最贴近"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Mirage 托管于 Hugging Face 并属模型集合，与开放权重模型主题相关"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "微型设备模型通常关联消费级算力与边缘部署，与该主题有交叉"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源文本极简，仅包含 Hugging Face 集合页面片段，未披露模型架构、参数或性能细节。"
+}

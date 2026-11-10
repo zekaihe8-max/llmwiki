@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/llm-maintained-wiki.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文围绕 Grok Bot 抓取 X 内容，与该主题直接相关，无需修改。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "涉及 Grok Bot 对 X 上信息的情报处理，与本文抓取分析长文相近，保持不变。",
+    "topics/ai-assisted-clipping-and-notes.md": "项目本质为 AI 辅助剪藏、翻译与发布，与该主题高度相关，保持不变。",
+    "topics/llm-maintained-wiki.md": "将抓取内容转写并发布为网站，与 LLM 维护的 wiki/站点思路相近，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 Grok Bot 抓取 X 内容，与该主题直接相关，无需修改。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 对 X 上信息的情报处理，与本文抓取分析长文相近，保持不变。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "项目本质为 AI 辅助剪藏、翻译与发布，与该主题高度相关，保持不变。"
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "将抓取内容转写并发布为网站，与 LLM 维护的 wiki/站点思路相近，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该 X 帖文，未独立核实开源地址或体验网站内容。"
+}

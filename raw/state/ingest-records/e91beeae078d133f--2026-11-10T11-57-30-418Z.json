@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T11:57:30.418Z",
+  "url": "https://x.com/op7418/status/2120085300185833878",
+  "slug": "e91beeae078d133f",
+  "content_hash": "51edca79d4515b002c474fbca7214654129bddca05ba555af4f861643630fed0",
+  "source": {
+    "path": "sources/articles/fable-5-2-generates-real-time-ink-fluid-interactive-work.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "作者称未指定主题即由 AI 一次生成可交互的小型作品，与随手 AI 小游戏一次成功相近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文描述的实时流体模拟与动态天气相互影响，属于实时交互世界模型范畴。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "Fable 5.2 凭创意能力生成交互墨水作画，体现 AI 生成游戏/交互内容的模型拐点讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文描述的实时流体模拟与动态天气相互影响，属于实时交互世界模型范畴。",
+    "topics/casual-ai-minigame-first-try.md": "作者称未指定主题即由 AI 一次生成可交互的小型作品，与随手 AI 小游戏一次成功相近。",
+    "topics/vibe-gaming-model-inflection.md": "Fable 5.2 凭创意能力生成交互墨水作画，体现 AI 生成游戏/交互内容的模型拐点讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-generates-real-time-ink-fluid-interactive-work.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "帖文描述的实时流体模拟与动态天气相互影响，属于实时交互世界模型范畴。",
+      "topics/casual-ai-minigame-first-try.md": "作者称未指定主题即由 AI 一次生成可交互的小型作品，与随手 AI 小游戏一次成功相近。",
+      "topics/vibe-gaming-model-inflection.md": "Fable 5.2 凭创意能力生成交互墨水作画，体现 AI 生成游戏/交互内容的模型拐点讨论。"
+    },
+    "notes": "所有关于 Fable 5.2 能力的表述均源自帖文，未独立核实，已用“帖文称”限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-generates-real-time-ink-fluid-interactive-work.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

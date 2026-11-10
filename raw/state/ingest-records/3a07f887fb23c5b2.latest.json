@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:59:44.561Z",
+  "url": "https://x.com/shao__meng/status/2119762091796283468",
+  "slug": "3a07f887fb23c5b2",
+  "content_hash": "805c134ac659384510e8b1df235fd9b5121efd70a72861b68087bf29a4d54f06",
+  "source": {
+    "path": "sources/articles/the-second-interview-felt-more-like-paid-consulting.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 GPU 配置、并发支撑与运维需求，属于算力与治理范畴。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "作者提到面试公司阶段、人数、行业、组织千差万别，想接触不同企业补充对行业和团队的理解，与 AI 原生公司主题相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "面试中涉及“2 个人够吗、算上你、有一个实习生”的编制与人力配置问题，与该主题的 AI 数字员工职级与编制讨论相近。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文提到私有化部署 MiniMax H3 的成本、GPU 配置与推理效率，与大厂推理成本效率主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "面试中涉及“2 个人够吗、算上你、有一个实习生”的编制与人力配置问题，与该主题的 AI 数字员工职级与编制讨论相近。",
+    "topics/lab-inference-serving-cost-efficiency.md": "帖文提到私有化部署 MiniMax H3 的成本、GPU 配置与推理效率，与大厂推理成本效率主题相关。",
+    "topics/ai-native-companies.md": "作者提到面试公司阶段、人数、行业、组织千差万别，想接触不同企业补充对行业和团队的理解，与 AI 原生公司主题相近。",
+    "topics/agent-compute-and-governance.md": "涉及 GPU 配置、并发支撑与运维需求，属于算力与治理范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/the-second-interview-felt-more-like-paid-consulting.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/ai-native-companies.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/enterprise-ai-digital-employee-headcount.md": "面试中涉及“2 个人够吗、算上你、有一个实习生”的编制与人力配置问题，与该主题的 AI 数字员工职级与编制讨论相近。",
+      "topics/lab-inference-serving-cost-efficiency.md": "帖文提到私有化部署 MiniMax H3 的成本、GPU 配置与推理效率，与大厂推理成本效率主题相关。",
+      "topics/ai-native-companies.md": "作者提到面试公司阶段、人数、行业、组织千差万别，想接触不同企业补充对行业和团队的理解，与 AI 原生公司主题相近。",
+      "topics/agent-compute-and-governance.md": "涉及 GPU 配置、并发支撑与运维需求，属于算力与治理范畴。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/the-second-interview-felt-more-like-paid-consulting.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

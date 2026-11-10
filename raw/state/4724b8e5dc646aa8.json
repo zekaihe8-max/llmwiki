@@ -1,0 +1,23 @@
+{
+  "slug": "4724b8e5dc646aa8",
+  "url": "https://x.com/vista8/status/2120099636149153857",
+  "title": "开源了一个让 Grok Bot 每天抓海外长文、转成中文网站的项目",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "4724b8e5dc646aa8ab220d749e9ae7b572d72f733b05b99eb862a520b932c56a",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:55.894Z",
+  "content_hash": "357ccaab23e21ad720da988feb37e5b844dd84667299fa9c0c0b95bda51a324a",
+  "article_path": "articles/4724b8e5dc646aa8.md",
+  "fetched_url": "https://x.com/vista8/status/2120099636149153857",
+  "source_path": "sources/articles/open-source-project-grok-bot-daily-scrapes-x-overseas-long-artic.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:48:38.740Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

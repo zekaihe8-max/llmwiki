@@ -1,0 +1,23 @@
+{
+  "slug": "a70e6e6d01257496",
+  "url": "https://huggingface.co/Cactus-Compute/mirage",
+  "title": "模型",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "a70e6e6d01257496693d622ae23ba40088e9c2030525e9abb8a007cbcec757bf",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:40.722Z",
+  "content_hash": "7ffd124eedb7375e15dda585dea1e9463d3f1a3b8831ba6be862a543269c358c",
+  "article_path": "articles/a70e6e6d01257496.md",
+  "fetched_url": "https://huggingface.co/Cactus-Compute/mirage",
+  "source_path": "sources/articles/cactus-compute-mirage-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:35:38.252Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

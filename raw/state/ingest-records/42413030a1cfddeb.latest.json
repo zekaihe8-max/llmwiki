@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:51:14.144Z",
+  "url": "https://x.com/vista8/status/2120089651625271344",
+  "slug": "42413030a1cfddeb",
+  "content_hash": "2f47acf111fad1a143cffff420a611212bd2d568dab5ae85eb472c2fbb429023",
+  "source": {
+    "path": "sources/articles/seedream-5-5-planned-for-obsidian-plugin-post-claims-sota-multi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "Obsidian 插件与笔记集成属于 AI 辅助剪藏与媒体笔记范畴"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "生图模型作为趣味知识学习产品的一部分，主题相近"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "Seedream 5.5 生图质量与多轮编辑边界与生图参考库与质量边界相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "Obsidian 插件与笔记集成属于 AI 辅助剪藏与媒体笔记范畴",
+    "topics/image-generation-pose-reference-libraries.md": "Seedream 5.5 生图质量与多轮编辑边界与生图参考库与质量边界相近",
+    "topics/html-image-fun-knowledge-learning.md": "生图模型作为趣味知识学习产品的一部分，主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/seedream-5-5-planned-for-obsidian-plugin-post-claims-sota-multi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/html-image-fun-knowledge-learning.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "Obsidian 插件与笔记集成属于 AI 辅助剪藏与媒体笔记范畴",
+      "topics/image-generation-pose-reference-libraries.md": "Seedream 5.5 生图质量与多轮编辑边界与生图参考库与质量边界相近",
+      "topics/html-image-fun-knowledge-learning.md": "生图模型作为趣味知识学习产品的一部分，主题相近"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/seedream-5-5-planned-for-obsidian-plugin-post-claims-sota-multi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

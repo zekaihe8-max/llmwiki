@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agentic-video-editing.md",
+    "topics/model-mascot-merch-harness-coheat.md"
+  ],
+  "selection_reasons": {
+    "topics/desktop-outfit-character-companions.md": "虚拟形象与角色伴侣设计与帖文中的虚拟人设计最为贴近",
+    "topics/agentic-video-editing.md": "录屏演示与视频内容制作属于视频编辑相关场景",
+    "topics/model-mascot-merch-harness-coheat.md": "虚拟形象可类比模型吉祥物与角色设计"
+  },
+  "topics": [
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "虚拟形象与角色伴侣设计与帖文中的虚拟人设计最为贴近"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "录屏演示与视频内容制作属于视频编辑相关场景"
+    },
+    {
+      "path": "topics/model-mascot-merch-harness-coheat.md",
+      "action": "unchanged",
+      "reason": "虚拟形象可类比模型吉祥物与角色设计"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用自该帖文，未引入外部事实。"
+}

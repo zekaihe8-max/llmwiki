@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文涉及在 Pi 应用内接入豆包模型，与应用内模型合作主题相关。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道接入与选用，与帖文提到的模型可用性相关。",
+    "topics/cloud-auto-model-routing.md": "涉及跨模型编排与接入，与在 Pi 中使用豆包相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在 Pi 应用内接入豆包模型，与应用内模型合作主题相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及模型渠道接入与选用，与帖文提到的模型可用性相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及跨模型编排与接入，与在 Pi 中使用豆包相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文内容极简，仅确认豆包在 Pi 中可用，未披露具体接入方式、配额、速率限制或技术细节；所有主张均按帖文表述引用，未作为平台事实背书。"
+}

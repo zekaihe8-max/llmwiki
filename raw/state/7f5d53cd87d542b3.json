@@ -1,0 +1,23 @@
+{
+  "slug": "7f5d53cd87d542b3",
+  "url": "https://box.simular.ai/",
+  "title": "Simular Box",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "7f5d53cd87d542b3153f3392f96a3101ce40dc3e7752a127157a06ae520fc8db",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:57:02.805Z",
+  "content_hash": "5e09ce3f6711e099248b086f5e76e157095d23d85de1167bad25c465dffecf92",
+  "article_path": "articles/7f5d53cd87d542b3.md",
+  "fetched_url": "https://box.simular.ai/",
+  "source_path": "sources/articles/simular-box-cloud-linux-desktop-for-ai.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T13:04:03.665Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

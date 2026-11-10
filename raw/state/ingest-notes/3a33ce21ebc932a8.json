@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章主体为 DeepSeek Harness 社区插件，与该主题直接相关。",
+    "topics/harness-plugin-style-fragmentation.md": "帖文重点称赞插件 UI 界面，与插件样式一致性及 Harness 界面碎片化讨论相关。",
+    "topics/minimal-core-community-extensions.md": "插件由社区开发者制作并获官方推荐，对应精简核心与社区扩展主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章主体为 DeepSeek Harness 社区插件，与该主题直接相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "帖文重点称赞插件 UI 界面，与插件样式一致性及 Harness 界面碎片化讨论相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "插件由社区开发者制作并获官方推荐，对应精简核心与社区扩展主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，项目地址为缩短的 t.co 链接，未展开完整 URL。"
+}

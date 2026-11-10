@@ -1,0 +1,23 @@
+{
+  "slug": "e3b84f3745d1607d",
+  "url": "https://x.com/turingou/status/2119805239121580538",
+  "title": "他觉得现在限制 AI 的主要是 CI",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "e3b84f3745d1607d4c702d45f7d1ffe7982214b60adec52a123a23e4e9ab9ea7",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:57:02.136Z",
+  "content_hash": "8eb3769904897a1e8a95d9ac6a7ab705ada3adcad7cd5015297bc7ec827f3f06",
+  "article_path": "articles/e3b84f3745d1607d.md",
+  "fetched_url": "https://x.com/turingou/status/2119805239121580538",
+  "source_path": "sources/articles/ci-is-the-main-limit-on-ai-is-anyone-building-faster-ci.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T13:02:50.008Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

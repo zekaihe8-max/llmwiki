@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:51:42.835Z",
+  "url": "https://x.com/shao__meng/status/2119978619196084717",
+  "slug": "dacf5aefc0725611",
+  "content_hash": "5d1870447bc3264baedf82cedbaab4fe1e8bf33c9c4136851ed1cc30e7f483ac",
+  "source": {
+    "path": "sources/articles/meta-s-jittests-not-faster-code-review-but-generating-failing-te.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/software-factory.md",
+    "topics/deterministic-refactor-automerge.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "涉及代码变更合入前的自动化把关与风险优先级，与 PR 自动合入主题相关"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是 LLM 生成可执行测试进行缺陷验证，与形式化验证和自动化测试最相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Meta 的大规模代码合入流程与软件工厂/工程体系话题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是 LLM 生成可执行测试进行缺陷验证，与形式化验证和自动化测试最相关",
+    "topics/software-factory.md": "Meta 的大规模代码合入流程与软件工厂/工程体系话题相近",
+    "topics/deterministic-refactor-automerge.md": "涉及代码变更合入前的自动化把关与风险优先级，与 PR 自动合入主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meta-s-jittests-not-faster-code-review-but-generating-failing-te.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/software-factory.md",
+      "topics/deterministic-refactor-automerge.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "文章核心是 LLM 生成可执行测试进行缺陷验证，与形式化验证和自动化测试最相关",
+      "topics/software-factory.md": "Meta 的大规模代码合入流程与软件工厂/工程体系话题相近",
+      "topics/deterministic-refactor-automerge.md": "涉及代码变更合入前的自动化把关与风险优先级，与 PR 自动合入主题相关"
+    },
+    "notes": "来源为 X 上 @shao__meng 的帖文，引用 Meta Engineers 和 engineering.fb.com；未独立核对文中声明的效果数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meta-s-jittests-not-faster-code-review-but-generating-failing-te.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

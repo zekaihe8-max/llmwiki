@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:36:28.469Z",
+  "url": "https://x.com/dotey/status/2120064894376558646",
+  "slug": "ecfa1b0378d44c14",
+  "content_hash": "2478e35b24cb0b0de8c2f43451fd63ee6761d6a31d132dd4c91bd642f3733bd2",
+  "source": {
+    "path": "sources/articles/bloomberg-s-ai-coding-interview-is-no-friendlier-than-leetcode.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/ai-facing-fullstack-repo-map.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-facing-fullstack-repo-map.md",
+      "action": "unchanged",
+      "reason": "面试者需在短时间内摸清庞大 Django 仓库，涉及给 AI 理解全栈/大型代码库的难题。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "面试中 AI 工具使用边界模糊、期望不明确，对应校准对 AI 过度与不足引导的议题。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 编程面试中理解庞大代码库与记忆/上下文负担的困难，与 Vibe Coding 记忆悖论主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-coding-memory-paradox.md": "文章讨论 AI 编程面试中理解庞大代码库与记忆/上下文负担的困难，与 Vibe Coding 记忆悖论主题相近。",
+    "topics/ai-facing-fullstack-repo-map.md": "面试者需在短时间内摸清庞大 Django 仓库，涉及给 AI 理解全栈/大型代码库的难题。",
+    "topics/calibrating-ai-guidance.md": "面试中 AI 工具使用边界模糊、期望不明确，对应校准对 AI 过度与不足引导的议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bloomberg-s-ai-coding-interview-is-no-friendlier-than-leetcode.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/ai-facing-fullstack-repo-map.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-coding-memory-paradox.md": "文章讨论 AI 编程面试中理解庞大代码库与记忆/上下文负担的困难，与 Vibe Coding 记忆悖论主题相近。",
+      "topics/ai-facing-fullstack-repo-map.md": "面试者需在短时间内摸清庞大 Django 仓库，涉及给 AI 理解全栈/大型代码库的难题。",
+      "topics/calibrating-ai-guidance.md": "面试中 AI 工具使用边界模糊、期望不明确，对应校准对 AI 过度与不足引导的议题。"
+    },
+    "notes": "来源为 X 用户 @dotey 转载的 Reddit 帖文，未独立核实彭博社面试细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bloomberg-s-ai-coding-interview-is-no-friendlier-than-leetcode.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

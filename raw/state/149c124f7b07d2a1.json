@@ -1,0 +1,23 @@
+{
+  "slug": "149c124f7b07d2a1",
+  "url": "https://caleb.software/posts/claude-to-pi.html",
+  "title": "《Goodbye Claude, Hello Pi》在 HN 吵起来了",
+  "digest": "2026-11-10-cn-x.md",
+  "status": "filed",
+  "hash": "149c124f7b07d2a10e3ffaa75f4c05dcc2955d8ea85e57aa9f715501d394f537",
+  "first_seen": "2026-11-10T11:56:30.173Z",
+  "last_seen": "2026-11-10T11:56:30.173Z",
+  "fetched_at": "2026-11-10T11:56:33.831Z",
+  "content_hash": "36fd634c05cbd8020a31a7ccd2d05102074e867a9ecb3c2eace97003b7f346b2",
+  "article_path": "articles/149c124f7b07d2a1.md",
+  "fetched_url": "https://caleb.software/posts/claude-to-pi.html",
+  "source_path": "sources/articles/hn-discussion-on-goodbye-claude-hello-pi-why-developers-are-leav.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T12:11:48.570Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

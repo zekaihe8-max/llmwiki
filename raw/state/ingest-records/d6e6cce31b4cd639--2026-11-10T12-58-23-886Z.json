@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T12:58:23.886Z",
+  "url": "https://x.com/shao__meng/status/2119973180945387755",
+  "slug": "d6e6cce31b4cd639",
+  "content_hash": "af0ea7d5fa12c2336643919de5b2379d3070c301499cc5a0b4ec0d7b235e563a",
+  "source": {
+    "path": "sources/articles/airbnb-fine-tunes-gemma-2b-for-real-time-classification-frontier.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/tools-building-own-models.md",
+    "topics/near-real-time-decisions-api.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心结论为大厂自建推理成本效率远超 API，直接对应该主题。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "任务要求 <200 ms 实时决策，微调模型实现 ~35 ms 中位延迟，符合近实时决策 API 场景。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "实验使用开放权重模型 Gemma 4-E2B 并微调达前沿质量，属典型开放权重前沿模型应用。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "Airbnb 以工程博客形式展示自建模型替代 API，体现工具类产品自建模型抢话语权。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章核心结论为大厂自建推理成本效率远超 API，直接对应该主题。",
+    "topics/open-weight-frontier-models.md": "实验使用开放权重模型 Gemma 4-E2B 并微调达前沿质量，属典型开放权重前沿模型应用。",
+    "topics/tools-building-own-models.md": "Airbnb 以工程博客形式展示自建模型替代 API，体现工具类产品自建模型抢话语权。",
+    "topics/near-real-time-decisions-api.md": "任务要求 <200 ms 实时决策，微调模型实现 ~35 ms 中位延迟，符合近实时决策 API 场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/airbnb-fine-tunes-gemma-2b-for-real-time-classification-frontier.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/tools-building-own-models.md",
+      "topics/near-real-time-decisions-api.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "文章核心结论为大厂自建推理成本效率远超 API，直接对应该主题。",
+      "topics/open-weight-frontier-models.md": "实验使用开放权重模型 Gemma 4-E2B 并微调达前沿质量，属典型开放权重前沿模型应用。",
+      "topics/tools-building-own-models.md": "Airbnb 以工程博客形式展示自建模型替代 API，体现工具类产品自建模型抢话语权。",
+      "topics/near-real-time-decisions-api.md": "任务要求 <200 ms 实时决策，微调模型实现 ~35 ms 中位延迟，符合近实时决策 API 场景。"
+    },
+    "notes": "All quantitative claims (F1, latency, cost ratios, break-even volumes) are attributed to the post / Airbnb Engineering blog; independent verification not performed. The '~1%' figure refers specifically to API vs. single-GPU self-host at thousands of req/min with concise prompt under stated assumptions.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/airbnb-fine-tunes-gemma-2b-for-real-time-classification-frontier.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
