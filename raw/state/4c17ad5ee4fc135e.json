@@ -1,0 +1,23 @@
+{
+  "slug": "4c17ad5ee4fc135e",
+  "url": "https://x.com/kentcdodds/status/2119812466037428392",
+  "title": "Kent · 显式状态机",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "4c17ad5ee4fc135e130fe5797cb6325fd57cd5796728e456987471a8b932b570",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:12.577Z",
+  "content_hash": "560195e2c5b9a7ae8ecbb040cdae6513943c6889f1e56962f84d24851e62e0ea",
+  "article_path": "articles/4c17ad5ee4fc135e.md",
+  "fetched_url": "https://x.com/kentcdodds/status/2119812466037428392",
+  "source_path": "sources/articles/kent-explicit-state-machines.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:30:58.305Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

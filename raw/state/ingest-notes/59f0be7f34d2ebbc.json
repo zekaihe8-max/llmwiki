@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-home-platform-control.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章涉及 AI 与电子设备/硬件的交互与设计，与 Computer Use 主题相近，但无需变更。",
+    "topics/agent-home-platform-control.md": "帖文提及家用语音助手中枢，与居家设备控制主题相关，但现有主题无需编辑。",
+    "topics/ai-task-horizon-growth.md": "从一句话提示完成多款硬件设计，体现 AI 任务时界与野心增长，与该主题相近。",
+    "topics/raise-ambition-until-ai-frontier.md": "帖文强调预发布模型开展雄心勃勃项目，与提高目标直到摸清 AI 前沿的主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 与电子设备/硬件的交互与设计，与 Computer Use 主题相近，但无需变更。"
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "帖文提及家用语音助手中枢，与居家设备控制主题相关，但现有主题无需编辑。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "从一句话提示完成多款硬件设计，体现 AI 任务时界与野心增长，与该主题相近。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文强调预发布模型开展雄心勃勃项目，与提高目标直到摸清 AI 前沿的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有关于模型能力与设计成果的表述均源自 X 帖文，未独立核实，已使用「帖文称」限定。"
+}

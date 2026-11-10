@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "帖文核心论点是并行算力成为智能体瓶颈，与该主题的算力与治理讨论最贴近。",
+    "topics/cloud-auto-model-routing.md": "帖文提及云沙箱供应与模型编排，涉及云平台跨模型调度与资源分配。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "云沙箱的按需供应、释放与隔离，与个人 Agent 云环境的备份、隔离与检查相关。",
+    "topics/multiagent-infra-four-problems.md": "帖文涉及模型委派、编排子任务及避免构建复杂多智能体编排器，属多智能体基建范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文核心论点是并行算力成为智能体瓶颈，与该主题的算力与治理讨论最贴近。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文提及云沙箱供应与模型编排，涉及云平台跨模型调度与资源分配。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "云沙箱的按需供应、释放与隔离，与个人 Agent 云环境的备份、隔离与检查相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型委派、编排子任务及避免构建复杂多智能体编排器，属多智能体基建范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实的模型版本与性能主张已在摘要与要点中标注为帖文引用或作者观点。"
+}

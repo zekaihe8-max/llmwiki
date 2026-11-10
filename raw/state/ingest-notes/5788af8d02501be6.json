@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-auto-mode.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文讨论智能体与 AGI 边界，与该主题最贴近。",
+    "topics/ai-native-companies.md": "帖文提到让 AI 启动企业，涉及 AI 原生公司场景。",
+    "topics/agent-auto-mode.md": "帖文描述 Agent 自主执行多步任务，与自动模式相关。",
+    "topics/ai-task-horizon-growth.md": "帖文列举研究、硬件攻破、建模等长时程任务，与任务时界相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体与 AGI 边界，与该主题最贴近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提到让 AI 启动企业，涉及 AI 原生公司场景。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Agent 自主执行多步任务，与自动模式相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文列举研究、硬件攻破、建模等长时程任务，与任务时界相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; unverified capability claims are attributed to the author/post."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "57a0599966c870df",
+  "url": "https://x.com/rauchg/status/2119891138450755670",
+  "title": "Rauch · MCP Events",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "57a0599966c870df42a8445568be676265be5ee98a4e35570ef4484d003c4b54",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:08.558Z",
+  "content_hash": "e362cf0a2680a6268b1d1a905f0ea1a88dde8f3f0bff54e189c2507b29abdd24",
+  "article_path": "articles/57a0599966c870df.md",
+  "fetched_url": "https://x.com/rauchg/status/2119891138450755670",
+  "source_path": "sources/articles/rauch-on-mcp-events-cross-session-callbacks-and-vercel-mcp-deplo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:17:56.084Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "涉及模型推理定价与聚合平台对比，与 Muse Ember API 定价最为相近。",
+    "topics/lab-inference-serving-cost-efficiency.md": "关注大厂推理成本效率，与 API token 计费相关。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台模型路由与编排，与模型 API 上线语境相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量与计费限制，与 token 定价相邻。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "涉及模型推理定价与聚合平台对比，与 Muse Ember API 定价最为相近。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "关注大厂推理成本效率，与 API token 计费相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台模型路由与编排，与模型 API 上线语境相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量与计费限制，与 token 定价相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有定价与上线信息均源自单一 X 帖文，未独立核实。"
+}

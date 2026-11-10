@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:22:59.539Z",
+  "url": "https://x.com/emollick/status/2119918307457577163",
+  "slug": "9e9ab41958593977",
+  "content_hash": "87db08f3ef13525bb018a31e4ba0cd7fbdf3ecd1737dc4d7b950a1e569976a82",
+  "source": {
+    "path": "sources/articles/portal-experiment.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/casual-ai-minigame-first-try.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "大量智能体自主生成内容，触及 Agentic AI 基础能力。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "可玩网页与代码库体现 AI 小游戏/世界快速原型。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章涉及通过传送门连接的 3D 世界，与实时交互世界模型主题直接相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "实验属于 AI 驱动的游戏/世界生成，与 Vibe Gaming 模型拐点相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章涉及通过传送门连接的 3D 世界，与实时交互世界模型主题直接相关。",
+    "topics/vibe-gaming-model-inflection.md": "实验属于 AI 驱动的游戏/世界生成，与 Vibe Gaming 模型拐点相关。",
+    "topics/agentic-ai-foundation.md": "大量智能体自主生成内容，触及 Agentic AI 基础能力。",
+    "topics/casual-ai-minigame-first-try.md": "可玩网页与代码库体现 AI 小游戏/世界快速原型。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/portal-experiment.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/casual-ai-minigame-first-try.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "文章涉及通过传送门连接的 3D 世界，与实时交互世界模型主题直接相关。",
+      "topics/vibe-gaming-model-inflection.md": "实验属于 AI 驱动的游戏/世界生成，与 Vibe Gaming 模型拐点相关。",
+      "topics/agentic-ai-foundation.md": "大量智能体自主生成内容，触及 Agentic AI 基础能力。",
+      "topics/casual-ai-minigame-first-try.md": "可玩网页与代码库体现 AI 小游戏/世界快速原型。"
+    },
+    "notes": "所有未独立核实的模型能力与生成数量已标注为帖文称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/portal-experiment.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:19:52.295Z",
+  "url": "https://x.com/dotey/status/2119894229581508868",
+  "slug": "8647885b9ccc60a7",
+  "content_hash": "7101ac15abd120b3f559de86e09daec65612c5f6ba59fc055c4efd4d3d4c8d7a",
+  "source": {
+    "path": "sources/articles/bao-yu-new-model-releases-are-a-good-time-to-clean-up-prompts.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及项目指令与提示词效率，与帖文中清理提示词的主题相近"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "属于上下文工程范畴，帖文中的提示词审阅项目可视为上下文管理实践"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "主张先复用再编写，与利用新模型精简现有提示词而非盲目新写的思路一致"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "涉及项目指令与提示词效率，与帖文中清理提示词的主题相近",
+    "topics/context-engineering-for-agents.md": "属于上下文工程范畴，帖文中的提示词审阅项目可视为上下文管理实践",
+    "topics/reuse-before-write.md": "主张先复用再编写，与利用新模型精简现有提示词而非盲目新写的思路一致"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bao-yu-new-model-releases-are-a-good-time-to-clean-up-prompts.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agents-md-token-efficiency.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/agents-md-token-efficiency.md": "涉及项目指令与提示词效率，与帖文中清理提示词的主题相近",
+      "topics/context-engineering-for-agents.md": "属于上下文工程范畴，帖文中的提示词审阅项目可视为上下文管理实践",
+      "topics/reuse-before-write.md": "主张先复用再编写，与利用新模型精简现有提示词而非盲目新写的思路一致"
+    },
+    "notes": "内容为 X 平台帖文转发，主张来源于 Alex Albert，未独立核实其效果。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bao-yu-new-model-releases-are-a-good-time-to-clean-up-prompts.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

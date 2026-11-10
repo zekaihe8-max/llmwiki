@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:29:42.863Z",
+  "url": "https://x.com/mattpocockuk/status/2119888414736859356",
+  "slug": "a86d212a680036ca",
+  "content_hash": "e543c575517b112820d24a9cb5e45b41b60b8e5b7170007b3af45c70460a9b08",
+  "source": {
+    "path": "sources/articles/why-describe-the-problem-to-an-ai-agent-rather-than-prescribe-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/workflows-before-agents.md",
+    "topics/one-question-at-a-time.md",
+    "topics/agent-in-chat-bug-feedback.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "涉及在 Agent 对话内反馈问题，与帖文中描述问题而非直接给方案的场景相近。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "涉及如何向 AI 给出适当引导，与帖文关于问题优先于方案的建议相近。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "属于与 AI 代理进行结构化对话的方法，与帖文的面谈技巧相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调先理清工作流/问题再引入智能体，与帖文“先讲为什么”主旨一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "涉及如何向 AI 给出适当引导，与帖文关于问题优先于方案的建议相近。",
+    "topics/workflows-before-agents.md": "强调先理清工作流/问题再引入智能体，与帖文“先讲为什么”主旨一致。",
+    "topics/one-question-at-a-time.md": "属于与 AI 代理进行结构化对话的方法，与帖文的面谈技巧相关。",
+    "topics/agent-in-chat-bug-feedback.md": "涉及在 Agent 对话内反馈问题，与帖文中描述问题而非直接给方案的场景相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/why-describe-the-problem-to-an-ai-agent-rather-than-prescribe-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/calibrating-ai-guidance.md",
+      "topics/workflows-before-agents.md",
+      "topics/one-question-at-a-time.md",
+      "topics/agent-in-chat-bug-feedback.md"
+    ],
+    "selection_reasons": {
+      "topics/calibrating-ai-guidance.md": "涉及如何向 AI 给出适当引导，与帖文关于问题优先于方案的建议相近。",
+      "topics/workflows-before-agents.md": "强调先理清工作流/问题再引入智能体，与帖文“先讲为什么”主旨一致。",
+      "topics/one-question-at-a-time.md": "属于与 AI 代理进行结构化对话的方法，与帖文的面谈技巧相关。",
+      "topics/agent-in-chat-bug-feedback.md": "涉及在 Agent 对话内反馈问题，与帖文中描述问题而非直接给方案的场景相近。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/why-describe-the-problem-to-an-ai-agent-rather-than-prescribe-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

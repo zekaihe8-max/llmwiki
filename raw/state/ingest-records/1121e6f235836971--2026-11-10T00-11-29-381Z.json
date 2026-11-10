@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:11:29.381Z",
+  "url": "https://x.com/dotey/status/2119868647220842659",
+  "slug": "1121e6f235836971",
+  "content_hash": "b2bc7fca20d7e5ef16e078d8cd470f7b69b925fa9f68630503b34e059ec0a827",
+  "source": {
+    "path": "sources/articles/meta-releases-smallest-model-muse-ember-same-unit-price-as-claud.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论为 Agent 任务选择小型廉价模型，与该主题的模型渠道取舍直接相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文提到难题交给 Muse Wonder 规划、执行交给 Muse Ember，涉及跨模型调度与路由。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章重点比较不同模型每题成本与推理效率，属大厂推理成本效率议题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Muse Ember 定位为廉价执行模型，与大模型 Muse Wonder 搭配使用，呼应 Pro 与 Flash 模型策略。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论为 Agent 任务选择小型廉价模型，与该主题的模型渠道取舍直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "Muse Ember 定位为廉价执行模型，与大模型 Muse Wonder 搭配使用，呼应 Pro 与 Flash 模型策略。",
+    "topics/cloud-auto-model-routing.md": "帖文提到难题交给 Muse Wonder 规划、执行交给 Muse Ember，涉及跨模型调度与路由。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文章重点比较不同模型每题成本与推理效率，属大厂推理成本效率议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meta-releases-smallest-model-muse-ember-same-unit-price-as-claud.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "文章讨论为 Agent 任务选择小型廉价模型，与该主题的模型渠道取舍直接相关。",
+      "topics/pro-vs-flash-model-strategy.md": "Muse Ember 定位为廉价执行模型，与大模型 Muse Wonder 搭配使用，呼应 Pro 与 Flash 模型策略。",
+      "topics/cloud-auto-model-routing.md": "帖文提到难题交给 Muse Wonder 规划、执行交给 Muse Ember，涉及跨模型调度与路由。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文章重点比较不同模型每题成本与推理效率，属大厂推理成本效率议题。"
+    },
+    "notes": "所有定价、评测分数与模型定位均引用帖文及其所引第三方数据，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meta-releases-smallest-model-muse-ember-same-unit-price-as-claud.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

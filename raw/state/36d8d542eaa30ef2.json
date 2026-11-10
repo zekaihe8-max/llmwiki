@@ -1,0 +1,23 @@
+{
+  "slug": "36d8d542eaa30ef2",
+  "url": "https://x.com/addyosmani/status/2119869672573251887",
+  "title": "Addy 选型",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "36d8d542eaa30ef2abca8b53755d828b20f091f70140e84e994dc250bae0b161",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:01.523Z",
+  "content_hash": "71891d6f8a357c4f6c4bd77b2103bec42b112756eb77f95cf9bdf408e4c2dc5a",
+  "article_path": "articles/36d8d542eaa30ef2.md",
+  "fetched_url": "https://x.com/addyosmani/status/2119869672573251887",
+  "source_path": "sources/articles/addy-s-model-selection-claude-fable-5-2-and-opus-5-5-usage-recom.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:06:51.796Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

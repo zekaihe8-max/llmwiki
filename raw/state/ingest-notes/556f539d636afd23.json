@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-on-google-cloud.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-on-google-cloud.md": "与 Claude 模型平台相关，最接近本条 Claude 模型发布转发",
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型系列与定位策略，与新 Claude 模型上线主题相近",
+    "topics/claude-subscription-risk-control-weights.md": "涉及 Claude 订阅与风控，属 Claude 生态范畴",
+    "topics/claude-code-authorship-and-voice.md": "涉及 Claude Code 与社区话筒，属 Claude 产品线相关"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "与 Claude 模型平台相关，最接近本条 Claude 模型发布转发"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型系列与定位策略，与新 Claude 模型上线主题相近"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 订阅与风控，属 Claude 生态范畴"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude Code 与社区话筒，属 Claude 产品线相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未独立核实模型能力。"
+}

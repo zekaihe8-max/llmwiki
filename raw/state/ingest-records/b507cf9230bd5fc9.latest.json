@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:28:18.505Z",
+  "url": "https://x.com/natolambert/status/2119900133135426011",
+  "slug": "b507cf9230bd5fc9",
+  "content_hash": "0742235ecb88755bf6b940d437e576a947907634c386a4c35b9687370362c72f",
+  "source": {
+    "path": "sources/articles/lambert-expects-more-ai-labs-to-compete-with-anthropic-and-distr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/ai-native-companies.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 及竞争实验室属于 AI 原生公司范畴"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "帖文涉及安全社区与前沿实验室，与前沿训练环境隔离主题相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文提到实验室分发 AI 研究能力，与开放权重前沿模型主题高度相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文提到实验室分发 AI 研究能力，与开放权重前沿模型主题高度相关",
+    "topics/ai-native-companies.md": "Anthropic 及竞争实验室属于 AI 原生公司范畴",
+    "topics/frontier-training-containment.md": "帖文涉及安全社区与前沿实验室，与前沿训练环境隔离主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lambert-expects-more-ai-labs-to-compete-with-anthropic-and-distr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/ai-native-companies.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "帖文提到实验室分发 AI 研究能力，与开放权重前沿模型主题高度相关",
+      "topics/ai-native-companies.md": "Anthropic 及竞争实验室属于 AI 原生公司范畴",
+      "topics/frontier-training-containment.md": "帖文涉及安全社区与前沿实验室，与前沿训练环境隔离主题相关"
+    },
+    "notes": "所有内容仅来源于单条 X 帖文，未独立核实；关于用户数据、模型研发及竞争的表述均为帖文作者观点，不构成平台事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lambert-expects-more-ai-labs-to-compete-with-anthropic-and-distr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

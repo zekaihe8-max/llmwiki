@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:30:18.944Z",
+  "url": "https://x.com/mattpocockuk/status/2119748545691402733",
+  "slug": "d91fc180e0f82905",
+  "content_hash": "5f55a88ec0cf112a1b4bbe289d255fb43f23dcd540e0cb28db9ac7b8d07066f4",
+  "source": {
+    "path": "sources/articles/software-factory-automation-infrastructure-above-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体从直接开产品到构建自动化的规模化工程转变，与该主题相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "直接对应帖文核心术语“软件工厂”，标题与主题高度重合。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提及“Loops? Workflows?”等通用标签，与工作流优先于智能体的讨论相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "直接对应帖文核心术语“软件工厂”，标题与主题高度重合。",
+    "topics/agent-scaled-engineering.md": "帖文讨论智能体从直接开产品到构建自动化的规模化工程转变，与该主题相近。",
+    "topics/workflows-before-agents.md": "帖文提及“Loops? Workflows?”等通用标签，与工作流优先于智能体的讨论相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/software-factory-automation-infrastructure-above-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "直接对应帖文核心术语“软件工厂”，标题与主题高度重合。",
+      "topics/agent-scaled-engineering.md": "帖文讨论智能体从直接开产品到构建自动化的规模化工程转变，与该主题相近。",
+      "topics/workflows-before-agents.md": "帖文提及“Loops? Workflows?”等通用标签，与工作流优先于智能体的讨论相关。"
+    },
+    "notes": "帖文中的日期显示为 2026 年 11 月 9 日，均按原文呈现，未做核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/software-factory-automation-infrastructure-above-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "b70c804081e57b13",
+  "url": "https://x.com/dotey/status/2119898580131725439",
+  "title": "宝玉说明",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "b70c804081e57b1345ce30f1e0dc38d41b520a7cc7ddd5c51f311c08987f9d66",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:06.829Z",
+  "content_hash": "489889c35721d5bfa9ae6ae23e21ee1d7b575f6e7057df0f674c5a950b4657d2",
+  "article_path": "articles/b70c804081e57b13.md",
+  "fetched_url": "https://x.com/dotey/status/2119898580131725439",
+  "source_path": "sources/articles/openai-dot-now-supports-connecting-multiple-local-computers-to-o.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:38:08.490Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

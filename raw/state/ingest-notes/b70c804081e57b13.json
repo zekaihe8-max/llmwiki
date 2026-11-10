@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 Agent 远程操作本地电脑，与 Computer Use 直接相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "dot 将任务派发到多台本地电脑，属个人助手派活而非多 Harness 路由基建。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 与云端/本地电脑的连接、在线状态与访问撤销，属云环境与设备管控范畴。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "dot 在连接的电脑上新建或继续 Codex/ChatGPT Work 任务，相当于个人 Agent 调度编程 Agent。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Agent 远程操作本地电脑，与 Computer Use 直接相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "dot 将任务派发到多台本地电脑，属个人助手派活而非多 Harness 路由基建。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 与云端/本地电脑的连接、在线状态与访问撤销，属云环境与设备管控范畴。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "dot 在连接的电脑上新建或继续 Codex/ChatGPT Work 任务，相当于个人 Agent 调度编程 Agent。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的平台功能与配额表述均已标注为帖文称，未编造 URL 或超出文章事实。"
+}

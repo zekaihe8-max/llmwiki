@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/workflows-before-agents.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "涉及项目指令与提示词效率，与帖文中跨项目运行同一提示词的做法相近，但本条仅记录推荐，无需改动。",
+    "topics/workflows-before-agents.md": "强调工作流优先于智能体，帖文中的提示词审查可视为一种简单工作流，现有主题已覆盖，保持不变。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "涉及个人 Agent 调度与审查代理，与提示词审查项目的思路有重叠，但本条不涉及 Agent 调度，故不新增或修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及项目指令与提示词效率，与帖文中跨项目运行同一提示词的做法相近，但本条仅记录推荐，无需改动。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调工作流优先于智能体，帖文中的提示词审查可视为一种简单工作流，现有主题已覆盖，保持不变。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 调度与审查代理，与提示词审查项目的思路有重叠，但本条不涉及 Agent 调度，故不新增或修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未引入外部事实。"
+}

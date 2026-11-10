@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:10:01.652Z",
+  "url": "https://x.com/AIatMeta/status/2119853595453702580",
+  "slug": "a4b7c445c610c0c3",
+  "content_hash": "f00f8d605fccae104db9fd6353c105dca72fd7225b8fdf055a4496e8e7b00622",
+  "source": {
+    "path": "sources/articles/muse-ember-cost-comparison-roughly-one-third-the-cost-per-task-o.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向智能体的模型选型与成本取舍，与帖文中模型成本对比主题最贴近"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及超越 token 数的智能体/平台对比，帖文以“每任务成本”而非单纯 token 衡量效率，与此相关"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "关注大厂推理成本效率，与 Muse Ember 主打“更低成本更多智能”的主张相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向智能体的模型选型与成本取舍，与帖文中模型成本对比主题最贴近",
+    "topics/lab-inference-serving-cost-efficiency.md": "关注大厂推理成本效率，与 Muse Ember 主打“更低成本更多智能”的主张相关",
+    "topics/harness-comparison-beyond-tokens.md": "涉及超越 token 数的智能体/平台对比，帖文以“每任务成本”而非单纯 token 衡量效率，与此相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/muse-ember-cost-comparison-roughly-one-third-the-cost-per-task-o.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向智能体的模型选型与成本取舍，与帖文中模型成本对比主题最贴近",
+      "topics/lab-inference-serving-cost-efficiency.md": "关注大厂推理成本效率，与 Muse Ember 主打“更低成本更多智能”的主张相关",
+      "topics/harness-comparison-beyond-tokens.md": "涉及超越 token 数的智能体/平台对比，帖文以“每任务成本”而非单纯 token 衡量效率，与此相关"
+    },
+    "notes": "所有模型性能与成本主张均源自该帖文，未经独立核实；未引用图片内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/muse-ember-cost-comparison-roughly-one-third-the-cost-per-task-o.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

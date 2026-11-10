@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章涉及 Claude 订阅层级、Fable 额度与重置规则，与该主题的订阅风控权重密切相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文中建议按任务大小在 Opus 5.5、Fable/Mythos 与 Sonnet/Haiku 之间取舍，属模型渠道取舍范畴。",
+    "topics/premium-ai-subscription-value.md": "Max/Ultra/Pro 订阅价格与 Fable 额度价值的权衡，与高端 AI 订阅价值主题相关。",
+    "topics/llm-formal-verification.md": "费马大定理用 Lean 形式化证明属于 LLM 形式化验证场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Claude 订阅层级、Fable 额度与重置规则，与该主题的订阅风控权重密切相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中建议按任务大小在 Opus 5.5、Fable/Mythos 与 Sonnet/Haiku 之间取舍，属模型渠道取舍范畴。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Max/Ultra/Pro 订阅价格与 Fable 额度价值的权衡，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "费马大定理用 Lean 形式化证明属于 LLM 形式化验证场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有声明均基于帖文转述，未经第三方独立验证。"
+}

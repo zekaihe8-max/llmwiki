@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "文中提到 Vercel Workflows 用于构建 MCP 后端，与工作流优先于智能体的主题相关",
+    "topics/agent-skills-open-standard.md": "MCP 作为开放协议与 Agent 技能开放标准相近，均涉及 Agent 互操作标准",
+    "topics/agent-skill-authoring.md": "文章围绕 Agent 通过 MCP 与部署事件交互，与 Agent Skill 编写相关",
+    "topics/multiagent-infra-four-problems.md": "MCP Events 属于多智能体/基础设施层面的事件通信机制"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到 Vercel Workflows 用于构建 MCP 后端，与工作流优先于智能体的主题相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "MCP 作为开放协议与 Agent 技能开放标准相近，均涉及 Agent 互操作标准"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章围绕 Agent 通过 MCP 与部署事件交互，与 Agent Skill 编写相关"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "MCP Events 属于多智能体/基础设施层面的事件通信机制"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 Guillermo Rauch 及 Vercel Developers 的帖文，未引用文章中截断的 Changelog 链接。"
+}
