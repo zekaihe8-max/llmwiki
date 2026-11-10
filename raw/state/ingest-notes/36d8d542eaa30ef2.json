@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文按任务类型区分 Fable 与 Opus 使用场景，与模型策略取舍主题相近。",
+    "topics/cloud-auto-model-routing.md": "帖文提及 Fable 5.2 在 Claude 平台与主要云平台的可用性，涉及跨平台模型分发。",
+    "topics/claude-on-google-cloud.md": "文章围绕 Claude 模型及其云平台可用性展开，与 Claude 云上下文相关。",
+    "topics/premium-ai-subscription-value.md": "帖文指出 Fable 5.2 面向所有付费计划开放，涉及付费 AI 模型访问价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文按任务类型区分 Fable 与 Opus 使用场景，与模型策略取舍主题相近。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Fable 5.2 在 Claude 平台与主要云平台的可用性，涉及跨平台模型分发。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "文章围绕 Claude 模型及其云平台可用性展开，与 Claude 云上下文相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文指出 Fable 5.2 面向所有付费计划开放，涉及付费 AI 模型访问价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "模型名称 Fable 5.2、Opus 5.5 与 Claude Mythos 5.2 仅按帖文所述，未在文中以外独立核实。"
+}

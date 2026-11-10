@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:05:58.844Z",
+  "url": "https://x.com/bcherny/status/2119873095129550880",
+  "slug": "569d7375aefdf594",
+  "content_hash": "db48f400f70861781dcf10414cecbd858d3f4c93dd56f9b956b260c71763466a",
+  "source": {
+    "path": "sources/articles/boris-cherny-post-says-fable-5-2-grants-more-resets-to-longer-te.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 模型，与文中 Claude Fable 5.2 / Mythos 5.2 相关。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "与 Claude 订阅风控权重相关，最贴近文中订阅与重置配额的讨论。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及高端 AI 订阅价值，与文中老用户获更多重置次数的留存机制相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限测试，与文中重置次数这一配额机制相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "与 Claude 订阅风控权重相关，最贴近文中订阅与重置配额的讨论。",
+    "topics/premium-ai-subscription-value.md": "涉及高端 AI 订阅价值，与文中老用户获更多重置次数的留存机制相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限测试，与文中重置次数这一配额机制相关。",
+    "topics/claude-on-google-cloud.md": "涉及 Claude 模型，与文中 Claude Fable 5.2 / Mythos 5.2 相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/boris-cherny-post-says-fable-5-2-grants-more-resets-to-longer-te.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/claude-on-google-cloud.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "与 Claude 订阅风控权重相关，最贴近文中订阅与重置配额的讨论。",
+      "topics/premium-ai-subscription-value.md": "涉及高端 AI 订阅价值，与文中老用户获更多重置次数的留存机制相关。",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限测试，与文中重置次数这一配额机制相关。",
+      "topics/claude-on-google-cloud.md": "涉及 Claude 模型，与文中 Claude Fable 5.2 / Mythos 5.2 相关。"
+    },
+    "notes": "来源仅为 X 帖文页面，未独立核实 Fable 与 Claude Fable 的具体产品关系。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/boris-cherny-post-says-fable-5-2-grants-more-resets-to-longer-te.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

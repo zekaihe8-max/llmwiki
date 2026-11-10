@@ -1,0 +1,23 @@
+{
+  "slug": "b45cec2ee5a5ec10",
+  "url": "https://x.com/OpenAIDevs/status/2119883176726409645",
+  "title": "OpenAIDevs",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "b45cec2ee5a5ec101bc4b783e420d5fad94fc3b79e786ca87f6964b38072e267",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:05.873Z",
+  "content_hash": "1f9d8edebdd2166c6f69dfe544797697964cb887acd9f9da15f31dadb43b1ef3",
+  "article_path": "articles/b45cec2ee5a5ec10.md",
+  "fetched_url": "https://x.com/OpenAIDevs/status/2119883176726409645",
+  "source_path": "sources/articles/openaidevs-multiple-local-computers-can-connect-to-the-same-dot.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:12:31.907Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

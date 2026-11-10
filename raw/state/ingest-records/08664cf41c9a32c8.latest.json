@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:27:49.786Z",
+  "url": "https://x.com/fchollet/status/2119843249980662241",
+  "slug": "08664cf41c9a32c8",
+  "content_hash": "2a7d1028f94a611a8219e35e6dbe997d5dc61e6c66d72610f1e678790ad7f473",
+  "source": {
+    "path": "sources/articles/chollet-endorses-autonomous-businesses-acquire-saas-hand-to-agen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agent-auto-mode.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 全自动运营业务，属于智能体自动模式的典型场景"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论 AI 原生的自治公司形态，直接命中该主题"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "明确提到 Agent Harness 作为公司级运营基础设施"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章核心讨论 AI 原生的自治公司形态，直接命中该主题",
+    "topics/agent-auto-mode.md": "涉及 Agent 全自动运营业务，属于智能体自动模式的典型场景",
+    "topics/company-agent-harness.md": "明确提到 Agent Harness 作为公司级运营基础设施"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chollet-endorses-autonomous-businesses-acquire-saas-hand-to-agen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/agent-auto-mode.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章核心讨论 AI 原生的自治公司形态，直接命中该主题",
+      "topics/agent-auto-mode.md": "涉及 Agent 全自动运营业务，属于智能体自动模式的典型场景",
+      "topics/company-agent-harness.md": "明确提到 Agent Harness 作为公司级运营基础设施"
+    },
+    "notes": "来源为 X 帖文，涉及产品宣称（Steve 的能力、已运行 3 家业务）均标注为「帖文称」/「作者称」，未作独立验证。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chollet-endorses-autonomous-businesses-acquire-saas-hand-to-agen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

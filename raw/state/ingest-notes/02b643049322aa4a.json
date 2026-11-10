@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "新模型定位与 Agent 使用场景，属于面向 Agent 的模型渠道取舍范畴。",
+    "topics/agentic-ai-foundation.md": "涉及 Agentic AI 基础模型发布，与基础主题直接相关。",
+    "topics/context-engineering-for-agents.md": "100 万 Token 上下文窗口与 Agent 上下文工程相关。",
+    "topics/workflows-before-agents.md": "跨应用工作流承载呼应“工作流优先于智能体”主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "新模型定位与 Agent 使用场景，属于面向 Agent 的模型渠道取舍范畴。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及 Agentic AI 基础模型发布，与基础主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "100 万 Token 上下文窗口与 Agent 上下文工程相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "跨应用工作流承载呼应“工作流优先于智能体”主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期、浏览量与互动数据均来自抓取的帖文页面；模型能力描述均以“帖文称”表述，未作为平台核实事实。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:30:58.305Z",
+  "url": "https://x.com/kentcdodds/status/2119812466037428392",
+  "slug": "4c17ad5ee4fc135e",
+  "content_hash": "560195e2c5b9a7ae8ecbb040cdae6513943c6889f1e56962f84d24851e62e0ea",
+  "source": {
+    "path": "sources/articles/kent-explicit-state-machines.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及智能体自动模式与 AX，与帖文中提升智能体体验的目标相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 UX、DX 与 AX 三者，与该主题直接相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "状态机与工作流逻辑密切相关，主题讨论工作流优先于智能体，可作上下文参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文明确提及 UX、DX 与 AX 三者，与该主题直接相关。",
+    "topics/workflows-before-agents.md": "状态机与工作流逻辑密切相关，主题讨论工作流优先于智能体，可作上下文参考。",
+    "topics/agent-auto-mode.md": "涉及智能体自动模式与 AX，与帖文中提升智能体体验的目标相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/kent-explicit-state-machines.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/workflows-before-agents.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "帖文明确提及 UX、DX 与 AX 三者，与该主题直接相关。",
+      "topics/workflows-before-agents.md": "状态机与工作流逻辑密切相关，主题讨论工作流优先于智能体，可作上下文参考。",
+      "topics/agent-auto-mode.md": "涉及智能体自动模式与 AX，与帖文中提升智能体体验的目标相关。"
+    },
+    "notes": "内容仅基于抓取的 X 帖文片段，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/kent-explicit-state-machines.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

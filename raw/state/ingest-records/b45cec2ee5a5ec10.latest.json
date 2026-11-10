@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:12:31.906Z",
+  "url": "https://x.com/OpenAIDevs/status/2119883176726409645",
+  "slug": "b45cec2ee5a5ec10",
+  "content_hash": "1f9d8edebdd2166c6f69dfe544797697964cb887acd9f9da15f31dadb43b1ef3",
+  "source": {
+    "path": "sources/articles/openaidevs-multiple-local-computers-can-connect-to-the-same-dot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与机器分配，与任务可选定执行机器相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及本地电脑与计算机使用场景，与帖文中连接多台本地机器最为贴近。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "涉及远程 AI 编码时笔记本仅需轻量与续航，与“在笔记本上编码、专用机器构建测试”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "涉及本地电脑与计算机使用场景，与帖文中连接多台本地机器最为贴近。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "涉及远程 AI 编码时笔记本仅需轻量与续航，与“在笔记本上编码、专用机器构建测试”相关。",
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与机器分配，与任务可选定执行机器相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openaidevs-multiple-local-computers-can-connect-to-the-same-dot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/laptop-light-battery-remote-ai-coding.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "涉及本地电脑与计算机使用场景，与帖文中连接多台本地机器最为贴近。",
+      "topics/laptop-light-battery-remote-ai-coding.md": "涉及远程 AI 编码时笔记本仅需轻量与续航，与“在笔记本上编码、专用机器构建测试”相关。",
+      "topics/agent-compute-and-governance.md": "涉及智能体算力与机器分配，与任务可选定执行机器相关。"
+    },
+    "notes": "“dot”系帖文原文用语， fetched 文本未作进一步解释，未擅自扩展其含义。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openaidevs-multiple-local-computers-can-connect-to-the-same-dot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

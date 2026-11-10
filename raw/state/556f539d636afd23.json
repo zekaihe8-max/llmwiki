@@ -1,0 +1,23 @@
+{
+  "slug": "556f539d636afd23",
+  "url": "https://x.com/AnthropicAI/status/2119867707546071125",
+  "title": "Anthropic 转发",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "556f539d636afd23852be861715d98a172cb2bd6b97b7c50dfdb7df6e96c9cd9",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:00.325Z",
+  "content_hash": "f285fceb65058abde693c4133617bb46d8a5686892949ed39c56d58d27ed4f60",
+  "article_path": "articles/556f539d636afd23.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2119867707546071125",
+  "source_path": "sources/articles/anthropic-boosts-claude-fable-5-2-and-claude-mythos-5-2-release.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:05:04.846Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

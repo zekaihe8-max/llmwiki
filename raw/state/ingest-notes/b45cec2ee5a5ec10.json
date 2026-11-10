@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "涉及本地电脑与计算机使用场景，与帖文中连接多台本地机器最为贴近。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "涉及远程 AI 编码时笔记本仅需轻量与续航，与“在笔记本上编码、专用机器构建测试”相关。",
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与机器分配，与任务可选定执行机器相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及本地电脑与计算机使用场景，与帖文中连接多台本地机器最为贴近。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "涉及远程 AI 编码时笔记本仅需轻量与续航，与“在笔记本上编码、专用机器构建测试”相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与机器分配，与任务可选定执行机器相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "“dot”系帖文原文用语， fetched 文本未作进一步解释，未擅自扩展其含义。"
+}

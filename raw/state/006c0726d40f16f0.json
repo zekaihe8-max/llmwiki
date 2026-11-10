@@ -1,0 +1,23 @@
+{
+  "slug": "006c0726d40f16f0",
+  "url": "https://x.com/OpenAI/status/2119913172039868579",
+  "title": "Control Room",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "006c0726d40f16f03edb1c0fe78f06a07b0e0a9833eb2a845889fa0e18293bc4",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:05.426Z",
+  "content_hash": "53c38e9ee9c3dbc7bf5ddb63006d0e29782a40ed1779deed009169ae7ce6b8ef",
+  "article_path": "articles/006c0726d40f16f0.md",
+  "fetched_url": "https://x.com/OpenAI/status/2119913172039868579",
+  "source_path": "sources/articles/openai-launches-control-room-to-centrally-track-and-stop-model-w.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:12:05.684Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

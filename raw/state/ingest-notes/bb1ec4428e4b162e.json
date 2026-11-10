@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章核心是图像生成与编辑模型，与生图质量边界话题最贴近",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中涉及 API 计费与单张编辑成本，与推理成本效率话题相关",
+    "topics/pro-vs-flash-model-strategy.md": "文中将 Seedream 5.5 与 GPT Image、Nano Banana 等模型对比，涉及模型策略与定位"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章核心是图像生成与编辑模型，与生图质量边界话题最贴近"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中涉及 API 计费与单张编辑成本，与推理成本效率话题相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中将 Seedream 5.5 与 GPT Image、Nano Banana 等模型对比，涉及模型策略与定位"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有模型性能、对比数据及定价主张均引用帖文表述（帖文称/作者称），未独立核实。"
+}

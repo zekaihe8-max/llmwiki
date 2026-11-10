@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文明确提及 UX、DX 与 AX 三者，与该主题直接相关。",
+    "topics/workflows-before-agents.md": "状态机与工作流逻辑密切相关，主题讨论工作流优先于智能体，可作上下文参考。",
+    "topics/agent-auto-mode.md": "涉及智能体自动模式与 AX，与帖文中提升智能体体验的目标相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 UX、DX 与 AX 三者，与该主题直接相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "状态机与工作流逻辑密切相关，主题讨论工作流优先于智能体，可作上下文参考。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及智能体自动模式与 AX，与帖文中提升智能体体验的目标相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅基于抓取的 X 帖文片段，未引用外部事实。"
+}

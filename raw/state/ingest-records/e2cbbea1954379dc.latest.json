@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:15:22.443Z",
+  "url": "https://x.com/sundarpichai/status/2119857335871164769",
+  "slug": "e2cbbea1954379dc",
+  "content_hash": "6f79c30c92bb2110635b743eac0d55c65634f3927f36134faf6ba105fe39c2ea",
+  "source": {
+    "path": "sources/articles/tpu-8th-generation-expansion.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力基础设施，与 TPU 算力扩容主题相近"
+    },
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "TPU 8tx 涉及安全计算，与机密计算与云端 AI 相关"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力硬件，与 TPU 产品线扩容相近"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及大厂推理与算力效率，与 TPU 推理基础设施相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "涉及 AI 算力基础设施，与 TPU 算力扩容主题相近",
+    "topics/confidential-computing-cloud-ai.md": "TPU 8tx 涉及安全计算，与机密计算与云端 AI 相关",
+    "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力硬件，与 TPU 产品线扩容相近",
+    "topics/lab-inference-serving-cost-efficiency.md": "涉及大厂推理与算力效率，与 TPU 推理基础设施相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tpu-8th-generation-expansion.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/confidential-computing-cloud-ai.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "涉及 AI 算力基础设施，与 TPU 算力扩容主题相近",
+      "topics/confidential-computing-cloud-ai.md": "TPU 8tx 涉及安全计算，与机密计算与云端 AI 相关",
+      "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力硬件，与 TPU 产品线扩容相近",
+      "topics/lab-inference-serving-cost-efficiency.md": "涉及大厂推理与算力效率，与 TPU 推理基础设施相关"
+    },
+    "notes": "原文在 TPU 8tx 介绍处截断，未展示完整用途。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tpu-8th-generation-expansion.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

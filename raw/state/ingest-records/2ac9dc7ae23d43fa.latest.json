@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:21:44.931Z",
+  "url": "https://x.com/amasad/status/2119893236747780567",
+  "slug": "2ac9dc7ae23d43fa",
+  "content_hash": "d81825980722dc00756c23fffc822113e9ada4ec4dd1477e341cf20554100322",
+  "source": {
+    "path": "sources/articles/amasad-self-healing-software.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/ontology-driven-observability.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述的监控 Agent 自动检测、修复并部署，与“智能体自动模式”高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "自愈软件触及智能体规模化工程与运维自动化，主题相近。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "涉及生产问题检测与可观测性，但本文未深入展开，故保持不变。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及“vibe coded apps”及其维护问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文描述的监控 Agent 自动检测、修复并部署，与“智能体自动模式”高度相关。",
+    "topics/vibe-coding-memory-paradox.md": "帖文直接提及“vibe coded apps”及其维护问题。",
+    "topics/ontology-driven-observability.md": "涉及生产问题检测与可观测性，但本文未深入展开，故保持不变。",
+    "topics/agent-scaled-engineering.md": "自愈软件触及智能体规模化工程与运维自动化，主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/amasad-self-healing-software.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/ontology-driven-observability.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文描述的监控 Agent 自动检测、修复并部署，与“智能体自动模式”高度相关。",
+      "topics/vibe-coding-memory-paradox.md": "帖文直接提及“vibe coded apps”及其维护问题。",
+      "topics/ontology-driven-observability.md": "涉及生产问题检测与可观测性，但本文未深入展开，故保持不变。",
+      "topics/agent-scaled-engineering.md": "自愈软件触及智能体规模化工程与运维自动化，主题相近。"
+    },
+    "notes": "未核实 Replit 监控 Agent 的实际能力，所有功能描述均引用自帖文与 Replit 官方推文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/amasad-self-healing-software.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

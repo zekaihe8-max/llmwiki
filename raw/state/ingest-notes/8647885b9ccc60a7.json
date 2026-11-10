@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "涉及项目指令与提示词效率，与帖文中清理提示词的主题相近",
+    "topics/context-engineering-for-agents.md": "属于上下文工程范畴，帖文中的提示词审阅项目可视为上下文管理实践",
+    "topics/reuse-before-write.md": "主张先复用再编写，与利用新模型精简现有提示词而非盲目新写的思路一致"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及项目指令与提示词效率，与帖文中清理提示词的主题相近"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "属于上下文工程范畴，帖文中的提示词审阅项目可视为上下文管理实践"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "主张先复用再编写，与利用新模型精简现有提示词而非盲目新写的思路一致"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容为 X 平台帖文转发，主张来源于 Alex Albert，未独立核实其效果。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/divergent-tasks-human-design-gate.md": "帖文中“先问问题再构建”和“预先告知需审批操作”对应人类在发散任务中的设计门控。",
+    "topics/agent-auto-mode.md": "帖文建议让模型运行数小时，涉及智能体自动运行模式。",
+    "topics/agent-scaled-engineering.md": "帖文聚焦大型开放式工作和完整项目交付，与智能体规模化工程相关。",
+    "topics/ai-task-horizon-growth.md": "帖文提到让模型运行数小时，对应长时界任务增长。"
+  },
+  "topics": [
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文中“先问问题再构建”和“预先告知需审批操作”对应人类在发散任务中的设计门控。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文建议让模型运行数小时，涉及智能体自动运行模式。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦大型开放式工作和完整项目交付，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到让模型运行数小时，对应长时界任务增长。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有模型表现与使用建议均归因于帖文作者或 Anthropic 官方介绍，未作为平台事实断言。"
+}

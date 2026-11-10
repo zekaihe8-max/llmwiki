@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agent-auto-mode.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章核心讨论 AI 原生的自治公司形态，直接命中该主题",
+    "topics/agent-auto-mode.md": "涉及 Agent 全自动运营业务，属于智能体自动模式的典型场景",
+    "topics/company-agent-harness.md": "明确提到 Agent Harness 作为公司级运营基础设施"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论 AI 原生的自治公司形态，直接命中该主题"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 全自动运营业务，属于智能体自动模式的典型场景"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "明确提到 Agent Harness 作为公司级运营基础设施"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，涉及产品宣称（Steve 的能力、已运行 3 家业务）均标注为「帖文称」/「作者称」，未作独立验证。"
+}

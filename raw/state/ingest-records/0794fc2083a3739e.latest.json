@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:18:48.969Z",
+  "url": "https://x.com/alexalbert__/status/2119869724247077229",
+  "slug": "0794fc2083a3739e",
+  "content_hash": "1d933aebb441c65835c87078d60a0358368cbfe403c8d41ddcb4119da6b65670",
+  "source": {
+    "path": "sources/articles/alex-claude-fable-5-2-usage-tips.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文建议让模型运行数小时，涉及智能体自动运行模式。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦大型开放式工作和完整项目交付，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到让模型运行数小时，对应长时界任务增长。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文中“先问问题再构建”和“预先告知需审批操作”对应人类在发散任务中的设计门控。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/divergent-tasks-human-design-gate.md": "帖文中“先问问题再构建”和“预先告知需审批操作”对应人类在发散任务中的设计门控。",
+    "topics/agent-auto-mode.md": "帖文建议让模型运行数小时，涉及智能体自动运行模式。",
+    "topics/agent-scaled-engineering.md": "帖文聚焦大型开放式工作和完整项目交付，与智能体规模化工程相关。",
+    "topics/ai-task-horizon-growth.md": "帖文提到让模型运行数小时，对应长时界任务增长。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alex-claude-fable-5-2-usage-tips.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/divergent-tasks-human-design-gate.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/divergent-tasks-human-design-gate.md": "帖文中“先问问题再构建”和“预先告知需审批操作”对应人类在发散任务中的设计门控。",
+      "topics/agent-auto-mode.md": "帖文建议让模型运行数小时，涉及智能体自动运行模式。",
+      "topics/agent-scaled-engineering.md": "帖文聚焦大型开放式工作和完整项目交付，与智能体规模化工程相关。",
+      "topics/ai-task-horizon-growth.md": "帖文提到让模型运行数小时，对应长时界任务增长。"
+    },
+    "notes": "所有模型表现与使用建议均归因于帖文作者或 Anthropic 官方介绍，未作为平台事实断言。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alex-claude-fable-5-2-usage-tips.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

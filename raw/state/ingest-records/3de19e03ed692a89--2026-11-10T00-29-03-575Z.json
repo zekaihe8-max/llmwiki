@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:29:03.575Z",
+  "url": "https://x.com/simonw/status/2119650353142747181",
+  "slug": "3de19e03ed692a89",
+  "content_hash": "5357db259800b3f01090ebed58e221e8467119c00a6b553152649825edb50657",
+  "source": {
+    "path": "sources/articles/simon-pr-fold-hiding-ai-generated-pr-descriptions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 生成代码与 PR 质量，与“PR slop”主题最贴近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Claude Code 为 PR 作者，与该话题直接相关。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "涉及 PR 工作流与自动合入，与折叠 PR 描述的工程实践相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "折叠 PR 描述属于开发者体验（DX）改进，与该话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "文章讨论 AI 生成代码与 PR 质量，与“PR slop”主题最贴近。",
+    "topics/deterministic-refactor-automerge.md": "涉及 PR 工作流与自动合入，与折叠 PR 描述的工程实践相关。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 为 PR 作者，与该话题直接相关。",
+    "topics/ux-dx-and-ax.md": "折叠 PR 描述属于开发者体验（DX）改进，与该话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/simon-pr-fold-hiding-ai-generated-pr-descriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-code-vs-messy-code-double-standard.md": "文章讨论 AI 生成代码与 PR 质量，与“PR slop”主题最贴近。",
+      "topics/deterministic-refactor-automerge.md": "涉及 PR 工作流与自动合入，与折叠 PR 描述的工程实践相关。",
+      "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 为 PR 作者，与该话题直接相关。",
+      "topics/ux-dx-and-ax.md": "折叠 PR 描述属于开发者体验（DX）改进，与该话题相关。"
+    },
+    "notes": "所有主题均复用现有条目，未新建。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/simon-pr-fold-hiding-ai-generated-pr-descriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

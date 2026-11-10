@@ -1,0 +1,23 @@
+{
+  "slug": "02b643049322aa4a",
+  "url": "https://x.com/AIatMeta/status/2119853591703998787",
+  "title": "发布",
+  "digest": "2026-11-10-frontier-ai.md",
+  "status": "filed",
+  "hash": "02b643049322aa4aa823aa7a68b9a357f0944749678c38e4cbcf490cab1b09d8",
+  "first_seen": "2026-11-10T00:02:58.400Z",
+  "last_seen": "2026-11-10T00:02:58.400Z",
+  "fetched_at": "2026-11-10T00:03:02.431Z",
+  "content_hash": "cdd8ac8d4fae72862d7a94b24b71d72f2f70b9b4f373ddf478f624fe32813d6d",
+  "article_path": "articles/02b643049322aa4a.md",
+  "fetched_url": "https://x.com/AIatMeta/status/2119853591703998787",
+  "source_path": "sources/articles/meta-releases-muse-ember-a-small-and-efficient-agent-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-10T00:09:05.996Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

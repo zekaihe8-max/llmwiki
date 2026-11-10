@@ -1,3 +1,73 @@
+## 2026-11-10
+
+* **创建 / Creation**: 归档 [OpenAI dot 现支持同一账号连接多台本地电脑](./sources/articles/openai-dot-now-supports-connecting-multiple-local-computers-to-o.md)。 / Filed [OpenAI dot now supports connecting multiple local computers to one account](./sources/articles/openai-dot-now-supports-connecting-multiple-local-computers-to-o.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发售 200 美元 Codex 版 Chromatic 掌机，一句话用 AI 做 Game Boy 游戏](./sources/articles/openai-sells-200-codex-edition-chromatic-handheld-make-game-boy.md)。 / Filed [OpenAI Sells $200 Codex Edition Chromatic Handheld, Make Game Boy Games with One Sentence via AI](./sources/articles/openai-sells-200-codex-edition-chromatic-handheld-make-game-boy.md).
+
+* **创建 / Creation**: 归档 [OpenAI 开发者宣布 Codex 版 ModRetro Chromatic 上架 Supply Co](./sources/articles/openai-developers-announce-codex-edition-of-modretro-chromatic-o.md)。 / Filed [OpenAI Developers Announce Codex Edition of ModRetro Chromatic on Supply Co](./sources/articles/openai-developers-announce-codex-edition-of-modretro-chromatic-o.md).
+
+* **创建 / Creation**: 归档 [代码少即多](./sources/articles/fewer-deeper-modules-smaller-interfaces.md)。 / Filed [Fewer, Deeper Modules, Smaller Interfaces](./sources/articles/fewer-deeper-modules-smaller-interfaces.md).
+
+* **创建 / Creation**: 归档 [一张截图对齐 Claude Code 项目环境](./sources/articles/align-claude-code-project-environment-with-one-screenshot.md)。 / Filed [Align Claude Code project environment with one screenshot](./sources/articles/align-claude-code-project-environment-with-one-screenshot.md).
+
+* **创建 / Creation**: 归档 [Kent · 显式状态机](./sources/articles/kent-explicit-state-machines.md)。 / Filed [Kent · Explicit State Machines](./sources/articles/kent-explicit-state-machines.md).
+
+* **创建 / Creation**: 归档 [软件工厂：智能体上层的自动化基建](./sources/articles/software-factory-automation-infrastructure-above-agents.md)。 / Filed [Software Factory: Automation Infrastructure Above Agents](./sources/articles/software-factory-automation-infrastructure-above-agents.md).
+
+* **创建 / Creation**: 归档 [为什么要向 AI 代理讲清问题而非方案：一个提升面谈质量的技巧](./sources/articles/why-describe-the-problem-to-an-ai-agent-rather-than-prescribe-a.md)。 / Filed [Why describe the problem to an AI agent rather than prescribe a solution: one tip for better grilling](./sources/articles/why-describe-the-problem-to-an-ai-agent-rather-than-prescribe-a.md).
+
+* **创建 / Creation**: 归档 [Simon · PR 折叠：隐藏 AI 生成的 PR 描述](./sources/articles/simon-pr-fold-hiding-ai-generated-pr-descriptions.md)。 / Filed [Simon · PR Fold: Hiding AI-Generated PR Descriptions](./sources/articles/simon-pr-fold-hiding-ai-generated-pr-descriptions.md).
+
+* **创建 / Creation**: 归档 [兰伯特期待更多 AI 实验室与 Anthropic 竞争并分发研究能力](./sources/articles/lambert-expects-more-ai-labs-to-compete-with-anthropic-and-distr.md)。 / Filed [Lambert Expects More AI Labs to Compete with Anthropic and Distribute Research Capabilities](./sources/articles/lambert-expects-more-ai-labs-to-compete-with-anthropic-and-distr.md).
+
+* **创建 / Creation**: 归档 [Chollet 点赞自治生意：收购 SaaS 交给 Agent Harness 跑 P&L](./sources/articles/chollet-endorses-autonomous-businesses-acquire-saas-hand-to-agen.md)。 / Filed [Chollet Endorses Autonomous Businesses: Acquire SaaS, Hand to Agent Harness, Optimize P&L](./sources/articles/chollet-endorses-autonomous-businesses-acquire-saas-hand-to-agen.md).
+
+* **创建 / Creation**: 归档 [传送门实验](./sources/articles/portal-experiment.md)。 / Filed [Portal Experiment](./sources/articles/portal-experiment.md).
+
+* **创建 / Creation**: 归档 [帖文称 Fable 5.2 触及“锯齿状 AGI”](./sources/articles/post-says-fable-5-2-touches-jagged-agi.md)。 / Filed [Post says Fable 5.2 touches 'Jagged AGI'](./sources/articles/post-says-fable-5-2-touches-jagged-agi.md).
+
+* **创建 / Creation**: 归档 [Amasad · 自愈软件](./sources/articles/amasad-self-healing-software.md)。 / Filed [Amasad · Self-Healing Software](./sources/articles/amasad-self-healing-software.md).
+
+* **创建 / Creation**: 归档 [Levie：Agent 蜂群将生产力提升推向无上限](./sources/articles/levie-agent-swarms-push-productivity-gains-beyond-limits.md)。 / Filed [Levie: Agent Swarms Push Productivity Gains Beyond Limits](./sources/articles/levie-agent-swarms-push-productivity-gains-beyond-limits.md).
+
+* **创建 / Creation**: 归档 [宝玉：新模型发布是清理提示词的好时机](./sources/articles/bao-yu-new-model-releases-are-a-good-time-to-clean-up-prompts.md)。 / Filed [Bao Yu: New model releases are a good time to clean up prompts](./sources/articles/bao-yu-new-model-releases-are-a-good-time-to-clean-up-prompts.md).
+
+* **创建 / Creation**: 归档 [Alex Albert 推荐用同一提示词审查项目](./sources/articles/alex-albert-recommends-same-prompt-to-audit-projects.md)。 / Filed [Alex Albert Recommends Same Prompt to Audit Projects](./sources/articles/alex-albert-recommends-same-prompt-to-audit-projects.md).
+
+* **创建 / Creation**: 归档 [Alex · Fable 用法](./sources/articles/alex-claude-fable-5-2-usage-tips.md)。 / Filed [Alex · Claude Fable 5.2 Usage Tips](./sources/articles/alex-claude-fable-5-2-usage-tips.md).
+
+* **创建 / Creation**: 归档 [Rauch：MCP Events 补齐跨会话回调，Vercel MCP 支持部署事件订阅](./sources/articles/rauch-on-mcp-events-cross-session-callbacks-and-vercel-mcp-deplo.md)。 / Filed [Rauch on MCP Events: Cross-Session Callbacks and Vercel MCP Deployment Event Subscriptions](./sources/articles/rauch-on-mcp-events-cross-session-callbacks-and-vercel-mcp-deplo.md).
+
+* **创建 / Creation**: 归档 [Rauch · 并行要靠云沙箱](./sources/articles/rauch-parallel-work-needs-cloud-sandboxes.md)。 / Filed [Rauch · Parallel Work Needs Cloud Sandboxes](./sources/articles/rauch-parallel-work-needs-cloud-sandboxes.md).
+
+* **创建 / Creation**: 归档 [字节发布 Seedream 5.5 图像模型：支持像素级不变编辑与透明底输出](./sources/articles/bytedance-releases-seedream-5-5-image-model-with-pixel-perfect-e.md)。 / Filed [ByteDance Releases Seedream 5.5 Image Model with Pixel-Perfect Editing and Transparent Background Output](./sources/articles/bytedance-releases-seedream-5-5-image-model-with-pixel-perfect-e.md).
+
+* **创建 / Creation**: 归档 [TPU 第八代扩容](./sources/articles/tpu-8th-generation-expansion.md)。 / Filed [TPU 8th Generation Expansion](./sources/articles/tpu-8th-generation-expansion.md).
+
+* **创建 / Creation**: 归档 [OpenAIDevs：多台本地电脑可接入同一 dot，任务可指定执行机器](./sources/articles/openaidevs-multiple-local-computers-can-connect-to-the-same-dot.md)。 / Filed [OpenAIDevs: Multiple local computers can connect to the same dot, tasks can be assigned to specific machines](./sources/articles/openaidevs-multiple-local-computers-can-connect-to-the-same-dot.md).
+
+* **创建 / Creation**: 归档 [OpenAI 推出 Control Room 集中追踪与叫停模型工作负载](./sources/articles/openai-launches-control-room-to-centrally-track-and-stop-model-w.md)。 / Filed [OpenAI Launches Control Room to Centrally Track and Stop Model Workloads](./sources/articles/openai-launches-control-room-to-centrally-track-and-stop-model-w.md).
+
+* **创建 / Creation**: 归档 [宝玉解读：Meta 发布最小模型 Muse Ember，单价与 Claude Haiku 5.5 一样，同测试花费三分之一](./sources/articles/meta-releases-smallest-model-muse-ember-same-unit-price-as-claud.md)。 / Filed [Meta Releases Smallest Model Muse Ember, Same Unit Price as Claude Haiku 5.5, One-Third the Cost for Same Tests](./sources/articles/meta-releases-smallest-model-muse-ember-same-unit-price-as-claud.md).
+
+* **创建 / Creation**: 归档 [Muse Ember 上线 Meta Model API，输入输出 Token 定价公布](./sources/articles/muse-ember-launches-on-meta-model-api-with-input-output-token-pr.md)。 / Filed [Muse Ember launches on Meta Model API with input/output token pricing](./sources/articles/muse-ember-launches-on-meta-model-api-with-input-output-token-pr.md).
+
+* **创建 / Creation**: 归档 [Muse Ember 成本对比：每任务成本约为 Claude Haiku 5.5 三分之一](./sources/articles/muse-ember-cost-comparison-roughly-one-third-the-cost-per-task-o.md)。 / Filed [Muse Ember cost comparison: roughly one-third the cost per task of Claude Haiku 5.5](./sources/articles/muse-ember-cost-comparison-roughly-one-third-the-cost-per-task-o.md).
+
+* **创建 / Creation**: 归档 [Meta 发布 Muse Ember 小型高效 Agent 模型](./sources/articles/meta-releases-muse-ember-a-small-and-efficient-agent-model.md)。 / Filed [Meta Releases Muse Ember, a Small and Efficient Agent Model](./sources/articles/meta-releases-muse-ember-a-small-and-efficient-agent-model.md).
+
+* **创建 / Creation**: 归档 [宝玉长文转述：Claude Fable 5.2 发布，比 Opus 5.5 强一档，API 降价两成](./sources/articles/baoyu-s-long-form-retelling-claude-fable-5-2-released-stronger-t.md)。 / Filed [Baoyu's long-form retelling: Claude Fable 5.2 released, stronger than Opus 5.5, API prices cut 20%](./sources/articles/baoyu-s-long-form-retelling-claude-fable-5-2-released-stronger-t.md).
+
+* **创建 / Creation**: 归档 [Addy 选型：Claude Fable 5.2 与 Opus 5.5 使用建议](./sources/articles/addy-s-model-selection-claude-fable-5-2-and-opus-5-5-usage-recom.md)。 / Filed [Addy's Model Selection: Claude Fable 5.2 and Opus 5.5 Usage Recommendations](./sources/articles/addy-s-model-selection-claude-fable-5-2-and-opus-5-5-usage-recom.md).
+
+* **创建 / Creation**: 归档 [Boris Cherny：帖文称 Fable 5.2 订阅越久重置次数越多](./sources/articles/boris-cherny-post-says-fable-5-2-grants-more-resets-to-longer-te.md)。 / Filed [Boris Cherny: Post says Fable 5.2 grants more resets to longer-tenured subscribers](./sources/articles/boris-cherny-post-says-fable-5-2-grants-more-resets-to-longer-te.md).
+
+* **创建 / Creation**: 归档 [Anthropic 转发 Claude Fable 5.2 与 Claude Mythos 5.2 上线](./sources/articles/anthropic-boosts-claude-fable-5-2-and-claude-mythos-5-2-release.md)。 / Filed [Anthropic Boosts Claude Fable 5.2 and Claude Mythos 5.2 Release](./sources/articles/anthropic-boosts-claude-fable-5-2-and-claude-mythos-5-2-release.md).
+
+* **创建 / Creation**: 归档 [Claude Fable 5.2 从一句话设计电子设备](./sources/articles/claude-fable-5-2-designs-electronic-devices-from-a-one-paragraph.md)。 / Filed [Claude Fable 5.2 designs electronic devices from a one-paragraph prompt](./sources/articles/claude-fable-5-2-designs-electronic-devices-from-a-one-paragraph.md).
+
+* **创建 / Creation**: 归档 [Claude Fable 5.2 与 Claude Mythos 5.2 上线](./sources/articles/claude-fable-5-2-and-claude-mythos-5-2-launch.md)。 / Filed [Claude Fable 5.2 and Claude Mythos 5.2 Launch](./sources/articles/claude-fable-5-2-and-claude-mythos-5-2-launch.md).
+
 ## 2026-11-09
 
 * **创建 / Creation**: 归档 [老马亲自督战 Grok Bot 体验修复](./sources/articles/elon-musk-personally-oversees-grok-bot-experience-fixes.md)。 / Filed [Elon Musk Personally Oversees Grok Bot Experience Fixes](./sources/articles/elon-musk-personally-oversees-grok-bot-experience-fixes.md).

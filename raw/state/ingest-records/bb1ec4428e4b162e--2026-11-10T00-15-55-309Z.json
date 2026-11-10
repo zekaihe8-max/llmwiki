@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-10T00:15:55.309Z",
+  "url": "https://x.com/dotey/status/2119823986603299193",
+  "slug": "bb1ec4428e4b162e",
+  "content_hash": "0e078f2d1d6331a2d0ad1c48228cac278edaa83d06ba8582610d20e3fe277129",
+  "source": {
+    "path": "sources/articles/bytedance-releases-seedream-5-5-image-model-with-pixel-perfect-e.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章核心是图像生成与编辑模型，与生图质量边界话题最贴近"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中涉及 API 计费与单张编辑成本，与推理成本效率话题相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中将 Seedream 5.5 与 GPT Image、Nano Banana 等模型对比，涉及模型策略与定位"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章核心是图像生成与编辑模型，与生图质量边界话题最贴近",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中涉及 API 计费与单张编辑成本，与推理成本效率话题相关",
+    "topics/pro-vs-flash-model-strategy.md": "文中将 Seedream 5.5 与 GPT Image、Nano Banana 等模型对比，涉及模型策略与定位"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bytedance-releases-seedream-5-5-image-model-with-pixel-perfect-e.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "文章核心是图像生成与编辑模型，与生图质量边界话题最贴近",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中涉及 API 计费与单张编辑成本，与推理成本效率话题相关",
+      "topics/pro-vs-flash-model-strategy.md": "文中将 Seedream 5.5 与 GPT Image、Nano Banana 等模型对比，涉及模型策略与定位"
+    },
+    "notes": "所有模型性能、对比数据及定价主张均引用帖文表述（帖文称/作者称），未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bytedance-releases-seedream-5-5-image-model-with-pixel-perfect-e.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
