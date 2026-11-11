@@ -1,0 +1,23 @@
+{
+  "slug": "84757a8b6e04ab0d",
+  "url": "https://www.anthropic.com/news/roadshow-launch",
+  "title": "公告",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "84757a8b6e04ab0dc5be5bc177eccc4e40619603a4e69d52c77bd55e8acbeef7",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:03.653Z",
+  "content_hash": "57b0e7cdc13b099bad528ed5ac7efdf77e411139c962717a46636e70f7fca72a",
+  "article_path": "articles/84757a8b6e04ab0d.md",
+  "fetched_url": "https://www.anthropic.com/news/roadshow-launch",
+  "source_path": "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering-2.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:15:28.841Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

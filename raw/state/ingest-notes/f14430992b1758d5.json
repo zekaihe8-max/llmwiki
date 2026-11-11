@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "帖文核心观点是 Pi Agent 保持精简核心、将功能下放给 Extension/Skill，与该主题高度相关。",
+    "topics/agents-md-token-efficiency.md": "文中引用 TokenSave 数据讨论 Claude Code 初始输入 Token 变化与提示词精简，属于 Token 效率范畴。",
+    "topics/harness-comparison-beyond-tokens.md": "作者质疑复杂 Harness 必要性，探讨极简 Agent 是否可直接使用 AI 能力，与 Harness 对比相关。",
+    "topics/context-engineering-for-agents.md": "文中涉及系统提示词精简与模型上下文/指令工程的变化。"
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点是 Pi Agent 保持精简核心、将功能下放给 Extension/Skill，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中引用 TokenSave 数据讨论 Claude Code 初始输入 Token 变化与提示词精简，属于 Token 效率范畴。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "作者质疑复杂 Harness 必要性，探讨极简 Agent 是否可直接使用 AI 能力，与 Harness 对比相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及系统提示词精简与模型上下文/指令工程的变化。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均基于所提供的 X 帖文 Markdown，未引入外部 URL 或未在文中出现的信息。"
+}

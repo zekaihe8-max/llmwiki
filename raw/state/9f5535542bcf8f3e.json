@@ -1,0 +1,23 @@
+{
+  "slug": "9f5535542bcf8f3e",
+  "url": "https://x.com/OpenAI/status/2120202353907486826",
+  "title": "周四安全发布会",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "9f5535542bcf8f3e79d00d4f0ff1302bec3848ea9d5f1851c24c9ec21e7ffd99",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:04.667Z",
+  "content_hash": "0bbf3ef561aae548994b9c42963256c537f160b5caceb94804827431abe6db42",
+  "article_path": "articles/9f5535542bcf8f3e.md",
+  "fetched_url": "https://x.com/OpenAI/status/2120202353907486826",
+  "source_path": "sources/articles/thursday-security-release-event.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:17:03.518Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,61 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:28:16.618Z",
+  "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "slug": "001cd33c965241bc",
+  "content_hash": "c7ee5cf85df11d796078031531e69494ea2a7f4fc6e2406c9cdd738fe16a8494",
+  "source": {
+    "path": "sources/articles/introducing-claude-whiteboards-claude-sheets-and-claude-data.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "现有 Computer Use 主题已覆盖在工具里直接操作的能力，本篇只补充 Claude 付费套餐产品说明。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "现有应用内模型合作主题已能承载连接器与第三方应用协同，本篇不新增矛盾或改变结论。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "现有 UX / DX / AX 主题已覆盖人机协同界面，本篇为产品说明证据，不足以改写结论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "白板、表格与 Claude Data 是面向人与 Claude 协同的产品界面，直接落入 UX / DX / AX 讨论，现有主题已能承载。",
+    "topics/in-app-model-partnerships.md": "文中写到可在对话旁打开 Adobe、Atlassian、Box、Notion 等完整应用并一起改，属于应用内模型合作/连接器，复用现有主题。",
+    "topics/computer-use.md": "这些功能让 Claude 在平台内直接操作看板、表格与数据，与 Computer Use 一类的工具操作主题最接近；本页只归档产品说明，不改主题结论。"
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/in-app-model-partnerships.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "白板、表格与 Claude Data 是面向人与 Claude 协同的产品界面，直接落入 UX / DX / AX 讨论，现有主题已能承载。",
+      "topics/in-app-model-partnerships.md": "文中写到可在对话旁打开 Adobe、Atlassian、Box、Notion 等完整应用并一起改，属于应用内模型合作/连接器，复用现有主题。",
+      "topics/computer-use.md": "这些功能让 Claude 在平台内直接操作看板、表格与数据，与 Computer Use 一类的工具操作主题最接近；本页只归档产品说明，不改主题结论。"
+    },
+    "notes": "优先复用现有 Topic，未新建；主题页本轮保持不变。JSON 已手写补全，因首次编译 notes 为空且未链接 Topic。",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

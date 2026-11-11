@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-output-to-notion-reading.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文涉及将已有订阅带入第三方设计/编码工具，与“自带订阅”主题高度相关。",
+    "topics/premium-ai-subscription-value.md": "核心内容是 ChatGPT 商业订阅在外部工具中的可用性，属于高端 AI 订阅价值范畴。",
+    "topics/coding-agent-token-saving-tooling.md": "文中列举的 v0、AmpCode、kilocode、Warp、OpenCode 等多为编程 Agent 工具。",
+    "topics/agent-output-to-notion-reading.md": "NotionHQ 被列为首个支持工具，与 Agent 产出直送 Notion 相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文涉及将已有订阅带入第三方设计/编码工具，与“自带订阅”主题高度相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "核心内容是 ChatGPT 商业订阅在外部工具中的可用性，属于高端 AI 订阅价值范畴。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中列举的 v0、AmpCode、kilocode、Warp、OpenCode 等多为编程 Agent 工具。"
+    },
+    {
+      "path": "topics/agent-output-to-notion-reading.md",
+      "action": "unchanged",
+      "reason": "NotionHQ 被列为首个支持工具，与 Agent 产出直送 Notion 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "全部复用现有目录，未创建新主题。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接关联 Claude 产品与社区话题，最贴近本条 Claude 功能发布。",
+    "topics/claude-on-google-cloud.md": "直接关联 Claude 在云平台上的分发，与本条产品推送属性相近。",
+    "topics/claude-subscription-risk-control-weights.md": "直接关联 Claude 订阅与产品侧话题，适合作为同一产品线的现有主题。",
+    "topics/computer-use.md": "属于 Anthropic Claude 的具体能力/功能主题，与白板表格数据等新功能同属产品能力范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接关联 Claude 产品与社区话题，最贴近本条 Claude 功能发布。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "直接关联 Claude 在云平台上的分发，与本条产品推送属性相近。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "直接关联 Claude 订阅与产品侧话题，适合作为同一产品线的现有主题。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "属于 Anthropic Claude 的具体能力/功能主题，与白板表格数据等新功能同属产品能力范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有现有主题动作均为 unchanged，未创建新主题；所有事实仅来源于所获取的 X 帖文。"
+}

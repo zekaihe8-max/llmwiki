@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/frontier-training-containment.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文讨论谷歌 Gemini 模型，与 Pro/Flash 模型策略主题相近，保持不变。",
+    "topics/frontier-training-containment.md": "帖文提及前沿模型竞赛，与前沿训练主题相关，保持不变。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台模型发布背景，与云平台跨模型编排主题相近，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文讨论谷歌 Gemini 模型，与 Pro/Flash 模型策略主题相近，保持不变。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "帖文提及前沿模型竞赛，与前沿训练主题相关，保持不变。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台模型发布背景，与云平台跨模型编排主题相近，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未创建新话题；所有引用话题均保持 unchanged。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:18:56.322Z",
+  "url": "https://x.com/dotey/status/2120226054195577277",
+  "slug": "06be927b25310989",
+  "content_hash": "633b367d54fd93e1c91d46b95a8dbc4bb7aa9f215460087a04ce848c9d118034",
+  "source": {
+    "path": "sources/articles/lenny-s-2026-tech-job-report-pm-openings-at-four-year-high-engin.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "文中提到安全工程师开放岗位增长 34%，与 AI 与网络安全岗位主题有交集，但本文不改动该条目。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "报告讨论大厂与科技公司的编制、开放岗位与实际招聘人数，与该主题的职级与编制讨论相近，但本文仅作事实转述，无需修改。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中大量涉及软件工程师招聘与前端/移动端岗位合并，与软件工厂主题相近，但保持原条目不变。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中涉及产品设计与用户研究岗位下降，与 UX/DX/AX 主题相关，但无需对现有条目做改动。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "报告讨论大厂与科技公司的编制、开放岗位与实际招聘人数，与该主题的职级与编制讨论相近，但本文仅作事实转述，无需修改。",
+    "topics/ux-dx-and-ax.md": "文中涉及产品设计与用户研究岗位下降，与 UX/DX/AX 主题相关，但无需对现有条目做改动。",
+    "topics/ai-cybersecurity-jobs.md": "文中提到安全工程师开放岗位增长 34%，与 AI 与网络安全岗位主题有交集，但本文不改动该条目。",
+    "topics/software-factory.md": "文中大量涉及软件工程师招聘与前端/移动端岗位合并，与软件工厂主题相近，但保持原条目不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lenny-s-2026-tech-job-report-pm-openings-at-four-year-high-engin.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/ai-cybersecurity-jobs.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/enterprise-ai-digital-employee-headcount.md": "报告讨论大厂与科技公司的编制、开放岗位与实际招聘人数，与该主题的职级与编制讨论相近，但本文仅作事实转述，无需修改。",
+      "topics/ux-dx-and-ax.md": "文中涉及产品设计与用户研究岗位下降，与 UX/DX/AX 主题相关，但无需对现有条目做改动。",
+      "topics/ai-cybersecurity-jobs.md": "文中提到安全工程师开放岗位增长 34%，与 AI 与网络安全岗位主题有交集，但本文不改动该条目。",
+      "topics/software-factory.md": "文中大量涉及软件工程师招聘与前端/移动端岗位合并，与软件工厂主题相近，但保持原条目不变。"
+    },
+    "notes": "Source is an X post by @dotey translating/summarizing Lenny Rachitsky's newsletter; no URLs beyond the article text are asserted as facts.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lenny-s-2026-tech-job-report-pm-openings-at-four-year-high-engin.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:20:46.331Z",
+  "url": "https://x.com/dotey/status/2120176641603244488",
+  "slug": "0b52f9a8c273fab9",
+  "content_hash": "adec2917cf8f1882c98991c9a7919a4da7558007172d14f05f1573f121b6eb7f",
+  "source": {
+    "path": "sources/articles/manus-recruitment-no-frontend-backend-split-internally-interview.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/code-over-spec.md",
+    "topics/software-factory.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "面试考察候选人是否习惯和 AI 一起干活，涉及智能体协作模式。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章核心讲 Manus 作为 AI 原生公司内部打破传统岗位划分，与该主题高度相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "产品经理提交代码、设计师写代码，体现代码重于规格的角色模糊化。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "张涛称有了 AI“每个人都能做所有事”，与软件工厂/人人可全栈的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章核心讲 Manus 作为 AI 原生公司内部打破传统岗位划分，与该主题高度相关。",
+    "topics/code-over-spec.md": "产品经理提交代码、设计师写代码，体现代码重于规格的角色模糊化。",
+    "topics/software-factory.md": "张涛称有了 AI“每个人都能做所有事”，与软件工厂/人人可全栈的主题相近。",
+    "topics/agent-auto-mode.md": "面试考察候选人是否习惯和 AI 一起干活，涉及智能体协作模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/manus-recruitment-no-frontend-backend-split-internally-interview.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/code-over-spec.md",
+      "topics/software-factory.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章核心讲 Manus 作为 AI 原生公司内部打破传统岗位划分，与该主题高度相关。",
+      "topics/code-over-spec.md": "产品经理提交代码、设计师写代码，体现代码重于规格的角色模糊化。",
+      "topics/software-factory.md": "张涛称有了 AI“每个人都能做所有事”，与软件工厂/人人可全栈的主题相近。",
+      "topics/agent-auto-mode.md": "面试考察候选人是否习惯和 AI 一起干活，涉及智能体协作模式。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；内容仅基于提供的帖文摘要，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/manus-recruitment-no-frontend-backend-split-internally-interview.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "67cb8d008515c730",
+  "url": "https://x.com/demishassabis/status/2120210297948696997",
+  "title": "Demis",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "67cb8d008515c730a4dcf70731fce3945c7ad61bbefcf2be5d1dee5b69ab1393",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:01.052Z",
+  "content_hash": "6f203ce12542f306d0c3b95d7eceac5379840de3fbfc41f489d35ac8ccc1e877",
+  "article_path": "articles/67cb8d008515c730.md",
+  "fetched_url": "https://x.com/demishassabis/status/2120210297948696997",
+  "source_path": "sources/articles/demis-hassabis-claims-gemini-4-carbon-reverse-engineers-theme-pa.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:11:37.712Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

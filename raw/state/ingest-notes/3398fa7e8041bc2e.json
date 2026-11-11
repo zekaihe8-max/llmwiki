@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/hireable-group-chat-digest-agent.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-cybersecurity-jobs.md": "涉及 AI 与就业岗位，与科技就业市场主题最为相近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂 AI 数字员工与编制，与就业规模和头部集中相关。",
+    "topics/hireable-group-chat-digest-agent.md": "涉及可雇性与招聘相关话题，虽侧重 Agent 但属就业范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 与就业岗位，与科技就业市场主题最为相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大厂 AI 数字员工与编制，与就业规模和头部集中相关。"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "涉及可雇性与招聘相关话题，虽侧重 Agent 但属就业范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未引用外部报告内容。"
+}

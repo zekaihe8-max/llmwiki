@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章主张用 AI 为工程师撰写交付简报，相当于由个人 Agent 担任包工头调度编程工作，与该主题高度相关。",
+    "topics/divergent-tasks-human-design-gate.md": "文章强调在交付前先由人阅读并确认简报，属于发散任务后的人工设计审核门控。",
+    "topics/agents-md-token-efficiency.md": "简报要求注明项目位置、起始分支和变更范围，涉及项目指令与仓库上下文，与该主题相关。",
+    "topics/workflows-before-agents.md": "文章先定义明确的澄清与简报工作流，再交由 Opus 5.5 执行，体现工作流优先于智能体。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章主张用 AI 为工程师撰写交付简报，相当于由个人 Agent 担任包工头调度编程工作，与该主题高度相关。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "文章强调在交付前先由人阅读并确认简报，属于发散任务后的人工设计审核门控。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "简报要求注明项目位置、起始分支和变更范围，涉及项目指令与仓库上下文，与该主题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章先定义明确的澄清与简报工作流，再交由 Opus 5.5 执行，体现工作流优先于智能体。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @Voxyz_ai 于 2026 年 11 月 10 日发布的帖文；未独立核实 Fable 5.2 与 Opus 5.5 的能力。"
+}

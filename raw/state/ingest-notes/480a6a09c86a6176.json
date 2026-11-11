@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章聚焦漏洞识别与资产安全，属安全卫生范畴",
+    "topics/agent-auto-mode.md": "Agent 自动修复漏洞体现智能体自动运行模式",
+    "topics/agent-scaled-engineering.md": "短期内海量漏洞被识别与修复，体现智能体规模化工程"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章聚焦漏洞识别与资产安全，属安全卫生范畴"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 自动修复漏洞体现智能体自动运行模式"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "短期内海量漏洞被识别与修复，体现智能体规模化工程"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

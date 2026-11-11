@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/software-factory.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/code-over-spec.md": "帖文主张少 PR、直推 main 以及“快速修复而非事前规划”，与“代码重于规格”的主题高度相关。",
+    "topics/software-factory.md": "文中描述的全自动化发布流程、全员可切 release 及 15 分钟发布闸，属于软件工厂式的工程协作实践。",
+    "topics/ai-native-companies.md": "帖文提到“软件开发的新时代”、小团队及 AI 辅助识别功能错配，契合 AI 原生公司的协作模式讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文主张少 PR、直推 main 以及“快速修复而非事前规划”，与“代码重于规格”的主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中描述的全自动化发布流程、全员可切 release 及 15 分钟发布闸，属于软件工厂式的工程协作实践。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提到“软件开发的新时代”、小团队及 AI 辅助识别功能错配，契合 AI 原生公司的协作模式讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:15:28.840Z",
+  "url": "https://www.anthropic.com/news/roadshow-launch",
+  "slug": "84757a8b6e04ab0d",
+  "content_hash": "57b0e7cdc13b099bad528ed5ac7efdf77e411139c962717a46636e70f7fca72a",
+  "source": {
+    "path": "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering-2.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，与该话题的公司性质相关。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及上市前（pre-IPO）语境，与路演公告相邻，但本文聚焦路演而非人才离职。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，与该话题的公司性质相关。",
+    "topics/pre-ipo-talent-departure-motives.md": "涉及上市前（pre-IPO）语境，与路演公告相邻，但本文聚焦路演而非人才离职。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering-2.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，与该话题的公司性质相关。",
+      "topics/pre-ipo-talent-departure-motives.md": "涉及上市前（pre-IPO）语境，与路演公告相邻，但本文聚焦路演而非人才离职。"
+    },
+    "notes": "All facts are drawn solely from the provided Anthropic press release; no external URLs or facts invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering-2.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

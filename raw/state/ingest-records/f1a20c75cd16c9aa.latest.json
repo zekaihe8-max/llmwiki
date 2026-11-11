@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:25:01.349Z",
+  "url": "https://x.com/Voxyz_ai/status/2120141188304965959",
+  "slug": "f1a20c75cd16c9aa",
+  "content_hash": "b8f358c9dfa81de68971cfa2d0cbe1c81f1e06afa7f6c05e783b705ea7b110f3",
+  "source": {
+    "path": "sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "子 Agent 在后台自主构建看板、主会话不停机，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "提示词直接面向 Claude Code，涉及 ~/.claude 目录与 CLAUDE.md 规范。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章核心是把专用子 Agent 折进主编码循环，作为长任务的前置看板层。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "个人 Agent 充当包工头，为编程 Agent 调度前置仪表盘。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "文章核心是把专用子 Agent 折进主编码循环，作为长任务的前置看板层。",
+    "topics/agent-auto-mode.md": "子 Agent 在后台自主构建看板、主会话不停机，体现智能体自动模式。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "个人 Agent 充当包工头，为编程 Agent 调度前置仪表盘。",
+    "topics/claude-code-authorship-and-voice.md": "提示词直接面向 Claude Code，涉及 ~/.claude 目录与 CLAUDE.md 规范。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-auto-mode.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/claude-code-authorship-and-voice.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "文章核心是把专用子 Agent 折进主编码循环，作为长任务的前置看板层。",
+      "topics/agent-auto-mode.md": "子 Agent 在后台自主构建看板、主会话不停机，体现智能体自动模式。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "个人 Agent 充当包工头，为编程 Agent 调度前置仪表盘。",
+      "topics/claude-code-authorship-and-voice.md": "提示词直接面向 Claude Code，涉及 ~/.claude 目录与 CLAUDE.md 规范。"
+    },
+    "notes": "来源为 X 帖文，未核实其中提及的模型版本与功能；所有主张均已标注为帖文称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

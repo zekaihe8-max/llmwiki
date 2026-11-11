@@ -1,0 +1,23 @@
+{
+  "slug": "f7146849d609c3a0",
+  "url": "https://x.com/GoogleDeepMind/status/2120219371473617099",
+  "title": "DeepMind",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "f7146849d609c3a0e3f5864d24f88be22745281c8b18311824eff2a12c7bc391",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:06:58.668Z",
+  "content_hash": "4678dcee16d4abf9f295c87b5e41dd727174091da0adc326f3170de43c382268",
+  "article_path": "articles/f7146849d609c3a0.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2120219371473617099",
+  "source_path": "sources/articles/google-deepmind-launches-gemini-4-carbon-for-complex-long-horizo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:08:01.293Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

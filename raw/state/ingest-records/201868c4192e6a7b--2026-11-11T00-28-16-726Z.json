@@ -1,0 +1,61 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:28:16.726Z",
+  "url": "https://x.com/GoogleDeepMind/status/2120169787896525104",
+  "slug": "201868c4192e6a7b",
+  "content_hash": "ebeb36fe1bc53b8dc2ea1bae2f121b2e4a63dcce56c66773cc58304a1c1bb39a",
+  "source": {
+    "path": "sources/articles/gemini-robotics-2-5-released-physical-ai-learns-hundreds-of-ever.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/interactive-world-models.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "智能体基础主题与通用机器人技能学习相关"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "与物理 AI 与环境交互最接近的现有主题"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "交互式世界模型与机器人物理推理相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "与物理 AI 与环境交互最接近的现有主题",
+    "topics/interactive-world-models.md": "交互式世界模型与机器人物理推理相关",
+    "topics/agentic-ai-foundation.md": "智能体基础主题与通用机器人技能学习相关"
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/interactive-world-models.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "与物理 AI 与环境交互最接近的现有主题",
+      "topics/interactive-world-models.md": "交互式世界模型与机器人物理推理相关",
+      "topics/agentic-ai-foundation.md": "智能体基础主题与通用机器人技能学习相关"
+    },
+    "notes": "所有事实仅来自提供的 X 帖文摘录，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

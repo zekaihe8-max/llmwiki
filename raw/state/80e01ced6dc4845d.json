@@ -1,0 +1,23 @@
+{
+  "slug": "80e01ced6dc4845d",
+  "url": "https://x.com/dotey/status/2120213189464105192",
+  "title": "宝玉",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "80e01ced6dc4845da5276cb75a43603d807df490fb788fe881a95f18681b3ebe",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:02.936Z",
+  "content_hash": "1beb5409da4bd440937833ce6af01f69c07ef41bd96e9f2ecfa6f96f19b927d2",
+  "article_path": "articles/80e01ced6dc4845d.md",
+  "fetched_url": "https://x.com/dotey/status/2120213189464105192",
+  "source_path": "sources/articles/claude-adds-whiteboards-and-sheets-renames-dashboards-to-claude.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:14:34.860Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

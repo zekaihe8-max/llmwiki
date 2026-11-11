@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:23:42.072Z",
+  "url": "https://x.com/Voxyz_ai/status/2120260216046727370",
+  "slug": "91170a916d97f428",
+  "content_hash": "f8f65d5a1c803acff4631cecd2be98a19f209795863cd6d2e3634e56fc4886e3",
+  "source": {
+    "path": "sources/articles/division-of-labor-expensive-model-plans-subagents-execute.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/adversarial-review-external-evidence.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "红队先复述再攻击、倒推失败原因并设最小实验，属对抗评审模式。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "昂贵模型保留高价值任务，廉价或闲置额度模型承担执行，属模型渠道取舍。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "只在最强处烧 Token，体现项目指令与 Token 效率的核心关切。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "主会话做规划与包工头调度，子 Agent 负责具体编码执行，与帖文分工思路直接对应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "主会话做规划与包工头调度，子 Agent 负责具体编码执行，与帖文分工思路直接对应。",
+    "topics/agent-model-channel-tradeoffs.md": "昂贵模型保留高价值任务，廉价或闲置额度模型承担执行，属模型渠道取舍。",
+    "topics/agents-md-token-efficiency.md": "只在最强处烧 Token，体现项目指令与 Token 效率的核心关切。",
+    "topics/adversarial-review-external-evidence.md": "红队先复述再攻击、倒推失败原因并设最小实验，属对抗评审模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/division-of-labor-expensive-model-plans-subagents-execute.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/adversarial-review-external-evidence.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "主会话做规划与包工头调度，子 Agent 负责具体编码执行，与帖文分工思路直接对应。",
+      "topics/agent-model-channel-tradeoffs.md": "昂贵模型保留高价值任务，廉价或闲置额度模型承担执行，属模型渠道取舍。",
+      "topics/agents-md-token-efficiency.md": "只在最强处烧 Token，体现项目指令与 Token 效率的核心关切。",
+      "topics/adversarial-review-external-evidence.md": "红队先复述再攻击、倒推失败原因并设最小实验，属对抗评审模式。"
+    },
+    "notes": "所有主张均引用帖文原文，未补充外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/division-of-labor-expensive-model-plans-subagents-execute.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
