@@ -1,3 +1,75 @@
+## 2026-11-11
+
+* **创建 / Creation**: 归档 [小墨 · 提示词在变短](./sources/articles/xiaomo-prompts-are-getting-shorter.md)。 / Filed [Xiaomo · Prompts Are Getting Shorter](./sources/articles/xiaomo-prompts-are-getting-shorter.md).
+
+* **创建 / Creation**: 归档 [进度板：长任务前先部署仅构建仪表盘的子 Agent](./sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md)。 / Filed [Progress Dashboard: Deploy a Dashboard-Only Subagent Before Long Tasks](./sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md).
+
+* **创建 / Creation**: 归档 [用 Fable 5.2 为工程师写可直接交付的任务简报](./sources/articles/write-engineer-ready-task-briefs-with-fable-5-2.md)。 / Filed [Write Engineer-Ready Task Briefs with Fable 5.2](./sources/articles/write-engineer-ready-task-briefs-with-fable-5-2.md).
+
+* **创建 / Creation**: 归档 [分工：昂贵模型规划，子 Agent 执行](./sources/articles/division-of-labor-expensive-model-plans-subagents-execute.md)。 / Filed [Division of Labor: Expensive Model Plans, Subagents Execute](./sources/articles/division-of-labor-expensive-model-plans-subagents-execute.md).
+
+* **创建 / Creation**: 归档 [Matt · 主仓库](./sources/articles/matt-home-repo.md)。 / Filed [Matt · Home Repo](./sources/articles/matt-home-repo.md).
+
+* **创建 / Creation**: 归档 [Simon · 「这仓库是你的」](./sources/articles/simon-this-codebase-is-yours.md)。 / Filed [Simon · "This codebase is yours"](./sources/articles/simon-this-codebase-is-yours.md).
+
+* **创建 / Creation**: 归档 [纳森·兰伯特：AI 扩散依赖人类专家，知识工作比评测更具人性](./sources/articles/nathan-lambert-ai-diffusion-depends-on-human-experts-knowledge-w.md)。 / Filed [Nathan Lambert: AI Diffusion Depends on Human Experts, Knowledge Work Is More Human Than Evals Suggest](./sources/articles/nathan-lambert-ai-diffusion-depends-on-human-experts-knowledge-w.md).
+
+* **创建 / Creation**: 归档 [丹尼尔·柯科塔约称智能爆炸或将于 2027 年发生](./sources/articles/daniel-kokotajlo-says-intelligence-explosion-may-happen-in-2027.md)。 / Filed [Daniel Kokotajlo Says Intelligence Explosion May Happen in 2027](./sources/articles/daniel-kokotajlo-says-intelligence-explosion-may-happen-in-2027.md).
+
+* **创建 / Creation**: 归档 [Levie · Box 进 Claude](./sources/articles/levie-box-integrates-with-claude.md)。 / Filed [Levie · Box Integrates with Claude](./sources/articles/levie-box-integrates-with-claude.md).
+
+* **创建 / Creation**: 归档 [Rauch · 一周安全审查](./sources/articles/rauch-one-week-security-review.md)。 / Filed [Rauch · One-Week Security Review](./sources/articles/rauch-one-week-security-review.md).
+
+* **创建 / Creation**: 归档 [Manus 招聘：内部不分前后端，面试改用 Manus 实战四小时](./sources/articles/manus-recruitment-no-frontend-backend-split-internally-interview.md)。 / Filed [Manus Recruitment: No Frontend/Backend Split Internally, Interviews Use Four-Hour Manus Practice](./sources/articles/manus-recruitment-no-frontend-backend-split-internally-interview.md).
+
+* **创建 / Creation**: 归档 [软件形态](./sources/articles/software-form.md)。 / Filed [Software Form](./sources/articles/software-form.md).
+
+* **创建 / Creation**: 归档 [Mitchell · Superlogical 怎么协作](./sources/articles/mitchell-how-superlogical-collaborates.md)。 / Filed [Mitchell · How Superlogical Collaborates](./sources/articles/mitchell-how-superlogical-collaborates.md).
+
+* **创建 / Creation**: 归档 [Lenny 2026 科技就业报告：产品经理岗位四年来最多，工程师停止增长，设计岗位创新低](./sources/articles/lenny-s-2026-tech-job-report-pm-openings-at-four-year-high-engin.md)。 / Filed [Lenny's 2026 Tech Job Report: PM Openings at Four-Year High, Engineering Stalls, Design at Record Low](./sources/articles/lenny-s-2026-tech-job-report-pm-openings-at-four-year-high-engin.md).
+
+* **创建 / Creation**: 归档 [Lenny：2026 年科技就业市场现状](./sources/articles/state-of-the-tech-job-market-in-2026.md)。 / Filed [State of the Tech Job Market in 2026](./sources/articles/state-of-the-tech-job-market-in-2026.md).
+
+* **创建 / Creation**: 归档 [GR00T 2：可在机器人板载计算上运行的开放 System One 模型](./sources/articles/gr00t-2-open-system-one-robotics-model-running-onboard-robot-com.md)。 / Filed [GR00T 2: Open System One Robotics Model Running Onboard Robot Compute](./sources/articles/gr00t-2-open-system-one-robotics-model-running-onboard-robot-com.md).
+
+* **创建 / Creation**: 归档 [Gemini Robotics 2.5 发布：面向物理 AI 的通用机器人技能](./sources/articles/gemini-robotics-2-5-released-physical-ai-learns-hundreds-of-ever.md)。 / Filed [Gemini Robotics 2.5 Released: Physical AI Learns Hundreds of Everyday Skills](./sources/articles/gemini-robotics-2-5-released-physical-ai-learns-hundreds-of-ever.md).
+
+* **创建 / Creation**: 归档 [周四安全发布会](./sources/articles/thursday-security-release-event.md)。 / Filed [Thursday Security Release Event](./sources/articles/thursday-security-release-event.md).
+
+* **创建 / Creation**: 归档 [OpenAIDevs 称 ChatGPT 商业计划现可在 Notion、v0 等第三方工具中使用](./sources/articles/openaidevs-says-chatgpt-business-plan-now-works-in-third-party-t.md)。 / Filed [OpenAIDevs says ChatGPT Business plan now works in third-party tools such as Notion, v0, and AmpCode](./sources/articles/openaidevs-says-chatgpt-business-plan-now-works-in-third-party-t.md).
+
+* **创建 / Creation**: 归档 [ChatGPT 推出企业主页与商业智能体公测](./sources/articles/businesses-in-chatgpt-now-in-beta.md)。 / Filed [Businesses in ChatGPT Now in Beta](./sources/articles/businesses-in-chatgpt-now-in-beta.md).
+
+* **创建 / Creation**: 归档 [Anthropic 启动拟议首次公开募股路演](./sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering-2.md)。 / Filed [Anthropic launches roadshow for proposed initial public offering](./sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering-2.md).
+
+* **创建 / Creation**: 归档 [Anthropic 启动拟议首次公开募股路演](./sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering.md)。 / Filed [Anthropic launches roadshow for proposed initial public offering](./sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering.md).
+
+* **创建 / Creation**: 归档 [宝玉：Claude 新增白板与表格，仪表盘改名 Claude Data](./sources/articles/claude-adds-whiteboards-and-sheets-renames-dashboards-to-claude.md)。 / Filed [Claude Adds Whiteboards and Sheets, Renames Dashboards to Claude Data](./sources/articles/claude-adds-whiteboards-and-sheets-renames-dashboards-to-claude.md).
+
+* **创建 / Creation**: 归档 [Claude 白板、表格与数据功能说明](./sources/articles/introducing-claude-whiteboards-claude-sheets-and-claude-data.md)。 / Filed [Introducing Claude Whiteboards, Claude Sheets, and Claude Data](./sources/articles/introducing-claude-whiteboards-claude-sheets-and-claude-data.md).
+
+* **创建 / Creation**: 归档 [Claude 推出白板、表格与数据功能](./sources/articles/claude-rolls-out-whiteboards-sheets-and-data.md)。 / Filed [Claude Rolls Out Whiteboards, Sheets and Data](./sources/articles/claude-rolls-out-whiteboards-sheets-and-data.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Carbon 标志谷歌回场前沿模型竞赛](./sources/articles/gemini-4-carbon-marks-google-s-comeback-to-the-frontier-model-ra.md)。 / Filed [Gemini 4 Carbon Marks Google's Comeback to the Frontier Model Race](./sources/articles/gemini-4-carbon-marks-google-s-comeback-to-the-frontier-model-ra.md).
+
+* **创建 / Creation**: 归档 [试用 Gemini 4 Carbon：视频转 3.js 演示](./sources/articles/trying-gemini-4-carbon-video-to-3-js-demo.md)。 / Filed [Trying Gemini 4 Carbon: Video-to-3.js Demo](./sources/articles/trying-gemini-4-carbon-video-to-3-js-demo.md).
+
+* **创建 / Creation**: 归档 [Demis Hassabis 称 Gemini 4 Carbon 逆向移植《主题公园》至 Web](./sources/articles/demis-hassabis-claims-gemini-4-carbon-reverse-engineers-theme-pa.md)。 / Filed [Demis Hassabis Claims Gemini 4 Carbon Reverse-Engineers Theme Park to Web](./sources/articles/demis-hassabis-claims-gemini-4-carbon-reverse-engineers-theme-pa.md).
+
+* **创建 / Creation**: 归档 [Sundar 鹈鹕：Carbon 与 Google /swarm 制作鹈鹕骑车 3D 游戏](./sources/articles/sundar-pelican-carbon-and-google-swarm-build-pelican-biking-3d-g.md)。 / Filed [Sundar Pelican: Carbon and Google /swarm build pelican biking 3D game](./sources/articles/sundar-pelican-carbon-and-google-swarm-build-pelican-biking-3d-g.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai：Gemini 4 Carbon 与 DeepMind 使用 Lean 对 Signal 协议进行形式化验证](./sources/articles/sundar-pichai-gemini-4-carbon-and-deepmind-formally-verify-signa.md)。 / Filed [Sundar Pichai: Gemini 4 Carbon and DeepMind Formally Verify Signal Protocol with Lean](./sources/articles/sundar-pichai-gemini-4-carbon-and-deepmind-formally-verify-signa.md).
+
+* **创建 / Creation**: 归档 [宝玉解读：Google 开放 Gemini 4 Carbon，普通用户需订 Ultra 月费 99.99 美元起](./sources/articles/bao-yu-interprets-google-opens-gemini-4-carbon-ordinary-users-ne.md)。 / Filed [Bao Yu interprets: Google opens Gemini 4 Carbon; ordinary users need Google AI Ultra from $99.99/month](./sources/articles/bao-yu-interprets-google-opens-gemini-4-carbon-ordinary-users-ne.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Carbon 现已推出](./sources/articles/gemini-4-carbon-is-now-available.md)。 / Filed [Gemini 4 Carbon is now available](./sources/articles/gemini-4-carbon-is-now-available.md).
+
+* **创建 / Creation**: 归档 [Logan 宣布 Gemini 4 Carbon 登陆 Gemini API 与 Ultra 订阅](./sources/articles/logan-announces-gemini-4-carbon-for-gemini-api-and-ultra-subscri.md)。 / Filed [Logan Announces Gemini 4 Carbon for Gemini API and Ultra Subscribers](./sources/articles/logan-announces-gemini-4-carbon-for-gemini-api-and-ultra-subscri.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 发布 Gemini 4 Carbon，面向长周期复杂任务](./sources/articles/google-deepmind-launches-gemini-4-carbon-for-complex-long-horizo.md)。 / Filed [Google DeepMind Launches Gemini 4 Carbon for Complex Long-Horizon Tasks](./sources/articles/google-deepmind-launches-gemini-4-carbon-for-complex-long-horizo.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 宣布 Gemini 4 Carbon 开始推出](./sources/articles/sundar-pichai-announces-gemini-4-carbon-rollout.md)。 / Filed [Sundar Pichai Announces Gemini 4 Carbon Rollout](./sources/articles/sundar-pichai-announces-gemini-4-carbon-rollout.md).
+
 ## 2026-11-10
 
 * **创建 / Creation**: 归档 [WquGuru 发布 SAM3D Body、MiniMax H3 与 BFS 角色置换帖文](./sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md)。 / Filed [WquGuru posts on SAM3D Body, MiniMax H3, and BFS Character Swap](./sources/articles/wquguru-posts-on-sam3d-body-minimax-h3-and-bfs-character-swap.md).

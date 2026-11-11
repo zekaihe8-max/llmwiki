@@ -1,0 +1,23 @@
+{
+  "slug": "cc919065e357d88c",
+  "url": "https://x.com/claudeai/status/2120206365759094857",
+  "title": "Claude",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "cc919065e357d88c95cb95f75ad762562c437348b1f52bf31a5b56593a10a2b0",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:02.153Z",
+  "content_hash": "6bf27161a133656edb74600b9313f2fa3aa79e0ec2e3c6d9faa4d76eb95c13f5",
+  "article_path": "articles/cc919065e357d88c.md",
+  "fetched_url": "https://x.com/claudeai/status/2120206365759094857",
+  "source_path": "sources/articles/claude-rolls-out-whiteboards-sheets-and-data.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:13:12.878Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

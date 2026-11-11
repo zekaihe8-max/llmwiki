@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "文章核心是把专用子 Agent 折进主编码循环，作为长任务的前置看板层。",
+    "topics/agent-auto-mode.md": "子 Agent 在后台自主构建看板、主会话不停机，体现智能体自动模式。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "个人 Agent 充当包工头，为编程 Agent 调度前置仪表盘。",
+    "topics/claude-code-authorship-and-voice.md": "提示词直接面向 Claude Code，涉及 ~/.claude 目录与 CLAUDE.md 规范。"
+  },
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章核心是把专用子 Agent 折进主编码循环，作为长任务的前置看板层。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "子 Agent 在后台自主构建看板、主会话不停机，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "个人 Agent 充当包工头，为编程 Agent 调度前置仪表盘。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "提示词直接面向 Claude Code，涉及 ~/.claude 目录与 CLAUDE.md 规范。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实其中提及的模型版本与功能；所有主张均已标注为帖文称。"
+}

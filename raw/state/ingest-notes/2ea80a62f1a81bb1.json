@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "主题聚焦 AI 对本地商家与小生意的赋能，与企业在 ChatGPT 中认领主页、管理信息最为贴近。",
+    "topics/agent-in-chat-bug-feedback.md": "涉及对话内智能体与用户交互，与商业智能体回答客户问题的场景相近。",
+    "topics/ai-native-companies.md": "讨论以 AI 为原生能力的公司形态，与企业将 AI 智能体纳入客户服务的方向相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "主题聚焦 AI 对本地商家与小生意的赋能，与企业在 ChatGPT 中认领主页、管理信息最为贴近。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "涉及对话内智能体与用户交互，与商业智能体回答客户问题的场景相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论以 AI 为原生能力的公司形态，与企业将 AI 智能体纳入客户服务的方向相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期与浏览量均来自推文显示，未独立核实；外部链接为推文中缩短链接指向的 openai.com 路径。"
+}

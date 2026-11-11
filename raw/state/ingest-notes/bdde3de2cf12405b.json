@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "Gemini 4 Carbon 与 Argon 的先后发布涉及模型系列策略，与 Pro/Flash 模型策略主题相近。",
+    "topics/open-weight-frontier-models.md": "帖文称 Gemini 4 Carbon 在多个领域推进前沿，与前沿模型主题相关。",
+    "topics/premium-ai-subscription-value.md": "Gemini 4 Carbon 面向 Ultra 订阅者提供，涉及高端 AI 订阅价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Gemini 4 Carbon 与 Argon 的先后发布涉及模型系列策略，与 Pro/Flash 模型策略主题相近。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文称 Gemini 4 Carbon 在多个领域推进前沿，与前沿模型主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Gemini 4 Carbon 面向 Ultra 订阅者提供，涉及高端 AI 订阅价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文内容，未引入外部事实。"
+}

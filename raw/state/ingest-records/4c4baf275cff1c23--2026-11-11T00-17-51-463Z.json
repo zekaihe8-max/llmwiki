@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:17:51.463Z",
+  "url": "https://x.com/DrJimFan/status/2120186651741655428",
+  "slug": "4c4baf275cff1c23",
+  "content_hash": "9bf3c6f238e430f49ba25d83e00c039746f2553879b7e1fd43203f9bfe61fd52",
+  "source": {
+    "path": "sources/articles/gr00t-2-open-system-one-robotics-model-running-onboard-robot-com.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到 20 步以上、5 分钟以上的长时程任务，与 AI 任务时界增长主题相关"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文介绍开放机器人模型并强调本地板载运行，与本地开放助手与机器人小模型主题相近"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "帖文称模型完全在机器人板载计算上运行，与芯片上的 Agent Runtime 主题相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确开放全部模型权重，与开放权重前沿模型主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "帖文介绍开放机器人模型并强调本地板载运行，与本地开放助手与机器人小模型主题相近",
+    "topics/open-weight-frontier-models.md": "帖文明确开放全部模型权重，与开放权重前沿模型主题相关",
+    "topics/on-chip-agent-runtime.md": "帖文称模型完全在机器人板载计算上运行，与芯片上的 Agent Runtime 主题相关",
+    "topics/ai-task-horizon-growth.md": "帖文提到 20 步以上、5 分钟以上的长时程任务，与 AI 任务时界增长主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gr00t-2-open-system-one-robotics-model-running-onboard-robot-com.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/on-chip-agent-runtime.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "帖文介绍开放机器人模型并强调本地板载运行，与本地开放助手与机器人小模型主题相近",
+      "topics/open-weight-frontier-models.md": "帖文明确开放全部模型权重，与开放权重前沿模型主题相关",
+      "topics/on-chip-agent-runtime.md": "帖文称模型完全在机器人板载计算上运行，与芯片上的 Agent Runtime 主题相关",
+      "topics/ai-task-horizon-growth.md": "帖文提到 20 步以上、5 分钟以上的长时程任务，与 AI 任务时界增长主题相关"
+    },
+    "notes": "帖文发布于 2026 年 11 月 10 日，浏览量 4.21 万。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gr00t-2-open-system-one-robotics-model-running-onboard-robot-com.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/millenarian-apocalypse-discourse.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "帖文引用 METR 报告，而 METR 研究聚焦 AI 任务时界与能力增长，与该主题高度相关。",
+    "topics/millenarian-apocalypse-discourse.md": "帖文涉及“智能爆炸”时间线及作者表达的恐惧、悲伤与愤怒，属于 AI 末世论类话语。",
+    "topics/frontier-training-containment.md": "内容涉及前沿 AI 加速与时间线预测，与前沿模型治理边界相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文引用 METR 报告，而 METR 研究聚焦 AI 任务时界与能力增长，与该主题高度相关。"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "帖文涉及“智能爆炸”时间线及作者表达的恐惧、悲伤与愤怒，属于 AI 末世论类话语。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "内容涉及前沿 AI 加速与时间线预测，与前沿模型治理边界相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未引入外部事实。"
+}

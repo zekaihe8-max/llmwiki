@@ -1,0 +1,34 @@
+{
+  "slug": "991ad48e8559b2fe",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "title": "公告",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "failed",
+  "hash": "991ad48e8559b2fefa9ff7bc2bbc96fe5e673f91d6bb1c78428d1dddc9dc303e",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-11T00:07:04.252Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-11T00:28:22.200Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-11T00:28:22.200Z"
+}

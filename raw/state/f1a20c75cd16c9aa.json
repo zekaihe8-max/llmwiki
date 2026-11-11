@@ -1,0 +1,23 @@
+{
+  "slug": "f1a20c75cd16c9aa",
+  "url": "https://x.com/Voxyz_ai/status/2120141188304965959",
+  "title": "进度板",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "f1a20c75cd16c9aaac06df50216a2a8542d402500a90e75e8afac66eae13aad8",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:10.832Z",
+  "content_hash": "b8f358c9dfa81de68971cfa2d0cbe1c81f1e06afa7f6c05e783b705ea7b110f3",
+  "article_path": "articles/f1a20c75cd16c9aa.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2120141188304965959",
+  "source_path": "sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:25:01.351Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

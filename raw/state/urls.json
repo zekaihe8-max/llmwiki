@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-10T11:56:30.173Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -7621,5 +7621,293 @@
     "last_seen": "2026-11-10T11:56:30.173Z",
     "digest": "2026-11-10-cn-x.md",
     "title": null
+  },
+  "https://x.com/sundarpichai/status/2120185896469496180": {
+    "hash": "6bad61fe57a978a8e4502d35af31dfb71fe2fab00692083eb0d8c7a22ffd8ec3",
+    "slug": "6bad61fe57a978a8",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Sundar"
+  },
+  "https://x.com/GoogleDeepMind/status/2120219371473617099": {
+    "hash": "f7146849d609c3a0e3f5864d24f88be22745281c8b18311824eff2a12c7bc391",
+    "slug": "f7146849d609c3a0",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "DeepMind"
+  },
+  "https://x.com/OfficialLoganK/status/2120186016254624039": {
+    "hash": "bdde3de2cf12405b4efabaa470231b26b8a2c0a29ddaa1025499c6164d2e99c1",
+    "slug": "bdde3de2cf12405b",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Logan"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available": {
+    "hash": "5b4c18faabadfb3802c404ca785e7fa8dd3df9bdd220424a9411f1e4dac290f2",
+    "slug": "5b4c18faabadfb38",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/dotey/status/2120191790774960630": {
+    "hash": "194a380711d152a7bb00e015e5c1bdc5fbd9248e644322eb9fbbf94197ab44c3",
+    "slug": "194a380711d152a7",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "宝玉解读"
+  },
+  "https://x.com/sundarpichai/status/2120207062655549933": {
+    "hash": "ca12e8084e590e1e514f3a4e8ef050bf3233bf9c1b6bbe1d01ffc2c258903064",
+    "slug": "ca12e8084e590e1e",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Sundar"
+  },
+  "https://x.com/sundarpichai/status/2120198811297694192": {
+    "hash": "568ff3337f9f78c13b6fd0205b8b6ca0d5012f9d7f74ba05e0b87055e4a1f042",
+    "slug": "568ff3337f9f78c1",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Sundar 鹈鹕"
+  },
+  "https://x.com/demishassabis/status/2120210297948696997": {
+    "hash": "67cb8d008515c730a4dcf70731fce3945c7ad61bbefcf2be5d1dee5b69ab1393",
+    "slug": "67cb8d008515c730",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Demis"
+  },
+  "https://x.com/emollick/status/2120198832202125322": {
+    "hash": "ff52165bfd1d2ae38eecaa52be594b5e957240caf605ff1a53fb2b52a8cb84f9",
+    "slug": "ff52165bfd1d2ae3",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "试用"
+  },
+  "https://x.com/emollick/status/2120233659793854926": {
+    "hash": "4d9a580b6f43cebb57cd4d1822502de702dc1eba8015d377b9a486e0472b7d10",
+    "slug": "4d9a580b6f43cebb",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "回场"
+  },
+  "https://x.com/claudeai/status/2120206365759094857": {
+    "hash": "cc919065e357d88c95cb95f75ad762562c437348b1f52bf31a5b56593a10a2b0",
+    "slug": "cc919065e357d88c",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Claude"
+  },
+  "https://claude.com/resources/articles/sheets-whiteboards-data": {
+    "hash": "001cd33c965241bc733395330dc1002dceba1895316b2079b3357cff11fd774d",
+    "slug": "001cd33c965241bc",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/dotey/status/2120213189464105192": {
+    "hash": "80e01ced6dc4845da5276cb75a43603d807df490fb788fe881a95f18681b3ebe",
+    "slug": "80e01ced6dc4845d",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "宝玉"
+  },
+  "https://x.com/AnthropicAI/status/2120117722230968385": {
+    "hash": "65da41ee1e0fdb7c185ecaccfa40dcea259b8965054b0ab2d1580778712cc9ce",
+    "slug": "65da41ee1e0fdb7c",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "IPO 路演启动"
+  },
+  "https://www.anthropic.com/news/roadshow-launch": {
+    "hash": "84757a8b6e04ab0dc5be5bc177eccc4e40619603a4e69d52c77bd55e8acbeef7",
+    "slug": "84757a8b6e04ab0d",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/OpenAI/status/2120216592395174382": {
+    "hash": "2ea80a62f1a81bb16bfb05c78c14990ad6abfd383b89c9d4145646350dbb30f5",
+    "slug": "2ea80a62f1a81bb1",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Businesses in ChatGPT"
+  },
+  "https://openai.com/index/introducing-businesses-chatgpt": {
+    "hash": "991ad48e8559b2fefa9ff7bc2bbc96fe5e673f91d6bb1c78428d1dddc9dc303e",
+    "slug": "991ad48e8559b2fe",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/OpenAIDevs/status/2120212596850663712": {
+    "hash": "01abb7231607a4075eb7e50db5299724618efe28e7737d193dc880cd98c81b6e",
+    "slug": "01abb7231607a407",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "OpenAIDevs"
+  },
+  "https://x.com/OpenAI/status/2120202353907486826": {
+    "hash": "9f5535542bcf8f3e79d00d4f0ff1302bec3848ea9d5f1851c24c9ec21e7ffd99",
+    "slug": "9f5535542bcf8f3e",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "周四安全发布会"
+  },
+  "https://x.com/GoogleDeepMind/status/2120169787896525104": {
+    "hash": "201868c4192e6a7bd7c62abc23841ecb5761e334b416012966af74874578a6b6",
+    "slug": "201868c4192e6a7b",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Gemini Robotics 2.5"
+  },
+  "https://x.com/DrJimFan/status/2120186651741655428": {
+    "hash": "4c4baf275cff1c23d82aa61e5db16a0af44b0adcd4a6c001950dc49c8403e9d9",
+    "slug": "4c4baf275cff1c23",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "GR00T 2"
+  },
+  "https://x.com/lennysan/status/2120211695453028770": {
+    "hash": "3398fa7e8041bc2e344a234fc2590a25d63607a7d1a59f7852ca6d209eff3cf6",
+    "slug": "3398fa7e8041bc2e",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Lenny"
+  },
+  "https://x.com/dotey/status/2120226054195577277": {
+    "hash": "06be927b253109893b00a351705ab4f9590427d846f2f4814dae0a351f0cbc22",
+    "slug": "06be927b25310989",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "宝玉"
+  },
+  "https://x.com/mitchellh/status/2120221244478083249": {
+    "hash": "dc688493cf95432017950c114d034fcd6e58f48548526cb68d173a0b2a76c227",
+    "slug": "dc688493cf954320",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Mitchell · Superlogical 怎么协作"
+  },
+  "https://x.com/dotey/status/2120237447963415014": {
+    "hash": "58e0967a3138c0190c32b943ca76816f3abe7540bd0a1237e7e3321279fb660a",
+    "slug": "58e0967a3138c019",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "软件形态"
+  },
+  "https://x.com/dotey/status/2120176641603244488": {
+    "hash": "0b52f9a8c273fab973aa80db083a52a7bdbeeb43d7037d915c57b85e0b3b5465",
+    "slug": "0b52f9a8c273fab9",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Manus 招聘"
+  },
+  "https://x.com/rauchg/status/2120188488628977819": {
+    "hash": "480a6a09c86a61765222a9f9139313e527f3f720b15887e4ab3d2479ad329580",
+    "slug": "480a6a09c86a6176",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Rauch · 一周安全审查"
+  },
+  "https://x.com/levie/status/2120261416733036905": {
+    "hash": "6af4866e26fd1c5071e67068f6fb39f9abc99da4931224954dfaffe1002f08f9",
+    "slug": "6af4866e26fd1c50",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Levie · Box 进 Claude"
+  },
+  "https://x.com/DKokotajlo/status/2120204075803500595": {
+    "hash": "7355f16336f14e95c26f4c2b48f3c6c9d8574f6b4f4e4a2e8cd3c2358bdd7050",
+    "slug": "7355f16336f14e95",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Kokotajlo"
+  },
+  "https://x.com/natolambert/status/2120187153950871798": {
+    "hash": "8445c8f2f9715754a637004e139cfdeed997599c2ef347d60447c84f961b0c0d",
+    "slug": "8445c8f2f9715754",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Lambert"
+  },
+  "https://x.com/simonw/status/2120029347948220500": {
+    "hash": "9a4fcffd1c7e2555762d4504ea545fc099f7152dcd3fe052ff728333309a57c1",
+    "slug": "9a4fcffd1c7e2555",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Simon · 「这仓库是你的」"
+  },
+  "https://x.com/mattpocockuk/status/2120260969750540327": {
+    "hash": "fbb619ae7defd3d546ff1bff567fda2884ddad05f43e9e78e7fb6152b2c66545",
+    "slug": "fbb619ae7defd3d5",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "Matt · Home Repo"
+  },
+  "https://x.com/Voxyz_ai/status/2120260216046727370": {
+    "hash": "91170a916d97f42892d007e86fb3aacaa3758940a820adc79bb451fd575a6d39",
+    "slug": "91170a916d97f428",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "分工"
+  },
+  "https://x.com/Voxyz_ai/status/2120169619801710710": {
+    "hash": "137933198829ac6df44b6c3f6731e5c33a443ccb00afd2166dee9ed857f91892",
+    "slug": "137933198829ac6d",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "任务简报"
+  },
+  "https://x.com/Voxyz_ai/status/2120141188304965959": {
+    "hash": "f1a20c75cd16c9aaac06df50216a2a8542d402500a90e75e8afac66eae13aad8",
+    "slug": "f1a20c75cd16c9aa",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "进度板"
+  },
+  "https://x.com/xiaomovps/status/2120127993561612746": {
+    "hash": "f14430992b1758d5cdf093f2a68e910c2f6233b25103bc8cff99b2129bd13654",
+    "slug": "f14430992b1758d5",
+    "first_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T00:06:57.947Z",
+    "digest": "2026-11-11-frontier-ai.md",
+    "title": "小墨 · 提示词在变短"
   }
 }

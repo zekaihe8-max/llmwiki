@@ -1,0 +1,61 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:28:16.827Z",
+  "url": "https://x.com/DKokotajlo/status/2120204075803500595",
+  "slug": "7355f16336f14e95",
+  "content_hash": "6fd0d3bb533351c27fc0dd430a23cf0f4b85b2848bdea135fc0eb20d98dc5d93",
+  "source": {
+    "path": "sources/articles/daniel-kokotajlo-says-intelligence-explosion-may-happen-in-2027.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/millenarian-apocalypse-discourse.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文引用 METR 报告，而 METR 研究聚焦 AI 任务时界与能力增长，与该主题高度相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "内容涉及前沿 AI 加速与时间线预测，与前沿模型治理边界相关。"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "帖文涉及“智能爆炸”时间线及作者表达的恐惧、悲伤与愤怒，属于 AI 末世论类话语。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "帖文引用 METR 报告，而 METR 研究聚焦 AI 任务时界与能力增长，与该主题高度相关。",
+    "topics/millenarian-apocalypse-discourse.md": "帖文涉及“智能爆炸”时间线及作者表达的恐惧、悲伤与愤怒，属于 AI 末世论类话语。",
+    "topics/frontier-training-containment.md": "内容涉及前沿 AI 加速与时间线预测，与前沿模型治理边界相关。"
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-task-horizon-growth.md",
+      "topics/millenarian-apocalypse-discourse.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-task-horizon-growth.md": "帖文引用 METR 报告，而 METR 研究聚焦 AI 任务时界与能力增长，与该主题高度相关。",
+      "topics/millenarian-apocalypse-discourse.md": "帖文涉及“智能爆炸”时间线及作者表达的恐惧、悲伤与愤怒，属于 AI 末世论类话语。",
+      "topics/frontier-training-containment.md": "内容涉及前沿 AI 加速与时间线预测，与前沿模型治理边界相关。"
+    },
+    "notes": "所有主张均源自该 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:25:24.046Z",
+  "url": "https://x.com/xiaomovps/status/2120127993561612746",
+  "slug": "f14430992b1758d5",
+  "content_hash": "1977894d71b2a232c4e540edfde4c01d4f76041d352a1fa9a57ad86ba2ef1f0c",
+  "source": {
+    "path": "sources/articles/xiaomo-prompts-are-getting-shorter.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中引用 TokenSave 数据讨论 Claude Code 初始输入 Token 变化与提示词精简，属于 Token 效率范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及系统提示词精简与模型上下文/指令工程的变化。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "作者质疑复杂 Harness 必要性，探讨极简 Agent 是否可直接使用 AI 能力，与 Harness 对比相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点是 Pi Agent 保持精简核心、将功能下放给 Extension/Skill，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "帖文核心观点是 Pi Agent 保持精简核心、将功能下放给 Extension/Skill，与该主题高度相关。",
+    "topics/agents-md-token-efficiency.md": "文中引用 TokenSave 数据讨论 Claude Code 初始输入 Token 变化与提示词精简，属于 Token 效率范畴。",
+    "topics/harness-comparison-beyond-tokens.md": "作者质疑复杂 Harness 必要性，探讨极简 Agent 是否可直接使用 AI 能力，与 Harness 对比相关。",
+    "topics/context-engineering-for-agents.md": "文中涉及系统提示词精简与模型上下文/指令工程的变化。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomo-prompts-are-getting-shorter.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "帖文核心观点是 Pi Agent 保持精简核心、将功能下放给 Extension/Skill，与该主题高度相关。",
+      "topics/agents-md-token-efficiency.md": "文中引用 TokenSave 数据讨论 Claude Code 初始输入 Token 变化与提示词精简，属于 Token 效率范畴。",
+      "topics/harness-comparison-beyond-tokens.md": "作者质疑复杂 Harness 必要性，探讨极简 Agent 是否可直接使用 AI 能力，与 Harness 对比相关。",
+      "topics/context-engineering-for-agents.md": "文中涉及系统提示词精简与模型上下文/指令工程的变化。"
+    },
+    "notes": "所有事实均基于所提供的 X 帖文 Markdown，未引入外部 URL 或未在文中出现的信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomo-prompts-are-getting-shorter.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

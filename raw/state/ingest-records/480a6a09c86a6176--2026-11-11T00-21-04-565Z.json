@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:21:04.565Z",
+  "url": "https://x.com/rauchg/status/2120188488628977819",
+  "slug": "480a6a09c86a6176",
+  "content_hash": "ba4e699c6bed39325f7e0ceb50884daeda00d0e75c7c62f6769286190662e91f",
+  "source": {
+    "path": "sources/articles/rauch-one-week-security-review.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章聚焦漏洞识别与资产安全，属安全卫生范畴"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 自动修复漏洞体现智能体自动运行模式"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "短期内海量漏洞被识别与修复，体现智能体规模化工程"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章聚焦漏洞识别与资产安全，属安全卫生范畴",
+    "topics/agent-auto-mode.md": "Agent 自动修复漏洞体现智能体自动运行模式",
+    "topics/agent-scaled-engineering.md": "短期内海量漏洞被识别与修复，体现智能体规模化工程"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rauch-one-week-security-review.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "文章聚焦漏洞识别与资产安全，属安全卫生范畴",
+      "topics/agent-auto-mode.md": "Agent 自动修复漏洞体现智能体自动运行模式",
+      "topics/agent-scaled-engineering.md": "短期内海量漏洞被识别与修复，体现智能体规模化工程"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rauch-one-week-security-review.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/unified-agent-resource-library.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/unified-agent-resource-library.md": "主仓库即跨 Agent 的统一资源库，主题与文章核心最贴近。",
+    "topics/agents-md-token-efficiency.md": "文章核心机制依赖 AGENTS.md 指向其他仓库，与项目指令主题相关。",
+    "topics/context-engineering-for-agents.md": "主仓库用于集中存放导航文件与工具，属于 Agent 上下文工程范畴。",
+    "topics/agent-skill-authoring.md": "文章提到将技能（skills）集中在主仓库中，与 Agent Skill 编写主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "主仓库即跨 Agent 的统一资源库，主题与文章核心最贴近。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心机制依赖 AGENTS.md 指向其他仓库，与项目指令主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "主仓库用于集中存放导航文件与工具，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章提到将技能（skills）集中在主仓库中，与 Agent Skill 编写主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

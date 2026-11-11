@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "与 IPO 上市主题最为相近",
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司范畴"
+  },
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "与 IPO 上市主题最为相近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自提供的 X 帖文摘要，未引用外部链接内容。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文聚焦 AI 公司如何通过人类专家扩散技术利益，Mercor 被定位为 AI 原生公司。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "讨论 AI 对现有知识员工的生产力影响与编制角色，贴合“生产力红利”论点。",
+    "topics/divergent-tasks-human-design-gate.md": "强调知识工作的人际性、情境依赖与人类决策门槛，对应“人类比评测更核心”的观点。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "涉及工作本质的哲学分歧及评测对人类知识工作的低估，与帖文核心论点直接相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 AI 公司如何通过人类专家扩散技术利益，Mercor 被定位为 AI 原生公司。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 对现有知识员工的生产力影响与编制角色，贴合“生产力红利”论点。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "强调知识工作的人际性、情境依赖与人类决策门槛，对应“人类比评测更核心”的观点。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "涉及工作本质的哲学分歧及评测对人类知识工作的低估，与帖文核心论点直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文及其引用内容，未引入外部事实。"
+}

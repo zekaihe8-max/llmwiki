@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:19:35.089Z",
+  "url": "https://x.com/mitchellh/status/2120221244478083249",
+  "slug": "dc688493cf954320",
+  "content_hash": "ee72995c814f9fddbb5b745a8ff5cd95fa5c72dbcb8cec5df2e22e8d8413c69c",
+  "source": {
+    "path": "sources/articles/mitchell-how-superlogical-collaborates.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/software-factory.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提到“软件开发的新时代”、小团队及 AI 辅助识别功能错配，契合 AI 原生公司的协作模式讨论。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文主张少 PR、直推 main 以及“快速修复而非事前规划”，与“代码重于规格”的主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中描述的全自动化发布流程、全员可切 release 及 15 分钟发布闸，属于软件工厂式的工程协作实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/code-over-spec.md": "帖文主张少 PR、直推 main 以及“快速修复而非事前规划”，与“代码重于规格”的主题高度相关。",
+    "topics/software-factory.md": "文中描述的全自动化发布流程、全员可切 release 及 15 分钟发布闸，属于软件工厂式的工程协作实践。",
+    "topics/ai-native-companies.md": "帖文提到“软件开发的新时代”、小团队及 AI 辅助识别功能错配，契合 AI 原生公司的协作模式讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mitchell-how-superlogical-collaborates.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/code-over-spec.md",
+      "topics/software-factory.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/code-over-spec.md": "帖文主张少 PR、直推 main 以及“快速修复而非事前规划”，与“代码重于规格”的主题高度相关。",
+      "topics/software-factory.md": "文中描述的全自动化发布流程、全员可切 release 及 15 分钟发布闸，属于软件工厂式的工程协作实践。",
+      "topics/ai-native-companies.md": "帖文提到“软件开发的新时代”、小团队及 AI 辅助识别功能错配，契合 AI 原生公司的协作模式讨论。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mitchell-how-superlogical-collaborates.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

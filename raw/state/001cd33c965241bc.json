@@ -1,0 +1,23 @@
+{
+  "slug": "001cd33c965241bc",
+  "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "title": "说明",
+  "digest": "2026-11-11-frontier-ai.md",
+  "status": "filed",
+  "hash": "001cd33c965241bc733395330dc1002dceba1895316b2079b3357cff11fd774d",
+  "first_seen": "2026-11-11T00:06:57.947Z",
+  "last_seen": "2026-11-11T00:06:57.947Z",
+  "fetched_at": "2026-11-11T00:07:02.698Z",
+  "content_hash": "c7ee5cf85df11d796078031531e69494ea2a7f4fc6e2406c9cdd738fe16a8494",
+  "article_path": "articles/001cd33c965241bc.md",
+  "fetched_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+  "source_path": "sources/articles/introducing-claude-whiteboards-claude-sheets-and-claude-data.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T00:28:16.618Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

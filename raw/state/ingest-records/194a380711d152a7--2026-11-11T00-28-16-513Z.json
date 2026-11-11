@@ -1,0 +1,70 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:28:16.513Z",
+  "url": "https://x.com/dotey/status/2120191790774960630",
+  "slug": "194a380711d152a7",
+  "content_hash": "b6fc9bef125cc26ee39386c42d5dd0314aac2cae53ceb5af3d4e659863f4c6e6",
+  "source": {
+    "path": "sources/articles/bao-yu-interprets-google-opens-gemini-4-carbon-ordinary-users-ne.md",
+    "action": "unchanged"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中对比 Carbon 与 Argon 的使用场景、价格与 Token 消耗，属模型渠道取舍"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文中介绍 Antigravity /swarm 多智能体协作命令，与智能体 swarm 品类直接相关"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "官方定位 Carbon 用于持久长时任务和复杂软件工程，与 AI 任务时界增长相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中详细列出 Google AI Ultra 两档订阅价格及用量倍数，涉及高端 AI 订阅价值"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "文中介绍 Antigravity /swarm 多智能体协作命令，与智能体 swarm 品类直接相关",
+    "topics/agent-model-channel-tradeoffs.md": "文中对比 Carbon 与 Argon 的使用场景、价格与 Token 消耗，属模型渠道取舍",
+    "topics/premium-ai-subscription-value.md": "文中详细列出 Google AI Ultra 两档订阅价格及用量倍数，涉及高端 AI 订阅价值",
+    "topics/ai-task-horizon-growth.md": "官方定位 Carbon 用于持久长时任务和复杂软件工程，与 AI 任务时界增长相关"
+  },
+  "files_changed": [],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "文中介绍 Antigravity /swarm 多智能体协作命令，与智能体 swarm 品类直接相关",
+      "topics/agent-model-channel-tradeoffs.md": "文中对比 Carbon 与 Argon 的使用场景、价格与 Token 消耗，属模型渠道取舍",
+      "topics/premium-ai-subscription-value.md": "文中详细列出 Google AI Ultra 两档订阅价格及用量倍数，涉及高端 AI 订阅价值",
+      "topics/ai-task-horizon-growth.md": "官方定位 Carbon 用于持久长时任务和复杂软件工程，与 AI 任务时界增长相关"
+    },
+    "notes": "所有主题动作均为 unchanged，未创建新主题；事实均来源于所提供推文正文。",
+    "program_verifiable": {
+      "source_action": "unchanged",
+      "files_changed": []
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

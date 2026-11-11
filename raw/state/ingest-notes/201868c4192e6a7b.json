@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/interactive-world-models.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "与物理 AI 与环境交互最接近的现有主题",
+    "topics/interactive-world-models.md": "交互式世界模型与机器人物理推理相关",
+    "topics/agentic-ai-foundation.md": "智能体基础主题与通用机器人技能学习相关"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "与物理 AI 与环境交互最接近的现有主题"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "交互式世界模型与机器人物理推理相关"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "智能体基础主题与通用机器人技能学习相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自提供的 X 帖文摘录，未引入外部信息。"
+}

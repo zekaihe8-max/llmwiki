@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T00:14:57.562Z",
+  "url": "https://x.com/AnthropicAI/status/2120117722230968385",
+  "slug": "65da41ee1e0fdb7c",
+  "content_hash": "019a3a0a920310f45cbb922bfeea630032de48e32febae3dd92a735f10ffcf4c",
+  "source": {
+    "path": "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司范畴"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "与 IPO 上市主题最为相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "与 IPO 上市主题最为相近",
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司范畴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "与 IPO 上市主题最为相近",
+      "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司范畴"
+    },
+    "notes": "所有事实仅来自提供的 X 帖文摘要，未引用外部链接内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-launches-roadshow-for-proposed-initial-public-offering.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

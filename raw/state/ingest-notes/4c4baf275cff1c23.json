@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "帖文介绍开放机器人模型并强调本地板载运行，与本地开放助手与机器人小模型主题相近",
+    "topics/open-weight-frontier-models.md": "帖文明确开放全部模型权重，与开放权重前沿模型主题相关",
+    "topics/on-chip-agent-runtime.md": "帖文称模型完全在机器人板载计算上运行，与芯片上的 Agent Runtime 主题相关",
+    "topics/ai-task-horizon-growth.md": "帖文提到 20 步以上、5 分钟以上的长时程任务，与 AI 任务时界增长主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文介绍开放机器人模型并强调本地板载运行，与本地开放助手与机器人小模型主题相近"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确开放全部模型权重，与开放权重前沿模型主题相关"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "帖文称模型完全在机器人板载计算上运行，与芯片上的 Agent Runtime 主题相关"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到 20 步以上、5 分钟以上的长时程任务，与 AI 任务时界增长主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布于 2026 年 11 月 10 日，浏览量 4.21 万。"
+}

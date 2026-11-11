@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "文章提及 Google Antigravity 的 /swarm 智能体协作及网络安全防御场景，与该话题高度相关。",
+    "topics/agent-scaled-engineering.md": "文章重点介绍 Carbon 用于长周期智能体工作流、多包迁移与全栈开发等规模化工程任务。",
+    "topics/ai-cybersecurity-jobs.md": "文章详细披露 Carbon 的前沿网络安全能力及 Project Fortify、Wiz Scan for Good 等实战案例。",
+    "topics/llm-formal-verification.md": "文章提到研究者使用 Carbon 与 AlphaProof Code 对 Signal 密码协议进行形式化验证。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文章提及 Google Antigravity 的 /swarm 智能体协作及网络安全防御场景，与该话题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章重点介绍 Carbon 用于长周期智能体工作流、多包迁移与全栈开发等规模化工程任务。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "文章详细披露 Carbon 的前沿网络安全能力及 Project Fortify、Wiz Scan for Good 等实战案例。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章提到研究者使用 Carbon 与 AlphaProof Code 对 Signal 密码协议进行形式化验证。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章发布日期显示为 2026 年 11 月 10 日，正文在酶检定开发部分截断，未包含完结段落。"
+}
