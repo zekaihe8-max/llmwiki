@@ -1,0 +1,23 @@
+{
+  "slug": "9654c682c78be687",
+  "url": "https://x.com/xiaomovps/status/2120461819433353576",
+  "title": "10 个 Pi 在隔离虚拟机里一起找漏洞",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "9654c682c78be687abad510175df18d45e4872370b5836abc12d50ee4e647277",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:34.257Z",
+  "content_hash": "cf90f3259f22e6afa659d84797df9f15ba99364c19f58043239475ddf1c86638",
+  "article_path": "articles/9654c682c78be687.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2120461819433353576",
+  "source_path": "sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:04:47.683Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

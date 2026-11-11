@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:53:48.404Z",
+  "url": "https://x.com/shao__meng/status/2120335490524365241",
+  "slug": "102a77349e81bbc2",
+  "content_hash": "dfb1ebf7feef90c32ad68b04566e5272578a0e437fe11b7447e0b1a7d379d9eb",
+  "source": {
+    "path": "sources/articles/30-engineers-rebuild-shopify-merchant-app-in-12-weeks-agents-wri.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/code-over-spec.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 晚上和周末继续工作，且每天把审查意见写回文档，体现智能体自动模式的特征。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是 30 人团队大规模使用编程 Agent 重建原生 App，与智能体规模化工程主题直接相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "团队放弃详细规格，以运行中的旧 App 作为参照进行迁移，体现代码重于规格的做法。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "文中提到终端内的确定性检查、仓库规则报错以及人审 PR 的流程，与确定性重构和自动合入相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是 30 人团队大规模使用编程 Agent 重建原生 App，与智能体规模化工程主题直接相关。",
+    "topics/code-over-spec.md": "团队放弃详细规格，以运行中的旧 App 作为参照进行迁移，体现代码重于规格的做法。",
+    "topics/deterministic-refactor-automerge.md": "文中提到终端内的确定性检查、仓库规则报错以及人审 PR 的流程，与确定性重构和自动合入相关。",
+    "topics/agent-auto-mode.md": "Agent 晚上和周末继续工作，且每天把审查意见写回文档，体现智能体自动模式的特征。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/30-engineers-rebuild-shopify-merchant-app-in-12-weeks-agents-wri.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/code-over-spec.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心是 30 人团队大规模使用编程 Agent 重建原生 App，与智能体规模化工程主题直接相关。",
+      "topics/code-over-spec.md": "团队放弃详细规格，以运行中的旧 App 作为参照进行迁移，体现代码重于规格的做法。",
+      "topics/deterministic-refactor-automerge.md": "文中提到终端内的确定性检查、仓库规则报错以及人审 PR 的流程，与确定性重构和自动合入相关。",
+      "topics/agent-auto-mode.md": "Agent 晚上和周末继续工作，且每天把审查意见写回文档，体现智能体自动模式的特征。"
+    },
+    "notes": "All facts are grounded in the provided X post markdown; no external URLs or facts were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/30-engineers-rebuild-shopify-merchant-app-in-12-weeks-agents-wri.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

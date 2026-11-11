@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:03:11.195Z",
+  "url": "https://x.com/xiaomovps/status/2120427969688825909",
+  "slug": "b79c439a235b189b",
+  "content_hash": "aaf859ab532d98ff0b546d952bc7d114dcff20cd922098de7fd9eba8cd7166b9",
+  "source": {
+    "path": "sources/articles/pi-agent-ranks-second-in-agent-harness-comparison-lower-cost-wit.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/company-agent-harness.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章重点讨论每成功一题成本与 Token 效率，属于该主题范畴，无需新增。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章引用社区榜单并提醒排名可能变化，与公开评测质量审视相关，保持不变。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 选型对效果与成本的影响，与文章结论一致，保持不变。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章核心是不同 Agent Harness 的横评与 token/成本对比，与该主题高度相关，现有内容无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "文章核心是不同 Agent Harness 的横评与 token/成本对比，与该主题高度相关，现有内容无需变更。",
+    "topics/company-agent-harness.md": "涉及 Agent Harness 选型对效果与成本的影响，与文章结论一致，保持不变。",
+    "topics/coding-agent-token-saving-tooling.md": "文章重点讨论每成功一题成本与 Token 效率，属于该主题范畴，无需新增。",
+    "topics/community-evals-vs-score-hype.md": "文章引用社区榜单并提醒排名可能变化，与公开评测质量审视相关，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-agent-ranks-second-in-agent-harness-comparison-lower-cost-wit.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/company-agent-harness.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "文章核心是不同 Agent Harness 的横评与 token/成本对比，与该主题高度相关，现有内容无需变更。",
+      "topics/company-agent-harness.md": "涉及 Agent Harness 选型对效果与成本的影响，与文章结论一致，保持不变。",
+      "topics/coding-agent-token-saving-tooling.md": "文章重点讨论每成功一题成本与 Token 效率，属于该主题范畴，无需新增。",
+      "topics/community-evals-vs-score-hype.md": "文章引用社区榜单并提醒排名可能变化，与公开评测质量审视相关，保持不变。"
+    },
+    "notes": "所有事实均来源于提供的 X 帖文及其引用内容，未编造额外 URL 或外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-agent-ranks-second-in-agent-harness-comparison-lower-cost-wit.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

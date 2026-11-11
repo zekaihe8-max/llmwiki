@@ -1,0 +1,23 @@
+{
+  "slug": "6701a7fd8413536a",
+  "url": "https://x.com/cgnot996/status/2120320428866752678",
+  "title": "模型查询",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "6701a7fd8413536a5a7600e72de456cf6198fa00d33399d6d69f457a659eb70e",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:44.478Z",
+  "content_hash": "390c3ad654d4d808ec71b46c95854f7156930c1b5caab65ff6f9ea5cbd61b9d0",
+  "article_path": "articles/6701a7fd8413536a.md",
+  "fetched_url": "https://x.com/cgnot996/status/2120320428866752678",
+  "source_path": "sources/articles/querying-the-grok-bot-model-via-the-cursor-dashboard.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:38:07.324Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

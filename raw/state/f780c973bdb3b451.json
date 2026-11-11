@@ -1,0 +1,23 @@
+{
+  "slug": "f780c973bdb3b451",
+  "url": "https://github.com/airbnb/skipper",
+  "title": "仓库",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "f780c973bdb3b4515cdd031eb3c26b8b41d8cc50b3b94404e231769ec6faa05a",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:52.680Z",
+  "content_hash": "978509687aa0bb2ff5f749f6dcb1f8fa853700904168f3c6aaa4889290f13a8b",
+  "article_path": "articles/f780c973bdb3b451.md",
+  "fetched_url": "https://github.com/airbnb/skipper",
+  "source_path": "sources/articles/skipper-durable-workflow-execution-for-the-jvm-a-library-not-a-c.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:55:07.901Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

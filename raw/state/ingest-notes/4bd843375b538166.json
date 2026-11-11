@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-plugin-style-fragmentation.md": "这是 DeepSeek Harness 的插件市场仓库，和 Harness 插件生态直接相关，但本页是市场说明，不必改写主题。",
+    "topics/loose-web-agent-harness-plugins.md": "README 说明市场可在 dsh web 里安装和浏览插件，与网页端 Harness 插件话题相近，证据不足以改写主题。",
+    "topics/company-agent-harness.md": "插件市场属于 Harness 工具层，不是对公司级五原语的新论据，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "这是 DeepSeek Harness 的插件市场仓库，和 Harness 插件生态直接相关，但本页是市场说明，不必改写主题。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "README 说明市场可在 dsh web 里安装和浏览插件，与网页端 Harness 插件话题相近，证据不足以改写主题。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "插件市场属于 Harness 工具层，不是对公司级五原语的新论据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容以 GitHub README 为准，不把精选里的 Star 数字写成仓库正文未写明的事实。Topic 保持不变。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "165de95f68b5e644",
+  "url": "https://platform.qianwenai.com/pricing/token-plan",
+  "title": "阿里 Token Plan",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "165de95f68b5e644c133fb385895a0a075f8625d6f88a8a7701805401c35d7cf",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:59.738Z",
+  "content_hash": "8022ef2d7c49eef33a31b7fe3dc4db1a1a1a4078a42ab11c56f6935e16ccb4f5",
+  "article_path": "articles/165de95f68b5e644.md",
+  "fetched_url": "https://platform.qianwenai.com/pricing/token-plan",
+  "source_path": "sources/articles/alibaba-cloud-qwen-token-plan-personal-pricing.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T13:06:20.986Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

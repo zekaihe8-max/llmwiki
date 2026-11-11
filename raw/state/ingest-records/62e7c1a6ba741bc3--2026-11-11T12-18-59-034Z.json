@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:18:59.034Z",
+  "url": "https://x.com/Gorden_Sun/status/2120452474305904776",
+  "slug": "62e7c1a6ba741bc3",
+  "content_hash": "fbee89c89d0331324ac397c1e8e219c8771db737f12d9afb8808d4a874347a4b",
+  "source": {
+    "path": "sources/articles/enconvo-system-level-all-in-one-ai-hub-for-macos-with-multimodal.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/local-open-assistant-models.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章明确列出 Codex 包含 Computer Use 能力，属于系统级操控范畴。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "功能列表包含桌面宠物，可互动和派任务，属于桌面伴侣品类。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "提到 Ollama 下载本地模型运行，符合本地开放助手与小模型主题。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "强调全局语音唤起、右侧 Command 键语音输入、实时语音对话等语音交互形态。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章明确列出 Codex 包含 Computer Use 能力，属于系统级操控范畴。",
+    "topics/local-open-assistant-models.md": "提到 Ollama 下载本地模型运行，符合本地开放助手与小模型主题。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "强调全局语音唤起、右侧 Command 键语音输入、实时语音对话等语音交互形态。",
+    "topics/desktop-outfit-character-companions.md": "功能列表包含桌面宠物，可互动和派任务，属于桌面伴侣品类。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/enconvo-system-level-all-in-one-ai-hub-for-macos-with-multimodal.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/local-open-assistant-models.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/desktop-outfit-character-companions.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章明确列出 Codex 包含 Computer Use 能力，属于系统级操控范畴。",
+      "topics/local-open-assistant-models.md": "提到 Ollama 下载本地模型运行，符合本地开放助手与小模型主题。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "强调全局语音唤起、右侧 Command 键语音输入、实时语音对话等语音交互形态。",
+      "topics/desktop-outfit-character-companions.md": "功能列表包含桌面宠物，可互动和派任务，属于桌面伴侣品类。"
+    },
+    "notes": "Source is a single X post by Gorden Sun; claims are attributed to the post (\"帖文称\"/\"post calls\"). No independent verification performed. Official site link provided in post: enconvo.com/?via=twitter (t.co shortened).",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/enconvo-system-level-all-in-one-ai-hub-for-macos-with-multimodal.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

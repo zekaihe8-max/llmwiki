@@ -1,0 +1,34 @@
+{
+  "slug": "1888a7b7313a2151",
+  "url": "https://turbo-tails.vercel.app/",
+  "title": "turbo-tails",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "failed",
+  "hash": "1888a7b7313a2151095e8fa82065eb67b6a449503d4701c58f6bcefb4c58e122",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "response exceeded 2000000 characters",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-11T12:02:02.786Z",
+      "stage": "fetch",
+      "error": "response exceeded 2000000 characters"
+    },
+    {
+      "at": "2026-11-11T13:04:53.799Z",
+      "stage": "fetch",
+      "error": "response exceeded 2000000 characters"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "response exceeded 2000000 characters",
+  "last_fetch_failed_at": "2026-11-11T13:04:53.799Z"
+}

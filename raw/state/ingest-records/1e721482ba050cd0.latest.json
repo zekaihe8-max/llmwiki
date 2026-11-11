@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T13:06:20.566Z",
+  "url": "https://x.com/cgnot996/status/2120348651608559988",
+  "slug": "1e721482ba050cd0",
+  "content_hash": "8daf7ca0397c66af1b9e6fdc956642085b8b23fbab77761e45191d9c57566642",
+  "source": {
+    "path": "sources/articles/qwen3-8-flash-next.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "作者提到用稀疏注意力降低长上下文成本，和省 Token、降成本的讨论有关，本条没有新的可核实证据。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "架构推测本身不是 Harness 横评，只是同一作者还提到用预览版做演示，主题保持不变。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文在官方参数公布前推测 Qwen4 架构方向，和开放权重前沿模型话题相近，但只是作者个人看法，不足以改写主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文在官方参数公布前推测 Qwen4 架构方向，和开放权重前沿模型话题相近，但只是作者个人看法，不足以改写主题。",
+    "topics/coding-agent-token-saving-tooling.md": "作者提到用稀疏注意力降低长上下文成本，和省 Token、降成本的讨论有关，本条没有新的可核实证据。",
+    "topics/harness-comparison-beyond-tokens.md": "架构推测本身不是 Harness 横评，只是同一作者还提到用预览版做演示，主题保持不变。"
+  },
+  "files_changed": [
+    "sources/articles/qwen3-8-flash-next.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "帖文在官方参数公布前推测 Qwen4 架构方向，和开放权重前沿模型话题相近，但只是作者个人看法，不足以改写主题。",
+      "topics/coding-agent-token-saving-tooling.md": "作者提到用稀疏注意力降低长上下文成本，和省 Token、降成本的讨论有关，本条没有新的可核实证据。",
+      "topics/harness-comparison-beyond-tokens.md": "架构推测本身不是 Harness 横评，只是同一作者还提到用预览版做演示，主题保持不变。"
+    },
+    "notes": "官方参数未公布，架构方向按作者观点归因。Topic 保持不变。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/qwen3-8-flash-next.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

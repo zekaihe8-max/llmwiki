@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T13:01:39.363Z",
+  "url": "https://x.com/EianLu/status/2120462002489573686",
+  "slug": "3b15bfd0411bc4c1",
+  "content_hash": "b33f157af32a10cba9691db7edf35893cc5c08801701d7d2d3737a49fb2a5f27",
+  "source": {
+    "path": "sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 媒体内容生成与回灌，与 AI 制作城市建设可视化内容相关。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "属于随手 AI 创意创作，与用 AI 工具快速制作可爱动画贴近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 生成视觉风格与质量边界，与 Opus 5.5 制作粘土画风相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "涉及 AI 生成视觉风格与质量边界，与 Opus 5.5 制作粘土画风相关。",
+    "topics/casual-ai-minigame-first-try.md": "属于随手 AI 创意创作，与用 AI 工具快速制作可爱动画贴近。",
+    "topics/ai-media-training-corpus-loop.md": "涉及 AI 媒体内容生成与回灌，与 AI 制作城市建设可视化内容相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/ai-media-training-corpus-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "涉及 AI 生成视觉风格与质量边界，与 Opus 5.5 制作粘土画风相关。",
+      "topics/casual-ai-minigame-first-try.md": "属于随手 AI 创意创作，与用 AI 工具快速制作可爱动画贴近。",
+      "topics/ai-media-training-corpus-loop.md": "涉及 AI 媒体内容生成与回灌，与 AI 制作城市建设可视化内容相关。"
+    },
+    "notes": "所有事实仅基于抓取的 X 帖文 markdown，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

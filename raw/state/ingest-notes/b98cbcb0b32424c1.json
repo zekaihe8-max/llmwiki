@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文详细介绍了课程作业中的 Agent Harness 构建要求，与公司级 Agent Harness 主题直接相关。",
+    "topics/agent-scaled-engineering.md": "CS329Z 侧重智能体工程化与复合系统搭建，契合智能体规模化工程主题。",
+    "topics/context-engineering-for-agents.md": "作业 HW1 涉及上下文压缩，与 Agent 上下文工程主题相关。",
+    "topics/multiagent-infra-four-problems.md": "课程覆盖多智能体内容，与多智能体基建主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文详细介绍了课程作业中的 Agent Harness 构建要求，与公司级 Agent Harness 主题直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "CS329Z 侧重智能体工程化与复合系统搭建，契合智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "作业 HW1 涉及上下文压缩，与 Agent 上下文工程主题相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "课程覆盖多智能体内容，与多智能体基建主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有信息均来源于提供的 X 帖文及其引用内容，未引入外部事实或 URL。"
+}

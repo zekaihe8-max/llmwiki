@@ -26,6 +26,112 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [Eian 发布 Opus 5.5 与 Blender 制作的上海地铁粘土动画 / Eian shares Opus 5.5 and Blender claymation of Shanghai Metro construction](./sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md) — Eian 在 X 上发布使用 Opus 5.5 和 Blender 制作的上海全市粘土风格航拍，直观展示上海地铁建设历程。 / Eian posts on X a clay-style aerial view of all Shanghai made with Opus 5.5 and Blender, showing the history of Shanghai Metro construction.
+
+- [通义千问 Token Plan 个人版定价页的标示价格 / Stated prices on the Qwen Token Plan personal pricing page](./sources/articles/alibaba-cloud-qwen-token-plan-personal-pricing.md) — 通义千问平台 Token Plan 个人版页面标明日常价和限时新客折扣，并列出 Lite、Essential、Standard、Pro 四档；页面自己写明最终价格以登录后实际结算为准。 / The Qwen Token Plan personal page states regular prices and a limited new-customer discount, and lists Lite, Essential, Standard, and Pro tiers; the page itself says the final price is whatever is billed after login.
+
+- [斯坦福 CS329Z 讲座视频链接，但抓取页没有正文 / Stanford CS329Z lecture video link, but the fetched page has no body](./sources/articles/stanford-cs329z.md) — 当日精选把这条 YouTube 链接标为斯坦福 CS329Z 讲座入口，但抓取到的页面只有 YouTube 页脚导航，没有视频标题、描述或转录。 / The daily digest marks this YouTube URL as a Stanford CS329Z lecture entry, but the fetched page contains only YouTube footer navigation and no video title, description, or transcript.
+
+- [FrontierHarness v1.1：21 套 Harness × 5 模型 × 62 任务，规模扩大 72 倍 / FrontierHarness v1.1: 21 Harnesses × 5 Models × 62 Tasks, 72× Scale-Up](./sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md) — 帖文称 FrontierHarness v1.1 将投入最高 100B Token，在 21 套 Agent Harness、5 个模型和 62 项任务上测试切换模型时是否也需更换 Harness。 / The post says FrontierHarness v1.1 will spend up to 100B tokens across 21 agent harnesses, 5 models, and 62 tasks to test whether switching models also requires switching harnesses.
+
+- [Enconvo 2.5.13 发布：Mac AI 智能体最大更新 / Enconvo 2.5.13 Released: Biggest Update for Mac AI Agent](./sources/articles/enconvo-2-5-13-released-biggest-update-for-mac-ai-agent.md) — Enconvo AI 发布 2.5.13 版本，推出 Spaces、工作区、可拨打电话的智能体、SSH 主机、可引导子智能体及不接触对话的 API 密钥。 / Enconvo AI releases version 2.5.13, launching Spaces, Workspaces, phone-calling agents, SSH hosts, steerable subagents, and API keys that never touch the chat.
+
+- [阿里拟分拆平头哥赴港上市 / Alibaba Plans to Spin Off Pingtouge for Hong Kong IPO](./sources/articles/alibaba-plans-to-spin-off-pingtouge-for-hong-kong-ipo.md) — 帖文称阿里巴巴拟分拆芯片子公司平头哥在香港独立上市，上市后平头哥仍将是其子公司。 / The post says Alibaba plans to spin off chip subsidiary Pingtouge for an independent Hong Kong listing, with Pingtouge remaining its subsidiary after listing.
+
+- [腾讯推出独立 AI 搜索网站「元宝搜索」对标百度 / Tencent Launches Independent AI Search Site "Yuanbao Search" to Challenge Baidu](./sources/articles/tencent-launches-independent-ai-search-site-yuanbao-search-to-ch.md) — 腾讯于11月11日推出元宝搜索，默认开启AI搜索并整合搜狗技术与微信生态，直接对标百度和谷歌。 / Tencent launched Yuanbao Search on November 11, enabling AI search by default and integrating Sogou technology with the WeChat ecosystem to directly challenge Baidu and Google.
+
+- [腾讯元宝搜索（so.qq.com）新一代 AI 搜索页面 / Tencent Yuanbao Search (so.qq.com) Next-Generation AI Search Page](./sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md) — 腾讯旗下元宝搜索提供 AI 搜索模式，支持图片拖拽对话，页面底部展示腾讯版权与多项粤省备案信息。 / Tencent's Yuanbao Search offers an AI search mode, supports dragging images into conversation, and displays Tencent copyright and multiple Guangdong filing details at the bottom.
+
+- [斯坦福 CS329Z 工程化 AI 智能体课程公开资料 / Stanford CS329Z Engineering AI Agents Course Public Materials](./sources/articles/stanford-cs329z-engineering-ai-agents-course-public-materials.md) — 斯坦福 CS329Z 课程讲座视频与两份 MIT 许可作业已公开，覆盖智能体架构、RAG、评测等内容。 / Stanford CS329Z lecture videos and two MIT-licensed assignments are now public, covering agent architecture, RAG, evaluation, and more.
+
+- [Skipper：JVM 耐久工作流执行库，非集群 / Skipper: Durable Workflow Execution for the JVM — a Library, Not a Cluster](./sources/articles/skipper-durable-workflow-execution-for-the-jvm-a-library-not-a-c.md) — Skipper 是 Airbnb 开源的轻量级 JVM 工作流引擎库，让业务流程以普通 Kotlin/Java 代码编写，并保证在崩溃、部署和下游故障下仍能运行到终止状态。 / Skipper is Airbnb's open-source lightweight JVM workflow engine library that lets you write business processes as ordinary Kotlin or Java code and guarantees they run to completion despite crashes, deploys, and flaky downstreams.
+
+- [Airbnb 开源内部工作流引擎 Skipper / Airbnb open-sources internal workflow engine Skipper](./sources/articles/airbnb-open-sources-internal-workflow-engine-skipper.md) — Airbnb 开源可嵌入 Java/Kotlin 服务的工作流引擎 Skipper，支持进度持久化与故障恢复，但不保证下游操作仅执行一次。 / Airbnb open-sources Skipper, a workflow engine embeddable in Java/Kotlin services, supporting progress persistence and fault recovery but not exactly-once downstream execution.
+
+- [30 名工程师 12 周重建 Shopify 商家 App，Agent 编写大部分代码 / 30 Engineers Rebuild Shopify Merchant App in 12 Weeks, Agents Write Most of the Code](./sources/articles/30-engineers-rebuild-shopify-merchant-app-in-12-weeks-agents-wri.md) — Shopify 团队用 30 名工程师和编程 Agent 在 12 周内将 300 多页面的商家 App 从 React Native 重建为 Swift 和 Kotlin 原生应用，重点投入验证与审查流程。 / Shopify's team used 30 engineers and coding agents to rebuild its 300+ screen merchant app from React Native to Swift and Kotlin in 12 weeks, focusing on verification and review processes.
+
+- [虚实传媒发布AI领域六岗位招聘原帖 / Virtual-Real Media Publishes Recruitment Post for Six AI Positions](./sources/articles/virtual-real-media-publishes-recruitment-post-for-six-ai-positio.md) — 帖文称虚实传媒正招聘内容、报道、视频、客户执行、品牌项目及达人运营等六个AI相关岗位，base北京并提供五险一金与16薪。 / The post states Virtual-Real Media is hiring for six AI-related roles including content, reporting, video, client execution, brand project, and influencer operations, based in Beijing with social insurance/housing fund and 16-month salary.
+
+- [归藏转发：数字生命卡兹克在 X 上招人 / Guizang Reposts Digital Life Khazix Hiring on X](./sources/articles/guizang-reposts-digital-life-khazix-hiring-on-x.md) — 归藏转发卡兹克在 X 上首次招聘，称团队已有 30 多位伙伴并需更多人手 / Guizang reposts Khazix's first hiring post on X, stating the team has over 30 partners and needs more people
+
+- [国行手机还能打开带 AI 功能的新版 Apple 健康 / China-market iPhones can enable new Apple Health with AI features](./sources/articles/china-market-iphones-can-enable-new-apple-health-with-ai-feature.md) — 帖文称某项目可在国行 iPhone 上开启 AI 版 Apple Health、满血 Apple Intelligence 并解除 eSIM 数量限制。 / A social media post claims a project can enable AI-powered Apple Health, full Apple Intelligence, and remove eSIM limits on China-market iPhones.
+
+- [Orange AI 称互联网时代的方法论在今天都错了 / Orange AI says internet-era methodologies are wrong today](./sources/articles/all-internet-era-methodologies-are-wrong-today.md) — Orange AI 发帖写道，互联网时代的所有方法论在今天都是错的，并接着说一颗崭新的大脑弥足珍贵。这是作者观点，没有展开论证。 / Orange AI posted that all internet-era methodologies are wrong today, then added that a brand-new brain is extremely precious. This is the author’s view, without further argument.
+
+- [国内 Personal AI 为主动性而主动性，把手段当目的 / Domestic Personal AI Chases Proactivity for Its Own Sake, Mistaking Means for Ends](./sources/articles/domestic-personal-ai-chases-proactivity-for-its-own-sake-mistaki.md) — 帖文称部分国内 Personal AI 产品过度追求主动性，以“饥渴”方式做产品只会让用户产生 PTSD。 / The post says some domestic Personal AI products over-pursue proactivity, and building them desperately will only give users PTSD.
+
+- [深夜发了《Fable 5.2 优雅地杀死了比赛》 / Late-night post: 'Fable 5.2 elegantly killed the competition'](./sources/articles/late-night-post-fable-5-2-elegantly-killed-the-competition.md) — Orange AI 在 X 上深夜发文，称 Fable 5.2 优雅地杀死了比赛，并附上微信文章链接。 / Orange AI posted late at night on X claiming Fable 5.2 elegantly killed the competition, with a link to a WeChat article.
+
+- [Amp 推出 Boxes 永久沙箱，Grok Bot 支持 Tailscale 自建 / Amp launches always-on Boxes sandbox; Grok Bot adds Tailscale support](./sources/articles/amp-launches-always-on-boxes-sandbox-grok-bot-adds-tailscale-sup.md) — Amp 推出按月约 18 美元的 always-on Boxes 沙箱，Grok Bot 因成本改为支持 Tailscale 让用户自用电脑运行。 / Amp launches always-on Boxes sandbox starting around $18/month; Grok Bot adds Tailscale support so users can run it on their own computers due to cost.
+
+- [Grok Bot 现可加入 Tailscale 尾网 / Grok Bot Can Now Join Tailscale Tailnets](./sources/articles/grok-bot-can-now-join-tailscale-tailnets.md) — Grok Bot 可加入个人或公司 Tailscale 尾网，安全访问私有 MCP 服务器、内部工具和应用。 / Grok Bot can join personal or company Tailscale tailnets to securely reach private MCP servers, internal tools, and apps.
+
+- [Grok Bot 接上了官方 Tailscale 连接器 / Grok Bot Connects to Official Tailscale Connector](./sources/articles/grok-bot-connects-to-official-tailscale-connector.md) — Grok Bot 现可通过官方 Tailscale 连接器加入个人或公司 tailnet，安全访问内网 MCP 服务器、内部工具与应用，并避免云端环境重启导致的反复授权。 / Grok Bot can now join personal or company tailnets via the official Tailscale connector to securely reach private MCP servers, internal tools, and apps, avoiding repeated authorization from cloud restarts.
+
+- [Fable 5.2 正在取代调音师 / Fable 5.2 Is Replacing Sound Engineers](./sources/articles/fable-5-2-is-replacing-sound-engineers.md) — 帖文称 Fable 5.2 可在 41 分钟内通过代码从零生成 FPS 游戏的建模、声音与贴图，无需外部资源。 / The post claims Fable 5.2 can generate FPS game modeling, sound, and textures from scratch via code in 41 minutes without external resources.
+
+- [Fable 5.2 41 分钟代码生成浏览器 FPS 游戏 / Fable 5.2 generates browser FPS game in 41 minutes via code](./sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md) — 用 Fable 5.2 约 41 分钟、15.96 美元用量，纯代码生成浏览器 FPS 射击游戏，无需外部资源。 / Using Fable 5.2 for about 41 minutes and $15.96 in usage, a browser FPS shooter is generated purely from code with no external resources.
+
+- [dsh-market：DeepSeek Harness 内置插件市场 / dsh-market: the plugin market inside DeepSeek Harness](./sources/articles/x-source-tdshmarket.md) — GitHub 仓库 dsh-market 介绍它是 DeepSeek Harness 内的插件市场，可浏览、搜索并一键安装，在较新版本里作为插件页上的标签页出现。 / The dsh-market GitHub repo describes a plugin market inside DeepSeek Harness, with browse, search, and one-click install, appearing as a tab on the Plugins page in newer hosts.
+
+- [DeepSeek Harness 插件推荐：先装这 5 个就够了 / DeepSeek Harness Plugin Recommendation: Install These 5 First](./sources/articles/deepseek-harness-plugin-recommendation-install-these-5-first.md) — 蓝哥AI推荐DeepSeek Harness五个优先安装的插件，涵盖市场、多模态、侧边栏、上下文和多Agent面板。 / Blue Brother AI recommends five priority DeepSeek Harness plugins covering the market, multimodal input, sidebar, context, and multi-agent panel.
+
+- [通过 Cursor 后台查询 Grok Bot 所用模型 / Querying the Grok Bot model via the Cursor dashboard](./sources/articles/querying-the-grok-bot-model-via-the-cursor-dashboard.md) — 帖文称，登录后访问 Cursor 管理后台使用量页 cursor.com/dashboard/usage，即可查看 Grok Bot 具体使用的模型。 / The post says that after logging in to the Cursor admin usage page at cursor.com/dashboard/usage, you can see which model Grok Bot uses.
+
+- [Grok Bot 用量页面上线，支持按来源与 Bot 查询额度消耗 / Grok Bot usage page launches, supporting quota consumption queries by source and Bot](./sources/articles/grok-bot-usage-page-launches-supporting-quota-consumption-querie.md) — Grok Bot 现可在设置的用量与账单中查看按来源和 Bot 维度的额度消耗。 / Grok Bot can now display quota consumption by source and Bot in Settings → Usage & Billing.
+
+- [Claude 又送完全重置卡，用户称 Pro 也有 / Claude allegedly hands out another full reset card, user says Pro included](./sources/articles/claude-allegedly-hands-out-another-full-reset-card-user-says-pro.md) — 用户在 X 发帖称 Claude 连续发放重置额度卡，且 Pro 用户也能收到。 / User posts on X that Claude has issued reset quota cards consecutively, including for Pro users.
+
+- [铁柱按 Qwen3.8-Flash-Next 路线推测 Qwen4 架构方向 / Tie Zhu speculates on Qwen4 architecture from the Qwen3.8-Flash-Next roadmap](./sources/articles/qwen3-8-flash-next.md) — 铁柱AGI 发帖称 Qwen4 官方详细参数尚未公布，他根据此前 Qwen3.8-Flash-Next 技术路线，对注意力、残差、Embedding 和训练体系做了个人推测。 / Tie Zhu (铁柱AGI) says detailed official Qwen4 specs are not out yet and offers personal guesses on attention, residuals, embeddings, and training, based on the earlier Qwen3.8-Flash-Next roadmap.
+
+- [鹈鹕骑自行车循环动画 / Pelican Bicycle Loop Animation](./sources/articles/pelican-bicycle-loop-animation.md) — 一个 SVG 循环动画演示，展示白色鹈鹕骑乘青绿色自行车。 / An SVG loop animation demo showing a white pelican riding a teal bicycle.
+
+- [首发 Qwen4-Max 预览版鹈鹕测试 / First Release Qwen4-Max Preview Pelican Test](./sources/articles/first-release-qwen4-max-preview-pelican-test.md) — 帖文称使用 Qwen4-Max 预览版生成鹈鹕骑自行车循环动画，并以 Player Card 形式发布。 / The post claims a Qwen4-Max preview-generated pelican bicycle-riding loop animation, released as a Player Card.
+
+- [Magpie 路由器点名表扬社工攻击，提醒勿透露开发机 SSH 与密码 / Magpie Router Names and Shames Social Engineering Attack, Warns Against Sharing Dev Machine SSH and Passwords](./sources/articles/magpie-router-names-and-shames-social-engineering-attack-warns-a.md) — Magpie 路由器指出用户 @xy862 要求开启 SSH、frp 穿透并发送 IP 与密码，属套取服务器权限的社工攻击，已屏蔽该用户。 / Magpie Router says user @xy862 requested SSH access, frp tunneling, and IP/password sharing, calling it a social engineering attack to obtain server permissions, and has blocked the user.
+
+- [yetone 晒出一张折算后的每日 AI 账单 / yetone posts a converted daily AI usage bill](./sources/articles/ai-2177-03.md) — yetone 配了一张用量截图，只回了一句「昨天这么多的吗」；当日精选转述截图把 11 月 10 日用量按 API 价格折到 2177.03 美元，并说明这不是发票。 / yetone posted a usage screenshot with the reply “that much yesterday?”; the daily digest says the Nov 10 figure was converted at API prices to $2177.03 and is not an invoice.
+
+- [在 FrontierHarness 榜上看到了 Alma：V1.1 扩容至 21 个 Harness × 5 模型 × 62 任务 / Alma Spotted on FrontierHarness Leaderboard as V1.1 Expands to 21 Harnesses × 5 Models × 62 Tasks](./sources/articles/alma-spotted-on-frontierharness-leaderboard-as-v1-1-expands-to-2.md) — FrontierHarness V1.1 将智能体框架评测扩展至 21 个 Harness、5 个模型和 62 个任务，Alma 出现在榜单上。 / FrontierHarness V1.1 expands agent harness evaluation to 21 harnesses, 5 models, and 62 tasks, with Alma appearing on the leaderboard.
+
+- [Adobe 在 MAX 大会上全面升级 AI 工具 / Adobe Comprehensively Upgrades AI Tools at MAX Conference](./sources/articles/adobe-comprehensively-upgrades-ai-tools-at-max-conference.md) — Adobe 在 MAX 大会上发布 Creative Agent，向 Firefly 接入多家外部模型，并为 Photoshop 等原生软件开放本地 MCP 接口。 / Adobe launches Creative Agent at MAX, integrates multiple external models into Firefly, and opens local MCP interfaces for native software such as Photoshop.
+
+- [乔木推荐 Enconvo Agent 工具 / Qiaomu Recommends Enconvo Agent Tool](./sources/articles/qiaomu-recommends-enconvo-agent-tool.md) — 乔木推荐朋友团队开发的 Agent 产品 Enconvo，称其功能全面、交互出色，超出小团队预期。 / Qiaomu recommends Enconvo, an Agent product from a friend's team, praising its comprehensive features and polished interaction as exceeding expectations for a small team.
+
+- [EnConvo：macOS 系统级全能 AI 中枢，接管多模态能力与应用侧边栏 / EnConvo: System-Level All-in-One AI Hub for macOS with Multimodal Capabilities and App Sidebars](./sources/articles/enconvo-system-level-all-in-one-ai-hub-for-macos-with-multimodal.md) — 博主 Gorden Sun 推荐 EnConvo 为功能最全面的 macOS AI 助手，整合外接多模态能力、本地模型、语音输入、应用侧边栏等，实现系统级无缝调用。 / Blogger Gorden Sun recommends EnConvo as the most comprehensive macOS AI assistant, integrating external multimodal capabilities, local models, voice input, app sidebars for system-level seamless invocation.
+
+- [Gemini 4 Carbon Medium 档可替代 Opus 5.5，但更慢更多思考 / Gemini 4 Carbon Medium Can Replace Opus 5.5, But Slower and Overthinks](./sources/articles/gemini-4-carbon-medium-can-replace-opus-5-5-but-slower-and-overt.md) — 帖文称在大肥鱼工作流中，Gemini 4 Carbon Medium 档输出细致、视觉效果好，可替代 Opus 5.5，但速度明显更慢且过度思考。 / The post claims that in the Big Fat Fish workflow, Gemini 4 Carbon Medium delivers detailed output with good visuals and can replace Opus 5.5, but is much slower and overthinks.
+
+- [音乐小球 / Music Ball](./sources/articles/music-ball.md) — 一个网页互动小游戏，小球撞击发出音符，玩家需猜出共 8 首歌曲中的曲目。 / A web interactive mini-game where the ball emits notes on impact, and players guess the tracks among 8 songs.
+
+- [3D 音乐弹珠墙：简谱生成的互动音乐体验 / 3D Music Marble Wall: Interactive Music Experience with Numbered Notation Generation](./sources/articles/3d-music-marble-wall-interactive-music-experience-with-numbered.md) — 一个可输入简谱一键生成 3D 弹珠轨道、内置 6 首名曲猜谜与多种弹珠/视角/倍速设置的网页互动音乐装置。 / A web interactive music installation that generates 3D marble tracks from numbered notation, with 6 built-in famous songs for guessing and multiple marble, view, and playback speed settings.
+
+- [同一提示词，Carbon 与 Fable 各生成一个 Oneshot 体验 / Same Prompt, Carbon and Fable Each Create a Oneshot Experience](./sources/articles/same-prompt-carbon-and-fable-each-create-a-oneshot-experience.md) — 帖文称同一提示词下，Gemini 4 Carbon 与 Fable 5.2 各制作了一个 Oneshot 互动体验并附上在线链接。 / The post claims that under the same prompt, Gemini 4 Carbon and Fable 5.2 each created a oneshot interactive experience with online links.
+
+- [卡丁车游戏用 Fable 5.2 与 Claude AI 在浏览器运行 / Browser-based 3D kart racer built with Fable 5.2 and Claude AI](./sources/articles/browser-based-3d-kart-racer-built-with-fable-5-2-and-claude-ai.md) — 宝玉转发 Peter Yang 的帖文，称赞用 Fable 5.2 制作的可在浏览器游玩的 3D 卡丁车游戏，支持多人联机与多条赛道。 / Bao Yu reposts Peter Yang's post praising a browser-based 3D kart racer made with Fable 5.2 and Claude AI, featuring multiplayer and multiple tracks.
+
+- [软件形态变化：从“给人用”到“给 Agent 用” / Software Form Shift: From "For Humans" to "For Agents"](./sources/articles/software-form-shift-from-for-humans-to-for-agents.md) — 帖文称软件使用主体从人转向 Agent，导致软件形态彻底变化，以 Claude Artifacts 为例。 / The post claims that as software users shift from humans to Agents, software form changes fundamentally, exemplified by Claude Artifacts.
+
+- [验收为中心：Agent 软件设计的重心转移 / Acceptance-Centric Design: Shifting Focus of Agent Software to Human Verification](./sources/articles/acceptance-centric-design-shifting-focus-of-agent-software-to-hu.md) — 软件设计重心从人机操作转向让人更好地验收 Agent 执行结果。 / Software design focus shifts from human-machine operation to enabling better human verification of Agent execution results.
+
+- [别问 AI 会什么，直接给它更高的目标 / Don't ask AI what it can do; give it higher goals directly](./sources/articles/don-t-ask-ai-what-it-can-do-give-it-higher-goals-directly.md) — 不要询问 AI 能做什么，而应直接设定更高的目标并提供方向、上下文与工具支持 / Don't ask AI what it can do; set higher goals directly and provide direction, context, and tool support
+
+- [斯坦福 CS329Z AI Agent 工程课程资料全面公开 / Stanford CS329Z AI Agent Engineering course materials fully released](./sources/articles/stanford-cs329z-ai-agent-engineering-course-materials-fully-rele.md) — 斯坦福 CS329Z 课程讲座、作业及测试资料对外公开，采用 MIT 协议 / Stanford CS329Z lectures, assignments, and test materials are released externally under the MIT license
+
+- [Claude Fable 5.2证明了，AI可以靠代码吞噬一切 / Claude Fable 5.2 Proves AI Can Swallow Everything Through Code](./sources/articles/claude-fable-5-2-proves-ai-can-swallow-everything-through-code.md) — 帖文称Claude Fable 5.2凭借代码展现出Benchmark无法评估的审美，可生成视频、3D、音乐和绘画等数字内容。 / The post claims Claude Fable 5.2 demonstrates aesthetics beyond benchmark assessment through code, generating video, 3D, music, and painting.
+
+- [Pi 1.5.2 修复项目目录丢失后的会话恢复 / Pi 1.5.2 fixes session recovery after project directory is missing](./sources/articles/pi-1-5-2-fixes-session-recovery-after-project-directory-is-missi.md) — Pi 1.5.2 新增 Fork 与 Cancel 选项，解决项目目录被改名、移动或删除后无法继续历史会话的问题。 / Pi 1.5.2 adds Fork and Cancel options to fix continuing historical sessions after the project directory is renamed, moved, or deleted.
+
+- [阿里 Qwen4-Max 预览版面向普通用户免费开放 / Alibaba Qwen4-Max Preview Opens Free Access to Ordinary Users](./sources/articles/alibaba-qwen4-max-preview-opens-free-access-to-ordinary-users.md) — 阿里云千问 Qwen4-Max 预览版现可在官网免费体验，支持对话与 Agent 模式，并同步推出双十一会员半价优惠。 / Alibaba's Qwen4-Max preview is now freely accessible on its official website, supporting chat and Agent modes, with a Double 11 membership half-price promotion.
+
+- [10 个 Pi Agent 在隔离虚拟机里协同找漏洞 / 10 Pi Agents Collaborate in Isolated VMs to Hunt Vulnerabilities](./sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md) — 开发者借助 pi-intercom 插件，让 10 个搭配 DeepSeek V4.1 的 Pi Agent 在隔离虚拟机中互相通信、分工协作，共同寻找可复现漏洞。 / A developer uses the pi-intercom plugin to let 10 DeepSeek V4.1-powered Pi Agents communicate and collaborate to jointly hunt for reproducible vulnerabilities in isolated VMs.
+
+- [DeepSeek 组合 / DeepSeek Combination](./sources/articles/deepseek-combination.md) — 小墨同学分享以 Pi Agent 搭配 DeepSeek 等模型的 AI Agent 使用清单与成本取舍。 / Xiaomovps shares an AI Agent usage list and cost tradeoffs pairing Pi Agent with DeepSeek and other models.
+
+- [Pi Agent 在 Agent Harness 横评中暂居第二，搭配 DeepSeek 成本更低 / Pi Agent Ranks Second in Agent Harness Comparison, Lower Cost with DeepSeek](./sources/articles/pi-agent-ranks-second-in-agent-harness-comparison-lower-cost-wit.md) — 帖文称 Pi Agent 在 21 组 Agent Harness 横评中暂居第二，搭配 DeepSeek 模型通过率更高且每题成本更低。 / The post claims Pi Agent ranks second in 21 Agent Harness comparisons, with higher pass rate and lower cost per question when paired with DeepSeek.
+
+- [连干229轮没人管，Qwen4-Max预览版成事了吗？ / Can Qwen4-Max Preview Get Things Done After 229 Unattended Rounds?](./sources/articles/can-qwen4-max-preview-get-things-done-after-229-unattended-round.md) — 花叔对 Qwen4-Max 预览版的编程、Agent 长程任务、3D 与 Blender 建模实测，并与 Opus 5.5 对比 / Hua Shu tests Qwen4-Max Preview on coding, agent long-horizon tasks, 3D and Blender modeling, and compares it with Opus 5.5
+
 - [小墨 · 提示词在变短 / Xiaomo · Prompts Are Getting Shorter](./sources/articles/xiaomo-prompts-are-getting-shorter.md) — 帖文称 Claude Code 为新一代 Claude 模型砍掉超 80% 系统提示词且评测未明显下降，输入 Token 从峰值降约 48%，极简 Pi Agent 更具优势。 / The post claims Claude Code cut over 80% of system prompts for new Claude models without significant eval decline, input tokens fell about 48% from peak, and minimalist Pi Agent is more advantageous.
 
 - [进度板：长任务前先部署仅构建仪表盘的子 Agent / Progress Dashboard: Deploy a Dashboard-Only Subagent Before Long Tasks](./sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md) — 主张在长任务前先让专用子 Agent 构建自刷新 HTML 进度看板，再由主会话继续编码。 / The post urges launching a dedicated subagent to build a self-refreshing HTML progress dashboard before long tasks, while the main session keeps coding.

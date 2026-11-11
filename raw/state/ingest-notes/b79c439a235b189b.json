@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/company-agent-harness.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "文章核心是不同 Agent Harness 的横评与 token/成本对比，与该主题高度相关，现有内容无需变更。",
+    "topics/company-agent-harness.md": "涉及 Agent Harness 选型对效果与成本的影响，与文章结论一致，保持不变。",
+    "topics/coding-agent-token-saving-tooling.md": "文章重点讨论每成功一题成本与 Token 效率，属于该主题范畴，无需新增。",
+    "topics/community-evals-vs-score-hype.md": "文章引用社区榜单并提醒排名可能变化，与公开评测质量审视相关，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章核心是不同 Agent Harness 的横评与 token/成本对比，与该主题高度相关，现有内容无需变更。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 选型对效果与成本的影响，与文章结论一致，保持不变。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章重点讨论每成功一题成本与 Token 效率，属于该主题范畴，无需新增。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章引用社区榜单并提醒排名可能变化，与公开评测质量审视相关，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文及其引用内容，未编造额外 URL 或外部事实。"
+}

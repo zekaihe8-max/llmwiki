@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T13:06:20.454Z",
+  "url": "https://x.com/yetone/status/2120400776170500431",
+  "slug": "b820569b7ccbd7c4",
+  "content_hash": "0f316f7fb51510510839552e64e022a7a88e324d4d0ed3483365ee5c7dd113f2",
+  "source": {
+    "path": "sources/articles/ai-2177-03.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "发帖人展示的是一天用量折算账单，和编程 Agent 额度、费用感受直接相关，但本条只是个人截图，不足以改写主题。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "当日精选转述截图经 Magpie 路由折算，和多 Harness 路由话题有关，但页面本身没有展开路由机制。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "截图把费用集中记在 Claude 旗舰档上，和订阅值不值的讨论相近，仍只是作者自己的用量展示。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "发帖人展示的是一天用量折算账单，和编程 Agent 额度、费用感受直接相关，但本条只是个人截图，不足以改写主题。",
+    "topics/premium-ai-subscription-value.md": "截图把费用集中记在 Claude 旗舰档上，和订阅值不值的讨论相近，仍只是作者自己的用量展示。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "当日精选转述截图经 Magpie 路由折算，和多 Harness 路由话题有关，但页面本身没有展开路由机制。"
+  },
+  "files_changed": [
+    "sources/articles/ai-2177-03.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "发帖人展示的是一天用量折算账单，和编程 Agent 额度、费用感受直接相关，但本条只是个人截图，不足以改写主题。",
+      "topics/premium-ai-subscription-value.md": "截图把费用集中记在 Claude 旗舰档上，和订阅值不值的讨论相近，仍只是作者自己的用量展示。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "当日精选转述截图经 Magpie 路由折算，和多 Harness 路由话题有关，但页面本身没有展开路由机制。"
+    },
+    "notes": "抓取正文很短，费用数字按当日精选对同一截图的转述记录，并明确归因于发帖人展示的折算，而非发票。Topic 保持不变。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/ai-2177-03.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

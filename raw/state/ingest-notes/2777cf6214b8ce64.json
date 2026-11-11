@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/software-factory.md",
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "文章核心是工作流引擎 Skipper，与工作流优先于智能体的主题直接相关。",
+    "topics/software-factory.md": "涉及大厂开源内部工具与软件工程基建，属于软件工厂范畴。",
+    "topics/deep-backends-and-jit-frontends.md": "Skipper 是嵌入服务的后端执行引擎，涉及后端基建与运行时。",
+    "topics/agent-scaled-engineering.md": "文中提到内部峰值每秒 1 万工作流，涉及规模化工程场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是工作流引擎 Skipper，与工作流优先于智能体的主题直接相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及大厂开源内部工具与软件工程基建，属于软件工厂范畴。"
+    },
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "Skipper 是嵌入服务的后端执行引擎，涉及后端基建与运行时。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到内部峰值每秒 1 万工作流，涉及规模化工程场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

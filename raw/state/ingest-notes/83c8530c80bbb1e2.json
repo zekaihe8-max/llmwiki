@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/interactive-world-models.md"
+  ],
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "文章涉及 AI 模型驱动的游戏制作，与 Vibe Gaming 模型拐点主题相近",
+    "topics/casual-ai-minigame-first-try.md": "文章讲述用 AI 快速做出小游戏，与随手 AI 小游戏一次成功相近",
+    "topics/interactive-world-models.md": "浏览器 FPS 属于实时交互世界/游戏模型范畴"
+  },
+  "topics": [
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 模型驱动的游戏制作，与 Vibe Gaming 模型拐点主题相近"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章讲述用 AI 快速做出小游戏，与随手 AI 小游戏一次成功相近"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "浏览器 FPS 属于实时交互世界/游戏模型范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文与引用教程摘录，未引入外部事实。"
+}

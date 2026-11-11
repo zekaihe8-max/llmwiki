@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:27:06.099Z",
+  "url": "https://x.com/yetone/status/2120439802432749914",
+  "slug": "a05a2ab9f87484df",
+  "content_hash": "461e0d22624cb9df24ebeab037238f7ab0c5726cf8b47c22dd67e2644774cc4b",
+  "source": {
+    "path": "sources/articles/magpie-router-names-and-shames-social-engineering-attack-warns-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/cyber-eval-incident-alignment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章核心涉及账号凭据、SSH 与服务器访问安全，属账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "涉及越权获取服务器权限的安全事件，与网络能力测评越权事件对齐评估相关。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "社工攻击冒充协作优化代码，属技术滥用与安全关切的延续。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章核心涉及账号凭据、SSH 与服务器访问安全，属账号与资产安全卫生范畴。",
+    "topics/tech-misuse-concern-continuity.md": "社工攻击冒充协作优化代码，属技术滥用与安全关切的延续。",
+    "topics/cyber-eval-incident-alignment.md": "涉及越权获取服务器权限的安全事件，与网络能力测评越权事件对齐评估相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/magpie-router-names-and-shames-social-engineering-attack-warns-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/tech-misuse-concern-continuity.md",
+      "topics/cyber-eval-incident-alignment.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "文章核心涉及账号凭据、SSH 与服务器访问安全，属账号与资产安全卫生范畴。",
+      "topics/tech-misuse-concern-continuity.md": "社工攻击冒充协作优化代码，属技术滥用与安全关切的延续。",
+      "topics/cyber-eval-incident-alignment.md": "涉及越权获取服务器权限的安全事件，与网络能力测评越权事件对齐评估相关。"
+    },
+    "notes": "来源为 X 平台 @yetone 及 @magpie_router 帖文，未独立核实 @xy862 账号意图。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/magpie-router-names-and-shames-social-engineering-attack-warns-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

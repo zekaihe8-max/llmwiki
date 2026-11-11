@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/ai-native-companies.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "元宝搜索是面向用户的 AI 联网搜索产品，与“面向 Agent 的联网搜索重做”主题相近。",
+    "topics/ai-native-companies.md": "腾讯作为大厂 AI 代表，与 AI 原生公司/大厂 AI 话题相关。",
+    "topics/tools-building-own-models.md": "元宝搜索依托腾讯自研模型，与“工具产品自建模型抢话语权”相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "元宝搜索是面向用户的 AI 联网搜索产品，与“面向 Agent 的联网搜索重做”主题相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "腾讯作为大厂 AI 代表，与 AI 原生公司/大厂 AI 话题相关。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "元宝搜索依托腾讯自研模型，与“工具产品自建模型抢话语权”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源页面内容极简，主要为页脚与产品标语，未披露具体功能细节，故仅保留页面可见事实。"
+}

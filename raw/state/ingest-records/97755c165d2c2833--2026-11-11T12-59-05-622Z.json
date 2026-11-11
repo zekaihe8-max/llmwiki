@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:59:05.622Z",
+  "url": "https://x.com/guanlan/status/2120192585235046712",
+  "slug": "97755c165d2c2833",
+  "content_hash": "f878498caedbf37902abc4a4a0945dfe52d0f8077707d1e33fdf3502c311d1a7",
+  "source": {
+    "path": "sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/company-agent-harness.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实测与刷分，对大规模榜单结果有参考价值。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及公司级 Agent Harness，与评测框架选型相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Harness 对比，与 FrontierHarness 排行榜主题最贴近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及公开榜单质量审查，与大规模 Agent 评测结果相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "直接讨论 Harness 对比，与 FrontierHarness 排行榜主题最贴近。",
+    "topics/company-agent-harness.md": "涉及公司级 Agent Harness，与评测框架选型相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及公开榜单质量审查，与大规模 Agent 评测结果相关。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实测与刷分，对大规模榜单结果有参考价值。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/company-agent-harness.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "直接讨论 Harness 对比，与 FrontierHarness 排行榜主题最贴近。",
+      "topics/company-agent-harness.md": "涉及公司级 Agent Harness，与评测框架选型相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及公开榜单质量审查，与大规模 Agent 评测结果相关。",
+      "topics/community-evals-vs-score-hype.md": "涉及社区实测与刷分，对大规模榜单结果有参考价值。"
+    },
+    "notes": "所有事实均源于提供的 X 帖文截图，未引入外部信息；日期和浏览量按帖文显示记录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/company-agent-harness.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "直接讨论 Harness 对比，与 FrontierHarness 排行榜主题最贴近。",
+    "topics/company-agent-harness.md": "涉及公司级 Agent Harness，与评测框架选型相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及公开榜单质量审查，与大规模 Agent 评测结果相关。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实测与刷分，对大规模榜单结果有参考价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Harness 对比，与 FrontierHarness 排行榜主题最贴近。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及公司级 Agent Harness，与评测框架选型相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及公开榜单质量审查，与大规模 Agent 评测结果相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实测与刷分，对大规模榜单结果有参考价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源于提供的 X 帖文截图，未引入外部信息；日期和浏览量按帖文显示记录。"
+}

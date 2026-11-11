@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:20:57.660Z",
+  "url": "https://x.com/yetone/status/2120196856416452631",
+  "slug": "736b6e69115942a6",
+  "content_hash": "8222feed222a837303603c581875b28f2f1cd400e28f4dd43092a955c31d79e4",
+  "source": {
+    "path": "sources/articles/alma-spotted-on-frontierharness-leaderboard-as-v1-1-expands-to-2.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/company-agent-harness.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实测与榜单分数，对应 FrontierHarness 排行榜语境。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 概念，与文中提到的智能体框架评测相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Harness 对比，与 FrontierHarness 榜单主题最贴近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及公开榜单质量审查，与对 FrontierHarness V1.1 评测设计的关注相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "直接讨论 Harness 对比，与 FrontierHarness 榜单主题最贴近。",
+    "topics/company-agent-harness.md": "涉及 Agent Harness 概念，与文中提到的智能体框架评测相关。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实测与榜单分数，对应 FrontierHarness 排行榜语境。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及公开榜单质量审查，与对 FrontierHarness V1.1 评测设计的关注相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alma-spotted-on-frontierharness-leaderboard-as-v1-1-expands-to-2.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/company-agent-harness.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "直接讨论 Harness 对比，与 FrontierHarness 榜单主题最贴近。",
+      "topics/company-agent-harness.md": "涉及 Agent Harness 概念，与文中提到的智能体框架评测相关。",
+      "topics/community-evals-vs-score-hype.md": "涉及社区实测与榜单分数，对应 FrontierHarness 排行榜语境。",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及公开榜单质量审查，与对 FrontierHarness V1.1 评测设计的关注相关。"
+    },
+    "notes": "所有事实均仅来自所提供的 X 帖文摘录，未引用外部链接或未在文中出现的信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alma-spotted-on-frontierharness-leaderboard-as-v1-1-expands-to-2.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

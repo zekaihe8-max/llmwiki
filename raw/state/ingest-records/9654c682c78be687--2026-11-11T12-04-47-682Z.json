@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:04:47.682Z",
+  "url": "https://x.com/xiaomovps/status/2120461819433353576",
+  "slug": "9654c682c78be687",
+  "content_hash": "cf90f3259f22e6afa659d84797df9f15ba99364c19f58043239475ddf1c86638",
+  "source": {
+    "path": "sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文描述多个 Agent 组队共同寻找漏洞，与网防 Agent Swarm 品类高度相关"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文中对比了独立 Pi 团队与主 Agent 调度 Subagent 的传统模式，与该主题直接相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Agent Harness 横评与 Pi Agent 排名，涉及智能体评测对比"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "pi-intercom 插件解决多智能体会话通信与协作基建问题，对应多智能体基建主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "帖文描述多个 Agent 组队共同寻找漏洞，与网防 Agent Swarm 品类高度相关",
+    "topics/multiagent-infra-four-problems.md": "pi-intercom 插件解决多智能体会话通信与协作基建问题，对应多智能体基建主题",
+    "topics/fold-subagents-into-main-loop.md": "文中对比了独立 Pi 团队与主 Agent 调度 Subagent 的传统模式，与该主题直接相关",
+    "topics/harness-comparison-beyond-tokens.md": "帖文提及 Agent Harness 横评与 Pi Agent 排名，涉及智能体评测对比"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "帖文描述多个 Agent 组队共同寻找漏洞，与网防 Agent Swarm 品类高度相关",
+      "topics/multiagent-infra-four-problems.md": "pi-intercom 插件解决多智能体会话通信与协作基建问题，对应多智能体基建主题",
+      "topics/fold-subagents-into-main-loop.md": "文中对比了独立 Pi 团队与主 Agent 调度 Subagent 的传统模式，与该主题直接相关",
+      "topics/harness-comparison-beyond-tokens.md": "帖文提及 Agent Harness 横评与 Pi Agent 排名，涉及智能体评测对比"
+    },
+    "notes": "来源为 X 平台 @xiaomovps 帖文，未独立核实漏洞发现及横评排名等主张，已在摘要中使用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

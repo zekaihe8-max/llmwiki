@@ -1,0 +1,23 @@
+{
+  "slug": "5ae2e4f3dcbfbe05",
+  "url": "https://pelican-cycle-demo.pages.dev/",
+  "title": "演示",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "5ae2e4f3dcbfbe050876a95f89f4dce0505950570c23a5ead637fbbc0f1a7a15",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:43.331Z",
+  "content_hash": "b3780253aa0d061efec9d118579e72c18191147d137e7205c2df6e17575b980f",
+  "article_path": "articles/5ae2e4f3dcbfbe05.md",
+  "fetched_url": "https://pelican-cycle-demo.pages.dev/",
+  "source_path": "sources/articles/pelican-bicycle-loop-animation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:28:27.999Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

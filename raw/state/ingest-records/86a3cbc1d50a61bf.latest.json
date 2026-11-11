@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:13:10.109Z",
+  "url": "https://gordensun.github.io/music-ball",
+  "slug": "86a3cbc1d50a61bf",
+  "content_hash": "b4748ec94daf916da1438b4a75afe316596b8a2050f084e0724135e0c48b96ef",
+  "source": {
+    "path": "sources/articles/music-ball.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "均涉及轻量网页小游戏体验，主题最贴近"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "均为基于 HTML 的趣味网页产品形式"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "均属于游戏类互动体验，可作参考"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "均涉及轻量网页小游戏体验，主题最贴近",
+    "topics/html-image-fun-knowledge-learning.md": "均为基于 HTML 的趣味网页产品形式",
+    "topics/vibe-gaming-model-inflection.md": "均属于游戏类互动体验，可作参考"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/music-ball.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "均涉及轻量网页小游戏体验，主题最贴近",
+      "topics/html-image-fun-knowledge-learning.md": "均为基于 HTML 的趣味网页产品形式",
+      "topics/vibe-gaming-model-inflection.md": "均属于游戏类互动体验，可作参考"
+    },
+    "notes": "Source: https://gordensun.github.io/music-ball",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/music-ball.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

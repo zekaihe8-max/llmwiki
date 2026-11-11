@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:46:09.246Z",
+  "url": "https://x.com/wquguru/status/2120471244344820164",
+  "slug": "72ff048f9487ffb9",
+  "content_hash": "cc104c8b8c11ee249f2fce56b31d1bd33f6e7ff9eee9e7bfaa8f9261e374ef15",
+  "source": {
+    "path": "sources/articles/fable-5-2-is-replacing-sound-engineers.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文提到一句话跑出射击游戏、小成本试水，与随手 AI 小游戏一次成功相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "代码生成建模、声音与贴图以构建可交互 FPS 游戏，涉及实时交互世界模型。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 驱动的游戏内容生成与 Vibe Gaming 趋势，与模型拐点主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "文章涉及 AI 驱动的游戏内容生成与 Vibe Gaming 趋势，与模型拐点主题相近。",
+    "topics/casual-ai-minigame-first-try.md": "帖文提到一句话跑出射击游戏、小成本试水，与随手 AI 小游戏一次成功相关。",
+    "topics/interactive-world-models.md": "代码生成建模、声音与贴图以构建可交互 FPS 游戏，涉及实时交互世界模型。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-is-replacing-sound-engineers.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "文章涉及 AI 驱动的游戏内容生成与 Vibe Gaming 趋势，与模型拐点主题相近。",
+      "topics/casual-ai-minigame-first-try.md": "帖文提到一句话跑出射击游戏、小成本试水，与随手 AI 小游戏一次成功相关。",
+      "topics/interactive-world-models.md": "代码生成建模、声音与贴图以构建可交互 FPS 游戏，涉及实时交互世界模型。"
+    },
+    "notes": "所有主张均来源于该 X 帖文及其引用内容，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-is-replacing-sound-engineers.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

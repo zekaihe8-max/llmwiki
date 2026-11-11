@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文主题为 AI 制作的浏览器小游戏，与“随手 AI 小游戏一次成功”高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "涉及用 AI 模型快速制作游戏的“Vibe Gaming”场景，与卡丁车游戏开发方式相符。"
+  },
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文主题为 AI 制作的浏览器小游戏，与“随手 AI 小游戏一次成功”高度相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及用 AI 模型快速制作游戏的“Vibe Gaming”场景，与卡丁车游戏开发方式相符。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容基于 X 帖文，未独立验证游戏链接或功能。"
+}

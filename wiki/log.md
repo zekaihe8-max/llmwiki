@@ -1,5 +1,111 @@
 ## 2026-11-11
 
+* **创建 / Creation**: 归档 [Eian 发布 Opus 5.5 与 Blender 制作的上海地铁粘土动画](./sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md)。 / Filed [Eian shares Opus 5.5 and Blender claymation of Shanghai Metro construction](./sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md).
+
+* **创建 / Creation**: 归档 [通义千问 Token Plan 个人版定价页的标示价格](./sources/articles/alibaba-cloud-qwen-token-plan-personal-pricing.md)。 / Filed [Stated prices on the Qwen Token Plan personal pricing page](./sources/articles/alibaba-cloud-qwen-token-plan-personal-pricing.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS329Z 讲座视频链接，但抓取页没有正文](./sources/articles/stanford-cs329z.md)。 / Filed [Stanford CS329Z lecture video link, but the fetched page has no body](./sources/articles/stanford-cs329z.md).
+
+* **创建 / Creation**: 归档 [FrontierHarness v1.1：21 套 Harness × 5 模型 × 62 任务，规模扩大 72 倍](./sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md)。 / Filed [FrontierHarness v1.1: 21 Harnesses × 5 Models × 62 Tasks, 72× Scale-Up](./sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md).
+
+* **创建 / Creation**: 归档 [Enconvo 2.5.13 发布：Mac AI 智能体最大更新](./sources/articles/enconvo-2-5-13-released-biggest-update-for-mac-ai-agent.md)。 / Filed [Enconvo 2.5.13 Released: Biggest Update for Mac AI Agent](./sources/articles/enconvo-2-5-13-released-biggest-update-for-mac-ai-agent.md).
+
+* **创建 / Creation**: 归档 [阿里拟分拆平头哥赴港上市](./sources/articles/alibaba-plans-to-spin-off-pingtouge-for-hong-kong-ipo.md)。 / Filed [Alibaba Plans to Spin Off Pingtouge for Hong Kong IPO](./sources/articles/alibaba-plans-to-spin-off-pingtouge-for-hong-kong-ipo.md).
+
+* **创建 / Creation**: 归档 [腾讯推出独立 AI 搜索网站「元宝搜索」对标百度](./sources/articles/tencent-launches-independent-ai-search-site-yuanbao-search-to-ch.md)。 / Filed [Tencent Launches Independent AI Search Site "Yuanbao Search" to Challenge Baidu](./sources/articles/tencent-launches-independent-ai-search-site-yuanbao-search-to-ch.md).
+
+* **创建 / Creation**: 归档 [腾讯元宝搜索（so.qq.com）新一代 AI 搜索页面](./sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md)。 / Filed [Tencent Yuanbao Search (so.qq.com) Next-Generation AI Search Page](./sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS329Z 工程化 AI 智能体课程公开资料](./sources/articles/stanford-cs329z-engineering-ai-agents-course-public-materials.md)。 / Filed [Stanford CS329Z Engineering AI Agents Course Public Materials](./sources/articles/stanford-cs329z-engineering-ai-agents-course-public-materials.md).
+
+* **创建 / Creation**: 归档 [Skipper：JVM 耐久工作流执行库，非集群](./sources/articles/skipper-durable-workflow-execution-for-the-jvm-a-library-not-a-c.md)。 / Filed [Skipper: Durable Workflow Execution for the JVM — a Library, Not a Cluster](./sources/articles/skipper-durable-workflow-execution-for-the-jvm-a-library-not-a-c.md).
+
+* **创建 / Creation**: 归档 [Airbnb 开源内部工作流引擎 Skipper](./sources/articles/airbnb-open-sources-internal-workflow-engine-skipper.md)。 / Filed [Airbnb open-sources internal workflow engine Skipper](./sources/articles/airbnb-open-sources-internal-workflow-engine-skipper.md).
+
+* **创建 / Creation**: 归档 [30 名工程师 12 周重建 Shopify 商家 App，Agent 编写大部分代码](./sources/articles/30-engineers-rebuild-shopify-merchant-app-in-12-weeks-agents-wri.md)。 / Filed [30 Engineers Rebuild Shopify Merchant App in 12 Weeks, Agents Write Most of the Code](./sources/articles/30-engineers-rebuild-shopify-merchant-app-in-12-weeks-agents-wri.md).
+
+* **创建 / Creation**: 归档 [虚实传媒发布AI领域六岗位招聘原帖](./sources/articles/virtual-real-media-publishes-recruitment-post-for-six-ai-positio.md)。 / Filed [Virtual-Real Media Publishes Recruitment Post for Six AI Positions](./sources/articles/virtual-real-media-publishes-recruitment-post-for-six-ai-positio.md).
+
+* **创建 / Creation**: 归档 [归藏转发：数字生命卡兹克在 X 上招人](./sources/articles/guizang-reposts-digital-life-khazix-hiring-on-x.md)。 / Filed [Guizang Reposts Digital Life Khazix Hiring on X](./sources/articles/guizang-reposts-digital-life-khazix-hiring-on-x.md).
+
+* **创建 / Creation**: 归档 [国行手机还能打开带 AI 功能的新版 Apple 健康](./sources/articles/china-market-iphones-can-enable-new-apple-health-with-ai-feature.md)。 / Filed [China-market iPhones can enable new Apple Health with AI features](./sources/articles/china-market-iphones-can-enable-new-apple-health-with-ai-feature.md).
+
+* **创建 / Creation**: 归档 [Orange AI 称互联网时代的方法论在今天都错了](./sources/articles/all-internet-era-methodologies-are-wrong-today.md)。 / Filed [Orange AI says internet-era methodologies are wrong today](./sources/articles/all-internet-era-methodologies-are-wrong-today.md).
+
+* **创建 / Creation**: 归档 [国内 Personal AI 为主动性而主动性，把手段当目的](./sources/articles/domestic-personal-ai-chases-proactivity-for-its-own-sake-mistaki.md)。 / Filed [Domestic Personal AI Chases Proactivity for Its Own Sake, Mistaking Means for Ends](./sources/articles/domestic-personal-ai-chases-proactivity-for-its-own-sake-mistaki.md).
+
+* **创建 / Creation**: 归档 [深夜发了《Fable 5.2 优雅地杀死了比赛》](./sources/articles/late-night-post-fable-5-2-elegantly-killed-the-competition.md)。 / Filed [Late-night post: 'Fable 5.2 elegantly killed the competition'](./sources/articles/late-night-post-fable-5-2-elegantly-killed-the-competition.md).
+
+* **创建 / Creation**: 归档 [Amp 推出 Boxes 永久沙箱，Grok Bot 支持 Tailscale 自建](./sources/articles/amp-launches-always-on-boxes-sandbox-grok-bot-adds-tailscale-sup.md)。 / Filed [Amp launches always-on Boxes sandbox; Grok Bot adds Tailscale support](./sources/articles/amp-launches-always-on-boxes-sandbox-grok-bot-adds-tailscale-sup.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 现可加入 Tailscale 尾网](./sources/articles/grok-bot-can-now-join-tailscale-tailnets.md)。 / Filed [Grok Bot Can Now Join Tailscale Tailnets](./sources/articles/grok-bot-can-now-join-tailscale-tailnets.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 接上了官方 Tailscale 连接器](./sources/articles/grok-bot-connects-to-official-tailscale-connector.md)。 / Filed [Grok Bot Connects to Official Tailscale Connector](./sources/articles/grok-bot-connects-to-official-tailscale-connector.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 正在取代调音师](./sources/articles/fable-5-2-is-replacing-sound-engineers.md)。 / Filed [Fable 5.2 Is Replacing Sound Engineers](./sources/articles/fable-5-2-is-replacing-sound-engineers.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 41 分钟代码生成浏览器 FPS 游戏](./sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md)。 / Filed [Fable 5.2 generates browser FPS game in 41 minutes via code](./sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md).
+
+* **创建 / Creation**: 归档 [dsh-market：DeepSeek Harness 内置插件市场](./sources/articles/x-source-tdshmarket.md)。 / Filed [dsh-market: the plugin market inside DeepSeek Harness](./sources/articles/x-source-tdshmarket.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 插件推荐：先装这 5 个就够了](./sources/articles/deepseek-harness-plugin-recommendation-install-these-5-first.md)。 / Filed [DeepSeek Harness Plugin Recommendation: Install These 5 First](./sources/articles/deepseek-harness-plugin-recommendation-install-these-5-first.md).
+
+* **创建 / Creation**: 归档 [通过 Cursor 后台查询 Grok Bot 所用模型](./sources/articles/querying-the-grok-bot-model-via-the-cursor-dashboard.md)。 / Filed [Querying the Grok Bot model via the Cursor dashboard](./sources/articles/querying-the-grok-bot-model-via-the-cursor-dashboard.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 用量页面上线，支持按来源与 Bot 查询额度消耗](./sources/articles/grok-bot-usage-page-launches-supporting-quota-consumption-querie.md)。 / Filed [Grok Bot usage page launches, supporting quota consumption queries by source and Bot](./sources/articles/grok-bot-usage-page-launches-supporting-quota-consumption-querie.md).
+
+* **创建 / Creation**: 归档 [Claude 又送完全重置卡，用户称 Pro 也有](./sources/articles/claude-allegedly-hands-out-another-full-reset-card-user-says-pro.md)。 / Filed [Claude allegedly hands out another full reset card, user says Pro included](./sources/articles/claude-allegedly-hands-out-another-full-reset-card-user-says-pro.md).
+
+* **创建 / Creation**: 归档 [铁柱按 Qwen3.8-Flash-Next 路线推测 Qwen4 架构方向](./sources/articles/qwen3-8-flash-next.md)。 / Filed [Tie Zhu speculates on Qwen4 architecture from the Qwen3.8-Flash-Next roadmap](./sources/articles/qwen3-8-flash-next.md).
+
+* **创建 / Creation**: 归档 [鹈鹕骑自行车循环动画](./sources/articles/pelican-bicycle-loop-animation.md)。 / Filed [Pelican Bicycle Loop Animation](./sources/articles/pelican-bicycle-loop-animation.md).
+
+* **创建 / Creation**: 归档 [首发 Qwen4-Max 预览版鹈鹕测试](./sources/articles/first-release-qwen4-max-preview-pelican-test.md)。 / Filed [First Release Qwen4-Max Preview Pelican Test](./sources/articles/first-release-qwen4-max-preview-pelican-test.md).
+
+* **创建 / Creation**: 归档 [Magpie 路由器点名表扬社工攻击，提醒勿透露开发机 SSH 与密码](./sources/articles/magpie-router-names-and-shames-social-engineering-attack-warns-a.md)。 / Filed [Magpie Router Names and Shames Social Engineering Attack, Warns Against Sharing Dev Machine SSH and Passwords](./sources/articles/magpie-router-names-and-shames-social-engineering-attack-warns-a.md).
+
+* **创建 / Creation**: 归档 [yetone 晒出一张折算后的每日 AI 账单](./sources/articles/ai-2177-03.md)。 / Filed [yetone posts a converted daily AI usage bill](./sources/articles/ai-2177-03.md).
+
+* **创建 / Creation**: 归档 [在 FrontierHarness 榜上看到了 Alma：V1.1 扩容至 21 个 Harness × 5 模型 × 62 任务](./sources/articles/alma-spotted-on-frontierharness-leaderboard-as-v1-1-expands-to-2.md)。 / Filed [Alma Spotted on FrontierHarness Leaderboard as V1.1 Expands to 21 Harnesses × 5 Models × 62 Tasks](./sources/articles/alma-spotted-on-frontierharness-leaderboard-as-v1-1-expands-to-2.md).
+
+* **创建 / Creation**: 归档 [Adobe 在 MAX 大会上全面升级 AI 工具](./sources/articles/adobe-comprehensively-upgrades-ai-tools-at-max-conference.md)。 / Filed [Adobe Comprehensively Upgrades AI Tools at MAX Conference](./sources/articles/adobe-comprehensively-upgrades-ai-tools-at-max-conference.md).
+
+* **创建 / Creation**: 归档 [乔木推荐 Enconvo Agent 工具](./sources/articles/qiaomu-recommends-enconvo-agent-tool.md)。 / Filed [Qiaomu Recommends Enconvo Agent Tool](./sources/articles/qiaomu-recommends-enconvo-agent-tool.md).
+
+* **创建 / Creation**: 归档 [EnConvo：macOS 系统级全能 AI 中枢，接管多模态能力与应用侧边栏](./sources/articles/enconvo-system-level-all-in-one-ai-hub-for-macos-with-multimodal.md)。 / Filed [EnConvo: System-Level All-in-One AI Hub for macOS with Multimodal Capabilities and App Sidebars](./sources/articles/enconvo-system-level-all-in-one-ai-hub-for-macos-with-multimodal.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Carbon Medium 档可替代 Opus 5.5，但更慢更多思考](./sources/articles/gemini-4-carbon-medium-can-replace-opus-5-5-but-slower-and-overt.md)。 / Filed [Gemini 4 Carbon Medium Can Replace Opus 5.5, But Slower and Overthinks](./sources/articles/gemini-4-carbon-medium-can-replace-opus-5-5-but-slower-and-overt.md).
+
+* **创建 / Creation**: 归档 [音乐小球](./sources/articles/music-ball.md)。 / Filed [Music Ball](./sources/articles/music-ball.md).
+
+* **创建 / Creation**: 归档 [3D 音乐弹珠墙：简谱生成的互动音乐体验](./sources/articles/3d-music-marble-wall-interactive-music-experience-with-numbered.md)。 / Filed [3D Music Marble Wall: Interactive Music Experience with Numbered Notation Generation](./sources/articles/3d-music-marble-wall-interactive-music-experience-with-numbered.md).
+
+* **创建 / Creation**: 归档 [同一提示词，Carbon 与 Fable 各生成一个 Oneshot 体验](./sources/articles/same-prompt-carbon-and-fable-each-create-a-oneshot-experience.md)。 / Filed [Same Prompt, Carbon and Fable Each Create a Oneshot Experience](./sources/articles/same-prompt-carbon-and-fable-each-create-a-oneshot-experience.md).
+
+* **创建 / Creation**: 归档 [卡丁车游戏用 Fable 5.2 与 Claude AI 在浏览器运行](./sources/articles/browser-based-3d-kart-racer-built-with-fable-5-2-and-claude-ai.md)。 / Filed [Browser-based 3D kart racer built with Fable 5.2 and Claude AI](./sources/articles/browser-based-3d-kart-racer-built-with-fable-5-2-and-claude-ai.md).
+
+* **创建 / Creation**: 归档 [软件形态变化：从“给人用”到“给 Agent 用”](./sources/articles/software-form-shift-from-for-humans-to-for-agents.md)。 / Filed [Software Form Shift: From "For Humans" to "For Agents"](./sources/articles/software-form-shift-from-for-humans-to-for-agents.md).
+
+* **创建 / Creation**: 归档 [验收为中心：Agent 软件设计的重心转移](./sources/articles/acceptance-centric-design-shifting-focus-of-agent-software-to-hu.md)。 / Filed [Acceptance-Centric Design: Shifting Focus of Agent Software to Human Verification](./sources/articles/acceptance-centric-design-shifting-focus-of-agent-software-to-hu.md).
+
+* **创建 / Creation**: 归档 [别问 AI 会什么，直接给它更高的目标](./sources/articles/don-t-ask-ai-what-it-can-do-give-it-higher-goals-directly.md)。 / Filed [Don't ask AI what it can do; give it higher goals directly](./sources/articles/don-t-ask-ai-what-it-can-do-give-it-higher-goals-directly.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS329Z AI Agent 工程课程资料全面公开](./sources/articles/stanford-cs329z-ai-agent-engineering-course-materials-fully-rele.md)。 / Filed [Stanford CS329Z AI Agent Engineering course materials fully released](./sources/articles/stanford-cs329z-ai-agent-engineering-course-materials-fully-rele.md).
+
+* **创建 / Creation**: 归档 [Claude Fable 5.2证明了，AI可以靠代码吞噬一切](./sources/articles/claude-fable-5-2-proves-ai-can-swallow-everything-through-code.md)。 / Filed [Claude Fable 5.2 Proves AI Can Swallow Everything Through Code](./sources/articles/claude-fable-5-2-proves-ai-can-swallow-everything-through-code.md).
+
+* **创建 / Creation**: 归档 [Pi 1.5.2 修复项目目录丢失后的会话恢复](./sources/articles/pi-1-5-2-fixes-session-recovery-after-project-directory-is-missi.md)。 / Filed [Pi 1.5.2 fixes session recovery after project directory is missing](./sources/articles/pi-1-5-2-fixes-session-recovery-after-project-directory-is-missi.md).
+
+* **创建 / Creation**: 归档 [阿里 Qwen4-Max 预览版面向普通用户免费开放](./sources/articles/alibaba-qwen4-max-preview-opens-free-access-to-ordinary-users.md)。 / Filed [Alibaba Qwen4-Max Preview Opens Free Access to Ordinary Users](./sources/articles/alibaba-qwen4-max-preview-opens-free-access-to-ordinary-users.md).
+
+* **创建 / Creation**: 归档 [10 个 Pi Agent 在隔离虚拟机里协同找漏洞](./sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md)。 / Filed [10 Pi Agents Collaborate in Isolated VMs to Hunt Vulnerabilities](./sources/articles/10-pi-agents-collaborate-in-isolated-vms-to-hunt-vulnerabilities.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 组合](./sources/articles/deepseek-combination.md)。 / Filed [DeepSeek Combination](./sources/articles/deepseek-combination.md).
+
+* **创建 / Creation**: 归档 [Pi Agent 在 Agent Harness 横评中暂居第二，搭配 DeepSeek 成本更低](./sources/articles/pi-agent-ranks-second-in-agent-harness-comparison-lower-cost-wit.md)。 / Filed [Pi Agent Ranks Second in Agent Harness Comparison, Lower Cost with DeepSeek](./sources/articles/pi-agent-ranks-second-in-agent-harness-comparison-lower-cost-wit.md).
+
+* **创建 / Creation**: 归档 [连干229轮没人管，Qwen4-Max预览版成事了吗？](./sources/articles/can-qwen4-max-preview-get-things-done-after-229-unattended-round.md)。 / Filed [Can Qwen4-Max Preview Get Things Done After 229 Unattended Rounds?](./sources/articles/can-qwen4-max-preview-get-things-done-after-229-unattended-round.md).
+
 * **创建 / Creation**: 归档 [小墨 · 提示词在变短](./sources/articles/xiaomo-prompts-are-getting-shorter.md)。 / Filed [Xiaomo · Prompts Are Getting Shorter](./sources/articles/xiaomo-prompts-are-getting-shorter.md).
 
 * **创建 / Creation**: 归档 [进度板：长任务前先部署仅构建仪表盘的子 Agent](./sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md)。 / Filed [Progress Dashboard: Deploy a Dashboard-Only Subagent Before Long Tasks](./sources/articles/progress-dashboard-deploy-a-dashboard-only-subagent-before-long.md).

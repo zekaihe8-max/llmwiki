@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:09:38.426Z",
+  "url": "https://x.com/dotey/status/2120397665577865694",
+  "slug": "c72fbc166dddd986",
+  "content_hash": "939a51392ad7b6e87a25d543a0cacd85c07d2160dbe6c27cb9e63f7445c54db4",
+  "source": {
+    "path": "sources/articles/don-t-ask-ai-what-it-can-do-give-it-higher-goals-directly.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提到 AI 可能不知道可用工具和 Skill，与 Skill 编写与可用性相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文反对询问 AI 能力、主张直接给方向与上下文，属于对 AI 引导的校准。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文主张直接给 AI 更高目标，与该主题“把目标抬到更野心直到摸清 AI 前沿”高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/raise-ambition-until-ai-frontier.md": "帖文主张直接给 AI 更高目标，与该主题“把目标抬到更野心直到摸清 AI 前沿”高度相关。",
+    "topics/calibrating-ai-guidance.md": "帖文反对询问 AI 能力、主张直接给方向与上下文，属于对 AI 引导的校准。",
+    "topics/agent-skill-authoring.md": "帖文提到 AI 可能不知道可用工具和 Skill，与 Skill 编写与可用性相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-ask-ai-what-it-can-do-give-it-higher-goals-directly.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/raise-ambition-until-ai-frontier.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/raise-ambition-until-ai-frontier.md": "帖文主张直接给 AI 更高目标，与该主题“把目标抬到更野心直到摸清 AI 前沿”高度相关。",
+      "topics/calibrating-ai-guidance.md": "帖文反对询问 AI 能力、主张直接给方向与上下文，属于对 AI 引导的校准。",
+      "topics/agent-skill-authoring.md": "帖文提到 AI 可能不知道可用工具和 Skill，与 Skill 编写与可用性相关。"
+    },
+    "notes": "来源为 X 平台 @dotey 的单条帖文，未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-ask-ai-what-it-can-do-give-it-higher-goals-directly.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
