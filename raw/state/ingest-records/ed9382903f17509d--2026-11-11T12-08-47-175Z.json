@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:08:47.175Z",
+  "url": "https://x.com/dotey/status/2120388990616433083",
+  "slug": "ed9382903f17509d",
+  "content_hash": "50f7056d7c6715da8c106b098a853da798588d57f677408bfa4cfe53b8b4a309",
+  "source": {
+    "path": "sources/articles/stanford-cs329z-ai-agent-engineering-course-materials-fully-rele.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "课程名为 AI Agent 工程，属于智能体规模化工程与基建讨论"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "第二份作业聚焦设计评测题目与验证脚本，涉及社区实测与评测质量"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章核心内容是第一份作业要求从零编写 Agent Harness，与该主题直接相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "作业一涉及对话过长时压缩上下文，属于 Agent 上下文工程范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章核心内容是第一份作业要求从零编写 Agent Harness，与该主题直接相关",
+    "topics/context-engineering-for-agents.md": "作业一涉及对话过长时压缩上下文，属于 Agent 上下文工程范畴",
+    "topics/agent-scaled-engineering.md": "课程名为 AI Agent 工程，属于智能体规模化工程与基建讨论",
+    "topics/community-evals-vs-score-hype.md": "第二份作业聚焦设计评测题目与验证脚本，涉及社区实测与评测质量"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stanford-cs329z-ai-agent-engineering-course-materials-fully-rele.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章核心内容是第一份作业要求从零编写 Agent Harness，与该主题直接相关",
+      "topics/context-engineering-for-agents.md": "作业一涉及对话过长时压缩上下文，属于 Agent 上下文工程范畴",
+      "topics/agent-scaled-engineering.md": "课程名为 AI Agent 工程，属于智能体规模化工程与基建讨论",
+      "topics/community-evals-vs-score-hype.md": "第二份作业聚焦设计评测题目与验证脚本，涉及社区实测与评测质量"
+    },
+    "notes": "讲义中第二份作业仓库名写作 assignment2-harness，实际地址为 assignment2-evals。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stanford-cs329z-ai-agent-engineering-course-materials-fully-rele.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 功能与集成，与本文主题高度相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 的能力边界与用途，属于同一主题簇。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "本文提到的云端重启与反复授权痛点，与该主题的云环境备份、隔离与定时检查相呼应。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派与分发，与 Grok Bot 新连接器的落地相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 功能与集成，与本文主题高度相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 的能力边界与用途，属于同一主题簇。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "本文提到的云端重启与反复授权痛点，与该主题的云环境备份、隔离与定时检查相呼应。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派与分发，与 Grok Bot 新连接器的落地相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的推文正文与引用的 Grok Bot 公告，未引入外部事实。"
+}

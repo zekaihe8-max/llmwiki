@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文涉及 DeepSeek API 与 OpenCode/CommandCode 套餐的成本与渠道取舍。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文引用 FrontierHarness 对 Pi 与 DeepSeek 的横评通过率与成本表现。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确将 Claude Code 列为第二常用的编程 Agent 工具。",
+    "topics/minimal-core-community-extensions.md": "帖文提到 Pi 支持开发 Extension 并与 Hermes Agent 等组合，属于精简核心与社区扩展。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 DeepSeek API 与 OpenCode/CommandCode 套餐的成本与渠道取舍。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文引用 FrontierHarness 对 Pi 与 DeepSeek 的横评通过率与成本表现。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确将 Claude Code 列为第二常用的编程 Agent 工具。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Pi 支持开发 Extension 并与 Hermes Agent 等组合，属于精简核心与社区扩展。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文及其引用的回复，未独立核实 FrontierHarness 数据与具体模型性能。"
+}

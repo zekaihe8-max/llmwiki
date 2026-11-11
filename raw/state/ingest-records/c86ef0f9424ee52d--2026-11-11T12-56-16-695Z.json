@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:56:16.695Z",
+  "url": "https://so.qq.com/",
+  "slug": "c86ef0f9424ee52d",
+  "content_hash": "4a4a6a4405e8820a96f5bb3a831c41613f3dfd42d1bb4b29f359e67044939682",
+  "source": {
+    "path": "sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/ai-native-companies.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "元宝搜索是面向用户的 AI 联网搜索产品，与“面向 Agent 的联网搜索重做”主题相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "腾讯作为大厂 AI 代表，与 AI 原生公司/大厂 AI 话题相关。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "元宝搜索依托腾讯自研模型，与“工具产品自建模型抢话语权”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "元宝搜索是面向用户的 AI 联网搜索产品，与“面向 Agent 的联网搜索重做”主题相近。",
+    "topics/ai-native-companies.md": "腾讯作为大厂 AI 代表，与 AI 原生公司/大厂 AI 话题相关。",
+    "topics/tools-building-own-models.md": "元宝搜索依托腾讯自研模型，与“工具产品自建模型抢话语权”相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/ai-native-companies.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "元宝搜索是面向用户的 AI 联网搜索产品，与“面向 Agent 的联网搜索重做”主题相近。",
+      "topics/ai-native-companies.md": "腾讯作为大厂 AI 代表，与 AI 原生公司/大厂 AI 话题相关。",
+      "topics/tools-building-own-models.md": "元宝搜索依托腾讯自研模型，与“工具产品自建模型抢话语权”相关。"
+    },
+    "notes": "来源页面内容极简，主要为页脚与产品标语，未披露具体功能细节，故仅保留页面可见事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

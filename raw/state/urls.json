@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T00:06:57.947Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -7909,5 +7909,445 @@
     "last_seen": "2026-11-11T00:06:57.947Z",
     "digest": "2026-11-11-frontier-ai.md",
     "title": "小墨 · 提示词在变短"
+  },
+  "https://x.com/AlchainHust/status/2120471711212794103": {
+    "hash": "82d4d15a9be0bd11e48919192b0d4a5874ab1101ce197a7230db73f2b2afede4",
+    "slug": "82d4d15a9be0bd11",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "长文"
+  },
+  "https://x.com/xiaomovps/status/2120427969688825909": {
+    "hash": "b79c439a235b189be8f76eb406e7af0a4de4ebaf3143e4f5cb8a9a2434270c87",
+    "slug": "b79c439a235b189b",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "横评"
+  },
+  "https://x.com/xiaomovps/status/2120444951477829692": {
+    "hash": "d52fbb1e5bb52f9022ba61d0dcdc0621a853962501ca451a7c98c29ba595ac9f",
+    "slug": "d52fbb1e5bb52f90",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "DeepSeek 组合"
+  },
+  "https://x.com/xiaomovps/status/2120461819433353576": {
+    "hash": "9654c682c78be687abad510175df18d45e4872370b5836abc12d50ee4e647277",
+    "slug": "9654c682c78be687",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "10 个 Pi 在隔离虚拟机里一起找漏洞"
+  },
+  "https://x.com/xiaomovps/status/2120393243280166995": {
+    "hash": "be687de9600e8f35ae859b3e2aebd905822f01848e4c5bcb5052dec31f652a87",
+    "slug": "be687de9600e8f35",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Qwen4-Max 预览版，普通用户能免费体验"
+  },
+  "https://x.com/xiaomovps/status/2120308361396949251": {
+    "hash": "2b5d6bddad3c7e6d464eefa4ad005505b87a02833e4a1301eaf3caabd1be1890",
+    "slug": "2b5d6bddad3c7e6d",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Pi 1.5.2 修好了目录消失后的会话"
+  },
+  "https://x.com/Khazix0918/status/2120366797459476668": {
+    "hash": "07a45762bbcb84f6cf5a846049171996967f3fa1194fd44e70b6a8b8b5cd5f4e",
+    "slug": "07a45762bbcb84f6",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "长文"
+  },
+  "https://x.com/dotey/status/2120388990616433083": {
+    "hash": "ed9382903f17509d799e3befced70f19c774349bf85a5ece6deaf489214693c4",
+    "slug": "ed9382903f17509d",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "斯坦福 CS329Z 课程资料全部公开"
+  },
+  "https://x.com/dotey/status/2120397665577865694": {
+    "hash": "c72fbc166dddd986f6a96f7bbb461946c216a54df459f818fa700f207d5b5261",
+    "slug": "c72fbc166dddd986",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "别问 AI 会什么，直接给它更高的目标"
+  },
+  "https://x.com/dotey/status/2120345202804101583": {
+    "hash": "2e0d656504a2cfbe5b216f8f9b163a23aa259b5070c12a3eb2995351c34f1125",
+    "slug": "2e0d656504a2cfbe",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "验收"
+  },
+  "https://x.com/dotey/status/2120312745543315897": {
+    "hash": "b4efdb82405147abf42016b4616333bba39b1662fabf70e9387f31227c002e4b",
+    "slug": "b4efdb82405147ab",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "形态变化"
+  },
+  "https://x.com/dotey/status/2120358581459468589": {
+    "hash": "4a7eaf0b6dcae61073df97e2f24afa7f15063ed33d65837c8b640e0330d19787",
+    "slug": "4a7eaf0b6dcae610",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "卡丁车"
+  },
+  "https://x.com/Gorden_Sun/status/2120399915721674893": {
+    "hash": "b2d20486c540cb0059fa5fa9f71beaba1986dfcc0c28f584a87cf974bacc8fea",
+    "slug": "b2d20486c540cb00",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "同一条提示词，Carbon 和 Fable 各做一份 oneshot"
+  },
+  "https://gordensun.github.io/marble-melody-wall": {
+    "hash": "ec335b0833c12e3f65033e29390091699402e87223a7f77f1ac2b1b273f87d5b",
+    "slug": "ec335b0833c12e3f",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "体验 1"
+  },
+  "https://gordensun.github.io/music-ball": {
+    "hash": "86a3cbc1d50a61bf4ef1dc34bbb925473b6c676c175f7588f595c29b75da2570",
+    "slug": "86a3cbc1d50a61bf",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "体验 2"
+  },
+  "https://x.com/Gorden_Sun/status/2120359586318492036": {
+    "hash": "94173b0fb5577de8575be452f544d52d1060280de4c0560b4db8c1177833122a",
+    "slug": "94173b0fb5577de8",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "在他的大肥鱼工作流里，Carbon 的 Medium 档就能替代 Opus 5.5"
+  },
+  "https://x.com/Gorden_Sun/status/2120452474305904776": {
+    "hash": "62e7c1a6ba741bc3268f7169e41cb31f38af744eaa4b8d2af78eb3be4bdaebd4",
+    "slug": "62e7c1a6ba741bc3",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "EnConvo 被他说成系统级的全能 AI 中枢"
+  },
+  "https://x.com/vista8/status/2120470825975595414": {
+    "hash": "ceb21bdc9bf34ea604b1d272931e94562971c765789ca88eda2a3fb98684ac1c",
+    "slug": "ceb21bdc9bf34ea6",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "乔木推荐"
+  },
+  "https://x.com/Gorden_Sun/status/2120433717797949886": {
+    "hash": "f854aa6bcfcf0114c8b700b6183d2e8ed2d2a124f85377d59f12e7183ccbf403",
+    "slug": "f854aa6bcfcf0114",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Adobe 在 MAX 大会上全面升级 AI 工具"
+  },
+  "https://x.com/yetone/status/2120196856416452631": {
+    "hash": "736b6e69115942a68805ca16e2574221d0bed2bd91a415137e9c7c492bc8ce09",
+    "slug": "736b6e69115942a6",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "在 FrontierHarness 榜上看到了 Alma"
+  },
+  "https://x.com/yetone/status/2120400776170500431": {
+    "hash": "b820569b7ccbd7c48b9190b463403ef7657a52c55cce6c077a539be356d3dec9",
+    "slug": "b820569b7ccbd7c4",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "一张「每日 AI 账单」报到 2177.03 美元"
+  },
+  "https://x.com/yetone/status/2120439802432749914": {
+    "hash": "a05a2ab9f87484df0b1e9aa83486792f89978fbd9f75d7477d35aee94906a5ea",
+    "slug": "a05a2ab9f87484df",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "提醒大家，Magpie 有「点名表扬」机制"
+  },
+  "https://x.com/cgnot996/status/2120342757613134089": {
+    "hash": "4cffcd09052b2ce8391c2dc5c3d4553d5c23086953ae41352d9d43b9251b8c3a",
+    "slug": "4cffcd09052b2ce8",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "首发 Qwen4-Max 预览版鹈鹕测试"
+  },
+  "https://pelican-cycle-demo.pages.dev/": {
+    "hash": "5ae2e4f3dcbfbe050876a95f89f4dce0505950570c23a5ead637fbbc0f1a7a15",
+    "slug": "5ae2e4f3dcbfbe05",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "演示"
+  },
+  "https://x.com/cgnot996/status/2120348651608559988": {
+    "hash": "1e721482ba050cd07b34f7d19806a27cf44edd544c537f1c73d46204d1136d14",
+    "slug": "1e721482ba050cd0",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "官方参数还没公布，他按 Qwen3.8-Flash-Next 的技术路线提前看方向"
+  },
+  "https://x.com/cgnot996/status/2120321769332785176": {
+    "hash": "f1bd15f1acf02741b2be4058877b398f8234f314860aef48e079c72c6a9d4cb9",
+    "slug": "f1bd15f1acf02741",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Claude 又送了一张完全重置卡"
+  },
+  "https://x.com/cgnot996/status/2120326711825084846": {
+    "hash": "965fac6b4923f293c65b653c5278bac45f588b60fdcafd39e4f8fc3af47dd5fa",
+    "slug": "965fac6b4923f293",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "用量"
+  },
+  "https://x.com/cgnot996/status/2120320428866752678": {
+    "hash": "6701a7fd8413536a5a7600e72de456cf6198fa00d33399d6d69f457a659eb70e",
+    "slug": "6701a7fd8413536a",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "模型查询"
+  },
+  "https://x.com/0xlangeai/status/2120409528919630321": {
+    "hash": "ecd1d8c1f37758802d723fea52ac46b6073467109c994666fb4d7bce06a1cfd4",
+    "slug": "ecd1d8c1f3775880",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "推荐"
+  },
+  "https://github.com/dsh-market/dsh-market": {
+    "hash": "4bd843375b538166baa2d8489a4542028d3cedb012d4801a248d5dd2aaffe854",
+    "slug": "4bd843375b538166",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "市场"
+  },
+  "https://x.com/0xlangeai/status/2120428679453167931": {
+    "hash": "83c8530c80bbb1e236627c357d3e893c1f460a3254424d0b659892e28566c297",
+    "slug": "83c8530c80bbb1e2",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "FPS"
+  },
+  "https://x.com/wquguru/status/2120471244344820164": {
+    "hash": "72ff048f9487ffb9ec62958859dfe95caea50775eceba33e20339b4180db7407",
+    "slug": "72ff048f9487ffb9",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "调音师"
+  },
+  "https://x.com/turingou/status/2120374666795892741": {
+    "hash": "be73cd4d9a2f0cd92fe8d9866048ab79f6545a2f755355d18787a701108757f3",
+    "slug": "be73cd4d9a2f0cd9",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Grok Bot 接上了官方 Tailscale 连接器"
+  },
+  "https://x.com/bot/status/2120279511707386263": {
+    "hash": "c43f4d0fa5e138d1db42c4c695ad51883763e82cb0cbc66b900f44ecfe4720e1",
+    "slug": "c43f4d0fa5e138d1",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "官方"
+  },
+  "https://x.com/dingyi/status/2120471858055381482": {
+    "hash": "ca508a12174ce71a216caf2dde7da2c8fccfb5c5012a496663bbcc129bebf49e",
+    "slug": "ca508a12174ce71a",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Amp 新出了 Boxes，Grok Bot 这边则补上了 Tailscale"
+  },
+  "https://x.com/oran_ge/status/2120168398135152970": {
+    "hash": "003c75d6a30700b8b1f03c1ce42899850ac89b0ced60dcbe496748cde521319e",
+    "slug": "003c75d6a30700b8",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "深夜发了《Fable 5.2 优雅地杀死了比赛》"
+  },
+  "https://x.com/oran_ge/status/2120152466121724026": {
+    "hash": "5df0c232b529afac41ba863cdf12c4136fd038c39c893069dc9ee61fa97f98bb",
+    "slug": "5df0c232b529afac",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "他觉得国内几款 Personal AI 是在为了主动性而主动性"
+  },
+  "https://x.com/oran_ge/status/2120146942168899892": {
+    "hash": "b50c96cae445ef6414ced82190d47d9bcf4146f75849d0cf1e7a2c1d7087e82d",
+    "slug": "b50c96cae445ef64",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "另外一条只写了两句"
+  },
+  "https://x.com/op7418/status/2120325429181739309": {
+    "hash": "126ac8e9f7f87a6618cdaac0d9e8618485796cfee6e8ceba04dff74c25155649",
+    "slug": "126ac8e9f7f87a66",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "国行手机还能打开带 AI 功能的新版 Apple 健康"
+  },
+  "https://x.com/op7418/status/2120125019158417590": {
+    "hash": "8de4b8a6284ae1e347ec09b953788a04fb29602c5a8e4cb3990fd35f3a6bce39",
+    "slug": "8de4b8a6284ae1e3",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "归藏转发"
+  },
+  "https://x.com/Khazix0918/status/2120115253304586652": {
+    "hash": "a3a385cd53bce193fc5f548ffbc20a80095f0b0f4c88146c981ea260bdfe7700",
+    "slug": "a3a385cd53bce193",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "招人原帖"
+  },
+  "https://x.com/shao__meng/status/2120335490524365241": {
+    "hash": "102a77349e81bbc29be890ae33487b3f3553262981bba31c30cc11c733f70c92",
+    "slug": "102a77349e81bbc2",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "30 名工程师用 12 周重建 Shopify 商家 App"
+  },
+  "https://x.com/shao__meng/status/2120336655093735868": {
+    "hash": "2777cf6214b8ce641bf1491a35f12e1fee4d07ae5ac7bd0b23e3057b74fe1efb",
+    "slug": "2777cf6214b8ce64",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Airbnb 开源了内部工作流引擎 Skipper"
+  },
+  "https://github.com/airbnb/skipper": {
+    "hash": "f780c973bdb3b4515cdd031eb3c26b8b41d8cc50b3b94404e231769ec6faa05a",
+    "slug": "f780c973bdb3b451",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/shao__meng/status/2120332529203056748": {
+    "hash": "b98cbcb0b32424c1c1b89fac21a4f33ecd9cb3464465fd2270f27c33aabb4310",
+    "slug": "b98cbcb0b32424c1",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "他也整理了 CS329Z 的公开资料入口"
+  },
+  "https://so.qq.com/": {
+    "hash": "c86ef0f9424ee52da3dc1a8f4914f8295bd54dbeabef2c99f00fa646e11c7cc9",
+    "slug": "c86ef0f9424ee52d",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "so.qq.com"
+  },
+  "https://x.com/0xLogicrw/status/2120426061393756504": {
+    "hash": "6ef3a46c753d600348c072403a66c406bedc4a077ed5f309f110ecf2d2535c6c",
+    "slug": "6ef3a46c753d6003",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "腾讯推出独立搜索网站「元宝搜索」"
+  },
+  "https://x.com/0xLogicrw/status/2120456335489896848": {
+    "hash": "82c6da7ea9e5bbb29a406cdbac0f9d8c78802104d5a60d5aa05319ee6896c9a0",
+    "slug": "82c6da7ea9e5bbb2",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "阿里拟分拆平头哥赴港上市"
+  },
+  "https://x.com/enconvo_ai": {
+    "hash": "963021dc9f83eb142c7e78c54b8cf9e9a7d4180ac25e150981e97f3d30e39982",
+    "slug": "963021dc9f83eb14",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "@enconvo_ai"
+  },
+  "https://x.com/guanlan/status/2120192585235046712": {
+    "hash": "97755c165d2c28338675f5d85febfe87896e93d3a7b2f83be1aaa76837748a75",
+    "slug": "97755c165d2c2833",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "FrontierHarness"
+  },
+  "https://www.youtube.com/watch?v=DGI4vucR71w": {
+    "hash": "e80c623c7519ffa383a12085ae60d344cb2a75d7f16b5ecf7f64fe98db9aed12",
+    "slug": "e80c623c7519ffa3",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "斯坦福 CS329Z"
+  },
+  "https://platform.qianwenai.com/pricing/token-plan": {
+    "hash": "165de95f68b5e644c133fb385895a0a075f8625d6f88a8a7701805401c35d7cf",
+    "slug": "165de95f68b5e644",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "阿里 Token Plan"
+  },
+  "https://qwen.ai/qwencode": {
+    "hash": "c5171fa04ed46f7477109f45d2efca591d36cb75fa780a113ea1d150be5172cc",
+    "slug": "c5171fa04ed46f74",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "Qwen Code"
+  },
+  "https://turbo-tails.vercel.app/": {
+    "hash": "1888a7b7313a2151095e8fa82065eb67b6a449503d4701c58f6bcefb4c58e122",
+    "slug": "1888a7b7313a2151",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": "turbo-tails"
+  },
+  "https://x.com/EianLu/status/2120462002489573686": {
+    "hash": "3b15bfd0411bc4c1ae992a6f659e4e9cfe39d5f3f844e1a29cc6e4f827179c03",
+    "slug": "3b15bfd0411bc4c1",
+    "first_seen": "2026-11-11T12:01:33.105Z",
+    "last_seen": "2026-11-11T12:01:33.105Z",
+    "digest": "2026-11-11-cn-x.md",
+    "title": null
   }
 }

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文在官方参数公布前推测 Qwen4 架构方向，和开放权重前沿模型话题相近，但只是作者个人看法，不足以改写主题。",
+    "topics/coding-agent-token-saving-tooling.md": "作者提到用稀疏注意力降低长上下文成本，和省 Token、降成本的讨论有关，本条没有新的可核实证据。",
+    "topics/harness-comparison-beyond-tokens.md": "架构推测本身不是 Harness 横评，只是同一作者还提到用预览版做演示，主题保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文在官方参数公布前推测 Qwen4 架构方向，和开放权重前沿模型话题相近，但只是作者个人看法，不足以改写主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "作者提到用稀疏注意力降低长上下文成本，和省 Token、降成本的讨论有关，本条没有新的可核实证据。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "架构推测本身不是 Harness 横评，只是同一作者还提到用预览版做演示，主题保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "官方参数未公布，架构方向按作者观点归因。Topic 保持不变。"
+}

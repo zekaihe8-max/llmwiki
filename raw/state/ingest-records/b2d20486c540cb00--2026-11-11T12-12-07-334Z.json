@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:12:07.334Z",
+  "url": "https://x.com/Gorden_Sun/status/2120399915721674893",
+  "slug": "b2d20486c540cb00",
+  "content_hash": "5849db74637d0457717652a5bf734f72e342135ffa2f5a2d53c121143f787f48",
+  "source": {
+    "path": "sources/articles/same-prompt-carbon-and-fable-each-create-a-oneshot-experience.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文展示 AI 一次性生成小互动体验，与“随手 AI 小游戏一次成功”主题高度相关。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "体验以 GitHub Pages 托管的 HTML 页面形式呈现，属于趣味网页产品。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文将 Gemini 4 Carbon 与 Fable 5.2 并列比较，涉及模型选型与策略取舍。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及不同 AI 模型生成游戏/互动体验的对比，贴合 Vibe Gaming 模型拐点讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文展示 AI 一次性生成小互动体验，与“随手 AI 小游戏一次成功”主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "涉及不同 AI 模型生成游戏/互动体验的对比，贴合 Vibe Gaming 模型拐点讨论。",
+    "topics/html-image-fun-knowledge-learning.md": "体验以 GitHub Pages 托管的 HTML 页面形式呈现，属于趣味网页产品。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文将 Gemini 4 Carbon 与 Fable 5.2 并列比较，涉及模型选型与策略取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/same-prompt-carbon-and-fable-each-create-a-oneshot-experience.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "帖文展示 AI 一次性生成小互动体验，与“随手 AI 小游戏一次成功”主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "涉及不同 AI 模型生成游戏/互动体验的对比，贴合 Vibe Gaming 模型拐点讨论。",
+      "topics/html-image-fun-knowledge-learning.md": "体验以 GitHub Pages 托管的 HTML 页面形式呈现，属于趣味网页产品。",
+      "topics/pro-vs-flash-model-strategy.md": "帖文将 Gemini 4 Carbon 与 Fable 5.2 并列比较，涉及模型选型与策略取舍。"
+    },
+    "notes": "原文中出现“Crabon”，结合标题提示视为“Carbon”的显示/OCR 差异，已按提示词中的 Carbon 处理。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/same-prompt-carbon-and-fable-each-create-a-oneshot-experience.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

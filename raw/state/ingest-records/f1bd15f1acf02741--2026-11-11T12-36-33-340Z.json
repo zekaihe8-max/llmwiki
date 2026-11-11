@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:36:33.340Z",
+  "url": "https://x.com/cgnot996/status/2120321769332785176",
+  "slug": "f1bd15f1acf02741",
+  "content_hash": "133cf2f654865714f341ba6019a2eb06ffbb772dde2c88d123b9d9952c23c5c1",
+  "source": {
+    "path": "sources/articles/claude-allegedly-hands-out-another-full-reset-card-user-says-pro.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Claude 订阅额度与重置卡，与该主题的订阅风控权重最为贴近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Pro 用户也能收到重置卡，涉及高端订阅价值"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "重置卡发放可能与用量上限的 A/B 测试或分群策略相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "帖文涉及 Claude 订阅额度与重置卡，与该主题的订阅风控权重最为贴近",
+    "topics/usage-limit-ab-tests.md": "重置卡发放可能与用量上限的 A/B 测试或分群策略相关",
+    "topics/premium-ai-subscription-value.md": "帖文明确提到 Pro 用户也能收到重置卡，涉及高端订阅价值"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-allegedly-hands-out-another-full-reset-card-user-says-pro.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "帖文涉及 Claude 订阅额度与重置卡，与该主题的订阅风控权重最为贴近",
+      "topics/usage-limit-ab-tests.md": "重置卡发放可能与用量上限的 A/B 测试或分群策略相关",
+      "topics/premium-ai-subscription-value.md": "帖文明确提到 Pro 用户也能收到重置卡，涉及高端订阅价值"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-allegedly-hands-out-another-full-reset-card-user-says-pro.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

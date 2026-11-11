@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "涉及 AI 生成视觉风格与质量边界，与 Opus 5.5 制作粘土画风相关。",
+    "topics/casual-ai-minigame-first-try.md": "属于随手 AI 创意创作，与用 AI 工具快速制作可爱动画贴近。",
+    "topics/ai-media-training-corpus-loop.md": "涉及 AI 媒体内容生成与回灌，与 AI 制作城市建设可视化内容相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 生成视觉风格与质量边界，与 Opus 5.5 制作粘土画风相关。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "属于随手 AI 创意创作，与用 AI 工具快速制作可爱动画贴近。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 媒体内容生成与回灌，与 AI 制作城市建设可视化内容相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅基于抓取的 X 帖文 markdown，未引入外部信息。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "涉及 HTML/SVG 类视觉内容与页面演示，最接近本文的动画演示性质。",
+    "topics/design-taste-led-linux-desktop-trial.md": "关注设计品味与视觉呈现，与 SVG 动画的审美表达相关。",
+    "topics/desktop-outfit-character-companions.md": "涉及角色形象与伴侣式展示，与鹈鹕主角的动画角色相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及 HTML/SVG 类视觉内容与页面演示，最接近本文的动画演示性质。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "关注设计品味与视觉呈现，与 SVG 动画的审美表达相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "涉及角色形象与伴侣式展示，与鹈鹕主角的动画角色相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "全部复用现有主题，未创建新主题。"
+}

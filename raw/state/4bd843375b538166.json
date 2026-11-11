@@ -1,0 +1,23 @@
+{
+  "slug": "4bd843375b538166",
+  "url": "https://github.com/dsh-market/dsh-market",
+  "title": "市场",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "4bd843375b538166baa2d8489a4542028d3cedb012d4801a248d5dd2aaffe854",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:45.021Z",
+  "content_hash": "fea52e0956f94fc428ddae4b41891c35659332d966779ead8f98a71e5fa02303",
+  "article_path": "articles/4bd843375b538166.md",
+  "fetched_url": "https://github.com/dsh-market/dsh-market",
+  "source_path": "sources/articles/x-source-tdshmarket.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T13:06:20.667Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

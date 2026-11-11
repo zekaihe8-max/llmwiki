@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章涉及AI芯片与数据中心算力出货，与智能体算力主题相近。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中提到大模型推理与芯片集群性能，与大厂推理成本效率相关。",
+    "topics/gpu-ai-compute-unlock.md": "文中涉及GPU/AI加速卡市场份额与算力，主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及AI芯片与数据中心算力出货，与智能体算力主题相近。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提到大模型推理与芯片集群性能，与大厂推理成本效率相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中涉及GPU/AI加速卡市场份额与算力，主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为X平台帖文，未核实主张已用「帖文称」标注。"
+}

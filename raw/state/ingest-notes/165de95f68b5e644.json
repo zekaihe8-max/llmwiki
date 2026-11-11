@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "页面讲 Token 计费套餐与编程工具接入，和该主题直接相关，但价格是页面当时标示，不必改写主题。",
+    "topics/coding-agent-ux-vs-quota.md": "页面列出不同套餐的 Agent 并发上限与用量倍数，属于体验与额度范畴，主题保持不变。",
+    "topics/harness-comparison-beyond-tokens.md": "页面提及 Harness 工具权益及赠送额度规则，与该主题相近，本条只是定价页转述。",
+    "topics/premium-ai-subscription-value.md": "页面聚焦个人版订阅定价与折扣，适合作为订阅价值主题的参考，不把促销价写成长期事实。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "页面讲 Token 计费套餐与编程工具接入，和该主题直接相关，但价格是页面当时标示，不必改写主题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "页面列出不同套餐的 Agent 并发上限与用量倍数，属于体验与额度范畴，主题保持不变。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "页面提及 Harness 工具权益及赠送额度规则，与该主题相近，本条只是定价页转述。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "页面聚焦个人版订阅定价与折扣，适合作为订阅价值主题的参考，不把促销价写成长期事实。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "价格与档位均按页面当时标示转述，并保留“以登录后实际结算为准”。Topic 保持不变。"
+}

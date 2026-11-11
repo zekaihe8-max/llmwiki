@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:52:17.051Z",
+  "url": "https://x.com/op7418/status/2120125019158417590",
+  "slug": "8de4b8a6284ae1e3",
+  "content_hash": "a62d9479d526aea3fa1ce26d4718ed83489ddb17cc48935e26211f3979869549",
+  "source": {
+    "path": "sources/articles/guizang-reposts-digital-life-khazix-hiring-on-x.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章主体为 AI 相关公司招聘，与 AI 原生公司主题相关"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "文中提到团队已有 30 多人并需扩编，与人数与编制主题相关"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "涉及公司招聘与人员补充，与可雇佣主题相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "公司作为软件/AI 产品团队招人，与软件工厂式组织主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章主体为 AI 相关公司招聘，与 AI 原生公司主题相关",
+    "topics/hireable-group-chat-digest-agent.md": "涉及公司招聘与人员补充，与可雇佣主题相关",
+    "topics/enterprise-ai-digital-employee-headcount.md": "文中提到团队已有 30 多人并需扩编，与人数与编制主题相关",
+    "topics/software-factory.md": "公司作为软件/AI 产品团队招人，与软件工厂式组织主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/guizang-reposts-digital-life-khazix-hiring-on-x.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/hireable-group-chat-digest-agent.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章主体为 AI 相关公司招聘，与 AI 原生公司主题相关",
+      "topics/hireable-group-chat-digest-agent.md": "涉及公司招聘与人员补充，与可雇佣主题相关",
+      "topics/enterprise-ai-digital-employee-headcount.md": "文中提到团队已有 30 多人并需扩编，与人数与编制主题相关",
+      "topics/software-factory.md": "公司作为软件/AI 产品团队招人，与软件工厂式组织主题相关"
+    },
+    "notes": "所有主张均基于帖文内容，未独立核实招聘细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/guizang-reposts-digital-life-khazix-hiring-on-x.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

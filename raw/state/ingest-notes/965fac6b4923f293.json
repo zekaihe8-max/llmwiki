@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/ontology-driven-observability.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 内置额度与查询，与本文主题最贴近。",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 的体验与额度，与 Grok Bot 用量可见性相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与消耗监控，与本文的额度查看功能相关。",
+    "topics/ontology-driven-observability.md": "涉及可观测性与资源消耗追踪，与 Bot 用量查询功能相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 内置额度与查询，与本文主题最贴近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 的体验与额度，与 Grok Bot 用量可见性相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与消耗监控，与本文的额度查看功能相关。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "涉及可观测性与资源消耗追踪，与 Bot 用量查询功能相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，action 均为 unchanged；内容仅基于提供的推文 markdown。"
+}

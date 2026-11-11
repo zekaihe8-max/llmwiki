@@ -1,0 +1,23 @@
+{
+  "slug": "83c8530c80bbb1e2",
+  "url": "https://x.com/0xlangeai/status/2120428679453167931",
+  "title": "FPS",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "83c8530c80bbb1e236627c357d3e893c1f460a3254424d0b659892e28566c297",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:47.594Z",
+  "content_hash": "c55bde5698cc99d598c9cfe366d655355665c5b86237691ac1a4cb006fdf60ba",
+  "article_path": "articles/83c8530c80bbb1e2.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2120428679453167931",
+  "source_path": "sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:45:29.355Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

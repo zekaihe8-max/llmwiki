@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "视频/动画生成与交互式世界模型相邻，但本文仅为单一模型演示帖文，故不改动。",
+    "topics/html-image-fun-knowledge-learning.md": "演示托管于 pages.dev 的 HTML 页面，属趣味 AI 生成内容，但主题不匹配，故不改动。",
+    "topics/casual-ai-minigame-first-try.md": "帖文属随手发布的 AI 演示尝试，但并非小游戏，故不改动。",
+    "topics/agentic-video-editing.md": "涉及视频生成，但非智能体视频编辑工作流，故不改动。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "视频/动画生成与交互式世界模型相邻，但本文仅为单一模型演示帖文，故不改动。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "演示托管于 pages.dev 的 HTML 页面，属趣味 AI 生成内容，但主题不匹配，故不改动。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文属随手发布的 AI 演示尝试，但并非小游戏，故不改动。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及视频生成，但非智能体视频编辑工作流，故不改动。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Qwen4-Max 相关主张均来源于帖文，未在文中独立核实。"
+}

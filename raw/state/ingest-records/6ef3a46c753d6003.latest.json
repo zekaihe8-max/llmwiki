@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:56:58.344Z",
+  "url": "https://x.com/0xLogicrw/status/2120426061393756504",
+  "slug": "6ef3a46c753d6003",
+  "content_hash": "046af3686c8b06f51ce0fd2c223a160196ecdba2195149d6682cc467019e171b",
+  "source": {
+    "path": "sources/articles/tencent-launches-independent-ai-search-site-yuanbao-search-to-ch.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/ai-native-companies.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 联网搜索产品与搜索入口重做，与该主题高度相关"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "腾讯以 AI 搜索重返搜索市场，体现大厂 AI 原生化转型"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "元宝搜索面向开发者开放 API、MCP 和 Skill，涉及云平台模型与服务编排"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "文章核心是 AI 联网搜索产品与搜索入口重做，与该主题高度相关",
+    "topics/ai-native-companies.md": "腾讯以 AI 搜索重返搜索市场，体现大厂 AI 原生化转型",
+    "topics/cloud-auto-model-routing.md": "元宝搜索面向开发者开放 API、MCP 和 Skill，涉及云平台模型与服务编排"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-launches-independent-ai-search-site-yuanbao-search-to-ch.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/ai-native-companies.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "文章核心是 AI 联网搜索产品与搜索入口重做，与该主题高度相关",
+      "topics/ai-native-companies.md": "腾讯以 AI 搜索重返搜索市场，体现大厂 AI 原生化转型",
+      "topics/cloud-auto-model-routing.md": "元宝搜索面向开发者开放 API、MCP 和 Skill，涉及云平台模型与服务编排"
+    },
+    "notes": "摘要中的历史与数据主张均基于帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-launches-independent-ai-search-site-yuanbao-search-to-ch.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

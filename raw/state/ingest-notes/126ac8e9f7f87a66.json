@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/china-special-edition-preinstalls.md",
+    "topics/llm-assisted-ereader-jailbreak.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "帖文涉及在 iOS 上“开启”原本受限功能，与 AI 协助的系统破解/移植风潮相近。",
+    "topics/china-special-edition-preinstalls.md": "讨论对象为国行手机，与中国特供版话题相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "涉及利用相关项目对设备功能进行越狱式解锁，属同类技术尝试。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "帖文涉及在 iOS 上“开启”原本受限功能，与 AI 协助的系统破解/移植风潮相近。"
+    },
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "讨论对象为国行手机，与中国特供版话题相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "涉及利用相关项目对设备功能进行越狱式解锁，属同类技术尝试。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "主张均来自社交媒体帖文，尚未独立核实，建议谨慎尝试。"
+}

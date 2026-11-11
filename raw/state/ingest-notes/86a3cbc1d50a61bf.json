@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "均涉及轻量网页小游戏体验，主题最贴近",
+    "topics/html-image-fun-knowledge-learning.md": "均为基于 HTML 的趣味网页产品形式",
+    "topics/vibe-gaming-model-inflection.md": "均属于游戏类互动体验，可作参考"
+  },
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "均涉及轻量网页小游戏体验，主题最贴近"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "均为基于 HTML 的趣味网页产品形式"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "均属于游戏类互动体验，可作参考"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://gordensun.github.io/music-ball"
+}

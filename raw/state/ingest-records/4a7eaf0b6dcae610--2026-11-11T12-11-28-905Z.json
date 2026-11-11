@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:11:28.905Z",
+  "url": "https://x.com/dotey/status/2120358581459468589",
+  "slug": "4a7eaf0b6dcae610",
+  "content_hash": "5b5b402b7d754a0510572845b4360edacb8e33cb519453f7c2a18e33d4331753",
+  "source": {
+    "path": "sources/articles/browser-based-3d-kart-racer-built-with-fable-5-2-and-claude-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文主题为 AI 制作的浏览器小游戏，与“随手 AI 小游戏一次成功”高度相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及用 AI 模型快速制作游戏的“Vibe Gaming”场景，与卡丁车游戏开发方式相符。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文主题为 AI 制作的浏览器小游戏，与“随手 AI 小游戏一次成功”高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "涉及用 AI 模型快速制作游戏的“Vibe Gaming”场景，与卡丁车游戏开发方式相符。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/browser-based-3d-kart-racer-built-with-fable-5-2-and-claude-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "帖文主题为 AI 制作的浏览器小游戏，与“随手 AI 小游戏一次成功”高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "涉及用 AI 模型快速制作游戏的“Vibe Gaming”场景，与卡丁车游戏开发方式相符。"
+    },
+    "notes": "引用内容基于 X 帖文，未独立验证游戏链接或功能。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/browser-based-3d-kart-racer-built-with-fable-5-2-and-claude-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

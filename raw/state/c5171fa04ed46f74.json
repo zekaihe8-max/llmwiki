@@ -1,0 +1,34 @@
+{
+  "slug": "c5171fa04ed46f74",
+  "url": "https://qwen.ai/qwencode",
+  "title": "Qwen Code",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "failed",
+  "hash": "c5171fa04ed46f7477109f45d2efca591d36cb75fa780a113ea1d150be5172cc",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-11T12:02:01.953Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    },
+    {
+      "at": "2026-11-11T13:04:52.720Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-11T13:04:52.720Z"
+}

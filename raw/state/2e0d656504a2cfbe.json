@@ -1,0 +1,23 @@
+{
+  "slug": "2e0d656504a2cfbe",
+  "url": "https://x.com/dotey/status/2120345202804101583",
+  "title": "验收",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "2e0d656504a2cfbe5b216f8f9b163a23aa259b5070c12a3eb2995351c34f1125",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:37.061Z",
+  "content_hash": "51218e85b9eeea9d0537cf4e889857dcb98e09c14d1d92d83a6d0e510f463d2e",
+  "article_path": "articles/2e0d656504a2cfbe.md",
+  "fetched_url": "https://x.com/dotey/status/2120345202804101583",
+  "source_path": "sources/articles/acceptance-centric-design-shifting-focus-of-agent-software-to-hu.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:10:06.508Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

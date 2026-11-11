@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:20:09.112Z",
+  "url": "https://x.com/Gorden_Sun/status/2120433717797949886",
+  "slug": "f854aa6bcfcf0114",
+  "content_hash": "8bc5103e74e4bb265c1353fb3cce8fc420abdf7c3ddae579eab8fa7c71f81bb3",
+  "source": {
+    "path": "sources/articles/adobe-comprehensively-upgrades-ai-tools-at-max-conference.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Adobe 推出覆盖全家桶的 Creative Agent 创意智能体，涉及智能体基础能力，主题相关且保持不变。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提到视频轨道统一调色、画面杂物擦除与音频人声分离等智能体剪辑能力，与该主题相关，但无需修改。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "Firefly 接入 OpenAI、Google、字节跳动等外部模型，属于应用内模型合作，主题相关且保持不变。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "Adobe 作为创意工具产品整合外部模型并开放 MCP 接口，与工具产品模型话语权相关，主题相关且保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文提到视频轨道统一调色、画面杂物擦除与音频人声分离等智能体剪辑能力，与该主题相关，但无需修改。",
+    "topics/in-app-model-partnerships.md": "Firefly 接入 OpenAI、Google、字节跳动等外部模型，属于应用内模型合作，主题相关且保持不变。",
+    "topics/agentic-ai-foundation.md": "Adobe 推出覆盖全家桶的 Creative Agent 创意智能体，涉及智能体基础能力，主题相关且保持不变。",
+    "topics/tools-building-own-models.md": "Adobe 作为创意工具产品整合外部模型并开放 MCP 接口，与工具产品模型话语权相关，主题相关且保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/adobe-comprehensively-upgrades-ai-tools-at-max-conference.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/in-app-model-partnerships.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文提到视频轨道统一调色、画面杂物擦除与音频人声分离等智能体剪辑能力，与该主题相关，但无需修改。",
+      "topics/in-app-model-partnerships.md": "Firefly 接入 OpenAI、Google、字节跳动等外部模型，属于应用内模型合作，主题相关且保持不变。",
+      "topics/agentic-ai-foundation.md": "Adobe 推出覆盖全家桶的 Creative Agent 创意智能体，涉及智能体基础能力，主题相关且保持不变。",
+      "topics/tools-building-own-models.md": "Adobe 作为创意工具产品整合外部模型并开放 MCP 接口，与工具产品模型话语权相关，主题相关且保持不变。"
+    },
+    "notes": "所有主张均来源于单一 X 帖文，未独立核实；官方链接在帖文中以缩写形式出现。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/adobe-comprehensively-upgrades-ai-tools-at-max-conference.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

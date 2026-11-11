@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:07:48.838Z",
+  "url": "https://x.com/Khazix0918/status/2120366797459476668",
+  "slug": "07a45762bbcb84f6",
+  "content_hash": "f918bd682e3fd56225675b8c45ccd3f52b83f29b0e27cf82a642f6925d32f813",
+  "source": {
+    "path": "sources/articles/claude-fable-5-2-proves-ai-can-swallow-everything-through-code.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/design-taste-led-linux-desktop-trial.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章核心论点是代码优于规格与Benchmark，可作为通用语言表达图像、视频与音乐。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "文章反复讨论设计审美与品味，与设计品味驱动主题相近。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "文章强调审美无法被Benchmark评估，挑战人类中心主义的智能衡量方式。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中提到8小时手搓游戏，体现模型在游戏创作上的拐点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/code-over-spec.md": "文章核心论点是代码优于规格与Benchmark，可作为通用语言表达图像、视频与音乐。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "文章强调审美无法被Benchmark评估，挑战人类中心主义的智能衡量方式。",
+    "topics/vibe-gaming-model-inflection.md": "文中提到8小时手搓游戏，体现模型在游戏创作上的拐点。",
+    "topics/design-taste-led-linux-desktop-trial.md": "文章反复讨论设计审美与品味，与设计品味驱动主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-fable-5-2-proves-ai-can-swallow-everything-through-code.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/code-over-spec.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/design-taste-led-linux-desktop-trial.md"
+    ],
+    "selection_reasons": {
+      "topics/code-over-spec.md": "文章核心论点是代码优于规格与Benchmark，可作为通用语言表达图像、视频与音乐。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "文章强调审美无法被Benchmark评估，挑战人类中心主义的智能衡量方式。",
+      "topics/vibe-gaming-model-inflection.md": "文中提到8小时手搓游戏，体现模型在游戏创作上的拐点。",
+      "topics/design-taste-led-linux-desktop-trial.md": "文章反复讨论设计审美与品味，与设计品味驱动主题相近。"
+    },
+    "notes": "文章涉及未来日期与未经独立核实的模型能力主张，已在摘要中使用「帖文称」限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-fable-5-2-proves-ai-can-swallow-everything-through-code.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

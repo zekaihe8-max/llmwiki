@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/casual-ai-minigame-first-try.md"
+  ],
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "该主题涉及 HTML 类趣味互动产品，与本文的网页 3D 音乐装置形态最为接近。",
+    "topics/casual-ai-minigame-first-try.md": "该主题关注轻量小游戏尝试，与本文可点击弹奏、猜歌的休闲互动性质相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "该主题涉及 HTML 类趣味互动产品，与本文的网页 3D 音乐装置形态最为接近。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "该主题关注轻量小游戏尝试，与本文可点击弹奏、猜歌的休闲互动性质相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单篇网页文章，未独立核实外部事实，未编造 URL。"
+}

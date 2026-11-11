@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/company-agent-harness.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 插件推荐，与该主题的 Agent Harness 插件讨论最为贴近。",
+    "topics/harness-plugin-style-fragmentation.md": "文章涉及多个 Harness 插件，与插件样式与界面碎片化主题相关。",
+    "topics/company-agent-harness.md": "文章介绍 Agent Harness 生态插件，与公司级 Agent Harness 主题相关。",
+    "topics/context-engineering-for-agents.md": "文中推荐的 dsh-context 涉及上下文构成与 token 压缩，与 Agent 上下文工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 插件推荐，与该主题的 Agent Harness 插件讨论最为贴近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "文章涉及多个 Harness 插件，与插件样式与界面碎片化主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章介绍 Agent Harness 生态插件，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中推荐的 dsh-context 涉及上下文构成与 token 压缩，与 Agent 上下文工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容引用自 X 帖文，星标数与仓库名称均来自原文，未独立核实。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:13:43.656Z",
+  "url": "https://x.com/Gorden_Sun/status/2120359586318492036",
+  "slug": "94173b0fb5577de8",
+  "content_hash": "c20d8a8e0aa25ea89bdc7dc9a2885a58c115b5359156a3a2ba184e2f6d23a479",
+  "source": {
+    "path": "sources/articles/gemini-4-carbon-medium-can-replace-opus-5-5-but-slower-and-overt.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "面向 Agent 的模型渠道取舍，与模型性能、速度与成本权衡相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台跨模型编排，与在工作流中选择模型档位相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "讨论 Pro 与 Flash 等模型档位取舍，与 Medium 替代 Opus 的层级比较最贴近。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调工作流优先于智能体，与“大肥鱼工作流”语境相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "讨论 Pro 与 Flash 等模型档位取舍，与 Medium 替代 Opus 的层级比较最贴近。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台跨模型编排，与在工作流中选择模型档位相关。",
+    "topics/agent-model-channel-tradeoffs.md": "面向 Agent 的模型渠道取舍，与模型性能、速度与成本权衡相关。",
+    "topics/workflows-before-agents.md": "强调工作流优先于智能体，与“大肥鱼工作流”语境相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-4-carbon-medium-can-replace-opus-5-5-but-slower-and-overt.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "讨论 Pro 与 Flash 等模型档位取舍，与 Medium 替代 Opus 的层级比较最贴近。",
+      "topics/cloud-auto-model-routing.md": "涉及云平台跨模型编排，与在工作流中选择模型档位相关。",
+      "topics/agent-model-channel-tradeoffs.md": "面向 Agent 的模型渠道取舍，与模型性能、速度与成本权衡相关。",
+      "topics/workflows-before-agents.md": "强调工作流优先于智能体，与“大肥鱼工作流”语境相关。"
+    },
+    "notes": "所有主张均基于单条 X 帖文，未独立核实模型性能。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-4-carbon-medium-can-replace-opus-5-5-but-slower-and-overt.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "当日精选把该链接标为斯坦福 CS329Z 讲座入口，与智能体工程主题相近，但抓取页没有视频正文，不能据此改写主题。",
+    "topics/agentic-ai-foundation.md": "课程名称与智能体基础有关，抓取页没有实际讲义，主题保持不变。",
+    "topics/ai-native-companies.md": "本条只是一条课程视频链接，没有公司实践新证据，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "当日精选把该链接标为斯坦福 CS329Z 讲座入口，与智能体工程主题相近，但抓取页没有视频正文，不能据此改写主题。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "课程名称与智能体基础有关，抓取页没有实际讲义，主题保持不变。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "本条只是一条课程视频链接，没有公司实践新证据，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "抓取页无视频元数据或转录，不编造讲座正文。Topic 保持不变。"
+}

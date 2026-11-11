@@ -1,0 +1,23 @@
+{
+  "slug": "c86ef0f9424ee52d",
+  "url": "https://so.qq.com/",
+  "title": "so.qq.com",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "c86ef0f9424ee52da3dc1a8f4914f8295bd54dbeabef2c99f00fa646e11c7cc9",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:56.071Z",
+  "content_hash": "4a4a6a4405e8820a96f5bb3a831c41613f3dfd42d1bb4b29f359e67044939682",
+  "article_path": "articles/c86ef0f9424ee52d.md",
+  "fetched_url": "https://so.qq.com/",
+  "source_path": "sources/articles/tencent-yuanbao-search-so-qq-com-next-generation-ai-search-page.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:56:16.695Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

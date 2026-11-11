@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:27:56.205Z",
+  "url": "https://x.com/cgnot996/status/2120342757613134089",
+  "slug": "4cffcd09052b2ce8",
+  "content_hash": "ff6d070069a187fcb095401ad6aecb67a7065db5079217285eeea03c7fa443f5",
+  "source": {
+    "path": "sources/articles/first-release-qwen4-max-preview-pelican-test.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及视频生成，但非智能体视频编辑工作流，故不改动。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文属随手发布的 AI 演示尝试，但并非小游戏，故不改动。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "演示托管于 pages.dev 的 HTML 页面，属趣味 AI 生成内容，但主题不匹配，故不改动。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "视频/动画生成与交互式世界模型相邻，但本文仅为单一模型演示帖文，故不改动。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "视频/动画生成与交互式世界模型相邻，但本文仅为单一模型演示帖文，故不改动。",
+    "topics/html-image-fun-knowledge-learning.md": "演示托管于 pages.dev 的 HTML 页面，属趣味 AI 生成内容，但主题不匹配，故不改动。",
+    "topics/casual-ai-minigame-first-try.md": "帖文属随手发布的 AI 演示尝试，但并非小游戏，故不改动。",
+    "topics/agentic-video-editing.md": "涉及视频生成，但非智能体视频编辑工作流，故不改动。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/first-release-qwen4-max-preview-pelican-test.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "视频/动画生成与交互式世界模型相邻，但本文仅为单一模型演示帖文，故不改动。",
+      "topics/html-image-fun-knowledge-learning.md": "演示托管于 pages.dev 的 HTML 页面，属趣味 AI 生成内容，但主题不匹配，故不改动。",
+      "topics/casual-ai-minigame-first-try.md": "帖文属随手发布的 AI 演示尝试，但并非小游戏，故不改动。",
+      "topics/agentic-video-editing.md": "涉及视频生成，但非智能体视频编辑工作流，故不改动。"
+    },
+    "notes": "Qwen4-Max 相关主张均来源于帖文，未在文中独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/first-release-qwen4-max-preview-pelican-test.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

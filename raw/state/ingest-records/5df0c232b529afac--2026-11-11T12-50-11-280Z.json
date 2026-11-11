@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:50:11.280Z",
+  "url": "https://x.com/oran_ge/status/2120152466121724026",
+  "slug": "5df0c232b529afac",
+  "content_hash": "f77f00c8390109c96ed35ae834c0db3e3b8ac65727a1e87e01651524a88f3f76",
+  "source": {
+    "path": "sources/articles/domestic-personal-ai-chases-proactivity-for-its-own-sake-mistaki.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体“主动性”与自动模式，与该主题的 Agent 自动行为相关。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "帖文针对国内 Personal AI 产品热潮，与个人 Agent 热潮主题相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 产品的用户体验与 PTSD 负面反馈，属于 UX/AX 范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调主动性是手段而非目的，与“工作流优先于智能体”的工具理性观点相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文讨论智能体“主动性”与自动模式，与该主题的 Agent 自动行为相关。",
+    "topics/personal-agent-hype-familiarity-gap.md": "帖文针对国内 Personal AI 产品热潮，与个人 Agent 热潮主题相关。",
+    "topics/ux-dx-and-ax.md": "帖文涉及 AI 产品的用户体验与 PTSD 负面反馈，属于 UX/AX 范畴。",
+    "topics/workflows-before-agents.md": "帖文强调主动性是手段而非目的，与“工作流优先于智能体”的工具理性观点相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/domestic-personal-ai-chases-proactivity-for-its-own-sake-mistaki.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文讨论智能体“主动性”与自动模式，与该主题的 Agent 自动行为相关。",
+      "topics/personal-agent-hype-familiarity-gap.md": "帖文针对国内 Personal AI 产品热潮，与个人 Agent 热潮主题相关。",
+      "topics/ux-dx-and-ax.md": "帖文涉及 AI 产品的用户体验与 PTSD 负面反馈，属于 UX/AX 范畴。",
+      "topics/workflows-before-agents.md": "帖文强调主动性是手段而非目的，与“工作流优先于智能体”的工具理性观点相近。"
+    },
+    "notes": "所有主张均源自单条 X 帖文，未独立核实具体产品名称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/domestic-personal-ai-chases-proactivity-for-its-own-sake-mistaki.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "97755c165d2c2833",
+  "url": "https://x.com/guanlan/status/2120192585235046712",
+  "title": "FrontierHarness",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "97755c165d2c28338675f5d85febfe87896e93d3a7b2f83be1aaa76837748a75",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:58.522Z",
+  "content_hash": "f878498caedbf37902abc4a4a0945dfe52d0f8077707d1e33fdf3502c311d1a7",
+  "article_path": "articles/97755c165d2c2833.md",
+  "fetched_url": "https://x.com/guanlan/status/2120192585235046712",
+  "source_path": "sources/articles/frontierharness-v1-1-21-harnesses-5-models-62-tasks-72-scale-up.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:59:05.623Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

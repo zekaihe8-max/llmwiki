@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:58:13.119Z",
+  "url": "https://x.com/enconvo_ai",
+  "slug": "963021dc9f83eb14",
+  "content_hash": "7cbf463d0af837040c3c34c74101ab10458bfebc731c6b51788ae698a32044e1",
+  "source": {
+    "path": "sources/articles/enconvo-2-5-13-released-biggest-update-for-mac-ai-agent.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-identity-platform-keys.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/computer-use.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "帖文提到智能体拨打电话，与智能体直接控制设备或平台相关。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "帖文提到 API 密钥不接触对话，与该主题的密钥与身份管理相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文面向 Mac 上的 AI 智能体，与计算机使用类智能体主题相近。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文提到可引导的子智能体，与子智能体折入主循环相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-identity-platform-keys.md": "帖文提到 API 密钥不接触对话，与该主题的密钥与身份管理相关。",
+    "topics/fold-subagents-into-main-loop.md": "帖文提到可引导的子智能体，与子智能体折入主循环相关。",
+    "topics/computer-use.md": "帖文面向 Mac 上的 AI 智能体，与计算机使用类智能体主题相近。",
+    "topics/agent-home-platform-control.md": "帖文提到智能体拨打电话，与智能体直接控制设备或平台相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/enconvo-2-5-13-released-biggest-update-for-mac-ai-agent.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-identity-platform-keys.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/computer-use.md",
+      "topics/agent-home-platform-control.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-identity-platform-keys.md": "帖文提到 API 密钥不接触对话，与该主题的密钥与身份管理相关。",
+      "topics/fold-subagents-into-main-loop.md": "帖文提到可引导的子智能体，与子智能体折入主循环相关。",
+      "topics/computer-use.md": "帖文面向 Mac 上的 AI 智能体，与计算机使用类智能体主题相近。",
+      "topics/agent-home-platform-control.md": "帖文提到智能体拨打电话，与智能体直接控制设备或平台相关。"
+    },
+    "notes": "来源为 X 上 @enconvo_ai 的置顶帖文，未独立核实功能细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/enconvo-2-5-13-released-biggest-update-for-mac-ai-agent.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

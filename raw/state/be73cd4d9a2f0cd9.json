@@ -1,0 +1,23 @@
+{
+  "slug": "be73cd4d9a2f0cd9",
+  "url": "https://x.com/turingou/status/2120374666795892741",
+  "title": "Grok Bot 接上了官方 Tailscale 连接器",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "be73cd4d9a2f0cd92fe8d9866048ab79f6545a2f755355d18787a701108757f3",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:48.138Z",
+  "content_hash": "cc6f8b05ca6a21289f69e0878e3fb3ed7d2999d7796f8f1b56d8921155ab9ac6",
+  "article_path": "articles/be73cd4d9a2f0cd9.md",
+  "fetched_url": "https://x.com/turingou/status/2120374666795892741",
+  "source_path": "sources/articles/grok-bot-connects-to-official-tailscale-connector.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:46:39.797Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

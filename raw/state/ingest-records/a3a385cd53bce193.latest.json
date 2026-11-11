@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:53:14.791Z",
+  "url": "https://x.com/Khazix0918/status/2120115253304586652",
+  "slug": "a3a385cd53bce193",
+  "content_hash": "c21197f4d5c921ad7a318b02dd938b8b6706cb020f0f39eb5525620be05ce3e0",
+  "source": {
+    "path": "sources/articles/virtual-real-media-publishes-recruitment-post-for-six-ai-positio.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "虚实传媒作为AI领域MCN公司，签约300+独家博主并产出AI深度内容，与AI媒体内容回灌与语料主题相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到公司内部比较AI Native，全员使用Claude或Codex Coding，与AI原生公司主题高度相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "招聘帖涉及AI公司扩编与六个具体岗位的人员配置，与企业AI数字员工职级与编制主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文明确提到公司内部比较AI Native，全员使用Claude或Codex Coding，与AI原生公司主题高度相关。",
+    "topics/ai-media-training-corpus-loop.md": "虚实传媒作为AI领域MCN公司，签约300+独家博主并产出AI深度内容，与AI媒体内容回灌与语料主题相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "招聘帖涉及AI公司扩编与六个具体岗位的人员配置，与企业AI数字员工职级与编制主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/virtual-real-media-publishes-recruitment-post-for-six-ai-positio.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "帖文明确提到公司内部比较AI Native，全员使用Claude或Codex Coding，与AI原生公司主题高度相关。",
+      "topics/ai-media-training-corpus-loop.md": "虚实传媒作为AI领域MCN公司，签约300+独家博主并产出AI深度内容，与AI媒体内容回灌与语料主题相关。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "招聘帖涉及AI公司扩编与六个具体岗位的人员配置，与企业AI数字员工职级与编制主题相关。"
+    },
+    "notes": "文章发布时间显示为2026年11月10日，邮箱地址因Cloudflare保护未明文显示。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/virtual-real-media-publishes-recruitment-post-for-six-ai-positio.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

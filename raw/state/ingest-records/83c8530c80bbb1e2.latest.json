@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:45:29.355Z",
+  "url": "https://x.com/0xlangeai/status/2120428679453167931",
+  "slug": "83c8530c80bbb1e2",
+  "content_hash": "c55bde5698cc99d598c9cfe366d655355665c5b86237691ac1a4cb006fdf60ba",
+  "source": {
+    "path": "sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章讲述用 AI 快速做出小游戏，与随手 AI 小游戏一次成功相近"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "浏览器 FPS 属于实时交互世界/游戏模型范畴"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 模型驱动的游戏制作，与 Vibe Gaming 模型拐点主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "文章涉及 AI 模型驱动的游戏制作，与 Vibe Gaming 模型拐点主题相近",
+    "topics/casual-ai-minigame-first-try.md": "文章讲述用 AI 快速做出小游戏，与随手 AI 小游戏一次成功相近",
+    "topics/interactive-world-models.md": "浏览器 FPS 属于实时交互世界/游戏模型范畴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "文章涉及 AI 模型驱动的游戏制作，与 Vibe Gaming 模型拐点主题相近",
+      "topics/casual-ai-minigame-first-try.md": "文章讲述用 AI 快速做出小游戏，与随手 AI 小游戏一次成功相近",
+      "topics/interactive-world-models.md": "浏览器 FPS 属于实时交互世界/游戏模型范畴"
+    },
+    "notes": "所有主张均基于推文与引用教程摘录，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-generates-browser-fps-game-in-41-minutes-via-code.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

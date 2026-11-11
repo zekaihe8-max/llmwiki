@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "AX（智能体体验）直接对应软件从面向人类转向面向 Agent 的形态变化讨论",
+    "topics/agentic-ai-foundation.md": "Agentic AI 基础主题与帖文中软件使用主体变为 Agent 的核心论点相关",
+    "topics/software-factory.md": "软件工厂主题涉及软件形态与生产范式的变迁，与帖文所述形态变化相近"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "AX（智能体体验）直接对应软件从面向人类转向面向 Agent 的形态变化讨论"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Agentic AI 基础主题与帖文中软件使用主体变为 Agent 的核心论点相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "软件工厂主题涉及软件形态与生产范式的变迁，与帖文所述形态变化相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容均基于提供的 X 帖文 markdown，未引用文中未出现的外部链接或事实。"
+}

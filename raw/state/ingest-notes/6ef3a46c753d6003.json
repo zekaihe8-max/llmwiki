@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/ai-native-companies.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "文章核心是 AI 联网搜索产品与搜索入口重做，与该主题高度相关",
+    "topics/ai-native-companies.md": "腾讯以 AI 搜索重返搜索市场，体现大厂 AI 原生化转型",
+    "topics/cloud-auto-model-routing.md": "元宝搜索面向开发者开放 API、MCP 和 Skill，涉及云平台模型与服务编排"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 联网搜索产品与搜索入口重做，与该主题高度相关"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "腾讯以 AI 搜索重返搜索市场，体现大厂 AI 原生化转型"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "元宝搜索面向开发者开放 API、MCP 和 Skill，涉及云平台模型与服务编排"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "摘要中的历史与数据主张均基于帖文，未独立核实。"
+}

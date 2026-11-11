@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:49:29.348Z",
+  "url": "https://x.com/oran_ge/status/2120168398135152970",
+  "slug": "003c75d6a30700b8",
+  "content_hash": "8cb941e48468e6cde07ee48abaab74682a0067764b368c2123858a17d716ab73",
+  "source": {
+    "path": "sources/articles/late-night-post-fable-5-2-elegantly-killed-the-competition.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "发布者为 AI 账号，涉及 AI 原生公司动态，故参考该条目。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Fable 5.2 表述涉及模型发布与前沿模型话题，故参考该条目。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "版本号 5.2 暗示模型迭代策略，与 Pro/Flash 等模型策略条目相近。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "Fable 可能关联游戏模型拐点，故参考该条目。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "Fable 5.2 表述涉及模型发布与前沿模型话题，故参考该条目。",
+    "topics/pro-vs-flash-model-strategy.md": "版本号 5.2 暗示模型迭代策略，与 Pro/Flash 等模型策略条目相近。",
+    "topics/vibe-gaming-model-inflection.md": "Fable 可能关联游戏模型拐点，故参考该条目。",
+    "topics/ai-native-companies.md": "发布者为 AI 账号，涉及 AI 原生公司动态，故参考该条目。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/late-night-post-fable-5-2-elegantly-killed-the-competition.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "Fable 5.2 表述涉及模型发布与前沿模型话题，故参考该条目。",
+      "topics/pro-vs-flash-model-strategy.md": "版本号 5.2 暗示模型迭代策略，与 Pro/Flash 等模型策略条目相近。",
+      "topics/vibe-gaming-model-inflection.md": "Fable 可能关联游戏模型拐点，故参考该条目。",
+      "topics/ai-native-companies.md": "发布者为 AI 账号，涉及 AI 原生公司动态，故参考该条目。"
+    },
+    "notes": "未创建新话题，全部现有条目动作均为 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/late-night-post-fable-5-2-elegantly-killed-the-competition.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

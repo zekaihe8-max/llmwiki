@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/raise-ambition-until-ai-frontier.md": "帖文主张直接给 AI 更高目标，与该主题“把目标抬到更野心直到摸清 AI 前沿”高度相关。",
+    "topics/calibrating-ai-guidance.md": "帖文反对询问 AI 能力、主张直接给方向与上下文，属于对 AI 引导的校准。",
+    "topics/agent-skill-authoring.md": "帖文提到 AI 可能不知道可用工具和 Skill，与 Skill 编写与可用性相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文主张直接给 AI 更高目标，与该主题“把目标抬到更野心直到摸清 AI 前沿”高度相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文反对询问 AI 能力、主张直接给方向与上下文，属于对 AI 引导的校准。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文提到 AI 可能不知道可用工具和 Skill，与 Skill 编写与可用性相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @dotey 的单条帖文，未核实主张已用「帖文称」标注。"
+}

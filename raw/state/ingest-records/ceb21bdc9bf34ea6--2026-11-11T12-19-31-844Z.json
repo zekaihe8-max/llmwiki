@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-11T12:19:31.844Z",
+  "url": "https://x.com/vista8/status/2120470825975595414",
+  "slug": "ceb21bdc9bf34ea6",
+  "content_hash": "937fc6b18a98a02394125fefef496255274f26f8e35b71f5db8f93e539fd6d3a",
+  "source": {
+    "path": "sources/articles/qiaomu-recommends-enconvo-agent-tool.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "Enconvo 演示了基于天气查询生成钓鱼建议日历，涉及面向 Agent 的联网搜索与信息整合。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中称其功能全面、交互出色，暗示具备可编排的 Agent 技能或能力模块。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Enconvo 被定位为强大的 Agent 产品，与智能体基础能力相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文强调小团队开发出超预期的 Agent 产品，符合 AI 原生公司或小团队产品的语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "Enconvo 演示了基于天气查询生成钓鱼建议日历，涉及面向 Agent 的联网搜索与信息整合。",
+    "topics/agent-skill-authoring.md": "文中称其功能全面、交互出色，暗示具备可编排的 Agent 技能或能力模块。",
+    "topics/agentic-ai-foundation.md": "Enconvo 被定位为强大的 Agent 产品，与智能体基础能力相关。",
+    "topics/ai-native-companies.md": "帖文强调小团队开发出超预期的 Agent 产品，符合 AI 原生公司或小团队产品的语境。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qiaomu-recommends-enconvo-agent-tool.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "Enconvo 演示了基于天气查询生成钓鱼建议日历，涉及面向 Agent 的联网搜索与信息整合。",
+      "topics/agent-skill-authoring.md": "文中称其功能全面、交互出色，暗示具备可编排的 Agent 技能或能力模块。",
+      "topics/agentic-ai-foundation.md": "Enconvo 被定位为强大的 Agent 产品，与智能体基础能力相关。",
+      "topics/ai-native-companies.md": "帖文强调小团队开发出超预期的 Agent 产品，符合 AI 原生公司或小团队产品的语境。"
+    },
+    "notes": "来源仅为 X 帖文及其关联帖文，未独立核实 Enconvo 产品细节；未创建新话题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qiaomu-recommends-enconvo-agent-tool.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

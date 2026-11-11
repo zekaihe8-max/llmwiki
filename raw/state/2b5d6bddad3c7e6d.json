@@ -1,0 +1,23 @@
+{
+  "slug": "2b5d6bddad3c7e6d",
+  "url": "https://x.com/xiaomovps/status/2120308361396949251",
+  "title": "Pi 1.5.2 修好了目录消失后的会话",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "2b5d6bddad3c7e6d464eefa4ad005505b87a02833e4a1301eaf3caabd1be1890",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:35.030Z",
+  "content_hash": "0fa287f8b3dccc49199a951fc80c09f6c9ea91d655b740885a10aa22c2d5abc0",
+  "article_path": "articles/2b5d6bddad3c7e6d.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2120308361396949251",
+  "source_path": "sources/articles/pi-1-5-2-fixes-session-recovery-after-project-directory-is-missi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:06:46.951Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

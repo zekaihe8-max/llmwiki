@@ -1,0 +1,23 @@
+{
+  "slug": "c43f4d0fa5e138d1",
+  "url": "https://x.com/bot/status/2120279511707386263",
+  "title": "官方",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "c43f4d0fa5e138d1db42c4c695ad51883763e82cb0cbc66b900f44ecfe4720e1",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:48.371Z",
+  "content_hash": "2e9bc898ef6ffed18f18570f49949f957fd0803d32a2c83fbd07dd93eb1e425c",
+  "article_path": "articles/c43f4d0fa5e138d1.md",
+  "fetched_url": "https://x.com/bot/status/2120279511707386263",
+  "source_path": "sources/articles/grok-bot-can-now-join-tailscale-tailnets.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T12:47:23.292Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

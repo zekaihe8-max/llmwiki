@@ -1,0 +1,23 @@
+{
+  "slug": "e80c623c7519ffa3",
+  "url": "https://www.youtube.com/watch?v=DGI4vucR71w",
+  "title": "斯坦福 CS329Z",
+  "digest": "2026-11-11-cn-x.md",
+  "status": "filed",
+  "hash": "e80c623c7519ffa383a12085ae60d344cb2a75d7f16b5ecf7f64fe98db9aed12",
+  "first_seen": "2026-11-11T12:01:33.105Z",
+  "last_seen": "2026-11-11T12:01:33.105Z",
+  "fetched_at": "2026-11-11T12:01:59.007Z",
+  "content_hash": "21155f09caf56e041719fa257695379ed2c3289dce7228f4d9bd3ca01bc685fa",
+  "article_path": "articles/e80c623c7519ffa3.md",
+  "fetched_url": "https://www.youtube.com/watch?v=DGI4vucR71w",
+  "source_path": "sources/articles/stanford-cs329z.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-11T13:06:20.876Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
