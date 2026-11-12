@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:13:11.078Z",
+  "url": "https://x.com/xiaomovps/status/2120838013366517974",
+  "slug": "9ce4db3b0ef676da",
+  "content_hash": "8b53c8c539022977e111539a032266c15bb558ae3343588792f4244a07b58590",
+  "source": {
+    "path": "sources/articles/ai-coding-plans-drop-to-39-yuan-month-six-low-cost-subscriptions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文对比多家模型渠道与套餐，属于面向 Agent 的模型渠道取舍范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中重点涉及 Credits、AFP、Token 额度及每周/5 小时限制，与编程 Agent 体验与额度相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "作者强调不仅看 Token 多少，还要看任务完成速度与稳定性，符合超越 token 数的对比视角。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论 39 元至 20 美元的 AI 订阅性价比，属于高端 AI 订阅价值议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文对比多家模型渠道与套餐，属于面向 Agent 的模型渠道取舍范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "文中重点涉及 Credits、AFP、Token 额度及每周/5 小时限制，与编程 Agent 体验与额度相关。",
+    "topics/premium-ai-subscription-value.md": "讨论 39 元至 20 美元的 AI 订阅性价比，属于高端 AI 订阅价值议题。",
+    "topics/harness-comparison-beyond-tokens.md": "作者强调不仅看 Token 多少，还要看任务完成速度与稳定性，符合超越 token 数的对比视角。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-coding-plans-drop-to-39-yuan-month-six-low-cost-subscriptions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "帖文对比多家模型渠道与套餐，属于面向 Agent 的模型渠道取舍范畴。",
+      "topics/coding-agent-ux-vs-quota.md": "文中重点涉及 Credits、AFP、Token 额度及每周/5 小时限制，与编程 Agent 体验与额度相关。",
+      "topics/premium-ai-subscription-value.md": "讨论 39 元至 20 美元的 AI 订阅性价比，属于高端 AI 订阅价值议题。",
+      "topics/harness-comparison-beyond-tokens.md": "作者强调不仅看 Token 多少，还要看任务完成速度与稳定性，符合超越 token 数的对比视角。"
+    },
+    "notes": "Source is an X post by @xiaomovps; all claims are attributed to the post using「帖文称」where unverified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-coding-plans-drop-to-39-yuan-month-six-low-cost-subscriptions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

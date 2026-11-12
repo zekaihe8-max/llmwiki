@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是分享与使用开源设计 Skill，与技能编写主题直接相关。",
+    "topics/agent-skills-open-standard.md": "文中提到 Skill 已开源并公开分享，涉及技能的开放共享与标准化语境。",
+    "topics/skills-stack-native-app-recreation.md": "使用 Skill 生成小红书封面，体现以技能组合构建垂直应用体验，主题相近。",
+    "topics/image-generation-pose-reference-libraries.md": "帖文涉及基于 GPT Image 进行图像生成，与生图相关主题相近，但不涉及姿势参考库细节。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是分享与使用开源设计 Skill，与技能编写主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提到 Skill 已开源并公开分享，涉及技能的开放共享与标准化语境。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "使用 Skill 生成小红书封面，体现以技能组合构建垂直应用体验，主题相近。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "帖文涉及基于 GPT Image 进行图像生成，与生图相关主题相近，但不涉及姿势参考库细节。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未独立核实小红书推流机制细节。"
+}

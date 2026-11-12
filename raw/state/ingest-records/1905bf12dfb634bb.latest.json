@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:26:31.290Z",
+  "url": "https://x.com/FinanceYF5/status/2120766802955538755",
+  "slug": "1905bf12dfb634bb",
+  "content_hash": "144976c61287072aeee4784a5a1d957753569b91cd3443af6a0714e2a974bd4b",
+  "source": {
+    "path": "sources/articles/cycling-through-van-gogh-s-the-starry-night-a-browser-oil-painti.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/interactive-world-models.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文描述用 AI 工具快速制作可玩小游戏，与随手 AI 小游戏主题高度相关。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "浏览器打开即玩的图像式互动产品，与 HTML 与生图的趣味知识学习产品相近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "骑行穿越油画场景可视为轻量级实时交互世界，与实时交互世界模型主题相邻。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及以 AI 生成内容为核心的游戏体验，与 Vibe Gaming 模型拐点相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文描述用 AI 工具快速制作可玩小游戏，与随手 AI 小游戏主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "涉及以 AI 生成内容为核心的游戏体验，与 Vibe Gaming 模型拐点相关。",
+    "topics/interactive-world-models.md": "骑行穿越油画场景可视为轻量级实时交互世界，与实时交互世界模型主题相邻。",
+    "topics/html-image-fun-knowledge-learning.md": "浏览器打开即玩的图像式互动产品，与 HTML 与生图的趣味知识学习产品相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cycling-through-van-gogh-s-the-starry-night-a-browser-oil-painti.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/interactive-world-models.md",
+      "topics/html-image-fun-knowledge-learning.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "帖文描述用 AI 工具快速制作可玩小游戏，与随手 AI 小游戏主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "涉及以 AI 生成内容为核心的游戏体验，与 Vibe Gaming 模型拐点相关。",
+      "topics/interactive-world-models.md": "骑行穿越油画场景可视为轻量级实时交互世界，与实时交互世界模型主题相邻。",
+      "topics/html-image-fun-knowledge-learning.md": "浏览器打开即玩的图像式互动产品，与 HTML 与生图的趣味知识学习产品相近。"
+    },
+    "notes": "未创建新主题，全部复用现有目录条目。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cycling-through-van-gogh-s-the-starry-night-a-browser-oil-painti.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

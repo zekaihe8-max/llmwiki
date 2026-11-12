@@ -1,0 +1,23 @@
+{
+  "slug": "05851301bb8bd574",
+  "url": "https://langfuse.com/blog/introducing-gateway",
+  "title": "介绍",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "05851301bb8bd57463286865ffcbc39f259cdad5d9dc4b4b0413365e9aa12f85",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:28.623Z",
+  "content_hash": "51e998a5804c8a4e18dcad985ef64c9417089645f8713e2d550796fcfcd86953",
+  "article_path": "articles/05851301bb8bd574.md",
+  "fetched_url": "https://langfuse.com/blog/introducing-gateway",
+  "source_path": "sources/articles/langfuse-launches-ai-gateway.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:20:40.828Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

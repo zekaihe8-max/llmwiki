@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:25:47.053Z",
+  "url": "https://x.com/FinanceYF5/status/2120797374432035309",
+  "slug": "d2bbdc5074d4c434",
+  "content_hash": "bb77b1597fb8d60fa39050e13f3f7fce54687fe778a14dae037343adb6f6b0ed",
+  "source": {
+    "path": "sources/articles/fable-5-2-code-generates-browser-zombie-shooter-game.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章讲述 AI 生成小游戏，与该主题关于随手 AI 小游戏最贴近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "浏览器内可交互的游戏内容与实时交互世界模型有相邻关联。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 驱动的游戏制作与模型拐点，与代码生成游戏相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "文章讲述 AI 生成小游戏，与该主题关于随手 AI 小游戏最贴近。",
+    "topics/vibe-gaming-model-inflection.md": "涉及 AI 驱动的游戏制作与模型拐点，与代码生成游戏相关。",
+    "topics/interactive-world-models.md": "浏览器内可交互的游戏内容与实时交互世界模型有相邻关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-code-generates-browser-zombie-shooter-game.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "文章讲述 AI 生成小游戏，与该主题关于随手 AI 小游戏最贴近。",
+      "topics/vibe-gaming-model-inflection.md": "涉及 AI 驱动的游戏制作与模型拐点，与代码生成游戏相关。",
+      "topics/interactive-world-models.md": "浏览器内可交互的游戏内容与实时交互世界模型有相邻关联。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-code-generates-browser-zombie-shooter-game.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

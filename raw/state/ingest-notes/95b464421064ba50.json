@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章描述的技能用于智能体驱动的视频包装与剪辑，主题高度相关。",
+    "topics/agent-skill-authoring.md": "该仓库本身是一个可供 Manus 或其他 Agent 加载的 Skill，涉及技能编写与使用流程。",
+    "topics/agent-skills-open-standard.md": "项目以 SKILL.md 和技能包形式分发，与 Agent Skills 开放标准相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章描述的技能用于智能体驱动的视频包装与剪辑，主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "该仓库本身是一个可供 Manus 或其他 Agent 加载的 Skill，涉及技能编写与使用流程。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目以 SKILL.md 和技能包形式分发，与 Agent Skills 开放标准相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

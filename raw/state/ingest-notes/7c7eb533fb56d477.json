@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文核心是千问开源的公司级 Agent Harness，与该主题直接相关。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文提到将 Qwen Code 与 Pi、DeepSeek Harness 对比，涉及 Harness 横向评测。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文强调不局限千问自家模型，支持 OpenAI、Anthropic、Gemini 等多模型渠道。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文将 Qwen Code 定位为多个 Agent 能力的整合，与多 Harness 基建讨论相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文核心是千问开源的公司级 Agent Harness，与该主题直接相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文提到将 Qwen Code 与 Pi、DeepSeek Harness 对比，涉及 Harness 横向评测。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文强调不局限千问自家模型，支持 OpenAI、Anthropic、Gemini 等多模型渠道。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文将 Qwen Code 定位为多个 Agent 能力的整合，与多 Harness 基建讨论相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实；未编造 URL 或超出文章的事实。"
+}

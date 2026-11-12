@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/agentic-video-editing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文核心是豆包工作接入 DeepSeek、Kimi、智谱等外部模型，属应用内模型合作。",
+    "topics/agentic-video-editing.md": "作者用第三方模型配合视频剪辑 Skill 剪辑 8 分钟视频，涉及智能体视频剪辑场景。",
+    "topics/agent-model-channel-tradeoffs.md": "文中提到按任务自动调用不同模型以降低成本、提升效果，属模型渠道取舍。",
+    "topics/pro-vs-flash-model-strategy.md": "文中明确提及 Doubao 2.1 Lite 和 DeepSeek V4.1 Flash 的 0.01 倍率定价，涉及轻量模型策略。"
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文核心是豆包工作接入 DeepSeek、Kimi、智谱等外部模型，属应用内模型合作。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "作者用第三方模型配合视频剪辑 Skill 剪辑 8 分钟视频，涉及智能体视频剪辑场景。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中提到按任务自动调用不同模型以降低成本、提升效果，属模型渠道取舍。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中明确提及 Doubao 2.1 Lite 和 DeepSeek V4.1 Flash 的 0.01 倍率定价，涉及轻量模型策略。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @op7418 发布的帖文，未独立核实定价与实测数据，已在摘要中用「帖文称」标注未核实主张。"
+}

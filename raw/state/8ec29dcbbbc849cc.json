@@ -1,0 +1,23 @@
+{
+  "slug": "8ec29dcbbbc849cc",
+  "url": "https://x.com/0xlangeai/status/2120516830607606197",
+  "title": "拆解",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "8ec29dcbbbc849cc695cc18eb2ef8c3e96e54735e1b3fdbc0e26c8dd098d69ab",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:21.099Z",
+  "content_hash": "9408aead547b13b65acf2860a6b092dfadc46ed59efcee90fb497c073a66757d",
+  "article_path": "articles/8ec29dcbbbc849cc.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2120516830607606197",
+  "source_path": "sources/articles/dissecting-baoyu-design-s-deepseek-harness-plugin-suite.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:10:25.942Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

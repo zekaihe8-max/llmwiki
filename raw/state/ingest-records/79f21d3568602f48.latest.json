@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:24:41.353Z",
+  "url": "https://x.com/shao__meng/status/2120668252456247316",
+  "slug": "79f21d3568602f48",
+  "content_hash": "b0d65f07d721b41d30d32eee560e4e24cc04cde7739b4d69c6dbd74016b6ede2",
+  "source": {
+    "path": "sources/articles/only-just-discovered-grok-bot-reached-v1-0-ten-days-ago.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及智能体自动模式，对应文中主动接手待办的功能"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与本文主题高度相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot，与本文主题高度相关"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 对外分享与 Bot 互聊，对应文中多人协作与分享 Bot 的内容"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与本文主题高度相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "直接涉及 Grok Bot，与本文主题高度相关",
+    "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 对外分享与 Bot 互聊，对应文中多人协作与分享 Bot 的内容",
+    "topics/agent-auto-mode.md": "涉及智能体自动模式，对应文中主动接手待办的功能"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/only-just-discovered-grok-bot-reached-v1-0-ten-days-ago.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot，与本文主题高度相关",
+      "topics/grok-bot-x-intel-defense-not-post.md": "直接涉及 Grok Bot，与本文主题高度相关",
+      "topics/personal-agent-share-and-interbot-chat.md": "涉及个人 Agent 对外分享与 Bot 互聊，对应文中多人协作与分享 Bot 的内容",
+      "topics/agent-auto-mode.md": "涉及智能体自动模式，对应文中主动接手待办的功能"
+    },
+    "notes": "来源为 X 上 @shao__meng 于 2026-11-12 发布的帖文，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/only-just-discovered-grok-bot-reached-v1-0-ten-days-ago.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

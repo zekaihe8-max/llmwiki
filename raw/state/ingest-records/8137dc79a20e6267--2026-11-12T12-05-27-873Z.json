@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:05:27.873Z",
+  "url": "https://x.com/op7418/status/2120724676024717467",
+  "slug": "8137dc79a20e6267",
+  "content_hash": "8d1bcbed8784e2baca3f1d424702dbcad6b962960f0b175ff9a89830f625bab2",
+  "source": {
+    "path": "sources/articles/recreating-fable-with-skill-and-deepseek-harness.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/agent-skill-authoring.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "作者提到使用“skill”复刻成功，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 一下午做出可试玩小游戏，与“随手 AI 小游戏一次成功”相近。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "作者提到使用 DeepSeek Harness，与 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 模型快速生成 3D 游戏，与“Vibe Gaming 模型拐点”主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "帖文涉及 AI 模型快速生成 3D 游戏，与“Vibe Gaming 模型拐点”主题相关。",
+    "topics/casual-ai-minigame-first-try.md": "帖文描述 AI 一下午做出可试玩小游戏，与“随手 AI 小游戏一次成功”相近。",
+    "topics/agent-skill-authoring.md": "作者提到使用“skill”复刻成功，与 Agent Skill 编写主题相关。",
+    "topics/company-agent-harness.md": "作者提到使用 DeepSeek Harness，与 Agent Harness 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/recreating-fable-with-skill-and-deepseek-harness.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/agent-skill-authoring.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "帖文涉及 AI 模型快速生成 3D 游戏，与“Vibe Gaming 模型拐点”主题相关。",
+      "topics/casual-ai-minigame-first-try.md": "帖文描述 AI 一下午做出可试玩小游戏，与“随手 AI 小游戏一次成功”相近。",
+      "topics/agent-skill-authoring.md": "作者提到使用“skill”复刻成功，与 Agent Skill 编写主题相关。",
+      "topics/company-agent-harness.md": "作者提到使用 DeepSeek Harness，与 Agent Harness 主题相关。"
+    },
+    "notes": "文中关于 Fable 5.2 能力与 token 消耗的主张均来自帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/recreating-fable-with-skill-and-deepseek-harness.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

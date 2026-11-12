@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:17:18.094Z",
+  "url": "https://x.com/dotey/status/2120546916475773071",
+  "slug": "6fbe1c99887f9e3d",
+  "content_hash": "49e5629b4d166c656a72cb9b325e735665292f6cfcb85789cd4ffd11d22e2fa8",
+  "source": {
+    "path": "sources/articles/thursday-codex-might-offer-a-reset-card.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Codex 重置涉及智能体算力与资源治理。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "重置卡直接关联编程 Agent 的使用额度与体验，是最相关的现有主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "重置卡关联高端 AI 订阅的用户权益与价值感知。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "额度重置属于用量上限与 A/B 测试范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "重置卡直接关联编程 Agent 的使用额度与体验，是最相关的现有主题。",
+    "topics/usage-limit-ab-tests.md": "额度重置属于用量上限与 A/B 测试范畴。",
+    "topics/agent-compute-and-governance.md": "Codex 重置涉及智能体算力与资源治理。",
+    "topics/premium-ai-subscription-value.md": "重置卡关联高端 AI 订阅的用户权益与价值感知。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/thursday-codex-might-offer-a-reset-card.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "重置卡直接关联编程 Agent 的使用额度与体验，是最相关的现有主题。",
+      "topics/usage-limit-ab-tests.md": "额度重置属于用量上限与 A/B 测试范畴。",
+      "topics/agent-compute-and-governance.md": "Codex 重置涉及智能体算力与资源治理。",
+      "topics/premium-ai-subscription-value.md": "重置卡关联高端 AI 订阅的用户权益与价值感知。"
+    },
+    "notes": "来源为 X 推文，主张为转发推测，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/thursday-codex-might-offer-a-reset-card.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

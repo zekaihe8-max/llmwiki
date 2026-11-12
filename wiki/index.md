@@ -26,6 +26,112 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [Grokbot 每小时汇报，用户停止高强度自搜 / Grokbot Reports Hourly, User Stops High-Intensity Self-Search](./sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md) — X 用户称因 Grokbot 每小时汇报而停止高强度自搜。 / An X user says they stopped high-intensity self-searching because Grokbot reports to them every hour.
+
+- [MyGo 启用新域名 mygo.run，上线中文文档与赞助页面 / MyGo launches new domain mygo.run with Chinese docs and sponsorship page](./sources/articles/mygo-launches-new-domain-mygo-run-with-chinese-docs-and-sponsors.md) — MyGo 启用新域名 mygo.run，同步发布中文文档和赞助页面。 / MyGo launches new domain mygo.run, alongside Chinese documentation and a sponsorship page.
+
+- [赞助 MyGo / Sponsor MyGo](./sources/articles/sponsor-mygo.md) — MyGo 是免费开源项目，每月 500 美元赞助可在 README 和官网展示赞助商横幅。 / MyGo is a free open-source project; a $500-per-month sponsorship displays a sponsor banner in its README and on its website.
+
+- [GIF 工厂：多媒体动态内容制作 Skill / GIF Factory: Multimedia Dynamic Content Skill](./sources/articles/gif-factory-multimedia-dynamic-content-skill.md) — 一个可在 Codex 中安装的开源 Skill，用于制作表情包、动态签名、电影片头、动态绘本和品牌短片等 GIF 动态内容。 / An open-source Skill installable in Codex for creating GIF-based dynamic content such as stickers, dynamic signatures, cinematic titles, storybooks, and brand films.
+
+- [发布：小 Lin 说短视频包装 Skill v3 / Release: Xiao Lin Shuo Short Video Packaging Skill v3](./sources/articles/release-xiao-lin-shuo-short-video-packaging-skill-v3.md) — 余一在 X 发布基于 Manus 的“小 Lin 说”短视频包装 Skill v3，帖文称其可替代数字人、剪辑和真人出镜。 / Ameliayu 余一 releases a Manus-based “Xiao Lin Shuo” short video packaging Skill v3 on X; the post claims it can replace digital humans, editing, and human presenters.
+
+- [小林说视频包装 Skill / Xiaolin Shuo Explainer Video Packaging Agent Skill](./sources/articles/xiaolin-shuo-explainer-video-packaging-agent-skill.md) — 一个基于 Remotion 的 Agent 技能，将出镜口播片段包装成小Lin说风格的讲解视频。 / A Remotion-based agent skill that packages talking-head clips into explainer videos in the style of the Chinese finance channel Xiao Lin Shuo.
+
+- [1.5 万 Star 的视频 Skill 又更新了，风格增至 99 种 / 1.5K-star video Skill updated again, styles expanded to 99](./sources/articles/1-5k-star-video-skill-updated-again-styles-expanded-to-99.md) — Lemo-opuscar 发布 2.0 版本，新增 33 种视频风格，总数达 99 种并配备出片工作台。 / Lemo-opuscar releases version 2.0, adding 33 new video styles for a total of 99, with a production workbench.
+
+- [推荐用 Skill 做小红书封面 / Recommended Skill for Making Xiaohongshu Covers](./sources/articles/recommended-skill-for-making-xiaohongshu-covers.md) — 帖文推荐使用开源的 GPT Image 2.6 大字标题设计 Skill 制作小红书封面，并称封面点击率对小红书推流至关重要。 / The post recommends using the open-source GPT Image 2.6 Big-Title Design Skill to make Xiaohongshu covers, and claims cover click-through rate is critical to Xiaohongshu distribution.
+
+- [在梵高《星夜》中骑行：Fable 5.2 制作的浏览器油画游戏 / Cycling Through Van Gogh's The Starry Night: A Browser Oil-Painting Game Made with Fable 5.2](./sources/articles/cycling-through-van-gogh-s-the-starry-night-a-browser-oil-painti.md) — 帖文称有人用 Fable 5.2 把梵高《星夜》改编成可在浏览器中游玩的骑行游戏，全镇油画笔触。 / The post claims someone used Fable 5.2 to adapt Van Gogh's The Starry Night into a browser-playable cycling game with oil-painting brushstrokes throughout the town.
+
+- [Fable 5.2 代码生成浏览器僵尸射击游戏 / Fable 5.2 Code-Generates Browser Zombie Shooter Game](./sources/articles/fable-5-2-code-generates-browser-zombie-shooter-game.md) — Fable 5.2 连续工作数小时，用纯代码生成可在浏览器运行的无尽僵尸射击游戏，未使用任何 3D 素材。 / Fable 5.2 worked continuously for hours to generate an endless zombie shooter game playable in the browser using only code, with no 3D assets.
+
+- [在 AIECode 遇到 Grok Bot 团队的 @poteto / Meeting @poteto of the Grok Bot team at AIECode](./sources/articles/meeting-poteto-of-the-grok-bot-team-at-aiecode.md) — Grok Bot 团队月合 1.1 万 PR 且回滚率约 0.5%，主张将对 Agent 的纠正转化为确定性检查。 / The Grok Bot team shipped 11,000 PRs to production last month with ~0.5% reverts, advocating turning agent corrections into deterministic checks.
+
+- [才发现 Grok Bot 十天前已到 v1.0 / Only just discovered Grok Bot reached v1.0 ten days ago](./sources/articles/only-just-discovered-grok-bot-reached-v1-0-ten-days-ago.md) — Grok Bot v1.0 引入多人协作、主动接手待办及能力提升等更新 / Grok Bot v1.0 introduces multi-person collaboration, proactive task takeover, and capability improvements
+
+- [Agent 伪装下只剩 Token：企业 AI 成本与中转站抉择 / Behind the Agent Façade, Only Tokens Remain](./sources/articles/behind-the-agent-fa-ade-only-tokens-remain.md) — 企业 AI 产品在保证能力前提下压低成本，离不开模型网关与中转站的取舍。 / Enterprise AI products must balance model gateways and intermediaries to cut costs while preserving capability.
+
+- [李彦宏在百度世界 2026 推出「词元所」Token Exchange / Robin Li Launches "Token Exchange - 词元所" at Baidu World 2026](./sources/articles/robin-li-launches-token-exchange-at-baidu-world-2026.md) — 百度创始人李彦宏宣布推出模型交易平台「词元所」，但质疑者认为其与普通 Token 中转站缺乏本质区别。 / Baidu founder Robin Li announces the model trading platform "Token Exchange - 词元所," but critics question whether it differs essentially from ordinary token relay stations.
+
+- [SuperMimic 用单个可微世界模型训练人形机器人全身动作 / SuperMimic Trains Humanoid Robot Full-Body Motion with a Single Differentiable World Model](./sources/articles/supermimic-trains-humanoid-robot-full-body-motion-with-a-single.md) — 帖文称 SuperMimic 基于 mjlab 仿真环境，借鉴 DreamerV3 思路，用可微分世界模型统一训练 G1 人形机器人全身动作追踪，并支持广义坐标与最大坐标控制。 / The post says SuperMimic, built on mjlab and inspired by DreamerV3, uses a single differentiable world model to train G1 humanoid full-body motion tracking, supporting generalized and maximal coordinate control.
+
+- [modern-web-guidance：让 AI 跟上最新的网页开发规则 / modern-web-guidance: Helping AI Keep Up with the Latest Web Development Rules](./sources/articles/modern-web-guidance-helping-ai-keep-up-with-the-latest-web-devel.md) — Chrome、Edge 与 Firefox 联合推出的工具包，让 AI 自动检索网页开发标准，无需开发者手动查文档。 / A toolkit jointly launched by Chrome, Edge, and Firefox that lets AI automatically retrieve web development standards, so developers need not manually search docs.
+
+- [Langfuse 推出 AI 网关 / Langfuse launches AI Gateway](./sources/articles/langfuse-launches-ai-gateway.md) — Langfuse 推出公测中的开源 AI 网关，作为企业 AI 流量的统一入口，记录每次模型调用、成本与调用者，并原生接入 Langfuse 可观测性。 / Langfuse launches an open-source AI Gateway in public beta as a unified entry point for corporate AI traffic, logging every model call, cost, and caller natively into Langfuse observability.
+
+- [Langfuse 推出了 AI Gateway 公开测试版 / Langfuse Launches AI Gateway Public Beta](./sources/articles/langfuse-launches-ai-gateway-public-beta.md) — Langfuse 面向大模型观测平台推出 AI Gateway 公开测试版，定位公司统一中转与网关层。 / Langfuse, an LLM observability platform, launches AI Gateway public beta as a unified relay and gateway layer.
+
+- [用 Grok Bot 自动屏蔽恶意评论 / Using Grok Bot to Automatically Block Malicious Comments](./sources/articles/using-grok-bot-to-automatically-block-malicious-comments.md) — 用户借助 Grok Bot 让 AI 自动化屏蔽 X 上的恶意评论，避免直接查看。 / A user leverages Grok Bot to let AI automatically block malicious comments on X, avoiding direct exposure.
+
+- [豆包工作对个人用户开放 DeepSeek、Kimi、GLM 等第三方模型 / Doubao Work Opens Third-Party Models Including DeepSeek, Kimi, and GLM to Individual Users](./sources/articles/doubao-work-opens-third-party-models-including-deepseek-kimi-and.md) — 帖文称豆包工作现对个人用户开放多家第三方模型，并认为模型已成可替换零件，护城河在于 Harness。 / The post says Doubao Work now opens multiple third-party models to individual users and argues models have become interchangeable parts, with the moat lying in Harness.
+
+- [从美国就业看职业变化 / Job Shifts Seen Through US Employment](./sources/articles/job-shifts-seen-through-us-employment.md) — 美国科技岗位增长主要来自硬件与数据中心等实体岗位，软件、产品经理和设计岗位几乎停滞。 / US tech job growth comes mainly from hardware and data-center physical roles, while software, PM, and design roles remain nearly flat.
+
+- [Anthropic 路演称已开始使用 AMD GPU / Anthropic road show says it has started using AMD GPUs](./sources/articles/anthropic-road-show-says-it-has-started-using-amd-gpus.md) — Anthropic 在路演中称已开始使用 AMD GPU，并称 Mythos 三天内完成了在 AMD 上运行 Claude 的内核开发。 / Anthropic's road show says it has started using AMD GPUs, and claims Mythos completed the kernel to run Claude on AMD in three days.
+
+- [年末大厂重组：AI 只提效不产生增量，结局只能如此 / Year-end big tech restructuring: AI efficiency without incremental growth leads only to downsizing](./sources/articles/year-end-big-tech-restructuring-ai-efficiency-without-incrementa.md) — Orange AI 指出，年末多家国内大厂爆出重组新闻，AI 能大幅提效，但若仅提效而无增量经济产生，结局就只能是这样。 / Orange AI notes that multiple Chinese tech giants have announced year-end restructurings; AI can greatly improve efficiency, but if it only raises efficiency without generating incremental economic output, the outcome can only be downsizing.
+
+- [用户称 Gemini 4 Carbon 写作更丝滑，定价仅为 Sonnet 水平 / User says Gemini 4 Carbon writing is smoother, priced at Sonnet level](./sources/articles/user-says-gemini-4-carbon-writing-is-smoother-priced-at-sonnet-l.md) — 用户在 X 上发帖称谷歌新模型 Gemini 4 Carbon 体验良好，强于 DeepSeek Flash，写作更自然丝滑，实际定价为 Sonnet 而非 Opus 价格。 / User posts on X that Google's new Gemini 4 Carbon is good to use, stronger than DeepSeek Flash, with smoother writing, and actual pricing at Sonnet rather than Opus level.
+
+- [周四 Codex 可能送一张重置卡？ / Thursday Codex might offer a reset card?](./sources/articles/thursday-codex-might-offer-a-reset-card.md) — 宝玉转发 Tibo 推文，猜测周四 Codex 可能发放重置额度。 / Baoyu reposts Tibo's tweet, speculating Codex may issue a usage reset on Thursday.
+
+- [百度文心 5.5 Flash Preview 发布 / Baidu Wenxin 5.5 Flash Preview Released](./sources/articles/baidu-wenxin-5-5-flash-preview-released.md) — 百度发布开源的文心 5.5 Flash Preview 大模型，主打 280B 总参数、14B 激活参数、1M 长上下文及 Apache 2.0 协议。 / Baidu releases the open-source Wenxin 5.5 Flash Preview foundation model, featuring 280B total parameters, 14B activated parameters, 1M long context, and the Apache 2.0 license.
+
+- [玉伯与 YouMind 及 GEO 大会嘉宾介绍 / Yu Bo, YouMind, and GEO Conference Guest Introductions](./sources/articles/yu-bo-youmind-and-geo-conference-guest-introductions.md) — 帖文介绍 YouMind 创始人兼 CEO 玉伯，并预告其在 GEO 大会的分享主题，同时介绍 WaytoAGI 发起人 AJ。 / The post introduces YouMind founder and CEO Yu Bo, previews his GEO conference talk topic, and also introduces WaytoAGI founder AJ.
+
+- [百度世界大会 2026 参会随记 / Notes from Baidu World Conference 2026](./sources/articles/notes-from-baidu-world-conference-2026.md) — 与会者在百度世界大会 2026 上线下相聚，感叹 AI 改变时间流速，并强调线下人际连接不可替代。 / Attendees gather offline at Baidu World Conference 2026, marvel at how AI has altered the sense of time, and stress that offline human connection remains irreplaceable.
+
+- [安克录音豆第三方客户端 / Third-party client for Anker recorder bean](./sources/articles/third-party-client-for-anker-recorder-bean.md) — 用户在 X 发布安克录音豆的第三方客户端，称可改造为 AI 麦克风，开源地址在评论区。 / User posts a third-party client for Anker recorder bean on X, suggesting it could be modified into an AI microphone, with open-source link in comments.
+
+- [重做安克录音豆客户端，接入本地 ASR 与语音转写 / Redesigning Anker Recorder Bean client with local ASR and voice transcription](./sources/articles/redesigning-anker-recorder-bean-client-with-local-asr-and-voice.md) — 帖文称 Fable 5.2 重新设计了开源安克录音豆客户端，并加入 qwen0.6b 本地 ASR 模型与豆包语音转写。 / The post says Fable 5.2 redesigned the open-source Anker Recorder Bean client, adding the qwen0.6b local ASR model and Doubao voice transcription.
+
+- [杭州第二场 Grok Bot Meetup 开放报名 / Hangzhou Second Grok Bot Meetup Opens Registration](./sources/articles/hangzhou-second-grok-bot-meetup-opens-registration.md) — 杭州第二场 Grok Bot Meetup 于 11 月 29 日开放报名，需审核后方可参与。 / Hangzhou's second Grok Bot Meetup opens registration on November 29, subject to approval before participation.
+
+- [Grok Bot 1.0 发布：团队协作与主动任务执行升级 / Grok Bot 1.0 Launches: Team Collaboration and Proactive Task Execution Upgraded](./sources/articles/grok-bot-1-0-launches-team-collaboration-and-proactive-task-exec.md) — 帖文称 Grok Bot 1.0 是上线以来最大更新，新增会议助手、团队协作、主动工作和执行能力增强。 / The post claims Grok Bot 1.0 is the biggest update since launch, adding meeting assistant, team collaboration, proactive work, and enhanced execution capabilities.
+
+- [全程只用手机，给家乡做了文旅短片 / Mobile-only cultural tourism short film for hometown](./sources/articles/mobile-only-cultural-tourism-short-film-for-hometown.md) — 用户仅用手机通过 Grok Bot 和 ChatCut 完成了一条约 66 秒的浙江天台县文旅宣传片。 / A user completed a roughly 66-second cultural tourism promotional video for Tiantai County, Zhejiang, using only a mobile phone via Grok Bot and ChatCut.
+
+- [AI Coding 套餐已卷至 39 元/月，六款低价订阅对比 / AI Coding Plans Drop to 39 Yuan/Month, Six Low-Cost Subscriptions Compared](./sources/articles/ai-coding-plans-drop-to-39-yuan-month-six-low-cost-subscriptions.md) — 帖文称 AI Coding 套餐最低已至 39 元/月，列举六款国内外性价比订阅及其模型与额度。 / The post claims AI Coding plans are as low as 39 yuan/month and lists six high-value domestic and international subscriptions with their models and quotas.
+
+- [DeepSeek Harness 插件的两个老问题，官方开始动手 / DeepSeek Harness Plugin's Two Old Problems, Official Begins to Address](./sources/articles/deepseek-harness-plugin-s-two-old-problems-official-begins-to-ad.md) — DeepSeek Harness 插件稳定性与安全性问题获官方与社区关注 / DeepSeek Harness plugin stability and security issues draw official and community attention
+
+- [千问开源 Agent Harness，发布 Qwen Code 1.0 Preview / Qwen Open-Sources Agent Harness, Releases Qwen Code 1.0 Preview](./sources/articles/qwen-open-sources-agent-harness-releases-qwen-code-1-0-preview.md) — 阿里千问开源 Agent Harness 并发布 Qwen Code 1.0 Preview，支持多模型协议与跨平台自动化。 / Alibaba Qwen open-sources its Agent Harness and releases Qwen Code 1.0 Preview, supporting multi-model protocols and cross-platform automation.
+
+- [ChatCut + Grok Bot 自然语言视频剪辑 / ChatCut + Grok Bot Natural Language Video Editing](./sources/articles/chatcut-grok-bot-natural-language-video-editing.md) — 用 Grok Bot 与 ChatCut 通过自然语言指令自动化多段录屏视频剪辑。 / Automate multi-segment screen recording video editing using natural language instructions via Grok Bot and ChatCut.
+
+- [Meta Muse 免费工作台：锦鲤同学四个自动化工作流实践 / Meta Muse Free Workbench: Jinyu's Four Automated Workflow Practices](./sources/articles/meta-muse-free-workbench-jinyu-s-four-automated-workflow-practic.md) — 蓝哥AI转发锦鲤同学利用 Meta Muse（免费）搭建免费额度雷达、AI 视频工作流、自媒体创作中心和热点看板四个工作台的经验。 / Blue Brother AI reposts Jinyu's experience building four free workbenches—quota radar, AI video workflow, self-media creation center, and hotspot dashboard—using Meta's Muse.
+
+- [DeepSeek Harness 插件市场下载量最高突破 310 万，热门插件聚焦上下文、电脑操作与费用可见性 / DeepSeek Harness Plugin Market Top Download Exceeds 3.1 Million, Hot Plugins Focus on Context, Computer Control, and Cost Visibility](./sources/articles/deepseek-harness-plugin-market-top-download-exceeds-3-1-million.md) — DeepSeek Harness 插件市场下载量最高的插件已达约 310.7 万，热门插件集中在上下文管理、桌面操作和费用监控三个方向。 / The most-downloaded plugin in the DeepSeek Harness market has reached about 3.107 million downloads, with popular plugins concentrated in context management, desktop control, and cost monitoring.
+
+- [拆解宝玉 baoyu-design 的 DeepSeek Harness 插件套件 / Dissecting baoyu-design's DeepSeek Harness Plugin Suite](./sources/articles/dissecting-baoyu-design-s-deepseek-harness-plugin-suite.md) — 帖文介绍宝玉 baoyu-design 的六款 DeepSeek Harness 插件，覆盖幻灯片、网页设计、设计规范、数据看板、动画和白板。 / The post introduces six DeepSeek Harness plugins from baoyu-design, covering slides, web design, design systems, dashboards, animation, and whiteboards.
+
+- [推荐：用 Grok Bot + ChatCut 对话剪辑，把跑码录屏压缩成一分钟干货短片 / Recommended: Conversational video editing with Grok Bot + ChatCut, compressing terminal recordings into a one-minute highlight](./sources/articles/recommended-conversational-video-editing-with-grok-bot-chatcut-c.md) — 蓝哥AI在宝玉推荐 baoyu-design 后，实测用 Grok Bot 挂载 ChatCut 通过对话框剪辑四段录屏，将冗长跑码素材压缩为约一分钟的高密度短片并导出 1080p。 / After Bao Yu recommended baoyu-design, Lan Ge AI field-tested mounting ChatCut to Grok Bot and editing four recordings via chat, compressing long terminal footage into a roughly one-minute high-density short exported at 1080p.
+
+- [Deepseek Harness 保姆级教程：从读第一份文件，到做一个结合 Grok Bot 读评论找选题的小插件 / DeepSeek Harness Beginner Tutorial: From Reading the First File to Building a Grok Bot Comment-Reading Topic Plugin](./sources/articles/deepseek-harness-beginner-tutorial-from-reading-the-first-file-t.md) — 教你安装 DeepSeek Harness，读取本地文件并写回结果，再用 Grok Bot 筛选 X 评论并生成选题卡。 / Learn to install DeepSeek Harness, read local files and write results back, then use Grok Bot to filter X comments and generate topic cards.
+
+- [wanman 1.0 即将登陆手机 / wanman 1.0 coming to mobile phones](./sources/articles/wanman-1-0-coming-to-mobile-phones.md) — 郭宇宣布精心打造的 wanman 1.0 即将在手机上与大家见面 / Guo Yu announces that carefully crafted wanman 1.0 is coming to mobile phones soon
+
+- [温泉助理 / Hot Spring Assistant](./sources/articles/hot-spring-assistant.md) — 郭宇为日本温泉旅馆开发垂直化个人助理，让不擅长使用 SaaS 的当地经营者也能通过 AI 接触客户。 / Guo Yu developed a verticalized personal assistant for Japanese hot spring inns, enabling local operators unfamiliar with SaaS to reach customers through AI.
+
+- [急速构建让超大型项目一分钟内完成构建，CI 等待最多五六分钟 / Rapid build completes super-large project builds within one minute; CI wait at most five to six minutes](./sources/articles/rapid-build-completes-super-large-project-builds-within-one-minu.md) — 郭宇（@turingou）在 X 上称换用自有急速构建后，超大型项目一分钟内可完成构建，三十多个项目的 PR 跑 CI 最多等五六分钟。 / Guo Yu (@turingou) says on X that after switching to self-owned rapid builds, super-large projects finish building within one minute, and CI for over 30 project PRs takes at most five to six minutes.
+
+- [发布预告：郭宇推 macOS/iOS 急速构建服务，称将 Tuwa App CI 从 5 分钟压至 25-30 秒 / Release Preview: guoyu.eth Launches macOS/iOS Rapid Build Service, Claiming Tuwa App CI Cut from 5 Minutes to 25-30 Seconds](./sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md) — 郭宇（@turingou）发帖预告，他自研的 macOS/iOS 急速构建服务即将发布，支持 Agent 操作、模拟器截图录像、Testflight 与应用市场发布，并称已将 Mac Studio 上 Tuwa App 的 CI 构建时间从 5 分钟缩短至 25-30 秒，名额有限。 / guoyu.eth (@turingou) posted a preview that his self-built macOS/iOS rapid build service is launching soon, supporting Agent operations, simulator screenshots and video recording, Testflight and app store release, and claiming Tuwa App CI build time on Mac Studio has been cut from 5 minutes to 25-30 seconds, with limited slots.
+
+- [AI 对普通人最大的优势不是更快 / AI's biggest advantage for ordinary people is not speed](./sources/articles/ai-s-biggest-advantage-for-ordinary-people-is-not-speed.md) — 帖文称 AI 对普通人的最大价值不在于加速产品交付，而在于让普通人和小团队能用数据方法论与工作流构建增长飞轮，像字节跳动一样管理产品与商业逻辑。 / The post claims AI's greatest value for ordinary people is not accelerating product delivery, but enabling ordinary people and small teams to build growth flywheels using data methodology and workflows, managing products and business logic like ByteDance.
+
+- [豆包工作接入 DeepSeek、Kimi、智谱 GLM 等三方模型 / Doubao Work integrates third-party models including DeepSeek, Kimi, and Zhipu GLM](./sources/articles/doubao-work-integrates-third-party-models-including-deepseek-kim.md) — 豆包工作终于接入三方模型，新用户可领30天会员，自动模式下简单任务免费，Doubao 2.1 Lite和DeepSeek V4.1 Flash倍率0.01。 / Doubao Work finally integrates third-party models; new users can claim a 30-day membership, automatic mode makes simple tasks free, and Doubao 2.1 Lite and DeepSeek V4.1 Flash are priced at a 0.01 multiplier.
+
+- [想用 skill 加 DeepSeek Harness 复刻 Fable / Recreating Fable with Skill and DeepSeek Harness](./sources/articles/recreating-fable-with-skill-and-deepseek-harness.md) — 用户称用 Skill 和 DeepSeek Harness 复刻 Fable 5.2，一下午用 45 亿 token 生成 30MB HTML 3D 动作游戏 / User claims to recreate Fable 5.2 using Skill and DeepSeek Harness, generating a 30 MB HTML 3D action game in one afternoon with 45 billion tokens
+
+- [Fable 5.2 3D 游戏优化可整合进单一 HTML，4399 或迎 HTML 游戏分发复兴 / Fable 5.2 3D game optimizations pack into one HTML; 4399 may see HTML game distribution revival](./sources/articles/fable-5-2-3d-game-optimizations-pack-into-one-html-4399-may-see.md) — 帖文称 Fable 5.2 的 3D 游戏优化可整合进单一 HTML，网页发布最便捷且跨平台，4399 有望迎来以 HTML 为基础的游戏分发平台复兴。 / The post claims Fable 5.2's 3D game optimizations can be packed into one HTML, web publishing is the most convenient and cross-platform method, and 4399 may revive with an HTML-based game distribution platform.
+
+- [网页游戏回归与 AI 驱动的游戏开发新范式 / Web Games Return and AI-Driven Game Development Paradigm](./sources/articles/web-games-return-and-ai-driven-game-development-paradigm.md) — 帖文称网页游戏凭借免安装、低门槛分发正回归，AI 工具可在一天内生成 3D 游戏，预示 HTML 游戏分发平台机会。 / The post claims web games are returning due to no-install, low-barrier distribution, and AI tools can generate 3D games in a day, signaling opportunities for HTML game distribution platforms.
+
+- [试玩「魂玉0」AI 小游戏 / Playtest: "Hun Yu 0" AI Mini-game](./sources/articles/playtest-hun-yu-0-ai-mini-game.md) — 一款由 AI 使用 guizang-game-skill 制作、基于 three.js 的 WebGL 2 试玩小游戏。 / A WebGL 2 playtest mini-game made by AI using guizang-game-skill and built on three.js.
+
+- [一下午做出 3D 动作游戏「雾锁山门」 / 3D Action Game "Mist-Locked Mountain Gate" Made in One Afternoon](./sources/articles/3d-action-game-mist-locked-mountain-gate-made-in-one-afternoon.md) — 帖文称 Fable 5.2 用一下午、45 亿 token，把模型、场景、动作与优化都做进一个 30 MB HTML 文件，完成了 3D 动作游戏「雾锁山门」。 / The post claims Fable 5.2 built the 3D action game "Mist-Locked Mountain Gate" in one afternoon using 4.5 billion tokens, bundling models, scenes, actions, and optimization into a single 30 MB HTML file.
+
 - [三条路线：Pi Agent、DeepSeek Harness 与 Qwen Code 1.0 的架构取舍 / Three Routes: Architecture Trade-offs Among Pi Agent, DeepSeek Harness, and Qwen Code 1.0](./sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md) — 帖文对比 Pi Agent、DeepSeek Harness 与 Qwen Code 1.0 三种 Agent 架构路线，并称 Qwen Code 可对接 Grok 等多种模型。 / The post compares three Agent architecture routes—Pi Agent, DeepSeek Harness, and Qwen Code 1.0—and claims Qwen Code can connect to models such as Grok.
 
 - [PiClaw：基于 Pi Agent 的可插件个人 AI 助手工作台 / PiClaw: Plugin-based Personal AI Assistant Workbench Built on Pi Agent](./sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md) — PiClaw 在 Pi Agent 之上搭建 Web 工作台，支持插件扩展、长期记忆与 Docker 自托管，将编程 Agent 转化为个人助手。 / PiClaw builds a web workbench on Pi Agent, supporting plugin extensions, long-term memory, and Docker self-hosting to turn a coding agent into a personal assistant.

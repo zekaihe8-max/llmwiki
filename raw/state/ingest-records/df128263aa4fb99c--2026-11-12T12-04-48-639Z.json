@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:04:48.639Z",
+  "url": "https://x.com/op7418/status/2120541276970094774",
+  "slug": "df128263aa4fb99c",
+  "content_hash": "2617954518286b12f4cf64e63d2c35cad2ee0be07ac6d449f2752b4824644ed5",
+  "source": {
+    "path": "sources/articles/fable-5-2-3d-game-optimizations-pack-into-one-html-4399-may-see.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 生成小游戏并以 HTML 形态发布，与随手 AI 小游戏一次成功相近。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "核心主张是以 HTML 网页为载体进行游戏分发，与 HTML 类趣味产品议题相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "Fable 5.2 的 3D 游戏优化与场景设计涉及实时交互世界模型。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 AI 模型（Fable 5.2）赋能游戏制作与分发，属于 Vibe Gaming 模型拐点议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "帖文围绕 AI 模型（Fable 5.2）赋能游戏制作与分发，属于 Vibe Gaming 模型拐点议题。",
+    "topics/casual-ai-minigame-first-try.md": "内容涉及 AI 生成小游戏并以 HTML 形态发布，与随手 AI 小游戏一次成功相近。",
+    "topics/html-image-fun-knowledge-learning.md": "核心主张是以 HTML 网页为载体进行游戏分发，与 HTML 类趣味产品议题相关。",
+    "topics/interactive-world-models.md": "Fable 5.2 的 3D 游戏优化与场景设计涉及实时交互世界模型。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-3d-game-optimizations-pack-into-one-html-4399-may-see.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "帖文围绕 AI 模型（Fable 5.2）赋能游戏制作与分发，属于 Vibe Gaming 模型拐点议题。",
+      "topics/casual-ai-minigame-first-try.md": "内容涉及 AI 生成小游戏并以 HTML 形态发布，与随手 AI 小游戏一次成功相近。",
+      "topics/html-image-fun-knowledge-learning.md": "核心主张是以 HTML 网页为载体进行游戏分发，与 HTML 类趣味产品议题相关。",
+      "topics/interactive-world-models.md": "Fable 5.2 的 3D 游戏优化与场景设计涉及实时交互世界模型。"
+    },
+    "notes": "来源为 X 帖文，未核实 Fable 5.2 及 4399 复兴等主张，已在摘要中用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-3d-game-optimizations-pack-into-one-html-4399-may-see.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

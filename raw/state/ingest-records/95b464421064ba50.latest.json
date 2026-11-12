@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:28:01.958Z",
+  "url": "https://github.com/howoneai/xiaolin-explainer-packaging",
+  "slug": "95b464421064ba50",
+  "content_hash": "7d81b822e93b8a7f50f566433f2fcae2187461c6337c623f4fb565e8c5e60595",
+  "source": {
+    "path": "sources/articles/xiaolin-shuo-explainer-video-packaging-agent-skill.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "该仓库本身是一个可供 Manus 或其他 Agent 加载的 Skill，涉及技能编写与使用流程。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目以 SKILL.md 和技能包形式分发，与 Agent Skills 开放标准相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章描述的技能用于智能体驱动的视频包装与剪辑，主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章描述的技能用于智能体驱动的视频包装与剪辑，主题高度相关。",
+    "topics/agent-skill-authoring.md": "该仓库本身是一个可供 Manus 或其他 Agent 加载的 Skill，涉及技能编写与使用流程。",
+    "topics/agent-skills-open-standard.md": "项目以 SKILL.md 和技能包形式分发，与 Agent Skills 开放标准相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaolin-shuo-explainer-video-packaging-agent-skill.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章描述的技能用于智能体驱动的视频包装与剪辑，主题高度相关。",
+      "topics/agent-skill-authoring.md": "该仓库本身是一个可供 Manus 或其他 Agent 加载的 Skill，涉及技能编写与使用流程。",
+      "topics/agent-skills-open-standard.md": "项目以 SKILL.md 和技能包形式分发，与 Agent Skills 开放标准相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaolin-shuo-explainer-video-packaging-agent-skill.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

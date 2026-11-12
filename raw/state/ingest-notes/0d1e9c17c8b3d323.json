@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/ontology-driven-observability.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "标题含网关，与 AI Gateway 产品形态相近。",
+    "topics/cloud-auto-model-routing.md": "云平台跨模型编排与网关中转职能相关。",
+    "topics/ontology-driven-observability.md": "Langfuse 属可观测性领域，与本体驱动可观测性话题相近。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "涉及多路由基建，与 AI Gateway 路由中转相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "标题含网关，与 AI Gateway 产品形态相近。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台跨模型编排与网关中转职能相关。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "Langfuse 属可观测性领域，与本体驱动可观测性话题相近。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及多路由基建，与 AI Gateway 路由中转相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章中的日期为 2026 年 11 月 11 日，未独立核实；主张均用「帖文称」表述。"
+}

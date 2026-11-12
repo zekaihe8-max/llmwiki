@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "与 Grok Bot 在 X 平台上的使用场景最为相关，可复用其关于 Grok Bot 查 X 的上下文。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样涉及 Grok Bot 对 X 的管控与防护，主题高度相关。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与 Grok Bot 在 X 上的应用相近。",
+    "topics/agent-auto-mode.md": "涉及 AI 自动化模式，与帖文中“让 AI 自动化屏蔽”的自动化特征相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "与 Grok Bot 在 X 平台上的使用场景最为相关，可复用其关于 Grok Bot 查 X 的上下文。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样涉及 Grok Bot 对 X 的管控与防护，主题高度相关。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与 Grok Bot 在 X 上的应用相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 自动化模式，与帖文中“让 AI 自动化屏蔽”的自动化特征相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，未独立核实 Grok Bot 的具体屏蔽机制与实现细节。"
+}

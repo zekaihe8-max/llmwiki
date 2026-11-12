@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:18:10.494Z",
+  "url": "https://x.com/oran_ge/status/2120674417122656493",
+  "slug": "8bf1551b3c329f19",
+  "content_hash": "fcaba440b4ce13800e49098eee679f802c81faf49a157deaa1849be040d8977b",
+  "source": {
+    "path": "sources/articles/year-end-big-tech-restructuring-ai-efficiency-without-incrementa.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-management-span-of-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "AI 扩大高管管控跨度，与提效后组织调整相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI 原生公司，涉及 AI 对组织形态的影响。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "大厂 AI 数字员工与编制，直接对应重组与提效后的人员结构问题。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "大厂推理成本效率，与 AI 提效语境相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "大厂 AI 数字员工与编制，直接对应重组与提效后的人员结构问题。",
+    "topics/lab-inference-serving-cost-efficiency.md": "大厂推理成本效率，与 AI 提效语境相近。",
+    "topics/ai-native-companies.md": "AI 原生公司，涉及 AI 对组织形态的影响。",
+    "topics/ai-management-span-of-control.md": "AI 扩大高管管控跨度，与提效后组织调整相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/year-end-big-tech-restructuring-ai-efficiency-without-incrementa.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-management-span-of-control.md"
+    ],
+    "selection_reasons": {
+      "topics/enterprise-ai-digital-employee-headcount.md": "大厂 AI 数字员工与编制，直接对应重组与提效后的人员结构问题。",
+      "topics/lab-inference-serving-cost-efficiency.md": "大厂推理成本效率，与 AI 提效语境相近。",
+      "topics/ai-native-companies.md": "AI 原生公司，涉及 AI 对组织形态的影响。",
+      "topics/ai-management-span-of-control.md": "AI 扩大高管管控跨度，与提效后组织调整相关。"
+    },
+    "notes": "所有事实仅来自该 X 帖文页面，未引用外部来源。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/year-end-big-tech-restructuring-ai-efficiency-without-incrementa.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

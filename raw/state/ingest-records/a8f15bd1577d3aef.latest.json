@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:14:28.075Z",
+  "url": "https://x.com/cgnot996/status/2120509797980369252",
+  "slug": "a8f15bd1577d3aef",
+  "content_hash": "930b2397dcf3bac568ee1cd6a4903764c55de1b3875b486b7fa180d1f23525ff",
+  "source": {
+    "path": "sources/articles/hangzhou-second-grok-bot-meetup-opens-registration.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 Grok Bot 社区线下聚会，与该主题的 Grok Bot 社区互派最为贴切"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 Grok Bot 使用与社区交流，涉及 Grok Bot 额度与实际使用场景"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "内容属于 Grok Bot 社区活动范畴，与 Grok Bot 在 X 平台上的社区定位相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "文中明确提到 Grok Bot 社区线下聚会，与该主题的 Grok Bot 社区互派最为贴切",
+    "topics/grok-bot-x-api-substitute.md": "帖文围绕 Grok Bot 使用与社区交流，涉及 Grok Bot 额度与实际使用场景",
+    "topics/grok-bot-x-intel-defense-not-post.md": "内容属于 Grok Bot 社区活动范畴，与 Grok Bot 在 X 平台上的社区定位相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hangzhou-second-grok-bot-meetup-opens-registration.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md"
+    ],
+    "selection_reasons": {
+      "topics/dsh-grok-cross-dispatch.md": "文中明确提到 Grok Bot 社区线下聚会，与该主题的 Grok Bot 社区互派最为贴切",
+      "topics/grok-bot-x-api-substitute.md": "帖文围绕 Grok Bot 使用与社区交流，涉及 Grok Bot 额度与实际使用场景",
+      "topics/grok-bot-x-intel-defense-not-post.md": "内容属于 Grok Bot 社区活动范畴，与 Grok Bot 在 X 平台上的社区定位相关"
+    },
+    "notes": "所有事实均仅来自所提供帖文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hangzhou-second-grok-bot-meetup-opens-registration.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

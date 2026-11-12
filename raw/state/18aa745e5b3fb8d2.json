@@ -1,0 +1,23 @@
+{
+  "slug": "18aa745e5b3fb8d2",
+  "url": "https://x.com/localhost_4173/status/2120803540780400977",
+  "title": "汇报",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "18aa745e5b3fb8d24d0115613bc3b974dd463bcaa39aa11b1f128de405e3e1b3",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:35.855Z",
+  "content_hash": "f6a91d00e0d964414cfb148163fcbae091d7c86a9293e078469574e90235eb77",
+  "article_path": "articles/18aa745e5b3fb8d2.md",
+  "fetched_url": "https://x.com/localhost_4173/status/2120803540780400977",
+  "source_path": "sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:30:17.021Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

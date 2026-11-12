@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "YouMind 是 AI 产品公司，与 AI 原生公司主题相关",
+    "topics/ai-assisted-clipping-and-notes.md": "YouMind 涉及内容创作与笔记类产品场景",
+    "topics/geo-personal-website-first-step.md": "帖文提及深圳 GEO 大会与嘉宾介绍",
+    "topics/ai-product-self-rec-amplify.md": "帖文中对 Youmind 产品进行正面背书"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "YouMind 是 AI 产品公司，与 AI 原生公司主题相关"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "YouMind 涉及内容创作与笔记类产品场景"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "帖文提及深圳 GEO 大会与嘉宾介绍"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文中对 Youmind 产品进行正面背书"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未基于本帖创建或修改新主题。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:20:40.827Z",
+  "url": "https://langfuse.com/blog/introducing-gateway",
+  "slug": "05851301bb8bd574",
+  "content_hash": "51e998a5804c8a4e18dcad985ef64c9417089645f8713e2d550796fcfcd86953",
+  "source": {
+    "path": "sources/articles/langfuse-launches-ai-gateway.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/ontology-driven-observability.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "网关聚焦 AI 流量治理、成本归属与模型访问控制，与该主题的智能体算力与治理直接相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章路线图明确提到模型路由与更多供应商支持，与跨模型编排主题相关。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "文章同时介绍自托管 Docker 镜像与 Langfuse 云托管，涉及代理节点部署选型。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "网关把每次模型调用变成可检索、可评估的 Langfuse 追踪，核心在于可观测性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "网关聚焦 AI 流量治理、成本归属与模型访问控制，与该主题的智能体算力与治理直接相关。",
+    "topics/ontology-driven-observability.md": "网关把每次模型调用变成可检索、可评估的 Langfuse 追踪，核心在于可观测性。",
+    "topics/cloud-auto-model-routing.md": "文章路线图明确提到模型路由与更多供应商支持，与跨模型编排主题相关。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "文章同时介绍自托管 Docker 镜像与 Langfuse 云托管，涉及代理节点部署选型。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langfuse-launches-ai-gateway.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/ontology-driven-observability.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "网关聚焦 AI 流量治理、成本归属与模型访问控制，与该主题的智能体算力与治理直接相关。",
+      "topics/ontology-driven-observability.md": "网关把每次模型调用变成可检索、可评估的 Langfuse 追踪，核心在于可观测性。",
+      "topics/cloud-auto-model-routing.md": "文章路线图明确提到模型路由与更多供应商支持，与跨模型编排主题相关。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "文章同时介绍自托管 Docker 镜像与 Langfuse 云托管，涉及代理节点部署选型。"
+    },
+    "notes": "All consulted topics are marked unchanged; no new topics are created.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langfuse-launches-ai-gateway.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

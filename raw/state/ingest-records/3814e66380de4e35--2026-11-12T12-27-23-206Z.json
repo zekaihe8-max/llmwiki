@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:27:23.206Z",
+  "url": "https://x.com/EianLu/status/2120838174503284822",
+  "slug": "3814e66380de4e35",
+  "content_hash": "3854b238b2a8186291e89539b89b7ea078403a3d931397245385454f5af1f300",
+  "source": {
+    "path": "sources/articles/1-5k-star-video-skill-updated-again-styles-expanded-to-99.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及“视频 Skill”与 Skill 更新。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是视频风格与出片工作台，属智能体视频剪辑范畴。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Lemo-opuscar 为开源星标项目，用于 AI 辅助自然语言/视频剪辑。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是视频风格与出片工作台，属智能体视频剪辑范畴。",
+    "topics/agent-skill-authoring.md": "帖文明确提及“视频 Skill”与 Skill 更新。",
+    "topics/open-source-in-ai-assistant-editing.md": "Lemo-opuscar 为开源星标项目，用于 AI 辅助自然语言/视频剪辑。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/1-5k-star-video-skill-updated-again-styles-expanded-to-99.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/agent-skill-authoring.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文核心是视频风格与出片工作台，属智能体视频剪辑范畴。",
+      "topics/agent-skill-authoring.md": "帖文明确提及“视频 Skill”与 Skill 更新。",
+      "topics/open-source-in-ai-assistant-editing.md": "Lemo-opuscar 为开源星标项目，用于 AI 辅助自然语言/视频剪辑。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文及其引用的另一条帖文，未独立核实星标数与 Fable5.2 细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/1-5k-star-video-skill-updated-again-styles-expanded-to-99.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

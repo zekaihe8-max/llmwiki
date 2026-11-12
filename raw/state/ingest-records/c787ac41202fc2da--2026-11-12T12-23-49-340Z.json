@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:23:49.340Z",
+  "url": "https://x.com/shao__meng/status/2120694669156004141",
+  "slug": "c787ac41202fc2da",
+  "content_hash": "f8e83f3117091385b2c3d28dd39905a26ac905aa0e5524483370aa237961123b",
+  "source": {
+    "path": "sources/articles/behind-the-agent-fa-ade-only-tokens-remain.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论模型渠道成本与 Claude 非全量使用的取舍，与该主题聚焦 Agent 模型渠道选择高度相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章涉及网关、中转站与模型路由/降本，与该主题的云平台跨模型编排相近。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 Context Engineering 等工程化概念，与该主题的 Agent 上下文工程直接对应。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Harness Engineering 并质疑 token 叙事，与该主题超越 token 数的 Harness 对比相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论模型渠道成本与 Claude 非全量使用的取舍，与该主题聚焦 Agent 模型渠道选择高度相关。",
+    "topics/context-engineering-for-agents.md": "帖文明确提及 Context Engineering 等工程化概念，与该主题的 Agent 上下文工程直接对应。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文提及 Harness Engineering 并质疑 token 叙事，与该主题超越 token 数的 Harness 对比相关。",
+    "topics/cloud-auto-model-routing.md": "文章涉及网关、中转站与模型路由/降本，与该主题的云平台跨模型编排相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/behind-the-agent-fa-ade-only-tokens-remain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "文章讨论模型渠道成本与 Claude 非全量使用的取舍，与该主题聚焦 Agent 模型渠道选择高度相关。",
+      "topics/context-engineering-for-agents.md": "帖文明确提及 Context Engineering 等工程化概念，与该主题的 Agent 上下文工程直接对应。",
+      "topics/harness-comparison-beyond-tokens.md": "帖文提及 Harness Engineering 并质疑 token 叙事，与该主题超越 token 数的 Harness 对比相关。",
+      "topics/cloud-auto-model-routing.md": "文章涉及网关、中转站与模型路由/降本，与该主题的云平台跨模型编排相近。"
+    },
+    "notes": "Source is a single X post; all claims are attributed to the post or its visible reply.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/behind-the-agent-fa-ade-only-tokens-remain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

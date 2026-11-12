@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:21:06.061Z",
+  "url": "https://x.com/Gorden_Sun/status/2120517352144199974",
+  "slug": "f3fbe3287c9965e1",
+  "content_hash": "86eb4bda7ea33a7241620ec412abb04a30cdea2f07b1803f8523ad63be657f14",
+  "source": {
+    "path": "sources/articles/modern-web-guidance-helping-ai-keep-up-with-the-latest-web-devel.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-native-web-search.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 在本地检索调用网页开发标准，属于面向 Agent 的联网/本地检索场景。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "向 AI 提供最新网页开发规则属于为智能体构建上下文与指令。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文涉及用户体验、开发者体验与无障碍（AX）等核心主题，与该条目范围高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文涉及用户体验、开发者体验与无障碍（AX）等核心主题，与该条目范围高度相关。",
+    "topics/agent-native-web-search.md": "帖文描述 AI 在本地检索调用网页开发标准，属于面向 Agent 的联网/本地检索场景。",
+    "topics/context-engineering-for-agents.md": "向 AI 提供最新网页开发规则属于为智能体构建上下文与指令。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/modern-web-guidance-helping-ai-keep-up-with-the-latest-web-devel.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/agent-native-web-search.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "帖文涉及用户体验、开发者体验与无障碍（AX）等核心主题，与该条目范围高度相关。",
+      "topics/agent-native-web-search.md": "帖文描述 AI 在本地检索调用网页开发标准，属于面向 Agent 的联网/本地检索场景。",
+      "topics/context-engineering-for-agents.md": "向 AI 提供最新网页开发规则属于为智能体构建上下文与指令。"
+    },
+    "notes": "引用仅基于推文可见文本，未访问 GitHub 链接或外部页面。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/modern-web-guidance-helping-ai-keep-up-with-the-latest-web-devel.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

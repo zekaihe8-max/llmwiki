@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:16:16.707Z",
+  "url": "https://x.com/vista8/status/2120829887086813655",
+  "slug": "62a03e28fbb77dbe",
+  "content_hash": "1886574586b7013f90a5696500264bec26f9d0c98835857121058cbb38494353",
+  "source": {
+    "path": "sources/articles/yu-bo-youmind-and-geo-conference-guest-introductions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "YouMind 涉及内容创作与笔记类产品场景"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "YouMind 是 AI 产品公司，与 AI 原生公司主题相关"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文中对 Youmind 产品进行正面背书"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "帖文提及深圳 GEO 大会与嘉宾介绍"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "YouMind 是 AI 产品公司，与 AI 原生公司主题相关",
+    "topics/ai-assisted-clipping-and-notes.md": "YouMind 涉及内容创作与笔记类产品场景",
+    "topics/geo-personal-website-first-step.md": "帖文提及深圳 GEO 大会与嘉宾介绍",
+    "topics/ai-product-self-rec-amplify.md": "帖文中对 Youmind 产品进行正面背书"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yu-bo-youmind-and-geo-conference-guest-introductions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/geo-personal-website-first-step.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "YouMind 是 AI 产品公司，与 AI 原生公司主题相关",
+      "topics/ai-assisted-clipping-and-notes.md": "YouMind 涉及内容创作与笔记类产品场景",
+      "topics/geo-personal-website-first-step.md": "帖文提及深圳 GEO 大会与嘉宾介绍",
+      "topics/ai-product-self-rec-amplify.md": "帖文中对 Youmind 产品进行正面背书"
+    },
+    "notes": "所有主题均保持 unchanged，未基于本帖创建或修改新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yu-bo-youmind-and-geo-conference-guest-introductions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

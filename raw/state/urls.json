@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -8386,8 +8386,8 @@
     "hash": "c8bb663324009cd42c2192275ecae96466884bcf66db575687907a105ca63df1",
     "slug": "c8bb663324009cd4",
     "first_seen": "2026-11-11T23:59:36.936Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
-    "digest": "2026-11-12-frontier-ai.md",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
     "title": "宝玉"
   },
   "https://x.com/demishassabis/status/2120565316619284734": {
@@ -8578,16 +8578,448 @@
     "hash": "bf62e44dfd3f2adb2d5180cb8e75bc2f129c7c732a746f91835024a34b2b93af",
     "slug": "bf62e44dfd3f2adb",
     "first_seen": "2026-11-11T23:59:36.936Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
-    "digest": "2026-11-12-frontier-ai.md",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
     "title": "PiClaw"
   },
   "https://x.com/xiaomovps/status/2120524176650043410": {
     "hash": "4f4e48d6dd52b76f08fc6d9bf14299b821c67eb7a29fcc528208faeff10fe872",
     "slug": "4f4e48d6dd52b76f",
     "first_seen": "2026-11-11T23:59:36.936Z",
-    "last_seen": "2026-11-11T23:59:36.936Z",
-    "digest": "2026-11-12-frontier-ai.md",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
     "title": "三条路线"
+  },
+  "https://x.com/op7418/status/2120694045299327187": {
+    "hash": "b70302dcbba6be737c19bd83f17413039847a17d816437546dc5e556783fdb0c",
+    "slug": "b70302dcbba6be73",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "一下午做出 3D 动作游戏「雾锁山门」"
+  },
+  "https://op7418.github.io/guizang-game-skill": {
+    "hash": "9dea0f85534adb23652de04577152395e499411e38b6952830a0f0b6a204e70d",
+    "slug": "9dea0f85534adb23",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "试玩"
+  },
+  "https://x.com/op7418/status/2120700493634867417": {
+    "hash": "2bfbde56e1fe09560d49256e851350ce8f6df06c9b2c7a682836cb342590c92b",
+    "slug": "2bfbde56e1fe0956",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "网页游戏"
+  },
+  "https://x.com/op7418/status/2120541276970094774": {
+    "hash": "df128263aa4fb99c92cb263938b40ad0e5184202d1d2ff37b7fa86713e876738",
+    "slug": "df128263aa4fb99c",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "4399"
+  },
+  "https://x.com/op7418/status/2120724676024717467": {
+    "hash": "8137dc79a20e6267fa4a3ad0ebc94dd5f2e04c83f464a3dbebc1fdbbb27ff05e",
+    "slug": "8137dc79a20e6267",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "想用 skill 加 DeepSeek Harness 复刻 Fable"
+  },
+  "https://x.com/op7418/status/2120829705431744707": {
+    "hash": "7e0a7c5695fa387ef31d00f12db5cdc35e73bbfcab9eccf439956dffb4cde656",
+    "slug": "7e0a7c5695fa387e",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "豆包工作终于接上了三方模型"
+  },
+  "https://x.com/turingou/status/2120752921814151425": {
+    "hash": "e5377baa0e194adcaa5c162a4f7deb3955267fe5a05cb33963e1e75fe2281dd9",
+    "slug": "e5377baa0e194adc",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "AI 对普通人最大的优势不是更快"
+  },
+  "https://x.com/turingou/status/2120716134832079053": {
+    "hash": "d91f957b7323a028ae49034103c768f243c6470cccd9ddf3cfeae3325668b4d2",
+    "slug": "d91f957b7323a028",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "发布预告"
+  },
+  "https://x.com/turingou/status/2120719407802679353": {
+    "hash": "eacd88e34ef94dd90e5e856ecd665599a4c4594c8996fded44377c11776f988d",
+    "slug": "eacd88e34ef94dd9",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "速度"
+  },
+  "https://x.com/turingou/status/2120810034909397311": {
+    "hash": "6efca77da66841a9fd64b15d571306325727f7366644bb59f1de3d155803f075",
+    "slug": "6efca77da66841a9",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "温泉助理"
+  },
+  "https://x.com/turingou/status/2120838149052207503": {
+    "hash": "d947e0d29451970c8c3922cda6df9f8ebb7290148c457cd94aa6d9cc7bd4ff28",
+    "slug": "d947e0d29451970c",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "wanman"
+  },
+  "https://x.com/0xlangeai/status/2120769549679386878": {
+    "hash": "17aeb0d3fac286050206dbb9abb66092884506bbb2d0d51799268de321657a90",
+    "slug": "17aeb0d3fac28605",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "教程"
+  },
+  "https://x.com/0xlangeai/status/2120492559344791853": {
+    "hash": "cbe067a9f7d97de5c9c4725eef449513f665d742626840d1ae6b1cf8ee1dbad5",
+    "slug": "cbe067a9f7d97de5",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "推荐"
+  },
+  "https://x.com/0xlangeai/status/2120516830607606197": {
+    "hash": "8ec29dcbbbc849cc695cc18eb2ef8c3e96e54735e1b3fdbc0e26c8dd098d69ab",
+    "slug": "8ec29dcbbbc849cc",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "拆解"
+  },
+  "https://x.com/0xlangeai/status/2120540111150739694": {
+    "hash": "0e89afc685151d3f29bb61f7a15e7a7c96f5502c8558ab994ee7eb6324c8a69b",
+    "slug": "0e89afc685151d3f",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "dsh-market 下载量最高的插件到了 310 万"
+  },
+  "https://x.com/0xlangeai/status/2120750249568588285": {
+    "hash": "913e6a05f779656f440c7164f75ebac227fad06aefd823cdc703a4a66eca1f3d",
+    "slug": "913e6a05f779656f",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "Muse"
+  },
+  "https://x.com/0xlangeai/status/2120745792164286962": {
+    "hash": "220c343e168c56a0b9ae70b3bbd30aedbecc9ec73f41b74232bb8a687e4d8ca0",
+    "slug": "220c343e168c56a0",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "ChatCut"
+  },
+  "https://x.com/xiaomovps/status/2120488740779180303": {
+    "hash": "7c7eb533fb56d477362ad64aa72068df1bd51ebfd7d5a3e48c6f9f19edf438a8",
+    "slug": "7c7eb533fb56d477",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "开源"
+  },
+  "https://x.com/xiaomovps/status/2120807310876422308": {
+    "hash": "4ed360519505b0039cd5149e8966ba5d37332c5a967b8c133937ac3f5b8db3fd",
+    "slug": "4ed360519505b003",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "DeepSeek Harness 插件的两个老问题，官方开始动手"
+  },
+  "https://x.com/xiaomovps/status/2120838013366517974": {
+    "hash": "9ce4db3b0ef676dacb0d8652520ca9e60d5a865ae7ff1c0c63e04d393472ea7e",
+    "slug": "9ce4db3b0ef676da",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "AI Coding 套餐已经卷到 39 元"
+  },
+  "https://x.com/cgnot996/status/2120737579196923953": {
+    "hash": "36968846b6dbb86d67363e9469e87cf0a9678ed49156788afd4ee145e120d940",
+    "slug": "36968846b6dbb86d",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "全程只用手机，给家乡做了文旅短片"
+  },
+  "https://x.com/cgnot996/status/2120675179512955002": {
+    "hash": "e36e4fba203e8c6c48b4b5562da6e7461f061ca3d43f8a42fcc492f28463ce20",
+    "slug": "e36e4fba203e8c6c",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "注意到 Grok Bot 1.0，觉得是上线以来最大的一次更新"
+  },
+  "https://x.com/cgnot996/status/2120509797980369252": {
+    "hash": "a8f15bd1577d3aef94ae9e89cb39cc079c34e29b1e37d5a201fa4976e65c5f63",
+    "slug": "a8f15bd1577d3aef",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "报名"
+  },
+  "https://x.com/vista8/status/2120687039553429591": {
+    "hash": "60c6a18943583ee753f6f4f3d1614a21664f8a6cdd2fe62c466c0eeb7d4cead3",
+    "slug": "60c6a18943583ee7",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "重做"
+  },
+  "https://x.com/vista8/status/2120529325560885364": {
+    "hash": "fa016b5afd5da2a9f783726983aa3ed8b8a14f578108d5fce3ebf399117b59da",
+    "slug": "fa016b5afd5da2a9",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "第三方客户端"
+  },
+  "https://x.com/vista8/status/2120818001645805679": {
+    "hash": "7832941c24a452e17b170e8c537502a70af041934161900b48585ee29b1e74dc",
+    "slug": "7832941c24a452e1",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "大会"
+  },
+  "https://x.com/vista8/status/2120829887086813655": {
+    "hash": "62a03e28fbb77dbe28a50bad71888841157696da55703120575a44b7ac3bff5d",
+    "slug": "62a03e28fbb77dbe",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "玉伯"
+  },
+  "https://x.com/vista8/status/2120503932548260273": {
+    "hash": "c393926dfca6170c0a71d0f929e5cc32a8d8f93ebfb6a9a5e048821c70519fe6",
+    "slug": "c393926dfca6170c",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "文心 5.5 Flash Preview 发布"
+  },
+  "https://x.com/dotey/status/2120546916475773071": {
+    "hash": "6fbe1c99887f9e3dc0242f2ef2305fac858e97d81773b49d7f4981b6f567010d",
+    "slug": "6fbe1c99887f9e3d",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "周四 Codex 可能送一张重置卡"
+  },
+  "https://x.com/oran_ge/status/2120834850597011530": {
+    "hash": "b369759f8eb6c38214101d1159dfb6450278ffda204a944854050e1b22836da4",
+    "slug": "b369759f8eb6c382",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "Gemini 4 Carbon 用着比预期友好"
+  },
+  "https://x.com/oran_ge/status/2120674417122656493": {
+    "hash": "8bf1551b3c329f19cfc0ebd8fbc57a7dad7ea3c5bded55a5f5cc60d80725d9db",
+    "slug": "8bf1551b3c329f19",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "年末大厂重组，他看成提效之后没有增量"
+  },
+  "https://x.com/oran_ge/status/2120669369013555248": {
+    "hash": "d013846fc2e5c0748053b1aabacfde508e768c3f7713458613644bc53df832a4",
+    "slug": "d013846fc2e5c074",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "A 社路演提到已经在用 AMD 的 GPU"
+  },
+  "https://x.com/oran_ge/status/2120662791829008806": {
+    "hash": "ab8063efed4c07339f9ca44c6cdc5f905241daa4484377bba1188ee1ed6ab836",
+    "slug": "ab8063efed4c0733",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "从美国就业看职业变化"
+  },
+  "https://x.com/dingyi/status/2120834750009266445": {
+    "hash": "6981c4fd0bd815b5bafc0f43eaa12457c739b15e5fa61e5385cac6e1f1e66796",
+    "slug": "6981c4fd0bd815b5",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "豆包工作对个人用户开放了三方模型"
+  },
+  "https://x.com/dingyi/status/2120726662530937097": {
+    "hash": "cafbca8b780ec0fa199de1b4b18c436d2345555a4eee9934c4c976eebe28b508",
+    "slug": "cafbca8b780ec0fa",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "用 Grok Bot 自动屏蔽恶意评论"
+  },
+  "https://x.com/dingyi/status/2120653800189112667": {
+    "hash": "0d1e9c17c8b3d323d8a753c9cf5bfac81b597bc3f9affc20ee558a6f8a69ccd9",
+    "slug": "0d1e9c17c8b3d323",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "Langfuse 推出了 AI Gateway 公开测试版"
+  },
+  "https://langfuse.com/blog/introducing-gateway": {
+    "hash": "05851301bb8bd57463286865ffcbc39f259cdad5d9dc4b4b0413365e9aa12f85",
+    "slug": "05851301bb8bd574",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "介绍"
+  },
+  "https://x.com/Gorden_Sun/status/2120517352144199974": {
+    "hash": "f3fbe3287c9965e1088fa74f59c930813dbc287a7b2957ad577895aa6c12a74b",
+    "slug": "f3fbe3287c9965e1",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "modern-web-guidance 让 AI 跟上最新的网页开发规则"
+  },
+  "https://x.com/Gorden_Sun/status/2120709296904458727": {
+    "hash": "2662d4b5628d53d69028297a1dddecb424c9ce5b502f629a28d7217ac775223d",
+    "slug": "2662d4b5628d53d6",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "SuperMimic 用单个可微世界模型训练人形机器人全身动作"
+  },
+  "https://x.com/shao__meng/status/2120810839456600433": {
+    "hash": "6d94c8cf41507ad3536430bd66875146bf472b142be41566757cf6d2b1558b9a",
+    "slug": "6d94c8cf41507ad3",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "李彦宏在百度世界 2026 推出「词元所」Token Exchange"
+  },
+  "https://x.com/shao__meng/status/2120694669156004141": {
+    "hash": "c787ac41202fc2dadd380f7f5d44ab6969beb2b7156f88bbb34c1453be37bf48",
+    "slug": "c787ac41202fc2da",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "剥开 Agent 的伪装，最后只剩下 Token"
+  },
+  "https://x.com/shao__meng/status/2120668252456247316": {
+    "hash": "79f21d3568602f48741ca489431bdf1f4eb45ab168c2bc9184149bbda741bea8",
+    "slug": "79f21d3568602f48",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "才发现 Grok Bot 十天前已经到了 v1.0"
+  },
+  "https://x.com/FinanceYF5/status/2120785821209137440": {
+    "hash": "3f3c12642e3d8b2c4ece38d7ca5fe033eb5d64214ea3ee63506c02554451247f",
+    "slug": "3f3c12642e3d8b2c",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "在 AIECode 遇到 Grok Bot 团队的 @poteto"
+  },
+  "https://x.com/FinanceYF5/status/2120797374432035309": {
+    "hash": "d2bbdc5074d4c4348de59cb6231a5938886d50f162413756520b92205a5534aa",
+    "slug": "d2bbdc5074d4c434",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "僵尸游戏"
+  },
+  "https://x.com/FinanceYF5/status/2120766802955538755": {
+    "hash": "1905bf12dfb634bbdeae667433f787349b879737637ff6822bf844c0ca92f00e",
+    "slug": "1905bf12dfb634bb",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "星夜"
+  },
+  "https://x.com/EianLu/status/2120501799027446262": {
+    "hash": "e1546fa19b3e1e63a2a73ed9cf1f89a0d05e58974cbdaa6de686b925508efa20",
+    "slug": "e1546fa19b3e1e63",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "推荐用 Skill 做小红书封面"
+  },
+  "https://x.com/EianLu/status/2120838174503284822": {
+    "hash": "3814e66380de4e3574c7e6c9c22c59eb055c0ac69bc9f5d01192471187a7edd0",
+    "slug": "3814e66380de4e35",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "1.5 万 Star 的视频 Skill 又更新了"
+  },
+  "https://github.com/howoneai/xiaolin-explainer-packaging": {
+    "hash": "95b464421064ba504ab0daa5d4bd68d7a5844023bf786c9e5719ad331fd9b981",
+    "slug": "95b464421064ba50",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "小林说视频包装 Skill"
+  },
+  "https://x.com/ameliax111/status/2120534436316086280": {
+    "hash": "85b6e3da2afd72052b90b2c07f390fc104a3c6f578566e4c5af26cb232e51df2",
+    "slug": "85b6e3da2afd7205",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "发布"
+  },
+  "https://github.com/WoYun520/gif-factory": {
+    "hash": "223064450d55b82a5565099dfd9e58d2ebd3f41d62af5f455a4ca3357a654eca",
+    "slug": "223064450d55b82a",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "小红书封面 Skill"
+  },
+  "https://mygo.run/sponsors": {
+    "hash": "9035a541b9b2e60ae83ac0805f5585938fc34ba75f440c7b25b29e186366ad2d",
+    "slug": "9035a541b9b2e60a",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "MyGo"
+  },
+  "https://x.com/localhost_4173/status/2120490540685029485": {
+    "hash": "511a38ca1f96c25d83ed2f0bd3cc908dc883bae4c7fc42025189db757fb8c520",
+    "slug": "511a38ca1f96c25d",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "域名"
+  },
+  "https://x.com/localhost_4173/status/2120803540780400977": {
+    "hash": "18aa745e5b3fb8d24d0115613bc3b974dd463bcaa39aa11b1f128de405e3e1b3",
+    "slug": "18aa745e5b3fb8d2",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "汇报"
+  },
+  "https://x.com/i/article/2120747381616717824": {
+    "hash": "6e8eb2ad47ca2c2c79e6a7d7da3444b0c6a36d9fe0a0b21ae76e8e676ab950d7",
+    "slug": "6e8eb2ad47ca2c2c",
+    "first_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-12T12:01:15.789Z",
+    "digest": "2026-11-12-cn-x.md",
+    "title": "上手教程"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/lighter-phone-macs-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "帖文宣布产品将在手机端上线，与 AI 应用适配手机主题相近",
+    "topics/mobile-agent-dev-full-chain.md": "涉及手机端产品开发与发布，属移动端落地范畴",
+    "topics/lighter-phone-macs-for-agents.md": "提及手机作为产品交付终端，与手机设备话题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文宣布产品将在手机端上线，与 AI 应用适配手机主题相近"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及手机端产品开发与发布，属移动端落地范畴"
+    },
+    {
+      "path": "topics/lighter-phone-macs-for-agents.md",
+      "action": "unchanged",
+      "reason": "提及手机作为产品交付终端，与手机设备话题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; no external facts invented beyond the article."
+}

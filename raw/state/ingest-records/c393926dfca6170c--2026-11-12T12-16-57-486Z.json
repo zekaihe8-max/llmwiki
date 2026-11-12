@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:16:57.486Z",
+  "url": "https://x.com/vista8/status/2120503932548260273",
+  "slug": "c393926dfca6170c",
+  "content_hash": "a255354faa3c88a754f3017e7eced3fa8b5f8b7243be430bd17b5a39686fb87d",
+  "source": {
+    "path": "sources/articles/baidu-wenxin-5-5-flash-preview-released.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文提及模型可处理复杂软件工程任务、调用 MCP 工具与 Skill，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章强调 200+ tokens/s 推理速度及架构降低计算开销，与大厂推理成本效率相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文心 5.5 Flash 以 Apache 2.0 开源发布，属开放权重前沿模型，与该主题直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Flash 系列模型发布，涉及 Pro 与 Flash 模型定位与策略。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文心 5.5 Flash 以 Apache 2.0 开源发布，属开放权重前沿模型，与该主题直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "文章聚焦 Flash 系列模型发布，涉及 Pro 与 Flash 模型定位与策略。",
+    "topics/agent-scaled-engineering.md": "帖文提及模型可处理复杂软件工程任务、调用 MCP 工具与 Skill，属智能体规模化工程范畴。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文章强调 200+ tokens/s 推理速度及架构降低计算开销，与大厂推理成本效率相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/baidu-wenxin-5-5-flash-preview-released.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文心 5.5 Flash 以 Apache 2.0 开源发布，属开放权重前沿模型，与该主题直接相关。",
+      "topics/pro-vs-flash-model-strategy.md": "文章聚焦 Flash 系列模型发布，涉及 Pro 与 Flash 模型定位与策略。",
+      "topics/agent-scaled-engineering.md": "帖文提及模型可处理复杂软件工程任务、调用 MCP 工具与 Skill，属智能体规模化工程范畴。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文章强调 200+ tokens/s 推理速度及架构降低计算开销，与大厂推理成本效率相关。"
+    },
+    "notes": "所有主张均基于所提供 X 帖文内容，未核实外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/baidu-wenxin-5-5-flash-preview-released.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

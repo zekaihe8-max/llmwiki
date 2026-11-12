@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:04:15.829Z",
+  "url": "https://x.com/op7418/status/2120700493634867417",
+  "slug": "2bfbde56e1fe0956",
+  "content_hash": "95f6462ef41795d4eb4d7fece2a95c015db551920efb90585a220dc29001eceb",
+  "source": {
+    "path": "sources/articles/web-games-return-and-ai-driven-game-development-paradigm.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文中 Fable 5.2 一下午做出 3D 小游戏，与“随手 AI 小游戏一次成功”主题高度相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文中提到的 3D 动作游戏与实时交互世界模型主题相近。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中 AI 降低游戏开发门槛、涌现新作品的观点，与 Vibe Gaming 模型拐点主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文中 Fable 5.2 一下午做出 3D 小游戏，与“随手 AI 小游戏一次成功”主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "文中 AI 降低游戏开发门槛、涌现新作品的观点，与 Vibe Gaming 模型拐点主题相关。",
+    "topics/interactive-world-models.md": "文中提到的 3D 动作游戏与实时交互世界模型主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/web-games-return-and-ai-driven-game-development-paradigm.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "帖文中 Fable 5.2 一下午做出 3D 小游戏，与“随手 AI 小游戏一次成功”主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "文中 AI 降低游戏开发门槛、涌现新作品的观点，与 Vibe Gaming 模型拐点主题相关。",
+      "topics/interactive-world-models.md": "文中提到的 3D 动作游戏与实时交互世界模型主题相近。"
+    },
+    "notes": "所有主张均基于帖文内容，未引入外部事实；未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/web-games-return-and-ai-driven-game-development-paradigm.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
