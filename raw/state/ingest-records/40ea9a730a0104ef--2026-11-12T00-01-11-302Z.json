@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:01:11.302Z",
+  "url": "https://x.com/OfficialLoganK/status/2120581433639198885",
+  "slug": "40ea9a730a0104ef",
+  "content_hash": "d12e4e198f4afd22b7cfec87b6bcf08c987fc8ce998aae60d1e0400bd4fe9926",
+  "source": {
+    "path": "sources/articles/gemini-decision-1-launched-0-10-per-1m-input-tokens.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/near-real-time-decisions-api.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "关注云平台模型编排与路由，与新模型接入 Gemini API 相关。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "帖文主题为决策模型 API，与该条目的决策 API 基建方向最为贴近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google 模型产品线与定价策略，与 Gemini Decision 1 的发布定位相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/near-real-time-decisions-api.md": "帖文主题为决策模型 API，与该条目的决策 API 基建方向最为贴近。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google 模型产品线与定价策略，与 Gemini Decision 1 的发布定位相关。",
+    "topics/cloud-auto-model-routing.md": "关注云平台模型编排与路由，与新模型接入 Gemini API 相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-decision-1-launched-0-10-per-1m-input-tokens.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/near-real-time-decisions-api.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/near-real-time-decisions-api.md": "帖文主题为决策模型 API，与该条目的决策 API 基建方向最为贴近。",
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Google 模型产品线与定价策略，与 Gemini Decision 1 的发布定位相关。",
+      "topics/cloud-auto-model-routing.md": "关注云平台模型编排与路由，与新模型接入 Gemini API 相关。"
+    },
+    "notes": "所有事实均源自提供的 X 帖文截图内容，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-decision-1-launched-0-10-per-1m-input-tokens.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

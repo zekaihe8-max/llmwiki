@@ -1,0 +1,23 @@
+{
+  "slug": "284015bb54f4a942",
+  "url": "https://x.com/GoogleCloudTech/status/2120563165557571629",
+  "title": "A2UI 1.0",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "284015bb54f4a942a07190d30807f243075ebc97ef9850e659b0e6c8908e321c",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:41.002Z",
+  "content_hash": "1d3f6839396fef2f50720881b9a3405f0769ef9fbad9a98313cbcd9e0604b2f4",
+  "article_path": "articles/284015bb54f4a942.md",
+  "fetched_url": "https://x.com/GoogleCloudTech/status/2120563165557571629",
+  "source_path": "sources/articles/a2ui-1-0-released-open-protocol-and-framework-for-generative-ui.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:05:46.567Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

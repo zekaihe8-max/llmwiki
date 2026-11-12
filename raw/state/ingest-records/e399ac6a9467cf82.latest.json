@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:10:07.952Z",
+  "url": "https://x.com/lennysan/status/2120640209779884381",
+  "slug": "e399ac6a9467cf82",
+  "content_hash": "5d7086480d69986df56df1414134e686f53b5def748d9731eb15645315fb6574",
+  "source": {
+    "path": "sources/articles/job-market-shifts-diverging-tech-hiring-demand.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "帖文提及安全工程师与 AI 工程师岗位上升，与该主题的 AI 与网安岗位讨论相近，但本条仅做事实摘录，故保持不变。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 岗位与编制变化趋势，与帖文中 AI 工程师需求上升相关，但无需修改现有条目。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文提及工程师需求停滞与前端下降，与软件工程生产力相关，但本条仅做外部事实引用，故保持不变。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 UX 研究员与产品设计师下降，属 UX/DX/AX 范畴，但未引入新框架，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-cybersecurity-jobs.md": "帖文提及安全工程师与 AI 工程师岗位上升，与该主题的 AI 与网安岗位讨论相近，但本条仅做事实摘录，故保持不变。",
+    "topics/ux-dx-and-ax.md": "帖文涉及 UX 研究员与产品设计师下降，属 UX/DX/AX 范畴，但未引入新框架，故保持不变。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及 AI 岗位与编制变化趋势，与帖文中 AI 工程师需求上升相关，但无需修改现有条目。",
+    "topics/software-factory.md": "帖文提及工程师需求停滞与前端下降，与软件工程生产力相关，但本条仅做外部事实引用，故保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/job-market-shifts-diverging-tech-hiring-demand.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-cybersecurity-jobs.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-cybersecurity-jobs.md": "帖文提及安全工程师与 AI 工程师岗位上升，与该主题的 AI 与网安岗位讨论相近，但本条仅做事实摘录，故保持不变。",
+      "topics/ux-dx-and-ax.md": "帖文涉及 UX 研究员与产品设计师下降，属 UX/DX/AX 范畴，但未引入新框架，故保持不变。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "涉及 AI 岗位与编制变化趋势，与帖文中 AI 工程师需求上升相关，但无需修改现有条目。",
+      "topics/software-factory.md": "帖文提及工程师需求停滞与前端下降，与软件工程生产力相关，但本条仅做外部事实引用，故保持不变。"
+    },
+    "notes": "来源为 Lenny Rachitsky 在 X 上的帖文，未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/job-market-shifts-diverging-tech-hiring-demand.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

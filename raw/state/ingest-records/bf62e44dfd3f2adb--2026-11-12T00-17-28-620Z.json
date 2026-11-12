@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:17:28.620Z",
+  "url": "https://x.com/xiaomovps/status/2120541856857817154",
+  "slug": "bf62e44dfd3f2adb",
+  "content_hash": "6f31b7b87dee3751df147e2628bb4955a7b0306ccdc7e4f2351bc6581a41c447",
+  "source": {
+    "path": "sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-skill-authoring.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "PiClaw 保留 Pi 的 Extension 和 Skill 扩展能力，涉及 Agent Skill 的编写与使用。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "PiClaw 通过插件实现个人助手功能并提供 Web 工作台，符合基于插件的 Agent Harness 讨论。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "帖文强调 Pi Agent 精简且扩展自由度高，与精简核心加社区扩展的主题直接相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文明确提出把 Coding Agent 变成可长期使用的 Personal Agent。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "帖文强调 Pi Agent 精简且扩展自由度高，与精简核心加社区扩展的主题直接相关。",
+    "topics/agent-skill-authoring.md": "PiClaw 保留 Pi 的 Extension 和 Skill 扩展能力，涉及 Agent Skill 的编写与使用。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文明确提出把 Coding Agent 变成可长期使用的 Personal Agent。",
+    "topics/loose-web-agent-harness-plugins.md": "PiClaw 通过插件实现个人助手功能并提供 Web 工作台，符合基于插件的 Agent Harness 讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/agent-skill-authoring.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/loose-web-agent-harness-plugins.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "帖文强调 Pi Agent 精简且扩展自由度高，与精简核心加社区扩展的主题直接相关。",
+      "topics/agent-skill-authoring.md": "PiClaw 保留 Pi 的 Extension 和 Skill 扩展能力，涉及 Agent Skill 的编写与使用。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文明确提出把 Coding Agent 变成可长期使用的 Personal Agent。",
+      "topics/loose-web-agent-harness-plugins.md": "PiClaw 通过插件实现个人助手功能并提供 Web 工作台，符合基于插件的 Agent Harness 讨论。"
+    },
+    "notes": "来源为 @xiaomovps 在 X 上的帖文，未独立核实 GitHub 仓库内容，所有主张均基于帖文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:00:49.858Z",
+  "url": "https://x.com/sundarpichai/status/2120581155078729728",
+  "slug": "e252c1974a4a64ce",
+  "content_hash": "205ae039e80363d122a7a31678c56f0f1c3635c7d80c347103282dbbeca6e96a",
+  "source": {
+    "path": "sources/articles/sundar-pichai-launches-gemini-decisions-api-scores-up-to-1-000-q.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/near-real-time-decisions-api.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文提及基准测试表现与校准误差，涉及 AI 评测入口与记录。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文宣称在多项基准测试中领先，需审视公开榜单质量，与该主题相关。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "标题与内容均直接对应“决策 API”，是本条帖文最贴切的现有主题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文将定价与 Flash-Lite 做对比，属于 Pro 与 Flash 模型策略讨论范围。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/near-real-time-decisions-api.md": "标题与内容均直接对应“决策 API”，是本条帖文最贴切的现有主题。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文将定价与 Flash-Lite 做对比，属于 Pro 与 Flash 模型策略讨论范围。",
+    "topics/ai-eval-work-record-gateway.md": "帖文提及基准测试表现与校准误差，涉及 AI 评测入口与记录。",
+    "topics/community-evals-vs-score-hype.md": "帖文宣称在多项基准测试中领先，需审视公开榜单质量，与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sundar-pichai-launches-gemini-decisions-api-scores-up-to-1-000-q.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/near-real-time-decisions-api.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/near-real-time-decisions-api.md": "标题与内容均直接对应“决策 API”，是本条帖文最贴切的现有主题。",
+      "topics/pro-vs-flash-model-strategy.md": "帖文将定价与 Flash-Lite 做对比，属于 Pro 与 Flash 模型策略讨论范围。",
+      "topics/ai-eval-work-record-gateway.md": "帖文提及基准测试表现与校准误差，涉及 AI 评测入口与记录。",
+      "topics/community-evals-vs-score-hype.md": "帖文宣称在多项基准测试中领先，需审视公开榜单质量，与该主题相关。"
+    },
+    "notes": "所有事实均仅来自所提供的 X 帖文文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sundar-pichai-launches-gemini-decisions-api-scores-up-to-1-000-q.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

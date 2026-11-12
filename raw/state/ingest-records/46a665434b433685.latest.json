@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:07:24.468Z",
+  "url": "https://x.com/GoogleAIStudio/status/2120610219235660183",
+  "slug": "46a665434b433685",
+  "content_hash": "8ae9a778e1ff512298ac163959e9a57615d1995061ef20f3a03c5316a1dee1e5",
+  "source": {
+    "path": "sources/articles/google-ai-studio-managed-agents-support-self-hosted-sandbox-envi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "托管智能体的算力与环境治理边界与自托管沙箱相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "托管智能体的规模化工程与环境交付相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多智能体基建问题涵盖环境与沙箱管理。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 云环境的备份、隔离，与自托管环境最贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "托管智能体的算力与环境治理边界与自托管沙箱相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "讨论个人 Agent 云环境的备份、隔离，与自托管环境最贴近。",
+    "topics/agent-scaled-engineering.md": "托管智能体的规模化工程与环境交付相关。",
+    "topics/multiagent-infra-four-problems.md": "多智能体基建问题涵盖环境与沙箱管理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-ai-studio-managed-agents-support-self-hosted-sandbox-envi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "托管智能体的算力与环境治理边界与自托管沙箱相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "讨论个人 Agent 云环境的备份、隔离，与自托管环境最贴近。",
+      "topics/agent-scaled-engineering.md": "托管智能体的规模化工程与环境交付相关。",
+      "topics/multiagent-infra-four-problems.md": "多智能体基建问题涵盖环境与沙箱管理。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；事实仅来源于提供的推文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-ai-studio-managed-agents-support-self-hosted-sandbox-envi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

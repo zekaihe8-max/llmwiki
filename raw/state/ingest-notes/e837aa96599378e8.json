@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/local-open-assistant-models.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/on-chip-agent-runtime.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "帖文强调 GR00T 2 完全在机器人车载算力运行，与智能体算力与治理主题相关。",
+    "topics/local-open-assistant-models.md": "GR00T 2 是开放权重机器人模型，与本地开放助手与机器人小模型主题相关。",
+    "topics/ai-task-horizon-growth.md": "帖文提及长时程任务，与 AI 任务时界增长主题相关。",
+    "topics/on-chip-agent-runtime.md": "车载算力运行与芯片上的 Agent Runtime 主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文强调 GR00T 2 完全在机器人车载算力运行，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "GR00T 2 是开放权重机器人模型，与本地开放助手与机器人小模型主题相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提及长时程任务，与 AI 任务时界增长主题相关。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "车载算力运行与芯片上的 Agent Runtime 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文正文，未引入外部事实。"
+}

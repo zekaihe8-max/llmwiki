@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心主张以工程方式应对 AI 与安全接管，涉及代理驱动的规模化构建与补丁。",
+    "topics/agent-compute-and-governance.md": "文中提到防御方需要比攻击者更多推理能力，属于智能体算力与治理范畴。",
+    "topics/account-and-asset-security-hygiene.md": "文中多次提及证书泄露、远程代码执行、补丁响应等资产安全与卫生事件。",
+    "topics/software-factory.md": "文中对比了会议上关于“软件工厂”的讨论，并提出优化事件响应也能提升构建效率。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心主张以工程方式应对 AI 与安全接管，涉及代理驱动的规模化构建与补丁。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中提到防御方需要比攻击者更多推理能力，属于智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文中多次提及证书泄露、远程代码执行、补丁响应等资产安全与卫生事件。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中对比了会议上关于“软件工厂”的讨论，并提出优化事件响应也能提升构建效率。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章结尾关于循环、背压和属性测试的 bonus round 被截断，未在摘要中展开。"
+}

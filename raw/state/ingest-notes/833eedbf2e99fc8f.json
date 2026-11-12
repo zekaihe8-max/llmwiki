@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章介绍用于疾病研究的 AI 模型，与 AI 在科研实践中的应用主题相近。",
+    "topics/ai-pharma-opc-lab-acquisition.md": "AlphaGenome 2 面向疾病机制研究，与 AI 医药与实验室主题相关。",
+    "topics/open-weight-frontier-models.md": "AlphaGenome 2 属于 DeepMind 发布的前沿 AI 模型，与前沿模型主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章介绍用于疾病研究的 AI 模型，与 AI 在科研实践中的应用主题相近。"
+    },
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "AlphaGenome 2 面向疾病机制研究，与 AI 医药与实验室主题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "AlphaGenome 2 属于 DeepMind 发布的前沿 AI 模型，与前沿模型主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于提供的 X 帖文文本，未引入外部事实或链接。"
+}

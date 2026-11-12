@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:09:28.615Z",
+  "url": "https://x.com/lennysan/status/2120574811038691488",
+  "slug": "55e0cbe82551ba9e",
+  "content_hash": "69ebbd85342f744cd549b5ca6aefee4f3f25be85096b2b22f452867dffeaa8f0",
+  "source": {
+    "path": "sources/articles/growth-structure-tech-hiring-recovers-but-growth-comes-mostly-fr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/software-factory.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中将招聘变化归因于 AI 时代，与 AI 原生公司话题相近"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "文章讨论科技公司招聘规模与岗位结构，与大厂编制与职级话题相近"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中提及软件工程岗位需求停滞，与软件工厂/软件交付语境相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中提到设计与 UX 研究岗位萎缩，与 UX/DX/AX 话题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "文章讨论科技公司招聘规模与岗位结构，与大厂编制与职级话题相近",
+    "topics/software-factory.md": "文中提及软件工程岗位需求停滞，与软件工厂/软件交付语境相关",
+    "topics/ux-dx-and-ax.md": "文中提到设计与 UX 研究岗位萎缩，与 UX/DX/AX 话题相关",
+    "topics/ai-native-companies.md": "文中将招聘变化归因于 AI 时代，与 AI 原生公司话题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/growth-structure-tech-hiring-recovers-but-growth-comes-mostly-fr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/software-factory.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/enterprise-ai-digital-employee-headcount.md": "文章讨论科技公司招聘规模与岗位结构，与大厂编制与职级话题相近",
+      "topics/software-factory.md": "文中提及软件工程岗位需求停滞，与软件工厂/软件交付语境相关",
+      "topics/ux-dx-and-ax.md": "文中提到设计与 UX 研究岗位萎缩，与 UX/DX/AX 话题相关",
+      "topics/ai-native-companies.md": "文中将招聘变化归因于 AI 时代，与 AI 原生公司话题相近"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/growth-structure-tech-hiring-recovers-but-growth-comes-mostly-fr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

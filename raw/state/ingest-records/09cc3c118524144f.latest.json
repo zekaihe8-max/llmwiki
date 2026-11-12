@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:11:20.385Z",
+  "url": "https://x.com/hwchase17/status/2120330156325867529",
+  "slug": "09cc3c118524144f",
+  "content_hash": "5f06f9f7025b1fddc5b0e296364dd0120814df439353b4b7af6e6fa4b4cb94e2",
+  "source": {
+    "path": "sources/articles/chase-goal-engineering.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/raise-ambition-until-ai-frontier.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Agent 领域的工程方法论，与智能体规模化工程主题相近。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文以删除线划掉“harness engineering”，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文以删除线划掉“context engineering”，直接对应该主题。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "“目标工程”涉及目标设定与抱负，与把目标抬到更野心的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文以删除线划掉“context engineering”，直接对应该主题。",
+    "topics/company-agent-harness.md": "帖文以删除线划掉“harness engineering”，与公司级 Agent Harness 主题相关。",
+    "topics/agent-scaled-engineering.md": "帖文讨论 Agent 领域的工程方法论，与智能体规模化工程主题相近。",
+    "topics/raise-ambition-until-ai-frontier.md": "“目标工程”涉及目标设定与抱负，与把目标抬到更野心的主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chase-goal-engineering.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/company-agent-harness.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/raise-ambition-until-ai-frontier.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "帖文以删除线划掉“context engineering”，直接对应该主题。",
+      "topics/company-agent-harness.md": "帖文以删除线划掉“harness engineering”，与公司级 Agent Harness 主题相关。",
+      "topics/agent-scaled-engineering.md": "帖文讨论 Agent 领域的工程方法论，与智能体规模化工程主题相近。",
+      "topics/raise-ambition-until-ai-frontier.md": "“目标工程”涉及目标设定与抱负，与把目标抬到更野心的主题相近。"
+    },
+    "notes": "帖文极短，核心内容为三个工程术语的增删对比，未展开具体定义或实践。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chase-goal-engineering.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

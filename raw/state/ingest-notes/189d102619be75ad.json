@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/company-agent-harness.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "标题直接命中 Agent Swarm，与本文核心主题最相近。",
+    "topics/multiagent-infra-four-problems.md": "涉及多智能体基建，与文中提到的蜂群基础设施机会相关。",
+    "topics/company-agent-harness.md": "文中强调构建 Agent 运行的 Harness，与公司级 Agent Harness 主题相近。",
+    "topics/ai-native-companies.md": "引用内容提到 Swarm-native companies，与 AI 原生公司主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "标题直接命中 Agent Swarm，与本文核心主题最相近。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "涉及多智能体基建，与文中提到的蜂群基础设施机会相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中强调构建 Agent 运行的 Harness，与公司级 Agent Harness 主题相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "引用内容提到 Swarm-native companies，与 AI 原生公司主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:07:04.784Z",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+  "slug": "657e032c519b1e29",
+  "content_hash": "bad340a2fab084e6cc9b1534184d831a25a9f0efed0fa885807cb7abf787ac07",
+  "source": {
+    "path": "sources/articles/introducing-gemini-for-healthcare.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及企业级身份管理、细粒度访问控制和集中式策略管理，与智能体算力与治理主题相近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Gemini for healthcare 的核心组件之一是由领域专家编写的可复用医疗技能，与 Agent Skill 编写主题相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "方案扩展了通用 Gemini 智能体，属于智能体基础设施与基础模型应用范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调在不切换应用的情况下编排跨系统多步骤临床与行政工作流，与工作流优先于智能体主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章涉及企业级身份管理、细粒度访问控制和集中式策略管理，与智能体算力与治理主题相近。",
+    "topics/agent-skill-authoring.md": "Gemini for healthcare 的核心组件之一是由领域专家编写的可复用医疗技能，与 Agent Skill 编写主题相近。",
+    "topics/agentic-ai-foundation.md": "方案扩展了通用 Gemini 智能体，属于智能体基础设施与基础模型应用范畴。",
+    "topics/workflows-before-agents.md": "文章强调在不切换应用的情况下编排跨系统多步骤临床与行政工作流，与工作流优先于智能体主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-gemini-for-healthcare.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章涉及企业级身份管理、细粒度访问控制和集中式策略管理，与智能体算力与治理主题相近。",
+      "topics/agent-skill-authoring.md": "Gemini for healthcare 的核心组件之一是由领域专家编写的可复用医疗技能，与 Agent Skill 编写主题相近。",
+      "topics/agentic-ai-foundation.md": "方案扩展了通用 Gemini 智能体，属于智能体基础设施与基础模型应用范畴。",
+      "topics/workflows-before-agents.md": "文章强调在不切换应用的情况下编排跨系统多步骤临床与行政工作流，与工作流优先于智能体主题相近。"
+    },
+    "notes": "所有事实均来源于提供的 Google Cloud 博客文章，未编造 URL 或外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-gemini-for-healthcare.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

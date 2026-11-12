@@ -1,0 +1,23 @@
+{
+  "slug": "657e032c519b1e29",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+  "title": "公告",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "657e032c519b1e29630521137a0376a50b9db01e2eec226e7c1b68f4bd897aef",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:42.132Z",
+  "content_hash": "bad340a2fab084e6cc9b1534184d831a25a9f0efed0fa885807cb7abf787ac07",
+  "article_path": "articles/657e032c519b1e29.md",
+  "fetched_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+  "source_path": "sources/articles/introducing-gemini-for-healthcare.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:07:04.785Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

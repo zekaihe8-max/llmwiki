@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:20:24.988Z",
+  "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences",
+  "slug": "740de2548ad8f468",
+  "content_hash": "5ec934db0999d223cd78a82d256320f6b14e672a924d99deb66761de51f31072",
+  "source": {
+    "path": "sources/articles/a2ui-1-0-build-delightful-fast-reliable-agentic-experiences.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "A2UI 是面向智能体界面的开放标准/协议，与 Agent Skills 开放标准主题相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章围绕智能体与生成式 UI 的交互模式，与智能体 AI 基础主题高度相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "文中涉及 iOS、Android、Flutter 等移动端原生渲染器，与手机端 Agent 全链路开发相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章强调最终用户体验与开发者体验（原生渲染、低延迟、跨平台），对应 UX、DX 与 AX。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "文章围绕智能体与生成式 UI 的交互模式，与智能体 AI 基础主题高度相关。",
+    "topics/agent-skills-open-standard.md": "A2UI 是面向智能体界面的开放标准/协议，与 Agent Skills 开放标准主题相近。",
+    "topics/ux-dx-and-ax.md": "文章强调最终用户体验与开发者体验（原生渲染、低延迟、跨平台），对应 UX、DX 与 AX。",
+    "topics/mobile-agent-dev-full-chain.md": "文中涉及 iOS、Android、Flutter 等移动端原生渲染器，与手机端 Agent 全链路开发相关。"
+  },
+  "files_changed": [
+    "sources/articles/a2ui-1-0-build-delightful-fast-reliable-agentic-experiences.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/mobile-agent-dev-full-chain.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "文章围绕智能体与生成式 UI 的交互模式，与智能体 AI 基础主题高度相关。",
+      "topics/agent-skills-open-standard.md": "A2UI 是面向智能体界面的开放标准/协议，与 Agent Skills 开放标准主题相近。",
+      "topics/ux-dx-and-ax.md": "文章强调最终用户体验与开发者体验（原生渲染、低延迟、跨平台），对应 UX、DX 与 AX。",
+      "topics/mobile-agent-dev-full-chain.md": "文中涉及 iOS、Android、Flutter 等移动端原生渲染器，与手机端 Agent 全链路开发相关。"
+    },
+    "notes": "基于 Google 开发者博客原文整理，未引入外部事实或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/a2ui-1-0-build-delightful-fast-reliable-agentic-experiences.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

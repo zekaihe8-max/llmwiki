@@ -1,0 +1,23 @@
+{
+  "slug": "3883c04e2348f3b0",
+  "url": "https://en.fnnews.com/news/202611111610393909",
+  "title": "报道",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "3883c04e2348f3b0844a86afb8fb587333f6f93e8ef2a6df104c2c625bdb48e2",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:42.658Z",
+  "content_hash": "5205a6ce64bebfb837db72e790cf556b86f3d27adfacce6f2369cadf2028bda9",
+  "article_path": "articles/3883c04e2348f3b0.md",
+  "fetched_url": "https://en.fnnews.com/news/202611111610393909",
+  "source_path": "sources/articles/sam-altman-warns-samsung-executives-ai-demand-double-counted-sho.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:07:45.336Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/near-real-time-decisions-api.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/near-real-time-decisions-api.md": "帖文主题为决策模型 API，与该条目的决策 API 基建方向最为贴近。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google 模型产品线与定价策略，与 Gemini Decision 1 的发布定位相关。",
+    "topics/cloud-auto-model-routing.md": "关注云平台模型编排与路由，与新模型接入 Gemini API 相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "帖文主题为决策模型 API，与该条目的决策 API 基建方向最为贴近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google 模型产品线与定价策略，与 Gemini Decision 1 的发布定位相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "关注云平台模型编排与路由，与新模型接入 Gemini API 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自提供的 X 帖文截图内容，未引入外部信息。"
+}

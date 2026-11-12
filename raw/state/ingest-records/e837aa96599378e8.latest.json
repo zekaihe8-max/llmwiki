@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:08:48.563Z",
+  "url": "https://x.com/DrJimFan/status/2120540201994846253",
+  "slug": "e837aa96599378e8",
+  "content_hash": "9e02062177620758c40a7155756262dde315b22ebcafac05ebb3c39bfd50b9ba",
+  "source": {
+    "path": "sources/articles/jim-fan-real-robot-no-speed-up.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/local-open-assistant-models.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/on-chip-agent-runtime.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文强调 GR00T 2 完全在机器人车载算力运行，与智能体算力与治理主题相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提及长时程任务，与 AI 任务时界增长主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "GR00T 2 是开放权重机器人模型，与本地开放助手与机器人小模型主题相关。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "车载算力运行与芯片上的 Agent Runtime 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "帖文强调 GR00T 2 完全在机器人车载算力运行，与智能体算力与治理主题相关。",
+    "topics/local-open-assistant-models.md": "GR00T 2 是开放权重机器人模型，与本地开放助手与机器人小模型主题相关。",
+    "topics/ai-task-horizon-growth.md": "帖文提及长时程任务，与 AI 任务时界增长主题相关。",
+    "topics/on-chip-agent-runtime.md": "车载算力运行与芯片上的 Agent Runtime 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/jim-fan-real-robot-no-speed-up.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/local-open-assistant-models.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/on-chip-agent-runtime.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "帖文强调 GR00T 2 完全在机器人车载算力运行，与智能体算力与治理主题相关。",
+      "topics/local-open-assistant-models.md": "GR00T 2 是开放权重机器人模型，与本地开放助手与机器人小模型主题相关。",
+      "topics/ai-task-horizon-growth.md": "帖文提及长时程任务，与 AI 任务时界增长主题相关。",
+      "topics/on-chip-agent-runtime.md": "车载算力运行与芯片上的 Agent Runtime 主题相关。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文正文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/jim-fan-real-robot-no-speed-up.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

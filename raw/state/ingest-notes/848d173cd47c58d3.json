@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/agent-worktree-cleanup.md",
+    "topics/agent-swarms-cyber-defense.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文中大量涉及 Agent 规模化工程实践，如 Nix 环境统一、fleet 补丁与一次性机器。",
+    "topics/account-and-asset-security-hygiene.md": "文章核心论点是安全瓶颈，并讨论补丁、禁止 force-push 等资产安全卫生措施。",
+    "topics/agent-worktree-cleanup.md": "文中提到用 AGENTS.md 替代 Jira 票据，并设置七天自过期清理笔记。",
+    "topics/agent-swarms-cyber-defense.md": "文中提到自动化紫队测试与防御方推理能力，属于网安 Agent 防御范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中大量涉及 Agent 规模化工程实践，如 Nix 环境统一、fleet 补丁与一次性机器。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章核心论点是安全瓶颈，并讨论补丁、禁止 force-push 等资产安全卫生措施。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "文中提到用 AGENTS.md 替代 Jira 票据，并设置七天自过期清理笔记。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文中提到自动化紫队测试与防御方推理能力，属于网安 Agent 防御范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by Geoffrey Huntley; no external URLs beyond the post itself are invented."
+}

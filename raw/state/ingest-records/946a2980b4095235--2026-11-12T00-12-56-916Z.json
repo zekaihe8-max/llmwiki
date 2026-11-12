@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:12:56.916Z",
+  "url": "https://x.com/mattpocockuk/status/2120503390333768170",
+  "slug": "946a2980b4095235",
+  "content_hash": "b6bf0eda96bc19b0867ff6d1df2d22981412d29031593e7aefbeaf286467a608",
+  "source": {
+    "path": "sources/articles/domain-language-ddd-and-agent-collaboration.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/languages-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体工程化，与帖文中代码重构和协作相关"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及智能体基础，与帖文中对智能体内容的对比相关"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的语言，与帖文中通用语言概念相近"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "主张工作流优先于智能体，与帖文强调 DDD 而非智能体功能相呼应"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "涉及智能体基础，与帖文中对智能体内容的对比相关",
+    "topics/agent-scaled-engineering.md": "涉及智能体工程化，与帖文中代码重构和协作相关",
+    "topics/languages-for-agents.md": "涉及面向 Agent 的语言，与帖文中通用语言概念相近",
+    "topics/workflows-before-agents.md": "主张工作流优先于智能体，与帖文强调 DDD 而非智能体功能相呼应"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/domain-language-ddd-and-agent-collaboration.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/languages-for-agents.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "涉及智能体基础，与帖文中对智能体内容的对比相关",
+      "topics/agent-scaled-engineering.md": "涉及智能体工程化，与帖文中代码重构和协作相关",
+      "topics/languages-for-agents.md": "涉及面向 Agent 的语言，与帖文中通用语言概念相近",
+      "topics/workflows-before-agents.md": "主张工作流优先于智能体，与帖文强调 DDD 而非智能体功能相呼应"
+    },
+    "notes": "来源仅为单条 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/domain-language-ddd-and-agent-collaboration.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

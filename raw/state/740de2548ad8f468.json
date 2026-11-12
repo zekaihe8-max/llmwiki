@@ -1,0 +1,23 @@
+{
+  "slug": "740de2548ad8f468",
+  "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences",
+  "title": "公告",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "740de2548ad8f4689ad7f67673bd596a7ce9448dda5d31b7c4abd8573dac6cf4",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:41.538Z",
+  "content_hash": "5ec934db0999d223cd78a82d256320f6b14e672a924d99deb66761de51f31072",
+  "article_path": "articles/740de2548ad8f468.md",
+  "fetched_url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+  "source_path": "sources/articles/a2ui-1-0-build-delightful-fast-reliable-agentic-experiences.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:20:24.989Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

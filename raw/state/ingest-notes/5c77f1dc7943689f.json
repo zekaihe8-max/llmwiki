@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "文章涉及 AI 与医药/生物医学研究交叉，主题最贴近 AlphaGenome 用于疾病根因分析的场景。",
+    "topics/ai-peer-review-science-adaptation.md": "AlphaGenome 2 面向科研人员用于基因发现与疾病研究，属于 AI 介入科研实践。",
+    "topics/ai-native-companies.md": "发布者为 Google CEO，内容围绕 Google DeepMind 的 AI 模型，体现 AI 原生公司的技术发布。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 与医药/生物医学研究交叉，主题最贴近 AlphaGenome 用于疾病根因分析的场景。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "AlphaGenome 2 面向科研人员用于基因发现与疾病研究，属于 AI 介入科研实践。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "发布者为 Google CEO，内容围绕 Google DeepMind 的 AI 模型，体现 AI 原生公司的技术发布。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题；未超出文章内容编造事实。"
+}

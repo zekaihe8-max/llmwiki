@@ -1,3 +1,65 @@
+## 2026-11-12
+
+* **创建 / Creation**: 归档 [三条路线：Pi Agent、DeepSeek Harness 与 Qwen Code 1.0 的架构取舍](./sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md)。 / Filed [Three Routes: Architecture Trade-offs Among Pi Agent, DeepSeek Harness, and Qwen Code 1.0](./sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md).
+
+* **创建 / Creation**: 归档 [PiClaw：基于 Pi Agent 的可插件个人 AI 助手工作台](./sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md)。 / Filed [PiClaw: Plugin-based Personal AI Assistant Workbench Built on Pi Agent](./sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md).
+
+* **创建 / Creation**: 归档 [AI 的答案是工程](./sources/articles/the-answer-to-ai-is-engineering.md)。 / Filed [The answer to AI is engineering](./sources/articles/the-answer-to-ai-is-engineering.md).
+
+* **创建 / Creation**: 归档 [Huntley · 安全才是瓶颈](./sources/articles/huntley-security-is-the-new-bottleneck.md)。 / Filed [Huntley · Security Is the New Bottleneck](./sources/articles/huntley-security-is-the-new-bottleneck.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 代码审查实测：high 档位优于 xhigh](./sources/articles/fable-5-2-code-review-real-world-test-high-effort-beats-xhigh.md)。 / Filed [Fable 5.2 Code Review Real-World Test: high Effort Beats xhigh](./sources/articles/fable-5-2-code-review-real-world-test-high-effort-beats-xhigh.md).
+
+* **创建 / Creation**: 归档 [清规则：用 Anthropic Fable 5.2 指南审查过时项目指令](./sources/articles/clear-rules-review-outdated-project-instructions-with-anthropic.md)。 / Filed [Clear Rules: Review Outdated Project Instructions with Anthropic's Fable 5.2 Prompting Guide](./sources/articles/clear-rules-review-outdated-project-instructions-with-anthropic.md).
+
+* **创建 / Creation**: 归档 [流程即软件](./sources/articles/process-is-software.md)。 / Filed [Process Is Software](./sources/articles/process-is-software.md).
+
+* **创建 / Creation**: 归档 [领域语言：DDD 与智能体协作的核心](./sources/articles/domain-language-ddd-and-agent-collaboration.md)。 / Filed [Domain Language: DDD and Agent Collaboration](./sources/articles/domain-language-ddd-and-agent-collaboration.md).
+
+* **创建 / Creation**: 归档 [语言：Rust 与 Agent 时代的新编程语言](./sources/articles/language-rust-and-new-programming-languages-in-the-agent-era.md)。 / Filed [Language: Rust and New Programming Languages in the Agent Era](./sources/articles/language-rust-and-new-programming-languages-in-the-agent-era.md).
+
+* **创建 / Creation**: 归档 [创造优秀产品仍需非凡专注](./sources/articles/creating-wonderful-products-still-requires-extraordinary-human-f.md)。 / Filed [Creating Wonderful Products Still Requires Extraordinary Human Focus](./sources/articles/creating-wonderful-products-still-requires-extraordinary-human-f.md).
+
+* **创建 / Creation**: 归档 [Chase · 目标工程](./sources/articles/chase-goal-engineering.md)。 / Filed [Chase · Goal Engineering](./sources/articles/chase-goal-engineering.md).
+
+* **创建 / Creation**: 归档 [Levie · Agent 蜂群](./sources/articles/levie-agent-swarms.md)。 / Filed [Levie · Agent Swarms](./sources/articles/levie-agent-swarms.md).
+
+* **创建 / Creation**: 归档 [岗位涨跌：科技招聘需求分化](./sources/articles/job-market-shifts-diverging-tech-hiring-demand.md)。 / Filed [Job Market Shifts: Diverging Tech Hiring Demand](./sources/articles/job-market-shifts-diverging-tech-hiring-demand.md).
+
+* **创建 / Creation**: 归档 [增长结构：科技招聘回暖，但增长主要来自硬件与基础设施岗位](./sources/articles/growth-structure-tech-hiring-recovers-but-growth-comes-mostly-fr.md)。 / Filed [Growth Structure: Tech Hiring Recovers, but Growth Comes Mostly from Hardware and Infrastructure Roles](./sources/articles/growth-structure-tech-hiring-recovers-but-growth-comes-mostly-fr.md).
+
+* **创建 / Creation**: 归档 [Jim Fan · 真机不加速](./sources/articles/jim-fan-real-robot-no-speed-up.md)。 / Filed [Jim Fan · Real Robot, No Speed-up](./sources/articles/jim-fan-real-robot-no-speed-up.md).
+
+* **创建 / Creation**: 归档 [Mollick · 编程扩散得比预想快](./sources/articles/mollick-coding-diffusion-faster-than-expected.md)。 / Filed [Mollick · Coding diffusion faster than expected](./sources/articles/mollick-coding-diffusion-faster-than-expected.md).
+
+* **创建 / Creation**: 归档 [山姆·阿尔特曼警告三星高管：AI需求被重复计算，短期将出现波动](./sources/articles/sam-altman-warns-samsung-executives-ai-demand-double-counted-sho.md)。 / Filed [Sam Altman warns Samsung executives: AI demand double-counted, short-term volatility expected](./sources/articles/sam-altman-warns-samsung-executives-ai-demand-double-counted-sho.md).
+
+* **创建 / Creation**: 归档 [Google AI Studio 托管智能体支持自托管沙箱环境](./sources/articles/google-ai-studio-managed-agents-support-self-hosted-sandbox-envi.md)。 / Filed [Google AI Studio Managed Agents Support Self-Hosted Sandbox Environments](./sources/articles/google-ai-studio-managed-agents-support-self-hosted-sandbox-envi.md).
+
+* **创建 / Creation**: 归档 [推出面向医疗保健的 Gemini](./sources/articles/introducing-gemini-for-healthcare.md)。 / Filed [Introducing Gemini for healthcare](./sources/articles/introducing-gemini-for-healthcare.md).
+
+* **创建 / Creation**: 归档 [A2UI 1.0：构建愉悦、快速、可靠的智能体体验](./sources/articles/a2ui-1-0-build-delightful-fast-reliable-agentic-experiences.md)。 / Filed [A2UI 1.0: Build delightful, fast, reliable, agentic experiences](./sources/articles/a2ui-1-0-build-delightful-fast-reliable-agentic-experiences.md).
+
+* **创建 / Creation**: 归档 [A2UI 1.0 发布：跨平台生成式 UI 开放协议与框架](./sources/articles/a2ui-1-0-released-open-protocol-and-framework-for-generative-ui.md)。 / Filed [A2UI 1.0 Released: Open Protocol and Framework for Generative UI](./sources/articles/a2ui-1-0-released-open-protocol-and-framework-for-generative-ui.md).
+
+* **创建 / Creation**: 归档 [AlphaGenome 2：解读细胞如何读取 DNA 以更好地理解疾病](./sources/articles/alphagenome-2-deciphering-how-cells-read-dna-to-better-understan.md)。 / Filed [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](./sources/articles/alphagenome-2-deciphering-how-cells-read-dna-to-better-understan.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 发布 AlphaGenome 2，聚焦特定细胞以理解疾病成因](./sources/articles/google-deepmind-releases-alphagenome-2-focusing-on-specific-cell.md)。 / Filed [Google DeepMind releases AlphaGenome 2, focusing on specific cells to understand disease causes](./sources/articles/google-deepmind-releases-alphagenome-2-focusing-on-specific-cell.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 发布 AlphaGenome 2，助力揭示疾病细胞驱动因素](./sources/articles/sundar-pichai-announces-alphagenome-2-to-uncover-cellular-driver.md)。 / Filed [Sundar Pichai Announces AlphaGenome 2 to Uncover Cellular Drivers of Disease](./sources/articles/sundar-pichai-announces-alphagenome-2-to-uncover-cellular-driver.md).
+
+* **创建 / Creation**: 归档 [Demis Hassabis 宣布 AlphaGenome 2 DNA 序列模型](./sources/articles/demis-hassabis-announces-alphagenome-2-dna-sequence-model.md)。 / Filed [Demis Hassabis Announces AlphaGenome 2 DNA Sequence Model](./sources/articles/demis-hassabis-announces-alphagenome-2-dna-sequence-model.md).
+
+* **创建 / Creation**: 归档 [Google 推出 Gemini Decisions API：不生成文字只做判断，单次最多 1000 个问题](./sources/articles/google-launches-gemini-decisions-api-judgment-only-up-to-1-000-q.md)。 / Filed [Google Launches Gemini Decisions API: Judgment-Only, Up to 1,000 Questions Per Request](./sources/articles/google-launches-gemini-decisions-api-judgment-only-up-to-1-000-q.md).
+
+* **创建 / Creation**: 归档 [Gemini Decisions API：快速、校准的多模态决策](./sources/articles/gemini-decisions-api-fast-calibrated-multimodal-decisions.md)。 / Filed [Gemini Decisions API: Fast, calibrated multimodal decisions](./sources/articles/gemini-decisions-api-fast-calibrated-multimodal-decisions.md).
+
+* **创建 / Creation**: 归档 [Google AI Studio 发布 Gemini Decisions API](./sources/articles/google-ai-studio-launches-gemini-decisions-api.md)。 / Filed [Google AI Studio Launches Gemini Decisions API](./sources/articles/google-ai-studio-launches-gemini-decisions-api.md).
+
+* **创建 / Creation**: 归档 [Gemini Decision 1 发布：每百万输入 tokens 0.10 美元](./sources/articles/gemini-decision-1-launched-0-10-per-1m-input-tokens.md)。 / Filed [Gemini Decision 1 Launched: $0.10 per 1M Input Tokens](./sources/articles/gemini-decision-1-launched-0-10-per-1m-input-tokens.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 发布 Gemini Decisions API：单轮评分最高 1000 个问题，输出 Token 免费](./sources/articles/sundar-pichai-launches-gemini-decisions-api-scores-up-to-1-000-q.md)。 / Filed [Sundar Pichai Launches Gemini Decisions API: Scores Up to 1,000 Questions in One Pass, Output Tokens Free](./sources/articles/sundar-pichai-launches-gemini-decisions-api-scores-up-to-1-000-q.md).
+
 ## 2026-11-11
 
 * **创建 / Creation**: 归档 [Eian 发布 Opus 5.5 与 Blender 制作的上海地铁粘土动画](./sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md)。 / Filed [Eian shares Opus 5.5 and Blender claymation of Shanghai Metro construction](./sources/articles/eian-shares-opus-5-5-and-blender-claymation-of-shanghai-metro-co.md).
