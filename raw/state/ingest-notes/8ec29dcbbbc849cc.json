@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章聚焦 DeepSeek Harness 插件生态，与公司级 Agent Harness 基建主题相近。",
+    "topics/loose-web-agent-harness-plugins.md": "帖文详述 Harness 插件的安装包名与启用流程，直接对应 Agent Harness 插件主题。",
+    "topics/design-to-code-byo-subscriptions.md": "baoyu-design 包含网页设计与原型导出功能，涉及设计↔代码场景。",
+    "topics/harness-plugin-style-fragmentation.md": "多个子插件共用 dsh-claude-artifacts 但界面功能各异，与 Harness 插件界面碎片化议题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 插件生态，与公司级 Agent Harness 基建主题相近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "帖文详述 Harness 插件的安装包名与启用流程，直接对应 Agent Harness 插件主题。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "baoyu-design 包含网页设计与原型导出功能，涉及设计↔代码场景。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "多个子插件共用 dsh-claude-artifacts 但界面功能各异，与 Harness 插件界面碎片化议题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

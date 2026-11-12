@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/company-agent-harness.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文核心是应用内接入第三方模型，与该主题直接相关。",
+    "topics/company-agent-harness.md": "帖文提出“Harness 才是护城河”，与公司级 Agent Harness 主题相关。",
+    "topics/deepseek-inference-vs-aggregators.md": "帖文提及 DeepSeek 及第三方模型聚合，与该主题相关。",
+    "topics/cloud-auto-model-routing.md": "帖文涉及多模型接入与消耗倍率，跨模型编排与取舍相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文核心是应用内接入第三方模型，与该主题直接相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提出“Harness 才是护城河”，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "帖文提及 DeepSeek 及第三方模型聚合，与该主题相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及多模型接入与消耗倍率，跨模型编排与取舍相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 @dingyi 的一条帖文，文中日期显示为 2026 年 11 月 12 日。"
+}

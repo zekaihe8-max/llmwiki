@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:29:16.842Z",
+  "url": "https://mygo.run/sponsors",
+  "slug": "9035a541b9b2e60a",
+  "content_hash": "ad658316b25a11c3da94d1c379a5f28bec10383e2da614e81500620bda5722e4",
+  "source": {
+    "path": "sources/articles/sponsor-mygo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/software-factory.md",
+    "topics/llm-maintained-wiki.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "涉及 wiki 站点维护，与 MyGo 文档站点性质相关"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "涉及开源工具与项目，与 MyGo 的开源性质相近"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及软件开发与产出，与开源项目维护相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-source-in-ai-assistant-editing.md": "涉及开源工具与项目，与 MyGo 的开源性质相近",
+    "topics/software-factory.md": "涉及软件开发与产出，与开源项目维护相关",
+    "topics/llm-maintained-wiki.md": "涉及 wiki 站点维护，与 MyGo 文档站点性质相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sponsor-mygo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/software-factory.md",
+      "topics/llm-maintained-wiki.md"
+    ],
+    "selection_reasons": {
+      "topics/open-source-in-ai-assistant-editing.md": "涉及开源工具与项目，与 MyGo 的开源性质相近",
+      "topics/software-factory.md": "涉及软件开发与产出，与开源项目维护相关",
+      "topics/llm-maintained-wiki.md": "涉及 wiki 站点维护，与 MyGo 文档站点性质相关"
+    },
+    "notes": "所有事实均来自赞助页面，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sponsor-mygo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "d013846fc2e5c074",
+  "url": "https://x.com/oran_ge/status/2120669369013555248",
+  "title": "A 社路演提到已经在用 AMD 的 GPU",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "d013846fc2e5c0748053b1aabacfde508e768c3f7713458613644bc53df832a4",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:27.179Z",
+  "content_hash": "4e514edef9e633d31d397f283742753ea203c9e2d48cf36e95b22bd198b03be0",
+  "article_path": "articles/d013846fc2e5c074.md",
+  "fetched_url": "https://x.com/oran_ge/status/2120669369013555248",
+  "source_path": "sources/articles/anthropic-road-show-says-it-has-started-using-amd-gpus.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:18:35.790Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

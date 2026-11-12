@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agentic-video-editing.md",
+    "topics/workflows-before-agents.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文探讨“哪些步骤可以交给 Muse 自动跑”，与智能体自动模式主题相近。",
+    "topics/agentic-video-editing.md": "锦鲤四个工作台之一即为 AI 视频工作流，与智能体视频剪辑相关。",
+    "topics/workflows-before-agents.md": "核心是用 Muse 搭建自动化工作台/工作流，优先于单纯智能体。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及自媒体创作中心与媒体笔记类内容。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文探讨“哪些步骤可以交给 Muse 自动跑”，与智能体自动模式主题相近。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "锦鲤四个工作台之一即为 AI 视频工作流，与智能体视频剪辑相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "核心是用 Muse 搭建自动化工作台/工作流，优先于单纯智能体。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及自媒体创作中心与媒体笔记类内容。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，主张未经独立核实，已在摘要中用「帖文称」标注。"
+}

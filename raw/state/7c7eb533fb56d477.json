@@ -1,0 +1,23 @@
+{
+  "slug": "7c7eb533fb56d477",
+  "url": "https://x.com/xiaomovps/status/2120488740779180303",
+  "title": "开源",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "7c7eb533fb56d477362ad64aa72068df1bd51ebfd7d5a3e48c6f9f19edf438a8",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:22.173Z",
+  "content_hash": "7d4a4b2feb4317588337eed078392ffe18915c02810559a021a4b49193a27a03",
+  "article_path": "articles/7c7eb533fb56d477.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2120488740779180303",
+  "source_path": "sources/articles/qwen-open-sources-agent-harness-releases-qwen-code-1-0-preview.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:12:15.830Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

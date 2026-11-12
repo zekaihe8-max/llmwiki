@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-cybersecurity-jobs.md": "涉及 AI 对就业岗位的影响，与文中 AI 改变职业结构的主题相近",
+    "topics/enterprise-ai-digital-employee-headcount.md": "关注大厂编制与头数变化，与文中科技公司空缺职位数据相关",
+    "topics/software-factory.md": "涉及软件行业生产与岗位，对应文中软件岗位停滞的论点"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 对就业岗位的影响，与文中 AI 改变职业结构的主题相近"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "关注大厂编制与头数变化，与文中科技公司空缺职位数据相关"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及软件行业生产与岗位，对应文中软件岗位停滞的论点"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容均来自推文及其转引的 Lenny Rachitsky 帖文，未补充外部事实"
+}

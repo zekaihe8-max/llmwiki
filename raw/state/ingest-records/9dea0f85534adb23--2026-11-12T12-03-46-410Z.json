@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:03:46.410Z",
+  "url": "https://op7418.github.io/guizang-game-skill",
+  "slug": "9dea0f85534adb23",
+  "content_hash": "0c5965c9c3e7574ea026729d51ad2acf73d348bfacaed8fb67ce6f6bfd440797",
+  "source": {
+    "path": "sources/articles/playtest-hun-yu-0-ai-mini-game.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章正是一次随手 AI 小游戏的试玩页面，与“随手 AI 小游戏一次成功”主题高度相关。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "页面提及用 guizang-game-skill 做成游戏，涉及以 Skill 组合构建原生感应用/游戏的思路。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "AI 生成游戏体现 Vibe Gaming 模型拐点相关语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "文章正是一次随手 AI 小游戏的试玩页面，与“随手 AI 小游戏一次成功”主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "AI 生成游戏体现 Vibe Gaming 模型拐点相关语境。",
+    "topics/skills-stack-native-app-recreation.md": "页面提及用 guizang-game-skill 做成游戏，涉及以 Skill 组合构建原生感应用/游戏的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/playtest-hun-yu-0-ai-mini-game.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "文章正是一次随手 AI 小游戏的试玩页面，与“随手 AI 小游戏一次成功”主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "AI 生成游戏体现 Vibe Gaming 模型拐点相关语境。",
+      "topics/skills-stack-native-app-recreation.md": "页面提及用 guizang-game-skill 做成游戏，涉及以 Skill 组合构建原生感应用/游戏的思路。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/playtest-hun-yu-0-ai-mini-game.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

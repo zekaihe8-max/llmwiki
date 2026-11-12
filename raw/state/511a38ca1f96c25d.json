@@ -1,0 +1,23 @@
+{
+  "slug": "511a38ca1f96c25d",
+  "url": "https://x.com/localhost_4173/status/2120490540685029485",
+  "title": "域名",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "511a38ca1f96c25d83ed2f0bd3cc908dc883bae4c7fc42025189db757fb8c520",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:35.610Z",
+  "content_hash": "27526011377c735e66614a055ac61e09a20aedcb30228222de50bf883f944a48",
+  "article_path": "articles/511a38ca1f96c25d.md",
+  "fetched_url": "https://x.com/localhost_4173/status/2120490540685029485",
+  "source_path": "sources/articles/mygo-launches-new-domain-mygo-run-with-chinese-docs-and-sponsors.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:29:45.847Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

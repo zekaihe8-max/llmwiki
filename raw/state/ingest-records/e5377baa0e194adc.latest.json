@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:06:45.434Z",
+  "url": "https://x.com/turingou/status/2120752921814151425",
+  "slug": "e5377baa0e194adc",
+  "content_hash": "533718e3201e281294ba3dc90ef5a17a897b871fe06f497263405ef8fa43d31f",
+  "source": {
+    "path": "sources/articles/ai-s-biggest-advantage-for-ordinary-people-is-not-speed.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/workflows-before-agents.md",
+    "topics/ai-assisted-local-businesses.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦普通人和小团队使用 AI，与 AI 助力小生意主题相近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提到普通人小团队像字节跳动一样运营，与 AI 原生公司主题相近"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调通过工作流形成增长飞轮，与工作流优先主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文提到普通人小团队像字节跳动一样运营，与 AI 原生公司主题相近",
+    "topics/workflows-before-agents.md": "帖文强调通过工作流形成增长飞轮，与工作流优先主题相关",
+    "topics/ai-assisted-local-businesses.md": "帖文聚焦普通人和小团队使用 AI，与 AI 助力小生意主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-s-biggest-advantage-for-ordinary-people-is-not-speed.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/workflows-before-agents.md",
+      "topics/ai-assisted-local-businesses.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "帖文提到普通人小团队像字节跳动一样运营，与 AI 原生公司主题相近",
+      "topics/workflows-before-agents.md": "帖文强调通过工作流形成增长飞轮，与工作流优先主题相关",
+      "topics/ai-assisted-local-businesses.md": "帖文聚焦普通人和小团队使用 AI，与 AI 助力小生意主题相近"
+    },
+    "notes": "来源仅为单条 X 帖文，主张未经独立核实，已在摘要中使用「帖文称」。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-s-biggest-advantage-for-ordinary-people-is-not-speed.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

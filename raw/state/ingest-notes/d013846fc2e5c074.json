@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章核心涉及 AMD GPU 用于 AI 的算力接入，与 GPU 算力解锁主题最相关",
+    "topics/claude-on-google-cloud.md": "涉及 Claude 模型在芯片/云平台上的部署与运行，与 Claude 云端部署主题相近",
+    "topics/agent-compute-and-governance.md": "涉及大模型厂商的算力平台接入与工程成本，与智能体算力与治理主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章核心涉及 AMD GPU 用于 AI 的算力接入，与 GPU 算力解锁主题最相关"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 模型在芯片/云平台上的部署与运行，与 Claude 云端部署主题相近"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及大模型厂商的算力平台接入与工程成本，与智能体算力与治理主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文及其引用的路演视频片段，未经独立核实。"
+}

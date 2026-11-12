@@ -1,0 +1,23 @@
+{
+  "slug": "cafbca8b780ec0fa",
+  "url": "https://x.com/dingyi/status/2120726662530937097",
+  "title": "用 Grok Bot 自动屏蔽恶意评论",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "cafbca8b780ec0fa199de1b4b18c436d2345555a4eee9934c4c976eebe28b508",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:28.098Z",
+  "content_hash": "d142c3c4d611d8d304af03272e22c02c158338a715f894309abe3efb73b001e1",
+  "article_path": "articles/cafbca8b780ec0fa.md",
+  "fetched_url": "https://x.com/dingyi/status/2120726662530937097",
+  "source_path": "sources/articles/using-grok-bot-to-automatically-block-malicious-comments.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:19:45.448Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

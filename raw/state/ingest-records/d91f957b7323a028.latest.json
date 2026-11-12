@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:07:25.376Z",
+  "url": "https://x.com/turingou/status/2120716134832079053",
+  "slug": "d91f957b7323a028",
+  "content_hash": "2f199d75bdede10beaf742a7550b282371abd173f90437da5012a11f237776fd",
+  "source": {
+    "path": "sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "服务依赖 Mac Studio 专属算力，涉及 Agent 计算资源与治理。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "急速构建服务与 CI 加速属于智能体规模化工程与基础设施效率话题。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 iOS/macOS 原生构建与模拟器操作，属手机端 Agent 全链路开发范畴。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "自动化构建、Testflight 与应用市场发布流程与软件工厂的流水线理念相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "帖文涉及 iOS/macOS 原生构建与模拟器操作，属手机端 Agent 全链路开发范畴。",
+    "topics/agent-scaled-engineering.md": "急速构建服务与 CI 加速属于智能体规模化工程与基础设施效率话题。",
+    "topics/software-factory.md": "自动化构建、Testflight 与应用市场发布流程与软件工厂的流水线理念相近。",
+    "topics/agent-compute-and-governance.md": "服务依赖 Mac Studio 专属算力，涉及 Agent 计算资源与治理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/software-factory.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/mobile-agent-dev-full-chain.md": "帖文涉及 iOS/macOS 原生构建与模拟器操作，属手机端 Agent 全链路开发范畴。",
+      "topics/agent-scaled-engineering.md": "急速构建服务与 CI 加速属于智能体规模化工程与基础设施效率话题。",
+      "topics/software-factory.md": "自动化构建、Testflight 与应用市场发布流程与软件工厂的流水线理念相近。",
+      "topics/agent-compute-and-governance.md": "服务依赖 Mac Studio 专属算力，涉及 Agent 计算资源与治理。"
+    },
+    "notes": "所有主张均基于帖文原文，未独立核实；帖文时间显示为 2026 年 11 月 12 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:07:43.007Z",
+  "url": "https://x.com/turingou/status/2120719407802679353",
+  "slug": "eacd88e34ef94dd9",
+  "content_hash": "949c03cb3ae4d45b3cbae127d0d596ce300191456f3ec22af3fcd9cd5620cef8",
+  "source": {
+    "path": "sources/articles/rapid-build-completes-super-large-project-builds-within-one-minu.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "超大型项目与规模化工程场景相关。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "帖文提及大量 PR 与 CI，与自动合入/审核流程相邻。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及构建与 CI 流水线的软件交付语境，与帖文提及的构建速度相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "构建等待时间属于开发者体验（DX）范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "涉及构建与 CI 流水线的软件交付语境，与帖文提及的构建速度相近。",
+    "topics/deterministic-refactor-automerge.md": "帖文提及大量 PR 与 CI，与自动合入/审核流程相邻。",
+    "topics/agent-scaled-engineering.md": "超大型项目与规模化工程场景相关。",
+    "topics/ux-dx-and-ax.md": "构建等待时间属于开发者体验（DX）范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rapid-build-completes-super-large-project-builds-within-one-minu.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "涉及构建与 CI 流水线的软件交付语境，与帖文提及的构建速度相近。",
+      "topics/deterministic-refactor-automerge.md": "帖文提及大量 PR 与 CI，与自动合入/审核流程相邻。",
+      "topics/agent-scaled-engineering.md": "超大型项目与规模化工程场景相关。",
+      "topics/ux-dx-and-ax.md": "构建等待时间属于开发者体验（DX）范畴。"
+    },
+    "notes": "所有主张均基于 fetched article 中的帖文表述，未独立核实；日期为页面显示时间。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rapid-build-completes-super-large-project-builds-within-one-minu.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

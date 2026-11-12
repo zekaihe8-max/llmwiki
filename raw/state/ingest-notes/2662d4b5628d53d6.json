@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是可微分世界模型与机器人动作交互，与该主题最贴近。",
+    "topics/simulation-ready-open-3d-assets.md": "SuperMimic 基于 mjlab 物理仿真环境，涉及仿真资产与环境构建。",
+    "topics/local-open-assistant-models.md": "文章聚焦人形机器人（G1）全身动作训练，与机器人小模型/本地开放机器人主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是可微分世界模型与机器人动作交互，与该主题最贴近。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "SuperMimic 基于 mjlab 物理仿真环境，涉及仿真资产与环境构建。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章聚焦人形机器人（G1）全身动作训练，与机器人小模型/本地开放机器人主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为单条 X 帖文，所有主张均以「帖文称」标注，未独立核实。"
+}

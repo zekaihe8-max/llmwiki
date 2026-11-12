@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-native-web-search.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文涉及用户体验、开发者体验与无障碍（AX）等核心主题，与该条目范围高度相关。",
+    "topics/agent-native-web-search.md": "帖文描述 AI 在本地检索调用网页开发标准，属于面向 Agent 的联网/本地检索场景。",
+    "topics/context-engineering-for-agents.md": "向 AI 提供最新网页开发规则属于为智能体构建上下文与指令。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文涉及用户体验、开发者体验与无障碍（AX）等核心主题，与该条目范围高度相关。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 在本地检索调用网页开发标准，属于面向 Agent 的联网/本地检索场景。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "向 AI 提供最新网页开发规则属于为智能体构建上下文与指令。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用仅基于推文可见文本，未访问 GitHub 链接或外部页面。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是视频风格与出片工作台，属智能体视频剪辑范畴。",
+    "topics/agent-skill-authoring.md": "帖文明确提及“视频 Skill”与 Skill 更新。",
+    "topics/open-source-in-ai-assistant-editing.md": "Lemo-opuscar 为开源星标项目，用于 AI 辅助自然语言/视频剪辑。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是视频风格与出片工作台，属智能体视频剪辑范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及“视频 Skill”与 Skill 更新。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Lemo-opuscar 为开源星标项目，用于 AI 辅助自然语言/视频剪辑。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文及其引用的另一条帖文，未独立核实星标数与 Fable5.2 细节。"
+}

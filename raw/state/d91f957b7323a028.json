@@ -1,0 +1,23 @@
+{
+  "slug": "d91f957b7323a028",
+  "url": "https://x.com/turingou/status/2120716134832079053",
+  "title": "发布预告",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "d91f957b7323a028ae49034103c768f243c6470cccd9ddf3cfeae3325668b4d2",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:18.597Z",
+  "content_hash": "2f199d75bdede10beaf742a7550b282371abd173f90437da5012a11f237776fd",
+  "article_path": "articles/d91f957b7323a028.md",
+  "fetched_url": "https://x.com/turingou/status/2120716134832079053",
+  "source_path": "sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:07:25.377Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

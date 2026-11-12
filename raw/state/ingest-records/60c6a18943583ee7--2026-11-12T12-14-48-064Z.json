@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:14:48.064Z",
+  "url": "https://x.com/vista8/status/2120687039553429591",
+  "slug": "60c6a18943583ee7",
+  "content_hash": "e223f5952362760858d12fee14f8743134a3f63a32c710186ae9d5fe7dae09e9",
+  "source": {
+    "path": "sources/articles/redesigning-anker-recorder-bean-client-with-local-asr-and-voice.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到接入 qwen0.6b ASR 本地模型，属于本地开放小模型范畴。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "帖文提到豆包语音转写，与 AI 转写主题相近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文涉及将客户端改造成实时语音输入设备，与语音输入主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文涉及将客户端改造成实时语音输入设备，与语音输入主题直接相关。",
+    "topics/local-open-assistant-models.md": "帖文明确提到接入 qwen0.6b ASR 本地模型，属于本地开放小模型范畴。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "帖文提到豆包语音转写，与 AI 转写主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/redesigning-anker-recorder-bean-client-with-local-asr-and-voice.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/local-open-assistant-models.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "帖文涉及将客户端改造成实时语音输入设备，与语音输入主题直接相关。",
+      "topics/local-open-assistant-models.md": "帖文明确提到接入 qwen0.6b ASR 本地模型，属于本地开放小模型范畴。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "帖文提到豆包语音转写，与 AI 转写主题相近。"
+    },
+    "notes": "来源仅为 X 帖文，未独立核实 Fable 5.2、安克录音豆、Typeless 等细节，主张均用「帖文称」表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/redesigning-anker-recorder-bean-client-with-local-asr-and-voice.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "涉及个人网站与域名启用，与 MyGo 新域名上线最为相关",
+    "topics/landing-page-site-clone-over-skill.md": "涉及站点/登陆页建设，与新域名下的文档和赞助页面相近",
+    "topics/design-to-code-byo-subscriptions.md": "涉及订阅/赞助页面，与 MyGo 赞助页上线相关"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及个人网站与域名启用，与 MyGo 新域名上线最为相关"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "涉及站点/登陆页建设，与新域名下的文档和赞助页面相近"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及订阅/赞助页面，与 MyGo 赞助页上线相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:22:50.405Z",
+  "url": "https://x.com/shao__meng/status/2120810839456600433",
+  "slug": "6d94c8cf41507ad3",
+  "content_hash": "3be8c2f2abac965498f0b0307c5bb2a970d42f281976f13e48f0a6a9de58be89",
+  "source": {
+    "path": "sources/articles/robin-li-launches-token-exchange-at-baidu-world-2026.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及模型渠道取舍，与模型交易市场的定位和用户选择相近。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台跨模型编排，与模型聚合、路由及交易市场主题相关。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "讨论自营推理与聚合平台的区别，与“词元所是否只是换壳中转站”的质疑直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "讨论自营推理与聚合平台的区别，与“词元所是否只是换壳中转站”的质疑直接相关。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道取舍，与模型交易市场的定位和用户选择相近。",
+    "topics/cloud-auto-model-routing.md": "云平台跨模型编排，与模型聚合、路由及交易市场主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/robin-li-launches-token-exchange-at-baidu-world-2026.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "讨论自营推理与聚合平台的区别，与“词元所是否只是换壳中转站”的质疑直接相关。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道取舍，与模型交易市场的定位和用户选择相近。",
+      "topics/cloud-auto-model-routing.md": "云平台跨模型编排，与模型聚合、路由及交易市场主题相关。"
+    },
+    "notes": "内容源自 X 帖文，其中关于百度产品定位与差异化的判断为发文者个人观点，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/robin-li-launches-token-exchange-at-baidu-world-2026.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

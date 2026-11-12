@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/pure-speech-full-duplex.md",
+    "topics/llm-assisted-ereader-jailbreak.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文涉及录音设备与语音输入场景，与该主题最贴近。",
+    "topics/pure-speech-full-duplex.md": "AI 麦克风构想涉及语音采集与交互，与纯语音全双工相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "第三方客户端与自行改造硬件的精神与设备越狱/改造主题相近。",
+    "topics/mobile-agent-dev-full-chain.md": "第三方客户端属于移动端客户端开发范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文涉及录音设备与语音输入场景，与该主题最贴近。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "AI 麦克风构想涉及语音采集与交互，与纯语音全双工相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "第三方客户端与自行改造硬件的精神与设备越狱/改造主题相近。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "第三方客户端属于移动端客户端开发范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来源于提供的 X 帖文文本，未引入外部 URL 或未核实信息。"
+}

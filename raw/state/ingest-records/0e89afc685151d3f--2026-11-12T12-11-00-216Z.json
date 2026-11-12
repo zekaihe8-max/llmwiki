@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:11:00.216Z",
+  "url": "https://x.com/0xlangeai/status/2120540111150739694",
+  "slug": "0e89afc685151d3f",
+  "content_hash": "cad1ede6fa9fd28275e3b3392852553218e2ce584b92c914d8c2128725df23b9",
+  "source": {
+    "path": "sources/articles/deepseek-harness-plugin-market-top-download-exceeds-3-1-million.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/computer-use.md",
+    "topics/long-conversation-default-compression.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "dsh-ops 与 billion-context 均主打减少 token 消耗，属于编程 Agent 省 Token 工具与开销范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "dsh-windows-mcp 让 AI 操作 Windows 桌面，属于 Computer Use 类能力。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文重点讨论上下文压缩与上下文仪表盘插件，直接对应 Agent 上下文工程主题。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "billion-context 面向长对话和超长会话做上下文压缩，与长对话默认压缩主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文重点讨论上下文压缩与上下文仪表盘插件，直接对应 Agent 上下文工程主题。",
+    "topics/computer-use.md": "dsh-windows-mcp 让 AI 操作 Windows 桌面，属于 Computer Use 类能力。",
+    "topics/long-conversation-default-compression.md": "billion-context 面向长对话和超长会话做上下文压缩，与长对话默认压缩主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "dsh-ops 与 billion-context 均主打减少 token 消耗，属于编程 Agent 省 Token 工具与开销范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-plugin-market-top-download-exceeds-3-1-million.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/computer-use.md",
+      "topics/long-conversation-default-compression.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "帖文重点讨论上下文压缩与上下文仪表盘插件，直接对应 Agent 上下文工程主题。",
+      "topics/computer-use.md": "dsh-windows-mcp 让 AI 操作 Windows 桌面，属于 Computer Use 类能力。",
+      "topics/long-conversation-default-compression.md": "billion-context 面向长对话和超长会话做上下文压缩，与长对话默认压缩主题相关。",
+      "topics/coding-agent-token-saving-tooling.md": "dsh-ops 与 billion-context 均主打减少 token 消耗，属于编程 Agent 省 Token 工具与开销范畴。"
+    },
+    "notes": "来源为 X 帖文，所有下载量与兼容性声明均未独立核实，按帖文「约」数值呈现，未编造 URL 或额外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-plugin-market-top-download-exceeds-3-1-million.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

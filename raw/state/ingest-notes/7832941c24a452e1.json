@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章涉及 AI 时代背景下的行业聚会与人际变化，与 AI 原生公司主题相近，但本文为个人参会随笔，无需修改。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "百度世界大会涉及大厂 AI 语境，与大厂 AI 数字员工话题相关，但内容不触及职级编制，维持原样。",
+    "topics/workflows-before-agents.md": "文中强调线下连接优于 AI 替代，与工作流优先于智能体的理念方向一致，但属独立帖文摘录，无需新增或变更。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 时代背景下的行业聚会与人际变化，与 AI 原生公司主题相近，但本文为个人参会随笔，无需修改。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "百度世界大会涉及大厂 AI 语境，与大厂 AI 数字员工话题相关，但内容不触及职级编制，维持原样。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中强调线下连接优于 AI 替代，与工作流优先于智能体的理念方向一致，但属独立帖文摘录，无需新增或变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于提供的 X 帖文文本，未引用外部事实或 URL。"
+}

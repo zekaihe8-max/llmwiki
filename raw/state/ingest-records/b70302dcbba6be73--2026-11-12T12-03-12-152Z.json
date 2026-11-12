@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:03:12.152Z",
+  "url": "https://x.com/op7418/status/2120694045299327187",
+  "slug": "b70302dcbba6be73",
+  "content_hash": "6d1b089248a92a513fe0ba7b58cccde6aa9c65554366742e869de5ba5bc8ef8f",
+  "source": {
+    "path": "sources/articles/3d-action-game-mist-locked-mountain-gate-made-in-one-afternoon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/code-over-spec.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文讲述 AI 一次性生成可试玩小游戏，与该主题高度相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "强调直接用 AI 生成可运行 HTML 代码，而非传统规格先行。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "属于 Vibe Coding/游戏制作范畴，可关联该主题讨论。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 模型在游戏制作能力上的拐点式跃升。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文讲述 AI 一次性生成可试玩小游戏，与该主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "涉及 AI 模型在游戏制作能力上的拐点式跃升。",
+    "topics/code-over-spec.md": "强调直接用 AI 生成可运行 HTML 代码，而非传统规格先行。",
+    "topics/peer-economics-before-vibe-coding.md": "属于 Vibe Coding/游戏制作范畴，可关联该主题讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/3d-action-game-mist-locked-mountain-gate-made-in-one-afternoon.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/code-over-spec.md",
+      "topics/peer-economics-before-vibe-coding.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "帖文讲述 AI 一次性生成可试玩小游戏，与该主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "涉及 AI 模型在游戏制作能力上的拐点式跃升。",
+      "topics/code-over-spec.md": "强调直接用 AI 生成可运行 HTML 代码，而非传统规格先行。",
+      "topics/peer-economics-before-vibe-coding.md": "属于 Vibe Coding/游戏制作范畴，可关联该主题讨论。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文，未独立核实 Fable 5.2 的实际能力或 token 消耗数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/3d-action-game-mist-locked-mountain-gate-made-in-one-afternoon.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

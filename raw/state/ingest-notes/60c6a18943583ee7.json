@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文涉及将客户端改造成实时语音输入设备，与语音输入主题直接相关。",
+    "topics/local-open-assistant-models.md": "帖文明确提到接入 qwen0.6b ASR 本地模型，属于本地开放小模型范畴。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "帖文提到豆包语音转写，与 AI 转写主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文涉及将客户端改造成实时语音输入设备，与语音输入主题直接相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到接入 qwen0.6b ASR 本地模型，属于本地开放小模型范畴。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "帖文提到豆包语音转写，与 AI 转写主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未独立核实 Fable 5.2、安克录音豆、Typeless 等细节，主张均用「帖文称」表述。"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "6e8eb2ad47ca2c2c",
+  "url": "https://x.com/i/article/2120747381616717824",
+  "title": "上手教程",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "failed",
+  "hash": "6e8eb2ad47ca2c2c79e6a7d7da3444b0c6a36d9fe0a0b21ae76e8e676ab950d7",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-12T12:01:36.108Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    },
+    {
+      "at": "2026-11-12T12:30:32.857Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-12T12:30:32.857Z"
+}

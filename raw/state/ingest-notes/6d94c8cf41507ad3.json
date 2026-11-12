@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "讨论自营推理与聚合平台的区别，与“词元所是否只是换壳中转站”的质疑直接相关。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道取舍，与模型交易市场的定位和用户选择相近。",
+    "topics/cloud-auto-model-routing.md": "云平台跨模型编排，与模型聚合、路由及交易市场主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "讨论自营推理与聚合平台的区别，与“词元所是否只是换壳中转站”的质疑直接相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及模型渠道取舍，与模型交易市场的定位和用户选择相近。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台跨模型编排，与模型聚合、路由及交易市场主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容源自 X 帖文，其中关于百度产品定位与差异化的判断为发文者个人观点，未独立核实。"
+}

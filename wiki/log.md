@@ -1,5 +1,111 @@
 ## 2026-11-12
 
+* **创建 / Creation**: 归档 [Grokbot 每小时汇报，用户停止高强度自搜](./sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md)。 / Filed [Grokbot Reports Hourly, User Stops High-Intensity Self-Search](./sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md).
+
+* **创建 / Creation**: 归档 [MyGo 启用新域名 mygo.run，上线中文文档与赞助页面](./sources/articles/mygo-launches-new-domain-mygo-run-with-chinese-docs-and-sponsors.md)。 / Filed [MyGo launches new domain mygo.run with Chinese docs and sponsorship page](./sources/articles/mygo-launches-new-domain-mygo-run-with-chinese-docs-and-sponsors.md).
+
+* **创建 / Creation**: 归档 [赞助 MyGo](./sources/articles/sponsor-mygo.md)。 / Filed [Sponsor MyGo](./sources/articles/sponsor-mygo.md).
+
+* **创建 / Creation**: 归档 [GIF 工厂：多媒体动态内容制作 Skill](./sources/articles/gif-factory-multimedia-dynamic-content-skill.md)。 / Filed [GIF Factory: Multimedia Dynamic Content Skill](./sources/articles/gif-factory-multimedia-dynamic-content-skill.md).
+
+* **创建 / Creation**: 归档 [发布：小 Lin 说短视频包装 Skill v3](./sources/articles/release-xiao-lin-shuo-short-video-packaging-skill-v3.md)。 / Filed [Release: Xiao Lin Shuo Short Video Packaging Skill v3](./sources/articles/release-xiao-lin-shuo-short-video-packaging-skill-v3.md).
+
+* **创建 / Creation**: 归档 [小林说视频包装 Skill](./sources/articles/xiaolin-shuo-explainer-video-packaging-agent-skill.md)。 / Filed [Xiaolin Shuo Explainer Video Packaging Agent Skill](./sources/articles/xiaolin-shuo-explainer-video-packaging-agent-skill.md).
+
+* **创建 / Creation**: 归档 [1.5 万 Star 的视频 Skill 又更新了，风格增至 99 种](./sources/articles/1-5k-star-video-skill-updated-again-styles-expanded-to-99.md)。 / Filed [1.5K-star video Skill updated again, styles expanded to 99](./sources/articles/1-5k-star-video-skill-updated-again-styles-expanded-to-99.md).
+
+* **创建 / Creation**: 归档 [推荐用 Skill 做小红书封面](./sources/articles/recommended-skill-for-making-xiaohongshu-covers.md)。 / Filed [Recommended Skill for Making Xiaohongshu Covers](./sources/articles/recommended-skill-for-making-xiaohongshu-covers.md).
+
+* **创建 / Creation**: 归档 [在梵高《星夜》中骑行：Fable 5.2 制作的浏览器油画游戏](./sources/articles/cycling-through-van-gogh-s-the-starry-night-a-browser-oil-painti.md)。 / Filed [Cycling Through Van Gogh's The Starry Night: A Browser Oil-Painting Game Made with Fable 5.2](./sources/articles/cycling-through-van-gogh-s-the-starry-night-a-browser-oil-painti.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 代码生成浏览器僵尸射击游戏](./sources/articles/fable-5-2-code-generates-browser-zombie-shooter-game.md)。 / Filed [Fable 5.2 Code-Generates Browser Zombie Shooter Game](./sources/articles/fable-5-2-code-generates-browser-zombie-shooter-game.md).
+
+* **创建 / Creation**: 归档 [在 AIECode 遇到 Grok Bot 团队的 @poteto](./sources/articles/meeting-poteto-of-the-grok-bot-team-at-aiecode.md)。 / Filed [Meeting @poteto of the Grok Bot team at AIECode](./sources/articles/meeting-poteto-of-the-grok-bot-team-at-aiecode.md).
+
+* **创建 / Creation**: 归档 [才发现 Grok Bot 十天前已到 v1.0](./sources/articles/only-just-discovered-grok-bot-reached-v1-0-ten-days-ago.md)。 / Filed [Only just discovered Grok Bot reached v1.0 ten days ago](./sources/articles/only-just-discovered-grok-bot-reached-v1-0-ten-days-ago.md).
+
+* **创建 / Creation**: 归档 [Agent 伪装下只剩 Token：企业 AI 成本与中转站抉择](./sources/articles/behind-the-agent-fa-ade-only-tokens-remain.md)。 / Filed [Behind the Agent Façade, Only Tokens Remain](./sources/articles/behind-the-agent-fa-ade-only-tokens-remain.md).
+
+* **创建 / Creation**: 归档 [李彦宏在百度世界 2026 推出「词元所」Token Exchange](./sources/articles/robin-li-launches-token-exchange-at-baidu-world-2026.md)。 / Filed [Robin Li Launches "Token Exchange - 词元所" at Baidu World 2026](./sources/articles/robin-li-launches-token-exchange-at-baidu-world-2026.md).
+
+* **创建 / Creation**: 归档 [SuperMimic 用单个可微世界模型训练人形机器人全身动作](./sources/articles/supermimic-trains-humanoid-robot-full-body-motion-with-a-single.md)。 / Filed [SuperMimic Trains Humanoid Robot Full-Body Motion with a Single Differentiable World Model](./sources/articles/supermimic-trains-humanoid-robot-full-body-motion-with-a-single.md).
+
+* **创建 / Creation**: 归档 [modern-web-guidance：让 AI 跟上最新的网页开发规则](./sources/articles/modern-web-guidance-helping-ai-keep-up-with-the-latest-web-devel.md)。 / Filed [modern-web-guidance: Helping AI Keep Up with the Latest Web Development Rules](./sources/articles/modern-web-guidance-helping-ai-keep-up-with-the-latest-web-devel.md).
+
+* **创建 / Creation**: 归档 [Langfuse 推出 AI 网关](./sources/articles/langfuse-launches-ai-gateway.md)。 / Filed [Langfuse launches AI Gateway](./sources/articles/langfuse-launches-ai-gateway.md).
+
+* **创建 / Creation**: 归档 [Langfuse 推出了 AI Gateway 公开测试版](./sources/articles/langfuse-launches-ai-gateway-public-beta.md)。 / Filed [Langfuse Launches AI Gateway Public Beta](./sources/articles/langfuse-launches-ai-gateway-public-beta.md).
+
+* **创建 / Creation**: 归档 [用 Grok Bot 自动屏蔽恶意评论](./sources/articles/using-grok-bot-to-automatically-block-malicious-comments.md)。 / Filed [Using Grok Bot to Automatically Block Malicious Comments](./sources/articles/using-grok-bot-to-automatically-block-malicious-comments.md).
+
+* **创建 / Creation**: 归档 [豆包工作对个人用户开放 DeepSeek、Kimi、GLM 等第三方模型](./sources/articles/doubao-work-opens-third-party-models-including-deepseek-kimi-and.md)。 / Filed [Doubao Work Opens Third-Party Models Including DeepSeek, Kimi, and GLM to Individual Users](./sources/articles/doubao-work-opens-third-party-models-including-deepseek-kimi-and.md).
+
+* **创建 / Creation**: 归档 [从美国就业看职业变化](./sources/articles/job-shifts-seen-through-us-employment.md)。 / Filed [Job Shifts Seen Through US Employment](./sources/articles/job-shifts-seen-through-us-employment.md).
+
+* **创建 / Creation**: 归档 [Anthropic 路演称已开始使用 AMD GPU](./sources/articles/anthropic-road-show-says-it-has-started-using-amd-gpus.md)。 / Filed [Anthropic road show says it has started using AMD GPUs](./sources/articles/anthropic-road-show-says-it-has-started-using-amd-gpus.md).
+
+* **创建 / Creation**: 归档 [年末大厂重组：AI 只提效不产生增量，结局只能如此](./sources/articles/year-end-big-tech-restructuring-ai-efficiency-without-incrementa.md)。 / Filed [Year-end big tech restructuring: AI efficiency without incremental growth leads only to downsizing](./sources/articles/year-end-big-tech-restructuring-ai-efficiency-without-incrementa.md).
+
+* **创建 / Creation**: 归档 [用户称 Gemini 4 Carbon 写作更丝滑，定价仅为 Sonnet 水平](./sources/articles/user-says-gemini-4-carbon-writing-is-smoother-priced-at-sonnet-l.md)。 / Filed [User says Gemini 4 Carbon writing is smoother, priced at Sonnet level](./sources/articles/user-says-gemini-4-carbon-writing-is-smoother-priced-at-sonnet-l.md).
+
+* **创建 / Creation**: 归档 [周四 Codex 可能送一张重置卡？](./sources/articles/thursday-codex-might-offer-a-reset-card.md)。 / Filed [Thursday Codex might offer a reset card?](./sources/articles/thursday-codex-might-offer-a-reset-card.md).
+
+* **创建 / Creation**: 归档 [百度文心 5.5 Flash Preview 发布](./sources/articles/baidu-wenxin-5-5-flash-preview-released.md)。 / Filed [Baidu Wenxin 5.5 Flash Preview Released](./sources/articles/baidu-wenxin-5-5-flash-preview-released.md).
+
+* **创建 / Creation**: 归档 [玉伯与 YouMind 及 GEO 大会嘉宾介绍](./sources/articles/yu-bo-youmind-and-geo-conference-guest-introductions.md)。 / Filed [Yu Bo, YouMind, and GEO Conference Guest Introductions](./sources/articles/yu-bo-youmind-and-geo-conference-guest-introductions.md).
+
+* **创建 / Creation**: 归档 [百度世界大会 2026 参会随记](./sources/articles/notes-from-baidu-world-conference-2026.md)。 / Filed [Notes from Baidu World Conference 2026](./sources/articles/notes-from-baidu-world-conference-2026.md).
+
+* **创建 / Creation**: 归档 [安克录音豆第三方客户端](./sources/articles/third-party-client-for-anker-recorder-bean.md)。 / Filed [Third-party client for Anker recorder bean](./sources/articles/third-party-client-for-anker-recorder-bean.md).
+
+* **创建 / Creation**: 归档 [重做安克录音豆客户端，接入本地 ASR 与语音转写](./sources/articles/redesigning-anker-recorder-bean-client-with-local-asr-and-voice.md)。 / Filed [Redesigning Anker Recorder Bean client with local ASR and voice transcription](./sources/articles/redesigning-anker-recorder-bean-client-with-local-asr-and-voice.md).
+
+* **创建 / Creation**: 归档 [杭州第二场 Grok Bot Meetup 开放报名](./sources/articles/hangzhou-second-grok-bot-meetup-opens-registration.md)。 / Filed [Hangzhou Second Grok Bot Meetup Opens Registration](./sources/articles/hangzhou-second-grok-bot-meetup-opens-registration.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 1.0 发布：团队协作与主动任务执行升级](./sources/articles/grok-bot-1-0-launches-team-collaboration-and-proactive-task-exec.md)。 / Filed [Grok Bot 1.0 Launches: Team Collaboration and Proactive Task Execution Upgraded](./sources/articles/grok-bot-1-0-launches-team-collaboration-and-proactive-task-exec.md).
+
+* **创建 / Creation**: 归档 [全程只用手机，给家乡做了文旅短片](./sources/articles/mobile-only-cultural-tourism-short-film-for-hometown.md)。 / Filed [Mobile-only cultural tourism short film for hometown](./sources/articles/mobile-only-cultural-tourism-short-film-for-hometown.md).
+
+* **创建 / Creation**: 归档 [AI Coding 套餐已卷至 39 元/月，六款低价订阅对比](./sources/articles/ai-coding-plans-drop-to-39-yuan-month-six-low-cost-subscriptions.md)。 / Filed [AI Coding Plans Drop to 39 Yuan/Month, Six Low-Cost Subscriptions Compared](./sources/articles/ai-coding-plans-drop-to-39-yuan-month-six-low-cost-subscriptions.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 插件的两个老问题，官方开始动手](./sources/articles/deepseek-harness-plugin-s-two-old-problems-official-begins-to-ad.md)。 / Filed [DeepSeek Harness Plugin's Two Old Problems, Official Begins to Address](./sources/articles/deepseek-harness-plugin-s-two-old-problems-official-begins-to-ad.md).
+
+* **创建 / Creation**: 归档 [千问开源 Agent Harness，发布 Qwen Code 1.0 Preview](./sources/articles/qwen-open-sources-agent-harness-releases-qwen-code-1-0-preview.md)。 / Filed [Qwen Open-Sources Agent Harness, Releases Qwen Code 1.0 Preview](./sources/articles/qwen-open-sources-agent-harness-releases-qwen-code-1-0-preview.md).
+
+* **创建 / Creation**: 归档 [ChatCut + Grok Bot 自然语言视频剪辑](./sources/articles/chatcut-grok-bot-natural-language-video-editing.md)。 / Filed [ChatCut + Grok Bot Natural Language Video Editing](./sources/articles/chatcut-grok-bot-natural-language-video-editing.md).
+
+* **创建 / Creation**: 归档 [Meta Muse 免费工作台：锦鲤同学四个自动化工作流实践](./sources/articles/meta-muse-free-workbench-jinyu-s-four-automated-workflow-practic.md)。 / Filed [Meta Muse Free Workbench: Jinyu's Four Automated Workflow Practices](./sources/articles/meta-muse-free-workbench-jinyu-s-four-automated-workflow-practic.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 插件市场下载量最高突破 310 万，热门插件聚焦上下文、电脑操作与费用可见性](./sources/articles/deepseek-harness-plugin-market-top-download-exceeds-3-1-million.md)。 / Filed [DeepSeek Harness Plugin Market Top Download Exceeds 3.1 Million, Hot Plugins Focus on Context, Computer Control, and Cost Visibility](./sources/articles/deepseek-harness-plugin-market-top-download-exceeds-3-1-million.md).
+
+* **创建 / Creation**: 归档 [拆解宝玉 baoyu-design 的 DeepSeek Harness 插件套件](./sources/articles/dissecting-baoyu-design-s-deepseek-harness-plugin-suite.md)。 / Filed [Dissecting baoyu-design's DeepSeek Harness Plugin Suite](./sources/articles/dissecting-baoyu-design-s-deepseek-harness-plugin-suite.md).
+
+* **创建 / Creation**: 归档 [推荐：用 Grok Bot + ChatCut 对话剪辑，把跑码录屏压缩成一分钟干货短片](./sources/articles/recommended-conversational-video-editing-with-grok-bot-chatcut-c.md)。 / Filed [Recommended: Conversational video editing with Grok Bot + ChatCut, compressing terminal recordings into a one-minute highlight](./sources/articles/recommended-conversational-video-editing-with-grok-bot-chatcut-c.md).
+
+* **创建 / Creation**: 归档 [Deepseek Harness 保姆级教程：从读第一份文件，到做一个结合 Grok Bot 读评论找选题的小插件](./sources/articles/deepseek-harness-beginner-tutorial-from-reading-the-first-file-t.md)。 / Filed [DeepSeek Harness Beginner Tutorial: From Reading the First File to Building a Grok Bot Comment-Reading Topic Plugin](./sources/articles/deepseek-harness-beginner-tutorial-from-reading-the-first-file-t.md).
+
+* **创建 / Creation**: 归档 [wanman 1.0 即将登陆手机](./sources/articles/wanman-1-0-coming-to-mobile-phones.md)。 / Filed [wanman 1.0 coming to mobile phones](./sources/articles/wanman-1-0-coming-to-mobile-phones.md).
+
+* **创建 / Creation**: 归档 [温泉助理](./sources/articles/hot-spring-assistant.md)。 / Filed [Hot Spring Assistant](./sources/articles/hot-spring-assistant.md).
+
+* **创建 / Creation**: 归档 [急速构建让超大型项目一分钟内完成构建，CI 等待最多五六分钟](./sources/articles/rapid-build-completes-super-large-project-builds-within-one-minu.md)。 / Filed [Rapid build completes super-large project builds within one minute; CI wait at most five to six minutes](./sources/articles/rapid-build-completes-super-large-project-builds-within-one-minu.md).
+
+* **创建 / Creation**: 归档 [发布预告：郭宇推 macOS/iOS 急速构建服务，称将 Tuwa App CI 从 5 分钟压至 25-30 秒](./sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md)。 / Filed [Release Preview: guoyu.eth Launches macOS/iOS Rapid Build Service, Claiming Tuwa App CI Cut from 5 Minutes to 25-30 Seconds](./sources/articles/release-preview-guoyu-eth-launches-macos-ios-rapid-build-service.md).
+
+* **创建 / Creation**: 归档 [AI 对普通人最大的优势不是更快](./sources/articles/ai-s-biggest-advantage-for-ordinary-people-is-not-speed.md)。 / Filed [AI's biggest advantage for ordinary people is not speed](./sources/articles/ai-s-biggest-advantage-for-ordinary-people-is-not-speed.md).
+
+* **创建 / Creation**: 归档 [豆包工作接入 DeepSeek、Kimi、智谱 GLM 等三方模型](./sources/articles/doubao-work-integrates-third-party-models-including-deepseek-kim.md)。 / Filed [Doubao Work integrates third-party models including DeepSeek, Kimi, and Zhipu GLM](./sources/articles/doubao-work-integrates-third-party-models-including-deepseek-kim.md).
+
+* **创建 / Creation**: 归档 [想用 skill 加 DeepSeek Harness 复刻 Fable](./sources/articles/recreating-fable-with-skill-and-deepseek-harness.md)。 / Filed [Recreating Fable with Skill and DeepSeek Harness](./sources/articles/recreating-fable-with-skill-and-deepseek-harness.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 3D 游戏优化可整合进单一 HTML，4399 或迎 HTML 游戏分发复兴](./sources/articles/fable-5-2-3d-game-optimizations-pack-into-one-html-4399-may-see.md)。 / Filed [Fable 5.2 3D game optimizations pack into one HTML; 4399 may see HTML game distribution revival](./sources/articles/fable-5-2-3d-game-optimizations-pack-into-one-html-4399-may-see.md).
+
+* **创建 / Creation**: 归档 [网页游戏回归与 AI 驱动的游戏开发新范式](./sources/articles/web-games-return-and-ai-driven-game-development-paradigm.md)。 / Filed [Web Games Return and AI-Driven Game Development Paradigm](./sources/articles/web-games-return-and-ai-driven-game-development-paradigm.md).
+
+* **创建 / Creation**: 归档 [试玩「魂玉0」AI 小游戏](./sources/articles/playtest-hun-yu-0-ai-mini-game.md)。 / Filed [Playtest: "Hun Yu 0" AI Mini-game](./sources/articles/playtest-hun-yu-0-ai-mini-game.md).
+
+* **创建 / Creation**: 归档 [一下午做出 3D 动作游戏「雾锁山门」](./sources/articles/3d-action-game-mist-locked-mountain-gate-made-in-one-afternoon.md)。 / Filed [3D Action Game "Mist-Locked Mountain Gate" Made in One Afternoon](./sources/articles/3d-action-game-mist-locked-mountain-gate-made-in-one-afternoon.md).
+
 * **创建 / Creation**: 归档 [三条路线：Pi Agent、DeepSeek Harness 与 Qwen Code 1.0 的架构取舍](./sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md)。 / Filed [Three Routes: Architecture Trade-offs Among Pi Agent, DeepSeek Harness, and Qwen Code 1.0](./sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md).
 
 * **创建 / Creation**: 归档 [PiClaw：基于 Pi Agent 的可插件个人 AI 助手工作台](./sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md)。 / Filed [PiClaw: Plugin-based Personal AI Assistant Workbench Built on Pi Agent](./sources/articles/piclaw-plugin-based-personal-ai-assistant-workbench-built-on-pi.md).

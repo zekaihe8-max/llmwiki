@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:12:46.732Z",
+  "url": "https://x.com/xiaomovps/status/2120807310876422308",
+  "slug": "4ed360519505b003",
+  "content_hash": "9a494de1b04c4027d4230f3462bbec61c355d5a2723d68ad2b577648e614154e",
+  "source": {
+    "path": "sources/articles/deepseek-harness-plugin-s-two-old-problems-official-begins-to-ad.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 技能/插件的编写与扩展，与第三方插件生态的质量问题相近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "聚焦 Harness 插件层面的问题，适合作为插件生态成熟度的参考主题。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Agent Harness 插件在宽松管控下的生态问题，与本文插件稳定性和安全性主题高度相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "探讨精简核心与社区扩展的边界，与 DSH 插件数量庞大但需稳定与安全的背景呼应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "直接讨论 Agent Harness 插件在宽松管控下的生态问题，与本文插件稳定性和安全性主题高度相关。",
+    "topics/harness-plugin-style-fragmentation.md": "聚焦 Harness 插件层面的问题，适合作为插件生态成熟度的参考主题。",
+    "topics/minimal-core-community-extensions.md": "探讨精简核心与社区扩展的边界，与 DSH 插件数量庞大但需稳定与安全的背景呼应。",
+    "topics/agent-skill-authoring.md": "涉及 Agent 技能/插件的编写与扩展，与第三方插件生态的质量问题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-plugin-s-two-old-problems-official-begins-to-ad.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "直接讨论 Agent Harness 插件在宽松管控下的生态问题，与本文插件稳定性和安全性主题高度相关。",
+      "topics/harness-plugin-style-fragmentation.md": "聚焦 Harness 插件层面的问题，适合作为插件生态成熟度的参考主题。",
+      "topics/minimal-core-community-extensions.md": "探讨精简核心与社区扩展的边界，与 DSH 插件数量庞大但需稳定与安全的背景呼应。",
+      "topics/agent-skill-authoring.md": "涉及 Agent 技能/插件的编写与扩展，与第三方插件生态的质量问题相近。"
+    },
+    "notes": "所有主题动作均为 unchanged，未编造超出文章的事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-plugin-s-two-old-problems-official-begins-to-ad.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

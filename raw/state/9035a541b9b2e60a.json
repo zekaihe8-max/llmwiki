@@ -1,0 +1,23 @@
+{
+  "slug": "9035a541b9b2e60a",
+  "url": "https://mygo.run/sponsors",
+  "title": "MyGo",
+  "digest": "2026-11-12-cn-x.md",
+  "status": "filed",
+  "hash": "9035a541b9b2e60ae83ac0805f5585938fc34ba75f440c7b25b29e186366ad2d",
+  "first_seen": "2026-11-12T12:01:15.789Z",
+  "last_seen": "2026-11-12T12:01:15.789Z",
+  "fetched_at": "2026-11-12T12:01:35.499Z",
+  "content_hash": "ad658316b25a11c3da94d1c379a5f28bec10383e2da614e81500620bda5722e4",
+  "article_path": "articles/9035a541b9b2e60a.md",
+  "fetched_url": "https://mygo.run/sponsors",
+  "source_path": "sources/articles/sponsor-mygo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T12:29:16.842Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T12:30:17.021Z",
+  "url": "https://x.com/localhost_4173/status/2120803540780400977",
+  "slug": "18aa745e5b3fb8d2",
+  "content_hash": "f6a91d00e0d964414cfb148163fcbae091d7c86a9293e078469574e90235eb77",
+  "source": {
+    "path": "sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/hireable-group-chat-digest-agent.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，属于同一 Grok Bot 生态话题。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与 X 平台的查询桥接，与帖文中 Grokbot 汇报最相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 管 X 的定位，可对比其不代发帖的边界。"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "涉及日报/汇报类 Agent，与“每小时汇报”的功能形态相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 平台的查询桥接，与帖文中 Grokbot 汇报最相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 管 X 的定位，可对比其不代发帖的边界。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，属于同一 Grok Bot 生态话题。",
+    "topics/hireable-group-chat-digest-agent.md": "涉及日报/汇报类 Agent，与“每小时汇报”的功能形态相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/hireable-group-chat-digest-agent.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 平台的查询桥接，与帖文中 Grokbot 汇报最相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 管 X 的定位，可对比其不代发帖的边界。",
+      "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，属于同一 Grok Bot 生态话题。",
+      "topics/hireable-group-chat-digest-agent.md": "涉及日报/汇报类 Agent，与“每小时汇报”的功能形态相近。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
