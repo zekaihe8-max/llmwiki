@@ -1,0 +1,23 @@
+{
+  "slug": "8c38820e491a089f",
+  "url": "https://ghuntley.com/answer",
+  "title": "讲稿",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "8c38820e491a089fc113123e3e9ef0f1f55a2e88a735e8c14a4b496c336e2cc3",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:51.823Z",
+  "content_hash": "c0f9c9d89cc2b6b5c06b88c879b135235abb0ac0fca24a93e8e5a1a2d0f11098",
+  "article_path": "articles/8c38820e491a089f.md",
+  "fetched_url": "https://ghuntley.com/answer/",
+  "source_path": "sources/articles/the-answer-to-ai-is-engineering.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:16:21.442Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

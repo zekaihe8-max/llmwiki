@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:15:09.882Z",
+  "url": "https://x.com/Voxyz_ai/status/2120562255632781662",
+  "slug": "5bf1e2b41b4c0ed3",
+  "content_hash": "9bcfd716c4225c943321a43fad2de9b3ab9fa5183065f0725441f169fbd10084",
+  "source": {
+    "path": "sources/articles/fable-5-2-code-review-real-world-test-high-effort-beats-xhigh.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论在 Fable 5.2 与 Opus 5.5 之间的模型选取及档位取舍。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文直接涉及 Claude Code 的 `/effort` 设置与会话行为。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "内容涉及模型代币消耗与高档位带来的额外开销。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文以真实 PR 测试反驳官方榜单/图表的档位强弱认知。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文直接涉及 Claude Code 的 `/effort` 设置与会话行为。",
+    "topics/coding-agent-token-saving-tooling.md": "内容涉及模型代币消耗与高档位带来的额外开销。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文以真实 PR 测试反驳官方榜单/图表的档位强弱认知。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论在 Fable 5.2 与 Opus 5.5 之间的模型选取及档位取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fable-5-2-code-review-real-world-test-high-effort-beats-xhigh.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "帖文直接涉及 Claude Code 的 `/effort` 设置与会话行为。",
+      "topics/coding-agent-token-saving-tooling.md": "内容涉及模型代币消耗与高档位带来的额外开销。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文以真实 PR 测试反驳官方榜单/图表的档位强弱认知。",
+      "topics/agent-model-channel-tradeoffs.md": "讨论在 Fable 5.2 与 Opus 5.5 之间的模型选取及档位取舍。"
+    },
+    "notes": "来源仅为单条 X 帖文及其关联帖文，图表内容未完整转录，所有数字均引用帖文自述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fable-5-2-code-review-real-world-test-high-effort-beats-xhigh.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

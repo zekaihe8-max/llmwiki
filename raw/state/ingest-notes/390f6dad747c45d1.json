@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/near-real-time-decisions-api.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/one-question-at-a-time.md"
+  ],
+  "selection_reasons": {
+    "topics/near-real-time-decisions-api.md": "标题与“决策 API”直接相关，属于最接近的现有主题。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google 模型系列策略，与 Gemini Decision 1 发布有上下文关联。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台模型编排，与 API 调用方式相关。",
+    "topics/one-question-at-a-time.md": "与“一次 1000 个问题”的批量决策形成对比，可作参考。"
+  },
+  "topics": [
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "标题与“决策 API”直接相关，属于最接近的现有主题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google 模型系列策略，与 Gemini Decision 1 发布有上下文关联。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台模型编排，与 API 调用方式相关。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "与“一次 1000 个问题”的批量决策形成对比，可作参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 Google AI Studio 官方帖文，未独立核实模型性能声明。"
+}

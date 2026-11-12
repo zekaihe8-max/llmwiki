@@ -1,0 +1,23 @@
+{
+  "slug": "833eedbf2e99fc8f",
+  "url": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+  "title": "DeepMind",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "833eedbf2e99fc8ff3d3a5ad0e19c777d8cf63cad4a9b99a1d316ef6d6cfede8",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:39.977Z",
+  "content_hash": "e8fe4dcba43e06023888c635b823f50ebc2cb5548e62f5781fc1962c6a96d0b0",
+  "article_path": "articles/833eedbf2e99fc8f.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+  "source_path": "sources/articles/google-deepmind-releases-alphagenome-2-focusing-on-specific-cell.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:04:43.978Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "文章核心是审查 CLAUDE.md/AGENTS.md 等项目指令并避免 Token 浪费，与该主题直接相关。",
+    "topics/context-engineering-for-agents.md": "涉及上下文中堆积的旧笔记和常驻指令，属于 Agent 上下文工程范畴。",
+    "topics/calibrating-ai-guidance.md": "文章讨论旧模型规则对新模型是否过度或不足，属于对 AI 引导的校准问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心是审查 CLAUDE.md/AGENTS.md 等项目指令并避免 Token 浪费，与该主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及上下文中堆积的旧笔记和常驻指令，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文章讨论旧模型规则对新模型是否过度或不足，属于对 AI 引导的校准问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实 Anthropic 指南及测试数据的独立真实性，已在摘要中用「帖文称」标注。"
+}

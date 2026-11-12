@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/tools-building-own-models.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章主题为 AI 模型在基因组学与单细胞生物学中的科学应用，属于 AI 赋能科研实践，与该主题最为贴近。",
+    "topics/tools-building-own-models.md": "DeepMind 自研并发布 AlphaGenome 2 及其 API，体现工具产品自建模型，现有主题已覆盖。",
+    "topics/agentic-ai-foundation.md": "文中提及 Google Antigravity 智能体开发平台及与 Gemini 4 的结合，涉及智能体基础设施，现有主题可复用。",
+    "topics/agent-skill-authoring.md": "文章宣布即将推出 AlphaGenome 2 Skills，与 Agent Skill 编写相关，现有主题无需新增或变更。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章主题为 AI 模型在基因组学与单细胞生物学中的科学应用，属于 AI 赋能科研实践，与该主题最为贴近。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "DeepMind 自研并发布 AlphaGenome 2 及其 API，体现工具产品自建模型，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中提及 Google Antigravity 智能体开发平台及与 Gemini 4 的结合，涉及智能体基础设施，现有主题可复用。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章宣布即将推出 AlphaGenome 2 Skills，与 Agent Skill 编写相关，现有主题无需新增或变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "现有话题库中无基因组学或单细胞生物学专用条目，故选取最接近的 AI 科研、自建模型与智能体基建话题，全部保持 unchanged。"
+}

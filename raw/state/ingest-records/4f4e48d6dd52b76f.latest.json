@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:18:34.787Z",
+  "url": "https://x.com/xiaomovps/status/2120524176650043410",
+  "slug": "4f4e48d6dd52b76f",
+  "content_hash": "39d2b843f9944fa974b851ee89a082e801abb08f6113c9b260a8564049c58591",
+  "source": {
+    "path": "sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Qwen Code 支持接入 Grok、DeepSeek、Kimi 等多种模型渠道，涉及模型渠道取舍。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Qwen Code 1.0 整合 Qoder Harness 并强调任务编排与资源管理，属于公司级 Agent Harness 范畴。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文核心是对三款 Agent Harness/框架的横向对比，与该主题直接相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Pi Agent 的极简核心 + 按需扩展设计与“精简核心与社区扩展”主题重合。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文核心是对三款 Agent Harness/框架的横向对比，与该主题直接相关。",
+    "topics/minimal-core-community-extensions.md": "Pi Agent 的极简核心 + 按需扩展设计与“精简核心与社区扩展”主题重合。",
+    "topics/agent-model-channel-tradeoffs.md": "Qwen Code 支持接入 Grok、DeepSeek、Kimi 等多种模型渠道，涉及模型渠道取舍。",
+    "topics/company-agent-harness.md": "Qwen Code 1.0 整合 Qoder Harness 并强调任务编排与资源管理，属于公司级 Agent Harness 范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "帖文核心是对三款 Agent Harness/框架的横向对比，与该主题直接相关。",
+      "topics/minimal-core-community-extensions.md": "Pi Agent 的极简核心 + 按需扩展设计与“精简核心与社区扩展”主题重合。",
+      "topics/agent-model-channel-tradeoffs.md": "Qwen Code 支持接入 Grok、DeepSeek、Kimi 等多种模型渠道，涉及模型渠道取舍。",
+      "topics/company-agent-harness.md": "Qwen Code 1.0 整合 Qoder Harness 并强调任务编排与资源管理，属于公司级 Agent Harness 范畴。"
+    },
+    "notes": "所有主张均源自所获取帖文，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/three-routes-architecture-trade-offs-among-pi-agent-deepseek-har.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/near-real-time-decisions-api.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/near-real-time-decisions-api.md": "文章主题直接对应“决策 API”，属于最相关的现有条目。",
+    "topics/cloud-auto-model-routing.md": "文中提到 Gemini Notebook 用该 API 给每个提问挑模型，涉及跨模型编排与路由。",
+    "topics/agent-model-channel-tradeoffs.md": "文中对比不同模型（Gemini Decision 1、Flash-Lite、GPT-6 Luna、Jev）在成本、延迟与能力上的取舍。",
+    "topics/pro-vs-flash-model-strategy.md": "文中将 Gemini Decision 1 与 Gemini 3.5 Flash-Lite 进行延迟与价格对比，属于模型策略范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "文章主题直接对应“决策 API”，属于最相关的现有条目。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中提到 Gemini Notebook 用该 API 给每个提问挑模型，涉及跨模型编排与路由。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中对比不同模型（Gemini Decision 1、Flash-Lite、GPT-6 Luna、Jev）在成本、延迟与能力上的取舍。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中将 Gemini Decision 1 与 Gemini 3.5 Flash-Lite 进行延迟与价格对比，属于模型策略范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文 markdown，未引用外部事实；未创建新话题。"
+}

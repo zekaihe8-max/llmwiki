@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/software-factory.md",
+    "topics/ai-native-companies.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文强调先梳理业务流程再自动化，与“工作流优先于智能体”主题高度相关。",
+    "topics/software-factory.md": "帖文涉及将业务流程转化为可自动化的软件，与“软件工厂”主题相关。",
+    "topics/ai-native-companies.md": "帖文讨论以 AI 和清晰流程语言驱动业务运营，与“AI 原生公司”主题相近。",
+    "topics/agentic-ai-foundation.md": "帖文提及 DDD 与 AI 自动化，与智能体基础设施主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调先梳理业务流程再自动化，与“工作流优先于智能体”主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文涉及将业务流程转化为可自动化的软件，与“软件工厂”主题相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文讨论以 AI 和清晰流程语言驱动业务运营，与“AI 原生公司”主题相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文提及 DDD 与 AI 自动化，与智能体基础设施主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文及其回复，主张未经独立核实，已在摘要中使用「帖文称」。"
+}

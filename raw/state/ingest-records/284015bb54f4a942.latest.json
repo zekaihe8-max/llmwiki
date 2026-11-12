@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:05:46.567Z",
+  "url": "https://x.com/GoogleCloudTech/status/2120563165557571629",
+  "slug": "284015bb54f4a942",
+  "content_hash": "1d3f6839396fef2f50720881b9a3405f0769ef9fbad9a98313cbcd9e0604b2f4",
+  "source": {
+    "path": "sources/articles/a2ui-1-0-released-open-protocol-and-framework-for-generative-ui.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "生成式 UI 属于前端领域，与前端架构主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "生成式 UI 关联设计到代码的工作流，与该主题相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "A2UI 涉及用户界面与开发者体验，与 UX、DX、AX 主题最相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "A2UI 涉及用户界面与开发者体验，与 UX、DX、AX 主题最相关。",
+    "topics/agent-skills-open-standard.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/deep-backends-and-jit-frontends.md": "生成式 UI 属于前端领域，与前端架构主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "生成式 UI 关联设计到代码的工作流，与该主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/a2ui-1-0-released-open-protocol-and-framework-for-generative-ui.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/deep-backends-and-jit-frontends.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "A2UI 涉及用户界面与开发者体验，与 UX、DX、AX 主题最相关。",
+      "topics/agent-skills-open-standard.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+      "topics/deep-backends-and-jit-frontends.md": "生成式 UI 属于前端领域，与前端架构主题相关。",
+      "topics/design-to-code-byo-subscriptions.md": "生成式 UI 关联设计到代码的工作流，与该主题相近。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/a2ui-1-0-released-open-protocol-and-framework-for-generative-ui.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

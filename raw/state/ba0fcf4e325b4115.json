@@ -1,0 +1,23 @@
+{
+  "slug": "ba0fcf4e325b4115",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+  "title": "公告",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "ba0fcf4e325b4115c73c9ef83ebd1ffebf008c30d8d75edc5ffce3b5226c5537",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:40.379Z",
+  "content_hash": "cc34b05038444a50f889304cda2681357e939a4cc2f8daf7f2568a5fa44525c5",
+  "article_path": "articles/ba0fcf4e325b4115.md",
+  "fetched_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "source_path": "sources/articles/alphagenome-2-deciphering-how-cells-read-dna-to-better-understan.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:05:20.366Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

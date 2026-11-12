@@ -1,0 +1,23 @@
+{
+  "slug": "c8b6cf4f59d171ff",
+  "url": "https://x.com/demishassabis/status/2120565316619284734",
+  "title": "Demis",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "c8b6cf4f59d171ffb3e73932609471be95f5bb4f3b943d1d528d68ebf953d9d8",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:39.156Z",
+  "content_hash": "6009f9e206cf70b8c57455d324a25058a008f0507bf019ffc5569f07760000d8",
+  "article_path": "articles/c8b6cf4f59d171ff.md",
+  "fetched_url": "https://x.com/demishassabis/status/2120565316619284734",
+  "source_path": "sources/articles/demis-hassabis-announces-alphagenome-2-dna-sequence-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:03:18.510Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

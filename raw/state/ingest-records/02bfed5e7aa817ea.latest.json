@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:20:24.981Z",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+  "slug": "02bfed5e7aa817ea",
+  "content_hash": "ef9297b40994c44c7e761b3d1d0bf169979a0abfe5cc6ac83ed91fda08bc14a6",
+  "source": {
+    "path": "sources/articles/gemini-decisions-api-fast-calibrated-multimodal-decisions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/near-real-time-decisions-api.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "决策 API 用于模型选择与路由，涉及模型渠道取舍。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中多次提到将查询路由到最优模型层级，属于跨模型编排场景。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中提到 OpenRouter、LangChain 等生态集成与路由基建，相关度较高。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "文章主题是新决策 API，与“近实时决策 API”主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/near-real-time-decisions-api.md": "文章主题是新决策 API，与“近实时决策 API”主题直接相关。",
+    "topics/cloud-auto-model-routing.md": "文中多次提到将查询路由到最优模型层级，属于跨模型编排场景。",
+    "topics/agent-model-channel-tradeoffs.md": "决策 API 用于模型选择与路由，涉及模型渠道取舍。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中提到 OpenRouter、LangChain 等生态集成与路由基建，相关度较高。"
+  },
+  "files_changed": [
+    "sources/articles/gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/near-real-time-decisions-api.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/near-real-time-decisions-api.md": "文章主题是新决策 API，与“近实时决策 API”主题直接相关。",
+      "topics/cloud-auto-model-routing.md": "文中多次提到将查询路由到最优模型层级，属于跨模型编排场景。",
+      "topics/agent-model-channel-tradeoffs.md": "决策 API 用于模型选择与路由，涉及模型渠道取舍。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "文中提到 OpenRouter、LangChain 等生态集成与路由基建，相关度较高。"
+    },
+    "notes": "所有内容仅基于提供的文章 markdown，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/gemini-decisions-api-fast-calibrated-multimodal-decisions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

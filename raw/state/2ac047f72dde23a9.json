@@ -1,0 +1,23 @@
+{
+  "slug": "2ac047f72dde23a9",
+  "url": "https://x.com/rauchg/status/2120337388178379178",
+  "title": "语言",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "2ac047f72dde23a952e37824ffd08658fe2372b1112c9cd6470375e5d9d1d9b4",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:49.592Z",
+  "content_hash": "d892fc9b250fefd203c755e7c90127301491f1405276e98f7db7b482f60ed6bc",
+  "article_path": "articles/2ac047f72dde23a9.md",
+  "fetched_url": "https://x.com/rauchg/status/2120337388178379178",
+  "source_path": "sources/articles/language-rust-and-new-programming-languages-in-the-agent-era.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:12:19.807Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

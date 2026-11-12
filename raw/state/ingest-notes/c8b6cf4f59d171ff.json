@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/frontier-training-containment.md",
+    "topics/brain-computer-assisted-speech.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "文章涉及 AI 用于疾病机制研究与医药领域，与该主题最为贴近",
+    "topics/frontier-training-containment.md": "AlphaGenome 2 为前沿 AI 模型发布，涉及模型能力与边界",
+    "topics/brain-computer-assisted-speech.md": "帖文提及大脑，与神经科学相关主题有轻度交叉"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 用于疾病机制研究与医药领域，与该主题最为贴近"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "AlphaGenome 2 为前沿 AI 模型发布，涉及模型能力与边界"
+    },
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "unchanged",
+      "reason": "帖文提及大脑，与神经科学相关主题有轻度交叉"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "目录中未找到基因组学或 DNA 模型专用主题，故仅引用最接近的 AI 与医疗研究主题，均保持 unchanged。"
+}

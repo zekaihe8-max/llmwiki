@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "涉及智能体对工程领域的规模化影响，与帖文讨论的编程专业转型相近。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "直接围绕编程 Agent 与个人 Agent 的调度关系，主题高度相关。",
+    "topics/coding-agent-ux-vs-quota.md": "聚焦编程 Agent 的使用体验与限制，属于同一细分领域。",
+    "topics/vibe-coding-memory-paradox.md": "讨论 AI 辅助编程（Vibe Coding）相关现象，与扩散速度话题相邻。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体对工程领域的规模化影响，与帖文讨论的编程专业转型相近。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "直接围绕编程 Agent 与个人 Agent 的调度关系，主题高度相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "聚焦编程 Agent 的使用体验与限制，属于同一细分领域。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 辅助编程（Vibe Coding）相关现象，与扩散速度话题相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未引入外部事实。"
+}

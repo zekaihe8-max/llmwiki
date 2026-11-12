@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:14:21.426Z",
+  "url": "https://x.com/Voxyz_ai/status/2120501801313267818",
+  "slug": "00e7f92217bbe664",
+  "content_hash": "92e150cab0146cfc1e35a9ecc48cc4c381553fdba970e4a9ff7e21bb20805f93",
+  "source": {
+    "path": "sources/articles/clear-rules-review-outdated-project-instructions-with-anthropic.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心是审查 CLAUDE.md/AGENTS.md 等项目指令并避免 Token 浪费，与该主题直接相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文章讨论旧模型规则对新模型是否过度或不足，属于对 AI 引导的校准问题。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及上下文中堆积的旧笔记和常驻指令，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "文章核心是审查 CLAUDE.md/AGENTS.md 等项目指令并避免 Token 浪费，与该主题直接相关。",
+    "topics/context-engineering-for-agents.md": "涉及上下文中堆积的旧笔记和常驻指令，属于 Agent 上下文工程范畴。",
+    "topics/calibrating-ai-guidance.md": "文章讨论旧模型规则对新模型是否过度或不足，属于对 AI 引导的校准问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/clear-rules-review-outdated-project-instructions-with-anthropic.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agents-md-token-efficiency.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/agents-md-token-efficiency.md": "文章核心是审查 CLAUDE.md/AGENTS.md 等项目指令并避免 Token 浪费，与该主题直接相关。",
+      "topics/context-engineering-for-agents.md": "涉及上下文中堆积的旧笔记和常驻指令，属于 Agent 上下文工程范畴。",
+      "topics/calibrating-ai-guidance.md": "文章讨论旧模型规则对新模型是否过度或不足，属于对 AI 引导的校准问题。"
+    },
+    "notes": "来源为 X 帖文，未核实 Anthropic 指南及测试数据的独立真实性，已在摘要中用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/clear-rules-review-outdated-project-instructions-with-anthropic.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

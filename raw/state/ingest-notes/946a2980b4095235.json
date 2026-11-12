@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/languages-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "涉及智能体基础，与帖文中对智能体内容的对比相关",
+    "topics/agent-scaled-engineering.md": "涉及智能体工程化，与帖文中代码重构和协作相关",
+    "topics/languages-for-agents.md": "涉及面向 Agent 的语言，与帖文中通用语言概念相近",
+    "topics/workflows-before-agents.md": "主张工作流优先于智能体，与帖文强调 DDD 而非智能体功能相呼应"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及智能体基础，与帖文中对智能体内容的对比相关"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体工程化，与帖文中代码重构和协作相关"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的语言，与帖文中通用语言概念相近"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "主张工作流优先于智能体，与帖文强调 DDD 而非智能体功能相呼应"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，未引入外部事实。"
+}

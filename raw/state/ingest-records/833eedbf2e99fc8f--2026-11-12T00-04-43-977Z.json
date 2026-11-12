@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-12T00:04:43.977Z",
+  "url": "https://x.com/GoogleDeepMind/status/2120532824465805749",
+  "slug": "833eedbf2e99fc8f",
+  "content_hash": "e8fe4dcba43e06023888c635b823f50ebc2cb5548e62f5781fc1962c6a96d0b0",
+  "source": {
+    "path": "sources/articles/google-deepmind-releases-alphagenome-2-focusing-on-specific-cell.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章介绍用于疾病研究的 AI 模型，与 AI 在科研实践中的应用主题相近。"
+    },
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "AlphaGenome 2 面向疾病机制研究，与 AI 医药与实验室主题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "AlphaGenome 2 属于 DeepMind 发布的前沿 AI 模型，与前沿模型主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "文章介绍用于疾病研究的 AI 模型，与 AI 在科研实践中的应用主题相近。",
+    "topics/ai-pharma-opc-lab-acquisition.md": "AlphaGenome 2 面向疾病机制研究，与 AI 医药与实验室主题相关。",
+    "topics/open-weight-frontier-models.md": "AlphaGenome 2 属于 DeepMind 发布的前沿 AI 模型，与前沿模型主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-deepmind-releases-alphagenome-2-focusing-on-specific-cell.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/ai-pharma-opc-lab-acquisition.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "文章介绍用于疾病研究的 AI 模型，与 AI 在科研实践中的应用主题相近。",
+      "topics/ai-pharma-opc-lab-acquisition.md": "AlphaGenome 2 面向疾病机制研究，与 AI 医药与实验室主题相关。",
+      "topics/open-weight-frontier-models.md": "AlphaGenome 2 属于 DeepMind 发布的前沿 AI 模型，与前沿模型主题相近。"
+    },
+    "notes": "所有内容仅基于提供的 X 帖文文本，未引入外部事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-deepmind-releases-alphagenome-2-focusing-on-specific-cell.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

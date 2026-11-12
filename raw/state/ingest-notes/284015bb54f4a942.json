@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "A2UI 涉及用户界面与开发者体验，与 UX、DX、AX 主题最相关。",
+    "topics/agent-skills-open-standard.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/deep-backends-and-jit-frontends.md": "生成式 UI 属于前端领域，与前端架构主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "生成式 UI 关联设计到代码的工作流，与该主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "A2UI 涉及用户界面与开发者体验，与 UX、DX、AX 主题最相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "生成式 UI 属于前端领域，与前端架构主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "生成式 UI 关联设计到代码的工作流，与该主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "46a665434b433685",
+  "url": "https://x.com/GoogleAIStudio/status/2120610219235660183",
+  "title": "AI Studio",
+  "digest": "2026-11-12-frontier-ai.md",
+  "status": "filed",
+  "hash": "46a665434b433685c23ddab3e4468ac60693269485b704841e395591a5134561",
+  "first_seen": "2026-11-11T23:59:36.936Z",
+  "last_seen": "2026-11-11T23:59:36.936Z",
+  "fetched_at": "2026-11-11T23:59:42.382Z",
+  "content_hash": "8ae9a778e1ff512298ac163959e9a57615d1995061ef20f3a03c5316a1dee1e5",
+  "article_path": "articles/46a665434b433685.md",
+  "fetched_url": "https://x.com/GoogleAIStudio/status/2120610219235660183",
+  "source_path": "sources/articles/google-ai-studio-managed-agents-support-self-hosted-sandbox-envi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-12T00:07:24.468Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

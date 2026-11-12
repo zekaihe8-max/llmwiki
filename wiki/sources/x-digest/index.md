@@ -10,6 +10,7 @@ New day pages must set `title` to `YYYY-MM-DD · …` (for example `2026-10-23 �
 
 | 文件 / File | 标题 / Title |
 | --- | --- |
+| [2026-11-12-frontier-ai.md](./2026-11-12-frontier-ai.md) | 2026-11-12 · 前沿 AI |
 | [2026-11-11-frontier-ai.md](./2026-11-11-frontier-ai.md) | 2026-11-11 · 前沿 AI |
 | [2026-11-11-cn-x.md](./2026-11-11-cn-x.md) | 2026-11-11 · 中文圈精选 |
 | [2026-11-10-frontier-ai.md](./2026-11-10-frontier-ai.md) | 2026-11-10 · 前沿 AI |
