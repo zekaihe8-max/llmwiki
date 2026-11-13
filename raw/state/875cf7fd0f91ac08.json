@@ -1,0 +1,23 @@
+{
+  "slug": "875cf7fd0f91ac08",
+  "url": "https://x.com/rauchg/status/2120966768483262648",
+  "title": "Rauch",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "875cf7fd0f91ac08d6cb1dc683cbebaeefc072f20072a45f4bf98464673cc451",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:06.225Z",
+  "content_hash": "0533a1c70e04df49a8cf72a96a3970da409180b35993f3551ead119942d48f4f",
+  "article_path": "articles/875cf7fd0f91ac08.md",
+  "fetched_url": "https://x.com/rauchg/status/2120966768483262648",
+  "source_path": "sources/articles/ui-sdk-the-x86-instruction-set-for-agent-built-ui.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:13:38.734Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

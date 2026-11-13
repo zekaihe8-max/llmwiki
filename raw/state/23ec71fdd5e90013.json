@@ -1,0 +1,23 @@
+{
+  "slug": "23ec71fdd5e90013",
+  "url": "https://x.com/nvidianewsroom/status/2120876571829662014",
+  "title": "英伟达",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "23ec71fdd5e90013ec7a8b51001d1374cf3be6d6f53ef2a2f9d2929f7ea0ef1b",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:04.146Z",
+  "content_hash": "4a08ad5ecb6e65cb35b45780dae85d9e59bdbc3e1a087d040dd96c10f59ea1ae",
+  "article_path": "articles/23ec71fdd5e90013.md",
+  "fetched_url": "https://x.com/nvidianewsroom/status/2120876571829662014",
+  "source_path": "sources/articles/nvidia-announces-ceo-transition.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:25:05.192Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

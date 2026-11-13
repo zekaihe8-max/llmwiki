@@ -1,0 +1,23 @@
+{
+  "slug": "32e9cfe42a2bfb1d",
+  "url": "https://www.aihero.dev/the-home-repo-pattern",
+  "title": "文章",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "32e9cfe42a2bfb1d16544447f0d77c31f5b566a6d6958dabe1876cc5eb17c22c",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:11.579Z",
+  "content_hash": "ed6ed4bb6a2df11bdc0c195cc165f27cde2b9e152a19ac428f0f88ba2e93c6d5",
+  "article_path": "articles/32e9cfe42a2bfb1d.md",
+  "fetched_url": "https://www.aihero.dev/the-home-repo-pattern",
+  "source_path": "sources/articles/the-home-repo-pattern.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:20:09.505Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

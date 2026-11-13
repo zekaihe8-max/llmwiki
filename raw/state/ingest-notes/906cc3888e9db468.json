@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-in-chat-bug-feedback.md"
+  ],
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "帖文涉及对 AI 行为的自定义引导与规则设定，与该主题的 AI 过度/不足引导校准相近。",
+    "topics/ux-dx-and-ax.md": "更新侧重回复速度、术语减少与承续体验，属于 AI 助手的用户体验改进。",
+    "topics/agent-in-chat-bug-feedback.md": "帖文提到在对话线程内直接告知点如何行为，属于对话内交互与反馈场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文涉及对 AI 行为的自定义引导与规则设定，与该主题的 AI 过度/不足引导校准相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "更新侧重回复速度、术语减少与承续体验，属于 AI 助手的用户体验改进。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "帖文提到在对话线程内直接告知点如何行为，属于对话内交互与反馈场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; no external facts or URLs invented beyond the article."
+}

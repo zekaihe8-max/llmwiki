@@ -1,0 +1,23 @@
+{
+  "slug": "d7eabd2566339bf0",
+  "url": "https://x.com/Voxyz_ai/status/2120924596178190707",
+  "title": "Vox · 提前压缩上下文",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "d7eabd2566339bf002a19f3e57ab32e29277301c08b565b1a57b01ecf7da4c01",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:12.181Z",
+  "content_hash": "40384633126f1b1d97deedfbf8e0a6b9fbe5171f5f0b1e4dc73be613ca7feafd",
+  "article_path": "articles/d7eabd2566339bf0.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2120924596178190707",
+  "source_path": "sources/articles/vox-early-context-compression.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:23:07.736Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

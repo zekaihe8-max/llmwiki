@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/unified-agent-resource-library.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-skill-authoring.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/unified-agent-resource-library.md": "主仓模式本质上是个人跨仓库 Agent 资源的统一入口，与“跨 Agent 统一资源库”主题目标一致。",
+    "topics/agents-md-token-efficiency.md": "AGENTS.md 是主仓的核心导航与指令文件，与项目指令主题直接相关。",
+    "topics/agent-skill-authoring.md": "主仓集中托管共享技能，涉及 Skill 的编写与组织，与 Agent Skill 编写主题相关。",
+    "topics/software-factory.md": "文中关联 Software Factories 等工程化 Agent 实践，与软件工厂主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "主仓模式本质上是个人跨仓库 Agent 资源的统一入口，与“跨 Agent 统一资源库”主题目标一致。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "AGENTS.md 是主仓的核心导航与指令文件，与项目指令主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "主仓集中托管共享技能，涉及 Skill 的编写与组织，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中关联 Software Factories 等工程化 Agent 实践，与软件工厂主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章被截断，但已提取足够用于摘要与要点的核心内容。"
+}

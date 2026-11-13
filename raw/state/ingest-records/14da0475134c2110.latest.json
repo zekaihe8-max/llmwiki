@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:18:56.155Z",
+  "url": "https://x.com/steipete/status/2121009372470067544",
+  "slug": "14da0475134c2110",
+  "content_hash": "d35acfd2fc9de92cca7af5fa78d643658290396b75ba7831cc423213d435fd19",
+  "source": {
+    "path": "sources/articles/peter-steinberger-beware-of-paid-praise.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文提及即将发布的新 Agent，涉及智能体产品发布语境。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "营销人员付费为 AI 产品说好话，属于产品自荐与主持人加热行为。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及付费好评与诚实评测，与社区实测对抗刷分碰瓷主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文涉及付费好评与诚实评测，与社区实测对抗刷分碰瓷主题直接相关。",
+    "topics/ai-product-self-rec-amplify.md": "营销人员付费为 AI 产品说好话，属于产品自荐与主持人加热行为。",
+    "topics/agentic-ai-foundation.md": "帖文提及即将发布的新 Agent，涉及智能体产品发布语境。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/peter-steinberger-beware-of-paid-praise.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "帖文涉及付费好评与诚实评测，与社区实测对抗刷分碰瓷主题直接相关。",
+      "topics/ai-product-self-rec-amplify.md": "营销人员付费为 AI 产品说好话，属于产品自荐与主持人加热行为。",
+      "topics/agentic-ai-foundation.md": "帖文提及即将发布的新 Agent，涉及智能体产品发布语境。"
+    },
+    "notes": "仅依据抓取的 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/peter-steinberger-beware-of-paid-praise.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

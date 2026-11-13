@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "Primer 是 Agent 驱动的教育系统，与智能体 AI 基础主题相关。",
+    "topics/multiagent-infra-four-problems.md": "Primer 涉及 Agent 系统构建与基础设施，可参考多智能体基建议题。",
+    "topics/agent-auto-mode.md": "教师通过对话驱动 Agent 生成模拟，体现智能体自动模式特征。",
+    "topics/workflows-before-agents.md": "以教学流程为前提的 Agent 应用，契合工作流优先于智能体的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Primer 是 Agent 驱动的教育系统，与智能体 AI 基础主题相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Primer 涉及 Agent 系统构建与基础设施，可参考多智能体基建议题。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "教师通过对话驱动 Agent 生成模拟，体现智能体自动模式特征。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "以教学流程为前提的 Agent 应用，契合工作流优先于智能体的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题。"
+}

@@ -26,6 +26,76 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [Vox · 提前压缩上下文 / Vox · Early Context Compression](./sources/articles/vox-early-context-compression.md) — 在 Claude Code 长对话中提前设置自动压缩点，可降低 Token 使用量。 / Set an earlier auto-compact point in Claude Code long conversations to reduce token usage.
+
+- [Vox · 清理理想路径债 / Vox · Clearing Happy-Path Debt](./sources/articles/vox-clearing-happy-path-debt.md) — AI 编程易只构建理想路径，需补全缺失状态与布局异常，且不改设计、不破坏功能。 / AI coding tends to build only the ideal path; fix missing states and layout breaks without changing design or breaking functionality.
+
+- [Vox · 删注释 / Vox · Delete Comments](./sources/articles/vox-delete-comments.md) — 建议在 AI 代理使用的代码库中删除大部分注释，防止代理把过时注释和临时变通当作可复制模式。 / Recommend deleting most comments in codebases used by AI agents to prevent them from copying stale comments and temporary workarounds as patterns.
+
+- [Home Repo 主仓模式 / The Home Repo Pattern](./sources/articles/the-home-repo-pattern.md) — 一个仓库统一托管技能、AGENTS.md 与共享文档，并通过指针关联其他仓库，让 Agent 跨仓库协作。 / One repository unifies skills, AGENTS.md and shared docs, with pointers to other repos so agents can work across repositories.
+
+- [Matt · Home Repo 模式 / Matt · Home Repo Pattern](./sources/articles/matt-home-repo-pattern.md) — Matt Pocock 介绍 Home Repo 模式，作为在多个仓库中运行 Agent 的简单方案，并提供可在组织仓库上运行的设置提示词。 / Matt Pocock introduces the Home Repo pattern, a simple solution for running agents across multiple repositories, with a prompt to set it up on an organization's repos.
+
+- [Peter Steinberger · 小心收钱的好评 / Peter Steinberger · Beware of Paid Praise](./sources/articles/peter-steinberger-beware-of-paid-praise.md) — 彼得·斯坦伯格提醒 X 用户注意，有营销人员付费为即将发布的 Agent 撰写好评，应留意诚实评测。 / Peter Steinberger reminds X users that marketers are paying for positive posts about an upcoming agent, urging attention to honest reviews.
+
+- [Lenny · 用户研究员去哪了 / Lenny · Where Are UX Researchers Going?](./sources/articles/lenny-where-are-ux-researchers-going.md) — 帖文称，2024-25 年美国 2,779 位转岗用户研究员中，近半数留在用户研究岗，17% 转向设计，约 2% 成为产品经理，且研究岗位正向银行、保险等非科技行业流动。 / The post says that of 2,779 U.S. user researchers who changed jobs in 2024-25, nearly half stayed in user research, 17% moved to design, about 2% became PMs, and research roles are shifting to non-tech industries such as banking and insurance.
+
+- [常驻 Agent 占 AI 开销 45% / Persistent Agents Account for 45% of AI Spend](./sources/articles/persistent-agents-account-for-45-of-ai-spend.md) — 常驻智能体被视为 AI 使用的下一次突破，已占相关 AI 开支的 45%。 / Persistent agents are seen as the next unlock for AI usage and now account for 45% of AI spending.
+
+- [软件工程师现在该怎么办 / What a software engineer should do now](./sources/articles/what-a-software-engineer-should-do-now.md) — Scott Bolinger 在 X 上发布标题为《What a software engineer should do now》的帖文，并附带一张图片。 / Scott Bolinger posts on X titled “What a software engineer should do now,” accompanied by an image.
+
+- [宝玉：软件工程师在 AI 时代应转向“人的问题”并放大格局 / Bao Yu: Software engineers should shift to “human problems” and raise ambition in the AI era](./sources/articles/bao-yu-software-engineers-should-shift-to-human-problems-and-rai.md) — 宝玉转译 Scott Bolinger 文章，主张工程师应少钻纯技术护城河，多学产品、营销与心理学，并以国家甚至全球尺度思考。 / Bao Yu translates Scott Bolinger’s piece, arguing engineers should stop digging purely technical moats, learn product, marketing and psychology, and think at national or global scale.
+
+- [Chollet：教育别只给答案，AI 应助学生思考 / Chollet: Don't Just Give Answers in Education](./sources/articles/chollet-don-t-just-give-answers-in-education.md) — 弗朗索瓦·乔勒主张 AI 教育应帮助学生培养思考过程，而非仅输出答案，并称赞 Gakku 的对话式学习理念。 / François Chollet argues AI education should help students develop thinking processes rather than just output answers, praising Gakku's conversational learning approach.
+
+- [普里默项目：将教师专长转化为 AI 生成的教育模拟 / The Primer Project: Turning Teacher Expertise into AI-Generated Educational Simulations](./sources/articles/the-primer-project-turning-teacher-expertise-into-ai-generated-e.md) — 宾大沃顿商学院生成式 AI 实验室开源的面向教育者的多智能体模拟创作系统。 / Wharton GAIL's open-source multi-agent system that lets educators author and run adaptive AI educational simulations.
+
+- [Mollick · Primer 开源 / Mollick · Primer Open Source](./sources/articles/mollick-primer-open-source.md) — 沃顿实验室开源面向教师的 Agent 驱动课程模拟系统 Primer / Wharton lab open-sources Primer, an agent-driven lesson simulation system for teachers
+
+- [Mollick · 动力织机 / Mollick · Power Loom](./sources/articles/mollick-power-loom.md) — 伊森·莫利克指出，曾经纯粹属于手工艺的智力任务可能即将面临工业化逻辑，这不会是一件容易的事。 / Ethan Mollick notes that intellectual tasks once purely craft-based may soon be subject to industrial logic, and it will not be an easy change.
+
+- [Anthropic 宣布首次公开募股 (IPO) / Anthropic Announces Initial Public Offering (IPO)](./sources/articles/anthropic-announces-initial-public-offering-ipo.md) — Anthropic 在 X 发文宣布启动首次公开募股，并披露 SEC 注册声明及承销商信息。 / Anthropic announced its initial public offering on X, disclosing its SEC registration statement and underwriter information.
+
+- [Replit Agent 可代企业采购并投放广告 / Replit Agent Can Now Purchase and Run Ads for Businesses](./sources/articles/replit-agent-can-now-purchase-and-run-ads-for-businesses.md) — Replit Agent 现可代表企业购买物品并运行广告以获客。 / Replit Agent can now make purchases and run ads for businesses to acquire customers.
+
+- [UI SDK：智能体构建 UI 的 x86 指令集 / UI SDK: The x86 Instruction Set for Agent-Built UI](./sources/articles/ui-sdk-the-x86-instruction-set-for-agent-built-ui.md) — 格雷莫·劳奇提出 UI SDK 将成为智能体自发构建 UI 组件的指令集，取代僵化的单一框架抽象。 / Guillermo Rauch proposes UI SDK as the instruction set for agents to spontaneously build UI components, replacing rigid single-framework abstractions.
+
+- [Vercel 推出 UI SDK / Vercel Introduces UI SDK](./sources/articles/vercel-introduces-ui-sdk.md) — Vercel 在 X 上宣布推出 UI SDK，并附带一段 6 分 41 秒的演示视频。 / Vercel announced the launch of its UI SDK on X, accompanied by a 6-minute 41-second demo video.
+
+- [阿玛德·马萨德质疑英伟达CEO免职传闻的时机与地缘政治动机 / Amjad Masad Questions Timing and Geopolitical Motives Behind Rumored Nvidia CEO Ouster](./sources/articles/amjad-masad-questions-timing-and-geopolitical-motives-behind-rum.md) — 阿玛德·马萨德在 X 上质疑《华尔街日报》关于英伟达CEO黄仁勋可能被免职的报道时机，并指出若开放模型倡导者黄仁勋下台，可能有利于希望AI保持封闭、集中和受控的势力。 / Amjad Masad questions the timing of the Wall Street Journal report that Nvidia's board may oust CEO Jensen Huang, and says removing a leading open-models champion could benefit those who want AI closed, centralized, and controlled.
+
+- [Lambert 为 Nvidia 与 HuggingFace 朋友打气 / Nathan Lambert Cheers On Nvidia and HuggingFace Friends](./sources/articles/nathan-lambert-cheers-on-nvidia-and-huggingface-friends.md) — Nathan Lambert 在 X 上发帖支持 Nvidia 朋友，特别提及 Nemotron 与 HuggingFace，并祝愿其在过渡期后工作更强劲。 / Nathan Lambert posts on X to support his Nvidia friends, especially at Nemotron and HuggingFace, wishing their work returns stronger after a transition period.
+
+- [Lambert：Jensen 若不再担任 CEO 对美国开源模型事业非常不利 / Lambert: Jensen no longer being CEO would be very bad for the open model cause in the US](./sources/articles/lambert-jensen-no-longer-being-ceo-would-be-very-bad-for-the-ope.md) — Nathan Lambert 在 X 上发帖称，若 Jensen 不再担任 CEO，将对美国开源模型事业非常不利，并表示需要解释原因。 / Nathan Lambert posts on X that if Jensen is no longer CEO, it would be very bad for the open model cause in the US, and says he has to explain why.
+
+- [黄仁勋辞去英伟达 CEO，CFO 临时接任，公司设首任董事长 / Jensen Huang Steps Down as NVIDIA CEO, CFO Serves as Interim, Company Appoints First Chairman](./sources/articles/jensen-huang-steps-down-as-nvidia-ceo-cfo-serves-as-interim-comp.md) — 帖文称黄仁勋辞去英伟达总裁、CEO 和董事职务，CFO Colette Kress 临时接任，Harvey C. Jones 出任首任董事长，股价大跌并面临调查。 / The post says Jensen Huang resigned as NVIDIA president, CEO and board member; CFO Colette Kress serves as interim CEO and Harvey C. Jones becomes first chairman, as shares plunge and the company faces investigations.
+
+- [英伟达宣布 CEO 过渡 / NVIDIA Announces CEO Transition](./sources/articles/nvidia-announces-ceo-transition.md) — 英伟达新闻室在 X 上发布 CEO 过渡公告，并附链接指向完整新闻稿。 / NVIDIA Newsroom announces a CEO transition on X and links to the full press release.
+
+- [Tibo 称 dots 已更新并启动银行重置 / Tibo Says Dots Updated and Banked Reset Activated](./sources/articles/tibo-says-dots-updated-and-banked-reset-activated.md) — Tibo 称 dots 已推送更新，银行重置已激活并即将到账。 / Tibo says dots updates shipped and banked reset activated, landing in accounts soon.
+
+- [ChatGPT“点”更新：更快回复、更少术语与对话内自定义指令 / ChatGPT “Dot” Update: Faster Replies, Less Jargon, and In-Thread Custom Instructions](./sources/articles/chatgpt-dot-update-faster-replies-less-jargon-and-in-thread-cust.md) — ChatGPT 宣布其“点”（dot）获得更快回复、更少术语、更好承续，并支持在对话线程中设定自定义指令与行为规则。 / ChatGPT announces its “dot” now delivers faster replies, less jargon, better follow-through, and supports custom instructions and behavior rules set within the thread.
+
+- [Greg Brockman 宣布 OpenAI 两款新网安产品 / Greg Brockman Announces Two New OpenAI Cyber Products](./sources/articles/greg-brockman-announces-two-new-openai-cyber-products.md) — Greg Brockman 宣布 OpenAI 推出 Daybreak Defense Factory 与 Daybreak Red Team，利用前沿网安能力帮助企业防御。 / Greg Brockman announces OpenAI's Daybreak Defense Factory and Daybreak Red Team, leveraging frontier cyber capabilities to help companies defend.
+
+- [Alex Albert：Claude Meetings 入会即生成文档与白板 / Alex Albert: Claude Meetings Joins Team Calls to Build Docs and Whiteboards](./sources/articles/alex-albert-claude-meetings-joins-team-calls-to-build-docs-and-w.md) — Alex Albert 指出，从 Claude 获得更好工作的关键在于补齐缺失上下文，Claude Meetings 正在 Team 与 Enterprise 计划内测。 / Alex Albert says getting better work from Claude means finding and closing missing context; Claude Meetings is rolling out in beta on Team and Enterprise plans.
+
+- [Claude Meetings 测试版推出：AI 可加入视频会议并实时协作 / Introducing Claude Meetings](./sources/articles/introducing-claude-meetings.md) — Claude 可作为可见参与者加入视频通话，在会议中回答问题、建立文档与白板、生成会议记录和行动项，目前在 Team 与 Enterprise 计划上测试。 / Claude can join video calls as a visible participant, answer questions, build docs and whiteboards, and generate meeting notes and action items, currently in beta on Team and Enterprise plans.
+
+- [Claude Meetings 登陆团队视频会议，边对话边生成文档与白板 / Claude Meetings joins team video calls to build docs and whiteboards in real time](./sources/articles/claude-meetings-joins-team-video-calls-to-build-docs-and-whitebo.md) — Anthropic 宣布 Claude Meetings 测试版，可加入团队视频通话并同步生成文档、白板等产物，先在 Team 与 Enterprise 计划推出。 / Anthropic announces Claude Meetings beta, letting Claude join team video calls to co-create docs, whiteboards, and artifacts, rolling out first on Team and Enterprise plans.
+
+- [Google 发布 Gemini 4 Hydrogen 主力模型 / Google Releases Gemini 4 Hydrogen Main Model](./sources/articles/google-releases-gemini-4-hydrogen-main-model.md) — Google 发布 Gemini 4 Hydrogen，定位快速省成本的主力模型，对标 Claude Sonnet 5.5 和 GPT-6.1 Terra，免费层开发者可用。 / Google releases Gemini 4 Hydrogen, a fast and cost-efficient main model benchmarked against Claude Sonnet 5.5 and GPT-6.1 Terra, available to free-tier developers.
+
+- [Levie：Box AI 复杂工作评测显示 Gemini 4 Hydrogen 显著提升 / Levie: Box AI Complex Work Eval Shows Major Gemini 4 Hydrogen Gains](./sources/articles/levie-box-ai-complex-work-eval-shows-major-gemini-4-hydrogen-gai.md) — 帖文称 Box 在复杂工作评测中测试 Gemini 4 Hydrogen，准确率提升 5 个百分点、耗时减半且 Token 减少约 12%，即将在 Box AI Studio 面向客户开放。 / The post says Box tested Gemini 4 Hydrogen in its Complex Work Eval, with 5 percentage points higher accuracy, less than half the latency, and about 12% fewer tokens, rolling out soon in Box AI Studio.
+
+- [推出 Gemini 4 Hydrogen：面向日常代理工作流的高效模型 / Introducing Gemini 4 Hydrogen](./sources/articles/introducing-gemini-4-hydrogen.md) — Google 发布 Gemini 4 Hydrogen，作为面向日常编码与代理工作流的“日常驱动”模型，面向所有 AI Studio、API、企业及应用用户层级提供。 / Google releases Gemini 4 Hydrogen as a “daily driver” model for everyday coding and agentic workflows, available across all AI Studio, API, enterprise, and app user tiers.
+
+- [Google DeepMind 发布 Gemini 4 Hydrogen / Google DeepMind Announces Gemini 4 Hydrogen](./sources/articles/google-deepmind-announces-gemini-4-hydrogen.md) — Google DeepMind 在 X 上发布 Gemini 4 Hydrogen，称其用于快速编码、多模态合成和日常工作流，任务完成速度比 3.8 Flash 快 2.5 倍，并在 @ArtificialAnlys 智能指数上超越 Argon。 / Google DeepMind announced Gemini 4 Hydrogen on X, saying it is built for rapid coding, multimodal synthesis, and everyday workflows, finishing tasks 2.5x faster than 3.8 Flash and surpassing Argon on the @ArtificialAnlys Intelligence Index.
+
+- [Logan Kilpatrick 宣布 Gemini 4 Hydrogen 面向全平台推出 / Logan Kilpatrick Announces Gemini 4 Hydrogen Rollout Across Google Platforms](./sources/articles/logan-kilpatrick-announces-gemini-4-hydrogen-rollout-across-goog.md) — 帖文称 Gemini 4 Hydrogen 是快速且强大的模型，面向 Google AI Studio、API 等多平台及付费订阅用户开放。 / The post says Gemini 4 Hydrogen is a fast, capable model rolling out across Google AI Studio, API, and other platforms to paid subscribers.
+
+- [Sundar Pichai 宣布 Gemini 4 Hydrogen 发布 / Sundar Pichai Announces Gemini 4 Hydrogen Release](./sources/articles/sundar-pichai-announces-gemini-4-hydrogen-release.md) — Sundar Pichai 发文称 Gemini 4 Hydrogen 面向所有用户推出，比 3.8 Flash 快 2.5 倍并提供四级思维，已在 Google AI Studio、API、Gemini 应用、搜索及付费 Pro/Ultra 订阅中上线。 / Sundar Pichai announced Gemini 4 Hydrogen is rolling out to all users, 2.5x faster than 3.8 Flash with four thinking levels, across Google AI Studio, the Gemini API, Gemini App, Search, and paid Pro and Ultra tiers.
+
 - [Grokbot 每小时汇报，用户停止高强度自搜 / Grokbot Reports Hourly, User Stops High-Intensity Self-Search](./sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md) — X 用户称因 Grokbot 每小时汇报而停止高强度自搜。 / An X user says they stopped high-intensity self-searching because Grokbot reports to them every hour.
 
 - [MyGo 启用新域名 mygo.run，上线中文文档与赞助页面 / MyGo launches new domain mygo.run with Chinese docs and sponsorship page](./sources/articles/mygo-launches-new-domain-mygo-run-with-chinese-docs-and-sponsors.md) — MyGo 启用新域名 mygo.run，同步发布中文文档和赞助页面。 / MyGo launches new domain mygo.run, alongside Chinese documentation and a sponsorship page.

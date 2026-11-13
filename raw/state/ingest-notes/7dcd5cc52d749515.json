@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文宣布新模型层级，与 Pro/Flash 模型策略主题相近。",
+    "topics/premium-ai-subscription-value.md": "涉及付费 Google AI Pro 与 Ultra 订阅用户，与高端 AI 订阅价值相关。",
+    "topics/cloud-auto-model-routing.md": "模型在 Google AI Studio、API 及多平台发布，与云平台模型编排相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文宣布新模型层级，与 Pro/Flash 模型策略主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及付费 Google AI Pro 与 Ultra 订阅用户，与高端 AI 订阅价值相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "模型在 Google AI Studio、API 及多平台发布，与云平台模型编排相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "「Google Antigravity」为帖文中出现的原始表述，已按帖文所述保留，未自行核实。"
+}

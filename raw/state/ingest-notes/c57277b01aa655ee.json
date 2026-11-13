@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "帖文关注 Jensen 可能不再担任 CEO，属于现任领导人离任话题。",
+    "topics/open-weight-frontier-models.md": "帖文提及美国开源模型事业，与开放权重前沿模型相关。",
+    "topics/ai-native-companies.md": "Jensen 为 NVIDIA CEO，涉及 AI 公司领导层变动背景。"
+  },
+  "topics": [
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "帖文关注 Jensen 可能不再担任 CEO，属于现任领导人离任话题。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文提及美国开源模型事业，与开放权重前沿模型相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Jensen 为 NVIDIA CEO，涉及 AI 公司领导层变动背景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于抓取的 X 帖文，未引入外部事实。"
+}

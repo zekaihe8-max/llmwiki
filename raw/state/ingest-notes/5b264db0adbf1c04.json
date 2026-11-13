@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "涉及上市/IPO 语境，与 Anthropic 首次公开募股公告最为贴近",
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，该主题与公司定位相关",
+    "topics/frontier-training-containment.md": "Anthropic 为前沿 AI 实验室，主题与公司技术定位相关但未涉及 IPO 内容"
+  },
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及上市/IPO 语境，与 Anthropic 首次公开募股公告最为贴近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，该主题与公司定位相关"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Anthropic 为前沿 AI 实验室，主题与公司技术定位相关但未涉及 IPO 内容"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源于抓取的 X 帖文，未引入外部信息。"
+}

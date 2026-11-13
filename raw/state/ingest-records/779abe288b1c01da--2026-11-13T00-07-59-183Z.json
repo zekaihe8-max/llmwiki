@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:07:59.183Z",
+  "url": "https://claude.com/resources/articles/claude-meetings",
+  "slug": "779abe288b1c01da",
+  "content_hash": "62a3104f0d3b76ecbddddb55f0057aa275cc881294b32021b0dcc371ea7b855f",
+  "source": {
+    "path": "sources/articles/introducing-claude-meetings.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中安全与隐私章节涉及管理员开关、外部来宾限制及数据治理，与智能体算力与治理相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "功能面向 Team 与 Enterprise 计划并由管理员控制，符合公司级 Agent 部署与管控的语境。"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "Claude Meetings 生成会议摘要与行动项，功能上类似群聊日报 Agent 对消息的消化与总结。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章涉及会议中的语音输入、口头提问以及会议记录与文档整理，与该话题的口头转述与文书整理高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章涉及会议中的语音输入、口头提问以及会议记录与文档整理，与该话题的口头转述与文书整理高度相关。",
+    "topics/hireable-group-chat-digest-agent.md": "Claude Meetings 生成会议摘要与行动项，功能上类似群聊日报 Agent 对消息的消化与总结。",
+    "topics/agent-compute-and-governance.md": "文中安全与隐私章节涉及管理员开关、外部来宾限制及数据治理，与智能体算力与治理相关。",
+    "topics/company-agent-harness.md": "功能面向 Team 与 Enterprise 计划并由管理员控制，符合公司级 Agent 部署与管控的语境。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-claude-meetings.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/hireable-group-chat-digest-agent.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "文章涉及会议中的语音输入、口头提问以及会议记录与文档整理，与该话题的口头转述与文书整理高度相关。",
+      "topics/hireable-group-chat-digest-agent.md": "Claude Meetings 生成会议摘要与行动项，功能上类似群聊日报 Agent 对消息的消化与总结。",
+      "topics/agent-compute-and-governance.md": "文中安全与隐私章节涉及管理员开关、外部来宾限制及数据治理，与智能体算力与治理相关。",
+      "topics/company-agent-harness.md": "功能面向 Team 与 Enterprise 计划并由管理员控制，符合公司级 Agent 部署与管控的语境。"
+    },
+    "notes": "Source URL: https://claude.com/resources/articles/claude-meetings; article date November 12, 2026.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-claude-meetings.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

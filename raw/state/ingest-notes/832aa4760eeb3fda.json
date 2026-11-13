@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/agent-in-inbox.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "Claude Meetings 属于 Claude 智能体能力延伸，与 Computer Use 主题相近，但无需修改。",
+    "topics/hireable-group-chat-digest-agent.md": "两者都涉及 Agent 进入群体协作场景，但侧重点不同，保持原样。",
+    "topics/agent-in-inbox.md": "Agent 嵌入通信/协作工具的主题相近，但本文为视频会议场景，不改动。",
+    "topics/agentic-video-editing.md": "涉及视频与 Agent 结合，但本文是会议实时产物而非视频剪辑，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Claude Meetings 属于 Claude 智能体能力延伸，与 Computer Use 主题相近，但无需修改。"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "两者都涉及 Agent 进入群体协作场景，但侧重点不同，保持原样。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "Agent 嵌入通信/协作工具的主题相近，但本文为视频会议场景，不改动。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及视频与 Agent 结合，但本文是会议实时产物而非视频剪辑，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未找到直接对应“AI 会议实时产物”的现有主题，故所有咨询主题均保持 unchanged，不新建主题。"
+}

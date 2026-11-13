@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:25:05.192Z",
+  "url": "https://x.com/nvidianewsroom/status/2120876571829662014",
+  "slug": "23ec71fdd5e90013",
+  "content_hash": "4a08ad5ecb6e65cb35b45780dae85d9e59bdbc3e1a087d040dd96c10f59ea1ae",
+  "source": {
+    "path": "sources/articles/nvidia-announces-ceo-transition.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "英伟达作为 AI 原生/领军公司，其高管变动属 AI 公司范畴。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "英伟达是大型 AI 企业，领导层变动与大厂职级编制相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "英伟达核心业务为 GPU 与 AI 算力，属其公司背景。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "涉及先驱离任与继任者，与 CEO 过渡主题最贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "涉及先驱离任与继任者，与 CEO 过渡主题最贴近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "英伟达是大型 AI 企业，领导层变动与大厂职级编制相关。",
+    "topics/gpu-ai-compute-unlock.md": "英伟达核心业务为 GPU 与 AI 算力，属其公司背景。",
+    "topics/ai-native-companies.md": "英伟达作为 AI 原生/领军公司，其高管变动属 AI 公司范畴。"
+  },
+  "files_changed": [
+    "sources/articles/nvidia-announces-ceo-transition.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/incumbent-exit-successor-blame-metaphor.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/incumbent-exit-successor-blame-metaphor.md": "涉及先驱离任与继任者，与 CEO 过渡主题最贴近。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "英伟达是大型 AI 企业，领导层变动与大厂职级编制相关。",
+      "topics/gpu-ai-compute-unlock.md": "英伟达核心业务为 GPU 与 AI 算力，属其公司背景。",
+      "topics/ai-native-companies.md": "英伟达作为 AI 原生/领军公司，其高管变动属 AI 公司范畴。"
+    },
+    "notes": "本条仅基于 X 推文及其可见元数据，未抓取 t.co 指向的完整新闻稿，因此未引用新闻稿内未披露的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/nvidia-announces-ceo-transition.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

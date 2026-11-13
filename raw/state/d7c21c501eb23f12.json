@@ -1,0 +1,23 @@
+{
+  "slug": "d7c21c501eb23f12",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+  "title": "公告",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "d7c21c501eb23f12ba47c2340d026d981857380497913d0eb9b51d95ebac21c6",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:00.858Z",
+  "content_hash": "165a82749dcbb5c3df553c174ed783b19af081caf70b8a18d58ac50cb5e4ca82",
+  "article_path": "articles/d7c21c501eb23f12.md",
+  "fetched_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "source_path": "sources/articles/introducing-gemini-4-hydrogen.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:05:47.007Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 客户端使用，与帖文主题最贴近。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文核心是编程 Agent 的 Token 省用工具与设置。",
+    "topics/long-conversation-default-compression.md": "帖文讨论长对话默认压缩阈值低于模型窗口，属同一语义领域。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 客户端使用，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文核心是编程 Agent 的 Token 省用工具与设置。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "帖文讨论长对话默认压缩阈值低于模型窗口，属同一语义领域。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于给定的 X 帖文，未引用文中未提及的其他内容。"
+}

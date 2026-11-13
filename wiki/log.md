@@ -1,3 +1,75 @@
+## 2026-11-13
+
+* **创建 / Creation**: 归档 [Vox · 提前压缩上下文](./sources/articles/vox-early-context-compression.md)。 / Filed [Vox · Early Context Compression](./sources/articles/vox-early-context-compression.md).
+
+* **创建 / Creation**: 归档 [Vox · 清理理想路径债](./sources/articles/vox-clearing-happy-path-debt.md)。 / Filed [Vox · Clearing Happy-Path Debt](./sources/articles/vox-clearing-happy-path-debt.md).
+
+* **创建 / Creation**: 归档 [Vox · 删注释](./sources/articles/vox-delete-comments.md)。 / Filed [Vox · Delete Comments](./sources/articles/vox-delete-comments.md).
+
+* **创建 / Creation**: 归档 [Home Repo 主仓模式](./sources/articles/the-home-repo-pattern.md)。 / Filed [The Home Repo Pattern](./sources/articles/the-home-repo-pattern.md).
+
+* **创建 / Creation**: 归档 [Matt · Home Repo 模式](./sources/articles/matt-home-repo-pattern.md)。 / Filed [Matt · Home Repo Pattern](./sources/articles/matt-home-repo-pattern.md).
+
+* **创建 / Creation**: 归档 [Peter Steinberger · 小心收钱的好评](./sources/articles/peter-steinberger-beware-of-paid-praise.md)。 / Filed [Peter Steinberger · Beware of Paid Praise](./sources/articles/peter-steinberger-beware-of-paid-praise.md).
+
+* **创建 / Creation**: 归档 [Lenny · 用户研究员去哪了](./sources/articles/lenny-where-are-ux-researchers-going.md)。 / Filed [Lenny · Where Are UX Researchers Going?](./sources/articles/lenny-where-are-ux-researchers-going.md).
+
+* **创建 / Creation**: 归档 [常驻 Agent 占 AI 开销 45%](./sources/articles/persistent-agents-account-for-45-of-ai-spend.md)。 / Filed [Persistent Agents Account for 45% of AI Spend](./sources/articles/persistent-agents-account-for-45-of-ai-spend.md).
+
+* **创建 / Creation**: 归档 [软件工程师现在该怎么办](./sources/articles/what-a-software-engineer-should-do-now.md)。 / Filed [What a software engineer should do now](./sources/articles/what-a-software-engineer-should-do-now.md).
+
+* **创建 / Creation**: 归档 [宝玉：软件工程师在 AI 时代应转向“人的问题”并放大格局](./sources/articles/bao-yu-software-engineers-should-shift-to-human-problems-and-rai.md)。 / Filed [Bao Yu: Software engineers should shift to “human problems” and raise ambition in the AI era](./sources/articles/bao-yu-software-engineers-should-shift-to-human-problems-and-rai.md).
+
+* **创建 / Creation**: 归档 [Chollet：教育别只给答案，AI 应助学生思考](./sources/articles/chollet-don-t-just-give-answers-in-education.md)。 / Filed [Chollet: Don't Just Give Answers in Education](./sources/articles/chollet-don-t-just-give-answers-in-education.md).
+
+* **创建 / Creation**: 归档 [普里默项目：将教师专长转化为 AI 生成的教育模拟](./sources/articles/the-primer-project-turning-teacher-expertise-into-ai-generated-e.md)。 / Filed [The Primer Project: Turning Teacher Expertise into AI-Generated Educational Simulations](./sources/articles/the-primer-project-turning-teacher-expertise-into-ai-generated-e.md).
+
+* **创建 / Creation**: 归档 [Mollick · Primer 开源](./sources/articles/mollick-primer-open-source.md)。 / Filed [Mollick · Primer Open Source](./sources/articles/mollick-primer-open-source.md).
+
+* **创建 / Creation**: 归档 [Mollick · 动力织机](./sources/articles/mollick-power-loom.md)。 / Filed [Mollick · Power Loom](./sources/articles/mollick-power-loom.md).
+
+* **创建 / Creation**: 归档 [Anthropic 宣布首次公开募股 (IPO)](./sources/articles/anthropic-announces-initial-public-offering-ipo.md)。 / Filed [Anthropic Announces Initial Public Offering (IPO)](./sources/articles/anthropic-announces-initial-public-offering-ipo.md).
+
+* **创建 / Creation**: 归档 [Replit Agent 可代企业采购并投放广告](./sources/articles/replit-agent-can-now-purchase-and-run-ads-for-businesses.md)。 / Filed [Replit Agent Can Now Purchase and Run Ads for Businesses](./sources/articles/replit-agent-can-now-purchase-and-run-ads-for-businesses.md).
+
+* **创建 / Creation**: 归档 [UI SDK：智能体构建 UI 的 x86 指令集](./sources/articles/ui-sdk-the-x86-instruction-set-for-agent-built-ui.md)。 / Filed [UI SDK: The x86 Instruction Set for Agent-Built UI](./sources/articles/ui-sdk-the-x86-instruction-set-for-agent-built-ui.md).
+
+* **创建 / Creation**: 归档 [Vercel 推出 UI SDK](./sources/articles/vercel-introduces-ui-sdk.md)。 / Filed [Vercel Introduces UI SDK](./sources/articles/vercel-introduces-ui-sdk.md).
+
+* **创建 / Creation**: 归档 [阿玛德·马萨德质疑英伟达CEO免职传闻的时机与地缘政治动机](./sources/articles/amjad-masad-questions-timing-and-geopolitical-motives-behind-rum.md)。 / Filed [Amjad Masad Questions Timing and Geopolitical Motives Behind Rumored Nvidia CEO Ouster](./sources/articles/amjad-masad-questions-timing-and-geopolitical-motives-behind-rum.md).
+
+* **创建 / Creation**: 归档 [Lambert 为 Nvidia 与 HuggingFace 朋友打气](./sources/articles/nathan-lambert-cheers-on-nvidia-and-huggingface-friends.md)。 / Filed [Nathan Lambert Cheers On Nvidia and HuggingFace Friends](./sources/articles/nathan-lambert-cheers-on-nvidia-and-huggingface-friends.md).
+
+* **创建 / Creation**: 归档 [Lambert：Jensen 若不再担任 CEO 对美国开源模型事业非常不利](./sources/articles/lambert-jensen-no-longer-being-ceo-would-be-very-bad-for-the-ope.md)。 / Filed [Lambert: Jensen no longer being CEO would be very bad for the open model cause in the US](./sources/articles/lambert-jensen-no-longer-being-ceo-would-be-very-bad-for-the-ope.md).
+
+* **创建 / Creation**: 归档 [黄仁勋辞去英伟达 CEO，CFO 临时接任，公司设首任董事长](./sources/articles/jensen-huang-steps-down-as-nvidia-ceo-cfo-serves-as-interim-comp.md)。 / Filed [Jensen Huang Steps Down as NVIDIA CEO, CFO Serves as Interim, Company Appoints First Chairman](./sources/articles/jensen-huang-steps-down-as-nvidia-ceo-cfo-serves-as-interim-comp.md).
+
+* **创建 / Creation**: 归档 [英伟达宣布 CEO 过渡](./sources/articles/nvidia-announces-ceo-transition.md)。 / Filed [NVIDIA Announces CEO Transition](./sources/articles/nvidia-announces-ceo-transition.md).
+
+* **创建 / Creation**: 归档 [Tibo 称 dots 已更新并启动银行重置](./sources/articles/tibo-says-dots-updated-and-banked-reset-activated.md)。 / Filed [Tibo Says Dots Updated and Banked Reset Activated](./sources/articles/tibo-says-dots-updated-and-banked-reset-activated.md).
+
+* **创建 / Creation**: 归档 [ChatGPT“点”更新：更快回复、更少术语与对话内自定义指令](./sources/articles/chatgpt-dot-update-faster-replies-less-jargon-and-in-thread-cust.md)。 / Filed [ChatGPT “Dot” Update: Faster Replies, Less Jargon, and In-Thread Custom Instructions](./sources/articles/chatgpt-dot-update-faster-replies-less-jargon-and-in-thread-cust.md).
+
+* **创建 / Creation**: 归档 [Greg Brockman 宣布 OpenAI 两款新网安产品](./sources/articles/greg-brockman-announces-two-new-openai-cyber-products.md)。 / Filed [Greg Brockman Announces Two New OpenAI Cyber Products](./sources/articles/greg-brockman-announces-two-new-openai-cyber-products.md).
+
+* **创建 / Creation**: 归档 [Alex Albert：Claude Meetings 入会即生成文档与白板](./sources/articles/alex-albert-claude-meetings-joins-team-calls-to-build-docs-and-w.md)。 / Filed [Alex Albert: Claude Meetings Joins Team Calls to Build Docs and Whiteboards](./sources/articles/alex-albert-claude-meetings-joins-team-calls-to-build-docs-and-w.md).
+
+* **创建 / Creation**: 归档 [Claude Meetings 测试版推出：AI 可加入视频会议并实时协作](./sources/articles/introducing-claude-meetings.md)。 / Filed [Introducing Claude Meetings](./sources/articles/introducing-claude-meetings.md).
+
+* **创建 / Creation**: 归档 [Claude Meetings 登陆团队视频会议，边对话边生成文档与白板](./sources/articles/claude-meetings-joins-team-video-calls-to-build-docs-and-whitebo.md)。 / Filed [Claude Meetings joins team video calls to build docs and whiteboards in real time](./sources/articles/claude-meetings-joins-team-video-calls-to-build-docs-and-whitebo.md).
+
+* **创建 / Creation**: 归档 [Google 发布 Gemini 4 Hydrogen 主力模型](./sources/articles/google-releases-gemini-4-hydrogen-main-model.md)。 / Filed [Google Releases Gemini 4 Hydrogen Main Model](./sources/articles/google-releases-gemini-4-hydrogen-main-model.md).
+
+* **创建 / Creation**: 归档 [Levie：Box AI 复杂工作评测显示 Gemini 4 Hydrogen 显著提升](./sources/articles/levie-box-ai-complex-work-eval-shows-major-gemini-4-hydrogen-gai.md)。 / Filed [Levie: Box AI Complex Work Eval Shows Major Gemini 4 Hydrogen Gains](./sources/articles/levie-box-ai-complex-work-eval-shows-major-gemini-4-hydrogen-gai.md).
+
+* **创建 / Creation**: 归档 [推出 Gemini 4 Hydrogen：面向日常代理工作流的高效模型](./sources/articles/introducing-gemini-4-hydrogen.md)。 / Filed [Introducing Gemini 4 Hydrogen](./sources/articles/introducing-gemini-4-hydrogen.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 发布 Gemini 4 Hydrogen](./sources/articles/google-deepmind-announces-gemini-4-hydrogen.md)。 / Filed [Google DeepMind Announces Gemini 4 Hydrogen](./sources/articles/google-deepmind-announces-gemini-4-hydrogen.md).
+
+* **创建 / Creation**: 归档 [Logan Kilpatrick 宣布 Gemini 4 Hydrogen 面向全平台推出](./sources/articles/logan-kilpatrick-announces-gemini-4-hydrogen-rollout-across-goog.md)。 / Filed [Logan Kilpatrick Announces Gemini 4 Hydrogen Rollout Across Google Platforms](./sources/articles/logan-kilpatrick-announces-gemini-4-hydrogen-rollout-across-goog.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 宣布 Gemini 4 Hydrogen 发布](./sources/articles/sundar-pichai-announces-gemini-4-hydrogen-release.md)。 / Filed [Sundar Pichai Announces Gemini 4 Hydrogen Release](./sources/articles/sundar-pichai-announces-gemini-4-hydrogen-release.md).
+
 ## 2026-11-12
 
 * **创建 / Creation**: 归档 [Grokbot 每小时汇报，用户停止高强度自搜](./sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md)。 / Filed [Grokbot Reports Hourly, User Stops High-Intensity Self-Search](./sources/articles/grokbot-reports-hourly-user-stops-high-intensity-self-search.md).

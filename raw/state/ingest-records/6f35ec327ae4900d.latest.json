@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:10:43.612Z",
+  "url": "https://x.com/dotey/status/2120902632550060478",
+  "slug": "6f35ec327ae4900d",
+  "content_hash": "0d142b93667b1238e4ed05a5447b7628190f2a92835bee25a9c07fdf5f905604",
+  "source": {
+    "path": "sources/articles/jensen-huang-steps-down-as-nvidia-ceo-cfo-serves-as-interim-comp.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及董事会治理、临时 CEO 过渡及独立调查，与算力与治理议题相近。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "英伟达是 GPU/AI 算力公司，其领导层变动与股价波动直接关联 AI 算力产业。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "文章核心是创始人 CEO 离任与继任者接管，与先驱离任、继任背锅隐喻高度相关。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "文中提及国会调查、对华芯片出口记录保留及集体诉讼，属于技术滥用关切的连续性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "文章核心是创始人 CEO 离任与继任者接管，与先驱离任、继任背锅隐喻高度相关。",
+    "topics/agent-compute-and-governance.md": "涉及董事会治理、临时 CEO 过渡及独立调查，与算力与治理议题相近。",
+    "topics/gpu-ai-compute-unlock.md": "英伟达是 GPU/AI 算力公司，其领导层变动与股价波动直接关联 AI 算力产业。",
+    "topics/tech-misuse-concern-continuity.md": "文中提及国会调查、对华芯片出口记录保留及集体诉讼，属于技术滥用关切的连续性。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/jensen-huang-steps-down-as-nvidia-ceo-cfo-serves-as-interim-comp.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/incumbent-exit-successor-blame-metaphor.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/incumbent-exit-successor-blame-metaphor.md": "文章核心是创始人 CEO 离任与继任者接管，与先驱离任、继任背锅隐喻高度相关。",
+      "topics/agent-compute-and-governance.md": "涉及董事会治理、临时 CEO 过渡及独立调查，与算力与治理议题相近。",
+      "topics/gpu-ai-compute-unlock.md": "英伟达是 GPU/AI 算力公司，其领导层变动与股价波动直接关联 AI 算力产业。",
+      "topics/tech-misuse-concern-continuity.md": "文中提及国会调查、对华芯片出口记录保留及集体诉讼，属于技术滥用关切的连续性。"
+    },
+    "notes": "未核实主张已用「帖文称」限定；文章末尾说明 Alice Huang 与 Powell 相关说法缺乏公开证据，故未计入事实 bullet。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/jensen-huang-steps-down-as-nvidia-ceo-cfo-serves-as-interim-comp.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:13:06.212Z",
+  "url": "https://x.com/vercel/status/2120950020249895314",
+  "slug": "e40219c99a1a0bb2",
+  "content_hash": "c69223207d0c78967cde7bf410ddd680199dfbd6175a656f9983486d50162c0d",
+  "source": {
+    "path": "sources/articles/vercel-introduces-ui-sdk.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/programmable-edge-compute.md",
+    "topics/deep-backends-and-jit-frontends.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deep-backends-and-jit-frontends.md",
+      "action": "unchanged",
+      "reason": "UI SDK 属于前端技术，与 JIT 前端主题相近。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "UI SDK 与设计到代码的工作流相关，属于设计↔代码主题。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Vercel 是可编程边缘计算平台，UI SDK 属于其前端/边缘生态范畴。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "UI SDK 涉及开发者体验与用户界面，与 UX、DX、AX 主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "UI SDK 涉及开发者体验与用户界面，与 UX、DX、AX 主题直接相关。",
+    "topics/programmable-edge-compute.md": "Vercel 是可编程边缘计算平台，UI SDK 属于其前端/边缘生态范畴。",
+    "topics/deep-backends-and-jit-frontends.md": "UI SDK 属于前端技术，与 JIT 前端主题相近。",
+    "topics/design-to-code-byo-subscriptions.md": "UI SDK 与设计到代码的工作流相关，属于设计↔代码主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vercel-introduces-ui-sdk.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/programmable-edge-compute.md",
+      "topics/deep-backends-and-jit-frontends.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "UI SDK 涉及开发者体验与用户界面，与 UX、DX、AX 主题直接相关。",
+      "topics/programmable-edge-compute.md": "Vercel 是可编程边缘计算平台，UI SDK 属于其前端/边缘生态范畴。",
+      "topics/deep-backends-and-jit-frontends.md": "UI SDK 属于前端技术，与 JIT 前端主题相近。",
+      "topics/design-to-code-byo-subscriptions.md": "UI SDK 与设计到代码的工作流相关，属于设计↔代码主题。"
+    },
+    "notes": "所有事实仅来源于提供的 X 帖文文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vercel-introduces-ui-sdk.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

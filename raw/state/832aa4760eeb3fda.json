@@ -1,0 +1,23 @@
+{
+  "slug": "832aa4760eeb3fda",
+  "url": "https://x.com/claudeai/status/2120973994191094179",
+  "title": "Claude",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "832aa4760eeb3fdaec2f96ce95179f772b52033e51981d6ed67eb09b6869eed9",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:01.626Z",
+  "content_hash": "feb8974441b493bf6ff25ba6953e3849da7be29efbfaf0fd30a5a6f16cfe6a9f",
+  "article_path": "articles/832aa4760eeb3fda.md",
+  "fetched_url": "https://x.com/claudeai/status/2120973994191094179",
+  "source_path": "sources/articles/claude-meetings-joins-team-video-calls-to-build-docs-and-whitebo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:07:12.108Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "cd6529aac0277839",
+  "url": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+  "title": "DeepMind",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "cd6529aac02778397034639b33f0d86e92616e2c759b423961bd86c2e396c6e5",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:00.465Z",
+  "content_hash": "4b8a58aac29de6afc6eed9cbfbaa3c82dea1a9affb00d2f79fee526c69a6d657",
+  "article_path": "articles/cd6529aac0277839.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+  "source_path": "sources/articles/google-deepmind-announces-gemini-4-hydrogen.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:25:05.084Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

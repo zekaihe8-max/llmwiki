@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:17:13.156Z",
+  "url": "https://x.com/fchollet/status/2120673529951813985",
+  "slug": "da427cf50abb0c10",
+  "content_hash": "1150197aa50a05aaac334f664aa315afc9806422f96f97a91d704cfd882a35c5",
+  "source": {
+    "path": "sources/articles/chollet-don-t-just-give-answers-in-education.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助学习与笔记，与教育辅助场景相邻"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Gakku 为 AI 原生创业公司，与 AI 原生公司话题相关"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及知识学习类产品，与 AI 教育主题最贴近"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调过程优于自动化，与“学习过程本身就是产品”观点相通"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "涉及知识学习类产品，与 AI 教育主题最贴近",
+    "topics/ai-native-companies.md": "Gakku 为 AI 原生创业公司，与 AI 原生公司话题相关",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助学习与笔记，与教育辅助场景相邻",
+    "topics/workflows-before-agents.md": "强调过程优于自动化，与“学习过程本身就是产品”观点相通"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chollet-don-t-just-give-answers-in-education.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/html-image-fun-knowledge-learning.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/html-image-fun-knowledge-learning.md": "涉及知识学习类产品，与 AI 教育主题最贴近",
+      "topics/ai-native-companies.md": "Gakku 为 AI 原生创业公司，与 AI 原生公司话题相关",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助学习与笔记，与教育辅助场景相邻",
+      "topics/workflows-before-agents.md": "强调过程优于自动化，与“学习过程本身就是产品”观点相通"
+    },
+    "notes": "Source: https://x.com/fchollet/status/2120673529951813985",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chollet-don-t-just-give-answers-in-education.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

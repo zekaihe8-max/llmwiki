@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-identity-platform-keys.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "帖文描述 AI 代理直接帮助企业采购与获客，与“AI 助力本地小生意”主题高度相关。",
+    "topics/agent-auto-mode.md": "Replit Agent 自主执行购买与投放广告等业务操作，体现智能体自动模式。",
+    "topics/agent-identity-platform-keys.md": "涉及 Agent 使用 Link 与 Visa 完成支付，属于智能体身份与平台凭证/支付能力范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 代理直接帮助企业采购与获客，与“AI 助力本地小生意”主题高度相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Replit Agent 自主执行购买与投放广告等业务操作，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 使用 Link 与 Visa 完成支付，属于智能体身份与平台凭证/支付能力范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持不变，仅作为参考目录咨询。"
+}

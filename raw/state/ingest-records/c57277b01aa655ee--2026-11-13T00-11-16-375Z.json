@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:11:16.375Z",
+  "url": "https://x.com/natolambert/status/2120880836488913049",
+  "slug": "c57277b01aa655ee",
+  "content_hash": "712e09ed356e142bd15ab8b10c741d8ba2f669c05e3e2e5118e652193911b03d",
+  "source": {
+    "path": "sources/articles/lambert-jensen-no-longer-being-ceo-would-be-very-bad-for-the-ope.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Jensen 为 NVIDIA CEO，涉及 AI 公司领导层变动背景。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "帖文关注 Jensen 可能不再担任 CEO，属于现任领导人离任话题。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文提及美国开源模型事业，与开放权重前沿模型相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "帖文关注 Jensen 可能不再担任 CEO，属于现任领导人离任话题。",
+    "topics/open-weight-frontier-models.md": "帖文提及美国开源模型事业，与开放权重前沿模型相关。",
+    "topics/ai-native-companies.md": "Jensen 为 NVIDIA CEO，涉及 AI 公司领导层变动背景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lambert-jensen-no-longer-being-ceo-would-be-very-bad-for-the-ope.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/incumbent-exit-successor-blame-metaphor.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/incumbent-exit-successor-blame-metaphor.md": "帖文关注 Jensen 可能不再担任 CEO，属于现任领导人离任话题。",
+      "topics/open-weight-frontier-models.md": "帖文提及美国开源模型事业，与开放权重前沿模型相关。",
+      "topics/ai-native-companies.md": "Jensen 为 NVIDIA CEO，涉及 AI 公司领导层变动背景。"
+    },
+    "notes": "所有主张均来源于抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lambert-jensen-no-longer-being-ceo-would-be-very-bad-for-the-ope.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

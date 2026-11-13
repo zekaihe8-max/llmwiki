@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "涉及知识学习类产品，与 AI 教育主题最贴近",
+    "topics/ai-native-companies.md": "Gakku 为 AI 原生创业公司，与 AI 原生公司话题相关",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助学习与笔记，与教育辅助场景相邻",
+    "topics/workflows-before-agents.md": "强调过程优于自动化，与“学习过程本身就是产品”观点相通"
+  },
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及知识学习类产品，与 AI 教育主题最贴近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Gakku 为 AI 原生创业公司，与 AI 原生公司话题相关"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助学习与笔记，与教育辅助场景相邻"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调过程优于自动化，与“学习过程本身就是产品”观点相通"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://x.com/fchollet/status/2120673529951813985"
+}

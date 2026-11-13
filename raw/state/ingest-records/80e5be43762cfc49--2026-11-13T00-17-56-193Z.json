@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:17:56.193Z",
+  "url": "https://x.com/scottbolinger/status/2120897438001283512",
+  "slug": "80e5be43762cfc49",
+  "content_hash": "504884a4cfbe6888b6aa42f39599159182fdb5b663a93dc1d714ca53b3bd7685",
+  "source": {
+    "path": "sources/articles/what-a-software-engineer-should-do-now.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/hunger-beats-tenure.md",
+    "topics/software-factory.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "涉及职业发展与行动建议，与软件工程师当下该做什么相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "聚焦软件工程与生产方式，与帖文主题领域相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 时代软件工程师可交付或交给 AI 的工作，与职业建议相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/hunger-beats-tenure.md": "涉及职业发展与行动建议，与软件工程师当下该做什么相近。",
+    "topics/software-factory.md": "聚焦软件工程与生产方式，与帖文主题领域相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "讨论 AI 时代软件工程师可交付或交给 AI 的工作，与职业建议相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/what-a-software-engineer-should-do-now.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/hunger-beats-tenure.md",
+      "topics/software-factory.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/hunger-beats-tenure.md": "涉及职业发展与行动建议，与软件工程师当下该做什么相近。",
+      "topics/software-factory.md": "聚焦软件工程与生产方式，与帖文主题领域相关。",
+      "topics/tasks-confidently-handed-to-ai.md": "讨论 AI 时代软件工程师可交付或交给 AI 的工作，与职业建议相关。"
+    },
+    "notes": "帖文正文极简，仅含标题与图片，未展开具体建议，故摘要与要点仅基于可见元数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/what-a-software-engineer-should-do-now.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

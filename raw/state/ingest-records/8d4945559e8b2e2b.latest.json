@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:25:05.239Z",
+  "url": "https://x.com/emollick/status/2120706817584234858",
+  "slug": "8d4945559e8b2e2b",
+  "content_hash": "d68552b78c5807355f7d9165d654c87902b78c1f372b103f75d2a34b72598d88",
+  "source": {
+    "path": "sources/articles/mollick-power-loom.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智力任务边界向工业化扩展，与 AI 可处理任务时界增长相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "“动力织机”隐喻与软件工厂及知识工作工业化主题相近。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "涉及哪些认知工作可交由 AI 或工业化流程处理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "帖文讨论智力任务边界向工业化扩展，与 AI 可处理任务时界增长相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "涉及哪些认知工作可交由 AI 或工业化流程处理。",
+    "topics/software-factory.md": "“动力织机”隐喻与软件工厂及知识工作工业化主题相近。"
+  },
+  "files_changed": [
+    "sources/articles/mollick-power-loom.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-task-horizon-growth.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-task-horizon-growth.md": "帖文讨论智力任务边界向工业化扩展，与 AI 可处理任务时界增长相关。",
+      "topics/tasks-confidently-handed-to-ai.md": "涉及哪些认知工作可交由 AI 或工业化流程处理。",
+      "topics/software-factory.md": "“动力织机”隐喻与软件工厂及知识工作工业化主题相近。"
+    },
+    "notes": "所有事实仅来自所提供的 X 帖文文本，未引入外部信息，也未编造互动类型标签。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/mollick-power-loom.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

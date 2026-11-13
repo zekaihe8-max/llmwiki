@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章对比 Hydrogen 与自家 Argon/Carbon 及外部模型定价定位，属模型分层策略。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中详列 API 单价、每任务花费与免费层额度，涉及推理成本效率。",
+    "topics/cloud-auto-model-routing.md": "Gemini App 自动选择模型及 Antigravity Orchestrator 跨模型切换，属云平台模型路由。",
+    "topics/community-evals-vs-score-hype.md": "文中引用 Google 自身评测并指出 Artificial Analysis 尚未列出 Hydrogen 分数，涉及评测来源审视。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章对比 Hydrogen 与自家 Argon/Carbon 及外部模型定价定位，属模型分层策略。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中详列 API 单价、每任务花费与免费层额度，涉及推理成本效率。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "Gemini App 自动选择模型及 Antigravity Orchestrator 跨模型切换，属云平台模型路由。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中引用 Google 自身评测并指出 Artificial Analysis 尚未列出 Hydrogen 分数，涉及评测来源审视。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于 X 帖文与其引用的 Google 官方博客整理；未独立核实评测数据。"
+}

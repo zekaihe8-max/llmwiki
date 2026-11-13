@@ -1,0 +1,23 @@
+{
+  "slug": "0b85074b4151e911",
+  "url": "https://x.com/gdb/status/2121004237413142656",
+  "title": "Greg Brockman",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "0b85074b4151e9112f0bb9ea1882cd421624f0d532fb59f311d4074c598ff467",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:02.549Z",
+  "content_hash": "eb201c4e79c9d4ccd604815fe5663985c30fe6421df08a4677f241f2d2b95abc",
+  "article_path": "articles/0b85074b4151e911.md",
+  "fetched_url": "https://x.com/gdb/status/2121004237413142656",
+  "source_path": "sources/articles/greg-brockman-announces-two-new-openai-cyber-products.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:25:05.137Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
