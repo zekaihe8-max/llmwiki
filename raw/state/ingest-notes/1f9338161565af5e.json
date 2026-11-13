@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文提及 Nvidia Nemotron，属开放权重前沿模型范畴，故咨询该主题。",
+    "topics/lab-inference-serving-cost-efficiency.md": "Nvidia 为大厂 AI 推理与服务主体，相关上下文与该主题相近。",
+    "topics/ai-native-companies.md": "帖文涉及 Nvidia 与 HuggingFace 等 AI 原生公司，故参考该主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Nvidia Nemotron，属开放权重前沿模型范畴，故咨询该主题。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "Nvidia 为大厂 AI 推理与服务主体，相关上下文与该主题相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Nvidia 与 HuggingFace 等 AI 原生公司，故参考该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未找到直接对应 X 帖文消息或行业打气的现有主题，故仅选取最相近的 AI 与 Nvidia 相关主题并保持 unchanged。"
+}

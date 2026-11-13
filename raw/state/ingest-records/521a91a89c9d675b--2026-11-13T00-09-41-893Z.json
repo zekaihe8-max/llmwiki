@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:09:41.893Z",
+  "url": "https://x.com/thsottiaux/status/2120999993079451919",
+  "slug": "521a91a89c9d675b",
+  "content_hash": "52a0fb7c60b50d6c86ab83115e142df59791a41e2cf4b3eddaf9ab21c735f061",
+  "source": {
+    "path": "sources/articles/tibo-says-dots-updated-and-banked-reset-activated.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/agent-identity-platform-keys.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "自定义指令与 Agent 身份/行为设定相关，主题相近。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Agent 在对话中的行为更新，主题相近。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "dots 作为个人 Agent/Bot 的对话能力更新，与个人 Agent 互聊主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-in-chat-bug-feedback.md": "帖文涉及 Agent 在对话中的行为更新，主题相近。",
+    "topics/personal-agent-share-and-interbot-chat.md": "dots 作为个人 Agent/Bot 的对话能力更新，与个人 Agent 互聊主题相关。",
+    "topics/agent-identity-platform-keys.md": "自定义指令与 Agent 身份/行为设定相关，主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tibo-says-dots-updated-and-banked-reset-activated.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-in-chat-bug-feedback.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/agent-identity-platform-keys.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-in-chat-bug-feedback.md": "帖文涉及 Agent 在对话中的行为更新，主题相近。",
+      "topics/personal-agent-share-and-interbot-chat.md": "dots 作为个人 Agent/Bot 的对话能力更新，与个人 Agent 互聊主题相关。",
+      "topics/agent-identity-platform-keys.md": "自定义指令与 Agent 身份/行为设定相关，主题相近。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tibo-says-dots-updated-and-banked-reset-activated.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

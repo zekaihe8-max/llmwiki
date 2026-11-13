@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文涉及付费好评与诚实评测，与社区实测对抗刷分碰瓷主题直接相关。",
+    "topics/ai-product-self-rec-amplify.md": "营销人员付费为 AI 产品说好话，属于产品自荐与主持人加热行为。",
+    "topics/agentic-ai-foundation.md": "帖文提及即将发布的新 Agent，涉及智能体产品发布语境。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及付费好评与诚实评测，与社区实测对抗刷分碰瓷主题直接相关。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "营销人员付费为 AI 产品说好话，属于产品自荐与主持人加热行为。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文提及即将发布的新 Agent，涉及智能体产品发布语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅依据抓取的 X 帖文内容，未引入外部事实。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "文章主题是企业网安防御产品，与「网防 Agent Swarm 品类」最为贴近。",
+    "topics/open-models-cyber-defense.md": "产品依赖前沿模型进行网安防御，与模型与网络防御的交叉主题相关。",
+    "topics/cyber-research-models-without-jailbreak.md": "涉及用前沿模型开展网安研究与漏洞处置，与该主题的模型选型讨论相近。",
+    "topics/frontier-training-containment.md": "文中提及前沿网安能力与前沿模型，与前沿训练环境隔离主题存在技术语境重叠。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文章主题是企业网安防御产品，与「网防 Agent Swarm 品类」最为贴近。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "产品依赖前沿模型进行网安防御，与模型与网络防御的交叉主题相关。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "涉及用前沿模型开展网安研究与漏洞处置，与该主题的模型选型讨论相近。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中提及前沿网安能力与前沿模型，与前沿训练环境隔离主题存在技术语境重叠。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未打开外部链接，未核实产品详情。"
+}

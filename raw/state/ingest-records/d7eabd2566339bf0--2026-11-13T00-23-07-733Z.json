@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:23:07.733Z",
+  "url": "https://x.com/Voxyz_ai/status/2120924596178190707",
+  "slug": "d7eabd2566339bf0",
+  "content_hash": "40384633126f1b1d97deedfbf8e0a6b9fbe5171f5f0b1e4dc73be613ca7feafd",
+  "source": {
+    "path": "sources/articles/vox-early-context-compression.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 客户端使用，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文核心是编程 Agent 的 Token 省用工具与设置。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "帖文讨论长对话默认压缩阈值低于模型窗口，属同一语义领域。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 客户端使用，与帖文主题最贴近。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文核心是编程 Agent 的 Token 省用工具与设置。",
+    "topics/long-conversation-default-compression.md": "帖文讨论长对话默认压缩阈值低于模型窗口，属同一语义领域。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vox-early-context-compression.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/long-conversation-default-compression.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 客户端使用，与帖文主题最贴近。",
+      "topics/coding-agent-token-saving-tooling.md": "帖文核心是编程 Agent 的 Token 省用工具与设置。",
+      "topics/long-conversation-default-compression.md": "帖文讨论长对话默认压缩阈值低于模型窗口，属同一语义领域。"
+    },
+    "notes": "所有事实均来源于给定的 X 帖文，未引用文中未提及的其他内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vox-early-context-compression.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

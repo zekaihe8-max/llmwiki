@@ -1,0 +1,23 @@
+{
+  "slug": "d6f3e7280d0b59c1",
+  "url": "https://x.com/hwchase17/status/2121023221516599528",
+  "title": "常驻 agent 占 AI 开销 45%",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "d6f3e7280d0b59c1327600dc89e771183df0735dfdd495e7de747458919a2de3",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:09.488Z",
+  "content_hash": "29cf0a4e7f15e795fdff0e541f3634622ce052f2c34a8c0f2545a4e3dbead71f",
+  "article_path": "articles/d6f3e7280d0b59c1.md",
+  "fetched_url": "https://x.com/hwchase17/status/2121023221516599528",
+  "source_path": "sources/articles/persistent-agents-account-for-45-of-ai-spend.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:18:17.393Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

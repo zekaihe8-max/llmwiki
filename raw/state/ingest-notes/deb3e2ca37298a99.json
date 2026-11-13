@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "Home Repo 模式涉及跨多仓库运行 Agent，与智能体规模化工程相关。",
+    "topics/unified-agent-resource-library.md": "跨仓库 Agent 资源与统一资源库概念相近。",
+    "topics/agents-md-token-efficiency.md": "仓库级 Agent 指令（AGENTS.md）与 Home Repo 设置提示词相关。",
+    "topics/multiagent-infra-four-problems.md": "多仓库 Agent 运行属于多智能体基建范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Home Repo 模式涉及跨多仓库运行 Agent，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "跨仓库 Agent 资源与统一资源库概念相近。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "仓库级 Agent 指令（AGENTS.md）与 Home Repo 设置提示词相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多仓库 Agent 运行属于多智能体基建范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://x.com/mattpocockuk/status/2120838662254420341"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "e40219c99a1a0bb2",
+  "url": "https://x.com/vercel/status/2120950020249895314",
+  "title": "Vercel",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "e40219c99a1a0bb258c5fe4f43bda27c485495e4823f28003a6315eaece6d5a4",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:05.886Z",
+  "content_hash": "c69223207d0c78967cde7bf410ddd680199dfbd6175a656f9983486d50162c0d",
+  "article_path": "articles/e40219c99a1a0bb2.md",
+  "fetched_url": "https://x.com/vercel/status/2120950020249895314",
+  "source_path": "sources/articles/vercel-introduces-ui-sdk.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:13:06.213Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

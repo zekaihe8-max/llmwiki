@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:18:36.935Z",
+  "url": "https://x.com/lennysan/status/2120953935498482103",
+  "slug": "25e5d3932a67a3b3",
+  "content_hash": "d6abfad0cca2ec4bd24ae8f23457784bf07ed160f8a9e1b330454ff4dd36acae",
+  "source": {
+    "path": "sources/articles/lenny-where-are-ux-researchers-going.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文中提到 17% 研究员转入设计，涉及设计领域人才流向。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及科技行业岗位供需与人员编制变化，与 UXR 岗位下降背景相近。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章探讨人才离职后的去向与行业流动，与人才离职动机及去向相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章核心围绕用户研究（UXR）与设计岗位流动，与 UX 话题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "文章核心围绕用户研究（UXR）与设计岗位流动，与 UX 话题直接相关。",
+    "topics/design-to-code-byo-subscriptions.md": "文中提到 17% 研究员转入设计，涉及设计领域人才流向。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及科技行业岗位供需与人员编制变化，与 UXR 岗位下降背景相近。",
+    "topics/pre-ipo-talent-departure-motives.md": "文章探讨人才离职后的去向与行业流动，与人才离职动机及去向相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lenny-where-are-ux-researchers-going.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "文章核心围绕用户研究（UXR）与设计岗位流动，与 UX 话题直接相关。",
+      "topics/design-to-code-byo-subscriptions.md": "文中提到 17% 研究员转入设计，涉及设计领域人才流向。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "涉及科技行业岗位供需与人员编制变化，与 UXR 岗位下降背景相近。",
+      "topics/pre-ipo-talent-departure-motives.md": "文章探讨人才离职后的去向与行业流动，与人才离职动机及去向相关。"
+    },
+    "notes": "来源为 X 帖文，所有数据与表述均基于所获取的文章内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lenny-where-are-ux-researchers-going.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

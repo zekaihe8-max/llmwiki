@@ -1,0 +1,23 @@
+{
+  "slug": "779abe288b1c01da",
+  "url": "https://claude.com/resources/articles/claude-meetings",
+  "title": "说明",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "779abe288b1c01daf6b71c32f6f1cab59ae45dbc2f16271fbf705973943326eb",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:02.051Z",
+  "content_hash": "62a3104f0d3b76ecbddddb55f0057aa275cc881294b32021b0dcc371ea7b855f",
+  "article_path": "articles/779abe288b1c01da.md",
+  "fetched_url": "https://claude.com/resources/articles/claude-meetings",
+  "source_path": "sources/articles/introducing-claude-meetings.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:07:59.185Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

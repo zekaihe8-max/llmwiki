@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:06:15.070Z",
+  "url": "https://x.com/levie/status/2120947988143198302",
+  "slug": "c73069c6c5d0b7a9",
+  "content_hash": "52a33e7275148834c6e25f57fe72ecdebd622f7f4d87f77fb12e7bc0605b0e6b",
+  "source": {
+    "path": "sources/articles/levie-box-ai-complex-work-eval-shows-major-gemini-4-hydrogen-gai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Box 为复杂工作智能体选择模型，涉及面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "Box AI Complex Work Eval 属于 AI 评测入口与干活记录场景。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "Box AI Studio 与 Gemini 模型的应用内合作及面向客户的智能体构建，属于应用内模型合作伙伴范畴。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比了快速模型 Hydrogen 与 Gemini 3.8 Flash 的准确率、延迟与 Token 表现，属于模型系列策略讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比了快速模型 Hydrogen 与 Gemini 3.8 Flash 的准确率、延迟与 Token 表现，属于模型系列策略讨论。",
+    "topics/agent-model-channel-tradeoffs.md": "Box 为复杂工作智能体选择模型，涉及面向 Agent 的模型渠道取舍。",
+    "topics/ai-eval-work-record-gateway.md": "Box AI Complex Work Eval 属于 AI 评测入口与干活记录场景。",
+    "topics/in-app-model-partnerships.md": "Box AI Studio 与 Gemini 模型的应用内合作及面向客户的智能体构建，属于应用内模型合作伙伴范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/levie-box-ai-complex-work-eval-shows-major-gemini-4-hydrogen-gai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/in-app-model-partnerships.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文对比了快速模型 Hydrogen 与 Gemini 3.8 Flash 的准确率、延迟与 Token 表现，属于模型系列策略讨论。",
+      "topics/agent-model-channel-tradeoffs.md": "Box 为复杂工作智能体选择模型，涉及面向 Agent 的模型渠道取舍。",
+      "topics/ai-eval-work-record-gateway.md": "Box AI Complex Work Eval 属于 AI 评测入口与干活记录场景。",
+      "topics/in-app-model-partnerships.md": "Box AI Studio 与 Gemini 模型的应用内合作及面向客户的智能体构建，属于应用内模型合作伙伴范畴。"
+    },
+    "notes": "来源为 X 平台 Aaron Levie 帖文，未核实主张已用「帖文称」表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/levie-box-ai-complex-work-eval-shows-major-gemini-4-hydrogen-gai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

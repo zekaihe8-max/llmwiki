@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:12:43.910Z",
+  "url": "https://x.com/amasad/status/2120671838909194695",
+  "slug": "a077a8c8c974caaf",
+  "content_hash": "33972600c945efe6b018c1610d8b46c9a57862094fe0e7e4522440f33c1867ce",
+  "source": {
+    "path": "sources/articles/amjad-masad-questions-timing-and-geopolitical-motives-behind-rum.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及疑似中国间谍及中美地缘政治新闻背景，与中国开源与美国算力优势议题相关。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "帖文讨论英伟达CEO可能被免职的先驱离任情境，与先驱离任与继任背锅梗相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文提及黄仁勋是开放模型的主要倡导者，并担忧其下台会利好封闭、集中的AI控制，与开放权重前沿模型议题直接相关。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "帖文将免职传闻时机与即将进行的IPO联系起来，与上市前夕人才离职动机追问相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文提及黄仁勋是开放模型的主要倡导者，并担忧其下台会利好封闭、集中的AI控制，与开放权重前沿模型议题直接相关。",
+    "topics/china-open-source-lead-us-compute.md": "帖文涉及疑似中国间谍及中美地缘政治新闻背景，与中国开源与美国算力优势议题相关。",
+    "topics/pre-ipo-talent-departure-motives.md": "帖文将免职传闻时机与即将进行的IPO联系起来，与上市前夕人才离职动机追问相关。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "帖文讨论英伟达CEO可能被免职的先驱离任情境，与先驱离任与继任背锅梗相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/amjad-masad-questions-timing-and-geopolitical-motives-behind-rum.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/incumbent-exit-successor-blame-metaphor.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "帖文提及黄仁勋是开放模型的主要倡导者，并担忧其下台会利好封闭、集中的AI控制，与开放权重前沿模型议题直接相关。",
+      "topics/china-open-source-lead-us-compute.md": "帖文涉及疑似中国间谍及中美地缘政治新闻背景，与中国开源与美国算力优势议题相关。",
+      "topics/pre-ipo-talent-departure-motives.md": "帖文将免职传闻时机与即将进行的IPO联系起来，与上市前夕人才离职动机追问相关。",
+      "topics/incumbent-exit-successor-blame-metaphor.md": "帖文讨论英伟达CEO可能被免职的先驱离任情境，与先驱离任与继任背锅梗相关。"
+    },
+    "notes": "所有未经独立核实的主张均归因于该帖文及其引用的《华尔街日报》报道。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/amjad-masad-questions-timing-and-geopolitical-motives-behind-rum.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "65f850563a9b4aaa",
+  "url": "https://gail.wharton.upenn.edu/primer",
+  "title": "项目页",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "65f850563a9b4aaa299c6e1a186da09836e7b41dad282e535f046872e696a7d4",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:08.157Z",
+  "content_hash": "feaa7c44e21b351321fbaff5802fd35937e28ddb06f00f2b7417fc504e12c8a8",
+  "article_path": "articles/65f850563a9b4aaa.md",
+  "fetched_url": "https://gail.wharton.upenn.edu/primer/",
+  "source_path": "sources/articles/the-primer-project-turning-teacher-expertise-into-ai-generated-e.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:16:41.004Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

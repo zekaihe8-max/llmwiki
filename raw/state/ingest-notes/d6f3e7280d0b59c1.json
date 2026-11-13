@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-auto-mode.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与 AI 开支，对应 45% 常驻 agent 开销主张。",
+    "topics/company-agent-harness.md": "文中提到 Perplexity 的 Harness，与公司级 Agent Harness 主题相关。",
+    "topics/agent-auto-mode.md": "常驻智能体作为 AI 使用的下一次突破，与智能体自动模式相近。",
+    "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比，文中提及 Perplexity Harness 表现。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与 AI 开支，对应 45% 常驻 agent 开销主张。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中提到 Perplexity 的 Harness，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "常驻智能体作为 AI 使用的下一次突破，与智能体自动模式相近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 对比，文中提及 Perplexity Harness 表现。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文内容，未独立核实。"
+}

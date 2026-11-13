@@ -1,0 +1,23 @@
+{
+  "slug": "6ef6d47d43be0e9b",
+  "url": "https://x.com/dotey/status/2120945309714919886",
+  "title": "宝玉",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "6ef6d47d43be0e9b97c89f27af64d9f53a638b008fcdff02f080556974bd62f1",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:01.385Z",
+  "content_hash": "69d20985a4bdd111d2c582580eccf34b44cb456c3643aff6e2aa8a78990220e7",
+  "article_path": "articles/6ef6d47d43be0e9b.md",
+  "fetched_url": "https://x.com/dotey/status/2120945309714919886",
+  "source_path": "sources/articles/google-releases-gemini-4-hydrogen-main-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:06:52.898Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

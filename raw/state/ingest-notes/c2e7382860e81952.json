@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文核心是补齐 Claude 缺失的上下文，与上下文工程主题直接相关。",
+    "topics/workflows-before-agents.md": "Claude Meetings 将 AI 嵌入团队会议工作流，体现工作流优先于独立智能体的思路。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "功能面向 Team 与 Enterprise 计划 Beta 推出，涉及企业级 AI 员工角色与部署。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是补齐 Claude 缺失的上下文，与上下文工程主题直接相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "Claude Meetings 将 AI 嵌入团队会议工作流，体现工作流优先于独立智能体的思路。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "功能面向 Team 与 Enterprise 计划 Beta 推出，涉及企业级 AI 员工角色与部署。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于提供的 X 帖文摘要，未引用外部事实。"
+}

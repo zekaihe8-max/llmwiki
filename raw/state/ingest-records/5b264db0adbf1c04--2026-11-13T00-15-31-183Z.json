@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:15:31.183Z",
+  "url": "https://x.com/AnthropicAI/status/2120841731302154708",
+  "slug": "5b264db0adbf1c04",
+  "content_hash": "6be7476c9988e06c08da39a1e67102ba499f694ee9d51ed387e53d47a072c1f2",
+  "source": {
+    "path": "sources/articles/anthropic-announces-initial-public-offering-ipo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，该主题与公司定位相关"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Anthropic 为前沿 AI 实验室，主题与公司技术定位相关但未涉及 IPO 内容"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及上市/IPO 语境，与 Anthropic 首次公开募股公告最为贴近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "涉及上市/IPO 语境，与 Anthropic 首次公开募股公告最为贴近",
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，该主题与公司定位相关",
+    "topics/frontier-training-containment.md": "Anthropic 为前沿 AI 实验室，主题与公司技术定位相关但未涉及 IPO 内容"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-announces-initial-public-offering-ipo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/ai-native-companies.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "涉及上市/IPO 语境，与 Anthropic 首次公开募股公告最为贴近",
+      "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，该主题与公司定位相关",
+      "topics/frontier-training-containment.md": "Anthropic 为前沿 AI 实验室，主题与公司技术定位相关但未涉及 IPO 内容"
+    },
+    "notes": "所有事实均源于抓取的 X 帖文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-announces-initial-public-offering-ipo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

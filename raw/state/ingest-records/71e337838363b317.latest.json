@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:17:31.568Z",
+  "url": "https://x.com/dotey/status/2120961974519398535",
+  "slug": "71e337838363b317",
+  "content_hash": "aa1e8b745352362db907892ad7bc81eaea962d41526c18eeb2bb4f7e297eaf40",
+  "source": {
+    "path": "sources/articles/bao-yu-software-engineers-should-shift-to-human-problems-and-rai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/software-factory.md",
+    "topics/ai-native-companies.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 重构软件开发方式和工程师角色，符合 AI 原生公司范式讨论。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文主张把目标抬到国家级、全球级甚至宇宙级，与“把目标抬到更野心直到摸清 AI 前沿”直接对应。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中提到以极低成本拥有相当于 100 人或 1000 人工程师团队的生产力，与软件工厂/规模化工程主题相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中强调技能越来越“人性化”，并提到打动人心（delighting humans），与 UX/DX/AX 人本体验主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/raise-ambition-until-ai-frontier.md": "帖文主张把目标抬到国家级、全球级甚至宇宙级，与“把目标抬到更野心直到摸清 AI 前沿”直接对应。",
+    "topics/software-factory.md": "文中提到以极低成本拥有相当于 100 人或 1000 人工程师团队的生产力，与软件工厂/规模化工程主题相关。",
+    "topics/ai-native-companies.md": "文章讨论 AI 重构软件开发方式和工程师角色，符合 AI 原生公司范式讨论。",
+    "topics/ux-dx-and-ax.md": "文中强调技能越来越“人性化”，并提到打动人心（delighting humans），与 UX/DX/AX 人本体验主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bao-yu-software-engineers-should-shift-to-human-problems-and-rai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/raise-ambition-until-ai-frontier.md",
+      "topics/software-factory.md",
+      "topics/ai-native-companies.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/raise-ambition-until-ai-frontier.md": "帖文主张把目标抬到国家级、全球级甚至宇宙级，与“把目标抬到更野心直到摸清 AI 前沿”直接对应。",
+      "topics/software-factory.md": "文中提到以极低成本拥有相当于 100 人或 1000 人工程师团队的生产力，与软件工厂/规模化工程主题相关。",
+      "topics/ai-native-companies.md": "文章讨论 AI 重构软件开发方式和工程师角色，符合 AI 原生公司范式讨论。",
+      "topics/ux-dx-and-ax.md": "文中强调技能越来越“人性化”，并提到打动人心（delighting humans），与 UX/DX/AX 人本体验主题相近。"
+    },
+    "notes": "来源为 X 上 @dotey（宝玉）的帖文，其中转译并评论了 @scottbolinger 的文章；未引用文中未提及的外部链接或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bao-yu-software-engineers-should-shift-to-human-problems-and-rai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

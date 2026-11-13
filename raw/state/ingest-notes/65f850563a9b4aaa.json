@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "文章核心是多智能体编排与教育模拟基建，与多智能体基建问题最贴近。",
+    "topics/agent-scaled-engineering.md": "Primer 强调将教师意图规模化转化为可运行模拟，涉及智能体规模化工程。",
+    "topics/workflows-before-agents.md": "文章强调先有教育者访谈与设计文档工作流，再由智能体执行，符合工作流优先于智能体。",
+    "topics/agent-compute-and-governance.md": "已查阅；本文证据不足以改写该主题，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文章核心是多智能体编排与教育模拟基建，与多智能体基建问题最贴近。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Primer 强调将教师意图规模化转化为可运行模拟，涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先有教育者访谈与设计文档工作流，再由智能体执行，符合工作流优先于智能体。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有陈述均仅基于提供的文章内容，未引入外部事实或 URL。"
+}

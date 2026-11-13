@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-13T00:25:05.084Z",
+  "url": "https://x.com/GoogleDeepMind/status/2120940338869055788",
+  "slug": "cd6529aac0277839",
+  "content_hash": "4b8a58aac29de6afc6eed9cbfbaa3c82dea1a9affb00d2f79fee526c69a6d657",
+  "source": {
+    "path": "sources/articles/google-deepmind-announces-gemini-4-hydrogen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "新模型发布涉及通用 AI 基础能力，与 Agentic AI 基础主题相近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Google DeepMind 作为 AI 原生公司发布模型，与该主题相关"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文中提到更快完成任务，与 AI 任务时界和效率相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中明确将新模型与 3.8 Flash 对比，属于 Flash 模型策略讨论范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文中明确将新模型与 3.8 Flash 对比，属于 Flash 模型策略讨论范畴",
+    "topics/ai-task-horizon-growth.md": "文中提到更快完成任务，与 AI 任务时界和效率相关",
+    "topics/agentic-ai-foundation.md": "新模型发布涉及通用 AI 基础能力，与 Agentic AI 基础主题相近",
+    "topics/ai-native-companies.md": "Google DeepMind 作为 AI 原生公司发布模型，与该主题相关"
+  },
+  "files_changed": [
+    "sources/articles/google-deepmind-announces-gemini-4-hydrogen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文中明确将新模型与 3.8 Flash 对比，属于 Flash 模型策略讨论范畴",
+      "topics/ai-task-horizon-growth.md": "文中提到更快完成任务，与 AI 任务时界和效率相关",
+      "topics/agentic-ai-foundation.md": "新模型发布涉及通用 AI 基础能力，与 Agentic AI 基础主题相近",
+      "topics/ai-native-companies.md": "Google DeepMind 作为 AI 原生公司发布模型，与该主题相关"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/google-deepmind-announces-gemini-4-hydrogen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

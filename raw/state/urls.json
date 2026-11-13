@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -8906,8 +8906,8 @@
     "hash": "6d94c8cf41507ad3536430bd66875146bf472b142be41566757cf6d2b1558b9a",
     "slug": "6d94c8cf41507ad3",
     "first_seen": "2026-11-12T12:01:15.789Z",
-    "last_seen": "2026-11-12T12:01:15.789Z",
-    "digest": "2026-11-12-cn-x.md",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
     "title": "李彦宏在百度世界 2026 推出「词元所」Token Exchange"
   },
   "https://x.com/shao__meng/status/2120694669156004141": {
@@ -9021,5 +9021,293 @@
     "last_seen": "2026-11-12T12:01:15.789Z",
     "digest": "2026-11-12-cn-x.md",
     "title": "上手教程"
+  },
+  "https://x.com/sundarpichai/status/2120940236805169182": {
+    "hash": "82e65382634977da9090f37eb02c3b02d7a31553afbafe13b06b30d85e608c80",
+    "slug": "82e65382634977da",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Sundar"
+  },
+  "https://x.com/OfficialLoganK/status/2120940951292268640": {
+    "hash": "7dcd5cc52d749515f0e2fde4ca366be3c61f4bd20015227b9a1a4c43402cc3b7",
+    "slug": "7dcd5cc52d749515",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Logan"
+  },
+  "https://x.com/GoogleDeepMind/status/2120940338869055788": {
+    "hash": "cd6529aac02778397034639b33f0d86e92616e2c759b423961bd86c2e396c6e5",
+    "slug": "cd6529aac0277839",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "DeepMind"
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen": {
+    "hash": "d7c21c501eb23f12ba47c2340d026d981857380497913d0eb9b51d95ebac21c6",
+    "slug": "d7c21c501eb23f12",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/levie/status/2120947988143198302": {
+    "hash": "c73069c6c5d0b7a9c5285c81843059da6a88a8d5ac162cbb738452e1e530c783",
+    "slug": "c73069c6c5d0b7a9",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Levie"
+  },
+  "https://x.com/dotey/status/2120945309714919886": {
+    "hash": "6ef6d47d43be0e9b97c89f27af64d9f53a638b008fcdff02f080556974bd62f1",
+    "slug": "6ef6d47d43be0e9b",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "宝玉"
+  },
+  "https://x.com/claudeai/status/2120973994191094179": {
+    "hash": "832aa4760eeb3fdaec2f96ce95179f772b52033e51981d6ed67eb09b6869eed9",
+    "slug": "832aa4760eeb3fda",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Claude"
+  },
+  "https://claude.com/resources/articles/claude-meetings": {
+    "hash": "779abe288b1c01daf6b71c32f6f1cab59ae45dbc2f16271fbf705973943326eb",
+    "slug": "779abe288b1c01da",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/alexalbert__/status/2120983722182988206": {
+    "hash": "c2e7382860e81952f6e456e990fe9428de58c07d69e96ab21259a2b603ffd33b",
+    "slug": "c2e7382860e81952",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Alex Albert"
+  },
+  "https://x.com/gdb/status/2121004237413142656": {
+    "hash": "0b85074b4151e9112f0bb9ea1882cd421624f0d532fb59f311d4074c598ff467",
+    "slug": "0b85074b4151e911",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Greg Brockman"
+  },
+  "https://openai.com/daybreak/defense-factory": {
+    "hash": "8647e86a995c8e09b74e6bd11ead646707a0ceb544a6f33a3e6df0c3be067f86",
+    "slug": "8647e86a995c8e09",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Defense Factory"
+  },
+  "https://x.com/ChatGPT/status/2120970988796170275": {
+    "hash": "906cc3888e9db4685dd921d1fbcd85d19684c423020d625e8dcd4d1b35f45016",
+    "slug": "906cc3888e9db468",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "ChatGPT"
+  },
+  "https://x.com/thsottiaux/status/2120999993079451919": {
+    "hash": "521a91a89c9d675bb7cfb94beebb5f6328d295c5557d8f488740df2ca45261be",
+    "slug": "521a91a89c9d675b",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Tibo"
+  },
+  "https://x.com/nvidianewsroom/status/2120876571829662014": {
+    "hash": "23ec71fdd5e90013ec7a8b51001d1374cf3be6d6f53ef2a2f9d2929f7ea0ef1b",
+    "slug": "23ec71fdd5e90013",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "英伟达"
+  },
+  "https://x.com/dotey/status/2120902632550060478": {
+    "hash": "6f35ec327ae4900dcaa0fcfaf1c37b94802db7a8e92ac815efa47f7ac66c1645",
+    "slug": "6f35ec327ae4900d",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "宝玉"
+  },
+  "https://x.com/natolambert/status/2120880836488913049": {
+    "hash": "c57277b01aa655eed9ce45134af9b5a628dfb5843a7f118b4a0ae07df21bc5e3",
+    "slug": "c57277b01aa655ee",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Lambert"
+  },
+  "https://x.com/natolambert/status/2120890682743443481": {
+    "hash": "1f9338161565af5e6bf2620ec1f0c995b31bedd3cdcf0234fcce6cf94456fcd6",
+    "slug": "1f9338161565af5e",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Lambert 打气"
+  },
+  "https://x.com/amasad/status/2120671838909194695": {
+    "hash": "a077a8c8c974caafd2046f79fbfa45fc1cd29277f4359181928a272d4f39a16b",
+    "slug": "a077a8c8c974caaf",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Amjad"
+  },
+  "https://x.com/vercel/status/2120950020249895314": {
+    "hash": "e40219c99a1a0bb258c5fe4f43bda27c485495e4823f28003a6315eaece6d5a4",
+    "slug": "e40219c99a1a0bb2",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Vercel"
+  },
+  "https://x.com/rauchg/status/2120966768483262648": {
+    "hash": "875cf7fd0f91ac08d6cb1dc683cbebaeefc072f20072a45f4bf98464673cc451",
+    "slug": "875cf7fd0f91ac08",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Rauch"
+  },
+  "https://x.com/amasad/status/2121018020520931712": {
+    "hash": "6ed9c13cc6e516f7edf30717bd7a31ad489479a096c0917aebe0c7891756823e",
+    "slug": "6ed9c13cc6e516f7",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Amjad"
+  },
+  "https://x.com/AnthropicAI/status/2120841731302154708": {
+    "hash": "5b264db0adbf1c04c9c6edac11410d5ab58f60a483ac1713f0690a036b40d0c8",
+    "slug": "5b264db0adbf1c04",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Anthropic"
+  },
+  "https://x.com/emollick/status/2120706817584234858": {
+    "hash": "8d4945559e8b2e2bae124e767b4c2149def84d50164b9bde43637e06abd6003a",
+    "slug": "8d4945559e8b2e2b",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Mollick · 动力织机"
+  },
+  "https://x.com/emollick/status/2121001056637431873": {
+    "hash": "72ffb2c0723fcf254497694163e3e9d171c28c8b44647d9e8335b7a65e46cab4",
+    "slug": "72ffb2c0723fcf25",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Mollick · Primer 开源"
+  },
+  "https://gail.wharton.upenn.edu/primer": {
+    "hash": "65f850563a9b4aaa299c6e1a186da09836e7b41dad282e535f046872e696a7d4",
+    "slug": "65f850563a9b4aaa",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "项目页"
+  },
+  "https://x.com/fchollet/status/2120673529951813985": {
+    "hash": "da427cf50abb0c103f82d4c21a119c1dec6a3618a7398ca83153ea8391078c6e",
+    "slug": "da427cf50abb0c10",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Chollet · 教育别只给答案"
+  },
+  "https://x.com/dotey/status/2120961974519398535": {
+    "hash": "71e337838363b3175a6dc78740014fa5fdcfdd0b85c0e0bd5fffb4c32a8bd964",
+    "slug": "71e337838363b317",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "宝玉"
+  },
+  "https://x.com/scottbolinger/status/2120897438001283512": {
+    "hash": "80e5be43762cfc49a18b7fcb47dee79edbdd649b5d5c0f1312b29f875112254a",
+    "slug": "80e5be43762cfc49",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "宝玉转译 · 软件工程师现在该怎么办"
+  },
+  "https://x.com/hwchase17/status/2121023221516599528": {
+    "hash": "d6f3e7280d0b59c1327600dc89e771183df0735dfdd495e7de747458919a2de3",
+    "slug": "d6f3e7280d0b59c1",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "常驻 agent 占 AI 开销 45%"
+  },
+  "https://x.com/lennysan/status/2120953935498482103": {
+    "hash": "25e5d3932a67a3b39fae950d1a3f6e9ae931bdf8d1de08ade205ebe47396a777",
+    "slug": "25e5d3932a67a3b3",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Lenny · 用户研究员去哪了"
+  },
+  "https://x.com/steipete/status/2121009372470067544": {
+    "hash": "14da0475134c211094853de59ebd462eb31b795c9ca5b608328892fc0a99181f",
+    "slug": "14da0475134c2110",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Peter Steinberger · 小心收钱的好评"
+  },
+  "https://x.com/mattpocockuk/status/2120838662254420341": {
+    "hash": "deb3e2ca37298a992045c0cffa9fba375cdff61defd0c82613d1fc0017a20c40",
+    "slug": "deb3e2ca37298a99",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Matt · Home Repo 模式"
+  },
+  "https://www.aihero.dev/the-home-repo-pattern": {
+    "hash": "32e9cfe42a2bfb1d16544447f0d77c31f5b566a6d6958dabe1876cc5eb17c22c",
+    "slug": "32e9cfe42a2bfb1d",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "文章"
+  },
+  "https://x.com/Voxyz_ai/status/2120984983330578472": {
+    "hash": "b6113047618c701edbddff8d87dc6cd7108fd2c8ece53df48b2e78e1b8738c32",
+    "slug": "b6113047618c701e",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Vox · 删注释"
+  },
+  "https://x.com/Voxyz_ai/status/2120864199324889469": {
+    "hash": "b3659157452cefd84cb91600bc187375a32b37faed138ecca158a698fb018d1a",
+    "slug": "b3659157452cefd8",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Vox · 清理理想路径债"
+  },
+  "https://x.com/Voxyz_ai/status/2120924596178190707": {
+    "hash": "d7eabd2566339bf002a19f3e57ab32e29277301c08b565b1a57b01ecf7da4c01",
+    "slug": "d7eabd2566339bf0",
+    "first_seen": "2026-11-13T00:02:59.183Z",
+    "last_seen": "2026-11-13T00:02:59.183Z",
+    "digest": "2026-11-13-frontier-ai.md",
+    "title": "Vox · 提前压缩上下文"
   }
 }

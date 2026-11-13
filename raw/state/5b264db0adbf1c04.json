@@ -1,0 +1,23 @@
+{
+  "slug": "5b264db0adbf1c04",
+  "url": "https://x.com/AnthropicAI/status/2120841731302154708",
+  "title": "Anthropic",
+  "digest": "2026-11-13-frontier-ai.md",
+  "status": "filed",
+  "hash": "5b264db0adbf1c04c9c6edac11410d5ab58f60a483ac1713f0690a036b40d0c8",
+  "first_seen": "2026-11-13T00:02:59.183Z",
+  "last_seen": "2026-11-13T00:02:59.183Z",
+  "fetched_at": "2026-11-13T00:03:06.983Z",
+  "content_hash": "6be7476c9988e06c08da39a1e67102ba499f694ee9d51ed387e53d47a072c1f2",
+  "article_path": "articles/5b264db0adbf1c04.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2120841731302154708",
+  "source_path": "sources/articles/anthropic-announces-initial-public-offering-ipo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-13T00:15:31.184Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
