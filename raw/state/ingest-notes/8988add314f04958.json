@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文提到将多平台音频下载入知识库，与剪藏与媒体笔记主题相关。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "帖文核心功能包括音频转录，与播客 AI 转写精读主题相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文提及 iOS 实时转录和语音输入，与语音输入主题相关。",
+    "topics/local-open-assistant-models.md": "帖文提到接入本地大模型进行转录，与本地开放助手模型主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文提到将多平台音频下载入知识库，与剪藏与媒体笔记主题相关。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "帖文核心功能包括音频转录，与播客 AI 转写精读主题相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提及 iOS 实时转录和语音输入，与语音输入主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文提到接入本地大模型进行转录，与本地开放助手模型主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by @berryxia; claims about open-source release and features are attributed to the post."
+}

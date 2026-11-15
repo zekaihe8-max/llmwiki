@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:15:34.381Z",
+  "url": "https://x.com/wquguru/status/2121802670692610088",
+  "slug": "ffe5305e25c56b95",
+  "content_hash": "0f5add61e11349ce222f2e01cf628b21b4b08cd86a0ec5a1665737185b1abc9c",
+  "source": {
+    "path": "sources/articles/claude-s-new-policy-has-been-in-effect-all-along.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文涉及支付、IP 与环境等 Claude 订阅风控要素，与该主题高度相关，暂不修改。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Claude Code 与自带订阅，属于该主题范围，暂不修改。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "帖文使用链式代理与住宅 IP，与代理节点管理主题相关，暂不修改。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到新账号升级 Ultra，涉及高端 AI 订阅价值，暂不修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "帖文涉及支付、IP 与环境等 Claude 订阅风控要素，与该主题高度相关，暂不修改。",
+    "topics/design-to-code-byo-subscriptions.md": "帖文提及 Claude Code 与自带订阅，属于该主题范围，暂不修改。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "帖文使用链式代理与住宅 IP，与代理节点管理主题相关，暂不修改。",
+    "topics/premium-ai-subscription-value.md": "帖文提到新账号升级 Ultra，涉及高端 AI 订阅价值，暂不修改。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-s-new-policy-has-been-in-effect-all-along.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "帖文涉及支付、IP 与环境等 Claude 订阅风控要素，与该主题高度相关，暂不修改。",
+      "topics/design-to-code-byo-subscriptions.md": "帖文提及 Claude Code 与自带订阅，属于该主题范围，暂不修改。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "帖文使用链式代理与住宅 IP，与代理节点管理主题相关，暂不修改。",
+      "topics/premium-ai-subscription-value.md": "帖文提到新账号升级 Ultra，涉及高端 AI 订阅价值，暂不修改。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-s-new-policy-has-been-in-effect-all-along.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

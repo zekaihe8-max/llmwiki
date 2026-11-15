@@ -1,0 +1,23 @@
+{
+  "slug": "c1fedd3cc46aa000",
+  "url": "https://x.com/dingyi/status/2121857611385753742",
+  "title": "Ding (@dingyi) on X",
+  "digest": "2026-11-15-cn-x.md",
+  "status": "filed",
+  "hash": "c1fedd3cc46aa000ee3ab4cb9eef8990f0bbc331b40c8b6dd4b5a8ea42e5c628",
+  "first_seen": "2026-11-15T11:52:42.627Z",
+  "last_seen": "2026-11-15T11:52:42.627Z",
+  "fetched_at": "2026-11-15T11:53:05.929Z",
+  "content_hash": "7a880d83b3ec03959357aba9ae938d664a8c4376c47e10c5841d440c4095d36f",
+  "article_path": "articles/c1fedd3cc46aa000.md",
+  "fetched_url": "https://x.com/dingyi/status/2121857611385753742",
+  "source_path": "sources/articles/ding-prefer-cloud-computers-for-agents-orca-left-local-configs-o.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-15T12:28:13.118Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

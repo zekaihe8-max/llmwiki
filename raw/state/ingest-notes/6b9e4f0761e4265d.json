@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "涉及公司层面的战略与定位，与客户导向的经营理念相近",
+    "topics/ai-management-span-of-control.md": "涉及高管管理与优先级判断，与关注客户而非竞争对手的管理哲学相关",
+    "topics/peer-economics-before-vibe-coding.md": "强调业务优先级与赚钱逻辑，与不将竞争对手作为目标的经营专注度相关"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及公司层面的战略与定位，与客户导向的经营理念相近"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "涉及高管管理与优先级判断，与关注客户而非竞争对手的管理哲学相关"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "强调业务优先级与赚钱逻辑，与不将竞争对手作为目标的经营专注度相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

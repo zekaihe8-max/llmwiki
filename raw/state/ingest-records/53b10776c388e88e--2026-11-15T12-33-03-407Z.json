@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:33:03.407Z",
+  "url": "https://x.com/0xlangeai/status/2121746499180859510",
+  "slug": "53b10776c388e88e",
+  "content_hash": "bcc37ac371287846d5a3ca9754f2d25cb2f314b7275eeea93f78a9bf780aabd1",
+  "source": {
+    "path": "sources/articles/muse-iterates-fast-android-version-and-chrome-extension-released.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Chrome 插件，与浏览器辅助工具话题相近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文关注 AI 产品 Muse 的快速迭代，属于 AI 原生产品动态"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 Grok Bot 及其插件缺失，与该话题直接相关"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Android 版 Muse 发布，涉及移动端 Agent 产品交付"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文明确提及 Grok Bot 及其插件缺失，与该话题直接相关",
+    "topics/mobile-agent-dev-full-chain.md": "帖文提到 Android 版 Muse 发布，涉及移动端 Agent 产品交付",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文提到 Chrome 插件，与浏览器辅助工具话题相近",
+    "topics/ai-native-companies.md": "帖文关注 AI 产品 Muse 的快速迭代，属于 AI 原生产品动态"
+  },
+  "files_changed": [
+    "sources/articles/muse-iterates-fast-android-version-and-chrome-extension-released.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "帖文明确提及 Grok Bot 及其插件缺失，与该话题直接相关",
+      "topics/mobile-agent-dev-full-chain.md": "帖文提到 Android 版 Muse 发布，涉及移动端 Agent 产品交付",
+      "topics/ai-assisted-clipping-and-notes.md": "帖文提到 Chrome 插件，与浏览器辅助工具话题相近",
+      "topics/ai-native-companies.md": "帖文关注 AI 产品 Muse 的快速迭代，属于 AI 原生产品动态"
+    },
+    "notes": "所有主张均源自单一 X 帖文，未独立核实；未引入文章外事实或 URL。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/muse-iterates-fast-android-version-and-chrome-extension-released.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

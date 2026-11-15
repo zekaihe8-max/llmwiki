@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "文章核心涉及 Surge 代理节点的使用与分配，与代理节点话题相关",
+    "topics/loose-web-agent-harness-plugins.md": "文中明确提到 Chrome 插件开发，属于浏览器插件/扩展范畴"
+  },
+  "topics": [
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "文章核心涉及 Surge 代理节点的使用与分配，与代理节点话题相关"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 Chrome 插件开发，属于浏览器插件/扩展范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "发布日期为文章中显示的日期，仅按原文记录。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:04:30.143Z",
+  "url": "https://x.com/cgnot996/status/2121869670907273724",
+  "slug": "4751037a3e414091",
+  "content_hash": "0f41b9ba9dadb8b36f3505a07f22b30b3b6cf3d552fa0f7cea267837147a17f8",
+  "source": {
+    "path": "sources/articles/fixing-google-antigravity-not-in-allowed-region.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/china-special-edition-preinstalls.md",
+    "topics/llm-assisted-ereader-jailbreak.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "涉及中国/香港地区账号与美国地区切换，与区域特供版限制相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "帖文提供绕过地区限制的变通方法，与越狱/变通话题性质接近。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "帖文涉及代理节点与 Tun 模式，与代理节点选用话题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "帖文涉及代理节点与 Tun 模式，与代理节点选用话题相近。",
+    "topics/china-special-edition-preinstalls.md": "涉及中国/香港地区账号与美国地区切换，与区域特供版限制相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "帖文提供绕过地区限制的变通方法，与越狱/变通话题性质接近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fixing-google-antigravity-not-in-allowed-region.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/china-special-edition-preinstalls.md",
+      "topics/llm-assisted-ereader-jailbreak.md"
+    ],
+    "selection_reasons": {
+      "topics/managed-over-selfhosted-proxy-nodes.md": "帖文涉及代理节点与 Tun 模式，与代理节点选用话题相近。",
+      "topics/china-special-edition-preinstalls.md": "涉及中国/香港地区账号与美国地区切换，与区域特供版限制相关。",
+      "topics/llm-assisted-ereader-jailbreak.md": "帖文提供绕过地区限制的变通方法，与越狱/变通话题性质接近。"
+    },
+    "notes": "内容仅来源于单条 X 帖文，未独立核实 Google Antigravity 服务或政策细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fixing-google-antigravity-not-in-allowed-region.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

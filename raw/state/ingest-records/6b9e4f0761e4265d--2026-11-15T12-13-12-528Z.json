@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:13:12.528Z",
+  "url": "https://x.com/oran_ge/status/2121806828095090694",
+  "slug": "6b9e4f0761e4265d",
+  "content_hash": "a1ddbf960d5cc198cef68d8bf8f4c55bbaa1a6ca0ce7baf87c8d81ce52b72ba4",
+  "source": {
+    "path": "sources/articles/customer-focus.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "涉及高管管理与优先级判断，与关注客户而非竞争对手的管理哲学相关"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及公司层面的战略与定位，与客户导向的经营理念相近"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "强调业务优先级与赚钱逻辑，与不将竞争对手作为目标的经营专注度相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "涉及公司层面的战略与定位，与客户导向的经营理念相近",
+    "topics/ai-management-span-of-control.md": "涉及高管管理与优先级判断，与关注客户而非竞争对手的管理哲学相关",
+    "topics/peer-economics-before-vibe-coding.md": "强调业务优先级与赚钱逻辑，与不将竞争对手作为目标的经营专注度相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/customer-focus.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ai-management-span-of-control.md",
+      "topics/peer-economics-before-vibe-coding.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "涉及公司层面的战略与定位，与客户导向的经营理念相近",
+      "topics/ai-management-span-of-control.md": "涉及高管管理与优先级判断，与关注客户而非竞争对手的管理哲学相关",
+      "topics/peer-economics-before-vibe-coding.md": "强调业务优先级与赚钱逻辑，与不将竞争对手作为目标的经营专注度相关"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/customer-focus.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "Poppy 是面向 AI 智能体的开放接入标准，与 Agent Skills 开放标准主题最为贴近。",
+    "topics/agent-identity-platform-keys.md": "Poppy 负责身份识别与授权，涉及 Agent 身份与平台握钥。",
+    "topics/agentic-ai-foundation.md": "个人智能体协议属于 Agentic AI 基础设施范畴。",
+    "topics/ux-dx-and-ax.md": "协议旨在减少重复打开网页、点击按钮，提升 Agent 体验（AX）。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Poppy 是面向 AI 智能体的开放接入标准，与 Agent Skills 开放标准主题最为贴近。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "Poppy 负责身份识别与授权，涉及 Agent 身份与平台握钥。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "个人智能体协议属于 Agentic AI 基础设施范畴。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "协议旨在减少重复打开网页、点击按钮，提升 Agent 体验（AX）。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的帖文 Markdown，未引入外部 URL 或未核实内容。"
+}

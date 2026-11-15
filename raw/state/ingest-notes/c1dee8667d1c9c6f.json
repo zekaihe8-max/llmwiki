@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/llm-formal-verification.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "帖文第 1 点直接对比 lint 规则与 agents.md 说明文档，与项目指令与 Token 效率主题高度相关。",
+    "topics/llm-formal-verification.md": "帖文第 6 点提到用 AI 降低数学形式化验证成本，与 LLM 形式化验证主题直接对应。",
+    "topics/agent-scaled-engineering.md": "帖文介绍 Grok Bot 团队月合并 1.1 万个 PR 的规模化 AI 工程实践，与智能体规模化工程主题相关。",
+    "topics/computer-use.md": "帖文第 5 点描述 AI 自行运行程序并像用户一样点击、录屏，属于 Computer Use 范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文第 1 点直接对比 lint 规则与 agents.md 说明文档，与项目指令与 Token 效率主题高度相关。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文第 6 点提到用 AI 降低数学形式化验证成本，与 LLM 形式化验证主题直接对应。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文介绍 Grok Bot 团队月合并 1.1 万个 PR 的规模化 AI 工程实践，与智能体规模化工程主题相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文第 5 点描述 AI 自行运行程序并像用户一样点击、录屏，属于 Computer Use 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用自 X 帖文，未引入外部事实；未创建新话题，全部复用现有目录并标记 unchanged。"
+}

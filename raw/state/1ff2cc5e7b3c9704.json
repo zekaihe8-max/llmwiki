@@ -1,0 +1,23 @@
+{
+  "slug": "1ff2cc5e7b3c9704",
+  "url": "https://x.com/localhost_4173/status/2121922549932322898",
+  "title": "对比",
+  "digest": "2026-11-15-cn-x.md",
+  "status": "filed",
+  "hash": "1ff2cc5e7b3c9704d4a5f9dc79d08b42793942cc57a5b04c4497694826a0a6fc",
+  "first_seen": "2026-11-15T11:52:42.627Z",
+  "last_seen": "2026-11-15T11:52:42.627Z",
+  "fetched_at": "2026-11-15T11:53:03.129Z",
+  "content_hash": "d2a8faa6311422efbd3ea2823c7d4487c7cf9c5f9903134109274473256d427d",
+  "article_path": "articles/1ff2cc5e7b3c9704.md",
+  "fetched_url": "https://x.com/localhost_4173/status/2121922549932322898",
+  "source_path": "sources/articles/mygo-render-vs-remotion-comparison.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-15T12:23:54.215Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

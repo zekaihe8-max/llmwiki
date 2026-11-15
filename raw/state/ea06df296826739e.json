@@ -1,0 +1,23 @@
+{
+  "slug": "ea06df296826739e",
+  "url": "https://x.com/0xlangeai/status/2121828019971248248",
+  "title": "在做一个把 Surge 节点给 Chrome profile 用的插件",
+  "digest": "2026-11-15-cn-x.md",
+  "status": "filed",
+  "hash": "ea06df296826739eea6ed4ae21b50470483dc1f17e254842a7f79cafbf0fc606",
+  "first_seen": "2026-11-15T11:52:42.627Z",
+  "last_seen": "2026-11-15T11:52:42.627Z",
+  "fetched_at": "2026-11-15T11:52:51.705Z",
+  "content_hash": "3eb72f91e21efe32fe8dfe5d3a84b21d7c07af5d5dc80c04eb4ab73eba3fa14d",
+  "article_path": "articles/ea06df296826739e.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2121828019971248248",
+  "source_path": "sources/articles/building-a-chrome-extension-that-routes-surge-proxy-nodes-to-chr.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-15T12:06:44.149Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

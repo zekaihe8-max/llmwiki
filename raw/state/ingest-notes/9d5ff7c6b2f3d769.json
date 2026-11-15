@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文介绍用于制作视频与动态图表的插件，与视频编辑主题相关。",
+    "topics/open-source-in-ai-assistant-editing.md": "Render 作为编辑类插件，与 AI 助手自然语言剪辑工具主题相近。",
+    "topics/ux-dx-and-ax.md": "该插件面向开发者降低视频制作门槛，涉及开发者体验（DX）。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文介绍用于制作视频与动态图表的插件，与视频编辑主题相关。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Render 作为编辑类插件，与 AI 助手自然语言剪辑工具主题相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "该插件面向开发者降低视频制作门槛，涉及开发者体验（DX）。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该帖文，未引用外部事实。"
+}

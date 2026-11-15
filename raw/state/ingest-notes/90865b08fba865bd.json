@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是高端 AI 订阅的低价开通与价值对比，与该主题直接相关。",
+    "topics/in-app-model-partnerships.md": "涉及 Gemini App 内通过 Apple 内购订阅模型服务，属于应用内模型合作与订阅渠道。",
+    "topics/claude-subscription-risk-control-weights.md": "文中提及跨区订阅支付限制与价格调整风险，涉及订阅风控与支付限制议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是高端 AI 订阅的低价开通与价值对比，与该主题直接相关。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini App 内通过 Apple 内购订阅模型服务，属于应用内模型合作与订阅渠道。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中提及跨区订阅支付限制与价格调整风险，涉及订阅风控与支付限制议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实；未在文中编造超出文章内容的 URL 或事实。"
+}

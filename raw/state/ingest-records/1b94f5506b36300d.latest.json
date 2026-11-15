@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:02:58.225Z",
+  "url": "https://x.com/xiaomovps/status/2121798840605143353",
+  "slug": "1b94f5506b36300d",
+  "content_hash": "d9864e07417f494928b6a49837de354972093b8eceea76116a91cf4c03eeba4b",
+  "source": {
+    "path": "sources/articles/5-common-issues-when-antigravity-does-not-work.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Claude 模型在 Google 平台上的可用性与额度问题"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章涉及账号验证、服务停用申诉等与订阅风控相关的问题"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章围绕 Google AI Pro / Ultra 付费会员权益与模型使用展开"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到 429 额度限制及 /usage 查询，与用量上限相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章涉及账号验证、服务停用申诉等与订阅风控相关的问题",
+    "topics/premium-ai-subscription-value.md": "文章围绕 Google AI Pro / Ultra 付费会员权益与模型使用展开",
+    "topics/usage-limit-ab-tests.md": "文中提到 429 额度限制及 /usage 查询，与用量上限相关",
+    "topics/claude-on-google-cloud.md": "文中涉及 Claude 模型在 Google 平台上的可用性与额度问题"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/5-common-issues-when-antigravity-does-not-work.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/claude-on-google-cloud.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "文章涉及账号验证、服务停用申诉等与订阅风控相关的问题",
+      "topics/premium-ai-subscription-value.md": "文章围绕 Google AI Pro / Ultra 付费会员权益与模型使用展开",
+      "topics/usage-limit-ab-tests.md": "文中提到 429 额度限制及 /usage 查询，与用量上限相关",
+      "topics/claude-on-google-cloud.md": "文中涉及 Claude 模型在 Google 平台上的可用性与额度问题"
+    },
+    "notes": "所有主张均基于提供的帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/5-common-issues-when-antigravity-does-not-work.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

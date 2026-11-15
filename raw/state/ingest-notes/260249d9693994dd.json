@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "帖文聚焦可直接复用的 Agent Skill 列表，与该主题的开放技能标准讨论最为贴近。",
+    "topics/agent-skill-authoring.md": "内容涉及 Agent Skill 的选用与落地，而非编写新 Skill，但主题归属最相近。",
+    "topics/ux-dx-and-ax.md": "推荐清单覆盖前端设计、交互动效与 UI 审查，与 UX/DX/AX 主题相关。",
+    "topics/reuse-before-write.md": "帖文主张优先复用现成 Agent Skill 而非从零构建，契合“先复用再编写”。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦可直接复用的 Agent Skill 列表，与该主题的开放技能标准讨论最为贴近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "内容涉及 Agent Skill 的选用与落地，而非编写新 Skill，但主题归属最相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "推荐清单覆盖前端设计、交互动效与 UI 审查，与 UX/DX/AX 主题相关。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文主张优先复用现成 Agent Skill 而非从零构建，契合“先复用再编写”。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来自所抓取的 X 帖文正文，未引入外部链接或未在文中出现的信息。"
+}

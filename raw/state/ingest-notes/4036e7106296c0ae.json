@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文涉及租赁40系显卡本地部署 AI 模型，与消费级 GPU 算力解锁主题相关。",
+    "topics/agentic-video-editing.md": "内容涉及 AI 生成视频制作流程，与智能体视频剪辑主题相关。",
+    "topics/image-generation-pose-reference-libraries.md": "人物形象由 Midjourney 生图合成，与生图参考库与质量边界主题相关。",
+    "topics/local-open-assistant-models.md": "强调本地部署模型以降低成本，与本地开放助手与机器人小模型主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文涉及租赁40系显卡本地部署 AI 模型，与消费级 GPU 算力解锁主题相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 生成视频制作流程，与智能体视频剪辑主题相关。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "人物形象由 Midjourney 生图合成，与生图参考库与质量边界主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "强调本地部署模型以降低成本，与本地开放助手与机器人小模型主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文中后半部分关于产品出海与社媒营销的内容似乎来自另一条推文或线程，已聚焦于与数字人制作相关的前半部分。"
+}

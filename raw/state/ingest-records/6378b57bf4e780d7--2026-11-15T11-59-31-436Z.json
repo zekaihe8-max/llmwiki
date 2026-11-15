@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T11:59:31.436Z",
+  "url": "https://x.com/AlchainHust/status/2121744774877389261",
+  "slug": "6378b57bf4e780d7",
+  "content_hash": "267e253c56202ef1ab5354c2e9d98ff9ae0610b88d23531c84793dd4f71391f4",
+  "source": {
+    "path": "sources/articles/darwin-skill-3-0-released-replacing-document-voting-with-task-ba.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 skill 版本的编写与迭代评测，直接对应 Agent Skill 编写主题。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 skill 标准与评判机制的重构，属于 Agent Skills 开放标准范畴。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中批评文档投票与真实运行脱节，主张实战盲评，与社区实测对抗刷分碰瓷主题高度相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "作者质疑读文档打分的有效性并强调真机结果，呼应信任公开榜前先审质量的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是 skill 版本的编写与迭代评测，直接对应 Agent Skill 编写主题。",
+    "topics/community-evals-vs-score-hype.md": "文中批评文档投票与真实运行脱节，主张实战盲评，与社区实测对抗刷分碰瓷主题高度相关。",
+    "topics/agent-skills-open-standard.md": "涉及 skill 标准与评判机制的重构，属于 Agent Skills 开放标准范畴。",
+    "topics/public-benchmark-quality-scrutiny.md": "作者质疑读文档打分的有效性并强调真机结果，呼应信任公开榜前先审质量的主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/darwin-skill-3-0-released-replacing-document-voting-with-task-ba.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是 skill 版本的编写与迭代评测，直接对应 Agent Skill 编写主题。",
+      "topics/community-evals-vs-score-hype.md": "文中批评文档投票与真实运行脱节，主张实战盲评，与社区实测对抗刷分碰瓷主题高度相关。",
+      "topics/agent-skills-open-standard.md": "涉及 skill 标准与评判机制的重构，属于 Agent Skills 开放标准范畴。",
+      "topics/public-benchmark-quality-scrutiny.md": "作者质疑读文档打分的有效性并强调真机结果，呼应信任公开榜前先审质量的主题。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/darwin-skill-3-0-released-replacing-document-voting-with-task-ba.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

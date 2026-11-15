@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:25:41.880Z",
+  "url": "https://x.com/0xlangeai/status/2121769522399203381",
+  "slug": "645029da84b19b67",
+  "content_hash": "407dc68b67a50078bfd3171b3b75926382e3737aba812acb641216601811ef9e",
+  "source": {
+    "path": "sources/articles/blue-brother-reposts-open-source-grok-bot-wallpaper-background-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 技能开源标准，与开源项目相关，但本文为具体 Grok Bot 壁纸项目，不属于通用标准讨论，故保持不变。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "涉及桌面换装与角色伴侣，与壁纸背景更换有相似之处，但本文针对 Grok Bot 而非通用桌面伴侣，故不修改。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与 Agent 的集成场景，但本文仅关注壁纸背景更换，故不修改。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样属于 Grok Bot 话题，但内容聚焦情报防护而非背景自定义，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 Agent 的集成场景，但本文仅关注壁纸背景更换，故不修改。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样属于 Grok Bot 话题，但内容聚焦情报防护而非背景自定义，故保持不变。",
+    "topics/desktop-outfit-character-companions.md": "涉及桌面换装与角色伴侣，与壁纸背景更换有相似之处，但本文针对 Grok Bot 而非通用桌面伴侣，故不修改。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent 技能开源标准，与开源项目相关，但本文为具体 Grok Bot 壁纸项目，不属于通用标准讨论，故保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/blue-brother-reposts-open-source-grok-bot-wallpaper-background-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/desktop-outfit-character-companions.md",
+      "topics/agent-skills-open-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 Agent 的集成场景，但本文仅关注壁纸背景更换，故不修改。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样属于 Grok Bot 话题，但内容聚焦情报防护而非背景自定义，故保持不变。",
+      "topics/desktop-outfit-character-companions.md": "涉及桌面换装与角色伴侣，与壁纸背景更换有相似之处，但本文针对 Grok Bot 而非通用桌面伴侣，故不修改。",
+      "topics/agent-skills-open-standard.md": "涉及 Agent 技能开源标准，与开源项目相关，但本文为具体 Grok Bot 壁纸项目，不属于通用标准讨论，故保持不变。"
+    },
+    "notes": "引用内容均来自抓取的 X 帖文 markdown，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/blue-brother-reposts-open-source-grok-bot-wallpaper-background-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

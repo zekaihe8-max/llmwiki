@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:09:07.758Z",
+  "url": "https://x.com/0xLogicrw/status/2121844154208772569",
+  "slug": "f72026ed3ca6f2f4",
+  "content_hash": "77ec90303768e7633b8e257d6979f6293bb0ff4712608381b7474f850165412b",
+  "source": {
+    "path": "sources/articles/anthropic-roadshow-slide-cited-as-showing-superexponential-algor.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中讨论算法效率、算力需求与治理呼声，与智能体算力与治理相关，暂不新增。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中涉及前沿 AI 研发暂停与自我改进超级智能的安全担忧，与前沿训练隔离相关，暂不新增。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章核心是 IPO 路演前夕研究员离职及其动机，与该主题直接相关，暂不新增。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "文章核心是 IPO 路演前夕研究员离职及其动机，与该主题直接相关，暂不新增。",
+    "topics/frontier-training-containment.md": "文中涉及前沿 AI 研发暂停与自我改进超级智能的安全担忧，与前沿训练隔离相关，暂不新增。",
+    "topics/agent-compute-and-governance.md": "文中讨论算法效率、算力需求与治理呼声，与智能体算力与治理相关，暂不新增。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-roadshow-slide-cited-as-showing-superexponential-algor.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/frontier-training-containment.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "文章核心是 IPO 路演前夕研究员离职及其动机，与该主题直接相关，暂不新增。",
+      "topics/frontier-training-containment.md": "文中涉及前沿 AI 研发暂停与自我改进超级智能的安全担忧，与前沿训练隔离相关，暂不新增。",
+      "topics/agent-compute-and-governance.md": "文中讨论算法效率、算力需求与治理呼声，与智能体算力与治理相关，暂不新增。"
+    },
+    "notes": "来源为 X 帖文，未独立核实图表具体数据；文中已注明仅三个示意数据点。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-roadshow-slide-cited-as-showing-superexponential-algor.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

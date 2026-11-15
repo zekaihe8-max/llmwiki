@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:07:48.103Z",
+  "url": "https://x.com/Gorden_Sun/status/2121806966062485776",
+  "slug": "9dc4e53cdfd4aead",
+  "content_hash": "8298ded872f2fa396507505dd390934fe90892e1201d82095826a3c57be594cd",
+  "source": {
+    "path": "sources/articles/meta-and-nyu-visual-multimodal-model-design-research.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "关注本地开放助手与小模型，与文中 1.7B 模型及自建视觉编码器讨论相近。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及前沿开放权重模型，与 Meta/NYU 视觉模型研究属同一模型设计与发布语境。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "讨论工具产品自建模型话语权，与文中主张随主模型从零训练视觉编码器以节省算力相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "涉及前沿开放权重模型，与 Meta/NYU 视觉模型研究属同一模型设计与发布语境。",
+    "topics/local-open-assistant-models.md": "关注本地开放助手与小模型，与文中 1.7B 模型及自建视觉编码器讨论相近。",
+    "topics/tools-building-own-models.md": "讨论工具产品自建模型话语权，与文中主张随主模型从零训练视觉编码器以节省算力相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meta-and-nyu-visual-multimodal-model-design-research.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "涉及前沿开放权重模型，与 Meta/NYU 视觉模型研究属同一模型设计与发布语境。",
+      "topics/local-open-assistant-models.md": "关注本地开放助手与小模型，与文中 1.7B 模型及自建视觉编码器讨论相近。",
+      "topics/tools-building-own-models.md": "讨论工具产品自建模型话语权，与文中主张随主模型从零训练视觉编码器以节省算力相关。"
+    },
+    "notes": "所有主张均源于单条 X 帖文，未独立核实；项目链接来自帖文中显示的 unbundling.github.io。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meta-and-nyu-visual-multimodal-model-design-research.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

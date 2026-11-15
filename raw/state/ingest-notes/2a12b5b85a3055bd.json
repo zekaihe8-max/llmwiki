@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章核心是通过精简工具降低编程 agent 的 token 消耗与成本，直接对应该主题。",
+    "topics/harness-comparison-beyond-tokens.md": "文中对比四套 agent 外壳，强调不应只看得分，还要看 token、成本、缓存命中率，与该主题一致。",
+    "topics/context-engineering-for-agents.md": "演讲重点包括将系统提示词从 1.24 万 token 压缩到 574 token，属于 agent 上下文工程。",
+    "topics/agent-scaled-engineering.md": "文章讨论 agent 外壳的工程化重写与评测方法论，适合该主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心是通过精简工具降低编程 agent 的 token 消耗与成本，直接对应该主题。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中对比四套 agent 外壳，强调不应只看得分，还要看 token、成本、缓存命中率，与该主题一致。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "演讲重点包括将系统提示词从 1.24 万 token 压缩到 574 token，属于 agent 上下文工程。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讨论 agent 外壳的工程化重写与评测方法论，适合该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 FinanceYF5 对 AIE CODE 2026 演讲的中文转述，未独立核实演讲细节，所有数据均引用自所提供文章。"
+}

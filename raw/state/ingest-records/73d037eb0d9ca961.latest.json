@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:20:59.510Z",
+  "url": "https://x.com/FinanceYF5/status/2121777577903996936",
+  "slug": "73d037eb0d9ca961",
+  "content_hash": "98968eade2db7a5ef6d2ac95993b239d98bd387bdef2fbc9fc2881ed17bdacb1",
+  "source": {
+    "path": "sources/articles/flask-author-self-audits-one-year-of-ai-agent-sessions-120-190-d.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及 agent harness、算力调度、持久化等治理与计算问题。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中讨论 agent 工作时长、仓库维护数量等规模化工程现象。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文末对 harness 的三个期待（持久化、code mode、分类模型）与该主题相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中直接对比「软件工坊」与「软件工厂」，是核心隐喻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "文中直接对比「软件工坊」与「软件工厂」，是核心隐喻。",
+    "topics/agent-scaled-engineering.md": "文中讨论 agent 工作时长、仓库维护数量等规模化工程现象。",
+    "topics/agent-compute-and-governance.md": "文中涉及 agent harness、算力调度、持久化等治理与计算问题。",
+    "topics/company-agent-harness.md": "文末对 harness 的三个期待（持久化、code mode、分类模型）与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/flask-author-self-audits-one-year-of-ai-agent-sessions-120-190-d.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "文中直接对比「软件工坊」与「软件工厂」，是核心隐喻。",
+      "topics/agent-scaled-engineering.md": "文中讨论 agent 工作时长、仓库维护数量等规模化工程现象。",
+      "topics/agent-compute-and-governance.md": "文中涉及 agent harness、算力调度、持久化等治理与计算问题。",
+      "topics/company-agent-harness.md": "文末对 harness 的三个期待（持久化、code mode、分类模型）与该主题相关。"
+    },
+    "notes": "来源为 X 帖文对 AIE CODE 2026 演讲的转述，未独立核实演讲细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/flask-author-self-audits-one-year-of-ai-agent-sessions-120-190-d.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

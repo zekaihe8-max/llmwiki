@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是用 AI 模型与 LoRA 管线生成武打视频，属于 AI 视频编辑/生成范畴，最贴近该主题。",
+    "topics/gpu-ai-compute-unlock.md": "文中强调本地显卡跑 8 步即可出片，涉及消费级 GPU AI 算力解锁与本地推理。",
+    "topics/local-open-assistant-models.md": "文章反复强调“本地部署” MiniMax H3，与本地开放模型部署主题相关。",
+    "topics/open-weight-frontier-models.md": "MiniMax H3 作为前沿生成模型被本地微调与串联 LoRA，涉及开放/前沿模型的社区改造使用。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是用 AI 模型与 LoRA 管线生成武打视频，属于 AI 视频编辑/生成范畴，最贴近该主题。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中强调本地显卡跑 8 步即可出片，涉及消费级 GPU AI 算力解锁与本地推理。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章反复强调“本地部署” MiniMax H3，与本地开放模型部署主题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "MiniMax H3 作为前沿生成模型被本地微调与串联 LoRA，涉及开放/前沿模型的社区改造使用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文截图内容，未引用外部事实。"
+}

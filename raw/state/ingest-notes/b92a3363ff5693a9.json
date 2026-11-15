@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "涉及 X 平台，与推荐算法变动所在平台相关",
+    "topics/grok-bot-x-intel-defense-not-post.md": "涉及 X 平台，与文章主题平台相关",
+    "topics/community-evals-vs-score-hype.md": "涉及评分与刷分，与算法打分变动相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "涉及 X 平台，与推荐算法变动所在平台相关"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "涉及 X 平台，与文章主题平台相关"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及评分与刷分，与算法打分变动相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所获取的 X 帖文内容，未引用外部事实。"
+}

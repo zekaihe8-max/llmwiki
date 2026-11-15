@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:02:27.491Z",
+  "url": "https://x.com/xiaomovps/status/2121610789471895879",
+  "slug": "24548978954767b8",
+  "content_hash": "60c71b7793e04480b4adf9ac5f219ede0f070b088db31db5b53de94eb9b3cb63",
+  "source": {
+    "path": "sources/articles/don-t-waste-the-colab-compute-points-gifted-by-google-ai-ultra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "帖文提到将 Claude 官方方案替换为 Google AI 套餐，并用 Opus 兜底，与 Google Cloud 上的 Claude 主题相关"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文重点在于利用 Colab 云端 GPU 算力点运行开源 AI 项目，与消费级 GPU AI 算力解锁主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Google AI Ultra 高端订阅附赠算力的使用价值，与高端 AI 订阅价值主题直接相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文提及日常任务用 Gemini Flash、复杂任务用 Opus 兜底，涉及模型策略取舍"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章讨论 Google AI Ultra 高端订阅附赠算力的使用价值，与高端 AI 订阅价值主题直接相关",
+    "topics/gpu-ai-compute-unlock.md": "帖文重点在于利用 Colab 云端 GPU 算力点运行开源 AI 项目，与消费级 GPU AI 算力解锁主题相近",
+    "topics/pro-vs-flash-model-strategy.md": "帖文提及日常任务用 Gemini Flash、复杂任务用 Opus 兜底，涉及模型策略取舍",
+    "topics/claude-on-google-cloud.md": "帖文提到将 Claude 官方方案替换为 Google AI 套餐，并用 Opus 兜底，与 Google Cloud 上的 Claude 主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-waste-the-colab-compute-points-gifted-by-google-ai-ultra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/claude-on-google-cloud.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章讨论 Google AI Ultra 高端订阅附赠算力的使用价值，与高端 AI 订阅价值主题直接相关",
+      "topics/gpu-ai-compute-unlock.md": "帖文重点在于利用 Colab 云端 GPU 算力点运行开源 AI 项目，与消费级 GPU AI 算力解锁主题相近",
+      "topics/pro-vs-flash-model-strategy.md": "帖文提及日常任务用 Gemini Flash、复杂任务用 Opus 兜底，涉及模型策略取舍",
+      "topics/claude-on-google-cloud.md": "帖文提到将 Claude 官方方案替换为 Google AI 套餐，并用 Opus 兜底，与 Google Cloud 上的 Claude 主题相关"
+    },
+    "notes": "原文中的 GitHub 项目链接已被 t.co 短链接遮蔽，未展开完整 URL，因此未在条目中列出具体仓库地址",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-waste-the-colab-compute-points-gifted-by-google-ai-ultra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

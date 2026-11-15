@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:05:02.387Z",
+  "url": "https://x.com/cgnot996/status/2121646039807705382",
+  "slug": "49e3278702eeafb5",
+  "content_hash": "6d371f9c1c9f3fd741d9c047d39470694bd4f6ad9b58ac4a65720e1ad75014c2",
+  "source": {
+    "path": "sources/articles/waiting-for-antigravity-orchestrator-to-open.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Orchestrator 模式属于智能体自动化工作流的一种形态。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中涉及在 Carbon/Argon/Hydrogen 之间按任务类型与异常情况进行模型调度，属于跨模型编排。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文描述的 Orchestrator 先规划再派发编程任务、异常兜底，与“个人 Agent 当包工头调度编程 Agent”高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的 Orchestrator 先规划再派发编程任务、异常兜底，与“个人 Agent 当包工头调度编程 Agent”高度相关。",
+    "topics/cloud-auto-model-routing.md": "文中涉及在 Carbon/Argon/Hydrogen 之间按任务类型与异常情况进行模型调度，属于跨模型编排。",
+    "topics/agent-auto-mode.md": "Orchestrator 模式属于智能体自动化工作流的一种形态。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/waiting-for-antigravity-orchestrator-to-open.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的 Orchestrator 先规划再派发编程任务、异常兜底，与“个人 Agent 当包工头调度编程 Agent”高度相关。",
+      "topics/cloud-auto-model-routing.md": "文中涉及在 Carbon/Argon/Hydrogen 之间按任务类型与异常情况进行模型调度，属于跨模型编排。",
+      "topics/agent-auto-mode.md": "Orchestrator 模式属于智能体自动化工作流的一种形态。"
+    },
+    "notes": "来源为 X 帖文，其中关于 Antigravity Orchestrator 的功能细节基于引述内容，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/waiting-for-antigravity-orchestrator-to-open.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

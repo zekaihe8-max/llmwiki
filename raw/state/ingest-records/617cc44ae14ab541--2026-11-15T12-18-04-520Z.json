@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:18:04.520Z",
+  "url": "https://x.com/vista8/status/2121789847270469699",
+  "slug": "617cc44ae14ab541",
+  "content_hash": "635f7b5b04f5c5b91112aafacb086a9bef4f5c8fd9dfd5281dff19a7cf33ec1d",
+  "source": {
+    "path": "sources/articles/post-cites-anthropic-article-shared-team-agent-beats-dedicated-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体规模化工程，与团队层面 Agent 部署模式相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "涉及将子 Agent 并入主循环，与是否为每人配独立 Agent 的设计相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "讨论多智能体基建问题，与共用 vs 独立 Agent 的架构取舍相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "主张跨 Agent 统一资源库，与团队共用 Agent 的思路相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "讨论多智能体基建问题，与共用 vs 独立 Agent 的架构取舍相关。",
+    "topics/fold-subagents-into-main-loop.md": "涉及将子 Agent 并入主循环，与是否为每人配独立 Agent 的设计相关。",
+    "topics/unified-agent-resource-library.md": "主张跨 Agent 统一资源库，与团队共用 Agent 的思路相近。",
+    "topics/agent-scaled-engineering.md": "涉及智能体规模化工程，与团队层面 Agent 部署模式相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/post-cites-anthropic-article-shared-team-agent-beats-dedicated-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/multiagent-infra-four-problems.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/multiagent-infra-four-problems.md": "讨论多智能体基建问题，与共用 vs 独立 Agent 的架构取舍相关。",
+      "topics/fold-subagents-into-main-loop.md": "涉及将子 Agent 并入主循环，与是否为每人配独立 Agent 的设计相关。",
+      "topics/unified-agent-resource-library.md": "主张跨 Agent 统一资源库，与团队共用 Agent 的思路相近。",
+      "topics/agent-scaled-engineering.md": "涉及智能体规模化工程，与团队层面 Agent 部署模式相关。"
+    },
+    "notes": "所有主张均基于帖文文本，未核实 Anthropic 原文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/post-cites-anthropic-article-shared-team-agent-beats-dedicated-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

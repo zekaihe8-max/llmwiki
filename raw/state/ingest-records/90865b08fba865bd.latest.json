@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:00:37.519Z",
+  "url": "https://x.com/xiaomovps/status/2121782379568381994",
+  "slug": "90865b08fba865bd",
+  "content_hash": "6fe046b4b6a34174e3a3d13c45208a4a55a334efe8b3fc37bad4584114e84ff9",
+  "source": {
+    "path": "sources/articles/google-ai-ultra-5x-low-cost-subscription-tutorial-via-turkish-re.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中提及跨区订阅支付限制与价格调整风险，涉及订阅风控与支付限制议题。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini App 内通过 Apple 内购订阅模型服务，属于应用内模型合作与订阅渠道。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是高端 AI 订阅的低价开通与价值对比，与该主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是高端 AI 订阅的低价开通与价值对比，与该主题直接相关。",
+    "topics/in-app-model-partnerships.md": "涉及 Gemini App 内通过 Apple 内购订阅模型服务，属于应用内模型合作与订阅渠道。",
+    "topics/claude-subscription-risk-control-weights.md": "文中提及跨区订阅支付限制与价格调整风险，涉及订阅风控与支付限制议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-ai-ultra-5x-low-cost-subscription-tutorial-via-turkish-re.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/in-app-model-partnerships.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心是高端 AI 订阅的低价开通与价值对比，与该主题直接相关。",
+      "topics/in-app-model-partnerships.md": "涉及 Gemini App 内通过 Apple 内购订阅模型服务，属于应用内模型合作与订阅渠道。",
+      "topics/claude-subscription-risk-control-weights.md": "文中提及跨区订阅支付限制与价格调整风险，涉及订阅风控与支付限制议题。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；未在文中编造超出文章内容的 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-ai-ultra-5x-low-cost-subscription-tutorial-via-turkish-re.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T11:56:02.563Z",
+  "url": "https://x.com/shao__meng/status/2121852475053359340",
+  "slug": "3fcc7efcd4c9bd00",
+  "content_hash": "23bb5656a4c7555003ab14986afef848bd8e6cf64b58033eb8f836096322293b",
+  "source": {
+    "path": "sources/articles/five-takeaways-from-claude-s-building-always-on-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-in-inbox.md",
+    "topics/agent-auto-mode.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "始终在线 Agent 属于自动/无人值守模式，与智能体自动模式主题相近。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "帖文核心机制是事件收件箱作为事实来源，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "持久化表、worker 领取、去重与重试等涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中关于记忆、每次运行加载上下文与提示缓存的论述属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-in-inbox.md": "帖文核心机制是事件收件箱作为事实来源，与该主题直接相关。",
+    "topics/agent-auto-mode.md": "始终在线 Agent 属于自动/无人值守模式，与智能体自动模式主题相近。",
+    "topics/context-engineering-for-agents.md": "文中关于记忆、每次运行加载上下文与提示缓存的论述属于 Agent 上下文工程范畴。",
+    "topics/agent-scaled-engineering.md": "持久化表、worker 领取、去重与重试等涉及智能体规模化工程。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/five-takeaways-from-claude-s-building-always-on-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-in-inbox.md",
+      "topics/agent-auto-mode.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-in-inbox.md": "帖文核心机制是事件收件箱作为事实来源，与该主题直接相关。",
+      "topics/agent-auto-mode.md": "始终在线 Agent 属于自动/无人值守模式，与智能体自动模式主题相近。",
+      "topics/context-engineering-for-agents.md": "文中关于记忆、每次运行加载上下文与提示缓存的论述属于 Agent 上下文工程范畴。",
+      "topics/agent-scaled-engineering.md": "持久化表、worker 领取、去重与重试等涉及智能体规模化工程。"
+    },
+    "notes": "来源为 meng shao (@shao__meng) 在 X 上的帖文，文中引用 Anthropic 应用 AI 团队 William Hu 的《Building always-on agents》架构指南；以上内容均基于所获取帖文，未独立访问原始指南。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/five-takeaways-from-claude-s-building-always-on-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

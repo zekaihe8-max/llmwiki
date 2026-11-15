@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品与社区表达，与帖文主题高度相关。",
+    "topics/desktop-outfit-character-companions.md": "涉及桌面换装与外观自定义，与“换皮”主题相近。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及插件样式与界面定制，与 mods/主题插件相关。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的用户体验，Claude Code 属于此类产品。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品与社区表达，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "涉及桌面换装与外观自定义，与“换皮”主题相近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及插件样式与界面定制，与 mods/主题插件相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 的用户体验，Claude Code 属于此类产品。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "本条为转发消息，未独立核实 Claude Code 功能细节。"
+}

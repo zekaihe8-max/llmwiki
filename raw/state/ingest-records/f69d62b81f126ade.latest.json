@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:18:27.782Z",
+  "url": "https://x.com/vista8/status/2121648274323206188",
+  "slug": "f69d62b81f126ade",
+  "content_hash": "964c791a9b977ddf80913a470816d3ed35e010fd22cf8457ea7307e3528e2fd5",
+  "source": {
+    "path": "sources/articles/if-you-can-t-tolerate-claude-code-bans-try-other-overseas-progra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中提到可用各种新顶级模型，涉及模型渠道取舍。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Claude Code 封号与风控，与该主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中提到替代工具额度较少，涉及编程 Agent 体验与额度。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中推荐 Factory.ai 等其他编程工具，属于编程 Agent/Harness 选型。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "帖文核心是 Claude Code 封号与风控，与该主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文中提到替代工具额度较少，涉及编程 Agent 体验与额度。",
+    "topics/harness-comparison-beyond-tokens.md": "文中推荐 Factory.ai 等其他编程工具，属于编程 Agent/Harness 选型。",
+    "topics/agent-model-channel-tradeoffs.md": "文中提到可用各种新顶级模型，涉及模型渠道取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/if-you-can-t-tolerate-claude-code-bans-try-other-overseas-progra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "帖文核心是 Claude Code 封号与风控，与该主题相关。",
+      "topics/coding-agent-ux-vs-quota.md": "文中提到替代工具额度较少，涉及编程 Agent 体验与额度。",
+      "topics/harness-comparison-beyond-tokens.md": "文中推荐 Factory.ai 等其他编程工具，属于编程 Agent/Harness 选型。",
+      "topics/agent-model-channel-tradeoffs.md": "文中提到可用各种新顶级模型，涉及模型渠道取舍。"
+    },
+    "notes": "来源为单条 X 帖文，未核实 Factory.ai 等具体声明，均用「帖文称」或直接复述原文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/if-you-can-t-tolerate-claude-code-bans-try-other-overseas-progra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

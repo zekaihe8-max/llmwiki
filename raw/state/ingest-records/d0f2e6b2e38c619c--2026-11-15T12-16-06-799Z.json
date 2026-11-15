@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:16:06.799Z",
+  "url": "https://x.com/wquguru/status/2121809544385097757",
+  "slug": "d0f2e6b2e38c619c",
+  "content_hash": "d7181b9597892908a647d36d0267bd8ad223ed6fbdbd15bc598f81cad149de49",
+  "source": {
+    "path": "sources/articles/claude-new-policy-and-singapore-environment-setup-supplement.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Claude 订阅风控与地区环境，与帖文中 IP、支付、时区等风控要素直接相关。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "帖文提及使用独享住宅 IP 与链式代理，与托管代理节点优于自建的主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到新账号升级 Claude Ultra，涉及高端 AI 订阅的价值与获取方式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章讨论 Claude 订阅风控与地区环境，与帖文中 IP、支付、时区等风控要素直接相关。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "帖文提及使用独享住宅 IP 与链式代理，与托管代理节点优于自建的主题相近。",
+    "topics/premium-ai-subscription-value.md": "帖文提到新账号升级 Claude Ultra，涉及高端 AI 订阅的价值与获取方式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-new-policy-and-singapore-environment-setup-supplement.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "文章讨论 Claude 订阅风控与地区环境，与帖文中 IP、支付、时区等风控要素直接相关。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "帖文提及使用独享住宅 IP 与链式代理，与托管代理节点优于自建的主题相近。",
+      "topics/premium-ai-subscription-value.md": "帖文提到新账号升级 Claude Ultra，涉及高端 AI 订阅的价值与获取方式。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未经独立核实；未引用文章外的事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-new-policy-and-singapore-environment-setup-supplement.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

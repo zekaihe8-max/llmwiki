@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:21:42.309Z",
+  "url": "https://x.com/FinanceYF5/status/2121800827975454847",
+  "slug": "e59433309b48f106",
+  "content_hash": "c3dbbd686d30efb08b14e894b25c207d89a630235d752c1f9abd7cdc89e6826e",
+  "source": {
+    "path": "sources/articles/untangle-founder-1-manager-agent-leads-20-builders-15-minute-che.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心讲如何用多个 agent 规模化工程交付，与该主题高度相关。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "文中经理 agent 带 20 个 builder、10 个人各配一个经理，直接对应 AI 扩大管控跨度。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "创始人只跟经理 agent 说话、经理调度 builder，符合个人 Agent 当包工头调度编程 Agent。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "看板、PR、合并队列经理等构成类似软件工厂的自动化流水线。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心讲如何用多个 agent 规模化工程交付，与该主题高度相关。",
+    "topics/ai-management-span-of-control.md": "文中经理 agent 带 20 个 builder、10 个人各配一个经理，直接对应 AI 扩大管控跨度。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "创始人只跟经理 agent 说话、经理调度 builder，符合个人 Agent 当包工头调度编程 Agent。",
+    "topics/software-factory.md": "看板、PR、合并队列经理等构成类似软件工厂的自动化流水线。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/untangle-founder-1-manager-agent-leads-20-builders-15-minute-che.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-management-span-of-control.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心讲如何用多个 agent 规模化工程交付，与该主题高度相关。",
+      "topics/ai-management-span-of-control.md": "文中经理 agent 带 20 个 builder、10 个人各配一个经理，直接对应 AI 扩大管控跨度。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "创始人只跟经理 agent 说话、经理调度 builder，符合个人 Agent 当包工头调度编程 Agent。",
+      "topics/software-factory.md": "看板、PR、合并队列经理等构成类似软件工厂的自动化流水线。"
+    },
+    "notes": "来源为 X 用户 FinanceYF5 的帖文，引用 AI Engineer YouTube 演讲；未超出文章内容编造事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/untangle-founder-1-manager-agent-leads-20-builders-15-minute-che.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

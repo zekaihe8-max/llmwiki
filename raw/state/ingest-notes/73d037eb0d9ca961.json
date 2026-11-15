@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "文中直接对比「软件工坊」与「软件工厂」，是核心隐喻。",
+    "topics/agent-scaled-engineering.md": "文中讨论 agent 工作时长、仓库维护数量等规模化工程现象。",
+    "topics/agent-compute-and-governance.md": "文中涉及 agent harness、算力调度、持久化等治理与计算问题。",
+    "topics/company-agent-harness.md": "文末对 harness 的三个期待（持久化、code mode、分类模型）与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中直接对比「软件工坊」与「软件工厂」，是核心隐喻。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中讨论 agent 工作时长、仓库维护数量等规模化工程现象。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及 agent harness、算力调度、持久化等治理与计算问题。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文末对 harness 的三个期待（持久化、code mode、分类模型）与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文对 AIE CODE 2026 演讲的转述，未独立核实演讲细节。"
+}
