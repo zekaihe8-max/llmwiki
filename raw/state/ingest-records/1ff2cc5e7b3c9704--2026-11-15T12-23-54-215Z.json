@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:23:54.215Z",
+  "url": "https://x.com/localhost_4173/status/2121922549932322898",
+  "slug": "1ff2cc5e7b3c9704",
+  "content_hash": "d2a8faa6311422efbd3ea2823c7d4487c7cf9c5f9903134109274473256d427d",
+  "source": {
+    "path": "sources/articles/mygo-render-vs-remotion-comparison.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章围绕视频制作与渲染工具对比，与视频剪辑主题最相近。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "涉及将编辑/渲染能力集成到工具插件中，与 AI 助手编辑工具主题相邻。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文强调开发者体验（CPU/内存占用、无需折腾工具），属于 DX 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章围绕视频制作与渲染工具对比，与视频剪辑主题最相近。",
+    "topics/ux-dx-and-ax.md": "帖文强调开发者体验（CPU/内存占用、无需折腾工具），属于 DX 范畴。",
+    "topics/open-source-in-ai-assistant-editing.md": "涉及将编辑/渲染能力集成到工具插件中，与 AI 助手编辑工具主题相邻。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mygo-render-vs-remotion-comparison.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章围绕视频制作与渲染工具对比，与视频剪辑主题最相近。",
+      "topics/ux-dx-and-ax.md": "帖文强调开发者体验（CPU/内存占用、无需折腾工具），属于 DX 范畴。",
+      "topics/open-source-in-ai-assistant-editing.md": "涉及将编辑/渲染能力集成到工具插件中，与 AI 助手编辑工具主题相邻。"
+    },
+    "notes": "未核实 MyGo 与 Remotion 的具体性能数据，均引用帖文原始主张。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mygo-render-vs-remotion-comparison.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

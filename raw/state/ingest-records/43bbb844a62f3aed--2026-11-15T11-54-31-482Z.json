@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T11:54:31.482Z",
+  "url": "https://x.com/dotey/status/2121837146357006829",
+  "slug": "43bbb844a62f3aed",
+  "content_hash": "27cb209a97134e5eb5b520e910213a6409a5806fcf55a2dc61b540582ef94eaa",
+  "source": {
+    "path": "sources/articles/translation-why-you-interviewed-well-but-still-didn-t-get-the-of.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大厂职级与编制，与岗位招聘决策背景相关"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "与“可雇/招聘”主题最接近，虽侧重 Agent 但涉及雇佣语境"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "涉及候选人素质与资历的评价维度，与面试筛选相关"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "属人才与职业发展话题，与求职/离职场景相邻"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/hireable-group-chat-digest-agent.md": "与“可雇/招聘”主题最接近，虽侧重 Agent 但涉及雇佣语境",
+    "topics/hunger-beats-tenure.md": "涉及候选人素质与资历的评价维度，与面试筛选相关",
+    "topics/pre-ipo-talent-departure-motives.md": "属人才与职业发展话题，与求职/离职场景相邻",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂职级与编制，与岗位招聘决策背景相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/translation-why-you-interviewed-well-but-still-didn-t-get-the-of.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/hireable-group-chat-digest-agent.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/hireable-group-chat-digest-agent.md": "与“可雇/招聘”主题最接近，虽侧重 Agent 但涉及雇佣语境",
+      "topics/hunger-beats-tenure.md": "涉及候选人素质与资历的评价维度，与面试筛选相关",
+      "topics/pre-ipo-talent-departure-motives.md": "属人才与职业发展话题，与求职/离职场景相邻",
+      "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂职级与编制，与岗位招聘决策背景相关"
+    },
+    "notes": "本条目基于 X 帖文转译内容，未引用文章外事实；主题均复用现有条目并保持 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/translation-why-you-interviewed-well-but-still-didn-t-get-the-of.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

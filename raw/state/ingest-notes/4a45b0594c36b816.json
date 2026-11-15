@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中 Claude 担任包工头角色，调度 GPT 与 Codex 完成编程任务，直接对应“个人 Agent 当包工头调度编程 Agent”。",
+    "topics/agent-auto-mode.md": "文中描述 Claude–GPT–Codex 多模型协作与自动审查流程，属于 Agent 自动模式的实践案例。",
+    "topics/agent-scaled-engineering.md": "涉及多模型分工、接口与验收标准、代码合入审查，属于智能体规模化工程的微观工作流。",
+    "topics/agents-md-token-efficiency.md": "作者在 CLAUDE.md 中保留派活说明，属于项目指令与 Token 效率的相关实践。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中 Claude 担任包工头角色，调度 GPT 与 Codex 完成编程任务，直接对应“个人 Agent 当包工头调度编程 Agent”。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中描述 Claude–GPT–Codex 多模型协作与自动审查流程，属于 Agent 自动模式的实践案例。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及多模型分工、接口与验收标准、代码合入审查，属于智能体规模化工程的微观工作流。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "作者在 CLAUDE.md 中保留派活说明，属于项目指令与 Token 效率的相关实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文原文，未引用外部链接或独立事实。"
+}

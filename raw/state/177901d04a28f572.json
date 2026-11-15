@@ -1,0 +1,23 @@
+{
+  "slug": "177901d04a28f572",
+  "url": "https://x.com/vista8/status/2121801780422181324",
+  "title": "Anthropic 新论文：每人配一个 agent 不如大家共用一个",
+  "digest": "2026-11-15-cn-x.md",
+  "status": "filed",
+  "hash": "177901d04a28f572b05d16f4d7caa213e07cac3700bcdf84bbcc69df20a42341",
+  "first_seen": "2026-11-15T11:52:42.627Z",
+  "last_seen": "2026-11-15T11:52:42.627Z",
+  "fetched_at": "2026-11-15T11:52:58.555Z",
+  "content_hash": "02ec4c01a2317780a401f89ad48f643c1ccc0ccdff7a119b710d89a648ee60ec",
+  "article_path": "articles/177901d04a28f572.md",
+  "fetched_url": "https://x.com/vista8/status/2121801780422181324",
+  "source_path": "sources/articles/anthropic-paper-one-shared-agent-beats-one-agent-per-person.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-15T12:16:43.492Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

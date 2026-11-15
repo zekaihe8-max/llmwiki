@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "帖文涉及媒体内容与记者行为的讨论，与帖文中对西方媒体和记者的批评相关。",
+    "topics/adversarial-review-external-evidence.md": "帖文对传记作者及其报道动机提出质疑，属于对外部叙事的对抗性审视。",
+    "topics/tech-misuse-concern-continuity.md": "帖文关注科技行业人物（黄仁勋/英伟达）的媒体形象与叙事，与技术领域的公共关切相邻。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文涉及媒体内容与记者行为的讨论，与帖文中对西方媒体和记者的批评相关。"
+    },
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文对传记作者及其报道动机提出质疑，属于对外部叙事的对抗性审视。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文关注科技行业人物（黄仁勋/英伟达）的媒体形象与叙事，与技术领域的公共关切相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文内容，未独立核实传记质量或作者行为。"
+}

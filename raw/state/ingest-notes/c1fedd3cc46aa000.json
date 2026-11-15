@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文主张将 Agent 放在云电脑运行以避免本地环境问题，并提到本地配置被 Orca 污染未清理，与个人 Agent 云环境的隔离与检查主题高度相关。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "Ding 表示尽量不使用本地电脑干活，强调云端/远程运行 AI Coding，与远程 AI Coding 对本地终端要求的讨论相近。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "文中列举了 Antigravity、Codex、Gemini、Qwen、Kimi、OpenCode 等多个编程 Agent，涉及个人环境中多个 coding agent 的共存与管理，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文主张将 Agent 放在云电脑运行以避免本地环境问题，并提到本地配置被 Orca 污染未清理，与个人 Agent 云环境的隔离与检查主题高度相关。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "Ding 表示尽量不使用本地电脑干活，强调云端/远程运行 AI Coding，与远程 AI Coding 对本地终端要求的讨论相近。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文中列举了 Antigravity、Codex、Gemini、Qwen、Kimi、OpenCode 等多个编程 Agent，涉及个人环境中多个 coding agent 的共存与管理，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用自 X 帖文，未独立核实 Orca 行为细节。"
+}

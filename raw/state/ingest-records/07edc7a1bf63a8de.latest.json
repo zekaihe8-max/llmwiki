@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:30:00.873Z",
+  "url": "https://x.com/berryxia/status/2121620204858036493",
+  "slug": "07edc7a1bf63a8de",
+  "content_hash": "7ec69a9d91653c0a5ee8b00d05d2e2dca9be15684278d7a3b940d6809d8b2e9c",
+  "source": {
+    "path": "sources/articles/berry-forwards-cyber-zen-heart-s-self-made-tidemark-open-sourced.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/dsh-grok-cross-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "个人利用 AI 能力快速做出可玩小游戏并开源，契合“随手 AI 小游戏一次成功”。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 DeepSeek Harness（DSH）游戏商店，与 DSH 相关主题相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文章核心是模型能力提升使个人能自制类《高级战争》游戏，与“Vibe Gaming 模型拐点”主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "文章核心是模型能力提升使个人能自制类《高级战争》游戏，与“Vibe Gaming 模型拐点”主题高度相关。",
+    "topics/casual-ai-minigame-first-try.md": "个人利用 AI 能力快速做出可玩小游戏并开源，契合“随手 AI 小游戏一次成功”。",
+    "topics/dsh-grok-cross-dispatch.md": "文中明确提到 DeepSeek Harness（DSH）游戏商店，与 DSH 相关主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/berry-forwards-cyber-zen-heart-s-self-made-tidemark-open-sourced.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/dsh-grok-cross-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "文章核心是模型能力提升使个人能自制类《高级战争》游戏，与“Vibe Gaming 模型拐点”主题高度相关。",
+      "topics/casual-ai-minigame-first-try.md": "个人利用 AI 能力快速做出可玩小游戏并开源，契合“随手 AI 小游戏一次成功”。",
+      "topics/dsh-grok-cross-dispatch.md": "文中明确提到 DeepSeek Harness（DSH）游戏商店，与 DSH 相关主题相关。"
+    },
+    "notes": "未创建新话题；所有未独立核实的主张均标注为「帖文称」。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/berry-forwards-cyber-zen-heart-s-self-made-tidemark-open-sourced.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

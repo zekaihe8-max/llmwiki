@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:01:10.050Z",
+  "url": "https://x.com/xiaomovps/status/2121592736998420925",
+  "slug": "99d53a17f0b40c22",
+  "content_hash": "1df6f8630fc9c5e74fb912281104bf4fe856126d92e9383c0bbf801ec9a00842",
+  "source": {
+    "path": "sources/articles/model-pairing-with-google-ai-ultra-replacing-claude-official-pla.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章按日常、写作、图片、视频、编程、复杂任务分派不同模型，属于跨模型编排与个人路由场景"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章主张用 Google AI Ultra 替换 Claude 官方订阅，直接对应高端 AI 订阅的价值与替代讨论"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章按任务轻重分别使用 Flash、Argon、Sonnet、Opus 等模型，体现模型策略取舍"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章主张用 Google AI Ultra 替换 Claude 官方订阅，直接对应高端 AI 订阅的价值与替代讨论",
+    "topics/pro-vs-flash-model-strategy.md": "文章按任务轻重分别使用 Flash、Argon、Sonnet、Opus 等模型，体现模型策略取舍",
+    "topics/cloud-auto-model-routing.md": "文章按日常、写作、图片、视频、编程、复杂任务分派不同模型，属于跨模型编排与个人路由场景"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/model-pairing-with-google-ai-ultra-replacing-claude-official-pla.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章主张用 Google AI Ultra 替换 Claude 官方订阅，直接对应高端 AI 订阅的价值与替代讨论",
+      "topics/pro-vs-flash-model-strategy.md": "文章按任务轻重分别使用 Flash、Argon、Sonnet、Opus 等模型，体现模型策略取舍",
+      "topics/cloud-auto-model-routing.md": "文章按日常、写作、图片、视频、编程、复杂任务分派不同模型，属于跨模型编排与个人路由场景"
+    },
+    "notes": "文中出现的 Gemini 3.8 Flash、Gemini 4 Argon、Nano Banana 2、Claude Sonnet 5.5、Claude Opus 5.5 等版本号均源自帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/model-pairing-with-google-ai-ultra-replacing-claude-official-pla.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

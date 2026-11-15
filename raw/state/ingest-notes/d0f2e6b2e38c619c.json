@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章讨论 Claude 订阅风控与地区环境，与帖文中 IP、支付、时区等风控要素直接相关。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "帖文提及使用独享住宅 IP 与链式代理，与托管代理节点优于自建的主题相近。",
+    "topics/premium-ai-subscription-value.md": "帖文提到新账号升级 Claude Ultra，涉及高端 AI 订阅的价值与获取方式。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Claude 订阅风控与地区环境，与帖文中 IP、支付、时区等风控要素直接相关。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "帖文提及使用独享住宅 IP 与链式代理，与托管代理节点优于自建的主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到新账号升级 Claude Ultra，涉及高端 AI 订阅的价值与获取方式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未经独立核实；未引用文章外的事实或 URL。"
+}

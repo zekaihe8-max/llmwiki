@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/code-over-spec.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文核心讨论 n8n 工作流与 Agent 自动化的替代关系，与“工作流优先于智能体”主题直接相关。",
+    "topics/agent-auto-mode.md": "帖文涉及 Agent 自动生成脚本以取代传统工作流编排，属于智能体自动模式讨论。",
+    "topics/code-over-spec.md": "发布者倾向于直接用 Agent 写脚本而非配置 n8n 规格化工作流，体现代码重于规格的观点。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论 n8n 工作流与 Agent 自动化的替代关系，与“工作流优先于智能体”主题直接相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Agent 自动生成脚本以取代传统工作流编排，属于智能体自动模式讨论。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "发布者倾向于直接用 Agent 写脚本而非配置 n8n 规格化工作流，体现代码重于规格的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-identity-platform-keys.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-identity-platform-keys.md": "文章详述 Bot 身份不等于隔离账号，多个 Bot 共用云端电脑与登录状态，邮箱按用户而非 Bot 分配，与该主题高度相关。",
+    "topics/agent-compute-and-governance.md": "文中讨论 Bot 钓鱼、超预算、写出 bug 时的责任归属及审批机制，属于智能体治理范畴。",
+    "topics/agent-scaled-engineering.md": "访谈披露每月合入约 4000 个 PR 及在 Slack 与 Bot 协作开发，涉及智能体规模化工程。",
+    "topics/agent-auto-mode.md": "文中强调 Bot 长时间运行、始终在线并在后台持续干活，符合智能体自动模式特征。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "文章详述 Bot 身份不等于隔离账号，多个 Bot 共用云端电脑与登录状态，邮箱按用户而非 Bot 分配，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中讨论 Bot 钓鱼、超预算、写出 bug 时的责任归属及审批机制，属于智能体治理范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "访谈披露每月合入约 4000 个 PR 及在 Slack 与 Bot 协作开发，涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中强调 Bot 长时间运行、始终在线并在后台持续干活，符合智能体自动模式特征。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "全部复用现有目录条目，未创建新主题。"
+}

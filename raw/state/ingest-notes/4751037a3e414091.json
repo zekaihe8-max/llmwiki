@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/china-special-edition-preinstalls.md",
+    "topics/llm-assisted-ereader-jailbreak.md"
+  ],
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "帖文涉及代理节点与 Tun 模式，与代理节点选用话题相近。",
+    "topics/china-special-edition-preinstalls.md": "涉及中国/香港地区账号与美国地区切换，与区域特供版限制相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "帖文提供绕过地区限制的变通方法，与越狱/变通话题性质接近。"
+  },
+  "topics": [
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "帖文涉及代理节点与 Tun 模式，与代理节点选用话题相近。"
+    },
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "涉及中国/香港地区账号与美国地区切换，与区域特供版限制相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "帖文提供绕过地区限制的变通方法，与越狱/变通话题性质接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅来源于单条 X 帖文，未独立核实 Google Antigravity 服务或政策细节。"
+}

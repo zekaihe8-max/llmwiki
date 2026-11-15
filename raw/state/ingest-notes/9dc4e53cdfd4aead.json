@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "涉及前沿开放权重模型，与 Meta/NYU 视觉模型研究属同一模型设计与发布语境。",
+    "topics/local-open-assistant-models.md": "关注本地开放助手与小模型，与文中 1.7B 模型及自建视觉编码器讨论相近。",
+    "topics/tools-building-own-models.md": "讨论工具产品自建模型话语权，与文中主张随主模型从零训练视觉编码器以节省算力相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及前沿开放权重模型，与 Meta/NYU 视觉模型研究属同一模型设计与发布语境。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "关注本地开放助手与小模型，与文中 1.7B 模型及自建视觉编码器讨论相近。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "讨论工具产品自建模型话语权，与文中主张随主模型从零训练视觉编码器以节省算力相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于单条 X 帖文，未独立核实；项目链接来自帖文中显示的 unbundling.github.io。"
+}

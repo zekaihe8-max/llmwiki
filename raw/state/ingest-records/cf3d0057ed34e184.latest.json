@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T11:58:09.400Z",
+  "url": "https://x.com/shao__meng/status/2121771537871344048",
+  "slug": "cf3d0057ed34e184",
+  "content_hash": "308768f0c5a731c1c37ff94d6b3c8d27745668867185ecd604c685da345faea9",
+  "source": {
+    "path": "sources/articles/stanford-cs146s-guest-lecture-secure-coding-in-an-agent-first-wo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Agent 优先世界下的安全治理与该话题有交集。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "讲座聚焦 Agent 优先世界下的软件安全与漏洞利用成本，与网防 Agent 类别最相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "讲座主题围绕 Agentic AI 在软件开发中的安全影响。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 时代的安全编码与网络安全专业话题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "讲座聚焦 Agent 优先世界下的软件安全与漏洞利用成本，与网防 Agent 类别最相关。",
+    "topics/ai-cybersecurity-jobs.md": "内容涉及 AI 时代的安全编码与网络安全专业话题。",
+    "topics/agentic-ai-foundation.md": "讲座主题围绕 Agentic AI 在软件开发中的安全影响。",
+    "topics/agent-compute-and-governance.md": "Agent 优先世界下的安全治理与该话题有交集。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stanford-cs146s-guest-lecture-secure-coding-in-an-agent-first-wo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/ai-cybersecurity-jobs.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "讲座聚焦 Agent 优先世界下的软件安全与漏洞利用成本，与网防 Agent 类别最相关。",
+      "topics/ai-cybersecurity-jobs.md": "内容涉及 AI 时代的安全编码与网络安全专业话题。",
+      "topics/agentic-ai-foundation.md": "讲座主题围绕 Agentic AI 在软件开发中的安全影响。",
+      "topics/agent-compute-and-governance.md": "Agent 优先世界下的安全治理与该话题有交集。"
+    },
+    "notes": "所有主张均基于帖文与关联推文，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stanford-cs146s-guest-lecture-secure-coding-in-an-agent-first-wo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

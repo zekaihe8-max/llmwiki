@@ -1,0 +1,23 @@
+{
+  "slug": "ef07cd32ee197957",
+  "url": "https://x.com/shao__meng/status/2121899873083764877",
+  "title": "Claude Code 实验功能 Code Mode",
+  "digest": "2026-11-15-cn-x.md",
+  "status": "filed",
+  "hash": "ef07cd32ee1979571accd48fbcd0ae9a96dcb979dfe39c5da6d19e2b60a185c1",
+  "first_seen": "2026-11-15T11:52:42.627Z",
+  "last_seen": "2026-11-15T11:52:42.627Z",
+  "fetched_at": "2026-11-15T11:52:44.160Z",
+  "content_hash": "326c102295d4d836b9e72157695c2142873a5c2e0b876b6d7a24a7c1ce88c0b2",
+  "article_path": "articles/ef07cd32ee197957.md",
+  "fetched_url": "https://x.com/shao__meng/status/2121899873083764877",
+  "source_path": "sources/articles/claude-code-experimental-code-mode-batch-tool-calls-and-local-js.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-15T11:55:12.716Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

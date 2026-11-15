@@ -1,3 +1,113 @@
+## 2026-11-15
+
+* **创建 / Creation**: 归档 [Claude 规划，GPT 写后端，Codex 审三轮：个人 Agent 派活工作流](./sources/articles/claude-plans-gpt-writes-backend-codex-reviews-up-to-three-rounds.md)。 / Filed [Claude plans, GPT writes backend, Codex reviews up to three rounds: personal agent dispatch workflow](./sources/articles/claude-plans-gpt-writes-backend-codex-reviews-up-to-three-rounds.md).
+
+* **创建 / Creation**: 归档 [Berry 转发：赛博禅心自制《潮汐战线》开源上架 DSH](./sources/articles/berry-forwards-cyber-zen-heart-s-self-made-tidemark-open-sourced.md)。 / Filed [Berry Forwards: Cyber Zen Heart's Self-made 'Tidemark' Open-sourced and Listed on DSH](./sources/articles/berry-forwards-cyber-zen-heart-s-self-made-tidemark-open-sourced.md).
+
+* **创建 / Creation**: 归档 [本地部署 MiniMax H3 与四款武打 LoRA 生成海贼王打戏](./sources/articles/locally-deployed-minimax-h3-with-four-combat-loras-for-one-piece.md)。 / Filed [Locally Deployed MiniMax H3 with Four Combat LoRAs for One Piece Fight Scenes](./sources/articles/locally-deployed-minimax-h3-with-four-combat-loras-for-one-piece.md).
+
+* **创建 / Creation**: 归档 [本地部署 Minimax H3 制作数字人，视频成本降至每分钟不到5元](./sources/articles/local-minimax-h3-deployment-for-digital-humans-cuts-video-cost-t.md)。 / Filed [Local Minimax H3 Deployment for Digital Humans Cuts Video Cost to Under 5 Yuan per Minute](./sources/articles/local-minimax-h3-deployment-for-digital-humans-cuts-video-cost-t.md).
+
+* **创建 / Creation**: 归档 [Ding：尽量让 Agent 跑在云电脑，Orca 卸载后未清理本地 11 个编程 Agent 配置](./sources/articles/ding-prefer-cloud-computers-for-agents-orca-left-local-configs-o.md)。 / Filed [Ding: Prefer Cloud Computers for Agents; Orca Left Local Configs of 11 Coding Agents Uncleaned After Uninstall](./sources/articles/ding-prefer-cloud-computers-for-agents-orca-left-local-configs-o.md).
+
+* **创建 / Creation**: 归档 [Ding 发现不错的 Rex 插件](./sources/articles/ding-finds-some-good-rex-plugins.md)。 / Filed [Ding Finds Some Good Rex Plugins](./sources/articles/ding-finds-some-good-rex-plugins.md).
+
+* **创建 / Creation**: 归档 [Berry 转发：Claude Code 现支持桌面自定义主题](./sources/articles/berry-reposts-claude-code-now-supports-custom-desktop-themes.md)。 / Filed [Berry reposts: Claude Code now supports custom desktop themes](./sources/articles/berry-reposts-claude-code-now-supports-custom-desktop-themes.md).
+
+* **创建 / Creation**: 归档 [蓝哥转发 Grok Bot 换壁纸背景开源项目](./sources/articles/blue-brother-reposts-open-source-grok-bot-wallpaper-background-p.md)。 / Filed [Blue Brother Reposts Open-Source Grok Bot Wallpaper Background Project](./sources/articles/blue-brother-reposts-open-source-grok-bot-wallpaper-background-p.md).
+
+* **创建 / Creation**: 归档 [Berryxia.AI 宣布开源「豆仓」录音豆转录项目](./sources/articles/berryxia-ai-announces-open-sourcing-of-dou-cang-recording-bean-t.md)。 / Filed [Berryxia.AI Announces Open-Sourcing of 'Dou Cang' Recording Bean Transcription Project](./sources/articles/berryxia-ai-announces-open-sourcing-of-dou-cang-recording-bean-t.md).
+
+* **创建 / Creation**: 归档 [meng shao：面向前端 / 产品 / UI 的 Agent Skills Top10（2026.11 更新版）](./sources/articles/meng-shao-top-10-agent-skills-for-frontend-product-and-ui-2026-1.md)。 / Filed [meng shao: Top 10 Agent Skills for Frontend, Product, and UI (2026.11 Update)](./sources/articles/meng-shao-top-10-agent-skills-for-frontend-product-and-ui-2026-1.md).
+
+* **创建 / Creation**: 归档 [MyGo Render 与 Remotion 对比](./sources/articles/mygo-render-vs-remotion-comparison.md)。 / Filed [MyGo Render vs Remotion Comparison](./sources/articles/mygo-render-vs-remotion-comparison.md).
+
+* **创建 / Creation**: 归档 [介绍 MyGo Render 插件：制作视频、短片与动态图表](./sources/articles/introducing-mygo-render-plugin-for-videos-shorts-and-animated-ch.md)。 / Filed [Introducing MyGo Render Plugin for Videos, Shorts, and Animated Charts](./sources/articles/introducing-mygo-render-plugin-for-videos-shorts-and-animated-ch.md).
+
+* **创建 / Creation**: 归档 [AI 视频的门槛变成预算内做完整成片](./sources/articles/ai-video-threshold-becomes-completing-a-full-film-within-budget.md)。 / Filed [AI video threshold becomes completing a full film within budget](./sources/articles/ai-video-threshold-becomes-completing-a-full-film-within-budget.md).
+
+* **创建 / Creation**: 归档 [Opus 5.5 加 Suno 给视频配乐](./sources/articles/opus-5-5-suno-for-video-background-music.md)。 / Filed [Opus 5.5 + Suno for Video Background Music](./sources/articles/opus-5-5-suno-for-video-background-music.md).
+
+* **创建 / Creation**: 归档 [让 Grok Bot 造一个设计师 Bot](./sources/articles/let-grok-bot-create-a-designer-bot.md)。 / Filed [Let Grok Bot Create a Designer Bot](./sources/articles/let-grok-bot-create-a-designer-bot.md).
+
+* **创建 / Creation**: 归档 [Untangle 创始人：1 个经理 agent 带 20 个 builder，每 15 分钟巡查，招人只看 45 分钟录屏](./sources/articles/untangle-founder-1-manager-agent-leads-20-builders-15-minute-che.md)。 / Filed [Untangle Founder: 1 Manager Agent Leads 20 Builders, 15-Minute Check-ins, Hiring by 45-Minute Screen Recording](./sources/articles/untangle-founder-1-manager-agent-leads-20-builders-15-minute-che.md).
+
+* **创建 / Creation**: 归档 [Flask 作者自查一年 AI Agent 会话：每天 120–190 条 prompt，141 个仓库只维护 10–15 个](./sources/articles/flask-author-self-audits-one-year-of-ai-agent-sessions-120-190-d.md)。 / Filed [Flask Author Self-Audits One Year of AI Agent Sessions: 120–190 Daily Prompts, 141 Repos but Only 10–15 Maintained](./sources/articles/flask-author-self-audits-one-year-of-ai-agent-sessions-120-190-d.md).
+
+* **创建 / Creation**: 归档 [Cline 一条提示词让 agent 连跑 17 小时，Terminal-Bench 从 77.5% 到 88.8%](./sources/articles/cline-one-prompt-lets-agent-run-17-hours-straight-terminal-bench.md)。 / Filed [Cline: One Prompt Lets Agent Run 17 Hours Straight, Terminal-Bench from 77.5% to 88.8%](./sources/articles/cline-one-prompt-lets-agent-run-17-hours-straight-terminal-bench.md).
+
+* **创建 / Creation**: 归档 [DeepMind 工程师把 agent 删到只剩 Bash：350 任务分差不足 6 分，成本近乎减半](./sources/articles/deepmind-engineer-strips-agent-to-just-bash-350-tasks-score-with.md)。 / Filed [DeepMind Engineer Strips Agent to Just Bash: 350+ Tasks Score Within 6 Points, Cost Nearly Halved](./sources/articles/deepmind-engineer-strips-agent-to-just-bash-350-tasks-score-with.md).
+
+* **创建 / Creation**: 归档 [在研究带人头像的 YouTube 视频封面设计](./sources/articles/researching-youtube-video-cover-design-featuring-human-faces.md)。 / Filed [Researching YouTube video cover design featuring human faces](./sources/articles/researching-youtube-video-cover-design-featuring-human-faces.md).
+
+* **创建 / Creation**: 归档 [受不了 Claude Code 封号可试海外其他编程工具](./sources/articles/if-you-can-t-tolerate-claude-code-bans-try-other-overseas-progra.md)。 / Filed [If You Can't Tolerate Claude Code Bans, Try Other Overseas Programming Tools](./sources/articles/if-you-can-t-tolerate-claude-code-bans-try-other-overseas-progra.md).
+
+* **创建 / Creation**: 归档 [帖文引用 Anthropic 文章：团队共用 Agent 胜过为每人配独立 Agent](./sources/articles/post-cites-anthropic-article-shared-team-agent-beats-dedicated-p.md)。 / Filed [Post cites Anthropic article: shared team agent beats dedicated per-person agents](./sources/articles/post-cites-anthropic-article-shared-team-agent-beats-dedicated-p.md).
+
+* **创建 / Creation**: 归档 [Anthropic 新论文：每人配一个 agent 不如大家共用一个](./sources/articles/anthropic-paper-one-shared-agent-beats-one-agent-per-person.md)。 / Filed [Anthropic Paper: One Shared Agent Beats One Agent Per Person](./sources/articles/anthropic-paper-one-shared-agent-beats-one-agent-per-person.md).
+
+* **创建 / Creation**: 归档 [Claude 新政与新加坡环境设置补充](./sources/articles/claude-new-policy-and-singapore-environment-setup-supplement.md)。 / Filed [Claude New Policy and Singapore Environment Setup Supplement](./sources/articles/claude-new-policy-and-singapore-environment-setup-supplement.md).
+
+* **创建 / Creation**: 归档 [Claude「新政」其实一直在执行](./sources/articles/claude-s-new-policy-has-been-in-effect-all-along.md)。 / Filed [Claude's "New Policy" Has Been in Effect All Along](./sources/articles/claude-s-new-policy-has-been-in-effect-all-along.md).
+
+* **创建 / Creation**: 归档 [Fable 5.2 硬搓 3D 能不能干掉生模工具](./sources/articles/can-fable-5-2-hard-code-3d-replace-generative-modeling-tools.md)。 / Filed [Can Fable 5.2 Hard-Code 3D Replace Generative Modeling Tools?](./sources/articles/can-fable-5-2-hard-code-3d-replace-generative-modeling-tools.md).
+
+* **创建 / Creation**: 归档 [X 用 5 个工程师半年重做 Web 端](./sources/articles/x-rebuilds-web-frontend-with-five-engineers-and-coding-agents-in.md)。 / Filed [X Rebuilds Web Frontend with Five Engineers and Coding Agents in Six Months](./sources/articles/x-rebuilds-web-frontend-with-five-engineers-and-coding-agents-in.md).
+
+* **创建 / Creation**: 归档 [科技负责上升，人类身处螺旋](./sources/articles/technology-takes-charge-of-rising-humans-caught-in-the-spiral.md)。 / Filed [Technology Takes Charge of Rising, Humans Caught in the Spiral](./sources/articles/technology-takes-charge-of-rising-humans-caught-in-the-spiral.md).
+
+* **创建 / Creation**: 归档 [客户](./sources/articles/customer-focus.md)。 / Filed [Customer Focus](./sources/articles/customer-focus.md).
+
+* **创建 / Creation**: 归档 [黄仁勋传记与作者斯蒂芬·维特引发的批评](./sources/articles/criticism-of-jensen-huang-biography-and-author-stephen-witt.md)。 / Filed [Criticism of Jensen Huang Biography and Author Stephen Witt](./sources/articles/criticism-of-jensen-huang-biography-and-author-stephen-witt.md).
+
+* **创建 / Creation**: 归档 [英伟达的护城河其实是老黄](./sources/articles/nvidia-s-moat-is-actually-jensen-huang.md)。 / Filed [Nvidia's Moat Is Actually Jensen Huang](./sources/articles/nvidia-s-moat-is-actually-jensen-huang.md).
+
+* **创建 / Creation**: 归档 [智能正在变得越来越廉价](./sources/articles/intelligence-is-becoming-cheaper-and-cheaper.md)。 / Filed [Intelligence is becoming cheaper and cheaper](./sources/articles/intelligence-is-becoming-cheaper-and-cheaper.md).
+
+* **创建 / Creation**: 归档 [Meta 和 Sierra 的个人智能体协议 Poppy 1.0](./sources/articles/meta-and-sierra-s-personal-agent-protocol-poppy-1-0.md)。 / Filed [Meta and Sierra's Personal Agent Protocol Poppy 1.0](./sources/articles/meta-and-sierra-s-personal-agent-protocol-poppy-1-0.md).
+
+* **创建 / Creation**: 归档 [Anthropic 路演图被指显示算法效率超指数增长，前研究员主张 2027 年暂停前沿 AI 研发](./sources/articles/anthropic-roadshow-slide-cited-as-showing-superexponential-algor.md)。 / Filed [Anthropic roadshow slide cited as showing superexponential algorithmic efficiency gains; former researcher urges 2027 pause on frontier AI R&D](./sources/articles/anthropic-roadshow-slide-cited-as-showing-superexponential-algor.md).
+
+* **创建 / Creation**: 归档 [Thinking Machines 的端到端 4 位训练](./sources/articles/thinking-machines-end-to-end-4-bit-training.md)。 / Filed [Thinking Machines' End-to-End 4-Bit Training](./sources/articles/thinking-machines-end-to-end-4-bit-training.md).
+
+* **创建 / Creation**: 归档 [Meta 与纽约大学视觉多模态模型设计研究](./sources/articles/meta-and-nyu-visual-multimodal-model-design-research.md)。 / Filed [Meta and NYU Visual Multimodal Model Design Research](./sources/articles/meta-and-nyu-visual-multimodal-model-design-research.md).
+
+* **创建 / Creation**: 归档 [在做一个把 Surge 节点给 Chrome profile 用的插件](./sources/articles/building-a-chrome-extension-that-routes-surge-proxy-nodes-to-chr.md)。 / Filed [Building a Chrome extension that routes Surge proxy nodes to Chrome profiles](./sources/articles/building-a-chrome-extension-that-routes-surge-proxy-nodes-to-chr.md).
+
+* **创建 / Creation**: 归档 [Muse 迭代很快：Android 版与 Chrome 插件已推出](./sources/articles/muse-iterates-fast-android-version-and-chrome-extension-released.md)。 / Filed [Muse Iterates Fast: Android Version and Chrome Extension Released](./sources/articles/muse-iterates-fast-android-version-and-chrome-extension-released.md).
+
+* **创建 / Creation**: 归档 [X 推荐算法改了，复制链接从 20 分变 0 分](./sources/articles/x-recommendation-algorithm-changed-copy-link-score-dropped-from.md)。 / Filed [X Recommendation Algorithm Changed: Copy Link Score Dropped from 20 to 0](./sources/articles/x-recommendation-algorithm-changed-copy-link-score-dropped-from.md).
+
+* **创建 / Creation**: 归档 [等 Antigravity Orchestrator 开放](./sources/articles/waiting-for-antigravity-orchestrator-to-open.md)。 / Filed [Waiting for Antigravity Orchestrator to Open](./sources/articles/waiting-for-antigravity-orchestrator-to-open.md).
+
+* **创建 / Creation**: 归档 [解决 Antigravity「不在允许区域」](./sources/articles/fixing-google-antigravity-not-in-allowed-region.md)。 / Filed [Fixing Google Antigravity "Not in Allowed Region"](./sources/articles/fixing-google-antigravity-not-in-allowed-region.md).
+
+* **创建 / Creation**: 归档 [想通了 n8n 的位置](./sources/articles/realizing-n8n-s-role.md)。 / Filed [Realizing n8n's Role](./sources/articles/realizing-n8n-s-role.md).
+
+* **创建 / Creation**: 归档 [Antigravity 用不了的 5 个常见问题](./sources/articles/5-common-issues-when-antigravity-does-not-work.md)。 / Filed [5 Common Issues When Antigravity Does Not Work](./sources/articles/5-common-issues-when-antigravity-does-not-work.md).
+
+* **创建 / Creation**: 归档 [别浪费 Ultra 送的 Colab 算力点](./sources/articles/don-t-waste-the-colab-compute-points-gifted-by-google-ai-ultra.md)。 / Filed [Don't Waste the Colab Compute Points Gifted by Google AI Ultra](./sources/articles/don-t-waste-the-colab-compute-points-gifted-by-google-ai-ultra.md).
+
+* **创建 / Creation**: 归档 [用 Google AI Ultra 替换 Claude 官方套餐的模型搭配](./sources/articles/model-pairing-with-google-ai-ultra-replacing-claude-official-pla.md)。 / Filed [Model pairing with Google AI Ultra replacing Claude official plan](./sources/articles/model-pairing-with-google-ai-ultra-replacing-claude-official-pla.md).
+
+* **创建 / Creation**: 归档 [Google AI Ultra 5x 土区低价开通教程](./sources/articles/google-ai-ultra-5x-low-cost-subscription-tutorial-via-turkish-re.md)。 / Filed [Google AI Ultra 5x Low-Cost Subscription Tutorial via Turkish Region](./sources/articles/google-ai-ultra-5x-low-cost-subscription-tutorial-via-turkish-re.md).
+
+* **创建 / Creation**: 归档 [达尔文.skill 3.0 发布：改用实战盲评替代文档投票](./sources/articles/darwin-skill-3-0-released-replacing-document-voting-with-task-ba.md)。 / Filed [Darwin.skill 3.0 Released: Replacing Document Voting with Task-Based Blind Evaluation](./sources/articles/darwin-skill-3-0-released-replacing-document-voting-with-task-ba.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS146S 客座讲座：Agent 优先世界中的安全编码](./sources/articles/stanford-cs146s-guest-lecture-secure-coding-in-an-agent-first-wo.md)。 / Filed [Stanford CS146S Guest Lecture: Secure Coding in an Agent-First World](./sources/articles/stanford-cs146s-guest-lecture-secure-coding-in-an-agent-first-wo.md).
+
+* **创建 / Creation**: 归档 [Semgrep CEO 斯坦福客座讲座：Agent 时代让攻击变得更贵](./sources/articles/semgrep-ceo-stanford-guest-lecture-make-attacks-more-expensive-i.md)。 / Filed [Semgrep CEO Stanford Guest Lecture: Make Attacks More Expensive in the Agent Era](./sources/articles/semgrep-ceo-stanford-guest-lecture-make-attacks-more-expensive-i.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 做客 YC Lightcone：AI 同事访谈与身份治理边界](./sources/articles/grok-bot-on-yc-lightcone-ai-teammate-interview-and-identity-gove.md)。 / Filed [Grok Bot on YC Lightcone: AI Teammate Interview and Identity Governance Boundaries](./sources/articles/grok-bot-on-yc-lightcone-ai-teammate-interview-and-identity-gove.md).
+
+* **创建 / Creation**: 归档 [读 Claude「Building always-on agents」的五个要点](./sources/articles/five-takeaways-from-claude-s-building-always-on-agents.md)。 / Filed [Five takeaways from Claude's "Building always-on agents"](./sources/articles/five-takeaways-from-claude-s-building-always-on-agents.md).
+
+* **创建 / Creation**: 归档 [Claude Code 实验功能 Code Mode：批量工具调用与本地 JS 编排](./sources/articles/claude-code-experimental-code-mode-batch-tool-calls-and-local-js.md)。 / Filed [Claude Code Experimental Code Mode: Batch Tool Calls and Local JS Orchestration](./sources/articles/claude-code-experimental-code-mode-batch-tool-calls-and-local-js.md).
+
+* **创建 / Creation**: 归档 [转译：面试聊得挺好为什么还是没 Offer](./sources/articles/translation-why-you-interviewed-well-but-still-didn-t-get-the-of.md)。 / Filed [Translation: Why You Interviewed Well but Still Didn't Get the Offer](./sources/articles/translation-why-you-interviewed-well-but-still-didn-t-get-the-of.md).
+
+* **创建 / Creation**: 归档 [Lauren Tan「All Code Is Slop (Except Mine)」演讲要点](./sources/articles/key-points-from-lauren-tan-s-talk-all-code-is-slop-except-mine.md)。 / Filed [Key points from Lauren Tan's talk "All Code Is Slop (Except Mine)"](./sources/articles/key-points-from-lauren-tan-s-talk-all-code-is-slop-except-mine.md).
+
 ## 2026-11-13
 
 * **创建 / Creation**: 归档 [Vox · 提前压缩上下文](./sources/articles/vox-early-context-compression.md)。 / Filed [Vox · Early Context Compression](./sources/articles/vox-early-context-compression.md).

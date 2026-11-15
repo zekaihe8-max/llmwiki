@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "讨论多智能体基建问题，与“共用 vs 独立 Agent”的架构权衡最贴近",
+    "topics/fold-subagents-into-main-loop.md": "探讨将子 Agent 并入主循环，与多个独立 Agent 合并为共用 Agent 的思路相关",
+    "topics/agent-swarms-cyber-defense.md": "涉及 Agent 群体/多智能体协作，与论文比较多 Agent 与单 Agent 表现相关",
+    "topics/agent-scaled-engineering.md": "关注智能体规模化工程，与团队配置 Agent 数量对整体表现的影响相关"
+  },
+  "topics": [
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "讨论多智能体基建问题，与“共用 vs 独立 Agent”的架构权衡最贴近"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "探讨将子 Agent 并入主循环，与多个独立 Agent 合并为共用 Agent 的思路相关"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 群体/多智能体协作，与论文比较多 Agent 与单 Agent 表现相关"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "关注智能体规模化工程，与团队配置 Agent 数量对整体表现的影响相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文文本，未引用外部未核实事实。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:22:54.625Z",
+  "url": "https://x.com/EianLu/status/2121777706010632421",
+  "slug": "37e7f85d438a44d3",
+  "content_hash": "c6b5400380adef5a12b303b6c48716420c6b455f94a2876718766a4df45c25be",
+  "source": {
+    "path": "sources/articles/ai-video-threshold-becomes-completing-a-full-film-within-budget.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI 视频制作与镜头控制，与智能体视频剪辑主题最贴近。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助视频内容制作与媒体笔记，相关度高。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "强调社区实测与真实成片，而非刷分榜单，与帖文观点呼应。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "Hailey 主张不看排行榜、先审实质质量，与该主题一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文讨论 AI 视频制作与镜头控制，与智能体视频剪辑主题最贴近。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助视频内容制作与媒体笔记，相关度高。",
+    "topics/public-benchmark-quality-scrutiny.md": "Hailey 主张不看排行榜、先审实质质量，与该主题一致。",
+    "topics/community-evals-vs-score-hype.md": "强调社区实测与真实成片，而非刷分榜单，与帖文观点呼应。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-video-threshold-becomes-completing-a-full-film-within-budget.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文讨论 AI 视频制作与镜头控制，与智能体视频剪辑主题最贴近。",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助视频内容制作与媒体笔记，相关度高。",
+      "topics/public-benchmark-quality-scrutiny.md": "Hailey 主张不看排行榜、先审实质质量，与该主题一致。",
+      "topics/community-evals-vs-score-hype.md": "强调社区实测与真实成片，而非刷分榜单，与帖文观点呼应。"
+    },
+    "notes": "来源为 X 帖文及其引用的 HaileyAILabs 发文，未独立核实模型性能或成本数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-video-threshold-becomes-completing-a-full-film-within-budget.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

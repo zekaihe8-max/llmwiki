@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:10:55.169Z",
+  "url": "https://x.com/oran_ge/status/2121805120921120994",
+  "slug": "138fc0224b16e36e",
+  "content_hash": "8bfb9d2f798da490581115c6cc496ce3045ac78ec522c9c03b166ff76f89aef2",
+  "source": {
+    "path": "sources/articles/nvidia-s-moat-is-actually-jensen-huang.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/hunger-beats-tenure.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "涉及美国算力优势与芯片垄断格局变化，与文中“芯片世界的垄断格局”相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及英伟达 GPU/芯片与算力垄断，属于算力基建语境。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "文中关注资深老员工是否随领导人离任而流失，与人才留存与资历议题相近。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论领导人离任（黄仁勋辞职）后组织留人与行业格局变化，与“先驱离任与继任”主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "帖文核心讨论领导人离任（黄仁勋辞职）后组织留人与行业格局变化，与“先驱离任与继任”主题高度相关。",
+    "topics/gpu-ai-compute-unlock.md": "涉及英伟达 GPU/芯片与算力垄断，属于算力基建语境。",
+    "topics/china-open-source-lead-us-compute.md": "涉及美国算力优势与芯片垄断格局变化，与文中“芯片世界的垄断格局”相关。",
+    "topics/hunger-beats-tenure.md": "文中关注资深老员工是否随领导人离任而流失，与人才留存与资历议题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/nvidia-s-moat-is-actually-jensen-huang.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/incumbent-exit-successor-blame-metaphor.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/hunger-beats-tenure.md"
+    ],
+    "selection_reasons": {
+      "topics/incumbent-exit-successor-blame-metaphor.md": "帖文核心讨论领导人离任（黄仁勋辞职）后组织留人与行业格局变化，与“先驱离任与继任”主题高度相关。",
+      "topics/gpu-ai-compute-unlock.md": "涉及英伟达 GPU/芯片与算力垄断，属于算力基建语境。",
+      "topics/china-open-source-lead-us-compute.md": "涉及美国算力优势与芯片垄断格局变化，与文中“芯片世界的垄断格局”相关。",
+      "topics/hunger-beats-tenure.md": "文中关注资深老员工是否随领导人离任而流失，与人才留存与资历议题相近。"
+    },
+    "notes": "原文在“Most of Nvidia's senior and veteran engineers have already”处截断，未披露后续去向。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/nvidia-s-moat-is-actually-jensen-huang.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

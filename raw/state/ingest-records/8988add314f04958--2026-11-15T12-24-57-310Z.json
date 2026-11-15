@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:24:57.310Z",
+  "url": "https://x.com/berryxia/status/2121891858737446963",
+  "slug": "8988add314f04958",
+  "content_hash": "01cd7f6fe3f66e0c4cdab8a4a0d1b311fa8ee5b342f6599f7e287d73967bea98",
+  "source": {
+    "path": "sources/articles/berryxia-ai-announces-open-sourcing-of-dou-cang-recording-bean-t.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文提到将多平台音频下载入知识库，与剪藏与媒体笔记主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文提到接入本地大模型进行转录，与本地开放助手模型主题相关。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "帖文核心功能包括音频转录，与播客 AI 转写精读主题相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提及 iOS 实时转录和语音输入，与语音输入主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文提到将多平台音频下载入知识库，与剪藏与媒体笔记主题相关。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "帖文核心功能包括音频转录，与播客 AI 转写精读主题相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文提及 iOS 实时转录和语音输入，与语音输入主题相关。",
+    "topics/local-open-assistant-models.md": "帖文提到接入本地大模型进行转录，与本地开放助手模型主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/berryxia-ai-announces-open-sourcing-of-dou-cang-recording-bean-t.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "帖文提到将多平台音频下载入知识库，与剪藏与媒体笔记主题相关。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "帖文核心功能包括音频转录，与播客 AI 转写精读主题相关。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "帖文提及 iOS 实时转录和语音输入，与语音输入主题相关。",
+      "topics/local-open-assistant-models.md": "帖文提到接入本地大模型进行转录，与本地开放助手模型主题相关。"
+    },
+    "notes": "Source is a single X post by @berryxia; claims about open-source release and features are attributed to the post.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/berryxia-ai-announces-open-sourcing-of-dou-cang-recording-bean-t.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文涉及 Rex 插件，与 Agent Skill 编写主题相近，但无需修改。",
+    "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件，与 Rex 插件话题相关，保持原样。",
+    "topics/harness-plugin-style-fragmentation.md": "涉及插件与 Harness 界面，与帖文插件主题相邻，保持原样。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent Skills 开放标准，与插件发现相关，保持原样。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Rex 插件，与 Agent Skill 编写主题相近，但无需修改。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 插件，与 Rex 插件话题相关，保持原样。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及插件与 Harness 界面，与帖文插件主题相邻，保持原样。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skills 开放标准，与插件发现相关，保持原样。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Rex 插件的具体内容及 axel.md/leaf.dipxsy.app 页面细节未在帖文中展开，仅按可见文本摘录。"
+}

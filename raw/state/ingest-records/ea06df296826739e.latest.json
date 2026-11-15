@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:06:44.149Z",
+  "url": "https://x.com/0xlangeai/status/2121828019971248248",
+  "slug": "ea06df296826739e",
+  "content_hash": "3eb72f91e21efe32fe8dfe5d3a84b21d7c07af5d5dc80c04eb4ab73eba3fa14d",
+  "source": {
+    "path": "sources/articles/building-a-chrome-extension-that-routes-surge-proxy-nodes-to-chr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 Chrome 插件开发，属于浏览器插件/扩展范畴"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "文章核心涉及 Surge 代理节点的使用与分配，与代理节点话题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "文章核心涉及 Surge 代理节点的使用与分配，与代理节点话题相关",
+    "topics/loose-web-agent-harness-plugins.md": "文中明确提到 Chrome 插件开发，属于浏览器插件/扩展范畴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/building-a-chrome-extension-that-routes-surge-proxy-nodes-to-chr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/loose-web-agent-harness-plugins.md"
+    ],
+    "selection_reasons": {
+      "topics/managed-over-selfhosted-proxy-nodes.md": "文章核心涉及 Surge 代理节点的使用与分配，与代理节点话题相关",
+      "topics/loose-web-agent-harness-plugins.md": "文中明确提到 Chrome 插件开发，属于浏览器插件/扩展范畴"
+    },
+    "notes": "发布日期为文章中显示的日期，仅按原文记录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/building-a-chrome-extension-that-routes-surge-proxy-nodes-to-chr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

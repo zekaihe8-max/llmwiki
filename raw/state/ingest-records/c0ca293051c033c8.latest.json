@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-15T12:19:01.734Z",
+  "url": "https://x.com/vista8/status/2121610817531756916",
+  "slug": "c0ca293051c033c8",
+  "content_hash": "67cded4bd1acdb9b6e7d6ce4901a8b6afca294028fa14d3b4dd797e09c86625a",
+  "source": {
+    "path": "sources/articles/researching-youtube-video-cover-design-featuring-human-faces.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "视频封面属于视频内容制作环节，与智能体视频剪辑相邻"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及媒体内容制作与笔记，与封面设计属同一内容生产领域"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "帖文提及 AI 模特与封面 Pattern 参考，与生图姿势参考库相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "涉及媒体内容制作与笔记，与封面设计属同一内容生产领域",
+    "topics/agentic-video-editing.md": "视频封面属于视频内容制作环节，与智能体视频剪辑相邻",
+    "topics/image-generation-pose-reference-libraries.md": "帖文提及 AI 模特与封面 Pattern 参考，与生图姿势参考库相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/researching-youtube-video-cover-design-featuring-human-faces.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/agentic-video-editing.md",
+      "topics/image-generation-pose-reference-libraries.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "涉及媒体内容制作与笔记，与封面设计属同一内容生产领域",
+      "topics/agentic-video-editing.md": "视频封面属于视频内容制作环节，与智能体视频剪辑相邻",
+      "topics/image-generation-pose-reference-libraries.md": "帖文提及 AI 模特与封面 Pattern 参考，与生图姿势参考库相关"
+    },
+    "notes": "所有主张均基于推文原文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/researching-youtube-video-cover-design-featuring-human-faces.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
