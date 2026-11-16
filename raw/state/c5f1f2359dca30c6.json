@@ -1,0 +1,23 @@
+{
+  "slug": "c5f1f2359dca30c6",
+  "url": "https://x.com/hwchase17/status/2121279222912352574",
+  "title": "Chase",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "c5f1f2359dca30c6b317faace143fa49f317e4175f6eac778852424273f6efe4",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:00.642Z",
+  "content_hash": "59eaf1e60fced9cbc442d6cc587153db99a81a78445c5350c39425ab2ff1df70",
+  "article_path": "articles/c5f1f2359dca30c6.md",
+  "fetched_url": "https://x.com/hwchase17/status/2121279222912352574",
+  "source_path": "sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:28:24.108Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "与帖文核心主题“开源模型/开放权重模型”直接相关",
+    "topics/open-models-cyber-defense.md": "涉及开源模型的生态与外部环境讨论",
+    "topics/china-open-source-lead-us-compute.md": "触及开源模型与美国算力/政治环境的关联"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "与帖文核心主题“开源模型/开放权重模型”直接相关"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及开源模型的生态与外部环境讨论"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "触及开源模型与美国算力/政治环境的关联"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，未独立核实其中关于华盛顿盟友撤退及“老黄”支持的具体事实。"
+}

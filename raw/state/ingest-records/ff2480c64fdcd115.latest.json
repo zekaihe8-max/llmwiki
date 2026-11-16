@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:54:30.510Z",
+  "url": "https://x.com/dexhorthy/status/2121660606256435325",
+  "slug": "ff2480c64fdcd115",
+  "content_hash": "3b1dd85b5941954dea36ea5fb4a26e48a93701982eb3bac74c8354f30bdbbf06",
+  "source": {
+    "path": "sources/articles/no-ai-slop-manifesto-human-judgment-cannot-be-replaced-by-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "宣言关注 AI 生成代码质量与“slop”问题，与该主题的 AI 代码双标讨论相近。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "主张 AI 只能放大而非取代人类判断，属于对 AI 引导程度的校准讨论。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "宣言强调人类审查与意图，避免盲目依赖 AI 生成，与 Vibe Coding 记忆悖论相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "宣言关注 AI 生成代码质量与“slop”问题，与该主题的 AI 代码双标讨论相近。",
+    "topics/vibe-coding-memory-paradox.md": "宣言强调人类审查与意图，避免盲目依赖 AI 生成，与 Vibe Coding 记忆悖论相关。",
+    "topics/calibrating-ai-guidance.md": "主张 AI 只能放大而非取代人类判断，属于对 AI 引导程度的校准讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/no-ai-slop-manifesto-human-judgment-cannot-be-replaced-by-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-code-vs-messy-code-double-standard.md": "宣言关注 AI 生成代码质量与“slop”问题，与该主题的 AI 代码双标讨论相近。",
+      "topics/vibe-coding-memory-paradox.md": "宣言强调人类审查与意图，避免盲目依赖 AI 生成，与 Vibe Coding 记忆悖论相关。",
+      "topics/calibrating-ai-guidance.md": "主张 AI 只能放大而非取代人类判断，属于对 AI 引导程度的校准讨论。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/no-ai-slop-manifesto-human-judgment-cannot-be-replaced-by-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

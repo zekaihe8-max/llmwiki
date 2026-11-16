@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "宣言关注 AI 生成代码质量与“slop”问题，与该主题的 AI 代码双标讨论相近。",
+    "topics/vibe-coding-memory-paradox.md": "宣言强调人类审查与意图，避免盲目依赖 AI 生成，与 Vibe Coding 记忆悖论相关。",
+    "topics/calibrating-ai-guidance.md": "主张 AI 只能放大而非取代人类判断，属于对 AI 引导程度的校准讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "宣言关注 AI 生成代码质量与“slop”问题，与该主题的 AI 代码双标讨论相近。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "宣言强调人类审查与意图，避免盲目依赖 AI 生成，与 Vibe Coding 记忆悖论相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "主张 AI 只能放大而非取代人类判断，属于对 AI 引导程度的校准讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:41:40.436Z",
+  "url": "https://x.com/kevins8/status/2120962631788114377",
+  "slug": "c7e33dba0067ad24",
+  "content_hash": "427ac73ef0a4dee08777f74d7b1f30eb2407ec914c1707fba40107032702e36f",
+  "source": {
+    "path": "sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "强调持久化智能体的算力使用与治理挑战，符合该主题。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讨论大规模部署与管理智能体群，直接对应智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "OpenAI 分享的最佳实践属于公司级 Agent Harness 与治理原语范畴。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "内容涉及企业级 AI 智能体作为数字员工的治理与风险控制。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章讨论大规模部署与管理智能体群，直接对应智能体规模化工程主题。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "内容涉及企业级 AI 智能体作为数字员工的治理与风险控制。",
+    "topics/company-agent-harness.md": "OpenAI 分享的最佳实践属于公司级 Agent Harness 与治理原语范畴。",
+    "topics/agent-compute-and-governance.md": "强调持久化智能体的算力使用与治理挑战，符合该主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/company-agent-harness.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章讨论大规模部署与管理智能体群，直接对应智能体规模化工程主题。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "内容涉及企业级 AI 智能体作为数字员工的治理与风险控制。",
+      "topics/company-agent-harness.md": "OpenAI 分享的最佳实践属于公司级 Agent Harness 与治理原语范畴。",
+      "topics/agent-compute-and-governance.md": "强调持久化智能体的算力使用与治理挑战，符合该主题。"
+    },
+    "notes": "Source URL is the X post; the linked developers.openai.com article is referenced but not fetched.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

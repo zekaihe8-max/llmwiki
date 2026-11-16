@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:43:22.888Z",
+  "url": "https://x.com/lennysan/status/2121296544041456007",
+  "slug": "b3d121827764fb7a",
+  "content_hash": "d26953e1ca67392fdcf9d812b6815e340cbc2ab664ef8efc392be57d2c5b65da",
+  "source": {
+    "path": "sources/articles/lenny-tech-jobs-are-concentrating-in-the-bay-area.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "该主题关注特定领域岗位变化，与本文讨论的科技职位集中与远程缩减相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "该主题涉及大厂职位编制与人员规模，与科技岗位分布趋势最为相邻。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "该主题涉及人才流动与就业市场动机，与岗位区域集中趋势有一定关联性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "该主题涉及大厂职位编制与人员规模，与科技岗位分布趋势最为相邻。",
+    "topics/ai-cybersecurity-jobs.md": "该主题关注特定领域岗位变化，与本文讨论的科技职位集中与远程缩减相关。",
+    "topics/pre-ipo-talent-departure-motives.md": "该主题涉及人才流动与就业市场动机，与岗位区域集中趋势有一定关联性。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lenny-tech-jobs-are-concentrating-in-the-bay-area.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/ai-cybersecurity-jobs.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/enterprise-ai-digital-employee-headcount.md": "该主题涉及大厂职位编制与人员规模，与科技岗位分布趋势最为相邻。",
+      "topics/ai-cybersecurity-jobs.md": "该主题关注特定领域岗位变化，与本文讨论的科技职位集中与远程缩减相关。",
+      "topics/pre-ipo-talent-departure-motives.md": "该主题涉及人才流动与就业市场动机，与岗位区域集中趋势有一定关联性。"
+    },
+    "notes": "Source: X post by @lennysan, status 2121296544041456007. All figures attributed to the post.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lenny-tech-jobs-are-concentrating-in-the-bay-area.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

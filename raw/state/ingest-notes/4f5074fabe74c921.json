@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-native-web-search.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "演示项目完整展示了聊天界面的用户体验（流式、语音、多主题、移动端适配）与开发者体验（零后端、静态部署、类型检查、格式化工具链）。",
+    "topics/agent-native-web-search.md": "文中明确提到“智能搜索、链接阅读、来源引用”作为核心能力，对应面向 Agent 的联网搜索重做主题。",
+    "topics/minimal-core-community-extensions.md": "项目定位为精简核心演示，无后端依赖，仅提供基础聊天功能，适合作为社区扩展或二次开发的起点。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "演示项目完整展示了聊天界面的用户体验（流式、语音、多主题、移动端适配）与开发者体验（零后端、静态部署、类型检查、格式化工具链）。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中明确提到“智能搜索、链接阅读、来源引用”作为核心能力，对应面向 Agent 的联网搜索重做主题。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "项目定位为精简核心演示，无后端依赖，仅提供基础聊天功能，适合作为社区扩展或二次开发的起点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is the official GitHub repository README; all facts derived from the fetched markdown."
+}

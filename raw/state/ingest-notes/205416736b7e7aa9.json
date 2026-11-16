@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-native-web-search.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "直接涉及 DeepSeek 自营推理与平台定位，与本条 DeepSeek API 公告最相关。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台模型编排与 API 路由，与 API 开放能力相近。",
+    "topics/agent-native-web-search.md": "涉及面向 Agent 的联网搜索，对应帖文中搜索能力的 API 化。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输入与文书整理，对应帖文中语音能力的 API 化。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "直接涉及 DeepSeek 自营推理与平台定位，与本条 DeepSeek API 公告最相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台模型编排与 API 路由，与 API 开放能力相近。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的联网搜索，对应帖文中搜索能力的 API 化。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及语音输入与文书整理，对应帖文中语音能力的 API 化。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于单条 X 帖文，未独立核实；未创建新话题，仅引用现有目录。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "7c3c4514fe4db814",
+  "url": "https://x.com/rauchg/status/2121739228698886454",
+  "title": "subagent",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "7c3c4514fe4db81482e575056bc4002720d161c3adbfa2773a4a6e9613502a76",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:08.282Z",
+  "content_hash": "057f5b2f812a9d44e83470b67a0a2834b32981f54f8916553d5db7dd06c9d322",
+  "article_path": "articles/7c3c4514fe4db814.md",
+  "fetched_url": "https://x.com/rauchg/status/2121739228698886454",
+  "source_path": "sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:43:55.299Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

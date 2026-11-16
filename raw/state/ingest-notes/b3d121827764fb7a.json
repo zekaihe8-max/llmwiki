@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "该主题涉及大厂职位编制与人员规模，与科技岗位分布趋势最为相邻。",
+    "topics/ai-cybersecurity-jobs.md": "该主题关注特定领域岗位变化，与本文讨论的科技职位集中与远程缩减相关。",
+    "topics/pre-ipo-talent-departure-motives.md": "该主题涉及人才流动与就业市场动机，与岗位区域集中趋势有一定关联性。"
+  },
+  "topics": [
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "该主题涉及大厂职位编制与人员规模，与科技岗位分布趋势最为相邻。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "该主题关注特定领域岗位变化，与本文讨论的科技职位集中与远程缩减相关。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "该主题涉及人才流动与就业市场动机，与岗位区域集中趋势有一定关联性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: X post by @lennysan, status 2121296544041456007. All figures attributed to the post."
+}

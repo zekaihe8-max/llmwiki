@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:42:37.714Z",
+  "url": "https://x.com/lennysan/status/2121998648573837740",
+  "slug": "dd160c7d79300563",
+  "content_hash": "37909333ecd8e4ce91f3544b322be22bcc151deea401078b42ae44021278bf4f",
+  "source": {
+    "path": "sources/articles/lenny-the-origin-of-muse.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-in-inbox.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Agent 接入邮箱与日历，属于 Agent 进收件箱场景。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Muse 团队更依赖“Agent Swarms”而非仪表盘，与该主题名称相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Meta 作为大厂打造原生 AI 消费品 Muse，与 AI 原生公司主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "帖文提到 Muse 团队更依赖“Agent Swarms”而非仪表盘，与该主题名称相关。",
+    "topics/agent-in-inbox.md": "帖文描述 Agent 接入邮箱与日历，属于 Agent 进收件箱场景。",
+    "topics/ai-native-companies.md": "Meta 作为大厂打造原生 AI 消费品 Muse，与 AI 原生公司主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lenny-the-origin-of-muse.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/agent-in-inbox.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "帖文提到 Muse 团队更依赖“Agent Swarms”而非仪表盘，与该主题名称相关。",
+      "topics/agent-in-inbox.md": "帖文描述 Agent 接入邮箱与日历，属于 Agent 进收件箱场景。",
+      "topics/ai-native-companies.md": "Meta 作为大厂打造原生 AI 消费品 Muse，与 AI 原生公司主题相近。"
+    },
+    "notes": "所有事实均来自提供的 X 帖文文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lenny-the-origin-of-muse.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "d7726fc963b24640",
+  "url": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+  "title": "博文",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "failed",
+  "hash": "d7726fc963b246408ee1aac25edc08d812c302b75e88aecb698bdcdcc002a2dc",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-16T00:19:06.109Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-16T00:59:15.041Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-16T00:59:15.041Z"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:22:17.387Z",
+  "url": "https://api-docs.deepseek.com/guides/build_a_chatbot",
+  "slug": "7dffefb712069f5d",
+  "content_hash": "1796ebd94b2fa54424bb66bd4f088caf8d90c107b5e628225cd1020485a50ab6",
+  "source": {
+    "path": "sources/articles/build-a-chatbot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文章重点介绍 DeepSeek 网页搜索与深度思考搜索工具，与该主题的 Agent 联网搜索密切相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文档涉及文件输入、对话上下文与用户元数据标记，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "本文为 DeepSeek 自营 API 文档，与 DeepSeek 推理平台定位相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中包含语音输入与语音输出（读 aloud）功能，与语音输入主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "文章重点介绍 DeepSeek 网页搜索与深度思考搜索工具，与该主题的 Agent 联网搜索密切相关。",
+    "topics/context-engineering-for-agents.md": "文档涉及文件输入、对话上下文与用户元数据标记，属于 Agent 上下文工程范畴。",
+    "topics/deepseek-inference-vs-aggregators.md": "本文为 DeepSeek 自营 API 文档，与 DeepSeek 推理平台定位相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "文中包含语音输入与语音输出（读 aloud）功能，与语音输入主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/build-a-chatbot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "文章重点介绍 DeepSeek 网页搜索与深度思考搜索工具，与该主题的 Agent 联网搜索密切相关。",
+      "topics/context-engineering-for-agents.md": "文档涉及文件输入、对话上下文与用户元数据标记，属于 Agent 上下文工程范畴。",
+      "topics/deepseek-inference-vs-aggregators.md": "本文为 DeepSeek 自营 API 文档，与 DeepSeek 推理平台定位相关。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "文中包含语音输入与语音输出（读 aloud）功能，与语音输入主题相关。"
+    },
+    "notes": "Source is DeepSeek API documentation; no new topics created.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/build-a-chatbot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

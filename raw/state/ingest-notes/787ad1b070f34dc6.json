@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章核心是 Pro/Opus 与 Flash/Fable 两档模型的取舍策略，直接对应该主题。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论面向编程 Agent 的模型渠道与成本权衡，属于典型的模型取舍场景。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编码 Agent 的体验（effort 调节）与配额/成本（单任务价格 2.8 倍差）的平衡。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Pro/Opus 与 Flash/Fable 两档模型的取舍策略，直接对应该主题。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论面向编程 Agent 的模型渠道与成本权衡，属于典型的模型取舍场景。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编码 Agent 的体验（effort 调节）与配额/成本（单任务价格 2.8 倍差）的平衡。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL is the X post; the linked blog post (claude.dev/blog/which-claude-model) is referenced but not fetched. All claims attributed to the post or quoted users."
+}

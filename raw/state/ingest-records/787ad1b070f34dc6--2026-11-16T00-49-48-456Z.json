@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:49:48.456Z",
+  "url": "https://x.com/addyosmani/status/2121732470118965298",
+  "slug": "787ad1b070f34dc6",
+  "content_hash": "9dbf20c0d7b497adb0a7b7c0baa5aacfe40a7d297b3e01b6783ba0226075cff5",
+  "source": {
+    "path": "sources/articles/addy-osmani-raise-effort-before-switching-models-opus-5-5-for-da.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论面向编程 Agent 的模型渠道与成本权衡，属于典型的模型取舍场景。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编码 Agent 的体验（effort 调节）与配额/成本（单任务价格 2.8 倍差）的平衡。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Pro/Opus 与 Flash/Fable 两档模型的取舍策略，直接对应该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章核心是 Pro/Opus 与 Flash/Fable 两档模型的取舍策略，直接对应该主题。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论面向编程 Agent 的模型渠道与成本权衡，属于典型的模型取舍场景。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编码 Agent 的体验（effort 调节）与配额/成本（单任务价格 2.8 倍差）的平衡。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/addy-osmani-raise-effort-before-switching-models-opus-5-5-for-da.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文章核心是 Pro/Opus 与 Flash/Fable 两档模型的取舍策略，直接对应该主题。",
+      "topics/agent-model-channel-tradeoffs.md": "讨论面向编程 Agent 的模型渠道与成本权衡，属于典型的模型取舍场景。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及编码 Agent 的体验（effort 调节）与配额/成本（单任务价格 2.8 倍差）的平衡。"
+    },
+    "notes": "Source URL is the X post; the linked blog post (claude.dev/blog/which-claude-model) is referenced but not fetched. All claims attributed to the post or quoted users.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/addy-osmani-raise-effort-before-switching-models-opus-5-5-for-da.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

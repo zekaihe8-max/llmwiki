@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "帖文核心是子智能体与主循环/规划的分工，与该主题直接相关。",
+    "topics/agents-md-token-efficiency.md": "帖文明确提到 ~/.fx/AGENTS.md 一行指令，涉及项目指令与 Token 效率。",
+    "topics/coding-agent-token-saving-tooling.md": "关联帖文提到 Token Pass 与 48.0% 更小的工具定义，属于编程 Agent 省 Token 工具范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文核心是子智能体与主循环/规划的分工，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 ~/.fx/AGENTS.md 一行指令，涉及项目指令与 Token 效率。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "关联帖文提到 Token Pass 与 48.0% 更小的工具定义，属于编程 Agent 省 Token 工具范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文及其关联的 Vercel Developers 帖文，未引入文章外事实。"
+}

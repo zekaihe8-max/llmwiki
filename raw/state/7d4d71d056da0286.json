@@ -1,0 +1,34 @@
+{
+  "slug": "7d4d71d056da0286",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "title": "公告",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "failed",
+  "hash": "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-16T00:18:54.497Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-16T00:59:14.967Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-16T00:59:14.967Z"
+}

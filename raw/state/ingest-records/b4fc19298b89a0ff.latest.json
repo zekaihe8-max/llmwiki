@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:53:10.698Z",
+  "url": "https://x.com/Voxyz_ai/status/2122072146411438294",
+  "slug": "b4fc19298b89a0ff",
+  "content_hash": "f1acc36532b93e72fb369177c1bffcf0fccc0e6a961c56465c004e12d4a8bdd8",
+  "source": {
+    "path": "sources/articles/vox-don-t-let-overnight-tasks-get-stuck-on-one-step.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心是设定目标后脱离、让任务过夜自动运行，符合智能体自动模式。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章明确通过 npx skills add 安装 Herdr 技能给 Claude Code，涉及 Agent Skill 的引入与使用。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心依赖 CLAUDE.md 写入项目指令以约束 Agent 行为，属于项目指令与 Token 效率范畴。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章中 Opus 调度 Codex 做审阅，符合“个人 Agent 当包工头调度编程 Agent”。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章中 Opus 调度 Codex 做审阅，符合“个人 Agent 当包工头调度编程 Agent”。",
+    "topics/agent-auto-mode.md": "文章核心是设定目标后脱离、让任务过夜自动运行，符合智能体自动模式。",
+    "topics/agents-md-token-efficiency.md": "文章核心依赖 CLAUDE.md 写入项目指令以约束 Agent 行为，属于项目指令与 Token 效率范畴。",
+    "topics/agent-skill-authoring.md": "文章明确通过 npx skills add 安装 Herdr 技能给 Claude Code，涉及 Agent Skill 的引入与使用。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vox-don-t-let-overnight-tasks-get-stuck-on-one-step.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-auto-mode.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "文章中 Opus 调度 Codex 做审阅，符合“个人 Agent 当包工头调度编程 Agent”。",
+      "topics/agent-auto-mode.md": "文章核心是设定目标后脱离、让任务过夜自动运行，符合智能体自动模式。",
+      "topics/agents-md-token-efficiency.md": "文章核心依赖 CLAUDE.md 写入项目指令以约束 Agent 行为，属于项目指令与 Token 效率范畴。",
+      "topics/agent-skill-authoring.md": "文章明确通过 npx skills add 安装 Herdr 技能给 Claude Code，涉及 Agent Skill 的引入与使用。"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vox-don-t-let-overnight-tasks-get-stuck-on-one-step.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

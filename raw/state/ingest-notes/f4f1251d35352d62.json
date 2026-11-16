@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文直接引用“software factory”，与该主题标题完全对应。",
+    "topics/agent-in-chat-bug-feedback.md": "智能体对产品/代码库提出不满，属于对话内反馈与问题反馈。",
+    "topics/ux-dx-and-ax.md": "涉及开发者在代码库中的体验（DX）与智能体交互（AX）。",
+    "topics/agent-scaled-engineering.md": "软件工厂与智能体规模化工程语境相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文直接引用“software factory”，与该主题标题完全对应。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "智能体对产品/代码库提出不满，属于对话内反馈与问题反馈。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及开发者在代码库中的体验（DX）与智能体交互（AX）。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "软件工厂与智能体规模化工程语境相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于所获取的 X 帖文页面，未引入外部信息。"
+}

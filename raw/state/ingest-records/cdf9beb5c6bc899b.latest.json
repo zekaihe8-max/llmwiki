@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:28:48.934Z",
+  "url": "https://www.langchain.com/blog/series-c",
+  "slug": "cdf9beb5c6bc899b",
+  "content_hash": "90efec29ddb13c3b30c84c153f275415b46f6164e731a4560cd31c95c8d7c26a",
+  "source": {
+    "path": "sources/articles/langchain-raises-300m-series-c.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ontology-driven-observability.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章详细介绍 LangSmith 的 Agent Governance 支柱，涉及模型、工具和数据的集中控制，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到 Workday 将部署新智能体的时间从五个月缩短至一天，体现智能体规模化工程与企业落地。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章核心论点是智能体将改变经济，每家公司都需要拥有自己的智能，与智能体 AI 基础主题一致。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "LangSmith 的 Agent Improvement 支柱包含 Observability 和 Evaluation，与可观测性主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章详细介绍 LangSmith 的 Agent Governance 支柱，涉及模型、工具和数据的集中控制，与该主题高度相关。",
+    "topics/agent-scaled-engineering.md": "文中提到 Workday 将部署新智能体的时间从五个月缩短至一天，体现智能体规模化工程与企业落地。",
+    "topics/agentic-ai-foundation.md": "文章核心论点是智能体将改变经济，每家公司都需要拥有自己的智能，与智能体 AI 基础主题一致。",
+    "topics/ontology-driven-observability.md": "LangSmith 的 Agent Improvement 支柱包含 Observability 和 Evaluation，与可观测性主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langchain-raises-300m-series-c.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/ontology-driven-observability.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章详细介绍 LangSmith 的 Agent Governance 支柱，涉及模型、工具和数据的集中控制，与该主题高度相关。",
+      "topics/agent-scaled-engineering.md": "文中提到 Workday 将部署新智能体的时间从五个月缩短至一天，体现智能体规模化工程与企业落地。",
+      "topics/agentic-ai-foundation.md": "文章核心论点是智能体将改变经济，每家公司都需要拥有自己的智能，与智能体 AI 基础主题一致。",
+      "topics/ontology-driven-observability.md": "LangSmith 的 Agent Improvement 支柱包含 Observability 和 Evaluation，与可观测性主题相关。"
+    },
+    "notes": "所有事实均源自提供的 LangChain 系列 C 博文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langchain-raises-300m-series-c.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

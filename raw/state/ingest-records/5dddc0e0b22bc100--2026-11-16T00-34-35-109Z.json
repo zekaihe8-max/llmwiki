@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:34:35.109Z",
+  "url": "https://x.com/natolambert/status/2121581040972255257",
+  "slug": "5dddc0e0b22bc100",
+  "content_hash": "e1d7f378ccce026f473fecea6d191b96f7f3a2ce4a2353d15b058d10f8170e7e",
+  "source": {
+    "path": "sources/articles/lambert-open-models-in-a-post-jensen-world.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "触及开源模型与美国算力/政治环境的关联"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及开源模型的生态与外部环境讨论"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "与帖文核心主题“开源模型/开放权重模型”直接相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "与帖文核心主题“开源模型/开放权重模型”直接相关",
+    "topics/open-models-cyber-defense.md": "涉及开源模型的生态与外部环境讨论",
+    "topics/china-open-source-lead-us-compute.md": "触及开源模型与美国算力/政治环境的关联"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lambert-open-models-in-a-post-jensen-world.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/open-models-cyber-defense.md",
+      "topics/china-open-source-lead-us-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "与帖文核心主题“开源模型/开放权重模型”直接相关",
+      "topics/open-models-cyber-defense.md": "涉及开源模型的生态与外部环境讨论",
+      "topics/china-open-source-lead-us-compute.md": "触及开源模型与美国算力/政治环境的关联"
+    },
+    "notes": "来源仅为单条 X 帖文，未独立核实其中关于华盛顿盟友撤退及“老黄”支持的具体事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lambert-open-models-in-a-post-jensen-world.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

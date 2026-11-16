@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/one-question-at-a-time.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/code-over-spec.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/one-question-at-a-time.md": "帖文建议避免笼统指令，与“一次只问一个问题”的精准提问原则相近。",
+    "topics/calibrating-ai-guidance.md": "将模型当实习生使用，涉及对 AI 引导力度的校准。",
+    "topics/code-over-spec.md": "帖文反对只说“构建这个功能”，更看重具体代码与行为指导，与“代码重于规格”相关。",
+    "topics/context-engineering-for-agents.md": "六段提示属于为编程 Agent 构建上下文与指令的范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "帖文建议避免笼统指令，与“一次只问一个问题”的精准提问原则相近。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "将模型当实习生使用，涉及对 AI 引导力度的校准。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文反对只说“构建这个功能”，更看重具体代码与行为指导，与“代码重于规格”相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "六段提示属于为编程 Agent 构建上下文与指令的范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未收录帖中六段提示的具体文本，因原始抓取未展开。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/millenarian-apocalypse-discourse.md",
+    "topics/ai-native-companies.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/millenarian-apocalypse-discourse.md": "文章讨论“SaaSpocalypse”式的市场恐慌，与末日话语主题相近。",
+    "topics/ai-native-companies.md": "涉及 SaaS 公司与 AI 原生公司的市场表现。",
+    "topics/premium-ai-subscription-value.md": "关联订阅制 SaaS 业务的收入与估值。",
+    "topics/software-factory.md": "涉及软件即服务行业的商业基本面。"
+  },
+  "topics": [
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "文章讨论“SaaSpocalypse”式的市场恐慌，与末日话语主题相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及 SaaS 公司与 AI 原生公司的市场表现。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "关联订阅制 SaaS 业务的收入与估值。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及软件即服务行业的商业基本面。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @fchollet referencing @robwalling; no external URLs or facts beyond the article are invented."
+}

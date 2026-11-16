@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/computer-use.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文强调智能体需在工作流中结合领域专业知识做出判断，与“工作流优先于智能体”直接相关。",
+    "topics/agentic-ai-foundation.md": "帖文讨论智能体使用软件与生成代码的能力，属于智能体 AI 的基础能力范畴。",
+    "topics/computer-use.md": "帖文多次提及工具与计算机使用，直接对应“Computer Use”主题。",
+    "topics/ai-task-horizon-growth.md": "帖文指出智能体在知识工作中的加速将持续增加，涉及 AI 任务时界与能力扩展。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调智能体需在工作流中结合领域专业知识做出判断，与“工作流优先于智能体”直接相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体使用软件与生成代码的能力，属于智能体 AI 的基础能力范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文多次提及工具与计算机使用，直接对应“Computer Use”主题。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文指出智能体在知识工作中的加速将持续增加，涉及 AI 任务时界与能力扩展。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by Aaron Levie; no external verification performed."
+}

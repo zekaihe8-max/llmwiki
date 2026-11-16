@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文直接引用“软件工厂”概念，与现有主题标题完全对应",
+    "topics/agent-auto-mode.md": "内容聚焦 Agent 会话与减少人工发送提示，属智能体自动化模式范畴",
+    "topics/workflows-before-agents.md": "建议在发送提示前先思考自动化路径，符合工作流优先于智能体的思路",
+    "topics/personal-agent-foreman-over-coding-agents.md": "强调通过个人 Agent 调度而非亲自操作，与“包工头”调度理念相近"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文直接引用“软件工厂”概念，与现有主题标题完全对应"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "内容聚焦 Agent 会话与减少人工发送提示，属智能体自动化模式范畴"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "建议在发送提示前先思考自动化路径，符合工作流优先于智能体的思路"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "强调通过个人 Agent 调度而非亲自操作，与“包工头”调度理念相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于单条 X 帖文，未引入外部事实。"
+}

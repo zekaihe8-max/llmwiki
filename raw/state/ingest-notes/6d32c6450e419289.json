@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论面向 Agent 的模型渠道与模型取舍，与 Claude 模型选型主题高度相关。",
+    "topics/cloud-auto-model-routing.md": "云平台 Auto 跨模型编排与文中混合模型、子 Agent 模型分配的思路相通。",
+    "topics/coding-agent-token-saving-tooling.md": "文中涉及模型按 token 计费、缓存读取与省 Token 策略，与该主题相关。",
+    "topics/context-engineering-for-agents.md": "文章详述 1M 上下文窗口、缓存账单与精简主上下文，属于 Agent 上下文工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论面向 Agent 的模型渠道与模型取舍，与 Claude 模型选型主题高度相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台 Auto 跨模型编排与文中混合模型、子 Agent 模型分配的思路相通。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中涉及模型按 token 计费、缓存读取与省 Token 策略，与该主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章详述 1M 上下文窗口、缓存账单与精简主上下文，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的文章 markdown，未引入外部 URL 或未核实信息。"
+}

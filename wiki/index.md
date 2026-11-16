@@ -26,6 +26,80 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [软件工厂的秘密：让 Agent 抱怨产品与代码库 / The secret to the software factory: make agents complain about your product and codebase](./sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md) — Kent C. Dodds 称，软件工厂的秘诀是让智能体抱怨在你的产品或代码库中工作时的痛点。 / Kent C. Dodds says the secret to the software factory is getting agents to complain about what they hate about working in your product or codebase.
+
+- [少发提示 / Send Fewer Prompts](./sources/articles/send-fewer-prompts.md) — 下次启动 Agent 会话或发送提示词前，先自问如何无需亲自发送也能得到相同结果，这就是构建软件工厂的方法。 / Before starting an agent session or sending a prompt, ask how to get the same outcome without sending it yourself—that's how you build a software factory.
+
+- [No AI Slop Manifesto：人类判断不可被 AI 取代 / No AI Slop Manifesto: Human Judgment Cannot Be Replaced by AI](./sources/articles/no-ai-slop-manifesto-human-judgment-cannot-be-replaced-by-ai.md) — 帖文称《No AI Slop Manifesto》已获 300 多签名，主张 AI 仅能放大人类判断，出品方需对意图、品味与后果负责。 / The post says the 'No AI Slop Manifesto' has 300+ signatures and argues AI can only amplify human judgment, while shippers own intent, taste, and consequences.
+
+- [Matt · /animatic / Matt · /animatic](./sources/articles/matt-animatic.md) — Matt Pocock 介绍两个用于生成可上传视频的 /animatic 技能及其设置工具。 / Matt Pocock introduces two /animatic skills for generating upload-ready videos and their setup tool.
+
+- [Vox · 过夜任务别卡死在一步 / Vox · Don't let overnight tasks get stuck on one step](./sources/articles/vox-don-t-let-overnight-tasks-get-stuck-on-one-step.md) — 用 Herdr 让 Claude Opus 与 GPT-6.1 Sol 互审，通过 CLAUDE.md 分步验证实现过夜自动编程 / Use Herdr to let Claude Opus and GPT-6.1 Sol review each other, achieving overnight automatic programming through step-by-step verification in CLAUDE.md
+
+- [Vox · 预览链接直接开到手机上 / Vox · Preview links open directly on phone](./sources/articles/vox-preview-links-open-directly-on-phone.md) — 通过 Tailscale 让 AI 编程工具生成的预览链接直接在手机上打开 / Use Tailscale so preview links from AI coding tools open directly on your phone
+
+- [双向门 / Two-Way Door](./sources/articles/two-way-door.md) — 建议在 AGENTS.md 中区分可撤销的双向门与不可撤销的单向门，并只在品味与产品决策时提问。 / Suggest distinguishing reversible two-way doors from irreversible one-way doors in AGENTS.md, and asking only about taste and product decisions.
+
+- [六段提示：把 Fable 5.2 当实习生用 / Six Prompts: Use Fable 5.2 Like an Intern](./sources/articles/six-prompts-use-fable-5-2-like-an-intern.md) — 帖文列出六段可复制粘贴的提示，建议把 Fable 5.2 当实习生而非魔法工具来使用。 / The post lists six copy-paste prompts and advises treating Fable 5.2 like an intern rather than a magic tool.
+
+- [Claude 模型选型指南：Haiku、Sonnet、Opus 与 Fable 如何选择 / Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku](./sources/articles/which-claude-model-should-you-build-with-fable-opus-sonnet-or-ha.md) — 官方文档解读如何在 Claude Haiku、Sonnet、Opus 与 Fable 之间根据任务类型、成本与延迟选择模型。 / An official guide to choosing among Claude Haiku, Sonnet, Opus, and Fable models based on task type, cost, and latency.
+
+- [Addy Osmani：先加思考再换模型——Opus 5.5 日常够用，Fable 5.2 留给硬骨头 / Addy Osmani: Raise Effort Before Switching Models — Opus 5.5 for Daily Coding, Fable 5.2 for Hard Tasks](./sources/articles/addy-osmani-raise-effort-before-switching-models-opus-5-5-for-da.md) — Addy Osmani 建议以 Opus 5.5 medium 为编码日常主力，遇阻先调高 effort，仅在大型迁移、长时无人值守等真正困难任务上才上 Fable 5.2；Garry Tan 实测显示 Opus 解决率略高且单任务成本仅为 Fable 的 1/2.8。 / Addy Osmani recommends Opus 5.5 at medium as the daily coding driver, raising effort before switching models, and reserving Fable 5.2 for genuinely hard tasks like big migrations; Garry Tan's benchmarks show Opus solves slightly more tasks at 1/2.8 the cost per solve.
+
+- [Mitchell · 别做 demoslop / Mitchell · Don't Make Demoslop](./sources/articles/mitchell-don-t-make-demoslop.md) — 米切尔表示 Superlogical 厌倦了像 demoslop 一样的软件，致力于展示精心打磨的软件，并强调用经验丰富的工匠配合 AI，而非无趣的提示词。 / Mitchell says Superlogical is tired of software that feels like demoslop and aims to show meticulously crafted software, using experienced craftspeople enhanced by AI rather than tasteless prompting.
+
+- [智能体交付全部代码：特性门控、推送验证与指标监控 / How Agents Ship All Code: Feature Gates, Push Verification, and Metrics Monitoring](./sources/articles/how-agents-ship-all-code-feature-gates-push-verification-and-met.md) — 智能体通过编写特性门控代码、在推送时进行验证并监控指标来交付全部代码。 / Agents ship all code by writing feature-gated code, verifying on push, and monitoring metrics.
+
+- [fx.sh 子智能体与 AGENTS.md 一行指令 / fx.sh Subagents and One-Line AGENTS.md Instruction](./sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md) — Guillermo Rauch 称赞 fx.sh 子智能体，并说明通过 ~/.fx/AGENTS.md 一行指令实现智能模型规划与快速模型子智能体委派。 / Guillermo Rauch praises fx.sh subagents and explains smart-model planning with fast-model subagent delegation via a one-line ~/.fx/AGENTS.md instruction.
+
+- [Lenny · 科技岗位在向湾区集中 / Lenny · Tech jobs are concentrating in the Bay Area](./sources/articles/lenny-tech-jobs-are-concentrating-in-the-bay-area.md) — Lenny Rachitsky 指出，科技岗位正高度集中于旧金山湾区，远程岗位比例创新低。 / Lenny Rachitsky notes tech jobs are concentrating heavily in the Bay Area while remote roles hit record lows.
+
+- [Lenny · Muse 的来历 / Lenny · The Origin of Muse](./sources/articles/lenny-the-origin-of-muse.md) — Lenny 发文回顾 Meta 团队如何在七个月内打造 AI 消费品 Muse，并提及 Agent Swarm 与邮箱日历接入等细节。 / Lenny recounts how the Meta team built AI consumer product Muse in seven months, mentioning Agent Swarms and email/calendar access.
+
+- [Chase · 目标工程 / Chase · Goal Engineering](./sources/articles/chase-goal-engineering-2.md) — 哈里森·蔡斯联合 Actively AI 探讨如何为 AI 智能体设计目标，主张让人类反馈更容易给予是目标工程的核心。 / Harrison Chase teams up with Actively AI to discuss how to design goals for AI agents, arguing that making human feedback easy to give is central to goal engineering.
+
+- [OpenAI 分享管理持久化智能体 OpenClaw 的最佳实践 / OpenAI Shares Best Practices for Managing Persistent Agents Like OpenClaw](./sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md) — Kevin S Lin 介绍 OpenAI 如何管理大规模持久化智能体群，强调其像承包商而非传统 SaaS，需防范越权与代码滥用风险。 / Kevin S Lin outlines how OpenAI manages fleets of persistent agents, noting they act more like contractors than SaaS and require safeguards against misaligned actions.
+
+- [斯坦伯格：在 OpenAI 内运行持久智能体 / Steinberger: Running Persistent Agents Inside OpenAI](./sources/articles/steinberger-running-persistent-agents-inside-openai.md) — 彼得·斯坦伯格称其团队撰文介绍如何在 OpenAI 内部运行持久智能体，并指出这类智能体对企业 IT 构成重大挑战。 / Peter Steinberger says his team wrote about running persistent agents inside OpenAI, noting such agents pose major challenges for enterprise IT.
+
+- [Chollet · 年初那场 SaaS 恐慌 / Chollet · The Early-Year SaaS Panic Was BS](./sources/articles/chollet-the-early-year-saas-panic-was-bs.md) — 肖莱称 2026 年初 SaaS 恐慌毫无根据，Stripe 数据显示股价与收入增长已回暖。 / Chollet says the early-2026 SaaS panic was baseless, with Stripe data showing equity prices and revenue growth have recovered.
+
+- [Levie · 工作会往“像写代码”靠 / Levie · Work Becomes Coding-Shaped](./sources/articles/levie-work-becomes-coding-shaped.md) — 帖文称 AI 智能体在软件使用与代码生成上的快速进步，将推动更多知识工作向“代码化”形态演进。 / The post argues that rapid agent progress in software use and code generation will push more knowledge work into coding-shaped forms.
+
+- [Lambert · 没有老黄之后的开源模型 / Lambert · Open Models in a Post-Jensen World](./sources/articles/lambert-open-models-in-a-post-jensen-world.md) — 帖文称开源模型在“后老黄”世界面临政治曝光与投资压力两大挑战。 / The post says open models face political exposure and investment pressure in a post-Jensen world.
+
+- [家用中枢亟需前沿 AI 模型 / Frontier AI models needed for central home hubs](./sources/articles/frontier-ai-models-needed-for-central-home-hubs.md) — 缺乏强大 AI 模型的家用中枢将成为负担，前沿模型更像科幻家用电脑且更直观。 / A central home device without a strong AI model will become a liability; frontier models resemble the sci-fi household computer and are more intuitive.
+
+- [宾大生成式AI工作室学生项目：个人用AI可达三年前团队水平的十倍 / Penn Generative AI Studio Student Projects: Individuals with AI Reach 10x Three-Year-Old Team Level](./sources/articles/penn-generative-ai-studio-student-projects-individuals-with-ai-r.md) — 伊森·莫利克在宾大生成式AI工作室观摩学生演示，称个人AI项目进度已远超三年前完整团队项目。 / Ethan Mollick watched student demos at Penn's Generative AI Studio, saying individual AI projects are now about 10x further along than full team projects from three years ago.
+
+- [复原课堂：Agent 群搜索互联网档案馆重建奥登诗歌课 / Reconstructing the Classroom: Agent Swarms Search Internet Archive to Rebuild Auden's Poetry Class](./sources/articles/reconstructing-the-classroom-agent-swarms-search-internet-archiv.md) — Ethan Mollick 称使用 Fable 5.2 重构 WH Auden 1941 年诗歌课，Agent 群通过反复全文搜索在互联网档案馆逐行阅读一本冷门书籍。 / Ethan Mollick says he used Fable 5.2 to reconstruct WH Auden's 1941 poetry class, with agent swarms repeatedly full-text searching the Internet Archive to read an obscure book line by line.
+
+- [AI 进步快于衡量：SatBench 显示 63% 实验室引用基准已饱和 / AI Is Getting Better Faster Than Our Measurements Are: SatBench Shows 63% of Lab-Cited Benchmarks Saturated](./sources/articles/ai-is-getting-better-faster-than-our-measurements-are-satbench-s.md) — 帖文称 Ethan Mollick 推出 SatBench，测量 AI 基准饱和速度，自 2023 年实验室引用的 173 个基准中有 63% 已饱和，且饱和速度逐年加快。 / Ethan Mollick introduces SatBench to measure how quickly AI benchmarks become saturated, reporting that 63% of 173 benchmarks cited by labs since 2023 are now saturated, with saturation accelerating each year.
+
+- [阿玛德·马萨德转发“支持黄仁勋”致 NVIDIA 董事会公开信 / Amjad Masad Shares 'Stand with Jensen' Open Letter to NVIDIA Board](./sources/articles/amjad-masad-shares-stand-with-jensen-open-letter-to-nvidia-board.md) — Replit 创始人阿玛德·马萨德在 X 上发帖，呼吁读者阅读并签署致 NVIDIA 董事会的“支持黄仁勋”公开信。 / Replit founder Amjad Masad posted on X urging readers to read and sign the 'Stand with Jensen' open letter to the NVIDIA Board.
+
+- [黄仁勋考虑回归英伟达 CEO，超 10 万人签公开信支持 / Jensen Huang considers returning as Nvidia CEO, over 100,000 sign open letter in support](./sources/articles/jensen-huang-considers-returning-as-nvidia-ceo-over-100-000-sign.md) — 金融时报报道黄仁勋考虑复任英伟达 CEO，辞职三天后即传回归消息，公开信与投资人表态支持。 / FT reports Jensen Huang is considering returning as Nvidia CEO just three days after resigning, with an open letter and investors voicing support.
+
+- [构建强大的 AI 安全评测 / Building strong safety evaluations](./sources/articles/building-strong-safety-evaluations.md) — Anthropic 发布博文，分享构建可靠 AI 安全评测的建议，涵盖团队技能、安全运行、设计匹配、效度与泛化等关键要点。 / Anthropic shares recommendations for building reliable AI safety evaluations, covering team skills, safe execution, design alignment, validity, and generalization.
+
+- [Anthropic 发布 10 条 AI 安全评估建议 / Anthropic Shares 10 AI Safety Evaluation Recommendations](./sources/articles/anthropic-shares-10-ai-safety-evaluation-recommendations.md) — 帖文称 Anthropic 工程博客提供 10 条设计、运行和报告安全评估的建议，用于判断模型部署就绪性与研究方向。 / The post says Anthropic's Engineering Blog provides 10 recommendations for designing, running, and reporting safety evaluations to assess deployment readiness and research directions.
+
+- [LangChain 获得 3 亿美元 C 轮融资 / LangChain Raises $300M Series C](./sources/articles/langchain-raises-300m-series-c.md) — LangChain 宣布获得 3 亿美元 C 轮融资，估值 30 亿美元，以推进 LangSmith 智能体平台并帮助每家公司拥有自己的智能。 / LangChain announces a $300M Series C at a $3B valuation to advance its LangSmith agent platform and help every company own its intelligence.
+
+- [LangChain 宣布 3 亿美元 C 轮融资，估值 30 亿美元 / LangChain Raises $300M Series C at $3B Valuation](./sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md) — Harrison Chase 宣布 LangChain 获 3 亿美元融资，并推出面向智能体的框架无关平台 LangSmith。 / Harrison Chase announces LangChain's $300M Series C at a $3B valuation and the LangSmith platform to run, improve, and govern agents.
+
+- [DeepSeek Chat Demo：静态网页直连 API 的对话演示 / DeepSeek Chat Demo: Static Web Page Directly Connecting to API for Chat Demonstration](./sources/articles/deepseek-chat-demo-static-web-page-directly-connecting-to-api-fo.md) — 一个无需后端的静态聊天演示，浏览器直接调用 DeepSeek API，支持流式回复、联网搜索、语音输入、多会话管理等功能。 / A backend-free static chat demo where the browser calls DeepSeek API directly, supporting streaming replies, web search, voice input, multi-session management, and more.
+
+- [构建聊天机器人 / Build a Chatbot](./sources/articles/build-a-chatbot.md) — 使用 DeepSeek API 的联网搜索、文件输入、安全审查等能力构建自定义聊天机器人。 / Build a custom chatbot using DeepSeek API capabilities such as web search, file input, and safety review.
+
+- [DeepSeek 将 App 完整能力开放为 API / DeepSeek Opens Full App Experience via API](./sources/articles/deepseek-opens-full-app-experience-via-api.md) — DeepSeek 宣布搜索、文件、链接、安全与语音等 App 能力现已通过 API 提供，并发布开源前端演示。 / DeepSeek announces that app capabilities such as search, files, links, safety, and voice are now available via API, alongside an open-source frontend demo.
+
+- [Gemini 接入 Google Wallet，提供个人理财洞察 / Gemini Integrates Google Wallet for Personal Finance Insights](./sources/articles/gemini-integrates-google-wallet-for-personal-finance-insights.md) — Gemini 的个人智能功能新增 Google Wallet 连接，可基于消费习惯生成理财图表、查找订阅并设定节日预算。 / Gemini's Personal Intelligence adds Google Wallet connectivity to generate finance charts, find subscriptions, and set holiday budgets based on spending habits.
+
+- [ChatGPT Wallet 面向 Pro 用户推出，Agent 可代为安全购买 / ChatGPT Wallet Rolls Out to Pro Users, Letting Agents Make Secure Purchases](./sources/articles/chatgpt-wallet-rolls-out-to-pro-users-letting-agents-make-secure.md) — OpenAI 宣布 ChatGPT Wallet 向 Pro 订阅者推出，Agent 可在用户批准下代为安全完成购买，且不接触实际卡片信息。 / OpenAI announces ChatGPT Wallet rolling out to Pro subscribers, allowing agents to securely complete purchases on users' behalf with approval and without accessing actual card details.
+
+- [ChatGPT Wallet 面向美国 Pro 用户推出，支持代理安全代付 / ChatGPT Wallet rolls out to US Pro users, letting agents pay securely on behalf](./sources/articles/chatgpt-wallet-rolls-out-to-us-pro-users-letting-agents-pay-secu.md) — ChatGPT Wallet 让代理在不接触实际卡片信息的情况下代为付款，每笔交易均需安全校验，面向美国 Pro 订阅用户逐步推出。 / ChatGPT Wallet lets agents pay on users' behalf without accessing actual card details, with every purchase requiring a security check, rolling out to US Pro subscribers.
+
 - [Claude 规划，GPT 写后端，Codex 审三轮：个人 Agent 派活工作流 / Claude plans, GPT writes backend, Codex reviews up to three rounds: personal agent dispatch workflow](./sources/articles/claude-plans-gpt-writes-backend-codex-reviews-up-to-three-rounds.md) — 帖文称通过 Claude 做规划与前端、GPT 写后端与数据处理、Codex 最多三轮审查，构建 Agent 自动化开发的最优解。 / The post claims that using Claude for planning and frontend, GPT for backend and data processing, and Codex for up to three review rounds forms an optimal solution for agent-based automated development.
 
 - [Berry 转发：赛博禅心自制《潮汐战线》开源上架 DSH / Berry Forwards: Cyber Zen Heart's Self-made 'Tidemark' Open-sourced and Listed on DSH](./sources/articles/berry-forwards-cyber-zen-heart-s-self-made-tidemark-open-sourced.md) — Berry 转发 CocoSgt_twt 帖文，称公众号赛博禅心基于模型能力自制《高级战争》精神续作《潮汐战线》，代码开源并上架 DeepSeek Harness 游戏商店。 / Berry forwards CocoSgt_twt's post, saying WeChat official account Cyber Zen Heart self-made Advance Wars spiritual successor 'Tidemark' based on model capabilities, with code open-sourced and listed on DeepSeek Harness game store.

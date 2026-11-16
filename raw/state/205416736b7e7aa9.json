@@ -1,0 +1,23 @@
+{
+  "slug": "205416736b7e7aa9",
+  "url": "https://x.com/deepseek_ai/status/2121247896918253875",
+  "title": "DeepSeek",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "205416736b7e7aa976add11696449a8c5c4c1e36b702c61176c82c6832cd929a",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:18:55.039Z",
+  "content_hash": "8b96efa8a6ff18ddcc921d1b443174e1e39cc13ead3aee87621d4cbbc12967d5",
+  "article_path": "articles/205416736b7e7aa9.md",
+  "fetched_url": "https://x.com/deepseek_ai/status/2121247896918253875",
+  "source_path": "sources/articles/deepseek-opens-full-app-experience-via-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:21:29.689Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

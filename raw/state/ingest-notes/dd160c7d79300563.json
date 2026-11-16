@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-in-inbox.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "帖文提到 Muse 团队更依赖“Agent Swarms”而非仪表盘，与该主题名称相关。",
+    "topics/agent-in-inbox.md": "帖文描述 Agent 接入邮箱与日历，属于 Agent 进收件箱场景。",
+    "topics/ai-native-companies.md": "Meta 作为大厂打造原生 AI 消费品 Muse，与 AI 原生公司主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Muse 团队更依赖“Agent Swarms”而非仪表盘，与该主题名称相关。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Agent 接入邮箱与日历，属于 Agent 进收件箱场景。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Meta 作为大厂打造原生 AI 消费品 Muse，与 AI 原生公司主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来自提供的 X 帖文文本，未引入外部信息。"
+}

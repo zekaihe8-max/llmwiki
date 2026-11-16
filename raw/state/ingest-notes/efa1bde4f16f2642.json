@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-identity-platform-keys.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-identity-platform-keys.md": "涉及 Agent 身份与平台凭据，与安全支付凭据隔离相关",
+    "topics/premium-ai-subscription-value.md": "涉及 Pro 订阅者权益与高端订阅价值",
+    "topics/agent-auto-mode.md": "涉及 Agent 代表用户执行操作的自动化模式"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 身份与平台凭据，与安全支付凭据隔离相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 Pro 订阅者权益与高端订阅价值"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 代表用户执行操作的自动化模式"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章仅为 X 平台帖文片段，未披露推出地区与完整资格细节。"
+}

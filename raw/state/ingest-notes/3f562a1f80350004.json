@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "与 AI 评测入口和记录最相关，但本条仅转发 Anthropic 建议，故保持不变。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区评测与刷分，与官方安全评估建议主题相近，但无需新增内容。",
+    "topics/public-benchmark-quality-scrutiny.md": "关注公开榜单质量，与安全评估方法论相关，现有条目已覆盖，保持不变。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "涉及智能评估基准哲学，与安全评估讨论相邻，但本条不涉及基准批判，故不修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "与 AI 评测入口和记录最相关，但本条仅转发 Anthropic 建议，故保持不变。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区评测与刷分，与官方安全评估建议主题相近，但无需新增内容。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "关注公开榜单质量，与安全评估方法论相关，现有条目已覆盖，保持不变。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "涉及智能评估基准哲学，与安全评估讨论相邻，但本条不涉及基准批判，故不修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来自所获取的 X 帖文；日期 2026 年 11 月 13 日为帖文显示时间。"
+}
