@@ -1,0 +1,23 @@
+{
+  "slug": "7dffefb712069f5d",
+  "url": "https://api-docs.deepseek.com/guides/build_a_chatbot",
+  "title": "文档",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "7dffefb712069f5d5089d784de9a3374563df64d806ce5921637cd7e3dbd39ed",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:18:55.516Z",
+  "content_hash": "1796ebd94b2fa54424bb66bd4f088caf8d90c107b5e628225cd1020485a50ab6",
+  "article_path": "articles/7dffefb712069f5d.md",
+  "fetched_url": "https://api-docs.deepseek.com/guides/build_a_chatbot/",
+  "source_path": "sources/articles/build-a-chatbot.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:22:17.387Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

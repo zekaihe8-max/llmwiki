@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "公开信对象为 NVIDIA 董事会，核心人物黄仁勋与 GPU AI 算力直接相关",
+    "topics/china-open-source-lead-us-compute.md": "NVIDIA 象征美国算力优势，帖文呼吁支持其领导人，触及算力领导权语境",
+    "topics/ai-native-companies.md": "发帖人阿玛德·马萨德是 Replit 创始人，Replit 属于 AI 原生公司范畴"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "公开信对象为 NVIDIA 董事会，核心人物黄仁勋与 GPU AI 算力直接相关"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "NVIDIA 象征美国算力优势，帖文呼吁支持其领导人，触及算力领导权语境"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "发帖人阿玛德·马萨德是 Replit 创始人，Replit 属于 AI 原生公司范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅依据提供的 X 帖文摘要，未引用外部信息；帖文所示日期为 2026 年。"
+}

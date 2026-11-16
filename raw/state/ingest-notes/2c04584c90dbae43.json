@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文围绕生成可上传视频的 /animatic 技能，与智能体视频剪辑主题相关。",
+    "topics/agent-skill-authoring.md": "帖文明确介绍两个名为 /setup-animatic 与 /animatic 的技能，涉及技能编写与使用。",
+    "topics/skills-stack-native-app-recreation.md": "帖文以“技能”形式组织工具与工作流，与 Skills 组合主题相近。",
+    "topics/ux-dx-and-ax.md": "帖文涉及开发者工具链设置与使用体验，触及 DX 与工具可用性。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文围绕生成可上传视频的 /animatic 技能，与智能体视频剪辑主题相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确介绍两个名为 /setup-animatic 与 /animatic 的技能，涉及技能编写与使用。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "帖文以“技能”形式组织工具与工作流，与 Skills 组合主题相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文涉及开发者工具链设置与使用体验，触及 DX 与工具可用性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新建；所有事实仅来自所获取帖文。"
+}

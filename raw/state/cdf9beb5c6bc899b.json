@@ -1,0 +1,23 @@
+{
+  "slug": "cdf9beb5c6bc899b",
+  "url": "https://www.langchain.com/blog/series-c",
+  "title": "博文",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "cdf9beb5c6bc899b6315dda85e3babae51be3fdf043b012f6e00bd84c48c73e3",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:01.076Z",
+  "content_hash": "90efec29ddb13c3b30c84c153f275415b46f6164e731a4560cd31c95c8d7c26a",
+  "article_path": "articles/cdf9beb5c6bc899b.md",
+  "fetched_url": "https://www.langchain.com/blog/series-c",
+  "source_path": "sources/articles/langchain-raises-300m-series-c.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:28:48.935Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

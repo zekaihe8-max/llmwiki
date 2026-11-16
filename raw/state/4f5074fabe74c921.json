@@ -1,0 +1,23 @@
+{
+  "slug": "4f5074fabe74c921",
+  "url": "https://github.com/deepseek-ai/chat-demo",
+  "title": "代码",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "4f5074fabe74c921c49afd2ba571e6cea5a0ae299c828791ef858ccf01e43bc8",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:18:58.796Z",
+  "content_hash": "3496b9a6d5b51868f535cd7ebd1fa6285b7035687acac1fd9227fc07523a9d0b",
+  "article_path": "articles/4f5074fabe74c921.md",
+  "fetched_url": "https://github.com/deepseek-ai/chat-demo",
+  "source_path": "sources/articles/deepseek-chat-demo-static-web-page-directly-connecting-to-api-fo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:27:34.311Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

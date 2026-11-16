@@ -1,0 +1,23 @@
+{
+  "slug": "1a26093fab6bec8b",
+  "url": "https://x.com/rauchg/status/2121711321347715093",
+  "title": "交付",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "1a26093fab6bec8bce7a6e83b5c0aa04374be3e6d46d884a600078062ca76e73",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:08.716Z",
+  "content_hash": "d114f31c7aebc1dfa4d760ec9c9de4efa3eb09be75e7127d2af31123d0aa9d2d",
+  "article_path": "articles/1a26093fab6bec8b.md",
+  "fetched_url": "https://x.com/rauchg/status/2121711321347715093",
+  "source_path": "sources/articles/how-agents-ship-all-code-feature-gates-push-verification-and-met.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:59:11.067Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

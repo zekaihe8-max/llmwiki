@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:44:58.787Z",
+  "url": "https://x.com/mitchellh/status/2121681502316757065",
+  "slug": "167eb2df5d85feed",
+  "content_hash": "3d407a753f0830cad19acdd39fff85d173df3fe0a143219343ead0366d07cadd",
+  "source": {
+    "path": "sources/articles/mitchell-don-t-make-demoslop.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "帖文对比 AI 生成的低质量软件与精心打磨的软件，与该主题的代码质量讨论相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文强调 fit and finish 与精心打磨，属于用户体验与软件工艺范畴。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "“demoslop”与无趣提示词的批判，涉及 vibe coding 风格下的软件质量问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "帖文对比 AI 生成的低质量软件与精心打磨的软件，与该主题的代码质量讨论相近。",
+    "topics/vibe-coding-memory-paradox.md": "“demoslop”与无趣提示词的批判，涉及 vibe coding 风格下的软件质量问题。",
+    "topics/ux-dx-and-ax.md": "帖文强调 fit and finish 与精心打磨，属于用户体验与软件工艺范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mitchell-don-t-make-demoslop.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-code-vs-messy-code-double-standard.md": "帖文对比 AI 生成的低质量软件与精心打磨的软件，与该主题的代码质量讨论相近。",
+      "topics/vibe-coding-memory-paradox.md": "“demoslop”与无趣提示词的批判，涉及 vibe coding 风格下的软件质量问题。",
+      "topics/ux-dx-and-ax.md": "帖文强调 fit and finish 与精心打磨，属于用户体验与软件工艺范畴。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mitchell-don-t-make-demoslop.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

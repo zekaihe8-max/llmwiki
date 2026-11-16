@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:43:55.298Z",
+  "url": "https://x.com/rauchg/status/2121739228698886454",
+  "slug": "7c3c4514fe4db814",
+  "content_hash": "057f5b2f812a9d44e83470b67a0a2834b32981f54f8916553d5db7dd06c9d322",
+  "source": {
+    "path": "sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 ~/.fx/AGENTS.md 一行指令，涉及项目指令与 Token 效率。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "关联帖文提到 Token Pass 与 48.0% 更小的工具定义，属于编程 Agent 省 Token 工具范畴。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文核心是子智能体与主循环/规划的分工，与该主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "帖文核心是子智能体与主循环/规划的分工，与该主题直接相关。",
+    "topics/agents-md-token-efficiency.md": "帖文明确提到 ~/.fx/AGENTS.md 一行指令，涉及项目指令与 Token 效率。",
+    "topics/coding-agent-token-saving-tooling.md": "关联帖文提到 Token Pass 与 48.0% 更小的工具定义，属于编程 Agent 省 Token 工具范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "帖文核心是子智能体与主循环/规划的分工，与该主题直接相关。",
+      "topics/agents-md-token-efficiency.md": "帖文明确提到 ~/.fx/AGENTS.md 一行指令，涉及项目指令与 Token 效率。",
+      "topics/coding-agent-token-saving-tooling.md": "关联帖文提到 Token Pass 与 48.0% 更小的工具定义，属于编程 Agent 省 Token 工具范畴。"
+    },
+    "notes": "来源为 X 帖文及其关联的 Vercel Developers 帖文，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

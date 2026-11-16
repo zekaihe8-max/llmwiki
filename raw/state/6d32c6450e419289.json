@@ -1,0 +1,23 @@
+{
+  "slug": "6d32c6450e419289",
+  "url": "https://claude.dev/blog/which-claude-model-should-you-build-with",
+  "title": "官方文",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "6d32c6450e41928930d3848121a649cb3f463c8d731483e288a738f8bfe38949",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:10.953Z",
+  "content_hash": "1686448160e47be95b9222ce1c1ad5bc2462f92d868a5d897ae716b151b6287c",
+  "article_path": "articles/6d32c6450e419289.md",
+  "fetched_url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+  "source_path": "sources/articles/which-claude-model-should-you-build-with-fable-opus-sonnet-or-ha.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:50:38.366Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

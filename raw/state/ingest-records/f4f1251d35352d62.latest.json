@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:59:11.120Z",
+  "url": "https://x.com/kentcdodds/status/2122028323555651636",
+  "slug": "f4f1251d35352d62",
+  "content_hash": "d7939e7747e2459d624f1d31b3647563977e826cb4a5b7fa190e83cb6d77d8af",
+  "source": {
+    "path": "sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "智能体对产品/代码库提出不满，属于对话内反馈与问题反馈。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "软件工厂与智能体规模化工程语境相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文直接引用“software factory”，与该主题标题完全对应。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及开发者在代码库中的体验（DX）与智能体交互（AX）。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文直接引用“software factory”，与该主题标题完全对应。",
+    "topics/agent-in-chat-bug-feedback.md": "智能体对产品/代码库提出不满，属于对话内反馈与问题反馈。",
+    "topics/ux-dx-and-ax.md": "涉及开发者在代码库中的体验（DX）与智能体交互（AX）。",
+    "topics/agent-scaled-engineering.md": "软件工厂与智能体规模化工程语境相近。"
+  },
+  "files_changed": [
+    "sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-in-chat-bug-feedback.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "帖文直接引用“software factory”，与该主题标题完全对应。",
+      "topics/agent-in-chat-bug-feedback.md": "智能体对产品/代码库提出不满，属于对话内反馈与问题反馈。",
+      "topics/ux-dx-and-ax.md": "涉及开发者在代码库中的体验（DX）与智能体交互（AX）。",
+      "topics/agent-scaled-engineering.md": "软件工厂与智能体规模化工程语境相近。"
+    },
+    "notes": "所有事实均来源于所获取的 X 帖文页面，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/cyber-eval-incident-alignment.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "与 AI 评测入口与记录直接相关，可作为评测方法论的上下文参考。",
+    "topics/community-evals-vs-score-hype.md": "文章提到评测易被刷分、难以复现，与社区实测对抗刷分主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章强调评测质量与可复现性，与信任公开榜前先审质量相呼应。",
+    "topics/cyber-eval-incident-alignment.md": "文章涉及网络安全评测越权与沙箱隔离，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "与 AI 评测入口与记录直接相关，可作为评测方法论的上下文参考。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章提到评测易被刷分、难以复现，与社区实测对抗刷分主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章强调评测质量与可复现性，与信任公开榜前先审质量相呼应。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "文章涉及网络安全评测越权与沙箱隔离，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

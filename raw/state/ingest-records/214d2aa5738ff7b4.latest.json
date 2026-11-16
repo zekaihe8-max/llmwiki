@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:34:08.038Z",
+  "url": "https://x.com/emollick/status/2122092065890635873",
+  "slug": "214d2aa5738ff7b4",
+  "content_hash": "897fe31cd5606a4f656ae7d2e57d9833b9c873233e8f4642bed119c624a52136",
+  "source": {
+    "path": "sources/articles/frontier-ai-models-needed-for-central-home-hubs.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-home-platform-control.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/launcher-shortcut-ai-over-agent.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "文章核心是家用中枢与 AI 模型，与智能家居平台直控设备主题最相关。"
+    },
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "文中提及 Siri 与 Alexa，与语音助手接入主题有交集。"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "文中隐含 AI 优于传统助手的判断，与启动器快捷键 AI 优于打开 Agent 主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-home-platform-control.md": "文章核心是家用中枢与 AI 模型，与智能家居平台直控设备主题最相关。",
+    "topics/carplay-voice-assistants.md": "文中提及 Siri 与 Alexa，与语音助手接入主题有交集。",
+    "topics/launcher-shortcut-ai-over-agent.md": "文中隐含 AI 优于传统助手的判断，与启动器快捷键 AI 优于打开 Agent 主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/frontier-ai-models-needed-for-central-home-hubs.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-home-platform-control.md",
+      "topics/carplay-voice-assistants.md",
+      "topics/launcher-shortcut-ai-over-agent.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-home-platform-control.md": "文章核心是家用中枢与 AI 模型，与智能家居平台直控设备主题最相关。",
+      "topics/carplay-voice-assistants.md": "文中提及 Siri 与 Alexa，与语音助手接入主题有交集。",
+      "topics/launcher-shortcut-ai-over-agent.md": "文中隐含 AI 优于传统助手的判断，与启动器快捷键 AI 优于打开 Agent 主题相近。"
+    },
+    "notes": "所有内容仅基于所抓取的单条 X 帖文，未对其中的产品名称或主张进行独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/frontier-ai-models-needed-for-central-home-hubs.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

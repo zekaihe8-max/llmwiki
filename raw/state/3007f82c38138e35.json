@@ -1,0 +1,23 @@
+{
+  "slug": "3007f82c38138e35",
+  "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+  "title": "博文",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "3007f82c38138e35a867a29ae62a63cadd6cb4e944986e5bbf466d9a9bdf3d7d",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:01.562Z",
+  "content_hash": "abc8063b14e11967c0c3c2a56dfce2a2e484da30f96570ca0e64a8e68b0b6748",
+  "article_path": "articles/3007f82c38138e35.md",
+  "fetched_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+  "source_path": "sources/articles/building-strong-safety-evaluations.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:30:34.688Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

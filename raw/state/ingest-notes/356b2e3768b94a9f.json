@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "涉及 AI 算力巨头的公司治理与 CEO 继任问题，与文章主题相近，但无需修改。",
+    "topics/gpu-ai-compute-unlock.md": "英伟达是 GPU/AI 算力核心公司，文章围绕其领导层变动，主题相关但现有条目无需变动。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "文章涉及创始人离任、临时继任与可能回归，属先驱离任与继任话题，现有条目已覆盖，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力巨头的公司治理与 CEO 继任问题，与文章主题相近，但无需修改。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "英伟达是 GPU/AI 算力核心公司，文章围绕其领导层变动，主题相关但现有条目无需变动。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "文章涉及创始人离任、临时继任与可能回归，属先驱离任与继任话题，现有条目已覆盖，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所提供帖文与嵌入推文，未引入外部事实。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "3f562a1f80350004",
+  "url": "https://x.com/AnthropicAI/status/2121317227618340990",
+  "title": "Anthropic",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "3f562a1f8035000431c885772578bbc352e9baf5dc0c4881475d980cb0ad3aab",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:01.146Z",
+  "content_hash": "b1e9e0fab5e7bfe82195cf087f05b8a9fd2159b30144bcbdc558ed03927addfb",
+  "article_path": "articles/3f562a1f80350004.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2121317227618340990",
+  "source_path": "sources/articles/anthropic-shares-10-ai-safety-evaluation-recommendations.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:29:59.161Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:35:00.617Z",
+  "url": "https://x.com/levie/status/2121686564078297461",
+  "slug": "2a58b9ec37908e63",
+  "content_hash": "9b0021fc4491f06909a2fd52a6062cd2263e84c6a3e3860329d4a39c69404dc2",
+  "source": {
+    "path": "sources/articles/levie-work-becomes-coding-shaped.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/computer-use.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体使用软件与生成代码的能力，属于智能体 AI 的基础能力范畴。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文指出智能体在知识工作中的加速将持续增加，涉及 AI 任务时界与能力扩展。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文多次提及工具与计算机使用，直接对应“Computer Use”主题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调智能体需在工作流中结合领域专业知识做出判断，与“工作流优先于智能体”直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文强调智能体需在工作流中结合领域专业知识做出判断，与“工作流优先于智能体”直接相关。",
+    "topics/agentic-ai-foundation.md": "帖文讨论智能体使用软件与生成代码的能力，属于智能体 AI 的基础能力范畴。",
+    "topics/computer-use.md": "帖文多次提及工具与计算机使用，直接对应“Computer Use”主题。",
+    "topics/ai-task-horizon-growth.md": "帖文指出智能体在知识工作中的加速将持续增加，涉及 AI 任务时界与能力扩展。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/levie-work-becomes-coding-shaped.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/computer-use.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "帖文强调智能体需在工作流中结合领域专业知识做出判断，与“工作流优先于智能体”直接相关。",
+      "topics/agentic-ai-foundation.md": "帖文讨论智能体使用软件与生成代码的能力，属于智能体 AI 的基础能力范畴。",
+      "topics/computer-use.md": "帖文多次提及工具与计算机使用，直接对应“Computer Use”主题。",
+      "topics/ai-task-horizon-growth.md": "帖文指出智能体在知识工作中的加速将持续增加，涉及 AI 任务时界与能力扩展。"
+    },
+    "notes": "Source is a single X post by Aaron Levie; no external verification performed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/levie-work-becomes-coding-shaped.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

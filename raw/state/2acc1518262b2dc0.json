@@ -1,0 +1,23 @@
+{
+  "slug": "2acc1518262b2dc0",
+  "url": "https://x.com/steipete/status/2121058770767982997",
+  "title": "Steinberger",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "2acc1518262b2dc065fd50aaca33e965a818152f91777396afd2b437a737832d",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:04.905Z",
+  "content_hash": "b813bcab910ffd5fb5cbea7f9e74b5d8c21af60a9dac27b277bfab6a816352c8",
+  "article_path": "articles/2acc1518262b2dc0.md",
+  "fetched_url": "https://x.com/steipete/status/2121058770767982997",
+  "source_path": "sources/articles/steinberger-running-persistent-agents-inside-openai.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:35:58.509Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

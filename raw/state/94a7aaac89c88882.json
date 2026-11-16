@@ -1,0 +1,23 @@
+{
+  "slug": "94a7aaac89c88882",
+  "url": "https://x.com/Google/status/2121293823837921433",
+  "title": "Google",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "94a7aaac89c88882b7b16b066d48b7033f76f10ca666e7d1d328799efa8c5732",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:18:54.535Z",
+  "content_hash": "3071bad3fd93b2bbdbaecaeed8b52d81109b8083e977bd2192af5b0ed375c273",
+  "article_path": "articles/94a7aaac89c88882.md",
+  "fetched_url": "https://x.com/Google/status/2121293823837921433",
+  "source_path": "sources/articles/gemini-integrates-google-wallet-for-personal-finance-insights.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:20:59.930Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

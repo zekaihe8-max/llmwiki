@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文提到智能体可在后台无需人工干预地主动行动，与“智能体自动模式”主题直接相关。",
+    "topics/company-agent-harness.md": "帖文强调持久智能体部署对企业 IT 构成重大挑战，与公司级 Agent Harness 主题相关。",
+    "topics/agent-scaled-engineering.md": "帖文涉及团队在 OpenAI 内运行持久智能体的工程实践，与智能体规模化工程主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到智能体可在后台无需人工干预地主动行动，与“智能体自动模式”主题直接相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文强调持久智能体部署对企业 IT 构成重大挑战，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文涉及团队在 OpenAI 内运行持久智能体的工程实践，与智能体规模化工程主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于 X 帖文，未独立核实。"
+}

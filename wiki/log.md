@@ -1,3 +1,79 @@
+## 2026-11-16
+
+* **创建 / Creation**: 归档 [软件工厂的秘密：让 Agent 抱怨产品与代码库](./sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md)。 / Filed [The secret to the software factory: make agents complain about your product and codebase](./sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md).
+
+* **创建 / Creation**: 归档 [少发提示](./sources/articles/send-fewer-prompts.md)。 / Filed [Send Fewer Prompts](./sources/articles/send-fewer-prompts.md).
+
+* **创建 / Creation**: 归档 [No AI Slop Manifesto：人类判断不可被 AI 取代](./sources/articles/no-ai-slop-manifesto-human-judgment-cannot-be-replaced-by-ai.md)。 / Filed [No AI Slop Manifesto: Human Judgment Cannot Be Replaced by AI](./sources/articles/no-ai-slop-manifesto-human-judgment-cannot-be-replaced-by-ai.md).
+
+* **创建 / Creation**: 归档 [Matt · /animatic](./sources/articles/matt-animatic.md)。 / Filed [Matt · /animatic](./sources/articles/matt-animatic.md).
+
+* **创建 / Creation**: 归档 [Vox · 过夜任务别卡死在一步](./sources/articles/vox-don-t-let-overnight-tasks-get-stuck-on-one-step.md)。 / Filed [Vox · Don't let overnight tasks get stuck on one step](./sources/articles/vox-don-t-let-overnight-tasks-get-stuck-on-one-step.md).
+
+* **创建 / Creation**: 归档 [Vox · 预览链接直接开到手机上](./sources/articles/vox-preview-links-open-directly-on-phone.md)。 / Filed [Vox · Preview links open directly on phone](./sources/articles/vox-preview-links-open-directly-on-phone.md).
+
+* **创建 / Creation**: 归档 [双向门](./sources/articles/two-way-door.md)。 / Filed [Two-Way Door](./sources/articles/two-way-door.md).
+
+* **创建 / Creation**: 归档 [六段提示：把 Fable 5.2 当实习生用](./sources/articles/six-prompts-use-fable-5-2-like-an-intern.md)。 / Filed [Six Prompts: Use Fable 5.2 Like an Intern](./sources/articles/six-prompts-use-fable-5-2-like-an-intern.md).
+
+* **创建 / Creation**: 归档 [Claude 模型选型指南：Haiku、Sonnet、Opus 与 Fable 如何选择](./sources/articles/which-claude-model-should-you-build-with-fable-opus-sonnet-or-ha.md)。 / Filed [Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku](./sources/articles/which-claude-model-should-you-build-with-fable-opus-sonnet-or-ha.md).
+
+* **创建 / Creation**: 归档 [Addy Osmani：先加思考再换模型——Opus 5.5 日常够用，Fable 5.2 留给硬骨头](./sources/articles/addy-osmani-raise-effort-before-switching-models-opus-5-5-for-da.md)。 / Filed [Addy Osmani: Raise Effort Before Switching Models — Opus 5.5 for Daily Coding, Fable 5.2 for Hard Tasks](./sources/articles/addy-osmani-raise-effort-before-switching-models-opus-5-5-for-da.md).
+
+* **创建 / Creation**: 归档 [Mitchell · 别做 demoslop](./sources/articles/mitchell-don-t-make-demoslop.md)。 / Filed [Mitchell · Don't Make Demoslop](./sources/articles/mitchell-don-t-make-demoslop.md).
+
+* **创建 / Creation**: 归档 [智能体交付全部代码：特性门控、推送验证与指标监控](./sources/articles/how-agents-ship-all-code-feature-gates-push-verification-and-met.md)。 / Filed [How Agents Ship All Code: Feature Gates, Push Verification, and Metrics Monitoring](./sources/articles/how-agents-ship-all-code-feature-gates-push-verification-and-met.md).
+
+* **创建 / Creation**: 归档 [fx.sh 子智能体与 AGENTS.md 一行指令](./sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md)。 / Filed [fx.sh Subagents and One-Line AGENTS.md Instruction](./sources/articles/fx-sh-subagents-and-one-line-agents-md-instruction.md).
+
+* **创建 / Creation**: 归档 [Lenny · 科技岗位在向湾区集中](./sources/articles/lenny-tech-jobs-are-concentrating-in-the-bay-area.md)。 / Filed [Lenny · Tech jobs are concentrating in the Bay Area](./sources/articles/lenny-tech-jobs-are-concentrating-in-the-bay-area.md).
+
+* **创建 / Creation**: 归档 [Lenny · Muse 的来历](./sources/articles/lenny-the-origin-of-muse.md)。 / Filed [Lenny · The Origin of Muse](./sources/articles/lenny-the-origin-of-muse.md).
+
+* **创建 / Creation**: 归档 [Chase · 目标工程](./sources/articles/chase-goal-engineering-2.md)。 / Filed [Chase · Goal Engineering](./sources/articles/chase-goal-engineering-2.md).
+
+* **创建 / Creation**: 归档 [OpenAI 分享管理持久化智能体 OpenClaw 的最佳实践](./sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md)。 / Filed [OpenAI Shares Best Practices for Managing Persistent Agents Like OpenClaw](./sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md).
+
+* **创建 / Creation**: 归档 [斯坦伯格：在 OpenAI 内运行持久智能体](./sources/articles/steinberger-running-persistent-agents-inside-openai.md)。 / Filed [Steinberger: Running Persistent Agents Inside OpenAI](./sources/articles/steinberger-running-persistent-agents-inside-openai.md).
+
+* **创建 / Creation**: 归档 [Chollet · 年初那场 SaaS 恐慌](./sources/articles/chollet-the-early-year-saas-panic-was-bs.md)。 / Filed [Chollet · The Early-Year SaaS Panic Was BS](./sources/articles/chollet-the-early-year-saas-panic-was-bs.md).
+
+* **创建 / Creation**: 归档 [Levie · 工作会往“像写代码”靠](./sources/articles/levie-work-becomes-coding-shaped.md)。 / Filed [Levie · Work Becomes Coding-Shaped](./sources/articles/levie-work-becomes-coding-shaped.md).
+
+* **创建 / Creation**: 归档 [Lambert · 没有老黄之后的开源模型](./sources/articles/lambert-open-models-in-a-post-jensen-world.md)。 / Filed [Lambert · Open Models in a Post-Jensen World](./sources/articles/lambert-open-models-in-a-post-jensen-world.md).
+
+* **创建 / Creation**: 归档 [家用中枢亟需前沿 AI 模型](./sources/articles/frontier-ai-models-needed-for-central-home-hubs.md)。 / Filed [Frontier AI models needed for central home hubs](./sources/articles/frontier-ai-models-needed-for-central-home-hubs.md).
+
+* **创建 / Creation**: 归档 [宾大生成式AI工作室学生项目：个人用AI可达三年前团队水平的十倍](./sources/articles/penn-generative-ai-studio-student-projects-individuals-with-ai-r.md)。 / Filed [Penn Generative AI Studio Student Projects: Individuals with AI Reach 10x Three-Year-Old Team Level](./sources/articles/penn-generative-ai-studio-student-projects-individuals-with-ai-r.md).
+
+* **创建 / Creation**: 归档 [复原课堂：Agent 群搜索互联网档案馆重建奥登诗歌课](./sources/articles/reconstructing-the-classroom-agent-swarms-search-internet-archiv.md)。 / Filed [Reconstructing the Classroom: Agent Swarms Search Internet Archive to Rebuild Auden's Poetry Class](./sources/articles/reconstructing-the-classroom-agent-swarms-search-internet-archiv.md).
+
+* **创建 / Creation**: 归档 [AI 进步快于衡量：SatBench 显示 63% 实验室引用基准已饱和](./sources/articles/ai-is-getting-better-faster-than-our-measurements-are-satbench-s.md)。 / Filed [AI Is Getting Better Faster Than Our Measurements Are: SatBench Shows 63% of Lab-Cited Benchmarks Saturated](./sources/articles/ai-is-getting-better-faster-than-our-measurements-are-satbench-s.md).
+
+* **创建 / Creation**: 归档 [阿玛德·马萨德转发“支持黄仁勋”致 NVIDIA 董事会公开信](./sources/articles/amjad-masad-shares-stand-with-jensen-open-letter-to-nvidia-board.md)。 / Filed [Amjad Masad Shares 'Stand with Jensen' Open Letter to NVIDIA Board](./sources/articles/amjad-masad-shares-stand-with-jensen-open-letter-to-nvidia-board.md).
+
+* **创建 / Creation**: 归档 [黄仁勋考虑回归英伟达 CEO，超 10 万人签公开信支持](./sources/articles/jensen-huang-considers-returning-as-nvidia-ceo-over-100-000-sign.md)。 / Filed [Jensen Huang considers returning as Nvidia CEO, over 100,000 sign open letter in support](./sources/articles/jensen-huang-considers-returning-as-nvidia-ceo-over-100-000-sign.md).
+
+* **创建 / Creation**: 归档 [构建强大的 AI 安全评测](./sources/articles/building-strong-safety-evaluations.md)。 / Filed [Building strong safety evaluations](./sources/articles/building-strong-safety-evaluations.md).
+
+* **创建 / Creation**: 归档 [Anthropic 发布 10 条 AI 安全评估建议](./sources/articles/anthropic-shares-10-ai-safety-evaluation-recommendations.md)。 / Filed [Anthropic Shares 10 AI Safety Evaluation Recommendations](./sources/articles/anthropic-shares-10-ai-safety-evaluation-recommendations.md).
+
+* **创建 / Creation**: 归档 [LangChain 获得 3 亿美元 C 轮融资](./sources/articles/langchain-raises-300m-series-c.md)。 / Filed [LangChain Raises $300M Series C](./sources/articles/langchain-raises-300m-series-c.md).
+
+* **创建 / Creation**: 归档 [LangChain 宣布 3 亿美元 C 轮融资，估值 30 亿美元](./sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md)。 / Filed [LangChain Raises $300M Series C at $3B Valuation](./sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Chat Demo：静态网页直连 API 的对话演示](./sources/articles/deepseek-chat-demo-static-web-page-directly-connecting-to-api-fo.md)。 / Filed [DeepSeek Chat Demo: Static Web Page Directly Connecting to API for Chat Demonstration](./sources/articles/deepseek-chat-demo-static-web-page-directly-connecting-to-api-fo.md).
+
+* **创建 / Creation**: 归档 [构建聊天机器人](./sources/articles/build-a-chatbot.md)。 / Filed [Build a Chatbot](./sources/articles/build-a-chatbot.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 将 App 完整能力开放为 API](./sources/articles/deepseek-opens-full-app-experience-via-api.md)。 / Filed [DeepSeek Opens Full App Experience via API](./sources/articles/deepseek-opens-full-app-experience-via-api.md).
+
+* **创建 / Creation**: 归档 [Gemini 接入 Google Wallet，提供个人理财洞察](./sources/articles/gemini-integrates-google-wallet-for-personal-finance-insights.md)。 / Filed [Gemini Integrates Google Wallet for Personal Finance Insights](./sources/articles/gemini-integrates-google-wallet-for-personal-finance-insights.md).
+
+* **创建 / Creation**: 归档 [ChatGPT Wallet 面向 Pro 用户推出，Agent 可代为安全购买](./sources/articles/chatgpt-wallet-rolls-out-to-pro-users-letting-agents-make-secure.md)。 / Filed [ChatGPT Wallet Rolls Out to Pro Users, Letting Agents Make Secure Purchases](./sources/articles/chatgpt-wallet-rolls-out-to-pro-users-letting-agents-make-secure.md).
+
+* **创建 / Creation**: 归档 [ChatGPT Wallet 面向美国 Pro 用户推出，支持代理安全代付](./sources/articles/chatgpt-wallet-rolls-out-to-us-pro-users-letting-agents-pay-secu.md)。 / Filed [ChatGPT Wallet rolls out to US Pro users, letting agents pay securely on behalf](./sources/articles/chatgpt-wallet-rolls-out-to-us-pro-users-letting-agents-pay-secu.md).
+
 ## 2026-11-15
 
 * **创建 / Creation**: 归档 [Claude 规划，GPT 写后端，Codex 审三轮：个人 Agent 派活工作流](./sources/articles/claude-plans-gpt-writes-backend-codex-reviews-up-to-three-rounds.md)。 / Filed [Claude plans, GPT writes backend, Codex reviews up to three rounds: personal agent dispatch workflow](./sources/articles/claude-plans-gpt-writes-backend-codex-reviews-up-to-three-rounds.md).

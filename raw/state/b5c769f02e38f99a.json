@@ -1,0 +1,23 @@
+{
+  "slug": "b5c769f02e38f99a",
+  "url": "https://x.com/kentcdodds/status/2122069021218750527",
+  "title": "少发提示",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "b5c769f02e38f99af13fed7d9dabcaac3ec47e5e1fb4dd84879ca36e0212a91a",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:13.059Z",
+  "content_hash": "6f50b88c11ad4df09cd09a3697975cf92a55a1aadaab826c82f9a91d83fd8ecb",
+  "article_path": "articles/b5c769f02e38f99a.md",
+  "fetched_url": "https://x.com/kentcdodds/status/2122069021218750527",
+  "source_path": "sources/articles/send-fewer-prompts.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:55:00.890Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

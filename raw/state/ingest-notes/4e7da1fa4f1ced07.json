@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/agent-auto-mode.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章聚焦支付安全、卡片信息保护与交易校验，与该主题直接相关。",
+    "topics/agent-auto-mode.md": "内容涉及代理（agent）代为执行付款，属于智能体自动化场景。",
+    "topics/premium-ai-subscription-value.md": "功能仅面向美国 Pro 订阅用户推出，涉及高端订阅产品定位。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章聚焦支付安全、卡片信息保护与交易校验，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "内容涉及代理（agent）代为执行付款，属于智能体自动化场景。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "功能仅面向美国 Pro 订阅用户推出，涉及高端订阅产品定位。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新建。"
+}

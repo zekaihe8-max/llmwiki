@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:32:58.120Z",
+  "url": "https://x.com/emollick/status/2121641417483169934",
+  "slug": "28d81e03d71e0808",
+  "content_hash": "054b96af23a866a6965fb4c545be485c5f899978a2344bc15eb12141b266bb12",
+  "source": {
+    "path": "sources/articles/reconstructing-the-classroom-agent-swarms-search-internet-archiv.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-native-web-search.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Agent 反复全文搜索互联网档案馆，属于面向 Agent 的联网搜索行为。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文核心提及“agent swarms doing research”，与该主题的 Agent 群落最相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Fable 5.2 执行课堂重建属于 Agentic AI 应用，与该基础主题相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "涉及多智能体协同完成研究任务，与多智能体基建问题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "帖文核心提及“agent swarms doing research”，与该主题的 Agent 群落最相关。",
+    "topics/agent-native-web-search.md": "帖文描述 Agent 反复全文搜索互联网档案馆，属于面向 Agent 的联网搜索行为。",
+    "topics/multiagent-infra-four-problems.md": "涉及多智能体协同完成研究任务，与多智能体基建问题相近。",
+    "topics/agentic-ai-foundation.md": "Fable 5.2 执行课堂重建属于 Agentic AI 应用，与该基础主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/reconstructing-the-classroom-agent-swarms-search-internet-archiv.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/agent-native-web-search.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "帖文核心提及“agent swarms doing research”，与该主题的 Agent 群落最相关。",
+      "topics/agent-native-web-search.md": "帖文描述 Agent 反复全文搜索互联网档案馆，属于面向 Agent 的联网搜索行为。",
+      "topics/multiagent-infra-four-problems.md": "涉及多智能体协同完成研究任务，与多智能体基建问题相近。",
+      "topics/agentic-ai-foundation.md": "Fable 5.2 执行课堂重建属于 Agentic AI 应用，与该基础主题相关。"
+    },
+    "notes": "所有主张均基于提供的帖文 markdown，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/reconstructing-the-classroom-agent-swarms-search-internet-archiv.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:52:09.464Z",
+  "url": "https://x.com/Voxyz_ai/status/2121672008421568810",
+  "slug": "96b89df3f8746ca2",
+  "content_hash": "0a685395beead04ef57c3ecb85aba95be8b1ad2dffb3ecf7b3546a208af5edef",
+  "source": {
+    "path": "sources/articles/two-way-door.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-worktree-cleanup.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/one-question-at-a-time.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "都涉及 AGENTS.md 中对代理行为的约束与清理规则。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "同样属于项目指令（AGENTS.md）类主题，与本文的 AGENTS.md 建议相近。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文把品味与产品决策留给人类判断，与人类设计关卡/审查门的思路相近。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "帖文中“一次只问一个问题”的建议与该主题直接对应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-worktree-cleanup.md": "都涉及 AGENTS.md 中对代理行为的约束与清理规则。",
+    "topics/agents-md-token-efficiency.md": "同样属于项目指令（AGENTS.md）类主题，与本文的 AGENTS.md 建议相近。",
+    "topics/one-question-at-a-time.md": "帖文中“一次只问一个问题”的建议与该主题直接对应。",
+    "topics/divergent-tasks-human-design-gate.md": "帖文把品味与产品决策留给人类判断，与人类设计关卡/审查门的思路相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/two-way-door.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-worktree-cleanup.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/one-question-at-a-time.md",
+      "topics/divergent-tasks-human-design-gate.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-worktree-cleanup.md": "都涉及 AGENTS.md 中对代理行为的约束与清理规则。",
+      "topics/agents-md-token-efficiency.md": "同样属于项目指令（AGENTS.md）类主题，与本文的 AGENTS.md 建议相近。",
+      "topics/one-question-at-a-time.md": "帖文中“一次只问一个问题”的建议与该主题直接对应。",
+      "topics/divergent-tasks-human-design-gate.md": "帖文把品味与产品决策留给人类判断，与人类设计关卡/审查门的思路相近。"
+    },
+    "notes": "来源为 X 帖文，未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/two-way-door.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

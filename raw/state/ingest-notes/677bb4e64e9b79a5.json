@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "文章核心观点是AI让个人产出远超过去团队，直接对应AI任务时界增长。",
+    "topics/vibe-coding-memory-paradox.md": "学生用AI进行创意制作，涉及AI辅助创作与编程的记忆/上下文语境。",
+    "topics/raise-ambition-until-ai-frontier.md": "创意人士用AI把项目目标抬得更高，与将野心提升至AI前沿相关。",
+    "topics/ai-native-companies.md": "个人以AI完成原本需团队协作才能达成的工作，体现AI原生组织形态的雏形。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文章核心观点是AI让个人产出远超过去团队，直接对应AI任务时界增长。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "学生用AI进行创意制作，涉及AI辅助创作与编程的记忆/上下文语境。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "创意人士用AI把项目目标抬得更高，与将野心提升至AI前沿相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "个人以AI完成原本需团队协作才能达成的工作，体现AI原生组织形态的雏形。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; no external verification performed."
+}

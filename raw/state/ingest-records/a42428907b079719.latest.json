@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:52:32.247Z",
+  "url": "https://x.com/Voxyz_ai/status/2121702208546967753",
+  "slug": "a42428907b079719",
+  "content_hash": "1c864164d495d7a82c307584f03ee33e4e851521e0a7683a59e78826b20f3ae5",
+  "source": {
+    "path": "sources/articles/vox-preview-links-open-directly-on-phone.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/laptop-light-battery-remote-ai-coding.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文核心做法是向 AGENTS.md/CLAUDE.md 写入固定指令，与该主题的项目指令讨论直接相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Claude Code 作为运行项目并发送预览链接的 AI 编程工具。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "帖文涉及远程 AI 编程工作流与跨设备访问本地运行的服务。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "帖文关注预览链接在手机上直接打开，涉及手机端开发与预览体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "帖文核心做法是向 AGENTS.md/CLAUDE.md 写入固定指令，与该主题的项目指令讨论直接相关。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 作为运行项目并发送预览链接的 AI 编程工具。",
+    "topics/mobile-agent-dev-full-chain.md": "帖文关注预览链接在手机上直接打开，涉及手机端开发与预览体验。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "帖文涉及远程 AI 编程工作流与跨设备访问本地运行的服务。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vox-preview-links-open-directly-on-phone.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agents-md-token-efficiency.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/laptop-light-battery-remote-ai-coding.md"
+    ],
+    "selection_reasons": {
+      "topics/agents-md-token-efficiency.md": "帖文核心做法是向 AGENTS.md/CLAUDE.md 写入固定指令，与该主题的项目指令讨论直接相关。",
+      "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 作为运行项目并发送预览链接的 AI 编程工具。",
+      "topics/mobile-agent-dev-full-chain.md": "帖文关注预览链接在手机上直接打开，涉及手机端开发与预览体验。",
+      "topics/laptop-light-battery-remote-ai-coding.md": "帖文涉及远程 AI 编程工作流与跨设备访问本地运行的服务。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vox-preview-links-open-directly-on-phone.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

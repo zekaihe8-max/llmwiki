@@ -1,0 +1,23 @@
+{
+  "slug": "c7e33dba0067ad24",
+  "url": "https://x.com/kevins8/status/2120962631788114377",
+  "title": "Kevin",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "filed",
+  "hash": "c7e33dba0067ad2491b9491d52b230d86ea27952002532b1202ce67fcae7a1c0",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": "2026-11-16T00:19:05.714Z",
+  "content_hash": "427ac73ef0a4dee08777f74d7b1f30eb2407ec914c1707fba40107032702e36f",
+  "article_path": "articles/c7e33dba0067ad24.md",
+  "fetched_url": "https://x.com/kevins8/status/2120962631788114377",
+  "source_path": "sources/articles/openai-shares-best-practices-for-managing-persistent-agents-like.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T00:41:40.437Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

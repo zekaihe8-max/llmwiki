@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:35:58.508Z",
+  "url": "https://x.com/steipete/status/2121058770767982997",
+  "slug": "2acc1518262b2dc0",
+  "content_hash": "b813bcab910ffd5fb5cbea7f9e74b5d8c21af60a9dac27b277bfab6a816352c8",
+  "source": {
+    "path": "sources/articles/steinberger-running-persistent-agents-inside-openai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到智能体可在后台无需人工干预地主动行动，与“智能体自动模式”主题直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文涉及团队在 OpenAI 内运行持久智能体的工程实践，与智能体规模化工程主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文强调持久智能体部署对企业 IT 构成重大挑战，与公司级 Agent Harness 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文提到智能体可在后台无需人工干预地主动行动，与“智能体自动模式”主题直接相关。",
+    "topics/company-agent-harness.md": "帖文强调持久智能体部署对企业 IT 构成重大挑战，与公司级 Agent Harness 主题相关。",
+    "topics/agent-scaled-engineering.md": "帖文涉及团队在 OpenAI 内运行持久智能体的工程实践，与智能体规模化工程主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/steinberger-running-persistent-agents-inside-openai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/company-agent-harness.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文提到智能体可在后台无需人工干预地主动行动，与“智能体自动模式”主题直接相关。",
+      "topics/company-agent-harness.md": "帖文强调持久智能体部署对企业 IT 构成重大挑战，与公司级 Agent Harness 主题相关。",
+      "topics/agent-scaled-engineering.md": "帖文涉及团队在 OpenAI 内运行持久智能体的工程实践，与智能体规模化工程主题相关。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/steinberger-running-persistent-agents-inside-openai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

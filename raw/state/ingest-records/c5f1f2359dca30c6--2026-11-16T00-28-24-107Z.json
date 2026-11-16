@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T00:28:24.107Z",
+  "url": "https://x.com/hwchase17/status/2121279222912352574",
+  "slug": "c5f1f2359dca30c6",
+  "content_hash": "59eaf1e60fced9cbc442d6cc587153db99a81a78445c5350c39425ab2ff1df70",
+  "source": {
+    "path": "sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "帖文提到 LangSmith 用于“治理”智能体，与该主题的智能体治理维度直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "LangChain 融资与平台建设涉及智能体规模化工程与基础设施。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文阐述智能体将改变经济，属于智能体基础与愿景层面。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文强调拥有自身智能的公司将构建持久竞争优势，契合 AI 原生公司议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "帖文提到 LangSmith 用于“治理”智能体，与该主题的智能体治理维度直接相关。",
+    "topics/ai-native-companies.md": "帖文强调拥有自身智能的公司将构建持久竞争优势，契合 AI 原生公司议题。",
+    "topics/agent-scaled-engineering.md": "LangChain 融资与平台建设涉及智能体规模化工程与基础设施。",
+    "topics/agentic-ai-foundation.md": "帖文阐述智能体将改变经济，属于智能体基础与愿景层面。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/ai-native-companies.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "帖文提到 LangSmith 用于“治理”智能体，与该主题的智能体治理维度直接相关。",
+      "topics/ai-native-companies.md": "帖文强调拥有自身智能的公司将构建持久竞争优势，契合 AI 原生公司议题。",
+      "topics/agent-scaled-engineering.md": "LangChain 融资与平台建设涉及智能体规模化工程与基础设施。",
+      "topics/agentic-ai-foundation.md": "帖文阐述智能体将改变经济，属于智能体基础与愿景层面。"
+    },
+    "notes": "所有事实仅来自提供的 X 帖文截图文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langchain-raises-300m-series-c-at-3b-valuation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

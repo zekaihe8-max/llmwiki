@@ -1,0 +1,34 @@
+{
+  "slug": "3b0caaba1d148e9d",
+  "url": "https://x.com/i/article/2121382906820243456",
+  "title": "文章",
+  "digest": "2026-11-16-frontier-ai.md",
+  "status": "failed",
+  "hash": "3b0caaba1d148e9d6bf2f82c0c7d6a7627320dc280920877fbdcbf55a4666b40",
+  "first_seen": "2026-11-16T00:18:46.590Z",
+  "last_seen": "2026-11-16T00:18:46.590Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-16T00:19:07.368Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    },
+    {
+      "at": "2026-11-16T00:59:15.719Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-16T00:59:15.719Z"
+}
