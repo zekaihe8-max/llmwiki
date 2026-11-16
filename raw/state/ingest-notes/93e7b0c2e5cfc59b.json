@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/company-agent-harness.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "直接对应 DSH 插件生态与插件碎片化议题",
+    "topics/company-agent-harness.md": "涉及公司级 Agent Harness 基建原语，与 DSH 定位相关",
+    "topics/context-engineering-for-agents.md": "dsh-context 插件体现上下文工程与 Decision Profiling 趋势",
+    "topics/multiagent-infra-four-problems.md": "dsh-agent-teams 涉及多 Agent 协作、调度与异常接管等基建难题"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "直接对应 DSH 插件生态与插件碎片化议题"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "涉及公司级 Agent Harness 基建原语，与 DSH 定位相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "dsh-context 插件体现上下文工程与 Decision Profiling 趋势"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "dsh-agent-teams 涉及多 Agent 协作、调度与异常接管等基建难题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章为 X 帖文，观点为作者个人推荐与规划，未经第三方验证；引用时建议标注「帖文称」。"
+}

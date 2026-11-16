@@ -1,0 +1,23 @@
+{
+  "slug": "9e278ba16e049705",
+  "url": "https://marketplace.visualstudio.com/items?itemName=crsx.ag-usage",
+  "title": "AG Usage",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "9e278ba16e049705e02b08345f4225726fc88727686b4643d9f675e7caf8cbf4",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:39.626Z",
+  "content_hash": "4c3038cf0b1f2382badad0c19f7f8170a581960de15982adc0496d94769e3804",
+  "article_path": "articles/9e278ba16e049705.md",
+  "fetched_url": "https://marketplace.visualstudio.com/items?itemName=crsx.ag-usage",
+  "source_path": "sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T12:44:56.964Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

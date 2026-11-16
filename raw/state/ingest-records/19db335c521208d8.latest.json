@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:49:54.742Z",
+  "url": "https://github.com/next-token-tv/next-token-skill",
+  "slug": "19db335c521208d8",
+  "content_hash": "05fa91df178ce56dd64cd79af7b5a9ed61bef3162d78064fe40cf05c89e0e3ed",
+  "source": {
+    "path": "sources/articles/next-token-skill.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文章提供面向 Agent 的内容检索能力，虽然数据源是本地播客而非实时网页，但与面向 Agent 的联网搜索重做主题在检索意图上相近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章本身是一个可安装到 Agent 的 Skill，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "该仓库提供可复用的 Agent Skill 目录结构，与 Agent Skills 开放标准主题相关。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "文章核心功能是同步播客逐字稿并进行精读检索，与播客 AI 精细转写精读主题高度契合。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章本身是一个可安装到 Agent 的 Skill，与 Agent Skill 编写主题直接相关。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "文章核心功能是同步播客逐字稿并进行精读检索，与播客 AI 精细转写精读主题高度契合。",
+    "topics/agent-skills-open-standard.md": "该仓库提供可复用的 Agent Skill 目录结构，与 Agent Skills 开放标准主题相关。",
+    "topics/agent-native-web-search.md": "文章提供面向 Agent 的内容检索能力，虽然数据源是本地播客而非实时网页，但与面向 Agent 的联网搜索重做主题在检索意图上相近。"
+  },
+  "files_changed": [
+    "sources/articles/next-token-skill.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-native-web-search.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章本身是一个可安装到 Agent 的 Skill，与 Agent Skill 编写主题直接相关。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "文章核心功能是同步播客逐字稿并进行精读检索，与播客 AI 精细转写精读主题高度契合。",
+      "topics/agent-skills-open-standard.md": "该仓库提供可复用的 Agent Skill 目录结构，与 Agent Skills 开放标准主题相关。",
+      "topics/agent-native-web-search.md": "文章提供面向 Agent 的内容检索能力，虽然数据源是本地播客而非实时网页，但与面向 Agent 的联网搜索重做主题在检索意图上相近。"
+    },
+    "notes": "所有事实均来源于提供的 GitHub 页面 Markdown，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/next-token-skill.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "38ec87fac989c1c3",
+  "url": "https://x.com/turingou/status/2122257927876829250",
+  "title": "hayabuild 缓存命中率几乎到了 100%",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "38ec87fac989c1c3fb572e6be6b69d0d49f6d326c7fe71516282361d42e61219",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:25.987Z",
+  "content_hash": "c5d0d403a2756977a29ba5185bab3328f769660265d0d488ccac968a0e098405",
+  "article_path": "articles/38ec87fac989c1c3.md",
+  "fetched_url": "https://x.com/turingou/status/2122257927876829250",
+  "source_path": "sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T12:13:22.564Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文对 Amp、Antigravity 与 Cursor 做产品体验对比，属于工具平台横向评价范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "内容涉及编程类 AI 工具的使用体验与功能差距。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Amp 与 Antigravity 可视为个人 Agent/编程助手的客户端形态，未涉及多 Harness 路由基建。",
+    "topics/premium-ai-subscription-value.md": "用户表达对付费 AI 产品质量的主观价值判断，但不构成系统性订阅价值分析。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文对 Amp、Antigravity 与 Cursor 做产品体验对比，属于工具平台横向评价范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "内容涉及编程类 AI 工具的使用体验与功能差距。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Amp 与 Antigravity 可视为个人 Agent/编程助手的客户端形态，未涉及多 Harness 路由基建。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "用户表达对付费 AI 产品质量的主观价值判断，但不构成系统性订阅价值分析。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文，未独立核实 Amp、Antigravity 或 Cursor 的实际功能。"
+}

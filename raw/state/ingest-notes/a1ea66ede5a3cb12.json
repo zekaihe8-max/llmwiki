@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/ai-native-companies.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "与“软件如水电般按需生成、随处可用”的核心观点最贴近",
+    "topics/vibe-coding-memory-paradox.md": "涉及低成本、人人可快速制作软件的编程范式变化",
+    "topics/ai-native-companies.md": "探讨 AI 原生条件下软件生产与组织形态的转变",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计与代码快速转化、即时生成工具的趋势"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "与“软件如水电般按需生成、随处可用”的核心观点最贴近"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "涉及低成本、人人可快速制作软件的编程范式变化"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "探讨 AI 原生条件下软件生产与组织形态的转变"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计与代码快速转化、即时生成工具的趋势"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实与主张均源于该 X 帖文，未作独立核实。"
+}

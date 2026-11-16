@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:42:08.128Z",
+  "url": "https://x.com/op7418/status/2122235004055126511",
+  "slug": "83e5c26087025c42",
+  "content_hash": "077c5c13dca733af63692c583241a0bef0e393534f03fe34bcfda84671518d08",
+  "source": {
+    "path": "sources/articles/guizang-says-newly-launched-next-token-skill-can-directly-export.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是新上线的 Next Token Skill，属于 Agent Skill 编写与使用主题。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Agent 可直接导出对应视频，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文涉及播客切片与时间轴辅助剪藏，属 AI 辅助剪藏与媒体笔记范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文提到 Agent 可直接导出对应视频，与智能体视频剪辑主题直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文涉及播客切片与时间轴辅助剪藏，属 AI 辅助剪藏与媒体笔记范畴。",
+    "topics/agent-skill-authoring.md": "帖文核心是新上线的 Next Token Skill，属于 Agent Skill 编写与使用主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/guizang-says-newly-launched-next-token-skill-can-directly-export.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文提到 Agent 可直接导出对应视频，与智能体视频剪辑主题直接相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "帖文涉及播客切片与时间轴辅助剪藏，属 AI 辅助剪藏与媒体笔记范畴。",
+      "topics/agent-skill-authoring.md": "帖文核心是新上线的 Next Token Skill，属于 Agent Skill 编写与使用主题。"
+    },
+    "notes": "来源仅为 X 帖文，未打开外部链接，未核实 GitHub、YouTube 及 Gemini 4 的具体内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/guizang-says-newly-launched-next-token-skill-can-directly-export.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

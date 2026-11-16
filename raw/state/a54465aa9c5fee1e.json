@@ -1,0 +1,23 @@
+{
+  "slug": "a54465aa9c5fee1e",
+  "url": "https://x.com/dotey/status/2122162706606121396",
+  "title": "主会话加 Thread，Token 其实没那么吓人",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "a54465aa9c5fee1e9b03bb96fe1433fbd2cbae19817e2deaf465b47ba1e9e0a6",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:17.692Z",
+  "content_hash": "1c1290958236c68da3bba26c9ddae55ab8a9a423eccb9c4fa7ce9dd584852b2b",
+  "article_path": "articles/a54465aa9c5fee1e.md",
+  "fetched_url": "https://x.com/dotey/status/2122162706606121396",
+  "source_path": "sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T11:59:29.107Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

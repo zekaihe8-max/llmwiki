@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:31:33.801Z",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "slug": "f6c3adbf52c79b31",
+  "content_hash": "011b21dfe26218e79dffd2132cb7e4b610d4fc14d87c3bc26d8e4bf95fdba841",
+  "source": {
+    "path": "sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章围绕 Claude Code Agent Skill 的编写、打包与安装展开，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中多次引用 Agent Skills 开放标准及 SKILL.md 格式，与开放标准主题相关。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "文章涉及漏洞猎杀与红队安全研究，与网安研究模型选型主题相近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中详细对比 Claude Code、OpenCode、Codex 等多 Agent 框架的技能目录与安装方式，与多 Harness 对比主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章围绕 Claude Code Agent Skill 的编写、打包与安装展开，与该主题直接相关。",
+    "topics/agent-skills-open-standard.md": "文中多次引用 Agent Skills 开放标准及 SKILL.md 格式，与开放标准主题相关。",
+    "topics/cyber-research-models-without-jailbreak.md": "文章涉及漏洞猎杀与红队安全研究，与网安研究模型选型主题相近。",
+    "topics/harness-comparison-beyond-tokens.md": "文中详细对比 Claude Code、OpenCode、Codex 等多 Agent 框架的技能目录与安装方式，与多 Harness 对比主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/cyber-research-models-without-jailbreak.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章围绕 Claude Code Agent Skill 的编写、打包与安装展开，与该主题直接相关。",
+      "topics/agent-skills-open-standard.md": "文中多次引用 Agent Skills 开放标准及 SKILL.md 格式，与开放标准主题相关。",
+      "topics/cyber-research-models-without-jailbreak.md": "文章涉及漏洞猎杀与红队安全研究，与网安研究模型选型主题相近。",
+      "topics/harness-comparison-beyond-tokens.md": "文中详细对比 Claude Code、OpenCode、Codex 等多 Agent 框架的技能目录与安装方式，与多 Harness 对比主题相关。"
+    },
+    "notes": "Source: https://github.com/elementalsouls/Claude-BugHunter",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

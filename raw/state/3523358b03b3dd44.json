@@ -1,0 +1,23 @@
+{
+  "slug": "3523358b03b3dd44",
+  "url": "https://x.com/lxfater/status/2122169351713243359",
+  "title": "681 份漏洞报告做成了开源技能",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "3523358b03b3dd44b723293806df95ed48ca25d1d58f128f7088722074b28d41",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:33.096Z",
+  "content_hash": "a8cf56e1d982fb53215bed2e996b2d724736bdf5ede680f931dfea2388de6726",
+  "article_path": "articles/3523358b03b3dd44.md",
+  "fetched_url": "https://x.com/lxfater/status/2122169351713243359",
+  "source_path": "sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T12:32:06.463Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

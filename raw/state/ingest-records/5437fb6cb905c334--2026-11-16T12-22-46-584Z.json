@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:22:46.584Z",
+  "url": "https://x.com/cgnot996/status/2122292682638938485",
+  "slug": "5437fb6cb905c334",
+  "content_hash": "2d738e910f2adb25b7bd06c21c2c8a552b860f00dbf34ea64b63aee43f68af9c",
+  "source": {
+    "path": "sources/articles/turkey-region-google-ai-ultra-subscription-price-ended-early-sub.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道取舍，与 AI 订阅渠道变动相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，与土区订阅涨价直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google AI 不同订阅档位与定价策略，可作背景参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与土区订阅涨价直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google AI 不同订阅档位与定价策略，可作背景参考。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，与 AI 订阅渠道变动相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/turkey-region-google-ai-ultra-subscription-price-ended-early-sub.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与土区订阅涨价直接相关。",
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Google AI 不同订阅档位与定价策略，可作背景参考。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，与 AI 订阅渠道变动相关。"
+    },
+    "notes": "内容仅来自单条 X 帖文及其引用，价格与 Bug 失效未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/turkey-region-google-ai-ultra-subscription-price-ended-early-sub.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

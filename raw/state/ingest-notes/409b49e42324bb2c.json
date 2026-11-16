@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文核心围绕 AGY 额度消耗与用户体验，直接对应编程 Agent 体验与额度主题。",
+    "topics/coding-agent-token-saving-tooling.md": "作者推荐的 AG Usage 和 Antigravity Panel 属于额度/Token 监控工具，与该主题高度相关。",
+    "topics/context-engineering-for-agents.md": "文中提到上下文缓存计算异常可能导致额度掉落，涉及 Agent 上下文工程。",
+    "topics/usage-limit-ab-tests.md": "文中提到 5 小时和每周限制，以及 Google 未给出统一解决方案，与用量上限相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文核心围绕 AGY 额度消耗与用户体验，直接对应编程 Agent 体验与额度主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "作者推荐的 AG Usage 和 Antigravity Panel 属于额度/Token 监控工具，与该主题高度相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到上下文缓存计算异常可能导致额度掉落，涉及 Agent 上下文工程。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到 5 小时和每周限制，以及 Google 未给出统一解决方案，与用量上限相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @xiaomovps 的单条帖文，未引入文中未出现的外部链接或事实。"
+}

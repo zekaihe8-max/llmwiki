@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T11:59:29.105Z",
+  "url": "https://x.com/dotey/status/2122162706606121396",
+  "slug": "a54465aa9c5fee1e",
+  "content_hash": "1c1290958236c68da3bba26c9ddae55ab8a9a423eccb9c4fa7ce9dd584852b2b",
+  "source": {
+    "path": "sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心是优化 Token 消耗，与编程 Agent 省 Token 工具与开销主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Prompt Caching 利用、缓存过期策略和上下文压缩，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "主会话与 Thread/子任务的关系，可对应“把子 Agent 折进主循环”的主循环与子任务架构讨论。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文把主会话比作前台并按任务难度调度模型，与“个人 Agent 当包工头调度编程 Agent”的分工调度思路相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文把主会话比作前台并按任务难度调度模型，与“个人 Agent 当包工头调度编程 Agent”的分工调度思路相近。",
+    "topics/context-engineering-for-agents.md": "文中涉及 Prompt Caching 利用、缓存过期策略和上下文压缩，属于 Agent 上下文工程范畴。",
+    "topics/coding-agent-token-saving-tooling.md": "文章核心是优化 Token 消耗，与编程 Agent 省 Token 工具与开销主题相关。",
+    "topics/fold-subagents-into-main-loop.md": "主会话与 Thread/子任务的关系，可对应“把子 Agent 折进主循环”的主循环与子任务架构讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/fold-subagents-into-main-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文把主会话比作前台并按任务难度调度模型，与“个人 Agent 当包工头调度编程 Agent”的分工调度思路相近。",
+      "topics/context-engineering-for-agents.md": "文中涉及 Prompt Caching 利用、缓存过期策略和上下文压缩，属于 Agent 上下文工程范畴。",
+      "topics/coding-agent-token-saving-tooling.md": "文章核心是优化 Token 消耗，与编程 Agent 省 Token 工具与开销主题相关。",
+      "topics/fold-subagents-into-main-loop.md": "主会话与 Thread/子任务的关系，可对应“把子 Agent 折进主循环”的主循环与子任务架构讨论。"
+    },
+    "notes": "Source is an X post by @dotey; claims are attributed to the post with「帖文称」.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

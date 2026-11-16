@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "宣言讨论 AI 生成代码与 slop、屎山式产出，与该主题的 AI 代码质量双标关切直接相关。",
+    "topics/divergent-tasks-human-design-gate.md": "宣言强调“人类判断不可外包、审核才有差别”，与先人审设计/人工把关的主题高度契合。",
+    "topics/vibe-coding-memory-paradox.md": "宣言反对不加审查地转手 AI 产出，与 Vibe Coding 中缺乏理解与记忆的悖论相近。",
+    "topics/workflows-before-agents.md": "宣言主张“改进系统重于修补输出”，与工作流优先于智能体的主题方向一致。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "宣言讨论 AI 生成代码与 slop、屎山式产出，与该主题的 AI 代码质量双标关切直接相关。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "宣言强调“人类判断不可外包、审核才有差别”，与先人审设计/人工把关的主题高度契合。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "宣言反对不加审查地转手 AI 产出，与 Vibe Coding 中缺乏理解与记忆的悖论相近。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "宣言主张“改进系统重于修补输出”，与工作流优先于智能体的主题方向一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

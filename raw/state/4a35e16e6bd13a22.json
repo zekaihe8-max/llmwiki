@@ -1,0 +1,34 @@
+{
+  "slug": "4a35e16e6bd13a22",
+  "url": "https://elon.qiaomu.ai/mcp",
+  "title": "模型并不盲目讨好",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "failed",
+  "hash": "4a35e16e6bd13a22999c75b982b1f1b583ec1c2a51418f28e334d9833bc093f8",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 405 Method Not Allowed",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-16T11:57:40.765Z",
+      "stage": "fetch",
+      "error": "HTTP 405 Method Not Allowed"
+    },
+    {
+      "at": "2026-11-16T12:48:16.065Z",
+      "stage": "fetch",
+      "error": "HTTP 405 Method Not Allowed"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 405 Method Not Allowed",
+  "last_fetch_failed_at": "2026-11-16T12:48:16.065Z"
+}

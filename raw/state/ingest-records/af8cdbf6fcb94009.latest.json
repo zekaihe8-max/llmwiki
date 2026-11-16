@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:12:25.101Z",
+  "url": "https://x.com/berryxia/status/2122262173842042936",
+  "slug": "af8cdbf6fcb94009",
+  "content_hash": "a422cfcb2e81ef3d56250bd40c49ecd08e585d526b6a6ed281ca4b301e24ab21",
+  "source": {
+    "path": "sources/articles/beanpod-open-sourced-native-macos-audio-transcription-knowledge.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/local-open-assistant-models.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "提供 AI 辅助的音频剪藏、转写整理、纪要生成、知识库问答，属于 AI 辅助剪藏与媒体笔记范畴"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "强调转写与数据完全在本地运行，支持通过 MCP 接入本地/云端模型，体现本地开放助手理念"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "MIT 协议开源，且通过 MCP 让开源工具接入 AI 助手（Claude/Codex）进行自然语言剪辑与问答"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "BeanPod 核心功能为播客/音频的精细转写与精读，支持逐句跳转、单句循环、跟读高亮，直接对应该主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "BeanPod 核心功能为播客/音频的精细转写与精读，支持逐句跳转、单句循环、跟读高亮，直接对应该主题",
+    "topics/ai-assisted-clipping-and-notes.md": "提供 AI 辅助的音频剪藏、转写整理、纪要生成、知识库问答，属于 AI 辅助剪藏与媒体笔记范畴",
+    "topics/local-open-assistant-models.md": "强调转写与数据完全在本地运行，支持通过 MCP 接入本地/云端模型，体现本地开放助手理念",
+    "topics/open-source-in-ai-assistant-editing.md": "MIT 协议开源，且通过 MCP 让开源工具接入 AI 助手（Claude/Codex）进行自然语言剪辑与问答"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/beanpod-open-sourced-native-macos-audio-transcription-knowledge.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/local-open-assistant-models.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/podcast-ai-fine-transcription-close-reads.md": "BeanPod 核心功能为播客/音频的精细转写与精读，支持逐句跳转、单句循环、跟读高亮，直接对应该主题",
+      "topics/ai-assisted-clipping-and-notes.md": "提供 AI 辅助的音频剪藏、转写整理、纪要生成、知识库问答，属于 AI 辅助剪藏与媒体笔记范畴",
+      "topics/local-open-assistant-models.md": "强调转写与数据完全在本地运行，支持通过 MCP 接入本地/云端模型，体现本地开放助手理念",
+      "topics/open-source-in-ai-assistant-editing.md": "MIT 协议开源，且通过 MCP 让开源工具接入 AI 助手（Claude/Codex）进行自然语言剪辑与问答"
+    },
+    "notes": "Article is a single X post with video demo; all features claimed by author, not independently verified. Firmware version and hardware support caveats noted.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/beanpod-open-sourced-native-macos-audio-transcription-knowledge.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

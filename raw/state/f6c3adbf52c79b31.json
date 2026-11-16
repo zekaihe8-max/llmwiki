@@ -1,0 +1,23 @@
+{
+  "slug": "f6c3adbf52c79b31",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "title": "Claude-BugHunter",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "f6c3adbf52c79b3178a8fe68d8bad68c272c64a5562b25346326a9a8e9cf0302",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:30.654Z",
+  "content_hash": "011b21dfe26218e79dffd2132cb7e4b610d4fc14d87c3bc26d8e4bf95fdba841",
+  "article_path": "articles/f6c3adbf52c79b31.md",
+  "fetched_url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "source_path": "sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T12:31:33.802Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,5 +1,87 @@
 ## 2026-11-16
 
+* **创建 / Creation**: 归档 [Antigravity Panel（反重力面板）](./sources/articles/antigravity-panel.md)。 / Filed [Antigravity Panel](./sources/articles/antigravity-panel.md).
+
+* **创建 / Creation**: 归档 [AG Usage：Antigravity AI 模型用量追踪扩展](./sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md)。 / Filed [AG Usage: Antigravity AI Model Usage Tracking Extension](./sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md).
+
+* **创建 / Creation**: 归档 [铁锤人转发：MiniMax H3 打戏 Skill h3-fight 开源](./sources/articles/tiechuren-reposts-open-source-minimax-h3-fight-scene-skill-h3-fi.md)。 / Filed [Tiechuren reposts open-source MiniMax H3 fight-scene Skill h3-fight](./sources/articles/tiechuren-reposts-open-source-minimax-h3-fight-scene-skill-h3-fi.md).
+
+* **创建 / Creation**: 归档 [更喜欢 Amp，吐槽 Antigravity 不如 Cursor](./sources/articles/prefers-amp-criticizes-antigravity-as-inferior-to-cursor.md)。 / Filed [Prefers Amp, criticizes Antigravity as inferior to Cursor](./sources/articles/prefers-amp-criticizes-antigravity-as-inferior-to-cursor.md).
+
+* **创建 / Creation**: 归档 [Mirobody：开源个人健康助理](./sources/articles/mirobody-open-source-personal-health-assistant.md)。 / Filed [Mirobody: Open-Source Personal Health Assistant](./sources/articles/mirobody-open-source-personal-health-assistant.md).
+
+* **创建 / Creation**: 归档 [Mirobody：个人健康数据本地化整合与 AI 代理平台](./sources/articles/mirobody-local-first-personal-health-data-integration-and-ai-age.md)。 / Filed [Mirobody: Local-first Personal Health Data Integration and AI Agent Platform](./sources/articles/mirobody-local-first-personal-health-data-integration-and-ai-age.md).
+
+* **创建 / Creation**: 归档 [歸藏称新上线的 Next Token Skill 可直接导出播客切片视频](./sources/articles/guizang-says-newly-launched-next-token-skill-can-directly-export.md)。 / Filed [Guizang says newly launched Next Token Skill can directly export podcast clip videos](./sources/articles/guizang-says-newly-launched-next-token-skill-can-directly-export.md).
+
+* **创建 / Creation**: 归档 [Next Token Skill](./sources/articles/next-token-skill.md)。 / Filed [Next Token Skill](./sources/articles/next-token-skill.md).
+
+* **创建 / Creation**: 归档 [第十期 Next Token 把 Personal Agent 讲清楚了](./sources/articles/next-token-episode-10-explains-personal-agent-clearly.md)。 / Filed [Next Token Episode 10 Explains Personal Agent Clearly](./sources/articles/next-token-episode-10-explains-personal-agent-clearly.md).
+
+* **创建 / Creation**: 归档 [YouTube 视频页面](./sources/articles/youtube-video-page.md)。 / Filed [YouTube Video Page](./sources/articles/youtube-video-page.md).
+
+* **创建 / Creation**: 归档 [Qwen4-Max 正式版实测：两周迭代修复长任务稳定性，3D 成功率跃升至 75%](./sources/articles/qwen4-max-official-release-test-two-week-iteration-fixes-long-ta.md)。 / Filed [Qwen4-Max Official Release Test: Two-Week Iteration Fixes Long-Task Stability, 3D Success Rate Jumps to 75%](./sources/articles/qwen4-max-official-release-test-two-week-iteration-fixes-long-ta.md).
+
+* **创建 / Creation**: 归档 [民间补丁比官方更快：折叠屏远控 Mac 靠社区工具补齐虚拟屏](./sources/articles/community-patch-beats-official-update-foldable-screen-remote-mac.md)。 / Filed [Community patch beats official update: foldable screen remote Mac relies on community tool to fill virtual screen gap](./sources/articles/community-patch-beats-official-update-foldable-screen-remote-mac.md).
+
+* **创建 / Creation**: 归档 [UU远程伴侣（UUyc companion）](./sources/articles/uu-remote-companion-uuyc-companion.md)。 / Filed [UU Remote Companion (UUyc companion)](./sources/articles/uu-remote-companion-uuyc-companion.md).
+
+* **创建 / Creation**: 归档 [681 份漏洞报告做成了开源 Claude Code 技能包](./sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md)。 / Filed [681 vulnerability reports turned into open-source Claude Code skill pack](./sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md).
+
+* **创建 / Creation**: 归档 [Claude-BugHunter 漏洞猎杀技能包](./sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md)。 / Filed [Claude-BugHunter: Claude Code Bug Hunting & Red-Team Skill Bundle](./sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md).
+
+* **创建 / Creation**: 归档 [Barret李靖分享六款提升 DSH 自主性与可调试性的插件](./sources/articles/barret-li-jing-shares-six-plugins-to-boost-dsh-autonomy-and-debu.md)。 / Filed [Barret Li Jing Shares Six Plugins to Boost DSH Autonomy and Debuggability](./sources/articles/barret-li-jing-shares-six-plugins-to-boost-dsh-autonomy-and-debu.md).
+
+* **创建 / Creation**: 归档 [软件如水电般随处可用，按需现场制作](./sources/articles/software-as-ubiquitous-as-utilities-made-on-demand.md)。 / Filed [Software as Ubiquitous as Utilities, Made On Demand](./sources/articles/software-as-ubiquitous-as-utilities-made-on-demand.md).
+
+* **创建 / Creation**: 归档 [《宝石工坊》上架 B 站 TOY](./sources/articles/gem-workshop-launches-on-bilibili-toy-platform.md)。 / Filed ["Gem Workshop" Launches on Bilibili TOY Platform](./sources/articles/gem-workshop-launches-on-bilibili-toy-platform.md).
+
+* **创建 / Creation**: 归档 [土区 Google AI Ultra 订阅价格失效，早订阅者赶上末班车](./sources/articles/turkey-region-google-ai-ultra-subscription-price-ended-early-sub.md)。 / Filed [Turkey-region Google AI Ultra subscription price ended, early subscriber caught the last bus](./sources/articles/turkey-region-google-ai-ultra-subscription-price-ended-early-sub.md).
+
+* **创建 / Creation**: 归档 [WorkBuddy 支持手机远程控制电脑](./sources/articles/workbuddy-supports-mobile-remote-control-of-computer.md)。 / Filed [WorkBuddy Supports Mobile Remote Control of Computer](./sources/articles/workbuddy-supports-mobile-remote-control-of-computer.md).
+
+* **创建 / Creation**: 归档 [后续：羊毛信息不宜在 X 上公开传播](./sources/articles/follow-up-subsidy-information-should-not-be-publicly-shared-on-x.md)。 / Filed [Follow-up: Subsidy information should not be publicly shared on X](./sources/articles/follow-up-subsidy-information-should-not-be-publicly-shared-on-x.md).
+
+* **创建 / Creation**: 归档 [蓝哥AI 分享土区 Apple 礼品卡开通 Google AI Ultra 5X 完整教程](./sources/articles/lange-ai-shares-full-tutorial-for-google-ai-ultra-5x-via-turkish.md)。 / Filed [Lange AI Shares Full Tutorial for Google AI Ultra 5X via Turkish Apple Gift Cards](./sources/articles/lange-ai-shares-full-tutorial-for-google-ai-ultra-5x-via-turkish.md).
+
+* **创建 / Creation**: 归档 [Antigravity 额度掉得有点怪](./sources/articles/antigravity-quota-dropping-strangely.md)。 / Filed [Antigravity Quota Dropping Strangely](./sources/articles/antigravity-quota-dropping-strangely.md).
+
+* **创建 / Creation**: 归档 [Google AI Ultra 容易被忽略的 6 项权益](./sources/articles/6-easily-overlooked-benefits-of-google-ai-ultra.md)。 / Filed [6 Easily Overlooked Benefits of Google AI Ultra](./sources/articles/6-easily-overlooked-benefits-of-google-ai-ultra.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 能直接操作电脑了](./sources/articles/deepseek-harness-can-now-directly-operate-computers.md)。 / Filed [DeepSeek Harness Can Now Directly Operate Computers](./sources/articles/deepseek-harness-can-now-directly-operate-computers.md).
+
+* **创建 / Creation**: 归档 [hayabuild 缓存命中率近 100%，iOS 构建 38 秒自动打包 TestFlight](./sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md)。 / Filed [hayabuild achieves near 100% cache hit rate, 38-second iOS builds auto-published to TestFlight](./sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md).
+
+* **创建 / Creation**: 归档 [Berryxia 推介 GitHub 开源项目 BeanPod：原生 macOS 录音豆管理 App](./sources/articles/berryxia-spotlights-github-open-source-project-beanpod-native-ma.md)。 / Filed [Berryxia spotlights GitHub open-source project BeanPod: Native macOS Recording Bean Management App](./sources/articles/berryxia-spotlights-github-open-source-project-beanpod-native-ma.md).
+
+* **创建 / Creation**: 归档 [豆仓 BeanPod 开源：原生 macOS 录音转写与知识库工具](./sources/articles/beanpod-open-sourced-native-macos-audio-transcription-knowledge.md)。 / Filed [BeanPod Open-Sourced: Native macOS Audio Transcription & Knowledge Base Tool](./sources/articles/beanpod-open-sourced-native-macos-audio-transcription-knowledge.md).
+
+* **创建 / Creation**: 归档 [豆仓 BeanPod：本地转写与 AI 整理的 macOS 录音助手](./sources/articles/beanpod-local-transcription-and-ai-organization-macos-recording.md)。 / Filed [BeanPod: Local Transcription and AI Organization macOS Recording Assistant](./sources/articles/beanpod-local-transcription-and-ai-organization-macos-recording.md).
+
+* **创建 / Creation**: 归档 [为马斯克访谈视频做中文数据库网站](./sources/articles/chinese-database-website-for-elon-musk-interview-videos.md)。 / Filed [Chinese database website for Elon Musk interview videos](./sources/articles/chinese-database-website-for-elon-musk-interview-videos.md).
+
+* **创建 / Creation**: 归档 [腾讯 Hy4 flash 实测：免费搭建马斯克访谈网站并开源 Skill](./sources/articles/tencent-hy4-flash-hands-on-building-a-musk-interview-website-for.md)。 / Filed [Tencent Hy4 flash hands-on: building a Musk interview website for free and open-sourcing Skills](./sources/articles/tencent-hy4-flash-hands-on-building-a-musk-interview-website-for.md).
+
+* **创建 / Creation**: 归档 [马斯克：工作的终结、金钱的消亡与AI主宰的世界](./sources/articles/elon-musk-the-end-of-work-the-death-of-money-and-a-world-run-by.md)。 / Filed [Elon Musk: The End of Work, the Death of Money, and a World Run by AI](./sources/articles/elon-musk-the-end-of-work-the-death-of-money-and-a-world-run-by.md).
+
+* **创建 / Creation**: 归档 [DeepSeek chat-demo 开源三天，Star 已超过 3000](./sources/articles/deepseek-chat-demo-open-sourced-for-three-days-stars-exceed-3000.md)。 / Filed [DeepSeek chat-demo open-sourced for three days, stars exceed 3000](./sources/articles/deepseek-chat-demo-open-sourced-for-three-days-stars-exceed-3000.md).
+
+* **创建 / Creation**: 归档 [同一模型换评分和配套，排行榜就可能翻面](./sources/articles/same-model-different-scoring-and-harness-leaderboard-conclusions.md)。 / Filed [Same model, different scoring and harness, leaderboard conclusions may flip](./sources/articles/same-model-different-scoring-and-harness-leaderboard-conclusions.md).
+
+* **创建 / Creation**: 归档 [No AI Slop 宣言](./sources/articles/no-ai-slop-manifesto.md)。 / Filed [No AI Slop Manifesto](./sources/articles/no-ai-slop-manifesto.md).
+
+* **创建 / Creation**: 归档 [No AI Slop：反 AI 滥制内容宣言](./sources/articles/no-ai-slop-a-manifesto.md)。 / Filed [No AI Slop: A Manifesto](./sources/articles/no-ai-slop-a-manifesto.md).
+
+* **创建 / Creation**: 归档 [四个神经元，怎么学会追光](./sources/articles/how-four-neurons-learn-to-chase-light.md)。 / Filed [How Four Neurons Learn to Chase Light](./sources/articles/how-four-neurons-learn-to-chase-light.md).
+
+* **创建 / Creation**: 归档 [观察大脑如何学习](./sources/articles/watch-a-brain-learn.md)。 / Filed [Watch a Brain Learn](./sources/articles/watch-a-brain-learn.md).
+
+* **创建 / Creation**: 归档 [主会话加 Thread，Token 其实没那么吓人](./sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md)。 / Filed [Main Session Plus Thread: Tokens Are Not That Scary](./sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md).
+
+* **创建 / Creation**: 归档 [AI 手搓几百K纯 HTML 3D 世界，让 HTML 再次伟大](./sources/articles/ai-hand-crafted-hundred-kb-pure-html-3d-worlds-make-html-great-a.md)。 / Filed [AI Hand-Crafted Hundred-KB Pure HTML 3D Worlds Make HTML Great Again](./sources/articles/ai-hand-crafted-hundred-kb-pure-html-3d-worlds-make-html-great-a.md).
+
+* **创建 / Creation**: 归档 [最爱用的 10 句 Agent Prompt](./sources/articles/top-10-favorite-agent-prompts.md)。 / Filed [Top 10 Favorite Agent Prompts](./sources/articles/top-10-favorite-agent-prompts.md).
+
 * **创建 / Creation**: 归档 [软件工厂的秘密：让 Agent 抱怨产品与代码库](./sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md)。 / Filed [The secret to the software factory: make agents complain about your product and codebase](./sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md).
 
 * **创建 / Creation**: 归档 [少发提示](./sources/articles/send-fewer-prompts.md)。 / Filed [Send Fewer Prompts](./sources/articles/send-fewer-prompts.md).

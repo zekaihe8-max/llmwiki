@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章采用同题重测、盲评、程序自动核对等社区实测方法，对抗单一榜单分数炒作。",
+    "topics/tasks-confidently-handed-to-ai.md": "实测表明长报告、长文精读、中文写作、3D 生成等长任务已可放心交给模型。",
+    "topics/harness-comparison-beyond-tokens.md": "对比了思考档位、token 用量、延迟与价格等多维指标，超越单纯 token 计数的评测视角。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章采用同题重测、盲评、程序自动核对等社区实测方法，对抗单一榜单分数炒作。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "实测表明长报告、长文精读、中文写作、3D 生成等长任务已可放心交给模型。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "对比了思考档位、token 用量、延迟与价格等多维指标，超越单纯 token 计数的评测视角。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post with embedded media; all metrics self-reported by the author. No independent replication verified."
+}

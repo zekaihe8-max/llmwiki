@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:06:35.360Z",
+  "url": "https://github.com/andyhuo520/beanpod",
+  "slug": "4f2a4e7df4b9669b",
+  "content_hash": "3de478282e3b0b1646908063ed59e9a678e524d8303db337e5e5aefe550494d5",
+  "source": {
+    "path": "sources/articles/beanpod-local-transcription-and-ai-organization-macos-recording.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "豆仓可导入音频/视频链接、转写并整理成笔记与纪要，符合 AI 辅助剪藏与媒体笔记主题。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "豆仓默认本机运行 Qwen3‑ASR 0.6B 和 Qwen3‑4B，体现本地开放助手模型与隐私优先的本地处理。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "文章提到可导入小宇宙、Apple 播客、喜马拉雅等单集链接并逐句回听、精读，与播客 AI 转写精读高度相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "豆仓提供按住说话的语音输入，文字打进当前软件并保留历史，属于语音输入口头转述与文书整理范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "豆仓可导入音频/视频链接、转写并整理成笔记与纪要，符合 AI 辅助剪藏与媒体笔记主题。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "文章提到可导入小宇宙、Apple 播客、喜马拉雅等单集链接并逐句回听、精读，与播客 AI 转写精读高度相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "豆仓提供按住说话的语音输入，文字打进当前软件并保留历史，属于语音输入口头转述与文书整理范畴。",
+    "topics/local-open-assistant-models.md": "豆仓默认本机运行 Qwen3‑ASR 0.6B 和 Qwen3‑4B，体现本地开放助手模型与隐私优先的本地处理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/beanpod-local-transcription-and-ai-organization-macos-recording.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "豆仓可导入音频/视频链接、转写并整理成笔记与纪要，符合 AI 辅助剪藏与媒体笔记主题。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "文章提到可导入小宇宙、Apple 播客、喜马拉雅等单集链接并逐句回听、精读，与播客 AI 转写精读高度相关。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "豆仓提供按住说话的语音输入，文字打进当前软件并保留历史，属于语音输入口头转述与文书整理范畴。",
+      "topics/local-open-assistant-models.md": "豆仓默认本机运行 Qwen3‑ASR 0.6B 和 Qwen3‑4B，体现本地开放助手模型与隐私优先的本地处理。"
+    },
+    "notes": "所有内容仅基于提供的 GitHub README 片段，未引用外部事实或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/beanpod-local-transcription-and-ai-organization-macos-recording.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

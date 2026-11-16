@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章聚焦高端 AI 订阅的隐藏权益与使用价值，主题高度相关。",
+    "topics/gpu-ai-compute-unlock.md": "文中提到 Colab 云端 GPU 计算点，与消费级 AI 算力解锁相关。",
+    "topics/cloud-auto-model-routing.md": "文中涉及 Google Cloud 赠金抵扣 API 与云服务费用，与云平台模型编排相关。",
+    "topics/agent-compute-and-governance.md": "文中涉及云端算力与 AI 工作区资源，与智能体算力治理相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章聚焦高端 AI 订阅的隐藏权益与使用价值，主题高度相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中提到 Colab 云端 GPU 计算点，与消费级 AI 算力解锁相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Google Cloud 赠金抵扣 API 与云服务费用，与云平台模型编排相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及云端算力与 AI 工作区资源，与智能体算力治理相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @xiaomovps 帖文，具体权益细节未独立核实，已按「帖文称」表述。"
+}

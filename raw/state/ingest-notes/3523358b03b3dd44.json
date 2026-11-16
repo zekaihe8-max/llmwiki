@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/cyber-research-models-without-jailbreak.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文主体是可安装到 Claude Code 的技能包，与 Agent Skill 编写主题直接相关。",
+    "topics/agent-skills-open-standard.md": "项目以开源方式发布技能包，涉及 Agent Skills 开放标准与社区共享。",
+    "topics/cyber-research-models-without-jailbreak.md": "内容聚焦漏洞挖掘与安全研究的 Agent 使用方式，与网安研究选型主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文主体是可安装到 Claude Code 的技能包，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目以开源方式发布技能包，涉及 Agent Skills 开放标准与社区共享。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "内容聚焦漏洞挖掘与安全研究的 Agent 使用方式，与网安研究选型主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @lxfater 的帖文，未独立核实 GitHub 星数等指标的实时准确性。"
+}

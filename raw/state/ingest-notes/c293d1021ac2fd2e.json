@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "Mirobody 通过 llama.cpp 在本地运行模型，属于本地开放助手范畴。",
+    "topics/local-desensitization-before-models.md": "文章强调病历全程本地处理、不传外部服务器，与本地隐私处理相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Mirobody 定位个人健康助理，涉及个人 Agent 数据管理与本地部署。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Mirobody 通过 llama.cpp 在本地运行模型，属于本地开放助手范畴。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "文章强调病历全程本地处理、不传外部服务器，与本地隐私处理相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Mirobody 定位个人健康助理，涉及个人 Agent 数据管理与本地部署。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

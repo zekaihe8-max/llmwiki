@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:40:17.158Z",
+  "url": "https://x.com/servasyy_ai/status/2122289929665523962",
+  "slug": "4581d64f0cbdcdc6",
+  "content_hash": "7eedf10d43cfd8d0b1e9cca838b7c99a13c38899bd8c0f6be525938d4adfc474",
+  "source": {
+    "path": "sources/articles/qwen4-max-official-release-test-two-week-iteration-fixes-long-ta.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章采用同题重测、盲评、程序自动核对等社区实测方法，对抗单一榜单分数炒作。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "对比了思考档位、token 用量、延迟与价格等多维指标，超越单纯 token 计数的评测视角。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "实测表明长报告、长文精读、中文写作、3D 生成等长任务已可放心交给模型。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章采用同题重测、盲评、程序自动核对等社区实测方法，对抗单一榜单分数炒作。",
+    "topics/tasks-confidently-handed-to-ai.md": "实测表明长报告、长文精读、中文写作、3D 生成等长任务已可放心交给模型。",
+    "topics/harness-comparison-beyond-tokens.md": "对比了思考档位、token 用量、延迟与价格等多维指标，超越单纯 token 计数的评测视角。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qwen4-max-official-release-test-two-week-iteration-fixes-long-ta.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "文章采用同题重测、盲评、程序自动核对等社区实测方法，对抗单一榜单分数炒作。",
+      "topics/tasks-confidently-handed-to-ai.md": "实测表明长报告、长文精读、中文写作、3D 生成等长任务已可放心交给模型。",
+      "topics/harness-comparison-beyond-tokens.md": "对比了思考档位、token 用量、延迟与价格等多维指标，超越单纯 token 计数的评测视角。"
+    },
+    "notes": "Source is a single X post with embedded media; all metrics self-reported by the author. No independent replication verified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qwen4-max-official-release-test-two-week-iteration-fixes-long-ta.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

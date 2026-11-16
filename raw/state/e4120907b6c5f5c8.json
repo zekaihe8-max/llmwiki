@@ -1,0 +1,23 @@
+{
+  "slug": "e4120907b6c5f5c8",
+  "url": "https://www.youtube.com/watch?v=tBMlXQIrYK4",
+  "title": "YouTube",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "e4120907b6c5f5c8d23d9b8670dd98890ad4aca54aa29a16be1c1aeec5cdec7e",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:34.879Z",
+  "content_hash": "21155f09caf56e041719fa257695379ed2c3289dce7228f4d9bd3ca01bc685fa",
+  "article_path": "articles/e4120907b6c5f5c8.md",
+  "fetched_url": "https://www.youtube.com/watch?v=tBMlXQIrYK4",
+  "source_path": "sources/articles/youtube-video-page.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T12:40:50.367Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

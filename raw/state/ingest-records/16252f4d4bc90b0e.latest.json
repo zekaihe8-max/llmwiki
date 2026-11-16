@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T11:58:15.293Z",
+  "url": "https://x.com/Khazix0918/status/2122268349707219333",
+  "slug": "16252f4d4bc90b0e",
+  "content_hash": "f28cf223209f2eab5a5252c03fc884bc99b4f9e668171c95fe9a87eed371dbbb",
+  "source": {
+    "path": "sources/articles/top-10-favorite-agent-prompts.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文中的提示词多用于代码库分析、PR 评审和长期维护，与智能体规模化工程主题相近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "列出的 10 条 Prompt 可视为可复用的 Agent Skill 或工作模板，与 Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "这些 Prompt 本质上是面向 Agent 的上下文与指令工程，属于提示词设计实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文中的提示词多用于代码库分析、PR 评审和长期维护，与智能体规模化工程主题相近。",
+    "topics/context-engineering-for-agents.md": "这些 Prompt 本质上是面向 Agent 的上下文与指令工程，属于提示词设计实践。",
+    "topics/agent-skill-authoring.md": "列出的 10 条 Prompt 可视为可复用的 Agent Skill 或工作模板，与 Skill 编写主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/top-10-favorite-agent-prompts.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "帖文中的提示词多用于代码库分析、PR 评审和长期维护，与智能体规模化工程主题相近。",
+      "topics/context-engineering-for-agents.md": "这些 Prompt 本质上是面向 Agent 的上下文与指令工程，属于提示词设计实践。",
+      "topics/agent-skill-authoring.md": "列出的 10 条 Prompt 可视为可复用的 Agent Skill 或工作模板，与 Skill 编写主题相关。"
+    },
+    "notes": "本条目仅基于单条 X 帖文整理，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/top-10-favorite-agent-prompts.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

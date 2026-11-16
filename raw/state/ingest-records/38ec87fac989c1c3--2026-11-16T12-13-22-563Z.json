@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:13:22.563Z",
+  "url": "https://x.com/turingou/status/2122257927876829250",
+  "slug": "38ec87fac989c1c3",
+  "content_hash": "c5d0d403a2756977a29ba5185bab3328f769660265d0d488ccac968a0e098405",
+  "source": {
+    "path": "sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "高缓存命中率体现对既有构建产物的复用优先"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "构建服务与自动化打包属于软件工厂范畴"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "构建耗时与缓存命中率直接影响开发者体验（DX）"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "构建服务与自动化打包属于软件工厂范畴",
+    "topics/ux-dx-and-ax.md": "构建耗时与缓存命中率直接影响开发者体验（DX）",
+    "topics/reuse-before-write.md": "高缓存命中率体现对既有构建产物的复用优先"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "构建服务与自动化打包属于软件工厂范畴",
+      "topics/ux-dx-and-ax.md": "构建耗时与缓存命中率直接影响开发者体验（DX）",
+      "topics/reuse-before-write.md": "高缓存命中率体现对既有构建产物的复用优先"
+    },
+    "notes": "所有主张均基于该 X 帖文，未独立核实；帖文显示发布于 2026-11-16。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

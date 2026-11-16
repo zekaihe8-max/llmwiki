@@ -1,0 +1,23 @@
+{
+  "slug": "5f85a3f54a95f92e",
+  "url": "https://www.slopmanifesto.com/",
+  "title": "slopmanifesto.com",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "filed",
+  "hash": "5f85a3f54a95f92ed52611360e4d901e1127ec215b1d7e90edc4c977e2ec600c",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": "2026-11-16T11:57:18.630Z",
+  "content_hash": "d8ed1899078c0f7c08b01795f98973bf1c2378b3c6296170dbe44c2d20d312e5",
+  "article_path": "articles/5f85a3f54a95f92e.md",
+  "fetched_url": "https://www.slopmanifesto.com/",
+  "source_path": "sources/articles/no-ai-slop-a-manifesto.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-16T12:01:52.291Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

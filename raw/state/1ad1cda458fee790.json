@@ -1,0 +1,34 @@
+{
+  "slug": "1ad1cda458fee790",
+  "url": "http://chat.mirobody.cn/",
+  "title": "chat.mirobody.cn",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "failed",
+  "hash": "1ad1cda458fee790dcd97380c5910fe3da76714d832cf63663e195db660e2085",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 500 Internal Server Error",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-16T11:57:38.672Z",
+      "stage": "fetch",
+      "error": "HTTP 500 Internal Server Error"
+    },
+    {
+      "at": "2026-11-16T12:48:16.056Z",
+      "stage": "fetch",
+      "error": "HTTP 500 Internal Server Error"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 500 Internal Server Error",
+  "last_fetch_failed_at": "2026-11-16T12:48:16.056Z"
+}

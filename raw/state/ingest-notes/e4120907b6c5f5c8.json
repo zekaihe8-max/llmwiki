@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "YouTube 是 Google 旗下订阅与广告平台，页脚含 Advertise 与 Creators，与订阅和商业化话题相邻。",
+    "topics/usage-limit-ab-tests.md": "页脚出现“Test new features”，与平台功能测试和 A/B 实验相关。",
+    "topics/tech-misuse-concern-continuity.md": "页脚含 Policy & Safety、Privacy、Terms，涉及平台安全与技术滥用关切。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "YouTube 是 Google 旗下订阅与广告平台，页脚含 Advertise 与 Creators，与订阅和商业化话题相邻。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "页脚出现“Test new features”，与平台功能测试和 A/B 实验相关。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "页脚含 Policy & Safety、Privacy、Terms，涉及平台安全与技术滥用关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fetched markdown contains only YouTube footer navigation and copyright text; no video title, description, or channel metadata was available to extract."
+}
