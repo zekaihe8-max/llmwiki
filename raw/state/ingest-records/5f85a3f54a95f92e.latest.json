@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:01:52.290Z",
+  "url": "https://www.slopmanifesto.com/",
+  "slug": "5f85a3f54a95f92e",
+  "content_hash": "d8ed1899078c0f7c08b01795f98973bf1c2378b3c6296170dbe44c2d20d312e5",
+  "source": {
+    "path": "sources/articles/no-ai-slop-a-manifesto.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "宣言提到智能体群一天产出超出个人审阅能力，涉及智能体规模化工程与审核瓶颈。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "宣言讨论 AI 生成代码与 slop，直接对应 AI 代码质量与屎山问题。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "宣言附带资源中包含《Why Software Factories Fail》，与软件工厂主题相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 vibe coding 与一键提示，属于宣言涉及的低思考 AI 使用场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "宣言讨论 AI 生成代码与 slop，直接对应 AI 代码质量与屎山问题。",
+    "topics/vibe-coding-memory-paradox.md": "文中明确提到 vibe coding 与一键提示，属于宣言涉及的低思考 AI 使用场景。",
+    "topics/software-factory.md": "宣言附带资源中包含《Why Software Factories Fail》，与软件工厂主题相关。",
+    "topics/agent-scaled-engineering.md": "宣言提到智能体群一天产出超出个人审阅能力，涉及智能体规模化工程与审核瓶颈。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/no-ai-slop-a-manifesto.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-code-vs-messy-code-double-standard.md": "宣言讨论 AI 生成代码与 slop，直接对应 AI 代码质量与屎山问题。",
+      "topics/vibe-coding-memory-paradox.md": "文中明确提到 vibe coding 与一键提示，属于宣言涉及的低思考 AI 使用场景。",
+      "topics/software-factory.md": "宣言附带资源中包含《Why Software Factories Fail》，与软件工厂主题相关。",
+      "topics/agent-scaled-engineering.md": "宣言提到智能体群一天产出超出个人审阅能力，涉及智能体规模化工程与审核瓶颈。"
+    },
+    "notes": "基于 fetched article markdown 生成，未引用页面外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/no-ai-slop-a-manifesto.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

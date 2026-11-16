@@ -1,0 +1,34 @@
+{
+  "slug": "c0584b39d541d4a1",
+  "url": "https://www.bilibili.com/toy/gem-polish/index.html",
+  "title": "B 站 TOY",
+  "digest": "2026-11-16-cn-x.md",
+  "status": "failed",
+  "hash": "c0584b39d541d4a12b402244fbfbc19925c5bca8c51234a44297481e9d75ac44",
+  "first_seen": "2026-11-16T11:57:16.590Z",
+  "last_seen": "2026-11-16T11:57:16.590Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-16T11:57:28.024Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    },
+    {
+      "at": "2026-11-16T12:48:14.999Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-16T12:48:14.999Z"
+}

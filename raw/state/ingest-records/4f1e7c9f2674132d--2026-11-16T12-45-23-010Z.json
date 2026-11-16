@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:45:23.010Z",
+  "url": "https://github.com/n2ns/antigravity-panel",
+  "slug": "4f1e7c9f2674132d",
+  "content_hash": "a444e9d358a63473714225e22dfdbe09fb5400b0ec23ee07d802766383b68bca",
+  "source": {
+    "path": "sources/articles/antigravity-panel.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章展示多模型额度池治理、每周限额与重置窗口，属于智能体算力与治理的具体实践。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及额度监控、积分追踪与缓存管理，属于编程 Agent 的 Token/额度工具与开销范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章聚焦编程 Agent 的使用体验与额度限制，包括状态栏阈值、使用趋势与剩余额度估算。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章包含对话上下文窗口填充监控与 80% 压缩预警，直接对应 Agent 上下文工程主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及额度监控、积分追踪与缓存管理，属于编程 Agent 的 Token/额度工具与开销范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "文章聚焦编程 Agent 的使用体验与额度限制，包括状态栏阈值、使用趋势与剩余额度估算。",
+    "topics/context-engineering-for-agents.md": "文章包含对话上下文窗口填充监控与 80% 压缩预警，直接对应 Agent 上下文工程主题。",
+    "topics/agent-compute-and-governance.md": "文章展示多模型额度池治理、每周限额与重置窗口，属于智能体算力与治理的具体实践。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-panel.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "文章涉及额度监控、积分追踪与缓存管理，属于编程 Agent 的 Token/额度工具与开销范畴。",
+      "topics/coding-agent-ux-vs-quota.md": "文章聚焦编程 Agent 的使用体验与额度限制，包括状态栏阈值、使用趋势与剩余额度估算。",
+      "topics/context-engineering-for-agents.md": "文章包含对话上下文窗口填充监控与 80% 压缩预警，直接对应 Agent 上下文工程主题。",
+      "topics/agent-compute-and-governance.md": "文章展示多模型额度池治理、每周限额与重置窗口，属于智能体算力与治理的具体实践。"
+    },
+    "notes": "所有信息均来源于提供的 GitHub 页面 Markdown，未引入外部事实或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-panel.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:44:56.963Z",
+  "url": "https://marketplace.visualstudio.com/items?itemName=crsx.ag-usage",
+  "slug": "9e278ba16e049705",
+  "content_hash": "4c3038cf0b1f2382badad0c19f7f8170a581960de15982adc0496d94769e3804",
+  "source": {
+    "path": "sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "关注智能体算力与治理，与本地使用量读取与配额监控相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章聚焦编程 Agent 的体验与额度，与 AG Usage 追踪 AI 模型配额的主题高度相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，与 Antigravity AI 模型订阅配额追踪场景相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与限制，与扩展对配额重置、阈值通知的关注点相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章聚焦编程 Agent 的体验与额度，与 AG Usage 追踪 AI 模型配额的主题高度相关。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与限制，与扩展对配额重置、阈值通知的关注点相近。",
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与 Antigravity AI 模型订阅配额追踪场景相关。",
+    "topics/agent-compute-and-governance.md": "关注智能体算力与治理，与本地使用量读取与配额监控相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "文章聚焦编程 Agent 的体验与额度，与 AG Usage 追踪 AI 模型配额的主题高度相关。",
+      "topics/usage-limit-ab-tests.md": "涉及用量上限与限制，与扩展对配额重置、阈值通知的关注点相近。",
+      "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与 Antigravity AI 模型订阅配额追踪场景相关。",
+      "topics/agent-compute-and-governance.md": "关注智能体算力与治理，与本地使用量读取与配额监控相关。"
+    },
+    "notes": "Source is the Visual Studio Code Marketplace page for crsx.ag-usage; no URLs beyond the article were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

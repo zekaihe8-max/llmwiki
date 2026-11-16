@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-native-web-search.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "文章聚焦 DeepSeek 自营 API 与官方前端示例，与该话题的 DeepSeek 推理平台定位最贴近。",
+    "topics/agent-native-web-search.md": "文中多次提及联网搜索、搜索引用与读链接能力，属于面向 Agent 的联网搜索范畴。",
+    "topics/ux-dx-and-ax.md": "chat-demo 是面向开发者的静态参考前端，涉及用户体验、开发者体验与接口体验。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek 自营 API 与官方前端示例，与该话题的 DeepSeek 推理平台定位最贴近。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中多次提及联网搜索、搜索引用与读链接能力，属于面向 Agent 的联网搜索范畴。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "chat-demo 是面向开发者的静态参考前端，涉及用户体验、开发者体验与接口体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

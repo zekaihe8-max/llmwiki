@@ -1,0 +1,74 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:48:48.492Z",
+  "url": "https://aatishb.com/myriad/how-brains-learn",
+  "slug": "1ffefe70f25af0c4",
+  "content_hash": "dad1c7666e7b8298cd96d3746a5d6398e9f10b8c541fafd4e785a7f48bc737b6",
+  "source": {
+    "path": "sources/articles/watch-a-brain-learn.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/interactive-world-models.md",
+    "topics/brain-computer-assisted-speech.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章探讨智能体通过试错自主学习行为，与智能体基础能力相关"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "文中描述基于奖励反馈的参数迭代训练循环，与AI训练语料回灌循环有方法论相通之处"
+    },
+    {
+      "path": "topics/brain-computer-assisted-speech.md",
+      "action": "unchanged",
+      "reason": "文中涉及大脑学习机制与神经科学，与脑机接口/脑科学主题相近"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文中包含可交互的火花大脑模拟与学习路径可视化，属于交互式世界模型范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "文章探讨智能体通过试错自主学习行为，与智能体基础能力相关",
+    "topics/interactive-world-models.md": "文中包含可交互的火花大脑模拟与学习路径可视化，属于交互式世界模型范畴",
+    "topics/brain-computer-assisted-speech.md": "文中涉及大脑学习机制与神经科学，与脑机接口/脑科学主题相近",
+    "topics/ai-media-training-corpus-loop.md": "文中描述基于奖励反馈的参数迭代训练循环，与AI训练语料回灌循环有方法论相通之处"
+  },
+  "files_changed": [
+    "sources/articles/watch-a-brain-learn.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/interactive-world-models.md",
+      "topics/brain-computer-assisted-speech.md",
+      "topics/ai-media-training-corpus-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "文章探讨智能体通过试错自主学习行为，与智能体基础能力相关",
+      "topics/interactive-world-models.md": "文中包含可交互的火花大脑模拟与学习路径可视化，属于交互式世界模型范畴",
+      "topics/brain-computer-assisted-speech.md": "文中涉及大脑学习机制与神经科学，与脑机接口/脑科学主题相近",
+      "topics/ai-media-training-corpus-loop.md": "文中描述基于奖励反馈的参数迭代训练循环，与AI训练语料回灌循环有方法论相通之处"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/watch-a-brain-learn.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

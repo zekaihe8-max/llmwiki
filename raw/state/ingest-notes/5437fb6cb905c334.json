@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与土区订阅涨价直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google AI 不同订阅档位与定价策略，可作背景参考。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，与 AI 订阅渠道变动相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，与土区订阅涨价直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google AI 不同订阅档位与定价策略，可作背景参考。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道取舍，与 AI 订阅渠道变动相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅来自单条 X 帖文及其引用，价格与 Bug 失效未独立核实。"
+}

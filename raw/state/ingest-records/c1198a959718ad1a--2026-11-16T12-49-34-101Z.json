@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:49:34.101Z",
+  "url": "https://x.com/shao__meng/status/2122249961077153958",
+  "slug": "c1198a959718ad1a",
+  "content_hash": "653c75884496f466be5ee3db7206f3709ec8b842f9f9e80bb7d120953963b867",
+  "source": {
+    "path": "sources/articles/deepseek-chat-demo-open-sourced-for-three-days-stars-exceed-3000.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-native-web-search.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中多次提及联网搜索、搜索引用与读链接能力，属于面向 Agent 的联网搜索范畴。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek 自营 API 与官方前端示例，与该话题的 DeepSeek 推理平台定位最贴近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "chat-demo 是面向开发者的静态参考前端，涉及用户体验、开发者体验与接口体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "文章聚焦 DeepSeek 自营 API 与官方前端示例，与该话题的 DeepSeek 推理平台定位最贴近。",
+    "topics/agent-native-web-search.md": "文中多次提及联网搜索、搜索引用与读链接能力，属于面向 Agent 的联网搜索范畴。",
+    "topics/ux-dx-and-ax.md": "chat-demo 是面向开发者的静态参考前端，涉及用户体验、开发者体验与接口体验。"
+  },
+  "files_changed": [
+    "sources/articles/deepseek-chat-demo-open-sourced-for-three-days-stars-exceed-3000.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/agent-native-web-search.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "文章聚焦 DeepSeek 自营 API 与官方前端示例，与该话题的 DeepSeek 推理平台定位最贴近。",
+      "topics/agent-native-web-search.md": "文中多次提及联网搜索、搜索引用与读链接能力，属于面向 Agent 的联网搜索范畴。",
+      "topics/ux-dx-and-ax.md": "chat-demo 是面向开发者的静态参考前端，涉及用户体验、开发者体验与接口体验。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/deepseek-chat-demo-open-sourced-for-three-days-stars-exceed-3000.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

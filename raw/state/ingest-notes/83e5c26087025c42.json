@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文提到 Agent 可直接导出对应视频，与智能体视频剪辑主题直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文涉及播客切片与时间轴辅助剪藏，属 AI 辅助剪藏与媒体笔记范畴。",
+    "topics/agent-skill-authoring.md": "帖文核心是新上线的 Next Token Skill，属于 Agent Skill 编写与使用主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Agent 可直接导出对应视频，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文涉及播客切片与时间轴辅助剪藏，属 AI 辅助剪藏与媒体笔记范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是新上线的 Next Token Skill，属于 Agent Skill 编写与使用主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未打开外部链接，未核实 GitHub、YouTube 及 Gemini 4 的具体内容。"
+}

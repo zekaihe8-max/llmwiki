@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:41:18.598Z",
+  "url": "https://x.com/op7418/status/2122234773162938545",
+  "slug": "d92c8390882981b2",
+  "content_hash": "b26aeaaad91dad41510ca7b401571a00a22709113bdb1f6eb82c3a25829a98d4",
+  "source": {
+    "path": "sources/articles/next-token-episode-10-explains-personal-agent-clearly.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "个人 Agent 属于 Agentic AI 范畴，属于基础相关主题。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文涉及个人助手（Personal Agent）与基建/路由的边界讨论。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 落地环境与限制，帖文提到的“围墙太高”可关联云环境与平台壁垒。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Personal Agent 话题，与该主题的热潮与认知差距最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "帖文聚焦 Personal Agent 话题，与该主题的热潮与认知差距最为贴近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 落地环境与限制，帖文提到的“围墙太高”可关联云环境与平台壁垒。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文涉及个人助手（Personal Agent）与基建/路由的边界讨论。",
+    "topics/agentic-ai-foundation.md": "个人 Agent 属于 Agentic AI 范畴，属于基础相关主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/next-token-episode-10-explains-personal-agent-clearly.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-hype-familiarity-gap.md": "帖文聚焦 Personal Agent 话题，与该主题的热潮与认知差距最为贴近。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 落地环境与限制，帖文提到的“围墙太高”可关联云环境与平台壁垒。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "帖文涉及个人助手（Personal Agent）与基建/路由的边界讨论。",
+      "topics/agentic-ai-foundation.md": "个人 Agent 属于 Agentic AI 范畴，属于基础相关主题。"
+    },
+    "notes": "日期为 2026 年 11 月 16 日，系按原文保留；未核实 Next Token 节目及 YouTube 链接具体内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/next-token-episode-10-explains-personal-agent-clearly.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

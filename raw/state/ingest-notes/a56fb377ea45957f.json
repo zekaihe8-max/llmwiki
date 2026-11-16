@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/menubar-management-tool-gap.md",
+    "topics/computer-use.md",
+    "topics/ai-assisted-os-port-wave.md"
+  ],
+  "selection_reasons": {
+    "topics/menubar-management-tool-gap.md": "本工具常驻菜单栏并提供菜单栏图标与状态，与菜单栏管理工具领域最相关",
+    "topics/computer-use.md": "本工具用于远程操控 Mac 屏幕，属于远程计算机使用与显示管理范畴",
+    "topics/ai-assisted-os-port-wave.md": "本工具调用 macOS 未公开系统接口创建虚拟屏与关闭显示器，涉及系统层面的非公开接口利用"
+  },
+  "topics": [
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "本工具常驻菜单栏并提供菜单栏图标与状态，与菜单栏管理工具领域最相关"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "本工具用于远程操控 Mac 屏幕，属于远程计算机使用与显示管理范畴"
+    },
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "本工具调用 macOS 未公开系统接口创建虚拟屏与关闭显示器，涉及系统层面的非公开接口利用"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章为 GitHub README，未独立核实功能声明，已按要求使用「帖文称」表述。"
+}

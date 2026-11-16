@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "构建服务与自动化打包属于软件工厂范畴",
+    "topics/ux-dx-and-ax.md": "构建耗时与缓存命中率直接影响开发者体验（DX）",
+    "topics/reuse-before-write.md": "高缓存命中率体现对既有构建产物的复用优先"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "构建服务与自动化打包属于软件工厂范畴"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "构建耗时与缓存命中率直接影响开发者体验（DX）"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "高缓存命中率体现对既有构建产物的复用优先"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该 X 帖文，未独立核实；帖文显示发布于 2026-11-16。"
+}

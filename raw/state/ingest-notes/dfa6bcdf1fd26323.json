@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/iphone-duo-user-vs-developer-reception.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "帖文涉及折叠屏设备对远程桌面/虚拟屏的适配需求，与折叠屏应用适配主题相近。",
+    "topics/minimal-core-community-extensions.md": "核心观点是社区扩展/补丁填补官方功能缺口，与“精简核心与社区扩展”相关。",
+    "topics/iphone-duo-user-vs-developer-reception.md": "文中体现普通用户与开发者对折叠屏/新形态设备功能缺失的不同反应与自建解决方案。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文涉及折叠屏设备对远程桌面/虚拟屏的适配需求，与折叠屏应用适配主题相近。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "核心观点是社区扩展/补丁填补官方功能缺口，与“精简核心与社区扩展”相关。"
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "文中体现普通用户与开发者对折叠屏/新形态设备功能缺失的不同反应与自建解决方案。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文，未独立核实 GitHub 仓库内容；日期为帖文显示时间。"
+}

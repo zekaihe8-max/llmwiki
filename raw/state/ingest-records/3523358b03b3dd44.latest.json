@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:32:06.462Z",
+  "url": "https://x.com/lxfater/status/2122169351713243359",
+  "slug": "3523358b03b3dd44",
+  "content_hash": "a8cf56e1d982fb53215bed2e996b2d724736bdf5ede680f931dfea2388de6726",
+  "source": {
+    "path": "sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/cyber-research-models-without-jailbreak.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文主体是可安装到 Claude Code 的技能包，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目以开源方式发布技能包，涉及 Agent Skills 开放标准与社区共享。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "内容聚焦漏洞挖掘与安全研究的 Agent 使用方式，与网安研究选型主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文主体是可安装到 Claude Code 的技能包，与 Agent Skill 编写主题直接相关。",
+    "topics/agent-skills-open-standard.md": "项目以开源方式发布技能包，涉及 Agent Skills 开放标准与社区共享。",
+    "topics/cyber-research-models-without-jailbreak.md": "内容聚焦漏洞挖掘与安全研究的 Agent 使用方式，与网安研究选型主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/cyber-research-models-without-jailbreak.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文主体是可安装到 Claude Code 的技能包，与 Agent Skill 编写主题直接相关。",
+      "topics/agent-skills-open-standard.md": "项目以开源方式发布技能包，涉及 Agent Skills 开放标准与社区共享。",
+      "topics/cyber-research-models-without-jailbreak.md": "内容聚焦漏洞挖掘与安全研究的 Agent 使用方式，与网安研究选型主题相近。"
+    },
+    "notes": "来源为 X 平台 @lxfater 的帖文，未独立核实 GitHub 星数等指标的实时准确性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

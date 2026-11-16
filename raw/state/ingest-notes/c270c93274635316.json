@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是手机远程控制电脑，与 Computer Use 主题直接相关。",
+    "topics/mobile-agent-dev-full-chain.md": "涉及手机端对电脑端的 Agent 控制，属手机端 Agent 全链路场景。",
+    "topics/phone-own-server-agent-workbench.md": "手机连接并操控电脑端工作台，与手机操控 Agent 工作台主题相近。",
+    "topics/grok-bot-x-api-substitute.md": "帖文后半部分提及 Grok Bot 与 WorkBuddy 打通，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是手机远程控制电脑，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及手机端对电脑端的 Agent 控制，属手机端 Agent 全链路场景。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "手机连接并操控电脑端工作台，与手机操控 Agent 工作台主题相近。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文后半部分提及 Grok Bot 与 WorkBuddy 打通，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入外部事实。"
+}

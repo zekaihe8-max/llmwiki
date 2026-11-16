@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:13:47.776Z",
+  "url": "https://x.com/xiaomovps/status/2122238796934828230",
+  "slug": "ee76844c1a3e15be",
+  "content_hash": "96d084e5b30377c85341496732d4fcd1b46c37df6675bd79c28d1302f02c68b7",
+  "source": {
+    "path": "sources/articles/deepseek-harness-can-now-directly-operate-computers.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Agent 操作桌面与应用属于智能体自动化/自动模式范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 DSH 接入 Computer Use，直接对应该主题。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 DSH 产品本身的社区动态，与本文所属产品线相近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Harness 插件机制与稳定性，文中提到插件加载失败不再导致 Web 启动失败。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 DSH 接入 Computer Use，直接对应该主题。",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 DSH 产品本身的社区动态，与本文所属产品线相近。",
+    "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件机制与稳定性，文中提到插件加载失败不再导致 Web 启动失败。",
+    "topics/agent-auto-mode.md": "Agent 操作桌面与应用属于智能体自动化/自动模式范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-can-now-directly-operate-computers.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是 DSH 接入 Computer Use，直接对应该主题。",
+      "topics/dsh-grok-cross-dispatch.md": "涉及 DSH 产品本身的社区动态，与本文所属产品线相近。",
+      "topics/loose-web-agent-harness-plugins.md": "涉及 Agent Harness 插件机制与稳定性，文中提到插件加载失败不再导致 Web 启动失败。",
+      "topics/agent-auto-mode.md": "Agent 操作桌面与应用属于智能体自动化/自动模式范畴。"
+    },
+    "notes": "所有主题动作均为 unchanged，未创建新主题；未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-can-now-directly-operate-computers.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

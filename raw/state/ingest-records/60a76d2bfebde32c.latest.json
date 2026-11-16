@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:42:35.563Z",
+  "url": "https://github.com/thetahealth/mirobody",
+  "slug": "60a76d2bfebde32c",
+  "content_hash": "aacfc8126548c0aa92448afa5b3eff632c4c17d8ce763a2576c6a3274ced09c9",
+  "source": {
+    "path": "sources/articles/mirobody-local-first-personal-health-data-integration-and-ai-age.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 代理查询健康数据与本地计算选择，属于智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提到 npx skills add 方式将工作流教给编程代理，属于 Agent Skill 开放标准。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章强调在本地运行模型与数据，符合本地开放助手与小模型话题。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "文章通过 MCP 协议统一接入多个 AI 客户端，对应跨 Agent 统一资源库。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章强调在本地运行模型与数据，符合本地开放助手与小模型话题。",
+    "topics/agent-compute-and-governance.md": "文章涉及 AI 代理查询健康数据与本地计算选择，属于智能体算力与治理范畴。",
+    "topics/unified-agent-resource-library.md": "文章通过 MCP 协议统一接入多个 AI 客户端，对应跨 Agent 统一资源库。",
+    "topics/agent-skills-open-standard.md": "文中提到 npx skills add 方式将工作流教给编程代理，属于 Agent Skill 开放标准。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mirobody-local-first-personal-health-data-integration-and-ai-age.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/agent-skills-open-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "文章强调在本地运行模型与数据，符合本地开放助手与小模型话题。",
+      "topics/agent-compute-and-governance.md": "文章涉及 AI 代理查询健康数据与本地计算选择，属于智能体算力与治理范畴。",
+      "topics/unified-agent-resource-library.md": "文章通过 MCP 协议统一接入多个 AI 客户端，对应跨 Agent 统一资源库。",
+      "topics/agent-skills-open-standard.md": "文中提到 npx skills add 方式将工作流教给编程代理，属于 Agent Skill 开放标准。"
+    },
+    "notes": "来源为 GitHub README，部分链接为相对路径，未在 JSON 中展开。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mirobody-local-first-personal-health-data-integration-and-ai-age.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

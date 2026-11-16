@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章强调在本地运行模型与数据，符合本地开放助手与小模型话题。",
+    "topics/agent-compute-and-governance.md": "文章涉及 AI 代理查询健康数据与本地计算选择，属于智能体算力与治理范畴。",
+    "topics/unified-agent-resource-library.md": "文章通过 MCP 协议统一接入多个 AI 客户端，对应跨 Agent 统一资源库。",
+    "topics/agent-skills-open-standard.md": "文中提到 npx skills add 方式将工作流教给编程代理，属于 Agent Skill 开放标准。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章强调在本地运行模型与数据，符合本地开放助手与小模型话题。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 代理查询健康数据与本地计算选择，属于智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "文章通过 MCP 协议统一接入多个 AI 客户端，对应跨 Agent 统一资源库。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提到 npx skills add 方式将工作流教给编程代理，属于 Agent Skill 开放标准。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub README，部分链接为相对路径，未在 JSON 中展开。"
+}

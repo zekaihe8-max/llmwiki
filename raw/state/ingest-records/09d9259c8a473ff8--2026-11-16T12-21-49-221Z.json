@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:21:49.221Z",
+  "url": "https://x.com/0xlangeai/status/2122264218808594716",
+  "slug": "09d9259c8a473ff8",
+  "content_hash": "f581e0ffc2abeaa5f9160e26106cf66c720970bc03d6c09bc08d2aff9b762aaf",
+  "source": {
+    "path": "sources/articles/follow-up-subsidy-information-should-not-be-publicly-shared-on-x.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文中提及新注册 Google 账号、礼品卡使用及土耳其区注册，属账号与资产安全卫生范畴，保持原主题不变。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "旧账号因订阅历史不可用需换号，与订阅风控权重主题相近，保持原主题不变。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Google Ultra 高端订阅的开通，与高端 AI 订阅价值主题相关，无需新建主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章讨论 Google Ultra 高端订阅的开通，与高端 AI 订阅价值主题相关，无需新建主题。",
+    "topics/account-and-asset-security-hygiene.md": "文中提及新注册 Google 账号、礼品卡使用及土耳其区注册，属账号与资产安全卫生范畴，保持原主题不变。",
+    "topics/claude-subscription-risk-control-weights.md": "旧账号因订阅历史不可用需换号，与订阅风控权重主题相近，保持原主题不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/follow-up-subsidy-information-should-not-be-publicly-shared-on-x.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章讨论 Google Ultra 高端订阅的开通，与高端 AI 订阅价值主题相关，无需新建主题。",
+      "topics/account-and-asset-security-hygiene.md": "文中提及新注册 Google 账号、礼品卡使用及土耳其区注册，属账号与资产安全卫生范畴，保持原主题不变。",
+      "topics/claude-subscription-risk-control-weights.md": "旧账号因订阅历史不可用需换号，与订阅风控权重主题相近，保持原主题不变。"
+    },
+    "notes": "内容源自 X 帖文，未核实土区 Google Ultra 开通的具体有效性与合规性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/follow-up-subsidy-information-should-not-be-publicly-shared-on-x.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

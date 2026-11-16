@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及额度监控、积分追踪与缓存管理，属于编程 Agent 的 Token/额度工具与开销范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "文章聚焦编程 Agent 的使用体验与额度限制，包括状态栏阈值、使用趋势与剩余额度估算。",
+    "topics/context-engineering-for-agents.md": "文章包含对话上下文窗口填充监控与 80% 压缩预警，直接对应 Agent 上下文工程主题。",
+    "topics/agent-compute-and-governance.md": "文章展示多模型额度池治理、每周限额与重置窗口，属于智能体算力与治理的具体实践。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及额度监控、积分追踪与缓存管理，属于编程 Agent 的 Token/额度工具与开销范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章聚焦编程 Agent 的使用体验与额度限制，包括状态栏阈值、使用趋势与剩余额度估算。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章包含对话上下文窗口填充监控与 80% 压缩预警，直接对应 Agent 上下文工程主题。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章展示多模型额度池治理、每周限额与重置窗口，属于智能体算力与治理的具体实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有信息均来源于提供的 GitHub 页面 Markdown，未引入外部事实或编造 URL。"
+}

@@ -26,6 +26,88 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [Antigravity Panel（反重力面板） / Antigravity Panel](./sources/articles/antigravity-panel.md) — 一款面向 Google Antigravity IDE 的实时 AI 额度监控与缓存管理侧边栏扩展。 / A real-time AI quota monitor and cache manager sidebar extension for Google Antigravity IDE.
+
+- [AG Usage：Antigravity AI 模型用量追踪扩展 / AG Usage: Antigravity AI Model Usage Tracking Extension](./sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md) — 一款在 Visual Studio Code 中实时追踪 Antigravity AI 模型配额与使用情况的免费扩展。 / A free Visual Studio Code extension for real-time tracking of Antigravity AI model quotas and usage.
+
+- [铁锤人转发：MiniMax H3 打戏 Skill h3-fight 开源 / Tiechuren reposts open-source MiniMax H3 fight-scene Skill h3-fight](./sources/articles/tiechuren-reposts-open-source-minimax-h3-fight-scene-skill-h3-fi.md) — 铁锤人转发黄总关于 MiniMax H3 打戏开源 Skill h3-fight 的帖文，包含 188 个镜头块与检查脚本，可装入 Claude Code / Codex。 / Tiechuren reposts Huang Zong's post about the open-source MiniMax H3 fight-scene Skill h3-fight, containing 188 shot blocks and a check script, loadable into Claude Code / Codex.
+
+- [更喜欢 Amp，吐槽 Antigravity 不如 Cursor / Prefers Amp, criticizes Antigravity as inferior to Cursor](./sources/articles/prefers-amp-criticizes-antigravity-as-inferior-to-cursor.md) — 用户在 X 上表示更喜欢 Amp，并批评 Antigravity 网页版功能落后、不如 Cursor。 / On X, the user says they prefer Amp and criticizes Antigravity's web version as functionally outdated and inferior to Cursor.
+
+- [Mirobody：开源个人健康助理 / Mirobody: Open-Source Personal Health Assistant](./sources/articles/mirobody-open-source-personal-health-assistant.md) — Theta Health 开源的 Mirobody 可在本地统一多语言多单位医学指标，并接入 Apple Health、基因文件与可穿戴设备数据。 / Theta Health's open-source Mirobody unifies multi-language, multi-unit medical indicators locally and connects Apple Health, genetic files, and wearable device data.
+
+- [Mirobody：个人健康数据本地化整合与 AI 代理平台 / Mirobody: Local-first Personal Health Data Integration and AI Agent Platform](./sources/articles/mirobody-local-first-personal-health-data-integration-and-ai-age.md) — Mirobody 是一个开源平台，将化验报告、可穿戴设备和基因数据整合到本地，并通过 AI 代理和 MCP 协议实现离线标准化与查询。 / Mirobody is an open-source platform that integrates lab reports, wearables, and genetic data locally, enabling offline standardization and querying via AI agents and MCP.
+
+- [歸藏称新上线的 Next Token Skill 可直接导出播客切片视频 / Guizang says newly launched Next Token Skill can directly export podcast clip videos](./sources/articles/guizang-says-newly-launched-next-token-skill-can-directly-export.md) — 歸藏介绍新上线的 Next Token Skill 自带时间轴，可让 Agent 直接导出对应视频并分发到其他媒体平台。 / Guizang introduces the newly launched Next Token Skill, which comes with timestamps and lets an Agent directly export corresponding videos for distribution to other media platforms.
+
+- [Next Token Skill / Next Token Skill](./sources/articles/next-token-skill.md) — 一个让 AI Agent 基于 Next Token 播客逐字稿回答问题并附带视频时间戳的本地技能 / A local skill that lets AI Agents answer questions based on Next Token podcast transcripts with video timestamps
+
+- [第十期 Next Token 把 Personal Agent 讲清楚了 / Next Token Episode 10 Explains Personal Agent Clearly](./sources/articles/next-token-episode-10-explains-personal-agent-clearly.md) — 歸藏在 X 上称 Next Token 第十期讲透了 Personal Agent，并指出移动互联网围墙高导致个人 Agent 难以落地。 / Guizang says on X that Next Token Episode 10 clearly explains Personal Agent, and notes that high walls of the previous mobile internet made Personal Agent hard to realize.
+
+- [YouTube 视频页面 / YouTube Video Page](./sources/articles/youtube-video-page.md) — 这是一个 YouTube 视频页面，页脚仅列出 Google/YouTube 的标准法律、创作者与安全链接，并标注 2026 年版权。 / This is a YouTube video page whose footer lists only standard Google/YouTube legal, creator, and safety links and a 2026 copyright notice.
+
+- [Qwen4-Max 正式版实测：两周迭代修复长任务稳定性，3D 成功率跃升至 75% / Qwen4-Max Official Release Test: Two-Week Iteration Fixes Long-Task Stability, 3D Success Rate Jumps to 75%](./sources/articles/qwen4-max-official-release-test-two-week-iteration-fixes-long-ta.md) — 博主用同一套题对比预览版与正式版，长报告不再截断、中文写作分数大涨、3D 场景一次打开率从三成升至七成，默认思考档位降级却更省 token。 / The author re-ran the identical test suite against preview and official versions; long reports no longer truncate, Chinese writing scores jump, 3D scene first-open rate rises from ~30% to ~75%, while the default thinking tier drops yet token usage falls 28%.
+
+- [民间补丁比官方更快：折叠屏远控 Mac 靠社区工具补齐虚拟屏 / Community patch beats official update: foldable screen remote Mac relies on community tool to fill virtual screen gap](./sources/articles/community-patch-beats-official-update-foldable-screen-remote-mac.md) — 帖文称，社区开发者已推出 Mac 端 UU 远程伴侣，让安卓折叠屏可直接为 Mac 建立虚拟屏并远程控制，无需等待官方适配。 / The post says a community-developed Mac tool, UU Remote Companion, lets Android foldable screens create a virtual display for Mac remote control without waiting for official adaptation.
+
+- [UU远程伴侣（UUyc companion） / UU Remote Companion (UUyc companion)](./sources/articles/uu-remote-companion-uuyc-companion.md) — 一款为 Mac 版 UU远程 提供自动虚拟屏幕与黑边消除的第三方菜单栏工具 / A third-party menu-bar tool for Mac UU Remote that automatically creates matching virtual screens and eliminates letterboxing
+
+- [681 份漏洞报告做成了开源 Claude Code 技能包 / 681 vulnerability reports turned into open-source Claude Code skill pack](./sources/articles/681-vulnerability-reports-turned-into-open-source-claude-code-sk.md) — 帖文称有人将 681 份公开漏洞报告提炼为 Claude Code 技能包并开源，覆盖 Web 漏洞排查、外网资产核验与规范报告撰写。 / The post claims someone distilled 681 public vulnerability reports into an open-source Claude Code skill pack covering web vulnerability scanning, external asset verification, and standardized report writing.
+
+- [Claude-BugHunter 漏洞猎杀技能包 / Claude-BugHunter: Claude Code Bug Hunting & Red-Team Skill Bundle](./sources/articles/claude-bughunter-claude-code-bug-hunting-red-team-skill-bundle.md) — 面向 Claude Code 的自包含漏洞猎杀与外部红队技能包，含 83 项技能与 15 个斜杠命令。 / A self-contained Claude Code skill bundle for bug hunting and external red-team work, with 83 skills and 15 slash commands.
+
+- [Barret李靖分享六款提升 DSH 自主性与可调试性的插件 / Barret Li Jing Shares Six Plugins to Boost DSH Autonomy and Debuggability](./sources/articles/barret-li-jing-shares-six-plugins-to-boost-dsh-autonomy-and-debu.md) — Barret李靖推荐六款 DeepSeek Harness 插件，覆盖插件市场、上下文可视化、工具优化、多 Agent 协作、长期记忆与自我改进，并呼吁开发任务管理插件。 / Barret Li Jing recommends six DeepSeek Harness plugins covering plugin marketplace, context visualization, tool optimization, multi-agent collaboration, long-term memory, and self-improvement, while calling for a task management plugin.
+
+- [软件如水电般随处可用，按需现场制作 / Software as Ubiquitous as Utilities, Made On Demand](./sources/articles/software-as-ubiquitous-as-utilities-made-on-demand.md) — 开发成本趋近于零时，软件将像水电一样随处可用，实体商品可自带数字产品，临时协作可即时生成专属软件。 / When development costs approach zero, software becomes as ubiquitous as utilities, with physical goods bundled with digital products and ad-hoc collaborations generating dedicated software on demand.
+
+- [《宝石工坊》上架 B 站 TOY / "Gem Workshop" Launches on Bilibili TOY Platform](./sources/articles/gem-workshop-launches-on-bilibili-toy-platform.md) — 开发者借多款 AI 智能体零代码上线“赌石”小游戏《宝石工坊》，可在 B 站 TOY 直接游玩。 / Developer launches no-code "stone gambling" minigame "Gem Workshop" on Bilibili TOY using multiple AI agents.
+
+- [土区 Google AI Ultra 订阅价格失效，早订阅者赶上末班车 / Turkey-region Google AI Ultra subscription price ended, early subscriber caught the last bus](./sources/articles/turkey-region-google-ai-ultra-subscription-price-ended-early-sub.md) — 土区 Google AI Ultra 5× 订阅价格从约 270 元人民币涨至约 630 元，错过末班车的等待党受损最大。 / Turkey-region Google AI Ultra 5× subscription price rose from about 270 RMB to 630 RMB, with the wait-and-see crowd hit hardest.
+
+- [WorkBuddy 支持手机远程控制电脑 / WorkBuddy Supports Mobile Remote Control of Computer](./sources/articles/workbuddy-supports-mobile-remote-control-of-computer.md) — WorkBuddy 最新版本新增手机远程控制电脑功能，需在设置中开启远程控制插件、录屏录音与辅助功能。 / WorkBuddy's latest version adds mobile remote control of computers, requiring the remote control plugin, screen recording/system audio, and accessibility features to be enabled in settings.
+
+- [后续：羊毛信息不宜在 X 上公开传播 / Follow-up: Subsidy information should not be publicly shared on X](./sources/articles/follow-up-subsidy-information-should-not-be-publicly-shared-on-x.md) — 蓝哥AI称不应再在 X 上发布羊毛信息，因外国友人也在关注，并回顾土区 Google Ultra 开通秘籍。 / Blue Brother AI says subsidy information should no longer be posted on X because foreigners are also watching, and reviews the Turkey-region Google Ultra activation guide.
+
+- [蓝哥AI 分享土区 Apple 礼品卡开通 Google AI Ultra 5X 完整教程 / Lange AI Shares Full Tutorial for Google AI Ultra 5X via Turkish Apple Gift Cards](./sources/articles/lange-ai-shares-full-tutorial-for-google-ai-ultra-5x-via-turkish.md) — 博主详细记录了通过土耳其区 Apple ID 购买礼品卡、在 Google App 内完成 Google AI Ultra 5X 订阅的全流程及避坑要点。 / The author documents the end-to-end process of subscribing to Google AI Ultra 5X using a Turkish Apple ID and gift cards, including key pitfalls to avoid.
+
+- [Antigravity 额度掉得有点怪 / Antigravity Quota Dropping Strangely](./sources/articles/antigravity-quota-dropping-strangely.md) — Google Antigravity 用户反馈额度异常掉落，作者建议通过监控插件排查并向 Google 反馈。 / Google Antigravity users report abnormal quota drops; the author suggests using monitoring plugins to investigate and report to Google.
+
+- [Google AI Ultra 容易被忽略的 6 项权益 / 6 Easily Overlooked Benefits of Google AI Ultra](./sources/articles/6-easily-overlooked-benefits-of-google-ai-ultra.md) — Google AI Ultra 会员除 YouTube Premium 和云存储外，还提供云端赠金、Colab 算力、AI 音乐积分等多项隐藏权益。 / Beyond YouTube Premium and cloud storage, Google AI Ultra also offers cloud credits, Colab compute, AI music credits and other hidden benefits.
+
+- [DeepSeek Harness 能直接操作电脑了 / DeepSeek Harness Can Now Directly Operate Computers](./sources/articles/deepseek-harness-can-now-directly-operate-computers.md) — DeepSeek Harness 为 macOS 用户推出实验性 Computer Use 插件，Agent 可观察桌面并操作应用程序。 / DeepSeek Harness releases an experimental Computer Use plugin for macOS users, letting Agents observe desktops and operate applications.
+
+- [hayabuild 缓存命中率近 100%，iOS 构建 38 秒自动打包 TestFlight / hayabuild achieves near 100% cache hit rate, 38-second iOS builds auto-published to TestFlight](./sources/articles/hayabuild-achieves-near-100-cache-hit-rate-38-second-ios-builds.md) — 帖文称 hayabuild 极速构建服务缓存命中率几乎达 100%，iOS 项目构建仅需 38 秒即可自动打包至 TestFlight 内测版，计划开放名额。 / The post claims hayabuild extreme build service reached nearly 100% cache hit rate, with iOS projects building in about 38 seconds and automatically packaging to TestFlight internal test versions, slots planned to open soon.
+
+- [Berryxia 推介 GitHub 开源项目 BeanPod：原生 macOS 录音豆管理 App / Berryxia spotlights GitHub open-source project BeanPod: Native macOS Recording Bean Management App](./sources/articles/berryxia-spotlights-github-open-source-project-beanpod-native-ma.md) — 帖文推介 GitHub 仓库 andyhuo520/beanpod，称其为原生 macOS 录音豆管理应用，并列出本机转写、纪要待办、知识库问答等功能。 / The post spotlights GitHub repo andyhuo520/beanpod, describing it as a native macOS recording bean management app and listing features such as local transcription, summaries/todos, and knowledge-base Q&A.
+
+- [豆仓 BeanPod 开源：原生 macOS 录音转写与知识库工具 / BeanPod Open-Sourced: Native macOS Audio Transcription & Knowledge Base Tool](./sources/articles/beanpod-open-sourced-native-macos-audio-transcription-knowledge.md) — Berryxia 发布开源项目 BeanPod，支持本地录音转写、播客导入、英语学习模式及 MCP 接入 Claude/Codex，主打数据不出本机。 / Berryxia releases open-source BeanPod for local audio transcription, podcast import, English learning mode, and MCP integration with Claude/Codex, emphasizing on-device data privacy.
+
+- [豆仓 BeanPod：本地转写与 AI 整理的 macOS 录音助手 / BeanPod: Local Transcription and AI Organization macOS Recording Assistant](./sources/articles/beanpod-local-transcription-and-ai-organization-macos-recording.md) — 一款原生 macOS 开源应用，用于管理 Anker 录音豆，在本机转写录音并生成纪要、待办与知识库问答。 / A native open-source macOS app for managing Anker recording beans, transcribing recordings locally and generating summaries, todos, and knowledge-base Q&A.
+
+- [为马斯克访谈视频做中文数据库网站 / Chinese database website for Elon Musk interview videos](./sources/articles/chinese-database-website-for-elon-musk-interview-videos.md) — 基于法国小哥数据，将近 600 条马斯克访谈视频整理成中文可阅读的数据库网站。 / Based on a French contributor's data, nearly 600 Elon Musk interview videos are organized into a Chinese-readable database website.
+
+- [腾讯 Hy4 flash 实测：免费搭建马斯克访谈网站并开源 Skill / Tencent Hy4 flash hands-on: building a Musk interview website for free and open-sourcing Skills](./sources/articles/tencent-hy4-flash-hands-on-building-a-musk-interview-website-for.md) — 帖文称用腾讯 Hy4 flash 免费开发马斯克全访谈网站，并开源网站部署与 GitHub 发布 Skill。 / The post claims Tencent Hy4 flash was used to develop a complete Musk interview website for free, and open-sourced website deployment and GitHub publishing Skills.
+
+- [马斯克：工作的终结、金钱的消亡与AI主宰的世界 / Elon Musk: The End of Work, the Death of Money, and a World Run by AI](./sources/articles/elon-musk-the-end-of-work-the-death-of-money-and-a-world-run-by.md) — 收录 The Builders with Walter Isaacson 访谈《马斯克：工作的终结、金钱的消亡与AI主宰的世界》的中英双语聚合页，并提供 28 年访谈数据洞察与档案精选。 / A bilingual Chinese-English aggregation page hosting The Builders with Walter Isaacson interview Elon Musk: The End of Work, the Death of Money, and a World Run by AI, plus 28 years of interview data insights and archive selections.
+
+- [DeepSeek chat-demo 开源三天，Star 已超过 3000 / DeepSeek chat-demo open-sourced for three days, stars exceed 3000](./sources/articles/deepseek-chat-demo-open-sourced-for-three-days-stars-exceed-3000.md) — DeepSeek 开源静态前端 chat-demo，让浏览器直接调用官方 API 实现搜索、读链接和语音等 App 同款能力。 / DeepSeek open-sources the static frontend chat-demo, letting the browser directly call the official API to deliver App-equivalent search, link reading, and voice capabilities.
+
+- [同一模型换评分和配套，排行榜就可能翻面 / Same model, different scoring and harness, leaderboard conclusions may flip](./sources/articles/same-model-different-scoring-and-harness-leaderboard-conclusions.md) — 同一模型在不同评分规则和 Agent 配套下，评测排名和结论可能发生翻转。 / The same model can yield flipped leaderboard rankings and conclusions under different scoring rules and Agent harnesses.
+
+- [No AI Slop 宣言 / No AI Slop Manifesto](./sources/articles/no-ai-slop-manifesto.md) — AI 工程师峰会参与者联合发布宣言，区分负责任的 AI 使用与低劣 slop，强调人类判断与审核不可外包。 / AI Engineer Summit participants release the No AI Slop Manifesto, distinguishing responsible AI use from low-effort slop and stressing that human judgment and review cannot be outsourced.
+
+- [No AI Slop：反 AI 滥制内容宣言 / No AI Slop: A Manifesto](./sources/articles/no-ai-slop-a-manifesto.md) — 一份由 AIE Code Summit 2026 参与者发起的宣言，主张在 AI 辅助开发中坚持人类判断与审核，反对低质量 AI 产出（slop）。 / A manifesto launched by AIE Code Summit 2026 participants advocating human judgment and review in AI-assisted development, opposing low-quality AI output ("slop").
+
+- [四个神经元，怎么学会追光 / How Four Neurons Learn to Chase Light](./sources/articles/how-four-neurons-learn-to-chase-light.md) — 帖文介绍《Watch a Brain Learn》中仅用四个神经元模拟大脑学习追光、逃跑等行为的过程。 / The post introduces how a four-neuron simulation in "Watch a Brain Learn" learns to chase light, escape, and other behaviors through reward and punishment.
+
+- [观察大脑如何学习 / Watch a Brain Learn](./sources/articles/watch-a-brain-learn.md) — 一篇可视化强化学习文章，展示只有四个神经元的数字生物如何通过试错、奖励与惩罚自主学习寻光。 / A visual reinforcement-learning article showing how a four-neuron digital creature autonomously learns to seek light through trial, error, reward, and punishment.
+
+- [主会话加 Thread，Token 其实没那么吓人 / Main Session Plus Thread: Tokens Are Not That Scary](./sources/articles/main-session-plus-thread-tokens-are-not-that-scary.md) — 帖文称，通过主会话路由与子会话专用模型，配合 Prompt Caching 和上下文压缩，可降低 Agent Token 消耗。 / The post claims that main-session routing with dedicated sub-session models, plus Prompt Caching and context compression, can reduce Agent token consumption.
+
+- [AI 手搓几百K纯 HTML 3D 世界，让 HTML 再次伟大 / AI Hand-Crafted Hundred-KB Pure HTML 3D Worlds Make HTML Great Again](./sources/articles/ai-hand-crafted-hundred-kb-pure-html-3d-worlds-make-html-great-a.md) — 帖文称，AI 生成的极小体积纯 HTML 3D 游戏依靠 Three.js 与程序化生成，在浏览器中现场渲染出近 3A 级画面。 / The post claims AI-generated ultra-small pure HTML 3D games rely on Three.js and procedural generation to render near-3A visuals in the browser on the fly.
+
+- [最爱用的 10 句 Agent Prompt / Top 10 Favorite Agent Prompts](./sources/articles/top-10-favorite-agent-prompts.md) — 一位用户在 X 上分享近两个月与 Agent 协作最常使用的 10 条提示词，涵盖根因分析、方案对齐、二阶影响推演等工程实践。 / A user on X shares 10 favorite prompts used when collaborating with Agents over the past two months, covering root-cause analysis, option alignment, second-order impact analysis, and other engineering practices.
+
 - [软件工厂的秘密：让 Agent 抱怨产品与代码库 / The secret to the software factory: make agents complain about your product and codebase](./sources/articles/the-secret-to-the-software-factory-make-agents-complain-about-yo.md) — Kent C. Dodds 称，软件工厂的秘诀是让智能体抱怨在你的产品或代码库中工作时的痛点。 / Kent C. Dodds says the secret to the software factory is getting agents to complain about what they hate about working in your product or codebase.
 
 - [少发提示 / Send Fewer Prompts](./sources/articles/send-fewer-prompts.md) — 下次启动 Agent 会话或发送提示词前，先自问如何无需亲自发送也能得到相同结果，这就是构建软件工厂的方法。 / Before starting an agent session or sending a prompt, ask how to get the same outcome without sending it yourself—that's how you build a software factory.

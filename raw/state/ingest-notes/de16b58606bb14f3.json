@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章详细介绍了如何编写、开源和安装 Workbuddy Skill，与技能编写主题直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "文章核心是实测腾讯 Hy4 flash 模型，并对比其与 Hy4 preview、Hy4 及 DeepSeek 等模型的成本与性价比。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中披露了 Hy4 flash 的 Token 定价与缓存优惠，涉及大模型推理成本效率讨论。",
+    "topics/reuse-before-write.md": "作者复用已有自用 Skill 进行网站开发与发布，体现先复用再编写的原则。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详细介绍了如何编写、开源和安装 Workbuddy Skill，与技能编写主题直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章核心是实测腾讯 Hy4 flash 模型，并对比其与 Hy4 preview、Hy4 及 DeepSeek 等模型的成本与性价比。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中披露了 Hy4 flash 的 Token 定价与缓存优惠，涉及大模型推理成本效率讨论。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "作者复用已有自用 Skill 进行网站开发与发布，体现先复用再编写的原则。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台帖文，标注为付费合作；未核实主张已在摘要与要点中使用“帖文称”或限定表述。"
+}

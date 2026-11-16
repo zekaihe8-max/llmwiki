@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是用可交互的四神经元模型展示学习过程，与交互式世界模型主题相近。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "文末将小型神经网络学习与鸣禽、AI 和人类大脑对比，涉及智能的跨物种基准问题。",
+    "topics/simulation-ready-open-3d-assets.md": "文中把三个参数做成立方体并重绘动画，涉及仿真可视化与三维表达。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是用可交互的四神经元模型展示学习过程，与交互式世界模型主题相近。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "文末将小型神经网络学习与鸣禽、AI 和人类大脑对比，涉及智能的跨物种基准问题。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文中把三个参数做成立方体并重绘动画，涉及仿真可视化与三维表达。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用的外部文章链接为原文作者提供的 t.co 短链，未展开为完整 URL；X 时间线中出现的 Cursor 安全事件推文与本文主题无关，未计入摘要。"
+}

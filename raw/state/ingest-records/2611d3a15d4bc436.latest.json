@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:44:24.612Z",
+  "url": "https://x.com/lxfater/status/2121947751743205383",
+  "slug": "2611d3a15d4bc436",
+  "content_hash": "80b4c73ca928599ffa8d205170cc6a34a90a8a97ec7c75e72a1b236a0b0b72b4",
+  "source": {
+    "path": "sources/articles/tiechuren-reposts-open-source-minimax-h3-fight-scene-skill-h3-fi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是开源 AI 视频打戏 Skill 及其在 Claude Code / Codex 中的编写与复用，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "内容涉及 MiniMax H3 AI 打戏生成与 ComfyUI 工作流，属于智能体/AI 视频编辑范畴。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "h3-fight 为开源工具并装入 AI 助手做提示词编辑，与开源工具装进 AI 助手做剪辑主题相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文强调他人可复用已踩坑经验、少走弯路，体现先复用再编写的理念。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是开源 AI 视频打戏 Skill 及其在 Claude Code / Codex 中的编写与复用，与 Agent Skill 编写主题直接相关。",
+    "topics/agentic-video-editing.md": "内容涉及 MiniMax H3 AI 打戏生成与 ComfyUI 工作流，属于智能体/AI 视频编辑范畴。",
+    "topics/open-source-in-ai-assistant-editing.md": "h3-fight 为开源工具并装入 AI 助手做提示词编辑，与开源工具装进 AI 助手做剪辑主题相近。",
+    "topics/reuse-before-write.md": "帖文强调他人可复用已踩坑经验、少走弯路，体现先复用再编写的理念。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tiechuren-reposts-open-source-minimax-h3-fight-scene-skill-h3-fi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-video-editing.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是开源 AI 视频打戏 Skill 及其在 Claude Code / Codex 中的编写与复用，与 Agent Skill 编写主题直接相关。",
+      "topics/agentic-video-editing.md": "内容涉及 MiniMax H3 AI 打戏生成与 ComfyUI 工作流，属于智能体/AI 视频编辑范畴。",
+      "topics/open-source-in-ai-assistant-editing.md": "h3-fight 为开源工具并装入 AI 助手做提示词编辑，与开源工具装进 AI 助手做剪辑主题相近。",
+      "topics/reuse-before-write.md": "帖文强调他人可复用已踩坑经验、少走弯路，体现先复用再编写的理念。"
+    },
+    "notes": "本条为 X 平台转发/引用帖文，内容基于抓取的帖文文本，未独立核实开源仓库与具体技术细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tiechuren-reposts-open-source-minimax-h3-fight-scene-skill-h3-fi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

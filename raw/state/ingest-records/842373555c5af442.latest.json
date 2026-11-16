@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T11:58:55.481Z",
+  "url": "https://x.com/Khazix0918/status/2122172073170837600",
+  "slug": "842373555c5af442",
+  "content_hash": "da958772bbb909e68a28a854f16a7118878b880caca2c56a471766a3d7426fcf",
+  "source": {
+    "path": "sources/articles/ai-hand-crafted-hundred-kb-pure-html-3d-worlds-make-html-great-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/interactive-world-models.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章核心讲 AI 生成极小体积 HTML 3D 小游戏，与“随手 AI 小游戏一次成功”主题高度相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章强调用代码而非外部资产描述 3D 内容，体现“代码重于规格”的思路。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "程序化生成的 3D 世界在浏览器中实时交互渲染，与实时交互世界模型主题相近。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中讨论 AI 辅助下的 3D 游戏/世界快速生成，属于 Vibe Gaming 模型拐点范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "文章核心讲 AI 生成极小体积 HTML 3D 小游戏，与“随手 AI 小游戏一次成功”主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "文中讨论 AI 辅助下的 3D 游戏/世界快速生成，属于 Vibe Gaming 模型拐点范畴。",
+    "topics/interactive-world-models.md": "程序化生成的 3D 世界在浏览器中实时交互渲染，与实时交互世界模型主题相近。",
+    "topics/code-over-spec.md": "文章强调用代码而非外部资产描述 3D 内容，体现“代码重于规格”的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-hand-crafted-hundred-kb-pure-html-3d-worlds-make-html-great-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/interactive-world-models.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "文章核心讲 AI 生成极小体积 HTML 3D 小游戏，与“随手 AI 小游戏一次成功”主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "文中讨论 AI 辅助下的 3D 游戏/世界快速生成，属于 Vibe Gaming 模型拐点范畴。",
+      "topics/interactive-world-models.md": "程序化生成的 3D 世界在浏览器中实时交互渲染，与实时交互世界模型主题相近。",
+      "topics/code-over-spec.md": "文章强调用代码而非外部资产描述 3D 内容，体现“代码重于规格”的思路。"
+    },
+    "notes": "文中出现的 Claude Fable 5.2、GPT-6 Astra、Gemini 4 Carbon、DeepSeek V4.1 Flash 等模型名及相关发布表述均为帖文所称，未在文中外部核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-hand-crafted-hundred-kb-pure-html-3d-worlds-make-html-great-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

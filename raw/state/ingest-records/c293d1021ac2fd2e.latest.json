@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-16T12:43:13.088Z",
+  "url": "https://x.com/Gorden_Sun/status/2122275196078063849",
+  "slug": "c293d1021ac2fd2e",
+  "content_hash": "8ce6b5c3b8e49372ba8b1dea1f6396de89b94706da51745106356425cf9c10a5",
+  "source": {
+    "path": "sources/articles/mirobody-open-source-personal-health-assistant.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "文章强调病历全程本地处理、不传外部服务器，与本地隐私处理相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Mirobody 通过 llama.cpp 在本地运行模型，属于本地开放助手范畴。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "Mirobody 定位个人健康助理，涉及个人 Agent 数据管理与本地部署。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "Mirobody 通过 llama.cpp 在本地运行模型，属于本地开放助手范畴。",
+    "topics/local-desensitization-before-models.md": "文章强调病历全程本地处理、不传外部服务器，与本地隐私处理相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "Mirobody 定位个人健康助理，涉及个人 Agent 数据管理与本地部署。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mirobody-open-source-personal-health-assistant.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/local-desensitization-before-models.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "Mirobody 通过 llama.cpp 在本地运行模型，属于本地开放助手范畴。",
+      "topics/local-desensitization-before-models.md": "文章强调病历全程本地处理、不传外部服务器，与本地隐私处理相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "Mirobody 定位个人健康助理，涉及个人 Agent 数据管理与本地部署。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mirobody-open-source-personal-health-assistant.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
