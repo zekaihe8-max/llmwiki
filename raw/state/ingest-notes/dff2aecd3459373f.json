@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Noeri 作为新成立的 AI 原生实验室/公司，与该主题相关。",
+    "topics/multiagent-infra-four-problems.md": "“多元智能”与多智能体基建方向相近。",
+    "topics/agentic-ai-foundation.md": "文中提到的自我改进 AI 与智能体基础相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Noeri 作为新成立的 AI 原生实验室/公司，与该主题相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "“多元智能”与多智能体基建方向相近。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中提到的自我改进 AI 与智能体基础相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文，未引入外部信息。"
+}

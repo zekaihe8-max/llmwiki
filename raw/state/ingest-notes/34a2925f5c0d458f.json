@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "World Labs 是 AI 原生公司，其加入 AMD 属于 AI 公司与大厂结合，最贴近本文主题。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大厂 AMD 吸纳 AI 团队，与大厂 AI 人才与组织议题相关。",
+    "topics/frontier-training-containment.md": "文中提到推进前沿科学与技术，与前沿 AI 研发议题有交集。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "World Labs 是 AI 原生公司，其加入 AMD 属于 AI 公司与大厂结合，最贴近本文主题。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大厂 AMD 吸纳 AI 团队，与大厂 AI 人才与组织议题相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中提到推进前沿科学与技术，与前沿 AI 研发议题有交集。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容来源于 X 帖文，未独立核实；未经证实的主张已在摘要中用「帖文称」标注。"
+}

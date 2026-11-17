@@ -1,0 +1,23 @@
+{
+  "slug": "f1a6f59b21e75c17",
+  "url": "https://x.com/rauchg/status/2122458782294847807",
+  "title": "Rauch",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "f1a6f59b21e75c176c99d40e0c32efd374e699caabe75afb301928515cdda6c4",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:33.092Z",
+  "content_hash": "e6ff637b8975e9cdd80b529e0705f57de9fa2850a16b5463b3429141272257eb",
+  "article_path": "articles/f1a6f59b21e75c17.md",
+  "fetched_url": "https://x.com/rauchg/status/2122458782294847807",
+  "source_path": "sources/articles/rauch-vercel-ai-gateway-launches-private-inference-advocates-own.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:24:09.288Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

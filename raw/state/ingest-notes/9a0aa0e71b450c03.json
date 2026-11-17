@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/llm-formal-verification.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章聚焦如何让大量 Agent 并行工作并保持代码质量，与智能体规模化工程主题高度相关。",
+    "topics/agent-skill-authoring.md": "文中提到在 .claude/skills/ 目录下创建 verify 技能，让 Claude 在提交前冒烟测试变更，直接对应 Skill 编写。",
+    "topics/llm-formal-verification.md": "文章讨论验证循环、属性测试与差分测试，属于 LLM 驱动代码验证的实践范畴。",
+    "topics/ai-eval-work-record-gateway.md": "文中提到审阅者评审、误报与漏报评估、提交验证记录，与 AI 评测入口和工作记录相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章聚焦如何让大量 Agent 并行工作并保持代码质量，与智能体规模化工程主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到在 .claude/skills/ 目录下创建 verify 技能，让 Claude 在提交前冒烟测试变更，直接对应 Skill 编写。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章讨论验证循环、属性测试与差分测试，属于 LLM 驱动代码验证的实践范畴。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文中提到审阅者评审、误报与漏报评估、提交验证记录，与 AI 评测入口和工作记录相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "All facts are grounded in the provided article; no URLs or external facts were invented."
+}

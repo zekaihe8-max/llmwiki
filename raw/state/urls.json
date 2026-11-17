@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -10421,5 +10421,333 @@
     "last_seen": "2026-11-16T11:57:16.590Z",
     "digest": "2026-11-16-cn-x.md",
     "title": "模型并不盲目讨好"
+  },
+  "https://x.com/OpenAI/status/2122359930628063248": {
+    "hash": "f0c22cdb8f990ff0a46ceb5feaf5389e66ee28df70fb9d77a1fd71878b8105cd",
+    "slug": "f0c22cdb8f990ff0",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "OpenAI"
+  },
+  "https://x.com/METR_Evals/status/2122361049114657203": {
+    "hash": "fe2359067f73e86856e0359be1d43e77ad96e1ec67f41804af87dc675cbeedf5",
+    "slug": "fe2359067f73e868",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "METR"
+  },
+  "https://openai.com/index/our-first-phase-of-embedded-assessments": {
+    "hash": "9fe6d2ae73e55f52b8078f1806f466588569fb6faa3605540c1891f86e100648",
+    "slug": "9fe6d2ae73e55f52",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/OpenAI/status/2122377585523126615": {
+    "hash": "45e32666f9cc41ba81a8e8279bc8129f74f13498a5f698f1fc110677a4fd8f3c",
+    "slug": "45e32666f9cc41ba",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "扩容"
+  },
+  "https://x.com/OpenAI/status/2122380010287960095": {
+    "hash": "8d3bfc14237b8f2c754a1fe318a846cec9255d5a805435fd17a7fae4c778236b",
+    "slug": "8d3bfc14237b8f2c",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "研究"
+  },
+  "https://x.com/OpenAI/status/2122123437141553630": {
+    "hash": "c2ed3dec46ca3edeea3d7d6a0d6fdc6dcd8cca893e5b79c170ef357be3677268",
+    "slug": "c2ed3dec46ca3ede",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Astra"
+  },
+  "https://www.openai.com/index/expanding-chatgpt-for-academic-researchers": {
+    "hash": "0f2672312cda997642e8b4b53516d6e11a8e6d6d37c1425d5b53bc81a4f74219",
+    "slug": "0f2672312cda9976",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "扩容说明"
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+    "hash": "2e8f421d2ee2a3dfd36bfcc5be1c93ba1a42b98e60398a99d5e21362ce523fd9",
+    "slug": "2e8f421d2ee2a3df",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "科学博客"
+  },
+  "https://x.com/OpenAI/status/2122465625109090646": {
+    "hash": "6d8e090bcf82b68fd4db8b5dbbfcbeebcae5bd6a14601a543374617822f47b46",
+    "slug": "6d8e090bcf82b68f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "OpenAI"
+  },
+  "https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
+    "hash": "21b4758ab52123ac78ffa3dbca8705003ed9e3a44cc34d1840f5a51cf6e091d0",
+    "slug": "21b4758ab52123ac",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://x.com/Google/status/2122449668613579018": {
+    "hash": "7c0426487be7e524a6454f5093773bcd67a89eda123a8901bc1662349ce1178b",
+    "slug": "7c0426487be7e524",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Google"
+  },
+  "https://x.com/ArtificialAnlys/status/2122161629592953032": {
+    "hash": "eb1be0d36ea573de98a3be2670834d3522deb3e3411b7a8475853fffdb60a220",
+    "slug": "eb1be0d36ea573de",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "AA"
+  },
+  "https://x.com/Alibaba_Qwen/status/2122174463479542126": {
+    "hash": "481a14c2ca110b4fe77a5535ef6411c216026f1c5cd100867c23930f3508064e",
+    "slug": "481a14c2ca110b4f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Qwen"
+  },
+  "https://x.com/NVIDIAAIInfra/status/2122441102603206771": {
+    "hash": "1c5dca2369d771e83ae041cce1804246fd612a477f29bf34fb8261c4cc704bd8",
+    "slug": "1c5dca2369d771e8",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "英伟达"
+  },
+  "https://nvda.ws/4C3L75T": {
+    "hash": "cacd69937a8ba1bc8d5ac3ac0e42b4027fcc8ea541eff9da3dac0b8c56bcc413",
+    "slug": "cacd69937a8ba1bc",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "博客"
+  },
+  "https://x.com/LisaSu/status/2122336277727215988": {
+    "hash": "5d3e19b9a4aa7721d121fcacde9d973eb414740122ab98f1862228c93ca546b2",
+    "slug": "5d3e19b9a4aa7721",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "苏姿丰"
+  },
+  "https://x.com/theworldlabs/status/2122377616439361640": {
+    "hash": "ed987107558e8154c5f28aafe797d5b811198db5feac1fbb463a1785e5111c65",
+    "slug": "ed987107558e8154",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "World Labs"
+  },
+  "https://x.com/drfeifei/status/2122377911873491397": {
+    "hash": "34a2925f5c0d458ff66a8bf2554d5ad81f476b8ef5ad5bfd9d9dc804adcd3df4",
+    "slug": "34a2925f5c0d458f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "李飞飞"
+  },
+  "https://x.com/YejinChoinka/status/2122379749372907852": {
+    "hash": "dff2aecd3459373fe9e46bd4f328db087590e1d9f30de3672d4c90446eb9caae",
+    "slug": "dff2aecd3459373f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Yejin"
+  },
+  "https://www.noeri.ai/": {
+    "hash": "894a45947f55893f82c88f0d88c71d1071337cc6cc0677ebf5d4dcd501b98281",
+    "slug": "894a45947f55893f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "网站"
+  },
+  "https://x.com/emollick/status/2122308260325720127": {
+    "hash": "d052900d6fb11ec74f0b75b3bef4aa438d635fb8f27d784d426dc3dd7ecf4446",
+    "slug": "d052900d6fb11ec7",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Mollick · 还没有 Fable 级的开源模型"
+  },
+  "https://x.com/emollick/status/2122405206184829341": {
+    "hash": "0b5db105f788a00527cfdd22a2c49a428dc597c09b1542a0ad93e66117d1fbbb",
+    "slug": "0b5db105f788a005",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Mollick · Dot 的界面落在后面"
+  },
+  "https://x.com/emollick/status/2122176524610884061": {
+    "hash": "7ccd3dddb4fa13875f9349d4c017be53a1115363daebbbbcec7077f4ec5735bd",
+    "slug": "7ccd3dddb4fa1387",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Mollick · 工作结构一直很稳，但未必一直稳"
+  },
+  "https://x.com/pwendell/status/2122377960132940170": {
+    "hash": "63ba9cd503b2268b9b788c330c6bd0068e785380a42ee0bd1e340e3eeb7de783",
+    "slug": "63ba9cd503b2268b",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "指数"
+  },
+  "https://x.com/pwendell/status/2122377964784611636": {
+    "hash": "d92d9b88a4413b1cd52778fc89dbf048ecffa6361bbac1693b84a47c2c8d57df",
+    "slug": "d92d9b88a4413b1c",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "开源占比"
+  },
+  "https://x.com/tarunsachdeva/status/2122376451546910742": {
+    "hash": "c4ccab05f7cd940be6b45d8238ac1206e0dfd05b0864fcaebf268adcb87ff9d7",
+    "slug": "c4ccab05f7cd940b",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "公告"
+  },
+  "https://traces.com/blog/traces-vercel": {
+    "hash": "a53db54b49dc22504757ba40aff47aacde711364813edf5fecc22d9a929ea936",
+    "slug": "a53db54b49dc2250",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "博文"
+  },
+  "https://x.com/vercel/status/2122397118426181962": {
+    "hash": "77958f84da49ef3fc32de7e664d979b003e7e26ee614678e0f972e78b49d23a1",
+    "slug": "77958f84da49ef3f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Vercel"
+  },
+  "https://vercel.com/blog/agent-evals": {
+    "hash": "c19318beb8d8a33aa2aab671bb5bb1e747938c9699e5cfb5b427f0e91fe4cc06",
+    "slug": "c19318beb8d8a33a",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "评测文"
+  },
+  "https://x.com/rauchg/status/2122458782294847807": {
+    "hash": "f1a6f59b21e75c176c99d40e0c32efd374e699caabe75afb301928515cdda6c4",
+    "slug": "f1a6f59b21e75c17",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Rauch"
+  },
+  "https://x.com/xiaomovps/status/2122134140489515239": {
+    "hash": "91dd1f90cf56b597f5ddfc14dfeb94274cafccba63e9df5a9cd274ac5ad09a6a",
+    "slug": "91dd1f90cf56b597",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "小墨 · Antigravity 也能把 agent 放到云端"
+  },
+  "https://x.com/ClaudeDevs/status/2122457608963395586": {
+    "hash": "788d0de18429bba42ef54334938b5d757f81a74eeeeaf8a4e24262658b55aa99",
+    "slug": "788d0de18429bba4",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "ClaudeDevs"
+  },
+  "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification": {
+    "hash": "9a0aa0e71b450c03e243f76acf49ec0cb65f52136b18fdee44b8007295d0a92c",
+    "slug": "9a0aa0e71b450c03",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "长文"
+  },
+  "https://x.com/shao__meng/status/2122480930439016820": {
+    "hash": "80bc2efb5349e98de02a1d7a7452e2f0426be0c3bcb9ed4c2de0d570ec99b582",
+    "slug": "80bc2efb5349e98d",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "meng shao 整理"
+  },
+  "https://x.com/ClaudeDevs/status/2122439098740674839": {
+    "hash": "5cd6fed2bca24facb1cac4c82679f46a16185bdb2687ff6c56dc28b17efdda3d",
+    "slug": "5cd6fed2bca24fac",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "ClaudeDevs"
+  },
+  "https://x.com/Voxyz_ai/status/2122434536822673761": {
+    "hash": "cd292b04d49b6290307cb276cf84db35d99af25985e7c9adcad5af586164866e",
+    "slug": "cd292b04d49b6290",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "Vox · 不要再手动盯一排会话"
+  },
+  "https://x.com/Voxyz_ai/status/2122343942222163982": {
+    "hash": "b30544040efb0e4242bc0695cafdcbb1934422deef8ae2b92e6e67756eae28a9",
+    "slug": "b30544040efb0e42",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "清理提示"
+  },
+  "https://x.com/Voxyz_ai/status/2122313740645507315": {
+    "hash": "34e768067e41758782ea7493139ec20d0984f490425d714a0329dd0a93ea2697",
+    "slug": "34e768067e417587",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "数据库 subagent"
+  },
+  "https://x.com/mattpocockuk/status/2122316570852487441": {
+    "hash": "682ae55ea93443d2ecb8c3dae3861932da60f59c238df3143eb4cf073c4eb6e8",
+    "slug": "682ae55ea93443d2",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "演讲"
+  },
+  "https://x.com/mattpocockuk/status/2122287575557706226": {
+    "hash": "27e934fdcbac573f2a5157a843b7f242d21c32aec689ea87583640ed54e3c296",
+    "slug": "27e934fdcbac573f",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "简史"
+  },
+  "https://x.com/dexhorthy/status/2122136000067723334": {
+    "hash": "65af4650e633a0a22e495a0d958392f80e7cba5f6f522f111f4b42b79aa44fbd",
+    "slug": "65af4650e633a0a2",
+    "first_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T00:13:18.881Z",
+    "digest": "2026-11-17-frontier-ai.md",
+    "title": "dex · “你是这套代码的长期主人”"
   }
 }

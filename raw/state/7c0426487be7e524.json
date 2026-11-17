@@ -1,0 +1,23 @@
+{
+  "slug": "7c0426487be7e524",
+  "url": "https://x.com/Google/status/2122449668613579018",
+  "title": "Google",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "7c0426487be7e524a6454f5093773bcd67a89eda123a8901bc1662349ce1178b",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:22.555Z",
+  "content_hash": "ab86836debbc833b68304bb11527b2dc52d76ff5512505c07bad05cc2f13f323",
+  "article_path": "articles/7c0426487be7e524.md",
+  "fetched_url": "https://x.com/Google/status/2122449668613579018",
+  "source_path": "sources/articles/google-gemini-notebook-can-turn-sources-into-interactive-sites.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:16:43.402Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

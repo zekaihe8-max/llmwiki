@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/cyber-eval-incident-alignment.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "标题与内容高度匹配，均涉及第三方嵌入式评估与外部专家接入模型系统。",
+    "topics/cyber-eval-incident-alignment.md": "涉及对齐评估与安全测评，与文中“调查对齐并测试安全防护”相关。",
+    "topics/ai-eval-work-record-gateway.md": "属于 AI 评测入口与记录类主题，与嵌入式评估属于同一领域。",
+    "topics/community-evals-vs-score-hype.md": "关注社区/外部实测与评估，与外部专家独立审查的主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "标题与内容高度匹配，均涉及第三方嵌入式评估与外部专家接入模型系统。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "涉及对齐评估与安全测评，与文中“调查对齐并测试安全防护”相关。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "属于 AI 评测入口与记录类主题，与嵌入式评估属于同一领域。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "关注社区/外部实测与评估，与外部专家独立审查的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

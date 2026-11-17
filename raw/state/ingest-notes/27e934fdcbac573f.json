@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文明确提到 2026 年 7 月各类会议演讲均围绕“软件工厂”展开，与该主题直接相关。",
+    "topics/agent-scaled-engineering.md": "帖文涉及 Ralph 循环、循环/编排早期努力以及长期运行的“经理人”线程，属智能体规模化工程范畴。",
+    "topics/vibe-coding-memory-paradox.md": "帖文 TL;DR 指出没人再写代码，但阅读代码仍必不可少，与代码记忆与阅读的悖论相关。",
+    "topics/workflows-before-agents.md": "帖文提到社区围绕易于分享的流程汇聚、“循环工程”走红，强调流程优先于智能体。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 2026 年 7 月各类会议演讲均围绕“软件工厂”展开，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Ralph 循环、循环/编排早期努力以及长期运行的“经理人”线程，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文 TL;DR 指出没人再写代码，但阅读代码仍必不可少，与代码记忆与阅读的悖论相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到社区围绕易于分享的流程汇聚、“循环工程”走红，强调流程优先于智能体。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 Matt Pocock 的单条帖文，所有事实均基于该帖文内容，未引入外部信息。"
+}

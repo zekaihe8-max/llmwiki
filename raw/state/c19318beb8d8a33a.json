@@ -1,0 +1,23 @@
+{
+  "slug": "c19318beb8d8a33a",
+  "url": "https://vercel.com/blog/agent-evals",
+  "title": "评测文",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "c19318beb8d8a33aa2aab671bb5bb1e747938c9699e5cfb5b427f0e91fe4cc06",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:32.716Z",
+  "content_hash": "7a77c0a5dc802b6e7a74edb536eab067f266a9d4bbe073e57cea8f56e65c3e4f",
+  "article_path": "articles/c19318beb8d8a33a.md",
+  "fetched_url": "https://vercel.com/blog/agent-evals",
+  "source_path": "sources/articles/agent-end-to-end-eval-construction-guide.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:23:45.861Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文围绕 MLPerf 公开基准结果发布，与审视公开榜单质量的主题相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中提到每瓦吞吐量与推理效率，与大厂推理成本效率主题相关。",
+    "topics/agent-compute-and-governance.md": "文中提到更快训练让 AI 代理更快触达用户，与智能体算力主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 MLPerf 公开基准结果发布，与审视公开榜单质量的主题相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提到每瓦吞吐量与推理效率，与大厂推理成本效率主题相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中提到更快训练让 AI 代理更快触达用户，与智能体算力主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来源于提供的 X 帖文截图文本，未引入外部链接或未在文中出现的信息。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "a53db54b49dc2250",
+  "url": "https://traces.com/blog/traces-vercel",
+  "title": "博文",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "a53db54b49dc22504757ba40aff47aacde711364813edf5fecc22d9a929ea936",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:31.702Z",
+  "content_hash": "810a968eb8eea550a5cb9fe42d647be07bccc6360af50177ee1d2d0439e6f853",
+  "article_path": "articles/a53db54b49dc2250.md",
+  "fetched_url": "https://traces.com/blog/traces-vercel",
+  "source_path": "sources/articles/traces-is-joining-vercel.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:22:59.860Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

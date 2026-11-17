@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:22:36.594Z",
+  "url": "https://x.com/tarunsachdeva/status/2122376451546910742",
+  "slug": "c4ccab05f7cd940b",
+  "content_hash": "89b3df8794e81219b97ff7293883cf5533614b7a103b362ac256dae13faa29b0",
+  "source": {
+    "path": "sources/articles/announcement-traces-joins-vercel.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/software-factory.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及公司加入大厂的公告，与 AI 原生公司动态相近"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "大厂吸纳团队的公告可与企业级组织变动话题对照"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Vercel 属于软件平台/开发者工具公司，与软件工厂话题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "涉及公司加入大厂的公告，与 AI 原生公司动态相近",
+    "topics/software-factory.md": "Vercel 属于软件平台/开发者工具公司，与软件工厂话题相关",
+    "topics/enterprise-ai-digital-employee-headcount.md": "大厂吸纳团队的公告可与企业级组织变动话题对照"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/announcement-traces-joins-vercel.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/software-factory.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "涉及公司加入大厂的公告，与 AI 原生公司动态相近",
+      "topics/software-factory.md": "Vercel 属于软件平台/开发者工具公司，与软件工厂话题相关",
+      "topics/enterprise-ai-digital-employee-headcount.md": "大厂吸纳团队的公告可与企业级组织变动话题对照"
+    },
+    "notes": "仅基于推文文本，未核实 Traces 具体业务或收购条款。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/announcement-traces-joins-vercel.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

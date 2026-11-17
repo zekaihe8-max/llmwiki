@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:14:46.422Z",
+  "url": "https://x.com/OpenAI/status/2122377585523126615",
+  "slug": "45e32666f9cc41ba",
+  "content_hash": "e58e1b993b444c2c61e07c7e8d6bfb3dbaa91b8ba88804ad365c5ad83b93fe2a",
+  "source": {
+    "path": "sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及科研人员使用 AI，与面向科学家的免费访问计划最相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型（frontier models）话题，术语最接近"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及免费访问名额与使用上限的扩容"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "涉及科研人员使用 AI，与面向科学家的免费访问计划最相关",
+    "topics/usage-limit-ab-tests.md": "涉及免费访问名额与使用上限的扩容",
+    "topics/open-weight-frontier-models.md": "涉及前沿模型（frontier models）话题，术语最接近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "涉及科研人员使用 AI，与面向科学家的免费访问计划最相关",
+      "topics/usage-limit-ab-tests.md": "涉及免费访问名额与使用上限的扩容",
+      "topics/open-weight-frontier-models.md": "涉及前沿模型（frontier models）话题，术语最接近"
+    },
+    "notes": "所有主题均复用现有条目，未新建。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

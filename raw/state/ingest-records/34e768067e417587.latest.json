@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:27:17.690Z",
+  "url": "https://x.com/Voxyz_ai/status/2122313740645507315",
+  "slug": "34e768067e417587",
+  "content_hash": "70ba3a9d6fbc416fd33ce5727dc765af3529994dda799e4d59f928e4d6219eb4",
+  "source": {
+    "path": "sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Claude 在 8 次测试中均自主调用该子 Agent，涉及智能体自动模式。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确面向 Claude Code 用户，与 Claude Code 相关主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文介绍的是编程 Agent 的数据库工具与工作流，与编程 Agent 工具主题相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文核心是关于数据库专用子 Agent，与把子 Agent 折进主循环主题最贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "帖文核心是关于数据库专用子 Agent，与把子 Agent 折进主循环主题最贴近。",
+    "topics/agent-auto-mode.md": "帖文提到 Claude 在 8 次测试中均自主调用该子 Agent，涉及智能体自动模式。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确面向 Claude Code 用户，与 Claude Code 相关主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文介绍的是编程 Agent 的数据库工具与工作流，与编程 Agent 工具主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-auto-mode.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "帖文核心是关于数据库专用子 Agent，与把子 Agent 折进主循环主题最贴近。",
+      "topics/agent-auto-mode.md": "帖文提到 Claude 在 8 次测试中均自主调用该子 Agent，涉及智能体自动模式。",
+      "topics/claude-code-authorship-and-voice.md": "帖文明确面向 Claude Code 用户，与 Claude Code 相关主题相关。",
+      "topics/coding-agent-token-saving-tooling.md": "帖文介绍的是编程 Agent 的数据库工具与工作流，与编程 Agent 工具主题相关。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；帖文显示日期为 2026-11-16。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/ai-native-companies.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "AMD 是 GPU 与 AI 算力厂商，帖文涉及其接纳 AI 团队，与算力主题相关",
+    "topics/ai-native-companies.md": "World Labs 为 AI 公司，帖文描述其团队加入传统半导体大厂，与 AI 原生公司主题相关",
+    "topics/in-app-model-partnerships.md": "帖文主体为跨公司团队加入/合作，与模型或 AI 合作伙伴关系主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "AMD 是 GPU 与 AI 算力厂商，帖文涉及其接纳 AI 团队，与算力主题相关"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "World Labs 为 AI 公司，帖文描述其团队加入传统半导体大厂，与 AI 原生公司主题相关"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文主体为跨公司团队加入/合作，与模型或 AI 合作伙伴关系主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自抓取的 X 帖文页面，未引入页面外信息。"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "9fe6d2ae73e55f52",
+  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "title": "公告",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "failed",
+  "hash": "9fe6d2ae73e55f52b8078f1806f466588569fb6faa3605540c1891f86e100648",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-17T00:13:20.057Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-17T00:29:38.690Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-17T00:29:38.690Z"
+}

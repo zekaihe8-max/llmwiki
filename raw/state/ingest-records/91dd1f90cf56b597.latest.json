@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:24:32.928Z",
+  "url": "https://x.com/xiaomovps/status/2122134140489515239",
+  "slug": "91dd1f90cf56b597",
+  "content_hash": "cc1b311c2a354461c557e0b1be050d68a366baa9c8755e0cd01ac076f270386b",
+  "source": {
+    "path": "sources/articles/xiaomo-antigravity-can-also-put-agents-in-the-cloud.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/company-agent-harness.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到谷歌在优化自家 Harness，与 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "帖文核心是远程 AI 编程，无需本地长期开机，与该主题直接相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "用户把任务分配给云端编程 Agent，属于个人层面调度编程 Agent。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "修 Bug、升级依赖、运行测试被描述为可交给 AI 的任务。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/laptop-light-battery-remote-ai-coding.md": "帖文核心是远程 AI 编程，无需本地长期开机，与该主题直接相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "用户把任务分配给云端编程 Agent，属于个人层面调度编程 Agent。",
+    "topics/company-agent-harness.md": "帖文提到谷歌在优化自家 Harness，与 Agent Harness 主题相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "修 Bug、升级依赖、运行测试被描述为可交给 AI 的任务。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiaomo-antigravity-can-also-put-agents-in-the-cloud.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/laptop-light-battery-remote-ai-coding.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/company-agent-harness.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/laptop-light-battery-remote-ai-coding.md": "帖文核心是远程 AI 编程，无需本地长期开机，与该主题直接相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "用户把任务分配给云端编程 Agent，属于个人层面调度编程 Agent。",
+      "topics/company-agent-harness.md": "帖文提到谷歌在优化自家 Harness，与 Agent Harness 主题相关。",
+      "topics/tasks-confidently-handed-to-ai.md": "修 Bug、升级依赖、运行测试被描述为可交给 AI 的任务。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；未引入文章外事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiaomo-antigravity-can-also-put-agents-in-the-cloud.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

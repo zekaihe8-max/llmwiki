@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:21:51.633Z",
+  "url": "https://x.com/pwendell/status/2122377960132940170",
+  "slug": "63ba9cd503b2268b",
+  "content_hash": "df2ada5d2d41e1fcf38d084eb3df2e470f1a5833b3bb22dc964b4a80c123231f",
+  "source": {
+    "path": "sources/articles/databricks-ai-index-released-enterprise-ai-consumption-trends.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Unity Gateway 与企业 AI 使用记录，主题相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "数据样本明确包含数字原生企业（Digital Natives）。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦企业 AI 消费趋势变化，与 AI 任务时界增长相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "都关注企业层面的 AI 采用与消费。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文涉及 Unity Gateway 与企业 AI 使用记录，主题相近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "都关注企业层面的 AI 采用与消费。",
+    "topics/ai-native-companies.md": "数据样本明确包含数字原生企业（Digital Natives）。",
+    "topics/ai-task-horizon-growth.md": "帖文聚焦企业 AI 消费趋势变化，与 AI 任务时界增长相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/databricks-ai-index-released-enterprise-ai-consumption-trends.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文涉及 Unity Gateway 与企业 AI 使用记录，主题相近。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "都关注企业层面的 AI 采用与消费。",
+      "topics/ai-native-companies.md": "数据样本明确包含数字原生企业（Digital Natives）。",
+      "topics/ai-task-horizon-growth.md": "帖文聚焦企业 AI 消费趋势变化，与 AI 任务时界增长相关。"
+    },
+    "notes": "发布日期为帖文所示的 2026 年 11 月 16 日，均按原文保留。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/databricks-ai-index-released-enterprise-ai-consumption-trends.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

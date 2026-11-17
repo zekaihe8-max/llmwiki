@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文核心讨论是否出现 Fable 级开源模型，与开放权重前沿模型主题直接相关。",
+    "topics/china-open-source-lead-us-compute.md": "文中提及阿里 Qwen4 Max 等中国模型的评测表现，涉及中国开源模型进展。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用 Artificial Analysis 的智能指数与成本对比，涉及公开榜单与基准评测。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论是否出现 Fable 级开源模型，与开放权重前沿模型主题直接相关。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "文中提及阿里 Qwen4 Max 等中国模型的评测表现，涉及中国开源模型进展。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用 Artificial Analysis 的智能指数与成本对比，涉及公开榜单与基准评测。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fetched markdown mixes Ethan Mollick's claim about Fable-class open models with an Artificial Analysis update on Qwen4 Max; all claims are attributed to the post or cited source and no external facts are added."
+}

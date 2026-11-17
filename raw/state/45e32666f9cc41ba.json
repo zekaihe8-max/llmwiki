@@ -1,0 +1,23 @@
+{
+  "slug": "45e32666f9cc41ba",
+  "url": "https://x.com/OpenAI/status/2122377585523126615",
+  "title": "扩容",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "45e32666f9cc41ba81a8e8279bc8129f74f13498a5f698f1fc110677a4fd8f3c",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:20.093Z",
+  "content_hash": "e58e1b993b444c2c61e07c7e8d6bfb3dbaa91b8ba88804ad365c5ad83b93fe2a",
+  "article_path": "articles/45e32666f9cc41ba.md",
+  "fetched_url": "https://x.com/OpenAI/status/2122377585523126615",
+  "source_path": "sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:14:46.423Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

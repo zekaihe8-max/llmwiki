@@ -1,0 +1,23 @@
+{
+  "slug": "77958f84da49ef3f",
+  "url": "https://x.com/vercel/status/2122397118426181962",
+  "title": "Vercel",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "77958f84da49ef3fc32de7e664d979b003e7e26ee614678e0f972e78b49d23a1",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:32.128Z",
+  "content_hash": "232fe0869d41073f4c16271ad1e237c68b988b5718b2514d2f7b77557c58f108",
+  "article_path": "articles/77958f84da49ef3f.md",
+  "fetched_url": "https://x.com/vercel/status/2122397118426181962",
+  "source_path": "sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:23:25.235Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

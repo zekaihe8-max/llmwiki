@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/interactive-world-models.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "World Labs 是 AI 原生公司，其被并入属于 AI 公司并购动态，与该主题相关。",
+    "topics/interactive-world-models.md": "World Labs 以世界模型与空间智能方向著称，与实时交互世界模型主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "World Labs 是 AI 原生公司，其被并入属于 AI 公司并购动态，与该主题相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "World Labs 以世界模型与空间智能方向著称，与实时交互世界模型主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自提供的 X 帖文摘要，未引入外部信息或编造 URL。"
+}

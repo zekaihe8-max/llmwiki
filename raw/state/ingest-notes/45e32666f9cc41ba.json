@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "涉及科研人员使用 AI，与面向科学家的免费访问计划最相关",
+    "topics/usage-limit-ab-tests.md": "涉及免费访问名额与使用上限的扩容",
+    "topics/open-weight-frontier-models.md": "涉及前沿模型（frontier models）话题，术语最接近"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及科研人员使用 AI，与面向科学家的免费访问计划最相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及免费访问名额与使用上限的扩容"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型（frontier models）话题，术语最接近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未新建。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "5cd6fed2bca24fac",
+  "url": "https://x.com/ClaudeDevs/status/2122439098740674839",
+  "title": "ClaudeDevs",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "5cd6fed2bca24facb1cac4c82679f46a16185bdb2687ff6c56dc28b17efdda3d",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:35.449Z",
+  "content_hash": "26789bcbf83bc7165398f4e2d0db0031034beb587d333092c0fa3a47784c0027",
+  "article_path": "articles/5cd6fed2bca24fac.md",
+  "fetched_url": "https://x.com/ClaudeDevs/status/2122439098740674839",
+  "source_path": "sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:25:59.129Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

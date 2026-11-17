@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:23:25.234Z",
+  "url": "https://x.com/vercel/status/2122397118426181962",
+  "slug": "77958f84da49ef3f",
+  "content_hash": "232fe0869d41073f4c16271ad1e237c68b988b5718b2514d2f7b77557c58f108",
+  "source": {
+    "path": "sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文将智能体定义为下一批用户，属智能体基础范畴，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Evals 与 AI 评测入口，与该主题直接相关，但无需修改。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及评测实践，与社区实测主题相近，但来源为官方帖文，现有主题保持不变。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文强调面向智能体的软件体验（AX），与 UX/DX/AX 主题相关，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文聚焦 Evals 与 AI 评测入口，与该主题直接相关，但无需修改。",
+    "topics/agentic-ai-foundation.md": "帖文将智能体定义为下一批用户，属智能体基础范畴，现有主题已覆盖。",
+    "topics/ux-dx-and-ax.md": "帖文强调面向智能体的软件体验（AX），与 UX/DX/AX 主题相关，保持不变。",
+    "topics/community-evals-vs-score-hype.md": "帖文涉及评测实践，与社区实测主题相近，但来源为官方帖文，现有主题保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文聚焦 Evals 与 AI 评测入口，与该主题直接相关，但无需修改。",
+      "topics/agentic-ai-foundation.md": "帖文将智能体定义为下一批用户，属智能体基础范畴，现有主题已覆盖。",
+      "topics/ux-dx-and-ax.md": "帖文强调面向智能体的软件体验（AX），与 UX/DX/AX 主题相关，保持不变。",
+      "topics/community-evals-vs-score-hype.md": "帖文涉及评测实践，与社区实测主题相近，但来源为官方帖文，现有主题保持不变。"
+    },
+    "notes": "所有内容仅基于抓取的 X 帖文 Markdown，未引用 vercel.com 外部页面正文；帖文显示的发布时间为 2026 年 11 月 16 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

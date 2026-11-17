@@ -1,0 +1,23 @@
+{
+  "slug": "f0c22cdb8f990ff0",
+  "url": "https://x.com/OpenAI/status/2122359930628063248",
+  "title": "OpenAI",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "f0c22cdb8f990ff0a46ceb5feaf5389e66ee28df70fb9d77a1fd71878b8105cd",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:19.061Z",
+  "content_hash": "8abc8555249d918f053410baab918af1971592c0cef5fc9ec9c877043e6039de",
+  "article_path": "articles/f0c22cdb8f990ff0.md",
+  "fetched_url": "https://x.com/OpenAI/status/2122359930628063248",
+  "source_path": "sources/articles/openai-conducts-embedded-assessments-with-external-experts.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:13:57.891Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

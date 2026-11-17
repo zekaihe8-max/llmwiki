@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:22:12.953Z",
+  "url": "https://x.com/pwendell/status/2122377964784611636",
+  "slug": "d92d9b88a4413b1c",
+  "content_hash": "bf4dd68f187a1f2455db1dcdf5a0b53a195bb7b7084347c1bc2085a51e56a481",
+  "source": {
+    "path": "sources/articles/open-source-share-enterprise-oss-model-token-share-rises-to-30-i.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及推理成本效率，与帖文中降低成本的用例相关，但无需新建或变更。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及开源模型，与主题相关，但帖文聚焦企业 Token 占比而非网络防御，故保持不变。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及开放权重/开源模型，与帖文主题最贴近，但无需修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "涉及开放权重/开源模型，与帖文主题最贴近，但无需修改。",
+    "topics/open-models-cyber-defense.md": "涉及开源模型，与主题相关，但帖文聚焦企业 Token 占比而非网络防御，故保持不变。",
+    "topics/lab-inference-serving-cost-efficiency.md": "涉及推理成本效率，与帖文中降低成本的用例相关，但无需新建或变更。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/open-source-share-enterprise-oss-model-token-share-rises-to-30-i.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/open-models-cyber-defense.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "涉及开放权重/开源模型，与帖文主题最贴近，但无需修改。",
+      "topics/open-models-cyber-defense.md": "涉及开源模型，与主题相关，但帖文聚焦企业 Token 占比而非网络防御，故保持不变。",
+      "topics/lab-inference-serving-cost-efficiency.md": "涉及推理成本效率，与帖文中降低成本的用例相关，但无需新建或变更。"
+    },
+    "notes": "所有主张均源自所获取帖文，未引入外部事实；日期与浏览数按帖文显示记录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/open-source-share-enterprise-oss-model-token-share-rises-to-30-i.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

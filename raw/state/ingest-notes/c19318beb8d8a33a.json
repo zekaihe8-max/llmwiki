@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "两者都聚焦 AI 评测的入口、记录与执行流程",
+    "topics/community-evals-vs-score-hype.md": "都关注评测方法的可信度，避免仅依赖分数或刷分",
+    "topics/agent-scaled-engineering.md": "端到端评测属于智能体工程化与规模化落地的一环",
+    "topics/agent-skill-authoring.md": "文中提到通过评测判断 Agent Skill 是否有帮助并获得改进反馈"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "两者都聚焦 AI 评测的入口、记录与执行流程"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "都关注评测方法的可信度，避免仅依赖分数或刷分"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "端到端评测属于智能体工程化与规模化落地的一环"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到通过评测判断 Agent Skill 是否有帮助并获得改进反馈"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://vercel.com/blog/agent-evals (slug: c19318beb8d8a33a)"
+}

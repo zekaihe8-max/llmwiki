@@ -1,0 +1,23 @@
+{
+  "slug": "9a0aa0e71b450c03",
+  "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+  "title": "长文",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "9a0aa0e71b450c03e243f76acf49ec0cb65f52136b18fdee44b8007295d0a92c",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:35.088Z",
+  "content_hash": "2d02a553ea3672907b9396e401c98a823efc3d74acfe5137fc6f20f9369b5ec9",
+  "article_path": "articles/9a0aa0e71b450c03.md",
+  "fetched_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+  "source_path": "sources/articles/how-the-claude-code-team-thinks-about-verification.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:25:15.549Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

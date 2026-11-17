@@ -26,6 +26,80 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [dex：在 SlopCodeBench 上测试“长期代码主人”提示词 / dex Tests "Long-Term Code Owner" Prompt on SlopCodeBench](./sources/articles/dex-tests-long-term-code-owner-prompt-on-slopcodebench.md) — 帖文称在 SlopCodeBench 上加入“长期代码主人”提示词后，Token 用量翻倍，电路评测通过率提升，但每通过成本持平。 / The post says adding the "long-term code owner" prompt on SlopCodeBench doubles token usage and improves circuit eval pass rate, while cost per pass stays flat.
+
+- [AI 编程简史（2025 年 11 月–2026 年 11 月） / A Brief History of AI Coding (Nov 2025–Nov 2026)](./sources/articles/a-brief-history-of-ai-coding-nov-2025-nov-2026.md) — 马特·波科克（Matt Pocock）按月回顾 2025 年 11 月至 2026 年 11 月 AI 编程的发展，总结为“没人再写代码，但我们仍在弄清楚这意味着什么”。 / Matt Pocock recounts month-by-month AI coding developments from Nov 2025 to Nov 2026, summarized as “no one is writing code anymore, and we are still figuring out what that means.”
+
+- [Poteto 在 AIE Code 的演讲：细微差别导致滥竽充数，主张为智能体设计无细节 API / Poteto's AIE Code Talk: Nuance Leads to Slop, Advocate Nuance-Free APIs for Agents](./sources/articles/poteto-s-aie-code-talk-nuance-leads-to-slop-advocate-nuance-free.md) — Matt Pocock 转发并评价 @poteto 在 AIE Code 的演讲，主张通过禁用 useEffect 与大量注释、设计隐藏复杂性的 API 来消除智能体决策中的细微差别。 / Matt Pocock shares and evaluates @poteto's talk at AIE Code, advocating banning useEffect and most comments while designing APIs that hide complexity to remove nuance from agents' decisions.
+
+- [Claude Code 数据库子 Agent 防止大表迁移锁表 / Database subagent for Claude Code prevents live-table locks during migrations](./sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md) — 为 Claude Code 安装仅处理数据库的子 Agent，在执行大表迁移前审阅 schema、标记锁表风险并先在临时数据库验证。 / Install a database-only subagent for Claude Code to review schema, flag lock risks, and validate migrations on a temporary database before touching live tables.
+
+- [CLAUDE.md 清理提示：审计项目记忆文件 / CLAUDE.md cleanup prompt: auditing project memory files](./sources/articles/claude-md-cleanup-prompt-auditing-project-memory-files.md) — Voxyz_ai 推荐一条 24 字的 CLAUDE.md 清理提示，用于审计 MEMORY.md 与 CLAUDE.md 中的矛盾、过时和重复内容。 / Voxyz_ai recommends a 24-word CLAUDE.md cleanup prompt to audit MEMORY.md and CLAUDE.md for contradictions, outdated statements, and duplicates.
+
+- [Vox · 不要再手动盯一排会话 / Vox · Stop Manually Babysitting a Row of Sessions](./sources/articles/vox-stop-manually-babysitting-a-row-of-sessions.md) — Voxyz_ai 发布协调员 Skill，让单个会话通过分车道、进度看板和人工关卡批量管理多个编程 Agent。 / Voxyz_ai shares a coordinator Skill that lets one session manage multiple coding agents via lanes, a progress board, and human gates.
+
+- [Claude Code 桌面版在 iOS 模拟器中支持 iPhone Duo / Claude Code desktop supports iPhone Duo in iOS simulator](./sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md) — Claude Code 桌面版现支持在 iOS 模拟器中运行 iPhone Duo，Claude 可折叠与展开设备以测试各布局。 / Claude Code desktop now supports iPhone Duo in the iOS simulator, letting Claude fold and unfold the device to test layouts beside the conversation.
+
+- [meng shao 整理：Claude Code 团队让 Agent 交付验证证据 / meng shao curates: Claude Code team has agents deliver verification evidence](./sources/articles/meng-shao-curates-claude-code-team-has-agents-deliver-verificati.md) — Claude Code 团队通过验证技能、固定评审基准和复核机制，让 AI 编程 Agent 提交可检查的证据，而不只是代码。 / The Claude Code team uses verification skills, fixed review benchmarks, and re-check mechanisms so AI coding agents submit checkable evidence rather than code alone.
+
+- [Claude Code 团队如何思考验证 / How the Claude Code team thinks about verification](./sources/articles/how-the-claude-code-team-thinks-about-verification.md) — Claude Code 团队通过端到端、属性和差分测试构建验证循环，让编程 Agent 用证据自查代码质量。 / The Claude Code team builds verification loops with end-to-end, property, and differential tests so coding agents can check their work with evidence.
+
+- [ClaudeDevs：验证让 Claude 编写更好代码 / ClaudeDevs: Verification Helps Claude Write Better Code](./sources/articles/claudedevs-verification-helps-claude-write-better-code.md) — ClaudeDevs 称，当 Claude 能验证自己的工作时会写出更好代码，测试、基准和端到端运行等检查已变得廉价。 / ClaudeDevs says Claude writes better code when it can verify its work, and checks like tests, benchmarks, and end-to-end runs are now cheap.
+
+- [小墨 · Antigravity 也能把 agent 放到云端 / Xiaomo · Antigravity Can Also Put Agents in the Cloud](./sources/articles/xiaomo-antigravity-can-also-put-agents-in-the-cloud.md) — Google Antigravity 推出 Remote Agents，支持将编程 Agent 放到 Google 云端运行，免去本地长期开机 / Google Antigravity launches Remote Agents, allowing coding agents to run on Google Cloud without keeping local machines on
+
+- [Rauch：Vercel AI Gateway 上线私有推理，主张自主智能路线图 / Rauch: Vercel AI Gateway launches Private Inference, advocates owning the intelligence roadmap](./sources/articles/rauch-vercel-ai-gateway-launches-private-inference-advocates-own.md) — Vercel AI Gateway 现已支持私有推理，可将自有微调、自托管或预发布模型与目录模型并用，并共享相同 API、鉴权与日志。 / Vercel AI Gateway now supports Private Inference, allowing self-hosted, fine-tuned, or prerelease models to run alongside catalog models with the same APIs, authentication, and logs.
+
+- [智能体端到端评测构建指南 / Agent End-to-End Eval Construction Guide](./sources/articles/agent-end-to-end-eval-construction-guide.md) — 本文介绍如何为智能体构建端到端评测，包括测试金字塔、成功率与 Pass@k/Pass^k 指标及任务集设计。 / This article explains how to build end-to-end agent evals, covering the testing pyramid, success rate and Pass@k/Pass^k metrics, and task set design.
+
+- [Vercel 称下一批用户是智能体，主张以评测构建面向智能体的软件 / Vercel says next users are agents, advocates evals to build agent-facing software](./sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md) — Vercel 发帖称智能体即用户，软件需通过评测（Evals）来面向智能体构建。 / Vercel posts that agents are users and software should be built for agents through evals.
+
+- [Traces 加入 Vercel / Traces Is Joining Vercel](./sources/articles/traces-is-joining-vercel.md) — Traces 宣布加入 Vercel，团队将继续致力于让团队与 AI 智能体协作构建软件。 / Traces announces it is joining Vercel, with the team continuing to work on how teams build software with agents.
+
+- [公告：Traces 加入 Vercel / Announcement: Traces Joins Vercel](./sources/articles/announcement-traces-joins-vercel.md) — Tarun Sachdeva 在 X 上宣布 Traces 正在加入 Vercel。 / Tarun Sachdeva announces on X that Traces is joining Vercel.
+
+- [开源占比：企业中开源模型 Token 份额五个月增至 30% / Open Source Share: Enterprise OSS Model Token Share Rises to 30% in Five Months](./sources/articles/open-source-share-enterprise-oss-model-token-share-rises-to-30-i.md) — Patrick Wendell 称企业中开源模型的 Token 份额在五个月内从近乎零增长至 30%，主要用于降低大批量作业和编码等高容量工作负载的成本。 / Patrick Wendell says enterprise OSS model token share grew from near zero to 30% in five months, mainly to cut costs on high-volume workloads such as large batch jobs and coding.
+
+- [Databricks AI Index 发布：企业 AI 消费趋势 / Databricks AI Index Released: Enterprise AI Consumption Trends](./sources/articles/databricks-ai-index-released-enterprise-ai-consumption-trends.md) — Databricks 基于 Unity Gateway 数据发布 AI 指数，覆盖超 1 万家企业，显示企业 AI 消费正在发生显著变化。 / Databricks releases the AI Index based on Unity Gateway data, covering over 10,000 enterprises and showing significant changes in enterprise AI consumption.
+
+- [Mollick · 工作结构一直很稳，但未必一直稳 / Mollick · Work structure has long been stable, but may not remain so](./sources/articles/mollick-work-structure-has-long-been-stable-but-may-not-remain-s.md) — 伊森·莫利克指出，西方职场长期处于稳定的社会技术时期，但这种稳定性可能改变。 / Ethan Mollick notes that Western workplaces have long lived in a stable socio-technical period, but that stability may change.
+
+- [Mollick · Dot 的界面落在后面 / Mollick · Dot's Interface Falls Behind](./sources/articles/mollick-dot-s-interface-falls-behind.md) — Ethan Mollick 称 OpenAI 的 Dot 在界面上落后于 Muse 和 Duet。 / Ethan Mollick says OpenAI's Dot interface lags behind Muse and Duet.
+
+- [Mollick · 还没有 Fable 级的开源模型 / Mollick · No Fable-class open model yet](./sources/articles/mollick-no-fable-class-open-model-yet.md) — 帖文称 Fable/Mythos 公开 8 个月后仍未出现同级开源模型，并附带阿里 Qwen4 Max 的最新评测数据。 / The post says no Fable-class open model has appeared 8 months after Fable/Mythos was made public, and includes Alibaba Qwen4 Max's latest benchmark data.
+
+- [Noeri.ai：在职学习的 AI / Noeri.ai: AI That Learns on the Job](./sources/articles/noeri-ai-ai-that-learns-on-the-job.md) — Noeri.ai 声称其 AI 可从每个任务、失败和纠正中学习，依靠自身流量改进，且几乎不需要标注数据。 / Noeri.ai claims its AI learns from every task, failure, and correction, improves from its own traffic, and needs little labeled data.
+
+- [Yejin Choi 启动 Noeri，主张“多元智能”AI 未来 / Yejin Choi Launches Noeri, Advocating Plural Intelligence for AI Future](./sources/articles/yejin-choi-launches-noeri-advocating-plural-intelligence-for-ai.md) — Yejin Choi 与 Carlos Guestrin 获得 1.1 亿美元融资，启动 Noeri 智能体实验室，推动多元智能 AI 生态。 / Yejin Choi and Carlos Guestrin launch Noeri with $110M funding to advance a plural intelligence AI ecosystem.
+
+- [李飞飞带领 World Labs 团队加入 AMD / Fei-Fei Li Leads World Labs Team to Join AMD](./sources/articles/fei-fei-li-leads-world-labs-team-to-join-amd.md) — 李飞飞宣布 World Labs 团队加入 AMD，推动 AI 科学与技术发展。 / Fei-Fei Li announces World Labs team joining AMD to advance AI science and technology.
+
+- [World Labs 正式并入 AMD / World Labs Officially Joins AMD](./sources/articles/world-labs-officially-joins-amd.md) — World Labs 宣布已正式并入 AMD。 / World Labs has officially become part of AMD.
+
+- [苏姿丰在 X 上欢迎 World Labs 团队加入 AMD / Lisa Su Welcomes World Labs Team to AMD on X](./sources/articles/lisa-su-welcomes-world-labs-team-to-amd-on-x.md) — AMD CEO 苏姿丰在 X 上欢迎 @drfeifei 和 @theworldlabs 团队加入 AMD。 / AMD CEO Lisa Su welcomes @drfeifei and the @theworldlabs team to AMD on X.
+
+- [NVIDIA 在 MLPerf 训练与端点基准中全面领先，Vera Rubin 首秀展现领先性能 / NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](./sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md) — 英伟达官方称，Vera Rubin 平台在 MLPerf 训练与端点基准首秀中全面领先，代理式 AI 每瓦吞吐量代际提升超 10 倍。 / NVIDIA officially says its Vera Rubin platform debuts at the top of MLPerf Training and Endpoints benchmarks, delivering over 10x generational gains in agentic AI throughput per watt.
+
+- [英伟达 Vera Rubin 平台首次登榜 MLPerf 训练与端点基准 / NVIDIA Vera Rubin Platform Debuts on MLPerf Training and Endpoints Benchmark](./sources/articles/nvidia-vera-rubin-platform-debuts-on-mlperf-training-and-endpoin.md) — 英伟达宣布 Vera Rubin 平台在 MLPerf 训练与端点基准中首次亮相，强调训练与推理性能、每瓦吞吐量和规模效率。 / NVIDIA announces the Vera Rubin platform's debut on MLPerf Training and Endpoints benchmarks, highlighting training and inference performance, throughput per watt, and scale efficiency.
+
+- [阿里巴巴发布 Qwen4 Max，在人工智能分析智能指数上领先 Qwen3.8 Max 9 分 / Alibaba Launches Qwen4 Max, 9 Points Ahead of Qwen3.8 Max on Artificial Analysis Index](./sources/articles/alibaba-launches-qwen4-max-9-points-ahead-of-qwen3-8-max-on-arti.md) — 阿里 Qwen 官方账号称 Qwen4 Max 以高推理努力得分 43，领先 Qwen3.8 Max 9 分，落后 Kimi K3.1 Pro 3 分，且任务成本低约 11%。 / Alibaba's Qwen account claims Qwen4 Max scores 43 with xhigh reasoning effort, 9 points ahead of Qwen3.8 Max, 3 points behind Kimi K3.1 Pro, at about 11% lower cost per task.
+
+- [阿里 Qwen4 Max 发布：智能指数 43 分，每任务成本约为 Qwen3.8 Max 三分之一 / Alibaba Qwen4 Max Released: Intelligence Index 43, Cost Per Task About One-Third of Qwen3.8 Max](./sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md) — 阿里巴巴推出 Qwen4 Max，在人工智能分析智能指数中得分 43 分，超越 Qwen3.8 Max 9 分，且每任务成本约为前者三分之一。 / Alibaba launches Qwen4 Max, scoring 43 on the Artificial Analysis Intelligence Index—9 points above Qwen3.8 Max—at roughly one-third the cost per task.
+
+- [Google Gemini Notebook 支持将来源转为交互式网站 / Google Gemini Notebook can turn sources into interactive sites](./sources/articles/google-gemini-notebook-can-turn-sources-into-interactive-sites.md) — Google 宣布 Gemini Notebook 可将来源生成仪表盘和可视化解释器等交互式网站。 / Google announces Gemini Notebook can generate interactive sites such as dashboards and visual explainers from sources.
+
+- [OpenAI 发布医疗版 ChatGPT 进展：计算机使用智能体与 20 余款医疗插件 / OpenAI Announces ChatGPT for Healthcare Advances: Computer-Use Agents and 20+ Healthcare Plugins](./sources/articles/openai-announces-chatgpt-for-healthcare-advances-computer-use-ag.md) — OpenAI 称 ChatGPT for Healthcare 在计算机使用智能体、临床问答及 20 多款医疗插件方面取得进展，并与 Abridge、Ambience AI、Cigna、CVS Health 等机构合作。 / OpenAI says ChatGPT for Healthcare has advanced in computer-use agents, clinical answers, and 20+ healthcare plugins, partnering with Abridge, Ambience AI, Cigna, CVS Health, and others.
+
+- [OpenAI 称 GPT-6 Astra 协助物理学家提出标准模型格点定义 / OpenAI Says GPT-6 Astra Assisted Physicist in Proposing Standard Model Lattice Definition](./sources/articles/openai-says-gpt-6-astra-assisted-physicist-in-proposing-standard.md) — OpenAI 发文称物理学家 Nathaniel Craig 与 GPT-6 Astra 合作，在其新科学博客上发布首篇关于标准模型格点定义的文章。 / OpenAI says physicist Nathaniel Craig collaborated with GPT-6 Astra to publish the first post on its new science blog about a candidate lattice definition of the Standard Model.
+
+- [OpenAI：AI 可使科研人员生产力近乎翻倍 / OpenAI: AI Can Nearly Double Researcher Productivity](./sources/articles/openai-ai-can-nearly-double-researcher-productivity.md) — OpenAI 发布关于 ChatGPT 学术研究者计划的研究，称超 1800 名科学家在使用 AI 后生产力近乎翻倍。 / OpenAI released a study on the ChatGPT for Academic Researchers program, reporting that more than 1,800 scientists nearly doubled their productivity using AI.
+
+- [OpenAI 面向全球科学家扩容免费前沿模型访问 / OpenAI expands free frontier model access for up to 200,000 scientists](./sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md) — OpenAI 面向全球最多 20 万名科学家扩容免费前沿模型访问，提供培训与支持，且默认不将共享数据用于模型训练。 / OpenAI expands free frontier model access for up to 200,000 scientists worldwide, with training and support, and by default does not use shared data to train models.
+
+- [METR 与 OpenAI 达成有限对齐评估协议 / METR Reaches Limited Alignment Assessment Agreement with OpenAI](./sources/articles/metr-reaches-limited-alignment-assessment-agreement-with-openai.md) — METR 宣布与 OpenAI 达成协议，对其最大规模强化学习运行开展有限对齐评估，并计划发布报告。 / METR announces an agreement with OpenAI to conduct a limited alignment assessment of its largest RL run and plans to publish reports.
+
+- [OpenAI 与外部专家开展嵌入式评估 / OpenAI Conducts Embedded Assessments with External Experts](./sources/articles/openai-conducts-embedded-assessments-with-external-experts.md) — OpenAI 正与四家外部机构合作，通过嵌入式评估让外部专家深入其内部模型与系统，调查对齐并测试安全防护。 / OpenAI is working with four external organizations to give outside experts deep access to internal models and systems for alignment investigation and safeguard testing via embedded assessments.
+
 - [Antigravity Panel（反重力面板） / Antigravity Panel](./sources/articles/antigravity-panel.md) — 一款面向 Google Antigravity IDE 的实时 AI 额度监控与缓存管理侧边栏扩展。 / A real-time AI quota monitor and cache manager sidebar extension for Google Antigravity IDE.
 
 - [AG Usage：Antigravity AI 模型用量追踪扩展 / AG Usage: Antigravity AI Model Usage Tracking Extension](./sources/articles/ag-usage-antigravity-ai-model-usage-tracking-extension.md) — 一款在 Visual Studio Code 中实时追踪 Antigravity AI 模型配额与使用情况的免费扩展。 / A free Visual Studio Code extension for real-time tracking of Antigravity AI model quotas and usage.

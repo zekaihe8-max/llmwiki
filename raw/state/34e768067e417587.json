@@ -1,0 +1,23 @@
+{
+  "slug": "34e768067e417587",
+  "url": "https://x.com/Voxyz_ai/status/2122313740645507315",
+  "title": "数据库 subagent",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "34e768067e41758782ea7493139ec20d0984f490425d714a0329dd0a93ea2697",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:36.570Z",
+  "content_hash": "70ba3a9d6fbc416fd33ce5727dc765af3529994dda799e4d59f928e4d6219eb4",
+  "article_path": "articles/34e768067e417587.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2122313740645507315",
+  "source_path": "sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:27:17.690Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

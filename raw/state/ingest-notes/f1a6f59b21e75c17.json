@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "文章涉及 AI Gateway 跨模型编排与模型选择，与云平台自动模型路由主题高度相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文提到开源 SDK 与编排工具（harness），对应多 Harness 路由基建讨论。",
+    "topics/confidential-computing-cloud-ai.md": "帖文强调私有推理、零数据留存（ZDR）与数据所有权，与机密计算和云端 AI 主题相近。",
+    "topics/tools-building-own-models.md": "帖文主张自有模型与私有推理，与工具产品自建模型抢话语权主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI Gateway 跨模型编排与模型选择，与云平台自动模型路由主题高度相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文提到开源 SDK 与编排工具（harness），对应多 Harness 路由基建讨论。"
+    },
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "帖文强调私有推理、零数据留存（ZDR）与数据所有权，与机密计算和云端 AI 主题相近。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "帖文主张自有模型与私有推理，与工具产品自建模型抢话语权主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://x.com/rauchg/status/2122458782294847807"
+}

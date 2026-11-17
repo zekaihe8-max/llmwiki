@@ -1,3 +1,79 @@
+## 2026-11-17
+
+* **创建 / Creation**: 归档 [dex：在 SlopCodeBench 上测试“长期代码主人”提示词](./sources/articles/dex-tests-long-term-code-owner-prompt-on-slopcodebench.md)。 / Filed [dex Tests "Long-Term Code Owner" Prompt on SlopCodeBench](./sources/articles/dex-tests-long-term-code-owner-prompt-on-slopcodebench.md).
+
+* **创建 / Creation**: 归档 [AI 编程简史（2025 年 11 月–2026 年 11 月）](./sources/articles/a-brief-history-of-ai-coding-nov-2025-nov-2026.md)。 / Filed [A Brief History of AI Coding (Nov 2025–Nov 2026)](./sources/articles/a-brief-history-of-ai-coding-nov-2025-nov-2026.md).
+
+* **创建 / Creation**: 归档 [Poteto 在 AIE Code 的演讲：细微差别导致滥竽充数，主张为智能体设计无细节 API](./sources/articles/poteto-s-aie-code-talk-nuance-leads-to-slop-advocate-nuance-free.md)。 / Filed [Poteto's AIE Code Talk: Nuance Leads to Slop, Advocate Nuance-Free APIs for Agents](./sources/articles/poteto-s-aie-code-talk-nuance-leads-to-slop-advocate-nuance-free.md).
+
+* **创建 / Creation**: 归档 [Claude Code 数据库子 Agent 防止大表迁移锁表](./sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md)。 / Filed [Database subagent for Claude Code prevents live-table locks during migrations](./sources/articles/database-subagent-for-claude-code-prevents-live-table-locks-duri.md).
+
+* **创建 / Creation**: 归档 [CLAUDE.md 清理提示：审计项目记忆文件](./sources/articles/claude-md-cleanup-prompt-auditing-project-memory-files.md)。 / Filed [CLAUDE.md cleanup prompt: auditing project memory files](./sources/articles/claude-md-cleanup-prompt-auditing-project-memory-files.md).
+
+* **创建 / Creation**: 归档 [Vox · 不要再手动盯一排会话](./sources/articles/vox-stop-manually-babysitting-a-row-of-sessions.md)。 / Filed [Vox · Stop Manually Babysitting a Row of Sessions](./sources/articles/vox-stop-manually-babysitting-a-row-of-sessions.md).
+
+* **创建 / Creation**: 归档 [Claude Code 桌面版在 iOS 模拟器中支持 iPhone Duo](./sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md)。 / Filed [Claude Code desktop supports iPhone Duo in iOS simulator](./sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md).
+
+* **创建 / Creation**: 归档 [meng shao 整理：Claude Code 团队让 Agent 交付验证证据](./sources/articles/meng-shao-curates-claude-code-team-has-agents-deliver-verificati.md)。 / Filed [meng shao curates: Claude Code team has agents deliver verification evidence](./sources/articles/meng-shao-curates-claude-code-team-has-agents-deliver-verificati.md).
+
+* **创建 / Creation**: 归档 [Claude Code 团队如何思考验证](./sources/articles/how-the-claude-code-team-thinks-about-verification.md)。 / Filed [How the Claude Code team thinks about verification](./sources/articles/how-the-claude-code-team-thinks-about-verification.md).
+
+* **创建 / Creation**: 归档 [ClaudeDevs：验证让 Claude 编写更好代码](./sources/articles/claudedevs-verification-helps-claude-write-better-code.md)。 / Filed [ClaudeDevs: Verification Helps Claude Write Better Code](./sources/articles/claudedevs-verification-helps-claude-write-better-code.md).
+
+* **创建 / Creation**: 归档 [小墨 · Antigravity 也能把 agent 放到云端](./sources/articles/xiaomo-antigravity-can-also-put-agents-in-the-cloud.md)。 / Filed [Xiaomo · Antigravity Can Also Put Agents in the Cloud](./sources/articles/xiaomo-antigravity-can-also-put-agents-in-the-cloud.md).
+
+* **创建 / Creation**: 归档 [Rauch：Vercel AI Gateway 上线私有推理，主张自主智能路线图](./sources/articles/rauch-vercel-ai-gateway-launches-private-inference-advocates-own.md)。 / Filed [Rauch: Vercel AI Gateway launches Private Inference, advocates owning the intelligence roadmap](./sources/articles/rauch-vercel-ai-gateway-launches-private-inference-advocates-own.md).
+
+* **创建 / Creation**: 归档 [智能体端到端评测构建指南](./sources/articles/agent-end-to-end-eval-construction-guide.md)。 / Filed [Agent End-to-End Eval Construction Guide](./sources/articles/agent-end-to-end-eval-construction-guide.md).
+
+* **创建 / Creation**: 归档 [Vercel 称下一批用户是智能体，主张以评测构建面向智能体的软件](./sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md)。 / Filed [Vercel says next users are agents, advocates evals to build agent-facing software](./sources/articles/vercel-says-next-users-are-agents-advocates-evals-to-build-agent.md).
+
+* **创建 / Creation**: 归档 [Traces 加入 Vercel](./sources/articles/traces-is-joining-vercel.md)。 / Filed [Traces Is Joining Vercel](./sources/articles/traces-is-joining-vercel.md).
+
+* **创建 / Creation**: 归档 [公告：Traces 加入 Vercel](./sources/articles/announcement-traces-joins-vercel.md)。 / Filed [Announcement: Traces Joins Vercel](./sources/articles/announcement-traces-joins-vercel.md).
+
+* **创建 / Creation**: 归档 [开源占比：企业中开源模型 Token 份额五个月增至 30%](./sources/articles/open-source-share-enterprise-oss-model-token-share-rises-to-30-i.md)。 / Filed [Open Source Share: Enterprise OSS Model Token Share Rises to 30% in Five Months](./sources/articles/open-source-share-enterprise-oss-model-token-share-rises-to-30-i.md).
+
+* **创建 / Creation**: 归档 [Databricks AI Index 发布：企业 AI 消费趋势](./sources/articles/databricks-ai-index-released-enterprise-ai-consumption-trends.md)。 / Filed [Databricks AI Index Released: Enterprise AI Consumption Trends](./sources/articles/databricks-ai-index-released-enterprise-ai-consumption-trends.md).
+
+* **创建 / Creation**: 归档 [Mollick · 工作结构一直很稳，但未必一直稳](./sources/articles/mollick-work-structure-has-long-been-stable-but-may-not-remain-s.md)。 / Filed [Mollick · Work structure has long been stable, but may not remain so](./sources/articles/mollick-work-structure-has-long-been-stable-but-may-not-remain-s.md).
+
+* **创建 / Creation**: 归档 [Mollick · Dot 的界面落在后面](./sources/articles/mollick-dot-s-interface-falls-behind.md)。 / Filed [Mollick · Dot's Interface Falls Behind](./sources/articles/mollick-dot-s-interface-falls-behind.md).
+
+* **创建 / Creation**: 归档 [Mollick · 还没有 Fable 级的开源模型](./sources/articles/mollick-no-fable-class-open-model-yet.md)。 / Filed [Mollick · No Fable-class open model yet](./sources/articles/mollick-no-fable-class-open-model-yet.md).
+
+* **创建 / Creation**: 归档 [Noeri.ai：在职学习的 AI](./sources/articles/noeri-ai-ai-that-learns-on-the-job.md)。 / Filed [Noeri.ai: AI That Learns on the Job](./sources/articles/noeri-ai-ai-that-learns-on-the-job.md).
+
+* **创建 / Creation**: 归档 [Yejin Choi 启动 Noeri，主张“多元智能”AI 未来](./sources/articles/yejin-choi-launches-noeri-advocating-plural-intelligence-for-ai.md)。 / Filed [Yejin Choi Launches Noeri, Advocating Plural Intelligence for AI Future](./sources/articles/yejin-choi-launches-noeri-advocating-plural-intelligence-for-ai.md).
+
+* **创建 / Creation**: 归档 [李飞飞带领 World Labs 团队加入 AMD](./sources/articles/fei-fei-li-leads-world-labs-team-to-join-amd.md)。 / Filed [Fei-Fei Li Leads World Labs Team to Join AMD](./sources/articles/fei-fei-li-leads-world-labs-team-to-join-amd.md).
+
+* **创建 / Creation**: 归档 [World Labs 正式并入 AMD](./sources/articles/world-labs-officially-joins-amd.md)。 / Filed [World Labs Officially Joins AMD](./sources/articles/world-labs-officially-joins-amd.md).
+
+* **创建 / Creation**: 归档 [苏姿丰在 X 上欢迎 World Labs 团队加入 AMD](./sources/articles/lisa-su-welcomes-world-labs-team-to-amd-on-x.md)。 / Filed [Lisa Su Welcomes World Labs Team to AMD on X](./sources/articles/lisa-su-welcomes-world-labs-team-to-amd-on-x.md).
+
+* **创建 / Creation**: 归档 [NVIDIA 在 MLPerf 训练与端点基准中全面领先，Vera Rubin 首秀展现领先性能](./sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md)。 / Filed [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](./sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md).
+
+* **创建 / Creation**: 归档 [英伟达 Vera Rubin 平台首次登榜 MLPerf 训练与端点基准](./sources/articles/nvidia-vera-rubin-platform-debuts-on-mlperf-training-and-endpoin.md)。 / Filed [NVIDIA Vera Rubin Platform Debuts on MLPerf Training and Endpoints Benchmark](./sources/articles/nvidia-vera-rubin-platform-debuts-on-mlperf-training-and-endpoin.md).
+
+* **创建 / Creation**: 归档 [阿里巴巴发布 Qwen4 Max，在人工智能分析智能指数上领先 Qwen3.8 Max 9 分](./sources/articles/alibaba-launches-qwen4-max-9-points-ahead-of-qwen3-8-max-on-arti.md)。 / Filed [Alibaba Launches Qwen4 Max, 9 Points Ahead of Qwen3.8 Max on Artificial Analysis Index](./sources/articles/alibaba-launches-qwen4-max-9-points-ahead-of-qwen3-8-max-on-arti.md).
+
+* **创建 / Creation**: 归档 [阿里 Qwen4 Max 发布：智能指数 43 分，每任务成本约为 Qwen3.8 Max 三分之一](./sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md)。 / Filed [Alibaba Qwen4 Max Released: Intelligence Index 43, Cost Per Task About One-Third of Qwen3.8 Max](./sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md).
+
+* **创建 / Creation**: 归档 [Google Gemini Notebook 支持将来源转为交互式网站](./sources/articles/google-gemini-notebook-can-turn-sources-into-interactive-sites.md)。 / Filed [Google Gemini Notebook can turn sources into interactive sites](./sources/articles/google-gemini-notebook-can-turn-sources-into-interactive-sites.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布医疗版 ChatGPT 进展：计算机使用智能体与 20 余款医疗插件](./sources/articles/openai-announces-chatgpt-for-healthcare-advances-computer-use-ag.md)。 / Filed [OpenAI Announces ChatGPT for Healthcare Advances: Computer-Use Agents and 20+ Healthcare Plugins](./sources/articles/openai-announces-chatgpt-for-healthcare-advances-computer-use-ag.md).
+
+* **创建 / Creation**: 归档 [OpenAI 称 GPT-6 Astra 协助物理学家提出标准模型格点定义](./sources/articles/openai-says-gpt-6-astra-assisted-physicist-in-proposing-standard.md)。 / Filed [OpenAI Says GPT-6 Astra Assisted Physicist in Proposing Standard Model Lattice Definition](./sources/articles/openai-says-gpt-6-astra-assisted-physicist-in-proposing-standard.md).
+
+* **创建 / Creation**: 归档 [OpenAI：AI 可使科研人员生产力近乎翻倍](./sources/articles/openai-ai-can-nearly-double-researcher-productivity.md)。 / Filed [OpenAI: AI Can Nearly Double Researcher Productivity](./sources/articles/openai-ai-can-nearly-double-researcher-productivity.md).
+
+* **创建 / Creation**: 归档 [OpenAI 面向全球科学家扩容免费前沿模型访问](./sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md)。 / Filed [OpenAI expands free frontier model access for up to 200,000 scientists](./sources/articles/openai-expands-free-frontier-model-access-for-up-to-200-000-scie.md).
+
+* **创建 / Creation**: 归档 [METR 与 OpenAI 达成有限对齐评估协议](./sources/articles/metr-reaches-limited-alignment-assessment-agreement-with-openai.md)。 / Filed [METR Reaches Limited Alignment Assessment Agreement with OpenAI](./sources/articles/metr-reaches-limited-alignment-assessment-agreement-with-openai.md).
+
+* **创建 / Creation**: 归档 [OpenAI 与外部专家开展嵌入式评估](./sources/articles/openai-conducts-embedded-assessments-with-external-experts.md)。 / Filed [OpenAI Conducts Embedded Assessments with External Experts](./sources/articles/openai-conducts-embedded-assessments-with-external-experts.md).
+
 ## 2026-11-16
 
 * **创建 / Creation**: 归档 [Antigravity Panel（反重力面板）](./sources/articles/antigravity-panel.md)。 / Filed [Antigravity Panel](./sources/articles/antigravity-panel.md).

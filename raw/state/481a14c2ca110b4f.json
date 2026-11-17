@@ -1,0 +1,23 @@
+{
+  "slug": "481a14c2ca110b4f",
+  "url": "https://x.com/Alibaba_Qwen/status/2122174463479542126",
+  "title": "Qwen",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "481a14c2ca110b4fe77a5535ef6411c216026f1c5cd100867c23930f3508064e",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:23.237Z",
+  "content_hash": "331b85465f4cb0fdf8688b22e517c9c2db2a38e41260e0de2d0e06f606329a04",
+  "article_path": "articles/481a14c2ca110b4f.md",
+  "fetched_url": "https://x.com/Alibaba_Qwen/status/2122174463479542126",
+  "source_path": "sources/articles/alibaba-launches-qwen4-max-9-points-ahead-of-qwen3-8-max-on-arti.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:29:26.349Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

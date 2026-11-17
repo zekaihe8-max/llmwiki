@@ -1,0 +1,23 @@
+{
+  "slug": "1c5dca2369d771e8",
+  "url": "https://x.com/NVIDIAAIInfra/status/2122441102603206771",
+  "title": "英伟达",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "1c5dca2369d771e83ae041cce1804246fd612a477f29bf34fb8261c4cc704bd8",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:23.599Z",
+  "content_hash": "a8bd9f9ca6f3439e26952f125b7f571eecc0fd6419ec399e70c4b580a92538fe",
+  "article_path": "articles/1c5dca2369d771e8.md",
+  "fetched_url": "https://x.com/NVIDIAAIInfra/status/2122441102603206771",
+  "source_path": "sources/articles/nvidia-vera-rubin-platform-debuts-on-mlperf-training-and-endpoin.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:17:47.658Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/in-app-model-partnerships.md",
+    "topics/agent-auto-mode.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文明确提到“更强的计算机使用智能体”，与该主题直接相关。",
+    "topics/in-app-model-partnerships.md": "帖文列举了多家医疗机构合作使用模型，属于应用内模型合作伙伴场景。",
+    "topics/agent-auto-mode.md": "涉及智能体在医疗工作流中的自动化应用。",
+    "topics/ai-native-companies.md": "OpenAI 作为 AI 原生公司发布垂直领域产品进展。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到“更强的计算机使用智能体”，与该主题直接相关。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文列举了多家医疗机构合作使用模型，属于应用内模型合作伙伴场景。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及智能体在医疗工作流中的自动化应用。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 作为 AI 原生公司发布垂直领域产品进展。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未访问 openai.com 链接，未独立核实临床效果。"
+}

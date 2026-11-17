@@ -1,0 +1,23 @@
+{
+  "slug": "eb1be0d36ea573de",
+  "url": "https://x.com/ArtificialAnlys/status/2122161629592953032",
+  "title": "AA",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "eb1be0d36ea573de98a3be2670834d3522deb3e3411b7a8475853fffdb60a220",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:22.784Z",
+  "content_hash": "53cbf94eb0480eb84ef394ff010e2000a15a828e169874de871467d4e32e0c59",
+  "article_path": "articles/eb1be0d36ea573de.md",
+  "fetched_url": "https://x.com/ArtificialAnlys/status/2122161629592953032",
+  "source_path": "sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:17:08.521Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
