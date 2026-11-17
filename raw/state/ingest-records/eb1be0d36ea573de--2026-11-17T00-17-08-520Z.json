@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:17:08.520Z",
+  "url": "https://x.com/ArtificialAnlys/status/2122161629592953032",
+  "slug": "eb1be0d36ea573de",
+  "content_hash": "53cbf94eb0480eb84ef394ff010e2000a15a828e169874de871467d4e32e0c59",
+  "source": {
+    "path": "sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文基于第三方智能评测指数进行模型横向对比，属 AI 评测入口与工作记录范畴。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中重点披露每任务成本、API 定价与 Token 用量，属大厂推理成本效率议题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中对比 Qwen 系列不同版本及竞品定位，涉及模型产品线与策略分级。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "内容引用公开榜单分数与成本数据，涉及对基准榜可信度与分数意义的审视。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文基于第三方智能评测指数进行模型横向对比，属 AI 评测入口与工作记录范畴。",
+    "topics/public-benchmark-quality-scrutiny.md": "内容引用公开榜单分数与成本数据，涉及对基准榜可信度与分数意义的审视。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中重点披露每任务成本、API 定价与 Token 用量，属大厂推理成本效率议题。",
+    "topics/pro-vs-flash-model-strategy.md": "文中对比 Qwen 系列不同版本及竞品定位，涉及模型产品线与策略分级。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文基于第三方智能评测指数进行模型横向对比，属 AI 评测入口与工作记录范畴。",
+      "topics/public-benchmark-quality-scrutiny.md": "内容引用公开榜单分数与成本数据，涉及对基准榜可信度与分数意义的审视。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中重点披露每任务成本、API 定价与 Token 用量，属大厂推理成本效率议题。",
+      "topics/pro-vs-flash-model-strategy.md": "文中对比 Qwen 系列不同版本及竞品定位，涉及模型产品线与策略分级。"
+    },
+    "notes": "All claims are attributed to the cited X post; no independent verification beyond the article is performed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alibaba-qwen4-max-released-intelligence-index-43-cost-per-task-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

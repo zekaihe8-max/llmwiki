@@ -1,0 +1,23 @@
+{
+  "slug": "894a45947f55893f",
+  "url": "https://www.noeri.ai/",
+  "title": "网站",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "894a45947f55893f82c88f0d88c71d1071337cc6cc0677ebf5d4dcd501b98281",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:28.656Z",
+  "content_hash": "57f23d83d659d459cf9e98f82315b9843fac32e3459393daf5445ab65d4934b2",
+  "article_path": "articles/894a45947f55893f.md",
+  "fetched_url": "https://www.noeri.ai/",
+  "source_path": "sources/articles/noeri-ai-ai-that-learns-on-the-job.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:20:07.426Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

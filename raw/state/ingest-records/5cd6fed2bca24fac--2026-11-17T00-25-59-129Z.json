@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:25:59.129Z",
+  "url": "https://x.com/ClaudeDevs/status/2122439098740674839",
+  "slug": "5cd6fed2bca24fac",
+  "content_hash": "26789bcbf83bc7165398f4e2d0db0031034beb587d333092c0fa3a47784c0027",
+  "source": {
+    "path": "sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/computer-use.md",
+    "topics/iphone-duo-user-vs-developer-reception.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "直接对应 iPhone Duo 应用适配主题，与帖文内容最贴近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "主体为 Claude Code 产品动态，与 Claude Code 社区话题相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 桌面端对模拟器设备的操控，与 Computer Use 主题相关。"
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "帖文体现开发者对 iPhone Duo 的赞美与适配场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "直接对应 iPhone Duo 应用适配主题，与帖文内容最贴近。",
+    "topics/computer-use.md": "涉及 Claude 桌面端对模拟器设备的操控，与 Computer Use 主题相关。",
+    "topics/iphone-duo-user-vs-developer-reception.md": "帖文体现开发者对 iPhone Duo 的赞美与适配场景。",
+    "topics/claude-code-authorship-and-voice.md": "主体为 Claude Code 产品动态，与 Claude Code 社区话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-app-iphone-duo-adaptation.md",
+      "topics/computer-use.md",
+      "topics/iphone-duo-user-vs-developer-reception.md",
+      "topics/claude-code-authorship-and-voice.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-app-iphone-duo-adaptation.md": "直接对应 iPhone Duo 应用适配主题，与帖文内容最贴近。",
+      "topics/computer-use.md": "涉及 Claude 桌面端对模拟器设备的操控，与 Computer Use 主题相关。",
+      "topics/iphone-duo-user-vs-developer-reception.md": "帖文体现开发者对 iPhone Duo 的赞美与适配场景。",
+      "topics/claude-code-authorship-and-voice.md": "主体为 Claude Code 产品动态，与 Claude Code 社区话题相关。"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实；未引入目录之外的新话题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-desktop-supports-iphone-duo-in-ios-simulator.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:26:35.746Z",
+  "url": "https://x.com/Voxyz_ai/status/2122434536822673761",
+  "slug": "cd292b04d49b6290",
+  "content_hash": "35b1887702235a48e28c5765e79f43e3bc1b6b58c48be94cf91f0e1c438c8e65",
+  "source": {
+    "path": "sources/articles/vox-stop-manually-babysitting-a-row-of-sessions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文提到 3 天 160 个 PR、107 份任务简报的规模化工程场景，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中通过 `npx skills@latest add` 安装 coordinator 与 parallel-goal-fleet 技能，涉及 Agent Skill 编写与安装。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中涉及额度线、付费构建推送次数与人工确认关卡，属编程 Agent 体验与额度议题。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文描述的协调员相当于个人 Agent 当包工头，调度多个编程 Agent 并设置人工关卡，与本主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的协调员相当于个人 Agent 当包工头，调度多个编程 Agent 并设置人工关卡，与本主题高度相关。",
+    "topics/agent-scaled-engineering.md": "帖文提到 3 天 160 个 PR、107 份任务简报的规模化工程场景，属智能体规模化工程范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "文中涉及额度线、付费构建推送次数与人工确认关卡，属编程 Agent 体验与额度议题。",
+    "topics/agent-skill-authoring.md": "文中通过 `npx skills@latest add` 安装 coordinator 与 parallel-goal-fleet 技能，涉及 Agent Skill 编写与安装。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vox-stop-manually-babysitting-a-row-of-sessions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的协调员相当于个人 Agent 当包工头，调度多个编程 Agent 并设置人工关卡，与本主题高度相关。",
+      "topics/agent-scaled-engineering.md": "帖文提到 3 天 160 个 PR、107 份任务简报的规模化工程场景，属智能体规模化工程范畴。",
+      "topics/coding-agent-ux-vs-quota.md": "文中涉及额度线、付费构建推送次数与人工确认关卡，属编程 Agent 体验与额度议题。",
+      "topics/agent-skill-authoring.md": "文中通过 `npx skills@latest add` 安装 coordinator 与 parallel-goal-fleet 技能，涉及 Agent Skill 编写与安装。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；未引入文章外的 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vox-stop-manually-babysitting-a-row-of-sessions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

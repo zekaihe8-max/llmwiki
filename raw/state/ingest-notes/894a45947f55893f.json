@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/agent-auto-mode.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "文章聚焦任务、失败与纠正的累积学习，与 AI 任务时界增长方向相近，无需新建。",
+    "topics/agent-auto-mode.md": "在职学习体现智能体自动运行与自我改进，与自动模式主题相关，保持不变。",
+    "topics/agentic-ai-foundation.md": "内容属于代理式 AI 基础能力范畴，现有主题已覆盖，无需新增。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文章聚焦任务、失败与纠正的累积学习，与 AI 任务时界增长方向相近，无需新建。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "在职学习体现智能体自动运行与自我改进，与自动模式主题相关，保持不变。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "内容属于代理式 AI 基础能力范畴，现有主题已覆盖，无需新增。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 noeri.ai 首页极简文案，未披露公司背景、定价或具体技术细节。"
+}

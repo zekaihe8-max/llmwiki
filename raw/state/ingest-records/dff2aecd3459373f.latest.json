@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:19:40.039Z",
+  "url": "https://x.com/YejinChoinka/status/2122379749372907852",
+  "slug": "dff2aecd3459373f",
+  "content_hash": "dfe93b2cc44ff14870cc4b3200b613eafbcffc5e2696ab68f65bf5daf44e4d8c",
+  "source": {
+    "path": "sources/articles/yejin-choi-launches-noeri-advocating-plural-intelligence-for-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中提到的自我改进 AI 与智能体基础相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Noeri 作为新成立的 AI 原生实验室/公司，与该主题相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "“多元智能”与多智能体基建方向相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Noeri 作为新成立的 AI 原生实验室/公司，与该主题相关。",
+    "topics/multiagent-infra-four-problems.md": "“多元智能”与多智能体基建方向相近。",
+    "topics/agentic-ai-foundation.md": "文中提到的自我改进 AI 与智能体基础相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yejin-choi-launches-noeri-advocating-plural-intelligence-for-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Noeri 作为新成立的 AI 原生实验室/公司，与该主题相关。",
+      "topics/multiagent-infra-four-problems.md": "“多元智能”与多智能体基建方向相近。",
+      "topics/agentic-ai-foundation.md": "文中提到的自我改进 AI 与智能体基础相关。"
+    },
+    "notes": "所有事实均来源于提供的 X 帖文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yejin-choi-launches-noeri-advocating-plural-intelligence-for-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

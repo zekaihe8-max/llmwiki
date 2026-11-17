@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/llm-formal-verification.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "内容涉及 AI 参与科学研究与博客发布，与科研实践适配主题相近。",
+    "topics/llm-formal-verification.md": "格点定义属于形式化物理模型，与 LLM 形式化验证主题有一定关联。",
+    "topics/ai-native-companies.md": "发布方为 OpenAI，属于 AI 原生公司，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 参与科学研究与博客发布，与科研实践适配主题相近。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "格点定义属于形式化物理模型，与 LLM 形式化验证主题有一定关联。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "发布方为 OpenAI，属于 AI 原生公司，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实 GPT-6 Astra 是否为真实模型名称，所有主张均基于帖文表述，使用「帖文称」标注。"
+}

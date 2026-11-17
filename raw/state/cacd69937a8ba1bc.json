@@ -1,0 +1,23 @@
+{
+  "slug": "cacd69937a8ba1bc",
+  "url": "https://nvda.ws/4C3L75T",
+  "title": "博客",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "cacd69937a8ba1bc8d5ac3ac0e42b4027fcc8ea541eff9da3dac0b8c56bcc413",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:23.980Z",
+  "content_hash": "8aab17011b98b1d4ca40e7b378310be4d8085701793d177f7f7c580513b2e15d",
+  "article_path": "articles/cacd69937a8ba1bc.md",
+  "fetched_url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/?ncid=so-twit-332148",
+  "source_path": "sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:29:26.404Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

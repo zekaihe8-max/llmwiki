@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:20:32.772Z",
+  "url": "https://x.com/emollick/status/2122308260325720127",
+  "slug": "d052900d6fb11ec7",
+  "content_hash": "c7cfbb2fd7f0239bd80756b98fd16b5dabb6437f7a7eeb28a82515334cb0874c",
+  "source": {
+    "path": "sources/articles/mollick-no-fable-class-open-model-yet.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "文中提及阿里 Qwen4 Max 等中国模型的评测表现，涉及中国开源模型进展。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论是否出现 Fable 级开源模型，与开放权重前沿模型主题直接相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用 Artificial Analysis 的智能指数与成本对比，涉及公开榜单与基准评测。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文核心讨论是否出现 Fable 级开源模型，与开放权重前沿模型主题直接相关。",
+    "topics/china-open-source-lead-us-compute.md": "文中提及阿里 Qwen4 Max 等中国模型的评测表现，涉及中国开源模型进展。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用 Artificial Analysis 的智能指数与成本对比，涉及公开榜单与基准评测。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mollick-no-fable-class-open-model-yet.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "帖文核心讨论是否出现 Fable 级开源模型，与开放权重前沿模型主题直接相关。",
+      "topics/china-open-source-lead-us-compute.md": "文中提及阿里 Qwen4 Max 等中国模型的评测表现，涉及中国开源模型进展。",
+      "topics/public-benchmark-quality-scrutiny.md": "文中引用 Artificial Analysis 的智能指数与成本对比，涉及公开榜单与基准评测。"
+    },
+    "notes": "Fetched markdown mixes Ethan Mollick's claim about Fable-class open models with an Artificial Analysis update on Qwen4 Max; all claims are attributed to the post or cited source and no external facts are added.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mollick-no-fable-class-open-model-yet.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

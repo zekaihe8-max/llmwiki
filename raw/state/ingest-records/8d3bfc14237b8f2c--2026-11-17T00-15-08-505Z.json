@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:15:08.505Z",
+  "url": "https://x.com/OpenAI/status/2122380010287960095",
+  "slug": "8d3bfc14237b8f2c",
+  "content_hash": "528691ae37580f3d16a5c51718c543f9a7b3cdc42222e62131e7f81c25fcba09",
+  "source": {
+    "path": "sources/articles/openai-ai-can-nearly-double-researcher-productivity.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "直接涉及 AI 与科研实践适配，与帖文中 AI 对科研工作流和科学发现的影响最为贴近。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "关注 AI 任务时界与能力增长，与生产力提升的主题相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "讨论哪些工作可以放心交给 AI，对应帖文中研究者在构思、数据分析和编码中使用 ChatGPT。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "直接涉及 AI 与科研实践适配，与帖文中 AI 对科研工作流和科学发现的影响最为贴近。",
+    "topics/tasks-confidently-handed-to-ai.md": "讨论哪些工作可以放心交给 AI，对应帖文中研究者在构思、数据分析和编码中使用 ChatGPT。",
+    "topics/ai-task-horizon-growth.md": "关注 AI 任务时界与能力增长，与生产力提升的主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-ai-can-nearly-double-researcher-productivity.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "直接涉及 AI 与科研实践适配，与帖文中 AI 对科研工作流和科学发现的影响最为贴近。",
+      "topics/tasks-confidently-handed-to-ai.md": "讨论哪些工作可以放心交给 AI，对应帖文中研究者在构思、数据分析和编码中使用 ChatGPT。",
+      "topics/ai-task-horizon-growth.md": "关注 AI 任务时界与能力增长，与生产力提升的主题相关。"
+    },
+    "notes": "全部复用现有主题，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-ai-can-nearly-double-researcher-productivity.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

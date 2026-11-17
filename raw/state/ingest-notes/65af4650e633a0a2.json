@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "帖文讨论提示词补充导致 Token 用量翻倍，与项目指令与 Token 效率主题相关。",
+    "topics/ai-eval-work-record-gateway.md": "帖文涉及 slopcodebench、circuit_eval 等评测及通过率记录，与 AI 评测入口与干活记录主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文关注每任务 Token 数与每通过成本，与编程 Agent 省 Token 工具与开销主题相关。",
+    "topics/context-engineering-for-agents.md": "帖文考察系统提示词/上下文补充对模型行为的影响，与 Agent 上下文工程主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文讨论提示词补充导致 Token 用量翻倍，与项目指令与 Token 效率主题相关。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 slopcodebench、circuit_eval 等评测及通过率记录，与 AI 评测入口与干活记录主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文关注每任务 Token 数与每通过成本，与编程 Agent 省 Token 工具与开销主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文考察系统提示词/上下文补充对模型行为的影响，与 Agent 上下文工程主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，仅基于可见文本摘要，未核实附带图片的具体内容。"
+}

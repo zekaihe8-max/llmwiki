@@ -1,0 +1,23 @@
+{
+  "slug": "c2ed3dec46ca3ede",
+  "url": "https://x.com/OpenAI/status/2122123437141553630",
+  "title": "Astra",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "c2ed3dec46ca3edeea3d7d6a0d6fdc6dcd8cca893e5b79c170ef357be3677268",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:21.560Z",
+  "content_hash": "6a3be6ed1d44b8d39bbbf53dfce6ad3dc4cf23b7486fe8a0589eb2afeeaa6a9c",
+  "article_path": "articles/c2ed3dec46ca3ede.md",
+  "fetched_url": "https://x.com/OpenAI/status/2122123437141553630",
+  "source_path": "sources/articles/openai-says-gpt-6-astra-assisted-physicist-in-proposing-standard.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:15:41.412Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

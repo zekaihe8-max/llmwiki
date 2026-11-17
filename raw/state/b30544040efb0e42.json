@@ -1,0 +1,23 @@
+{
+  "slug": "b30544040efb0e42",
+  "url": "https://x.com/Voxyz_ai/status/2122343942222163982",
+  "title": "清理提示",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "b30544040efb0e4242bc0695cafdcbb1934422deef8ae2b92e6e67756eae28a9",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:36.233Z",
+  "content_hash": "87bed473d93974ed19491196f0e39aa876707db497b4623ad522d53ca2ed87c0",
+  "article_path": "articles/b30544040efb0e42.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2122343942222163982",
+  "source_path": "sources/articles/claude-md-cleanup-prompt-auditing-project-memory-files.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:26:51.879Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

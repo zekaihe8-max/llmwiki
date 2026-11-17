@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:20:07.426Z",
+  "url": "https://www.noeri.ai/",
+  "slug": "894a45947f55893f",
+  "content_hash": "57f23d83d659d459cf9e98f82315b9843fac32e3459393daf5445ab65d4934b2",
+  "source": {
+    "path": "sources/articles/noeri-ai-ai-that-learns-on-the-job.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/agent-auto-mode.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "在职学习体现智能体自动运行与自我改进，与自动模式主题相关，保持不变。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "内容属于代理式 AI 基础能力范畴，现有主题已覆盖，无需新增。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文章聚焦任务、失败与纠正的累积学习，与 AI 任务时界增长方向相近，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "文章聚焦任务、失败与纠正的累积学习，与 AI 任务时界增长方向相近，无需新建。",
+    "topics/agent-auto-mode.md": "在职学习体现智能体自动运行与自我改进，与自动模式主题相关，保持不变。",
+    "topics/agentic-ai-foundation.md": "内容属于代理式 AI 基础能力范畴，现有主题已覆盖，无需新增。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/noeri-ai-ai-that-learns-on-the-job.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-task-horizon-growth.md",
+      "topics/agent-auto-mode.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-task-horizon-growth.md": "文章聚焦任务、失败与纠正的累积学习，与 AI 任务时界增长方向相近，无需新建。",
+      "topics/agent-auto-mode.md": "在职学习体现智能体自动运行与自我改进，与自动模式主题相关，保持不变。",
+      "topics/agentic-ai-foundation.md": "内容属于代理式 AI 基础能力范畴，现有主题已覆盖，无需新增。"
+    },
+    "notes": "来源仅为 noeri.ai 首页极简文案，未披露公司背景、定价或具体技术细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/noeri-ai-ai-that-learns-on-the-job.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

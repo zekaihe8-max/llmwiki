@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/computer-use.md",
+    "topics/iphone-duo-user-vs-developer-reception.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "直接对应 iPhone Duo 应用适配主题，与帖文内容最贴近。",
+    "topics/computer-use.md": "涉及 Claude 桌面端对模拟器设备的操控，与 Computer Use 主题相关。",
+    "topics/iphone-duo-user-vs-developer-reception.md": "帖文体现开发者对 iPhone Duo 的赞美与适配场景。",
+    "topics/claude-code-authorship-and-voice.md": "主体为 Claude Code 产品动态，与 Claude Code 社区话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "直接对应 iPhone Duo 应用适配主题，与帖文内容最贴近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 桌面端对模拟器设备的操控，与 Computer Use 主题相关。"
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "帖文体现开发者对 iPhone Duo 的赞美与适配场景。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "主体为 Claude Code 产品动态，与 Claude Code 社区话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未独立核实；未引入目录之外的新话题。"
+}

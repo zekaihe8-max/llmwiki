@@ -1,0 +1,23 @@
+{
+  "slug": "6d8e090bcf82b68f",
+  "url": "https://x.com/OpenAI/status/2122465625109090646",
+  "title": "OpenAI",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "6d8e090bcf82b68fd4db8b5dbbfcbeebcae5bd6a14601a543374617822f47b46",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:22.145Z",
+  "content_hash": "1316e6e18ccf032b287a41305ab58fd14c35eeac316189024e0ab0bfc9c82f10",
+  "article_path": "articles/6d8e090bcf82b68f.md",
+  "fetched_url": "https://x.com/OpenAI/status/2122465625109090646",
+  "source_path": "sources/articles/openai-announces-chatgpt-for-healthcare-advances-computer-use-ag.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:16:13.290Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

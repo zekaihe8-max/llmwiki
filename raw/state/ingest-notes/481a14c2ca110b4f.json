@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/embedded-third-party-evals.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文依据第三方公开榜单分数，需审视基准质量后再轻信。",
+    "topics/community-evals-vs-score-hype.md": "文中强调 9 分提升与排名，涉及评测分数炒作与实测差距。",
+    "topics/embedded-third-party-evals.md": "Artificial Analysis 为外部第三方评估来源，与驻场第三方评估主题相近。",
+    "topics/open-weight-frontier-models.md": "Qwen4 Max 属前沿模型发布，与开放权重前沿模型主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文依据第三方公开榜单分数，需审视基准质量后再轻信。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中强调 9 分提升与排名，涉及评测分数炒作与实测差距。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "Artificial Analysis 为外部第三方评估来源，与驻场第三方评估主题相近。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Qwen4 Max 属前沿模型发布，与开放权重前沿模型主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均标注为帖文称，未独立核实；未编造超出文章的 URL 或事实。"
+}

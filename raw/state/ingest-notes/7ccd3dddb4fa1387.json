@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/workflows-before-agents.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及组织职级与编制，与帖文讨论的工作结构稳定性相近",
+    "topics/ai-management-span-of-control.md": "关注管理管控跨度，属于工作结构变动的相关议题",
+    "topics/workflows-before-agents.md": "聚焦工作流与工作组织方式，与帖文关于工作结构的主题相关",
+    "topics/ai-task-horizon-growth.md": "讨论任务时界增长，与帖文提及的职业过时与工作变迁相关"
+  },
+  "topics": [
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及组织职级与编制，与帖文讨论的工作结构稳定性相近"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "关注管理管控跨度，属于工作结构变动的相关议题"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "聚焦工作流与工作组织方式，与帖文关于工作结构的主题相关"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "讨论任务时界增长，与帖文提及的职业过时与工作变迁相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; all claims are attributed to the post where not independently verifiable."
+}

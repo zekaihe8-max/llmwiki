@@ -1,0 +1,23 @@
+{
+  "slug": "fe2359067f73e868",
+  "url": "https://x.com/METR_Evals/status/2122361049114657203",
+  "title": "METR",
+  "digest": "2026-11-17-frontier-ai.md",
+  "status": "filed",
+  "hash": "fe2359067f73e86856e0359be1d43e77ad96e1ec67f41804af87dc675cbeedf5",
+  "first_seen": "2026-11-17T00:13:18.881Z",
+  "last_seen": "2026-11-17T00:13:18.881Z",
+  "fetched_at": "2026-11-17T00:13:19.700Z",
+  "content_hash": "0fe4ae381a859966e3b17de2b22c1f3f64ee0341e11505e21e431dc99523bab7",
+  "article_path": "articles/fe2359067f73e868.md",
+  "fetched_url": "https://x.com/METR_Evals/status/2122361049114657203",
+  "source_path": "sources/articles/metr-reaches-limited-alignment-assessment-agreement-with-openai.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T00:14:23.951Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

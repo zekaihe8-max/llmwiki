@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:27:39.927Z",
+  "url": "https://x.com/mattpocockuk/status/2122316570852487441",
+  "slug": "682ae55ea93443d2",
+  "content_hash": "b2cb63f72dcd07f0f0ca2f6014347bc1c332f241b7144de1d48c1a75919d32f9",
+  "source": {
+    "path": "sources/articles/poteto-s-aie-code-talk-nuance-leads-to-slop-advocate-nuance-free.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/expert-decisions-follow-agent-presets.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "禁止 useEffect 与注释等工程约束，属于智能体规模化工程的实践讨论。"
+    },
+    {
+      "path": "topics/expert-decisions-follow-agent-presets.md",
+      "action": "unchanged",
+      "reason": "内容涉及通过预设与自动检查约束智能体决策，与专家决策跟随智能体预设相近。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "演讲主张为智能体设计专用 API 与语言，与面向 Agent 的编程语言主题高度相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "设计隐藏复杂性的 API 涉及开发者体验与 Agent 体验，属于 DX/AX 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "演讲主张为智能体设计专用 API 与语言，与面向 Agent 的编程语言主题高度相关。",
+    "topics/expert-decisions-follow-agent-presets.md": "内容涉及通过预设与自动检查约束智能体决策，与专家决策跟随智能体预设相近。",
+    "topics/ux-dx-and-ax.md": "设计隐藏复杂性的 API 涉及开发者体验与 Agent 体验，属于 DX/AX 范畴。",
+    "topics/agent-scaled-engineering.md": "禁止 useEffect 与注释等工程约束，属于智能体规模化工程的实践讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/poteto-s-aie-code-talk-nuance-leads-to-slop-advocate-nuance-free.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/languages-for-agents.md",
+      "topics/expert-decisions-follow-agent-presets.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/languages-for-agents.md": "演讲主张为智能体设计专用 API 与语言，与面向 Agent 的编程语言主题高度相关。",
+      "topics/expert-decisions-follow-agent-presets.md": "内容涉及通过预设与自动检查约束智能体决策，与专家决策跟随智能体预设相近。",
+      "topics/ux-dx-and-ax.md": "设计隐藏复杂性的 API 涉及开发者体验与 Agent 体验，属于 DX/AX 范畴。",
+      "topics/agent-scaled-engineering.md": "禁止 useEffect 与注释等工程约束，属于智能体规模化工程的实践讨论。"
+    },
+    "notes": "基于单条 X 帖文整理，未核实演讲全文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/poteto-s-aie-code-talk-nuance-leads-to-slop-advocate-nuance-free.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

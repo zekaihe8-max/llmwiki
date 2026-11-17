@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/llm-formal-verification.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章聚焦 Claude Code 团队大规模使用 Agent 编写代码后，人工验证成为瓶颈的规模化工程问题。",
+    "topics/agent-skill-authoring.md": "文中提到将启动和冒烟检查写成 verify Skill，由 Agent 在提交前执行。",
+    "topics/llm-formal-verification.md": "核心主题是让 Agent 交付可检查的验证证据，并对验证器本身进行复核。",
+    "topics/software-factory.md": "Claude Code 团队以 AI 编程 Agent 承担大部分代码生产，构成类软件工厂的人机协作模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Claude Code 团队大规模使用 Agent 编写代码后，人工验证成为瓶颈的规模化工程问题。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到将启动和冒烟检查写成 verify Skill，由 Agent 在提交前执行。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "核心主题是让 Agent 交付可检查的验证证据，并对验证器本身进行复核。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Claude Code 团队以 AI 编程 Agent 承担大部分代码生产，构成类软件工厂的人机协作模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 @shao__meng 的帖文，引用了 Claude Code 团队及 @ClaudeDevs 的分享，未独立核实外部链接内容。"
+}

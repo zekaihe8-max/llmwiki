@@ -1,0 +1,76 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T00:29:26.404Z",
+  "url": "https://nvda.ws/4C3L75T",
+  "slug": "cacd69937a8ba1bc",
+  "content_hash": "8aab17011b98b1d4ca40e7b378310be4d8085701793d177f7f7c580513b2e15d",
+  "source": {
+    "path": "sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章聚焦智能体推理的每瓦吞吐与 GPU 算力规模，与智能体算力主题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中涉及从 256 到 10,240 块 GPU 的大规模训练与网络互联，属智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "Vera Rubin 在代理式 AI 工作负载上的表现是文章核心，适用 Agentic AI 基础主题。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "MLPerf 结果包含临时数据并等待 MLCommons 验证，呼应公开基准质量审查主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章聚焦智能体推理的每瓦吞吐与 GPU 算力规模，与智能体算力主题高度相关。",
+    "topics/agentic-ai-foundation.md": "Vera Rubin 在代理式 AI 工作负载上的表现是文章核心，适用 Agentic AI 基础主题。",
+    "topics/agent-scaled-engineering.md": "文中涉及从 256 到 10,240 块 GPU 的大规模训练与网络互联，属智能体规模化工程范畴。",
+    "topics/public-benchmark-quality-scrutiny.md": "MLPerf 结果包含临时数据并等待 MLCommons 验证，呼应公开基准质量审查主题。"
+  },
+  "files_changed": [
+    "sources/articles/alibaba-launches-qwen4-max-9-points-ahead-of-qwen3-8-max-on-arti.md",
+    "sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章聚焦智能体推理的每瓦吞吐与 GPU 算力规模，与智能体算力主题高度相关。",
+      "topics/agentic-ai-foundation.md": "Vera Rubin 在代理式 AI 工作负载上的表现是文章核心，适用 Agentic AI 基础主题。",
+      "topics/agent-scaled-engineering.md": "文中涉及从 256 到 10,240 块 GPU 的大规模训练与网络互联，属智能体规模化工程范畴。",
+      "topics/public-benchmark-quality-scrutiny.md": "MLPerf 结果包含临时数据并等待 MLCommons 验证，呼应公开基准质量审查主题。"
+    },
+    "notes": "Source URL: https://nvda.ws/4C3L75T",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/alibaba-launches-qwen4-max-9-points-ahead-of-qwen3-8-max-on-arti.md",
+        "sources/articles/nvidia-sweeps-mlperf-training-and-endpoints-as-vera-rubin-debuts.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
