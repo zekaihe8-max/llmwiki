@@ -1,5 +1,53 @@
 ## 2026-11-17
 
+* **创建 / Creation**: 归档 [时隔3年，我重新入职淘宝当了一天设计师，也看见了这个行业最真实的进化。](./sources/articles/after-3-years-i-returned-to-taobao-as-a-designer-for-one-day-and.md)。 / Filed [After 3 Years, I Returned to Taobao as a Designer for One Day and Saw the Industry's Real Evolution](./sources/articles/after-3-years-i-returned-to-taobao-as-a-designer-for-one-day-and.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 网页版限频，三个免费替代平台可用](./sources/articles/deepseek-web-rate-limited-three-free-alternative-platforms-avail.md)。 / Filed [DeepSeek web rate-limited; three free alternative platforms available](./sources/articles/deepseek-web-rate-limited-three-free-alternative-platforms-avail.md).
+
+* **创建 / Creation**: 归档 [Snug 项目：开源免费的 Mac 远程伴侣，解决手机虚拟屏适配痛点](./sources/articles/snug-project-open-source-free-mac-remote-companion-solving-phone.md)。 / Filed [Snug Project: Open-source free Mac remote companion solving phone virtual screen adaptation pain points](./sources/articles/snug-project-open-source-free-mac-remote-companion-solving-phone.md).
+
+* **创建 / Creation**: 归档 [DS Bot：基于 DeepSeek Harness 的开源多智能体协作工具](./sources/articles/ds-bot-open-source-multi-agent-collaboration-tool-based-on-deeps.md)。 / Filed [DS Bot: Open-source multi-agent collaboration tool based on DeepSeek Harness](./sources/articles/ds-bot-open-source-multi-agent-collaboration-tool-based-on-deeps.md).
+
+* **创建 / Creation**: 归档 [Mole：Mac 磁盘清理与系统监控终端工具](./sources/articles/mole-mac-disk-cleanup-and-system-monitoring-terminal-tool.md)。 / Filed [Mole: Mac Disk Cleanup and System Monitoring Terminal Tool](./sources/articles/mole-mac-disk-cleanup-and-system-monitoring-terminal-tool.md).
+
+* **创建 / Creation**: 归档 [Codex 加 Tripo 画布，做了个办公室小游戏《谁要上这个破班》](./sources/articles/codex-tripo-canvas-office-mini-game-who-wants-to-work-this-overt.md)。 / Filed [Codex + Tripo Canvas Office Mini-Game "Who Wants to Work This Overtime Shift"](./sources/articles/codex-tripo-canvas-office-mini-game-who-wants-to-work-this-overt.md).
+
+* **创建 / Creation**: 归档 [Virtual-Flow：用少量真麦克风生成虚拟麦克风阵列，实现低延迟语音增强](./sources/articles/virtual-flow-virtual-microphone-array-speech-enhancement-with-fe.md)。 / Filed [Virtual-Flow: Virtual Microphone Array Speech Enhancement with Few Real Microphones](./sources/articles/virtual-flow-virtual-microphone-array-speech-enhancement-with-fe.md).
+
+* **创建 / Creation**: 归档 [美团开源 LongCat-Video-Avatar 1.6，支持超 10 分钟音频驱动数字人视频生成](./sources/articles/meituan-open-sources-longcat-video-avatar-1-6-supporting-audio-d.md)。 / Filed [Meituan Open-Sources LongCat-Video-Avatar 1.6, Supporting Audio-Driven Digital Human Video Generation Over 10 Minutes](./sources/articles/meituan-open-sources-longcat-video-avatar-1-6-supporting-audio-d.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 1.2.0 预发布构建：短信联机、通话接管与连接器复用](./sources/articles/grok-bot-1-2-0-pre-release-build-sms-bot-contact-call-takeover-a.md)。 / Filed [Grok Bot 1.2.0 Pre-release Build: SMS Bot Contact, Call Takeover, and Connector Reuse](./sources/articles/grok-bot-1-2-0-pre-release-build-sms-bot-contact-call-takeover-a.md).
+
+* **创建 / Creation**: 归档 [微信内测「做个小工具」，有嘴就能造个人小程序](./sources/articles/wechat-internally-tests-make-a-small-tool-post-claims-anyone-can.md)。 / Filed [WeChat internally tests “Make a Small Tool”; post claims anyone can build a personal mini-program just by speaking](./sources/articles/wechat-internally-tests-make-a-small-tool-post-claims-anyone-can.md).
+
+* **创建 / Creation**: 归档 [这周 Next Token 含金量很高，Orange AI 建议先听这期播客](./sources/articles/this-week-s-next-token-is-high-value-orange-ai-recommends-listen.md)。 / Filed [This week's Next Token is high-value; Orange AI recommends listening to this podcast first](./sources/articles/this-week-s-next-token-is-high-value-orange-ai-recommends-listen.md).
+
+* **创建 / Creation**: 归档 [Codex 和 GPT-6 Astra 现在真是拉完了](./sources/articles/codex-and-gpt-6-astra-are-really-terrible-now.md)。 / Filed [Codex and GPT-6 Astra Are Really Terrible Now](./sources/articles/codex-and-gpt-6-astra-are-really-terrible-now.md).
+
+* **创建 / Creation**: 归档 [用 Qwen4-Max 按 ThreeUI 做杭州主题插画 Sketchbook](./sources/articles/using-qwen4-max-with-threeui-to-make-a-hangzhou-themed-illustrat.md)。 / Filed [Using Qwen4-Max with ThreeUI to Make a Hangzhou-Themed Illustration Sketchbook](./sources/articles/using-qwen4-max-with-threeui-to-make-a-hangzhou-themed-illustrat.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 只装 3 个插件，就串起自媒体工作台](./sources/articles/deepseek-harness-with-only-three-plugins-connects-a-self-media-w.md)。 / Filed [DeepSeek Harness with Only Three Plugins Connects a Self-Media Workbench](./sources/articles/deepseek-harness-with-only-three-plugins-connects-a-self-media-w.md).
+
+* **创建 / Creation**: 归档 [Pi Agent 插件：贵在精而不在多](./sources/articles/pi-agent-plugins-quality-over-quantity.md)。 / Filed [Pi Agent Plugins: Quality Over Quantity](./sources/articles/pi-agent-plugins-quality-over-quantity.md).
+
+* **创建 / Creation**: 归档 [选 Harness 不再比功能多，而是看能否持续改进工作流](./sources/articles/choosing-harness-no-longer-comparing-feature-counts-but-whether.md)。 / Filed [Choosing Harness: No Longer Comparing Feature Counts, But Whether It Supports Continuous Workflow Improvement](./sources/articles/choosing-harness-no-longer-comparing-feature-counts-but-whether.md).
+
+* **创建 / Creation**: 归档 [Claude 代码验收三条建议：让 Agent 自测、核心逻辑人工复核、修 Bug 设限](./sources/articles/three-claude-code-acceptance-tips-let-agents-self-test-human-che.md)。 / Filed [Three Claude Code acceptance tips: let agents self-test, human-check core logic, cap bug-fix loops](./sources/articles/three-claude-code-acceptance-tips-let-agents-self-test-human-che.md).
+
+* **创建 / Creation**: 归档 [用 Qwen4-Max 给侄子做会动的古诗立体书](./sources/articles/making-an-animated-pop-up-ancient-poem-book-for-a-nephew-with-qw.md)。 / Filed [Making an Animated Pop-up Ancient Poem Book for a Nephew with Qwen4-Max](./sources/articles/making-an-animated-pop-up-ancient-poem-book-for-a-nephew-with-qw.md).
+
+* **创建 / Creation**: 归档 [T3 Code 好到他想二开](./sources/articles/t3-code-so-good-he-wants-to-fork-it.md)。 / Filed [T3 Code So Good He Wants to Fork It](./sources/articles/t3-code-so-good-he-wants-to-fork-it.md).
+
+* **创建 / Creation**: 归档 [新宠 T3 Code：界面舒服，支持切换 Codex、Claude Code 等 Harness](./sources/articles/new-favorite-t3-code-comfortable-ui-switchable-codex-and-claude.md)。 / Filed [New Favorite T3 Code: Comfortable UI, Switchable Codex and Claude Code Harness](./sources/articles/new-favorite-t3-code-comfortable-ui-switchable-codex-and-claude.md).
+
+* **创建 / Creation**: 归档 [微软研究院开源 TokenEconomizer，不改模型，从仓库经验里给 Coding Agent 省 token](./sources/articles/microsoft-research-open-sources-tokeneconomizer-saving-tokens-fo.md)。 / Filed [Microsoft Research open-sources TokenEconomizer, saving tokens for coding agents from repository experience without modifying models](./sources/articles/microsoft-research-open-sources-tokeneconomizer-saving-tokens-fo.md).
+
+* **创建 / Creation**: 归档 [Together 用 Agent 测自家产品，失败的往往不是模型](./sources/articles/together-tests-its-own-products-with-agents-failure-is-often-not.md)。 / Filed [Together Tests Its Own Products with Agents; Failure Is Often Not the Model](./sources/articles/together-tests-its-own-products-with-agents-failure-is-often-not.md).
+
+* **创建 / Creation**: 归档 [已有 Claude Code 和 Codex，企业为何仍需自建 Agent Harness](./sources/articles/with-claude-code-and-codex-why-do-enterprises-still-build-custom.md)。 / Filed [With Claude Code and Codex, why do enterprises still build custom Agent Harness?](./sources/articles/with-claude-code-and-codex-why-do-enterprises-still-build-custom.md).
+
+* **创建 / Creation**: 归档 [AI 时代的儿童教育：十六年学到了什么](./sources/articles/children-s-education-in-the-ai-era-what-sixteen-years-of-schooli.md)。 / Filed [Children's Education in the AI Era: What Sixteen Years of Schooling Teaches](./sources/articles/children-s-education-in-the-ai-era-what-sixteen-years-of-schooli.md).
+
 * **创建 / Creation**: 归档 [dex：在 SlopCodeBench 上测试“长期代码主人”提示词](./sources/articles/dex-tests-long-term-code-owner-prompt-on-slopcodebench.md)。 / Filed [dex Tests "Long-Term Code Owner" Prompt on SlopCodeBench](./sources/articles/dex-tests-long-term-code-owner-prompt-on-slopcodebench.md).
 
 * **创建 / Creation**: 归档 [AI 编程简史（2025 年 11 月–2026 年 11 月）](./sources/articles/a-brief-history-of-ai-coding-nov-2025-nov-2026.md)。 / Filed [A Brief History of AI Coding (Nov 2025–Nov 2026)](./sources/articles/a-brief-history-of-ai-coding-nov-2025-nov-2026.md).

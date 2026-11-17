@@ -1,0 +1,23 @@
+{
+  "slug": "742a104fa70710ad",
+  "url": "https://x.com/0xlangeai/status/2122642912639148490",
+  "title": "Mole",
+  "digest": "2026-11-17-cn-x.md",
+  "status": "filed",
+  "hash": "742a104fa70710ad9b72725ebb71eca01e1e808e382c953b40b5846dac49156e",
+  "first_seen": "2026-11-17T11:57:57.309Z",
+  "last_seen": "2026-11-17T11:57:57.309Z",
+  "fetched_at": "2026-11-17T11:58:04.818Z",
+  "content_hash": "f3db31cf4dc2f3ad06c5a69fbb7f57eea4ce0ceffdb3b19c09302bd433717588",
+  "article_path": "articles/742a104fa70710ad.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2122642912639148490",
+  "source_path": "sources/articles/mole-mac-disk-cleanup-and-system-monitoring-terminal-tool.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T12:11:43.368Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

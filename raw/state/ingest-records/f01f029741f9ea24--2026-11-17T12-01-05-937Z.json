@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:01:05.937Z",
+  "url": "https://x.com/shao__meng/status/2122492485872308640",
+  "slug": "f01f029741f9ea24",
+  "content_hash": "ebe6590686108e97b9cfbf87ca66399fae2418fa9d27b334691318c1f1c448c3",
+  "source": {
+    "path": "sources/articles/with-claude-code-and-codex-why-do-enterprises-still-build-custom.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涵盖智能体治理、权限与成本控制，对应文中关于审批、预算和审计的讨论。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及项目指令与 Token 效率，对应文中 CLAUDE.md 与测试日志截取的内容。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "直接讨论公司级 Agent Harness 的设计与落地，与帖文核心主题高度相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 对比与选型，对企业是否自建或使用现成工具有参考价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "直接讨论公司级 Agent Harness 的设计与落地，与帖文核心主题高度相关。",
+    "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比与选型，对企业是否自建或使用现成工具有参考价值。",
+    "topics/agent-compute-and-governance.md": "涵盖智能体治理、权限与成本控制，对应文中关于审批、预算和审计的讨论。",
+    "topics/agents-md-token-efficiency.md": "涉及项目指令与 Token 效率，对应文中 CLAUDE.md 与测试日志截取的内容。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/with-claude-code-and-codex-why-do-enterprises-still-build-custom.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "直接讨论公司级 Agent Harness 的设计与落地，与帖文核心主题高度相关。",
+      "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比与选型，对企业是否自建或使用现成工具有参考价值。",
+      "topics/agent-compute-and-governance.md": "涵盖智能体治理、权限与成本控制，对应文中关于审批、预算和审计的讨论。",
+      "topics/agents-md-token-efficiency.md": "涉及项目指令与 Token 效率，对应文中 CLAUDE.md 与测试日志截取的内容。"
+    },
+    "notes": "来源为 X 帖文，未核实 Reddit 讨论细节，已用「帖文称」标注未独立核实的主张。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/with-claude-code-and-codex-why-do-enterprises-still-build-custom.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

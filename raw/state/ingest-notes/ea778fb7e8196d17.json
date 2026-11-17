@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/code-over-spec.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "文章提到TaoDesign通过MCP将设计稿直接转为可开发版本并上线，与设计↔代码主题高度相关。",
+    "topics/ux-dx-and-ax.md": "文章聚焦用户体验设计在AI时代的流程变迁与设计师角色重构，与UX/DX/AX主题相关。",
+    "topics/code-over-spec.md": "文中提到淘宝需求常为一句话方向、PRD后置，设计优先于规格，契合“代码重于规格”讨论。",
+    "topics/ai-native-companies.md": "淘宝作为大厂，将AI深度嵌入设计生产与知识管理，体现AI原生公司的组织实践。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章提到TaoDesign通过MCP将设计稿直接转为可开发版本并上线，与设计↔代码主题高度相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章聚焦用户体验设计在AI时代的流程变迁与设计师角色重构，与UX/DX/AX主题相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文中提到淘宝需求常为一句话方向、PRD后置，设计优先于规格，契合“代码重于规格”讨论。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "淘宝作为大厂，将AI深度嵌入设计生产与知识管理，体现AI原生公司的组织实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为X平台@Khazix0918发布的长文，未引入文中未提及的外部URL或事实。"
+}

@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-17T00:13:18.881Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -10749,5 +10749,205 @@
     "last_seen": "2026-11-17T00:13:18.881Z",
     "digest": "2026-11-17-frontier-ai.md",
     "title": "dex · “你是这套代码的长期主人”"
+  },
+  "https://x.com/Khazix0918/status/2122570393836019933": {
+    "hash": "ea778fb7e8196d1725af03f60e57023e44d211b9332744e3a5984beac101d5e7",
+    "slug": "ea778fb7e8196d17",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "长文"
+  },
+  "https://x.com/Barret_China/status/2122557084567032268": {
+    "hash": "47d8de92de604ccb05c658c087f8130459a0037678a1edafa9e736453147defd",
+    "slug": "47d8de92de604ccb",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "AI 时代的儿童教育，他在问十六年到底学到了啥"
+  },
+  "https://x.com/shao__meng/status/2122492485872308640": {
+    "hash": "f01f029741f9ea24979b33480c3240a561d319c281ce7bf2c5f97b0f468126f1",
+    "slug": "f01f029741f9ea24",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "已经有 Claude Code 和 Codex 了，企业为什么还要招 Harness Engineer"
+  },
+  "https://x.com/shao__meng/status/2122486376981795286": {
+    "hash": "348bb4d0b4b79d7312ad18ebb5bac0747a05c8a5c3c103f7758eddc0e5d2d485",
+    "slug": "348bb4d0b4b79d73",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Together 用 Agent 测自家产品，失败的往往不是模型"
+  },
+  "https://x.com/shao__meng/status/2122507586541166850": {
+    "hash": "e3003b68b504d5dfa54718ebdaba9f60c106cef4e2d31e331f6b58d618102c6f",
+    "slug": "e3003b68b504d5df",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "微软研究院开源 TokenEconomizer，不改模型，从仓库经验里省 token"
+  },
+  "https://x.com/vista8/status/2122598270920966380": {
+    "hash": "78b40be71b2bc66fc4608040a5f54fb103fa5b00ca57d630411ae783aedb0e2c",
+    "slug": "78b40be71b2bc66f",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "新宠是 T3 Code，界面舒服，还能切不同 Harness"
+  },
+  "https://x.com/lxfater/status/2122601489378210125": {
+    "hash": "7e19ec1c867a66ce12556b1a3a38e49a28e1b15e71eb39ff0152c54eeeca208f",
+    "slug": "7e19ec1c867a66ce",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "T3 Code 好到他想二开"
+  },
+  "https://x.com/lxfater/status/2122615741568733237": {
+    "hash": "20800691a66a05032be0b5116b59eee5083f2a617e0d465122e03e59a2bd08d7",
+    "slug": "20800691a66a0503",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "用 Qwen4-Max 给小侄子做了一本会动的古诗立体书"
+  },
+  "https://x.com/xiaomovps/status/2122642096385577102": {
+    "hash": "21baad06622b42e480e70ee2abd2ccf179df1f2081a8499490c6917d84324ee9",
+    "slug": "21baad06622b42e4",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Claude 官方那篇代码验收，他总结了三条"
+  },
+  "https://x.com/xiaomovps/status/2122604258885562572": {
+    "hash": "d5ae8731c6649d23a63354072ade1b7d6eace27a2f1be6630b279cdbaaf2789e",
+    "slug": "d5ae8731c6649d23",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "选 Harness 不再比谁功能多，而是看能不能接着改自己的工作流"
+  },
+  "https://x.com/xiaomovps/status/2122621363521253706": {
+    "hash": "fffc3fad2320aafc4e4d61c8f193fb2cb16c8993fc4522d423dd829273ed8d20",
+    "slug": "fffc3fad2320aafc",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "插件"
+  },
+  "https://x.com/xiaomovps/status/2122587412849111160": {
+    "hash": "865eacb12961440682cb57de507de2dd922d4347e528389f57ff7d8a923bc553",
+    "slug": "865eacb129614406",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "DeepSeek Harness 只装 3 个插件，就串起自媒体工作台"
+  },
+  "https://x.com/dingyi/status/2122646340270502127": {
+    "hash": "a0c5e87b46f7f531835bfac5c1840fc1e118b0c4bc02468298e4c9bf2abf2e35",
+    "slug": "a0c5e87b46f7f531",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "用刚上线的 Qwen4-Max，按 ThreeUI 做了杭州主题插画 Sketchbook"
+  },
+  "https://x.com/op7418/status/2122499668647227665": {
+    "hash": "39264fe1720b64d485e148edeff5f2678c61e87722d68732a66830e3ce44d92b",
+    "slug": "39264fe1720b64d4",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Codex 和 GPT-6 Astra 现在真是拉完了"
+  },
+  "https://youtu.be/tBMlXQIrYK4": {
+    "hash": "2127fbf8a850e6496dc99c8d278914f73e541458c533bee6b3e10b383c372dce",
+    "slug": "2127fbf8a850e649",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "YouTube"
+  },
+  "https://x.com/oran_ge/status/2122498760764960859": {
+    "hash": "690fa7708eead4e8fad508c99ef658d9ae80896672144048bbb6791ff0ad4c9e",
+    "slug": "690fa7708eead4e8",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "这周 Next Token 含金量很高，他建议先听"
+  },
+  "https://x.com/0xlangeai/status/2122615528191877560": {
+    "hash": "4bf490172506b9868507fa3d678563d48cb7c2c2a367c5076c7ab006d0c5fe1c",
+    "slug": "4bf490172506b986",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "微信内测「做个小工具」，有嘴就能造个人小程序"
+  },
+  "https://x.com/0xlangeai/status/2122592160927347078": {
+    "hash": "90cc382a25477fbd3bf35a4c66538283eff125061decb800fce881fc01a326d2",
+    "slug": "90cc382a25477fbd",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Grok Bot 1.2.0 预发布构建里，他挑了几个实用变化"
+  },
+  "https://x.com/Gorden_Sun/status/2122512201798021267": {
+    "hash": "79062a963486ab387b43d143f37876324bf916e347e949e8092e0d189853df30",
+    "slug": "79062a963486ab38",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "美团开源 LongCat-Video-Avatar 1.6，音频驱动数字人能到 10 分钟以上"
+  },
+  "https://x.com/Gorden_Sun/status/2122587251016442041": {
+    "hash": "b764dbfb039104c6fa23701d6f5d3bc0b4f4bffa22d80d17bf5c2e57305ab34f",
+    "slug": "b764dbfb039104c6",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Virtual-Flow 用几个真麦克风，去逼近麦克风阵列的降噪效果"
+  },
+  "https://x.com/servasyy_ai/status/2122627354040398124": {
+    "hash": "2b0c4b74e122fc1f1d6cc6d16419b3e34e51fa944e3c451ad1a9bdae48087059",
+    "slug": "2b0c4b74e122fc1f",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Codex 加 Tripo 画布，做了个办公室小游戏《谁要上这个破班》"
+  },
+  "https://x.com/0xlangeai/status/2122642912639148490": {
+    "hash": "742a104fa70710ad9b72725ebb71eca01e1e808e382c953b40b5846dac49156e",
+    "slug": "742a104fa70710ad",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Mole"
+  },
+  "https://x.com/abskoop/status/2122604272638660966": {
+    "hash": "f56578794c03c1958ecfb47168baacec8785ab7c62acd828b6031953c0772a0a",
+    "slug": "f56578794c03c195",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "DS Bot"
+  },
+  "https://x.com/lxfater/status/2122652625661227464": {
+    "hash": "4ba0fa7d6304fa3f1d55093e65492b5c5bbca56987821f652a818ee642ec81ed",
+    "slug": "4ba0fa7d6304fa3f",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "Snug"
+  },
+  "https://x.com/xiaomovps/status/2122567802905395315": {
+    "hash": "8951e9d4fff7bcf6329d4a72384925c6ab131cbe8bc61490b219210cbcef4bd9",
+    "slug": "8951e9d4fff7bcf6",
+    "first_seen": "2026-11-17T11:57:57.309Z",
+    "last_seen": "2026-11-17T11:57:57.309Z",
+    "digest": "2026-11-17-cn-x.md",
+    "title": "DeepSeek 网页版开始限频，小墨收了 3 个免费备用处"
   }
 }

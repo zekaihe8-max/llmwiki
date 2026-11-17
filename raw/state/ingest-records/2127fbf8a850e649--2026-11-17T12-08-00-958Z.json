@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:08:00.958Z",
+  "url": "https://youtu.be/tBMlXQIrYK4",
+  "slug": "2127fbf8a850e649",
+  "content_hash": "d6fc97c265fdc12967e96dcefb6ed597da7835e74fabbc64eb0a0cc83bd5380a",
+  "source": {
+    "path": "sources/articles/youtube.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及智能体视频剪辑，与 YouTube 视频生态相邻，但本条目不涉及编辑功能，故保持不变。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及媒体剪藏与笔记，与 YouTube 视频平台相邻，但本条目仅记录页脚导航，故保持不变。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及音视频转写与精读，与 YouTube 媒体属性相关，但未涉及本页具体内容，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "涉及媒体剪藏与笔记，与 YouTube 视频平台相邻，但本条目仅记录页脚导航，故保持不变。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及音视频转写与精读，与 YouTube 媒体属性相关，但未涉及本页具体内容，故保持不变。",
+    "topics/agentic-video-editing.md": "涉及智能体视频剪辑，与 YouTube 视频生态相邻，但本条目不涉及编辑功能，故保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/youtube.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "涉及媒体剪藏与笔记，与 YouTube 视频平台相邻，但本条目仅记录页脚导航，故保持不变。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "涉及音视频转写与精读，与 YouTube 媒体属性相关，但未涉及本页具体内容，故保持不变。",
+      "topics/agentic-video-editing.md": "涉及智能体视频剪辑，与 YouTube 视频生态相邻，但本条目不涉及编辑功能，故保持不变。"
+    },
+    "notes": "Fetched article contains only YouTube site footer links; no video-specific facts are available beyond the URL and copyright text.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/youtube.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

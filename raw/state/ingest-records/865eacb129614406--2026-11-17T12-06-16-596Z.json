@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:06:16.596Z",
+  "url": "https://x.com/xiaomovps/status/2122587412849111160",
+  "slug": "865eacb129614406",
+  "content_hash": "b6afdc1f2cd11c129b753e5959e95fddc80eb6ec50fdd6b566079c514c016f14",
+  "source": {
+    "path": "sources/articles/deepseek-harness-with-only-three-plugins-connects-a-self-media-w.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-native-web-search.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "ModSearch 负责联网热点搜索，对应面向 Agent 的联网搜索场景。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 DeepSeek Harness 插件组合展开，与该主题的 Agent Harness 插件讨论最为贴近。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "只装 3 个社区插件即搭建工作台，体现精简核心与社区扩展的思路。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调先串联选题、创作、设计的工作流，再由插件分工执行，符合工作流优先于智能体的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "帖文围绕 DeepSeek Harness 插件组合展开，与该主题的 Agent Harness 插件讨论最为贴近。",
+    "topics/minimal-core-community-extensions.md": "只装 3 个社区插件即搭建工作台，体现精简核心与社区扩展的思路。",
+    "topics/agent-native-web-search.md": "ModSearch 负责联网热点搜索，对应面向 Agent 的联网搜索场景。",
+    "topics/workflows-before-agents.md": "帖文强调先串联选题、创作、设计的工作流，再由插件分工执行，符合工作流优先于智能体的观点。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-harness-with-only-three-plugins-connects-a-self-media-w.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/agent-native-web-search.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "帖文围绕 DeepSeek Harness 插件组合展开，与该主题的 Agent Harness 插件讨论最为贴近。",
+      "topics/minimal-core-community-extensions.md": "只装 3 个社区插件即搭建工作台，体现精简核心与社区扩展的思路。",
+      "topics/agent-native-web-search.md": "ModSearch 负责联网热点搜索，对应面向 Agent 的联网搜索场景。",
+      "topics/workflows-before-agents.md": "帖文强调先串联选题、创作、设计的工作流，再由插件分工执行，符合工作流优先于智能体的观点。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；未引入文章外的 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-harness-with-only-three-plugins-connects-a-self-media-w.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "2127fbf8a850e649",
+  "url": "https://youtu.be/tBMlXQIrYK4",
+  "title": "YouTube",
+  "digest": "2026-11-17-cn-x.md",
+  "status": "failed",
+  "hash": "2127fbf8a850e6496dc99c8d278914f73e541458c533bee6b3e10b383c372dce",
+  "first_seen": "2026-11-17T11:57:57.309Z",
+  "last_seen": "2026-11-17T11:57:57.309Z",
+  "fetched_at": "2026-11-17T11:58:02.259Z",
+  "content_hash": "d6fc97c265fdc12967e96dcefb6ed597da7835e74fabbc64eb0a0cc83bd5380a",
+  "article_path": "articles/2127fbf8a850e649.md",
+  "fetched_url": "https://www.youtube.com/watch?v=tBMlXQIrYK4&feature=youtu.be",
+  "source_path": null,
+  "error": "fetched page had no article body (YouTube footer/nav shell only; no video title, description, or transcript)",
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [
+    {
+      "at": "2026-11-17T12:14:28.304Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body (YouTube footer/nav shell only; no video title, description, or transcript)",
+      "note": "unfiled after compile: thin page shell disguised as source"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body (YouTube footer/nav shell only; no video title, description, or transcript)",
+  "last_fetch_failed_at": "2026-11-17T12:14:28.304Z"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "与语音增强、全双工语音最相近，讨论语音音频技术落地。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输入与麦克风收音场景，与穿戴设备语音采集相关。",
+    "topics/gpu-ai-compute-unlock.md": "文章强调计算开销低、16 毫秒实时延迟，与边缘 AI 算力效率相关。",
+    "topics/ai-media-training-corpus-loop.md": "涉及流匹配与 Reflow 蒸馏的生成式音频训练方法，与 AI 媒体/训练语料相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "与语音增强、全双工语音最相近，讨论语音音频技术落地。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及语音输入与麦克风收音场景，与穿戴设备语音采集相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章强调计算开销低、16 毫秒实时延迟，与边缘 AI 算力效率相关。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及流匹配与 Reflow 蒸馏的生成式音频训练方法，与 AI 媒体/训练语料相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未引入文章外事实；未编造短链接或 arxiv 具体 URL。"
+}
