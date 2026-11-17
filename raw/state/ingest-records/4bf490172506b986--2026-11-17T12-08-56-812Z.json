@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:08:56.812Z",
+  "url": "https://x.com/0xlangeai/status/2122615528191877560",
+  "slug": "4bf490172506b986",
+  "content_hash": "80d4e84cca6a5eb76c63db880f8823406260831be310c3145879ba4bae1a0a8c",
+  "source": {
+    "path": "sources/articles/wechat-internally-tests-make-a-small-tool-post-claims-anyone-can.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文描述通过自然语言生成小工具，与 Agent Skill 编写的低代码/自然语言能力构建最相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "在手机端完成小程序生成与推送，涉及移动端全链路开发体验。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "个人小程序可推送至微信并像原生应用使用，与用 Skills 组合复刻原生感 App 相近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "“有嘴就能造”强调口头/自然语言输入构建工具，与语音输入与口头转述相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文描述通过自然语言生成小工具，与 Agent Skill 编写的低代码/自然语言能力构建最相关。",
+    "topics/skills-stack-native-app-recreation.md": "个人小程序可推送至微信并像原生应用使用，与用 Skills 组合复刻原生感 App 相近。",
+    "topics/mobile-agent-dev-full-chain.md": "在手机端完成小程序生成与推送，涉及移动端全链路开发体验。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "“有嘴就能造”强调口头/自然语言输入构建工具，与语音输入与口头转述相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/wechat-internally-tests-make-a-small-tool-post-claims-anyone-can.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文描述通过自然语言生成小工具，与 Agent Skill 编写的低代码/自然语言能力构建最相关。",
+      "topics/skills-stack-native-app-recreation.md": "个人小程序可推送至微信并像原生应用使用，与用 Skills 组合复刻原生感 App 相近。",
+      "topics/mobile-agent-dev-full-chain.md": "在手机端完成小程序生成与推送，涉及移动端全链路开发体验。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "“有嘴就能造”强调口头/自然语言输入构建工具，与语音输入与口头转述相关。"
+    },
+    "notes": "所有主张均基于帖文，未独立核实；日期为帖文显示时间。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/wechat-internally-tests-make-a-small-tool-post-claims-anyone-can.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

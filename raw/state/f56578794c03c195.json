@@ -1,0 +1,23 @@
+{
+  "slug": "f56578794c03c195",
+  "url": "https://x.com/abskoop/status/2122604272638660966",
+  "title": "DS Bot",
+  "digest": "2026-11-17-cn-x.md",
+  "status": "filed",
+  "hash": "f56578794c03c1958ecfb47168baacec8785ab7c62acd828b6031953c0772a0a",
+  "first_seen": "2026-11-17T11:57:57.309Z",
+  "last_seen": "2026-11-17T11:57:57.309Z",
+  "fetched_at": "2026-11-17T11:58:05.020Z",
+  "content_hash": "ef23eff4ae378e65e227b19e37ee82a442fb58925e263800d405081dae74dfdb",
+  "article_path": "articles/f56578794c03c195.md",
+  "fetched_url": "https://x.com/abskoop/status/2122604272638660966",
+  "source_path": "sources/articles/ds-bot-open-source-multi-agent-collaboration-tool-based-on-deeps.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T12:12:05.103Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

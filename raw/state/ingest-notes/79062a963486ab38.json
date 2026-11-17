@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "本文介绍的 MIT 开源权重数字人模型，与开放权重前沿模型主题直接相关。",
+    "topics/ai-media-training-corpus-loop.md": "音频驱动数字人视频生成属于 AI 媒体内容生成范畴。",
+    "topics/agentic-video-editing.md": "长时说话人视频生成与视频编辑/合成相关。",
+    "topics/image-generation-pose-reference-libraries.md": "数字人唇形与姿态生成涉及图像/姿态参考与质量边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "本文介绍的 MIT 开源权重数字人模型，与开放权重前沿模型主题直接相关。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "音频驱动数字人视频生成属于 AI 媒体内容生成范畴。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "长时说话人视频生成与视频编辑/合成相关。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "数字人唇形与姿态生成涉及图像/姿态参考与质量边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，action 均为 unchanged；未超出文章内容编造事实或完整 URL。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "文章聚焦 DeepSeek 自营网页版与第三方聚合平台的替代关系，直接命中该主题。",
+    "topics/usage-limit-ab-tests.md": "帖文核心是 DeepSeek 网页版出现使用频率限制，涉及用量上限话题。",
+    "topics/coding-agent-ux-vs-quota.md": "OpenCode 被推荐用于 AI 编程，且涉及免费额度与体验权衡。",
+    "topics/cloud-auto-model-routing.md": "NVIDIA Build 与 ModelScope 属于云平台模型服务渠道，与跨模型编排相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek 自营网页版与第三方聚合平台的替代关系，直接命中该主题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 DeepSeek 网页版出现使用频率限制，涉及用量上限话题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "OpenCode 被推荐用于 AI 编程，且涉及免费额度与体验权衡。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "NVIDIA Build 与 ModelScope 属于云平台模型服务渠道，与跨模型编排相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题；事实仅依据提供的推文正文。"
+}

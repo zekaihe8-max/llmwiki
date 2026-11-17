@@ -1,0 +1,23 @@
+{
+  "slug": "348bb4d0b4b79d73",
+  "url": "https://x.com/shao__meng/status/2122486376981795286",
+  "title": "Together 用 Agent 测自家产品，失败的往往不是模型",
+  "digest": "2026-11-17-cn-x.md",
+  "status": "filed",
+  "hash": "348bb4d0b4b79d7312ad18ebb5bac0747a05c8a5c3c103f7758eddc0e5d2d485",
+  "first_seen": "2026-11-17T11:57:57.309Z",
+  "last_seen": "2026-11-17T11:57:57.309Z",
+  "fetched_at": "2026-11-17T11:57:58.471Z",
+  "content_hash": "7a162ad80040043bc41580139ecaee5768bd3fa222e89471dfa5c9caab387c6b",
+  "article_path": "articles/348bb4d0b4b79d73.md",
+  "fetched_url": "https://x.com/shao__meng/status/2122486376981795286",
+  "source_path": "sources/articles/together-tests-its-own-products-with-agents-failure-is-often-not.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T12:01:35.369Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:05:43.240Z",
+  "url": "https://x.com/xiaomovps/status/2122621363521253706",
+  "slug": "fffc3fad2320aafc",
+  "content_hash": "a0d323aa10fdfe940bc8f1e48e0354efc6e255b7e501411e8cfcf88c94f3a6c0",
+  "source": {
+    "path": "sources/articles/pi-agent-plugins-quality-over-quantity.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "帖文提到插件会修改原有配置、权限插件阻止命令等稳定性与兼容性问题，对应 Harness 插件碎片化与管控主题。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章围绕 Agent Harness 插件的使用、后台运行与权限影响展开，与该主题直接相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Pi 官方维护核心、社区维护扩展，以及极简优势与插件增益的取舍，与该主题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "作者建议长期运行 Personal Agent 固定插件组合并更新前测试，涉及个人 Agent 环境稳定性与检查。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "文章讨论 Pi 官方维护核心、社区维护扩展，以及极简优势与插件增益的取舍，与该主题高度相关。",
+    "topics/harness-plugin-style-fragmentation.md": "帖文提到插件会修改原有配置、权限插件阻止命令等稳定性与兼容性问题，对应 Harness 插件碎片化与管控主题。",
+    "topics/loose-web-agent-harness-plugins.md": "文章围绕 Agent Harness 插件的使用、后台运行与权限影响展开，与该主题直接相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "作者建议长期运行 Personal Agent 固定插件组合并更新前测试，涉及个人 Agent 环境稳定性与检查。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-agent-plugins-quality-over-quantity.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/minimal-core-community-extensions.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/minimal-core-community-extensions.md": "文章讨论 Pi 官方维护核心、社区维护扩展，以及极简优势与插件增益的取舍，与该主题高度相关。",
+      "topics/harness-plugin-style-fragmentation.md": "帖文提到插件会修改原有配置、权限插件阻止命令等稳定性与兼容性问题，对应 Harness 插件碎片化与管控主题。",
+      "topics/loose-web-agent-harness-plugins.md": "文章围绕 Agent Harness 插件的使用、后台运行与权限影响展开，与该主题直接相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "作者建议长期运行 Personal Agent 固定插件组合并更新前测试，涉及个人 Agent 环境稳定性与检查。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-agent-plugins-quality-over-quantity.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

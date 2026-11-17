@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:07:29.885Z",
+  "url": "https://x.com/op7418/status/2122499668647227665",
+  "slug": "39264fe1720b64d4",
+  "content_hash": "be1a3e673dbe96a59366eb71f6239cb12fba4594198ccbf4a3bac3330e8ec785",
+  "source": {
+    "path": "sources/articles/codex-and-gpt-6-astra-are-really-terrible-now.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文反映社区对模型能力的负面评价，与社区实测对抗刷分碰瓷相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文对付费模型质量的不满，与高端 AI 订阅价值相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及旗舰模型发布节奏与模型系列策略，与帖文对 OpenAI 模型更新滞后的批评相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文质疑模型实际质量，与公开榜单与真实体验之间的差距相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及旗舰模型发布节奏与模型系列策略，与帖文对 OpenAI 模型更新滞后的批评相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文质疑模型实际质量，与公开榜单与真实体验之间的差距相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文反映社区对模型能力的负面评价，与社区实测对抗刷分碰瓷相关。",
+    "topics/premium-ai-subscription-value.md": "帖文对付费模型质量的不满，与高端 AI 订阅价值相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/codex-and-gpt-6-astra-are-really-terrible-now.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及旗舰模型发布节奏与模型系列策略，与帖文对 OpenAI 模型更新滞后的批评相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文质疑模型实际质量，与公开榜单与真实体验之间的差距相关。",
+      "topics/community-evals-vs-score-hype.md": "帖文反映社区对模型能力的负面评价，与社区实测对抗刷分碰瓷相关。",
+      "topics/premium-ai-subscription-value.md": "帖文对付费模型质量的不满，与高端 AI 订阅价值相关。"
+    },
+    "notes": "所有未经独立核实的主张均已标注为「帖文称」，未编造超出文章的事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/codex-and-gpt-6-astra-are-really-terrible-now.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

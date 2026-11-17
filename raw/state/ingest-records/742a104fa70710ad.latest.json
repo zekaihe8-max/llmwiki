@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:11:43.368Z",
+  "url": "https://x.com/0xlangeai/status/2122642912639148490",
+  "slug": "742a104fa70710ad",
+  "content_hash": "f3db31cf4dc2f3ad06c5a69fbb7f57eea4ce0ceffdb3b19c09302bd433717588",
+  "source": {
+    "path": "sources/articles/mole-mac-disk-cleanup-and-system-monitoring-terminal-tool.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/menubar-management-tool-gap.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Mac 系统管理工具，与系统管理工具缺口话题相邻。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "推荐使用现成开源工具 Mole 解决磁盘空间问题，而非另行开发。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Mole 是面向开发者的命令行工具，属于开发者体验（DX）范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "Mole 是面向开发者的命令行工具，属于开发者体验（DX）范畴。",
+    "topics/menubar-management-tool-gap.md": "文章讨论 Mac 系统管理工具，与系统管理工具缺口话题相邻。",
+    "topics/reuse-before-write.md": "推荐使用现成开源工具 Mole 解决磁盘空间问题，而非另行开发。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mole-mac-disk-cleanup-and-system-monitoring-terminal-tool.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/menubar-management-tool-gap.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "Mole 是面向开发者的命令行工具，属于开发者体验（DX）范畴。",
+      "topics/menubar-management-tool-gap.md": "文章讨论 Mac 系统管理工具，与系统管理工具缺口话题相邻。",
+      "topics/reuse-before-write.md": "推荐使用现成开源工具 Mole 解决磁盘空间问题，而非另行开发。"
+    },
+    "notes": "来源为 @0xlangeai 在 X 上的帖文，未独立核实 Mole 项目细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mole-mac-disk-cleanup-and-system-monitoring-terminal-tool.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

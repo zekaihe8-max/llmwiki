@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:11:20.405Z",
+  "url": "https://x.com/servasyy_ai/status/2122627354040398124",
+  "slug": "2b0c4b74e122fc1f",
+  "content_hash": "ee0ace46052cc38b7e1091821bc34b6a469559c552eb076b40562e81eaf26eb1",
+  "source": {
+    "path": "sources/articles/codex-tripo-canvas-office-mini-game-who-wants-to-work-this-overt.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/reuse-before-write.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 工具快速做出办公室小游戏，与“随手 AI 小游戏一次成功”主题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Codex 在后端充当编程 Agent，审查资产并交付完整网页游戏工程，类似个人包工头调度编程 Agent。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "作者在 Tripo 画布中复用同一条资产生成流程批量制作角色与场景，符合“先复用再编写”。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中通过自然语言驱动 3D 资产与代码生成完成游戏，体现 Vibe Gaming 模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "帖文核心是用 AI 工具快速做出办公室小游戏，与“随手 AI 小游戏一次成功”主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "文中通过自然语言驱动 3D 资产与代码生成完成游戏，体现 Vibe Gaming 模式。",
+    "topics/reuse-before-write.md": "作者在 Tripo 画布中复用同一条资产生成流程批量制作角色与场景，符合“先复用再编写”。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Codex 在后端充当编程 Agent，审查资产并交付完整网页游戏工程，类似个人包工头调度编程 Agent。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/codex-tripo-canvas-office-mini-game-who-wants-to-work-this-overt.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/reuse-before-write.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "帖文核心是用 AI 工具快速做出办公室小游戏，与“随手 AI 小游戏一次成功”主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "文中通过自然语言驱动 3D 资产与代码生成完成游戏，体现 Vibe Gaming 模式。",
+      "topics/reuse-before-write.md": "作者在 Tripo 画布中复用同一条资产生成流程批量制作角色与场景，符合“先复用再编写”。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Codex 在后端充当编程 Agent，审查资产并交付完整网页游戏工程，类似个人包工头调度编程 Agent。"
+    },
+    "notes": "来源为 X 帖文，未独立核实游戏链接或玩法细节，所有主张均基于所获取的帖文正文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/codex-tripo-canvas-office-mini-game-who-wants-to-work-this-overt.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

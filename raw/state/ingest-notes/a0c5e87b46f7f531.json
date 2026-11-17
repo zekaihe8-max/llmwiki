@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "帖文核心是用 AI 复刻现有网站页面结构，而非依赖专用 Skill，与“选站复刻优于专用 Skill”直接相关。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及将插画设计转化为可交互代码（Sketchbook），属设计↔代码落地场景。",
+    "topics/ai-task-horizon-growth.md": "帖文提到长任务和深度推理能力增强，属 AI 任务时界增长范畴。",
+    "topics/calibrating-ai-guidance.md": "帖文强调提示词写法很重要，需要正确引导模型，与校准对 AI 的引导相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 复刻现有网站页面结构，而非依赖专用 Skill，与“选站复刻优于专用 Skill”直接相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及将插画设计转化为可交互代码（Sketchbook），属设计↔代码落地场景。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到长任务和深度推理能力增强，属 AI 任务时界增长范畴。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文强调提示词写法很重要，需要正确引导模型，与校准对 AI 的引导相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，所有事实均基于所获取的帖文正文；外部链接为帖文中出现的域名或路径。"
+}

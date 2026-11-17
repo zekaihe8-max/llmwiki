@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "涉及媒体剪藏与笔记，与 YouTube 视频平台相邻，但本条目仅记录页脚导航，故保持不变。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及音视频转写与精读，与 YouTube 媒体属性相关，但未涉及本页具体内容，故保持不变。",
+    "topics/agentic-video-editing.md": "涉及智能体视频剪辑，与 YouTube 视频生态相邻，但本条目不涉及编辑功能，故保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及媒体剪藏与笔记，与 YouTube 视频平台相邻，但本条目仅记录页脚导航，故保持不变。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及音视频转写与精读，与 YouTube 媒体属性相关，但未涉及本页具体内容，故保持不变。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及智能体视频剪辑，与 YouTube 视频生态相邻，但本条目不涉及编辑功能，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fetched article contains only YouTube site footer links; no video-specific facts are available beyond the URL and copyright text."
+}

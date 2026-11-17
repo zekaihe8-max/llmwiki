@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/agent-dedicated-phone-number.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 产品，与本文主题最贴近",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同属 Grok Bot 系列，可复用已有主题语境",
+    "topics/dsh-grok-cross-dispatch.md": "涉及 Grok Bot 社区互派，与社区版主整理更新相关",
+    "topics/agent-dedicated-phone-number.md": "本文涉及手机短信与通话接管，与 Agent 专用手机号主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 产品，与本文主题最贴近"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同属 Grok Bot 系列，可复用已有主题语境"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "涉及 Grok Bot 社区互派，与社区版主整理更新相关"
+    },
+    {
+      "path": "topics/agent-dedicated-phone-number.md",
+      "action": "unchanged",
+      "reason": "本文涉及手机短信与通话接管，与 Agent 专用手机号主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，并引用 @blankspeaker 的相关帖文；未创建新主题，全部复用现有目录。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:06:54.478Z",
+  "url": "https://x.com/dingyi/status/2122646340270502127",
+  "slug": "a0c5e87b46f7f531",
+  "content_hash": "4f46f0aa0f6b14179d55e19cca3a711c12c023e580a3b0bbdb0547f8352d972a",
+  "source": {
+    "path": "sources/articles/using-qwen4-max-with-threeui-to-make-a-hangzhou-themed-illustrat.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到长任务和深度推理能力增强，属 AI 任务时界增长范畴。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文强调提示词写法很重要，需要正确引导模型，与校准对 AI 的引导相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及将插画设计转化为可交互代码（Sketchbook），属设计↔代码落地场景。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 复刻现有网站页面结构，而非依赖专用 Skill，与“选站复刻优于专用 Skill”直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "帖文核心是用 AI 复刻现有网站页面结构，而非依赖专用 Skill，与“选站复刻优于专用 Skill”直接相关。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及将插画设计转化为可交互代码（Sketchbook），属设计↔代码落地场景。",
+    "topics/ai-task-horizon-growth.md": "帖文提到长任务和深度推理能力增强，属 AI 任务时界增长范畴。",
+    "topics/calibrating-ai-guidance.md": "帖文强调提示词写法很重要，需要正确引导模型，与校准对 AI 的引导相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/using-qwen4-max-with-threeui-to-make-a-hangzhou-themed-illustrat.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/landing-page-site-clone-over-skill.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/landing-page-site-clone-over-skill.md": "帖文核心是用 AI 复刻现有网站页面结构，而非依赖专用 Skill，与“选站复刻优于专用 Skill”直接相关。",
+      "topics/design-to-code-byo-subscriptions.md": "涉及将插画设计转化为可交互代码（Sketchbook），属设计↔代码落地场景。",
+      "topics/ai-task-horizon-growth.md": "帖文提到长任务和深度推理能力增强，属 AI 任务时界增长范畴。",
+      "topics/calibrating-ai-guidance.md": "帖文强调提示词写法很重要，需要正确引导模型，与校准对 AI 的引导相关。"
+    },
+    "notes": "来源为 X 帖文，所有事实均基于所获取的帖文正文；外部链接为帖文中出现的域名或路径。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/using-qwen4-max-with-threeui-to-make-a-hangzhou-themed-illustrat.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

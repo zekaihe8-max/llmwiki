@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文提到在 T3 Code 中切换 Codex、Claude Code 等不同 Harness，与该主题的 Harness 对比讨论相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文描述个人在不同 Harness 之间切换执行，属于个人助手派活场景，与多 Harness 路由主题相近。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确提到目前主要使用 Claude Code，与 Claude Code 相关主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提到界面舒服、省心，以及 Factory AI 额度小、订阅区分，涉及编程 Agent 体验与额度。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文提到在 T3 Code 中切换 Codex、Claude Code 等不同 Harness，与该主题的 Harness 对比讨论相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文描述个人在不同 Harness 之间切换执行，属于个人助手派活场景，与多 Harness 路由主题相近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到目前主要使用 Claude Code，与 Claude Code 相关主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提到界面舒服、省心，以及 Factory AI 额度小、订阅区分，涉及编程 Agent 体验与额度。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "抓取内容显示发布时间为 2026 年 11 月 17 日，互动数据为 32.2K 浏览、79 条回复及 6、82、100 等计数，均仅按文章记录。"
+}

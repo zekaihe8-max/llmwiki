@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文核心观点是工作流优先于智能体功能，与该主题直接对应。",
+    "topics/harness-comparison-beyond-tokens.md": "文章讨论 Harness 选型不应只比功能多寡，与超越 token/功能数的 Harness 对比主题相关。",
+    "topics/minimal-core-community-extensions.md": "文中提到 Pi 的 Extension 生态和插件组合，涉及精简核心与社区扩展。",
+    "topics/reuse-before-write.md": "作者强调模型更替时 Skills、配置和工作流应持续沿用，体现先复用再编写。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点是工作流优先于智能体功能，与该主题直接对应。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Harness 选型不应只比功能多寡，与超越 token/功能数的 Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "文中提到 Pi 的 Extension 生态和插件组合，涉及精简核心与社区扩展。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "作者强调模型更替时 Skills、配置和工作流应持续沿用，体现先复用再编写。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @xiaomovps; no external URLs or facts beyond the article were invented."
+}

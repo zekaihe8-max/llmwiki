@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章聚焦编程 Agent 的 Token 省钱工具与开销，直接对标 TokenEconomizer 的定位。",
+    "topics/context-engineering-for-agents.md": "TokenEconomizer 将微技能写入起始上下文并裁剪工具，属于 Agent 上下文工程范畴。",
+    "topics/agent-compute-and-governance.md": "文章涉及智能体算力消费、费用治理与控制器自身调用计入成本，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章聚焦编程 Agent 的 Token 省钱工具与开销，直接对标 TokenEconomizer 的定位。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "TokenEconomizer 将微技能写入起始上下文并裁剪工具，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及智能体算力消费、费用治理与控制器自身调用计入成本，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用的博客和 GitHub 地址为短链接，未展开完整 URL，遵循不编造事实原则。"
+}

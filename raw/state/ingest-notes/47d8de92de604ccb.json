@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/intelligence-as-anthropocentric-benchmark.md": "涉及 AI 时代对人类能力与智能的重新审视，与帖文讨论的教育能力转向相近，但主题不涉及具体教育制度，故保持不变。",
+    "topics/html-image-fun-knowledge-learning.md": "标题含知识学习，但侧重 HTML 与生图产品，与儿童教育议题无直接重叠，故保持不变。",
+    "topics/calibrating-ai-guidance.md": "讨论对 AI 引导的校准，与帖文中 AI 个性化辅导相关，但不属于教育体系改革主题，故保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 时代对人类能力与智能的重新审视，与帖文讨论的教育能力转向相近，但主题不涉及具体教育制度，故保持不变。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "标题含知识学习，但侧重 HTML 与生图产品，与儿童教育议题无直接重叠，故保持不变。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "讨论对 AI 引导的校准，与帖文中 AI 个性化辅导相关，但不属于教育体系改革主题，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未引入外部事实或 URL。"
+}

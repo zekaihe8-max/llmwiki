@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:10:02.121Z",
+  "url": "https://x.com/Gorden_Sun/status/2122512201798021267",
+  "slug": "79062a963486ab38",
+  "content_hash": "aa9a2b6d8dae5b99433e41ef045a56103706688f92c7755e2a7dc0a0bd4b75ec",
+  "source": {
+    "path": "sources/articles/meituan-open-sources-longcat-video-avatar-1-6-supporting-audio-d.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/agentic-video-editing.md",
+    "topics/image-generation-pose-reference-libraries.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "长时说话人视频生成与视频编辑/合成相关。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "音频驱动数字人视频生成属于 AI 媒体内容生成范畴。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "数字人唇形与姿态生成涉及图像/姿态参考与质量边界。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "本文介绍的 MIT 开源权重数字人模型，与开放权重前沿模型主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "本文介绍的 MIT 开源权重数字人模型，与开放权重前沿模型主题直接相关。",
+    "topics/ai-media-training-corpus-loop.md": "音频驱动数字人视频生成属于 AI 媒体内容生成范畴。",
+    "topics/agentic-video-editing.md": "长时说话人视频生成与视频编辑/合成相关。",
+    "topics/image-generation-pose-reference-libraries.md": "数字人唇形与姿态生成涉及图像/姿态参考与质量边界。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meituan-open-sources-longcat-video-avatar-1-6-supporting-audio-d.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/agentic-video-editing.md",
+      "topics/image-generation-pose-reference-libraries.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "本文介绍的 MIT 开源权重数字人模型，与开放权重前沿模型主题直接相关。",
+      "topics/ai-media-training-corpus-loop.md": "音频驱动数字人视频生成属于 AI 媒体内容生成范畴。",
+      "topics/agentic-video-editing.md": "长时说话人视频生成与视频编辑/合成相关。",
+      "topics/image-generation-pose-reference-libraries.md": "数字人唇形与姿态生成涉及图像/姿态参考与质量边界。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；未超出文章内容编造事实或完整 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meituan-open-sources-longcat-video-avatar-1-6-supporting-audio-d.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

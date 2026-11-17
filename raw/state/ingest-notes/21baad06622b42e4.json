@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文区分哪些任务可交给 Agent、哪些需人工复核，与该主题“哪些活已放心交给 AI”直接对应。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "作者主张人类仍需介入检查关键逻辑并决定检查力度，相当于个人 Agent 当包工头调度编程 Agent。",
+    "topics/coding-agent-token-saving-tooling.md": "第三条建议强调避免 Agent 重复修改 Bug 导致 Token 浪费，与编程 Agent 省 Token 工具与开销相关。",
+    "topics/company-agent-harness.md": "帖文结尾提到研究 Harness 和 AI 搭配，本质是软件工程问题，与公司级 Agent Harness 主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文区分哪些任务可交给 Agent、哪些需人工复核，与该主题“哪些活已放心交给 AI”直接对应。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "作者主张人类仍需介入检查关键逻辑并决定检查力度，相当于个人 Agent 当包工头调度编程 Agent。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "第三条建议强调避免 Agent 重复修改 Bug 导致 Token 浪费，与编程 Agent 省 Token 工具与开销相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文结尾提到研究 Harness 和 AI 搭配，本质是软件工程问题，与公司级 Agent Harness 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未引入帖文外的事实；原文中 claude.dev 博客链接为短链接，未展开为完整 URL。"
+}

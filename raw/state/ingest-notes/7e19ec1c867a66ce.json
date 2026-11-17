@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文涉及 T3 Code 支持多个 Harness（Codex、Claude Code），与 Harness 对比主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "帖文提到界面设计、Claude/Codex 订阅与自带订阅区分，与该主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提到界面舒适、省心以及 Factory AI 额度小，涉及编程 Agent 体验与额度。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "帖文提到支持调不同 Harness 执行，与多 Harness 路由与个人派活主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 T3 Code 支持多个 Harness（Codex、Claude Code），与 Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文提到界面设计、Claude/Codex 订阅与自带订阅区分，与该主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提到界面舒适、省心以及 Factory AI 额度小，涉及编程 Agent 体验与额度。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文提到支持调不同 Harness 执行，与多 Harness 路由与个人派活主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的帖文内容，未引入外部事实或 URL。"
+}

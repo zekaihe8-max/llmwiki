@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-17T12:12:40.544Z",
+  "url": "https://x.com/lxfater/status/2122652625661227464",
+  "slug": "4ba0fa7d6304fa3f",
+  "content_hash": "afad66dbcefa519d6c15105980f68b2f5ea6d6d2d2fee36a6e8dc9e63a6c61dd",
+  "source": {
+    "path": "sources/articles/snug-project-open-source-free-mac-remote-companion-solving-phone.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-app-iphone-duo-adaptation.md",
+    "topics/iphone-duo-user-vs-developer-reception.md",
+    "topics/computer-use.md",
+    "topics/launcher-shortcut-ai-over-agent.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "文章涉及折叠屏手机与 Mac 的屏幕尺寸适配，与该主题的应用适配场景相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Snug 实现手机远程操控 Mac，属于计算机使用与远程桌面场景。"
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "帖文背景是折叠屏远程控制 Mac，与双屏/折叠屏设备的用户与开发者反馈语境相关。"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "Snug 的应用资源库类似启动器，与快捷启动应用的主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-app-iphone-duo-adaptation.md": "文章涉及折叠屏手机与 Mac 的屏幕尺寸适配，与该主题的应用适配场景相近。",
+    "topics/iphone-duo-user-vs-developer-reception.md": "帖文背景是折叠屏远程控制 Mac，与双屏/折叠屏设备的用户与开发者反馈语境相关。",
+    "topics/computer-use.md": "Snug 实现手机远程操控 Mac，属于计算机使用与远程桌面场景。",
+    "topics/launcher-shortcut-ai-over-agent.md": "Snug 的应用资源库类似启动器，与快捷启动应用的主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/snug-project-open-source-free-mac-remote-companion-solving-phone.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-app-iphone-duo-adaptation.md",
+      "topics/iphone-duo-user-vs-developer-reception.md",
+      "topics/computer-use.md",
+      "topics/launcher-shortcut-ai-over-agent.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-app-iphone-duo-adaptation.md": "文章涉及折叠屏手机与 Mac 的屏幕尺寸适配，与该主题的应用适配场景相近。",
+      "topics/iphone-duo-user-vs-developer-reception.md": "帖文背景是折叠屏远程控制 Mac，与双屏/折叠屏设备的用户与开发者反馈语境相关。",
+      "topics/computer-use.md": "Snug 实现手机远程操控 Mac，属于计算机使用与远程桌面场景。",
+      "topics/launcher-shortcut-ai-over-agent.md": "Snug 的应用资源库类似启动器，与快捷启动应用的主题相关。"
+    },
+    "notes": "所有主张均基于提供的帖文 markdown，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/snug-project-open-source-free-mac-remote-companion-solving-phone.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

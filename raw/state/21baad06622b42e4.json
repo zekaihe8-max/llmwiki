@@ -1,0 +1,23 @@
+{
+  "slug": "21baad06622b42e4",
+  "url": "https://x.com/xiaomovps/status/2122642096385577102",
+  "title": "Claude 官方那篇代码验收，他总结了三条",
+  "digest": "2026-11-17-cn-x.md",
+  "status": "filed",
+  "hash": "21baad06622b42e480e70ee2abd2ccf179df1f2081a8499490c6917d84324ee9",
+  "first_seen": "2026-11-17T11:57:57.309Z",
+  "last_seen": "2026-11-17T11:57:57.309Z",
+  "fetched_at": "2026-11-17T11:57:59.926Z",
+  "content_hash": "fd3c4ce1bff06de8c9e38ee9679057623aca49be222b82bb7801718597f0f2f6",
+  "article_path": "articles/21baad06622b42e4.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2122642096385577102",
+  "source_path": "sources/articles/three-claude-code-acceptance-tips-let-agents-self-test-human-che.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-17T12:04:26.096Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

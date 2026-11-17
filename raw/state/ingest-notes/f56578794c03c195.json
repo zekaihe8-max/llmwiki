@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/company-agent-harness.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中 Chief 调度 Claude Code、Codex CLI、Cursor CLI 等编程 Agent，与“个人 Agent 当包工头调度编程 Agent”主题高度相关。",
+    "topics/company-agent-harness.md": "文中明确提到基于 DeepSeek Harness 进行多 Agent 编排，属于 Agent Harness 范畴。",
+    "topics/dsh-grok-cross-dispatch.md": "帖文将 DS Bot 与 Grok Bot 做云端 vs 本地对比，涉及 DSH/Grok 社区互派语境。",
+    "topics/multiagent-infra-four-problems.md": "多 Bot 群聊、任务委派与目标管理涉及多智能体协作基建问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中 Chief 调度 Claude Code、Codex CLI、Cursor CLI 等编程 Agent，与“个人 Agent 当包工头调度编程 Agent”主题高度相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中明确提到基于 DeepSeek Harness 进行多 Agent 编排，属于 Agent Harness 范畴。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "帖文将 DS Bot 与 Grok Bot 做云端 vs 本地对比，涉及 DSH/Grok 社区互派语境。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多 Bot 群聊、任务委派与目标管理涉及多智能体协作基建问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 abskoop 的帖文，未独立核实其中产品功能与性能声明。"
+}
