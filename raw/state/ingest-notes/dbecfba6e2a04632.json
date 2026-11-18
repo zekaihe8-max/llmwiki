@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "涉及创始人离任与继任者选择的核心情境，黄仁勋辞职与董事会拒绝回归符合该主题",
+    "topics/ai-native-companies.md": "英伟达是典型 AI 原生公司，其 CEO 继任问题关乎 AI 产业领军企业治理",
+    "topics/pre-ipo-talent-departure-motives.md": "虽英伟达已上市，但高管离职动机与董事会应对逻辑具有参考价值"
+  },
+  "topics": [
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "涉及创始人离任与继任者选择的核心情境，黄仁勋辞职与董事会拒绝回归符合该主题"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "英伟达是典型 AI 原生公司，其 CEO 继任问题关乎 AI 产业领军企业治理"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "虽英伟达已上市，但高管离职动机与董事会应对逻辑具有参考价值"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a Chinese X post summarizing a Jim Cramer interview; claims are attributed to the post (帖文称). No independent verification of the interview content performed."
+}

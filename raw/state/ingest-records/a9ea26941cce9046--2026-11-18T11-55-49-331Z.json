@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:55:49.331Z",
+  "url": "https://x.com/op7418/status/2122925281514303836",
+  "slug": "a9ea26941cce9046",
+  "content_hash": "d41199dc45a70aba33052dd4625aa576e274acd2b6e09ef95df82d3727c757de",
+  "source": {
+    "path": "sources/articles/real-world-test-gpt-6-2-sol-ultra-fast-edits-an-8-minute-video-i.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "用户在不同模型/模式（Astra vs Sol、Fast vs Ultra Fast）之间做取舍与体验对比。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 AI 智能体进行视频剪辑的实测，与该主题直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助媒体剪辑与笔记，属于同类媒体处理场景。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "这是用户自发的社区实测，用于对抗模型宣传与刷分噪声。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是 AI 智能体进行视频剪辑的实测，与该主题直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助媒体剪辑与笔记，属于同类媒体处理场景。",
+    "topics/community-evals-vs-score-hype.md": "这是用户自发的社区实测，用于对抗模型宣传与刷分噪声。",
+    "topics/agent-model-channel-tradeoffs.md": "用户在不同模型/模式（Astra vs Sol、Fast vs Ultra Fast）之间做取舍与体验对比。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/real-world-test-gpt-6-2-sol-ultra-fast-edits-an-8-minute-video-i.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文核心是 AI 智能体进行视频剪辑的实测，与该主题直接相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助媒体剪辑与笔记，属于同类媒体处理场景。",
+      "topics/community-evals-vs-score-hype.md": "这是用户自发的社区实测，用于对抗模型宣传与刷分噪声。",
+      "topics/agent-model-channel-tradeoffs.md": "用户在不同模型/模式（Astra vs Sol、Fast vs Ultra Fast）之间做取舍与体验对比。"
+    },
+    "notes": "来源为 X 平台 @op7418 的单条帖文，未独立核实模型名称与性能数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/real-world-test-gpt-6-2-sol-ultra-fast-edits-an-8-minute-video-i.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

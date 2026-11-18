@@ -1,5 +1,85 @@
 ## 2026-11-18
 
+* **创建 / Creation**: 归档 [网易有道叭哥说：中文语音直发英文，跨语言维权Claude封号申诉](./sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md)。 / Filed [NetEase Youdao Ba Ge Shuo: Speak Chinese to send English, cross-language rights protection for Claude ban appeals](./sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md).
+
+* **创建 / Creation**: 归档 [GPT-6.2 Astra 官方提示词：代码复用与任务自动完成](./sources/articles/gpt-6-2-astra-official-prompts-code-reuse-and-automatic-task-com.md)。 / Filed [GPT-6.2 Astra Official Prompts: Code Reuse and Automatic Task Completion](./sources/articles/gpt-6-2-astra-official-prompts-code-reuse-and-automatic-task-com.md).
+
+* **创建 / Creation**: 归档 [MiniMax H3 打戏 Skill 更新：26 位动漫角色擂台轮战](./sources/articles/minimax-h3-fight-skill-updated-26-anime-characters-battle-royale.md)。 / Filed [MiniMax H3 Fight Skill Updated: 26 Anime Characters Battle Royale](./sources/articles/minimax-h3-fight-skill-updated-26-anime-characters-battle-royale.md).
+
+* **创建 / Creation**: 归档 [h3-fight：MiniMax H3 打戏提示词库 + 检查 + 出片](./sources/articles/h3-fight-minimax-h3-fight-scene-prompt-library-check-render.md)。 / Filed [h3-fight: MiniMax H3 Fight Scene Prompt Library + Check + Render](./sources/articles/h3-fight-minimax-h3-fight-scene-prompt-library-check-render.md).
+
+* **创建 / Creation**: 归档 [UU 远程配套开源应用](./sources/articles/uu-remote-companion-open-source-application.md)。 / Filed [UU Remote Companion Open-Source Application](./sources/articles/uu-remote-companion-open-source-application.md).
+
+* **创建 / Creation**: 归档 [GPT 6.2 Astra 与 Sol 体感：性价比重回一线](./sources/articles/hands-on-impression-of-gpt-6-2-astra-and-sol-gpt-returns-to-cost.md)。 / Filed [Hands-on impression of GPT 6.2 Astra and Sol: GPT returns to cost-performance front tier](./sources/articles/hands-on-impression-of-gpt-6-2-astra-and-sol-gpt-returns-to-cost.md).
+
+* **创建 / Creation**: 归档 [微软一次发了 7 个模型，他说 0 人在意](./sources/articles/microsoft-released-7-models-at-once-he-said-nobody-cares.md)。 / Filed [Microsoft released 7 models at once; he said nobody cares](./sources/articles/microsoft-released-7-models-at-once-he-said-nobody-cares.md).
+
+* **创建 / Creation**: 归档 [Apple 开源 FastFrames 实时视频生成模型](./sources/articles/apple-open-sources-fastframes-real-time-video-generation-model.md)。 / Filed [Apple Open-Sources FastFrames Real-Time Video Generation Model](./sources/articles/apple-open-sources-fastframes-real-time-video-generation-model.md).
+
+* **创建 / Creation**: 归档 [Devin Bots：赛博外包公司](./sources/articles/devin-bots-cyber-outsourcing-company.md)。 / Filed [Devin Bots: Cyber Outsourcing Company](./sources/articles/devin-bots-cyber-outsourcing-company.md).
+
+* **创建 / Creation**: 归档 [有人把 Blender 建模流程做成 28 个 Skill，GitHub 已有 2000 多星](./sources/articles/someone-turned-blender-modeling-workflow-into-28-skills-github-r.md)。 / Filed [Someone turned Blender modeling workflow into 28 Skills, GitHub repo has over 2,000 stars](./sources/articles/someone-turned-blender-modeling-workflow-into-28-skills-github-r.md).
+
+* **创建 / Creation**: 归档 [给小侄子做的古诗立体书《纸上山河》上线了](./sources/articles/ancient-poetry-pop-up-book-paper-mountains-and-rivers-launched-f.md)。 / Filed [Ancient Poetry Pop-up Book "Paper Mountains and Rivers" Launched for Nephew](./sources/articles/ancient-poetry-pop-up-book-paper-mountains-and-rivers-launched-f.md).
+
+* **创建 / Creation**: 归档 [郭宇在东京银座单向街分享个人 AI 助理与 Agent 实践](./sources/articles/guo-yu-shares-personal-ai-assistant-and-agent-practice-at-one-wa.md)。 / Filed [Guo Yu Shares Personal AI Assistant and Agent Practice at One-Way Street Ginza](./sources/articles/guo-yu-shares-personal-ai-assistant-and-agent-practice-at-one-wa.md).
+
+* **创建 / Creation**: 归档 [提醒买了 Google AI Ultra 的人记得领其他福利](./sources/articles/remind-google-ai-ultra-buyers-to-claim-other-benefits.md)。 / Filed [Remind Google AI Ultra buyers to claim other benefits](./sources/articles/remind-google-ai-ultra-buyers-to-claim-other-benefits.md).
+
+* **创建 / Creation**: 归档 [看 Devin Bots 的产品团队阵容，他说很多东西是 AI 永远无法取代的](./sources/articles/looking-at-devin-bots-product-team-lineup-he-says-many-things-ar.md)。 / Filed [Looking at Devin Bots' product team lineup, he says many things are irreplaceable by AI](./sources/articles/looking-at-devin-bots-product-team-lineup-he-says-many-things-ar.md).
+
+* **创建 / Creation**: 归档 [他把现在还留着的海外订阅算了一笔账](./sources/articles/he-itemized-the-overseas-ai-subscriptions-he-still-keeps.md)。 / Filed [He itemized the overseas AI subscriptions he still keeps](./sources/articles/he-itemized-the-overseas-ai-subscriptions-he-still-keeps.md).
+
+* **创建 / Creation**: 归档 [找到注册 Claude 账号不易触发 KYC 的办法](./sources/articles/found-a-claude-account-registration-method-said-to-rarely-trigge.md)。 / Filed [Found a Claude account registration method said to rarely trigger KYC](./sources/articles/found-a-claude-account-registration-method-said-to-rarely-trigge.md).
+
+* **创建 / Creation**: 归档 [Muse 视频生成：先稳单镜头人脸，再拆分镜头与运镜精修](./sources/articles/muse-video-generation-stabilize-single-shot-faces-first-then-spl.md)。 / Filed [Muse Video Generation: Stabilize Single-Shot Faces First, Then Split Shots and Refine Camera Movement](./sources/articles/muse-video-generation-stabilize-single-shot-faces-first-then-spl.md).
+
+* **创建 / Creation**: 归档 [提醒：Google Ultra 订阅开始退款，建议用小号避免封号](./sources/articles/reminder-google-ultra-subscriptions-being-refunded-use-secondary.md)。 / Filed [Reminder: Google Ultra subscriptions being refunded; use secondary accounts to avoid bans](./sources/articles/reminder-google-ultra-subscriptions-being-refunded-use-secondary.md).
+
+* **创建 / Creation**: 归档 [Google Ultra 订阅退款，Jio 套餐随之丢失，用户反思不宜参与灰市免费羊毛](./sources/articles/google-ultra-refunded-jio-plan-lost-user-warns-against-gray-mark.md)。 / Filed [Google Ultra Refunded, Jio Plan Lost; User Warns Against Gray-Market Free Subsidies](./sources/articles/google-ultra-refunded-jio-plan-lost-user-warns-against-gray-mark.md).
+
+* **创建 / Creation**: 归档 [Claude Code Code Mode 与 Pi Codemode 的异同](./sources/articles/claude-code-code-mode-and-pi-codemode-convergent-designs.md)。 / Filed [Claude Code Code Mode and Pi Codemode: Convergent Designs](./sources/articles/claude-code-code-mode-and-pi-codemode-convergent-designs.md).
+
+* **创建 / Creation**: 归档 [自媒体工作台补全全网信息获取与多平台分发](./sources/articles/self-media-workbench-supplemented-with-full-network-information.md)。 / Filed [Self-media workbench supplemented with full-network information acquisition and multi-platform distribution](./sources/articles/self-media-workbench-supplemented-with-full-network-information.md).
+
+* **创建 / Creation**: 归档 [有人为 Pi 专门训了一个模型 Qwen3.8-27B-pi-adapted](./sources/articles/qwen3-8-27b-pi-adapted-a-model-specially-trained-for-the-pi-codi.md)。 / Filed [Qwen3.8-27B-pi-adapted: A Model Specially Trained for the Pi Coding Agent](./sources/articles/qwen3-8-27b-pi-adapted-a-model-specially-trained-for-the-pi-codi.md).
+
+* **创建 / Creation**: 归档 [Chrome 案例：Policybazaar 把前端验证从 4 天缩到数小时](./sources/articles/chrome-case-policybazaar-cuts-frontend-verification-from-4-days.md)。 / Filed [Chrome Case: Policybazaar Cuts Frontend Verification from 4 Days to Hours](./sources/articles/chrome-case-policybazaar-cuts-frontend-verification-from-4-days.md).
+
+* **创建 / Creation**: 归档 [Devin Bots：交给它的不是工单，是一项职责](./sources/articles/devin-bots-what-you-hand-over-is-not-a-ticket-but-a-responsibili.md)。 / Filed [Devin Bots: What You Hand Over Is Not a Ticket, but a Responsibility](./sources/articles/devin-bots-what-you-hand-over-is-not-a-ticket-but-a-responsibili.md).
+
+* **创建 / Creation**: 归档 [LangChain 谈主动式 Agent：超七成运行靠日程，关键是记忆与人的注意力](./sources/articles/langchain-on-proactive-agents-over-70-of-runs-schedule-driven-ke.md)。 / Filed [LangChain on Proactive Agents: Over 70% of Runs Schedule-Driven, Key Is Memory and Human Attention](./sources/articles/langchain-on-proactive-agents-over-70-of-runs-schedule-driven-ke.md).
+
+* **创建 / Creation**: 归档 [Jim Cramer 采访英伟达临时 CEO Kress：董事会坚决不让黄仁勋回归](./sources/articles/jim-cramer-interviews-nvidia-interim-ceo-kress-board-firm-on-no.md)。 / Filed [Jim Cramer Interviews NVIDIA Interim CEO Kress: Board Firm on No Huang Return](./sources/articles/jim-cramer-interviews-nvidia-interim-ceo-kress-board-firm-on-no.md).
+
+* **创建 / Creation**: 归档 [Tibo 解释风评分裂：早期测试版与近期改善导致认知差异](./sources/articles/tibo-explains-split-reception-early-test-build-and-recent-change.md)。 / Filed [Tibo explains split reception: early test build and recent changes cause perception gap](./sources/articles/tibo-explains-split-reception-early-test-build-and-recent-change.md).
+
+* **创建 / Creation**: 归档 [Orange AI：Sol 与 Astra 6.2 体感尚可，怀疑 Codex Harness 适配导致调用变慢](./sources/articles/orange-ai-sol-and-astra-6-2-feel-fine-suspects-codex-harness-ada.md)。 / Filed [Orange AI: Sol and Astra 6.2 feel fine, suspects Codex harness adaptation causes slow calls](./sources/articles/orange-ai-sol-and-astra-6-2-feel-fine-suspects-codex-harness-ada.md).
+
+* **创建 / Creation**: 归档 [推荐一档还没什么人听的创业播客](./sources/articles/recommending-a-startup-podcast-few-people-have-heard-of.md)。 / Filed [Recommending a startup podcast few people have heard of](./sources/articles/recommending-a-startup-podcast-few-people-have-heard-of.md).
+
+* **创建 / Creation**: 归档 [花叔：用了一天 GPT-6.2 Astra，设计多样性与审美仍不如 Opus5.5](./sources/articles/hua-shu-after-one-day-with-gpt-6-2-astra-design-diversity-and-ae.md)。 / Filed [Hua Shu: After one day with GPT-6.2 Astra, design diversity and aesthetics still trail Opus5.5](./sources/articles/hua-shu-after-one-day-with-gpt-6-2-astra-design-diversity-and-ae.md).
+
+* **创建 / Creation**: 归档 [GPT-6.2 Sol 开启 Ultra Fast 速度可观，前端审美仍欠佳](./sources/articles/gpt-6-2-sol-ultra-fast-is-quick-but-frontend-aesthetics-still-la.md)。 / Filed [GPT-6.2 Sol Ultra Fast Is Quick, but Frontend Aesthetics Still Lacking](./sources/articles/gpt-6-2-sol-ultra-fast-is-quick-but-frontend-aesthetics-still-la.md).
+
+* **创建 / Creation**: 归档 [什么是聪明的模型？以 Opus 5.5 为例](./sources/articles/what-is-a-smart-model-the-opus-5-5-example.md)。 / Filed [What Is a Smart Model? The Opus 5.5 Example](./sources/articles/what-is-a-smart-model-the-opus-5-5-example.md).
+
+* **创建 / Creation**: 归档 [Antigravity 额度重置](./sources/articles/antigravity-quota-reset.md)。 / Filed [Antigravity Quota Reset](./sources/articles/antigravity-quota-reset.md).
+
+* **创建 / Creation**: 归档 [实测 GPT-6.2 Sol Ultra Fast 剪辑 8 分钟视频：27 分钟完成，峰值 252 token/s](./sources/articles/real-world-test-gpt-6-2-sol-ultra-fast-edits-an-8-minute-video-i.md)。 / Filed [Real-world test: GPT-6.2 Sol Ultra Fast edits an 8-minute video in 27 minutes, peaking at 252 token/s](./sources/articles/real-world-test-gpt-6-2-sol-ultra-fast-edits-an-8-minute-video-i.md).
+
+* **创建 / Creation**: 归档 [Sol 才是他要的，Ultra Fast 被要求剪视频测速](./sources/articles/sol-is-what-he-wants-ultra-fast-is-asked-to-edit-a-video-for-a-s.md)。 / Filed [Sol is what he wants; Ultra Fast is asked to edit a video for a speed test](./sources/articles/sol-is-what-he-wants-ultra-fast-is-asked-to-edit-a-video-for-a-s.md).
+
+* **创建 / Creation**: 归档 [大 V 集中喷 Astra，他认为是 KOL 沟通出了问题](./sources/articles/influencers-criticize-astra-he-thinks-it-is-a-kol-communication.md)。 / Filed [Influencers Criticize Astra; He Thinks It Is a KOL Communication Problem](./sources/articles/influencers-criticize-astra-he-thinks-it-is-a-kol-communication.md).
+
+* **创建 / Creation**: 归档 [腾讯财报称 WorkBuddy 日活超 1000 万](./sources/articles/tencent-earnings-report-says-workbuddy-daily-active-users-exceed.md)。 / Filed [Tencent earnings report says WorkBuddy daily active users exceed 10 million](./sources/articles/tencent-earnings-report-says-workbuddy-daily-active-users-exceed.md).
+
+* **创建 / Creation**: 归档 [把交互和文案交给 Gemini 4 Carbon 把关](./sources/articles/leave-interaction-design-and-ui-copy-to-gemini-4-carbon-for-revi.md)。 / Filed [Leave interaction design and UI copy to Gemini 4 Carbon for review](./sources/articles/leave-interaction-design-and-ui-copy-to-gemini-4-carbon-for-revi.md).
+
+* **创建 / Creation**: 归档 [方案规划可读性差，代码审查却明显进步](./sources/articles/poor-plan-readability-but-clear-progress-in-code-review.md)。 / Filed [Poor plan readability, but clear progress in code review](./sources/articles/poor-plan-readability-but-clear-progress-in-code-review.md).
+
+* **创建 / Creation**: 归档 [深度实测GPT-6.2 Astra，OpenAI在偏科的道路上越走越远了](./sources/articles/deep-test-of-gpt-6-2-astra-openai-keeps-drifting-further-down-th.md)。 / Filed [Deep Test of GPT-6.2 Astra: OpenAI Keeps Drifting Further Down the Path of Subject Bias](./sources/articles/deep-test-of-gpt-6-2-astra-openai-keeps-drifting-further-down-th.md).
+
 * **创建 / Creation**: 归档 [张立行 · Agent 把 CI 跑爆之后怎么省](./sources/articles/zhang-lixing-how-to-save-ci-costs-after-agents-run-it-explosivel.md)。 / Filed [Zhang Lixing · How to Save CI Costs After Agents Run It Explosively](./sources/articles/zhang-lixing-how-to-save-ci-costs-after-agents-run-it-explosivel.md).
 
 * **创建 / Creation**: 归档 [收窄工具](./sources/articles/constraining-tools.md)。 / Filed [Constraining Tools](./sources/articles/constraining-tools.md).

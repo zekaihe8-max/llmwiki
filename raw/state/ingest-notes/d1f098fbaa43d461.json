@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章讨论高端 AI 订阅（Google Ultra/Google AI Pro）的得失与价值，直接相关。",
+    "topics/account-and-asset-security-hygiene.md": "涉及订阅与套餐丢失，属账号与数字资产安全卫生范畴。",
+    "topics/pro-vs-flash-model-strategy.md": "文中提及 Google AI Pro，与高端模型订阅策略相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论高端 AI 订阅（Google Ultra/Google AI Pro）的得失与价值，直接相关。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "涉及订阅与套餐丢失，属账号与数字资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提及 Google AI Pro，与高端模型订阅策略相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 fetched article markdown，未引入外部事实或 URL。"
+}

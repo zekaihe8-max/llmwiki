@@ -1,0 +1,23 @@
+{
+  "slug": "565816746c013834",
+  "url": "https://x.com/xiaomovps/status/2122997925446127660",
+  "title": "有人为 Pi 专门训了一个模型 Qwen3.8-27B-pi-adapted",
+  "digest": "2026-11-18-cn-x.md",
+  "status": "filed",
+  "hash": "565816746c013834f1b57481660d6d33f2f38c19259932561125ac9beeb08ee5",
+  "first_seen": "2026-11-18T11:51:18.912Z",
+  "last_seen": "2026-11-18T11:51:18.912Z",
+  "fetched_at": "2026-11-18T11:51:24.951Z",
+  "content_hash": "e7e1ac0f48341a9369bf43e906ab62ceea15c8bbb3b5123a8d83caa823b2e7c3",
+  "article_path": "articles/565816746c013834.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2122997925446127660",
+  "source_path": "sources/articles/qwen3-8-27b-pi-adapted-a-model-specially-trained-for-the-pi-codi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T12:02:29.736Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

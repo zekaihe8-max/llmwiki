@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:02:29.735Z",
+  "url": "https://x.com/xiaomovps/status/2122997925446127660",
+  "slug": "565816746c013834",
+  "content_hash": "e7e1ac0f48341a9369bf43e906ab62ceea15c8bbb3b5123a8d83caa823b2e7c3",
+  "source": {
+    "path": "sources/articles/qwen3-8-27b-pi-adapted-a-model-specially-trained-for-the-pi-codi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论未来选择模型不仅看代码能力，还要看能否用好 Agent 工具，与面向 Agent 的模型渠道取舍直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中强调工具调用次数大幅减少，与编程 Agent 省 Token 工具与开销主题相近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中提到针对每个 Harness 进行底座模型适配，涉及 Agent Harness 的对比与评估语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论未来选择模型不仅看代码能力，还要看能否用好 Agent 工具，与面向 Agent 的模型渠道取舍直接相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文中提到针对每个 Harness 进行底座模型适配，涉及 Agent Harness 的对比与评估语境。",
+    "topics/coding-agent-token-saving-tooling.md": "文中强调工具调用次数大幅减少，与编程 Agent 省 Token 工具与开销主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qwen3-8-27b-pi-adapted-a-model-specially-trained-for-the-pi-codi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "文章讨论未来选择模型不仅看代码能力，还要看能否用好 Agent 工具，与面向 Agent 的模型渠道取舍直接相关。",
+      "topics/harness-comparison-beyond-tokens.md": "文中提到针对每个 Harness 进行底座模型适配，涉及 Agent Harness 的对比与评估语境。",
+      "topics/coding-agent-token-saving-tooling.md": "文中强调工具调用次数大幅减少，与编程 Agent 省 Token 工具与开销主题相近。"
+    },
+    "notes": "推文中嵌入了 clem 🤗 的相关推文，部分指标（如 Terminal-Bench）来源于该嵌入内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qwen3-8-27b-pi-adapted-a-model-specially-trained-for-the-pi-codi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

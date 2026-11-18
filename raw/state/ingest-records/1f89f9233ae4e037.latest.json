@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:13:09.283Z",
+  "url": "https://x.com/xiaomovps/status/2122876322741703107",
+  "slug": "1f89f9233ae4e037",
+  "content_hash": "9a8ff10f668d25da3b75c11c51d4e5fb32250e9f0e8f052db8a333c392dcd1fd",
+  "source": {
+    "path": "sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文讨论账号封禁申诉和资产退款，与账号与资产安全卫生相关。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文涉及Claude账号被封、申诉与退款，属于Claude订阅风控与账号安全范畴。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是语音输入将口语转为英文文书，与该主题的口头转述与文书整理直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文核心是语音输入将口语转为英文文书，与该主题的口头转述与文书整理直接相关。",
+    "topics/claude-subscription-risk-control-weights.md": "帖文涉及Claude账号被封、申诉与退款，属于Claude订阅风控与账号安全范畴。",
+    "topics/account-and-asset-security-hygiene.md": "帖文讨论账号封禁申诉和资产退款，与账号与资产安全卫生相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "帖文核心是语音输入将口语转为英文文书，与该主题的口头转述与文书整理直接相关。",
+      "topics/claude-subscription-risk-control-weights.md": "帖文涉及Claude账号被封、申诉与退款，属于Claude订阅风控与账号安全范畴。",
+      "topics/account-and-asset-security-hygiene.md": "帖文讨论账号封禁申诉和资产退款，与账号与资产安全卫生相关。"
+    },
+    "notes": "所有主张均基于提供的帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

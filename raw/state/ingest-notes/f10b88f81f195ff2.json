@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章核心是个人助理/Agent 统筹生活与工作，与该主题高度相关。",
+    "topics/grok-bot-x-api-substitute.md": "文中明确提到使用 Grok bot，直接对应该主题。",
+    "topics/agentic-ai-foundation.md": "文中讨论通用个人助理与垂直化 Agent 的前景，属于 Agentic AI 范畴。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中提到将多项事务串联到个人助理，涉及个人助手派活与基建路由的区别。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是个人助理/Agent 统筹生活与工作，与该主题高度相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文中明确提到使用 Grok bot，直接对应该主题。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中讨论通用个人助理与垂直化 Agent 的前景，属于 Agentic AI 范畴。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中提到将多项事务串联到个人助理，涉及个人助手派活与基建路由的区别。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章中的年份显示为2026年，已按原文保留。"
+}

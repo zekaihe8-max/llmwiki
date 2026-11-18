@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章涉及跨 30 个落地页、每日数十万访问的规模化前端审计与 Agent 工程化应用。",
+    "topics/design-to-code-byo-subscriptions.md": "Pensionbazaar 通过 Claude Code 与 Figma MCP 实现设计稿到代码的自动化流程，与该话题高度相关。",
+    "topics/ux-dx-and-ax.md": "案例核心是开发者体验与 Agent 体验，使用 Chrome DevTools for Agents 做浏览器端验证。",
+    "topics/calibrating-ai-guidance.md": "Modern Web Guidance 用于约束 AI 生成代码，体现对 AI 引导的校准与边界设定。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章涉及跨 30 个落地页、每日数十万访问的规模化前端审计与 Agent 工程化应用。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "Pensionbazaar 通过 Claude Code 与 Figma MCP 实现设计稿到代码的自动化流程，与该话题高度相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "案例核心是开发者体验与 Agent 体验，使用 Chrome DevTools for Agents 做浏览器端验证。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "Modern Web Guidance 用于约束 AI 生成代码，体现对 AI 引导的校准与边界设定。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

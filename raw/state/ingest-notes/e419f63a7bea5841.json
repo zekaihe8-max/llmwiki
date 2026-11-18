@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-auto-mode.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/languages-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章核心讨论通过批量工具调用减少 Token 消耗，与该主题关于编程 Agent 省 Token 工具与开销直接相关。",
+    "topics/agent-auto-mode.md": "文中对比 Code Mode 与 Codemode 及 on/only 两种模式，属于智能体自动模式与工具编排范畴。",
+    "topics/context-engineering-for-agents.md": "文中强调只返回有用结果、避免原始输出塞入上下文，属于 Agent 上下文工程与 Token 效率。",
+    "topics/languages-for-agents.md": "两者均通过 JavaScript 串联工具调用，涉及面向 Agent 的编程语言使用。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论通过批量工具调用减少 Token 消耗，与该主题关于编程 Agent 省 Token 工具与开销直接相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中对比 Code Mode 与 Codemode 及 on/only 两种模式，属于智能体自动模式与工具编排范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中强调只返回有用结果、避免原始输出塞入上下文，属于 Agent 上下文工程与 Token 效率。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "两者均通过 JavaScript 串联工具调用，涉及面向 Agent 的编程语言使用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均采用 unchanged，未创建新主题；所有事实均源于提供的帖文 markdown，未引入外部 URL 或未核实事实。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文核心建议用小号而非 Google 大号，以防封号，属账号与资产安全卫生范畴。",
+    "topics/premium-ai-subscription-value.md": "涉及 Google Ultra 高端订阅的薅羊毛与退款，关乎订阅服务价值与风险。",
+    "topics/claude-subscription-risk-control-weights.md": "涉及订阅风控与封号风险，与该主题的风控权重讨论相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文核心建议用小号而非 Google 大号，以防封号，属账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 Google Ultra 高端订阅的薅羊毛与退款，关乎订阅服务价值与风险。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及订阅风控与封号风险，与该主题的风控权重讨论相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "主张均来源于 X 帖文，未经独立核实，已在摘要中使用「帖文称」等表述标注。"
+}

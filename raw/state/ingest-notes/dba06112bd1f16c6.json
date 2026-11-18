@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/iphone-duo-user-vs-developer-reception.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/iphone-duo-user-vs-developer-reception.md": "讨论普通用户与开发者/内测者的接收差异，与网红与大众风评分裂最为接近",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实测与舆论炒作之间的张力，与未复测的快速改动导致认知偏差相关",
+    "topics/public-benchmark-quality-scrutiny.md": "提醒在信任公开风评前审视版本与测试条件，与文中早期版本未复测的情境相关"
+  },
+  "topics": [
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "讨论普通用户与开发者/内测者的接收差异，与网红与大众风评分裂最为接近"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实测与舆论炒作之间的张力，与未复测的快速改动导致认知偏差相关"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "提醒在信任公开风评前审视版本与测试条件，与文中早期版本未复测的情境相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未引入文章外事实。"
+}

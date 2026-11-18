@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是 AI 智能体进行视频剪辑的实测，与该主题直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助媒体剪辑与笔记，属于同类媒体处理场景。",
+    "topics/community-evals-vs-score-hype.md": "这是用户自发的社区实测，用于对抗模型宣传与刷分噪声。",
+    "topics/agent-model-channel-tradeoffs.md": "用户在不同模型/模式（Astra vs Sol、Fast vs Ultra Fast）之间做取舍与体验对比。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 AI 智能体进行视频剪辑的实测，与该主题直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助媒体剪辑与笔记，属于同类媒体处理场景。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "这是用户自发的社区实测，用于对抗模型宣传与刷分噪声。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "用户在不同模型/模式（Astra vs Sol、Fast vs Ultra Fast）之间做取舍与体验对比。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @op7418 的单条帖文，未独立核实模型名称与性能数据。"
+}

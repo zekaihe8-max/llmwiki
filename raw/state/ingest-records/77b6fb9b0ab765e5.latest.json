@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:06:37.395Z",
+  "url": "https://x.com/dingyi/status/2123013251365777680",
+  "slug": "77b6fb9b0ab765e5",
+  "content_hash": "25c57f1a0996a5171da0b8d6e1ce10e1ea363e7a9f31fb56d8d73635e799adfd",
+  "source": {
+    "path": "sources/articles/remind-google-ai-ultra-buyers-to-claim-other-benefits.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agentic-video-editing.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中附带 Agent 指令并主张全自动流程，涉及智能体自动模式。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "内容涉及 Gemini 4 与 Antigravity 实现全自动出片，属于智能体视频剪辑与制作范畴。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是提醒 Google AI Ultra 订阅用户领取福利，与高端 AI 订阅价值直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "提及 Gemini 4 模型能力，与 Pro 系列模型策略有关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是提醒 Google AI Ultra 订阅用户领取福利，与高端 AI 订阅价值直接相关。",
+    "topics/agentic-video-editing.md": "内容涉及 Gemini 4 与 Antigravity 实现全自动出片，属于智能体视频剪辑与制作范畴。",
+    "topics/pro-vs-flash-model-strategy.md": "提及 Gemini 4 模型能力，与 Pro 系列模型策略有关联。",
+    "topics/agent-auto-mode.md": "文中附带 Agent 指令并主张全自动流程，涉及智能体自动模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/remind-google-ai-ultra-buyers-to-claim-other-benefits.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/agentic-video-editing.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心是提醒 Google AI Ultra 订阅用户领取福利，与高端 AI 订阅价值直接相关。",
+      "topics/agentic-video-editing.md": "内容涉及 Gemini 4 与 Antigravity 实现全自动出片，属于智能体视频剪辑与制作范畴。",
+      "topics/pro-vs-flash-model-strategy.md": "提及 Gemini 4 模型能力，与 Pro 系列模型策略有关联。",
+      "topics/agent-auto-mode.md": "文中附带 Agent 指令并主张全自动流程，涉及智能体自动模式。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文内容，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/remind-google-ai-ultra-buyers-to-claim-other-benefits.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

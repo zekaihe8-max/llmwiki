@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文涉及“性价比一线”，与高端 AI 订阅价值主题相关。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比不同模型代际与系列（Astra、Sol、Claude、Gemini），属模型策略与定位讨论。",
+    "topics/community-evals-vs-score-hype.md": "内容为用户主观体感而非公开榜分，适合参考社区实测与刷分碰瓷主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文涉及“性价比一线”，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比不同模型代际与系列（Astra、Sol、Claude、Gemini），属模型策略与定位讨论。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "内容为用户主观体感而非公开榜分，适合参考社区实测与刷分碰瓷主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文，未经独立核实，未引入外部事实或 URL。"
+}

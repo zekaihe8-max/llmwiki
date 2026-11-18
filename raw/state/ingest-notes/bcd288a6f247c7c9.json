@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章聚焦 Devin Bots 如何让单个 Bot 统筹多个会话并持续推进工程目标，与智能体规模化工程主题高度相关。",
+    "topics/software-factory.md": "Devin Bots 被描述为持续负责工程目标的自动化生产单元，与软件工厂概念重叠。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Bot 担任包工头角色，拆解目标并调度多个 Devin 子会话执行，与个人 Agent 调度编程 Agent 的主题一致。",
+    "topics/fold-subagents-into-main-loop.md": "Bot 与 Devin 子会话之间存在主循环与子会话执行的关系，QA Bot 与 Developer Bot 互派活也体现子 Agent 折入主循环。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Devin Bots 如何让单个 Bot 统筹多个会话并持续推进工程目标，与智能体规模化工程主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Devin Bots 被描述为持续负责工程目标的自动化生产单元，与软件工厂概念重叠。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Bot 担任包工头角色，拆解目标并调度多个 Devin 子会话执行，与个人 Agent 调度编程 Agent 的主题一致。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Bot 与 Devin 子会话之间存在主循环与子会话执行的关系，QA Bot 与 Developer Bot 互派活也体现子 Agent 折入主循环。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的推文正文，未引入外部信息或编造 URL。"
+}

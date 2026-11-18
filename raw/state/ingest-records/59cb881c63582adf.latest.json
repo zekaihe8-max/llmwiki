@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:58:59.334Z",
+  "url": "https://x.com/oran_ge/status/2122982300598386943",
+  "slug": "59cb881c63582adf",
+  "content_hash": "c6cbce9601938c7c6118ce0260dd151eeca424223e02f4ab533bf060f4163463",
+  "source": {
+    "path": "sources/articles/orange-ai-sol-and-astra-6-2-feel-fine-suspects-codex-harness-ada.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Codex 作为编程 Agent，调用慢属于体验与响应性问题。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中提到 KOL 测试版与普通用户反馈的体感差异，涉及社区实测与舆论落差。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章核心怀疑 Codex 的 harness 适配问题，与公司级 Agent Harness 主题直接相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及不同平台（Codex、Pi、Cola）调用速度差异，属于 harness 对比范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章核心怀疑 Codex 的 harness 适配问题，与公司级 Agent Harness 主题直接相关。",
+    "topics/harness-comparison-beyond-tokens.md": "涉及不同平台（Codex、Pi、Cola）调用速度差异，属于 harness 对比范畴。",
+    "topics/community-evals-vs-score-hype.md": "文中提到 KOL 测试版与普通用户反馈的体感差异，涉及社区实测与舆论落差。",
+    "topics/coding-agent-ux-vs-quota.md": "Codex 作为编程 Agent，调用慢属于体验与响应性问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/orange-ai-sol-and-astra-6-2-feel-fine-suspects-codex-harness-ada.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章核心怀疑 Codex 的 harness 适配问题，与公司级 Agent Harness 主题直接相关。",
+      "topics/harness-comparison-beyond-tokens.md": "涉及不同平台（Codex、Pi、Cola）调用速度差异，属于 harness 对比范畴。",
+      "topics/community-evals-vs-score-hype.md": "文中提到 KOL 测试版与普通用户反馈的体感差异，涉及社区实测与舆论落差。",
+      "topics/coding-agent-ux-vs-quota.md": "Codex 作为编程 Agent，调用慢属于体验与响应性问题。"
+    },
+    "notes": "Source is a single X post; claims about model quality and harness issues are unattributed user observations.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/orange-ai-sol-and-astra-6-2-feel-fine-suspects-codex-harness-ada.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

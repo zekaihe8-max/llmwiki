@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:05:12.527Z",
+  "url": "https://x.com/0xlangeai/status/2122894619243680161",
+  "slug": "c8173f4b1f3b9a6a",
+  "content_hash": "d49b4dd741ce601639460af00a9da0079bec3a06756d1e316ad79e3ef3dc95a4",
+  "source": {
+    "path": "sources/articles/found-a-claude-account-registration-method-said-to-rarely-trigge.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "涉及账号注册与卫生，但帖文未展开安全建议，故仅作参考。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "直接对应 Claude 注册触发 KYC 的风控场景，最贴近帖文主题。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "提及自带 Claude 订阅，与 Claude 账号使用语境边缘相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "付费 AI 订阅语境与注册门槛间接相关，但未涉及具体 KYC 方法。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "直接对应 Claude 注册触发 KYC 的风控场景，最贴近帖文主题。",
+    "topics/account-and-asset-security-hygiene.md": "涉及账号注册与卫生，但帖文未展开安全建议，故仅作参考。",
+    "topics/design-to-code-byo-subscriptions.md": "提及自带 Claude 订阅，与 Claude 账号使用语境边缘相关。",
+    "topics/premium-ai-subscription-value.md": "付费 AI 订阅语境与注册门槛间接相关，但未涉及具体 KYC 方法。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/found-a-claude-account-registration-method-said-to-rarely-trigge.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "直接对应 Claude 注册触发 KYC 的风控场景，最贴近帖文主题。",
+      "topics/account-and-asset-security-hygiene.md": "涉及账号注册与卫生，但帖文未展开安全建议，故仅作参考。",
+      "topics/design-to-code-byo-subscriptions.md": "提及自带 Claude 订阅，与 Claude 账号使用语境边缘相关。",
+      "topics/premium-ai-subscription-value.md": "付费 AI 订阅语境与注册门槛间接相关，但未涉及具体 KYC 方法。"
+    },
+    "notes": "帖文未披露具体注册方法，所有关于“不易触发 KYC”的说法均来自帖文本人声称，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/found-a-claude-account-registration-method-said-to-rarely-trigge.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

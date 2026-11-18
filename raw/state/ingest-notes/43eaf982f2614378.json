@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-native-companies.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "WorkBuddy 属于大厂面向企业的 AI 数字员工/助手类产品，与该主题最贴近。",
+    "topics/ai-native-companies.md": "腾讯作为大厂推出 WorkBuddy，涉及 AI 原生化办公与企业级 AI 应用。",
+    "topics/software-factory.md": "WorkBuddy 的规模化日活可关联企业软件与 AI 工厂化交付语境。"
+  },
+  "topics": [
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "WorkBuddy 属于大厂面向企业的 AI 数字员工/助手类产品，与该主题最贴近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "腾讯作为大厂推出 WorkBuddy，涉及 AI 原生化办公与企业级 AI 应用。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "WorkBuddy 的规模化日活可关联企业软件与 AI 工厂化交付语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文，未独立核实腾讯财报原文。"
+}

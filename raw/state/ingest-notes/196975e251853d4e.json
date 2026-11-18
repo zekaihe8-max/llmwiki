@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 与额度体验，最贴近 Antigravity 额度重置主题。",
+    "topics/usage-limit-ab-tests.md": "涉及用量上限与测试，与额度重置机制相关。",
+    "topics/premium-ai-subscription-value.md": "额度重置直接影响高端 AI 订阅的价值感知。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 与额度体验，最贴近 Antigravity 额度重置主题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及用量上限与测试，与额度重置机制相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "额度重置直接影响高端 AI 订阅的价值感知。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单条 X 帖文及其引用，未独立核实 Antigravity 身份或重置细节。"
+}

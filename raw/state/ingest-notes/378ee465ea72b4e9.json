@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "内容直接涉及播客推荐，与帖文主题最相关",
+    "topics/hunger-beats-tenure.md": "涉及创始人放弃扩张、回归产品本质的心态转变，与主题相近",
+    "topics/ai-native-companies.md": "帖文发布者为 AI 账号，且内容涉及初创公司与产品构建"
+  },
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "内容直接涉及播客推荐，与帖文主题最相关"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "涉及创始人放弃扩张、回归产品本质的心态转变，与主题相近"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文发布者为 AI 账号，且内容涉及初创公司与产品构建"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于 X 帖文内容，未核实播客具体名称或创始人身份"
+}

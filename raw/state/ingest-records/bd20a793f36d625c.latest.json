@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:01:01.879Z",
+  "url": "https://x.com/shao__meng/status/2122995228689010872",
+  "slug": "bd20a793f36d625c",
+  "content_hash": "3c5259bdd66e7c98b47e9c99fde036eeba1dc7288c4ab16ff91dcda889a5cdb7",
+  "source": {
+    "path": "sources/articles/langchain-on-proactive-agents-over-70-of-runs-schedule-driven-ke.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心讲主动式 Agent 靠日程与事件自主运行，与智能体自动模式主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中重点论述记忆来源、维护与 dreaming，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "文中强调人工评审体验是系统一部分，需设计人审门槛与信息过滤。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中提出只呈现值得关注信息、结果易评审、留在已有工作流，属于人机交互与 AX 设计。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心讲主动式 Agent 靠日程与事件自主运行，与智能体自动模式主题直接相关。",
+    "topics/context-engineering-for-agents.md": "文中重点论述记忆来源、维护与 dreaming，属于 Agent 上下文工程范畴。",
+    "topics/ux-dx-and-ax.md": "文中提出只呈现值得关注信息、结果易评审、留在已有工作流，属于人机交互与 AX 设计。",
+    "topics/divergent-tasks-human-design-gate.md": "文中强调人工评审体验是系统一部分，需设计人审门槛与信息过滤。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langchain-on-proactive-agents-over-70-of-runs-schedule-driven-ke.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/divergent-tasks-human-design-gate.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "文章核心讲主动式 Agent 靠日程与事件自主运行，与智能体自动模式主题直接相关。",
+      "topics/context-engineering-for-agents.md": "文中重点论述记忆来源、维护与 dreaming，属于 Agent 上下文工程范畴。",
+      "topics/ux-dx-and-ax.md": "文中提出只呈现值得关注信息、结果易评审、留在已有工作流，属于人机交互与 AX 设计。",
+      "topics/divergent-tasks-human-design-gate.md": "文中强调人工评审体验是系统一部分，需设计人审门槛与信息过滤。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langchain-on-proactive-agents-over-70-of-runs-schedule-driven-ke.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

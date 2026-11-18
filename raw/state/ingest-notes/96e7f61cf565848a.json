@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是让 AI 模型剪辑视频，直接对应智能体视频剪辑话题。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比 Fast 与 Ultra Fast 模式速度，属于模型策略与速度取舍。",
+    "topics/community-evals-vs-score-hype.md": "帖文提及公开反馈不佳但个人实测体感相反，涉及社区评测与个人体验差距。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是让 AI 模型剪辑视频，直接对应智能体视频剪辑话题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Fast 与 Ultra Fast 模式速度，属于模型策略与速度取舍。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文提及公开反馈不佳但个人实测体感相反，涉及社区评测与个人体验差距。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

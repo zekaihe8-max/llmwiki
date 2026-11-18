@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:09:46.776Z",
+  "url": "https://x.com/Gorden_Sun/status/2122890872664773112",
+  "slug": "d693120f44350445",
+  "content_hash": "407f558ed3a1f0142990a00aec85fe350be082f540ccc6dd22f56f878e00f1f6",
+  "source": {
+    "path": "sources/articles/microsoft-released-7-models-at-once-he-said-nobody-cares.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文明确质疑安全基准测试是“刷分”，与社区实测对抗刷分碰瓷主题相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中多处对比模型价格与成本（如 40% 价格、2% 成本、0.01 美元/分钟），与大厂推理成本效率相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文中多次出现 Flash 模型（MAI Code 2 Flash、MAI Cyber 2 Flash），与 Pro/Flash 模型定价策略主题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "发文者对基准榜单和刷分说法持怀疑态度，与“信任公开榜前先审质量”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文中多次出现 Flash 模型（MAI Code 2 Flash、MAI Cyber 2 Flash），与 Pro/Flash 模型定价策略主题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "发文者对基准榜单和刷分说法持怀疑态度，与“信任公开榜前先审质量”相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文明确质疑安全基准测试是“刷分”，与社区实测对抗刷分碰瓷主题相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中多处对比模型价格与成本（如 40% 价格、2% 成本、0.01 美元/分钟），与大厂推理成本效率相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/microsoft-released-7-models-at-once-he-said-nobody-cares.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文中多次出现 Flash 模型（MAI Code 2 Flash、MAI Cyber 2 Flash），与 Pro/Flash 模型定价策略主题相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "发文者对基准榜单和刷分说法持怀疑态度，与“信任公开榜前先审质量”相关。",
+      "topics/community-evals-vs-score-hype.md": "帖文明确质疑安全基准测试是“刷分”，与社区实测对抗刷分碰瓷主题相关。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中多处对比模型价格与成本（如 40% 价格、2% 成本、0.01 美元/分钟），与大厂推理成本效率相关。"
+    },
+    "notes": "帖文发布时间显示为 2026 年 11 月 18 日，所有模型能力与价格主张均来源于该帖文及其引用的微软 AI 官方链接，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/microsoft-released-7-models-at-once-he-said-nobody-cares.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

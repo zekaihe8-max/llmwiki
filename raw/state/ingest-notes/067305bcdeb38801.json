@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/interactive-world-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "FastFrames 是 Apple 开源的开放权重模型，与该主题的开放权重前沿模型讨论相关。",
+    "topics/interactive-world-models.md": "实时视频生成与交互式世界模型在生成式媒体方面存在技术关联。",
+    "topics/gpu-ai-compute-unlock.md": "帖文强调本地硬件实时生成，涉及消费级 GPU 推理能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "FastFrames 是 Apple 开源的开放权重模型，与该主题的开放权重前沿模型讨论相关。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "实时视频生成与交互式世界模型在生成式媒体方面存在技术关联。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文强调本地硬件实时生成，涉及消费级 GPU 推理能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文日期显示为 2026 年 11 月 18 日，未做额外事实核查，所有主张均标注为帖文称。"
+}

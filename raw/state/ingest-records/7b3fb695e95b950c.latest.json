@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:10:29.371Z",
+  "url": "https://x.com/Gorden_Sun/status/2122886777774260262",
+  "slug": "7b3fb695e95b950c",
+  "content_hash": "32bd1cbab0f4a91b811176dd9909886d0dfa84d479487f1150448c1b4c9fe007",
+  "source": {
+    "path": "sources/articles/hands-on-impression-of-gpt-6-2-astra-and-sol-gpt-returns-to-cost.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "内容为用户主观体感而非公开榜分，适合参考社区实测与刷分碰瓷主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文涉及“性价比一线”，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比不同模型代际与系列（Astra、Sol、Claude、Gemini），属模型策略与定位讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文涉及“性价比一线”，与高端 AI 订阅价值主题相关。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比不同模型代际与系列（Astra、Sol、Claude、Gemini），属模型策略与定位讨论。",
+    "topics/community-evals-vs-score-hype.md": "内容为用户主观体感而非公开榜分，适合参考社区实测与刷分碰瓷主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hands-on-impression-of-gpt-6-2-astra-and-sol-gpt-returns-to-cost.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "帖文涉及“性价比一线”，与高端 AI 订阅价值主题相关。",
+      "topics/pro-vs-flash-model-strategy.md": "帖文对比不同模型代际与系列（Astra、Sol、Claude、Gemini），属模型策略与定位讨论。",
+      "topics/community-evals-vs-score-hype.md": "内容为用户主观体感而非公开榜分，适合参考社区实测与刷分碰瓷主题。"
+    },
+    "notes": "所有主张均来源于单条 X 帖文，未经独立核实，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hands-on-impression-of-gpt-6-2-astra-and-sol-gpt-returns-to-cost.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
