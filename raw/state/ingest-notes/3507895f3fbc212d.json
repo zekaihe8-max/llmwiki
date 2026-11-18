@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/computer-use.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "涉及手机远程操控本地或自有设备，与 UU 远程手机控制 MacOS 最为贴近。",
+    "topics/computer-use.md": "涉及对计算机的远程使用与控制，与 UU 远程控制 MacOS 的场景相关。",
+    "topics/mobile-agent-dev-full-chain.md": "涉及手机端应用与控制链路，与 iPhone 端 UU 远程客户端相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "涉及手机远程操控本地或自有设备，与 UU 远程手机控制 MacOS 最为贴近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及对计算机的远程使用与控制，与 UU 远程控制 MacOS 的场景相关。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及手机端应用与控制链路，与 iPhone 端 UU 远程客户端相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于抓取的 X 帖文内容，未引入外部事实或 URL。"
+}

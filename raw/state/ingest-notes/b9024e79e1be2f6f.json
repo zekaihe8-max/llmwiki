@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/agent-auto-mode.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "帖文中官方 Coding Style 明确提倡复用现有代码、避免重复造轮子，与该主题高度相关。",
+    "topics/agent-auto-mode.md": "官方 Task Completion 要求任务未完成不停、不把能继续的事丢回用户，与智能体自动模式的自主性贴合。",
+    "topics/context-engineering-for-agents.md": "帖文核心是 OpenAI 官方给模型的提示词建议，属于面向 Agent 的上下文/系统指令工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文中官方 Coding Style 明确提倡复用现有代码、避免重复造轮子，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "官方 Task Completion 要求任务未完成不停、不把能继续的事丢回用户，与智能体自动模式的自主性贴合。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 OpenAI 官方给模型的提示词建议，属于面向 Agent 的上下文/系统指令工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，GPT-6.2 Astra 及相关官方文档未在本知识库外独立核实。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:12:03.937Z",
+  "url": "https://x.com/servasyy_ai/status/2122930974661156906",
+  "slug": "51fc2a1f69fa88a8",
+  "content_hash": "7c12edfe594d4eb599eae38ed4a4b7f145a3ac4bed0ffd7f2522998aa8eea545",
+  "source": {
+    "path": "sources/articles/minimax-h3-fight-skill-updated-26-anime-characters-battle-royale.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是更新与开源“h3-fight”打戏 Skill，直接对应 Agent Skill 编写主题。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 生成打戏镜头、多段接戏方法与场景一致性，属于 AI 辅助视频剪辑/生成范畴。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "引用的前序帖文提到在本地 4090 48G 上制作，涉及消费级 GPU AI 算力使用。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "作者明确表示 h3-fight 已开源并将继续开源输出，与开源 AI 剪辑工具主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是更新与开源“h3-fight”打戏 Skill，直接对应 Agent Skill 编写主题。",
+    "topics/agentic-video-editing.md": "内容涉及 AI 生成打戏镜头、多段接戏方法与场景一致性，属于 AI 辅助视频剪辑/生成范畴。",
+    "topics/open-source-in-ai-assistant-editing.md": "作者明确表示 h3-fight 已开源并将继续开源输出，与开源 AI 剪辑工具主题相关。",
+    "topics/gpu-ai-compute-unlock.md": "引用的前序帖文提到在本地 4090 48G 上制作，涉及消费级 GPU AI 算力使用。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/minimax-h3-fight-skill-updated-26-anime-characters-battle-royale.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-video-editing.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/gpu-ai-compute-unlock.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是更新与开源“h3-fight”打戏 Skill，直接对应 Agent Skill 编写主题。",
+      "topics/agentic-video-editing.md": "内容涉及 AI 生成打戏镜头、多段接戏方法与场景一致性，属于 AI 辅助视频剪辑/生成范畴。",
+      "topics/open-source-in-ai-assistant-editing.md": "作者明确表示 h3-fight 已开源并将继续开源输出，与开源 AI 剪辑工具主题相关。",
+      "topics/gpu-ai-compute-unlock.md": "引用的前序帖文提到在本地 4090 48G 上制作，涉及消费级 GPU AI 算力使用。"
+    },
+    "notes": "Source.resource: https://x.com/servasyy_ai/status/2122930974661156906；所有主张均以“帖文称/文中提到”限定，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/minimax-h3-fight-skill-updated-26-anime-characters-battle-royale.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

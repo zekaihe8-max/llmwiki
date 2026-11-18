@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论未来选择模型不仅看代码能力，还要看能否用好 Agent 工具，与面向 Agent 的模型渠道取舍直接相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文中提到针对每个 Harness 进行底座模型适配，涉及 Agent Harness 的对比与评估语境。",
+    "topics/coding-agent-token-saving-tooling.md": "文中强调工具调用次数大幅减少，与编程 Agent 省 Token 工具与开销主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论未来选择模型不仅看代码能力，还要看能否用好 Agent 工具，与面向 Agent 的模型渠道取舍直接相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中提到针对每个 Harness 进行底座模型适配，涉及 Agent Harness 的对比与评估语境。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中强调工具调用次数大幅减少，与编程 Agent 省 Token 工具与开销主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "推文中嵌入了 clem 🤗 的相关推文，部分指标（如 Terminal-Bench）来源于该嵌入内容。"
+}

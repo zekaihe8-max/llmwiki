@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:59:17.443Z",
+  "url": "https://x.com/dotey/status/2122941621419339944",
+  "slug": "dba06112bd1f16c6",
+  "content_hash": "893de54578cee3140f9c2be188e72577ce765d9b3eb414a1546d285f0f1f40ad",
+  "source": {
+    "path": "sources/articles/tibo-explains-split-reception-early-test-build-and-recent-change.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/iphone-duo-user-vs-developer-reception.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实测与舆论炒作之间的张力，与未复测的快速改动导致认知偏差相关"
+    },
+    {
+      "path": "topics/iphone-duo-user-vs-developer-reception.md",
+      "action": "unchanged",
+      "reason": "讨论普通用户与开发者/内测者的接收差异，与网红与大众风评分裂最为接近"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "提醒在信任公开风评前审视版本与测试条件，与文中早期版本未复测的情境相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/iphone-duo-user-vs-developer-reception.md": "讨论普通用户与开发者/内测者的接收差异，与网红与大众风评分裂最为接近",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实测与舆论炒作之间的张力，与未复测的快速改动导致认知偏差相关",
+    "topics/public-benchmark-quality-scrutiny.md": "提醒在信任公开风评前审视版本与测试条件，与文中早期版本未复测的情境相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tibo-explains-split-reception-early-test-build-and-recent-change.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/iphone-duo-user-vs-developer-reception.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/iphone-duo-user-vs-developer-reception.md": "讨论普通用户与开发者/内测者的接收差异，与网红与大众风评分裂最为接近",
+      "topics/community-evals-vs-score-hype.md": "涉及社区实测与舆论炒作之间的张力，与未复测的快速改动导致认知偏差相关",
+      "topics/public-benchmark-quality-scrutiny.md": "提醒在信任公开风评前审视版本与测试条件，与文中早期版本未复测的情境相关"
+    },
+    "notes": "来源仅为 X 帖文，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tibo-explains-split-reception-early-test-build-and-recent-change.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

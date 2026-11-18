@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:52:24.983Z",
+  "url": "https://x.com/Khazix0918/status/2122858329248825669",
+  "slug": "e161dfa08aa57d7f",
+  "content_hash": "8d7580892fe03fd570f693bdeeeeb24dbea1a1bdfb161cf3705cbd8fe43719fb",
+  "source": {
+    "path": "sources/articles/deep-test-of-gpt-6-2-astra-openai-keeps-drifting-further-down-th.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "全文属于典型的 AI 模型实测与干活记录，作者记录了提示词、耗时、额度消耗与评测结果。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "作者结合 200 美元 Pro 订阅额度、单任务成本与缓存读取价格，讨论高端 AI 订阅的实际价值与经济性。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比了定位旗舰的 Astra 与定位日常主力的 Sol，涉及 Pro 与 Flash/主力模型策略的取舍。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用 Agents' Last Exam、Terminal-Bench-Science、AA 智能指数等公开榜单，并讨论了首日评分不足与 ELO 策略。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比了定位旗舰的 Astra 与定位日常主力的 Sol，涉及 Pro 与 Flash/主力模型策略的取舍。",
+    "topics/ai-eval-work-record-gateway.md": "全文属于典型的 AI 模型实测与干活记录，作者记录了提示词、耗时、额度消耗与评测结果。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用 Agents' Last Exam、Terminal-Bench-Science、AA 智能指数等公开榜单，并讨论了首日评分不足与 ELO 策略。",
+    "topics/premium-ai-subscription-value.md": "作者结合 200 美元 Pro 订阅额度、单任务成本与缓存读取价格，讨论高端 AI 订阅的实际价值与经济性。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deep-test-of-gpt-6-2-astra-openai-keeps-drifting-further-down-th.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文对比了定位旗舰的 Astra 与定位日常主力的 Sol，涉及 Pro 与 Flash/主力模型策略的取舍。",
+      "topics/ai-eval-work-record-gateway.md": "全文属于典型的 AI 模型实测与干活记录，作者记录了提示词、耗时、额度消耗与评测结果。",
+      "topics/public-benchmark-quality-scrutiny.md": "文中引用 Agents' Last Exam、Terminal-Bench-Science、AA 智能指数等公开榜单，并讨论了首日评分不足与 ELO 策略。",
+      "topics/premium-ai-subscription-value.md": "作者结合 200 美元 Pro 订阅额度、单任务成本与缓存读取价格，讨论高端 AI 订阅的实际价值与经济性。"
+    },
+    "notes": "所有主张均基于提供的帖文 markdown，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deep-test-of-gpt-6-2-astra-openai-keeps-drifting-further-down-th.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

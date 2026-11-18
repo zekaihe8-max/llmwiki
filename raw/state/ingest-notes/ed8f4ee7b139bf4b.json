@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/software-factory.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中主 Agent 充当包工头调度编程 Agent，与该主题高度相关。",
+    "topics/software-factory.md": "文中明确提到“软件工厂”现成模板可套用。",
+    "topics/multiagent-infra-four-problems.md": "多个 Bot 独享云端 VM 并群聊协作，涉及多智能体基建与协作模式。",
+    "topics/fold-subagents-into-main-loop.md": "主 Agent 作为包工头，子 Agent 折进主循环执行开发任务。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中主 Agent 充当包工头调度编程 Agent，与该主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中明确提到“软件工厂”现成模板可套用。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多个 Bot 独享云端 VM 并群聊协作，涉及多智能体基建与协作模式。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "主 Agent 作为包工头，子 Agent 折进主循环执行开发任务。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所抓取帖文，未引用外部事实。"
+}

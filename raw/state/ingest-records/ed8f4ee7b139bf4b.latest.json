@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:08:39.346Z",
+  "url": "https://x.com/Gorden_Sun/status/2122998518000579052",
+  "slug": "ed8f4ee7b139bf4b",
+  "content_hash": "02775c0b4171f03d4d2d9913813dba79af63f9ee48ca3418dbdc319984470b4f",
+  "source": {
+    "path": "sources/articles/devin-bots-cyber-outsourcing-company.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/software-factory.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "主 Agent 作为包工头，子 Agent 折进主循环执行开发任务。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多个 Bot 独享云端 VM 并群聊协作，涉及多智能体基建与协作模式。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中主 Agent 充当包工头调度编程 Agent，与该主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中明确提到“软件工厂”现成模板可套用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中主 Agent 充当包工头调度编程 Agent，与该主题高度相关。",
+    "topics/software-factory.md": "文中明确提到“软件工厂”现成模板可套用。",
+    "topics/multiagent-infra-four-problems.md": "多个 Bot 独享云端 VM 并群聊协作，涉及多智能体基建与协作模式。",
+    "topics/fold-subagents-into-main-loop.md": "主 Agent 作为包工头，子 Agent 折进主循环执行开发任务。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/devin-bots-cyber-outsourcing-company.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/software-factory.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/fold-subagents-into-main-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文中主 Agent 充当包工头调度编程 Agent，与该主题高度相关。",
+      "topics/software-factory.md": "文中明确提到“软件工厂”现成模板可套用。",
+      "topics/multiagent-infra-four-problems.md": "多个 Bot 独享云端 VM 并群聊协作，涉及多智能体基建与协作模式。",
+      "topics/fold-subagents-into-main-loop.md": "主 Agent 作为包工头，子 Agent 折进主循环执行开发任务。"
+    },
+    "notes": "所有主张均基于所抓取帖文，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/devin-bots-cyber-outsourcing-company.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

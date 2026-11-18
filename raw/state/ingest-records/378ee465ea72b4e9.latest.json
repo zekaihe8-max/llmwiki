@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:58:24.083Z",
+  "url": "https://x.com/oran_ge/status/2122991976509538575",
+  "slug": "378ee465ea72b4e9",
+  "content_hash": "f4706e3d3be8c97fab41bc358ef978c2faf47e3287061419a8824b8ede0c70f7",
+  "source": {
+    "path": "sources/articles/recommending-a-startup-podcast-few-people-have-heard-of.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文发布者为 AI 账号，且内容涉及初创公司与产品构建"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "涉及创始人放弃扩张、回归产品本质的心态转变，与主题相近"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "内容直接涉及播客推荐，与帖文主题最相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "内容直接涉及播客推荐，与帖文主题最相关",
+    "topics/hunger-beats-tenure.md": "涉及创始人放弃扩张、回归产品本质的心态转变，与主题相近",
+    "topics/ai-native-companies.md": "帖文发布者为 AI 账号，且内容涉及初创公司与产品构建"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/recommending-a-startup-podcast-few-people-have-heard-of.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/podcast-ai-fine-transcription-close-reads.md": "内容直接涉及播客推荐，与帖文主题最相关",
+      "topics/hunger-beats-tenure.md": "涉及创始人放弃扩张、回归产品本质的心态转变，与主题相近",
+      "topics/ai-native-companies.md": "帖文发布者为 AI 账号，且内容涉及初创公司与产品构建"
+    },
+    "notes": "仅基于 X 帖文内容，未核实播客具体名称或创始人身份",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/recommending-a-startup-podcast-few-people-have-heard-of.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

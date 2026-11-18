@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:11:22.239Z",
+  "url": "https://github.com/huangserva/h3-fight",
+  "slug": "226c0038b9ada278",
+  "content_hash": "e8a5c83b0bb74667fb8694d38dca4f23749931ea81c45b941312a8c35452bc98",
+  "source": {
+    "path": "sources/articles/h3-fight-minimax-h3-fight-scene-prompt-library-check-render.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详细说明如何将 h3-fight 装入 Claude Code 或 Codex 作为 Skill，直接对应 Agent Skill 编写主题。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章提供基于 AI 视频模型的打戏出片工作流与 ComfyUI 搭法，属于智能体/工作流视频编辑范畴。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中列出了显卡与内存要求，讨论了消费级 GPU 运行 MiniMax H3 的可行性与限制。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "库的核心是复用镜头块与词句零件拼写提示词，而非每次从零重写。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章详细说明如何将 h3-fight 装入 Claude Code 或 Codex 作为 Skill，直接对应 Agent Skill 编写主题。",
+    "topics/agentic-video-editing.md": "文章提供基于 AI 视频模型的打戏出片工作流与 ComfyUI 搭法，属于智能体/工作流视频编辑范畴。",
+    "topics/gpu-ai-compute-unlock.md": "文中列出了显卡与内存要求，讨论了消费级 GPU 运行 MiniMax H3 的可行性与限制。",
+    "topics/reuse-before-write.md": "库的核心是复用镜头块与词句零件拼写提示词，而非每次从零重写。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/h3-fight-minimax-h3-fight-scene-prompt-library-check-render.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agentic-video-editing.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章详细说明如何将 h3-fight 装入 Claude Code 或 Codex 作为 Skill，直接对应 Agent Skill 编写主题。",
+      "topics/agentic-video-editing.md": "文章提供基于 AI 视频模型的打戏出片工作流与 ComfyUI 搭法，属于智能体/工作流视频编辑范畴。",
+      "topics/gpu-ai-compute-unlock.md": "文中列出了显卡与内存要求，讨论了消费级 GPU 运行 MiniMax H3 的可行性与限制。",
+      "topics/reuse-before-write.md": "库的核心是复用镜头块与词句零件拼写提示词，而非每次从零重写。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/h3-fight-minimax-h3-fight-scene-prompt-library-check-render.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

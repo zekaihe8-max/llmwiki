@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:54:49.582Z",
+  "url": "https://x.com/op7418/status/2122916123012485367",
+  "slug": "481da75025494094",
+  "content_hash": "b6a72dedf042b08f4892024a99ad6dc44e63d733fc1125612a4b84b91437c0c5",
+  "source": {
+    "path": "sources/articles/influencers-criticize-astra-he-thinks-it-is-a-kol-communication.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 评测入口与记录，与帖文中提及的提前测试与 KOL 沟通相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及社区/大 V 对模型的实测与批评，与“社区实测对抗刷分碰瓷”主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及公开模型评价质量与可信度，与“信任公开榜前先审质量”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文涉及社区/大 V 对模型的实测与批评，与“社区实测对抗刷分碰瓷”主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及公开模型评价质量与可信度，与“信任公开榜前先审质量”相关。",
+    "topics/ai-eval-work-record-gateway.md": "涉及 AI 评测入口与记录，与帖文中提及的提前测试与 KOL 沟通相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/influencers-criticize-astra-he-thinks-it-is-a-kol-communication.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "帖文涉及社区/大 V 对模型的实测与批评，与“社区实测对抗刷分碰瓷”主题相近。",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及公开模型评价质量与可信度，与“信任公开榜前先审质量”相关。",
+      "topics/ai-eval-work-record-gateway.md": "涉及 AI 评测入口与记录，与帖文中提及的提前测试与 KOL 沟通相关。"
+    },
+    "notes": "所有主张均基于单条 X 帖文，未独立核实 GPT 6.2 Astra 是否存在或大 V 具体喷评内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/influencers-criticize-astra-he-thinks-it-is-a-kol-communication.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

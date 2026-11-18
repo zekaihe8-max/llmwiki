@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/workflows-before-agents.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是为 AI 编写可调用的 Blender 建模 Skill，与该主题直接相关。",
+    "topics/skills-stack-native-app-recreation.md": "28 个 Skill 被串联成完整建模流程，体现了 Skill 组合复刻复杂工作流。",
+    "topics/workflows-before-agents.md": "文章强调先把建模流程固化为技能序列，再由 AI 执行，符合工作流优先于智能体的思路。",
+    "topics/tasks-confidently-handed-to-ai.md": "帖文展示将建模、贴图、渲染等任务交给 AI 代理完成，属于可放心交给 AI 的任务范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是为 AI 编写可调用的 Blender 建模 Skill，与该主题直接相关。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "28 个 Skill 被串联成完整建模流程，体现了 Skill 组合复刻复杂工作流。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先把建模流程固化为技能序列，再由 AI 执行，符合工作流优先于智能体的思路。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文展示将建模、贴图、渲染等任务交给 AI 代理完成，属于可放心交给 AI 的任务范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实 GitHub 星数与功能细节，已在摘要中使用「帖文称」标注。"
+}

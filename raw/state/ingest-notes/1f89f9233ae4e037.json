@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "帖文核心是语音输入将口语转为英文文书，与该主题的口头转述与文书整理直接相关。",
+    "topics/claude-subscription-risk-control-weights.md": "帖文涉及Claude账号被封、申诉与退款，属于Claude订阅风控与账号安全范畴。",
+    "topics/account-and-asset-security-hygiene.md": "帖文讨论账号封禁申诉和资产退款，与账号与资产安全卫生相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是语音输入将口语转为英文文书，与该主题的口头转述与文书整理直接相关。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文涉及Claude账号被封、申诉与退款，属于Claude订阅风控与账号安全范畴。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文讨论账号封禁申诉和资产退款，与账号与资产安全卫生相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文内容，未引入外部事实。"
+}

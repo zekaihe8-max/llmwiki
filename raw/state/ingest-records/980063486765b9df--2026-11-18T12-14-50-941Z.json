@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T12:14:50.941Z",
+  "url": "https://x.com/dingyi/status/2122896602419618284",
+  "slug": "980063486765b9df",
+  "content_hash": "12396238930795db49f9bbdc30b7a13518e6793c6931aa0f64ac98b47cc1e0da",
+  "source": {
+    "path": "sources/articles/looking-at-devin-bots-product-team-lineup-he-says-many-things-ar.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文强调 AI 无法取代的人类设计判断，与“发散任务先人审设计”主题相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及产品设计师团队与 UX/DX 协作，与用户体验与开发者体验主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "设计师与代码/工具协作的语境，与设计↔代码主题相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Devin/Cognition 属于 AI 原生公司，与 AI 原生公司主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/divergent-tasks-human-design-gate.md": "帖文强调 AI 无法取代的人类设计判断，与“发散任务先人审设计”主题相关。",
+    "topics/ux-dx-and-ax.md": "涉及产品设计师团队与 UX/DX 协作，与用户体验与开发者体验主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "设计师与代码/工具协作的语境，与设计↔代码主题相关。",
+    "topics/ai-native-companies.md": "Devin/Cognition 属于 AI 原生公司，与 AI 原生公司主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/looking-at-devin-bots-product-team-lineup-he-says-many-things-ar.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/divergent-tasks-human-design-gate.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/divergent-tasks-human-design-gate.md": "帖文强调 AI 无法取代的人类设计判断，与“发散任务先人审设计”主题相关。",
+      "topics/ux-dx-and-ax.md": "涉及产品设计师团队与 UX/DX 协作，与用户体验与开发者体验主题相关。",
+      "topics/design-to-code-byo-subscriptions.md": "设计师与代码/工具协作的语境，与设计↔代码主题相关。",
+      "topics/ai-native-companies.md": "Devin/Cognition 属于 AI 原生公司，与 AI 原生公司主题相关。"
+    },
+    "notes": "来源仅为 X 帖文文本，未核实团队成员隶属关系及“AI 无法取代”的具体范围。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/looking-at-devin-bots-product-team-lineup-he-says-many-things-ar.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

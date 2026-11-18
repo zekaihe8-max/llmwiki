@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T11:53:03.537Z",
+  "url": "https://x.com/Khazix0918/status/2122811072025694318",
+  "slug": "1dc73b6c5549442c",
+  "content_hash": "346276a7836c5fcb648c7c15ee6a5f5c50509929e3b6d4a6f7d755f7bb183c4a",
+  "source": {
+    "path": "sources/articles/poor-plan-readability-but-clear-progress-in-code-review.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/code-over-spec.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文涉及个人评测集与模型干活记录，与该主题高度相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "标题提示对比方案规划（规格）可读性与代码审查，直接命中该主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文提及模型价格、耗时与 Token/成本取舍，与编程 Agent 开销相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "用户自建评测集并对比模型发现率，属于实测与评价讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文涉及个人评测集与模型干活记录，与该主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "用户自建评测集并对比模型发现率，属于实测与评价讨论。",
+    "topics/code-over-spec.md": "标题提示对比方案规划（规格）可读性与代码审查，直接命中该主题。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文提及模型价格、耗时与 Token/成本取舍，与编程 Agent 开销相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/poor-plan-readability-but-clear-progress-in-code-review.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/code-over-spec.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文涉及个人评测集与模型干活记录，与该主题高度相关。",
+      "topics/community-evals-vs-score-hype.md": "用户自建评测集并对比模型发现率，属于实测与评价讨论。",
+      "topics/code-over-spec.md": "标题提示对比方案规划（规格）可读性与代码审查，直接命中该主题。",
+      "topics/coding-agent-token-saving-tooling.md": "帖文提及模型价格、耗时与 Token/成本取舍，与编程 Agent 开销相关。"
+    },
+    "notes": "所有主张均基于推文内容，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/poor-plan-readability-but-clear-progress-in-code-review.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
