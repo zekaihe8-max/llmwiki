@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "与联网搜索重做最相关，涉及搜索体验升级。",
+    "topics/geo-personal-website-first-step.md": "涉及生成式搜索优化与搜索可见性，与 Search 模型升级相邻。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型策略与升级，与 Gemini 模型发布相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "与联网搜索重做最相关，涉及搜索体验升级。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及生成式搜索优化与搜索可见性，与 Search 模型升级相邻。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型策略与升级，与 Gemini 模型发布相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自所抓取的 X 帖文，未引入外部信息。"
+}

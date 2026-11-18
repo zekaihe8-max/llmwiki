@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:20:45.778Z",
+  "url": "https://x.com/ArtificialAnlys/status/2122750634210529569",
+  "slug": "df08b908c867800c",
+  "content_hash": "5d58fd2f2aa848445a7387a43ad925b702f56a9210ed413d2a8b936f5abfbdd1",
+  "source": {
+    "path": "sources/articles/aa-digest-gpt-6-2-takes-intelligence-index-runner-up-and-cost-fr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文围绕模型评测入口与各项基准成绩展开，与该主题的评测记录与入口讨论相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型排名与分数变化，与社区实测对抗刷分碰瓷的讨论相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "内容引用公开榜单与基准分数，需在信任前审视质量，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文围绕模型评测入口与各项基准成绩展开，与该主题的评测记录与入口讨论相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "内容引用公开榜单与基准分数，需在信任前审视质量，与该主题相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文涉及模型排名与分数变化，与社区实测对抗刷分碰瓷的讨论相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/aa-digest-gpt-6-2-takes-intelligence-index-runner-up-and-cost-fr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文围绕模型评测入口与各项基准成绩展开，与该主题的评测记录与入口讨论相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "内容引用公开榜单与基准分数，需在信任前审视质量，与该主题相关。",
+      "topics/community-evals-vs-score-hype.md": "帖文涉及模型排名与分数变化，与社区实测对抗刷分碰瓷的讨论相关。"
+    },
+    "notes": "所有事实均源于所抓取的 X 帖文，未引入外部信息；未核实主张已用「帖文称」表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/aa-digest-gpt-6-2-takes-intelligence-index-runner-up-and-cost-fr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

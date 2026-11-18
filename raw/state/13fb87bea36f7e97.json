@@ -1,0 +1,23 @@
+{
+  "slug": "13fb87bea36f7e97",
+  "url": "https://x.com/AMD/status/2122695307238498687",
+  "title": "AMD",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "13fb87bea36f7e97f32dd7720a6d41bfa9c6a37e0f6be843f5dce5c518adc4ff",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:19:01.442Z",
+  "content_hash": "2ad6c37efd8f0a74a0a5481fc3e3d2412f68454a90be484eb9e6a96392d093b7",
+  "article_path": "articles/13fb87bea36f7e97.md",
+  "fetched_url": "https://x.com/AMD/status/2122695307238498687",
+  "source_path": "sources/articles/amd-completes-acquisition-of-talaas-inc.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:27:44.145Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

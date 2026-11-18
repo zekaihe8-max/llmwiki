@@ -1,0 +1,34 @@
+{
+  "slug": "3047d7657748ea76",
+  "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "title": "说明",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "failed",
+  "hash": "3047d7657748ea760feb4367a861eff886526fc9a8d7d29ee939532b2c42b6aa",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-18T00:18:58.031Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-18T00:39:48.483Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-18T00:39:48.483Z"
+}

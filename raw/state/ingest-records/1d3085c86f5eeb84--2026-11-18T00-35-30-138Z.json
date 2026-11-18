@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:35:30.138Z",
+  "url": "https://code.claude.com/docs/en/code-mode",
+  "slug": "1d3085c86f5eeb84",
+  "content_hash": "b64faa7c5bc72350b6924bce3321881a0ee34f8aec83df5f173a529463c695cd",
+  "source": {
+    "path": "sources/articles/claude-code-code-mode.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到 Auto 模式分类器审查代码，与该主题相关"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品，与本文功能介绍最贴近"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "代码模式属于编程 Agent 体验范畴"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中明确列出计算机使用为不可用功能"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与本文功能介绍最贴近",
+    "topics/agent-auto-mode.md": "文中提到 Auto 模式分类器审查代码，与该主题相关",
+    "topics/coding-agent-ux-vs-quota.md": "代码模式属于编程 Agent 体验范畴",
+    "topics/computer-use.md": "文中明确列出计算机使用为不可用功能"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-code-mode.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/agent-auto-mode.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与本文功能介绍最贴近",
+      "topics/agent-auto-mode.md": "文中提到 Auto 模式分类器审查代码，与该主题相关",
+      "topics/coding-agent-ux-vs-quota.md": "代码模式属于编程 Agent 体验范畴",
+      "topics/computer-use.md": "文中明确列出计算机使用为不可用功能"
+    },
+    "notes": "内容仅基于提供的文章片段，未访问实际 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-code-mode.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:39:39.056Z",
+  "url": "https://x.com/mattpocockuk/status/2122618527840354327",
+  "slug": "c43f736626f1691f",
+  "content_hash": "3753d89ea232dc31280d751a4319faceafffbd4233be2b47e5f0d517f3a7e976",
+  "source": {
+    "path": "sources/articles/prompt-for-assessing-xstate-v6-beta.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "内容本身是一条可交给智能体执行的技能式提示词，与 Agent Skill 编写相关"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文围绕对技术进行结构化评测与记录，与 AI 评测入口主题相近"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "提示词要求多维度打分并给出推荐，涉及评测质量与避免表面分数"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文围绕对技术进行结构化评测与记录，与 AI 评测入口主题相近",
+    "topics/community-evals-vs-score-hype.md": "提示词要求多维度打分并给出推荐，涉及评测质量与避免表面分数",
+    "topics/agent-skill-authoring.md": "内容本身是一条可交给智能体执行的技能式提示词，与 Agent Skill 编写相关"
+  },
+  "files_changed": [
+    "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+    "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+    "sources/articles/prompt-for-assessing-xstate-v6-beta.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文围绕对技术进行结构化评测与记录，与 AI 评测入口主题相近",
+      "topics/community-evals-vs-score-hype.md": "提示词要求多维度打分并给出推荐，涉及评测质量与避免表面分数",
+      "topics/agent-skill-authoring.md": "内容本身是一条可交给智能体执行的技能式提示词，与 Agent Skill 编写相关"
+    },
+    "notes": "所有事实仅来自所提供的 X 帖文 Markdown，未引用外部链接或 XState 官方资料。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+        "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+        "sources/articles/prompt-for-assessing-xstate-v6-beta.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/computer-use.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "沙箱隔离与受控执行环境属于容器/隔离范畴，与前沿训练环境隔离主题相近。",
+    "topics/computer-use.md": "文章聚焦智能体在计算机上执行命令与文件操作，属于 Computer Use 范畴。",
+    "topics/agent-compute-and-governance.md": "外部沙箱涉及智能体基础设施与治理，与智能体算力与治理相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中强调环境隔离、仅挂载允许文件夹，与个人 Agent 云环境的隔离主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "沙箱隔离与受控执行环境属于容器/隔离范畴，与前沿训练环境隔离主题相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章聚焦智能体在计算机上执行命令与文件操作，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "外部沙箱涉及智能体基础设施与治理，与智能体算力与治理相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中强调环境隔离、仅挂载允许文件夹，与个人 Agent 云环境的隔离主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

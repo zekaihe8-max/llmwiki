@@ -1,0 +1,23 @@
+{
+  "slug": "104b439891d1b238",
+  "url": "https://x.com/emollick/status/2122664990624641421",
+  "title": "Mollick",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "104b439891d1b238b17e3387bc229bc20500fe880f950d905dffc788d55e76e1",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:19:05.423Z",
+  "content_hash": "f6ec85bd81f568a6859da1c7fdc1faaaa66eb565a7a6dcfccbd95493f9aba999",
+  "article_path": "articles/104b439891d1b238.md",
+  "fetched_url": "https://x.com/emollick/status/2122664990624641421",
+  "source_path": "sources/articles/ethan-mollick-one-agent-often-beats-enterprise-specialized-subag.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:32:56.468Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

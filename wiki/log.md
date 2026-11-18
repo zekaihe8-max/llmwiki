@@ -1,3 +1,91 @@
+## 2026-11-18
+
+* **创建 / Creation**: 归档 [张立行 · Agent 把 CI 跑爆之后怎么省](./sources/articles/zhang-lixing-how-to-save-ci-costs-after-agents-run-it-explosivel.md)。 / Filed [Zhang Lixing · How to Save CI Costs After Agents Run It Explosively](./sources/articles/zhang-lixing-how-to-save-ci-costs-after-agents-run-it-explosivel.md).
+
+* **创建 / Creation**: 归档 [收窄工具](./sources/articles/constraining-tools.md)。 / Filed [Constraining Tools](./sources/articles/constraining-tools.md).
+
+* **创建 / Creation**: 归档 [评估 XState v6 Beta 的提示词](./sources/articles/prompt-for-assessing-xstate-v6-beta.md)。 / Filed [Prompt for assessing XState v6 beta](./sources/articles/prompt-for-assessing-xstate-v6-beta.md).
+
+* **创建 / Creation**: 归档 [小墨：Cloudflare 为 Pi Agent 提供独立云端沙箱，需 Workers Paid](./sources/articles/xiao-mo-cloudflare-provides-standalone-cloud-sandbox-for-pi-agen.md)。 / Filed [Xiao Mo: Cloudflare provides standalone cloud sandbox for Pi Agent, requires Workers Paid](./sources/articles/xiao-mo-cloudflare-provides-standalone-cloud-sandbox-for-pi-agen.md).
+
+* **创建 / Creation**: 归档 [外部沙箱为编程智能体提供安全执行环境](./sources/articles/external-sandboxes-for-coding-agents.md)。 / Filed [External sandboxes for coding agents](./sources/articles/external-sandboxes-for-coding-agents.md).
+
+* **创建 / Creation**: 归档 [西蒙·威利森介绍编程 Agent 的外部沙箱模式](./sources/articles/simon-willison-introduces-external-sandbox-pattern-for-coding-ag.md)。 / Filed [Simon Willison Introduces External Sandbox Pattern for Coding Agents](./sources/articles/simon-willison-introduces-external-sandbox-pattern-for-coding-ag.md).
+
+* **创建 / Creation**: 归档 [介绍 Replit Missions：以智能体 swarm 承接复杂企业任务](./sources/articles/introducing-replit-missions-agent-swarms-for-complex-enterprise.md)。 / Filed [Introducing Replit Missions: Agent Swarms for Complex Enterprise Work](./sources/articles/introducing-replit-missions-agent-swarms-for-complex-enterprise.md).
+
+* **创建 / Creation**: 归档 [Replit 发布 Missions 智能体群 harness](./sources/articles/replit-introduces-missions-agentic-swarm-harness.md)。 / Filed [Replit Introduces Missions Agentic Swarm Harness](./sources/articles/replit-introduces-missions-agentic-swarm-harness.md).
+
+* **创建 / Creation**: 归档 [Claude 平台关联账单公测，支持通过组织付费且无需共享 API 密钥](./sources/articles/claude-platform-linked-billing-enters-beta-pay-via-organization.md)。 / Filed [Claude Platform linked billing enters beta, pay via organization without API key](./sources/articles/claude-platform-linked-billing-enters-beta-pay-via-organization.md).
+
+* **创建 / Creation**: 归档 [Claude Code 代码模式（Code Mode）](./sources/articles/claude-code-code-mode.md)。 / Filed [Claude Code Code Mode](./sources/articles/claude-code-code-mode.md).
+
+* **创建 / Creation**: 归档 [Claude Code 实验性 Code Mode 让 Claude 通过脚本串联工具](./sources/articles/claude-code-experimental-code-mode-lets-claude-chain-tools-via-s.md)。 / Filed [Claude Code experimental Code Mode lets Claude chain tools via scripts](./sources/articles/claude-code-experimental-code-mode-lets-claude-chain-tools-via-s.md).
+
+* **创建 / Creation**: 归档 [Altman：GPT-6.2 Sol 与 Astra 更省 token](./sources/articles/altman-gpt-6-2-sol-and-astra-are-more-token-efficient.md)。 / Filed [Altman: GPT-6.2 Sol and Astra are more token-efficient](./sources/articles/altman-gpt-6-2-sol-and-astra-are-more-token-efficient.md).
+
+* **创建 / Creation**: 归档 [美国企业AI支出创新高，头部1%人均投入是典型企业625倍](./sources/articles/us-corporate-ai-spending-hits-record-top-1-spends-625x-more-per.md)。 / Filed [US Corporate AI Spending Hits Record, Top 1% Spends 625x More Per Employee Than Typical Firm](./sources/articles/us-corporate-ai-spending-hits-record-top-1-spends-625x-more-per.md).
+
+* **创建 / Creation**: 归档 [Levie：AI Token 每员工支出无上限，智能体将渗透更多知识工作](./sources/articles/levie-ai-token-spend-per-employee-has-no-ceiling-as-agents-sprea.md)。 / Filed [Levie: AI Token Spend per Employee Has No Ceiling as Agents Spread Across Knowledge Work](./sources/articles/levie-ai-token-spend-per-employee-has-no-ceiling-as-agents-sprea.md).
+
+* **创建 / Creation**: 归档 [把子 Agent 折进主循环：主循环优先于多子 Agent 架构](./sources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop.md)。 / Filed [Building agents: When to fold subagents into your main agent loop](./sources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop.md).
+
+* **创建 / Creation**: 归档 [埃森·莫利克：单一智能体常胜过企业专用子 Agent 碎片化](./sources/articles/ethan-mollick-one-agent-often-beats-enterprise-specialized-subag.md)。 / Filed [Ethan Mollick: One Agent Often Beats Enterprise Specialized Subagent Sprawl](./sources/articles/ethan-mollick-one-agent-often-beats-enterprise-specialized-subag.md).
+
+* **创建 / Creation**: 归档 [Lambert · Qwen4-Max 仍是老策略](./sources/articles/lambert-qwen4-max-still-the-same-old-strategy.md)。 / Filed [Lambert · Qwen4-Max Still the Same Old Strategy](./sources/articles/lambert-qwen4-max-still-the-same-old-strategy.md).
+
+* **创建 / Creation**: 归档 [Noam Brown · 更看好科学发现](./sources/articles/noam-brown-more-bullish-on-scientific-discovery.md)。 / Filed [Noam Brown · More Bullish on Scientific Discovery](./sources/articles/noam-brown-more-bullish-on-scientific-discovery.md).
+
+* **创建 / Creation**: 归档 [手感基准：GPT-6.2 Astra 与难以量化的模型品质](./sources/articles/vibe-benchmarks-gpt-6-2-astra-and-hard-to-quantify-model-qualiti.md)。 / Filed [Vibe Benchmarks: GPT-6.2 Astra and Hard-to-Quantify Model Qualities](./sources/articles/vibe-benchmarks-gpt-6-2-astra-and-hard-to-quantify-model-qualiti.md).
+
+* **创建 / Creation**: 归档 [外推：别因单次模型发布就过度判断 AI 走势](./sources/articles/extrapolation-don-t-over-judge-ai-trends-from-single-model-relea.md)。 / Filed [Extrapolation: Don't over-judge AI trends from single model releases](./sources/articles/extrapolation-don-t-over-judge-ai-trends-from-single-model-relea.md).
+
+* **创建 / Creation**: 归档 [Astra 6.2 自主制作游戏：建模出色，却擅自添加离谱设定](./sources/articles/astra-6-2-builds-a-game-autonomously-strong-3d-modeling-question.md)。 / Filed [Astra 6.2 builds a game autonomously: strong 3D modeling, questionable self-added features](./sources/articles/astra-6-2-builds-a-game-autonomously-strong-3d-modeling-question.md).
+
+* **创建 / Creation**: 归档 [GPT-6.2 Astra 早期评测：难以引导却能完成宏大项目](./sources/articles/early-gpt-6-2-astra-evaluation-hard-to-steer-but-capable-of-ambi.md)。 / Filed [Early GPT-6.2 Astra Evaluation: Hard to Steer but Capable of Ambitious Projects](./sources/articles/early-gpt-6-2-astra-evaluation-hard-to-steer-but-capable-of-ambi.md).
+
+* **创建 / Creation**: 归档 [家族规模：训练数据指纹与蛋白质语言模型表现](./sources/articles/family-size-training-data-fingerprint-and-protein-language-model.md)。 / Filed [Family Size: Training Data Fingerprint and Protein Language Model Performance](./sources/articles/family-size-training-data-fingerprint-and-protein-language-model.md).
+
+* **创建 / Creation**: 归档 [Claude Fable 5.2 对比开源蛋白质语言模型](./sources/articles/claude-fable-5-2-compared-with-open-protein-language-models.md)。 / Filed [Claude Fable 5.2 compared with open protein language models](./sources/articles/claude-fable-5-2-compared-with-open-protein-language-models.md).
+
+* **创建 / Creation**: 归档 [Claude 在冷门蛋白上明显更准](./sources/articles/claude-is-notably-more-accurate-on-obscure-proteins.md)。 / Filed [Claude is notably more accurate on obscure proteins](./sources/articles/claude-is-notably-more-accurate-on-obscure-proteins.md).
+
+* **创建 / Creation**: 归档 [苏姿丰：欢迎 Taalas 团队加入 AMD 家族](./sources/articles/lisa-su-welcome-taalas-team-to-amd-family.md)。 / Filed [Lisa Su: Welcome Taalas Team to AMD Family](./sources/articles/lisa-su-welcome-taalas-team-to-amd-family.md).
+
+* **创建 / Creation**: 归档 [AMD 完成收购 Talaas Inc](./sources/articles/amd-completes-acquisition-of-talaas-inc.md)。 / Filed [AMD Completes Acquisition of Talaas Inc](./sources/articles/amd-completes-acquisition-of-talaas-inc.md).
+
+* **创建 / Creation**: 归档 [黄仁勋发长文谈回归](./sources/articles/jensen-huang-posts-long-statement-on-possible-return-as-nvidia-c.md)。 / Filed [Jensen Huang Posts Long Statement on Possible Return as NVIDIA CEO](./sources/articles/jensen-huang-posts-long-statement-on-possible-return-as-nvidia-c.md).
+
+* **创建 / Creation**: 归档 [异构实验室宣布 C 轮融资](./sources/articles/isomorphic-labs-announces-series-c-investment-round.md)。 / Filed [Isomorphic Labs announces Series C investment round](./sources/articles/isomorphic-labs-announces-series-c-investment-round.md).
+
+* **创建 / Creation**: 归档 [Demis Hassabis 宣布 Isomorphic Labs 获 50 亿美元融资](./sources/articles/demis-hassabis-announces-5b-funding-for-isomorphic-labs.md)。 / Filed [Demis Hassabis Announces $5B Funding for Isomorphic Labs](./sources/articles/demis-hassabis-announces-5b-funding-for-isomorphic-labs.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Hydrogen 与 Antigravity 插件加速机器人任务教学](./sources/articles/gemini-4-hydrogen-and-antigravity-plugin-accelerate-robot-task-t.md)。 / Filed [Gemini 4 Hydrogen and Antigravity plugin accelerate robot task teaching](./sources/articles/gemini-4-hydrogen-and-antigravity-plugin-accelerate-robot-task-t.md).
+
+* **创建 / Creation**: 归档 [Google AI Studio 发布自定义域名与 Android 应用构建更新](./sources/articles/google-ai-studio-releases-custom-domain-and-android-app-build-up.md)。 / Filed [Google AI Studio releases custom domain and Android app build updates](./sources/articles/google-ai-studio-releases-custom-domain-and-android-app-build-up.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Hydrogen 在 Google Search 全球上线](./sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md)。 / Filed [Gemini 4 Hydrogen goes live in Google Search globally](./sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 宣布 Gemini Tasks 免费面向六国数亿用户扩展](./sources/articles/sundar-pichai-announces-gemini-tasks-expansion-free-to-hundreds.md)。 / Filed [Sundar Pichai Announces Gemini Tasks Expansion Free to Hundreds of Millions in Six Countries](./sources/articles/sundar-pichai-announces-gemini-tasks-expansion-free-to-hundreds.md).
+
+* **创建 / Creation**: 归档 [Google 免费向六国数亿用户扩展 Gemini Tasks](./sources/articles/google-expands-gemini-tasks-free-to-hundreds-of-millions-in-six.md)。 / Filed [Google Expands Gemini Tasks Free to Hundreds of Millions in Six Countries](./sources/articles/google-expands-gemini-tasks-free-to-hundreds-of-millions-in-six.md).
+
+* **创建 / Creation**: 归档 [ChatGPT for Sales 销售体验与插件生态](./sources/articles/chatgpt-for-sales-experience-and-plugin-ecosystem.md)。 / Filed [ChatGPT for Sales Experience and Plugin Ecosystem](./sources/articles/chatgpt-for-sales-experience-and-plugin-ecosystem.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布 Daybreak，拟用 AI 加强北约及盟友网络防御](./sources/articles/openai-launches-daybreak-to-strengthen-nato-and-allied-cyber-def.md)。 / Filed [OpenAI Launches Daybreak to Strengthen NATO and Allied Cyber Defenses with AI](./sources/articles/openai-launches-daybreak-to-strengthen-nato-and-allied-cyber-def.md).
+
+* **创建 / Creation**: 归档 [GPT-6 Cyber 协助发现 Java 重大安全漏洞](./sources/articles/gpt-6-cyber-helps-find-major-java-security-bug.md)。 / Filed [GPT-6 Cyber Helps Find Major Java Security Bug](./sources/articles/gpt-6-cyber-helps-find-major-java-security-bug.md).
+
+* **创建 / Creation**: 归档 [AA-Robotics v0.1：GPT-6.2 Astra 暂居榜首](./sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md)。 / Filed [AA-Robotics v0.1: GPT-6.2 Astra Tops the Leaderboard](./sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md).
+
+* **创建 / Creation**: 归档 [GPT-6.2 Astra 在 AA-3D 交互式 3D 基准测试中排名第一](./sources/articles/gpt-6-2-astra-ranks-1-on-aa-3d-interactive-3d-benchmark.md)。 / Filed [GPT-6.2 Astra ranks #1 on AA-3D interactive 3D benchmark](./sources/articles/gpt-6-2-astra-ranks-1-on-aa-3d-interactive-3d-benchmark.md).
+
+* **创建 / Creation**: 归档 [AA 总评：GPT-6.2 夺情报指数亚军并占据成本前沿，编程评分持平或下滑](./sources/articles/aa-digest-gpt-6-2-takes-intelligence-index-runner-up-and-cost-fr.md)。 / Filed [AA Digest: GPT-6.2 Takes Intelligence Index Runner-Up and Cost Frontier, Coding Score Flat or Down](./sources/articles/aa-digest-gpt-6-2-takes-intelligence-index-runner-up-and-cost-fr.md).
+
+* **创建 / Creation**: 归档 [OpenAI 开发者宣布 GPT-6.2 Astra 与 GPT-6.2 Sol 登陆 Codex 和 API](./sources/articles/openai-developers-announce-gpt-6-2-astra-and-gpt-6-2-sol-for-cod.md)。 / Filed [OpenAI Developers Announce GPT-6.2 Astra and GPT-6.2 Sol for Codex and API](./sources/articles/openai-developers-announce-gpt-6-2-astra-and-gpt-6-2-sol-for-cod.md).
+
+* **创建 / Creation**: 归档 [OpenAI 宣布 GPT-6.2 Astra 与 Sol 现已可用](./sources/articles/openai-announces-gpt-6-2-astra-and-sol-now-available.md)。 / Filed [OpenAI Announces GPT-6.2 Astra and Sol Now Available](./sources/articles/openai-announces-gpt-6-2-astra-and-sol-now-available.md).
+
 ## 2026-11-17
 
 * **创建 / Creation**: 归档 [时隔3年，我重新入职淘宝当了一天设计师，也看见了这个行业最真实的进化。](./sources/articles/after-3-years-i-returned-to-taobao-as-a-designer-for-one-day-and.md)。 / Filed [After 3 Years, I Returned to Taobao as a Designer for One Day and Saw the Industry's Real Evolution](./sources/articles/after-3-years-i-returned-to-taobao-as-a-designer-for-one-day-and.md).

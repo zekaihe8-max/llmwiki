@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:38:49.400Z",
+  "url": "https://x.com/mattpocockuk/status/2122659341685694586",
+  "slug": "8bc73cda387cda86",
+  "content_hash": "d2b8db815f4a5f007f83436356d98174a771e12cb95ad2a0c3030ac98373ab6c",
+  "source": {
+    "path": "sources/articles/constraining-tools.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/one-question-at-a-time.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及智能体自动化模式，与受限工具对智能体行为的影响相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "关注面向智能体的上下文工程，与通过工具约束塑造智能体上下文相关。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "主张一次只问一个问题，属于对智能体交互施加约束的做法，与收窄工具理念一致。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "主张工作流优先于智能体，与通过严格约束缩小智能体选择空间的思路相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "主张工作流优先于智能体，与通过严格约束缩小智能体选择空间的思路相近。",
+    "topics/agent-auto-mode.md": "涉及智能体自动化模式，与受限工具对智能体行为的影响相关。",
+    "topics/context-engineering-for-agents.md": "关注面向智能体的上下文工程，与通过工具约束塑造智能体上下文相关。",
+    "topics/one-question-at-a-time.md": "主张一次只问一个问题，属于对智能体交互施加约束的做法，与收窄工具理念一致。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/constraining-tools.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/agent-auto-mode.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/one-question-at-a-time.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "主张工作流优先于智能体，与通过严格约束缩小智能体选择空间的思路相近。",
+      "topics/agent-auto-mode.md": "涉及智能体自动化模式，与受限工具对智能体行为的影响相关。",
+      "topics/context-engineering-for-agents.md": "关注面向智能体的上下文工程，与通过工具约束塑造智能体上下文相关。",
+      "topics/one-question-at-a-time.md": "主张一次只问一个问题，属于对智能体交互施加约束的做法，与收窄工具理念一致。"
+    },
+    "notes": "未创建新话题，全部现有话题保持不变。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/constraining-tools.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

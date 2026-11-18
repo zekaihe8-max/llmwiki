@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:19:40.466Z",
+  "url": "https://x.com/OpenAI/status/2122750124543926515",
+  "slug": "5f5fc0fb8c4770f1",
+  "content_hash": "35863c83fd997f438a9d0398d7d525b3bf2caa5b0ceb1e7db251ab260d81553a",
+  "source": {
+    "path": "sources/articles/openai-announces-gpt-6-2-astra-and-sol-now-available.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/frontier-training-containment.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 作为 AI 原生公司，其产品公告与该话题相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型训练与发布边界，与新模型公告相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型发布，与 GPT-6.2 等新模型主题接近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型系列与定位策略，与新模型发布相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型系列与定位策略，与新模型发布相关。",
+    "topics/open-weight-frontier-models.md": "涉及前沿模型发布，与 GPT-6.2 等新模型主题接近。",
+    "topics/frontier-training-containment.md": "涉及前沿模型训练与发布边界，与新模型公告相关。",
+    "topics/ai-native-companies.md": "OpenAI 作为 AI 原生公司，其产品公告与该话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-announces-gpt-6-2-astra-and-sol-now-available.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/frontier-training-containment.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及模型系列与定位策略，与新模型发布相关。",
+      "topics/open-weight-frontier-models.md": "涉及前沿模型发布，与 GPT-6.2 等新模型主题接近。",
+      "topics/frontier-training-containment.md": "涉及前沿模型训练与发布边界，与新模型公告相关。",
+      "topics/ai-native-companies.md": "OpenAI 作为 AI 原生公司，其产品公告与该话题相关。"
+    },
+    "notes": "未核实的主张已使用「帖文称」或「OpenAI 称」限定；互动数字按页面显示顺序列出，未逐一标注类型。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-announces-gpt-6-2-astra-and-sol-now-available.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

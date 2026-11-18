@@ -1,0 +1,23 @@
+{
+  "slug": "f822af8ae648479f",
+  "url": "https://replit.com/blog/introducing-replit-missions",
+  "title": "介绍",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "f822af8ae648479f40bc30567143234763a7a26dbcb6ddbd1f081fd39a985552",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:19:09.325Z",
+  "content_hash": "17d08f90e0d82f14d2d4b2609d8ee83d68b1748507b5490efb59270d03943954",
+  "article_path": "articles/f822af8ae648479f.md",
+  "fetched_url": "https://replit.com/blog/introducing-replit-missions",
+  "source_path": "sources/articles/introducing-replit-missions-agent-swarms-for-complex-enterprise.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:36:51.427Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

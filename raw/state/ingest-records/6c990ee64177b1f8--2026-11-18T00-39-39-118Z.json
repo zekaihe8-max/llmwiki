@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:39:39.118Z",
+  "url": "https://x.com/Google/status/2122820914777845813",
+  "slug": "6c990ee64177b1f8",
+  "content_hash": "4db22d703fc8b3d5a937dd0b9530b9d371d506afa01094d214de4b953bba134a",
+  "source": {
+    "path": "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "与联网搜索重做最相关，涉及搜索体验升级。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及生成式搜索优化与搜索可见性，与 Search 模型升级相邻。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型策略与升级，与 Gemini 模型发布相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "与联网搜索重做最相关，涉及搜索体验升级。",
+    "topics/geo-personal-website-first-step.md": "涉及生成式搜索优化与搜索可见性，与 Search 模型升级相邻。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型策略与升级，与 Gemini 模型发布相关。"
+  },
+  "files_changed": [
+    "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+    "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+    "sources/articles/prompt-for-assessing-xstate-v6-beta.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/geo-personal-website-first-step.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "与联网搜索重做最相关，涉及搜索体验升级。",
+      "topics/geo-personal-website-first-step.md": "涉及生成式搜索优化与搜索可见性，与 Search 模型升级相邻。",
+      "topics/pro-vs-flash-model-strategy.md": "涉及模型策略与升级，与 Gemini 模型发布相关。"
+    },
+    "notes": "所有事实仅来自所抓取的 X 帖文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+        "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+        "sources/articles/prompt-for-assessing-xstate-v6-beta.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

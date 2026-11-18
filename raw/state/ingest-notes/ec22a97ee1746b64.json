@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/interactive-world-models.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章涉及模型评测与排名，该主题最贴近 AI 评测入口与记录，但内容无需变更。",
+    "topics/public-benchmark-quality-scrutiny.md": "AA-3D 为公开榜单，质量审视主题相关，但现有条目已足够，保持不变。",
+    "topics/interactive-world-models.md": "基准测试聚焦交互式 3D 体验，与交互世界模型主题相邻，但本文仅报道榜单结果，不改动原条目。",
+    "topics/community-evals-vs-score-hype.md": "人类偏好投票属于社区实测类证据，与该主题相关，但无需新增或修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章涉及模型评测与排名，该主题最贴近 AI 评测入口与记录，但内容无需变更。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "AA-3D 为公开榜单，质量审视主题相关，但现有条目已足够，保持不变。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "基准测试聚焦交互式 3D 体验，与交互世界模型主题相邻，但本文仅报道榜单结果，不改动原条目。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "人类偏好投票属于社区实测类证据，与该主题相关，但无需新增或修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未独立核实；帖文时间显示为 2026 年 11 月。"
+}

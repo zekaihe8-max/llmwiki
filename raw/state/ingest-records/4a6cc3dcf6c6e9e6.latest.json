@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:36:26.784Z",
+  "url": "https://x.com/amasad/status/2122754439886905593",
+  "slug": "4a6cc3dcf6c6e9e6",
+  "content_hash": "409b1cd60e2df68e78b3a2eee579a4b9954403a1384a2db0fef8d8c44453529e",
+  "source": {
+    "path": "sources/articles/replit-introduces-missions-agentic-swarm-harness.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/company-agent-harness.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Swarm 品类，与 Missions 的智能体群概念最相近。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及项目指令与 Token 效率，对应帖文中关于浪费 token 的担忧。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "讨论公司级 Agent Harness，与 Replit 推出的 harness 产品主题重合。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "聚焦多智能体基建，与 agentic swarm harness 的基建定位相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "涉及 Agent Swarm 品类，与 Missions 的智能体群概念最相近。",
+    "topics/company-agent-harness.md": "讨论公司级 Agent Harness，与 Replit 推出的 harness 产品主题重合。",
+    "topics/multiagent-infra-four-problems.md": "聚焦多智能体基建，与 agentic swarm harness 的基建定位相关。",
+    "topics/agents-md-token-efficiency.md": "涉及项目指令与 Token 效率，对应帖文中关于浪费 token 的担忧。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/replit-introduces-missions-agentic-swarm-harness.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/company-agent-harness.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "涉及 Agent Swarm 品类，与 Missions 的智能体群概念最相近。",
+      "topics/company-agent-harness.md": "讨论公司级 Agent Harness，与 Replit 推出的 harness 产品主题重合。",
+      "topics/multiagent-infra-four-problems.md": "聚焦多智能体基建，与 agentic swarm harness 的基建定位相关。",
+      "topics/agents-md-token-efficiency.md": "涉及项目指令与 Token 效率，对应帖文中关于浪费 token 的担忧。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新条目。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/replit-introduces-missions-agentic-swarm-harness.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

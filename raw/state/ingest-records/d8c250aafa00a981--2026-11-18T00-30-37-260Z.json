@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:30:37.260Z",
+  "url": "https://x.com/emollick/status/2122808715141173558",
+  "slug": "d8c250aafa00a981",
+  "content_hash": "02cd3374f58dadb47db797df2f60c128f5a6fd801684d81d11002130861cd2d5",
+  "source": {
+    "path": "sources/articles/extrapolation-don-t-over-judge-ai-trends-from-single-model-relea.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文警示不要因单次模型发布而过度反应，与“对 AI 过度与不足引导”的校准主题相近"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文反对从单次发布过度外推，与社区实测对抗刷分炒作相关"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文指出模型人格超越基准，与智能作为人类中心指标的批判相近"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文强调基准无法捕捉模型人格，需先审视公开评测质量"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "帖文警示不要因单次模型发布而过度反应，与“对 AI 过度与不足引导”的校准主题相近",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文强调基准无法捕捉模型人格，需先审视公开评测质量",
+    "topics/community-evals-vs-score-hype.md": "帖文反对从单次发布过度外推，与社区实测对抗刷分炒作相关",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文指出模型人格超越基准，与智能作为人类中心指标的批判相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/extrapolation-don-t-over-judge-ai-trends-from-single-model-relea.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/calibrating-ai-guidance.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/calibrating-ai-guidance.md": "帖文警示不要因单次模型发布而过度反应，与“对 AI 过度与不足引导”的校准主题相近",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文强调基准无法捕捉模型人格，需先审视公开评测质量",
+      "topics/community-evals-vs-score-hype.md": "帖文反对从单次发布过度外推，与社区实测对抗刷分炒作相关",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "帖文指出模型人格超越基准，与智能作为人类中心指标的批判相近"
+    },
+    "notes": "来源为 X 上 Ethan Mollick 的两条帖文，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/extrapolation-don-t-over-judge-ai-trends-from-single-model-relea.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

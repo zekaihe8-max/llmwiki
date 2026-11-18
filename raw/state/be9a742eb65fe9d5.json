@@ -1,0 +1,23 @@
+{
+  "slug": "be9a742eb65fe9d5",
+  "url": "https://x.com/gdb/status/2122819528858161322",
+  "title": "Cyber",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "be9a742eb65fe9d5e19173b15be045f8bd95377bf8b7fe19f90774122547f220",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:18:57.107Z",
+  "content_hash": "99827677c76f55e4c3d22abf5ff7070bfa50df6a90a9332e22bd1beb3c7cccd5",
+  "article_path": "articles/be9a742eb65fe9d5.md",
+  "fetched_url": "https://x.com/gdb/status/2122819528858161322",
+  "source_path": "sources/articles/gpt-6-cyber-helps-find-major-java-security-bug.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:22:43.253Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

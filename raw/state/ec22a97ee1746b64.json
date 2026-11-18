@@ -1,0 +1,23 @@
+{
+  "slug": "ec22a97ee1746b64",
+  "url": "https://x.com/ArtificialAnlys/status/2122797742481375611",
+  "title": "AA-3D",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "ec22a97ee1746b64a59d67c53cc722f5ce15c442404f514c64ef69c88fd4e354",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:18:56.577Z",
+  "content_hash": "24b5f545d392b5cdc16f903e392d778c721fb4ca3ca6d6740f2d98ee5c9ada36",
+  "article_path": "articles/ec22a97ee1746b64.md",
+  "fetched_url": "https://x.com/ArtificialAnlys/status/2122797742481375611",
+  "source_path": "sources/articles/gpt-6-2-astra-ranks-1-on-aa-3d-interactive-3d-benchmark.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:21:15.461Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:27:44.145Z",
+  "url": "https://x.com/AMD/status/2122695307238498687",
+  "slug": "13fb87bea36f7e97",
+  "content_hash": "2ad6c37efd8f0a74a0a5481fc3e3d2412f68454a90be484eb9e6a96392d093b7",
+  "source": {
+    "path": "sources/articles/amd-completes-acquisition-of-talaas-inc.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 公司与并购动态，可作语境参考。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 算力与 GPU 领域，与 AMD 收购 AI 推理技术相关。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "涉及芯片端 AI 运行时，与推理路线图主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力与 GPU 领域，与 AMD 收购 AI 推理技术相关。",
+    "topics/on-chip-agent-runtime.md": "涉及芯片端 AI 运行时，与推理路线图主题相近。",
+    "topics/ai-native-companies.md": "涉及 AI 公司与并购动态，可作语境参考。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/amd-completes-acquisition-of-talaas-inc.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/on-chip-agent-runtime.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "涉及 AI 算力与 GPU 领域，与 AMD 收购 AI 推理技术相关。",
+      "topics/on-chip-agent-runtime.md": "涉及芯片端 AI 运行时，与推理路线图主题相近。",
+      "topics/ai-native-companies.md": "涉及 AI 公司与并购动态，可作语境参考。"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实；日期和互动数据为帖文显示内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/amd-completes-acquisition-of-talaas-inc.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

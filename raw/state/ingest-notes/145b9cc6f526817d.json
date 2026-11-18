@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文讨论 Agent 大规模触发 CI 对工程成本与流程的影响，与智能体规模化工程主题高度相关。",
+    "topics/agent-compute-and-governance.md": "文中涉及 CI 算力开销、自托管跑机成本与治理策略，属于智能体算力与治理范畴。",
+    "topics/workflows-before-agents.md": "文中主张优化 CI 工作流（如 merge queue、差异化测试）以降低 Agent 带来的无效触发，符合工作流优先于智能体的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Agent 大规模触发 CI 对工程成本与流程的影响，与智能体规模化工程主题高度相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及 CI 算力开销、自托管跑机成本与治理策略，属于智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中主张优化 CI 工作流（如 merge queue、差异化测试）以降低 Agent 带来的无效触发，符合工作流优先于智能体的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 @bylixing 的帖文，未引用外部链接内容作为事实依据。"
+}

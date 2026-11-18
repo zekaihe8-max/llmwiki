@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "文章涉及 AI 驱动的新药设计与医药研发，与该主题的 AI 医药方向最为贴近。",
+    "topics/ai-native-companies.md": "异构实验室以 AI 为核心构建药物设计引擎与管线，符合 AI 原生公司的特征。",
+    "topics/software-factory.md": "文中提到扩展专有药物设计引擎 IsoDDE，具有软件工厂式规模化构建的特征。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 驱动的新药设计与医药研发，与该主题的 AI 医药方向最为贴近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "异构实验室以 AI 为核心构建药物设计引擎与管线，符合 AI 原生公司的特征。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中提到扩展专有药物设计引擎 IsoDDE，具有软件工厂式规模化构建的特征。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自提供的文章页面，未引入外部信息。"
+}

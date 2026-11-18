@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-models-cyber-defense.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/llm-formal-verification.md",
+    "topics/cyber-research-models-without-jailbreak.md"
+  ],
+  "selection_reasons": {
+    "topics/open-models-cyber-defense.md": "文章涉及 AI 用于网络安全防御与漏洞发现，与开源模型和网防主题最相关。",
+    "topics/agent-swarms-cyber-defense.md": "帖文提及 GPT-6 Cyber 协助保护互联网，属于 AI 网防范畴，可复用该主题。",
+    "topics/llm-formal-verification.md": "AI 协助发现 Java 重大安全漏洞，与 LLM 形式化验证和缺陷发现相近。",
+    "topics/cyber-research-models-without-jailbreak.md": "内容涉及网安研究选型与 AI 辅助漏洞挖掘，可作为参考主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 用于网络安全防御与漏洞发现，与开源模型和网防主题最相关。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文提及 GPT-6 Cyber 协助保护互联网，属于 AI 网防范畴，可复用该主题。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "AI 协助发现 Java 重大安全漏洞，与 LLM 形式化验证和缺陷发现相近。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "内容涉及网安研究选型与 AI 辅助漏洞挖掘，可作为参考主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所抓取的 X 帖文，未引用外部事实；日期为帖文显示时间。"
+}

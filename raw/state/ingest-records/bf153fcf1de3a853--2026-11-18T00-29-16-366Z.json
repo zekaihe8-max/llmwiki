@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:29:16.366Z",
+  "url": "https://x.com/TuXinming/status/2122737425822941439",
+  "slug": "bf153fcf1de3a853",
+  "content_hash": "909d53070bf1603f15af13580a65d0bb92c381eb20a009617d447bac2be4b6e2",
+  "source": {
+    "path": "sources/articles/family-size-training-data-fingerprint-and-protein-language-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文记录模型评测现象，与 AI 评测入口与干活记录相近。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中对模型表现的描述属于评测类观察，与社区实测对抗刷分话题相近。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文提及“训练数据指纹”，与行为指纹置信度话题相近，但不改动原条目。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及多模型性能曲线（上升、持平、趋平），与公开榜单质量审查相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文提及“训练数据指纹”，与行为指纹置信度话题相近，但不改动原条目。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及多模型性能曲线（上升、持平、趋平），与公开榜单质量审查相关。",
+    "topics/community-evals-vs-score-hype.md": "文中对模型表现的描述属于评测类观察，与社区实测对抗刷分话题相近。",
+    "topics/ai-eval-work-record-gateway.md": "帖文记录模型评测现象，与 AI 评测入口与干活记录相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/family-size-training-data-fingerprint-and-protein-language-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/model-fingerprint-confidence-not-confirmation.md": "帖文提及“训练数据指纹”，与行为指纹置信度话题相近，但不改动原条目。",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及多模型性能曲线（上升、持平、趋平），与公开榜单质量审查相关。",
+      "topics/community-evals-vs-score-hype.md": "文中对模型表现的描述属于评测类观察，与社区实测对抗刷分话题相近。",
+      "topics/ai-eval-work-record-gateway.md": "帖文记录模型评测现象，与 AI 评测入口与干活记录相近。"
+    },
+    "notes": "所有主张均基于 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/family-size-training-data-fingerprint-and-protein-language-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

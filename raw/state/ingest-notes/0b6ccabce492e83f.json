@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "涉及公司层面的 AI 业务与团队整合，与 AMD 接收新团队相关。",
+    "topics/gpu-ai-compute-unlock.md": "涉及 GPU 与 AI 算力领域，AMD 属于该领域公司。",
+    "topics/china-open-source-lead-us-compute.md": "涉及美国算力优势，AMD 为美国半导体与算力公司。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及公司层面的 AI 业务与团队整合，与 AMD 接收新团队相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及 GPU 与 AI 算力领域，AMD 属于该领域公司。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "涉及美国算力优势，AMD 为美国半导体与算力公司。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "现有目录中无直接覆盖 AMD 或半导体团队加入的主题，故仅咨询并保持相关主题 unchanged。"
+}

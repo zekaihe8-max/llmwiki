@@ -1,0 +1,23 @@
+{
+  "slug": "37e15ea973cbc8a6",
+  "url": "https://x.com/ArtificialAnlys/status/2122757022710104131",
+  "title": "AA-Robotics",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "37e15ea973cbc8a65b62534d73c726f3aee931dcb5e03c0921d144d08cbef52f",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:18:56.803Z",
+  "content_hash": "63ffd5fe43dcd96e3e24ae7d72d4c33902525df7697987ee43058770360c1746",
+  "article_path": "articles/37e15ea973cbc8a6.md",
+  "fetched_url": "https://x.com/ArtificialAnlys/status/2122757022710104131",
+  "source_path": "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:39:39.177Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

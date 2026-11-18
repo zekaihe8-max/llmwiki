@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文呈现模型间的实测对比，与社区实测对抗刷分碰瓷主题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及对模型性能主张的质量审视，与信任公开榜前先审质量相关。",
+    "topics/ai-eval-work-record-gateway.md": "帖文记录了 AI 评测输入与模型对比结果，与 AI 评测入口与干活记录相关。",
+    "topics/open-weight-frontier-models.md": "被比较的开源蛋白质语言模型属于开放权重模型范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文呈现模型间的实测对比，与社区实测对抗刷分碰瓷主题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及对模型性能主张的质量审视，与信任公开榜前先审质量相关。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文记录了 AI 评测输入与模型对比结果，与 AI 评测入口与干活记录相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "被比较的开源蛋白质语言模型属于开放权重模型范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单一 X 帖文，未经独立核实。"
+}

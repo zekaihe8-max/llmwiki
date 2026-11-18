@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:33:21.190Z",
+  "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+  "slug": "13225fd2d3574734",
+  "content_hash": "4bb309568a0feac943a1ec896922226489014971e74e47039ca837958500cc24",
+  "source": {
+    "path": "sources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章建议将子 Agent 提示词转为技能（skills），与技能编写主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心主张“渐进式披露上下文”，与该主题的上下文工程高度相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "与文章主题直接对应，均讨论将子 Agent 合并进主 Agent 循环的时机与做法。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文章分析多 Agent 架构的延迟与治理问题，与多智能体基建主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "与文章主题直接对应，均讨论将子 Agent 合并进主 Agent 循环的时机与做法。",
+    "topics/context-engineering-for-agents.md": "文章核心主张“渐进式披露上下文”，与该主题的上下文工程高度相关。",
+    "topics/agent-skill-authoring.md": "文章建议将子 Agent 提示词转为技能（skills），与技能编写主题相关。",
+    "topics/multiagent-infra-four-problems.md": "文章分析多 Agent 架构的延迟与治理问题，与多智能体基建主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "与文章主题直接对应，均讨论将子 Agent 合并进主 Agent 循环的时机与做法。",
+      "topics/context-engineering-for-agents.md": "文章核心主张“渐进式披露上下文”，与该主题的上下文工程高度相关。",
+      "topics/agent-skill-authoring.md": "文章建议将子 Agent 提示词转为技能（skills），与技能编写主题相关。",
+      "topics/multiagent-infra-four-problems.md": "文章分析多 Agent 架构的延迟与治理问题，与多智能体基建主题相关。"
+    },
+    "notes": "文章由 Diane Sarkis 撰写，发布于 2026-10-22，属 Claude Platform 最佳实践/观点类；文中提及的模型版本（Opus 4.5、Fable 5.1 等）及 GitHub 迁移工具链接均来自原文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

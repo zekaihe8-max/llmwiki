@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章聚焦企业AI投入与采用，与AI原生公司议题相近，暂不新增主题。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及企业层面AI支出与人效，与大厂AI数字员工职级编制主题相关，保持不变。",
+    "topics/premium-ai-subscription-value.md": "文中提及高额AI支出数据，与高端AI订阅价值主题有交集，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章聚焦企业AI投入与采用，与AI原生公司议题相近，暂不新增主题。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及企业层面AI支出与人效，与大厂AI数字员工职级编制主题相关，保持不变。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中提及高额AI支出数据，与高端AI订阅价值主题有交集，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有数据均来自X帖文引用的Ramp数据，未独立核实。"
+}

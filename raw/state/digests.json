@@ -188,5 +188,10 @@
     "content_hash": "b841881fb06c3d7a9a145f40c3ccc377bfa5d57ff4ea1e9e98514ac6ff68861a",
     "ingested_at": "2026-11-17T11:57:57.309Z",
     "urls": 25
+  },
+  "2026-11-18-frontier-ai.md": {
+    "content_hash": "46c45e6a61381013504a7c820bded79331a2c1158e43fe90737aebc5ee34fa06",
+    "ingested_at": "2026-11-18T00:18:54.089Z",
+    "urls": 46
   }
 }

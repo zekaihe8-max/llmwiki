@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文本质是一次语言模型能力评测，与 AI 评测入口与记录主题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中对比多款模型并在冷门蛋白任务上区分表现，涉及公开评测质量审视。",
+    "topics/community-evals-vs-score-hype.md": "帖文提出非榜单常规任务的独立实测，与社区评测对抗刷分碰瓷主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文本质是一次语言模型能力评测，与 AI 评测入口与记录主题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中对比多款模型并在冷门蛋白任务上区分表现，涉及公开评测质量审视。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文提出非榜单常规任务的独立实测，与社区评测对抗刷分碰瓷主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未经独立核实。"
+}

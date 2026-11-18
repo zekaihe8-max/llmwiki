@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章讨论数字基准与“手感”/社区实测的互补，与该主题关于对抗刷分碰瓷、重视实测的方向相近，但无需修改。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用 ECI 分数并指出其基于自有基准，涉及公开榜单质量审视，与该主题相关，但无需修改。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文强调人格、创造力、品味等人类中心品质难以量化，与该主题关于智能作为人类中心主义指标的讨论相近，但无需修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章讨论数字基准与“手感”/社区实测的互补，与该主题关于对抗刷分碰瓷、重视实测的方向相近，但无需修改。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用 ECI 分数并指出其基于自有基准，涉及公开榜单质量审视，与该主题相关，但无需修改。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文强调人格、创造力、品味等人类中心品质难以量化，与该主题关于智能作为人类中心主义指标的讨论相近，但无需修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "GPT-6.2 Astra、Fable 5.2 及 ECI 分数仅出现在所抓取的社交媒体帖文中，未在本条目外独立核实。"
+}

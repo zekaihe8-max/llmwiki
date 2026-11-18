@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:26:28.315Z",
+  "url": "https://x.com/demishassabis/status/2122662616367853670",
+  "slug": "c53a4826696c059c",
+  "content_hash": "78baecff0f3dd64243327bb0450d486f7f63df7534c63552bac1b33bed2801e0",
+  "source": {
+    "path": "sources/articles/demis-hassabis-announces-5b-funding-for-isomorphic-labs.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-peer-review-science-adaptation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Isomorphic Labs 作为以 AI 为核心的药物设计公司，符合 AI 原生公司主题。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文提及以 AI 重构科学研发流程，与 AI 对科研实践的适配相关。"
+    },
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 驱动的医药研发与融资，与该主题的 AI 医药方向最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "文章涉及 AI 驱动的医药研发与融资，与该主题的 AI 医药方向最为贴近。",
+    "topics/ai-native-companies.md": "Isomorphic Labs 作为以 AI 为核心的药物设计公司，符合 AI 原生公司主题。",
+    "topics/ai-peer-review-science-adaptation.md": "帖文提及以 AI 重构科学研发流程，与 AI 对科研实践的适配相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/demis-hassabis-announces-5b-funding-for-isomorphic-labs.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-pharma-opc-lab-acquisition.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-peer-review-science-adaptation.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-pharma-opc-lab-acquisition.md": "文章涉及 AI 驱动的医药研发与融资，与该主题的 AI 医药方向最为贴近。",
+      "topics/ai-native-companies.md": "Isomorphic Labs 作为以 AI 为核心的药物设计公司，符合 AI 原生公司主题。",
+      "topics/ai-peer-review-science-adaptation.md": "帖文提及以 AI 重构科学研发流程，与 AI 对科研实践的适配相关。"
+    },
+    "notes": "所有事实仅来源于提供的 X 帖文文本，未引入外部信息或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/demis-hassabis-announces-5b-funding-for-isomorphic-labs.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

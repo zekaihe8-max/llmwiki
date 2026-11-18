@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/frontier-training-containment.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "直接对应个人 Agent 云环境的隔离与备份检查，与文中 Cloudflare 云端沙箱主题最贴近。",
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与付费计算资源治理，对应 Workers Paid 计费与资源额度。",
+    "topics/frontier-training-containment.md": "关注环境隔离与容纳，与文中强调的沙箱隔离概念相关。",
+    "topics/computer-use.md": "Agent 操作云端电脑与执行命令，属于 Computer Use 范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "直接对应个人 Agent 云环境的隔离与备份检查，与文中 Cloudflare 云端沙箱主题最贴近。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与付费计算资源治理，对应 Workers Paid 计费与资源额度。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "关注环境隔离与容纳，与文中强调的沙箱隔离概念相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Agent 操作云端电脑与执行命令，属于 Computer Use 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所获取帖文，未引入外部事实；未创建新话题。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/computer-use.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "涉及前沿模型训练与运行环境的隔离，与外部沙箱模式的隔离执行思想相近。",
+    "topics/computer-use.md": "关注智能体使用计算机执行操作，与 Agent 在 Mac 上运行并执行代码的场景相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "讨论个人 Agent 环境的隔离与安全检查，与将代码执行置于沙箱的主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型训练与运行环境的隔离，与外部沙箱模式的隔离执行思想相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "关注智能体使用计算机执行操作，与 Agent 在 Mac 上运行并执行代码的场景相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 环境的隔离与安全检查，与将代码执行置于沙箱的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未打开外部博客链接，未引入链接外未核实事实。"
+}

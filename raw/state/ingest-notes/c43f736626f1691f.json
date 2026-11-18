@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文围绕对技术进行结构化评测与记录，与 AI 评测入口主题相近",
+    "topics/community-evals-vs-score-hype.md": "提示词要求多维度打分并给出推荐，涉及评测质量与避免表面分数",
+    "topics/agent-skill-authoring.md": "内容本身是一条可交给智能体执行的技能式提示词，与 Agent Skill 编写相关"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文围绕对技术进行结构化评测与记录，与 AI 评测入口主题相近"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "提示词要求多维度打分并给出推荐，涉及评测质量与避免表面分数"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "内容本身是一条可交给智能体执行的技能式提示词，与 Agent Skill 编写相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自所提供的 X 帖文 Markdown，未引用外部链接或 XState 官方资料。"
+}

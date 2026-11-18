@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:36:51.426Z",
+  "url": "https://replit.com/blog/introducing-replit-missions",
+  "slug": "f822af8ae648479f",
+  "content_hash": "17d08f90e0d82f14d2d4b2609d8ee83d68b1748507b5490efb59270d03943954",
+  "source": {
+    "path": "sources/articles/introducing-replit-missions-agent-swarms-for-complex-enterprise.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到 Auto (Max) 与 Auto (Power) 模式及智能体自动规划迭代，与智能体自动模式相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Replit Missions 展示智能体承担规模化工程任务（如构建监控平台、企业获客），契合智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体 swarm 并行探索多个方案并协作验证，与该主题的 Agent Swarm 品类讨论高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中将复杂软件构建委托给智能体 swarm 并设定预算与验收标准，体现软件工厂模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "文章核心是智能体 swarm 并行探索多个方案并协作验证，与该主题的 Agent Swarm 品类讨论高度相关。",
+    "topics/agent-scaled-engineering.md": "Replit Missions 展示智能体承担规模化工程任务（如构建监控平台、企业获客），契合智能体规模化工程主题。",
+    "topics/software-factory.md": "文中将复杂软件构建委托给智能体 swarm 并设定预算与验收标准，体现软件工厂模式。",
+    "topics/agent-auto-mode.md": "文中提到 Auto (Max) 与 Auto (Power) 模式及智能体自动规划迭代，与智能体自动模式相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-replit-missions-agent-swarms-for-complex-enterprise.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/software-factory.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-swarms-cyber-defense.md": "文章核心是智能体 swarm 并行探索多个方案并协作验证，与该主题的 Agent Swarm 品类讨论高度相关。",
+      "topics/agent-scaled-engineering.md": "Replit Missions 展示智能体承担规模化工程任务（如构建监控平台、企业获客），契合智能体规模化工程主题。",
+      "topics/software-factory.md": "文中将复杂软件构建委托给智能体 swarm 并设定预算与验收标准，体现软件工厂模式。",
+      "topics/agent-auto-mode.md": "文中提到 Auto (Max) 与 Auto (Power) 模式及智能体自动规划迭代，与智能体自动模式相关。"
+    },
+    "notes": "所有数据均源自所提供文章，未引用外部事实或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-replit-missions-agent-swarms-for-complex-enterprise.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

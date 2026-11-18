@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "涉及 Claude 订阅与风控，与关联账单和组织付费最为相邻。",
+    "topics/usage-limit-ab-tests.md": "涉及 API 用量上限，与通过组织支付 Claude API 费用的用量计费场景相近。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台模型编排，与 Claude Platform 作为计费与组织管理平台相近。",
+    "topics/claude-on-google-cloud.md": "涉及 Claude 在云平台上的分发，与 Claude Platform 账单能力属同一产品域。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 订阅与风控，与关联账单和组织付费最为相邻。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及 API 用量上限，与通过组织支付 Claude API 费用的用量计费场景相近。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台模型编排，与 Claude Platform 作为计费与组织管理平台相近。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 在云平台上的分发，与 Claude Platform 账单能力属同一产品域。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所抓取的 X 帖文，未引用文章外事实；帖文时间显示为 2026 年 11 月 17 日。"
+}
