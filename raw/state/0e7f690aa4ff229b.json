@@ -1,0 +1,34 @@
+{
+  "slug": "0e7f690aa4ff229b",
+  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "title": "北约说明",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "failed",
+  "hash": "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-18T00:18:57.681Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-18T00:39:48.448Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-18T00:39:48.448Z"
+}

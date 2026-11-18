@@ -1,0 +1,23 @@
+{
+  "slug": "13225fd2d3574734",
+  "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+  "title": "Mollick · 子 agent 铺太多，往往不如一个主循环",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "13225fd2d357473473720764a2cb21e63673104f160b0a415451cd4a3b459f2e",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:19:05.786Z",
+  "content_hash": "4bb309568a0feac943a1ec896922226489014971e74e47039ca837958500cc24",
+  "article_path": "articles/13225fd2d3574734.md",
+  "fetched_url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+  "source_path": "sources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:33:21.190Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

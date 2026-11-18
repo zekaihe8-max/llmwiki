@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-task-horizon-growth.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-task-horizon-growth.md": "文章涉及 AI 任务能力向更多用户和地区的扩展，与 AI 任务时界与可用性增长主题相近。",
+    "topics/tasks-confidently-handed-to-ai.md": "帖文描述将待办交给 Gemini 在后台处理，属于将任务放心交给 AI 的典型场景。",
+    "topics/agent-auto-mode.md": "Tasks 在后台运行并按定期计划执行，与智能体自动/后台模式相关。",
+    "topics/workflows-before-agents.md": "从“聊天”切换到“任务”的交互体现以任务/工作流为导向，而非纯对话式 Agent。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 任务能力向更多用户和地区的扩展，与 AI 任务时界与可用性增长主题相近。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文描述将待办交给 Gemini 在后台处理，属于将任务放心交给 AI 的典型场景。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Tasks 在后台运行并按定期计划执行，与智能体自动/后台模式相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "从“聊天”切换到“任务”的交互体现以任务/工作流为导向，而非纯对话式 Agent。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅基于提供的推文截图内容；发布日期 2026 年 11 月 17 日为文中所示时间。"
+}

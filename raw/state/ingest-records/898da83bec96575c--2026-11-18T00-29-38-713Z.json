@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:29:38.713Z",
+  "url": "https://x.com/emollick/status/2122755693191287009",
+  "slug": "898da83bec96575c",
+  "content_hash": "8812c20f0d0be718bdabee9a76237e30a4eddb4d6743036e8a37a34f73560a14",
+  "source": {
+    "path": "sources/articles/early-gpt-6-2-astra-evaluation-hard-to-steer-but-capable-of-ambi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文属于对前沿模型的早期实测与使用记录，与 AI 评测入口及干活记录主题相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "个人非公开榜的主观实测，呼应社区实测与刷分碰瓷的对比语境。"
+    },
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "用户给模型布置“从零制作太空电梯项目”的宏大任务，体现把目标抬到 AI 前沿。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "模型难以引导且表现参差，涉及哪些任务可放心交给 AI 的判断。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文属于对前沿模型的早期实测与使用记录，与 AI 评测入口及干活记录主题相关。",
+    "topics/community-evals-vs-score-hype.md": "个人非公开榜的主观实测，呼应社区实测与刷分碰瓷的对比语境。",
+    "topics/raise-ambition-until-ai-frontier.md": "用户给模型布置“从零制作太空电梯项目”的宏大任务，体现把目标抬到 AI 前沿。",
+    "topics/tasks-confidently-handed-to-ai.md": "模型难以引导且表现参差，涉及哪些任务可放心交给 AI 的判断。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/early-gpt-6-2-astra-evaluation-hard-to-steer-but-capable-of-ambi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/raise-ambition-until-ai-frontier.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文属于对前沿模型的早期实测与使用记录，与 AI 评测入口及干活记录主题相关。",
+      "topics/community-evals-vs-score-hype.md": "个人非公开榜的主观实测，呼应社区实测与刷分碰瓷的对比语境。",
+      "topics/raise-ambition-until-ai-frontier.md": "用户给模型布置“从零制作太空电梯项目”的宏大任务，体现把目标抬到 AI 前沿。",
+      "topics/tasks-confidently-handed-to-ai.md": "模型难以引导且表现参差，涉及哪些任务可放心交给 AI 的判断。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/early-gpt-6-2-astra-evaluation-hard-to-steer-but-capable-of-ambi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

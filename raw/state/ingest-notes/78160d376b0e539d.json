@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品与社区表达，与本帖主体最相关。",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 的体验与交互，Code Mode 属于 UX/功能实验。",
+    "topics/agent-auto-mode.md": "智能体自动模式与工具自主编排概念相近，可作对照。",
+    "topics/coding-agent-token-saving-tooling.md": "编程 Agent 工具与开销话题，Code Mode 属于工具链增强。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品与社区表达，与本帖主体最相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 的体验与交互，Code Mode 属于 UX/功能实验。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "智能体自动模式与工具自主编排概念相近，可作对照。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "编程 Agent 工具与开销话题，Code Mode 属于工具链增强。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所抓取帖文；帖文显示日期为 2026 年 11 月 17 日。"
+}

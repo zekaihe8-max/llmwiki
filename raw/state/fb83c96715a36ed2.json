@@ -1,0 +1,23 @@
+{
+  "slug": "fb83c96715a36ed2",
+  "url": "https://x.com/simonw/status/2122500307557265651",
+  "title": "Simon",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "fb83c96715a36ed28c755f0bbe313dc6d15cb16e3344a7cedd2a9d24743271db",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:19:11.407Z",
+  "content_hash": "8330f937c84288c7fbd65888340f717fa2db71384d1dea58fda085b725397963",
+  "article_path": "articles/fb83c96715a36ed2.md",
+  "fetched_url": "https://x.com/simonw/status/2122500307557265651",
+  "source_path": "sources/articles/simon-willison-introduces-external-sandbox-pattern-for-coding-ag.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:37:08.098Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

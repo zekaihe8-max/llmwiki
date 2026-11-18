@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/agent-home-platform-control.md",
+    "topics/computer-use.md",
+    "topics/interactive-world-models.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "标题含机器人小模型，与机器人任务教学最贴近",
+    "topics/agent-home-platform-control.md": "涉及智能体直控物理设备，与机械臂控制相关",
+    "topics/computer-use.md": "智能体操作界面与任务执行，与机器人交互逻辑相通",
+    "topics/interactive-world-models.md": "涉及仿真与交互世界模型，对应 MuJoCo 仿真环节"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "标题含机器人小模型，与机器人任务教学最贴近"
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "涉及智能体直控物理设备，与机械臂控制相关"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "智能体操作界面与任务执行，与机器人交互逻辑相通"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "涉及仿真与交互世界模型，对应 MuJoCo 仿真环节"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于单条 X 帖文撰写，未独立核实 Gemini 4 Hydrogen 等产品细节。"
+}

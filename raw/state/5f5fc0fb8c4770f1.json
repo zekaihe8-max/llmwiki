@@ -1,0 +1,23 @@
+{
+  "slug": "5f5fc0fb8c4770f1",
+  "url": "https://x.com/OpenAI/status/2122750124543926515",
+  "title": "OpenAI",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "5f5fc0fb8c4770f15f11d50b332a49317fa5f096f847bdcc03f5e2e6a5876855",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:18:54.305Z",
+  "content_hash": "35863c83fd997f438a9d0398d7d525b3bf2caa5b0ceb1e7db251ab260d81553a",
+  "article_path": "articles/5f5fc0fb8c4770f1.md",
+  "fetched_url": "https://x.com/OpenAI/status/2122750124543926515",
+  "source_path": "sources/articles/openai-announces-gpt-6-2-astra-and-sol-now-available.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:19:40.468Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

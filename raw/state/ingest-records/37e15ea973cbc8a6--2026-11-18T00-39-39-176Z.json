@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:39:39.176Z",
+  "url": "https://x.com/ArtificialAnlys/status/2122757022710104131",
+  "slug": "37e15ea973cbc8a6",
+  "content_hash": "63ffd5fe43dcd96e3e24ae7d72d4c33902525df7697987ee43058770360c1746",
+  "source": {
+    "path": "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+    "action": "update"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/embedded-third-party-evals.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文描述通过 Codex 控制真实机械臂执行物理任务，属于计算机使用与实体控制场景。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "Artificial Analysis 作为第三方评估机构发布机器人领域模型排行榜与实测结果。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "条目涉及公开基准分数与模型排名，需审慎看待榜单质量。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文描述通过 Codex 控制真实机械臂执行物理任务，属于计算机使用与实体控制场景。",
+    "topics/embedded-third-party-evals.md": "Artificial Analysis 作为第三方评估机构发布机器人领域模型排行榜与实测结果。",
+    "topics/public-benchmark-quality-scrutiny.md": "条目涉及公开基准分数与模型排名，需审慎看待榜单质量。"
+  },
+  "files_changed": [
+    "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+    "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+    "sources/articles/prompt-for-assessing-xstate-v6-beta.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/embedded-third-party-evals.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文描述通过 Codex 控制真实机械臂执行物理任务，属于计算机使用与实体控制场景。",
+      "topics/embedded-third-party-evals.md": "Artificial Analysis 作为第三方评估机构发布机器人领域模型排行榜与实测结果。",
+      "topics/public-benchmark-quality-scrutiny.md": "条目涉及公开基准分数与模型排名，需审慎看待榜单质量。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "update",
+      "files_changed": [
+        "sources/articles/aa-robotics-v0-1-gpt-6-2-astra-tops-the-leaderboard.md",
+        "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+        "sources/articles/prompt-for-assessing-xstate-v6-beta.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

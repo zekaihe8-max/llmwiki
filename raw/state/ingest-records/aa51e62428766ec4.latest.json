@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:37:57.027Z",
+  "url": "https://x.com/xiaomovps/status/2122685290959777836",
+  "slug": "aa51e62428766ec4",
+  "content_hash": "ad262dc2b4b49bcd6b9e2a0989d8ee0c3369998d8fa8fab87865dd066a3845da",
+  "source": {
+    "path": "sources/articles/xiao-mo-cloudflare-provides-standalone-cloud-sandbox-for-pi-agen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/frontier-training-containment.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及智能体算力与付费计算资源治理，对应 Workers Paid 计费与资源额度。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Agent 操作云端电脑与执行命令，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "关注环境隔离与容纳，与文中强调的沙箱隔离概念相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "直接对应个人 Agent 云环境的隔离与备份检查，与文中 Cloudflare 云端沙箱主题最贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "直接对应个人 Agent 云环境的隔离与备份检查，与文中 Cloudflare 云端沙箱主题最贴近。",
+    "topics/agent-compute-and-governance.md": "涉及智能体算力与付费计算资源治理，对应 Workers Paid 计费与资源额度。",
+    "topics/frontier-training-containment.md": "关注环境隔离与容纳，与文中强调的沙箱隔离概念相关。",
+    "topics/computer-use.md": "Agent 操作云端电脑与执行命令，属于 Computer Use 范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiao-mo-cloudflare-provides-standalone-cloud-sandbox-for-pi-agen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/frontier-training-containment.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "直接对应个人 Agent 云环境的隔离与备份检查，与文中 Cloudflare 云端沙箱主题最贴近。",
+      "topics/agent-compute-and-governance.md": "涉及智能体算力与付费计算资源治理，对应 Workers Paid 计费与资源额度。",
+      "topics/frontier-training-containment.md": "关注环境隔离与容纳，与文中强调的沙箱隔离概念相关。",
+      "topics/computer-use.md": "Agent 操作云端电脑与执行命令，属于 Computer Use 范畴。"
+    },
+    "notes": "所有主张均基于所获取帖文，未引入外部事实；未创建新话题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiao-mo-cloudflare-provides-standalone-cloud-sandbox-for-pi-agen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

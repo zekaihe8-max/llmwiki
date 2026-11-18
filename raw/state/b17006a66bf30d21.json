@@ -1,0 +1,23 @@
+{
+  "slug": "b17006a66bf30d21",
+  "url": "https://x.com/Google/status/2122740715633426666",
+  "title": "Tasks",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "b17006a66bf30d21314ceb82d31c9075089b58593784ec4c9b773bf675416c32",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:18:58.064Z",
+  "content_hash": "cf02d7efe7e2778a02d15434ac57a5e1d3cb5e43df13e239bce82b25e6760b1e",
+  "article_path": "articles/b17006a66bf30d21.md",
+  "fetched_url": "https://x.com/Google/status/2122740715633426666",
+  "source_path": "sources/articles/google-expands-gemini-tasks-free-to-hundreds-of-millions-in-six.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:24:29.327Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:21:15.460Z",
+  "url": "https://x.com/ArtificialAnlys/status/2122797742481375611",
+  "slug": "ec22a97ee1746b64",
+  "content_hash": "24b5f545d392b5cdc16f903e392d778c721fb4ca3ca6d6740f2d98ee5c9ada36",
+  "source": {
+    "path": "sources/articles/gpt-6-2-astra-ranks-1-on-aa-3d-interactive-3d-benchmark.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/interactive-world-models.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章涉及模型评测与排名，该主题最贴近 AI 评测入口与记录，但内容无需变更。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "人类偏好投票属于社区实测类证据，与该主题相关，但无需新增或修改。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "基准测试聚焦交互式 3D 体验，与交互世界模型主题相邻，但本文仅报道榜单结果，不改动原条目。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "AA-3D 为公开榜单，质量审视主题相关，但现有条目已足够，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章涉及模型评测与排名，该主题最贴近 AI 评测入口与记录，但内容无需变更。",
+    "topics/public-benchmark-quality-scrutiny.md": "AA-3D 为公开榜单，质量审视主题相关，但现有条目已足够，保持不变。",
+    "topics/interactive-world-models.md": "基准测试聚焦交互式 3D 体验，与交互世界模型主题相邻，但本文仅报道榜单结果，不改动原条目。",
+    "topics/community-evals-vs-score-hype.md": "人类偏好投票属于社区实测类证据，与该主题相关，但无需新增或修改。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gpt-6-2-astra-ranks-1-on-aa-3d-interactive-3d-benchmark.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/interactive-world-models.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "文章涉及模型评测与排名，该主题最贴近 AI 评测入口与记录，但内容无需变更。",
+      "topics/public-benchmark-quality-scrutiny.md": "AA-3D 为公开榜单，质量审视主题相关，但现有条目已足够，保持不变。",
+      "topics/interactive-world-models.md": "基准测试聚焦交互式 3D 体验，与交互世界模型主题相邻，但本文仅报道榜单结果，不改动原条目。",
+      "topics/community-evals-vs-score-hype.md": "人类偏好投票属于社区实测类证据，与该主题相关，但无需新增或修改。"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实；帖文时间显示为 2026 年 11 月。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gpt-6-2-astra-ranks-1-on-aa-3d-interactive-3d-benchmark.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

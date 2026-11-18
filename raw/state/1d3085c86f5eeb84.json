@@ -1,0 +1,23 @@
+{
+  "slug": "1d3085c86f5eeb84",
+  "url": "https://code.claude.com/docs/en/code-mode",
+  "title": "文档",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "1d3085c86f5eeb84178aa7cd7c9ceba0f3a67ec1fb2b15ac2a91c45b27de2837",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:19:08.524Z",
+  "content_hash": "b64faa7c5bc72350b6924bce3321881a0ee34f8aec83df5f173a529463c695cd",
+  "article_path": "articles/1d3085c86f5eeb84.md",
+  "fetched_url": "https://code.claude.com/docs/en/code-mode",
+  "source_path": "sources/articles/claude-code-code-mode.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:35:30.139Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

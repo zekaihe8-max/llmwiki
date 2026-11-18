@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:31:44.968Z",
+  "url": "https://x.com/polynoamial/status/2122756095596970090",
+  "slug": "f4be5857c9976dc0",
+  "content_hash": "0428f758ed64ad16ab606ad07f804afdb665267261d2ee84eb2d7c816e249e2b",
+  "source": {
+    "path": "sources/articles/noam-brown-more-bullish-on-scientific-discovery.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文核心关注科学发现与科研应用，与该主题直接相关"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文提到模型在部分领域超越顶尖人类智能，涉及人类中心智能指标"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提及每月 20 美元的订阅价格，涉及高端 AI 订阅价值"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "OpenAI 宣称在评测中创下新高，涉及公开榜单与评测质量"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "帖文核心关注科学发现与科研应用，与该主题直接相关",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文提到模型在部分领域超越顶尖人类智能，涉及人类中心智能指标",
+    "topics/public-benchmark-quality-scrutiny.md": "OpenAI 宣称在评测中创下新高，涉及公开榜单与评测质量",
+    "topics/premium-ai-subscription-value.md": "帖文提及每月 20 美元的订阅价格，涉及高端 AI 订阅价值"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/noam-brown-more-bullish-on-scientific-discovery.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "帖文核心关注科学发现与科研应用，与该主题直接相关",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "帖文提到模型在部分领域超越顶尖人类智能，涉及人类中心智能指标",
+      "topics/public-benchmark-quality-scrutiny.md": "OpenAI 宣称在评测中创下新高，涉及公开榜单与评测质量",
+      "topics/premium-ai-subscription-value.md": "帖文提及每月 20 美元的订阅价格，涉及高端 AI 订阅价值"
+    },
+    "notes": "所有主张均源自所抓取帖文，未经独立核实；未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/noam-brown-more-bullish-on-scientific-discovery.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

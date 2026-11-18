@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:23:28.441Z",
+  "url": "https://x.com/ChatGPT/status/2122818162995634504",
+  "slug": "647c2e8c164ae97b",
+  "content_hash": "9efb071d0b81a340c03e9e11268bbc7c2d6ac5c8fca20464c8f61ccf678d2c0c",
+  "source": {
+    "path": "sources/articles/chatgpt-for-sales-experience-and-plugin-ecosystem.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "销售插件可视为面向 Agent 的技能编写与扩展场景。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文涉及合作伙伴插件与应用内集成，与应用内模型合作伙伴主题最为贴近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "帖文提及销售插件与合作伙伴插件，属于 Agent Harness 插件范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文涉及合作伙伴插件与应用内集成，与应用内模型合作伙伴主题最为贴近。",
+    "topics/loose-web-agent-harness-plugins.md": "帖文提及销售插件与合作伙伴插件，属于 Agent Harness 插件范畴。",
+    "topics/agent-skill-authoring.md": "销售插件可视为面向 Agent 的技能编写与扩展场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chatgpt-for-sales-experience-and-plugin-ecosystem.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/in-app-model-partnerships.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/in-app-model-partnerships.md": "帖文涉及合作伙伴插件与应用内集成，与应用内模型合作伙伴主题最为贴近。",
+      "topics/loose-web-agent-harness-plugins.md": "帖文提及销售插件与合作伙伴插件，属于 Agent Harness 插件范畴。",
+      "topics/agent-skill-authoring.md": "销售插件可视为面向 Agent 的技能编写与扩展场景。"
+    },
+    "notes": "所有事实均来源于抓取的 X 帖文正文与互动数据，未引用外部链接内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chatgpt-for-sales-experience-and-plugin-ecosystem.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

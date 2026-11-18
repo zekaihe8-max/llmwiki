@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-peer-review-science-adaptation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "文章涉及 AI 驱动的医药研发与融资，与该主题的 AI 医药方向最为贴近。",
+    "topics/ai-native-companies.md": "Isomorphic Labs 作为以 AI 为核心的药物设计公司，符合 AI 原生公司主题。",
+    "topics/ai-peer-review-science-adaptation.md": "帖文提及以 AI 重构科学研发流程，与 AI 对科研实践的适配相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 驱动的医药研发与融资，与该主题的 AI 医药方向最为贴近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Isomorphic Labs 作为以 AI 为核心的药物设计公司，符合 AI 原生公司主题。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文提及以 AI 重构科学研发流程，与 AI 对科研实践的适配相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来源于提供的 X 帖文文本，未引入外部信息或编造 URL。"
+}

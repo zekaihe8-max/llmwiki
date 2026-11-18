@@ -1,0 +1,23 @@
+{
+  "slug": "6c990ee64177b1f8",
+  "url": "https://x.com/Google/status/2122820914777845813",
+  "title": "搜索",
+  "digest": "2026-11-18-frontier-ai.md",
+  "status": "filed",
+  "hash": "6c990ee64177b1f8f8d73803a841f15dbc988abc9fbcb2a43b247c61cee15a9e",
+  "first_seen": "2026-11-18T00:18:54.089Z",
+  "last_seen": "2026-11-18T00:18:54.089Z",
+  "fetched_at": "2026-11-18T00:18:58.827Z",
+  "content_hash": "4db22d703fc8b3d5a937dd0b9530b9d371d506afa01094d214de4b953bba134a",
+  "article_path": "articles/6c990ee64177b1f8.md",
+  "fetched_url": "https://x.com/Google/status/2122820914777845813",
+  "source_path": "sources/articles/gemini-4-hydrogen-goes-live-in-google-search-globally.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-18T00:39:39.119Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

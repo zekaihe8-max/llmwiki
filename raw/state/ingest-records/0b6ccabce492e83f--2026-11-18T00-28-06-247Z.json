@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:28:06.247Z",
+  "url": "https://x.com/LisaSu/status/2122699620417778149",
+  "slug": "0b6ccabce492e83f",
+  "content_hash": "3279bf3ae11e528f7f8f071934de77293a37b345598634e47780ce214a5db7de",
+  "source": {
+    "path": "sources/articles/lisa-su-welcome-taalas-team-to-amd-family.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及公司层面的 AI 业务与团队整合，与 AMD 接收新团队相关。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "涉及美国算力优势，AMD 为美国半导体与算力公司。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及 GPU 与 AI 算力领域，AMD 属于该领域公司。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "涉及公司层面的 AI 业务与团队整合，与 AMD 接收新团队相关。",
+    "topics/gpu-ai-compute-unlock.md": "涉及 GPU 与 AI 算力领域，AMD 属于该领域公司。",
+    "topics/china-open-source-lead-us-compute.md": "涉及美国算力优势，AMD 为美国半导体与算力公司。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lisa-su-welcome-taalas-team-to-amd-family.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/china-open-source-lead-us-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "涉及公司层面的 AI 业务与团队整合，与 AMD 接收新团队相关。",
+      "topics/gpu-ai-compute-unlock.md": "涉及 GPU 与 AI 算力领域，AMD 属于该领域公司。",
+      "topics/china-open-source-lead-us-compute.md": "涉及美国算力优势，AMD 为美国半导体与算力公司。"
+    },
+    "notes": "现有目录中无直接覆盖 AMD 或半导体团队加入的主题，故仅咨询并保持相关主题 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lisa-su-welcome-taalas-team-to-amd-family.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

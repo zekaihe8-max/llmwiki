@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-18T00:32:56.467Z",
+  "url": "https://x.com/emollick/status/2122664990624641421",
+  "slug": "104b439891d1b238",
+  "content_hash": "f6ec85bd81f568a6859da1c7fdc1faaaa66eb565a7a6dcfccbd95493f9aba999",
+  "source": {
+    "path": "sources/articles/ethan-mollick-one-agent-often-beats-enterprise-specialized-subag.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/company-agent-harness.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "与智能体架构基础设施相关，为该帖讨论的 Agent 设计提供上下文。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "对应企业构建的 Agentic 方案与 Harness 被谴责的背景。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "直接对应“把子 Agent 折进主循环”与单一智能体优于子 Agent 碎片化的论点。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "涉及多智能体基建问题，与单一智能体替代多 Agent 架构相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "直接对应“把子 Agent 折进主循环”与单一智能体优于子 Agent 碎片化的论点。",
+    "topics/company-agent-harness.md": "对应企业构建的 Agentic 方案与 Harness 被谴责的背景。",
+    "topics/multiagent-infra-four-problems.md": "涉及多智能体基建问题，与单一智能体替代多 Agent 架构相关。",
+    "topics/agentic-ai-foundation.md": "与智能体架构基础设施相关，为该帖讨论的 Agent 设计提供上下文。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ethan-mollick-one-agent-often-beats-enterprise-specialized-subag.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/company-agent-harness.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "直接对应“把子 Agent 折进主循环”与单一智能体优于子 Agent 碎片化的论点。",
+      "topics/company-agent-harness.md": "对应企业构建的 Agentic 方案与 Harness 被谴责的背景。",
+      "topics/multiagent-infra-four-problems.md": "涉及多智能体基建问题，与单一智能体替代多 Agent 架构相关。",
+      "topics/agentic-ai-foundation.md": "与智能体架构基础设施相关，为该帖讨论的 Agent 设计提供上下文。"
+    },
+    "notes": "Source URL used as cite basis; all claims grounded in the fetched article markdown only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ethan-mollick-one-agent-often-beats-enterprise-specialized-subag.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

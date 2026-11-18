@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文涉及合作伙伴插件与应用内集成，与应用内模型合作伙伴主题最为贴近。",
+    "topics/loose-web-agent-harness-plugins.md": "帖文提及销售插件与合作伙伴插件，属于 Agent Harness 插件范畴。",
+    "topics/agent-skill-authoring.md": "销售插件可视为面向 Agent 的技能编写与扩展场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文涉及合作伙伴插件与应用内集成，与应用内模型合作伙伴主题最为贴近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "帖文提及销售插件与合作伙伴插件，属于 Agent Harness 插件范畴。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "销售插件可视为面向 Agent 的技能编写与扩展场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于抓取的 X 帖文正文与互动数据，未引用外部链接内容。"
+}
