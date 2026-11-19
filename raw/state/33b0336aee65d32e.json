@@ -1,0 +1,23 @@
+{
+  "slug": "33b0336aee65d32e",
+  "url": "https://facebookresearch.github.io/RAM/blogs/self_improving_memory",
+  "title": "Meta 让模型自己改进记忆",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "33b0336aee65d32eaeb2e00b45627d306eb6d091043c4612534b311cf977ba12",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:06.878Z",
+  "content_hash": "6453797f616d2aedaa22d76fff6be549b52e4e86cd427e986fc9dde087fe5548",
+  "article_path": "articles/33b0336aee65d32e.md",
+  "fetched_url": "https://facebookresearch.github.io/RAM/blogs/self_improving_memory/",
+  "source_path": "sources/articles/self-improving-memory.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:36:34.168Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

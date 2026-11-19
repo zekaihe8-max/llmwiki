@@ -1,0 +1,23 @@
+{
+  "slug": "74a41020ee8e975c",
+  "url": "https://x.com/gdb/status/2123130414323888463",
+  "title": "Brockman",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "74a41020ee8e975ce54fa5fff9d9a75d5d596e52d9311722edb0a8a6680fa7be",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:59.774Z",
+  "content_hash": "9815ccff2fe22b74d9fb9270314b530cb77433dc064b3cc44c90901507d1e530",
+  "article_path": "articles/74a41020ee8e975c.md",
+  "fetched_url": "https://x.com/gdb/status/2123130414323888463",
+  "source_path": "sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:27:02.844Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

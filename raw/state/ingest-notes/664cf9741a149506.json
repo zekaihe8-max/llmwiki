@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文核心是 Codex 提示词编写与验收标准，属 Agent 上下文工程范畴",
+    "topics/agents-md-token-efficiency.md": "文中明确建议保持 AGENTS.md 精简，只写无法从代码、测试或文档推断的约定",
+    "topics/fold-subagents-into-main-loop.md": "文中提到将并行工作交给子 agent，并写入 skill 或 AGENTS.md 作为默认授权",
+    "topics/agent-skill-authoring.md": "文中建议把并行工作规则写入对应 skill，说明适用场景"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Codex 提示词编写与验收标准，属 Agent 上下文工程范畴"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中明确建议保持 AGENTS.md 精简，只写无法从代码、测试或文档推断的约定"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文中提到将并行工作交给子 agent，并写入 skill 或 AGENTS.md 作为默认授权"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中建议把并行工作规则写入对应 skill，说明适用场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

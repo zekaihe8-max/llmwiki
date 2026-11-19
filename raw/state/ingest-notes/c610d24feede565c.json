@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型产品线策略，但本条为 Gemini 4 Neon 单一发布，无需修改现有主题。",
+    "topics/premium-ai-subscription-value.md": "涉及 Pro/Ultra 订阅层级，但本条仅为上线公告，不改动订阅价值分析。",
+    "topics/cloud-auto-model-routing.md": "涉及云端模型编排，但本条为官方产品发布，未涉及路由基建细节。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型产品线策略，但本条为 Gemini 4 Neon 单一发布，无需修改现有主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 Pro/Ultra 订阅层级，但本条仅为上线公告，不改动订阅价值分析。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云端模型编排，但本条为官方产品发布，未涉及路由基建细节。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容来源于 X 帖文，未独立核实 Gemini 4 Neon 的具体能力与上线状态。"
+}

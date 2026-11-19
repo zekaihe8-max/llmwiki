@@ -1,0 +1,23 @@
+{
+  "slug": "5c6672083fd21356",
+  "url": "https://x.com/OpenAIDevs/status/2123188195202617408",
+  "title": "Background",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "5c6672083fd21356d4aa347ddf2d3bae8d5d8b411bdab56c4ae8ee5cb716c88b",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:01.737Z",
+  "content_hash": "e0944e2a4fc9663509149dae926ebcd7d395aab0cffb8887f6174481af471208",
+  "article_path": "articles/5c6672083fd21356.md",
+  "fetched_url": "https://x.com/OpenAIDevs/status/2123188195202617408",
+  "source_path": "sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:29:14.350Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

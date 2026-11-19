@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:24:22.294Z",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+  "slug": "be0aed2f51056a6d",
+  "content_hash": "492200e3978c9690146158b2e7c0d7fafd199cb05dcadb393fa8ecb9ebbe53a1",
+  "source": {
+    "path": "sources/articles/introducing-gemini-4-neon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-cybersecurity-jobs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章聚焦复杂软件工程、多文件调试与长周期 Agent 工作流，与规模化智能体工程相关。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 Google Antigravity 中的 Agent 群（/swarm）及面向可信防守者的网络安全防守场景。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "专章介绍 Gemini 4 Neon for cyber 的漏洞发现、利用验证与补丁修复能力，涉及 AI 与网络安全工作。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章对比 Neon 与 Carbon 的思考层级、任务成本与产品定位，属模型策略与产品线对比。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章对比 Neon 与 Carbon 的思考层级、任务成本与产品定位，属模型策略与产品线对比。",
+    "topics/agent-swarms-cyber-defense.md": "文中多次提到 Google Antigravity 中的 Agent 群（/swarm）及面向可信防守者的网络安全防守场景。",
+    "topics/agent-scaled-engineering.md": "文章聚焦复杂软件工程、多文件调试与长周期 Agent 工作流，与规模化智能体工程相关。",
+    "topics/ai-cybersecurity-jobs.md": "专章介绍 Gemini 4 Neon for cyber 的漏洞发现、利用验证与补丁修复能力，涉及 AI 与网络安全工作。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-gemini-4-neon.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-swarms-cyber-defense.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-cybersecurity-jobs.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文章对比 Neon 与 Carbon 的思考层级、任务成本与产品定位，属模型策略与产品线对比。",
+      "topics/agent-swarms-cyber-defense.md": "文中多次提到 Google Antigravity 中的 Agent 群（/swarm）及面向可信防守者的网络安全防守场景。",
+      "topics/agent-scaled-engineering.md": "文章聚焦复杂软件工程、多文件调试与长周期 Agent 工作流，与规模化智能体工程相关。",
+      "topics/ai-cybersecurity-jobs.md": "专章介绍 Gemini 4 Neon for cyber 的漏洞发现、利用验证与补丁修复能力，涉及 AI 与网络安全工作。"
+    },
+    "notes": "所有数据均源自提供的文章，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-gemini-4-neon.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

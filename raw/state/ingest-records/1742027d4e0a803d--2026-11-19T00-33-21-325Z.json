@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:33:21.325Z",
+  "url": "https://x.com/natolambert/status/2123182764199485530",
+  "slug": "1742027d4e0a803d",
+  "content_hash": "341ba8ab1a1df289eef223e083babe4550550fd5c7536119c724fb5c5bcd5362",
+  "source": {
+    "path": "sources/articles/anthropic-s-trust-us-we-re-the-good-guys-strategy-and-superintel.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/millenarian-apocalypse-discourse.md",
+    "topics/frontier-training-containment.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Anthropic 不视自身为普通公司，与 AI 原生公司主题相关"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Anthropic 作为前沿 AI 实验室，其训练与安全边界问题与前沿训练环境隔离相关"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "帖文涉及超级智能 AI 毁灭人类的末日叙事，与千禧年末日话语主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/millenarian-apocalypse-discourse.md": "帖文涉及超级智能 AI 毁灭人类的末日叙事，与千禧年末日话语主题相近",
+    "topics/frontier-training-containment.md": "Anthropic 作为前沿 AI 实验室，其训练与安全边界问题与前沿训练环境隔离相关",
+    "topics/ai-native-companies.md": "帖文讨论 Anthropic 不视自身为普通公司，与 AI 原生公司主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-s-trust-us-we-re-the-good-guys-strategy-and-superintel.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/millenarian-apocalypse-discourse.md",
+      "topics/frontier-training-containment.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/millenarian-apocalypse-discourse.md": "帖文涉及超级智能 AI 毁灭人类的末日叙事，与千禧年末日话语主题相近",
+      "topics/frontier-training-containment.md": "Anthropic 作为前沿 AI 实验室，其训练与安全边界问题与前沿训练环境隔离相关",
+      "topics/ai-native-companies.md": "帖文讨论 Anthropic 不视自身为普通公司，与 AI 原生公司主题相关"
+    },
+    "notes": "所有主张均源自抓取的 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-s-trust-us-we-re-the-good-guys-strategy-and-superintel.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

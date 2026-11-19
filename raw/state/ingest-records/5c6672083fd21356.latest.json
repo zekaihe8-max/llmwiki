@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:29:14.349Z",
+  "url": "https://x.com/OpenAIDevs/status/2123188195202617408",
+  "slug": "5c6672083fd21356",
+  "content_hash": "e0944e2a4fc9663509149dae926ebcd7d395aab0cffb8887f6174481af471208",
+  "source": {
+    "path": "sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/near-real-time-decisions-api.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述后台模式与延迟首响应，与智能体自动模式主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文提及按 Token 节省高达 40%，与省 Token 工具与开销主题相关。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Responses API 与响应时间目标，与近实时决策 API 主题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是可延迟的工作流，与“工作流优先于智能体”主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文核心是可延迟的工作流，与“工作流优先于智能体”主题直接相关。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文提及按 Token 节省高达 40%，与省 Token 工具与开销主题相关。",
+    "topics/near-real-time-decisions-api.md": "帖文涉及 Responses API 与响应时间目标，与近实时决策 API 主题相关。",
+    "topics/agent-auto-mode.md": "帖文描述后台模式与延迟首响应，与智能体自动模式主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/near-real-time-decisions-api.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "帖文核心是可延迟的工作流，与“工作流优先于智能体”主题直接相关。",
+      "topics/coding-agent-token-saving-tooling.md": "帖文提及按 Token 节省高达 40%，与省 Token 工具与开销主题相关。",
+      "topics/near-real-time-decisions-api.md": "帖文涉及 Responses API 与响应时间目标，与近实时决策 API 主题相关。",
+      "topics/agent-auto-mode.md": "帖文描述后台模式与延迟首响应，与智能体自动模式主题相关。"
+    },
+    "notes": "GPT-6.2 Astra/Sol 等型号名称均源自帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

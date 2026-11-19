@@ -1,0 +1,23 @@
+{
+  "slug": "e5d58a1cc967d21f",
+  "url": "https://x.com/ChatGPT/status/2123159134963196357",
+  "title": "Accounting",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "e5d58a1cc967d21f56abced997ffc0f22acf3f872bdc86fde4af337081c89c7a",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:01.393Z",
+  "content_hash": "973ef765af263121b0ab2d949ebc33ff9762009fc391b562ff1134e9fb36cd6c",
+  "article_path": "articles/e5d58a1cc967d21f.md",
+  "fetched_url": "https://x.com/ChatGPT/status/2123159134963196357",
+  "source_path": "sources/articles/chatgpt-accounting-plugin-launches-with-quickbooks-and-other-fin.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:28:48.901Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

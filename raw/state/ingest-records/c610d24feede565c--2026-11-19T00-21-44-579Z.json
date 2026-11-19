@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:21:44.579Z",
+  "url": "https://x.com/sundarpichai/status/2123167780988125621",
+  "slug": "c610d24feede565c",
+  "content_hash": "8b7db8552c31708b25007597b8b2357585d6d6ad43c48a2d8c97bdaf2375860a",
+  "source": {
+    "path": "sources/articles/sundar-pichai-announces-gemini-4-neon-rollout.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云端模型编排，但本条为官方产品发布，未涉及路由基建细节。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 Pro/Ultra 订阅层级，但本条仅为上线公告，不改动订阅价值分析。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型产品线策略，但本条为 Gemini 4 Neon 单一发布，无需修改现有主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型产品线策略，但本条为 Gemini 4 Neon 单一发布，无需修改现有主题。",
+    "topics/premium-ai-subscription-value.md": "涉及 Pro/Ultra 订阅层级，但本条仅为上线公告，不改动订阅价值分析。",
+    "topics/cloud-auto-model-routing.md": "涉及云端模型编排，但本条为官方产品发布，未涉及路由基建细节。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sundar-pichai-announces-gemini-4-neon-rollout.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及模型产品线策略，但本条为 Gemini 4 Neon 单一发布，无需修改现有主题。",
+      "topics/premium-ai-subscription-value.md": "涉及 Pro/Ultra 订阅层级，但本条仅为上线公告，不改动订阅价值分析。",
+      "topics/cloud-auto-model-routing.md": "涉及云端模型编排，但本条为官方产品发布，未涉及路由基建细节。"
+    },
+    "notes": "内容来源于 X 帖文，未独立核实 Gemini 4 Neon 的具体能力与上线状态。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sundar-pichai-announces-gemini-4-neon-rollout.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

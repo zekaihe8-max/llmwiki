@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:34:20.861Z",
+  "url": "https://antigravity.google/blog/gemini-4-neon-in-google-antigravity",
+  "slug": "5ca24160586a5219",
+  "content_hash": "f8f00fb8325f606514d37f5fe1656161edab13413bd39ebe86a2d920e39bb350",
+  "source": {
+    "path": "sources/articles/gemini-4-neon-in-google-antigravity.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Neon、Carbon、Hydrogen 三者定位涉及 Agent 模型渠道的取舍。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章中 Orchestrator 将 Neon 与 Hydrogen 编排，属于跨模型路由与调度。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中提到更低的 Token 成本与每任务成本降低 32%。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "分层模型策略（Carbon/Neon/Hydrogen）与 Pro 与 Flash 模型策略主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "文章中 Orchestrator 将 Neon 与 Hydrogen 编排，属于跨模型路由与调度。",
+    "topics/agent-model-channel-tradeoffs.md": "Neon、Carbon、Hydrogen 三者定位涉及 Agent 模型渠道的取舍。",
+    "topics/pro-vs-flash-model-strategy.md": "分层模型策略（Carbon/Neon/Hydrogen）与 Pro 与 Flash 模型策略主题相近。",
+    "topics/coding-agent-token-saving-tooling.md": "文中提到更低的 Token 成本与每任务成本降低 32%。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-4-neon-in-google-antigravity.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/cloud-auto-model-routing.md": "文章中 Orchestrator 将 Neon 与 Hydrogen 编排，属于跨模型路由与调度。",
+      "topics/agent-model-channel-tradeoffs.md": "Neon、Carbon、Hydrogen 三者定位涉及 Agent 模型渠道的取舍。",
+      "topics/pro-vs-flash-model-strategy.md": "分层模型策略（Carbon/Neon/Hydrogen）与 Pro 与 Flash 模型策略主题相近。",
+      "topics/coding-agent-token-saving-tooling.md": "文中提到更低的 Token 成本与每任务成本降低 32%。"
+    },
+    "notes": "所有主题均复用现有条目，未新建主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-4-neon-in-google-antigravity.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

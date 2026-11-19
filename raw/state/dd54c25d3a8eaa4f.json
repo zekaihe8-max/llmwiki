@@ -1,0 +1,23 @@
+{
+  "slug": "dd54c25d3a8eaa4f",
+  "url": "https://x.com/OpenAI/status/2123100386638877054",
+  "title": "OpenAI",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "dd54c25d3a8eaa4f6d653de2a06859c8a115e4ad42915bbf902c89144eb07cc4",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:59.337Z",
+  "content_hash": "f4a0fc9cd20e88dd415fc18977e2727750c952376f56d76290ca41ec1c37222c",
+  "article_path": "articles/dd54c25d3a8eaa4f.md",
+  "fetched_url": "https://x.com/OpenAI/status/2123100386638877054",
+  "source_path": "sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:26:34.408Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

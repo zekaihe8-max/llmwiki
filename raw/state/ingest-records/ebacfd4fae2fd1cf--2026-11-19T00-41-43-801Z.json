@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:41:43.801Z",
+  "url": "https://x.com/fchollet/status/2123193532186005962",
+  "slug": "ebacfd4fae2fd1cf",
+  "content_hash": "2f0118f44592acb574fc537b15a2ae61195052067555376037ab7bfa9fb5c963",
+  "source": {
+    "path": "sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提及“该价格点”，与高端 AI 订阅价值评估相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型定价与产品线定位，与 Pro/Flash 模型策略主题相近"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文称赞“亮眼数字”，涉及公开模型表现数据的解读"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文涉及模型定价与产品线定位，与 Pro/Flash 模型策略主题相近",
+    "topics/premium-ai-subscription-value.md": "帖文提及“该价格点”，与高端 AI 订阅价值评估相关",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文称赞“亮眼数字”，涉及公开模型表现数据的解读"
+  },
+  "files_changed": [
+    "sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文涉及模型定价与产品线定位，与 Pro/Flash 模型策略主题相近",
+      "topics/premium-ai-subscription-value.md": "帖文提及“该价格点”，与高端 AI 订阅价值评估相关",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文称赞“亮眼数字”，涉及公开模型表现数据的解读"
+    },
+    "notes": "来源仅为 X 帖文，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

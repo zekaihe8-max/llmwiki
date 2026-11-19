@@ -1,0 +1,23 @@
+{
+  "slug": "5d6aa42e4c534140",
+  "url": "https://x.com/hwchase17/status/2123127685455249854",
+  "title": "Chase",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "5d6aa42e4c534140957703915888a93f21f027ae580094052c08043c7235e129",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:06.026Z",
+  "content_hash": "098720a6446fea8a55e338a033508b3e3c1ea2ca9081f8420ea4e7ae3a31f647",
+  "article_path": "articles/5d6aa42e4c534140.md",
+  "fetched_url": "https://x.com/hwchase17/status/2123127685455249854",
+  "source_path": "sources/articles/harrison-chase-posts-about-langsmith-coding-agent-roi-dashboard.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:34:50.268Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

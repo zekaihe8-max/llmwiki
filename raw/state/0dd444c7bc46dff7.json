@@ -1,0 +1,23 @@
+{
+  "slug": "0dd444c7bc46dff7",
+  "url": "https://x.com/ArtificialAnlys/status/2123170645777526962",
+  "title": "AA",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "0dd444c7bc46dff783363b66cf02feffcad133bfd97f6608eae640db9640a6a2",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:57.878Z",
+  "content_hash": "6c030925708e0765d2ae04a435eafc0815c7b0129a9b879d26f19fcef9571642",
+  "article_path": "articles/0dd444c7bc46dff7.md",
+  "fetched_url": "https://x.com/ArtificialAnlys/status/2123170645777526962",
+  "source_path": "sources/articles/google-releases-gemini-4-neon-with-slight-intelligence-gain-and.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:23:49.810Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

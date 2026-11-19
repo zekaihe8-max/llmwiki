@@ -1,0 +1,23 @@
+{
+  "slug": "ebacfd4fae2fd1cf",
+  "url": "https://x.com/fchollet/status/2123193532186005962",
+  "title": "Neon",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "ebacfd4fae2fd1cf2523da54f4d7b1bf30883037b56afa71950532dc38124766",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:03.155Z",
+  "content_hash": "2f0118f44592acb574fc537b15a2ae61195052067555376037ab7bfa9fb5c963",
+  "article_path": "articles/ebacfd4fae2fd1cf.md",
+  "fetched_url": "https://x.com/fchollet/status/2123193532186005962",
+  "source_path": "sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:41:43.801Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

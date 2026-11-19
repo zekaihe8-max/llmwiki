@@ -1,0 +1,23 @@
+{
+  "slug": "1865b623b59a90b8",
+  "url": "https://x.com/fchollet/status/2123191344822902818",
+  "title": "回报",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "1865b623b59a90b8646b634541e964fa40a95b87b3ae676cb1593592435a54af",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:02.069Z",
+  "content_hash": "70ccdf8f3d9a2887c8d410eabc1bc8cac7dce489cbfc07a3630aebf26f8d4030",
+  "article_path": "articles/1865b623b59a90b8.md",
+  "fetched_url": "https://x.com/fchollet/status/2123191344822902818",
+  "source_path": "sources/articles/token-spend-roi-and-infinite-latent-demand.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:41:43.718Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

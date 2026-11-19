@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:24:47.604Z",
+  "url": "https://x.com/AnthropicAI/status/2123196808675405860",
+  "slug": "6e0772f7081a4468",
+  "content_hash": "b112897d64715a0a2496c52b6b0cf7e5e19c63e0afa1b46c4dd803bfa3450286",
+  "source": {
+    "path": "sources/articles/anthropic-prices-ipo-at-83-per-share-nasdaq-trading-expected-soo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 作为 AI 原生公司，其上市动态与该主题所属公司类别相关。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章涉及 IPO 定价与上市，与该主题的上市前夕语境最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 定价与上市，与该主题的上市前夕语境最为贴近。",
+    "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司，其上市动态与该主题所属公司类别相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-prices-ipo-at-83-per-share-nasdaq-trading-expected-soo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 定价与上市，与该主题的上市前夕语境最为贴近。",
+      "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司，其上市动态与该主题所属公司类别相关。"
+    },
+    "notes": "未找到直接覆盖企业 IPO 公告的现有主题，故所有咨询主题均保持不变。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-prices-ipo-at-83-per-share-nasdaq-trading-expected-soo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

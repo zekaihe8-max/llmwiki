@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ontology-driven-observability.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文核心是警惕测试数量与刷分或奖励黑客，与“社区实测对抗刷分碰瓷”主题高度相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文强调在信任验证前先审视其实际价值，与“信任公开榜前先审质量”方向一致。",
+    "topics/ontology-driven-observability.md": "帖文主张只有看清底层才能判断验证价值，对应“本体驱动的可观测性”中对系统内部洞察的强调。",
+    "topics/agent-scaled-engineering.md": "帖文讨论智能体编写大量测试与 lint 规则的工程场景，与“智能体规模化工程”相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文核心是警惕测试数量与刷分或奖励黑客，与“社区实测对抗刷分碰瓷”主题高度相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文强调在信任验证前先审视其实际价值，与“信任公开榜前先审质量”方向一致。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "帖文主张只有看清底层才能判断验证价值，对应“本体驱动的可观测性”中对系统内部洞察的强调。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体编写大量测试与 lint 规则的工程场景，与“智能体规模化工程”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容均来自所提供的 X 帖文文本，未引入外部事实。"
+}

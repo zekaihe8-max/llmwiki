@@ -1,0 +1,23 @@
+{
+  "slug": "178b07c38278cb91",
+  "url": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+  "title": "DeepMind",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "178b07c38278cb91754b3bfe14ba2b505b60d93a6d762f3dcea119055d7299c3",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:56.647Z",
+  "content_hash": "8d17fc1109f41d4fad5acf1e33bd69c612d03389644cd8a3ee07103785659225",
+  "article_path": "articles/178b07c38278cb91.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+  "source_path": "sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:22:14.047Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

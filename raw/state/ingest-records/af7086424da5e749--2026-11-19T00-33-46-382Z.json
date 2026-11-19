@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:33:46.382Z",
+  "url": "https://x.com/rauchg/status/2123203741570740504",
+  "slug": "af7086424da5e749",
+  "content_hash": "5229a76bb8633ebcc58e9088c9ec0b8881032a6f5cfd526d663540967b836292",
+  "source": {
+    "path": "sources/articles/rauch-a-new-inference-neocloud-every-two-days-but-usage-keeps-ri.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI 原生公司与新云创业浪潮，对应帖文中每两天被推销一家新公司的现象。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台模型路由与 AI Gateway 流量，对应帖文中 Vercel Token 需求快速增长。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "推理服务提供商与聚合平台的竞争格局，与帖文中推理新云泛滥及未来整合预期相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "推理服务的成本与效率问题，对应帖文中对新云公司可持续性的质疑。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "推理服务提供商与聚合平台的竞争格局，与帖文中推理新云泛滥及未来整合预期相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "推理服务的成本与效率问题，对应帖文中对新云公司可持续性的质疑。",
+    "topics/cloud-auto-model-routing.md": "云平台模型路由与 AI Gateway 流量，对应帖文中 Vercel Token 需求快速增长。",
+    "topics/ai-native-companies.md": "AI 原生公司与新云创业浪潮，对应帖文中每两天被推销一家新公司的现象。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rauch-a-new-inference-neocloud-every-two-days-but-usage-keeps-ri.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "推理服务提供商与聚合平台的竞争格局，与帖文中推理新云泛滥及未来整合预期相关。",
+      "topics/lab-inference-serving-cost-efficiency.md": "推理服务的成本与效率问题，对应帖文中对新云公司可持续性的质疑。",
+      "topics/cloud-auto-model-routing.md": "云平台模型路由与 AI Gateway 流量，对应帖文中 Vercel Token 需求快速增长。",
+      "topics/ai-native-companies.md": "AI 原生公司与新云创业浪潮，对应帖文中每两天被推销一家新公司的现象。"
+    },
+    "notes": "帖文发布时间显示为 2026 年 11 月 18 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rauch-a-new-inference-neocloud-every-two-days-but-usage-keeps-ri.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

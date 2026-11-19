@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文涉及模型定价与产品线定位，与 Pro/Flash 模型策略主题相近",
+    "topics/premium-ai-subscription-value.md": "帖文提及“该价格点”，与高端 AI 订阅价值评估相关",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文称赞“亮眼数字”，涉及公开模型表现数据的解读"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型定价与产品线定位，与 Pro/Flash 模型策略主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提及“该价格点”，与高端 AI 订阅价值评估相关"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文称赞“亮眼数字”，涉及公开模型表现数据的解读"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未引入文章外事实。"
+}

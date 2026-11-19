@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文明确将 Genie 4 称为“交互式世界模型”，与该主题直接相关。",
+    "topics/premium-ai-subscription-value.md": "帖文提到“Eligible Ultra subs”，涉及高端 AI 订阅的权益与价值。",
+    "topics/vibe-gaming-model-inflection.md": "实时物理与模拟世界的表述与游戏/世界模型拐点议题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确将 Genie 4 称为“交互式世界模型”，与该主题直接相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到“Eligible Ultra subs”，涉及高端 AI 订阅的权益与价值。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "实时物理与模拟世界的表述与游戏/世界模型拐点议题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文 markdown，未引入外部事实或编造完整 URL。"
+}

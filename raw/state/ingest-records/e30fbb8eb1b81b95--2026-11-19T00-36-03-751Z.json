@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:36:03.751Z",
+  "url": "https://x.com/shao__meng/status/2122961408262635560",
+  "slug": "e30fbb8eb1b81b95",
+  "content_hash": "bd7221e2dd4b310fb1fcf96fc4c3408db602066ae06483f4223bcd2f86c903fc",
+  "source": {
+    "path": "sources/articles/meta-ai-self-improving-memory-models-discover-memory-strategies.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中元 agent 自动修改提示并让模型持续改进，与智能体自动模式相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到将优化后的记忆行为蒸馏进权重，涉及 Agent 技能的自动发现与编写。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是记忆目录、LOAD/OFFLOAD 指示与上下文管理，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文核心是记忆目录、LOAD/OFFLOAD 指示与上下文管理，属于 Agent 上下文工程范畴。",
+    "topics/agent-auto-mode.md": "文中元 agent 自动修改提示并让模型持续改进，与智能体自动模式相关。",
+    "topics/agent-skill-authoring.md": "文中提到将优化后的记忆行为蒸馏进权重，涉及 Agent 技能的自动发现与编写。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meta-ai-self-improving-memory-models-discover-memory-strategies.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "帖文核心是记忆目录、LOAD/OFFLOAD 指示与上下文管理，属于 Agent 上下文工程范畴。",
+      "topics/agent-auto-mode.md": "文中元 agent 自动修改提示并让模型持续改进，与智能体自动模式相关。",
+      "topics/agent-skill-authoring.md": "文中提到将优化后的记忆行为蒸馏进权重，涉及 Agent 技能的自动发现与编写。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meta-ai-self-improving-memory-models-discover-memory-strategies.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

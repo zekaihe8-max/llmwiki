@@ -1,0 +1,23 @@
+{
+  "slug": "cbd54934417f43a4",
+  "url": "https://x.com/emollick/status/2122869773683831129",
+  "title": "补丁",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "cbd54934417f43a421cd3c6ff60f07ed92c4338934925c21da4e83702d7f8e84",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:04.147Z",
+  "content_hash": "ce8e850c9cd745b02d2a3c145792edaeb28e0b9ed893a120b6911d81b8f57255",
+  "article_path": "articles/cbd54934417f43a4.md",
+  "fetched_url": "https://x.com/emollick/status/2122869773683831129",
+  "source_path": "sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:32:11.095Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:30:42.446Z",
+  "url": "https://x.com/emollick/status/2123092922312925530",
+  "slug": "c02e0418377d1e51",
+  "content_hash": "9f40dce910b2aef7aef869496e9ca0609374ddce0758e5bbe283812b3fac9937",
+  "source": {
+    "path": "sources/articles/don-t-over-extrapolate-reactions-to-model-point-releases.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/embedded-third-party-evals.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型测试者反馈与评测，与 AI 评测入口与记录主题相近。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文警示不要因测试者反应而炒作分数，与社区实测对抗刷分碰瓷主题相关。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "帖文涉及外部测试者对模型版本的反馈，与驻场第三方评估主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文提示不应过度解读模型版本反应，与公开榜单质量审查主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "帖文涉及模型测试者反馈与评测，与 AI 评测入口与记录主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文提示不应过度解读模型版本反应，与公开榜单质量审查主题相关。",
+    "topics/community-evals-vs-score-hype.md": "帖文警示不要因测试者反应而炒作分数，与社区实测对抗刷分碰瓷主题相关。",
+    "topics/embedded-third-party-evals.md": "帖文涉及外部测试者对模型版本的反馈，与驻场第三方评估主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-over-extrapolate-reactions-to-model-point-releases.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/embedded-third-party-evals.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "帖文涉及模型测试者反馈与评测，与 AI 评测入口与记录主题相近。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文提示不应过度解读模型版本反应，与公开榜单质量审查主题相关。",
+      "topics/community-evals-vs-score-hype.md": "帖文警示不要因测试者反应而炒作分数，与社区实测对抗刷分碰瓷主题相关。",
+      "topics/embedded-third-party-evals.md": "帖文涉及外部测试者对模型版本的反馈，与驻场第三方评估主题相近。"
+    },
+    "notes": "来源仅为单条 X 帖文，未引用外部链接或文中未出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-over-extrapolate-reactions-to-model-point-releases.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

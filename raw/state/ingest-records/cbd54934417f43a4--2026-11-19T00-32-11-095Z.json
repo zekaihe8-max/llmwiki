@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:32:11.095Z",
+  "url": "https://x.com/emollick/status/2122869773683831129",
+  "slug": "cbd54934417f43a4",
+  "content_hash": "ce8e850c9cd745b02d2a3c145792edaeb28e0b9ed893a120b6911d81b8f57255",
+  "source": {
+    "path": "sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/open-models-cyber-defense.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章核心围绕安全补丁推送与系统运维，属账号与资产安全卫生范畴，现有主题已覆盖，无需新建。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "文中涉及 AI 模型发现漏洞与网络安全事件，与 AI 与网络安全岗位主题相关，现有主题已覆盖，无需新建。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "AI 模型与漏洞修补、系统防御相关，开源模型与网络防御主题已覆盖此类交叉讨论，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章核心围绕安全补丁推送与系统运维，属账号与资产安全卫生范畴，现有主题已覆盖，无需新建。",
+    "topics/ai-cybersecurity-jobs.md": "文中涉及 AI 模型发现漏洞与网络安全事件，与 AI 与网络安全岗位主题相关，现有主题已覆盖，无需新建。",
+    "topics/open-models-cyber-defense.md": "AI 模型与漏洞修补、系统防御相关，开源模型与网络防御主题已覆盖此类交叉讨论，无需新建。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/ai-cybersecurity-jobs.md",
+      "topics/open-models-cyber-defense.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "文章核心围绕安全补丁推送与系统运维，属账号与资产安全卫生范畴，现有主题已覆盖，无需新建。",
+      "topics/ai-cybersecurity-jobs.md": "文中涉及 AI 模型发现漏洞与网络安全事件，与 AI 与网络安全岗位主题相关，现有主题已覆盖，无需新建。",
+      "topics/open-models-cyber-defense.md": "AI 模型与漏洞修补、系统防御相关，开源模型与网络防御主题已覆盖此类交叉讨论，无需新建。"
+    },
+    "notes": "未核实主张已用「帖文称」或引用表述标注；外部链接内容未在本条中独立验证。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:37:00.312Z",
+  "url": "https://learn.chatgpt.com/guides/prompting-gpt-6-2-astra",
+  "slug": "8df66fba8141355a",
+  "content_hash": "77c51b57a0a96cb4a553d099d46eac7c5342565b6db4bf14da2e6b706bda166d",
+  "source": {
+    "path": "sources/articles/prompting-gpt-6-2-astra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-worktree-cleanup.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章提到将常用指令放入相应 skill，与该主题的 Skill 编写相关。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "文章提到结束时停止后台作业并删除临时文件，与 worktree 完成即删相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章讨论保持 AGENTS.md 精简、只写 Codex 无法推断的内容，与项目指令与 Token 效率相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章涉及使用子代理处理并行工作，与子代理主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章提到将常用指令放入相应 skill，与该主题的 Skill 编写相关。",
+    "topics/agents-md-token-efficiency.md": "文章讨论保持 AGENTS.md 精简、只写 Codex 无法推断的内容，与项目指令与 Token 效率相关。",
+    "topics/fold-subagents-into-main-loop.md": "文章涉及使用子代理处理并行工作，与子代理主题相关。",
+    "topics/agent-worktree-cleanup.md": "文章提到结束时停止后台作业并删除临时文件，与 worktree 完成即删相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/prompting-gpt-6-2-astra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-worktree-cleanup.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章提到将常用指令放入相应 skill，与该主题的 Skill 编写相关。",
+      "topics/agents-md-token-efficiency.md": "文章讨论保持 AGENTS.md 精简、只写 Codex 无法推断的内容，与项目指令与 Token 效率相关。",
+      "topics/fold-subagents-into-main-loop.md": "文章涉及使用子代理处理并行工作，与子代理主题相关。",
+      "topics/agent-worktree-cleanup.md": "文章提到结束时停止后台作业并删除临时文件，与 worktree 完成即删相关。"
+    },
+    "notes": "Source URL: https://learn.chatgpt.com/guides/prompting-gpt-6-2-astra",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/prompting-gpt-6-2-astra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

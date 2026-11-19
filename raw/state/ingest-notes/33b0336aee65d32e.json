@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心是优化代理的记忆提示与上下文管理，与 Agent 上下文工程主题高度相关",
+    "topics/harness-comparison-beyond-tokens.md": "文中对比不同记忆提示（harness）在持续学习任务上的得分，属于超越 token 数的 Harness 对比",
+    "topics/agent-auto-mode.md": "模型自行发现并内化记忆策略，体现智能体自动模式与自我改进"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是优化代理的记忆提示与上下文管理，与 Agent 上下文工程主题高度相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中对比不同记忆提示（harness）在持续学习任务上的得分，属于超越 token 数的 Harness 对比"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "模型自行发现并内化记忆策略，体现智能体自动模式与自我改进"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: https://facebookresearch.github.io/RAM/blogs/self_improving_memory"
+}

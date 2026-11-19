@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "与帖文中代币效率与支出主题最为贴近",
+    "topics/coding-agent-token-saving-tooling.md": "涉及代币节省工具与开销，与代币成本讨论相关",
+    "topics/harness-comparison-beyond-tokens.md": "超越 token 数的对比，与代币消费经济性相关",
+    "topics/usage-limit-ab-tests.md": "用量上限测试与代币消费规模讨论相关"
+  },
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "与帖文中代币效率与支出主题最为贴近"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "涉及代币节省工具与开销，与代币成本讨论相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "超越 token 数的对比，与代币消费经济性相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "用量上限测试与代币消费规模讨论相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章日期为 2026 年，按原文保留；互动数具体类型未在原文标注。"
+}

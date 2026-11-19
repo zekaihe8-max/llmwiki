@@ -1,0 +1,34 @@
+{
+  "slug": "58da586369f33999",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "title": "报告",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "failed",
+  "hash": "58da586369f33999eb920dc2411502d48d9dc9ca37a4ab1a788d83ffd176938a",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-19T00:20:59.307Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-19T00:42:35.705Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-19T00:42:35.705Z"
+}
