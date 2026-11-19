@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:10:02.578Z",
+  "url": "https://x.com/xiaomovps/status/2123346580329922696",
+  "slug": "59d4b678cd774361",
+  "content_hash": "3e122d1ac67925d1b4644f58f63805105b0d5d23ddbd7006602230f26dc9006a",
+  "source": {
+    "path": "sources/articles/google-ai-pro-discount-guide-10-ways-to-get-cheaper-or-free-acce.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及通过不同渠道（运营商、硬件、教育、地区）获取模型访问权限的取舍，与渠道对比相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论高端 AI 订阅的定价策略与性价比获取路径，直接对应该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心讨论高端 AI 订阅的定价策略与性价比获取路径，直接对应该主题。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及通过不同渠道（运营商、硬件、教育、地区）获取模型访问权限的取舍，与渠道对比相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-ai-pro-discount-guide-10-ways-to-get-cheaper-or-free-acce.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心讨论高端 AI 订阅的定价策略与性价比获取路径，直接对应该主题。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及通过不同渠道（运营商、硬件、教育、地区）获取模型访问权限的取舍，与渠道对比相关。"
+    },
+    "notes": "Source is a single X post; all claims attributed to the post (\"帖文称\"/\"the post states\"). Prices and eligibility may change; verify on official pages before purchase.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-ai-pro-discount-guide-10-ways-to-get-cheaper-or-free-acce.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/interactive-world-models.md",
+    "topics/near-real-time-decisions-api.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "文章讨论实时语音对话节奏、抢话与回应延迟，与纯语音全双工主题直接相关",
+    "topics/interactive-world-models.md": "SeedRealtime 将摄像头、声音与时间序列放入端到端模型进行实时交互，属于实时交互世界模型的应用",
+    "topics/near-real-time-decisions-api.md": "文章核心是火山引擎开放近实时音视频决策与对话 API，供第三方接入",
+    "topics/computer-use.md": "模型持续观察摄像头并根据画面主动提醒，涉及 AI 对环境视觉输入的使用与感知"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "文章讨论实时语音对话节奏、抢话与回应延迟，与纯语音全双工主题直接相关"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "SeedRealtime 将摄像头、声音与时间序列放入端到端模型进行实时交互，属于实时交互世界模型的应用"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "文章核心是火山引擎开放近实时音视频决策与对话 API，供第三方接入"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "模型持续观察摄像头并根据画面主动提醒，涉及 AI 对环境视觉输入的使用与感知"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文，未引用外部事实。"
+}

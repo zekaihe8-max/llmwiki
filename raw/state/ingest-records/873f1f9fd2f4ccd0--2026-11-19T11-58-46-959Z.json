@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T11:58:46.959Z",
+  "url": "https://x.com/vista8/status/2123229887226105885",
+  "slug": "873f1f9fd2f4ccd0",
+  "content_hash": "2295b5b1b27e10be7a41440728287cfc4ad163e0a913320191ef5bde33ebbb71",
+  "source": {
+    "path": "sources/articles/shenzhen-geo-conference-starts-in-two-days.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实践与社群主题，与文中社群参与方式有松散关联，无需新建或修改。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "标题包含 GEO，与本文 GEO 大会主题有术语重叠，但内容侧重个人网站，故不改动。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "涉及社区扩展与社群，与文中线上交流社群相关，但不直接对应会议通知，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "标题包含 GEO，与本文 GEO 大会主题有术语重叠，但内容侧重个人网站，故不改动。",
+    "topics/minimal-core-community-extensions.md": "涉及社区扩展与社群，与文中线上交流社群相关，但不直接对应会议通知，故保持不变。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实践与社群主题，与文中社群参与方式有松散关联，无需新建或修改。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shenzhen-geo-conference-starts-in-two-days.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/geo-personal-website-first-step.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/geo-personal-website-first-step.md": "标题包含 GEO，与本文 GEO 大会主题有术语重叠，但内容侧重个人网站，故不改动。",
+      "topics/minimal-core-community-extensions.md": "涉及社区扩展与社群，与文中线上交流社群相关，但不直接对应会议通知，故保持不变。",
+      "topics/community-evals-vs-score-hype.md": "涉及社区实践与社群主题，与文中社群参与方式有松散关联，无需新建或修改。"
+    },
+    "notes": "未找到直接对应会议通知或线下活动的现有主题，故仅引用最接近的 GEO 与社群类主题并保持 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shenzhen-geo-conference-starts-in-two-days.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

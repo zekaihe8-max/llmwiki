@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:14:50.054Z",
+  "url": "https://x.com/EianLu/status/2123313614073540612",
+  "slug": "acc70833c817281c",
+  "content_hash": "8a5895772b8b538ca953c57681a39cb24bf2562d180019c8ea84298782ab58ec",
+  "source": {
+    "path": "sources/articles/sharing-several-useful-but-little-known-large-models-in-niche-tr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文中 AI MediaKit 与 Seedance 草稿模式涉及视频后期处理与剪辑，与该主题高度相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Seed Audio 1.0、Seedream 5.5 等属于前沿大模型，与该主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Seedance 2.5 草稿模式通过 480p 样片降低 4K 成片成本，体现模型策略与成本取舍。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "Hyper3D Gen2 与 Seed3D 2.0 涉及 3D 模型生成与资产，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文中 AI MediaKit 与 Seedance 草稿模式涉及视频后期处理与剪辑，与该主题高度相关。",
+    "topics/open-weight-frontier-models.md": "Seed Audio 1.0、Seedream 5.5 等属于前沿大模型，与该主题相关。",
+    "topics/simulation-ready-open-3d-assets.md": "Hyper3D Gen2 与 Seed3D 2.0 涉及 3D 模型生成与资产，与该主题相关。",
+    "topics/pro-vs-flash-model-strategy.md": "Seedance 2.5 草稿模式通过 480p 样片降低 4K 成片成本，体现模型策略与成本取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sharing-several-useful-but-little-known-large-models-in-niche-tr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文中 AI MediaKit 与 Seedance 草稿模式涉及视频后期处理与剪辑，与该主题高度相关。",
+      "topics/open-weight-frontier-models.md": "Seed Audio 1.0、Seedream 5.5 等属于前沿大模型，与该主题相关。",
+      "topics/simulation-ready-open-3d-assets.md": "Hyper3D Gen2 与 Seed3D 2.0 涉及 3D 模型生成与资产，与该主题相关。",
+      "topics/pro-vs-flash-model-strategy.md": "Seedance 2.5 草稿模式通过 480p 样片降低 4K 成片成本，体现模型策略与成本取舍。"
+    },
+    "notes": "文章发布时间显示为 2026 年 11 月 19 日，所有内容均基于该帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sharing-several-useful-but-little-known-large-models-in-niche-tr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

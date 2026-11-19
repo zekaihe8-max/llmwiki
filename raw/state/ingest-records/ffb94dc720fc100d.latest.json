@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:01:32.509Z",
+  "url": "https://x.com/shao__meng/status/2123232255309119893",
+  "slug": "ffb94dc720fc100d",
+  "content_hash": "8094908d41b163be87c17693ab6deeb5e0da3c8e8304af0e81c7ed5af8b7c33b",
+  "source": {
+    "path": "sources/articles/shopify-mobile-app-attack-surface-map-and-agent-security-review.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/one-question-at-a-time.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "模型每个工作日自动查看改动并更新地图，体现 Agent 自动化运行。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Shopify 在代码吞吐 11 倍增长背景下，通过 Agent 规模化安全工程。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中核心做法是按安全类别编写并复用 Skill 来生成攻击面地图。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "审查流程明确要求“一次只审一项”，避免模型输出又长又含糊的清单。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文中核心做法是按安全类别编写并复用 Skill 来生成攻击面地图。",
+    "topics/agent-scaled-engineering.md": "Shopify 在代码吞吐 11 倍增长背景下，通过 Agent 规模化安全工程。",
+    "topics/one-question-at-a-time.md": "审查流程明确要求“一次只审一项”，避免模型输出又长又含糊的清单。",
+    "topics/agent-auto-mode.md": "模型每个工作日自动查看改动并更新地图，体现 Agent 自动化运行。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shopify-mobile-app-attack-surface-map-and-agent-security-review.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/one-question-at-a-time.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文中核心做法是按安全类别编写并复用 Skill 来生成攻击面地图。",
+      "topics/agent-scaled-engineering.md": "Shopify 在代码吞吐 11 倍增长背景下，通过 Agent 规模化安全工程。",
+      "topics/one-question-at-a-time.md": "审查流程明确要求“一次只审一项”，避免模型输出又长又含糊的清单。",
+      "topics/agent-auto-mode.md": "模型每个工作日自动查看改动并更新地图，体现 Agent 自动化运行。"
+    },
+    "notes": "来源为 X 帖文引用 Shopify Engineering 博客，未独立访问原文链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shopify-mobile-app-attack-surface-map-and-agent-security-review.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

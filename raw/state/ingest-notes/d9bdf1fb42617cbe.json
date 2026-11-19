@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/grok-bot-x-api-substitute.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "文章强调先厘清目标与流程，再交给 Bot 执行，与“工作流优先于智能体”主题高度相关。",
+    "topics/computer-use.md": "文中提到 Grok Bot 可移动鼠标、点击页面、使用浏览器，属于计算机使用类自动化。",
+    "topics/agent-auto-mode.md": "文中介绍用 Routines 设置定时或消息触发，让 Bot 自动开工，对应智能体自动模式。",
+    "topics/grok-bot-x-api-substitute.md": "文中聚焦 Grok Bot 自动化，与 Grok Bot 相关主题最为贴近。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先厘清目标与流程，再交给 Bot 执行，与“工作流优先于智能体”主题高度相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到 Grok Bot 可移动鼠标、点击页面、使用浏览器，属于计算机使用类自动化。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中介绍用 Routines 设置定时或消息触发，让 Bot 自动开工，对应智能体自动模式。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文中聚焦 Grok Bot 自动化，与 Grok Bot 相关主题最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:13:29.942Z",
+  "url": "https://x.com/lxfater/status/2123277363769426399",
+  "slug": "0b0b444fe31eb3d1",
+  "content_hash": "8bff9ed851c8127cd0445c28595a6d153fa3c199ceb9c210b7b81fee97fad951",
+  "source": {
+    "path": "sources/articles/self-hosting-a-personal-ai-assistant-on-a-4090-with-linger-and-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/local-open-assistant-models.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文核心是消费级 4090 显卡本地跑 AI 推理，与消费级 GPU AI 算力解锁直接相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及自建 Grok Bot 及其对云端额度和限流的不满，与 Grok Bot 话题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文中提到使用开源 Linger 构建本地个人助手，属于本地开放助手范畴。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "用户希望避开云端限流、在自有显卡运行个人 Agent，与个人 Agent 云环境与自建权衡相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文核心是消费级 4090 显卡本地跑 AI 推理，与消费级 GPU AI 算力解锁直接相关。",
+    "topics/local-open-assistant-models.md": "文中提到使用开源 Linger 构建本地个人助手，属于本地开放助手范畴。",
+    "topics/grok-bot-x-api-substitute.md": "帖文明确提及自建 Grok Bot 及其对云端额度和限流的不满，与 Grok Bot 话题相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "用户希望避开云端限流、在自有显卡运行个人 Agent，与个人 Agent 云环境与自建权衡相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/self-hosting-a-personal-ai-assistant-on-a-4090-with-linger-and-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/local-open-assistant-models.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "帖文核心是消费级 4090 显卡本地跑 AI 推理，与消费级 GPU AI 算力解锁直接相关。",
+      "topics/local-open-assistant-models.md": "文中提到使用开源 Linger 构建本地个人助手，属于本地开放助手范畴。",
+      "topics/grok-bot-x-api-substitute.md": "帖文明确提及自建 Grok Bot 及其对云端额度和限流的不满，与 Grok Bot 话题相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "用户希望避开云端限流、在自有显卡运行个人 Agent，与个人 Agent 云环境与自建权衡相关。"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；Linger 与 PolyStrata 为文中提及的开源工具名称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/self-hosting-a-personal-ai-assistant-on-a-4090-with-linger-and-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

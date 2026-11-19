@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "直接提及自带 Claude/Codex 订阅，与帖文核心云环境订阅高度相关。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "帖文主张个人设备退化为轻量终端，与远程 AI Coding 下笔记本只需轻与续航的论点一致。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 云环境的使用与管理，帖文将开发迁至订阅云电脑属于此类场景。",
+    "topics/premium-ai-subscription-value.md": "帖文以订阅已付费为由充分利用云机器，关乎高端 AI 订阅的价值榨取。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "直接提及自带 Claude/Codex 订阅，与帖文核心云环境订阅高度相关。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "帖文主张个人设备退化为轻量终端，与远程 AI Coding 下笔记本只需轻与续航的论点一致。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 云环境的使用与管理，帖文将开发迁至订阅云电脑属于此类场景。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文以订阅已付费为由充分利用云机器，关乎高端 AI 订阅的价值榨取。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题动作均为 unchanged，未创建新主题；引用内容严格基于所提供帖文。"
+}

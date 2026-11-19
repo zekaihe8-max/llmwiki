@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T11:59:13.976Z",
+  "url": "https://a.co/d/0d9fS6G8",
+  "slug": "ec75fbeb90d03e49",
+  "content_hash": "c9dbf5d0a4a4ff9c33c032682bb4d72f301ea6bb093fc0c173f9f16b11e86cba",
+  "source": {
+    "path": "sources/articles/amazon-site-navigation-and-category-page.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/reuse-before-write.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "涉及站点页面结构拆解，与本页导航目录有远程相关性，保持原样"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "与 Amazon 页面内容无直接交集，保持原条目不变"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "未创建新条目，仅复用现有主题作为参考"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "页面导航属用户体验范畴，仅供结构参考，不修改原条目"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "页面导航属用户体验范畴，仅供结构参考，不修改原条目",
+    "topics/landing-page-site-clone-over-skill.md": "涉及站点页面结构拆解，与本页导航目录有远程相关性，保持原样",
+    "topics/reuse-before-write.md": "未创建新条目，仅复用现有主题作为参考",
+    "topics/minimal-core-community-extensions.md": "与 Amazon 页面内容无直接交集，保持原条目不变"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/amazon-site-navigation-and-category-page.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/landing-page-site-clone-over-skill.md",
+      "topics/reuse-before-write.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "页面导航属用户体验范畴，仅供结构参考，不修改原条目",
+      "topics/landing-page-site-clone-over-skill.md": "涉及站点页面结构拆解，与本页导航目录有远程相关性，保持原样",
+      "topics/reuse-before-write.md": "未创建新条目，仅复用现有主题作为参考",
+      "topics/minimal-core-community-extensions.md": "与 Amazon 页面内容无直接交集，保持原条目不变"
+    },
+    "notes": "抓取内容为 Amazon 站点导航与分类菜单，未包含具体商品标题、价格或评价，故未编造产品事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/amazon-site-navigation-and-category-page.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

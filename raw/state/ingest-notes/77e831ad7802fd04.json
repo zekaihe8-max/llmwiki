@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文直接讨论 Grok Bot 及其替代品，与该话题高度相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到 OpenBot 建议部署在 VPS 上以实现 24 小时运行，涉及个人 Agent 云环境。",
+    "topics/agent-model-channel-tradeoffs.md": "OpenBot 可接入不同 AI 厂商模型，涉及面向 Agent 的模型渠道取舍。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文对多个 Personal Agent 进行功能与适用人群对比，属于 Agent/Harness 对比范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文直接讨论 Grok Bot 及其替代品，与该话题高度相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到 OpenBot 建议部署在 VPS 上以实现 24 小时运行，涉及个人 Agent 云环境。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "OpenBot 可接入不同 AI 厂商模型，涉及面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文对多个 Personal Agent 进行功能与适用人群对比，属于 Agent/Harness 对比范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于提供的帖文 markdown，未引入外部事实或 URL。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/launcher-shortcut-ai-over-agent.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/launcher-shortcut-ai-over-agent.md": "涉及启动器/应用图标层面的 AI 入口，与将信息显示在图标上最为贴近",
+    "topics/coding-agent-ux-vs-quota.md": "涉及 AI 用量与额度的体验，与图标上显示剩余额度相关",
+    "topics/design-taste-led-linux-desktop-trial.md": "丁乙文中明确提到图标设计不如原作者，涉及设计品味判断",
+    "topics/ux-dx-and-ax.md": "该工具属于面向用户的体验创新，与 UX 相关"
+  },
+  "topics": [
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "涉及启动器/应用图标层面的 AI 入口，与将信息显示在图标上最为贴近"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 用量与额度的体验，与图标上显示剩余额度相关"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "丁乙文中明确提到图标设计不如原作者，涉及设计品味判断"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "该工具属于面向用户的体验创新，与 UX 相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未核实产品名称与具体功能细节，主张均基于帖文原文表述。"
+}

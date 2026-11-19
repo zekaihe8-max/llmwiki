@@ -1,0 +1,23 @@
+{
+  "slug": "737368ac4128b3d3",
+  "url": "https://x.com/turingou/status/2123331809299616121",
+  "title": "下午把 Claude Code 和 Codex 自带的云环境 review 了一遍，决定把开发迁过去",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "737368ac4128b3d3e3d3f8424a83e8f71a1ef6d3292c0175b868cd74aabd72ee",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:00.439Z",
+  "content_hash": "072c92cc138d0a62d58a69f94c2f70f753b7e04972c27590f45bfe2a1167a398",
+  "article_path": "articles/737368ac4128b3d3.md",
+  "fetched_url": "https://x.com/turingou/status/2123331809299616121",
+  "source_path": "sources/articles/migrating-development-to-claude-code-and-codex-cloud-environment.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:03:05.106Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/workflows-before-agents.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "页面书名与 Agent Skill 编写直接相关，属于最贴近的现有主题。",
+    "topics/agent-skills-open-standard.md": "涉及 Agent Skills 的可复用与标准化方向，可供交叉参考。",
+    "topics/workflows-before-agents.md": "强调先构建工作流再引入智能体，与书中“可复用工作流”主题呼应。",
+    "topics/reuse-before-write.md": "主张先复用再编写，与将重复任务做成可复用 Agent 工作流的思路一致。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "页面书名与 Agent Skill 编写直接相关，属于最贴近的现有主题。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skills 的可复用与标准化方向，可供交叉参考。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调先构建工作流再引入智能体，与书中“可复用工作流”主题呼应。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "主张先复用再编写，与将重复任务做成可复用 Agent 工作流的思路一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Fetched markdown is predominantly Amazon site navigation boilerplate; substantive product facts are taken from the provided digest title hint only."
+}

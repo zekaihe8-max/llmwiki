@@ -1,0 +1,23 @@
+{
+  "slug": "44d5536b9ef78c39",
+  "url": "https://x.com/servasyy_ai/status/2123245663182106812",
+  "title": "用开源 Linger 在 4090 上搭了自己的助手",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "44d5536b9ef78c396cb615e6226e2e94a72aa6a9e837214a70c07a880d0ed1a1",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:04.176Z",
+  "content_hash": "cd13ce4cff75a32136df1cfa5c8ba580ecc5bf90b9b29483b6da193a3fe70440",
+  "article_path": "articles/44d5536b9ef78c39.md",
+  "fetched_url": "https://x.com/servasyy_ai/status/2123245663182106812",
+  "source_path": "sources/articles/built-a-personal-assistant-with-open-source-linger-on-a-4090.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:12:40.233Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

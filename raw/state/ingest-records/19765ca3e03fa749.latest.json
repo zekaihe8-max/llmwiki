@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:22:04.341Z",
+  "url": "https://x.com/Khazix0918/status/2123271194841584096",
+  "slug": "19765ca3e03fa749",
+  "content_hash": "1d89f09f4f2f1210765c68061f4c0f0eaf99548b3ce48e5fc56ed9aa01a3b727",
+  "source": {
+    "path": "sources/articles/google-s-naming-causes-decision-paralysis.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google 模型命名（Pro 与 Flash），与帖文中对谷歌命名混乱的吐槽最为相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及用户体验与命名带来的认知困惑，与选择困难主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google 模型命名（Pro 与 Flash），与帖文中对谷歌命名混乱的吐槽最为相关",
+    "topics/ux-dx-and-ax.md": "涉及用户体验与命名带来的认知困惑，与选择困难主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-s-naming-causes-decision-paralysis.md"
+  ],
+  "agent_notes": {
+    "topics_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Google 模型命名（Pro 与 Flash），与帖文中对谷歌命名混乱的吐槽最为相关",
+      "topics/ux-dx-and-ax.md": "涉及用户体验与命名带来的认知困惑，与选择困难主题相近"
+    },
+    "topics": [
+      {
+        "path": "topics/pro-vs-flash-model-strategy.md",
+        "action": "unchanged",
+        "reason": "涉及 Google 模型命名（Pro 与 Flash），与帖文中对谷歌命名混乱的吐槽最为相关"
+      },
+      {
+        "path": "topics/ux-dx-and-ax.md",
+        "action": "unchanged",
+        "reason": "涉及用户体验与命名带来的认知困惑，与选择困难主题相近"
+      }
+    ],
+    "new_topic_reasons": {},
+    "notes": "图片内容未获取，无法判断具体涉及哪些 Google 产品或命名。"
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

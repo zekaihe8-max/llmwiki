@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:00:56.859Z",
+  "url": "https://x.com/shao__meng/status/2123231149648732618",
+  "slug": "6af9cc9a07e82cf5",
+  "content_hash": "bff9ba48c74613d7c132558b9cae7439d2bd61d6217d92eed1a4e46095a9ea94",
+  "source": {
+    "path": "sources/articles/tencent-president-says-yuanbao-fell-short-of-expectations-spendi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文提到元宝继续在公众号投放广告，涉及AI产品推广与曝光。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章涉及大厂AI产品缩减开支，与推理及运营成本效率相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "元宝作为AI助手产品的商业化预期与付费价值相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章涉及大厂AI产品缩减开支，与推理及运营成本效率相关。",
+    "topics/premium-ai-subscription-value.md": "元宝作为AI助手产品的商业化预期与付费价值相关。",
+    "topics/ai-product-self-rec-amplify.md": "帖文提到元宝继续在公众号投放广告，涉及AI产品推广与曝光。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-president-says-yuanbao-fell-short-of-expectations-spendi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/lab-inference-serving-cost-efficiency.md": "文章涉及大厂AI产品缩减开支，与推理及运营成本效率相关。",
+      "topics/premium-ai-subscription-value.md": "元宝作为AI助手产品的商业化预期与付费价值相关。",
+      "topics/ai-product-self-rec-amplify.md": "帖文提到元宝继续在公众号投放广告，涉及AI产品推广与曝光。"
+    },
+    "notes": "所有主张均引用自该X帖文，未独立核实刘炽平的具体发言。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-president-says-yuanbao-fell-short-of-expectations-spendi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

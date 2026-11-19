@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "标题包含 GEO，与本文 GEO 大会主题有术语重叠，但内容侧重个人网站，故不改动。",
+    "topics/minimal-core-community-extensions.md": "涉及社区扩展与社群，与文中线上交流社群相关，但不直接对应会议通知，故保持不变。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区实践与社群主题，与文中社群参与方式有松散关联，无需新建或修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "标题包含 GEO，与本文 GEO 大会主题有术语重叠，但内容侧重个人网站，故不改动。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "涉及社区扩展与社群，与文中线上交流社群相关，但不直接对应会议通知，故保持不变。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区实践与社群主题，与文中社群参与方式有松散关联，无需新建或修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未找到直接对应会议通知或线下活动的现有主题，故仅引用最接近的 GEO 与社群类主题并保持 unchanged。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:00:21.796Z",
+  "url": "https://x.com/shao__meng/status/2123310660465705364",
+  "slug": "3d4453fa610aee01",
+  "content_hash": "16b18166b9388f31060b542b0727effe71074287f67240e6cfe1e79da049f07f",
+  "source": {
+    "path": "sources/articles/tencent-earnings-call-reveals-key-workbuddy-metrics-over-10-mill.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "WorkBuddy 作为工作智能体，其模型渠道选择与 Agent 渠道取舍相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "WorkBuddy 类 OpenRouter 为开源模型最大客户，涉及云平台跨模型编排。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文以日 Token 消耗衡量规模，涉及超越 Token 数的 Harness 评估语境。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Flash 模型用于获客，与 Pro/Flash 模型策略直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文提到 Flash 模型用于获客，与 Pro/Flash 模型策略直接相关。",
+    "topics/cloud-auto-model-routing.md": "WorkBuddy 类 OpenRouter 为开源模型最大客户，涉及云平台跨模型编排。",
+    "topics/agent-model-channel-tradeoffs.md": "WorkBuddy 作为工作智能体，其模型渠道选择与 Agent 渠道取舍相关。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文以日 Token 消耗衡量规模，涉及超越 Token 数的 Harness 评估语境。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-earnings-call-reveals-key-workbuddy-metrics-over-10-mill.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文提到 Flash 模型用于获客，与 Pro/Flash 模型策略直接相关。",
+      "topics/cloud-auto-model-routing.md": "WorkBuddy 类 OpenRouter 为开源模型最大客户，涉及云平台跨模型编排。",
+      "topics/agent-model-channel-tradeoffs.md": "WorkBuddy 作为工作智能体，其模型渠道选择与 Agent 渠道取舍相关。",
+      "topics/harness-comparison-beyond-tokens.md": "帖文以日 Token 消耗衡量规模，涉及超越 Token 数的 Harness 评估语境。"
+    },
+    "notes": "所有主张均源自该帖文，未独立核实；发布时间显示为 2026 年 11 月 19 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-earnings-call-reveals-key-workbuddy-metrics-over-10-mill.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/local-open-assistant-models.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章核心在于消费级 4090 显卡本地推理，与该主题直接相关。",
+    "topics/local-open-assistant-models.md": "Linger 与 Gemma4 属于本地开放助手与模型落地场景。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "文中提到 Linger 可拉 Agent 团队分工并调度本地与云端模型，对应个人助手调度子 Agent。",
+    "topics/agent-model-channel-tradeoffs.md": "作者混合使用本地模型与已付费的顶级云端模型，涉及模型渠道取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章核心在于消费级 4090 显卡本地推理，与该主题直接相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Linger 与 Gemma4 属于本地开放助手与模型落地场景。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到 Linger 可拉 Agent 团队分工并调度本地与云端模型，对应个人助手调度子 Agent。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "作者混合使用本地模型与已付费的顶级云端模型，涉及模型渠道取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用已有条目，未新增；未核实主张已用「帖文称」标注。"
+}

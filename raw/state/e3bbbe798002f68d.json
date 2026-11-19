@@ -1,0 +1,23 @@
+{
+  "slug": "e3bbbe798002f68d",
+  "url": "https://x.com/xiaomovps/status/2123381271305048117",
+  "title": "谷歌模型太多，他按省 Token 来分活",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "e3bbbe798002f68da9d12b3054df6295403b5f8c262cfed0349b8a8923e5b671",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:01.643Z",
+  "content_hash": "d1d4cae85e6a15c125be6e65502834df3dcd82ad5a4e0f4583bff4c7269c25c7",
+  "article_path": "articles/e3bbbe798002f68d.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2123381271305048117",
+  "source_path": "sources/articles/google-ai-pro-models-tiered-by-task-to-save-tokens.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:04:51.571Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
