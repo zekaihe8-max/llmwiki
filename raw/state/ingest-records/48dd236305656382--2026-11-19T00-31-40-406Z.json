@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:31:40.406Z",
+  "url": "https://x.com/emollick/status/2122983239883317335",
+  "slug": "48dd236305656382",
+  "content_hash": "b432835c6d29aa9ce36c86ab7cd80a0e1df4e47dab3d63b2ddc428e87ad6814e",
+  "source": {
+    "path": "sources/articles/three-frontier-model-labs-recent-releases-satisfy-most-users.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "关注大厂模型发布与推理侧背景，与 Google、OpenAI、Anthropic 等实验室相关"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型发布话题，与帖文讨论的模型能力增益相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论用户对 AI 产品与订阅的满意度，对应帖文中用户“很高兴”的观察"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型发布与产品线策略，与帖文提及的三家公司模型更新相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及前沿模型发布与产品线策略，与帖文提及的三家公司模型更新相近",
+    "topics/premium-ai-subscription-value.md": "讨论用户对 AI 产品与订阅的满意度，对应帖文中用户“很高兴”的观察",
+    "topics/lab-inference-serving-cost-efficiency.md": "关注大厂模型发布与推理侧背景，与 Google、OpenAI、Anthropic 等实验室相关",
+    "topics/open-weight-frontier-models.md": "涉及前沿模型发布话题，与帖文讨论的模型能力增益相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/three-frontier-model-labs-recent-releases-satisfy-most-users.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及前沿模型发布与产品线策略，与帖文提及的三家公司模型更新相近",
+      "topics/premium-ai-subscription-value.md": "讨论用户对 AI 产品与订阅的满意度，对应帖文中用户“很高兴”的观察",
+      "topics/lab-inference-serving-cost-efficiency.md": "关注大厂模型发布与推理侧背景，与 Google、OpenAI、Anthropic 等实验室相关",
+      "topics/open-weight-frontier-models.md": "涉及前沿模型发布话题，与帖文讨论的模型能力增益相近"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/three-frontier-model-labs-recent-releases-satisfy-most-users.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

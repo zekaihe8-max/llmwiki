@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:27:02.843Z",
+  "url": "https://x.com/gdb/status/2123130414323888463",
+  "slug": "74a41020ee8e975c",
+  "content_hash": "9815ccff2fe22b74d9fb9270314b530cb77433dc064b3cc44c90901507d1e530",
+  "source": {
+    "path": "sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/tools-building-own-models.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 属 AI 原生公司并将 AI 应用于硬件，但现有主题未覆盖芯片设计，故不作变动。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "芯片设计与验证与形式化验证相邻，但目录中无半导体专用主题，故保持不变。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "OpenAI 用自有模型提升芯片设计，契合自建模型话语权，但文章不涉及模型训练或产品策略，故保持原样。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "芯片设计与验证与形式化验证相邻，但目录中无半导体专用主题，故保持不变。",
+    "topics/tools-building-own-models.md": "OpenAI 用自有模型提升芯片设计，契合自建模型话语权，但文章不涉及模型训练或产品策略，故保持原样。",
+    "topics/ai-native-companies.md": "OpenAI 属 AI 原生公司并将 AI 应用于硬件，但现有主题未覆盖芯片设计，故不作变动。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/tools-building-own-models.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "芯片设计与验证与形式化验证相邻，但目录中无半导体专用主题，故保持不变。",
+      "topics/tools-building-own-models.md": "OpenAI 用自有模型提升芯片设计，契合自建模型话语权，但文章不涉及模型训练或产品策略，故保持原样。",
+      "topics/ai-native-companies.md": "OpenAI 属 AI 原生公司并将 AI 应用于硬件，但现有主题未覆盖芯片设计，故不作变动。"
+    },
+    "notes": "所有主张均基于推文文本，未引用外部事实；附带的四张照片未作为独立事实使用。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

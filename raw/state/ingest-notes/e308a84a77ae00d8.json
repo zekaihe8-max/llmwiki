@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "涉及上市前（pre-IPO）语境，与本次定价公告最相关。",
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，该主题可复用以关联公司定位。",
+    "topics/company-agent-harness.md": "公司级主题，可复用于 Anthropic 作为公司实体的背景关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及上市前（pre-IPO）语境，与本次定价公告最相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，该主题可复用以关联公司定位。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "公司级主题，可复用于 Anthropic 作为公司实体的背景关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自 Anthropic 官方公告页面，未引入外部信息。"
+}

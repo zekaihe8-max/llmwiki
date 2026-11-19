@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:39:20.990Z",
+  "url": "https://x.com/mattpocockuk/status/2123098316867051991",
+  "slug": "a3b4e7baea7717b6",
+  "content_hash": "5c9b79e6f321a9158858b096c6f1623ae8a98ffe4fde29d3f0ce385f4c032b5d",
+  "source": {
+    "path": "sources/articles/matt-completing-a-21-000-line-pr-with-skills.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/reuse-before-write.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心围绕技能仓库与技能编写，主题直接相关。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到如何进行有效的人工评审，与人审设计门控主题相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "技能仓库建设体现先复用再编写的理念，与该主题有呼应。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "2.1 万行大规模 PR 的软件工程实践与软件工厂主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心围绕技能仓库与技能编写，主题直接相关。",
+    "topics/divergent-tasks-human-design-gate.md": "帖文明确提到如何进行有效的人工评审，与人审设计门控主题相近。",
+    "topics/reuse-before-write.md": "技能仓库建设体现先复用再编写的理念，与该主题有呼应。",
+    "topics/software-factory.md": "2.1 万行大规模 PR 的软件工程实践与软件工厂主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/matt-completing-a-21-000-line-pr-with-skills.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/divergent-tasks-human-design-gate.md",
+      "topics/reuse-before-write.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心围绕技能仓库与技能编写，主题直接相关。",
+      "topics/divergent-tasks-human-design-gate.md": "帖文明确提到如何进行有效的人工评审，与人审设计门控主题相近。",
+      "topics/reuse-before-write.md": "技能仓库建设体现先复用再编写的理念，与该主题有呼应。",
+      "topics/software-factory.md": "2.1 万行大规模 PR 的软件工程实践与软件工厂主题相关。"
+    },
+    "notes": "所有事实均来源于所获取的 X 帖文正文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/matt-completing-a-21-000-line-pr-with-skills.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

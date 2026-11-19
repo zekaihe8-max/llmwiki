@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "Gemini 4 Neon 属于模型发布与产品线定位，与 Pro/Flash 模型策略主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文称模型“打破同级模型天花板”，涉及前沿模型声明与质量审视。",
+    "topics/ai-product-self-rec-amplify.md": "公司人员在社交平台自荐自家 AI 产品，符合 AI 产品自荐与主持人加热主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Gemini 4 Neon 属于模型发布与产品线定位，与 Pro/Flash 模型策略主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文称模型“打破同级模型天花板”，涉及前沿模型声明与质量审视。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "公司人员在社交平台自荐自家 AI 产品，符合 AI 产品自荐与主持人加热主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

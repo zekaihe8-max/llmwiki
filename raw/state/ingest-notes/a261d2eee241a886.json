@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是 Genie 4 与 Project Genie 的实时交互世界生成，直接命中该主题。",
+    "topics/vibe-gaming-model-inflection.md": "Genie 4 的世界模型与可交互数字世界创作属于生成式游戏与世界模型拐点范畴。",
+    "topics/agentic-ai-foundation.md": "新增的 Project Genie 智能体通过自然语言对话编排多模态模型，涉及智能体基础能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Genie 4 与 Project Genie 的实时交互世界生成，直接命中该主题。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "Genie 4 的世界模型与可交互数字世界创作属于生成式游戏与世界模型拐点范畴。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "新增的 Project Genie 智能体通过自然语言对话编排多模态模型，涉及智能体基础能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于提供的博客文章，未引入外部事实或 URL。"
+}

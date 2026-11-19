@@ -1,0 +1,23 @@
+{
+  "slug": "e308a84a77ae00d8",
+  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "title": "公告",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "e308a84a77ae00d83193b9513b7cd6ebd3e543714c502c5364a85b3cd224a8c8",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:58.853Z",
+  "content_hash": "594a619326f379c5f0a75356cdf8c212684ebeac7dcfa62d9388c4a85766e240",
+  "article_path": "articles/e308a84a77ae00d8.md",
+  "fetched_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "source_path": "sources/articles/anthropic-prices-initial-public-offering.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:25:36.539Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

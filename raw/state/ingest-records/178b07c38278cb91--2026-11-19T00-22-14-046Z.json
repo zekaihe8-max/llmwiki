@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:22:14.046Z",
+  "url": "https://x.com/GoogleDeepMind/status/2123167884411077030",
+  "slug": "178b07c38278cb91",
+  "content_hash": "8d17fc1109f41d4fad5acf1e33bd69c612d03389644cd8a3ee07103785659225",
+  "source": {
+    "path": "sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/frontier-training-containment.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文强调复杂软件工程与任务完成，涉及 AI 任务时界与能力边界。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "帖文提及“前沿智能”，与前沿模型主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型层级与命名策略，最接近 Carbon/Hydrogen/Neon 的定位描述。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型层级与命名策略，最接近 Carbon/Hydrogen/Neon 的定位描述。",
+    "topics/frontier-training-containment.md": "帖文提及“前沿智能”，与前沿模型主题相关。",
+    "topics/ai-task-horizon-growth.md": "帖文强调复杂软件工程与任务完成，涉及 AI 任务时界与能力边界。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/frontier-training-containment.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及模型层级与命名策略，最接近 Carbon/Hydrogen/Neon 的定位描述。",
+      "topics/frontier-training-containment.md": "帖文提及“前沿智能”，与前沿模型主题相关。",
+      "topics/ai-task-horizon-growth.md": "帖文强调复杂软件工程与任务完成，涉及 AI 任务时界与能力边界。"
+    },
+    "notes": "所有事实仅来自所抓取的 X 帖文正文；未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

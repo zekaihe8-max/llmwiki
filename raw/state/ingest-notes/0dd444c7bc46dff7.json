@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比 Gemini 4 Neon 与 Carbon 不同档位，涉及模型系列定价与定位取舍。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文章重点披露每任务成本、token 单价与推理速度，属大厂推理成本效率议题。",
+    "topics/public-benchmark-quality-scrutiny.md": "内容引用人工智能分析智能指数、编程 Agent 指数等公开榜单成绩，需审视评测质量。",
+    "topics/agent-model-channel-tradeoffs.md": "Neon 在 Antigravity CLI 编程 Agent 场景中的表现与成本，涉及面向 Agent 的模型渠道选择。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Gemini 4 Neon 与 Carbon 不同档位，涉及模型系列定价与定位取舍。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章重点披露每任务成本、token 单价与推理速度，属大厂推理成本效率议题。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "内容引用人工智能分析智能指数、编程 Agent 指数等公开榜单成绩，需审视评测质量。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "Neon 在 Antigravity CLI 编程 Agent 场景中的表现与成本，涉及面向 Agent 的模型渠道选择。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文正文，未引入外部信息。"
+}

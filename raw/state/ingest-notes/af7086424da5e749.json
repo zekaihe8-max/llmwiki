@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "推理服务提供商与聚合平台的竞争格局，与帖文中推理新云泛滥及未来整合预期相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "推理服务的成本与效率问题，对应帖文中对新云公司可持续性的质疑。",
+    "topics/cloud-auto-model-routing.md": "云平台模型路由与 AI Gateway 流量，对应帖文中 Vercel Token 需求快速增长。",
+    "topics/ai-native-companies.md": "AI 原生公司与新云创业浪潮，对应帖文中每两天被推销一家新公司的现象。"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "推理服务提供商与聚合平台的竞争格局，与帖文中推理新云泛滥及未来整合预期相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "推理服务的成本与效率问题，对应帖文中对新云公司可持续性的质疑。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "云平台模型路由与 AI Gateway 流量，对应帖文中 Vercel Token 需求快速增长。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI 原生公司与新云创业浪潮，对应帖文中每两天被推销一家新公司的现象。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 18 日。"
+}

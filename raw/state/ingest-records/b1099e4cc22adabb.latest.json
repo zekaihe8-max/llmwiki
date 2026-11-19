@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:22:39.750Z",
+  "url": "https://x.com/demishassabis/status/2123168218743554465",
+  "slug": "b1099e4cc22adabb",
+  "content_hash": "f12f5485582d08a7483d59d5beed9c0bd1e01a079af2424369b2e709cf8b4215",
+  "source": {
+    "path": "sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "创始人亲自在社交平台为自家模型背书，属于 AI 产品自荐与主持人加热情形。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 Pro 与 Ultra 订阅用户，关联高端 AI 订阅价值主题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文涉及面向 Pro 用户的新模型发布，与模型分级策略主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文涉及面向 Pro 用户的新模型发布，与模型分级策略主题相关。",
+    "topics/premium-ai-subscription-value.md": "帖文明确提及 Pro 与 Ultra 订阅用户，关联高端 AI 订阅价值主题。",
+    "topics/ai-product-self-rec-amplify.md": "创始人亲自在社交平台为自家模型背书，属于 AI 产品自荐与主持人加热情形。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文涉及面向 Pro 用户的新模型发布，与模型分级策略主题相关。",
+      "topics/premium-ai-subscription-value.md": "帖文明确提及 Pro 与 Ultra 订阅用户，关联高端 AI 订阅价值主题。",
+      "topics/ai-product-self-rec-amplify.md": "创始人亲自在社交平台为自家模型背书，属于 AI 产品自荐与主持人加热情形。"
+    },
+    "notes": "所有主张均源于该 X 帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

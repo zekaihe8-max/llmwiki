@@ -1,0 +1,23 @@
+{
+  "slug": "b1099e4cc22adabb",
+  "url": "https://x.com/demishassabis/status/2123168218743554465",
+  "title": "Hassabis",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "b1099e4cc22adabb20c305092095d01fb9a855c5ebe40a72151dff8826f292de",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:57.029Z",
+  "content_hash": "f12f5485582d08a7483d59d5beed9c0bd1e01a079af2424369b2e709cf8b4215",
+  "article_path": "articles/b1099e4cc22adabb.md",
+  "fetched_url": "https://x.com/demishassabis/status/2123168218743554465",
+  "source_path": "sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:22:39.751Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

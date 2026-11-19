@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:36:34.168Z",
+  "url": "https://facebookresearch.github.io/RAM/blogs/self_improving_memory",
+  "slug": "33b0336aee65d32e",
+  "content_hash": "6453797f616d2aedaa22d76fff6be549b52e4e86cd427e986fc9dde087fe5548",
+  "source": {
+    "path": "sources/articles/self-improving-memory.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "模型自行发现并内化记忆策略，体现智能体自动模式与自我改进"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是优化代理的记忆提示与上下文管理，与 Agent 上下文工程主题高度相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中对比不同记忆提示（harness）在持续学习任务上的得分，属于超越 token 数的 Harness 对比"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心是优化代理的记忆提示与上下文管理，与 Agent 上下文工程主题高度相关",
+    "topics/harness-comparison-beyond-tokens.md": "文中对比不同记忆提示（harness）在持续学习任务上的得分，属于超越 token 数的 Harness 对比",
+    "topics/agent-auto-mode.md": "模型自行发现并内化记忆策略，体现智能体自动模式与自我改进"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/self-improving-memory.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心是优化代理的记忆提示与上下文管理，与 Agent 上下文工程主题高度相关",
+      "topics/harness-comparison-beyond-tokens.md": "文中对比不同记忆提示（harness）在持续学习任务上的得分，属于超越 token 数的 Harness 对比",
+      "topics/agent-auto-mode.md": "模型自行发现并内化记忆策略，体现智能体自动模式与自我改进"
+    },
+    "notes": "Source: https://facebookresearch.github.io/RAM/blogs/self_improving_memory",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/self-improving-memory.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

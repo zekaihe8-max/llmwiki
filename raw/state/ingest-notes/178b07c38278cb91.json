@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/frontier-training-containment.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型层级与命名策略，最接近 Carbon/Hydrogen/Neon 的定位描述。",
+    "topics/frontier-training-containment.md": "帖文提及“前沿智能”，与前沿模型主题相关。",
+    "topics/ai-task-horizon-growth.md": "帖文强调复杂软件工程与任务完成，涉及 AI 任务时界与能力边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型层级与命名策略，最接近 Carbon/Hydrogen/Neon 的定位描述。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "帖文提及“前沿智能”，与前沿模型主题相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文强调复杂软件工程与任务完成，涉及 AI 任务时界与能力边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自所抓取的 X 帖文正文；未核实主张已用「帖文称」标注。"
+}

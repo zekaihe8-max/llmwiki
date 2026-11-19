@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/pure-speech-full-duplex.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文核心是创建交互式虚拟世界，与该主题直接相关。",
+    "topics/pure-speech-full-duplex.md": "Genie 4 引入原生音频，与语音/音频交互主题相近。",
+    "topics/vibe-gaming-model-inflection.md": "交互式虚拟世界创建与游戏及模型拐点主题相关。",
+    "topics/agentic-video-editing.md": "实时编辑功能与智能体辅助编辑主题有交叉。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文核心是创建交互式虚拟世界，与该主题直接相关。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "Genie 4 引入原生音频，与语音/音频交互主题相近。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "交互式虚拟世界创建与游戏及模型拐点主题相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "实时编辑功能与智能体辅助编辑主题有交叉。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 Google DeepMind 在 X 上的帖文，未引用超出文章内容的事实。"
+}

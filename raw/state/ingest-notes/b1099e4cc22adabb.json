@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文涉及面向 Pro 用户的新模型发布，与模型分级策略主题相关。",
+    "topics/premium-ai-subscription-value.md": "帖文明确提及 Pro 与 Ultra 订阅用户，关联高端 AI 订阅价值主题。",
+    "topics/ai-product-self-rec-amplify.md": "创始人亲自在社交平台为自家模型背书，属于 AI 产品自荐与主持人加热情形。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文涉及面向 Pro 用户的新模型发布，与模型分级策略主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 Pro 与 Ultra 订阅用户，关联高端 AI 订阅价值主题。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "创始人亲自在社交平台为自家模型背书，属于 AI 产品自荐与主持人加热情形。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于该 X 帖文，未经独立核实。"
+}

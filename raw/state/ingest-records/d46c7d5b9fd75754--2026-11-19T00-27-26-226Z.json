@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:27:26.226Z",
+  "url": "https://x.com/demishassabis/status/2123130606162985350",
+  "slug": "d46c7d5b9fd75754",
+  "content_hash": "6e07d8d18145bcb317b53aaa69108737c4baf91adad536c4c56161af4df877ac",
+  "source": {
+    "path": "sources/articles/demis-hassabis-announces-genie-4-availability-for-eligible-ultra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文明确将 Genie 4 称为“交互式世界模型”，与该主题直接相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到“Eligible Ultra subs”，涉及高端 AI 订阅的权益与价值。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "实时物理与模拟世界的表述与游戏/世界模型拐点议题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文明确将 Genie 4 称为“交互式世界模型”，与该主题直接相关。",
+    "topics/premium-ai-subscription-value.md": "帖文提到“Eligible Ultra subs”，涉及高端 AI 订阅的权益与价值。",
+    "topics/vibe-gaming-model-inflection.md": "实时物理与模拟世界的表述与游戏/世界模型拐点议题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/demis-hassabis-announces-genie-4-availability-for-eligible-ultra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "帖文明确将 Genie 4 称为“交互式世界模型”，与该主题直接相关。",
+      "topics/premium-ai-subscription-value.md": "帖文提到“Eligible Ultra subs”，涉及高端 AI 订阅的权益与价值。",
+      "topics/vibe-gaming-model-inflection.md": "实时物理与模拟世界的表述与游戏/世界模型拐点议题相近。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文 markdown，未引入外部事实或编造完整 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/demis-hassabis-announces-genie-4-availability-for-eligible-ultra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

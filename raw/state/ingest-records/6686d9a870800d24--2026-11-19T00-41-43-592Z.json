@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:41:43.592Z",
+  "url": "https://x.com/OfficialLoganK/status/2123167791922741362",
+  "slug": "6686d9a870800d24",
+  "content_hash": "89f14d95fe78cccc0f0c83b15940b4cf53a5d45549a6f2c71ebfa5a58f8687d5",
+  "source": {
+    "path": "sources/articles/logan-announces-gemini-4-neon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "公司人员在社交平台自荐自家 AI 产品，符合 AI 产品自荐与主持人加热主题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "Gemini 4 Neon 属于模型发布与产品线定位，与 Pro/Flash 模型策略主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文称模型“打破同级模型天花板”，涉及前沿模型声明与质量审视。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "Gemini 4 Neon 属于模型发布与产品线定位，与 Pro/Flash 模型策略主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文称模型“打破同级模型天花板”，涉及前沿模型声明与质量审视。",
+    "topics/ai-product-self-rec-amplify.md": "公司人员在社交平台自荐自家 AI 产品，符合 AI 产品自荐与主持人加热主题。"
+  },
+  "files_changed": [
+    "sources/articles/logan-announces-gemini-4-neon.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "Gemini 4 Neon 属于模型发布与产品线定位，与 Pro/Flash 模型策略主题相近。",
+      "topics/public-benchmark-quality-scrutiny.md": "帖文称模型“打破同级模型天花板”，涉及前沿模型声明与质量审视。",
+      "topics/ai-product-self-rec-amplify.md": "公司人员在社交平台自荐自家 AI 产品，符合 AI 产品自荐与主持人加热主题。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/logan-announces-gemini-4-neon.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

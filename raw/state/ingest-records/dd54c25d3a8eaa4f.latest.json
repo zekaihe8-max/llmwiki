@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:26:34.407Z",
+  "url": "https://x.com/OpenAI/status/2123100386638877054",
+  "slug": "dd54c25d3a8eaa4f",
+  "content_hash": "f4a0fc9cd20e88dd415fc18977e2727750c952376f56d76290ca41ec1c37222c",
+  "source": {
+    "path": "sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/llm-formal-verification.md",
+    "topics/on-chip-agent-runtime.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文主体为 OpenAI 这类 AI 原生公司的技术合作与自研芯片。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文涉及旗舰 GPU IP 的 PPA 改进，与 GPU 算力主题相关。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文提及 EDA 设计与验证工具，与形式化验证和设计验证相近。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "帖文涉及定制推理芯片 Jalapeño，与芯片上的运行时主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文涉及旗舰 GPU IP 的 PPA 改进，与 GPU 算力主题相关。",
+    "topics/llm-formal-verification.md": "帖文提及 EDA 设计与验证工具，与形式化验证和设计验证相近。",
+    "topics/on-chip-agent-runtime.md": "帖文涉及定制推理芯片 Jalapeño，与芯片上的运行时主题相关。",
+    "topics/ai-native-companies.md": "帖文主体为 OpenAI 这类 AI 原生公司的技术合作与自研芯片。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/llm-formal-verification.md",
+      "topics/on-chip-agent-runtime.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "帖文涉及旗舰 GPU IP 的 PPA 改进，与 GPU 算力主题相关。",
+      "topics/llm-formal-verification.md": "帖文提及 EDA 设计与验证工具，与形式化验证和设计验证相近。",
+      "topics/on-chip-agent-runtime.md": "帖文涉及定制推理芯片 Jalapeño，与芯片上的运行时主题相关。",
+      "topics/ai-native-companies.md": "帖文主体为 OpenAI 这类 AI 原生公司的技术合作与自研芯片。"
+    },
+    "notes": "帖文发布时间显示为 2026 年 11 月 18 日，均按原文引用，未核实外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

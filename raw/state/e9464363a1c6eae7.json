@@ -1,0 +1,23 @@
+{
+  "slug": "e9464363a1c6eae7",
+  "url": "https://x.com/OpenAI/status/2123191365983248653",
+  "title": "OpenAI",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "e9464363a1c6eae74841ed18b82394b467d0c1780b1f5ba5480325ed71db3bf8",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:20:58.955Z",
+  "content_hash": "600538bf7cd04567bcbb0cc15d33145963ae92e6783ae3a6e7df4bb67c725037",
+  "article_path": "articles/e9464363a1c6eae7.md",
+  "fetched_url": "https://x.com/OpenAI/status/2123191365983248653",
+  "source_path": "sources/articles/openai-releases-research-acceleration-report-urges-ai-labs-to-tr.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:26:03.575Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ac4b784b66bd3496",
+  "url": "https://x.com/GoogleDeepMind/status/2123117733709586849",
+  "title": "DeepMind",
+  "digest": "2026-11-19-frontier-ai.md",
+  "status": "filed",
+  "hash": "ac4b784b66bd3496d6f3ce667691f456916621db25c81411c66eec82396e6c5c",
+  "first_seen": "2026-11-19T00:20:55.911Z",
+  "last_seen": "2026-11-19T00:20:55.911Z",
+  "fetched_at": "2026-11-19T00:21:00.528Z",
+  "content_hash": "cb50486bdf6250aae0e53683fb78efb736658284377602ed69912f7262efd4c1",
+  "article_path": "articles/ac4b784b66bd3496.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2123117733709586849",
+  "source_path": "sources/articles/google-deepmind-releases-genie-4-with-native-audio-and-real-time.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T00:28:03.837Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

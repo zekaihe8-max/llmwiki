@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T00:25:36.538Z",
+  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "slug": "e308a84a77ae00d8",
+  "content_hash": "594a619326f379c5f0a75356cdf8c212684ebeac7dcfa62d9388c4a85766e240",
+  "source": {
+    "path": "sources/articles/anthropic-prices-initial-public-offering.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，该主题可复用以关联公司定位。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "公司级主题，可复用于 Anthropic 作为公司实体的背景关联。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "涉及上市前（pre-IPO）语境，与本次定价公告最相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "涉及上市前（pre-IPO）语境，与本次定价公告最相关。",
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，该主题可复用以关联公司定位。",
+    "topics/company-agent-harness.md": "公司级主题，可复用于 Anthropic 作为公司实体的背景关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-prices-initial-public-offering.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/ai-native-companies.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "涉及上市前（pre-IPO）语境，与本次定价公告最相关。",
+      "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，该主题可复用以关联公司定位。",
+      "topics/company-agent-harness.md": "公司级主题，可复用于 Anthropic 作为公司实体的背景关联。"
+    },
+    "notes": "所有事实均源自 Anthropic 官方公告页面，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-prices-initial-public-offering.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

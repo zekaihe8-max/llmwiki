@@ -1,3 +1,75 @@
+## 2026-11-19
+
+* **创建 / Creation**: 归档 [测试堆得再多，也不等于系统是好的](./sources/articles/more-tests-do-not-mean-a-better-system.md)。 / Filed [More Tests Do Not Mean a Better System](./sources/articles/more-tests-do-not-mean-a-better-system.md).
+
+* **创建 / Creation**: 归档 [Matt · 用技能做完 2.1 万行的 PR](./sources/articles/matt-completing-a-21-000-line-pr-with-skills.md)。 / Filed [Matt · Completing a 21,000-line PR with Skills](./sources/articles/matt-completing-a-21-000-line-pr-with-skills.md).
+
+* **创建 / Creation**: 归档 [Vox · Opus 调度，Sol 干活，Astra 看关键 PR](./sources/articles/vox-opus-coordinates-sol-builds-astra-reviews-key-prs.md)。 / Filed [Vox · Opus Coordinates, Sol Builds, Astra Reviews Key PRs](./sources/articles/vox-opus-coordinates-sol-builds-astra-reviews-key-prs.md).
+
+* **创建 / Creation**: 归档 [Voxyz_ai 发布 GPT-6.2 Codex 使用指南与模型选型建议](./sources/articles/voxyz-ai-shares-gpt-6-2-codex-guide-and-model-selection-advice.md)。 / Filed [Voxyz_ai shares GPT-6.2 Codex guide and model selection advice](./sources/articles/voxyz-ai-shares-gpt-6-2-codex-guide-and-model-selection-advice.md).
+
+* **创建 / Creation**: 归档 [meng shao：OpenAI 给 GPT-6.2 Codex 的提示建议](./sources/articles/meng-shao-openai-prompt-suggestions-for-gpt-6-2-codex.md)。 / Filed [meng shao: OpenAI prompt suggestions for GPT-6.2 Codex](./sources/articles/meng-shao-openai-prompt-suggestions-for-gpt-6-2-codex.md).
+
+* **创建 / Creation**: 归档 [GPT-6.2 Astra 提示词指南](./sources/articles/prompting-gpt-6-2-astra.md)。 / Filed [Prompting GPT-6.2 Astra](./sources/articles/prompting-gpt-6-2-astra.md).
+
+* **创建 / Creation**: 归档 [Meta 让模型自己改进记忆](./sources/articles/self-improving-memory.md)。 / Filed [Self-Improving Memory](./sources/articles/self-improving-memory.md).
+
+* **创建 / Creation**: 归档 [Meta AI 自我改进记忆：让模型自发现记忆策略并蒸馏进权重](./sources/articles/meta-ai-self-improving-memory-models-discover-memory-strategies.md)。 / Filed [Meta AI Self-Improving Memory: Models Discover Memory Strategies and Distill Them into Weights](./sources/articles/meta-ai-self-improving-memory-models-discover-memory-strategies.md).
+
+* **创建 / Creation**: 归档 [Mitchell · Rex 加上需要人点一下的界面](./sources/articles/mitchell-rex-adds-ui-requiring-a-human-click.md)。 / Filed [Mitchell · Rex Adds UI Requiring a Human Click](./sources/articles/mitchell-rex-adds-ui-requiring-a-human-click.md).
+
+* **创建 / Creation**: 归档 [Harrison Chase 发布 LangSmith 编程 Agent ROI 看板帖文](./sources/articles/harrison-chase-posts-about-langsmith-coding-agent-roi-dashboard.md)。 / Filed [Harrison Chase Posts About LangSmith Coding Agent ROI Dashboard](./sources/articles/harrison-chase-posts-about-langsmith-coding-agent-roi-dashboard.md).
+
+* **创建 / Creation**: 归档 [Google Antigravity 推出 Gemini 4 Neon 模型](./sources/articles/gemini-4-neon-in-google-antigravity.md)。 / Filed [Gemini 4 Neon in Google Antigravity](./sources/articles/gemini-4-neon-in-google-antigravity.md).
+
+* **创建 / Creation**: 归档 [Rauch：推理新云两天来一家，但用量还在涨](./sources/articles/rauch-a-new-inference-neocloud-every-two-days-but-usage-keeps-ri.md)。 / Filed [Rauch: A new inference neocloud every two days, but usage keeps rising](./sources/articles/rauch-a-new-inference-neocloud-every-two-days-but-usage-keeps-ri.md).
+
+* **创建 / Creation**: 归档 [Anthropic 的“相信我们是好人”策略与超级智能盲点](./sources/articles/anthropic-s-trust-us-we-re-the-good-guys-strategy-and-superintel.md)。 / Filed [Anthropic's 'Trust Us, We're the Good Guys' Strategy and Superintelligence Blind Spot](./sources/articles/anthropic-s-trust-us-we-re-the-good-guys-strategy-and-superintel.md).
+
+* **创建 / Creation**: 归档 [Nathan Lambert 未签署 MisAnthropic 声明](./sources/articles/nathan-lambert-did-not-sign-the-misanthropic-statement.md)。 / Filed [Nathan Lambert Did Not Sign the MisAnthropic Statement](./sources/articles/nathan-lambert-did-not-sign-the-misanthropic-statement.md).
+
+* **创建 / Creation**: 归档 [补丁：AI 发现漏洞引发紧急修补与系统宕机](./sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md)。 / Filed [Patches: AI-Identified Vulnerabilities Trigger Emergency Fixes and Outages](./sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md).
+
+* **创建 / Creation**: 归档 [三家前沿模型厂商近期发布已让多数用户满意](./sources/articles/three-frontier-model-labs-recent-releases-satisfy-most-users.md)。 / Filed [Three Frontier Model Labs' Recent Releases Satisfy Most Users](./sources/articles/three-frontier-model-labs-recent-releases-satisfy-most-users.md).
+
+* **创建 / Creation**: 归档 [模型点版本反应不宜过度外推](./sources/articles/don-t-over-extrapolate-reactions-to-model-point-releases.md)。 / Filed [Don't Over-Extrapolate Reactions to Model Point Releases](./sources/articles/don-t-over-extrapolate-reactions-to-model-point-releases.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Neon：价格点上的亮眼表现](./sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md)。 / Filed [Gemini 4 Neon: Impressive Numbers at That Price Point](./sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md).
+
+* **创建 / Creation**: 归档 [代币支出回报与无限潜在需求](./sources/articles/token-spend-roi-and-infinite-latent-demand.md)。 / Filed [Token Spend ROI and Infinite Latent Demand](./sources/articles/token-spend-roi-and-infinite-latent-demand.md).
+
+* **创建 / Creation**: 归档 [OpenAI Responses API 推出后台模式，可选延迟响应并节省最高 40% Token](./sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md)。 / Filed [OpenAI Responses API launches background mode with optional delayed response and up to 40% token savings](./sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md).
+
+* **创建 / Creation**: 归档 [ChatGPT 会计插件上线，支持 QuickBooks 等多家财务工具](./sources/articles/chatgpt-accounting-plugin-launches-with-quickbooks-and-other-fin.md)。 / Filed [ChatGPT Accounting plugin launches with QuickBooks and other finance tool integrations](./sources/articles/chatgpt-accounting-plugin-launches-with-quickbooks-and-other-fin.md).
+
+* **创建 / Creation**: 归档 [Genie 4 现已推出](./sources/articles/genie-4-is-now-available.md)。 / Filed [Genie 4 is now available](./sources/articles/genie-4-is-now-available.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 发布 Genie 4，原生音频与实时编辑助力交互式虚拟世界创建](./sources/articles/google-deepmind-releases-genie-4-with-native-audio-and-real-time.md)。 / Filed [Google DeepMind releases Genie 4 with native audio and real-time editing for interactive virtual worlds](./sources/articles/google-deepmind-releases-genie-4-with-native-audio-and-real-time.md).
+
+* **创建 / Creation**: 归档 [Demis Hassabis 宣布 Genie 4 可用，Ultra 订阅者可在 Project Genie 试用](./sources/articles/demis-hassabis-announces-genie-4-availability-for-eligible-ultra.md)。 / Filed [Demis Hassabis Announces Genie 4 Availability for Eligible Ultra Subscribers in Project Genie](./sources/articles/demis-hassabis-announces-genie-4-availability-for-eligible-ultra.md).
+
+* **创建 / Creation**: 归档 [OpenAI 模型助力 AMD 芯片设计，五个月实现约一年进度](./sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md)。 / Filed [OpenAI models accelerate AMD chip design, achieving about a year of progress in five months](./sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md).
+
+* **创建 / Creation**: 归档 [OpenAI 与 AMD 合作，AI 模型助力 GPU IP 与定制推理芯片设计](./sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md)。 / Filed [OpenAI Partners with AMD; AI Models Aid GPU IP and Custom Inference Chip Design](./sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布研究加速报告，主张 AI 实验室追踪递归自我改进](./sources/articles/openai-releases-research-acceleration-report-urges-ai-labs-to-tr.md)。 / Filed [OpenAI Releases Research Acceleration Report, Urges AI Labs to Track Recursive Self-Improvement](./sources/articles/openai-releases-research-acceleration-report-urges-ai-labs-to-tr.md).
+
+* **创建 / Creation**: 归档 [Anthropic 定价首次公开募股](./sources/articles/anthropic-prices-initial-public-offering.md)。 / Filed [Anthropic prices initial public offering](./sources/articles/anthropic-prices-initial-public-offering.md).
+
+* **创建 / Creation**: 归档 [Anthropic 定价每股 83 美元，拟在纳斯达克上市](./sources/articles/anthropic-prices-ipo-at-83-per-share-nasdaq-trading-expected-soo.md)。 / Filed [Anthropic Prices IPO at $83 per Share, Nasdaq Trading Expected Soon](./sources/articles/anthropic-prices-ipo-at-83-per-share-nasdaq-trading-expected-soo.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Neon 发布：面向复杂工程与科学工作的前沿模型](./sources/articles/introducing-gemini-4-neon.md)。 / Filed [Introducing Gemini 4 Neon](./sources/articles/introducing-gemini-4-neon.md).
+
+* **创建 / Creation**: 归档 [Google 发布 Gemini 4 Neon，智能略升且每任务成本降低](./sources/articles/google-releases-gemini-4-neon-with-slight-intelligence-gain-and.md)。 / Filed [Google Releases Gemini 4 Neon with Slight Intelligence Gain and Lower Cost per Task](./sources/articles/google-releases-gemini-4-neon-with-slight-intelligence-gain-and.md).
+
+* **创建 / Creation**: 归档 [Logan 宣布推出 Gemini 4 Neon](./sources/articles/logan-announces-gemini-4-neon.md)。 / Filed [Logan Announces Gemini 4 Neon](./sources/articles/logan-announces-gemini-4-neon.md).
+
+* **创建 / Creation**: 归档 [德米斯·哈萨比斯宣布推出 Gemini 4 Neon](./sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md)。 / Filed [Demis Hassabis Announces Gemini 4 Neon Launch](./sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 称 Gemini 4 Neon 开始推出](./sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md)。 / Filed [Google DeepMind Says Gemini 4 Neon Is Rolling Out](./sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md).
+
+* **创建 / Creation**: 归档 [Sundar Pichai 宣布 Gemini 4 Neon 推出](./sources/articles/sundar-pichai-announces-gemini-4-neon-rollout.md)。 / Filed [Sundar Pichai Announces Gemini 4 Neon Rollout](./sources/articles/sundar-pichai-announces-gemini-4-neon-rollout.md).
+
 ## 2026-11-18
 
 * **创建 / Creation**: 归档 [网易有道叭哥说：中文语音直发英文，跨语言维权Claude封号申诉](./sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md)。 / Filed [NetEase Youdao Ba Ge Shuo: Speak Chinese to send English, cross-language rights protection for Claude ban appeals](./sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md).

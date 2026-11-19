@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/open-models-cyber-defense.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "文章核心围绕安全补丁推送与系统运维，属账号与资产安全卫生范畴，现有主题已覆盖，无需新建。",
+    "topics/ai-cybersecurity-jobs.md": "文中涉及 AI 模型发现漏洞与网络安全事件，与 AI 与网络安全岗位主题相关，现有主题已覆盖，无需新建。",
+    "topics/open-models-cyber-defense.md": "AI 模型与漏洞修补、系统防御相关，开源模型与网络防御主题已覆盖此类交叉讨论，无需新建。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章核心围绕安全补丁推送与系统运维，属账号与资产安全卫生范畴，现有主题已覆盖，无需新建。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "文中涉及 AI 模型发现漏洞与网络安全事件，与 AI 与网络安全岗位主题相关，现有主题已覆盖，无需新建。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "AI 模型与漏洞修补、系统防御相关，开源模型与网络防御主题已覆盖此类交叉讨论，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实主张已用「帖文称」或引用表述标注；外部链接内容未在本条中独立验证。"
+}

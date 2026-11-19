@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中 Opus 充当包工头调度 Sol/Astra 等编程 Agent，与“Opus 协调、Sol 干活”的分工直接对应。",
+    "topics/agent-scaled-engineering.md": "帖文披露 3 天约 160 个 PR 的规模化交付，属智能体规模化工程场景，主题保持不变。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文按任务类型与风险等级分配不同模型与推理强度，属模型渠道取舍，主题无需新建或变更。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中 Opus 充当包工头调度 Sol/Astra 等编程 Agent，与“Opus 协调、Sol 干活”的分工直接对应。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文披露 3 天约 160 个 PR 的规模化交付，属智能体规模化工程场景，主题保持不变。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文按任务类型与风险等级分配不同模型与推理强度，属模型渠道取舍，主题无需新建或变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "模型名称与版本号（Opus 5.5、GPT-6.2）均仅据帖文所述，未独立核实。"
+}

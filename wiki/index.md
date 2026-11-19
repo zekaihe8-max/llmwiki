@@ -26,6 +26,76 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [测试堆得再多，也不等于系统是好的 / More Tests Do Not Mean a Better System](./sources/articles/more-tests-do-not-mean-a-better-system.md) — 帖文引用 Mario Zechner 警告，大量 lint 规则、单元测试或端到端测试并不能保证系统质量，智能体可能奖励黑客攻击或测错指标，只有看清底层才能判断验证是否有价值。 / The post quotes Mario Zechner warning that piles of lint rules, unit tests, or end-to-end tests do not guarantee system quality, since agents may reward-hack or measure the wrong thing; only under-the-hood insight reveals whether verifications are worth anything.
+
+- [Matt · 用技能做完 2.1 万行的 PR / Matt · Completing a 21,000-line PR with Skills](./sources/articles/matt-completing-a-21-000-line-pr-with-skills.md) — Matt Pocock 发布 70 分钟深度实操视频，展示如何在技能仓库中完成 2.1 万行 PR，并聚焦 DDD、代码库回顾与人工评审。 / Matt Pocock shares a 70-minute deep-dive video on completing a 21,000-line PR in his skills repo, focusing on DDD, codebase retro, and effective human review.
+
+- [Vox · Opus 调度，Sol 干活，Astra 看关键 PR / Vox · Opus Coordinates, Sol Builds, Astra Reviews Key PRs](./sources/articles/vox-opus-coordinates-sol-builds-astra-reviews-key-prs.md) — 帖文称 Opus 5.5 担任协调器，GPT-6.2 Sol 与 Astra 分别承担后端开发、批量发布及涉资金、隐私或登录 PR 的预合并评审。 / The post says Opus 5.5 serves as coordinator while GPT-6.2 Sol and Astra handle backend development, batch shipping, and pre-merge review of PRs touching money, privacy, or login.
+
+- [Voxyz_ai 发布 GPT-6.2 Codex 使用指南与模型选型建议 / Voxyz_ai shares GPT-6.2 Codex guide and model selection advice](./sources/articles/voxyz-ai-shares-gpt-6-2-codex-guide-and-model-selection-advice.md) — 帖文称 OpenAI 发布 GPT-6.2 在 Codex 的完整指南，主张用 Sol 做日常编码、Astra 做跨服务 Bug 追踪，并搭配 Claude Code 与 Herdr 进行代码评审。 / The post claims OpenAI published a full GPT-6.2 Codex guide, recommending Sol for everyday coding and Astra for cross-service bug tracing, paired with Claude Code and Herdr for code review.
+
+- [meng shao：OpenAI 给 GPT-6.2 Codex 的提示建议 / meng shao: OpenAI prompt suggestions for GPT-6.2 Codex](./sources/articles/meng-shao-openai-prompt-suggestions-for-gpt-6-2-codex.md) — 帖文转发 OpenAI 关于 GPT-6.2 Codex 提示的指南，涉及验收标准、推理强度、子 Agent 并行与 AGENTS.md。 / The post forwards OpenAI's guide on prompting GPT-6.2 Codex, covering acceptance criteria, reasoning intensity, sub-agent parallelism, and AGENTS.md.
+
+- [GPT-6.2 Astra 提示词指南 / Prompting GPT-6.2 Astra](./sources/articles/prompting-gpt-6-2-astra.md) — 介绍 GPT-6.2 Astra 与 Codex 的提示词技巧，包括推理努力、子代理、视觉参考与 AGENTS.md 使用。 / Introduces prompting techniques for GPT-6.2 Astra and Codex, covering reasoning effort, subagents, visual references, and AGENTS.md usage.
+
+- [Meta 让模型自己改进记忆 / Self-Improving Memory](./sources/articles/self-improving-memory.md) — Meta 通过元优化和提示蒸馏让模型自动发现并内化持续学习任务的记忆策略 / Meta uses meta-optimization and harness distillation to let models automatically discover and internalize memory strategies for continual learning tasks
+
+- [Meta AI 自我改进记忆：让模型自发现记忆策略并蒸馏进权重 / Meta AI Self-Improving Memory: Models Discover Memory Strategies and Distill Them into Weights](./sources/articles/meta-ai-self-improving-memory-models-discover-memory-strategies.md) — Meta AI RAM 团队提出自我改进记忆，让模型自动优化记忆提示并将增益蒸馏进模型权重。 / Meta AI's RAM team proposes self-improving memory, letting models automatically optimize memory prompts and distill gains into model weights.
+
+- [Mitchell · Rex 加上需要人点一下的界面 / Mitchell · Rex Adds UI Requiring a Human Click](./sources/articles/mitchell-rex-adds-ui-requiring-a-human-click.md) — Mitchell 宣布 Rex 的 Lua 脚本新增 rex.ui，支持构建需要用户点击交互的自动化，并处理多客户端竞争、忙碌与无用户附加等情况。 / Mitchell announces that Rex's Lua scripting adds rex.ui to support automations requiring user click interaction, handling multi-client competition, busy, and no-user-attached cases.
+
+- [Harrison Chase 发布 LangSmith 编程 Agent ROI 看板帖文 / Harrison Chase Posts About LangSmith Coding Agent ROI Dashboard](./sources/articles/harrison-chase-posts-about-langsmith-coding-agent-roi-dashboard.md) — LangSmith 推出编程 Agent 专用视图，将被追踪的代理汇总至单一看板，并关联拉取请求与成本支出。 / LangSmith launches a dedicated coding agent view, aggregating traced agents into one dashboard and linking pull requests to cost and spend.
+
+- [Google Antigravity 推出 Gemini 4 Neon 模型 / Gemini 4 Neon in Google Antigravity](./sources/articles/gemini-4-neon-in-google-antigravity.md) — Google Antigravity 面向付费订阅者推出 Gemini 4 Neon，并支持与 Gemini 4 Hydrogen 通过 Orchestrator 进行模型编排。 / Google Antigravity rolls out Gemini 4 Neon to paid subscribers and supports model orchestration pairing it with Gemini 4 Hydrogen.
+
+- [Rauch：推理新云两天来一家，但用量还在涨 / Rauch: A new inference neocloud every two days, but usage keeps rising](./sources/articles/rauch-a-new-inference-neocloud-every-two-days-but-usage-keeps-ri.md) — 帖文称推理新云公司创立速度快但难持续，而 Vercel AI Gateway Token 需求每月环比增长约 40%。 / The post says new inference neocloud companies are being pitched every two days but may not be sustainable, while Vercel AI Gateway token demand grows about 40% month-over-month.
+
+- [Anthropic 的“相信我们是好人”策略与超级智能盲点 / Anthropic's 'Trust Us, We're the Good Guys' Strategy and Superintelligence Blind Spot](./sources/articles/anthropic-s-trust-us-we-re-the-good-guys-strategy-and-superintel.md) — Nathan Lambert 转发 Jasmine Sun 的帖文，质疑 Anthropic 的信任策略注定失败，并指出该公司正朝不可避免的盲点竞速。 / Nathan Lambert boosts Jasmine Sun's post questioning Anthropic's 'trust us' strategy as bound to fail, noting the company is racing toward an inevitable blind spot.
+
+- [Nathan Lambert 未签署 MisAnthropic 声明 / Nathan Lambert Did Not Sign the MisAnthropic Statement](./sources/articles/nathan-lambert-did-not-sign-the-misanthropic-statement.md) — 纳森·兰伯特未签署针对 Anthropic IPO 的 MisAnthropic 声明，但认同部分关于其权力寻求与风险的担忧。 / Nathan Lambert did not sign the MisAnthropic Statement ahead of Anthropic's IPO, but shares some concerns about its power-seeking and risk acknowledgment.
+
+- [补丁：AI 发现漏洞引发紧急修补与系统宕机 / Patches: AI-Identified Vulnerabilities Trigger Emergency Fixes and Outages](./sources/articles/patches-ai-identified-vulnerabilities-trigger-emergency-fixes-an.md) — 补丁紧急修补 AI 发现的安全漏洞，导致系统宕机，CIO 疲于应对。 / Emergency patches for AI-identified security vulnerabilities caused outages, leaving CIOs exhausted.
+
+- [三家前沿模型厂商近期发布已让多数用户满意 / Three Frontier Model Labs' Recent Releases Satisfy Most Users](./sources/articles/three-frontier-model-labs-recent-releases-satisfy-most-users.md) — 除非频繁切换或主动测试，否则用户大概率对 Google、OpenAI、Anthropic 过去两个月的模型发布感到非常满意。 / Unless frequently switching or actively testing, users are likely very happy with the past two months of releases from Google, OpenAI, and Anthropic.
+
+- [模型点版本反应不宜过度外推 / Don't Over-Extrapolate Reactions to Model Point Releases](./sources/articles/don-t-over-extrapolate-reactions-to-model-point-releases.md) — 伊森·莫利克称 OpenAI 一直不干预早期测试者并鼓励坦诚反馈，6.2 版本的混合反应未令其意外，模型小版本的怪异表现不应被过度解读为未来信号。 / Ethan Mollick says OpenAI has long avoided influencing early testers and encouraged candid feedback, that mixed initial reactions to 6.2 did not surprise it, and that weird model point releases should not be over-read as future signals.
+
+- [Gemini 4 Neon：价格点上的亮眼表现 / Gemini 4 Neon: Impressive Numbers at That Price Point](./sources/articles/gemini-4-neon-impressive-numbers-at-that-price-point.md) — François Chollet 在 X 上称 Gemini 4 Neon 在该价格点上的数据令人印象深刻。 / François Chollet says Gemini 4 Neon has impressive numbers at that price point on X.
+
+- [代币支出回报与无限潜在需求 / Token Spend ROI and Infinite Latent Demand](./sources/articles/token-spend-roi-and-infinite-latent-demand.md) — 代币需求基本无上限，成本是唯一制约，模型进步不断提升代币支出的投资回报率与有效用例范围。 / Token demand is essentially unlimited, cost is the only constraint, and model progress keeps raising the ROI and scope of token spend.
+
+- [OpenAI Responses API 推出后台模式，可选延迟响应并节省最高 40% Token / OpenAI Responses API launches background mode with optional delayed response and up to 40% token savings](./sources/articles/openai-responses-api-launches-background-mode-with-optional-dela.md) — OpenAI 开发者账号宣布 Responses API 后台模式进入公测，支持 2 小时或 8 小时首响应目标，适合可等待的单轮或多轮工作流，GPT-6.2 Astra/Sol 可节省最高 40% 每 Token。 / OpenAI Developers announces Responses API background mode enters public beta, supporting 2-hour or 8-hour first-response targets for single- or multi-turn workflows that can wait, with GPT-6.2 Astra or Sol saving up to 40% per token.
+
+- [ChatGPT 会计插件上线，支持 QuickBooks 等多家财务工具 / ChatGPT Accounting plugin launches with QuickBooks and other finance tool integrations](./sources/articles/chatgpt-accounting-plugin-launches-with-quickbooks-and-other-fin.md) — ChatGPT 推出会计插件及合作伙伴插件，协助月结报告、银行对账、数据录入和审计准备等任务。 / ChatGPT launches Accounting plugin and partner plugins to assist with month-end reports, bank reconciliation, data entry, and audit prep with less manual work.
+
+- [Genie 4 现已推出 / Genie 4 is now available](./sources/articles/genie-4-is-now-available.md) — Google 面向符合条件的 Google AI Ultra 订阅者推出 Genie 4 世界模型、Project Genie 智能体及社区画廊。 / Google rolls out the Genie 4 world model, Project Genie agent, and community gallery to eligible Google AI Ultra subscribers.
+
+- [Google DeepMind 发布 Genie 4，原生音频与实时编辑助力交互式虚拟世界创建 / Google DeepMind releases Genie 4 with native audio and real-time editing for interactive virtual worlds](./sources/articles/google-deepmind-releases-genie-4-with-native-audio-and-real-time.md) — Google DeepMind 宣布 Genie 4 现已在 Project Genie 中提供，新增原生音频、实时编辑及代理协助，用于创建交互式虚拟世界。 / Google DeepMind announces Genie 4 is now available in Project Genie, adding native audio, real-time editing, and agent assistance for creating interactive virtual worlds.
+
+- [Demis Hassabis 宣布 Genie 4 可用，Ultra 订阅者可在 Project Genie 试用 / Demis Hassabis Announces Genie 4 Availability for Eligible Ultra Subscribers in Project Genie](./sources/articles/demis-hassabis-announces-genie-4-availability-for-eligible-ultra.md) — Demis Hassabis 在 X 上宣布 Genie 4 已可用，符合条件的 Ultra 订阅者可在 Project Genie 中体验。 / Demis Hassabis announced on X that Genie 4 is available and eligible Ultra subscribers can try it in Project Genie.
+
+- [OpenAI 模型助力 AMD 芯片设计，五个月实现约一年进度 / OpenAI models accelerate AMD chip design, achieving about a year of progress in five months](./sources/articles/openai-models-accelerate-amd-chip-design-achieving-about-a-year.md) — 帖文称 OpenAI 模型在不到五个月内为 AMD 芯片带来约一年额外进展，旗舰 GPU IP PPA 提升最高 14%，并用于改进首款定制推理芯片 Jalapeño。 / The post says OpenAI models delivered roughly an extra year of progress for AMD chips in under five months, with up to 14% PPA improvement on flagship GPU IP and gains verified on its first custom inference chip, Jalapeño.
+
+- [OpenAI 与 AMD 合作，AI 模型助力 GPU IP 与定制推理芯片设计 / OpenAI Partners with AMD; AI Models Aid GPU IP and Custom Inference Chip Design](./sources/articles/openai-partners-with-amd-ai-models-aid-gpu-ip-and-custom-inferen.md) — OpenAI 称其模型在不到五个月内帮助将旗舰 GPU IP 的 PPA 提升多达 14%，并改进了首款定制推理芯片 Jalapeño，同时与 Synopsys 合作将模型能力与 EDA 工具带给更多芯片设计师。 / OpenAI says its models helped improve flagship GPU IP PPA by up to 14% in under five months, improved its first custom inference chip Jalapeño, and is partnering with Synopsys to bring model capabilities and EDA tools to more chip designers.
+
+- [OpenAI 发布研究加速报告，主张 AI 实验室追踪递归自我改进 / OpenAI Releases Research Acceleration Report, Urges AI Labs to Track Recursive Self-Improvement](./sources/articles/openai-releases-research-acceleration-report-urges-ai-labs-to-tr.md) — OpenAI 发布关于 AI 如何改变研究的新数据，强调人类参与仍处核心，安全与对齐投入增长最快。 / OpenAI shares new data on how AI is changing research, stressing that human involvement remains central and safety and alignment investment is growing fastest.
+
+- [Anthropic 定价首次公开募股 / Anthropic prices initial public offering](./sources/articles/anthropic-prices-initial-public-offering.md) — Anthropic 以每股 83.00 美元定价其 Class A 普通股首次公开募股，股票预计于 11 月 19 日在纳斯达克以 ANT 符号开始交易。 / Anthropic prices its initial public offering of Class A common stock at $83.00 per share, with trading expected to begin on Nasdaq under the symbol ANT on November 19, 2026.
+
+- [Anthropic 定价每股 83 美元，拟在纳斯达克上市 / Anthropic Prices IPO at $83 per Share, Nasdaq Trading Expected Soon](./sources/articles/anthropic-prices-ipo-at-83-per-share-nasdaq-trading-expected-soo.md) — Anthropic 宣布其 IPO 定价每股 83 美元，预计明日在纳斯达克开始交易。 / Anthropic announced its IPO priced at $83 per share, with Nasdaq trading expected to begin the next day.
+
+- [Gemini 4 Neon 发布：面向复杂工程与科学工作的前沿模型 / Introducing Gemini 4 Neon](./sources/articles/introducing-gemini-4-neon.md) — Google 发布 Gemini 4 Neon，主打软件工程、知识工作与科学工作流的快速端到端任务完成能力。 / Google introduces Gemini 4 Neon, focused on fast end-to-end task completion across software engineering, knowledge work, and science workflows.
+
+- [Google 发布 Gemini 4 Neon，智能略升且每任务成本降低 / Google Releases Gemini 4 Neon with Slight Intelligence Gain and Lower Cost per Task](./sources/articles/google-releases-gemini-4-neon-with-slight-intelligence-gain-and.md) — 人工智能分析机构发布帖文称，Google Gemini 4 Neon 在智能指数上略高于 Carbon，且每任务成本和耗时更低。 / Artificial Analysis posts that Google's Gemini 4 Neon scores slightly higher on intelligence than Gemini 4 Carbon while costing less and taking less time per task.
+
+- [Logan 宣布推出 Gemini 4 Neon / Logan Announces Gemini 4 Neon](./sources/articles/logan-announces-gemini-4-neon.md) — Logan Kilpatrick 宣布 Google DeepMind 推出 Gemini 4 Neon，现已在 Google AI Studio 和 API 上线。 / Logan Kilpatrick announces Google DeepMind's Gemini 4 Neon, now available on Google AI Studio and the API.
+
+- [德米斯·哈萨比斯宣布推出 Gemini 4 Neon / Demis Hassabis Announces Gemini 4 Neon Launch](./sources/articles/demis-hassabis-announces-gemini-4-neon-launch.md) — 德米斯·哈萨比斯在 X 上宣布 Gemini 4 Neon 现已面向 Pro 与 Ultra 用户提供，号称具备前沿级智能与超快任务完成能力。 / Demis Hassabis announced on X that Gemini 4 Neon is now available to Pro and Ultra users, claiming frontier-level intelligence and super-fast task completion.
+
+- [Google DeepMind 称 Gemini 4 Neon 开始推出 / Google DeepMind Says Gemini 4 Neon Is Rolling Out](./sources/articles/google-deepmind-says-gemini-4-neon-is-rolling-out.md) — 帖文称 Gemini 4 Neon 定位于 Carbon 与 Hydrogen 之间，面向复杂软件工程、知识工作与科学提供前沿智能与快速任务完成。 / The post says Gemini 4 Neon is positioned between Carbon and Hydrogen, bringing frontier intelligence and fast task completion for complex software engineering, knowledge work, and science.
+
+- [Sundar Pichai 宣布 Gemini 4 Neon 推出 / Sundar Pichai Announces Gemini 4 Neon Rollout](./sources/articles/sundar-pichai-announces-gemini-4-neon-rollout.md) — Sundar Pichai 宣布 Gemini 4 Neon 开始在多个 Google 产品和订阅层级中推出。 / Sundar Pichai announces Gemini 4 Neon is rolling out across multiple Google products and subscription tiers.
+
 - [网易有道叭哥说：中文语音直发英文，跨语言维权Claude封号申诉 / NetEase Youdao Ba Ge Shuo: Speak Chinese to send English, cross-language rights protection for Claude ban appeals](./sources/articles/netease-youdao-ba-ge-shuo-speak-chinese-to-send-english-cross-la.md) — 帖文称网易有道叭哥说支持中文语音实时翻译成英文，用于Claude账号申诉和海外客服沟通，官方承诺终身免费且不留存语音文本。 / The post claims NetEase Youdao Ba Ge Shuo supports real-time Chinese voice-to-English translation for Claude account appeals and overseas customer service communication, with official promises of lifetime free use and no voice/text retention.
 
 - [GPT-6.2 Astra 官方提示词：代码复用与任务自动完成 / GPT-6.2 Astra Official Prompts: Code Reuse and Automatic Task Completion](./sources/articles/gpt-6-2-astra-official-prompts-code-reuse-and-automatic-task-com.md) — 帖文称 OpenAI 为 GPT-6.2 Astra 提供官方提示词，强调复用代码、完整实现及任务不中断。 / The post claims OpenAI provides official prompts for GPT-6.2 Astra, emphasizing code reuse, full implementation, and uninterrupted tasks.
