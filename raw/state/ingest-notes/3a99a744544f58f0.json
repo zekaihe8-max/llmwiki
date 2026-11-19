@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "帖文主体是 Grok Bot 的替代方案，与该话题直接相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文章强调不绑定单一模型厂商、可自由切换 Codex、Claude Code、Grok 等，属模型渠道取舍。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到自建 VPS 部署、数据自行管理及高执行权限隔离，与个人 Agent 云环境的隔离与检查相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中提到多个 Bot 协作、分配任务与自动化，涉及多 harness/多智能体调度。"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文主体是 Grok Bot 的替代方案，与该话题直接相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章强调不绑定单一模型厂商、可自由切换 Codex、Claude Code、Grok 等，属模型渠道取舍。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到自建 VPS 部署、数据自行管理及高执行权限隔离，与个人 Agent 云环境的隔离与检查相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中提到多个 Bot 协作、分配任务与自动化，涉及多 harness/多智能体调度。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @xiaomovps 在 X 上的帖文，未核实主张已用「帖文称」表述，未编造超出文章的 URL 或事实。"
+}

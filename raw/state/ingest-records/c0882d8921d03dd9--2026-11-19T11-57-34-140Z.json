@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T11:57:34.140Z",
+  "url": "https://x.com/vista8/status/2123336547139535281",
+  "slug": "c0882d8921d03dd9",
+  "content_hash": "65a074c85f89171bce79b3002c1aac2396660419afd39ce9e5e4d7f2e5d8f4cd",
+  "source": {
+    "path": "sources/articles/ai-users-have-no-loyalty.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-dedicated-phone-number.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-dedicated-phone-number.md",
+      "action": "unchanged",
+      "reason": "帖文提到用 Saily 注册 1 美元手机号验证，与廉价 eSIM 专用号码主题直接相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文描述用户随模型强弱立即切换，属于模型渠道取舍行为。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "跨模型切换与编排需求与云平台 Auto 跨模型编排主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到为 Gemini 4 Neon 忍受 Antigravity，涉及高端 AI 订阅的使用动机。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-dedicated-phone-number.md": "帖文提到用 Saily 注册 1 美元手机号验证，与廉价 eSIM 专用号码主题直接相关。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文描述用户随模型强弱立即切换，属于模型渠道取舍行为。",
+    "topics/premium-ai-subscription-value.md": "帖文提到为 Gemini 4 Neon 忍受 Antigravity，涉及高端 AI 订阅的使用动机。",
+    "topics/cloud-auto-model-routing.md": "跨模型切换与编排需求与云平台 Auto 跨模型编排主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-users-have-no-loyalty.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-dedicated-phone-number.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-dedicated-phone-number.md": "帖文提到用 Saily 注册 1 美元手机号验证，与廉价 eSIM 专用号码主题直接相关。",
+      "topics/agent-model-channel-tradeoffs.md": "帖文描述用户随模型强弱立即切换，属于模型渠道取舍行为。",
+      "topics/premium-ai-subscription-value.md": "帖文提到为 Gemini 4 Neon 忍受 Antigravity，涉及高端 AI 订阅的使用动机。",
+      "topics/cloud-auto-model-routing.md": "跨模型切换与编排需求与云平台 Auto 跨模型编排主题相近。"
+    },
+    "notes": "所有内容仅基于推文文本，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-users-have-no-loyalty.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

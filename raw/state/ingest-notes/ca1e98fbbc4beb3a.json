@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "讨论以第三方 Bot/客户端替代官方渠道，与“不用官方客户端”主题相近",
+    "topics/claude-subscription-risk-control-weights.md": "涉及订阅风险与封禁顾虑，对应文中提及的 Gemini 订阅不会被封",
+    "topics/premium-ai-subscription-value.md": "涉及高端 AI 订阅价值，与 Gemini 订阅用途相关"
+  },
+  "topics": [
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "讨论以第三方 Bot/客户端替代官方渠道，与“不用官方客户端”主题相近"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "涉及订阅风险与封禁顾虑，对应文中提及的 Gemini 订阅不会被封"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及高端 AI 订阅价值，与 Gemini 订阅用途相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容仅基于抓取的 X 帖文，未独立核实 Antigravity 具体功能及 T3 Code 与谷歌的关系"
+}

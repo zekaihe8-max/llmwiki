@@ -1,0 +1,23 @@
+{
+  "slug": "3a99a744544f58f0",
+  "url": "https://x.com/xiaomovps/status/2123287242546508212",
+  "title": "OpenBot",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "3a99a744544f58f02f02c612b708d0e17b5de408481745917aeaa88fdf8b7ebd",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:01.883Z",
+  "content_hash": "37dea8b7a9e2592cff664e091e095454359a099958bb8c16cf46873902bcbef4",
+  "article_path": "articles/3a99a744544f58f0.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2123287242546508212",
+  "source_path": "sources/articles/openbot-a-self-hosted-grok-bot-alternative.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:05:12.885Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

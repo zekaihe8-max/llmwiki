@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/claude-on-google-cloud.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文涉及设计↔代码还原与 Claude 订阅对比，主题高度相关。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文在 Gemini 与 Opus/Claude 之间做模型取舍与平替判断，属模型策略讨论。",
+    "topics/community-evals-vs-score-hype.md": "帖文为主观社区实测声明，需区分个人体验与可验证评测。",
+    "topics/claude-on-google-cloud.md": "帖文同时提及 Claude 与谷歌模型，涉及云平台与模型关系背景。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文涉及设计↔代码还原与 Claude 订阅对比，主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文在 Gemini 与 Opus/Claude 之间做模型取舍与平替判断，属模型策略讨论。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文为主观社区实测声明，需区分个人体验与可验证评测。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "帖文同时提及 Claude 与谷歌模型，涉及云平台与模型关系背景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的主张均已用「帖文称」标注；未编造超出页面文本的 URL 或事实。"
+}

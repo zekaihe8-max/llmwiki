@@ -1,0 +1,23 @@
+{
+  "slug": "bdfed82842ab3cd0",
+  "url": "https://x.com/turingou/status/2123276231554548169",
+  "title": "这周其实用得不勤，Claude Code 额度还是没了",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "bdfed82842ab3cd03a68de2f2ebe041c8ab9932cf3375009abec1aa7e59f81ae",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:00.191Z",
+  "content_hash": "cc20bea6324aa7df1d5e369f35d894805d21c03a2f6eb6b7a0de52053f3428a8",
+  "article_path": "articles/bdfed82842ab3cd0.md",
+  "fetched_url": "https://x.com/turingou/status/2123276231554548169",
+  "source_path": "sources/articles/claude-code-cloud-environment-and-quota-reasoning-and-compute-co.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:02:40.465Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

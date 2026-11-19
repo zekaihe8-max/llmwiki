@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文对比 Google、Claude、GPT 三家模型渠道的优劣，与模型渠道取舍主题相关。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文重点提及各家 Harness 体验（狗屎/无敌/还不错），与 Harness 对比主题相关。",
+    "topics/premium-ai-subscription-value.md": "帖文提到 Claude“就是不给你用”，涉及订阅与可用性价值，与高端 AI 订阅价值主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Google、Claude、GPT 三家模型渠道的优劣，与模型渠道取舍主题相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文重点提及各家 Harness 体验（狗屎/无敌/还不错），与 Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Claude“就是不给你用”，涉及订阅与可用性价值，与高端 AI 订阅价值主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未经独立核实。"
+}

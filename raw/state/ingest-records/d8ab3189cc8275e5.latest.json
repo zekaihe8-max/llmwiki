@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:11:48.547Z",
+  "url": "https://x.com/berryxia/status/2123247858447221167",
+  "slug": "d8ab3189cc8275e5",
+  "content_hash": "48c871f5c3e2e5e70f285f3155370e1aeb4f7d4f1802bed778524dc8a24cbf08",
+  "source": {
+    "path": "sources/articles/from-claude-bans-to-local-ai-memory-and-asset-ownership.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/local-open-assistant-models.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "作者主张难活用云端、记忆留本地，涉及模型渠道与本地部署的取舍。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文章核心讲 Claude 及 OpenAI 账号被封与风控，直接对应该话题。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文中重点介绍可在消费级显卡和 Mac 上本地运行的开源个人 Agent Linger。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中讨论云端 AI 账号不可控、记忆应本地化备份，与个人 Agent 云环境风险相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "文章核心讲 Claude 及 OpenAI 账号被封与风控，直接对应该话题。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中讨论云端 AI 账号不可控、记忆应本地化备份，与个人 Agent 云环境风险相关。",
+    "topics/local-open-assistant-models.md": "文中重点介绍可在消费级显卡和 Mac 上本地运行的开源个人 Agent Linger。",
+    "topics/agent-model-channel-tradeoffs.md": "作者主张难活用云端、记忆留本地，涉及模型渠道与本地部署的取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/from-claude-bans-to-local-ai-memory-and-asset-ownership.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/local-open-assistant-models.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-subscription-risk-control-weights.md": "文章核心讲 Claude 及 OpenAI 账号被封与风控，直接对应该话题。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中讨论云端 AI 账号不可控、记忆应本地化备份，与个人 Agent 云环境风险相关。",
+      "topics/local-open-assistant-models.md": "文中重点介绍可在消费级显卡和 Mac 上本地运行的开源个人 Agent Linger。",
+      "topics/agent-model-channel-tradeoffs.md": "作者主张难活用云端、记忆留本地，涉及模型渠道与本地部署的取舍。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/from-claude-bans-to-local-ai-memory-and-asset-ownership.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

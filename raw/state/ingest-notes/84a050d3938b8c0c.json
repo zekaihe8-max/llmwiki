@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-native-web-search.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "涉及 DeepSeek 自营 API 计费与定价变动",
+    "topics/agent-native-web-search.md": "涉及面向 Agent 的联网搜索计费模式",
+    "topics/harness-comparison-beyond-tokens.md": "文中提到 DeepSeek Harness 服务端搜索",
+    "topics/coding-agent-token-saving-tooling.md": "文中改为仅收模型 Token 费用，与 Token 开销相关"
+  },
+  "topics": [
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "涉及 DeepSeek 自营 API 计费与定价变动"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的联网搜索计费模式"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中提到 DeepSeek Harness 服务端搜索"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中改为仅收模型 Token 费用，与 Token 开销相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题动作均为 unchanged，未创建新主题；内容仅基于提供的帖文摘要，未引入外部事实。"
+}

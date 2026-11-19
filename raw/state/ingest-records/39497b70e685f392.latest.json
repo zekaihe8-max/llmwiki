@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:14:18.594Z",
+  "url": "https://x.com/lxfater/status/2123304115199791131",
+  "slug": "39497b70e685f392",
+  "content_hash": "685ea7b82bae03a38f34503ae296a3d6b82eff2b80b465411c2d458efe95e886",
+  "source": {
+    "path": "sources/articles/what-i-most-want-to-use-voice-for-when-coding-is-explaining-bugs.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/launcher-shortcut-ai-over-agent.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "涉及语音与代码编写工具（Codex/Claude Code）的交互场景，主题相近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中提及 Typeless 订阅费与输入效率，触及编程 Agent 的体验与额度问题。"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "演示中使用按住快捷键语音输入，属于启动器快捷键触发 AI 而非打开 Agent 的模式。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是语音输入用于向 AI 编程 Agent 口头说明 Bug，与该主题的口头转述与文书整理直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章核心是语音输入用于向 AI 编程 Agent 口头说明 Bug，与该主题的口头转述与文书整理直接相关。",
+    "topics/claude-code-authorship-and-voice.md": "涉及语音与代码编写工具（Codex/Claude Code）的交互场景，主题相近。",
+    "topics/coding-agent-ux-vs-quota.md": "文中提及 Typeless 订阅费与输入效率，触及编程 Agent 的体验与额度问题。",
+    "topics/launcher-shortcut-ai-over-agent.md": "演示中使用按住快捷键语音输入，属于启动器快捷键触发 AI 而非打开 Agent 的模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/what-i-most-want-to-use-voice-for-when-coding-is-explaining-bugs.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/launcher-shortcut-ai-over-agent.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "文章核心是语音输入用于向 AI 编程 Agent 口头说明 Bug，与该主题的口头转述与文书整理直接相关。",
+      "topics/claude-code-authorship-and-voice.md": "涉及语音与代码编写工具（Codex/Claude Code）的交互场景，主题相近。",
+      "topics/coding-agent-ux-vs-quota.md": "文中提及 Typeless 订阅费与输入效率，触及编程 Agent 的体验与额度问题。",
+      "topics/launcher-shortcut-ai-over-agent.md": "演示中使用按住快捷键语音输入，属于启动器快捷键触发 AI 而非打开 Agent 的模式。"
+    },
+    "notes": "关于 Typeless 定价、网易「叭哥说」免费承诺及效率提升等主张均源自帖文内嵌内容，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/what-i-most-want-to-use-voice-for-when-coding-is-explaining-bugs.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

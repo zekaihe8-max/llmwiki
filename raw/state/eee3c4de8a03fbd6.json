@@ -1,0 +1,23 @@
+{
+  "slug": "eee3c4de8a03fbd6",
+  "url": "https://x.com/dingyi/status/2123287094189764677",
+  "title": "他怀疑谷歌每次故意放出一个漏洞",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "eee3c4de8a03fbd68deb5d81c3d6238313380a147dbd886538414d827a052bab",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:01.206Z",
+  "content_hash": "ef7d379d8df6cc75dbcc38a2d8c7a5f0856cb8c2930aad6897a57c35e4956e6a",
+  "article_path": "articles/eee3c4de8a03fbd6.md",
+  "fetched_url": "https://x.com/dingyi/status/2123287094189764677",
+  "source_path": "sources/articles/he-suspects-google-intentionally-releases-a-vulnerability-each-t.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:04:23.052Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

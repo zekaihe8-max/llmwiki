@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T11:57:55.410Z",
+  "url": "https://x.com/vista8/status/2123341284794622357",
+  "slug": "d9715c8b0a9c0e89",
+  "content_hash": "a48ee8b102db674d96b969109d4bc2b9d97301b05bd549bb2e0b4502381fa69c",
+  "source": {
+    "path": "sources/articles/t3-code-can-directly-use-antigravity-officially-licensed.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-dedicated-phone-number.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/ai-app-iphone-duo-adaptation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-dedicated-phone-number.md",
+      "action": "unchanged",
+      "reason": "文中提到用 Saily 1 美元手机号验证 Gmail，与廉价 eSIM/专用号码主题相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中涉及 T3 Code 接入 Antigravity 以及为强模型切换渠道的行为。"
+    },
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "文中对比安卓与 iOS 扫码验证结果不同，涉及 AI 应用在不同设备上的适配与体验。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "发文人因 agy 客户端设计差而弃用，涉及编程 Agent 体验问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-dedicated-phone-number.md": "文中提到用 Saily 1 美元手机号验证 Gmail，与廉价 eSIM/专用号码主题相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文中涉及 T3 Code 接入 Antigravity 以及为强模型切换渠道的行为。",
+    "topics/coding-agent-ux-vs-quota.md": "发文人因 agy 客户端设计差而弃用，涉及编程 Agent 体验问题。",
+    "topics/ai-app-iphone-duo-adaptation.md": "文中对比安卓与 iOS 扫码验证结果不同，涉及 AI 应用在不同设备上的适配与体验。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/t3-code-can-directly-use-antigravity-officially-licensed.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-dedicated-phone-number.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/ai-app-iphone-duo-adaptation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-dedicated-phone-number.md": "文中提到用 Saily 1 美元手机号验证 Gmail，与廉价 eSIM/专用号码主题相关。",
+      "topics/agent-model-channel-tradeoffs.md": "文中涉及 T3 Code 接入 Antigravity 以及为强模型切换渠道的行为。",
+      "topics/coding-agent-ux-vs-quota.md": "发文人因 agy 客户端设计差而弃用，涉及编程 Agent 体验问题。",
+      "topics/ai-app-iphone-duo-adaptation.md": "文中对比安卓与 iOS 扫码验证结果不同，涉及 AI 应用在不同设备上的适配与体验。"
+    },
+    "notes": "主张均来自单一 X 帖文，未经独立核实，摘要中已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/t3-code-can-directly-use-antigravity-officially-licensed.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

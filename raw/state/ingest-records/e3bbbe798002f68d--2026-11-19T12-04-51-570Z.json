@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:04:51.570Z",
+  "url": "https://x.com/xiaomovps/status/2123381271305048117",
+  "slug": "e3bbbe798002f68d",
+  "content_hash": "d1d4cae85e6a15c125be6e65502834df3dcd82ad5a4e0f4583bff4c7269c25c7",
+  "source": {
+    "path": "sources/articles/google-ai-pro-models-tiered-by-task-to-save-tokens.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "Orchestrator (Neon) 模式属于跨模型自动编排，与云平台 Auto 跨模型编排相关"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中强调按任务分配模型以节约 Token，与编程 Agent 省 Token 工具与开销主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中讨论如何让订阅额度发挥更大价值，与高端 AI 订阅价值主题相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文按模型价格与能力分层派活，与 Pro/Flash 模型选型思路相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文按模型价格与能力分层派活，与 Pro/Flash 模型选型思路相近",
+    "topics/cloud-auto-model-routing.md": "Orchestrator (Neon) 模式属于跨模型自动编排，与云平台 Auto 跨模型编排相关",
+    "topics/coding-agent-token-saving-tooling.md": "文中强调按任务分配模型以节约 Token，与编程 Agent 省 Token 工具与开销主题相近",
+    "topics/premium-ai-subscription-value.md": "文中讨论如何让订阅额度发挥更大价值，与高端 AI 订阅价值主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-ai-pro-models-tiered-by-task-to-save-tokens.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文按模型价格与能力分层派活，与 Pro/Flash 模型选型思路相近",
+      "topics/cloud-auto-model-routing.md": "Orchestrator (Neon) 模式属于跨模型自动编排，与云平台 Auto 跨模型编排相关",
+      "topics/coding-agent-token-saving-tooling.md": "文中强调按任务分配模型以节约 Token，与编程 Agent 省 Token 工具与开销主题相近",
+      "topics/premium-ai-subscription-value.md": "文中讨论如何让订阅额度发挥更大价值，与高端 AI 订阅价值主题相关"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-ai-pro-models-tiered-by-task-to-save-tokens.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

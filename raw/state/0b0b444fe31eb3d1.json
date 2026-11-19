@@ -1,0 +1,23 @@
+{
+  "slug": "0b0b444fe31eb3d1",
+  "url": "https://x.com/lxfater/status/2123277363769426399",
+  "title": "看到黄总用 4090 跑自己的助手，他也想试试",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "0b0b444fe31eb3d18bbdc665affd6e6fffb6f9c4cebbfb54dc797d9da52e06a0",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:54:04.523Z",
+  "content_hash": "8bff9ed851c8127cd0445c28595a6d153fa3c199ceb9c210b7b81fee97fad951",
+  "article_path": "articles/0b0b444fe31eb3d1.md",
+  "fetched_url": "https://x.com/lxfater/status/2123277363769426399",
+  "source_path": "sources/articles/self-hosting-a-personal-ai-assistant-on-a-4090-with-linger-and-p.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:13:29.943Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

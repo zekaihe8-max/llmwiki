@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Google 是主要 AI 原生公司，但帖文未讨论公司架构，故保持不变。",
+    "topics/tech-misuse-concern-continuity.md": "帖文涉及对科技巨头动机的怀疑，但未建立技术滥用的连续性证据，故保持不变。",
+    "topics/premium-ai-subscription-value.md": "帖文提及免费流量与广告预算，但未评估订阅价值，故保持不变。",
+    "topics/ai-product-self-rec-amplify.md": "帖文涉及流量获取，但未讨论 AI 产品自荐与主持人加热，故保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Google 是主要 AI 原生公司，但帖文未讨论公司架构，故保持不变。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文涉及对科技巨头动机的怀疑，但未建立技术滥用的连续性证据，故保持不变。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提及免费流量与广告预算，但未评估订阅价值，故保持不变。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文涉及流量获取，但未讨论 AI 产品自荐与主持人加热，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "现有话题中没有直接覆盖谷歌漏洞与免费流量猜测的条目，故全部标记为 unchanged。"
+}

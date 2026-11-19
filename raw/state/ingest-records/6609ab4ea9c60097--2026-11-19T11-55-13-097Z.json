@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T11:55:13.097Z",
+  "url": "https://x.com/Khazix0918/status/2123286419158536474",
+  "slug": "6609ab4ea9c60097",
+  "content_hash": "9e4316db9d981baf5a37f30ccf36113f96d4329c0378e13c4f758469728611c2",
+  "source": {
+    "path": "sources/articles/a-single-chart-lays-out-the-pros-and-cons-of-google-claude-and-g.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Google、Claude、GPT 三家模型渠道的优劣，与模型渠道取舍主题相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文重点提及各家 Harness 体验（狗屎/无敌/还不错），与 Harness 对比主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Claude“就是不给你用”，涉及订阅与可用性价值，与高端 AI 订阅价值主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文对比 Google、Claude、GPT 三家模型渠道的优劣，与模型渠道取舍主题相关。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文重点提及各家 Harness 体验（狗屎/无敌/还不错），与 Harness 对比主题相关。",
+    "topics/premium-ai-subscription-value.md": "帖文提到 Claude“就是不给你用”，涉及订阅与可用性价值，与高端 AI 订阅价值主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/a-single-chart-lays-out-the-pros-and-cons-of-google-claude-and-g.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "帖文对比 Google、Claude、GPT 三家模型渠道的优劣，与模型渠道取舍主题相关。",
+      "topics/harness-comparison-beyond-tokens.md": "帖文重点提及各家 Harness 体验（狗屎/无敌/还不错），与 Harness 对比主题相关。",
+      "topics/premium-ai-subscription-value.md": "帖文提到 Claude“就是不给你用”，涉及订阅与可用性价值，与高端 AI 订阅价值主题相关。"
+    },
+    "notes": "所有主张均源自该 X 帖文，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/a-single-chart-lays-out-the-pros-and-cons-of-google-claude-and-g.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

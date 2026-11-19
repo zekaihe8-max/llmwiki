@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:12:09.819Z",
+  "url": "https://x.com/berryxia/status/2123263336783778030",
+  "slug": "7d1e4261ffcd94b9",
+  "content_hash": "d654e5c62eb9b0ce6b5e574d437a53873d1a49a5de993b66ef46dd02205c5e53",
+  "source": {
+    "path": "sources/articles/nanny-level-digital-human-tutorial-zero-threshold-no-skills-need.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章讲述用AI数字人自动化出片，与智能体视频剪辑主题最贴近"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及AI辅助媒体内容制作与笔记式教程传播"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "数字人内容可用于自媒体矩阵与媒体内容回灌"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章讲述用AI数字人自动化出片，与智能体视频剪辑主题最贴近",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及AI辅助媒体内容制作与笔记式教程传播",
+    "topics/ai-media-training-corpus-loop.md": "数字人内容可用于自媒体矩阵与媒体内容回灌"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/nanny-level-digital-human-tutorial-zero-threshold-no-skills-need.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/ai-media-training-corpus-loop.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章讲述用AI数字人自动化出片，与智能体视频剪辑主题最贴近",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及AI辅助媒体内容制作与笔记式教程传播",
+      "topics/ai-media-training-corpus-loop.md": "数字人内容可用于自媒体矩阵与媒体内容回灌"
+    },
+    "notes": "cite_id 使用原始slug；所有事实均来源于提供的X文章正文，未引入外部信息或编造URL",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/nanny-level-digital-human-tutorial-zero-threshold-no-skills-need.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

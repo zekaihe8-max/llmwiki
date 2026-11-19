@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T11:57:07.710Z",
+  "url": "https://x.com/op7418/status/2123315070071619891",
+  "slug": "4d517871cff0c9a8",
+  "content_hash": "275aff905eeb8a9566193bdbe7d014974f8202ace20581c9a0d3d770640206a4",
+  "source": {
+    "path": "sources/articles/google-may-release-gemini-4-sodium-at-about-11-75-per-million-to.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区对未经独立核实的模型发布与性能宣传的审视，适用于“放风”性质的帖文。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 模型与订阅定价价值判断，与文中 11.75 至 16.50 美元的定价信息相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及前沿模型分级与定位策略，与 Gemini 4 Sodium 的“前沿模型”定位相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及前沿模型分级与定位策略，与 Gemini 4 Sodium 的“前沿模型”定位相关。",
+    "topics/premium-ai-subscription-value.md": "涉及 AI 模型与订阅定价价值判断，与文中 11.75 至 16.50 美元的定价信息相关。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区对未经独立核实的模型发布与性能宣传的审视，适用于“放风”性质的帖文。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-may-release-gemini-4-sodium-at-about-11-75-per-million-to.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及前沿模型分级与定位策略，与 Gemini 4 Sodium 的“前沿模型”定位相关。",
+      "topics/premium-ai-subscription-value.md": "涉及 AI 模型与订阅定价价值判断，与文中 11.75 至 16.50 美元的定价信息相关。",
+      "topics/community-evals-vs-score-hype.md": "涉及社区对未经独立核实的模型发布与性能宣传的审视，适用于“放风”性质的帖文。"
+    },
+    "notes": "所有关于 Gemini 4 Sodium 的发布时间、定价与性能声明均来自 willcb 帖文并由 @op7418 转发，未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-may-release-gemini-4-sodium-at-about-11-75-per-million-to.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

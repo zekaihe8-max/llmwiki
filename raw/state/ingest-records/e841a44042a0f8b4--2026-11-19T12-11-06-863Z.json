@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-19T12:11:06.863Z",
+  "url": "https://x.com/wquguru/status/2123269893588152709",
+  "slug": "e841a44042a0f8b4",
+  "content_hash": "8fac6ec58b55ecaa48b9d0e7829bb9f53b53c377fccef7fbc4a84cc3b2e2f8d3",
+  "source": {
+    "path": "sources/articles/supervising-someone-smarter-than-you-deconstructing-potato-siste.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是月合并 2000 个 PR 的规模化 Agent 工程，包含 Lint 架构、验证底座与团队产出放大，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中详细介绍 /teach、/how、/why、/architect、/correct、/no-comments 等技能的编写与使用，直接对应 Agent Skill 编写主题。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章批判抽象长篇计划，主张用 README 驱动开发和用完即扔的代码原型做规划，与“代码重于规格”主题一致。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提及 /recall 捞取对话上下文、Feature Map 物化记忆、代码库作为终极记忆等，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是月合并 2000 个 PR 的规模化 Agent 工程，包含 Lint 架构、验证底座与团队产出放大，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "文中详细介绍 /teach、/how、/why、/architect、/correct、/no-comments 等技能的编写与使用，直接对应 Agent Skill 编写主题。",
+    "topics/context-engineering-for-agents.md": "文中提及 /recall 捞取对话上下文、Feature Map 物化记忆、代码库作为终极记忆等，属于 Agent 上下文工程范畴。",
+    "topics/code-over-spec.md": "文章批判抽象长篇计划，主张用 README 驱动开发和用完即扔的代码原型做规划，与“代码重于规格”主题一致。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/supervising-someone-smarter-than-you-deconstructing-potato-siste.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/agent-skill-authoring.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心是月合并 2000 个 PR 的规模化 Agent 工程，包含 Lint 架构、验证底座与团队产出放大，与该主题高度相关。",
+      "topics/agent-skill-authoring.md": "文中详细介绍 /teach、/how、/why、/architect、/correct、/no-comments 等技能的编写与使用，直接对应 Agent Skill 编写主题。",
+      "topics/context-engineering-for-agents.md": "文中提及 /recall 捞取对话上下文、Feature Map 物化记忆、代码库作为终极记忆等，属于 Agent 上下文工程范畴。",
+      "topics/code-over-spec.md": "文章批判抽象长篇计划，主张用 README 驱动开发和用完即扔的代码原型做规划，与“代码重于规格”主题一致。"
+    },
+    "notes": "所有主题均复用现有条目，未新建主题；事实均源自提供的文章 markdown，未引入外部 URL 或未核实内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/supervising-someone-smarter-than-you-deconstructing-potato-siste.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

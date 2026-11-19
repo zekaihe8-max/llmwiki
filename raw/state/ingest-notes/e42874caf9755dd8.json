@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是发现并使用一个名为 lemo-animi 的 Agent Skill，直接对应 Skill 编写与使用主题。",
+    "topics/agentic-video-editing.md": "内容涉及通过 AI Agent 技能将歌词转为定格动画短片，属于智能体视频制作/剪辑范畴。",
+    "topics/open-source-in-ai-assistant-editing.md": "Lemomo 开源 lemo-animi 并让 Codex 自然语言生成视频，体现开源工具装进 AI 助手做自然语言剪辑/生成。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是发现并使用一个名为 lemo-animi 的 Agent Skill，直接对应 Skill 编写与使用主题。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "内容涉及通过 AI Agent 技能将歌词转为定格动画短片，属于智能体视频制作/剪辑范畴。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Lemomo 开源 lemo-animi 并让 Codex 自然语言生成视频，体现开源工具装进 AI 助手做自然语言剪辑/生成。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，其中“赞藏过千”等数据未经独立核实，已在摘要中用「帖文称」标注；未引入文章外事实。"
+}

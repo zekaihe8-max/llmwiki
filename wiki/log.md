@@ -1,5 +1,79 @@
 ## 2026-11-19
 
+* **创建 / Creation**: 归档 [Amazon Kindle《Agent 技能图解指南》](./sources/articles/amazon-com-an-illustrated-guide-to-agent-skills-turn-everyday-re.md)。 / Filed [Amazon.com: An Illustrated Guide to Agent Skills: Turn everyday repeatable tasks into reusable agentic workflows (Kindle eBook by Jim Liu)](./sources/articles/amazon-com-an-illustrated-guide-to-agent-skills-turn-everyday-re.md).
+
+* **创建 / Creation**: 归档 [豆包 SeedRealtime 1.0 API 开放，第三方可接入实时音视频对话能力](./sources/articles/doubao-seedrealtime-1-0-api-opens-third-parties-can-integrate-re.md)。 / Filed [Doubao SeedRealtime 1.0 API Opens, Third Parties Can Integrate Real-Time Audio-Video Conversation Capability](./sources/articles/doubao-seedrealtime-1-0-api-opens-third-parties-can-integrate-re.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 联网工具重新免费](./sources/articles/deepseek-web-search-tools-free-again.md)。 / Filed [DeepSeek Web Search Tools Free Again](./sources/articles/deepseek-web-search-tools-free-again.md).
+
+* **创建 / Creation**: 归档 [Hostinger 黑五 VPS](./sources/articles/hostinger-black-friday-vps.md)。 / Filed [Hostinger Black Friday VPS](./sources/articles/hostinger-black-friday-vps.md).
+
+* **创建 / Creation**: 归档 [LLM 推理手册：免费在线阅读，交互工具算显存和成本，按负载选择批处理、缓存与部署方式](./sources/articles/llm-inference-handbook-free-online-reading-interactive-tools-for.md)。 / Filed [LLM Inference Handbook: Free Online Reading, Interactive Tools for VRAM and Cost, Choosing Batching, Caching, and Deployment by Load](./sources/articles/llm-inference-handbook-free-online-reading-interactive-tools-for.md).
+
+* **创建 / Creation**: 归档 [发现 lemo-animi Skill：用儿歌歌词做定格动画，一句话让 Codex 制作黏土短片](./sources/articles/discovering-lemo-animi-skill-stop-motion-animation-from-nursery.md)。 / Filed [Discovering lemo-animi Skill: Stop-Motion Animation from Nursery Rhyme Lyrics, One-Sentence Claymation via Codex](./sources/articles/discovering-lemo-animi-skill-stop-motion-animation-from-nursery.md).
+
+* **创建 / Creation**: 归档 [几个细分赛道好用但冷门的大模型分享](./sources/articles/sharing-several-useful-but-little-known-large-models-in-niche-tr.md)。 / Filed [Sharing several useful but little-known large models in niche tracks](./sources/articles/sharing-several-useful-but-little-known-large-models-in-niche-tr.md).
+
+* **创建 / Creation**: 归档 [写代码时最想用语音的，是给 Codex 讲 bug](./sources/articles/what-i-most-want-to-use-voice-for-when-coding-is-explaining-bugs.md)。 / Filed [What I most want to use voice for when coding is explaining bugs to Codex](./sources/articles/what-i-most-want-to-use-voice-for-when-coding-is-explaining-bugs.md).
+
+* **创建 / Creation**: 归档 [在 4090 上自建个人 AI 助手：用 Linger 与 PolyStrata 追求零 Token 本地推理](./sources/articles/self-hosting-a-personal-ai-assistant-on-a-4090-with-linger-and-p.md)。 / Filed [Self-Hosting a Personal AI Assistant on a 4090 with Linger and PolyStrata for Zero-Token Local Inference](./sources/articles/self-hosting-a-personal-ai-assistant-on-a-4090-with-linger-and-p.md).
+
+* **创建 / Creation**: 归档 [用开源 Linger 在 4090 上搭了自己的助手](./sources/articles/built-a-personal-assistant-with-open-source-linger-on-a-4090.md)。 / Filed [Built a personal assistant with open-source Linger on a 4090](./sources/articles/built-a-personal-assistant-with-open-source-linger-on-a-4090.md).
+
+* **创建 / Creation**: 归档 [保姆喂饭级数字人教程：0门槛，不用Skills，直接手机4步出片](./sources/articles/nanny-level-digital-human-tutorial-zero-threshold-no-skills-need.md)。 / Filed [Nanny-Level Digital Human Tutorial: Zero Threshold, No Skills Needed, 4 Steps to Video on Mobile](./sources/articles/nanny-level-digital-human-tutorial-zero-threshold-no-skills-need.md).
+
+* **创建 / Creation**: 归档 [从 Claude 封号谈本地 AI 记忆与资产所有权](./sources/articles/from-claude-bans-to-local-ai-memory-and-asset-ownership.md)。 / Filed [From Claude bans to local AI memory and asset ownership](./sources/articles/from-claude-bans-to-local-ai-memory-and-asset-ownership.md).
+
+* **创建 / Creation**: 归档 [监督一个比你聪明的人：拆解土豆姐的 Agent 与 Lint 工程哲学（长文慎点）](./sources/articles/supervising-someone-smarter-than-you-deconstructing-potato-siste.md)。 / Filed [Supervising Someone Smarter Than You: Deconstructing Potato Sister's Agent and Lint Engineering Philosophy (Long Article, Caution)](./sources/articles/supervising-someone-smarter-than-you-deconstructing-potato-siste.md).
+
+* **创建 / Creation**: 归档 [【译文】用 Grok Bot 自动化任何事](./sources/articles/translation-automate-anything-with-grok-bot.md)。 / Filed [[Translation] Automate Anything with Grok Bot](./sources/articles/translation-automate-anything-with-grok-bot.md).
+
+* **创建 / Creation**: 归档 [Google AI Pro 优惠开通全攻略：10 种低价/免费方案汇总](./sources/articles/google-ai-pro-discount-guide-10-ways-to-get-cheaper-or-free-acce.md)。 / Filed [Google AI Pro Discount Guide: 10 Ways to Get Cheaper or Free Access](./sources/articles/google-ai-pro-discount-guide-10-ways-to-get-cheaper-or-free-acce.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 替代品对比](./sources/articles/grok-bot-alternatives-comparison.md)。 / Filed [Grok Bot Alternatives Comparison](./sources/articles/grok-bot-alternatives-comparison.md).
+
+* **创建 / Creation**: 归档 [OpenBot：可自建的 Grok Bot 替代方案](./sources/articles/openbot-a-self-hosted-grok-bot-alternative.md)。 / Filed [OpenBot: A Self-Hosted Grok Bot Alternative](./sources/articles/openbot-a-self-hosted-grok-bot-alternative.md).
+
+* **创建 / Creation**: 归档 [谷歌 AI Pro 模型按任务分层，以省 Token 为主](./sources/articles/google-ai-pro-models-tiered-by-task-to-save-tokens.md)。 / Filed [Google AI Pro Models Tiered by Task to Save Tokens](./sources/articles/google-ai-pro-models-tiered-by-task-to-save-tokens.md).
+
+* **创建 / Creation**: 归档 [他怀疑谷歌每次故意放出一个漏洞](./sources/articles/he-suspects-google-intentionally-releases-a-vulnerability-each-t.md)。 / Filed [He suspects Google intentionally releases a vulnerability each time](./sources/articles/he-suspects-google-intentionally-releases-a-vulnerability-each-t.md).
+
+* **创建 / Creation**: 归档 [将 AI 用量与重置倒计时显示在应用图标上的工具](./sources/articles/tool-showing-ai-usage-and-reset-countdown-on-app-icons.md)。 / Filed [Tool Showing AI Usage and Reset Countdown on App Icons](./sources/articles/tool-showing-ai-usage-and-reset-countdown-on-app-icons.md).
+
+* **创建 / Creation**: 归档 [谷歌还真把元素周期表选择器做进产品了](./sources/articles/google-actually-shipped-the-periodic-table-selector-into-its-pro.md)。 / Filed [Google actually shipped the periodic table selector into its product](./sources/articles/google-actually-shipped-the-periodic-table-selector-into-its-pro.md).
+
+* **创建 / Creation**: 归档 [把开发迁到 Claude Code 和 Codex 云环境，个人计算设备沦为终端](./sources/articles/migrating-development-to-claude-code-and-codex-cloud-environment.md)。 / Filed [Migrating Development to Claude Code and Codex Cloud Environments, Personal Computing Devices Become Terminals](./sources/articles/migrating-development-to-claude-code-and-codex-cloud-environment.md).
+
+* **创建 / Creation**: 归档 [Claude Code 云环境与额度：推理计算同处，自动化迁移至云端](./sources/articles/claude-code-cloud-environment-and-quota-reasoning-and-compute-co.md)。 / Filed [Claude Code Cloud Environment and Quota: Reasoning and Compute Co-located, Automation Migrated to Cloud](./sources/articles/claude-code-cloud-environment-and-quota-reasoning-and-compute-co.md).
+
+* **创建 / Creation**: 归档 [Lauren 谈 Grok Bot 自动化：先分清目标与过程，再把判断和反馈教给 Bot](./sources/articles/lauren-on-grok-bot-automation-separate-goals-from-processes-then.md)。 / Filed [Lauren on Grok Bot Automation: Separate Goals from Processes, Then Teach Judgment and Feedback to the Bot](./sources/articles/lauren-on-grok-bot-automation-separate-goals-from-processes-then.md).
+
+* **创建 / Creation**: 归档 [Shopify 移动应用攻击面地图与 Agent 安全审查](./sources/articles/shopify-mobile-app-attack-surface-map-and-agent-security-review.md)。 / Filed [Shopify Mobile App Attack Surface Map and Agent Security Review](./sources/articles/shopify-mobile-app-attack-surface-map-and-agent-security-review.md).
+
+* **创建 / Creation**: 归档 [腾讯总裁称元宝未达预期，已大幅缩减开支](./sources/articles/tencent-president-says-yuanbao-fell-short-of-expectations-spendi.md)。 / Filed [Tencent President Says Yuanbao Fell Short of Expectations, Spending Significantly Cut](./sources/articles/tencent-president-says-yuanbao-fell-short-of-expectations-spendi.md).
+
+* **创建 / Creation**: 归档 [腾讯电话会披露 WorkBuddy 关键数据：日活超 1000 万，日耗 Token 超 100 万亿](./sources/articles/tencent-earnings-call-reveals-key-workbuddy-metrics-over-10-mill.md)。 / Filed [Tencent earnings call reveals key WorkBuddy metrics: over 10 million DAU, over 100 trillion daily tokens](./sources/articles/tencent-earnings-call-reveals-key-workbuddy-metrics-over-10-mill.md).
+
+* **创建 / Creation**: 归档 [《图解 Skill》英文版即将发售](./sources/articles/english-edition-of-an-illustrated-guide-to-agent-skills-coming-s.md)。 / Filed [English Edition of "An Illustrated Guide to Agent Skills" Coming Soon](./sources/articles/english-edition-of-an-illustrated-guide-to-agent-skills-coming-s.md).
+
+* **创建 / Creation**: 归档 [深圳 GEO 大会还有两天](./sources/articles/shenzhen-geo-conference-starts-in-two-days.md)。 / Filed [Shenzhen GEO Conference Starts in Two Days](./sources/articles/shenzhen-geo-conference-starts-in-two-days.md).
+
+* **创建 / Creation**: 归档 [无需谷歌官方 Antigravity 客户端，T3 Code 夜间版已可用](./sources/articles/no-google-official-antigravity-client-needed-t3-code-nightly-bui.md)。 / Filed [No Google Official Antigravity Client Needed: T3 Code Nightly Builds Now Available](./sources/articles/no-google-official-antigravity-client-needed-t3-code-nightly-bui.md).
+
+* **创建 / Creation**: 归档 [T3 Code 可直接使用 Antigravity，官方许可](./sources/articles/t3-code-can-directly-use-antigravity-officially-licensed.md)。 / Filed [T3 Code Can Directly Use Antigravity, Officially Licensed](./sources/articles/t3-code-can-directly-use-antigravity-officially-licensed.md).
+
+* **创建 / Creation**: 归档 [AI 用户毫无忠诚度](./sources/articles/ai-users-have-no-loyalty.md)。 / Filed [AI users have no loyalty](./sources/articles/ai-users-have-no-loyalty.md).
+
+* **创建 / Creation**: 归档 [谷歌或将发布 Gemini 4 Sodium，入门定价约 11.75 美元/百万 Token](./sources/articles/google-may-release-gemini-4-sodium-at-about-11-75-per-million-to.md)。 / Filed [Google may release Gemini 4 Sodium at about $11.75 per million tokens](./sources/articles/google-may-release-gemini-4-sodium-at-about-11-75-per-million-to.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Neon 可平替 Opus 5.5，用户称多模态与设计还原更胜 Claude](./sources/articles/gemini-4-neon-can-substitute-for-opus-5-5-user-says-multimodal-a.md)。 / Filed [Gemini 4 Neon Can Substitute for Opus 5.5; User Says Multimodal and Design Restoration Surpass Claude](./sources/articles/gemini-4-neon-can-substitute-for-opus-5-5-user-says-multimodal-a.md).
+
+* **创建 / Creation**: 归档 [Android Studio 实装元素周期表模型选择器，命名引吐槽](./sources/articles/android-studio-implements-periodic-table-model-selector-naming-d.md)。 / Filed [Android Studio Implements Periodic Table Model Selector, Naming Draws Mockery](./sources/articles/android-studio-implements-periodic-table-model-selector-naming-d.md).
+
+* **创建 / Creation**: 归档 [一张图把三家里的优缺点说清楚了](./sources/articles/a-single-chart-lays-out-the-pros-and-cons-of-google-claude-and-g.md)。 / Filed [A single chart lays out the pros and cons of Google, Claude, and GPT](./sources/articles/a-single-chart-lays-out-the-pros-and-cons-of-google-claude-and-g.md).
+
+* **创建 / Creation**: 归档 [被谷歌的命名搞出选择困难](./sources/articles/google-s-naming-causes-decision-paralysis.md)。 / Filed [Google's naming causes decision paralysis](./sources/articles/google-s-naming-causes-decision-paralysis.md).
+
 * **创建 / Creation**: 归档 [测试堆得再多，也不等于系统是好的](./sources/articles/more-tests-do-not-mean-a-better-system.md)。 / Filed [More Tests Do Not Mean a Better System](./sources/articles/more-tests-do-not-mean-a-better-system.md).
 
 * **创建 / Creation**: 归档 [Matt · 用技能做完 2.1 万行的 PR](./sources/articles/matt-completing-a-21-000-line-pr-with-skills.md)。 / Filed [Matt · Completing a 21,000-line PR with Skills](./sources/articles/matt-completing-a-21-000-line-pr-with-skills.md).

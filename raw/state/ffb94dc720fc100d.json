@@ -1,0 +1,23 @@
+{
+  "slug": "ffb94dc720fc100d",
+  "url": "https://x.com/shao__meng/status/2123232255309119893",
+  "title": "Shopify",
+  "digest": "2026-11-19-cn-x.md",
+  "status": "filed",
+  "hash": "ffb94dc720fc100d0f12857562ab3e7dae25825a4fe17098926eda88c973007f",
+  "first_seen": "2026-11-19T11:53:50.354Z",
+  "last_seen": "2026-11-19T11:53:50.354Z",
+  "fetched_at": "2026-11-19T11:53:58.680Z",
+  "content_hash": "8094908d41b163be87c17693ab6deeb5e0da3c8e8304af0e81c7ed5af8b7c33b",
+  "article_path": "articles/ffb94dc720fc100d.md",
+  "fetched_url": "https://x.com/shao__meng/status/2123232255309119893",
+  "source_path": "sources/articles/shopify-mobile-app-attack-surface-map-and-agent-security-review.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-19T12:01:32.509Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

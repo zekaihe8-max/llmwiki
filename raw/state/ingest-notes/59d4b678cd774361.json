@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心讨论高端 AI 订阅的定价策略与性价比获取路径，直接对应该主题。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及通过不同渠道（运营商、硬件、教育、地区）获取模型访问权限的取舍，与渠道对比相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论高端 AI 订阅的定价策略与性价比获取路径，直接对应该主题。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及通过不同渠道（运营商、硬件、教育、地区）获取模型访问权限的取舍，与渠道对比相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; all claims attributed to the post (\"帖文称\"/\"the post states\"). Prices and eligibility may change; verify on official pages before purchase."
+}
