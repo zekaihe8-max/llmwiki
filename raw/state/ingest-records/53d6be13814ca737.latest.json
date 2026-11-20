@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:09:45.855Z",
+  "url": "https://x.com/vista8/status/2123443927705653368",
+  "slug": "53d6be13814ca737",
+  "content_hash": "323e945c213ecdee404847f0d39c768a30f0629e92f40b5c94aec8d2d864b6d3",
+  "source": {
+    "path": "sources/articles/yubo-s-ppt-handcrafted-content-ai-generated-style.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/reuse-before-write.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助内容产出与直出，与 AI 辅助创作主题相近"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文中将 PPT 风格交由 AI 生成，体现先复用模版再手写内容的做法"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及 PPT 模版风格与设计体验，属于 UX/DX 范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/reuse-before-write.md": "帖文中将 PPT 风格交由 AI 生成，体现先复用模版再手写内容的做法",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助内容产出与直出，与 AI 辅助创作主题相近",
+    "topics/ux-dx-and-ax.md": "涉及 PPT 模版风格与设计体验，属于 UX/DX 范畴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yubo-s-ppt-handcrafted-content-ai-generated-style.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/reuse-before-write.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/reuse-before-write.md": "帖文中将 PPT 风格交由 AI 生成，体现先复用模版再手写内容的做法",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助内容产出与直出，与 AI 辅助创作主题相近",
+      "topics/ux-dx-and-ax.md": "涉及 PPT 模版风格与设计体验，属于 UX/DX 范畴"
+    },
+    "notes": "Source is a single X post thread; no external URLs or facts beyond the article were used.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yubo-s-ppt-handcrafted-content-ai-generated-style.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T11:55:34.175Z",
+  "url": "https://x.com/lxfater/status/2123625468729413925",
+  "slug": "0435199e6fa7f7a3",
+  "content_hash": "fd3441612a8b0d42b4cc4849016433992c51878f6371285d84c4739a15474e13",
+  "source": {
+    "path": "sources/articles/app-store-rejection-rules-turned-into-open-source-agent-skill-fo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "工具以预审 Hook 形式在提交前自动运行，符合智能体自动化检查场景"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确将合规检查封装为可安装的 Agent Skill，与技能编写主题直接相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目开源并适配多种编程工具，体现 Agent Skills 开放标准与跨工具复用"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文明确将合规检查封装为可安装的 Agent Skill，与技能编写主题直接相关",
+    "topics/agent-skills-open-standard.md": "项目开源并适配多种编程工具，体现 Agent Skills 开放标准与跨工具复用",
+    "topics/agent-auto-mode.md": "工具以预审 Hook 形式在提交前自动运行，符合智能体自动化检查场景"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/app-store-rejection-rules-turned-into-open-source-agent-skill-fo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文明确将合规检查封装为可安装的 Agent Skill，与技能编写主题直接相关",
+      "topics/agent-skills-open-standard.md": "项目开源并适配多种编程工具，体现 Agent Skills 开放标准与跨工具复用",
+      "topics/agent-auto-mode.md": "工具以预审 Hook 形式在提交前自动运行，符合智能体自动化检查场景"
+    },
+    "notes": "所有主张均基于帖文，未独立核实 GitHub 星数或项目详情。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/app-store-rejection-rules-turned-into-open-source-agent-skill-fo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

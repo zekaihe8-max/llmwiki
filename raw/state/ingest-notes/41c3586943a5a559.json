@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agentic-video-editing.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文核心是 AI 辅助视频高光剪辑与媒体片段提取，直接对应该主题。",
+    "topics/agentic-video-editing.md": "涉及以模型驱动的视频剪辑流程，与智能体视频剪辑主题相近。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比 Gemini Neon 与 Opus 5.5 的开发效率，涉及模型选型与优劣权衡。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 AI 辅助视频高光剪辑与媒体片段提取，直接对应该主题。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及以模型驱动的视频剪辑流程，与智能体视频剪辑主题相近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Gemini Neon 与 Opus 5.5 的开发效率，涉及模型选型与优劣权衡。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 @vista8 的帖文，未独立核实。"
+}

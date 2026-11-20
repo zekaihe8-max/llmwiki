@@ -1,0 +1,93 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:32:38.158Z",
+  "url": "https://x.com/vista8/status/2123598467318874178",
+  "slug": "978a841224219fdf",
+  "content_hash": "90325c9314b4dc9043151bde018175bf038820441b528484d0551335e5857474",
+  "source": {
+    "path": "sources/articles/shenzhen-geo-conference-to-open-soon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-local-businesses.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/hireable-group-chat-digest-agent.md",
+    "topics/index.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "涉及本地社区活动与组织，与 GEO 大会本地落地最为接近"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "涉及社区扩展与组织，与会议社区性质有远程关联"
+    },
+    {
+      "path": "topics/hireable-group-chat-digest-agent.md",
+      "action": "unchanged",
+      "reason": "涉及群聊与社区组织协调，与会议筹备有间接关联"
+    },
+    {
+      "path": "topics/index.md",
+      "action": "unchanged",
+      "reason": "作为总目录，兜底未匹配的会议类主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-local-businesses.md": "涉及本地社区活动与组织，与 GEO 大会本地落地最为接近",
+    "topics/minimal-core-community-extensions.md": "涉及社区扩展与组织，与会议社区性质有远程关联",
+    "topics/hireable-group-chat-digest-agent.md": "涉及群聊与社区组织协调，与会议筹备有间接关联",
+    "topics/index.md": "作为总目录，兜底未匹配的会议类主题"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shenzhen-geo-conference-to-open-soon.md"
+  ],
+  "agent_notes": {
+    "topics_consulted": [
+      "topics/ai-assisted-local-businesses.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/hireable-group-chat-digest-agent.md",
+      "topics/index.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-local-businesses.md": "涉及本地社区活动与组织，与 GEO 大会本地落地最为接近",
+      "topics/minimal-core-community-extensions.md": "涉及社区扩展与组织，与会议社区性质有远程关联",
+      "topics/hireable-group-chat-digest-agent.md": "涉及群聊与社区组织协调，与会议筹备有间接关联",
+      "topics/index.md": "作为总目录，兜底未匹配的会议类主题"
+    },
+    "topics": [
+      {
+        "path": "topics/ai-assisted-local-businesses.md",
+        "action": "unchanged",
+        "reason": "涉及本地社区活动与组织，与 GEO 大会本地落地最为接近"
+      },
+      {
+        "path": "topics/minimal-core-community-extensions.md",
+        "action": "unchanged",
+        "reason": "涉及社区扩展与组织，与会议社区性质有远程关联"
+      },
+      {
+        "path": "topics/hireable-group-chat-digest-agent.md",
+        "action": "unchanged",
+        "reason": "涉及群聊与社区组织协调，与会议筹备有间接关联"
+      },
+      {
+        "path": "topics/index.md",
+        "action": "unchanged",
+        "reason": "作为总目录，兜底未匹配的会议类主题"
+      }
+    ],
+    "new_topic_reasons": {},
+    "notes": "未在现有目录中找到直接对应 GEO/会议类主题，故仅选取最接近的本地/社区/群组类主题并保持 unchanged。"
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:27:02.018Z",
+  "url": "https://x.com/servasyy_ai/status/2123423428602663131",
+  "slug": "4893fd554e69c86b",
+  "content_hash": "43a6d6f926b3101d445d7cd361991ca5fc7f2400ee2a53e9a1081b4ce440795b",
+  "source": {
+    "path": "sources/articles/minimax-h3-fight-skill-update-10s-5-shot-vfx-fast-cut-toolchain.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agent-skill-authoring.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "MiniMax H3 打戏 skill 属于 Agent Skill 编写与迭代的典型案例。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "核心内容是 AI 视频剪辑流程与工具链的更新，直接对应智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助的素材生成、快剪、拆帧挑镜等剪藏工具，符合 AI 辅助剪藏主题。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "项目开源（GitHub），提供 ComfyUI 模板生成，属于开源工具接入 AI 助手剪辑场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "核心内容是 AI 视频剪辑流程与工具链的更新，直接对应智能体视频剪辑主题。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助的素材生成、快剪、拆帧挑镜等剪藏工具，符合 AI 辅助剪藏主题。",
+    "topics/agent-skill-authoring.md": "MiniMax H3 打戏 skill 属于 Agent Skill 编写与迭代的典型案例。",
+    "topics/open-source-in-ai-assistant-editing.md": "项目开源（GitHub），提供 ComfyUI 模板生成，属于开源工具接入 AI 助手剪辑场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/minimax-h3-fight-skill-update-10s-5-shot-vfx-fast-cut-toolchain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/agent-skill-authoring.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "核心内容是 AI 视频剪辑流程与工具链的更新，直接对应智能体视频剪辑主题。",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助的素材生成、快剪、拆帧挑镜等剪藏工具，符合 AI 辅助剪藏主题。",
+      "topics/agent-skill-authoring.md": "MiniMax H3 打戏 skill 属于 Agent Skill 编写与迭代的典型案例。",
+      "topics/open-source-in-ai-assistant-editing.md": "项目开源（GitHub），提供 ComfyUI 模板生成，属于开源工具接入 AI 助手剪辑场景。"
+    },
+    "notes": "Source is a single X post with GitHub link; claims are attributed to the post author. No independent verification performed.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/minimax-h3-fight-skill-update-10s-5-shot-vfx-fast-cut-toolchain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

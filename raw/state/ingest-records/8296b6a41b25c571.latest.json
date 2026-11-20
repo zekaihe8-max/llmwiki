@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:10:20.099Z",
+  "url": "https://x.com/op7418/status/2123522128180027723",
+  "slug": "8296b6a41b25c571",
+  "content_hash": "8d83bf871b120ef32715b2da2ccd99b8c089270d958e0443d69779703872d216",
+  "source": {
+    "path": "sources/articles/genie-4-world-model-now-accessible-via-gemini-api.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Genie 4 世界模型，与“实时交互世界模型”主题直接相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文提及谷歌计算资源恐怖，触及大厂推理与算力成本议题。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini API 与 Google 模型发布，属模型渠道与策略范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是 Genie 4 世界模型，与“实时交互世界模型”主题直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini API 与 Google 模型发布，属模型渠道与策略范畴。",
+    "topics/lab-inference-serving-cost-efficiency.md": "帖文提及谷歌计算资源恐怖，触及大厂推理与算力成本议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/genie-4-world-model-now-accessible-via-gemini-api.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "文章核心是 Genie 4 世界模型，与“实时交互世界模型”主题直接相关。",
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini API 与 Google 模型发布，属模型渠道与策略范畴。",
+      "topics/lab-inference-serving-cost-efficiency.md": "帖文提及谷歌计算资源恐怖，触及大厂推理与算力成本议题。"
+    },
+    "notes": "仅基于 X 帖文及其引用内容，未独立核实 Genie 4 的实际 API 可用性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/genie-4-world-model-now-accessible-via-gemini-api.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

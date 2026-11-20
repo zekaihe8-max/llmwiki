@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文核心是高端 AI 订阅是否值得续订，与该主题直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 GPT Pro 与 Gemini 模型的取舍，属于 Pro 与替代模型策略范畴。",
+    "topics/usage-limit-ab-tests.md": "帖文提及 12 月 Chat 开始扣额度，涉及用量上限与计费变化。",
+    "topics/coding-agent-ux-vs-quota.md": "用户反映 6.2 交付质量不达标并关注额度，对应编程 Agent 体验与额度议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文核心是高端 AI 订阅是否值得续订，与该主题直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 GPT Pro 与 Gemini 模型的取舍，属于 Pro 与替代模型策略范畴。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "帖文提及 12 月 Chat 开始扣额度，涉及用量上限与计费变化。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "用户反映 6.2 交付质量不达标并关注额度，对应编程 Agent 体验与额度议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于单条 X 帖文，未独立核实，已在摘要中使用「帖文称」。"
+}

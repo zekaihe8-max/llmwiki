@@ -1,0 +1,23 @@
+{
+  "slug": "552ec38900fe0d26",
+  "url": "https://dusk.bot/",
+  "title": "dusk.bot",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "552ec38900fe0d2698d834aaf82fa3e28119471f04d655a90676c66786c747bb",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:50.475Z",
+  "content_hash": "203a6a298e1317200e747dd8271f7c4044babb51cc748e95541cc79d03a150e4",
+  "article_path": "articles/552ec38900fe0d26.md",
+  "fetched_url": "https://dusk.bot/",
+  "source_path": "sources/articles/dusk-bot-each-bot-gets-its-own-computer.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:06:06.081Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

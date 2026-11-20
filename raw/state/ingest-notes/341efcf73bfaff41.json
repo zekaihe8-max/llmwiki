@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/computer-use.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文重点介绍 Hark Pro 自主编写代码制作视频，与智能体视频剪辑主题高度相关。",
+    "topics/computer-use.md": "Handoff 云端虚拟机可操控浏览器和网页，属于典型的 Computer Use 场景。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文章涉及云端独立虚拟机、账号授权与额度管理，属于个人 Agent 云环境范畴。",
+    "topics/agent-auto-mode.md": "Hark Pro 可主动执行任务并主动判断是否能直接完成，符合智能体自动模式讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文重点介绍 Hark Pro 自主编写代码制作视频，与智能体视频剪辑主题高度相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Handoff 云端虚拟机可操控浏览器和网页，属于典型的 Computer Use 场景。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文章涉及云端独立虚拟机、账号授权与额度管理，属于个人 Agent 云环境范畴。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Hark Pro 可主动执行任务并主动判断是否能直接完成，符合智能体自动模式讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是 Genie 4 世界模型，与“实时交互世界模型”主题直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini API 与 Google 模型发布，属模型渠道与策略范畴。",
+    "topics/lab-inference-serving-cost-efficiency.md": "帖文提及谷歌计算资源恐怖，触及大厂推理与算力成本议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Genie 4 世界模型，与“实时交互世界模型”主题直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini API 与 Google 模型发布，属模型渠道与策略范畴。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文提及谷歌计算资源恐怖，触及大厂推理与算力成本议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于 X 帖文及其引用内容，未独立核实 Genie 4 的实际 API 可用性。"
+}

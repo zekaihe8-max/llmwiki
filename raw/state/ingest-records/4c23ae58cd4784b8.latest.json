@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:04:13.245Z",
+  "url": "https://x.com/dingyi/status/2123582857725784110",
+  "slug": "4c23ae58cd4784b8",
+  "content_hash": "5c2135d9b87108a31ad2ddd6d058b792b69060ffbaafba494a424424fdebf63c",
+  "source": {
+    "path": "sources/articles/project-no-longer-uses-grok-bot-shifts-to-amp-and-puck.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "讨论 Grok Bot 社区互派，与帖文中 Grok Bot 被替换的语境相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 与 X 查询，与帖文中放弃 Grok Bot 的主题最相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Grok Bot 在 X 上的使用边界，与帖文讨论的工具取舍相近。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 调度编程 Agent，与帖文中让 Puck 编排对话的做法相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 查询，与帖文中放弃 Grok Bot 的主题最相关。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 上的使用边界，与帖文讨论的工具取舍相近。",
+    "topics/dsh-grok-cross-dispatch.md": "讨论 Grok Bot 社区互派，与帖文中 Grok Bot 被替换的语境相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "涉及个人 Agent 调度编程 Agent，与帖文中让 Puck 编排对话的做法相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/project-no-longer-uses-grok-bot-shifts-to-amp-and-puck.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 与 X 查询，与帖文中放弃 Grok Bot 的主题最相关。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同样围绕 Grok Bot 在 X 上的使用边界，与帖文讨论的工具取舍相近。",
+      "topics/dsh-grok-cross-dispatch.md": "讨论 Grok Bot 社区互派，与帖文中 Grok Bot 被替换的语境相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "涉及个人 Agent 调度编程 Agent，与帖文中让 Puck 编排对话的做法相近。"
+    },
+    "notes": "Based solely on the fetched X post markdown; no external facts or URLs invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/project-no-longer-uses-grok-bot-shifts-to-amp-and-puck.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

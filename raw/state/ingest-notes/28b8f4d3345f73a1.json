@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "直接对应账号购买与封禁风险，属账号与资产安全范畴",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及账号/环境使用中的备份与风险检查，相关性较弱",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "涉及账号托管与节点管理，与账号安全边缘相关"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "直接对应账号购买与封禁风险，属账号与资产安全范畴"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及账号/环境使用中的备份与风险检查，相关性较弱"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "涉及账号托管与节点管理，与账号安全边缘相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未创建新话题，全部复用现有目录。"
+}

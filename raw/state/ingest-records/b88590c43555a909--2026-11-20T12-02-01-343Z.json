@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:02:01.343Z",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "slug": "b88590c43555a909",
+  "content_hash": "2b8a0ba3be0d25c2c24c89b63ec2e956042c55eed5904126ac55a844e1f9b65b",
+  "source": {
+    "path": "sources/articles/last30days-skill-multi-source-social-search-engine-for-ai-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-native-web-search.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "本项目重新定义了面向 Agent 的联网搜索：多源并行、社交信号评分、AI 综合，符合「面向 Agent 的联网搜索重做」主题。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "README 展示了技能的安装、配置、源需求声明与版本迭代，是 Skill 编写最佳实践的实例。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "作为一个可跨 50+ 宿主安装的 Skill，体现了 Agent Skills 开放标准的互操作性与分发模式。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "核心创新在于用社区真实互动数据（而非基准分）对抗刷分与营销噪音，直接对应该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-native-web-search.md": "本项目重新定义了面向 Agent 的联网搜索：多源并行、社交信号评分、AI 综合，符合「面向 Agent 的联网搜索重做」主题。",
+    "topics/agent-skills-open-standard.md": "作为一个可跨 50+ 宿主安装的 Skill，体现了 Agent Skills 开放标准的互操作性与分发模式。",
+    "topics/agent-skill-authoring.md": "README 展示了技能的安装、配置、源需求声明与版本迭代，是 Skill 编写最佳实践的实例。",
+    "topics/community-evals-vs-score-hype.md": "核心创新在于用社区真实互动数据（而非基准分）对抗刷分与营销噪音，直接对应该主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/last30days-skill-multi-source-social-search-engine-for-ai-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-native-web-search.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-native-web-search.md": "本项目重新定义了面向 Agent 的联网搜索：多源并行、社交信号评分、AI 综合，符合「面向 Agent 的联网搜索重做」主题。",
+      "topics/agent-skills-open-standard.md": "作为一个可跨 50+ 宿主安装的 Skill，体现了 Agent Skills 开放标准的互操作性与分发模式。",
+      "topics/agent-skill-authoring.md": "README 展示了技能的安装、配置、源需求声明与版本迭代，是 Skill 编写最佳实践的实例。",
+      "topics/community-evals-vs-score-hype.md": "核心创新在于用社区真实互动数据（而非基准分）对抗刷分与营销噪音，直接对应该主题。"
+    },
+    "notes": "Source URL: https://github.com/mvanhorn/last30days-skill",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/last30days-skill-multi-source-social-search-engine-for-ai-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

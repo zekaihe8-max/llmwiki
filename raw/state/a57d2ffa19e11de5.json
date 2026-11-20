@@ -1,0 +1,34 @@
+{
+  "slug": "a57d2ffa19e11de5",
+  "url": "https://web.stanford.edu/class/cs329z/slides/lecture09.pdf",
+  "title": "讲义",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "failed",
+  "hash": "a57d2ffa19e11de57baf0281929a07a49743617398c32f0954e3cee0acdc4a5e",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetch failed: fetch failed",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-20T11:51:57.285Z",
+      "stage": "fetch",
+      "error": "fetch failed: fetch failed"
+    },
+    {
+      "at": "2026-11-20T12:33:02.244Z",
+      "stage": "fetch",
+      "error": "fetch failed: fetch failed"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetch failed: fetch failed",
+  "last_fetch_failed_at": "2026-11-20T12:33:02.244Z"
+}

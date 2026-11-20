@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心是把碎片化体检文档结构化后喂给 Agent，属于 Agent 上下文工程。",
+    "topics/local-desensitization-before-models.md": "文中强调 Mirobody 支持 100% 本地部署，健康数据不离开本机，符合本地脱敏/隐私主题。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用 ESL-Bench 对非结构化健康文档检索准确率的评测结论，涉及公开基准质量审视。",
+    "topics/agent-auto-mode.md": "Mirobody MCP 接入后由 Agent 自动读取文件、调用标准化并回答，体现智能体自动模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是把碎片化体检文档结构化后喂给 Agent，属于 Agent 上下文工程。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "文中强调 Mirobody 支持 100% 本地部署，健康数据不离开本机，符合本地脱敏/隐私主题。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用 ESL-Bench 对非结构化健康文档检索准确率的评测结论，涉及公开基准质量审视。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Mirobody MCP 接入后由 Agent 自动读取文件、调用标准化并回答，体现智能体自动模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

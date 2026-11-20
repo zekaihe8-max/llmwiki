@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文明确将合规检查封装为可安装的 Agent Skill，与技能编写主题直接相关",
+    "topics/agent-skills-open-standard.md": "项目开源并适配多种编程工具，体现 Agent Skills 开放标准与跨工具复用",
+    "topics/agent-auto-mode.md": "工具以预审 Hook 形式在提交前自动运行，符合智能体自动化检查场景"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确将合规检查封装为可安装的 Agent Skill，与技能编写主题直接相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目开源并适配多种编程工具，体现 Agent Skills 开放标准与跨工具复用"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "工具以预审 Hook 形式在提交前自动运行，符合智能体自动化检查场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文，未独立核实 GitHub 星数或项目详情。"
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:21:41.256Z",
+  "url": "https://x.com/wquguru/status/2123718006048243898",
+  "slug": "ed0c3207c0bc9554",
+  "content_hash": "e5044c71698ac28349645fb3a51005005bcd0a989f9b7a38c20446fbc17c7f9d",
+  "source": {
+    "path": "sources/articles/deepseek-flash-interprets-checkup-records-grok-hints-at-atrial-f.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/tasks-confidently-handed-to-ai.md": "已查阅；本文证据不足以改写该主题，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-flash-interprets-checkup-records-grok-hints-at-atrial-f.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/calibrating-ai-guidance.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/calibrating-ai-guidance.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+      "topics/tasks-confidently-handed-to-ai.md": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-flash-interprets-checkup-records-grok-hints-at-atrial-f.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:08:04.576Z",
+  "url": "https://x.com/vista8/status/2123483659592405036",
+  "slug": "240413ab0ff9eb63",
+  "content_hash": "87fa52f705d6adb1d8d85bdc8c40c42ed330e628f9ff9fcd46090eec1382906a",
+  "source": {
+    "path": "sources/articles/built-subcast-video-highlight-clipping-with-gemini-neon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "作者对比 Gemini Neon 与 Opus 5.5 的模型取舍，与模型渠道取舍主题相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 AI 辅助的视频高光剪辑开发，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助剪辑与媒体内容处理，与剪藏与媒体笔记主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是 AI 辅助的视频高光剪辑开发，与智能体视频剪辑主题直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助剪辑与媒体内容处理，与剪藏与媒体笔记主题相近。",
+    "topics/agent-model-channel-tradeoffs.md": "作者对比 Gemini Neon 与 Opus 5.5 的模型取舍，与模型渠道取舍主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/built-subcast-video-highlight-clipping-with-gemini-neon.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文核心是 AI 辅助的视频高光剪辑开发，与智能体视频剪辑主题直接相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助剪辑与媒体内容处理，与剪藏与媒体笔记主题相近。",
+      "topics/agent-model-channel-tradeoffs.md": "作者对比 Gemini Neon 与 Opus 5.5 的模型取舍，与模型渠道取舍主题相关。"
+    },
+    "notes": "本条目仅基于单条 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/built-subcast-video-highlight-clipping-with-gemini-neon.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

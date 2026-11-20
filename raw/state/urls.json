@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -10362,8 +10362,8 @@
     "hash": "60a76d2bfebde32c33304e744aca786fcde3a9934b2fa999cd7b29bc21555f56",
     "slug": "60a76d2bfebde32c",
     "first_seen": "2026-11-16T11:57:16.590Z",
-    "last_seen": "2026-11-16T11:57:16.590Z",
-    "digest": "2026-11-16-cn-x.md",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
     "title": "thetahealth/mirobody"
   },
   "http://chat.mirobody.cn/": {
@@ -11618,8 +11618,8 @@
     "hash": "226c0038b9ada278a1bb7a8e082682f4065c013223a0847b8c10667dd51a5629",
     "slug": "226c0038b9ada278",
     "first_seen": "2026-11-18T11:51:18.912Z",
-    "last_seen": "2026-11-18T11:51:18.912Z",
-    "digest": "2026-11-18-cn-x.md",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
     "title": "github.com/huangserva/h3-fight"
   },
   "https://x.com/servasyy_ai/status/2122930974661156906": {
@@ -12434,16 +12434,16 @@
     "hash": "f250390f1745ad1f52984ca56ca35bf06138e3dd96f8dd4135218d48ea52dbdb",
     "slug": "f250390f1745ad1f",
     "first_seen": "2026-11-20T00:12:52.065Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
-    "digest": "2026-11-20-frontier-ai.md",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
     "title": "宝玉"
   },
   "https://claude.dev/blog/solving-code-review-at-anthropic": {
     "hash": "6d6f8ad0753534aab211d62e20d2ed19db564953fdf5909882c5651fc110b977",
     "slug": "6d6f8ad0753534aa",
     "first_seen": "2026-11-20T00:12:52.065Z",
-    "last_seen": "2026-11-20T00:12:52.065Z",
-    "digest": "2026-11-20-frontier-ai.md",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
     "title": "宝玉整理 Claude Code 团队怎么做代码审查"
   },
   "https://x.com/Voxyz_ai/status/2123431117634367675": {
@@ -12453,5 +12453,381 @@
     "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-11-20-frontier-ai.md",
     "title": "一个小设置"
+  },
+  "https://x.com/dotey/status/2123676175021281770": {
+    "hash": "b32f39395ae6c8a839b077c6023b3e0d923b11cc0c21453bf07af3d5e4438ee1",
+    "slug": "b32f39395ae6c8a8",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "GPT-6.2 Sol 复杂代码还要 Opus 擦屁股"
+  },
+  "https://x.com/dotey/status/2123667995570413718": {
+    "hash": "95666f6c517328c47643970e591aa41c7a5b382f82ef7b28b54b6573a69553ec",
+    "slug": "95666f6c517328c4",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "他跟 Lauren Tan 的自动化方法不一样"
+  },
+  "https://x.com/dotey/status/2123671858541187164": {
+    "hash": "57d3f3e50529328fffc0985bde88abd0ebd2e4965681320b6e2c46439a7edf46",
+    "slug": "57d3f3e50529328f",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "936 个 AI 自己做了三个月研究"
+  },
+  "https://x.com/Khazix0918/status/2123627885730951241": {
+    "hash": "340c422db37f5ede89e2bb73af1ccd630e76481d8f21647a6452a208a5c32020",
+    "slug": "340c422db37f5ede",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "DSH 发布刚好满 100 天，他写了 13 个插件玩法"
+  },
+  "https://github.com/mjmirza/app-store-compliance": {
+    "hash": "11418a0ccfe2dccc786b0bd60a595736d86c8e438353f0d98c62e01a8e24258d",
+    "slug": "11418a0ccfe2dccc",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/lxfater/status/2123625468729413925": {
+    "hash": "0435199e6fa7f7a3c3b09f66cb819b4652b0a6262af30e6c12545a6353551b46",
+    "slug": "0435199e6fa7f7a3",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "有人把应用商店 123 种拒审坑做成了开源 Skill"
+  },
+  "https://x.com/lxfater/status/2123702938308661280": {
+    "hash": "11db705ee71b75ea633b1e76c1be85ce97c65df694f35bca6aa67bf974fa6b0d",
+    "slug": "11db705ee71b75ea",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "有人开始停 GPT Pro，转去 Gemini"
+  },
+  "https://github.com/mvanhorn/last30days-skill": {
+    "hash": "b88590c43555a909e1ff4309ecbf7f5564518a8eeb8290dba5726961f2fe41cc",
+    "slug": "b88590c43555a909",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/lxfater/status/2123686205892042883": {
+    "hash": "50a3f74144b3a34bd6638f912348bc7a7540c2e53e765f4bb88040f1bf3f8ded",
+    "slug": "50a3f74144b3a34b",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "全网近 30 天的真人讨论被做成了 Skill"
+  },
+  "https://x.com/xiaomovps/status/2123605050014748713": {
+    "hash": "e7a2c4a4083186c90937a53275d28dafceda1bb9d63d1e4100a2240beafe1f7d",
+    "slug": "e7a2c4a4083186c9",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "他从 Anthropic 官网挑了 5 篇给新手看"
+  },
+  "https://x.com/xiaomovps/status/2123723353190207532": {
+    "hash": "f4c09d9bfebc92703713b5b2f74be32c540dd7d1f9eb70b5c6c6d2f1b0d7ef0d",
+    "slug": "f4c09d9bfebc9270",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "谷歌其实也有 Personal Agent，叫 Tasks in Gemini"
+  },
+  "https://x.com/xiaomovps/status/2123694301121290338": {
+    "hash": "8eb9ec00659af7e6dd2b08b52e656ca12bd7de3d18405c3f2a5e0e7e291a6979",
+    "slug": "8eb9ec00659af7e6",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "第一次用 Personal Agent，他只给三个忠告"
+  },
+  "https://x.com/dingyi/status/2123582857725784110": {
+    "hash": "4c23ae58cd4784b88336309268079bfcc1156a57aa553dbf246247c217ba5e68",
+    "slug": "4c23ae58cd4784b8",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "项目已经不用 Grok Bot 了"
+  },
+  "https://developer.chrome.com/blog/modern-web-guidance-v1": {
+    "hash": "9085c4cc9f2275d3b9b8e00494abb1dea2024eae92d433e7b577a6458c693294",
+    "slug": "9085c4cc9f2275d3",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Chrome 博客"
+  },
+  "https://x.com/dingyi/status/2123642745420169556": {
+    "hash": "92ebe9f67713532c637e0697eb4be8780d8d08d473bb7856287c7f06ded10282",
+    "slug": "92ebe9f67713532c",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Chrome 联合 Firefox、Edge 发了 Modern Web Guidance"
+  },
+  "https://dusk.bot/": {
+    "hash": "552ec38900fe0d2698d834aaf82fa3e28119471f04d655a90676c66786c747bb",
+    "slug": "552ec38900fe0d26",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "dusk.bot"
+  },
+  "https://x.com/dingyi/status/2123734175228535017": {
+    "hash": "68f0097e2a65b33f5a81ca9e01712fc363e676ec7c3321d72ae13feedbe1212f",
+    "slug": "68f0097e2a65b33f",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Amp 订阅"
+  },
+  "https://x.com/dingyi/status/2123551142290575647": {
+    "hash": "ded8ba458efb8aa834b7ece5d86e82f0041f4b39d50b4cc9b2c57be247704796",
+    "slug": "ded8ba458efb8aa8",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "dusk.bot"
+  },
+  "https://x.com/dingyi/status/2123637028797747434": {
+    "hash": "28b8f4d3345f73a16c9a174062e97b155177cd210f43b342e0893f1f99e7ece8",
+    "slug": "28b8f4d3345f73a1",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "买号"
+  },
+  "https://x.com/vista8/status/2123483659592405036": {
+    "hash": "240413ab0ff9eb6373091fc7c725a94b16dc07a168d9a2ab132fe5e10ab605c1",
+    "slug": "240413ab0ff9eb63",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "用 Gemini Neon 给 Subcast 做了视频高光剪辑"
+  },
+  "https://x.com/vista8/status/2123560679643009272": {
+    "hash": "41c3586943a5a559d6b205274fc0f87a208425dbb2ddc8707516f4a64896fbba",
+    "slug": "41c3586943a5a559",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "他用这个功能剪了老罗访谈陈晓卿"
+  },
+  "https://x.com/vista8/status/2123598467318874178": {
+    "hash": "978a841224219fdf0a527facbcf4ab9216f734d735d6cbe471114294dd6c388e",
+    "slug": "978a841224219fdf",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "大会"
+  },
+  "https://x.com/vista8/status/2123443927705653368": {
+    "hash": "53d6be13814ca737bfa64b70c0bb724246bf9949c9bbed89f0b745cbc91a7f79",
+    "slug": "53d6be13814ca737",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "玉伯 PPT"
+  },
+  "https://x.com/op7418/status/2123522128180027723": {
+    "hash": "8296b6a41b25c5718c13cba963bbe8e3daaf60097136ea3f55d549b632468dfd",
+    "slug": "8296b6a41b25c571",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Genie 4 居然已经能通过 API 访问"
+  },
+  "https://x.com/op7418/status/2123434343947534712": {
+    "hash": "c89dd74d98516f8f9de4b6763d1b766414b5572833d4ba6582df66cc4df4e922",
+    "slug": "c89dd74d98516f8f",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Anthropic 正式在纳斯达克敲钟上市"
+  },
+  "https://github.com/langchain-ai/design-agent": {
+    "hash": "a992c96088a05028b0d529bc5a0871b4a7d676400412959282f738803fcce71a",
+    "slug": "a992c96088a05028",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/shao__meng/status/2123600235079586247": {
+    "hash": "73ec719ae02fda3943a7450db767d4ecf350030866530d106d84eb210b7f0916",
+    "slug": "73ec719ae02fda39",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "LangChain 开源了公司内部的 Design Agent"
+  },
+  "https://x.com/shao__meng/status/2123595391077875984": {
+    "hash": "cc8064e324245a9fcdb6d548f06fe4c1816f8286e295b04439160c0665794341",
+    "slug": "cc8064e324245a9f",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "前 Claude Code 核心开发者 Thariq 的反思"
+  },
+  "https://www.youtube.com/watch?v=e_m99aR7_3Q": {
+    "hash": "5b6715830768ed5b8fe0cc7973e0c79462f80e3e57d48badf364ca20ababbd6b",
+    "slug": "5b6715830768ed5b",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "录像"
+  },
+  "https://web.stanford.edu/class/cs329z/slides/lecture09.pdf": {
+    "hash": "a57d2ffa19e11de57baf0281929a07a49743617398c32f0954e3cee0acdc4a5e",
+    "slug": "a57d2ffa19e11de5",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "讲义"
+  },
+  "https://x.com/shao__meng/status/2123582765727617061": {
+    "hash": "1ca583cfe1ed1d839fb82697c9d51bcd8031cdc90f42325fac73ef2cdbc3d1cc",
+    "slug": "1ca583cfe1ed1d83",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "斯坦福 CS329Z 第九讲公开了"
+  },
+  "https://x.com/0xlangeai/status/2123710705270480921": {
+    "hash": "42c90d2d8382c1484d722056f50ce1fd43e863bf7c443b62beffea5088effd2e",
+    "slug": "42c90d2d8382c148",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "他把“赛博工伤”说到了健康档案上"
+  },
+  "https://x.com/0xlangeai/status/2123618584798941693": {
+    "hash": "e4639e074580ebb25db6f7f85a0cb5227465aba4a73cdf43ef50071b3e1ade50",
+    "slug": "e4639e074580ebb2",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "他宣布现在 Google Ultra 套餐真香"
+  },
+  "https://x.com/cashinmyhouse/status/2123699145193947369": {
+    "hash": "341efcf73bfaff41796edc1c479ba284c7ded13a2749c0da4e656e4673fdc4de",
+    "slug": "341efcf73bfaff41",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "这条帖"
+  },
+  "https://x.com/0xlangeai/status/2123718745449263552": {
+    "hash": "4728f14dea954061c472d02730a54204000b85c03a06763066f59590c8c52c05",
+    "slug": "4728f14dea954061",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Hark 出了保姆级教程"
+  },
+  "https://x.com/wquguru/status/2123718005624615379": {
+    "hash": "d411cf4c9463e1a1ac8c0bd0268f33cea728e8713d3d368ff71ecc1fe326e974",
+    "slug": "d411cf4c9463e1a1",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "三年体检单里一组没人提醒的指标，被模型拎出来了"
+  },
+  "https://x.com/wquguru/status/2123718006048243898": {
+    "hash": "ed0c3207c0bc9554796eccf36793444bbca520d32d90793ba5faf9efffcd54cc",
+    "slug": "ed0c3207c0bc9554",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "他又把 266 万条 Apple 健康记录导了进去"
+  },
+  "https://x.com/servasyy_ai/status/2123402033390875100": {
+    "hash": "067c41b3820784f24f3381e4f918848c702541f1a01d3344e4e3c9a0ff1ef834",
+    "slug": "067c41b3820784f2",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "UU远程公布了 12 月 1 日的收费方案"
+  },
+  "https://x.com/servasyy_ai/status/2123577973832089766": {
+    "hash": "424fbcd69717d646b3d1b4040f793c3594acfc0bd2611aaba599ca033c344321",
+    "slug": "424fbcd69717d646",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "出门用手机口喷，就能指挥家里的多支 AI 团队"
+  },
+  "https://x.com/servasyy_ai/status/2123423428602663131": {
+    "hash": "4893fd554e69c86b3de431e99d0720209d24cd208eba9fbe25c2d012afd6d6c7",
+    "slug": "4893fd554e69c86b",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "MiniMax H3 打戏 Skill 又更新了"
+  },
+  "https://x.com/0xLogicrw/status/2123680696485245186": {
+    "hash": "f201801db5ccf061e9fd383fe0623aabf59d46f60d9542f8eeb2d9dbdc8ad3bc",
+    "slug": "f201801db5ccf061",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "DeepSeek 前成员张博正式公布了 Linger"
+  },
+  "https://x.com/0xLogicrw/status/2123732264534376685": {
+    "hash": "c7c3f23dec1496a638559e25c417a3877f3b8f0c42ce09c5d1101e6b46951e25",
+    "slug": "c7c3f23dec1496a6",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "OpenAI 也给隐藏思维链加了“上下文锁”"
+  },
+  "https://x.com/xiaomovps/status/2123674566832931052": {
+    "hash": "f8699a8106041e03782403a562c64468ef2c27a11e9325988f29a47576638251",
+    "slug": "f8699a8106041e03",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Google AI 会员云额度"
+  },
+  "https://x.com/lxfater/status/2123676877877330283": {
+    "hash": "1f9bac19fc318e90d18b6c5abd354819a980e3d23585344022201982970f6f8b",
+    "slug": "1f9bac19fc318e90",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Hy4 flash 四毛钱做了个飞行游戏"
+  },
+  "https://x.com/0xlangeai/status/2123599207206637995": {
+    "hash": "10a7bbbb9d84c489df632f3627edcaf366746996cc08e0b1352531c868c6320a",
+    "slug": "10a7bbbb9d84c489",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Obsidian 官方支持 Grok Bot 连接器"
+  },
+  "https://x.com/0xlangeai/status/2123627609946980835": {
+    "hash": "0cf5fbf81af865492051620f9577395db1ce5c4a34836263bc17ff1310ff76af",
+    "slug": "0cf5fbf81af86549",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "Muse 可以申请自己的邮箱"
+  },
+  "https://x.com/xiaomovps/status/2123620346972471680": {
+    "hash": "b6e0f6555adeae0e92cc95491620e572432d0c4c87eab37eae97aaafae85faed",
+    "slug": "b6e0f6555adeae0e",
+    "first_seen": "2026-11-20T11:51:43.217Z",
+    "last_seen": "2026-11-20T11:51:43.217Z",
+    "digest": "2026-11-20-cn-x.md",
+    "title": "RackNerd 黑五 VPS 最低 15.98 美元一年"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "slug": "c7c3f23dec1496a6",
+  "url": "https://x.com/0xLogicrw/status/2123732264534376685",
+  "title": "OpenAI 也给隐藏思维链加了“上下文锁”",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "c7c3f23dec1496a638559e25c417a3877f3b8f0c42ce09c5d1101e6b46951e25",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:52:00.730Z",
+  "content_hash": "929ec5ad98881af1d3608156139b19f45baa0b8e0d8c6e23dadb7393c8636510",
+  "article_path": "articles/c7c3f23dec1496a6.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2123732264534376685",
+  "source_path": "sources/articles/openai-adds-context-lock-to-hidden-chain-of-thought-tampering-wi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:27:59.636Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

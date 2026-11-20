@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:28:45.273Z",
+  "url": "https://x.com/lxfater/status/2123676877877330283",
+  "slug": "1f9bac19fc318e90",
+  "content_hash": "a5625d9a5b966ec4ce115bd84f87dc54d9d003b2ad971e4d7da922fae212e1b6",
+  "source": {
+    "path": "sources/articles/hy4-flash-a-0-4-yuan-flight-game.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章讲述用 AI 模型快速做出小游戏，与随手 AI 小游戏一次成功主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Hy4 Flash 与旗舰 Hy4，对应 Pro 与 Flash 模型策略讨论。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 模型驱动游戏制作的新拐点，与 Vibe Gaming 模型拐点相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "文章讲述用 AI 模型快速做出小游戏，与随手 AI 小游戏一次成功主题高度相关。",
+    "topics/vibe-gaming-model-inflection.md": "涉及 AI 模型驱动游戏制作的新拐点，与 Vibe Gaming 模型拐点相关。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比 Hy4 Flash 与旗舰 Hy4，对应 Pro 与 Flash 模型策略讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hy4-flash-a-0-4-yuan-flight-game.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "文章讲述用 AI 模型快速做出小游戏，与随手 AI 小游戏一次成功主题高度相关。",
+      "topics/vibe-gaming-model-inflection.md": "涉及 AI 模型驱动游戏制作的新拐点，与 Vibe Gaming 模型拐点相关。",
+      "topics/pro-vs-flash-model-strategy.md": "帖文对比 Hy4 Flash 与旗舰 Hy4，对应 Pro 与 Flash 模型策略讨论。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hy4-flash-a-0-4-yuan-flight-game.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

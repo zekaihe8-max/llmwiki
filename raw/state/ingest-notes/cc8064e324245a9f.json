@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/code-over-spec.md",
+    "topics/software-factory.md",
+    "topics/languages-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/vibe-coding-memory-paradox.md": "文章讨论 vibe coding 导致失控，以及如何通过规格恢复对作品的掌控感，与该话题高度相关。",
+    "topics/code-over-spec.md": "文章主张可读规格优先于模型生成的代码，直接对应“代码重于规格”的讨论方向。",
+    "topics/software-factory.md": "文中提到软件工厂、工业化交付与文艺复兴，与软件工厂话题密切相关。",
+    "topics/languages-for-agents.md": "文章提到模型可写多种语言，且作者自制脚本语言，与面向 Agent 的编程语言话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文章讨论 vibe coding 导致失控，以及如何通过规格恢复对作品的掌控感，与该话题高度相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章主张可读规格优先于模型生成的代码，直接对应“代码重于规格”的讨论方向。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中提到软件工厂、工业化交付与文艺复兴，与软件工厂话题密切相关。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章提到模型可写多种语言，且作者自制脚本语言，与面向 Agent 的编程语言话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源于提供的 X 帖文正文，未引入外部 URL 或未核实信息。"
+}

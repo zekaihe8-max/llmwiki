@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:27:30.247Z",
+  "url": "https://x.com/0xLogicrw/status/2123680696485245186",
+  "slug": "f201801db5ccf061",
+  "content_hash": "030732544e63f446431f200451aeb57a9d7db80bc68d1184b4d0d6fcce4bf325",
+  "source": {
+    "path": "sources/articles/former-deepseek-member-zhang-bo-announces-open-source-pc-ai-agen.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/computer-use.md",
+    "topics/local-open-assistant-models.md",
+    "topics/agent-in-inbox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "Linger 能读取邮件、日历等收件箱类信息，与 Agent 进收件箱主题相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到 Linger 可操作已登录的浏览器和应用，属于计算机使用类 Agent 能力。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Linger 支持在个人电脑本地运行大模型，涉及本地开放助手模型。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Linger 定位为个人电脑上的个人 Agent，与“个人 Agent”主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "Linger 定位为个人电脑上的个人 Agent，与“个人 Agent”主题直接相关。",
+    "topics/computer-use.md": "文中提到 Linger 可操作已登录的浏览器和应用，属于计算机使用类 Agent 能力。",
+    "topics/local-open-assistant-models.md": "Linger 支持在个人电脑本地运行大模型，涉及本地开放助手模型。",
+    "topics/agent-in-inbox.md": "Linger 能读取邮件、日历等收件箱类信息，与 Agent 进收件箱主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/former-deepseek-member-zhang-bo-announces-open-source-pc-ai-agen.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/computer-use.md",
+      "topics/local-open-assistant-models.md",
+      "topics/agent-in-inbox.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "Linger 定位为个人电脑上的个人 Agent，与“个人 Agent”主题直接相关。",
+      "topics/computer-use.md": "文中提到 Linger 可操作已登录的浏览器和应用，属于计算机使用类 Agent 能力。",
+      "topics/local-open-assistant-models.md": "Linger 支持在个人电脑本地运行大模型，涉及本地开放助手模型。",
+      "topics/agent-in-inbox.md": "Linger 能读取邮件、日历等收件箱类信息，与 Agent 进收件箱主题相近。"
+    },
+    "notes": "来源为 X 平台 @0xLogicrw 转发的 @zhangboknight 帖文，未独立核实项目细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/former-deepseek-member-zhang-bo-announces-open-source-pc-ai-agen.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

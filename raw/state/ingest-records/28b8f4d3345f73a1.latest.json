@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:07:34.775Z",
+  "url": "https://x.com/dingyi/status/2123637028797747434",
+  "slug": "28b8f4d3345f73a1",
+  "content_hash": "a14bffea569cba75c3154d7931c800d9298c8b87830d98fe5624da972a91f9f1",
+  "source": {
+    "path": "sources/articles/ready-made-account-banned-the-same-day-warning-against-random-on.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "直接对应账号购买与封禁风险，属账号与资产安全范畴"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "涉及账号托管与节点管理，与账号安全边缘相关"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及账号/环境使用中的备份与风险检查，相关性较弱"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "直接对应账号购买与封禁风险，属账号与资产安全范畴",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及账号/环境使用中的备份与风险检查，相关性较弱",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "涉及账号托管与节点管理，与账号安全边缘相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ready-made-account-banned-the-same-day-warning-against-random-on.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "直接对应账号购买与封禁风险，属账号与资产安全范畴",
+      "topics/personal-agent-cloud-env-pitfalls.md": "涉及账号/环境使用中的备份与风险检查，相关性较弱",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "涉及账号托管与节点管理，与账号安全边缘相关"
+    },
+    "notes": "未创建新话题，全部复用现有目录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ready-made-account-banned-the-same-day-warning-against-random-on.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

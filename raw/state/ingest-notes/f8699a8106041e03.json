@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文聚焦 Google AI Pro/Ultra 订阅带来的云赠金与福利价值，与高端 AI 订阅价值主题高度相关。",
+    "topics/pro-vs-flash-model-strategy.md": "文中多次提及 Google AI Pro 与 Ultra 会员等级，涉及 Pro 系列产品策略与定价层级。",
+    "topics/usage-limit-ab-tests.md": "文章详细列出每月赠金额度、免费请求次数及使用期限等用量上限信息。",
+    "topics/agent-compute-and-governance.md": "内容涉及云计算额度、GPU 计算单元及免费 VPS 等算力资源的分配与治理。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Google AI Pro/Ultra 订阅带来的云赠金与福利价值，与高端 AI 订阅价值主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中多次提及 Google AI Pro 与 Ultra 会员等级，涉及 Pro 系列产品策略与定价层级。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文章详细列出每月赠金额度、免费请求次数及使用期限等用量上限信息。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "内容涉及云计算额度、GPU 计算单元及免费 VPS 等算力资源的分配与治理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于提供的帖文摘要，未引用图片中不可见的额外信息，也未编造 URL。"
+}

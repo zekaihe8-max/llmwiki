@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章详细说明如何将技能（skill）安装到多个 AI 编程工具中，与该主题直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文章聚焦 AI 编程工具在提交前的拦截体验与工作流集成。",
+    "topics/workflows-before-agents.md": "守护脚本在提交命令之前运行，体现工作流优先于智能体自动化的原则。",
+    "topics/agent-auto-mode.md": "安装后守护脚本可自动拦截提交，属于智能体自动模式的应用场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详细说明如何将技能（skill）安装到多个 AI 编程工具中，与该主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI 编程工具在提交前的拦截体验与工作流集成。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "守护脚本在提交命令之前运行，体现工作流优先于智能体自动化的原则。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "安装后守护脚本可自动拦截提交，属于智能体自动模式的应用场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:20:28.385Z",
+  "url": "https://x.com/wquguru/status/2123718005624615379",
+  "slug": "d411cf4c9463e1a1",
+  "content_hash": "9b88fdb3897c49aa661b9d922679421ce3117499e549498dce4d5caacc81243b",
+  "source": {
+    "path": "sources/articles/a-set-of-indicators-overlooked-for-three-years-in-physical-exam.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "Grok的房颤提醒与Apple Watch结果不符，体现对AI医疗建议的过度与不足引导需要校准。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "本地部署健康Agent处理敏感体检数据，涉及个人Agent环境与隐私数据处理。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章展示将体检报告分析交给个人健康Agent，属于可放心交给AI的健康信息整理任务边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "文章展示将体检报告分析交给个人健康Agent，属于可放心交给AI的健康信息整理任务边界。",
+    "topics/calibrating-ai-guidance.md": "Grok的房颤提醒与Apple Watch结果不符，体现对AI医疗建议的过度与不足引导需要校准。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "本地部署健康Agent处理敏感体检数据，涉及个人Agent环境与隐私数据处理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/a-set-of-indicators-overlooked-for-three-years-in-physical-exam.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/tasks-confidently-handed-to-ai.md": "文章展示将体检报告分析交给个人健康Agent，属于可放心交给AI的健康信息整理任务边界。",
+      "topics/calibrating-ai-guidance.md": "Grok的房颤提醒与Apple Watch结果不符，体现对AI医疗建议的过度与不足引导需要校准。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "本地部署健康Agent处理敏感体检数据，涉及个人Agent环境与隐私数据处理。"
+    },
+    "notes": "所有医学指标与说法均源自帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/a-set-of-indicators-overlooked-for-three-years-in-physical-exam.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

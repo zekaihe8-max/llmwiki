@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-native-web-search.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文主体是一个可安装的 AI Skill，直接对应 Agent Skill 编写与使用场景。",
+    "topics/agent-skills-open-standard.md": "last30days 作为开源 Skill 并挂 GitHub 热榜，涉及 Agent Skills 开放标准与生态传播。",
+    "topics/agent-native-web-search.md": "工具跨平台并行抓取一手讨论，属于面向 Agent 的联网搜索与信息检索重做。",
+    "topics/agent-auto-mode.md": "last30days 可自动合并同一事件并输出简报，体现智能体自动模式下的自主研究能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文主体是一个可安装的 AI Skill，直接对应 Agent Skill 编写与使用场景。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "last30days 作为开源 Skill 并挂 GitHub 热榜，涉及 Agent Skills 开放标准与生态传播。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "工具跨平台并行抓取一手讨论，属于面向 Agent 的联网搜索与信息检索重做。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "last30days 可自动合并同一事件并输出简报，体现智能体自动模式下的自主研究能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章描述主控拆任务、派活给多支 AI 团队，与个人 Agent 当包工头调度编程 Agent 语境相近。",
+    "topics/phone-own-server-agent-workbench.md": "文章核心是手机远程连接自有 Mac 操控 Agent 工作台，直接对应该主题。",
+    "topics/mobile-agent-dev-full-chain.md": "文章展示手机端通过语音与远程终端完成 Agent 全链路指挥，贴合手机端 Agent 全链路开发。",
+    "topics/computer-use.md": "文章涉及远程操控 Mac 桌面与终端，属于 Computer Use 范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章描述主控拆任务、派活给多支 AI 团队，与个人 Agent 当包工头调度编程 Agent 语境相近。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "文章核心是手机远程连接自有 Mac 操控 Agent 工作台，直接对应该主题。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "文章展示手机端通过语音与远程终端完成 Agent 全链路指挥，贴合手机端 Agent 全链路开发。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章涉及远程操控 Mac 桌面与终端，属于 Computer Use 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的推文正文，未引入外部事实或 URL。"
+}

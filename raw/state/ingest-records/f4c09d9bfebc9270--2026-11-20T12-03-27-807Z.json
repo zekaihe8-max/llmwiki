@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:03:27.807Z",
+  "url": "https://x.com/xiaomovps/status/2123723353190207532",
+  "slug": "f4c09d9bfebc9270",
+  "content_hash": "3f0635839059e79bf7a09e8389a2430aa3753db8697d8319d0e5bb839b21c0ef",
+  "source": {
+    "path": "sources/articles/google-gemini-launches-tasks-personal-agent-feature.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-auto-mode.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文强调 Task 模式与 Chat 模式的区别，属于智能体自动模式范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文提到在云电脑上打开网站并进行浏览器操作，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 的云环境与定时任务，贴合云电脑和定时任务描述。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "提到任务执行消耗订阅额度，涉及高端 AI 订阅的价值与限制。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文提到在云电脑上打开网站并进行浏览器操作，与 Computer Use 主题直接相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 的云环境与定时任务，贴合云电脑和定时任务描述。",
+    "topics/agent-auto-mode.md": "帖文强调 Task 模式与 Chat 模式的区别，属于智能体自动模式范畴。",
+    "topics/premium-ai-subscription-value.md": "提到任务执行消耗订阅额度，涉及高端 AI 订阅的价值与限制。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-gemini-launches-tasks-personal-agent-feature.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-auto-mode.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文提到在云电脑上打开网站并进行浏览器操作，与 Computer Use 主题直接相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 的云环境与定时任务，贴合云电脑和定时任务描述。",
+      "topics/agent-auto-mode.md": "帖文强调 Task 模式与 Chat 模式的区别，属于智能体自动模式范畴。",
+      "topics/premium-ai-subscription-value.md": "提到任务执行消耗订阅额度，涉及高端 AI 订阅的价值与限制。"
+    },
+    "notes": "来源为单条 X 帖文，其中关于功能可用性、免费用户地区及额度细节的主张均未独立核实，已在摘要中使用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-gemini-launches-tasks-personal-agent-feature.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

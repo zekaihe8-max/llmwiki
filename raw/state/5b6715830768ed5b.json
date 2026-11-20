@@ -1,0 +1,23 @@
+{
+  "slug": "5b6715830768ed5b",
+  "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
+  "title": "录像",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "failed",
+  "hash": "5b6715830768ed5b8fe0cc7973e0c79462f80e3e57d48badf364ca20ababbd6b",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:56.525Z",
+  "content_hash": "21155f09caf56e041719fa257695379ed2c3289dce7228f4d9bd3ca01bc685fa",
+  "article_path": "articles/5b6715830768ed5b.md",
+  "fetched_url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
+  "source_path": null,
+  "error": "semantic: YouTube footer/nav shell only after official retry (About/Press/Copyright/Terms; no video title, description, or transcript). Not compiled.",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "semantic: YouTube footer/nav shell only after official retry (About/Press/Copyright/Terms; no video title, description, or transcript). Not compiled.",
+  "last_fetch_failed_at": null
+}

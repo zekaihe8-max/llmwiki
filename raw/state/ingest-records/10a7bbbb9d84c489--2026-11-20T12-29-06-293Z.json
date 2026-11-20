@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:29:06.293Z",
+  "url": "https://x.com/0xlangeai/status/2123599207206637995",
+  "slug": "10a7bbbb9d84c489",
+  "content_hash": "a18148a0dc91f6bbe1e5dde10b6425df30baf80aab00f64390eb5f229dfb2192",
+  "source": {
+    "path": "sources/articles/obsidian-officially-supports-grok-bot-connector.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agent-in-inbox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 进入个人信息空间，但本文未讨论收件箱工作流，故不改动"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及网页剪藏与笔记，但本文主体是 Grok Bot 对 Obsidian 的官方连接器，故不改动"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "同为 Grok Bot 能力相关，但本文聚焦 Obsidian 笔记库连接，故不改动"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "同属 Grok Bot 话题，但未涉及 X 情报防护或代发帖，故不改动"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "同为 Grok Bot 能力相关，但本文聚焦 Obsidian 笔记库连接，故不改动",
+    "topics/grok-bot-x-intel-defense-not-post.md": "同属 Grok Bot 话题，但未涉及 X 情报防护或代发帖，故不改动",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及网页剪藏与笔记，但本文主体是 Grok Bot 对 Obsidian 的官方连接器，故不改动",
+    "topics/agent-in-inbox.md": "涉及 Agent 进入个人信息空间，但本文未讨论收件箱工作流，故不改动"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/obsidian-officially-supports-grok-bot-connector.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/agent-in-inbox.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "同为 Grok Bot 能力相关，但本文聚焦 Obsidian 笔记库连接，故不改动",
+      "topics/grok-bot-x-intel-defense-not-post.md": "同属 Grok Bot 话题，但未涉及 X 情报防护或代发帖，故不改动",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及网页剪藏与笔记，但本文主体是 Grok Bot 对 Obsidian 的官方连接器，故不改动",
+      "topics/agent-in-inbox.md": "涉及 Agent 进入个人信息空间，但本文未讨论收件箱工作流，故不改动"
+    },
+    "notes": "来源为 X 上 @0xlangeai 的帖文，引用了 @obsdmd 的相关推文；未核实 Obsidian 官方声明，已在摘要中使用「帖文称」限定。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/obsidian-officially-supports-grok-bot-connector.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

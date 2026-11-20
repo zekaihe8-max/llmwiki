@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文明确提到从上下文优化到权重，与 Agent 上下文工程主题直接相关。",
+    "topics/agentic-ai-foundation.md": "斯坦福 AI 智能体工程化课程属于 Agentic AI 基础与课程资源范畴。",
+    "topics/agent-scaled-engineering.md": "课程聚焦 AI 智能体工程与优化方法，与智能体规模化工程主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到从上下文优化到权重，与 Agent 上下文工程主题直接相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "斯坦福 AI 智能体工程化课程属于 Agentic AI 基础与课程资源范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "课程聚焦 AI 智能体工程与优化方法，与智能体规模化工程主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文；外部链接为帖文中的 t.co 短链，未展开或核实目标页内容。"
+}
