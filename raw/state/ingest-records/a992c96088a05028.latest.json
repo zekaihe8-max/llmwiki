@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:15:01.634Z",
+  "url": "https://github.com/langchain-ai/design-agent",
+  "slug": "a992c96088a05028",
+  "content_hash": "ab7d411a4277c14eab92156e4c5fa168c4d80f211574b64c79847ab38bf1c17e",
+  "source": {
+    "path": "sources/articles/langchain-open-sources-design-agent-content-studio.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "仓库包含 35 个运行时技能及编程 Agent 用技能，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章描述的是 LangChain 内部运营并开源的公司级设计智能体，与公司级 Agent Harness 主题高度相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及路由技能、设计 wiki、品牌包与 Context Hub，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文中提到主智能体拆分任务并启动后台子智能体，涉及多智能体基建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章描述的是 LangChain 内部运营并开源的公司级设计智能体，与公司级 Agent Harness 主题高度相关。",
+    "topics/context-engineering-for-agents.md": "文中涉及路由技能、设计 wiki、品牌包与 Context Hub，属于 Agent 上下文工程范畴。",
+    "topics/agent-skill-authoring.md": "仓库包含 35 个运行时技能及编程 Agent 用技能，与 Agent Skill 编写主题相关。",
+    "topics/multiagent-infra-four-problems.md": "文中提到主智能体拆分任务并启动后台子智能体，涉及多智能体基建。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/langchain-open-sources-design-agent-content-studio.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章描述的是 LangChain 内部运营并开源的公司级设计智能体，与公司级 Agent Harness 主题高度相关。",
+      "topics/context-engineering-for-agents.md": "文中涉及路由技能、设计 wiki、品牌包与 Context Hub，属于 Agent 上下文工程范畴。",
+      "topics/agent-skill-authoring.md": "仓库包含 35 个运行时技能及编程 Agent 用技能，与 Agent Skill 编写主题相关。",
+      "topics/multiagent-infra-four-problems.md": "文中提到主智能体拆分任务并启动后台子智能体，涉及多智能体基建。"
+    },
+    "notes": "Source: GitHub README (langchain-ai/design-agent).",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/langchain-open-sources-design-agent-content-studio.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

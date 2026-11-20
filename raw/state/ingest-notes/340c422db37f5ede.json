@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章围绕 DSH 社区插件生态展开，直接对应“宽松网页管控下的 Agent Harness 插件”主题。",
+    "topics/minimal-core-community-extensions.md": "作者结尾明确建议“插件按需精装，不要图多”，与精简核心与社区扩展的主题一致。",
+    "topics/harness-plugin-style-fragmentation.md": "文中详细介绍皮肤、桌宠、开机动画等外观插件，涉及 Harness 界面碎片化与样式不一的问题。",
+    "topics/context-engineering-for-agents.md": "文中推荐 dsh-context、dsh-cost-meter 和 billion-context，属于 Agent 上下文工程与 Token 管理范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章围绕 DSH 社区插件生态展开，直接对应“宽松网页管控下的 Agent Harness 插件”主题。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "作者结尾明确建议“插件按需精装，不要图多”，与精简核心与社区扩展的主题一致。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "文中详细介绍皮肤、桌宠、开机动画等外观插件，涉及 Harness 界面碎片化与样式不一的问题。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中推荐 dsh-context、dsh-cost-meter 和 billion-context，属于 Agent 上下文工程与 Token 管理范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的文章 Markdown，未引入外部 URL 或未核实信息。"
+}

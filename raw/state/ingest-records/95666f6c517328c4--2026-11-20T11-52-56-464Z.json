@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T11:52:56.464Z",
+  "url": "https://x.com/dotey/status/2123667995570413718",
+  "slug": "95666f6c517328c4",
+  "content_hash": "179e7d964fc87da7f31534c15ab13434f300509dda9d4c8711e3c593e9fe3078",
+  "source": {
+    "path": "sources/articles/bao-yu-goal-and-acceptance-driven-agent-automation-rather-than-t.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Agent 自动化运行模式与“先跑起来再调整”，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到将最佳实践沉淀为 Skill 并让 Agent 自身优化 Skill，直接对应 Skill 编写。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文中主张不干涉 Agent 中间步骤、避免过度引导，与校准对 AI 的引导程度相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "作者强调先定目标与验收标准，再让 Agent 执行，体现工作流优先于智能体的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文讨论 Agent 自动化运行模式与“先跑起来再调整”，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "文中提到将最佳实践沉淀为 Skill 并让 Agent 自身优化 Skill，直接对应 Skill 编写。",
+    "topics/workflows-before-agents.md": "作者强调先定目标与验收标准，再让 Agent 执行，体现工作流优先于智能体的思路。",
+    "topics/calibrating-ai-guidance.md": "文中主张不干涉 Agent 中间步骤、避免过度引导，与校准对 AI 的引导程度相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bao-yu-goal-and-acceptance-driven-agent-automation-rather-than-t.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/agent-skill-authoring.md",
+      "topics/workflows-before-agents.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "帖文讨论 Agent 自动化运行模式与“先跑起来再调整”，与该主题高度相关。",
+      "topics/agent-skill-authoring.md": "文中提到将最佳实践沉淀为 Skill 并让 Agent 自身优化 Skill，直接对应 Skill 编写。",
+      "topics/workflows-before-agents.md": "作者强调先定目标与验收标准，再让 Agent 执行，体现工作流优先于智能体的思路。",
+      "topics/calibrating-ai-guidance.md": "文中主张不干涉 Agent 中间步骤、避免过度引导，与校准对 AI 的引导程度相关。"
+    },
+    "notes": "引用仅基于提供的帖文 Markdown，未访问外部 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bao-yu-goal-and-acceptance-driven-agent-automation-rather-than-t.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

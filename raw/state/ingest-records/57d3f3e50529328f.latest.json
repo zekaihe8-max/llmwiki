@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T11:54:08.376Z",
+  "url": "https://x.com/dotey/status/2123671858541187164",
+  "slug": "57d3f3e50529328f",
+  "content_hash": "8d489bf93b2dcc1dbe0fbcb4cba26e6be05485c271534936ebff281645aad236",
+  "source": {
+    "path": "sources/articles/936-ai-agents-autonomously-research-for-three-months-publish-936.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "936 个智能体在无人参与选题、实验和写作的情况下自动运行，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "35 个实验室、936 个智能体并发产出论文，属于智能体规模化工程场景。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文核心涉及 AI 审稿、AI 期刊盲审及科研实践，与该主题直接相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多智能体协同、自组织评审与 alphaXiv AI Track 等基础设施，涉及多智能体基建问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "帖文核心涉及 AI 审稿、AI 期刊盲审及科研实践，与该主题直接相关。",
+    "topics/agent-auto-mode.md": "936 个智能体在无人参与选题、实验和写作的情况下自动运行，体现智能体自动模式。",
+    "topics/agent-scaled-engineering.md": "35 个实验室、936 个智能体并发产出论文，属于智能体规模化工程场景。",
+    "topics/multiagent-infra-four-problems.md": "多智能体协同、自组织评审与 alphaXiv AI Track 等基础设施，涉及多智能体基建问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/936-ai-agents-autonomously-research-for-three-months-publish-936.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-peer-review-science-adaptation.md": "帖文核心涉及 AI 审稿、AI 期刊盲审及科研实践，与该主题直接相关。",
+      "topics/agent-auto-mode.md": "936 个智能体在无人参与选题、实验和写作的情况下自动运行，体现智能体自动模式。",
+      "topics/agent-scaled-engineering.md": "35 个实验室、936 个智能体并发产出论文，属于智能体规模化工程场景。",
+      "topics/multiagent-infra-four-problems.md": "多智能体协同、自组织评审与 alphaXiv AI Track 等基础设施，涉及多智能体基建问题。"
+    },
+    "notes": "Source is an X post by @dotey; all claims are attributed to the post or the cited alphaXiv report and are not independently verified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/936-ai-agents-autonomously-research-for-three-months-publish-936.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

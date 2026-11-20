@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:22:14.434Z",
+  "url": "https://x.com/servasyy_ai/status/2123402033390875100",
+  "slug": "067c41b3820784f2",
+  "content_hash": "efb2fe6d34774098f3f294179e3b6effac5c1a8296206312a0328583fd134304",
+  "source": {
+    "path": "sources/articles/uu-remote-announces-december-1-membership-pricing-basic-remote-c.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "远程桌面与AI操控计算机（Computer Use）场景相关，涉及远程运行AI工作流。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "文章聚焦远程终端与AI Agent远程编程场景，与远程AI Coding时轻量笔记本需求相近。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "帖文提到用手机连接远程终端操控Agent工作台，与手机连自有服务器操控Agent主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/laptop-light-battery-remote-ai-coding.md": "文章聚焦远程终端与AI Agent远程编程场景，与远程AI Coding时轻量笔记本需求相近。",
+    "topics/phone-own-server-agent-workbench.md": "帖文提到用手机连接远程终端操控Agent工作台，与手机连自有服务器操控Agent主题相关。",
+    "topics/computer-use.md": "远程桌面与AI操控计算机（Computer Use）场景相关，涉及远程运行AI工作流。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/uu-remote-announces-december-1-membership-pricing-basic-remote-c.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/laptop-light-battery-remote-ai-coding.md",
+      "topics/phone-own-server-agent-workbench.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/laptop-light-battery-remote-ai-coding.md": "文章聚焦远程终端与AI Agent远程编程场景，与远程AI Coding时轻量笔记本需求相近。",
+      "topics/phone-own-server-agent-workbench.md": "帖文提到用手机连接远程终端操控Agent工作台，与手机连自有服务器操控Agent主题相关。",
+      "topics/computer-use.md": "远程桌面与AI操控计算机（Computer Use）场景相关，涉及远程运行AI工作流。"
+    },
+    "notes": "发帖时间为文章所示的2026年11月19日，收费方案生效日期为12月1日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/uu-remote-announces-december-1-membership-pricing-basic-remote-c.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

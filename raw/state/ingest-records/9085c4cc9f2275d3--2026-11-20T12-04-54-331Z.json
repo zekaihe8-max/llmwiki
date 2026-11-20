@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:04:54.331Z",
+  "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+  "slug": "9085c4cc9f2275d3",
+  "content_hash": "e7ff67a388ec14137d879182c7069efe5c1a59d5621104ab92a4936b7872bba4",
+  "source": {
+    "path": "sources/articles/modern-web-guidance-1-0-the-web-platform-expertise-your-coding-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到工程团队大规模使用智能体提升代码质量与交付速度，对应智能体规模化工程。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心是向编程智能体嵌入一组 Web 技能，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Modern Web Guidance 作为跨浏览器技能集，涉及 Agent Skills 开放标准与治理。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章反复强调无障碍（AX）、开发者体验（DX）与用户体验（UX），与该主题高度重合。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心是向编程智能体嵌入一组 Web 技能，与 Agent Skill 编写主题直接相关。",
+    "topics/agent-skills-open-standard.md": "Modern Web Guidance 作为跨浏览器技能集，涉及 Agent Skills 开放标准与治理。",
+    "topics/agent-scaled-engineering.md": "文中提到工程团队大规模使用智能体提升代码质量与交付速度，对应智能体规模化工程。",
+    "topics/ux-dx-and-ax.md": "文章反复强调无障碍（AX）、开发者体验（DX）与用户体验（UX），与该主题高度重合。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/modern-web-guidance-1-0-the-web-platform-expertise-your-coding-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章核心是向编程智能体嵌入一组 Web 技能，与 Agent Skill 编写主题直接相关。",
+      "topics/agent-skills-open-standard.md": "Modern Web Guidance 作为跨浏览器技能集，涉及 Agent Skills 开放标准与治理。",
+      "topics/agent-scaled-engineering.md": "文中提到工程团队大规模使用智能体提升代码质量与交付速度，对应智能体规模化工程。",
+      "topics/ux-dx-and-ax.md": "文章反复强调无障碍（AX）、开发者体验（DX）与用户体验（UX），与该主题高度重合。"
+    },
+    "notes": "Source: https://developer.chrome.com/blog/modern-web-guidance-v1",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/modern-web-guidance-1-0-the-web-platform-expertise-your-coding-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

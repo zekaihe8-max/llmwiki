@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/tasks-confidently-handed-to-ai.md": "已查阅；本文证据不足以改写该主题，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

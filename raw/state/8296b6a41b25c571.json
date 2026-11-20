@@ -1,0 +1,23 @@
+{
+  "slug": "8296b6a41b25c571",
+  "url": "https://x.com/op7418/status/2123522128180027723",
+  "title": "Genie 4 居然已经能通过 API 访问",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "8296b6a41b25c5718c13cba963bbe8e3daaf60097136ea3f55d549b632468dfd",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:53.143Z",
+  "content_hash": "8d83bf871b120ef32715b2da2ccd99b8c089270d958e0443d69779703872d216",
+  "article_path": "articles/8296b6a41b25c571.md",
+  "fetched_url": "https://x.com/op7418/status/2123522128180027723",
+  "source_path": "sources/articles/genie-4-world-model-now-accessible-via-gemini-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:10:20.100Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

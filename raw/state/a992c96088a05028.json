@@ -1,0 +1,23 @@
+{
+  "slug": "a992c96088a05028",
+  "url": "https://github.com/langchain-ai/design-agent",
+  "title": "GitHub",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "a992c96088a05028b0d529bc5a0871b4a7d676400412959282f738803fcce71a",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:54.082Z",
+  "content_hash": "ab7d411a4277c14eab92156e4c5fa168c4d80f211574b64c79847ab38bf1c17e",
+  "article_path": "articles/a992c96088a05028.md",
+  "fetched_url": "https://github.com/langchain-ai/design-agent",
+  "source_path": "sources/articles/langchain-open-sources-design-agent-content-studio.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:15:01.636Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

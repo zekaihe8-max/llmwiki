@@ -1,0 +1,23 @@
+{
+  "slug": "9085c4cc9f2275d3",
+  "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+  "title": "Chrome 博客",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "9085c4cc9f2275d3b9b8e00494abb1dea2024eae92d433e7b577a6458c693294",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:49.581Z",
+  "content_hash": "e7ff67a388ec14137d879182c7069efe5c1a59d5621104ab92a4936b7872bba4",
+  "article_path": "articles/9085c4cc9f2275d3.md",
+  "fetched_url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+  "source_path": "sources/articles/modern-web-guidance-1-0-the-web-platform-expertise-your-coding-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:04:54.332Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

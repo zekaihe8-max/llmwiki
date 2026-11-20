@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:06:29.134Z",
+  "url": "https://x.com/dingyi/status/2123734175228535017",
+  "slug": "68f0097e2a65b33f",
+  "content_hash": "17cbdf5c1635c6589e4dc46bf91df5425a130da6e1fd57b1341dce4962862e04",
+  "source": {
+    "path": "sources/articles/amp-may-soon-support-google-gemini-subscription.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道取舍，Gemini 作为模型渠道纳入 Amp 符合该主题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 的体验与额度，订阅开关直接影响用户配额与使用体验。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "讨论设计↔代码工具自带 Claude/Codex 订阅，与 Amp 可能接入 Google 订阅最为贴近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "聚焦高端 AI 订阅价值，Amp 接入 Gemini 订阅属于同类订阅能力扩展。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "讨论设计↔代码工具自带 Claude/Codex 订阅，与 Amp 可能接入 Google 订阅最为贴近。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的体验与额度，订阅开关直接影响用户配额与使用体验。",
+    "topics/premium-ai-subscription-value.md": "聚焦高端 AI 订阅价值，Amp 接入 Gemini 订阅属于同类订阅能力扩展。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，Gemini 作为模型渠道纳入 Amp 符合该主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/amp-may-soon-support-google-gemini-subscription.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "讨论设计↔代码工具自带 Claude/Codex 订阅，与 Amp 可能接入 Google 订阅最为贴近。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的体验与额度，订阅开关直接影响用户配额与使用体验。",
+      "topics/premium-ai-subscription-value.md": "聚焦高端 AI 订阅价值，Amp 接入 Gemini 订阅属于同类订阅能力扩展。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，Gemini 作为模型渠道纳入 Amp 符合该主题。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未独立核实 Amp 是否已正式支持 Google/Gemini 订阅。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/amp-may-soon-support-google-gemini-subscription.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

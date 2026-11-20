@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文中提到 35 项技能、Context Hub 按需加载和技能路由，与该主题的 Agent Skill 编写直接相关。",
+    "topics/fold-subagents-into-main-loop.md": "文中描述主 Agent 拆分大任务并在同一沙箱启动子 Agent，完成后由 MDA 唤醒主 Agent，与把子 Agent 折进主循环相符。",
+    "topics/agent-scaled-engineering.md": "文中披露 3000 多件物料、80 多份演示文稿和公司级部署成本，属于智能体规模化工程的实践证据。",
+    "topics/context-engineering-for-agents.md": "文中涉及 Context Hub、团队记忆与个人记忆、learn_from_job 经验积累，属于 Agent 上下文工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到 35 项技能、Context Hub 按需加载和技能路由，与该主题的 Agent Skill 编写直接相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文中描述主 Agent 拆分大任务并在同一沙箱启动子 Agent，完成后由 MDA 唤醒主 Agent，与把子 Agent 折进主循环相符。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中披露 3000 多件物料、80 多份演示文稿和公司级部署成本，属于智能体规模化工程的实践证据。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Context Hub、团队记忆与个人记忆、learn_from_job 经验积累，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 @shao__meng 的帖文，未独立核实具体数据。"
+}

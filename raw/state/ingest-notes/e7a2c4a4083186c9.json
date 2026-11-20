@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文第 3 篇直接对标 Agent Skills 入门，主题高度重合。",
+    "topics/context-engineering-for-agents.md": "帖文第 4 篇即 Agent 上下文工程，与现有条目标题一致。",
+    "topics/workflows-before-agents.md": "帖文第 1 篇讲 Agent 与 Workflow 区别及工作流模式，与工作流优先于智能体主题相近。",
+    "topics/claude-code-authorship-and-voice.md": "帖文第 2、5 篇围绕 Claude Code 使用，与 Claude Code 作者与社区话筒相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文第 3 篇直接对标 Agent Skills 入门，主题高度重合。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文第 4 篇即 Agent 上下文工程，与现有条目标题一致。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文第 1 篇讲 Agent 与 Workflow 区别及工作流模式，与工作流优先于智能体主题相近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文第 2、5 篇围绕 Claude Code 使用，与 Claude Code 作者与社区话筒相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未打开 Anthropic 外部链接，所有细节均基于帖文文本。"
+}

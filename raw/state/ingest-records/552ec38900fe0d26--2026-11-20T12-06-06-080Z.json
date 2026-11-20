@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:06:06.080Z",
+  "url": "https://dusk.bot/",
+  "slug": "552ec38900fe0d26",
+  "content_hash": "203a6a298e1317200e747dd8271f7c4044babb51cc748e95541cc79d03a150e4",
+  "source": {
+    "path": "sources/articles/dusk-bot-each-bot-gets-its-own-computer.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-native-web-search.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "机器人自行登录并点击航班页面，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "示例涉及机器人在 Google 机票进行联网搜索与比价。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是机器人使用独立电脑/浏览器执行点击任务，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "实时观看与接管鼠标涉及网页代理的管控与插件交互。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是机器人使用独立电脑/浏览器执行点击任务，与 Computer Use 主题直接相关。",
+    "topics/agent-auto-mode.md": "机器人自行登录并点击航班页面，体现智能体自动模式。",
+    "topics/agent-native-web-search.md": "示例涉及机器人在 Google 机票进行联网搜索与比价。",
+    "topics/loose-web-agent-harness-plugins.md": "实时观看与接管鼠标涉及网页代理的管控与插件交互。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dusk-bot-each-bot-gets-its-own-computer.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-native-web-search.md",
+      "topics/loose-web-agent-harness-plugins.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是机器人使用独立电脑/浏览器执行点击任务，与 Computer Use 主题直接相关。",
+      "topics/agent-auto-mode.md": "机器人自行登录并点击航班页面，体现智能体自动模式。",
+      "topics/agent-native-web-search.md": "示例涉及机器人在 Google 机票进行联网搜索与比价。",
+      "topics/loose-web-agent-harness-plugins.md": "实时观看与接管鼠标涉及网页代理的管控与插件交互。"
+    },
+    "notes": "所有内容仅基于提供的 dusk.bot 页面摘录，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dusk-bot-each-bot-gets-its-own-computer.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,5 +1,95 @@
 ## 2026-11-20
 
+* **创建 / Creation**: 归档 [RackNerd 黑五 VPS 最低 15.98 美元一年](./sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md)。 / Filed [RackNerd Black Friday VPS starting at $15.98 per year](./sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md).
+
+* **创建 / Creation**: 归档 [Muse 可申请专属邮箱，代为收发邮件](./sources/articles/muse-can-apply-for-a-dedicated-email-to-send-and-receive-mail-on.md)。 / Filed [Muse can apply for a dedicated email to send and receive mail on your behalf](./sources/articles/muse-can-apply-for-a-dedicated-email-to-send-and-receive-mail-on.md).
+
+* **创建 / Creation**: 归档 [Obsidian 官方支持 Grok Bot 连接器](./sources/articles/obsidian-officially-supports-grok-bot-connector.md)。 / Filed [Obsidian Officially Supports Grok Bot Connector](./sources/articles/obsidian-officially-supports-grok-bot-connector.md).
+
+* **创建 / Creation**: 归档 [Hy4 Flash 四毛钱做了个飞行游戏](./sources/articles/hy4-flash-a-0-4-yuan-flight-game.md)。 / Filed [Hy4 Flash: A 0.4-Yuan Flight Game](./sources/articles/hy4-flash-a-0-4-yuan-flight-game.md).
+
+* **创建 / Creation**: 归档 [Google AI 会员云额度](./sources/articles/google-ai-member-cloud-credits.md)。 / Filed [Google AI Member Cloud Credits](./sources/articles/google-ai-member-cloud-credits.md).
+
+* **创建 / Creation**: 归档 [OpenAI 为隐藏思维链加“上下文锁”，篡改旧消息会丢弃后续推理](./sources/articles/openai-adds-context-lock-to-hidden-chain-of-thought-tampering-wi.md)。 / Filed [OpenAI adds “context lock” to hidden chain-of-thought; tampering with old messages discards subsequent reasoning](./sources/articles/openai-adds-context-lock-to-hidden-chain-of-thought-tampering-wi.md).
+
+* **创建 / Creation**: 归档 [张博公布个人电脑端开源 AI Agent「Linger」](./sources/articles/former-deepseek-member-zhang-bo-announces-open-source-pc-ai-agen.md)。 / Filed [Former DeepSeek Member Zhang Bo Announces Open-Source PC AI Agent Linger](./sources/articles/former-deepseek-member-zhang-bo-announces-open-source-pc-ai-agen.md).
+
+* **创建 / Creation**: 归档 [MiniMax H3 打戏 Skill 更新：10 秒 5 镜头、特效快剪与工具链](./sources/articles/minimax-h3-fight-skill-update-10s-5-shot-vfx-fast-cut-toolchain.md)。 / Filed [MiniMax H3 Fight Skill Update: 10s 5-Shot, VFX Fast-Cut & Toolchain](./sources/articles/minimax-h3-fight-skill-update-10s-5-shot-vfx-fast-cut-toolchain.md).
+
+* **创建 / Creation**: 归档 [出门用手机口喷，就能指挥家里的多支 AI 团队](./sources/articles/use-mobile-voice-commands-on-the-go-to-command-multiple-ai-teams.md)。 / Filed [Use mobile voice commands on the go to command multiple AI teams at home](./sources/articles/use-mobile-voice-commands-on-the-go-to-command-multiple-ai-teams.md).
+
+* **创建 / Creation**: 归档 [UU远程公布12月1日会员收费方案：基础远控免费，VIP五折后119元/年](./sources/articles/uu-remote-announces-december-1-membership-pricing-basic-remote-c.md)。 / Filed [UU Remote announces December 1 membership pricing: basic remote control free, VIP 119 yuan/year after discount](./sources/articles/uu-remote-announces-december-1-membership-pricing-basic-remote-c.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Flash 解读体检单，Grok 提示房颤，Apple Watch 心电图显示窦性心律](./sources/articles/deepseek-flash-interprets-checkup-records-grok-hints-at-atrial-f.md)。 / Filed [DeepSeek Flash interprets checkup records, Grok hints at atrial fibrillation, Apple Watch ECG shows normal sinus rhythm](./sources/articles/deepseek-flash-interprets-checkup-records-grok-hints-at-atrial-f.md).
+
+* **创建 / Creation**: 归档 [三年体检单里一组没人提醒的指标，被模型拎出来了](./sources/articles/a-set-of-indicators-overlooked-for-three-years-in-physical-exam.md)。 / Filed [A set of indicators overlooked for three years in physical exam reports, surfaced by a model](./sources/articles/a-set-of-indicators-overlooked-for-three-years-in-physical-exam.md).
+
+* **创建 / Creation**: 归档 [Hark Pro 保姆级上手教程：从入门到做出第一条视频](./sources/articles/hark-pro-nanny-level-getting-started-guide-from-entry-to-first-v.md)。 / Filed [Hark Pro Nanny-Level Getting Started Guide: From Entry to First Video](./sources/articles/hark-pro-nanny-level-getting-started-guide-from-entry-to-first-v.md).
+
+* **创建 / Creation**: 归档 [Hark Pro 上手保姆级指南：从入门到做出第一条视频](./sources/articles/hark-pro-beginner-s-guide-from-getting-started-to-making-your-fi.md)。 / Filed [Hark Pro Beginner's Guide: From Getting Started to Making Your First Video](./sources/articles/hark-pro-beginner-s-guide-from-getting-started-to-making-your-fi.md).
+
+* **创建 / Creation**: 归档 [他宣布现在 Google Ultra 套餐真香](./sources/articles/he-declares-google-ultra-subscription-is-now-worth-it.md)。 / Filed [He declares Google Ultra subscription is now worth it](./sources/articles/he-declares-google-ultra-subscription-is-now-worth-it.md).
+
+* **创建 / Creation**: 归档 [把“赛博工伤”写进健康档案：Mirobody Agent 标准化三年体检单](./sources/articles/writing-cyber-occupational-injury-into-health-records-mirobody-a.md)。 / Filed [Writing 'Cyber Occupational Injury' into Health Records: Mirobody Agent Standardizes Three Years of Checkup Reports](./sources/articles/writing-cyber-occupational-injury-into-health-records-mirobody-a.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS329Z 第九讲：优化 AI 智能体（提示词 vs. 权重）公开](./sources/articles/stanford-cs329z-lecture-9-optimizing-ai-agents-prompts-vs-weight.md)。 / Filed [Stanford CS329Z Lecture 9: Optimizing AI Agents (Prompts vs. Weights) Released](./sources/articles/stanford-cs329z-lecture-9-optimizing-ai-agents-prompts-vs-weight.md).
+
+* **创建 / Creation**: 归档 [前 Claude Code 核心开发者 Thariq 的「苦涩教训」反思：可读规格与自制脚本语言夺回创作控制权](./sources/articles/former-claude-code-core-developer-thariq-reflects-on-the-bitter.md)。 / Filed [Former Claude Code Core Developer Thariq Reflects on the "Bitter Lesson": Readable Specs and Custom Script Languages Reclaim Creative Control](./sources/articles/former-claude-code-core-developer-thariq-reflects-on-the-bitter.md).
+
+* **创建 / Creation**: 归档 [LangChain 开源内部设计 Agent「Content Studio」](./sources/articles/langchain-open-sources-internal-design-agent-content-studio.md)。 / Filed [LangChain Open-Sources Internal Design Agent "Content Studio"](./sources/articles/langchain-open-sources-internal-design-agent-content-studio.md).
+
+* **创建 / Creation**: 归档 [LangChain 开源设计智能体 Content Studio](./sources/articles/langchain-open-sources-design-agent-content-studio.md)。 / Filed [LangChain Open-Sources Design Agent Content Studio](./sources/articles/langchain-open-sources-design-agent-content-studio.md).
+
+* **创建 / Creation**: 归档 [Anthropic 正式在纳斯达克敲钟上市](./sources/articles/anthropic-officially-lists-on-nasdaq.md)。 / Filed [Anthropic Officially Lists on NASDAQ](./sources/articles/anthropic-officially-lists-on-nasdaq.md).
+
+* **创建 / Creation**: 归档 [Genie 4 世界模型已通过 Gemini API 开放访问](./sources/articles/genie-4-world-model-now-accessible-via-gemini-api.md)。 / Filed [Genie 4 World Model Now Accessible via Gemini API](./sources/articles/genie-4-world-model-now-accessible-via-gemini-api.md).
+
+* **创建 / Creation**: 归档 [玉伯 PPT：内容手搓、风格 AI 直出](./sources/articles/yubo-s-ppt-handcrafted-content-ai-generated-style.md)。 / Filed [Yubo's PPT: Handcrafted Content, AI-Generated Style](./sources/articles/yubo-s-ppt-handcrafted-content-ai-generated-style.md).
+
+* **创建 / Creation**: 归档 [深圳 GEO 大会即将召开](./sources/articles/shenzhen-geo-conference-to-open-soon.md)。 / Filed [Shenzhen GEO Conference to Open Soon](./sources/articles/shenzhen-geo-conference-to-open-soon.md).
+
+* **创建 / Creation**: 归档 [Subcast 一键高光剪辑：Gemini Neon 剪老罗访谈陈晓卿，Opus 5.5 优化中](./sources/articles/subcast-one-click-highlight-clipping-gemini-neon-cuts-luo-yongha.md)。 / Filed [Subcast One-Click Highlight Clipping: Gemini Neon Cuts Luo Yonghao–Chen Xiaoqing Interview, Opus 5.5 Optimizing](./sources/articles/subcast-one-click-highlight-clipping-gemini-neon-cuts-luo-yongha.md).
+
+* **创建 / Creation**: 归档 [用 Gemini Neon 给 Subcast 做了视频高光剪辑](./sources/articles/built-subcast-video-highlight-clipping-with-gemini-neon.md)。 / Filed [Built Subcast video highlight clipping with Gemini Neon](./sources/articles/built-subcast-video-highlight-clipping-with-gemini-neon.md).
+
+* **创建 / Creation**: 归档 [买成品号当天被封，提醒勿在网上随意购买账号](./sources/articles/ready-made-account-banned-the-same-day-warning-against-random-on.md)。 / Filed [Ready-Made Account Banned the Same Day: Warning Against Random Online Purchases](./sources/articles/ready-made-account-banned-the-same-day-warning-against-random-on.md).
+
+* **创建 / Creation**: 归档 [Dusk Bot：除 Devin 之外设计最出色的 Bot 产品](./sources/articles/dusk-bot-best-designed-bot-product-aside-from-devin.md)。 / Filed [Dusk Bot: Best-Designed Bot Product Aside from Devin](./sources/articles/dusk-bot-best-designed-bot-product-aside-from-devin.md).
+
+* **创建 / Creation**: 归档 [Amp 可能很快支持 Google Gemini 订阅](./sources/articles/amp-may-soon-support-google-gemini-subscription.md)。 / Filed [Amp May Soon Support Google Gemini Subscription](./sources/articles/amp-may-soon-support-google-gemini-subscription.md).
+
+* **创建 / Creation**: 归档 [dusk.bot：每个机器人拥有自己的电脑](./sources/articles/dusk-bot-each-bot-gets-its-own-computer.md)。 / Filed [dusk.bot: Each bot gets its own computer](./sources/articles/dusk-bot-each-bot-gets-its-own-computer.md).
+
+* **创建 / Creation**: 归档 [Chrome 联合 Firefox、Edge 发布 Modern Web Guidance 为 AI Agent 补齐 Web 平台知识](./sources/articles/chrome-joins-firefox-and-edge-to-launch-modern-web-guidance-for.md)。 / Filed [Chrome Joins Firefox and Edge to Launch Modern Web Guidance for AI Agents](./sources/articles/chrome-joins-firefox-and-edge-to-launch-modern-web-guidance-for.md).
+
+* **创建 / Creation**: 归档 [Modern Web Guidance 1.0 稳定发布：为编程智能体注入 Web 平台专业知识](./sources/articles/modern-web-guidance-1-0-the-web-platform-expertise-your-coding-a.md)。 / Filed [Modern Web Guidance 1.0: The web platform expertise your coding agent is missing](./sources/articles/modern-web-guidance-1-0-the-web-platform-expertise-your-coding-a.md).
+
+* **创建 / Creation**: 归档 [项目已不再使用 Grok Bot，转向 Amp 与 Puck](./sources/articles/project-no-longer-uses-grok-bot-shifts-to-amp-and-puck.md)。 / Filed [Project no longer uses Grok Bot, shifts to Amp and Puck](./sources/articles/project-no-longer-uses-grok-bot-shifts-to-amp-and-puck.md).
+
+* **创建 / Creation**: 归档 [第一次用 Personal Agent，只给三个忠告](./sources/articles/first-time-using-personal-agent-only-three-pieces-of-advice.md)。 / Filed [First Time Using Personal Agent: Only Three Pieces of Advice](./sources/articles/first-time-using-personal-agent-only-three-pieces-of-advice.md).
+
+* **创建 / Creation**: 归档 [谷歌 Gemini 推出 Tasks 个人 Agent 功能](./sources/articles/google-gemini-launches-tasks-personal-agent-feature.md)。 / Filed [Google Gemini Launches Tasks Personal Agent Feature](./sources/articles/google-gemini-launches-tasks-personal-agent-feature.md).
+
+* **创建 / Creation**: 归档 [他从 Anthropic 官网挑了 5 篇给新手看](./sources/articles/he-selected-5-anthropic-official-articles-for-ai-beginners.md)。 / Filed [He selected 5 Anthropic official articles for AI beginners](./sources/articles/he-selected-5-anthropic-official-articles-for-ai-beginners.md).
+
+* **创建 / Creation**: 归档 [全网近 30 天真人讨论被做成 AI Skill](./sources/articles/last30days-ai-skill-turns-30-days-of-real-human-discussion-into.md)。 / Filed [Last30days AI Skill Turns 30 Days of Real Human Discussion into Research](./sources/articles/last30days-ai-skill-turns-30-days-of-real-human-discussion-into.md).
+
+* **创建 / Creation**: 归档 [last30days-skill：面向 AI 智能体的多源社交搜索引擎](./sources/articles/last30days-skill-multi-source-social-search-engine-for-ai-agents.md)。 / Filed [last30days-skill: Multi-Source Social Search Engine for AI Agents](./sources/articles/last30days-skill-multi-source-social-search-engine-for-ai-agents.md).
+
+* **创建 / Creation**: 归档 [有人开始停 GPT Pro，转去 Gemini](./sources/articles/users-cancel-gpt-pro-and-switch-to-gemini.md)。 / Filed [Users cancel GPT Pro and switch to Gemini](./sources/articles/users-cancel-gpt-pro-and-switch-to-gemini.md).
+
+* **创建 / Creation**: 归档 [应用商店拒审规则被做成开源 Agent Skill，提交前自动预审](./sources/articles/app-store-rejection-rules-turned-into-open-source-agent-skill-fo.md)。 / Filed [App store rejection rules turned into open-source Agent Skill for pre-submission review](./sources/articles/app-store-rejection-rules-turned-into-open-source-agent-skill-fo.md).
+
+* **创建 / Creation**: 归档 [App Store 合规手册](./sources/articles/app-store-compliance-playbook.md)。 / Filed [App Store Compliance Playbook](./sources/articles/app-store-compliance-playbook.md).
+
+* **创建 / Creation**: 归档 [DeepSeek Harness 发布 100 天，作者分享 13 个实用插件玩法](./sources/articles/deepseek-harness-marks-100-days-author-shares-13-practical-plugi.md)。 / Filed [DeepSeek Harness Marks 100 Days, Author Shares 13 Practical Plugin Playstyles](./sources/articles/deepseek-harness-marks-100-days-author-shares-13-practical-plugi.md).
+
+* **创建 / Creation**: 归档 [936 个 AI 智能体自主研究三个月，发布 936 篇论文并自建 AI 评审](./sources/articles/936-ai-agents-autonomously-research-for-three-months-publish-936.md)。 / Filed [936 AI agents autonomously research for three months, publish 936 papers and build AI peer review](./sources/articles/936-ai-agents-autonomously-research-for-three-months-publish-936.md).
+
+* **创建 / Creation**: 归档 [宝玉：以目标与验收驱动 Agent 自动化，而非教 Agent 像人一样思考](./sources/articles/bao-yu-goal-and-acceptance-driven-agent-automation-rather-than-t.md)。 / Filed [Bao Yu: Goal-and-Acceptance-Driven Agent Automation Rather Than Teaching Agents to Think Like Humans](./sources/articles/bao-yu-goal-and-acceptance-driven-agent-automation-rather-than-t.md).
+
+* **创建 / Creation**: 归档 [宝玉实测 GPT-6.2 Sol：复杂代码仍需 Opus 5.5 收尾](./sources/articles/bao-yu-tests-gpt-6-2-sol-complex-coding-still-needs-opus-5-5-cle.md)。 / Filed [Bao Yu tests GPT-6.2 Sol: complex coding still needs Opus 5.5 cleanup](./sources/articles/bao-yu-tests-gpt-6-2-sol-complex-coding-still-needs-opus-5-5-cle.md).
+
 * **创建 / Creation**: 归档 [一个小设置：阻止 Claude Code 清理旧会话](./sources/articles/a-small-setting-stop-claude-code-from-deleting-old-sessions.md)。 / Filed [A small setting: stop Claude Code from deleting old sessions](./sources/articles/a-small-setting-stop-claude-code-from-deleting-old-sessions.md).
 
 * **创建 / Creation**: 归档 [宝玉整理 Claude Code 团队怎么做代码审查](./sources/articles/how-the-claude-code-team-does-code-review.md)。 / Filed [How the Claude Code team does code review](./sources/articles/how-the-claude-code-team-does-code-review.md).

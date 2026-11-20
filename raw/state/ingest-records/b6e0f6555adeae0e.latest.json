@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T12:30:18.068Z",
+  "url": "https://x.com/xiaomovps/status/2123620346972471680",
+  "slug": "b6e0f6555adeae0e",
+  "content_hash": "d724109c4beffe8c2979f8925cd3d48262ea197ca5fa76f0661c59fb6d3fcdd3",
+  "source": {
+    "path": "sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/geo-personal-website-first-step.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "低价 VPS 常用于搭建个人网站，与个人网站起步主题相关"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "RackNerd 为托管 VPS，与托管优于自建节点的讨论相关"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文章涉及云 VPS 使用场景，与个人云环境备份、隔离主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "文章涉及云 VPS 使用场景，与个人云环境备份、隔离主题相近",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "RackNerd 为托管 VPS，与托管优于自建节点的讨论相关",
+    "topics/geo-personal-website-first-step.md": "低价 VPS 常用于搭建个人网站，与个人网站起步主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/geo-personal-website-first-step.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "文章涉及云 VPS 使用场景，与个人云环境备份、隔离主题相近",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "RackNerd 为托管 VPS，与托管优于自建节点的讨论相关",
+      "topics/geo-personal-website-first-step.md": "低价 VPS 常用于搭建个人网站，与个人网站起步主题相关"
+    },
+    "notes": "所有价格、配置与机房信息均来源于该帖文，未独立核实；帖文显示发布于 2026 年 11 月 20 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

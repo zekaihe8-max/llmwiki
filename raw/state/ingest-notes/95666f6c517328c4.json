@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文讨论 Agent 自动化运行模式与“先跑起来再调整”，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "文中提到将最佳实践沉淀为 Skill 并让 Agent 自身优化 Skill，直接对应 Skill 编写。",
+    "topics/workflows-before-agents.md": "作者强调先定目标与验收标准，再让 Agent 执行，体现工作流优先于智能体的思路。",
+    "topics/calibrating-ai-guidance.md": "文中主张不干涉 Agent 中间步骤、避免过度引导，与校准对 AI 的引导程度相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Agent 自动化运行模式与“先跑起来再调整”，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提到将最佳实践沉淀为 Skill 并让 Agent 自身优化 Skill，直接对应 Skill 编写。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "作者强调先定目标与验收标准，再让 Agent 执行，体现工作流优先于智能体的思路。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文中主张不干涉 Agent 中间步骤、避免过度引导，与校准对 AI 的引导程度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用仅基于提供的帖文 Markdown，未访问外部 URL。"
+}

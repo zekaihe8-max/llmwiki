@@ -1,0 +1,23 @@
+{
+  "slug": "240413ab0ff9eb63",
+  "url": "https://x.com/vista8/status/2123483659592405036",
+  "title": "用 Gemini Neon 给 Subcast 做了视频高光剪辑",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "240413ab0ff9eb6373091fc7c725a94b16dc07a168d9a2ab132fe5e10ab605c1",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:51.474Z",
+  "content_hash": "87fa52f705d6adb1d8d85bdc8c40c42ed330e628f9ff9fcd46090eec1382906a",
+  "article_path": "articles/240413ab0ff9eb63.md",
+  "fetched_url": "https://x.com/vista8/status/2123483659592405036",
+  "source_path": "sources/articles/built-subcast-video-highlight-clipping-with-gemini-neon.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:08:04.577Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

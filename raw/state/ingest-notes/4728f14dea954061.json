@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Hark 主打 AI 视频生成与剪辑，与智能体视频剪辑主题直接相关。",
+    "topics/personal-agent-hype-familiarity-gap.md": "Hark Pro 被定位为个人 AI Agent，命中个人 Agent 热潮与认知差距主题。",
+    "topics/agentic-ai-foundation.md": "文章涉及个人 AI Agent 的基本定位与上线背景，属于智能体基础话题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Hark 主打 AI 视频生成与剪辑，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "Hark Pro 被定位为个人 AI Agent，命中个人 Agent 热潮与认知差距主题。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章涉及个人 AI Agent 的基本定位与上线背景，属于智能体基础话题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均标注为帖文称或据文章所述，未独立核实 Opus 5.5 对比；Handoff 细节因截断未展开。"
+}

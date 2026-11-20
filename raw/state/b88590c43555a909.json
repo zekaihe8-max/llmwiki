@@ -1,0 +1,23 @@
+{
+  "slug": "b88590c43555a909",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "title": "GitHub",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "b88590c43555a909e1ff4309ecbf7f5564518a8eeb8290dba5726961f2fe41cc",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:47.390Z",
+  "content_hash": "2b8a0ba3be0d25c2c24c89b63ec2e956042c55eed5904126ac55a844e1f9b65b",
+  "article_path": "articles/b88590c43555a909.md",
+  "fetched_url": "https://github.com/mvanhorn/last30days-skill",
+  "source_path": "sources/articles/last30days-skill-multi-source-social-search-engine-for-ai-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:02:01.346Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

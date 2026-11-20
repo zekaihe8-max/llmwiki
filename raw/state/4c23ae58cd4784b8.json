@@ -1,0 +1,23 @@
+{
+  "slug": "4c23ae58cd4784b8",
+  "url": "https://x.com/dingyi/status/2123582857725784110",
+  "title": "项目已经不用 Grok Bot 了",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "4c23ae58cd4784b88336309268079bfcc1156a57aa553dbf246247c217ba5e68",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:49.239Z",
+  "content_hash": "5c2135d9b87108a31ad2ddd6d058b792b69060ffbaafba494a424424fdebf63c",
+  "article_path": "articles/4c23ae58cd4784b8.md",
+  "fetched_url": "https://x.com/dingyi/status/2123582857725784110",
+  "source_path": "sources/articles/project-no-longer-uses-grok-bot-shifts-to-amp-and-puck.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:04:13.246Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

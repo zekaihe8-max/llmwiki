@@ -1,0 +1,23 @@
+{
+  "slug": "1ca583cfe1ed1d83",
+  "url": "https://x.com/shao__meng/status/2123582765727617061",
+  "title": "斯坦福 CS329Z 第九讲公开了",
+  "digest": "2026-11-20-cn-x.md",
+  "status": "filed",
+  "hash": "1ca583cfe1ed1d839fb82697c9d51bcd8031cdc90f42325fac73ef2cdbc3d1cc",
+  "first_seen": "2026-11-20T11:51:43.217Z",
+  "last_seen": "2026-11-20T11:51:43.217Z",
+  "fetched_at": "2026-11-20T11:51:57.587Z",
+  "content_hash": "deffdb305b20b823db91f0470f0024181305053a9bdbf677519222649a9b1654",
+  "article_path": "articles/1ca583cfe1ed1d83.md",
+  "fetched_url": "https://x.com/shao__meng/status/2123582765727617061",
+  "source_path": "sources/articles/stanford-cs329z-lecture-9-optimizing-ai-agents-prompts-vs-weight.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T12:16:34.671Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

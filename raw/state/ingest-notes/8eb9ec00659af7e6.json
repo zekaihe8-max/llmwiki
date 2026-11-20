@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "直接讨论 Personal Agent，与帖文主题最贴近。",
+    "topics/workflows-before-agents.md": "帖文第三条建议从简单自动化任务开始，与“工作流优先于智能体”主题一致。",
+    "topics/agent-skill-authoring.md": "帖文第一条建议不要急着安装 Skill，与该主题相关。",
+    "topics/reuse-before-write.md": "帖文建议先使用现有功能而非盲目安装插件，体现“先复用再编写”。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Personal Agent，与帖文主题最贴近。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文第三条建议从简单自动化任务开始，与“工作流优先于智能体”主题一致。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文第一条建议不要急着安装 Skill，与该主题相关。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文建议先使用现有功能而非盲目安装插件，体现“先复用再编写”。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文 @xiaomovps，未引入文中未提及的外部事实或 URL。"
+}
