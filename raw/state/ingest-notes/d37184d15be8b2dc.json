@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心是智能体自主按目标运行并自我改进，与“智能体自动模式”主题高度相关。",
+    "topics/agent-scaled-engineering.md": "Levie 明确指出该阶段将从工程领域起步，与“智能体规模化工程”主题对应。",
+    "topics/agentic-ai-foundation.md": "帖文讨论智能体范式的新时代，属于 Agentic AI 的基础性演进讨论。",
+    "topics/ai-task-horizon-growth.md": "文中提到长时间运行工作和基于持续执行的改进，与 AI 任务时界增长相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体自主按目标运行并自我改进，与“智能体自动模式”主题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Levie 明确指出该阶段将从工程领域起步，与“智能体规模化工程”主题对应。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文讨论智能体范式的新时代，属于 Agentic AI 的基础性演进讨论。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文中提到长时间运行工作和基于持续执行的改进，与 AI 任务时界增长相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实主张已在摘要中以“帖文称”标注；未引用文章外事实。"
+}

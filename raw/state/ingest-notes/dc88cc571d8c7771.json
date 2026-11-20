@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/computer-use.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "文章核心是可实时交互的生成式世界模型，与该主题直接相关。",
+    "topics/vibe-gaming-model-inflection.md": "Genie 4 面向交互体验与游戏化原型，涉及游戏模型拐点相关讨论。",
+    "topics/computer-use.md": "文中提到实时键盘控制与环境导航，属于计算机使用与交互控制范畴。",
+    "topics/agentic-video-editing.md": "生成带原生音频的连续视频世界，与 AI 视频生成与编辑主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是可实时交互的生成式世界模型，与该主题直接相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "Genie 4 面向交互体验与游戏化原型，涉及游戏模型拐点相关讨论。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到实时键盘控制与环境导航，属于计算机使用与交互控制范畴。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "生成带原生音频的连续视频世界，与 AI 视频生成与编辑主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于提供的博客文章，未引入外部事实或 URL。"
+}

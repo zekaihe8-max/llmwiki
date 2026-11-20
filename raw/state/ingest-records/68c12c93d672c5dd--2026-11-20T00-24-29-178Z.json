@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:24:29.178Z",
+  "url": "https://x.com/Voxyz_ai/status/2123504574476468492",
+  "slug": "68c12c93d672c5dd",
+  "content_hash": "e2d27d815241921ebe882ecedbec8d7de0e4af4a2a8d6498ff02435a85c8a34e",
+  "source": {
+    "path": "sources/articles/acceptance-let-an-independent-test-agent-run-5-rules-before-ship.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/embedded-third-party-evals.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-auto-mode.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "内容围绕智能体自动执行测试与验收流程，属 Agent 自动化模式。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "强调独立实测对抗自我刷分，与“写代码的不写测试”原则一致。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "文章主张由未参与编码的独立 Agent 做验收，与第三方/驻场评估的独立性最贴近。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及 vibe coding 场景，与该话题上下文相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/embedded-third-party-evals.md": "文章主张由未参与编码的独立 Agent 做验收，与第三方/驻场评估的独立性最贴近。",
+    "topics/community-evals-vs-score-hype.md": "强调独立实测对抗自我刷分，与“写代码的不写测试”原则一致。",
+    "topics/agent-auto-mode.md": "内容围绕智能体自动执行测试与验收流程，属 Agent 自动化模式。",
+    "topics/vibe-coding-memory-paradox.md": "帖文明确提及 vibe coding 场景，与该话题上下文相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/acceptance-let-an-independent-test-agent-run-5-rules-before-ship.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/embedded-third-party-evals.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/agent-auto-mode.md",
+      "topics/vibe-coding-memory-paradox.md"
+    ],
+    "selection_reasons": {
+      "topics/embedded-third-party-evals.md": "文章主张由未参与编码的独立 Agent 做验收，与第三方/驻场评估的独立性最贴近。",
+      "topics/community-evals-vs-score-hype.md": "强调独立实测对抗自我刷分，与“写代码的不写测试”原则一致。",
+      "topics/agent-auto-mode.md": "内容围绕智能体自动执行测试与验收流程，属 Agent 自动化模式。",
+      "topics/vibe-coding-memory-paradox.md": "帖文明确提及 vibe coding 场景，与该话题上下文相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/acceptance-let-an-independent-test-agent-run-5-rules-before-ship.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

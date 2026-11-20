@@ -1,0 +1,23 @@
+{
+  "slug": "056cf0b58a3dbace",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+  "title": "说明",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "056cf0b58a3dbace68332c5ef6b35e38e3aab513ff13bc25aa1cb803bce8b627",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:55.278Z",
+  "content_hash": "edbf8584178b71cca11153033a0d5279f4ba30dfc3053734f8449ae8cc2de1c5",
+  "article_path": "articles/056cf0b58a3dbace.md",
+  "fetched_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "source_path": "sources/articles/introducing-tool-retrieval-in-the-gemini-api-2.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:16:32.018Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

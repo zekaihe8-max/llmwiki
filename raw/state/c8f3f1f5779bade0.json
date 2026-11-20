@@ -1,0 +1,34 @@
+{
+  "slug": "c8f3f1f5779bade0",
+  "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1",
+  "title": "文档",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "failed",
+  "hash": "c8f3f1f5779bade01c711cc84c394e08a8742d7b8974e6741d33b5fc21398972",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-20T00:12:54.237Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-20T00:26:23.637Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-20T00:26:23.637Z"
+}

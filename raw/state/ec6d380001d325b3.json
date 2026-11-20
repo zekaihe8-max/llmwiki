@@ -1,0 +1,23 @@
+{
+  "slug": "ec6d380001d325b3",
+  "url": "https://x.com/OpenAIDevs/status/2123506733524136446",
+  "title": "OpenAIDevs",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "ec6d380001d325b3a242053a1cc013731bbf5859f58f2d69fb074a921c4a62e5",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:53.879Z",
+  "content_hash": "02f34a074087aaef947499904a9e027e0bae8b40a59306a7844ee56eb0acc65a",
+  "article_path": "articles/ec6d380001d325b3.md",
+  "fetched_url": "https://x.com/OpenAIDevs/status/2123506733524136446",
+  "source_path": "sources/articles/openaidevs-announces-gpt-live-1-1-now-available-via-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:15:34.812Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

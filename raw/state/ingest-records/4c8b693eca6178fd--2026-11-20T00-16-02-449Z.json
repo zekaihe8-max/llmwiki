@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:16:02.449Z",
+  "url": "https://x.com/GoogleAIStudio/status/2123489911684866251",
+  "slug": "4c8b693eca6178fd",
+  "content_hash": "725f46e7371a0b936b3e196f8f51b74a6b98a36823c29491e593cff110e8746b",
+  "source": {
+    "path": "sources/articles/introducing-tool-retrieval-in-the-gemini-api.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "功能专门面向连接数十甚至数百个工具的大规模 Agent 场景，与智能体规模化工程直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "该机制旨在降低输入 Token 数与延迟，属于 Agent 省 Token 工具与开销优化。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是通过按需加载工具 schema 减少提示词长度，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心是通过按需加载工具 schema 减少提示词长度，属于 Agent 上下文工程范畴。",
+    "topics/agent-scaled-engineering.md": "功能专门面向连接数十甚至数百个工具的大规模 Agent 场景，与智能体规模化工程直接相关。",
+    "topics/coding-agent-token-saving-tooling.md": "该机制旨在降低输入 Token 数与延迟，属于 Agent 省 Token 工具与开销优化。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-tool-retrieval-in-the-gemini-api.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心是通过按需加载工具 schema 减少提示词长度，属于 Agent 上下文工程范畴。",
+      "topics/agent-scaled-engineering.md": "功能专门面向连接数十甚至数百个工具的大规模 Agent 场景，与智能体规模化工程直接相关。",
+      "topics/coding-agent-token-saving-tooling.md": "该机制旨在降低输入 Token 数与延迟，属于 Agent 省 Token 工具与开销优化。"
+    },
+    "notes": "Source is an X post from @GoogleAIStudio; all claims are grounded in the fetched article markdown.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-tool-retrieval-in-the-gemini-api.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

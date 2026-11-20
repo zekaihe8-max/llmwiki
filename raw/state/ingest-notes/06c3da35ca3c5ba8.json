@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 是人工智能原生公司，与文章主题相关",
+    "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 上市事件，与文章主题相关",
+    "topics/frontier-training-containment.md": "Anthropic 从事前沿 AI 模型（Claude）研发，与文章主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 是人工智能原生公司，与文章主题相关"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章涉及 IPO 上市事件，与文章主题相关"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Anthropic 从事前沿 AI 模型（Claude）研发，与文章主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章为纳斯达克新闻稿，未独立核实上市细节；所有事实均来源于提供的文章正文。"
+}

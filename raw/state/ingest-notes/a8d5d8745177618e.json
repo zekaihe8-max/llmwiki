@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-identity-platform-keys.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心涉及第三方 AI Agent 控制个人电脑的难度变化，与 Computer Use 主题直接相关。",
+    "topics/agent-compute-and-governance.md": "Mollick 所指公司限制客户使用自有 Agent，涉及智能体治理与安全合规边界。",
+    "topics/agent-identity-platform-keys.md": "苹果提高第三方 Agent 控制 Mac 的门槛，体现平台对 Agent 接入与权限的掌控。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心涉及第三方 AI Agent 控制个人电脑的难度变化，与 Computer Use 主题直接相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Mollick 所指公司限制客户使用自有 Agent，涉及智能体治理与安全合规边界。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "苹果提高第三方 Agent 控制 Mac 的门槛，体现平台对 Agent 接入与权限的掌控。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所获取帖文与其引用的 Mark Gurman 报道，未引入外部事实。"
+}

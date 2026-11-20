@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:15:34.811Z",
+  "url": "https://x.com/OpenAIDevs/status/2123506733524136446",
+  "slug": "ec6d380001d325b3",
+  "content_hash": "02f34a074087aaef947499904a9e027e0bae8b40a59306a7844ee56eb0acc65a",
+  "source": {
+    "path": "sources/articles/openaidevs-announces-gpt-live-1-1-now-available-via-api.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "GPT-Live-1.1 为模型版本发布，与模型策略与渠道取舍相近。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "帖文提及跨语言口音更自然，与纯语音全双工与情绪可听主题相近。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "新增待机选项以降低空闲成本，与用量上限与成本控制相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及语音输出与口音质量，属于语音输入/输出相关范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "帖文提及跨语言口音更自然，与纯语音全双工与情绪可听主题相近。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输出与口音质量，属于语音输入/输出相关范畴。",
+    "topics/usage-limit-ab-tests.md": "新增待机选项以降低空闲成本，与用量上限与成本控制相关。",
+    "topics/pro-vs-flash-model-strategy.md": "GPT-Live-1.1 为模型版本发布，与模型策略与渠道取舍相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openaidevs-announces-gpt-live-1-1-now-available-via-api.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pure-speech-full-duplex.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/pure-speech-full-duplex.md": "帖文提及跨语言口音更自然，与纯语音全双工与情绪可听主题相近。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输出与口音质量，属于语音输入/输出相关范畴。",
+      "topics/usage-limit-ab-tests.md": "新增待机选项以降低空闲成本，与用量上限与成本控制相关。",
+      "topics/pro-vs-flash-model-strategy.md": "GPT-Live-1.1 为模型版本发布，与模型策略与渠道取舍相近。"
+    },
+    "notes": "来源仅为 X 帖文，未独立核实模型性能声称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openaidevs-announces-gpt-live-1-1-now-available-via-api.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

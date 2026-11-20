@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-19T11:53:50.354Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -12253,5 +12253,205 @@
     "last_seen": "2026-11-19T11:53:50.354Z",
     "digest": "2026-11-19-cn-x.md",
     "title": "豆包 SeedRealtime 1.0 API"
+  },
+  "https://x.com/AnthropicAI/status/2123461658890686863": {
+    "hash": "ccceee1a5eb3d9d029a2de23daa6b6f7cb37cd8b2f40596a3c470443bb7a9981",
+    "slug": "ccceee1a5eb3d9d0",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "开盘致辞"
+  },
+  "https://x.com/business/status/2123524934018154763": {
+    "hash": "434d7097c070d45f59f89170753d642590ba005bd66684480ba201bc412fec7b",
+    "slug": "434d7097c070d45f",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Bloomberg"
+  },
+  "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html": {
+    "hash": "987345e2f30bf5e712778b9e43c6f7640990637fc47064326badbd95c5e410ad",
+    "slug": "987345e2f30bf5e7",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "CNBC"
+  },
+  "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq": {
+    "hash": "06c3da35ca3c5ba852ec40892c895f16b616400da34b3a3b02818a20c4ab3543",
+    "slug": "06c3da35ca3c5ba8",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Nasdaq"
+  },
+  "https://x.com/OpenAIDevs/status/2123506733524136446": {
+    "hash": "ec6d380001d325b3a242053a1cc013731bbf5859f58f2d69fb074a921c4a62e5",
+    "slug": "ec6d380001d325b3",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "OpenAIDevs"
+  },
+  "https://developers.openai.com/api/docs/models/gpt-live-1.1": {
+    "hash": "c8f3f1f5779bade01c711cc84c394e08a8742d7b8974e6741d33b5fc21398972",
+    "slug": "c8f3f1f5779bade0",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "文档"
+  },
+  "https://x.com/GoogleAIStudio/status/2123489911684866251": {
+    "hash": "4c8b693eca6178fd25dd9a4ff7e8782b50f8dd3fabf6600db6a42bdabfb6f553",
+    "slug": "4c8b693eca6178fd",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Tool Retrieval"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval": {
+    "hash": "056cf0b58a3dbace68332c5ef6b35e38e3aab513ff13bc25aa1cb803bce8b627",
+    "slug": "056cf0b58a3dbace",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/OfficialLoganK/status/2123467449257623770": {
+    "hash": "31877daa5f29e9338373d4e5326df57b10f6f3bc22207bc68c9019233307cc99",
+    "slug": "31877daa5f29e933",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Logan"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api": {
+    "hash": "dc88cc571d8c777142e5aa86e0ae34e390a81ac19da7f57fb65715e5867cb004",
+    "slug": "dc88cc571d8c7771",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Genie 4 API"
+  },
+  "https://x.com/GeminiApp/status/2123513203745538423": {
+    "hash": "97dd1a62f19163cc557dbe0949f33beede8adee1d3011705ac536e2e3bb3515d",
+    "slug": "97dd1a62f19163cc",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Gemini"
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac": {
+    "hash": "efdbd6c83627cffee94dfe19ce62c52642abbafc64ecee1b83ef502704f65858",
+    "slug": "efdbd6c83627cffe",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/emollick/status/2123541572490817605": {
+    "hash": "a8d5d8745177618edf663a4913e279391a74ed6ae163fa833a94dd21cdaece27",
+    "slug": "a8d5d8745177618e",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Mollick · 公司挡用户自己的 agent，吓不了太久"
+  },
+  "https://x.com/rauchg/status/2123505400591106113": {
+    "hash": "e951f1847c9684aba2b952e33cffb5b6b838c492d574fd7e78dcc808eb069d99",
+    "slug": "e951f1847c9684ab",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Rauch · 会做事的工程师现在是 1000 倍，抠细节却看不见全局的是负 10 倍"
+  },
+  "https://x.com/ArtificialAnlys/status/2123236464003588136": {
+    "hash": "3ca460a6c1631242d14c453cece9bad619c6b52c1e6165691fa44694b3f14e33",
+    "slug": "3ca460a6c1631242",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Artificial Analysis · GPT-6.2 更短、更先给答案，也更少承认不确定"
+  },
+  "https://x.com/OpenAIDevs/status/2123471880292299171": {
+    "hash": "8c541b3a5776e3e7f0bdca976b906e56850625345964a355910af41ee385004e",
+    "slug": "8c541b3a5776e3e7",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "OpenAIDevs"
+  },
+  "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+    "hash": "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227",
+    "slug": "9342dbf934e428aa",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/levie/status/2123278949749059756": {
+    "hash": "d37184d15be8b2dcc50822efaceae572c88739cf39ddc07f9ca952b4355e2b71",
+    "slug": "d37184d15be8b2dc",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Levie · 下一阶段是给目标，让 agent 自己设计、试、上线再继续改"
+  },
+  "https://x.com/OpenAIDevs/status/2123566018866151579": {
+    "hash": "c2008f653f42cfb25475518b1ae5d68a77122d095cf55b7275fcce11d36bd7fa",
+    "slug": "c2008f653f42cfb2",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "OpenAIDevs"
+  },
+  "https://x.com/Voxyz_ai/status/2123461311833022837": {
+    "hash": "aa62c1f5e755819104fd15449b167791e98836bee499de36f9b6c399f317f6f5",
+    "slug": "aa62c1f5e7558191",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "Vox · Neon 并不只是便宜"
+  },
+  "https://x.com/Voxyz_ai/status/2123534531366154356": {
+    "hash": "a150c95f5bf91b635d9d9906ce3fb11e82e81f553647f2d8b5aae4ee4ad3f2fa",
+    "slug": "a150c95f5bf91b63",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "配置"
+  },
+  "https://x.com/Voxyz_ai/status/2123504574476468492": {
+    "hash": "68c12c93d672c5dd240c8833a346684fd1df6ffb9a743d27f32e379b03de5b2e",
+    "slug": "68c12c93d672c5dd",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "验收"
+  },
+  "https://x.com/dotey/status/2123555597387813050": {
+    "hash": "f250390f1745ad1f52984ca56ca35bf06138e3dd96f8dd4135218d48ea52dbdb",
+    "slug": "f250390f1745ad1f",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "宝玉"
+  },
+  "https://claude.dev/blog/solving-code-review-at-anthropic": {
+    "hash": "6d6f8ad0753534aab211d62e20d2ed19db564953fdf5909882c5651fc110b977",
+    "slug": "6d6f8ad0753534aa",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "宝玉整理 Claude Code 团队怎么做代码审查"
+  },
+  "https://x.com/Voxyz_ai/status/2123431117634367675": {
+    "hash": "8826312eeab4e1092134467399b7cf0125deaf9f9bc6c9a2debd8bcc710200f5",
+    "slug": "8826312eeab4e109",
+    "first_seen": "2026-11-20T00:12:52.065Z",
+    "last_seen": "2026-11-20T00:12:52.065Z",
+    "digest": "2026-11-20-frontier-ai.md",
+    "title": "一个小设置"
   }
 }

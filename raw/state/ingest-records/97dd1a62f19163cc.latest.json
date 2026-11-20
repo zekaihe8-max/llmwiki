@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:18:43.760Z",
+  "url": "https://x.com/GeminiApp/status/2123513203745538423",
+  "slug": "97dd1a62f19163cc",
+  "content_hash": "8f5f8ccb79a25c33c8e5c648318aaebad0f76898b409d8a81e9d3f214bc2cd96",
+  "source": {
+    "path": "sources/articles/gemini-for-mac-launches-computer-use-to-hand-off-tasks-across-fo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-home-platform-control.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中描述跨文件夹、App 和网页交办任务，属于 Agent 自动模式场景。"
+    },
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "AI 在 Mac 上直接操作屏幕与光标，涉及平台级设备控制。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "帖文提到跨网页执行任务，与面向 Agent 的联网搜索相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Gemini 的电脑使用（Computer Use）能力，该主题已直接覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心是 Gemini 的电脑使用（Computer Use）能力，该主题已直接覆盖。",
+    "topics/agent-auto-mode.md": "文中描述跨文件夹、App 和网页交办任务，属于 Agent 自动模式场景。",
+    "topics/agent-home-platform-control.md": "AI 在 Mac 上直接操作屏幕与光标，涉及平台级设备控制。",
+    "topics/agent-native-web-search.md": "帖文提到跨网页执行任务，与面向 Agent 的联网搜索相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-for-mac-launches-computer-use-to-hand-off-tasks-across-fo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-home-platform-control.md",
+      "topics/agent-native-web-search.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "文章核心是 Gemini 的电脑使用（Computer Use）能力，该主题已直接覆盖。",
+      "topics/agent-auto-mode.md": "文中描述跨文件夹、App 和网页交办任务，属于 Agent 自动模式场景。",
+      "topics/agent-home-platform-control.md": "AI 在 Mac 上直接操作屏幕与光标，涉及平台级设备控制。",
+      "topics/agent-native-web-search.md": "帖文提到跨网页执行任务，与面向 Agent 的联网搜索相关。"
+    },
+    "notes": "所有事实仅来自所抓取的 X 帖文正文；未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-for-mac-launches-computer-use-to-hand-off-tasks-across-fo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

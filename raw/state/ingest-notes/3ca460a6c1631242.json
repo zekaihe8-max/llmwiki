@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章来自 AI 评测机构 Artificial Analysis 的模型行为对比，与 AI 评测入口与记录主题相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "内容涉及公开模型评测指标的质量与解读，需审慎对待榜单或评测声明。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文基于行为指纹变化推断模型性格，属于行为指纹置信度而非底层模型确认的范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章来自 AI 评测机构 Artificial Analysis 的模型行为对比，与 AI 评测入口与记录主题相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "内容涉及公开模型评测指标的质量与解读，需审慎对待榜单或评测声明。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文基于行为指纹变化推断模型性格，属于行为指纹置信度而非底层模型确认的范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有数据均引用自单一 X 帖文，未经独立核实；未编造超出文章的 URL 或事实。"
+}
