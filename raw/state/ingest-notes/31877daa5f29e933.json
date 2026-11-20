@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文核心是“世界模型”，与该主题直接相关，无需修改。",
+    "topics/agentic-ai-foundation.md": "涉及基础模型与 AI 能力发布，与主题相邻，保持不变。",
+    "topics/computer-use.md": "涉及智能体与环境交互，与世界模型开发有关联，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文核心是“世界模型”，与该主题直接相关，无需修改。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及基础模型与 AI 能力发布，与主题相邻，保持不变。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及智能体与环境交互，与世界模型开发有关联，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "全部主题均复用现有条目，未创建新主题。"
+}

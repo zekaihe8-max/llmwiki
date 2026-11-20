@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:15:05.771Z",
+  "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+  "slug": "06c3da35ca3c5ba8",
+  "content_hash": "3ddc2c2f63101f83b9479f8e4faf27bd40d6a182a6712445cbb1b0ef753b79c4",
+  "source": {
+    "path": "sources/articles/anthropic-marks-its-ipo-at-nasdaq.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 是人工智能原生公司，与文章主题相关"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "Anthropic 从事前沿 AI 模型（Claude）研发，与文章主题相关"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章涉及 IPO 上市事件，与文章主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 是人工智能原生公司，与文章主题相关",
+    "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 上市事件，与文章主题相关",
+    "topics/frontier-training-containment.md": "Anthropic 从事前沿 AI 模型（Claude）研发，与文章主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-marks-its-ipo-at-nasdaq.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Anthropic 是人工智能原生公司，与文章主题相关",
+      "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 上市事件，与文章主题相关",
+      "topics/frontier-training-containment.md": "Anthropic 从事前沿 AI 模型（Claude）研发，与文章主题相关"
+    },
+    "notes": "文章为纳斯达克新闻稿，未独立核实上市细节；所有事实均来源于提供的文章正文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-marks-its-ipo-at-nasdaq.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,3 +1,51 @@
+## 2026-11-20
+
+* **创建 / Creation**: 归档 [一个小设置：阻止 Claude Code 清理旧会话](./sources/articles/a-small-setting-stop-claude-code-from-deleting-old-sessions.md)。 / Filed [A small setting: stop Claude Code from deleting old sessions](./sources/articles/a-small-setting-stop-claude-code-from-deleting-old-sessions.md).
+
+* **创建 / Creation**: 归档 [宝玉整理 Claude Code 团队怎么做代码审查](./sources/articles/how-the-claude-code-team-does-code-review.md)。 / Filed [How the Claude Code team does code review](./sources/articles/how-the-claude-code-team-does-code-review.md).
+
+* **创建 / Creation**: 归档 [宝玉：Claude Code 团队如何用 AI 智能体做代码审查](./sources/articles/bao-yu-how-the-claude-code-team-uses-ai-agents-for-code-review.md)。 / Filed [Bao Yu: How the Claude Code Team Uses AI Agents for Code Review](./sources/articles/bao-yu-how-the-claude-code-team-uses-ai-agents-for-code-review.md).
+
+* **创建 / Creation**: 归档 [验收：发布 vibe 代码前，让独立测试 Agent 按 5 条规则验收](./sources/articles/acceptance-let-an-independent-test-agent-run-5-rules-before-ship.md)。 / Filed [Acceptance: Let an independent test agent run 5 rules before shipping vibe-coded code](./sources/articles/acceptance-let-an-independent-test-agent-run-5-rules-before-ship.md).
+
+* **创建 / Creation**: 归档 [Claude Code 配置：Opus 5.5 主会话与三子 Agent 分工](./sources/articles/claude-code-configuration-opus-5-5-main-session-with-three-subag.md)。 / Filed [Claude Code Configuration: Opus 5.5 Main Session with Three Subagent Split](./sources/articles/claude-code-configuration-opus-5-5-main-session-with-three-subag.md).
+
+* **创建 / Creation**: 归档 [Vox · Neon 并不只是便宜](./sources/articles/vox-neon-is-not-just-cheap.md)。 / Filed [Vox · Neon Is Not Just Cheap](./sources/articles/vox-neon-is-not-just-cheap.md).
+
+* **创建 / Creation**: 归档 [OpenAI 开发者：GPT-6.2 在 Responses API 中的推理项绑定对话历史](./sources/articles/openai-developers-gpt-6-2-responses-api-reasoning-items-tied-to.md)。 / Filed [OpenAI Developers: GPT-6.2 Responses API reasoning items tied to conversation history](./sources/articles/openai-developers-gpt-6-2-responses-api-reasoning-items-tied-to.md).
+
+* **创建 / Creation**: 归档 [Levie：智能体进入“给目标、自主设计并持续改进”的新阶段](./sources/articles/levie-ai-agents-enter-a-goal-driven-stage-of-self-design-deploym.md)。 / Filed [Levie: AI agents enter a goal-driven stage of self-design, deployment, and continuous improvement](./sources/articles/levie-ai-agents-enter-a-goal-driven-stage-of-self-design-deploym.md).
+
+* **创建 / Creation**: 归档 [OpenAI Devs 发布 Performance Factory，用智能体保持 ChatGPT 速度](./sources/articles/openai-devs-launches-performance-factory-to-keep-chatgpt-fast-wi.md)。 / Filed [OpenAI Devs Launches Performance Factory to Keep ChatGPT Fast with Agents](./sources/articles/openai-devs-launches-performance-factory-to-keep-chatgpt-fast-wi.md).
+
+* **创建 / Creation**: 归档 [Artificial Analysis · GPT-6.2 更短、更先给答案，也更少承认不确定](./sources/articles/artificial-analysis-gpt-6-2-shorter-answer-first-less-likely-to.md)。 / Filed [Artificial Analysis · GPT-6.2 Shorter, Answer-First, Less Likely to Admit Uncertainty](./sources/articles/artificial-analysis-gpt-6-2-shorter-answer-first-less-likely-to.md).
+
+* **创建 / Creation**: 归档 [Rauch · 会做事的工程师现在是 1000 倍，抠细节却看不见全局的是负 10 倍](./sources/articles/rauch-outcome-oriented-engineers-are-now-1000x-detail-obsessed-e.md)。 / Filed [Rauch · Outcome-oriented engineers are now 1000x, detail-obsessed engineers missing the big picture are -10x](./sources/articles/rauch-outcome-oriented-engineers-are-now-1000x-detail-obsessed-e.md).
+
+* **创建 / Creation**: 归档 [Mollick · 公司挡用户自己的 agent，吓不了太久](./sources/articles/mollick-companies-blocking-users-own-agents-won-t-scare-them-for.md)。 / Filed [Mollick · Companies blocking users' own agents won't scare them for long](./sources/articles/mollick-companies-blocking-users-own-agents-won-t-scare-them-for.md).
+
+* **创建 / Creation**: 归档 [让 Gemini 在 Mac 上处理重复性琐事](./sources/articles/let-gemini-tackle-repetitive-chores-on-your-mac.md)。 / Filed [Let Gemini tackle repetitive chores on your Mac](./sources/articles/let-gemini-tackle-repetitive-chores-on-your-mac.md).
+
+* **创建 / Creation**: 归档 [Gemini 为 Mac 推出电脑使用功能，可跨文件夹与 App 交办任务](./sources/articles/gemini-for-mac-launches-computer-use-to-hand-off-tasks-across-fo.md)。 / Filed [Gemini for Mac launches computer use to hand off tasks across folders, apps, and web](./sources/articles/gemini-for-mac-launches-computer-use-to-hand-off-tasks-across-fo.md).
+
+* **创建 / Creation**: 归档 [Genie 4 现已在 Gemini API 上提供](./sources/articles/genie-4-is-now-available-on-the-gemini-api.md)。 / Filed [Genie 4 is now available on the Gemini API](./sources/articles/genie-4-is-now-available-on-the-gemini-api.md).
+
+* **创建 / Creation**: 归档 [Logan Kilpatrick 宣布 Genie 4 世界模型登陆 Gemini API 与 Google AI Studio](./sources/articles/logan-kilpatrick-announces-genie-4-world-model-on-gemini-api-and.md)。 / Filed [Logan Kilpatrick Announces Genie 4 World Model on Gemini API and Google AI Studio](./sources/articles/logan-kilpatrick-announces-genie-4-world-model-on-gemini-api-and.md).
+
+* **创建 / Creation**: 归档 [Gemini API 推出工具检索功能](./sources/articles/introducing-tool-retrieval-in-the-gemini-api-2.md)。 / Filed [Introducing Tool Retrieval in the Gemini API](./sources/articles/introducing-tool-retrieval-in-the-gemini-api-2.md).
+
+* **创建 / Creation**: 归档 [Gemini API 推出 Tool Retrieval，按需加载工具参数 schema](./sources/articles/introducing-tool-retrieval-in-the-gemini-api.md)。 / Filed [Introducing Tool Retrieval in the Gemini API](./sources/articles/introducing-tool-retrieval-in-the-gemini-api.md).
+
+* **创建 / Creation**: 归档 [OpenAIDevs 宣布 GPT-Live-1.1 现已通过 API 提供](./sources/articles/openaidevs-announces-gpt-live-1-1-now-available-via-api.md)。 / Filed [OpenAIDevs Announces GPT-Live-1.1 Now Available via API](./sources/articles/openaidevs-announces-gpt-live-1-1-now-available-via-api.md).
+
+* **创建 / Creation**: 归档 [Anthropic 在纳斯达克敲钟上市](./sources/articles/anthropic-marks-its-ipo-at-nasdaq.md)。 / Filed [Anthropic Marks its IPO at Nasdaq](./sources/articles/anthropic-marks-its-ipo-at-nasdaq.md).
+
+* **创建 / Creation**: 归档 [Anthropic IPO：ANT 首日上市市值约 1.8 万亿美元](./sources/articles/anthropic-ipo-takeaways-ant-debuts-with-1-8-trillion-market-cap.md)。 / Filed [Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI](./sources/articles/anthropic-ipo-takeaways-ant-debuts-with-1-8-trillion-market-cap.md).
+
+* **创建 / Creation**: 归档 [Anthropic 股票首日收涨 17%](./sources/articles/anthropic-shares-close-17-higher-in-trading-debut.md)。 / Filed [Anthropic Shares Close 17% Higher in Trading Debut](./sources/articles/anthropic-shares-close-17-higher-in-trading-debut.md).
+
+* **创建 / Creation**: 归档 [开盘致辞](./sources/articles/ipo-opening-remarks.md)。 / Filed [IPO Opening Remarks](./sources/articles/ipo-opening-remarks.md).
+
 ## 2026-11-19
 
 * **创建 / Creation**: 归档 [Amazon Kindle《Agent 技能图解指南》](./sources/articles/amazon-com-an-illustrated-guide-to-agent-skills-turn-everyday-re.md)。 / Filed [Amazon.com: An Illustrated Guide to Agent Skills: Turn everyday repeatable tasks into reusable agentic workflows (Kindle eBook by Jim Liu)](./sources/articles/amazon-com-an-illustrated-guide-to-agent-skills-turn-everyday-re.md).

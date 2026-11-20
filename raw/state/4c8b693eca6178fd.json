@@ -1,0 +1,23 @@
+{
+  "slug": "4c8b693eca6178fd",
+  "url": "https://x.com/GoogleAIStudio/status/2123489911684866251",
+  "title": "Tool Retrieval",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "4c8b693eca6178fd25dd9a4ff7e8782b50f8dd3fabf6600db6a42bdabfb6f553",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:54.984Z",
+  "content_hash": "725f46e7371a0b936b3e196f8f51b74a6b98a36823c29491e593cff110e8746b",
+  "article_path": "articles/4c8b693eca6178fd.md",
+  "fetched_url": "https://x.com/GoogleAIStudio/status/2123489911684866251",
+  "source_path": "sources/articles/introducing-tool-retrieval-in-the-gemini-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:16:02.450Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

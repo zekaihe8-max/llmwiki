@@ -1,0 +1,23 @@
+{
+  "slug": "c2008f653f42cfb2",
+  "url": "https://x.com/OpenAIDevs/status/2123566018866151579",
+  "title": "OpenAIDevs",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "c2008f653f42cfb25475518b1ae5d68a77122d095cf55b7275fcce11d36bd7fa",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:58.849Z",
+  "content_hash": "69c475edf5835d7efd4c4c781ab29d499fc29ace8b8d36020a2f37e4ca06e262",
+  "article_path": "articles/c2008f653f42cfb2.md",
+  "fetched_url": "https://x.com/OpenAIDevs/status/2123566018866151579",
+  "source_path": "sources/articles/openai-developers-gpt-6-2-responses-api-reasoning-items-tied-to.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:22:26.417Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

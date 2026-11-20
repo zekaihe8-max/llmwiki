@@ -1,0 +1,23 @@
+{
+  "slug": "987345e2f30bf5e7",
+  "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+  "title": "CNBC",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "987345e2f30bf5e712778b9e43c6f7640990637fc47064326badbd95c5e410ad",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:53.519Z",
+  "content_hash": "57faaa6e1e2941f16497e10cc2e118acfaaa0469db83c863ba4013eb22996b6a",
+  "article_path": "articles/987345e2f30bf5e7.md",
+  "fetched_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+  "source_path": "sources/articles/anthropic-ipo-takeaways-ant-debuts-with-1-8-trillion-market-cap.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:14:37.564Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

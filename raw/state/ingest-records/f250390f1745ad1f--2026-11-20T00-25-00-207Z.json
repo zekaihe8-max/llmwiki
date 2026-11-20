@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:25:00.207Z",
+  "url": "https://x.com/dotey/status/2123555597387813050",
+  "slug": "f250390f1745ad1f",
+  "content_hash": "87a0ee2775da18ad6464c43a0f80d6f9539931b9817d1f51e6555336ace3317a",
+  "source": {
+    "path": "sources/articles/bao-yu-how-the-claude-code-team-uses-ai-agents-for-code-review.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Anthropic 用 AI 智能体规模化代码审查与工程流程，直接对应智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中出现 REVIEW.md 与 CLAUDE.md 给智能体和人定规则，涉及项目指令与 Token 效率。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "内容围绕 Claude Code 团队及其审查产品，与 Claude Code 作者与社区话筒主题相关。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "文中提到 PR 自动合入、风险分级审批与确定性收敛，与约束重构 PR 的确定性自动合入相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是 Anthropic 用 AI 智能体规模化代码审查与工程流程，直接对应智能体规模化工程主题。",
+    "topics/claude-code-authorship-and-voice.md": "内容围绕 Claude Code 团队及其审查产品，与 Claude Code 作者与社区话筒主题相关。",
+    "topics/deterministic-refactor-automerge.md": "文中提到 PR 自动合入、风险分级审批与确定性收敛，与约束重构 PR 的确定性自动合入相近。",
+    "topics/agents-md-token-efficiency.md": "文中出现 REVIEW.md 与 CLAUDE.md 给智能体和人定规则，涉及项目指令与 Token 效率。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bao-yu-how-the-claude-code-team-uses-ai-agents-for-code-review.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心是 Anthropic 用 AI 智能体规模化代码审查与工程流程，直接对应智能体规模化工程主题。",
+      "topics/claude-code-authorship-and-voice.md": "内容围绕 Claude Code 团队及其审查产品，与 Claude Code 作者与社区话筒主题相关。",
+      "topics/deterministic-refactor-automerge.md": "文中提到 PR 自动合入、风险分级审批与确定性收敛，与约束重构 PR 的确定性自动合入相近。",
+      "topics/agents-md-token-efficiency.md": "文中出现 REVIEW.md 与 CLAUDE.md 给智能体和人定规则，涉及项目指令与 Token 效率。"
+    },
+    "notes": "来源为宝玉在 X 上的帖文，未独立核实 Anthropic 内部数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bao-yu-how-the-claude-code-team-uses-ai-agents-for-code-review.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

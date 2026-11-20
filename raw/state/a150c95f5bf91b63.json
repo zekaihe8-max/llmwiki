@@ -1,0 +1,23 @@
+{
+  "slug": "a150c95f5bf91b63",
+  "url": "https://x.com/Voxyz_ai/status/2123534531366154356",
+  "title": "配置",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "a150c95f5bf91b635d9d9906ce3fb11e82e81f553647f2d8b5aae4ee4ad3f2fa",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:59.382Z",
+  "content_hash": "c53332579d01979242fc7461d59253098311eda6be3881bcd2193af51ca7e098",
+  "article_path": "articles/a150c95f5bf91b63.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2123534531366154356",
+  "source_path": "sources/articles/claude-code-configuration-opus-5-5-main-session-with-three-subag.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:23:50.087Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

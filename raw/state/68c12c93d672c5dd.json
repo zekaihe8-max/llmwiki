@@ -1,0 +1,23 @@
+{
+  "slug": "68c12c93d672c5dd",
+  "url": "https://x.com/Voxyz_ai/status/2123504574476468492",
+  "title": "验收",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "68c12c93d672c5dd240c8833a346684fd1df6ffb9a743d27f32e379b03de5b2e",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:13:00.182Z",
+  "content_hash": "e2d27d815241921ebe882ecedbec8d7de0e4af4a2a8d6498ff02435a85c8a34e",
+  "article_path": "articles/68c12c93d672c5dd.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2123504574476468492",
+  "source_path": "sources/articles/acceptance-let-an-independent-test-agent-run-5-rules-before-ship.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:24:29.179Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

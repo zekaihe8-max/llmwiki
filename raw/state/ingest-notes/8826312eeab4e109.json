@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agent-worktree-cleanup.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 工具本身，与帖文主题最相关",
+    "topics/agent-worktree-cleanup.md": "涉及自动清理与删除机制，与会话过期清理主题相近",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 的使用体验，会话保留属于 UX 范畴",
+    "topics/personal-agent-cloud-env-pitfalls.md": "涉及个人 Agent 环境的备份与定时检查，与防止会话丢失相关"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 工具本身，与帖文主题最相关"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "涉及自动清理与删除机制，与会话过期清理主题相近"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 的使用体验，会话保留属于 UX 范畴"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "涉及个人 Agent 环境的备份与定时检查，与防止会话丢失相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未独立核实 Claude Code 默认行为"
+}

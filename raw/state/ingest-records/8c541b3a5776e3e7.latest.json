@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:21:19.692Z",
+  "url": "https://x.com/OpenAIDevs/status/2123471880292299171",
+  "slug": "8c541b3a5776e3e7",
+  "content_hash": "93613db453b957be6fceb941992ecb990cbe5d7dd9ce973cb9f930f4f448f427",
+  "source": {
+    "path": "sources/articles/openai-devs-launches-performance-factory-to-keep-chatgpt-fast-wi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/deterministic-refactor-automerge.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中涉及大规模协调智能体进行工程回归与修复，与智能体规模化工程主题相关。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "提出修复并供工程师审查、检查是否生效，与确定性重构自动合入相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多智能体协调基建与 Performance Factory 的设计意图相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Performance Factory 与软件工厂概念直接对应，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "Performance Factory 与软件工厂概念直接对应，无需新建。",
+    "topics/agent-scaled-engineering.md": "文中涉及大规模协调智能体进行工程回归与修复，与智能体规模化工程主题相关。",
+    "topics/multiagent-infra-four-problems.md": "多智能体协调基建与 Performance Factory 的设计意图相近。",
+    "topics/deterministic-refactor-automerge.md": "提出修复并供工程师审查、检查是否生效，与确定性重构自动合入相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-devs-launches-performance-factory-to-keep-chatgpt-fast-wi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/deterministic-refactor-automerge.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "Performance Factory 与软件工厂概念直接对应，无需新建。",
+      "topics/agent-scaled-engineering.md": "文中涉及大规模协调智能体进行工程回归与修复，与智能体规模化工程主题相关。",
+      "topics/multiagent-infra-four-problems.md": "多智能体协调基建与 Performance Factory 的设计意图相近。",
+      "topics/deterministic-refactor-automerge.md": "提出修复并供工程师审查、检查是否生效，与确定性重构自动合入相关。"
+    },
+    "notes": "全部主题均复用现有条目，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-devs-launches-performance-factory-to-keep-chatgpt-fast-wi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

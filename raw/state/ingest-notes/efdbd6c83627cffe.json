@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "文章核心正是 Gemini Mac 版推出的“电脑使用”功能，与该主题直接对应。",
+    "topics/agent-auto-mode.md": "文章描述 Agent 按用户描述自动执行菜单导航、输入和点击，属于智能体自动模式场景。",
+    "topics/workflows-before-agents.md": "文章强调用户先描述工作流，再由 Agent 完成多步任务，体现工作流优先于智能体的思路。",
+    "topics/tasks-confidently-handed-to-ai.md": "文章列举多项可交给 AI 处理的重复性电脑任务，如表单填写与素材整理。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文章核心正是 Gemini Mac 版推出的“电脑使用”功能，与该主题直接对应。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章描述 Agent 按用户描述自动执行菜单导航、输入和点击，属于智能体自动模式场景。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调用户先描述工作流，再由 Agent 完成多步任务，体现工作流优先于智能体的思路。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章列举多项可交给 AI 处理的重复性电脑任务，如表单填写与素材整理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章显示日期为 Nov 19, 2026；未编造超出文章的 URL 或事实。"
+}

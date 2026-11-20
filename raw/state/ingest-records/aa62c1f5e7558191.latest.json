@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:23:12.415Z",
+  "url": "https://x.com/Voxyz_ai/status/2123461311833022837",
+  "slug": "aa62c1f5e7558191",
+  "content_hash": "15dea95d0a9d5d7197a50e940a9c777e28440bfdfc6c4bb2248a35087479d754",
+  "source": {
+    "path": "sources/articles/vox-neon-is-not-just-cheap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Neon 与 Hydrogen 的任务路由与编排，属于云平台跨模型调度范畴。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中对比不同模型在多个任务上的表现，并提及不同 harness 下的 SWE-sweep 分数。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文质疑“便宜模型”定位，讨论 Neon 的能力与成本取舍，符合 Pro 与 Flash 模型策略议题。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用的百分比成绩来自 Google 发布的 Antigravity 评测，需审视公开榜单与 harness 质量。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "帖文涉及 Neon 与 Hydrogen 的任务路由与编排，属于云平台跨模型调度范畴。",
+    "topics/harness-comparison-beyond-tokens.md": "文中对比不同模型在多个任务上的表现，并提及不同 harness 下的 SWE-sweep 分数。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文质疑“便宜模型”定位，讨论 Neon 的能力与成本取舍，符合 Pro 与 Flash 模型策略议题。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用的百分比成绩来自 Google 发布的 Antigravity 评测，需审视公开榜单与 harness 质量。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/vox-neon-is-not-just-cheap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cloud-auto-model-routing.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/cloud-auto-model-routing.md": "帖文涉及 Neon 与 Hydrogen 的任务路由与编排，属于云平台跨模型调度范畴。",
+      "topics/harness-comparison-beyond-tokens.md": "文中对比不同模型在多个任务上的表现，并提及不同 harness 下的 SWE-sweep 分数。",
+      "topics/pro-vs-flash-model-strategy.md": "帖文质疑“便宜模型”定位，讨论 Neon 的能力与成本取舍，符合 Pro 与 Flash 模型策略议题。",
+      "topics/public-benchmark-quality-scrutiny.md": "文中引用的百分比成绩来自 Google 发布的 Antigravity 评测，需审视公开榜单与 harness 质量。"
+    },
+    "notes": "所有主张均源自单一 X 帖文，未经独立核实；未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/vox-neon-is-not-just-cheap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

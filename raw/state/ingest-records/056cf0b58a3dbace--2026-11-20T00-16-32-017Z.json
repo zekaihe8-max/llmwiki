@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:16:32.017Z",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+  "slug": "056cf0b58a3dbace",
+  "content_hash": "edbf8584178b71cca11153033a0d5279f4ba30dfc3053734f8449ae8cc2de1c5",
+  "source": {
+    "path": "sources/articles/introducing-tool-retrieval-in-the-gemini-api-2.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "工具检索旨在解决代理连接数十甚至数百个工具时的规模化问题。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "降低 Token 开销并保持工具选择准确性，属于 Token 效率优化范畴。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "功能通过减少输入 Token 来降低成本，与编程 Agent 省 Token 工具主题相近。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是按需加载工具架构以减少提示词上下文，与 Agent 上下文工程直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心是按需加载工具架构以减少提示词上下文，与 Agent 上下文工程直接相关。",
+    "topics/agent-scaled-engineering.md": "工具检索旨在解决代理连接数十甚至数百个工具时的规模化问题。",
+    "topics/coding-agent-token-saving-tooling.md": "功能通过减少输入 Token 来降低成本，与编程 Agent 省 Token 工具主题相近。",
+    "topics/agents-md-token-efficiency.md": "降低 Token 开销并保持工具选择准确性，属于 Token 效率优化范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-tool-retrieval-in-the-gemini-api-2.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心是按需加载工具架构以减少提示词上下文，与 Agent 上下文工程直接相关。",
+      "topics/agent-scaled-engineering.md": "工具检索旨在解决代理连接数十甚至数百个工具时的规模化问题。",
+      "topics/coding-agent-token-saving-tooling.md": "功能通过减少输入 Token 来降低成本，与编程 Agent 省 Token 工具主题相近。",
+      "topics/agents-md-token-efficiency.md": "降低 Token 开销并保持工具选择准确性，属于 Token 效率优化范畴。"
+    },
+    "notes": "日期显示为 Nov 19, 2026，均按原文保留；AI 生成摘要已标注实验性，未额外断言。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-tool-retrieval-in-the-gemini-api-2.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

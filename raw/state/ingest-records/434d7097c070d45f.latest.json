@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:14:05.675Z",
+  "url": "https://x.com/business/status/2123524934018154763",
+  "slug": "434d7097c070d45f",
+  "content_hash": "62bfa0bbb631960cab36b3ecadccdd89476b459b158e318fecf6f09d081c3e50",
+  "source": {
+    "path": "sources/articles/anthropic-shares-close-17-higher-in-trading-debut.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pre-ipo-talent-departure-motives.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 是典型的 AI 原生公司，其上市交易直接关联该话题。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章涉及 IPO 上市交易，与上市前夕相关话题最为接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 是典型的 AI 原生公司，其上市交易直接关联该话题。",
+    "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 上市交易，与上市前夕相关话题最为接近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-shares-close-17-higher-in-trading-debut.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/pre-ipo-talent-departure-motives.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Anthropic 是典型的 AI 原生公司，其上市交易直接关联该话题。",
+      "topics/pre-ipo-talent-departure-motives.md": "文章涉及 IPO 上市交易，与上市前夕相关话题最为接近。"
+    },
+    "notes": "所有事实仅来源于提供的 X 帖文摘录，未引用外部链接内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-shares-close-17-higher-in-trading-debut.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

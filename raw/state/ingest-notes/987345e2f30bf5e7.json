@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/frontier-training-containment.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 作为 AI 原生公司完成创纪录 IPO，直接对应该主题，无需变更。",
+    "topics/frontier-training-containment.md": "文中提到递归自我改进（RSI）及 AI 安全争议，与前沿训练隔离主题相关，可复用。",
+    "topics/tech-misuse-concern-continuity.md": "文中记录抗议者对 AI 滥用与失控的关切，属于技术滥用关切的连续性，主题可复用。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 作为 AI 原生公司完成创纪录 IPO，直接对应该主题，无需变更。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中提到递归自我改进（RSI）及 AI 安全争议，与前沿训练隔离主题相关，可复用。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "文中记录抗议者对 AI 滥用与失控的关切，属于技术滥用关切的连续性，主题可复用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

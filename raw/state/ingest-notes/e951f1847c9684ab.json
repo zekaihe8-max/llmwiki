@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文直接提及“软件工厂”（software factories）及其 Token 消费将呈指数级增长，与该主题直接相关。",
+    "topics/agents-md-token-efficiency.md": "帖文依据初创企业与企业客户的 Token 消费分布论证工程师与软件工厂用量，与 Token 效率主题相关。",
+    "topics/ux-dx-and-ax.md": "帖文围绕工程师产出与开发者体验（DX）展开“1000x/负 10x”价值分级，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及“软件工厂”（software factories）及其 Token 消费将呈指数级增长，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文依据初创企业与企业客户的 Token 消费分布论证工程师与软件工厂用量，与 Token 效率主题相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文围绕工程师产出与开发者体验（DX）展开“1000x/负 10x”价值分级，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容来源为 X 帖文，未核实主张已在摘要中使用「帖文称」标注。"
+}

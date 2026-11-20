@@ -1,0 +1,23 @@
+{
+  "slug": "434d7097c070d45f",
+  "url": "https://x.com/business/status/2123524934018154763",
+  "title": "Bloomberg",
+  "digest": "2026-11-20-frontier-ai.md",
+  "status": "filed",
+  "hash": "434d7097c070d45f59f89170753d642590ba005bd66684480ba201bc412fec7b",
+  "first_seen": "2026-11-20T00:12:52.065Z",
+  "last_seen": "2026-11-20T00:12:52.065Z",
+  "fetched_at": "2026-11-20T00:12:53.334Z",
+  "content_hash": "62bfa0bbb631960cab36b3ecadccdd89476b459b158e318fecf6f09d081c3e50",
+  "article_path": "articles/434d7097c070d45f.md",
+  "fetched_url": "https://x.com/business/status/2123524934018154763",
+  "source_path": "sources/articles/anthropic-shares-close-17-higher-in-trading-debut.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-20T00:14:05.675Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

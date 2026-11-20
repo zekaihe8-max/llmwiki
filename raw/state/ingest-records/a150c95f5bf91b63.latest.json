@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-20T00:23:50.087Z",
+  "url": "https://x.com/Voxyz_ai/status/2123534531366154356",
+  "slug": "a150c95f5bf91b63",
+  "content_hash": "c53332579d01979242fc7461d59253098311eda6be3881bcd2193af51ca7e098",
+  "source": {
+    "path": "sources/articles/claude-code-configuration-opus-5-5-main-session-with-three-subag.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "帖文中一个子 Agent 负责查文档，与面向 Agent 的联网搜索主题相关"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Claude Code 的使用与社区表达，与帖文配置主题最贴近"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "涉及将子 Agent 纳入主循环，对应帖文中三子 Agent 与主会话的分工结构"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "讲个人 Agent 调度编程 Agent，与帖文中主会话统筹三子 Agent 的做法相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接讨论 Claude Code 的使用与社区表达，与帖文配置主题最贴近",
+    "topics/fold-subagents-into-main-loop.md": "涉及将子 Agent 纳入主循环，对应帖文中三子 Agent 与主会话的分工结构",
+    "topics/personal-agent-foreman-over-coding-agents.md": "讲个人 Agent 调度编程 Agent，与帖文中主会话统筹三子 Agent 的做法相近",
+    "topics/agent-native-web-search.md": "帖文中一个子 Agent 负责查文档，与面向 Agent 的联网搜索主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-configuration-opus-5-5-main-session-with-three-subag.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-native-web-search.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接讨论 Claude Code 的使用与社区表达，与帖文配置主题最贴近",
+      "topics/fold-subagents-into-main-loop.md": "涉及将子 Agent 纳入主循环，对应帖文中三子 Agent 与主会话的分工结构",
+      "topics/personal-agent-foreman-over-coding-agents.md": "讲个人 Agent 调度编程 Agent，与帖文中主会话统筹三子 Agent 的做法相近",
+      "topics/agent-native-web-search.md": "帖文中一个子 Agent 负责查文档，与面向 Agent 的联网搜索主题相关"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-configuration-opus-5-5-main-session-with-three-subag.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
