@@ -1,0 +1,56 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:28:49.039Z",
+  "url": "https://x.com/shao__meng/status/2123948393009422679",
+  "slug": "581ecdc83021d885",
+  "content_hash": "dec34e7c976d68694b64e6eaba4f97084453c4167d74b49e53c656ed2534927e",
+  "source": {
+    "path": "sources/articles/matt-pocock-launches-first-agent-skill-vector-for-non-developers.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/workflows-before-agents.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文介绍面向非开发者的首个 Agent Skill /vector 及其用法，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "内容讨论 Skill 形态与可复用委托流程，与 Agent Skills 开放标准主题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "VECTOR 六问强调先映射已有工作流再委托给 Agent，与工作流优先于智能体主题相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文讨论如何把现有耗时流程交给 AI 并明确允许范围，与哪些活已放心交给 AI 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文介绍面向非开发者的首个 Agent Skill /vector 及其用法，与 Agent Skill 编写主题相关。",
+    "topics/agent-skills-open-standard.md": "内容讨论 Skill 形态与可复用委托流程，与 Agent Skills 开放标准主题相关。",
+    "topics/workflows-before-agents.md": "VECTOR 六问强调先映射已有工作流再委托给 Agent，与工作流优先于智能体主题相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "帖文讨论如何把现有耗时流程交给 AI 并明确允许范围，与哪些活已放心交给 AI 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/matt-pocock-launches-first-agent-skill-vector-for-non-developers.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

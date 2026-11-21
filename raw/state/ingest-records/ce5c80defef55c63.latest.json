@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:59:52.629Z",
+  "url": "https://x.com/xiaomovps/status/2124078121792217276",
+  "slug": "ce5c80defef55c63",
+  "content_hash": "29601bf818a75e67554209ef29388a5da0631f7e24f000fe85b85c388340cebb",
+  "source": {
+    "path": "sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文反复强调证明主张需数学界审查，涉及 AI 介入科研后的同行评议与实践适配。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文对比 AI 与人类证明速度，触及智能是否应以人类为中心的基准讨论。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文提到 1700 多万行用于验证证明的代码，与 LLM 形式化验证主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文提到 1700 多万行用于验证证明的代码，与 LLM 形式化验证主题高度相关。",
+    "topics/ai-peer-review-science-adaptation.md": "帖文反复强调证明主张需数学界审查，涉及 AI 介入科研后的同行评议与实践适配。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文对比 AI 与人类证明速度，触及智能是否应以人类为中心的基准讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "帖文提到 1700 多万行用于验证证明的代码，与 LLM 形式化验证主题高度相关。",
+      "topics/ai-peer-review-science-adaptation.md": "帖文反复强调证明主张需数学界审查，涉及 AI 介入科研后的同行评议与实践适配。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "帖文对比 AI 与人类证明速度，触及智能是否应以人类为中心的基准讨论。"
+    },
+    "notes": "来源为 X 平台帖文，其中关于黎曼猜想证明的主张均未经数学界独立验证，文中已使用「帖文称」标注未核实内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

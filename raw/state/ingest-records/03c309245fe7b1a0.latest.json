@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:28:49.108Z",
+  "url": "https://x.com/heydengai/status/2124058483649847421",
+  "slug": "03c309245fe7b1a0",
+  "content_hash": "96c1cea381351c97b2faf640d269cfe05110416d5687a4ecf2b717b148ef1465",
+  "source": {
+    "path": "sources/articles/user-tests-how-much-cheaper-ai-subscription-plans-are-than-direc.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文比较多家高端订阅相对直调 API 的性价比，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "内容讨论订阅渠道与 API 渠道的成本取舍，与面向 Agent 的模型渠道取舍主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "测算涉及 Claude Max、Google AI Ultra 等编程向套餐额度与价值，与编程 Agent 体验与额度主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文比较多家高端订阅相对直调 API 的性价比，与高端 AI 订阅价值主题相关。",
+    "topics/agent-model-channel-tradeoffs.md": "内容讨论订阅渠道与 API 渠道的成本取舍，与面向 Agent 的模型渠道取舍主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "测算涉及 Claude Max、Google AI Ultra 等编程向套餐额度与价值，与编程 Agent 体验与额度主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/user-tests-how-much-cheaper-ai-subscription-plans-are-than-direc.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

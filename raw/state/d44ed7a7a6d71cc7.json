@@ -1,0 +1,23 @@
+{
+  "slug": "d44ed7a7a6d71cc7",
+  "url": "https://x.com/Gorden_Sun/status/2124030999663108180",
+  "title": "OpenAI 公布了 GPT-6.2 的反蒸馏进展",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "d44ed7a7a6d71cc759a44259552ce5b8b09047abcac9ed14e83fd7c6771b7de9",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:14.910Z",
+  "content_hash": "f798f5bcd00a91266efc3e5fc2014695c70f68351c649595f728c9e0a0cc25a6",
+  "article_path": "articles/d44ed7a7a6d71cc7.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2124030999663108180",
+  "source_path": "sources/articles/openai-reports-anti-distillation-progress-for-gpt-6-2-reasoning.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T12:18:58.571Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

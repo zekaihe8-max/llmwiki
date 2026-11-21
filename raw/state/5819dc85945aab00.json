@@ -1,0 +1,23 @@
+{
+  "slug": "5819dc85945aab00",
+  "url": "https://antigravity.google.com/",
+  "title": "antigravity.google.com",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "5819dc85945aab000829acf9800cd69e711c81d67e88b714a8ede8eb3114cdb6",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:17.512Z",
+  "content_hash": "f62576db203ef5836f32644cab4c02585216401984e35236581fe76690fabe4e",
+  "article_path": "articles/5819dc85945aab00.md",
+  "fetched_url": "https://antigravity.google.com/",
+  "source_path": "sources/articles/google-antigravity-sign-in-page.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T12:25:21.796Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文讨论 AI 订阅黑五折扣与订阅价值，与高端 AI 订阅价值主题直接相关",
+    "topics/coding-agent-ux-vs-quota.md": "帖文涉及额度重置对使用体验与可完成工作量的影响",
+    "topics/usage-limit-ab-tests.md": "帖文提及额度重置与缓存命中率提升，属于用量上限与供给侧变化"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI 订阅黑五折扣与订阅价值，与高端 AI 订阅价值主题直接相关"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文涉及额度重置对使用体验与可完成工作量的影响"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "帖文提及额度重置与缓存命中率提升，属于用量上限与供给侧变化"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自该 X 帖文，未独立核实；文中将谷歌与 Neon、Antigravity、Codex 等关联，按原文「帖文称」处理。"
+}

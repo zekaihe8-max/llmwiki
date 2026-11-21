@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是浏览器自动化，属 Computer Use 范式下的工具重构案例。",
+    "topics/agent-scaled-engineering.md": "文中提到删除近 13.7 万行代码、砍掉 24 个动作，属智能体规模化工程与精简核心实践。",
+    "topics/context-engineering-for-agents.md": "减少每次对话携带的工具说明，直接对应上下文工程与 token 成本控制。",
+    "topics/coding-agent-token-saving-tooling.md": "官方测试显示单任务成本降低 2.7–5.2 倍，与编程 Agent 省 Token 工具相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是浏览器自动化，属 Computer Use 范式下的工具重构案例。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到删除近 13.7 万行代码、砍掉 24 个动作，属智能体规模化工程与精简核心实践。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "减少每次对话携带的工具说明，直接对应上下文工程与 token 成本控制。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "官方测试显示单任务成本降低 2.7–5.2 倍，与编程 Agent 省 Token 工具相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文内容，未独立核实官方数据。"
+}

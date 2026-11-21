@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:58:38.154Z",
+  "url": "https://x.com/xiaomovps/status/2124062894942044369",
+  "slug": "3fdb63b9db38b14b",
+  "content_hash": "4eae550d55925ede8e35b50f503b4a1a8445b7b67e83d64c254a2f63e490fc08",
+  "source": {
+    "path": "sources/articles/when-first-using-harness-do-these-3-things-first-more-useful-tha.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-skill-authoring.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章建议按需配置常用 Skills 而非一次性安装大量插件，与 Agent Skill 编写和使用相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章核心建议之一是配置 AGENTS.md/CLAUDE.md 项目规则，与该话题的项目指令与 Token 效率直接相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI Harness 的使用方法和对比，与 Harness 对比话题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先规划再执行最后验证的工作流习惯，与工作流优先于智能体相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "文章核心建议之一是配置 AGENTS.md/CLAUDE.md 项目规则，与该话题的项目指令与 Token 效率直接相关。",
+    "topics/agent-skill-authoring.md": "文章建议按需配置常用 Skills 而非一次性安装大量插件，与 Agent Skill 编写和使用相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文章讨论 AI Harness 的使用方法和对比，与 Harness 对比话题相关。",
+    "topics/workflows-before-agents.md": "文章强调先规划再执行最后验证的工作流习惯，与工作流优先于智能体相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/when-first-using-harness-do-these-3-things-first-more-useful-tha.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agents-md-token-efficiency.md",
+      "topics/agent-skill-authoring.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agents-md-token-efficiency.md": "文章核心建议之一是配置 AGENTS.md/CLAUDE.md 项目规则，与该话题的项目指令与 Token 效率直接相关。",
+      "topics/agent-skill-authoring.md": "文章建议按需配置常用 Skills 而非一次性安装大量插件，与 Agent Skill 编写和使用相关。",
+      "topics/harness-comparison-beyond-tokens.md": "文章讨论 AI Harness 的使用方法和对比，与 Harness 对比话题相关。",
+      "topics/workflows-before-agents.md": "文章强调先规划再执行最后验证的工作流习惯，与工作流优先于智能体相关。"
+    },
+    "notes": "Source is a single X post by @xiaomovps; all claims are attributed to the post and no external URLs beyond those in the article are invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/when-first-using-harness-do-these-3-things-first-more-useful-tha.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

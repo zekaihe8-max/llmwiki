@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文涉及非正式模型评分与社区实测，属于评分与实测对比范畴",
+    "topics/tasks-confidently-handed-to-ai.md": "发文者认为 Gemini 4 Neon 可平替 Opus 5.5 处理复杂任务，涉及哪些工作可交给 AI",
+    "topics/ai-eval-work-record-gateway.md": "文中提到 Fable 5.2 打分与修复记录，属于 AI 评测入口与干活记录"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及非正式模型评分与社区实测，属于评分与实测对比范畴"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "发文者认为 Gemini 4 Neon 可平替 Opus 5.5 处理复杂任务，涉及哪些工作可交给 AI"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文中提到 Fable 5.2 打分与修复记录，属于 AI 评测入口与干活记录"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源自单条 X 帖文，未独立核实。"
+}

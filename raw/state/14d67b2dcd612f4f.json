@@ -1,0 +1,23 @@
+{
+  "slug": "14d67b2dcd612f4f",
+  "url": "https://x.com/heydengai/status/2123945084177752195",
+  "title": "GPT-6.2 改了 Responses API 的缓存规则",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "14d67b2dcd612f4f48ab3bb983f034bfe8f97286cb002823a33e510fed202a50",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:13.000Z",
+  "content_hash": "bab3d2a0b544926bc40b87b21763eb4451bda28aa72af99a4b778af7ed5010fe",
+  "article_path": "articles/14d67b2dcd612f4f.md",
+  "fetched_url": "https://x.com/heydengai/status/2123945084177752195",
+  "source_path": "sources/articles/gpt-6-2-changes-responses-api-caching-rules.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T12:10:15.174Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

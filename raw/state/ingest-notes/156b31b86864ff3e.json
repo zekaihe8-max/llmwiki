@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "目录中唯一明确涉及 DSH 的条目，与 dsh-market 所属产品线相关，可复用。",
+    "topics/ai-product-self-rec-amplify.md": "条目讨论产品自荐与主持人加热，与帖文中产品获 UP 主推荐的传播情节相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "目录中唯一明确涉及 DSH 的条目，与 dsh-market 所属产品线相关，可复用。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "条目讨论产品自荐与主持人加热，与帖文中产品获 UP 主推荐的传播情节相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未引用外部链接或未在文中出现的事实。"
+}

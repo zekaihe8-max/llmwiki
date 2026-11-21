@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章讨论 Antigravity 配额变更与重置，直接对应编程 Agent 体验与额度主题。",
+    "topics/usage-limit-ab-tests.md": "配额重置与用量调整属于用量上限测试范畴，现有主题已覆盖。",
+    "topics/coding-agent-token-saving-tooling.md": "缓存池扩容提升命中率属于编程 Agent 资源与 Token 开销优化，现有主题已覆盖。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Antigravity 配额变更与重置，直接对应编程 Agent 体验与额度主题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "配额重置与用量调整属于用量上限测试范畴，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "缓存池扩容提升命中率属于编程 Agent 资源与 Token 开销优化，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于单条 X 帖文及其引用内容，未独立核实。"
+}

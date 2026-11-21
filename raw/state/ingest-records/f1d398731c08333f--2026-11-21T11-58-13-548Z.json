@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:58:13.548Z",
+  "url": "https://x.com/xiaomovps/status/2123807628161916952",
+  "slug": "f1d398731c08333f",
+  "content_hash": "a852bbafd15e5bcf0c0376a5f3ed1c2dd554fdb93e8ed745f9d766c6b4a512a2",
+  "source": {
+    "path": "sources/articles/after-researching-many-ai-agents-he-finds-harness-most-worth-dee.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文提到长任务执行与中断恢复，与任务时界相关，现有主题已覆盖，保持不变。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Agent Harness，与帖文核心主题最相关，现有内容已足够覆盖，无需新建。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文将上下文管理列为首要考量，该主题已有对应条目，无需新增。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 对比维度，与作者对比多个 Agent Harness 的经验相近，保持不变即可。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "直接讨论 Agent Harness，与帖文核心主题最相关，现有内容已足够覆盖，无需新建。",
+    "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比维度，与作者对比多个 Agent Harness 的经验相近，保持不变即可。",
+    "topics/context-engineering-for-agents.md": "帖文将上下文管理列为首要考量，该主题已有对应条目，无需新增。",
+    "topics/ai-task-horizon-growth.md": "帖文提到长任务执行与中断恢复，与任务时界相关，现有主题已覆盖，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/after-researching-many-ai-agents-he-finds-harness-most-worth-dee.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/ai-task-horizon-growth.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "直接讨论 Agent Harness，与帖文核心主题最相关，现有内容已足够覆盖，无需新建。",
+      "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比维度，与作者对比多个 Agent Harness 的经验相近，保持不变即可。",
+      "topics/context-engineering-for-agents.md": "帖文将上下文管理列为首要考量，该主题已有对应条目，无需新增。",
+      "topics/ai-task-horizon-growth.md": "帖文提到长任务执行与中断恢复，与任务时界相关，现有主题已覆盖，保持不变。"
+    },
+    "notes": "来源为 X 帖文 https://x.com/xiaomovps/status/2123807628161916952，未引用文中未展开的外部链接内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/after-researching-many-ai-agents-he-finds-harness-most-worth-dee.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

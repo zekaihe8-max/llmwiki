@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:28:48.964Z",
+  "url": "https://x.com/xiaomovps/status/2124093967654679005",
+  "slug": "7a6acae42f54139a",
+  "content_hash": "ecf2706867222582b1a34de1bba6e07f7177a121d4b19ed250f9343813f2bbbc",
+  "source": {
+    "path": "sources/articles/despite-disliking-anthropic-he-compiled-8-ai-learning-sites-wort.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/unified-agent-resource-library.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文整理跨课程、文档与开源案例的学习资源清单，与跨 Agent 统一资源库主题相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "清单包含 Claude Code 文档与相关学习路径，与 Claude Code 作者与社区话筒主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Anthropic Engineering 分享 Agent 架构与上下文工程实践，与 Agent 上下文工程主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/unified-agent-resource-library.md": "帖文整理跨课程、文档与开源案例的学习资源清单，与跨 Agent 统一资源库主题相关。",
+    "topics/claude-code-authorship-and-voice.md": "清单包含 Claude Code 文档与相关学习路径，与 Claude Code 作者与社区话筒主题相关。",
+    "topics/context-engineering-for-agents.md": "帖文提到 Anthropic Engineering 分享 Agent 架构与上下文工程实践，与 Agent 上下文工程主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/despite-disliking-anthropic-he-compiled-8-ai-learning-sites-wort.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

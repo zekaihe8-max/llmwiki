@@ -1,0 +1,23 @@
+{
+  "slug": "f09487d1ebbc4be2",
+  "url": "https://github.com/JimLiu/open-artifact",
+  "title": "GitHub",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "f09487d1ebbc4be2ce41c18a34ef8a0d105e6aa0b4f75d30272e1fdac81f7b15",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:02.989Z",
+  "content_hash": "c3633687667eb93c55ba7542b9144ce089abc63fed61c74973f48bde17141d9a",
+  "article_path": "articles/f09487d1ebbc4be2.md",
+  "fetched_url": "https://github.com/JimLiu/open-artifact",
+  "source_path": "sources/articles/open-artifact.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T11:52:46.257Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

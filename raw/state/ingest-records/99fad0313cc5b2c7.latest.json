@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:56:51.497Z",
+  "url": "https://x.com/op7418/status/2123959051126177841",
+  "slug": "99fad0313cc5b2c7",
+  "content_hash": "c9ccd66f8ace0173ed87e2df0e54f0ad469aeb460082c2830e79bb750d6fa654",
+  "source": {
+    "path": "sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文中提到 Fable 5.2 打分与修复记录，属于 AI 评测入口与干活记录"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文涉及非正式模型评分与社区实测，属于评分与实测对比范畴"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "发文者认为 Gemini 4 Neon 可平替 Opus 5.5 处理复杂任务，涉及哪些工作可交给 AI"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文涉及非正式模型评分与社区实测，属于评分与实测对比范畴",
+    "topics/tasks-confidently-handed-to-ai.md": "发文者认为 Gemini 4 Neon 可平替 Opus 5.5 处理复杂任务，涉及哪些工作可交给 AI",
+    "topics/ai-eval-work-record-gateway.md": "文中提到 Fable 5.2 打分与修复记录，属于 AI 评测入口与干活记录"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "帖文涉及非正式模型评分与社区实测，属于评分与实测对比范畴",
+      "topics/tasks-confidently-handed-to-ai.md": "发文者认为 Gemini 4 Neon 可平替 Opus 5.5 处理复杂任务，涉及哪些工作可交给 AI",
+      "topics/ai-eval-work-record-gateway.md": "文中提到 Fable 5.2 打分与修复记录，属于 AI 评测入口与干活记录"
+    },
+    "notes": "所有主张均源自单条 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:57:52.929Z",
+  "url": "https://x.com/op7418/status/2123760687877083240",
+  "slug": "3ce8fa526f517db9",
+  "content_hash": "b5cb6a414ef2f1e0ba9a12394b4bd6554e4816910916522cc2bf175077293465",
+  "source": {
+    "path": "sources/articles/anthropic-premarket-stock-once-fell-to-87-nearing-ipo-price.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，其股价波动与 AI 赛道市场情绪直接相关"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Anthropic 旗舰模型 Claude 的云端分发渠道，与公司基本面相关"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Claude 订阅业务表现与 Anthropic 商业化及股价走势存在关联"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，其股价波动与 AI 赛道市场情绪直接相关",
+    "topics/claude-on-google-cloud.md": "涉及 Anthropic 旗舰模型 Claude 的云端分发渠道，与公司基本面相关",
+    "topics/claude-subscription-risk-control-weights.md": "Claude 订阅业务表现与 Anthropic 商业化及股价走势存在关联"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-premarket-stock-once-fell-to-87-nearing-ipo-price.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/claude-on-google-cloud.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，其股价波动与 AI 赛道市场情绪直接相关",
+      "topics/claude-on-google-cloud.md": "涉及 Anthropic 旗舰模型 Claude 的云端分发渠道，与公司基本面相关",
+      "topics/claude-subscription-risk-control-weights.md": "Claude 订阅业务表现与 Anthropic 商业化及股价走势存在关联"
+    },
+    "notes": "所有股价数据与市场表现主张均来源于 X 帖文及其引用的 Kobeissi Letter，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-premarket-stock-once-fell-to-87-nearing-ipo-price.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

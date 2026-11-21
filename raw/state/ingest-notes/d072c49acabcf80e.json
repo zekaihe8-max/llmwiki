@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-management-span-of-control.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-management-span-of-control.md": "文章涉及吴迪双向汇报及部门合并，与高管管控跨度和组织架构调整相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文章披露火山引擎 MaaS 收入与毛利率，属于大厂推理/模型服务成本效率话题。",
+    "topics/cloud-auto-model-routing.md": "火山方舟/Seed MaaS 面向企业提供模型调用，涉及云平台模型服务与路由。",
+    "topics/in-app-model-partnerships.md": "火山方舟同时提供豆包及 DeepSeek、智谱等第三方模型，涉及模型合作伙伴关系。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "文章涉及吴迪双向汇报及部门合并，与高管管控跨度和组织架构调整相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章披露火山引擎 MaaS 收入与毛利率，属于大厂推理/模型服务成本效率话题。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "火山方舟/Seed MaaS 面向企业提供模型调用，涉及云平台模型服务与路由。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "火山方舟同时提供豆包及 DeepSeek、智谱等第三方模型，涉及模型合作伙伴关系。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文内容，未引用文章外事实。"
+}

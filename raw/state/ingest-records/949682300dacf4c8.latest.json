@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:11:44.943Z",
+  "url": "https://x.com/0xlangeai/status/2124071331172167939",
+  "slug": "949682300dacf4c8",
+  "content_hash": "220740e96a9b8acae3a0bf33ce2dd7f75eea76f16e21dc46300e9c68b60cae30",
+  "source": {
+    "path": "sources/articles/yang-pan-s-judgment-software-value-compressed-to-zero-value-beco.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/ai-native-companies.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "AI原生公司话题涉及软件价值重构与服务化趋势。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "该话题强调先算清赚钱同行，与文中价值变成服务的经济判断相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "高端AI订阅价值话题关注软件与AI产品的付费意愿，与价值被压成零相对。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "软件工厂话题与软件价值被压缩、生产方式变化最为相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "软件工厂话题与软件价值被压缩、生产方式变化最为相关。",
+    "topics/ai-native-companies.md": "AI原生公司话题涉及软件价值重构与服务化趋势。",
+    "topics/peer-economics-before-vibe-coding.md": "该话题强调先算清赚钱同行，与文中价值变成服务的经济判断相近。",
+    "topics/premium-ai-subscription-value.md": "高端AI订阅价值话题关注软件与AI产品的付费意愿，与价值被压成零相对。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yang-pan-s-judgment-software-value-compressed-to-zero-value-beco.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/ai-native-companies.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "软件工厂话题与软件价值被压缩、生产方式变化最为相关。",
+      "topics/ai-native-companies.md": "AI原生公司话题涉及软件价值重构与服务化趋势。",
+      "topics/peer-economics-before-vibe-coding.md": "该话题强调先算清赚钱同行，与文中价值变成服务的经济判断相近。",
+      "topics/premium-ai-subscription-value.md": "高端AI订阅价值话题关注软件与AI产品的付费意愿，与价值被压成零相对。"
+    },
+    "notes": "未创建新话题，所有咨询话题均保持不变。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yang-pan-s-judgment-software-value-compressed-to-zero-value-beco.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

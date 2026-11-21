@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文围绕为 Antigravity 安装开源 Skill/插件展开，与 Agent Skill 编写主题直接相关。",
+    "topics/agent-skills-open-standard.md": "文中提及多个开源 Skill 项目，涉及 Agent Skills 开放标准与生态。",
+    "topics/coding-agent-ux-vs-quota.md": "文章讨论改善 AI 编程 Agent 的使用体验与工作流，属于编程 Agent 体验范畴。",
+    "topics/computer-use.md": "帖文下方关联了谷歌 Computer Use 功能推文，与计算机使用类 Agent 能力相邻。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文围绕为 Antigravity 安装开源 Skill/插件展开，与 Agent Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提及多个开源 Skill 项目，涉及 Agent Skills 开放标准与生态。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章讨论改善 AI 编程 Agent 的使用体验与工作流，属于编程 Agent 体验范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文下方关联了谷歌 Computer Use 功能推文，与计算机使用类 Agent 能力相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文底部还附带一条关于谷歌 Computer Use 的独立推文，但主标题与正文聚焦 Antigravity 三款插件，故未将其作为主题。"
+}

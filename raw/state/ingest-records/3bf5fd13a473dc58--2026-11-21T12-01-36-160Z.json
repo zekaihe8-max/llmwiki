@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:01:36.160Z",
+  "url": "https://x.com/AlchainHust/status/2123952624399757383",
+  "slug": "3bf5fd13a473dc58",
+  "content_hash": "5be7bf7ad0e2e49cadb9f47d8dd6602fa5c9069175339be484af7691f55ed9a6",
+  "source": {
+    "path": "sources/articles/stable-access-to-claude-code-is-not-entirely-good-for-content-cr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型渠道取舍，对应帖文中国产模型与 Claude Code 的对比。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code，与帖文核心主题最相关。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "讨论个人 Agent 热潮与编程 Agent 熟悉度差距，对应帖文中大多数人使用的工具并未达到该能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code，与帖文核心主题最相关。",
+    "topics/personal-agent-hype-familiarity-gap.md": "讨论个人 Agent 热潮与编程 Agent 熟悉度差距，对应帖文中大多数人使用的工具并未达到该能力。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，对应帖文中国产模型与 Claude Code 的对比。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stable-access-to-claude-code-is-not-entirely-good-for-content-cr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code，与帖文核心主题最相关。",
+      "topics/personal-agent-hype-familiarity-gap.md": "讨论个人 Agent 热潮与编程 Agent 熟悉度差距，对应帖文中大多数人使用的工具并未达到该能力。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型渠道取舍，对应帖文中国产模型与 Claude Code 的对比。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stable-access-to-claude-code-is-not-entirely-good-for-content-cr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

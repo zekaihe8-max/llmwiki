@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/interactive-world-models.md"
+  ],
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "直接对应 AI 制作游戏作为 Vibe Coding 之后的新用例与模型拐点议题",
+    "topics/casual-ai-minigame-first-try.md": "涉及 AI 生成小游戏并尝试发布与变现的场景",
+    "topics/coding-agent-token-saving-tooling.md": "文中提到内置资产减少 token 消耗，与编程 Agent 省 Token 工具相关",
+    "topics/interactive-world-models.md": "AI 驱动的交互式游戏世界与实时渲染相关"
+  },
+  "topics": [
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "直接对应 AI 制作游戏作为 Vibe Coding 之后的新用例与模型拐点议题"
+    },
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 生成小游戏并尝试发布与变现的场景"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中提到内置资产减少 token 消耗，与编程 Agent 省 Token 工具相关"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "AI 驱动的交互式游戏世界与实时渲染相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; unverified claims are attributed to the post using 「帖文称」."
+}
