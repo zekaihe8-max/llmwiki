@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:03:38.885Z",
+  "url": "https://x.com/0xLogicrw/status/2124008357153669322",
+  "slug": "3478d99227981b4b",
+  "content_hash": "86014c61dc23b7d1d8f05ef04589619a149f75fbec0719eb6313344989580d57",
+  "source": {
+    "path": "sources/articles/yao-shunyu-and-hunyuan-team-reveal-next-gen-model-will-scale-par.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/local-open-assistant-models.md",
+    "topics/computer-use.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到 Hy4 具备电脑操作能力，可通过鼠标键盘和命令行操作软件，与 Computer Use 主题相关"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提到较小模型训练成本更低，与大模型成本效率主题相关"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文中提到 Hy4-mini 和 Flash-Lite 可在个人电脑本地运行，与本地开放小模型主题相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提到 Flash-Lite 小模型，与 Pro/Flash 模型分层策略相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文中提到 Flash-Lite 小模型，与 Pro/Flash 模型分层策略相关",
+    "topics/local-open-assistant-models.md": "文中提到 Hy4-mini 和 Flash-Lite 可在个人电脑本地运行，与本地开放小模型主题相关",
+    "topics/computer-use.md": "文中提到 Hy4 具备电脑操作能力，可通过鼠标键盘和命令行操作软件，与 Computer Use 主题相关",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中提到较小模型训练成本更低，与大模型成本效率主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yao-shunyu-and-hunyuan-team-reveal-next-gen-model-will-scale-par.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/local-open-assistant-models.md",
+      "topics/computer-use.md",
+      "topics/lab-inference-serving-cost-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文中提到 Flash-Lite 小模型，与 Pro/Flash 模型分层策略相关",
+      "topics/local-open-assistant-models.md": "文中提到 Hy4-mini 和 Flash-Lite 可在个人电脑本地运行，与本地开放小模型主题相关",
+      "topics/computer-use.md": "文中提到 Hy4 具备电脑操作能力，可通过鼠标键盘和命令行操作软件，与 Computer Use 主题相关",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中提到较小模型训练成本更低，与大模型成本效率主题相关"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yao-shunyu-and-hunyuan-team-reveal-next-gen-model-will-scale-par.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "7e1ab945bd70602d",
+  "url": "https://x.com/heydengai/status/2124060264517804244",
+  "title": "有安全研究员给 MiniMax 提示词里埋了只有自己知道的链接",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "7e1ab945bd70602d603c7def03678aa33142bde41727cf3d09e19557146200fe",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:13.275Z",
+  "content_hash": "bb3bc2fa8802d5567926d34660c4993ac33a67506c7afc00228094736f5a5341",
+  "article_path": "articles/7e1ab945bd70602d.md",
+  "fetched_url": "https://x.com/heydengai/status/2124060264517804244",
+  "source_path": "sources/articles/security-researcher-claims-hidden-links-in-minimax-prompt-were-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T12:10:37.849Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

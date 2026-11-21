@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅定价与价值，与 Google AI Plus/Pro 折扣促销最相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Pro 计划与模型策略，与年度 Pro 计划促销相关。",
+    "topics/usage-limit-ab-tests.md": "涉及订阅用量与计划层级，与 AI 订阅促销有一定关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅定价与价值，与 Google AI Plus/Pro 折扣促销最相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Pro 计划与模型策略，与年度 Pro 计划促销相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及订阅用量与计划层级，与 AI 订阅促销有一定关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

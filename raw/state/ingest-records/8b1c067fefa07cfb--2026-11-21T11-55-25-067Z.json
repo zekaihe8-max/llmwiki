@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:55:25.067Z",
+  "url": "https://x.com/lxfater/status/2124088033213403536",
+  "slug": "8b1c067fefa07cfb",
+  "content_hash": "83f27ae140761fe778a06ae894b305c192d1682590c6707a376ee3751d13cd5d",
+  "source": {
+    "path": "sources/articles/gemini-4-is-strong-but-google-s-official-programming-client-is-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "账号安全验证与地区不可用的误报，涉及订阅风控与账号权重判定。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "客户端登录与错误提示体验属于编程 Agent 的用户体验与额度问题。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "谷歌封禁第三方中转、用户转向官方接口第三方工具，与托管节点与自建代理的取舍相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及付费会员订阅后却无法正常使用的订阅价值争议。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "客户端登录与错误提示体验属于编程 Agent 的用户体验与额度问题。",
+    "topics/premium-ai-subscription-value.md": "涉及付费会员订阅后却无法正常使用的订阅价值争议。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "谷歌封禁第三方中转、用户转向官方接口第三方工具，与托管节点与自建代理的取舍相关。",
+    "topics/claude-subscription-risk-control-weights.md": "账号安全验证与地区不可用的误报，涉及订阅风控与账号权重判定。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-4-is-strong-but-google-s-official-programming-client-is-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/managed-over-selfhosted-proxy-nodes.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "客户端登录与错误提示体验属于编程 Agent 的用户体验与额度问题。",
+      "topics/premium-ai-subscription-value.md": "涉及付费会员订阅后却无法正常使用的订阅价值争议。",
+      "topics/managed-over-selfhosted-proxy-nodes.md": "谷歌封禁第三方中转、用户转向官方接口第三方工具，与托管节点与自建代理的取舍相关。",
+      "topics/claude-subscription-risk-control-weights.md": "账号安全验证与地区不可用的误报，涉及订阅风控与账号权重判定。"
+    },
+    "notes": "帖文发布于 2026 年 11 月 21 日，未对“反重力”客户端的具体产品全称做进一步解释。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-4-is-strong-but-google-s-official-programming-client-is-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

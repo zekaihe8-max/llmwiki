@@ -1,3 +1,91 @@
+## 2026-11-21
+
+* **创建 / Creation**: 归档 [查自己的帖子有没有被标记违规](./sources/articles/check-whether-your-x-posts-are-marked-as-violations.md)。 / Filed [Check whether your X posts are marked as violations](./sources/articles/check-whether-your-x-posts-are-marked-as-violations.md).
+
+* **创建 / Creation**: 归档 [手机上先把 Antigravity 加到主屏幕](./sources/articles/add-antigravity-to-your-phone-home-screen-first.md)。 / Filed [Add Antigravity to Your Phone Home Screen First](./sources/articles/add-antigravity-to-your-phone-home-screen-first.md).
+
+* **创建 / Creation**: 归档 [Google Antigravity 登录页面](./sources/articles/google-antigravity-sign-in-page.md)。 / Filed [Google Antigravity Sign-In Page](./sources/articles/google-antigravity-sign-in-page.md).
+
+* **创建 / Creation**: 归档 [10 个热门开源 Personal Agent](./sources/articles/10-popular-open-source-personal-agents.md)。 / Filed [10 Popular Open-Source Personal Agents](./sources/articles/10-popular-open-source-personal-agents.md).
+
+* **创建 / Creation**: 归档 [Antigravity 体验三件套：Superpowers、Context7 与 UI UX Pro Max](./sources/articles/antigravity-experience-trio-superpowers-context7-and-ui-ux-pro-m.md)。 / Filed [Antigravity Experience Trio: Superpowers, Context7, and UI UX Pro Max](./sources/articles/antigravity-experience-trio-superpowers-context7-and-ui-ux-pro-m.md).
+
+* **创建 / Creation**: 归档 [dsh-market 被他喜欢的 B 站 UP 主推荐了](./sources/articles/dsh-market-recommended-by-his-favorite-bilibili-up.md)。 / Filed [dsh-market Recommended by His Favorite Bilibili UP主](./sources/articles/dsh-market-recommended-by-his-favorite-bilibili-up.md).
+
+* **创建 / Creation**: 归档 [DSH 市场后台：桌面版用户约为网页版 7 倍](./sources/articles/dsh-market-backend-desktop-users-about-7-times-web-users.md)。 / Filed [DSH Market Backend: Desktop Users About 7 Times Web Users](./sources/articles/dsh-market-backend-desktop-users-about-7-times-web-users.md).
+
+* **创建 / Creation**: 归档 [Gemini App 也能生成 GIF 了](./sources/articles/gemini-app-can-now-generate-gifs.md)。 / Filed [Gemini App Can Now Generate GIFs](./sources/articles/gemini-app-can-now-generate-gifs.md).
+
+* **创建 / Creation**: 归档 [OpenAI 公布 GPT-6.2 反蒸馏进展，推理窃取成功率大幅下降](./sources/articles/openai-reports-anti-distillation-progress-for-gpt-6-2-reasoning.md)。 / Filed [OpenAI Reports Anti-Distillation Progress for GPT-6.2, Reasoning Theft Success Rates Sharply Drop](./sources/articles/openai-reports-anti-distillation-progress-for-gpt-6-2-reasoning.md).
+
+* **创建 / Creation**: 归档 [AI 时代更需要人的主观能动性](./sources/articles/human-subjective-initiative-is-more-needed-in-the-ai-era.md)。 / Filed [Human Subjective Initiative Is More Needed in the AI Era](./sources/articles/human-subjective-initiative-is-more-needed-in-the-ai-era.md).
+
+* **创建 / Creation**: 归档 [别把 FDE 神化了：苦差事需有能力接单](./sources/articles/don-t-glorify-fde-it-s-grunt-work-requiring-real-capability-to-p.md)。 / Filed [Don't Glorify FDE: It's Grunt Work Requiring Real Capability to Profit](./sources/articles/don-t-glorify-fde-it-s-grunt-work-requiring-real-capability-to-p.md).
+
+* **创建 / Creation**: 归档 [杨攀的一句判断：软件价值被压成零，价值变成服务](./sources/articles/yang-pan-s-judgment-software-value-compressed-to-zero-value-beco.md)。 / Filed [Yang Pan's judgment: software value compressed to zero, value becomes service](./sources/articles/yang-pan-s-judgment-software-value-compressed-to-zero-value-beco.md).
+
+* **创建 / Creation**: 归档 [他去了深圳 GEO 大会](./sources/articles/he-attended-the-geo-conference-in-shenzhen.md)。 / Filed [He attended the GEO conference in Shenzhen](./sources/articles/he-attended-the-geo-conference-in-shenzhen.md).
+
+* **创建 / Creation**: 归档 [有人实测 AI 订阅套餐比直调 API 划算多少：Claude Max 最高 46.4 倍](./sources/articles/user-tests-how-much-cheaper-ai-subscription-plans-are-than-direc.md)。 / Filed [User tests how much cheaper AI subscription plans are than direct API calls: Claude Max up to 46.4x](./sources/articles/user-tests-how-much-cheaper-ai-subscription-plans-are-than-direc.md).
+
+* **创建 / Creation**: 归档 [有安全研究员称在 MiniMax 提示词埋私有链接，第三方后续访问](./sources/articles/security-researcher-claims-hidden-links-in-minimax-prompt-were-a.md)。 / Filed [Security researcher claims hidden links in MiniMax prompt were accessed by third party](./sources/articles/security-researcher-claims-hidden-links-in-minimax-prompt-were-a.md).
+
+* **创建 / Creation**: 归档 [GPT-6.2 改了 Responses API 的缓存规则](./sources/articles/gpt-6-2-changes-responses-api-caching-rules.md)。 / Filed [GPT-6.2 Changes Responses API Caching Rules](./sources/articles/gpt-6-2-changes-responses-api-caching-rules.md).
+
+* **创建 / Creation**: 归档 [字节再次调整 AI 组织架构](./sources/articles/bytedance-adjusts-ai-organization-again.md)。 / Filed [ByteDance Adjusts AI Organization Again](./sources/articles/bytedance-adjusts-ai-organization-again.md).
+
+* **创建 / Creation**: 归档 [Thinking Machines 推出可在笔记本运行的 Inkling 2 Mini](./sources/articles/thinking-machines-releases-inkling-2-mini-that-runs-on-laptops.md)。 / Filed [Thinking Machines Releases Inkling 2 Mini That Runs on Laptops](./sources/articles/thinking-machines-releases-inkling-2-mini-that-runs-on-laptops.md).
+
+* **创建 / Creation**: 归档 [姚顺雨与混元团队透露下一代模型将扩大参数规模并推出本地小模型](./sources/articles/yao-shunyu-and-hunyuan-team-reveal-next-gen-model-will-scale-par.md)。 / Filed [Yao Shunyu and Hunyuan Team Reveal Next-Gen Model Will Scale Parameters and Launch Local Small Models](./sources/articles/yao-shunyu-and-hunyuan-team-reveal-next-gen-model-will-scale-par.md).
+
+* **创建 / Creation**: 归档 [Matt Pocock 为非开发者推出首个 Agent Skill /vector](./sources/articles/matt-pocock-launches-first-agent-skill-vector-for-non-developers.md)。 / Filed [Matt Pocock launches first Agent Skill /vector for non-developers](./sources/articles/matt-pocock-launches-first-agent-skill-vector-for-non-developers.md).
+
+* **创建 / Creation**: 归档 [Langfuse 工程师谈主动式 Agent 评测：行动、时机与沉默的记录](./sources/articles/langfuse-engineer-on-evaluating-proactive-agents-action-timing-a.md)。 / Filed [Langfuse Engineer on Evaluating Proactive Agents: Action, Timing, and Recording Silence](./sources/articles/langfuse-engineer-on-evaluating-proactive-agents-action-timing-a.md).
+
+* **创建 / Creation**: 归档 [腾讯团队开源 LoopForge，五个定时 Agent 维护自家仓库](./sources/articles/tencent-team-open-sources-loopforge-five-timed-agents-maintain-t.md)。 / Filed [Tencent team open-sources LoopForge, five timed Agents maintain their own repository](./sources/articles/tencent-team-open-sources-loopforge-five-timed-agents-maintain-t.md).
+
+* **创建 / Creation**: 归档 [面试里总听到「我们想训自己的模型」：为何 RAG 与知识库更现实](./sources/articles/we-want-to-train-our-own-model-why-rag-and-knowledge-bases-are-m.md)。 / Filed ["We want to train our own model": Why RAG and knowledge bases are more realistic](./sources/articles/we-want-to-train-our-own-model-why-rag-and-knowledge-bases-are-m.md).
+
+* **创建 / Creation**: 归档 [能稳定用 Claude Code，对做内容的人来说也不全是好事](./sources/articles/stable-access-to-claude-code-is-not-entirely-good-for-content-cr.md)。 / Filed [Stable access to Claude Code is not entirely good for content creators](./sources/articles/stable-access-to-claude-code-is-not-entirely-good-for-content-cr.md).
+
+* **创建 / Creation**: 归档 [发布片里的界面都是这个 Skill 自己做的：huashu-design 3.4 发布](./sources/articles/all-interfaces-in-the-release-video-made-by-the-skill-itself-hua.md)。 / Filed [All Interfaces in the Release Video Made by the Skill Itself: huashu-design 3.4 Released](./sources/articles/all-interfaces-in-the-release-video-made-by-the-skill-itself-hua.md).
+
+* **创建 / Creation**: 归档 [huashu-design 3.4 发布，GitHub 星标过 3 万](./sources/articles/huashu-design-3-4-released-github-stars-surpass-30-000.md)。 / Filed [huashu-design 3.4 Released, GitHub Stars Surpass 30,000](./sources/articles/huashu-design-3-4-released-github-stars-surpass-30-000.md).
+
+* **创建 / Creation**: 归档 [有人称与 Claude 合作证明黎曼猜想，12 年研究随即提前公开](./sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md)。 / Filed [Claim of Claude-assisted Riemann Hypothesis proof prompts early release of 12-year research](./sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md).
+
+* **创建 / Creation**: 归档 [虽然讨厌 Anthropic，他还是整理了 8 个值得收藏的 AI 学习站点](./sources/articles/despite-disliking-anthropic-he-compiled-8-ai-learning-sites-wort.md)。 / Filed [Despite disliking Anthropic, he compiled 8 AI learning sites worth bookmarking](./sources/articles/despite-disliking-anthropic-he-compiled-8-ai-learning-sites-wort.md).
+
+* **创建 / Creation**: 归档 [刚用 Harness，先做好这 3 件事，比装一堆插件更有用](./sources/articles/when-first-using-harness-do-these-3-things-first-more-useful-tha.md)。 / Filed [When First Using Harness, Do These 3 Things First—More Useful Than Installing a Bunch of Plugins](./sources/articles/when-first-using-harness-do-these-3-things-first-more-useful-tha.md).
+
+* **创建 / Creation**: 归档 [研究这么多 AI Agent，他越来越觉得 Harness 才最值得深入研究](./sources/articles/after-researching-many-ai-agents-he-finds-harness-most-worth-dee.md)。 / Filed [After researching many AI Agents, he finds Harness most worth deep research](./sources/articles/after-researching-many-ai-agents-he-finds-harness-most-worth-dee.md).
+
+* **创建 / Creation**: 归档 [Anthropic 盘前股价一度跌至 87 美元，逼近 IPO 发行价](./sources/articles/anthropic-premarket-stock-once-fell-to-87-nearing-ipo-price.md)。 / Filed [Anthropic Premarket Stock Once Fell to $87, Nearing IPO Price](./sources/articles/anthropic-premarket-stock-once-fell-to-87-nearing-ipo-price.md).
+
+* **创建 / Creation**: 归档 [AI 做游戏正在变成一个很稳的用例](./sources/articles/ai-game-development-is-becoming-a-stable-use-case.md)。 / Filed [AI game development is becoming a stable use case](./sources/articles/ai-game-development-is-becoming-a-stable-use-case.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Neon 修复复杂代码库，评分接近 Opus 5.5](./sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md)。 / Filed [Gemini 4 Neon fixes complex codebase issues, scores close to Opus 5.5](./sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md).
+
+* **创建 / Creation**: 归档 [黑五折扣加上额度重置，他说明天可以爽用 Neon 了](./sources/articles/black-friday-discount-plus-quota-reset-he-says-he-can-freely-use.md)。 / Filed [Black Friday Discount Plus Quota Reset: He Says He Can Freely Use Neon Tomorrow](./sources/articles/black-friday-discount-plus-quota-reset-he-says-he-can-freely-use.md).
+
+* **创建 / Creation**: 归档 [browser-use 1.0 把 24 个浏览器工具砍成 1 个 Python 工具](./sources/articles/browser-use-1-0-replaces-24-browser-tools-with-one-python-tool.md)。 / Filed [browser-use 1.0 Replaces 24 Browser Tools With One Python Tool](./sources/articles/browser-use-1-0-replaces-24-browser-tools-with-one-python-tool.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 很强，官方编程客户端却反重力离谱](./sources/articles/gemini-4-is-strong-but-google-s-official-programming-client-is-a.md)。 / Filed [Gemini 4 is strong, but Google's official programming client is a mess](./sources/articles/gemini-4-is-strong-but-google-s-official-programming-client-is-a.md).
+
+* **创建 / Creation**: 归档 [新号想挤进早鸟，群里在用 4.99 刀打法](./sources/articles/new-users-try-to-squeeze-into-early-bird-pricing-groups-use-the.md)。 / Filed [New users try to squeeze into early-bird pricing; groups use the $4.99 trick](./sources/articles/new-users-try-to-squeeze-into-early-bird-pricing-groups-use-the.md).
+
+* **创建 / Creation**: 归档 [黑五五折别急着掏钱，先搞清这 3 件事](./sources/articles/don-t-rush-to-pay-for-black-friday-50-off-clarify-these-3-things.md)。 / Filed [Don't rush to pay for Black Friday 50% off; clarify these 3 things first](./sources/articles/don-t-rush-to-pay-for-black-friday-50-off-clarify-these-3-things.md).
+
+* **创建 / Creation**: 归档 [大项目里人和 AI 都只能理解一部分](./sources/articles/in-large-projects-both-humans-and-ai-can-only-understand-part.md)。 / Filed [In large projects, both humans and AI can only understand part](./sources/articles/in-large-projects-both-humans-and-ai-can-only-understand-part.md).
+
+* **创建 / Creation**: 归档 [Gemini Neon 做视频效果也不错](./sources/articles/gemini-neon-does-video-effects-well-too.md)。 / Filed [Gemini Neon does video effects well too](./sources/articles/gemini-neon-does-video-effects-well-too.md).
+
+* **创建 / Creation**: 归档 [开放工件（Open Artifact）](./sources/articles/open-artifact.md)。 / Filed [Open Artifact](./sources/articles/open-artifact.md).
+
+* **创建 / Creation**: 归档 [Antigravity 配额重置：关注 Varun 而非 Tibo](./sources/articles/antigravity-quota-reset-follow-varun-not-tibo.md)。 / Filed [Antigravity Quota Reset: Follow Varun, Not Tibo](./sources/articles/antigravity-quota-reset-follow-varun-not-tibo.md).
+
+* **创建 / Creation**: 归档 [Gemini 黑五最高五折](./sources/articles/gemini-black-friday-up-to-50-off.md)。 / Filed [Gemini Black Friday Up to 50% Off](./sources/articles/gemini-black-friday-up-to-50-off.md).
+
 ## 2026-11-20
 
 * **创建 / Creation**: 归档 [RackNerd 黑五 VPS 最低 15.98 美元一年](./sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md)。 / Filed [RackNerd Black Friday VPS starting at $15.98 per year](./sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md).

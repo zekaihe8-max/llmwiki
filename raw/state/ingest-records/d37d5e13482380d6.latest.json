@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:54:15.237Z",
+  "url": "https://x.com/lxfater/status/2123997056553369685",
+  "slug": "d37d5e13482380d6",
+  "content_hash": "85f09b7c68a51c31f5fb160b1c680d2c3f77b00d16078127dc50194e1ab4bd3c",
+  "source": {
+    "path": "sources/articles/don-t-rush-to-pay-for-black-friday-50-off-clarify-these-3-things.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文提到谷歌查账号归属地、限制第三方工具与反代，涉及订阅风控与地区限制，无需新建。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提到写代码场景下 Plus 额度受限、无法使用新模型，与编程 Agent 体验与额度主题相关，无需新建。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是判断黑五 AI 订阅折扣是否值得购买，与该主题高度相关，无需新建。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文对比 Plus 与 Pro 两档订阅及其模型可用性差异，属模型策略取舍范畴，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是判断黑五 AI 订阅折扣是否值得购买，与该主题高度相关，无需新建。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文对比 Plus 与 Pro 两档订阅及其模型可用性差异，属模型策略取舍范畴，无需新建。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提到写代码场景下 Plus 额度受限、无法使用新模型，与编程 Agent 体验与额度主题相关，无需新建。",
+    "topics/claude-subscription-risk-control-weights.md": "帖文提到谷歌查账号归属地、限制第三方工具与反代，涉及订阅风控与地区限制，无需新建。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-rush-to-pay-for-black-friday-50-off-clarify-these-3-things.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/claude-subscription-risk-control-weights.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心是判断黑五 AI 订阅折扣是否值得购买，与该主题高度相关，无需新建。",
+      "topics/pro-vs-flash-model-strategy.md": "帖文对比 Plus 与 Pro 两档订阅及其模型可用性差异，属模型策略取舍范畴，无需新建。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文提到写代码场景下 Plus 额度受限、无法使用新模型，与编程 Agent 体验与额度主题相关，无需新建。",
+      "topics/claude-subscription-risk-control-weights.md": "帖文提到谷歌查账号归属地、限制第三方工具与反代，涉及订阅风控与地区限制，无需新建。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-rush-to-pay-for-black-friday-50-off-clarify-these-3-things.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "同属『入行前先算账』主题，强调在跟风技术热潮前核算真实收益与门槛",
+    "topics/hunger-beats-tenure.md": "呼应『冲劲胜过资历』，但本文更强调硬能力而非单纯冲劲",
+    "topics/software-factory.md": "FDE常处于软件工厂式外包链条底层，涉及标准化交付与利润压缩"
+  },
+  "topics": [
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "同属『入行前先算账』主题，强调在跟风技术热潮前核算真实收益与门槛"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "呼应『冲劲胜过资历』，但本文更强调硬能力而非单纯冲劲"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "FDE常处于软件工厂式外包链条底层，涉及标准化交付与利润压缩"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "FDE 具体指 Full-stack Developer/Engineer 在国内外包语境下的称呼，文章链接为 X 帖文嵌入卡片，未直接给出全文 URL。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:53:13.687Z",
+  "url": "https://x.com/dotey/status/2124052093971624234",
+  "slug": "6f494d66fd7194fe",
+  "content_hash": "504e4a7b8381fb3ba7e0daf5b86f0e729d66a37e1476f7063f7294b63c18d619",
+  "source": {
+    "path": "sources/articles/gemini-neon-does-video-effects-well-too.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖中明确提到 Artifact（skill），属于 Agent Skill 编写与分享场景"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 视频制作与剪辑效果，与智能体视频剪辑主题最贴近"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助视频内容制作与媒体素材，属于 AI 辅助剪藏与媒体笔记范畴"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "分享的 GitHub 链接为开源工具，用于 AI 助手做自然语言或视频剪辑"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文涉及 AI 视频制作与剪辑效果，与智能体视频剪辑主题最贴近",
+    "topics/agent-skill-authoring.md": "帖中明确提到 Artifact（skill），属于 Agent Skill 编写与分享场景",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助视频内容制作与媒体素材，属于 AI 辅助剪藏与媒体笔记范畴",
+    "topics/open-source-in-ai-assistant-editing.md": "分享的 GitHub 链接为开源工具，用于 AI 助手做自然语言或视频剪辑"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-neon-does-video-effects-well-too.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/agent-skill-authoring.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/open-source-in-ai-assistant-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文涉及 AI 视频制作与剪辑效果，与智能体视频剪辑主题最贴近",
+      "topics/agent-skill-authoring.md": "帖中明确提到 Artifact（skill），属于 Agent Skill 编写与分享场景",
+      "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助视频内容制作与媒体素材，属于 AI 辅助剪藏与媒体笔记范畴",
+      "topics/open-source-in-ai-assistant-editing.md": "分享的 GitHub 链接为开源工具，用于 AI 助手做自然语言或视频剪辑"
+    },
+    "notes": "Source is an X post; unverified claims are attributed using 「帖文称」.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-neon-does-video-effects-well-too.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:18:06.186Z",
+  "url": "https://x.com/0xlangeai/status/2124102845444300953",
+  "slug": "b7d386fdc1d4adc8",
+  "content_hash": "96a9b5f1464e51bfc652a02ec336c16c2b032f14def397e63b0b3185840b28c0",
+  "source": {
+    "path": "sources/articles/don-t-glorify-fde-it-s-grunt-work-requiring-real-capability-to-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "呼应『冲劲胜过资历』，但本文更强调硬能力而非单纯冲劲"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "同属『入行前先算账』主题，强调在跟风技术热潮前核算真实收益与门槛"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "FDE常处于软件工厂式外包链条底层，涉及标准化交付与利润压缩"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "同属『入行前先算账』主题，强调在跟风技术热潮前核算真实收益与门槛",
+    "topics/hunger-beats-tenure.md": "呼应『冲劲胜过资历』，但本文更强调硬能力而非单纯冲劲",
+    "topics/software-factory.md": "FDE常处于软件工厂式外包链条底层，涉及标准化交付与利润压缩"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-glorify-fde-it-s-grunt-work-requiring-real-capability-to-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/peer-economics-before-vibe-coding.md": "同属『入行前先算账』主题，强调在跟风技术热潮前核算真实收益与门槛",
+      "topics/hunger-beats-tenure.md": "呼应『冲劲胜过资历』，但本文更强调硬能力而非单纯冲劲",
+      "topics/software-factory.md": "FDE常处于软件工厂式外包链条底层，涉及标准化交付与利润压缩"
+    },
+    "notes": "FDE 具体指 Full-stack Developer/Engineer 在国内外包语境下的称呼，文章链接为 X 帖文嵌入卡片，未直接给出全文 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-glorify-fde-it-s-grunt-work-requiring-real-capability-to-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

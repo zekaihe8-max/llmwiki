@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心是 /open-artifact 技能及其在各 Agent 应用中的安装与使用，直接对应技能编写主题。",
+    "topics/agent-skills-open-standard.md": "项目将工件定义为开放、与模型和厂商无关的标准格式，契合 Agent Skills 开放标准主题。",
+    "topics/agent-in-chat-bug-feedback.md": "页面评论可通过“发送给 Agent”带回会话，且 MCP Apps 可在对话中直接展示工件页，属于对话内反馈场景。",
+    "topics/agent-auto-mode.md": "编程 Agent 可自主生成文件夹并驱动本地守护进程，体现智能体自动模式下的工件产出。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心是 /open-artifact 技能及其在各 Agent 应用中的安装与使用，直接对应技能编写主题。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "项目将工件定义为开放、与模型和厂商无关的标准格式，契合 Agent Skills 开放标准主题。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "页面评论可通过“发送给 Agent”带回会话，且 MCP Apps 可在对话中直接展示工件页，属于对话内反馈场景。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "编程 Agent 可自主生成文件夹并驱动本地守护进程，体现智能体自动模式下的工件产出。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有陈述均基于提供的 README 内容，未引入外部事实或 URL。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章主体是 Agent Skill 的发布与迭代，直接对应技能编写主题。",
+    "topics/skills-stack-native-app-recreation.md": "huashu-design 用于让 Agent 生成原生感 App 原型，与技能组合复刻原生感 App 高度相关。",
+    "topics/agent-skills-open-standard.md": "文中提供 npx skills add 安装命令，涉及 Agent Skills 开放标准与分发。",
+    "topics/ux-dx-and-ax.md": "文章聚焦 App 界面设计范式与 Agent 设计体验，属于 UX/DX/AX 范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章主体是 Agent Skill 的发布与迭代，直接对应技能编写主题。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "huashu-design 用于让 Agent 生成原生感 App 原型，与技能组合复刻原生感 App 高度相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提供 npx skills add 安装命令，涉及 Agent Skills 开放标准与分发。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 App 界面设计范式与 Agent 设计体验，属于 UX/DX/AX 范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文 Markdown，未引入外部 URL 或未核实信息。"
+}

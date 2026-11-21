@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:19:49.282Z",
+  "url": "https://x.com/fkysly/status/2124072159966548088",
+  "slug": "d35d0a8d292dcef5",
+  "content_hash": "a46fb99bd5d0d1e1e5058ca723b43fa62ee720152a5cd9685a93fae1c112424d",
+  "source": {
+    "path": "sources/articles/dsh-market-backend-desktop-users-about-7-times-web-users.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "直接提及 DSH，与 DeepSeek Harness 生态最相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 对比，与桌面/网页用户偏好相关"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 界面碎片化，与桌面端与网页端体验差异相关"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "涉及网页 Agent Harness 插件，与网页版使用场景相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "直接提及 DSH，与 DeepSeek Harness 生态最相关",
+    "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比，与桌面/网页用户偏好相关",
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 界面碎片化，与桌面端与网页端体验差异相关",
+    "topics/loose-web-agent-harness-plugins.md": "涉及网页 Agent Harness 插件，与网页版使用场景相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dsh-market-backend-desktop-users-about-7-times-web-users.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/loose-web-agent-harness-plugins.md"
+    ],
+    "selection_reasons": {
+      "topics/dsh-grok-cross-dispatch.md": "直接提及 DSH，与 DeepSeek Harness 生态最相关",
+      "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比，与桌面/网页用户偏好相关",
+      "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 界面碎片化，与桌面端与网页端体验差异相关",
+      "topics/loose-web-agent-harness-plugins.md": "涉及网页 Agent Harness 插件，与网页版使用场景相关"
+    },
+    "notes": "日期为 2026 年，可能为系统或示例数据，仅按原文摘录。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dsh-market-backend-desktop-users-about-7-times-web-users.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

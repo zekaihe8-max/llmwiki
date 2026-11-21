@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-skill-authoring.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文涉及 VPS 部署、低资源占用、树莓派及网络稳定性等个人 Agent 云环境注意事项。",
+    "topics/agent-skill-authoring.md": "多个项目被描述为支持 Skill、插件生态或技能自我优化。",
+    "topics/grok-bot-x-api-substitute.md": "帖文定位为 Grok Bot 替代方案，并提及 OpenMausBot 接近其使用方式。",
+    "topics/computer-use.md": "OpenMausBot 被描述支持电脑操作，与 Computer Use 主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 VPS 部署、低资源占用、树莓派及网络稳定性等个人 Agent 云环境注意事项。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "多个项目被描述为支持 Skill、插件生态或技能自我优化。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "帖文定位为 Grok Bot 替代方案，并提及 OpenMausBot 接近其使用方式。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "OpenMausBot 被描述支持电脑操作，与 Computer Use 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有星级数字和项目描述均源自帖文，未引入外部事实。"
+}

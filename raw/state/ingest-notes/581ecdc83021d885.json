@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/workflows-before-agents.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是 Matt Pocock 的首个非开发者 Agent Skill /vector，与技能编写主题直接相关",
+    "topics/agent-skills-open-standard.md": "帖文提及配套框架与文档，涉及 Agent Skill 的规范与传播，与开放标准主题相关",
+    "topics/workflows-before-agents.md": "VECTOR 六问强调先梳理现有工作流再交给 Agent，与工作流优先于智能体主题一致",
+    "topics/tasks-confidently-handed-to-ai.md": "文章聚焦哪些工作可放心交给 AI Agent 及如何验证，与放心交给 AI 的任务主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Matt Pocock 的首个非开发者 Agent Skill /vector，与技能编写主题直接相关"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文提及配套框架与文档，涉及 Agent Skill 的规范与传播，与开放标准主题相关"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "VECTOR 六问强调先梳理现有工作流再交给 Agent，与工作流优先于智能体主题一致"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章聚焦哪些工作可放心交给 AI Agent 及如何验证，与放心交给 AI 的任务主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

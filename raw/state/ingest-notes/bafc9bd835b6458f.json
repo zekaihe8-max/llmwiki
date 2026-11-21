@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章讨论高端 AI 订阅定价与折扣策略，与谷歌 AI 年付五折直接相关。",
+    "topics/usage-limit-ab-tests.md": "文中新老用户差异化入口与价格展示，与用量/权限分层测试相近。",
+    "topics/claude-subscription-risk-control-weights.md": "订阅风控与资格判定逻辑，对“先小额订阅再升级”的账户状态变更有参考。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论高端 AI 订阅定价与折扣策略，与谷歌 AI 年付五折直接相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中新老用户差异化入口与价格展示，与用量/权限分层测试相近。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "订阅风控与资格判定逻辑，对“先小额订阅再升级”的账户状态变更有参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @lxfater 在 X 上的帖文，未核实主张已用「帖文称」标注；链接 one.google.com/ai 来自原文。"
+}

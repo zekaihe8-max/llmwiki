@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/tools-building-own-models.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/tools-building-own-models.md": "文章核心讨论企业自建模型的冲动与现实差距，与该话题直接相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文中提到模型选型与 RAG/检索的取舍，属于模型渠道与能力取舍范畴。",
+    "topics/reuse-before-write.md": "作者主张优先使用知识库、RAG 而非直接训新模型，体现先复用再构建的原则。"
+  },
+  "topics": [
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "文章核心讨论企业自建模型的冲动与现实差距，与该话题直接相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中提到模型选型与 RAG/检索的取舍，属于模型渠道与能力取舍范畴。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "作者主张优先使用知识库、RAG 而非直接训新模型，体现先复用再构建的原则。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "发帖时间按文章显示为 2026 年 11 月 21 日。"
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:55:50.258Z",
+  "url": "https://x.com/lxfater/status/2124065414359445782",
+  "slug": "97c12c19e8a6b76a",
+  "content_hash": "7e0142f281d024bf734b0282addb09cb696a6ca9c96ad7fc1d3f39e6871bce6a",
+  "source": {
+    "path": "sources/articles/browser-use-1-0-replaces-24-browser-tools-with-one-python-tool.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到删除近 13.7 万行代码、砍掉 24 个动作，属智能体规模化工程与精简核心实践。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "官方测试显示单任务成本降低 2.7–5.2 倍，与编程 Agent 省 Token 工具相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是浏览器自动化，属 Computer Use 范式下的工具重构案例。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "减少每次对话携带的工具说明，直接对应上下文工程与 token 成本控制。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是浏览器自动化，属 Computer Use 范式下的工具重构案例。",
+    "topics/agent-scaled-engineering.md": "文中提到删除近 13.7 万行代码、砍掉 24 个动作，属智能体规模化工程与精简核心实践。",
+    "topics/context-engineering-for-agents.md": "减少每次对话携带的工具说明，直接对应上下文工程与 token 成本控制。",
+    "topics/coding-agent-token-saving-tooling.md": "官方测试显示单任务成本降低 2.7–5.2 倍，与编程 Agent 省 Token 工具相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/browser-use-1-0-replaces-24-browser-tools-with-one-python-tool.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文核心是浏览器自动化，属 Computer Use 范式下的工具重构案例。",
+      "topics/agent-scaled-engineering.md": "文中提到删除近 13.7 万行代码、砍掉 24 个动作，属智能体规模化工程与精简核心实践。",
+      "topics/context-engineering-for-agents.md": "减少每次对话携带的工具说明，直接对应上下文工程与 token 成本控制。",
+      "topics/coding-agent-token-saving-tooling.md": "官方测试显示单任务成本降低 2.7–5.2 倍，与编程 Agent 省 Token 工具相关。"
+    },
+    "notes": "所有主张均基于提供的 X 帖文内容，未独立核实官方数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/browser-use-1-0-replaces-24-browser-tools-with-one-python-tool.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

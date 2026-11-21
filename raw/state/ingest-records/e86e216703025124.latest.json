@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:52:18.645Z",
+  "url": "https://x.com/dotey/status/2124034738931613802",
+  "slug": "e86e216703025124",
+  "content_hash": "527305f3b56e7423634e77e35fb4f46746b90afead5129aa709633dcdb224e3d",
+  "source": {
+    "path": "sources/articles/antigravity-quota-reset-follow-varun-not-tibo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "缓存池扩容提升命中率属于编程 Agent 资源与 Token 开销优化，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Antigravity 配额变更与重置，直接对应编程 Agent 体验与额度主题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "配额重置与用量调整属于用量上限测试范畴，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章讨论 Antigravity 配额变更与重置，直接对应编程 Agent 体验与额度主题。",
+    "topics/usage-limit-ab-tests.md": "配额重置与用量调整属于用量上限测试范畴，现有主题已覆盖。",
+    "topics/coding-agent-token-saving-tooling.md": "缓存池扩容提升命中率属于编程 Agent 资源与 Token 开销优化，现有主题已覆盖。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-quota-reset-follow-varun-not-tibo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-token-saving-tooling.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "文章讨论 Antigravity 配额变更与重置，直接对应编程 Agent 体验与额度主题。",
+      "topics/usage-limit-ab-tests.md": "配额重置与用量调整属于用量上限测试范畴，现有主题已覆盖。",
+      "topics/coding-agent-token-saving-tooling.md": "缓存池扩容提升命中率属于编程 Agent 资源与 Token 开销优化，现有主题已覆盖。"
+    },
+    "notes": "所有主张均源于单条 X 帖文及其引用内容，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-quota-reset-follow-varun-not-tibo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

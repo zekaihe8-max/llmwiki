@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "直接讨论高端 AI 订阅的价值与性价比，与帖文主题高度相关。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及模型渠道取舍，订阅套餐与直调 API 属典型渠道对比。",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 的体验与额度限制，帖文涉及 API 额度换算。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "直接讨论高端 AI 订阅的价值与性价比，与帖文主题高度相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及模型渠道取舍，订阅套餐与直调 API 属典型渠道对比。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 的体验与额度限制，帖文涉及 API 额度换算。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，未独立核实；帖文显示日期为 2026 年 11 月 21 日。"
+}

@@ -26,6 +26,92 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [查自己的帖子有没有被标记违规 / Check whether your X posts are marked as violations](./sources/articles/check-whether-your-x-posts-are-marked-as-violations.md) — 帖文称可通过 X 官方页面查询帖子违规标记，被标记后流量将归零。 / The post claims X's official page can check whether posts are marked as violations, after which traffic drops to zero.
+
+- [手机上先把 Antigravity 加到主屏幕 / Add Antigravity to Your Phone Home Screen First](./sources/articles/add-antigravity-to-your-phone-home-screen-first.md) — 帖文介绍在 Antigravity 尚未发布手机 App 前，通过浏览器将其添加到主屏幕以实现移动端远程操控的替代方案。 / The post describes a workaround for adding Antigravity to the phone home screen via browser before its mobile app launches, enabling remote control of conversations on mobile.
+
+- [Google Antigravity 登录页面 / Google Antigravity Sign-In Page](./sources/articles/google-antigravity-sign-in-page.md) — Google Antigravity 服务的登录入口页面，重定向至 Google 账号登录 / Sign-in entry page for Google Antigravity service, redirecting to Google account login
+
+- [10 个热门开源 Personal Agent / 10 Popular Open-Source Personal Agents](./sources/articles/10-popular-open-source-personal-agents.md) — 小墨同学在 X 上整理了 10 个 GitHub 上关注度较高的开源 Personal Agent，并按使用方向和 Star 数简要介绍。 / X user @xiaomovps compiled 10 high-attention open-source Personal Agents on GitHub, briefly introducing them by use case and star count.
+
+- [Antigravity 体验三件套：Superpowers、Context7 与 UI UX Pro Max / Antigravity Experience Trio: Superpowers, Context7, and UI UX Pro Max](./sources/articles/antigravity-experience-trio-superpowers-context7-and-ui-ux-pro-m.md) — 小墨同学推荐三款开源插件/Skill，用于优化 Google Antigravity 的编程流程、文档获取和前端设计能力。 / Xiaomou Tongxue recommends three open-source plugins/Skills to improve Google Antigravity's programming workflow, documentation retrieval, and frontend design capabilities.
+
+- [dsh-market 被他喜欢的 B 站 UP 主推荐了 / dsh-market Recommended by His Favorite Bilibili UP主](./sources/articles/dsh-market-recommended-by-his-favorite-bilibili-up.md) — 开发者在 X 上发帖称，dsh-market 今日被他在 B 站上喜欢的 UP 主推荐，刷视频时意外看到自己的产品。 / The developer posted on X that dsh-market was recommended today by a Bilibili UP主 he likes, and he was surprised to see his own product while scrolling videos.
+
+- [DSH 市场后台：桌面版用户约为网页版 7 倍 / DSH Market Backend: Desktop Users About 7 Times Web Users](./sources/articles/dsh-market-backend-desktop-users-about-7-times-web-users.md) — dsh-market 后台显示 DeepSeek Harness 桌面版与网页版用户比例接近 7:1，用户更偏好桌面端。 / DSH market backend shows DeepSeek Harness desktop-to-web user ratio close to 7:1, with users preferring the desktop client.
+
+- [Gemini App 也能生成 GIF 了 / Gemini App Can Now Generate GIFs](./sources/articles/gemini-app-can-now-generate-gifs.md) — Gemini App 通过先生成视频再转 GIF 的方式支持动图生成，帖文称效果远优于 GPT 且动作连贯不跳帧。 / Gemini App supports GIF generation by generating video first and converting it to GIF; the post claims results far surpass GPT with coherent motion and no frame skipping.
+
+- [OpenAI 公布 GPT-6.2 反蒸馏进展，推理窃取成功率大幅下降 / OpenAI Reports Anti-Distillation Progress for GPT-6.2, Reasoning Theft Success Rates Sharply Drop](./sources/articles/openai-reports-anti-distillation-progress-for-gpt-6-2-reasoning.md) — 帖文称 OpenAI 通过防套取训练、全流程内容监测拦截和接口绑定，将 GPT-6.2 推理过程绑定到当前对话，大幅降低推理窃取成功率并联合封禁批量套取账号。 / The post claims OpenAI used anti-extraction training, full-process content monitoring and interception, and interface binding to bind GPT-6.2 reasoning to the current dialogue, sharply reducing reasoning theft success rates and jointly banning batch-extraction accounts.
+
+- [AI 时代更需要人的主观能动性 / Human Subjective Initiative Is More Needed in the AI Era](./sources/articles/human-subjective-initiative-is-more-needed-in-the-ai-era.md) — 帖文称 AI 时代要求人具备端到端交付能力，既懂业务又懂技术，能够系统性看待问题并独立推动落地。 / The post argues that the AI era requires end-to-end delivery capability—understanding both business and technology, viewing problems systemically, and independently driving implementation.
+
+- [别把 FDE 神化了：苦差事需有能力接单 / Don't Glorify FDE: It's Grunt Work Requiring Real Capability to Profit](./sources/articles/don-t-glorify-fde-it-s-grunt-work-requiring-real-capability-to-p.md) — 蓝哥AI转发Miles Ma文章，指出FDE被过度美化，实为苦差事，赚钱需硬实力。 / Lange AI shares Miles Ma's article noting FDE is overhyped; it's grueling work where earning money demands real skill.
+
+- [杨攀的一句判断：软件价值被压成零，价值变成服务 / Yang Pan's judgment: software value compressed to zero, value becomes service](./sources/articles/yang-pan-s-judgment-software-value-compressed-to-zero-value-beco.md) — 帖文引用杨攀判断，称创造爆炸且注意力不涨时，软件价值被压成零，你和客户之间的价值就变成了服务。 / The post cites Yang Pan's judgment that when creation explodes and attention does not rise, software value is compressed to zero, and the value between you and customers becomes service.
+
+- [他去了深圳 GEO 大会 / He attended the GEO conference in Shenzhen](./sources/articles/he-attended-the-geo-conference-in-shenzhen.md) — 蓝哥AI 参加深圳 GEO 大会，称企业对 GEO 获客需求上升，会场座无虚席。 / Blue Brother AI attended the Shenzhen GEO conference, saying enterprise demand for GEO customer acquisition is rising and the venue was packed.
+
+- [有人实测 AI 订阅套餐比直调 API 划算多少：Claude Max 最高 46.4 倍 / User tests how much cheaper AI subscription plans are than direct API calls: Claude Max up to 46.4x](./sources/articles/user-tests-how-much-cheaper-ai-subscription-plans-are-than-direc.md) — 帖文称多家 AI 订阅套餐的使用价值远超直接调用 API，Claude Max 最高可达 46.4 倍。 / The post claims multiple AI subscription plans offer far more value than direct API calls, with Claude Max reaching up to 46.4x.
+
+- [有安全研究员称在 MiniMax 提示词埋私有链接，第三方后续访问 / Security researcher claims hidden links in MiniMax prompt were accessed by third party](./sources/articles/security-researcher-claims-hidden-links-in-minimax-prompt-were-a.md) — 安全研究员称向 MiniMax 提示词植入仅自己知晓的链接，40–130 小时后出现第三方访问，OpenRouter 撤销其零数据保留标签。 / A security researcher claims to have planted privately known links in MiniMax's prompt; third-party access appeared 40–130 hours later, and OpenRouter removed its zero-data-retention label.
+
+- [GPT-6.2 改了 Responses API 的缓存规则 / GPT-6.2 Changes Responses API Caching Rules](./sources/articles/gpt-6-2-changes-responses-api-caching-rules.md) — OpenAI 更新 Responses API 缓存规则，顶层 instructions 不再命中缓存，导致命中率大幅下降并按全价收费。 / OpenAI updates Responses API caching rules so top-level instructions no longer hit cache, sharply lowering hit rates and charging full price.
+
+- [字节再次调整 AI 组织架构 / ByteDance Adjusts AI Organization Again](./sources/articles/bytedance-adjusts-ai-organization-again.md) — 字节跳动设立 Seed Model-MaaS Infra 并将火山方舟更名为 Seed MaaS，均由吴迪负责，以加强模型研发与企业 MaaS 业务的协同。 / ByteDance establishes Seed Model-MaaS Infra and renames Volcano Ark to Seed MaaS, both led by Wu Di, to strengthen coordination between model R&D and enterprise MaaS business.
+
+- [Thinking Machines 推出可在笔记本运行的 Inkling 2 Mini / Thinking Machines Releases Inkling 2 Mini That Runs on Laptops](./sources/articles/thinking-machines-releases-inkling-2-mini-that-runs-on-laptops.md) — Thinking Machines 开源 264 亿参数的循环 Transformer 模型，激活参数仅 34 亿，可在 16-32GB 内存设备上离线运行，AA 综合评分 20.1 与 Qwen3.8-27B 持平但成本更低。 / Thinking Machines open-sources a 26B-parameter looped transformer with 3.4B active params, runnable on 16-32GB devices offline, scoring 20.1 on AA Index — on par with Qwen3.8-27B at a fraction of cost.
+
+- [姚顺雨与混元团队透露下一代模型将扩大参数规模并推出本地小模型 / Yao Shunyu and Hunyuan Team Reveal Next-Gen Model Will Scale Parameters and Launch Local Small Models](./sources/articles/yao-shunyu-and-hunyuan-team-reveal-next-gen-model-will-scale-par.md) — 姚顺雨与混元团队在 Reddit 问答中表示下一代 Hy 模型将显著扩大参数规模，并计划推出可在个人电脑本地运行的 Hy4-mini 与 Flash-Lite。 / Yao Shunyu and the Hunyuan team said in a Reddit Q&A that the next-generation Hy model will significantly expand parameter scale, and plans to launch Hy4-mini and Flash-Lite small models that run locally on personal computers.
+
+- [Matt Pocock 为非开发者推出首个 Agent Skill /vector / Matt Pocock launches first Agent Skill /vector for non-developers](./sources/articles/matt-pocock-launches-first-agent-skill-vector-for-non-developers.md) — 用 VECTOR 六问将现有工作流映射为可验证、可记忆的 AI 委托流程 / Map existing workflows into verifiable, memorable AI delegation processes using the VECTOR six questions
+
+- [Langfuse 工程师谈主动式 Agent 评测：行动、时机与沉默的记录 / Langfuse Engineer on Evaluating Proactive Agents: Action, Timing, and Recording Silence](./sources/articles/langfuse-engineer-on-evaluating-proactive-agents-action-timing-a.md) — 主动式 Agent 需在行动前判断是否值得做、何时做、做多深，并记录沉默与决策以避免遗漏。 / Proactive agents must judge whether to act, when, and how deeply before acting, and record silence and decisions to avoid omissions.
+
+- [腾讯团队开源 LoopForge，五个定时 Agent 维护自家仓库 / Tencent team open-sources LoopForge, five timed Agents maintain their own repository](./sources/articles/tencent-team-open-sources-loopforge-five-timed-agents-maintain-t.md) — 腾讯团队开源 LoopForge，通过五个错峰定时 Agent 和严格约束自动维护自有代码仓库。 / Tencent team open-sources LoopForge, using five staggered timed Agents and strict constraints to automatically maintain their own code repository.
+
+- [面试里总听到「我们想训自己的模型」：为何 RAG 与知识库更现实 / "We want to train our own model": Why RAG and knowledge bases are more realistic](./sources/articles/we-want-to-train-our-own-model-why-rag-and-knowledge-bases-are-m.md) — 面试官反复提及要训练行业大模型，却说不清数据与能力，作者建议优先考虑知识库、RAG 与实时检索。 / Interviewers repeatedly say they want to train industry models but cannot specify data or capabilities; the author suggests prioritizing knowledge bases, RAG, and real-time retrieval.
+
+- [能稳定用 Claude Code，对做内容的人来说也不全是好事 / Stable access to Claude Code is not entirely good for content creators](./sources/articles/stable-access-to-claude-code-is-not-entirely-good-for-content-cr.md) — 帖文称稳定使用 Claude Code 可能削弱内容创作者使用国产 Agent 工具与模型的能力，并拉大与大多数用户工具现实的差距。 / The post argues that stable access to Claude Code may weaken content creators' ability to use domestic Agent tools and models, widening the gap with the tool reality most users face.
+
+- [发布片里的界面都是这个 Skill 自己做的：huashu-design 3.4 发布 / All Interfaces in the Release Video Made by the Skill Itself: huashu-design 3.4 Released](./sources/articles/all-interfaces-in-the-release-video-made-by-the-skill-itself-hua.md) — 花叔宣布 huashu-design 3.4 发布，GitHub 星标过 3 万，发布片全部界面由该 Skill 自行制作，MIT 开源并可商用。 / Huashu announces huashu-design 3.4 with over 30,000 GitHub stars; all interfaces in the release video are made by the Skill itself, MIT licensed and free for commercial use.
+
+- [huashu-design 3.4 发布，GitHub 星标过 3 万 / huashu-design 3.4 Released, GitHub Stars Surpass 30,000](./sources/articles/huashu-design-3-4-released-github-stars-surpass-30-000.md) — huashu-design 3.4 发布，通过拆解 90 个 App Store 入围 App 提炼八条 Agent App 设计范式，MIT 开源并免费商用 / huashu-design 3.4 released, distilling eight Agent app design paradigms from 90 App Store finalist apps, MIT licensed and free for commercial use
+
+- [有人称与 Claude 合作证明黎曼猜想，12 年研究随即提前公开 / Claim of Claude-assisted Riemann Hypothesis proof prompts early release of 12-year research](./sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md) — 帖文称 Anthropic 数学家与 Claude 合作声称证明黎曼猜想并公开千万行验证代码，另一位耗时 12 年的研究者随即提前发布成果，均待数学界审查。 / The post claims an Anthropic mathematician collaborated with Claude to prove the Riemann Hypothesis and released over 17 million lines of verification code, while a researcher who spent 12 years on the problem published early; both claims await mathematical review.
+
+- [虽然讨厌 Anthropic，他还是整理了 8 个值得收藏的 AI 学习站点 / Despite disliking Anthropic, he compiled 8 AI learning sites worth bookmarking](./sources/articles/despite-disliking-anthropic-he-compiled-8-ai-learning-sites-wort.md) — 帖文整理了 Anthropic 提供的 8 个免费 AI 学习资源，涵盖课程、技术文档、研究与开源案例 / The post compiles 8 free AI learning resources from Anthropic, covering courses, technical docs, research, and open-source cases
+
+- [刚用 Harness，先做好这 3 件事，比装一堆插件更有用 / When First Using Harness, Do These 3 Things First—More Useful Than Installing a Bunch of Plugins](./sources/articles/when-first-using-harness-do-these-3-things-first-more-useful-tha.md) — 帖文建议新手先配置项目规则、按需配置 Skills、并养成先规划再执行最后验证的习惯。 / The post advises newcomers to first configure project rules, set up Skills on demand, and adopt a plan-then-execute-then-verify habit.
+
+- [研究这么多 AI Agent，他越来越觉得 Harness 才最值得深入研究 / After researching many AI Agents, he finds Harness most worth deep research](./sources/articles/after-researching-many-ai-agents-he-finds-harness-most-worth-dee.md) — 作者对比 Pi Agent、DeepSeek Harness、Claude Code、Codex 与 Hermes Agent，认为上下文管理、长任务恢复与结果验证是判断 Harness 成熟度的关键 / Comparing Pi Agent, DeepSeek Harness, Claude Code, Codex and Hermes Agent, the author sees context management, long-task recovery and result verification as key to judging Harness maturity
+
+- [Anthropic 盘前股价一度跌至 87 美元，逼近 IPO 发行价 / Anthropic Premarket Stock Once Fell to $87, Nearing IPO Price](./sources/articles/anthropic-premarket-stock-once-fell-to-87-nearing-ipo-price.md) — Anthropic 股价盘前大跌，一度触及 87 美元，距离每股 83 美元的 IPO 发行价仅 5%，并拖累半导体板块。 / Anthropic's stock plunged in premarket trading, touching $87 and coming within 5% of its $83 IPO price, while dragging down the semiconductor sector.
+
+- [AI 做游戏正在变成一个很稳的用例 / AI game development is becoming a stable use case](./sources/articles/ai-game-development-is-becoming-a-stable-use-case.md) — 帖文称通过 Yoroll 等平台，AI 制作游戏已成为 Vibe Coding 之后另一个稳定且有前景的用例。 / The post says AI game development has become another stable and promising use case after Vibe Coding, via platforms like Yoroll.
+
+- [Gemini 4 Neon 修复复杂代码库，评分接近 Opus 5.5 / Gemini 4 Neon fixes complex codebase issues, scores close to Opus 5.5](./sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md) — 用户在 CodePilot 复杂代码库中对比 Gemini 4 Neon 与 Opus 5.5 修复 8 个问题，Opus 仅高 0.5 分。 / A user compared Gemini 4 Neon and Opus 5.5 fixing 8 issues in the CodePilot complex codebase; Opus scored only 0.5 points higher.
+
+- [黑五折扣加上额度重置，他说明天可以爽用 Neon 了 / Black Friday Discount Plus Quota Reset: He Says He Can Freely Use Neon Tomorrow](./sources/articles/black-friday-discount-plus-quota-reset-he-says-he-can-freely-use.md) — 「帖文称」谷歌面向 Plus 与年度 Pro 计划推出最高 50% 黑五折扣，并通过 Antigravity 缓存池扩容与额度重置提升可用额度。 / The post claims Google is offering up to 50% Black Friday discounts on Plus and annual Pro plans, and boosting usable quota via Antigravity cache pool expansion and quota reset.
+
+- [browser-use 1.0 把 24 个浏览器工具砍成 1 个 Python 工具 / browser-use 1.0 Replaces 24 Browser Tools With One Python Tool](./sources/articles/browser-use-1-0-replaces-24-browser-tools-with-one-python-tool.md) — browser-use 1.0 删除了近 13.7 万行代码，将 24 个浏览器动作替换为一个在持续窗口中运行 Python 并调用浏览器底层接口的工具，官方称同模型在 180 题测试中得分提升 14–33 分、成本降低 2.7–5.2 倍。 / browser-use 1.0 deletes about 137,000 lines of code and replaces 24 browser actions with one Python tool that drives the browser via raw CDP in a persistent window; the official claims the same models score 14–33 points higher on 180 questions while costing 2.7–5.2x less.
+
+- [Gemini 4 很强，官方编程客户端却反重力离谱 / Gemini 4 is strong, but Google's official programming client is a mess](./sources/articles/gemini-4-is-strong-but-google-s-official-programming-client-is-a.md) — 用户称 Gemini 4 编程能力强，但谷歌官方客户端登录与区域提示体验差，且掩盖后台真实安全验证报错。 / Users say Gemini 4 has strong coding ability, but Google's official client has poor login and region UX, hiding real backend security verification errors.
+
+- [新号想挤进早鸟，群里在用 4.99 刀打法 / New users try to squeeze into early-bird pricing; groups use the $4.99 trick](./sources/articles/new-users-try-to-squeeze-into-early-bird-pricing-groups-use-the.md) — 新用户通过先花 4.99 美元订阅再升级年付，试图获得谷歌 AI 黑五五折资格。 / New users attempt to qualify for Google AI Black Friday 50% off by first subscribing for $4.99 then upgrading to annual.
+
+- [黑五五折别急着掏钱，先搞清这 3 件事 / Don't rush to pay for Black Friday 50% off; clarify these 3 things first](./sources/articles/don-t-rush-to-pay-for-black-friday-50-off-clarify-these-3-things.md) — 帖文称谷歌 AI 黑五最高五折，但仅限老用户早鸟，Plus 与 Pro 在编程工具与额度上差异大，付款前需确认地区与续费规则。 / The post says Google AI Black Friday offers up to 50% off, but early-bird pricing is limited to existing users; Plus and Pro differ greatly in coding tools and quotas, so check region and renewal rules before paying.
+
+- [大项目里人和 AI 都只能理解一部分 / In large projects, both humans and AI can only understand part](./sources/articles/in-large-projects-both-humans-and-ai-can-only-understand-part.md) — 大型软件项目中人与 AI 均只能部分理解代码库，需依赖自动化测试、代码评审及 Agent 截图证据等手段保证修改质量 / In large software projects, both humans and AI can only partially understand the codebase; quality relies on automated testing, code review, and Agent screenshot evidence.
+
+- [Gemini Neon 做视频效果也不错 / Gemini Neon does video effects well too](./sources/articles/gemini-neon-does-video-effects-well-too.md) — 宝玉在 X 上发帖称 Gemini Neon 视频制作效果不错，并分享开源 Artifact skill 链接。 / Bao Yu posts on X that Gemini Neon produces good video effects and shares an open-source Artifact skill link.
+
+- [开放工件（Open Artifact） / Open Artifact](./sources/articles/open-artifact.md) — 一个面向编程 Agent 的开放、与模型无关的本地工件格式，让 Agent 生成可打开、可编辑、可评论的幻灯片、设计、表格等工件。 / An open, model-agnostic local artifact format for coding agents that lets agents produce openable, editable, commentable artifacts such as slides, designs, and spreadsheets.
+
+- [Antigravity 配额重置：关注 Varun 而非 Tibo / Antigravity Quota Reset: Follow Varun, Not Tibo](./sources/articles/antigravity-quota-reset-follow-varun-not-tibo.md) — Antigravity 通过扩大缓存池提升 Neon 缓存命中率，配额将重置，用户应关注 Varun 而非 Tibo。 / Antigravity is expanding its cache pool to boost Neon hit rates and will reset quotas; users should follow Varun rather than Tibo.
+
+- [Gemini 黑五最高五折 / Gemini Black Friday Up to 50% Off](./sources/articles/gemini-black-friday-up-to-50-off.md) — Google AI Plus 和年度 Pro 计划从即日起至 11 月 26 日最高可享 50% 折扣。 / Google AI Plus and annual Pro plans are up to 50% off from today through November 26.
+
 - [RackNerd 黑五 VPS 最低 15.98 美元一年 / RackNerd Black Friday VPS starting at $15.98 per year](./sources/articles/racknerd-black-friday-vps-starting-at-15-98-per-year.md) — RackNerd 黑五补货 5 款低价 VPS 套餐，最低 15.98 美元一年，覆盖多个美国机房 / RackNerd Black Friday restocks five low-cost VPS plans starting at $15.98 per year across multiple US data centers
 
 - [Muse 可申请专属邮箱，代为收发邮件 / Muse can apply for a dedicated email to send and receive mail on your behalf](./sources/articles/muse-can-apply-for-a-dedicated-email-to-send-and-receive-mail-on.md) — 帖文称 Muse 已支持申请专属邮箱，用户可在对话中申请并设置发信人，验证后即可使用，Muse 可代表用户收发邮件。 / The post says Muse now supports applying for a dedicated email; users can apply in chat, set the sender name, verify, and then Muse can send and receive emails on their behalf.

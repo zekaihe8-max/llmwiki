@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/company-agent-harness.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心是定时自主运行的 Agent，与智能体自动模式主题高度相关。",
+    "topics/agent-scaled-engineering.md": "LoopForge 体现大规模工程场景下多 Agent 分工协作维护仓库，符合智能体规模化工程。",
+    "topics/company-agent-harness.md": "这是公司级（腾讯团队）自建 Agent 工作台并对准自有仓库，契合公司级 Agent Harness。",
+    "topics/workflows-before-agents.md": "文章强调先在对话中跑通再冻成标准作业流程，体现工作流优先于自主智能体的设计思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心是定时自主运行的 Agent，与智能体自动模式主题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "LoopForge 体现大规模工程场景下多 Agent 分工协作维护仓库，符合智能体规模化工程。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "这是公司级（腾讯团队）自建 Agent 工作台并对准自有仓库，契合公司级 Agent Harness。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先在对话中跑通再冻成标准作业流程，体现工作流优先于自主智能体的设计思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文及其引用内容，未编造 URL 或额外事实。"
+}

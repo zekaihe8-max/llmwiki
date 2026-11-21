@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agentic-video-editing.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文中提到 Gemini Omni 1.2 Flash 模型，与 Flash 模型策略相关。",
+    "topics/agentic-video-editing.md": "通过生成视频再转 GIF 涉及视频生成与编辑能力。",
+    "topics/html-image-fun-knowledge-learning.md": "GIF 表情包与循环照片属于趣味图像/媒体内容产品。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提到 Gemini Omni 1.2 Flash 模型，与 Flash 模型策略相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "通过生成视频再转 GIF 涉及视频生成与编辑能力。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "GIF 表情包与循环照片属于趣味图像/媒体内容产品。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台帖文，未核实官方发布细节，主张已用「帖文称」标注。"
+}

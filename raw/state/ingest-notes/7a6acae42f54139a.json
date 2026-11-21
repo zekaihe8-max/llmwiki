@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/unified-agent-resource-library.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/unified-agent-resource-library.md": "帖文整理的 8 个 Anthropic 学习站点属于跨 Agent 资源库类内容，主题高度相关。",
+    "topics/claude-code-authorship-and-voice.md": "帖文中明确推荐 Claude Code 文档作为 AI 编程学习资源，与 Claude Code 话题相关。",
+    "topics/context-engineering-for-agents.md": "Anthropic Engineering 站点涉及上下文工程等 Agent 技术实践，与该话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文整理的 8 个 Anthropic 学习站点属于跨 Agent 资源库类内容，主题高度相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文中明确推荐 Claude Code 文档作为 AI 编程学习资源，与 Claude Code 话题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Anthropic Engineering 站点涉及上下文工程等 Agent 技术实践，与该话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文原文，未引用图片中不可见内容；URL 均来自帖文原文。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/claude-subscription-risk-control-weights.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Anthropic 属于 AI 原生公司，其股价波动与 AI 赛道市场情绪直接相关",
+    "topics/claude-on-google-cloud.md": "涉及 Anthropic 旗舰模型 Claude 的云端分发渠道，与公司基本面相关",
+    "topics/claude-subscription-risk-control-weights.md": "Claude 订阅业务表现与 Anthropic 商业化及股价走势存在关联"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Anthropic 属于 AI 原生公司，其股价波动与 AI 赛道市场情绪直接相关"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Anthropic 旗舰模型 Claude 的云端分发渠道，与公司基本面相关"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "Claude 订阅业务表现与 Anthropic 商业化及股价走势存在关联"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有股价数据与市场表现主张均来源于 X 帖文及其引用的 Kobeissi Letter，未独立核实。"
+}

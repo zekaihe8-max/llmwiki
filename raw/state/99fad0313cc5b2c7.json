@@ -1,0 +1,23 @@
+{
+  "slug": "99fad0313cc5b2c7",
+  "url": "https://x.com/op7418/status/2123959051126177841",
+  "title": "Neon 修复杂仓库，已经能跟 Opus 5.5 接近",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "99fad0313cc5b2c7d5d3ab59e222673a4900ad3cc76273d1bec8dc50b32483e2",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:07.928Z",
+  "content_hash": "c9ccd66f8ace0173ed87e2df0e54f0ad469aeb460082c2830e79bb750d6fa654",
+  "article_path": "articles/99fad0313cc5b2c7.md",
+  "fetched_url": "https://x.com/op7418/status/2123959051126177841",
+  "source_path": "sources/articles/gemini-4-neon-fixes-complex-codebase-issues-scores-close-to-opus.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T11:56:51.497Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

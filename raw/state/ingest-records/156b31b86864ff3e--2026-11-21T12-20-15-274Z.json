@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:20:15.274Z",
+  "url": "https://x.com/fkysly/status/2123762098333438252",
+  "slug": "156b31b86864ff3e",
+  "content_hash": "d9fff94974343878212da8437161e7abf60c461e80dd6e5d688e482f22a828d9",
+  "source": {
+    "path": "sources/articles/dsh-market-recommended-by-his-favorite-bilibili-up.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "条目讨论产品自荐与主持人加热，与帖文中产品获 UP 主推荐的传播情节相近。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "目录中唯一明确涉及 DSH 的条目，与 dsh-market 所属产品线相关，可复用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/dsh-grok-cross-dispatch.md": "目录中唯一明确涉及 DSH 的条目，与 dsh-market 所属产品线相关，可复用。",
+    "topics/ai-product-self-rec-amplify.md": "条目讨论产品自荐与主持人加热，与帖文中产品获 UP 主推荐的传播情节相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dsh-market-recommended-by-his-favorite-bilibili-up.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/dsh-grok-cross-dispatch.md": "目录中唯一明确涉及 DSH 的条目，与 dsh-market 所属产品线相关，可复用。",
+      "topics/ai-product-self-rec-amplify.md": "条目讨论产品自荐与主持人加热，与帖文中产品获 UP 主推荐的传播情节相近。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未引用外部链接或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dsh-market-recommended-by-his-favorite-bilibili-up.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

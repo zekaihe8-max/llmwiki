@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:09:36.345Z",
+  "url": "https://x.com/0xLogicrw/status/2123982609189671073",
+  "slug": "b7ae9d605855d95a",
+  "content_hash": "5ed3c8c2bb3a715952860c0576c9f663a07965d641307ba4487a23c345cf0b22",
+  "source": {
+    "path": "sources/articles/thinking-machines-releases-inkling-2-mini-that-runs-on-laptops.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章提及 AA 评分 20.1 适合 agentic work，并对比 Qwen 在编程与办公自动化基准上的表现，涉及模型选型权衡。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "展示了消费级算力（Mac 统一内存、16GB 设备）即可运行具备 Agent 能力的模型，体现算力门槛降低。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "模型设计目标即在消费级笔记本（16-32GB 内存）上离线运行，属于本地开放助手小模型范畴。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Inkling 2 Mini 是开放权重的前沿模型，采用 Apache 2.0 许可证发布完整权重。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "Inkling 2 Mini 是开放权重的前沿模型，采用 Apache 2.0 许可证发布完整权重。",
+    "topics/local-open-assistant-models.md": "模型设计目标即在消费级笔记本（16-32GB 内存）上离线运行，属于本地开放助手小模型范畴。",
+    "topics/gpu-ai-compute-unlock.md": "展示了消费级算力（Mac 统一内存、16GB 设备）即可运行具备 Agent 能力的模型，体现算力门槛降低。",
+    "topics/agent-model-channel-tradeoffs.md": "文章提及 AA 评分 20.1 适合 agentic work，并对比 Qwen 在编程与办公自动化基准上的表现，涉及模型选型权衡。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/thinking-machines-releases-inkling-2-mini-that-runs-on-laptops.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "Inkling 2 Mini 是开放权重的前沿模型，采用 Apache 2.0 许可证发布完整权重。",
+      "topics/local-open-assistant-models.md": "模型设计目标即在消费级笔记本（16-32GB 内存）上离线运行，属于本地开放助手小模型范畴。",
+      "topics/gpu-ai-compute-unlock.md": "展示了消费级算力（Mac 统一内存、16GB 设备）即可运行具备 Agent 能力的模型，体现算力门槛降低。",
+      "topics/agent-model-channel-tradeoffs.md": "文章提及 AA 评分 20.1 适合 agentic work，并对比 Qwen 在编程与办公自动化基准上的表现，涉及模型选型权衡。"
+    },
+    "notes": "Source is an X post by @0xLogicrw summarizing Thinking Machines' announcement; benchmark numbers are self-reported by Thinking Machines and Artificial Analysis.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/thinking-machines-releases-inkling-2-mini-that-runs-on-laptops.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

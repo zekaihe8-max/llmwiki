@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/launcher-shortcut-ai-over-agent.md",
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/ai-app-iphone-duo-adaptation.md"
+  ],
+  "selection_reasons": {
+    "topics/launcher-shortcut-ai-over-agent.md": "文章核心是将 Web App 添加到手机主屏幕作为快捷启动入口，与该主题的启动器快捷键 AI 入口高度相关。",
+    "topics/phone-own-server-agent-workbench.md": "帖文提到通过手机远程操控 Agent 对话，与手机连服务器操控 Agent 工作台的场景相近。",
+    "topics/ai-app-iphone-duo-adaptation.md": "涉及 AI 产品在移动端/特定形态手机上的适配与使用方式，与本文的手机端替代方案相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "文章核心是将 Web App 添加到手机主屏幕作为快捷启动入口，与该主题的启动器快捷键 AI 入口高度相关。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "帖文提到通过手机远程操控 Agent 对话，与手机连服务器操控 Agent 工作台的场景相近。"
+    },
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 产品在移动端/特定形态手机上的适配与使用方式，与本文的手机端替代方案相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实 Antigravity 手机 App 发布时间等主张，已在摘要中用「帖文称」标注。"
+}

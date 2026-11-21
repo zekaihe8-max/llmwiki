@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T12:18:30.333Z",
+  "url": "https://x.com/Barret_China/status/2123955560680943982",
+  "slug": "e53c55fdb01a4020",
+  "content_hash": "f56241e9f7c8039ed1a0d0d7583c446d16d752023cd15495f7583d2b87403c11",
+  "source": {
+    "path": "sources/articles/human-subjective-initiative-is-more-needed-in-the-ai-era.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-management-span-of-control.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到端到端交付和系统性解决问题，与智能体规模化工程中的端到端能力相关。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 时代组织对人更全面、更立体的要求，与高管管控跨度和组织视角相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中讨论 AI 组织转型的阵痛，与 AI 原生公司的组织形态相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "文中明确提到大厂职级体系与“点、线、面”，与大厂 AI 数字员工职级编制主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-management-span-of-control.md": "文章涉及 AI 时代组织对人更全面、更立体的要求，与高管管控跨度和组织视角相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "文中明确提到大厂职级体系与“点、线、面”，与大厂 AI 数字员工职级编制主题高度相关。",
+    "topics/ai-native-companies.md": "文中讨论 AI 组织转型的阵痛，与 AI 原生公司的组织形态相近。",
+    "topics/agent-scaled-engineering.md": "文中提到端到端交付和系统性解决问题，与智能体规模化工程中的端到端能力相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/human-subjective-initiative-is-more-needed-in-the-ai-era.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-management-span-of-control.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/ai-native-companies.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-management-span-of-control.md": "文章涉及 AI 时代组织对人更全面、更立体的要求，与高管管控跨度和组织视角相关。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "文中明确提到大厂职级体系与“点、线、面”，与大厂 AI 数字员工职级编制主题高度相关。",
+      "topics/ai-native-companies.md": "文中讨论 AI 组织转型的阵痛，与 AI 原生公司的组织形态相近。",
+      "topics/agent-scaled-engineering.md": "文中提到端到端交付和系统性解决问题，与智能体规模化工程中的端到端能力相关。"
+    },
+    "notes": "来源为 X 用户 Barret_China 的帖文，发布时间显示为 2026 年 11 月 21 日。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/human-subjective-initiative-is-more-needed-in-the-ai-era.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

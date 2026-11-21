@@ -1,0 +1,23 @@
+{
+  "slug": "ce5c80defef55c63",
+  "url": "https://x.com/xiaomovps/status/2124078121792217276",
+  "title": "有人拿 Claude 合作宣布证明黎曼猜想，他也写了这件事",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "ce5c80defef55c634de2b1495f3ce1582c0ab18c19aeed4ed8080d830adf5241",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:09.718Z",
+  "content_hash": "29601bf818a75e67554209ef29388a5da0631f7e24f000fe85b85c388340cebb",
+  "article_path": "articles/ce5c80defef55c63.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2124078121792217276",
+  "source_path": "sources/articles/claim-of-claude-assisted-riemann-hypothesis-proof-prompts-early.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T11:59:52.630Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

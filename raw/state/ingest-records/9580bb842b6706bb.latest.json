@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-21T11:51:54.202Z",
+  "url": "https://x.com/dotey/status/2123856308034285930",
+  "slug": "9580bb842b6706bb",
+  "content_hash": "c492fecdb2081249be6427a2fb36614f8bbcf3af238a7c88263d15297c64b50a",
+  "source": {
+    "path": "sources/articles/gemini-black-friday-up-to-50-off.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅定价与价值，与 Google AI Plus/Pro 折扣促销最相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Pro 计划与模型策略，与年度 Pro 计划促销相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及订阅用量与计划层级，与 AI 订阅促销有一定关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅定价与价值，与 Google AI Plus/Pro 折扣促销最相关。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Pro 计划与模型策略，与年度 Pro 计划促销相关。",
+    "topics/usage-limit-ab-tests.md": "涉及订阅用量与计划层级，与 AI 订阅促销有一定关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-black-friday-up-to-50-off.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅定价与价值，与 Google AI Plus/Pro 折扣促销最相关。",
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Pro 计划与模型策略，与年度 Pro 计划促销相关。",
+      "topics/usage-limit-ab-tests.md": "涉及订阅用量与计划层级，与 AI 订阅促销有一定关联。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-black-friday-up-to-50-off.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

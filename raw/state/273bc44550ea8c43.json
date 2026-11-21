@@ -1,0 +1,23 @@
+{
+  "slug": "273bc44550ea8c43",
+  "url": "https://x.com/shao__meng/status/2124043580415385946",
+  "title": "Langfuse 工程师谈主动式 Agent 该怎么评",
+  "digest": "2026-11-21-cn-x.md",
+  "status": "filed",
+  "hash": "273bc44550ea8c436a8307e2821c49670ca8443a2909b3d1bdd7b8efa848c9ad",
+  "first_seen": "2026-11-21T11:51:01.785Z",
+  "last_seen": "2026-11-21T11:51:01.785Z",
+  "fetched_at": "2026-11-21T11:51:11.899Z",
+  "content_hash": "1b7b0ebb1518bab2406ccc7a341c5b1103920f0fda8ea3d56fe1edde757ec66f",
+  "article_path": "articles/273bc44550ea8c43.md",
+  "fetched_url": "https://x.com/shao__meng/status/2124043580415385946",
+  "source_path": "sources/articles/langfuse-engineer-on-evaluating-proactive-agents-action-timing-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-21T12:02:47.966Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
