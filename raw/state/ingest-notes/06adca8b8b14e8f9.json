@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "目录中唯一明确提及 GEO 的主题，与帖文会议语境最贴近。",
+    "topics/peer-economics-before-vibe-coding.md": "帖文强调“商业常识”与赚钱逻辑，该主题涉及同行经济与商业基本面，相关性最高。",
+    "topics/ai-native-companies.md": "GEO 与 AI 原生公司增长语境相邻，可作为增长类主题的参考。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "目录中唯一明确提及 GEO 的主题，与帖文会议语境最贴近。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "帖文强调“商业常识”与赚钱逻辑，该主题涉及同行经济与商业基本面，相关性最高。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "GEO 与 AI 原生公司增长语境相邻，可作为增长类主题的参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文时间显示为 2026 年 11 月 22 日，按原文保留，未做额外事实核查。"
+}

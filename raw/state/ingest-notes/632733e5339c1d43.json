@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-in-inbox.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-identity-platform-keys.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文中明确引用 Claude Code 自动模式的分类器审查与自动拦截思路，与本文自动审核部分直接相关。",
+    "topics/agent-in-inbox.md": "文中将等待用户答复设计为收件箱事件，并以此启动下一次运行恢复会话，与收件箱主题直接对应。",
+    "topics/agent-compute-and-governance.md": "文中讨论常驻 Agent 的权限边界、自主执行与人工审批范围，属于智能体治理与授权决策。",
+    "topics/agent-identity-platform-keys.md": "文中提出凭证代理，避免 Agent 直接持有密码、API 密钥或访问令牌，涉及身份凭证与平台密钥管理。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中明确引用 Claude Code 自动模式的分类器审查与自动拦截思路，与本文自动审核部分直接相关。"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "文中将等待用户答复设计为收件箱事件，并以此启动下一次运行恢复会话，与收件箱主题直接对应。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中讨论常驻 Agent 的权限边界、自主执行与人工审批范围，属于智能体治理与授权决策。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "文中提出凭证代理，避免 Agent 直接持有密码、API 密钥或访问令牌，涉及身份凭证与平台密钥管理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有目录，action 均为 unchanged；内容仅基于提供的帖文 markdown，未引入外部事实或 URL。"
+}

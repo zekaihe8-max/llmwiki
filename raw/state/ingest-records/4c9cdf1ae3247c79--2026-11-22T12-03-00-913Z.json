@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:03:00.913Z",
+  "url": "https://x.com/lxfater/status/2124439812467748949",
+  "slug": "4c9cdf1ae3247c79",
+  "content_hash": "79edaf937e07d42e6a95e357b8ab447d142d90ba4ce9813bf1a3a85f6cca5a08",
+  "source": {
+    "path": "sources/articles/opencode-sells-chinese-open-source-models-cheaper-than-official.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "涉及国产模型开源策略与算力约束，与文中显卡紧张、开源换流量的论点相关。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文章讨论 DeepSeek 自营推理价格与第三方聚合平台（OpenCode）低价转卖的对比，直接相关。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提到平台仅租显卡推理即可低价转卖，涉及大厂推理成本与效率问题。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文中核心前提是模型权重免费公开，属于开放权重前沿模型范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "文章讨论 DeepSeek 自营推理价格与第三方聚合平台（OpenCode）低价转卖的对比，直接相关。",
+    "topics/china-open-source-lead-us-compute.md": "涉及国产模型开源策略与算力约束，与文中显卡紧张、开源换流量的论点相关。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中提到平台仅租显卡推理即可低价转卖，涉及大厂推理成本与效率问题。",
+    "topics/open-weight-frontier-models.md": "文中核心前提是模型权重免费公开，属于开放权重前沿模型范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/opencode-sells-chinese-open-source-models-cheaper-than-official.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/lab-inference-serving-cost-efficiency.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "文章讨论 DeepSeek 自营推理价格与第三方聚合平台（OpenCode）低价转卖的对比，直接相关。",
+      "topics/china-open-source-lead-us-compute.md": "涉及国产模型开源策略与算力约束，与文中显卡紧张、开源换流量的论点相关。",
+      "topics/lab-inference-serving-cost-efficiency.md": "文中提到平台仅租显卡推理即可低价转卖，涉及大厂推理成本与效率问题。",
+      "topics/open-weight-frontier-models.md": "文中核心前提是模型权重免费公开，属于开放权重前沿模型范畴。"
+    },
+    "notes": "所有价格、厂商动机及因果主张均来源于 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/opencode-sells-chinese-open-source-models-cheaper-than-official.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

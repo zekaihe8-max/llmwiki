@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T11:54:16.917Z",
+  "url": "https://x.com/op7418/status/2124191652793520552",
+  "slug": "13eaf996e2e20535",
+  "content_hash": "5dc5601daf7683e450962a1efd49884c4085f17da6e8418a0bf9a2d136a1b9af",
+  "source": {
+    "path": "sources/articles/lean-fro-and-mathlib-stamp-approval-on-machine-proof-of-riemann.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文涉及机构对 AI 辅助科学成果的背书与科研实践适配。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Lean 定理证明器与机器证明的可信度，属于形式化验证范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文核心是 Lean 定理证明器与机器证明的可信度，属于形式化验证范畴。",
+    "topics/ai-peer-review-science-adaptation.md": "帖文涉及机构对 AI 辅助科学成果的背书与科研实践适配。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lean-fro-and-mathlib-stamp-approval-on-machine-proof-of-riemann.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/ai-peer-review-science-adaptation.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "帖文核心是 Lean 定理证明器与机器证明的可信度，属于形式化验证范畴。",
+      "topics/ai-peer-review-science-adaptation.md": "帖文涉及机构对 AI 辅助科学成果的背书与科研实践适配。"
+    },
+    "notes": "所有主张均源于单一 X 帖文，未独立核实黎曼猜想证明是否真实存在。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lean-fro-and-mathlib-stamp-approval-on-machine-proof-of-riemann.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:41:01.431Z",
+  "url": "https://x.com/fkysly/status/2124467812060352740",
+  "slug": "8cb624ae8e9ba6d1",
+  "content_hash": "b4c05d3d3b4f5796b5f01973c6efec137dedd6b8936c1edc58b749d2a97ba675",
+  "source": {
+    "path": "sources/articles/check-google-one-app-pricing-before-subscribing-to-gemini-via-ap.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "文章讨论通过 App Store 订阅 AI 模型，属于应用内模型合作与支付渠道。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及高端 AI 订阅的定价与优惠，属于订阅价值与价格核对场景。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提及 Gemini Pro 默认月费，与 Pro 模型定价策略相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "文章讨论通过 App Store 订阅 AI 模型，属于应用内模型合作与支付渠道。",
+    "topics/premium-ai-subscription-value.md": "涉及高端 AI 订阅的定价与优惠，属于订阅价值与价格核对场景。",
+    "topics/pro-vs-flash-model-strategy.md": "文中提及 Gemini Pro 默认月费，与 Pro 模型定价策略相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/check-google-one-app-pricing-before-subscribing-to-gemini-via-ap.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/in-app-model-partnerships.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/in-app-model-partnerships.md": "文章讨论通过 App Store 订阅 AI 模型，属于应用内模型合作与支付渠道。",
+      "topics/premium-ai-subscription-value.md": "涉及高端 AI 订阅的定价与优惠，属于订阅价值与价格核对场景。",
+      "topics/pro-vs-flash-model-strategy.md": "文中提及 Gemini Pro 默认月费，与 Pro 模型定价策略相关。"
+    },
+    "notes": "所有事实均来源于提供的帖文文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/check-google-one-app-pricing-before-subscribing-to-gemini-via-ap.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

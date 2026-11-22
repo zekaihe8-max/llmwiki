@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:29:37.923Z",
+  "url": "https://x.com/Gorden_Sun/status/2124429073523052704",
+  "slug": "1d867455720e13b8",
+  "content_hash": "db7483d776e7e38591971b710a8a250717a889c4196101135edf9cecd31f441b",
+  "source": {
+    "path": "sources/articles/minimax-h3-accelerated-variant-pi-h3-shows-strong-performance-on.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/interactive-world-models.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "MiniMax 为中国公司，其开源模型及社区加速变体体现中国开源生态活跃度"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "MiniMax H3 为视频生成世界模型，pi-H3 加速推理涉及实时交互能力"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "pi-H3 以开放权重形式发布于 HuggingFace，属于前沿开放权重视频生成模型"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "pi-H3 以开放权重形式发布于 HuggingFace，属于前沿开放权重视频生成模型",
+    "topics/interactive-world-models.md": "MiniMax H3 为视频生成世界模型，pi-H3 加速推理涉及实时交互能力",
+    "topics/china-open-source-lead-us-compute.md": "MiniMax 为中国公司，其开源模型及社区加速变体体现中国开源生态活跃度"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/minimax-h3-accelerated-variant-pi-h3-shows-strong-performance-on.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/interactive-world-models.md",
+      "topics/china-open-source-lead-us-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "pi-H3 以开放权重形式发布于 HuggingFace，属于前沿开放权重视频生成模型",
+      "topics/interactive-world-models.md": "MiniMax H3 为视频生成世界模型，pi-H3 加速推理涉及实时交互能力",
+      "topics/china-open-source-lead-us-compute.md": "MiniMax 为中国公司，其开源模型及社区加速变体体现中国开源生态活跃度"
+    },
+    "notes": "Source is a single X post; performance claims unverified beyond the author's observation. Model repo and Space URLs are truncated in the post (t.co links).",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/minimax-h3-accelerated-variant-pi-h3-shows-strong-performance-on.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

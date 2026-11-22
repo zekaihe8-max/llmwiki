@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/interactive-world-models.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "pi-H3 以开放权重形式发布于 HuggingFace，属于前沿开放权重视频生成模型",
+    "topics/interactive-world-models.md": "MiniMax H3 为视频生成世界模型，pi-H3 加速推理涉及实时交互能力",
+    "topics/china-open-source-lead-us-compute.md": "MiniMax 为中国公司，其开源模型及社区加速变体体现中国开源生态活跃度"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "pi-H3 以开放权重形式发布于 HuggingFace，属于前沿开放权重视频生成模型"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "MiniMax H3 为视频生成世界模型，pi-H3 加速推理涉及实时交互能力"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "MiniMax 为中国公司，其开源模型及社区加速变体体现中国开源生态活跃度"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; performance claims unverified beyond the author's observation. Model repo and Space URLs are truncated in the post (t.co links)."
+}

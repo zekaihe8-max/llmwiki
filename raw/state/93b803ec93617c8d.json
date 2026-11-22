@@ -1,0 +1,23 @@
+{
+  "slug": "93b803ec93617c8d",
+  "url": "https://huggingface.co/Lakonik/pi-H3",
+  "title": "模型",
+  "digest": "2026-11-22-cn-x.md",
+  "status": "filed",
+  "hash": "93b803ec93617c8db5d2a24ac2dc70619589c65467caa21488d045bd20ad7cac",
+  "first_seen": "2026-11-22T11:52:57.013Z",
+  "last_seen": "2026-11-22T11:52:57.013Z",
+  "fetched_at": "2026-11-22T11:53:08.000Z",
+  "content_hash": "0b0ee4f94da276ac7a66407e2a36ea19314a05b43eb7e6efad8f3769a70cf66e",
+  "article_path": "articles/93b803ec93617c8d.md",
+  "fetched_url": "https://huggingface.co/Lakonik/pi-H3",
+  "source_path": "sources/articles/lakonik-pi-h3-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-22T12:30:05.667Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

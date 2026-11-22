@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:30:05.667Z",
+  "url": "https://huggingface.co/Lakonik/pi-H3",
+  "slug": "93b803ec93617c8d",
+  "content_hash": "0b0ee4f94da276ac7a66407e2a36ea19314a05b43eb7e6efad8f3769a70cf66e",
+  "source": {
+    "path": "sources/articles/lakonik-pi-h3-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "扩散变换器推理通常依赖消费级 GPU 算力"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "pi-H3 属于可在本地或开放环境使用的模型类别"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Hugging Face 上的开放权重模型仓库"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章涉及 Hugging Face 上的开放权重模型仓库",
+    "topics/local-open-assistant-models.md": "pi-H3 属于可在本地或开放环境使用的模型类别",
+    "topics/gpu-ai-compute-unlock.md": "扩散变换器推理通常依赖消费级 GPU 算力"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lakonik-pi-h3-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/gpu-ai-compute-unlock.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章涉及 Hugging Face 上的开放权重模型仓库",
+      "topics/local-open-assistant-models.md": "pi-H3 属于可在本地或开放环境使用的模型类别",
+      "topics/gpu-ai-compute-unlock.md": "扩散变换器推理通常依赖消费级 GPU 算力"
+    },
+    "notes": "文章内容极简，仅包含论文链接与元数据，未披露模型架构或参数细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lakonik-pi-h3-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

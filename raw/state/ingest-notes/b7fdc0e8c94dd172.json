@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/intelligence-as-anthropocentric-benchmark.md": "涉及智能与天才的概念讨论，与 P vs NP 论天才最为相近",
+    "topics/hunger-beats-tenure.md": "涉及个人能力与资历的对比，与天才与普通人的主题有交集",
+    "topics/ai-eval-work-record-gateway.md": "涉及能力评测与记录，与 P vs NP 作为理解框架的讨论相关",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及公开标准与质量审查，与 P vs NP 类问题的讨论语境相近"
+  },
+  "topics": [
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "涉及智能与天才的概念讨论，与 P vs NP 论天才最为相近"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "涉及个人能力与资历的对比，与天才与普通人的主题有交集"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及能力评测与记录，与 P vs NP 作为理解框架的讨论相关"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及公开标准与质量审查，与 P vs NP 类问题的讨论语境相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文可见部分被截断，未展示 P vs NP 的完整论证及“多数人相信”的具体内容。"
+}

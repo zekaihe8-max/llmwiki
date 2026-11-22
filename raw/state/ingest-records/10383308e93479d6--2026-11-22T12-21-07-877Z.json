@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:21:07.877Z",
+  "url": "https://x.com/shao__meng/status/2124331898772361395",
+  "slug": "10383308e93479d6",
+  "content_hash": "0fe27ff67c32fe263a247114b2f947254df8f96b6d250af725e499365f87d45e",
+  "source": {
+    "path": "sources/articles/parth-sharma-1-5-years-of-agent-engineering-it-s-all-a-while-loo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "核心运行框架被描述为 while 循环，与智能体自动模式的循环执行相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到流式传输、心跳、超时、幂等重试等后端工程问题，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章重点讨论工具结果对上下文、成本与判断质量的影响，与该主题直接相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文将子 Agent 还原为工具调用并折进主循环，与该主题一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章重点讨论工具结果对上下文、成本与判断质量的影响，与该主题直接相关。",
+    "topics/agent-scaled-engineering.md": "文中提到流式传输、心跳、超时、幂等重试等后端工程问题，属于智能体规模化工程范畴。",
+    "topics/fold-subagents-into-main-loop.md": "帖文将子 Agent 还原为工具调用并折进主循环，与该主题一致。",
+    "topics/agent-auto-mode.md": "核心运行框架被描述为 while 循环，与智能体自动模式的循环执行相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/parth-sharma-1-5-years-of-agent-engineering-it-s-all-a-while-loo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章重点讨论工具结果对上下文、成本与判断质量的影响，与该主题直接相关。",
+      "topics/agent-scaled-engineering.md": "文中提到流式传输、心跳、超时、幂等重试等后端工程问题，属于智能体规模化工程范畴。",
+      "topics/fold-subagents-into-main-loop.md": "帖文将子 Agent 还原为工具调用并折进主循环，与该主题一致。",
+      "topics/agent-auto-mode.md": "核心运行框架被描述为 while 循环，与智能体自动模式的循环执行相关。"
+    },
+    "notes": "Source is an X post by shao__meng summarizing Parth Sharma’s blog; no new topics created.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/parth-sharma-1-5-years-of-agent-engineering-it-s-all-a-while-loo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

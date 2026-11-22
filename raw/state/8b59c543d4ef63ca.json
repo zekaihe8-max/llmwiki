@@ -1,0 +1,34 @@
+{
+  "slug": "8b59c543d4ef63ca",
+  "url": "https://developers.openai.com/api/docs/guides/latest-model?model=gpt-6.2-astra",
+  "title": "官方模板",
+  "digest": "2026-11-22-cn-x.md",
+  "status": "failed",
+  "hash": "8b59c543d4ef63cadc468c58f5c6c83578b5c84d036a280bde08b47410bf757f",
+  "first_seen": "2026-11-22T11:52:57.013Z",
+  "last_seen": "2026-11-22T11:52:57.013Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 403 Forbidden",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-22T11:52:59.761Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    },
+    {
+      "at": "2026-11-22T12:44:27.007Z",
+      "stage": "fetch",
+      "error": "HTTP 403 Forbidden"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 403 Forbidden",
+  "last_fetch_failed_at": "2026-11-22T12:44:27.007Z"
+}

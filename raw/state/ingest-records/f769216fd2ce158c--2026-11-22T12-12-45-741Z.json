@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:12:45.741Z",
+  "url": "https://x.com/xiaomovps/status/2124357528859578434",
+  "slug": "f769216fd2ce158c",
+  "content_hash": "da15f5f20cbb99a706d2500b6eecc97c7f72c0aeb526e0992c615a2980b38675",
+  "source": {
+    "path": "sources/articles/black-friday-more-than-google-50-off-10-ai-tools-with-official-l.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中涉及多家 AI 原生厂商的官方促销，与 AI 原生公司主题相关。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文由 KOL 整理并推荐 AI 产品优惠，与 AI 产品自荐与主持人加热主题相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI 工具订阅折扣与续费价值，与高端 AI 订阅价值主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章聚焦 AI 工具订阅折扣与续费价值，与高端 AI 订阅价值主题高度相关。",
+    "topics/ai-native-companies.md": "文中涉及多家 AI 原生厂商的官方促销，与 AI 原生公司主题相关。",
+    "topics/ai-product-self-rec-amplify.md": "帖文由 KOL 整理并推荐 AI 产品优惠，与 AI 产品自荐与主持人加热主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/black-friday-more-than-google-50-off-10-ai-tools-with-official-l.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章聚焦 AI 工具订阅折扣与续费价值，与高端 AI 订阅价值主题高度相关。",
+      "topics/ai-native-companies.md": "文中涉及多家 AI 原生厂商的官方促销，与 AI 原生公司主题相关。",
+      "topics/ai-product-self-rec-amplify.md": "帖文由 KOL 整理并推荐 AI 产品优惠，与 AI 产品自荐与主持人加热主题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/black-friday-more-than-google-50-off-10-ai-tools-with-official-l.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

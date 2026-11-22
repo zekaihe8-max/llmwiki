@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/programmable-edge-compute.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/geo-personal-website-first-step.md"
+  ],
+  "selection_reasons": {
+    "topics/programmable-edge-compute.md": "树莓派作为边缘设备运行实时录音与识别，属可编程边缘计算场景",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文中 Codex 担任编程 Agent 帮助构建项目，符合个人 Agent 调度编程 Agent 的主题",
+    "topics/voice-input-oral-vs-document-for-agents.md": "飞鸟电台核心是对鸟鸣音频进行识别与记录，涉及语音/音频输入处理",
+    "topics/geo-personal-website-first-step.md": "作者发布个人项目网址并邀请访问，类似个人网站与友情链接的首步展示"
+  },
+  "topics": [
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "树莓派作为边缘设备运行实时录音与识别，属可编程边缘计算场景"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中 Codex 担任编程 Agent 帮助构建项目，符合个人 Agent 调度编程 Agent 的主题"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "飞鸟电台核心是对鸟鸣音频进行识别与记录，涉及语音/音频输入处理"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "作者发布个人项目网址并邀请访问，类似个人网站与友情链接的首步展示"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自所获推文，未引入外部信息。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章聚焦 AI 工具订阅折扣与续费价值，与高端 AI 订阅价值主题高度相关。",
+    "topics/ai-native-companies.md": "文中涉及多家 AI 原生厂商的官方促销，与 AI 原生公司主题相关。",
+    "topics/ai-product-self-rec-amplify.md": "帖文由 KOL 整理并推荐 AI 产品优惠，与 AI 产品自荐与主持人加热主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI 工具订阅折扣与续费价值，与高端 AI 订阅价值主题高度相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文中涉及多家 AI 原生厂商的官方促销，与 AI 原生公司主题相关。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文由 KOL 整理并推荐 AI 产品优惠，与 AI 产品自荐与主持人加热主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/peer-economics-before-vibe-coding.md": "直接讨论 Vibe Coding 的经济价值与盈利现实，与帖文主题高度相关",
+    "topics/vibe-coding-memory-paradox.md": "标题包含 Vibe Coding，属于同一议题家族",
+    "topics/ux-dx-and-ax.md": "帖文指出用户未获益而开发者狂欢，涉及 UX 与 DX 的失衡",
+    "topics/ai-code-vs-messy-code-double-standard.md": "涉及 AI 生成代码量与实际上线产出的差距"
+  },
+  "topics": [
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "直接讨论 Vibe Coding 的经济价值与盈利现实，与帖文主题高度相关"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "标题包含 Vibe Coding，属于同一议题家族"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文指出用户未获益而开发者狂欢，涉及 UX 与 DX 的失衡"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 生成代码量与实际上线产出的差距"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 22 日，所有主张均基于该 X 帖文内容，未引入外部事实。"
+}

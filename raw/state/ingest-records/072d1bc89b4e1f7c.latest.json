@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:13:06.904Z",
+  "url": "https://x.com/xiaomovps/status/2124460249608585706",
+  "slug": "072d1bc89b4e1f7c",
+  "content_hash": "7d7f23f90ec1753d36cf68eb4318eadde22df41b71a2b7a43ecba4b4afa1d165",
+  "source": {
+    "path": "sources/articles/he-decided-to-cancel-gpt-plus.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/computer-use.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到谷歌推出 Computer Use 可操作电脑"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是对比高端 AI 订阅的性价比，决定退订 GPT Plus 转订 Google AI Pro"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提到 Google AI Pro 及其模型策略，与 Pro 与 Flash 模型策略主题相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到 GPT Plus 有额度限制，Google 则不用看额度，涉及用量上限对比"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是对比高端 AI 订阅的性价比，决定退订 GPT Plus 转订 Google AI Pro",
+    "topics/pro-vs-flash-model-strategy.md": "文中提到 Google AI Pro 及其模型策略，与 Pro 与 Flash 模型策略主题相关",
+    "topics/computer-use.md": "帖文明确提到谷歌推出 Computer Use 可操作电脑",
+    "topics/usage-limit-ab-tests.md": "文中提到 GPT Plus 有额度限制，Google 则不用看额度，涉及用量上限对比"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/he-decided-to-cancel-gpt-plus.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/computer-use.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心是对比高端 AI 订阅的性价比，决定退订 GPT Plus 转订 Google AI Pro",
+      "topics/pro-vs-flash-model-strategy.md": "文中提到 Google AI Pro 及其模型策略，与 Pro 与 Flash 模型策略主题相关",
+      "topics/computer-use.md": "帖文明确提到谷歌推出 Computer Use 可操作电脑",
+      "topics/usage-limit-ab-tests.md": "文中提到 GPT Plus 有额度限制，Google 则不用看额度，涉及用量上限对比"
+    },
+    "notes": "基于单条 X 帖文整理，未独立核实文中提及的模型版本与价格细节",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/he-decided-to-cancel-gpt-plus.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

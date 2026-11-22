@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:22:20.840Z",
+  "url": "https://x.com/cgnot996/status/2124435094924562659",
+  "slug": "d94edb590b1f10ee",
+  "content_hash": "e7bc3ee5dd70873c07bd232e490b319e753f67f5a77aec4ddab9263a575a30dd",
+  "source": {
+    "path": "sources/articles/12-curated-articles-to-maximize-google-ai-ultra-account-value.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agentic-video-editing.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "大量篇幅讲解 Flow、Veo、Nano Banana 等 AI 视频生成与出片工作流。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及 Antigravity、agy 命令行及模型额度体感，与编程 Agent 体验和额度密切相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于高端 AI 订阅的价值榨取与档位对比，直接命中该主题。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中多次提及五份独立额度池、用量查询入口及各工具计费边界，属于用量上限类讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文核心在于高端 AI 订阅的价值榨取与档位对比，直接命中该主题。",
+    "topics/agentic-video-editing.md": "大量篇幅讲解 Flow、Veo、Nano Banana 等 AI 视频生成与出片工作流。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及 Antigravity、agy 命令行及模型额度体感，与编程 Agent 体验和额度密切相关。",
+    "topics/usage-limit-ab-tests.md": "文中多次提及五份独立额度池、用量查询入口及各工具计费边界，属于用量上限类讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/12-curated-articles-to-maximize-google-ai-ultra-account-value.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/agentic-video-editing.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "帖文核心在于高端 AI 订阅的价值榨取与档位对比，直接命中该主题。",
+      "topics/agentic-video-editing.md": "大量篇幅讲解 Flow、Veo、Nano Banana 等 AI 视频生成与出片工作流。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及 Antigravity、agy 命令行及模型额度体感，与编程 Agent 体验和额度密切相关。",
+      "topics/usage-limit-ab-tests.md": "文中多次提及五份独立额度池、用量查询入口及各工具计费边界，属于用量上限类讨论。"
+    },
+    "notes": "所有事实均源自提供的帖文正文，未引入外部链接或未在文中出现的信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/12-curated-articles-to-maximize-google-ai-ultra-account-value.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

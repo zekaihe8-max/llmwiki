@@ -1,0 +1,23 @@
+{
+  "slug": "812546635294aabb",
+  "url": "https://arxiv.org/abs/2604.14228v3",
+  "title": "论文",
+  "digest": "2026-11-22-cn-x.md",
+  "status": "filed",
+  "hash": "812546635294aabb325b3a13ea0e27d9e4551230ad107986b9139d348a8326ed",
+  "first_seen": "2026-11-22T11:52:57.013Z",
+  "last_seen": "2026-11-22T11:52:57.013Z",
+  "fetched_at": "2026-11-22T11:53:05.808Z",
+  "content_hash": "4943c653ab2cd32dc09c0bbae5f7e0d795fa6402cb093370fb8dced15b31e5f5",
+  "article_path": "articles/812546635294aabb.md",
+  "fetched_url": "https://arxiv.org/abs/2604.14228v3",
+  "source_path": "sources/articles/dive-into-claude-code-the-design-space-of-today-s-and-future-ai.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-22T12:20:13.905Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-skill-authoring.md",
+    "topics/computer-use.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章明确区分检查点模式与全自动模式，与智能体自动模式主题高度相关。",
+    "topics/agent-skill-authoring.md": "文章详细列出 flow-director 等六项技能及其能力边界，适合参考技能编写主题。",
+    "topics/computer-use.md": "插件依赖内置浏览器子代理操作网页 UI，属于计算机使用类场景。",
+    "topics/agentic-video-editing.md": "文章涵盖视频生成、场景剪辑、帧提取与媒体下载，与智能体视频剪辑主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章明确区分检查点模式与全自动模式，与智能体自动模式主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详细列出 flow-director 等六项技能及其能力边界，适合参考技能编写主题。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "插件依赖内置浏览器子代理操作网页 UI，属于计算机使用类场景。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章涵盖视频生成、场景剪辑、帧提取与媒体下载，与智能体视频剪辑主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有咨询主题均保持 unchanged，未创建新主题。"
+}

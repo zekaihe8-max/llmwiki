@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文明确提到 AI Native 公司仍需维护软件，与该话题直接相关。",
+    "topics/peer-economics-before-vibe-coding.md": "帖文以高收入者机会成本论证 vibe coding 无法替代商业软件，与该话题相关。",
+    "topics/vibe-coding-memory-paradox.md": "帖文直接提及 vibe coding，与该话题有直接文本重叠。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 AI Native 公司仍需维护软件，与该话题直接相关。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "帖文以高收入者机会成本论证 vibe coding 无法替代商业软件，与该话题相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "帖文直接提及 vibe coding，与该话题有直接文本重叠。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post; claims are attributed to the post and not independently verified."
+}

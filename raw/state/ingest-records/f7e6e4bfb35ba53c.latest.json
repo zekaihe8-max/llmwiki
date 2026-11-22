@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:31:43.275Z",
+  "url": "https://x.com/turingou/status/2124162529274573171",
+  "slug": "f7e6e4bfb35ba53c",
+  "content_hash": "ba2fd93541bc669447136781c8caaaa97678f2d822f360219237410857da3ddd",
+  "source": {
+    "path": "sources/articles/using-claude-code-to-rescue-domestically-modified-android-projec.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/llm-assisted-ereader-jailbreak.md",
+    "topics/china-special-edition-preinstalls.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "文章涉及在受限安卓设备上通过 AI 辅助修改系统限制与侧载应用，与“AI 协助的系统破解移植风潮”高度相关。"
+    },
+    {
+      "path": "topics/china-special-edition-preinstalls.md",
+      "action": "unchanged",
+      "reason": "国内改版安卓系统与本地预装/限制属于中国特供版与本地应用预装的范畴。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "核心工具是 Claude Code，与该话题关于 Claude Code 作者与社区使用的讨论相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "突破设备出厂限制、开启开发者选项的做法与大模型协助设备越狱的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "文章涉及在受限安卓设备上通过 AI 辅助修改系统限制与侧载应用，与“AI 协助的系统破解移植风潮”高度相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "突破设备出厂限制、开启开发者选项的做法与大模型协助设备越狱的主题相近。",
+    "topics/china-special-edition-preinstalls.md": "国内改版安卓系统与本地预装/限制属于中国特供版与本地应用预装的范畴。",
+    "topics/claude-code-authorship-and-voice.md": "核心工具是 Claude Code，与该话题关于 Claude Code 作者与社区使用的讨论相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/using-claude-code-to-rescue-domestically-modified-android-projec.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-os-port-wave.md",
+      "topics/llm-assisted-ereader-jailbreak.md",
+      "topics/china-special-edition-preinstalls.md",
+      "topics/claude-code-authorship-and-voice.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-os-port-wave.md": "文章涉及在受限安卓设备上通过 AI 辅助修改系统限制与侧载应用，与“AI 协助的系统破解移植风潮”高度相关。",
+      "topics/llm-assisted-ereader-jailbreak.md": "突破设备出厂限制、开启开发者选项的做法与大模型协助设备越狱的主题相近。",
+      "topics/china-special-edition-preinstalls.md": "国内改版安卓系统与本地预装/限制属于中国特供版与本地应用预装的范畴。",
+      "topics/claude-code-authorship-and-voice.md": "核心工具是 Claude Code，与该话题关于 Claude Code 作者与社区使用的讨论相关。"
+    },
+    "notes": "仅基于单条 X 帖文改写，未核实外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/using-claude-code-to-rescue-domestically-modified-android-projec.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

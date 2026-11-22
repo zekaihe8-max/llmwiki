@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:43:49.684Z",
+  "url": "https://aihh-bird.kojiyang.me/",
+  "slug": "082524f3bbb8f017",
+  "content_hash": "c1002b2ac625628f2ff0f4c0d45aa746f6581742f689fb277822f822024ecfe9",
+  "source": {
+    "path": "sources/articles/bird-call-frequency-proportional-drawing-site.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及个人网站建设与站点索引，与本条目为网站来源最为相近。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及基于 HTML 的趣味知识学习产品，与本条目为网页呈现的鸟类知识站点相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "涉及个人网站建设与站点索引，与本条目为网站来源最为相近。",
+    "topics/html-image-fun-knowledge-learning.md": "涉及基于 HTML 的趣味知识学习产品，与本条目为网页呈现的鸟类知识站点相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/bird-call-frequency-proportional-drawing-site.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/geo-personal-website-first-step.md",
+      "topics/html-image-fun-knowledge-learning.md"
+    ],
+    "selection_reasons": {
+      "topics/geo-personal-website-first-step.md": "涉及个人网站建设与站点索引，与本条目为网站来源最为相近。",
+      "topics/html-image-fun-knowledge-learning.md": "涉及基于 HTML 的趣味知识学习产品，与本条目为网页呈现的鸟类知识站点相近。"
+    },
+    "notes": "来源仅为站点首页可见文本，未抓取到具体鸟类名称或详细数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/bird-call-frequency-proportional-drawing-site.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

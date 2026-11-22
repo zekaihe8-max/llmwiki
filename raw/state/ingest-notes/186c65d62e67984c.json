@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "帖文涉及 Claude 额度限制与封号风控，与订阅风控权重主题相关。",
+    "topics/cloud-auto-model-routing.md": "T3 Code 作为第三方接入渠道，涉及云平台跨模型编排与接入管控。",
+    "topics/claude-on-google-cloud.md": "内容同时涉及 Google 与 Claude，与 Google Cloud 上的 Claude 主题相关。",
+    "topics/usage-limit-ab-tests.md": "帖文提到 Gemini 主要开放、Claude 额度有限，涉及用量上限与分群开放。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Claude 额度限制与封号风控，与订阅风控权重主题相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "T3 Code 作为第三方接入渠道，涉及云平台跨模型编排与接入管控。"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "内容同时涉及 Google 与 Claude，与 Google Cloud 上的 Claude 主题相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Gemini 主要开放、Claude 额度有限，涉及用量上限与分群开放。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未独立核实；日期按帖文显示的 2026 年 11 月 22 日记录。"
+}

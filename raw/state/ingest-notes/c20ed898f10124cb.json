@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文讨论 AI 产品是否免费及其订阅价值，与高端 AI 订阅价值主题相近。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及 B 端 AI 收入与企业端变现，与帖文提及的 B 端收入相关。",
+    "topics/peer-economics-before-vibe-coding.md": "强调先算清真实赚钱逻辑，与帖文质疑 AI 经济价值推导方式一致。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI 产品是否免费及其订阅价值，与高端 AI 订阅价值主题相近。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及 B 端 AI 收入与企业端变现，与帖文提及的 B 端收入相关。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "强调先算清真实赚钱逻辑，与帖文质疑 AI 经济价值推导方式一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未独立核实 ChatGPT/Muse 定价或财务数据。"
+}
