@@ -1,0 +1,23 @@
+{
+  "slug": "97c40f08b2e46e87",
+  "url": "https://x.com/shao__meng/status/2124369057805926670",
+  "title": "MBZUAI 和 UCL 拆了 Claude Code 的源码",
+  "digest": "2026-11-22-cn-x.md",
+  "status": "filed",
+  "hash": "97c40f08b2e46e87c0f19e9cc40559422f29da3494539e6ea17e77591f7f6cc9",
+  "first_seen": "2026-11-22T11:52:57.013Z",
+  "last_seen": "2026-11-22T11:52:57.013Z",
+  "fetched_at": "2026-11-22T11:53:05.467Z",
+  "content_hash": "59e18d4602b4813f384dc7be7bb61e5da4df1d414eea96ab98d47e7ae7d04012",
+  "article_path": "articles/97c40f08b2e46e87.md",
+  "fetched_url": "https://x.com/shao__meng/status/2124369057805926670",
+  "source_path": "sources/articles/mbzuai-and-ucl-dissect-claude-code-main-loop-permissions-and-fiv.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-22T12:13:25.285Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:21:52.943Z",
+  "url": "https://parthshr370.github.io/blogs/its-all-a-while-loop",
+  "slug": "461a9a376d20084b",
+  "content_hash": "c09a26f3103eab4256dd36e9786c95668f41ae5407dfc778d800487585404a23",
+  "source": {
+    "path": "sources/articles/what-1-5-years-of-building-agents-taught-me-loops-tools-and-spec.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/company-agent-harness.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章基于 1.5 年 Agent 工程经验讨论循环、工具与后端系统，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章反复讨论 Agent Harness 的 run() 循环、状态累积与退出条件，属于公司级 Agent Harness 范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调工具输出应截断、溢出到磁盘并以引用返回，避免上下文窗口被撑爆，属于上下文工程。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章明确把子 Agent 描述为主循环中的一次工具调用，与该主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "文章明确把子 Agent 描述为主循环中的一次工具调用，与该主题直接相关。",
+    "topics/agent-scaled-engineering.md": "文章基于 1.5 年 Agent 工程经验讨论循环、工具与后端系统，属于智能体规模化工程范畴。",
+    "topics/context-engineering-for-agents.md": "文章强调工具输出应截断、溢出到磁盘并以引用返回，避免上下文窗口被撑爆，属于上下文工程。",
+    "topics/company-agent-harness.md": "文章反复讨论 Agent Harness 的 run() 循环、状态累积与退出条件，属于公司级 Agent Harness 范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/what-1-5-years-of-building-agents-taught-me-loops-tools-and-spec.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/company-agent-harness.md"
+    ],
+    "selection_reasons": {
+      "topics/fold-subagents-into-main-loop.md": "文章明确把子 Agent 描述为主循环中的一次工具调用，与该主题直接相关。",
+      "topics/agent-scaled-engineering.md": "文章基于 1.5 年 Agent 工程经验讨论循环、工具与后端系统，属于智能体规模化工程范畴。",
+      "topics/context-engineering-for-agents.md": "文章强调工具输出应截断、溢出到磁盘并以引用返回，避免上下文窗口被撑爆，属于上下文工程。",
+      "topics/company-agent-harness.md": "文章反复讨论 Agent Harness 的 run() 循环、状态累积与退出条件，属于公司级 Agent Harness 范畴。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/what-1-5-years-of-building-agents-taught-me-loops-tools-and-spec.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

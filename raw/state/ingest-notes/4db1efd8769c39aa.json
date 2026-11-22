@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文核心是 AI 生成证明配合 Lean 形式化验证器做机器核查，直接对应该主题。",
+    "topics/adversarial-review-external-evidence.md": "帖文反复强调独立跑通、多套比对工具、多语言复查，属于外部证据与对抗式核验。",
+    "topics/ai-peer-review-science-adaptation.md": "涉及 AI 参与硬核数学与算法研究、社区消化新思路及千禧年大奖等科研实践适配问题。",
+    "topics/community-evals-vs-score-hype.md": "帖文区分“社区已经给结论”与“千禧年大奖还得等”，警惕炒作与实际验证的差距。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 AI 生成证明配合 Lean 形式化验证器做机器核查，直接对应该主题。"
+    },
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文反复强调独立跑通、多套比对工具、多语言复查，属于外部证据与对抗式核验。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 参与硬核数学与算法研究、社区消化新思路及千禧年大奖等科研实践适配问题。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文区分“社区已经给结论”与“千禧年大奖还得等”，警惕炒作与实际验证的差距。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的重大主张均已用「帖文称」标注，未超出所提供推文内容编造事实或链接。"
+}

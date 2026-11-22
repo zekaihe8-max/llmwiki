@@ -1,0 +1,23 @@
+{
+  "slug": "148b0ba43bb80650",
+  "url": "https://x.com/Khazix0918/status/2124402284541194348",
+  "title": "自己下手做一层 Agent 调度",
+  "digest": "2026-11-22-cn-x.md",
+  "status": "filed",
+  "hash": "148b0ba43bb80650b9a590463d605fe04f33e4acd2302f65a2dd66f6c49c8333",
+  "first_seen": "2026-11-22T11:52:57.013Z",
+  "last_seen": "2026-11-22T11:52:57.013Z",
+  "fetched_at": "2026-11-22T11:52:57.205Z",
+  "content_hash": "ab0ff13d1b13e68bc946bd259e79101c0f41752ee93362c0527aa696e8e41fe7",
+  "article_path": "articles/148b0ba43bb80650.md",
+  "fetched_url": "https://x.com/Khazix0918/status/2124402284541194348",
+  "source_path": "sources/articles/diy-agent-scheduling-layer-based-on-clis.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-22T11:53:44.527Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

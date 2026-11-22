@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:30:41.706Z",
+  "url": "https://x.com/Gorden_Sun/status/2124124404208804306",
+  "slug": "948abf8d0dfa22f5",
+  "content_hash": "102ffe6f6450b387bbf539779888b8644fef296cb776065499bd79a624bb652b",
+  "source": {
+    "path": "sources/articles/antigravity-flow-directly-operate-google-flow-in-browser-to-make.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/computer-use.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Antigravity 插件可视为面向 Agent 的技能/插件编写与安装模式。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体驱动的视频生成与剪辑全流程，直接对应该主题。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "插件通过内置浏览器直接操作网页，属于计算机使用/浏览器自动化场景。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "这是在宽松网页管控下的 Agent Harness 浏览器插件，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是智能体驱动的视频生成与剪辑全流程，直接对应该主题。",
+    "topics/computer-use.md": "插件通过内置浏览器直接操作网页，属于计算机使用/浏览器自动化场景。",
+    "topics/loose-web-agent-harness-plugins.md": "这是在宽松网页管控下的 Agent Harness 浏览器插件，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "Antigravity 插件可视为面向 Agent 的技能/插件编写与安装模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-flow-directly-operate-google-flow-in-browser-to-make.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/computer-use.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章核心是智能体驱动的视频生成与剪辑全流程，直接对应该主题。",
+      "topics/computer-use.md": "插件通过内置浏览器直接操作网页，属于计算机使用/浏览器自动化场景。",
+      "topics/loose-web-agent-harness-plugins.md": "这是在宽松网页管控下的 Agent Harness 浏览器插件，与该主题高度相关。",
+      "topics/agent-skill-authoring.md": "Antigravity 插件可视为面向 Agent 的技能/插件编写与安装模式。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-flow-directly-operate-google-flow-in-browser-to-make.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

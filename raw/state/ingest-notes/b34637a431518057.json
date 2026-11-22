@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/workflows-before-agents.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "文章多次强调官网归来与 AI 友好官网建设，与 GEO 第一步个人网站主题直接相关。",
+    "topics/ai-media-training-corpus-loop.md": "任强分享北京日报历史报库数字化并向大模型开放，涉及媒体内容回灌为 AI 语料。",
+    "topics/workflows-before-agents.md": "张栖铭提出人只管两头、中间交给模型，强调工作流优先于盲目使用智能体。",
+    "topics/ai-native-companies.md": "谭少卿主张企业构建专属 AI 工作台而非全依赖大厂 Agent，契合 AI 原生公司主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "文章多次强调官网归来与 AI 友好官网建设，与 GEO 第一步个人网站主题直接相关。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "任强分享北京日报历史报库数字化并向大模型开放，涉及媒体内容回灌为 AI 语料。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "张栖铭提出人只管两头、中间交给模型，强调工作流优先于盲目使用智能体。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "谭少卿主张企业构建专属 AI 工作台而非全依赖大厂 Agent，契合 AI 原生公司主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自提供的文章 markdown，未引入外部 URL 或未在文中出现的数据。"
+}

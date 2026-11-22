@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "涉及个人网站建设与站点索引，与本条目为网站来源最为相近。",
+    "topics/html-image-fun-knowledge-learning.md": "涉及基于 HTML 的趣味知识学习产品，与本条目为网页呈现的鸟类知识站点相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及个人网站建设与站点索引，与本条目为网站来源最为相近。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及基于 HTML 的趣味知识学习产品，与本条目为网页呈现的鸟类知识站点相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为站点首页可见文本，未抓取到具体鸟类名称或详细数据。"
+}

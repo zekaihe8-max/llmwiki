@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章涉及 Hugging Face 上的开放权重模型仓库",
+    "topics/local-open-assistant-models.md": "pi-H3 属于可在本地或开放环境使用的模型类别",
+    "topics/gpu-ai-compute-unlock.md": "扩散变换器推理通常依赖消费级 GPU 算力"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Hugging Face 上的开放权重模型仓库"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "pi-H3 属于可在本地或开放环境使用的模型类别"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "扩散变换器推理通常依赖消费级 GPU 算力"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章内容极简，仅包含论文链接与元数据，未披露模型架构或参数细节。"
+}

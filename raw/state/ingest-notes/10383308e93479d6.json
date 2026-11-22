@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章重点讨论工具结果对上下文、成本与判断质量的影响，与该主题直接相关。",
+    "topics/agent-scaled-engineering.md": "文中提到流式传输、心跳、超时、幂等重试等后端工程问题，属于智能体规模化工程范畴。",
+    "topics/fold-subagents-into-main-loop.md": "帖文将子 Agent 还原为工具调用并折进主循环，与该主题一致。",
+    "topics/agent-auto-mode.md": "核心运行框架被描述为 while 循环，与智能体自动模式的循环执行相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章重点讨论工具结果对上下文、成本与判断质量的影响，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到流式传输、心跳、超时、幂等重试等后端工程问题，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文将子 Agent 还原为工具调用并折进主循环，与该主题一致。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "核心运行框架被描述为 while 循环，与智能体自动模式的循环执行相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by shao__meng summarizing Parth Sharma’s blog; no new topics created."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "文章讨论 Personal Agent 新项目 Linger 的落地现状与早期坑点，契合个人 Agent 热潮与实际可用性差距主题。",
+    "topics/local-open-assistant-models.md": "Linger 属于本地开放助手范畴，强调本地推理、本地记忆、开源中间层，符合本地开放助手与小模型主题。",
+    "topics/gpu-ai-compute-unlock.md": "文中提到 12GB 显存跑 125B 模型的 PolyStrata 显存分层技术，涉及消费级 GPU 算力解锁。",
+    "topics/design-to-code-byo-subscriptions.md": "架构支持自带 Claude Code、Codex、Pi 订阅处理复杂任务，体现自带订阅的设计模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Personal Agent 新项目 Linger 的落地现状与早期坑点，契合个人 Agent 热潮与实际可用性差距主题。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Linger 属于本地开放助手范畴，强调本地推理、本地记忆、开源中间层，符合本地开放助手与小模型主题。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中提到 12GB 显存跑 125B 模型的 PolyStrata 显存分层技术，涉及消费级 GPU 算力解锁。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "架构支持自带 Claude Code、Codex、Pi 订阅处理复杂任务，体现自带订阅的设计模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post with thread; claims about 125B performance and data locality when using cloud subscriptions are unverified per the author's own caveats."
+}

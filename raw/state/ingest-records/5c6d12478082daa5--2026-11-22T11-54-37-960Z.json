@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T11:54:37.960Z",
+  "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+  "slug": "5c6d12478082daa5",
+  "content_hash": "97fa54beb43a0547ac47f02613ca86d567582d606508ea1de2dd1c4a82c36a6e",
+  "source": {
+    "path": "sources/articles/joint-statement-lean-and-mathlib-communities-certify-lean-formal.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/code-over-spec.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章区分了数学陈述（spec）与 Lean 代码/证明（code）的独立验证"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是形式化验证，与该主题领域相近"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "证明库仅直接依赖并复用 Mathlib，体现先复用原则"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是形式化验证，与该主题领域相近",
+    "topics/code-over-spec.md": "文章区分了数学陈述（spec）与 Lean 代码/证明（code）的独立验证",
+    "topics/reuse-before-write.md": "证明库仅直接依赖并复用 Mathlib，体现先复用原则"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/joint-statement-lean-and-mathlib-communities-certify-lean-formal.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/code-over-spec.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "文章核心是形式化验证，与该主题领域相近",
+      "topics/code-over-spec.md": "文章区分了数学陈述（spec）与 Lean 代码/证明（code）的独立验证",
+      "topics/reuse-before-write.md": "证明库仅直接依赖并复用 Mathlib，体现先复用原则"
+    },
+    "notes": "All claims are grounded in the provided article; no URLs or facts beyond the article were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/joint-statement-lean-and-mathlib-communities-certify-lean-formal.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

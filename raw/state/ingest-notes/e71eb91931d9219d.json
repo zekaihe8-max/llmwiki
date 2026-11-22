@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/local-open-assistant-models.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "涉及通过 Sign in with ChatGPT / Responses API 新渠道调用前沿模型，与面向 Agent 的模型渠道取舍相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文中提及每应用周限额、Plus 五小时共用额度与 Pro 无限制，直接关联编程 Agent 体验与额度。",
+    "topics/local-open-assistant-models.md": "文档仅覆盖开源和本地部署，与本地开放助手与机器人小模型主题相近。",
+    "topics/premium-ai-subscription-value.md": "讨论 ChatGPT Plus/Pro 订阅额度如何被本地工具复用，关乎高端 AI 订阅价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及通过 Sign in with ChatGPT / Responses API 新渠道调用前沿模型，与面向 Agent 的模型渠道取舍相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中提及每应用周限额、Plus 五小时共用额度与 Pro 无限制，直接关联编程 Agent 体验与额度。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文档仅覆盖开源和本地部署，与本地开放助手与机器人小模型主题相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论 ChatGPT Plus/Pro 订阅额度如何被本地工具复用，关乎高端 AI 订阅价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，其中关于 GPT-6.1 Sol / GPT-6.2 Sol 及 OpenAI 文档的主张均引自帖文，未在此独立核实。"
+}

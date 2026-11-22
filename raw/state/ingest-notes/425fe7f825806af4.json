@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅价值，与帖文中付费用户比免费用户更值钱的主张最为贴近。",
+    "topics/lab-inference-serving-cost-efficiency.md": "涉及大厂推理成本效率，对应帖文中 AI 用户增加推理账单的成本中心论点。",
+    "topics/deepseek-inference-vs-aggregators.md": "文中提到 DeepSeek 月活数据，该话题与 DeepSeek 自营推理相关，可复用上下文。",
+    "topics/usage-limit-ab-tests.md": "用量上限与免费/付费分流相关，对帖文中免费用户规模与付费价值的张力有参考意义。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅价值，与帖文中付费用户比免费用户更值钱的主张最为贴近。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及大厂推理成本效率，对应帖文中 AI 用户增加推理账单的成本中心论点。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "文中提到 DeepSeek 月活数据，该话题与 DeepSeek 自营推理相关，可复用上下文。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "用量上限与免费/付费分流相关，对帖文中免费用户规模与付费价值的张力有参考意义。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所提供的 X 帖文内容，未引入外部事实或 URL。"
+}

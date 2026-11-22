@@ -1,0 +1,23 @@
+{
+  "slug": "13eaf996e2e20535",
+  "url": "https://x.com/op7418/status/2124191652793520552",
+  "title": "Lean 官方把黎曼猜想的机器证明盖章了",
+  "digest": "2026-11-22-cn-x.md",
+  "status": "filed",
+  "hash": "13eaf996e2e2053527dd935a2e939a607df60525db852df70e5abf41389130b3",
+  "first_seen": "2026-11-22T11:52:57.013Z",
+  "last_seen": "2026-11-22T11:52:57.013Z",
+  "fetched_at": "2026-11-22T11:52:57.696Z",
+  "content_hash": "5dc5601daf7683e450962a1efd49884c4085f17da6e8418a0bf9a2d136a1b9af",
+  "article_path": "articles/13eaf996e2e20535.md",
+  "fetched_url": "https://x.com/op7418/status/2124191652793520552",
+  "source_path": "sources/articles/lean-fro-and-mathlib-stamp-approval-on-machine-proof-of-riemann.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-22T11:54:16.917Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

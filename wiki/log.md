@@ -1,3 +1,81 @@
+## 2026-11-22
+
+* **创建 / Creation**: 归档 [鸟鸣频率比例绘图站点](./sources/articles/bird-call-frequency-proportional-drawing-site.md)。 / Filed [Bird Call Frequency Proportional Drawing Site](./sources/articles/bird-call-frequency-proportional-drawing-site.md).
+
+* **创建 / Creation**: 归档 [介绍帖：用 Codex 与树莓派搭建 24 小时飞鸟电台](./sources/articles/introduction-post-building-a-24-hour-flying-bird-radio-with-code.md)。 / Filed [Introduction post: Building a 24-hour Flying Bird Radio with Codex and Raspberry Pi](./sources/articles/introduction-post-building-a-24-hour-flying-bird-radio-with-code.md).
+
+* **创建 / Creation**: 归档 [别用 B 端收入乘 C 端用户去推 AI 的经济价值](./sources/articles/don-t-derive-ai-s-economic-value-by-multiplying-b-end-revenue-by.md)。 / Filed [Don't Derive AI's Economic Value by Multiplying B-End Revenue by C-End Users](./sources/articles/don-t-derive-ai-s-economic-value-by-multiplying-b-end-revenue-by.md).
+
+* **创建 / Creation**: 归档 [开源和本地工具可用 ChatGPT 套餐额度调用 GPT-6.1/6.2 Sol](./sources/articles/open-source-and-local-tools-can-use-chatgpt-plan-quota-to-call-g.md)。 / Filed [Open-source and local tools can use ChatGPT plan quota to call GPT-6.1/6.2 Sol](./sources/articles/open-source-and-local-tools-can-use-chatgpt-plan-quota-to-call-g.md).
+
+* **创建 / Creation**: 归档 [GEO 大会金句：增长，就是把商业常识做到位](./sources/articles/geo-conference-golden-quote-growth-is-getting-business-common-se.md)。 / Filed [GEO Conference Golden Quote: Growth Is Getting Business Common Sense Right](./sources/articles/geo-conference-golden-quote-growth-is-getting-business-common-se.md).
+
+* **创建 / Creation**: 归档 [从 App Store 订 Gemini，价格页面要看对](./sources/articles/check-google-one-app-pricing-before-subscribing-to-gemini-via-ap.md)。 / Filed [Check Google One App pricing before subscribing to Gemini via App Store](./sources/articles/check-google-one-app-pricing-before-subscribing-to-gemini-via-ap.md).
+
+* **创建 / Creation**: 归档 [再强的 AI，也替不掉商业化软件](./sources/articles/even-the-strongest-ai-cannot-replace-commercial-software.md)。 / Filed [Even the strongest AI cannot replace commercial software](./sources/articles/even-the-strongest-ai-cannot-replace-commercial-software.md).
+
+* **创建 / Creation**: 归档 [暴论：AI 时代一亿免费用户可能不如一百万付费用户值钱](./sources/articles/hot-take-100-million-free-ai-users-may-be-worth-less-than-1-mill.md)。 / Filed [Hot take: 100 million free AI users may be worth less than 1 million paid users](./sources/articles/hot-take-100-million-free-ai-users-may-be-worth-less-than-1-mill.md).
+
+* **创建 / Creation**: 归档 [Vibe Coding 到底创造了多少真实价值](./sources/articles/how-much-real-value-has-vibe-coding-created.md)。 / Filed [How Much Real Value Has Vibe Coding Created?](./sources/articles/how-much-real-value-has-vibe-coding-created.md).
+
+* **创建 / Creation**: 归档 [Google Antigravity 第三方接入落地，T3 Code 用户获封号豁免](./sources/articles/google-antigravity-third-party-access-lands-t3-code-users-get-ba.md)。 / Filed [Google Antigravity third-party access lands, T3 Code users get ban exemption](./sources/articles/google-antigravity-third-party-access-lands-t3-code-users-get-ba.md).
+
+* **创建 / Creation**: 归档 [第二届 GEO 大会 Day 1 全嘉宾实战精华（附 15 位讲者避坑与实操清单）](./sources/articles/2nd-geo-conference-day-1-full-speaker-practical-essentials-with.md)。 / Filed [2nd GEO Conference Day 1 Full Speaker Practical Essentials (with 15 Speakers' Pitfall Avoidance and Practical Checklist)](./sources/articles/2nd-geo-conference-day-1-full-speaker-practical-essentials-with.md).
+
+* **创建 / Creation**: 归档 [网友称赞 GEO 大会笔记整理质量极高「猛看还以为姚老师写的」](./sources/articles/netizen-praises-geo-conference-notes-quality-at-a-glance-thought.md)。 / Filed [Netizen Praises GEO Conference Notes Quality: "At a Glance Thought It Was Written by Teacher Yao"](./sources/articles/netizen-praises-geo-conference-notes-quality-at-a-glance-thought.md).
+
+* **创建 / Creation**: 归档 [转了一篇用 P vs NP 谈天才的长文](./sources/articles/reposted-a-long-essay-using-p-vs-np-to-discuss-genius.md)。 / Filed [Reposted a long essay using P vs NP to discuss genius](./sources/articles/reposted-a-long-essay-using-p-vs-np-to-discuss-genius.md).
+
+* **创建 / Creation**: 归档 [让 Claude Code 把国内改版安卓投影仪救回来](./sources/articles/using-claude-code-to-rescue-domestically-modified-android-projec.md)。 / Filed [Using Claude Code to Rescue Domestically Modified Android Projectors](./sources/articles/using-claude-code-to-rescue-domestically-modified-android-projec.md).
+
+* **创建 / Creation**: 归档 [Antigravity Flow：Google Flow AI 电影制作插件](./sources/articles/antigravity-flow-google-flow-ai-filmmaking-plugin.md)。 / Filed [Antigravity Flow: Google Flow AI Filmmaking Plugin](./sources/articles/antigravity-flow-google-flow-ai-filmmaking-plugin.md).
+
+* **创建 / Creation**: 归档 [Antigravity Flow：在浏览器中直接操作 Google Flow 制作视频](./sources/articles/antigravity-flow-directly-operate-google-flow-in-browser-to-make.md)。 / Filed [Antigravity Flow: Directly Operate Google Flow in Browser to Make Videos](./sources/articles/antigravity-flow-directly-operate-google-flow-in-browser-to-make.md).
+
+* **创建 / Creation**: 归档 [Lakonik pi-H3 模型](./sources/articles/lakonik-pi-h3-model.md)。 / Filed [Lakonik pi-H3 Model](./sources/articles/lakonik-pi-h3-model.md).
+
+* **创建 / Creation**: 归档 [MiniMax H3 推理加速版 pi-H3 在 HuggingFace Demo 中表现亮眼](./sources/articles/minimax-h3-accelerated-variant-pi-h3-shows-strong-performance-on.md)。 / Filed [MiniMax H3 Accelerated Variant pi-H3 Shows Strong Performance on HuggingFace Demo](./sources/articles/minimax-h3-accelerated-variant-pi-h3-shows-strong-performance-on.md).
+
+* **创建 / Creation**: 归档 [精选 12 篇文章帮你榨干 Google AI Ultra 账号价值](./sources/articles/12-curated-articles-to-maximize-google-ai-ultra-account-value.md)。 / Filed [12 Curated Articles to Maximize Google AI Ultra Account Value](./sources/articles/12-curated-articles-to-maximize-google-ai-ultra-account-value.md).
+
+* **创建 / Creation**: 归档 [构建 Agent 一年半的感悟：一切都是 while 循环](./sources/articles/what-1-5-years-of-building-agents-taught-me-loops-tools-and-spec.md)。 / Filed [What 1.5 Years of Building Agents Taught Me: Loops, Tools, and Specs](./sources/articles/what-1-5-years-of-building-agents-taught-me-loops-tools-and-spec.md).
+
+* **创建 / Creation**: 归档 [Parth Sharma：一年半 Agent 工程实践，核心是一个 while 循环](./sources/articles/parth-sharma-1-5-years-of-agent-engineering-it-s-all-a-while-loo.md)。 / Filed [Parth Sharma: 1.5 Years of Agent Engineering, It’s All a While Loop](./sources/articles/parth-sharma-1-5-years-of-agent-engineering-it-s-all-a-while-loo.md).
+
+* **创建 / Creation**: 归档 [常驻 Agent 系列（一）：无人值守时的权限边界](./sources/articles/always-on-agent-series-1-permission-boundaries-when-unattended.md)。 / Filed [Always-on Agent Series (1): Permission Boundaries When Unattended](./sources/articles/always-on-agent-series-1-permission-boundaries-when-unattended.md).
+
+* **创建 / Creation**: 归档 [深入 Claude Code：当下与未来 AI Agent 系统的设计空间](./sources/articles/dive-into-claude-code-the-design-space-of-today-s-and-future-ai.md)。 / Filed [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](./sources/articles/dive-into-claude-code-the-design-space-of-today-s-and-future-ai.md).
+
+* **创建 / Creation**: 归档 [MBZUAI 与 UCL 拆解 Claude Code：主循环、权限与五层上下文压缩](./sources/articles/mbzuai-and-ucl-dissect-claude-code-main-loop-permissions-and-fiv.md)。 / Filed [MBZUAI and UCL Dissect Claude Code: Main Loop, Permissions, and Five-Layer Context Compression](./sources/articles/mbzuai-and-ucl-dissect-claude-code-main-loop-permissions-and-fiv.md).
+
+* **创建 / Creation**: 归档 [他决定把 GPT Plus 退了](./sources/articles/he-decided-to-cancel-gpt-plus.md)。 / Filed [He decided to cancel GPT Plus](./sources/articles/he-decided-to-cancel-gpt-plus.md).
+
+* **创建 / Creation**: 归档 [黑五不止谷歌五折，10 款 AI 工具官方限时折扣盘点](./sources/articles/black-friday-more-than-google-50-off-10-ai-tools-with-official-l.md)。 / Filed [Black Friday: More Than Google 50% Off, 10 AI Tools with Official Limited-Time Discounts](./sources/articles/black-friday-more-than-google-50-off-10-ai-tools-with-official-l.md).
+
+* **创建 / Creation**: 归档 [Pi 开始自己做手机端了](./sources/articles/pi-starts-building-its-own-mobile-client.md)。 / Filed [Pi starts building its own mobile client](./sources/articles/pi-starts-building-its-own-mobile-client.md).
+
+* **创建 / Creation**: 归档 [Linger：在消费级 Mac 和 PC 上本地运行的开源个人智能体](./sources/articles/linger-open-source-personal-agent-running-locally-on-consumer-ma.md)。 / Filed [Linger: Open-source personal agent running locally on consumer Macs and PCs](./sources/articles/linger-open-source-personal-agent-running-locally-on-consumer-ma.md).
+
+* **创建 / Creation**: 归档 [DeepSeek V1 作者开源本地 Personal Agent Linger](./sources/articles/deepseek-v1-author-open-sources-local-personal-agent-linger.md)。 / Filed [DeepSeek V1 Author Open-Sources Local Personal Agent Linger](./sources/articles/deepseek-v1-author-open-sources-local-personal-agent-linger.md).
+
+* **创建 / Creation**: 归档 [吐槽 Antigravity，不如直接找负责人](./sources/articles/complaining-about-antigravity-contact-the-person-in-charge-direc.md)。 / Filed [Complaining about Antigravity? Contact the person in charge directly](./sources/articles/complaining-about-antigravity-contact-the-person-in-charge-direc.md).
+
+* **创建 / Creation**: 归档 [用 5 分钟讲清黎曼猜想这件事](./sources/articles/explaining-the-riemann-hypothesis-in-5-minutes.md)。 / Filed [Explaining the Riemann Hypothesis in 5 Minutes](./sources/articles/explaining-the-riemann-hypothesis-in-5-minutes.md).
+
+* **创建 / Creation**: 归档 [官方给 GPT-6.2 发了提示词补丁](./sources/articles/official-prompt-patch-issued-for-gpt-6-2.md)。 / Filed [Official prompt patch issued for GPT-6.2](./sources/articles/official-prompt-patch-issued-for-gpt-6-2.md).
+
+* **创建 / Creation**: 归档 [OpenCode 把国产开源模型卖得比官方还便宜](./sources/articles/opencode-sells-chinese-open-source-models-cheaper-than-official.md)。 / Filed [OpenCode sells Chinese open-source models cheaper than official prices](./sources/articles/opencode-sells-chinese-open-source-models-cheaper-than-official.md).
+
+* **创建 / Creation**: 归档 [Claude Code 推出实验性 Code Mode：让 AI 写脚本串联工具调用](./sources/articles/claude-code-launches-experimental-code-mode-ai-writes-scripts-to.md)。 / Filed [Claude Code Launches Experimental Code Mode: AI Writes Scripts to Chain Tool Calls](./sources/articles/claude-code-launches-experimental-code-mode-ai-writes-scripts-to.md).
+
+* **创建 / Creation**: 归档 [帖文称 Lean 官方盖章，Claude 经形式化验证攻克黎曼猜想](./sources/articles/post-claims-lean-officially-stamped-approval-claude-proved-riema.md)。 / Filed [Post claims Lean officially stamped approval, Claude proved Riemann Hypothesis via formal verification](./sources/articles/post-claims-lean-officially-stamped-approval-claude-proved-riema.md).
+
+* **创建 / Creation**: 归档 [联合声明：Lean 与 Mathlib 社区认证黎曼猜想 Lean 形式化证明](./sources/articles/joint-statement-lean-and-mathlib-communities-certify-lean-formal.md)。 / Filed [Joint Statement: Lean and Mathlib Communities Certify Lean Formal Proof of the Riemann Hypothesis](./sources/articles/joint-statement-lean-and-mathlib-communities-certify-lean-formal.md).
+
+* **创建 / Creation**: 归档 [Lean 官方与 Mathlib 盖章确认黎曼猜想机器证明](./sources/articles/lean-fro-and-mathlib-stamp-approval-on-machine-proof-of-riemann.md)。 / Filed [Lean FRO and Mathlib Stamp Approval on Machine Proof of Riemann Hypothesis](./sources/articles/lean-fro-and-mathlib-stamp-approval-on-machine-proof-of-riemann.md).
+
+* **创建 / Creation**: 归档 [自己下手做一层 Agent 调度](./sources/articles/diy-agent-scheduling-layer-based-on-clis.md)。 / Filed [DIY Agent Scheduling Layer Based on CLIs](./sources/articles/diy-agent-scheduling-layer-based-on-clis.md).
+
 ## 2026-11-21
 
 * **创建 / Creation**: 归档 [查自己的帖子有没有被标记违规](./sources/articles/check-whether-your-x-posts-are-marked-as-violations.md)。 / Filed [Check whether your X posts are marked as violations](./sources/articles/check-whether-your-x-posts-are-marked-as-violations.md).

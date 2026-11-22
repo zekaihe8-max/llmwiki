@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:03:32.303Z",
+  "url": "https://x.com/lxfater/status/2124465462406721801",
+  "slug": "c8e9c841cc5b42ee",
+  "content_hash": "de61479bc27dcac052c5c086b28fd7f4458a8ec069aade2197247ceb582eb9c5",
+  "source": {
+    "path": "sources/articles/official-prompt-patch-issued-for-gpt-6-2.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/reuse-before-write.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章讨论项目层面的固定指令与提示词模板，与“项目指令与 Token 效率”主题相近"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文章核心是对 AI 系统提示词/固定规则的增减与校准，与“校准对 AI 的过度与不足引导”主题高度相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及给 AI 写系统提示词与上下文工程，与帖文中“固定规矩”“系统提示词”内容对应"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文中的编码规则第一条直接对应“先复用再编写”，即项目原有代码能复用就直接用"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "文章核心是对 AI 系统提示词/固定规则的增减与校准，与“校准对 AI 的过度与不足引导”主题高度相关",
+    "topics/context-engineering-for-agents.md": "涉及给 AI 写系统提示词与上下文工程，与帖文中“固定规矩”“系统提示词”内容对应",
+    "topics/reuse-before-write.md": "帖文中的编码规则第一条直接对应“先复用再编写”，即项目原有代码能复用就直接用",
+    "topics/agents-md-token-efficiency.md": "文章讨论项目层面的固定指令与提示词模板，与“项目指令与 Token 效率”主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/official-prompt-patch-issued-for-gpt-6-2.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/calibrating-ai-guidance.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/reuse-before-write.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/calibrating-ai-guidance.md": "文章核心是对 AI 系统提示词/固定规则的增减与校准，与“校准对 AI 的过度与不足引导”主题高度相关",
+      "topics/context-engineering-for-agents.md": "涉及给 AI 写系统提示词与上下文工程，与帖文中“固定规矩”“系统提示词”内容对应",
+      "topics/reuse-before-write.md": "帖文中的编码规则第一条直接对应“先复用再编写”，即项目原有代码能复用就直接用",
+      "topics/agents-md-token-efficiency.md": "文章讨论项目层面的固定指令与提示词模板，与“项目指令与 Token 效率”主题相近"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/official-prompt-patch-issued-for-gpt-6-2.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

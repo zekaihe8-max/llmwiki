@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "Code Mode 的后台自动模式最长跑 2 小时、用户可继续对话，直接对应智能体自动模式主题。",
+    "topics/coding-agent-token-saving-tooling.md": "文章核心优势是通过 AI 写脚本在代码层过滤噪音、仅回传关键结果，大幅节省上下文与 Token 开销。",
+    "topics/agent-skill-authoring.md": "作者建议未来写 Skill/MCP 应提供便于 AI 编写脚本串联调用的接口，而非堆砌零碎按钮，直接关联 Skill 编写范式变化。",
+    "topics/context-engineering-for-agents.md": "Code Mode 通过让 AI 在代码中完成多步筛选、仅把关键结果塞回对话，是典型的上下文工程优化手段。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Code Mode 的后台自动模式最长跑 2 小时、用户可继续对话，直接对应智能体自动模式主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心优势是通过 AI 写脚本在代码层过滤噪音、仅回传关键结果，大幅节省上下文与 Token 开销。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "作者建议未来写 Skill/MCP 应提供便于 AI 编写脚本串联调用的接口，而非堆砌零碎按钮，直接关联 Skill 编写范式变化。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Code Mode 通过让 AI 在代码中完成多步筛选、仅把关键结果塞回对话，是典型的上下文工程优化手段。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by @lxfater; claims about Code Mode capabilities, requirements, and security model are per the post and linked official doc (t.co short link). No independent verification performed."
+}

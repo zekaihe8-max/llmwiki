@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:12:11.482Z",
+  "url": "https://x.com/xiaomovps/status/2124383462673248394",
+  "slug": "86a413f02cf42fd7",
+  "content_hash": "bd703c4035489867c5862162ac3b4ba0aeeb8c892ab2a7dd6a83a97e14597dbc",
+  "source": {
+    "path": "sources/articles/pi-starts-building-its-own-mobile-client.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "文中讨论极简底座与社区扩展的取舍，官方下场做产品后如何保持核心克制"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "文章核心讲 Pi 官方入场做手机端 Agent，与手机端 Agent 全链路开发直接相关"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Mario 提到下一阶段是多台机器、多个 Agent 一起协同，与多智能体基建相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中对比极简 TUI 与 GUI/移动端的大众接受度，涉及 UX 与 DX 的权衡"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/mobile-agent-dev-full-chain.md": "文章核心讲 Pi 官方入场做手机端 Agent，与手机端 Agent 全链路开发直接相关",
+    "topics/minimal-core-community-extensions.md": "文中讨论极简底座与社区扩展的取舍，官方下场做产品后如何保持核心克制",
+    "topics/ux-dx-and-ax.md": "文中对比极简 TUI 与 GUI/移动端的大众接受度，涉及 UX 与 DX 的权衡",
+    "topics/multiagent-infra-four-problems.md": "Mario 提到下一阶段是多台机器、多个 Agent 一起协同，与多智能体基建相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-starts-building-its-own-mobile-client.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/mobile-agent-dev-full-chain.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/mobile-agent-dev-full-chain.md": "文章核心讲 Pi 官方入场做手机端 Agent，与手机端 Agent 全链路开发直接相关",
+      "topics/minimal-core-community-extensions.md": "文中讨论极简底座与社区扩展的取舍，官方下场做产品后如何保持核心克制",
+      "topics/ux-dx-and-ax.md": "文中对比极简 TUI 与 GUI/移动端的大众接受度，涉及 UX 与 DX 的权衡",
+      "topics/multiagent-infra-four-problems.md": "Mario 提到下一阶段是多台机器、多个 Agent 一起协同，与多智能体基建相关"
+    },
+    "notes": "来源为 @xiaomovps 在 X 上的帖文，并引用其 10 月 7 日关于 Mario 在手机 Termux 中使用 Pi Durable 的旧帖。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-starts-building-its-own-mobile-client.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

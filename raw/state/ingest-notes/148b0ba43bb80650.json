@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述个人基于 CLI 调度多家 Agent，与“个人 Agent 当包工头调度编程 Agent”主题高度相关",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "作者自建调度层而非使用多 Harness 路由基建，对应个人助手派活与基建区分",
+    "topics/unified-agent-resource-library.md": "文中提到统一管理 skill 和规则文档，与跨 Agent 统一资源库相关",
+    "topics/ux-dx-and-ax.md": "作者强调雕琢用户体验、降低认知成本，与 UX/DX/AX 主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文描述个人基于 CLI 调度多家 Agent，与“个人 Agent 当包工头调度编程 Agent”主题高度相关"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "作者自建调度层而非使用多 Harness 路由基建，对应个人助手派活与基建区分"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "文中提到统一管理 skill 和规则文档，与跨 Agent 统一资源库相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "作者强调雕琢用户体验、降低认知成本，与 UX/DX/AX 主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

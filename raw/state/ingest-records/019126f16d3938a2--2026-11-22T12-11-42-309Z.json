@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:11:42.309Z",
+  "url": "https://github.com/simplexai-labs/linger",
+  "slug": "019126f16d3938a2",
+  "content_hash": "53990025cd517576f555806d953075cf0ce4f14f0e30f5b08e93765a8bbe09eb",
+  "source": {
+    "path": "sources/articles/linger-open-source-personal-agent-running-locally-on-consumer-ma.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/local-open-assistant-models.md",
+    "topics/computer-use.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Linger 支持桌面与浏览器操作，涉及智能体直接控制计算机应用。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章详细介绍 12 GB 消费级 GPU 运行大模型，属于消费级 GPU AI 算力解锁范畴。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Linger 强调本地模型推理与消费级硬件，契合本地开放助手模型主题。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "文章聚焦个人智能体（personal agent）与自主任务执行，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "文章聚焦个人智能体（personal agent）与自主任务执行，与该主题高度相关。",
+    "topics/local-open-assistant-models.md": "Linger 强调本地模型推理与消费级硬件，契合本地开放助手模型主题。",
+    "topics/computer-use.md": "Linger 支持桌面与浏览器操作，涉及智能体直接控制计算机应用。",
+    "topics/gpu-ai-compute-unlock.md": "文章详细介绍 12 GB 消费级 GPU 运行大模型，属于消费级 GPU AI 算力解锁范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/linger-open-source-personal-agent-running-locally-on-consumer-ma.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/local-open-assistant-models.md",
+      "topics/computer-use.md",
+      "topics/gpu-ai-compute-unlock.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "文章聚焦个人智能体（personal agent）与自主任务执行，与该主题高度相关。",
+      "topics/local-open-assistant-models.md": "Linger 强调本地模型推理与消费级硬件，契合本地开放助手模型主题。",
+      "topics/computer-use.md": "Linger 支持桌面与浏览器操作，涉及智能体直接控制计算机应用。",
+      "topics/gpu-ai-compute-unlock.md": "文章详细介绍 12 GB 消费级 GPU 运行大模型，属于消费级 GPU AI 算力解锁范畴。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/linger-open-source-personal-agent-running-locally-on-consumer-ma.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

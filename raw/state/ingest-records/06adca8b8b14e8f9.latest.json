@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:41:33.830Z",
+  "url": "https://x.com/0xlangeai/status/2124390303537017307",
+  "slug": "06adca8b8b14e8f9",
+  "content_hash": "aae9fd5db6c99d388b6ab6b19aaabef128c54fe050d79d6ad5f4ad9656346ac7",
+  "source": {
+    "path": "sources/articles/geo-conference-golden-quote-growth-is-getting-business-common-se.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "GEO 与 AI 原生公司增长语境相邻，可作为增长类主题的参考。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "目录中唯一明确提及 GEO 的主题，与帖文会议语境最贴近。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "帖文强调“商业常识”与赚钱逻辑，该主题涉及同行经济与商业基本面，相关性最高。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "目录中唯一明确提及 GEO 的主题，与帖文会议语境最贴近。",
+    "topics/peer-economics-before-vibe-coding.md": "帖文强调“商业常识”与赚钱逻辑，该主题涉及同行经济与商业基本面，相关性最高。",
+    "topics/ai-native-companies.md": "GEO 与 AI 原生公司增长语境相邻，可作为增长类主题的参考。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/geo-conference-golden-quote-growth-is-getting-business-common-se.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/geo-personal-website-first-step.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/geo-personal-website-first-step.md": "目录中唯一明确提及 GEO 的主题，与帖文会议语境最贴近。",
+      "topics/peer-economics-before-vibe-coding.md": "帖文强调“商业常识”与赚钱逻辑，该主题涉及同行经济与商业基本面，相关性最高。",
+      "topics/ai-native-companies.md": "GEO 与 AI 原生公司增长语境相邻，可作为增长类主题的参考。"
+    },
+    "notes": "帖文时间显示为 2026 年 11 月 22 日，按原文保留，未做额外事实核查。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/geo-conference-golden-quote-growth-is-getting-business-common-se.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/computer-use.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是对比高端 AI 订阅的性价比，决定退订 GPT Plus 转订 Google AI Pro",
+    "topics/pro-vs-flash-model-strategy.md": "文中提到 Google AI Pro 及其模型策略，与 Pro 与 Flash 模型策略主题相关",
+    "topics/computer-use.md": "帖文明确提到谷歌推出 Computer Use 可操作电脑",
+    "topics/usage-limit-ab-tests.md": "文中提到 GPT Plus 有额度限制，Google 则不用看额度，涉及用量上限对比"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是对比高端 AI 订阅的性价比，决定退订 GPT Plus 转订 Google AI Pro"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提到 Google AI Pro 及其模型策略，与 Pro 与 Flash 模型策略主题相关"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到谷歌推出 Computer Use 可操作电脑"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到 GPT Plus 有额度限制，Google 则不用看额度，涉及用量上限对比"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于单条 X 帖文整理，未独立核实文中提及的模型版本与价格细节"
+}

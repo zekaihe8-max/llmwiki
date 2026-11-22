@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-22T12:31:16.190Z",
+  "url": "https://github.com/wezzard/antigravity-flow",
+  "slug": "32945b02b20f63cf",
+  "content_hash": "3ebaa5b31dbf4ba1e15e7f7543c9391a09f97dfd8a3050a7b69aa372a91509e5",
+  "source": {
+    "path": "sources/articles/antigravity-flow-google-flow-ai-filmmaking-plugin.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/agent-skill-authoring.md",
+    "topics/computer-use.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章明确区分检查点模式与全自动模式，与智能体自动模式主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详细列出 flow-director 等六项技能及其能力边界，适合参考技能编写主题。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章涵盖视频生成、场景剪辑、帧提取与媒体下载，与智能体视频剪辑主题相近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "插件依赖内置浏览器子代理操作网页 UI，属于计算机使用类场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章明确区分检查点模式与全自动模式，与智能体自动模式主题高度相关。",
+    "topics/agent-skill-authoring.md": "文章详细列出 flow-director 等六项技能及其能力边界，适合参考技能编写主题。",
+    "topics/computer-use.md": "插件依赖内置浏览器子代理操作网页 UI，属于计算机使用类场景。",
+    "topics/agentic-video-editing.md": "文章涵盖视频生成、场景剪辑、帧提取与媒体下载，与智能体视频剪辑主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-flow-google-flow-ai-filmmaking-plugin.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/agent-skill-authoring.md",
+      "topics/computer-use.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "文章明确区分检查点模式与全自动模式，与智能体自动模式主题高度相关。",
+      "topics/agent-skill-authoring.md": "文章详细列出 flow-director 等六项技能及其能力边界，适合参考技能编写主题。",
+      "topics/computer-use.md": "插件依赖内置浏览器子代理操作网页 UI，属于计算机使用类场景。",
+      "topics/agentic-video-editing.md": "文章涵盖视频生成、场景剪辑、帧提取与媒体下载，与智能体视频剪辑主题相近。"
+    },
+    "notes": "所有咨询主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-flow-google-flow-ai-filmmaking-plugin.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
