@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:21:53.849Z",
+  "url": "https://x.com/addyosmani/status/2124229492248019362",
+  "slug": "3c86cec079e7737a",
+  "content_hash": "a38225888023c0d354c636361a6606c1026c7f7fee98dbfe0c3cda33af3757b5",
+  "source": {
+    "path": "sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "多步工具编排与后台长时运行涉及智能体规模化工程模式"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品，与帖文主题最贴近"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Code Mode 主打节省上下文与工具调用开销，与该主题高度相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "并行脚本调用旨在降低上下文窗口压力，属上下文工程范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与帖文主题最贴近",
+    "topics/coding-agent-token-saving-tooling.md": "Code Mode 主打节省上下文与工具调用开销，与该主题高度相关",
+    "topics/context-engineering-for-agents.md": "并行脚本调用旨在降低上下文窗口压力，属上下文工程范畴",
+    "topics/agent-scaled-engineering.md": "多步工具编排与后台长时运行涉及智能体规模化工程模式"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与帖文主题最贴近",
+      "topics/coding-agent-token-saving-tooling.md": "Code Mode 主打节省上下文与工具调用开销，与该主题高度相关",
+      "topics/context-engineering-for-agents.md": "并行脚本调用旨在降低上下文窗口压力，属上下文工程范畴",
+      "topics/agent-scaled-engineering.md": "多步工具编排与后台长时运行涉及智能体规模化工程模式"
+    },
+    "notes": "Source is an X post by Addy Osmani announcing Claude Code's Code Mode; all claims are grounded in the fetched article only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:22:12.852Z",
+  "url": "https://x.com/xiaomovps/status/2124510881468064157",
+  "slug": "d74dd01e52abe89b",
+  "content_hash": "dcfe864decc198a84eb8b583b399adba306c23825b12a0109df7f582bbc4ce48",
+  "source": {
+    "path": "sources/articles/xiao-mo-get-skill-right-first-use-mcp-only-when-truly-connecting.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心主张优先研究与编写 Skill，直接对应该主题。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "作者希望开源工具与 Harness 把 Skill 生态做得更好用，涉及 Skill 标准与生态建设。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中重点批评 MCP 占用上下文、Token 被吃掉，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "作者主张用 Skill 解决工作流和规范，强调工作流优先于盲目装载工具。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心主张优先研究与编写 Skill，直接对应该主题。",
+    "topics/agent-skills-open-standard.md": "作者希望开源工具与 Harness 把 Skill 生态做得更好用，涉及 Skill 标准与生态建设。",
+    "topics/context-engineering-for-agents.md": "文中重点批评 MCP 占用上下文、Token 被吃掉，属于 Agent 上下文工程范畴。",
+    "topics/workflows-before-agents.md": "作者主张用 Skill 解决工作流和规范，强调工作流优先于盲目装载工具。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiao-mo-get-skill-right-first-use-mcp-only-when-truly-connecting.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章核心主张优先研究与编写 Skill，直接对应该主题。",
+      "topics/agent-skills-open-standard.md": "作者希望开源工具与 Harness 把 Skill 生态做得更好用，涉及 Skill 标准与生态建设。",
+      "topics/context-engineering-for-agents.md": "文中重点批评 MCP 占用上下文、Token 被吃掉，属于 Agent 上下文工程范畴。",
+      "topics/workflows-before-agents.md": "作者主张用 Skill 解决工作流和规范，强调工作流优先于盲目装载工具。"
+    },
+    "notes": "来源仅为 X 帖文，未核实外部事实，未引入 URL 以外信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiao-mo-get-skill-right-first-use-mcp-only-when-truly-connecting.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

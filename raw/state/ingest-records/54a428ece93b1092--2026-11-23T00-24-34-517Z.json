@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:24:34.517Z",
+  "url": "https://x.com/sundarpichai/status/2123869629164786137",
+  "slug": "54a428ece93b1092",
+  "content_hash": "c7bb49d16d461f8419aad7e507e9e5e82b7742f307c667e38c4652d67a1c9099",
+  "source": {
+    "path": "sources/articles/sundar-euler-gauss-and-riemann-would-be-in-awe-today.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "谷歌 CEO 就数学与 AI 进展发声，与 AI 原生公司主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文出自 Google 负责人并标注 Made with AI，与其模型产品策略讨论语境相关。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文为标注 Made with AI 的公开内容，与 AI 媒体内容回灌训练语料主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "谷歌 CEO 就数学与 AI 进展发声，与 AI 原生公司主题相关。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文出自 Google 负责人并标注 Made with AI，与其模型产品策略讨论语境相关。",
+    "topics/ai-media-training-corpus-loop.md": "帖文为标注 Made with AI 的公开内容，与 AI 媒体内容回灌训练语料主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sundar-euler-gauss-and-riemann-would-be-in-awe-today.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

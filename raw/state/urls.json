@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -11234,8 +11234,8 @@
     "hash": "78160d376b0e539d7f9c364ed696191c3657a216a248a7dc32fc307b24f2fdcc",
     "slug": "78160d376b0e539d",
     "first_seen": "2026-11-18T00:18:54.089Z",
-    "last_seen": "2026-11-18T00:18:54.089Z",
-    "digest": "2026-11-18-frontier-ai.md",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
     "title": "ClaudeDevs"
   },
   "https://code.claude.com/docs/en/code-mode": {
@@ -13210,8 +13210,8 @@
     "hash": "5c6d12478082daa57f8cbf648030a820e3b1b62eff99b071bff4905e497d27de",
     "slug": "5c6d12478082daa5",
     "first_seen": "2026-11-22T11:52:57.013Z",
-    "last_seen": "2026-11-22T11:52:57.013Z",
-    "digest": "2026-11-22-cn-x.md",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
     "title": "联合声明"
   },
   "https://x.com/lxfater/status/2124363506396824033": {
@@ -13517,5 +13517,189 @@
     "last_seen": "2026-11-22T11:52:57.013Z",
     "digest": "2026-11-22-cn-x.md",
     "title": "站点"
+  },
+  "https://alpo.ge/remark.pdf": {
+    "hash": "3b3270b0917323ae879a1f5a2e2db2f4dea36313e995fa2b3fa90521189cc310",
+    "slug": "3b3270b0917323ae",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Alpöge 说明"
+  },
+  "https://x.com/leanprover/status/2124159121645801562": {
+    "hash": "b0650a37762cd55ccc827e9144bb4d9dca372161fbce5d7dab210620043729cb",
+    "slug": "b0650a37762cd55c",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Lean 声明"
+  },
+  "https://x.com/emollick/status/2123800664845500602": {
+    "hash": "bf0296b340da2471e647827819b0dedbb7ec0954d49df85c46a5c18ebebb407b",
+    "slug": "bf0296b340da2471",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Mollick"
+  },
+  "https://x.com/merettm/status/2124549218995949967": {
+    "hash": "fcc4f5a948b70902755bf225b4e3a5b6f1c62ff543b9bf32b8ae89d4b668ae45",
+    "slug": "fcc4f5a948b70902",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Pachocki"
+  },
+  "https://openai.com/index/perplexity-and-intelligence": {
+    "hash": "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c",
+    "slug": "1a10f1676d46fc01",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "文章"
+  },
+  "https://x.com/sama/status/2124551594691932405": {
+    "hash": "f3bb7583fdb46529c198e3f8ea073b1773db01f27adaebec01ac18e2faea039d",
+    "slug": "f3bb7583fdb46529",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Altman"
+  },
+  "https://x.com/gdb/status/2124582684840399311": {
+    "hash": "28894c1209505b469c00c60a73bad1c9dce28f74d01b4918d10caf203fa00e34",
+    "slug": "28894c1209505b46",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Brockman"
+  },
+  "https://x.com/OpenAI/status/2123862344422088794": {
+    "hash": "1853ad1f8e9ea467acb1968ee4861fa9abd4d850da79ae471f91bde175e5139e",
+    "slug": "1853ad1f8e9ea467",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "OpenAI"
+  },
+  "https://openai.com/index/combatting-adversarial-distillation": {
+    "hash": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
+    "slug": "7ad44f990f0c53ef",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/OpenAI/status/2123856316187975756": {
+    "hash": "ae3d03d4bbbaef1ddcce17e5e7780df4ff9c7f9e764447bf56357fc1b400d2c4",
+    "slug": "ae3d03d4bbbaef1d",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "OpenAI"
+  },
+  "https://openai.com/index/introducing-medchembench": {
+    "hash": "c1a2af93db54bfcf7c217cb74db83cfc0f90565b5c1b91d5871ab9ee0c953910",
+    "slug": "c1a2af93db54bfcf",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/thinkymachines/status/2123871643797995872": {
+    "hash": "86327afdf2684e79e3f9a430c3a32ea1a80772ad5bf6df25d6192ac98c5d9827",
+    "slug": "86327afdf2684e79",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "官方"
+  },
+  "https://thinkingmachines.ai/news/inkling-2-mini": {
+    "hash": "bd3614c30b5d6b837c23fd079674b78298aa688a9dd2bb0c86ebfb91b9b4018b",
+    "slug": "bd3614c30b5d6b83",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/ChatGPT/status/2123850912867471807": {
+    "hash": "64aba6f3e89a1b699e5e867168ca3c7aaf5407699c4c0672f8fe750a28052b03",
+    "slug": "64aba6f3e89a1b69",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "ChatGPT"
+  },
+  "https://x.com/sundarpichai/status/2123869629164786137": {
+    "hash": "54a428ece93b109213442777afb9206281f37120e60c329e170405c78b11e73b",
+    "slug": "54a428ece93b1092",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Sundar · 欧拉、高斯和黎曼今天也会惊叹"
+  },
+  "https://x.com/levie/status/2123686350410912145": {
+    "hash": "baa9d94e09670fa686262532673a7eb24f6a079fcf1291382c9521815463fe4e",
+    "slug": "baa9d94e09670fa6",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Levie · 更强的模型，更适合拿来解你自己也说不清的问题"
+  },
+  "https://x.com/fchollet/status/2123814042372538852": {
+    "hash": "3c53a43242cc58551815a36ef3b7d3244f04e0d4e817eca3a4dd674458304c42",
+    "slug": "3c53a43242cc5855",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Chollet · 眼下的难题是怎样让许多 agent 顺畅协作"
+  },
+  "https://x.com/addyosmani/status/2124229492248019362": {
+    "hash": "3c86cec079e7737afaf535dd590ba19cc7b910614d8b5d67047b0d91f3e69fd9",
+    "slug": "3c86cec079e7737a",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "Addy"
+  },
+  "https://x.com/xiaomovps/status/2124510881468064157": {
+    "hash": "d74dd01e52abe89b071c2c4bf699bb49515d57fca49e97b5e40cef5346c28685",
+    "slug": "d74dd01e52abe89b",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "小墨 · 先把 Skill 做好，MCP 只在真要接外部系统时再用"
+  },
+  "https://x.com/mattpocockuk/status/2123798388227403983": {
+    "hash": "c77b0710229b21684def0ddc58af37e663775c4c9199f0856871302a699a0c5e",
+    "slug": "c77b0710229b2168",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "注释提示词"
+  },
+  "https://x.com/mattpocockuk/status/2123810087361810663": {
+    "hash": "4fe9ece3fffae999aa650c65da2d45e78a0d86415f940c9a0b6336b5f4bb2778",
+    "slug": "4fe9ece3fffae999",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "/vector"
+  },
+  "https://x.com/mattpocockuk/status/2124058139477594142": {
+    "hash": "8042a3d871657838bd9fb92b55c2166ed163e6bff732046e6e1dd6358ed68446",
+    "slug": "8042a3d871657838",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "ADR"
+  },
+  "https://x.com/lxfater/status/2124504433195171902": {
+    "hash": "0c0dc94ba7fe71ec21606d441123e15f05617deb60d77edc301b7335decc4d4b",
+    "slug": "0c0dc94ba7fe71ec",
+    "first_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T00:14:44.750Z",
+    "digest": "2026-11-23-frontier-ai.md",
+    "title": "铁锤人 · 那句「你是这套代码的长期维护者」能让模型更敢重构，但不要挂在全局"
   }
 }

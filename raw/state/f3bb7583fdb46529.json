@@ -1,0 +1,23 @@
+{
+  "slug": "f3bb7583fdb46529",
+  "url": "https://x.com/sama/status/2124551594691932405",
+  "title": "Altman",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "f3bb7583fdb46529c198e3f8ea073b1773db01f27adaebec01ac18e2faea039d",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:46.624Z",
+  "content_hash": "329b571de39bd332e536336dd52c7945d36855839363d8de0682b741c94b9406",
+  "article_path": "articles/f3bb7583fdb46529.md",
+  "fetched_url": "https://x.com/sama/status/2124551594691932405",
+  "source_path": "sources/articles/sam-altman-calls-openai-release-most-important-in-a-while-advoca.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:16:53.686Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

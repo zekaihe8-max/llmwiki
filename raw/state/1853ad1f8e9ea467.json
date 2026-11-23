@@ -1,0 +1,23 @@
+{
+  "slug": "1853ad1f8e9ea467",
+  "url": "https://x.com/OpenAI/status/2123862344422088794",
+  "title": "OpenAI",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "1853ad1f8e9ea467acb1968ee4861fa9abd4d850da79ae471f91bde175e5139e",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:47.669Z",
+  "content_hash": "e475f8e2005fc051a79094f47b37fb794453e2eaa697bc09627daae315b2bd63",
+  "article_path": "articles/1853ad1f8e9ea467.md",
+  "fetched_url": "https://x.com/OpenAI/status/2123862344422088794",
+  "source_path": "sources/articles/openai-shares-new-research-on-combatting-adversarial-distillatio.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:17:56.540Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

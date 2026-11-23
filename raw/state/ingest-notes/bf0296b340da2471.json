@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "黎曼猜想属于数学证明，与 LLM 形式化验证议题最为贴近。",
+    "topics/ai-peer-review-science-adaptation.md": "帖文涉及 AI 参与重大科学发现，关联科研实践与评审适配。",
+    "topics/claude-code-authorship-and-voice.md": "主张明确指向 Claude 模型，与 Claude 相关话题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "黎曼猜想属于数学证明，与 LLM 形式化验证议题最为贴近。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 参与重大科学发现，关联科研实践与评审适配。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "主张明确指向 Claude 模型，与 Claude 相关话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "主张未经独立核实，仅按帖文内容摘录。"
+}

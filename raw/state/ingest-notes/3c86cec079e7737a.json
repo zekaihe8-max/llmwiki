@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与帖文主题最贴近",
+    "topics/coding-agent-token-saving-tooling.md": "Code Mode 主打节省上下文与工具调用开销，与该主题高度相关",
+    "topics/context-engineering-for-agents.md": "并行脚本调用旨在降低上下文窗口压力，属上下文工程范畴",
+    "topics/agent-scaled-engineering.md": "多步工具编排与后台长时运行涉及智能体规模化工程模式"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品，与帖文主题最贴近"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Code Mode 主打节省上下文与工具调用开销，与该主题高度相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "并行脚本调用旨在降低上下文窗口压力，属上下文工程范畴"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "多步工具编排与后台长时运行涉及智能体规模化工程模式"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by Addy Osmani announcing Claude Code's Code Mode; all claims are grounded in the fetched article only."
+}

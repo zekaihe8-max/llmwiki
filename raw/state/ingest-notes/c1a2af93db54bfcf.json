@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章介绍公开 AI 基准，需审视其质量与局限性。",
+    "topics/ai-eval-work-record-gateway.md": "MedChemBench 属于 AI 评测入口与工作记录类主题。",
+    "topics/community-evals-vs-score-hype.md": "文中披露单次作答、无工具反馈等局限，适合对抗刷分炒作语境。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章介绍公开 AI 基准，需审视其质量与局限性。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "MedChemBench 属于 AI 评测入口与工作记录类主题。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中披露单次作答、无工具反馈等局限，适合对抗刷分炒作语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://openai.com/index/introducing-medchembench"
+}

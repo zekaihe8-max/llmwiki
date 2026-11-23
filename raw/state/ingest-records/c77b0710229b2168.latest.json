@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:22:37.002Z",
+  "url": "https://x.com/mattpocockuk/status/2123798388227403983",
+  "slug": "c77b0710229b2168",
+  "content_hash": "9bb321499430b5ffb4e4f260d34d62d4cec55fc4442830a9f0e037f67a88af84",
+  "source": {
+    "path": "sources/articles/comment-prompt-clean-up-code-comments-by-category.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/code-over-spec.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到在仓库中创建 /delete-comment Skill，与该主题的 Skill 编写内容直接相关。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "文中“借口”类注释对应掩盖 hacky 实现的代码质量问题，与该主题关注的代码质量双标相近。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "提示词把单纯重复代码的注释定为同义反复并建议删除，体现代码重于规格/注释的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文明确提到在仓库中创建 /delete-comment Skill，与该主题的 Skill 编写内容直接相关。",
+    "topics/code-over-spec.md": "提示词把单纯重复代码的注释定为同义反复并建议删除，体现代码重于规格/注释的观点。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "文中“借口”类注释对应掩盖 hacky 实现的代码质量问题，与该主题关注的代码质量双标相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/comment-prompt-clean-up-code-comments-by-category.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/code-over-spec.md",
+      "topics/ai-code-vs-messy-code-double-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文明确提到在仓库中创建 /delete-comment Skill，与该主题的 Skill 编写内容直接相关。",
+      "topics/code-over-spec.md": "提示词把单纯重复代码的注释定为同义反复并建议删除，体现代码重于规格/注释的观点。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "文中“借口”类注释对应掩盖 hacky 实现的代码质量问题，与该主题关注的代码质量双标相近。"
+    },
+    "notes": "来源为 X 帖文，未独立核实代码库具体内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/comment-prompt-clean-up-code-comments-by-category.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

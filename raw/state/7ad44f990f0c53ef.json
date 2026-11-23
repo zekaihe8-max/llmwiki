@@ -1,0 +1,23 @@
+{
+  "slug": "7ad44f990f0c53ef",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "title": "说明",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:48.135Z",
+  "content_hash": "a79b93d2dca816c56605a026c2bbecffc39e5aa9c04b163bf2e2ed2217cb5534",
+  "article_path": "articles/7ad44f990f0c53ef.md",
+  "fetched_url": "https://openai.com/index/combatting-adversarial-distillation/",
+  "source_path": "sources/articles/combatting-adversarial-distillation.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:18:16.855Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

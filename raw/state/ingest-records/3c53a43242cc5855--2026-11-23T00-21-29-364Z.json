@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:21:29.364Z",
+  "url": "https://x.com/fchollet/status/2123814042372538852",
+  "slug": "3c53a43242cc5855",
+  "content_hash": "a2ffce4499e7569b479008d9bfedc014e8addb68bd83c4950662937e3cb68360",
+  "source": {
+    "path": "sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及大量智能体的规模化协作与工程问题，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到每个智能体维护角色上下文，与 Agent 上下文工程相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "帖文核心是多智能体协作与协调，与多智能体基建问题最相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到按角色分工并协调智能体，类似包工头调度，与个人 Agent 调度编程 Agent 相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "帖文核心是多智能体协作与协调，与多智能体基建问题最相关。",
+    "topics/context-engineering-for-agents.md": "帖文提到每个智能体维护角色上下文，与 Agent 上下文工程相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文提到按角色分工并协调智能体，类似包工头调度，与个人 Agent 调度编程 Agent 相近。",
+    "topics/agent-scaled-engineering.md": "涉及大量智能体的规模化协作与工程问题，与智能体规模化工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/multiagent-infra-four-problems.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/multiagent-infra-four-problems.md": "帖文核心是多智能体协作与协调，与多智能体基建问题最相关。",
+      "topics/context-engineering-for-agents.md": "帖文提到每个智能体维护角色上下文，与 Agent 上下文工程相关。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文提到按角色分工并协调智能体，类似包工头调度，与个人 Agent 调度编程 Agent 相近。",
+      "topics/agent-scaled-engineering.md": "涉及大量智能体的规模化协作与工程问题，与智能体规模化工程相关。"
+    },
+    "notes": "来源为 X 平台 @fchollet 的帖文，其中引用了 @MyClaw_Official 关于 MyClaw 3.0 的内容；未超出所获取文章内容进行补充。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

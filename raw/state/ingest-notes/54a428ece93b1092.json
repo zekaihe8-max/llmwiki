@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-media-training-corpus-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "Sundar Pichai 是 Google CEO，Google 属于 AI 原生公司范畴，帖文由其发布。",
+    "topics/pro-vs-flash-model-strategy.md": "帖文涉及 Google 旗下 AI 生成内容（“Made with AI”），与模型策略话题相邻。",
+    "topics/ai-media-training-corpus-loop.md": "帖文明确标注 AI 生成，触及 AI 媒体内容与语料回灌议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Sundar Pichai 是 Google CEO，Google 属于 AI 原生公司范畴，帖文由其发布。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Google 旗下 AI 生成内容（“Made with AI”），与模型策略话题相邻。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文明确标注 AI 生成，触及 AI 媒体内容与语料回灌议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于抓取的 X 帖文页面，未引入页面外事实。"
+}

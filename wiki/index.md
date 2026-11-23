@@ -26,6 +26,50 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [铁锤人：那句「你是这套代码的长期维护者」能让模型更敢重构，但不要挂在全局 / Tie Chui Ren: The “you are the long-term maintainer” prompt makes models bolder about refactoring, but don’t pin it globally](./sources/articles/tie-chui-ren-the-you-are-the-long-term-maintainer-prompt-makes-m.md) — 帖文翻译 Anthropic 官方指南，称赋予 AI 代码所有权能让主动重构比例从不足 10% 提升至约 75%，但会增加 Token 消耗与误改风险，建议仅在专门重构对话中使用。 / The post translates an Anthropic official guide, saying granting AI code ownership can raise proactive refactoring from under 10% to about 75%, but increases token use and accidental-change risk; use only in dedicated refactoring conversations.
+
+- [好的 ADR 其实很好 / Good ADRs Are Good, Actually](./sources/articles/good-adrs-are-good-actually.md) — 一条关于架构决策记录（ADR）与缩略图图表的 X 帖文，强调 ADR 对避免 AI 代理做出错误假设的价值。 / An X post about Architecture Decision Records (ADRs) and thumbnail diagrams, emphasizing their value in preventing AI agents from making incorrect assumptions.
+
+- [/vector：面向非开发者的 AI 委派技能 / /vector: An AI Delegation Skill for Non-Developers](./sources/articles/vector-an-ai-delegation-skill-for-non-developers.md) — Matt Pocock 宣布面向非开发者的 /vector 技能，通过六步工作流指导 AI 委派，并计划发布配套框架与文档。 / Matt Pocock announces /vector, an AI delegation skill for non-devs built around a six-step workflow, with frameworks and documentation coming soon.
+
+- [注释提示词：按类型清理代码注释 / Comment Prompt: Clean Up Code Comments by Category](./sources/articles/comment-prompt-clean-up-code-comments-by-category.md) — 一个用于分类并处理代码注释的长提示词，主张删除冗余注释并建立 lint 规则与技能。 / A long prompt for categorizing and handling code comments, advocating deletion of redundant comments and establishing lint rules and skills.
+
+- [小墨 · 先把 Skill 做好，MCP 只在真要接外部系统时再用 / Xiao Mo: Get Skill Right First, Use MCP Only When Truly Connecting External Systems](./sources/articles/xiao-mo-get-skill-right-first-use-mcp-only-when-truly-connecting.md) — 小墨认为在 Agent 构建中应优先完善 Skill，仅在需要对接外部系统时再引入 MCP，以避免上下文膨胀与维护负担。 / Xiao Mo argues that Agent building should prioritize Skills and introduce MCP only when external system integration is truly needed, to avoid context bloat and maintenance burden.
+
+- [Addy Osmani 介绍 Claude Code 实验性「代码模式」 / Addy Osmani Introduces Claude Code Experimental Code Mode](./sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md) — Addy Osmani 介绍 Claude Code 的实验性 Code Mode，通过 JavaScript 脚本并行执行多步工具调用，提升速度并节省上下文。 / Addy Osmani introduces Claude Code's experimental Code Mode, using JavaScript scripts to run multi-step tool calls in parallel to improve speed and save context.
+
+- [Chollet：眼下的难题是怎样让许多 agent 顺畅协作 / Chollet: The pressing question is how to smoothly coordinate many agents](./sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md) — Chollet 认为当前核心问题是如何让大量智能体顺畅协作，并提到按人类组织角色分工并保持各自上下文的方法。 / Chollet says the key question is how to smoothly coordinate many agents, citing role-based agent organization with per-role context as a promising approach.
+
+- [Levie · 更强的模型，更适合拿来解你自己也说不清的问题 / Levie · Stronger models are better suited to solving problems you can't even define](./sources/articles/levie-stronger-models-are-better-suited-to-solving-problems-you.md) — 模型能力跃升让智能体从执行明确指令转向自主解决难以定义的问题。 / A leap in model capability shifts agents from executing explicit instructions to autonomously solving problems that are hard to define.
+
+- [Sundar · 欧拉、高斯和黎曼今天也会惊叹 / Sundar · Euler, Gauss, and Riemann Would Be in Awe Today](./sources/articles/sundar-euler-gauss-and-riemann-would-be-in-awe-today.md) — Sundar Pichai 发文称欧拉、高斯和黎曼今天也会惊叹，并标注“Made with AI”。 / Sundar Pichai posted that Euler, Gauss, and Riemann would be in awe today, tagged “Made with AI”.
+
+- [ChatGPT Plus 推出 Space，协作创建交互页面、幻灯片与网站 / ChatGPT Plus Launches Space for Collaborative Interactive Pages, Slides, and Sites](./sources/articles/chatgpt-plus-launches-space-for-collaborative-interactive-pages.md) — ChatGPT 为 Plus 用户推出 Space，支持与 AI 协作制作交互页面、幻灯片和网站，并可在移动端编辑。 / ChatGPT launches Space for Plus users, enabling collaboration with AI to create interactive pages, slides, and sites, with mobile editing support.
+
+- [Thinking Machines 发布可在笔记本上运行的 Inkling 2 Mini 开放权重模型 / Thinking Machines Releases Inkling 2 Mini Open-Weight Model for Laptops](./sources/articles/thinking-machines-releases-inkling-2-mini-open-weight-model-for.md) — 思维机器公司发布 Inkling 2 Mini，一款小到可在笔记本电脑上运行的循环变压器模型，主打开放权重与代理式编程能力。 / Thinking Machines releases Inkling 2 Mini, a looped transformer small enough to run on laptops, emphasizing open weights and agentic coding capabilities.
+
+- [官方：Thinking Machines 发布 26B 参数 Inkling 2 Mini 小模型 / Official: Thinking Machines Releases 26B-Parameter Inkling 2 Mini Small Model](./sources/articles/official-thinking-machines-releases-26b-parameter-inkling-2-mini.md) — Thinking Machines 官方宣布推出仅 26B 参数、可在笔记本上运行的 Inkling 2 Mini 循环变换器模型，主打 Agentic 工作。 / Thinking Machines officially announces Inkling 2 Mini, a 26B-parameter looped transformer that runs on laptops and targets agentic work.
+
+- [介绍 MedChemBench：AI 能否帮助科学家识别有前景的药物候选物 / Introducing MedChemBench: Can AI Help Scientists Identify Promising Drug Candidates?](./sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md) — OpenAI 发布 MedChemBench，通过 99 个药物化学问题评估 AI 模型读取分子结构、解读实验结果并选择化合物的能力。 / OpenAI introduces MedChemBench, evaluating AI models on reading molecular structures, interpreting experimental results, and selecting compounds through 99 medicinal chemistry problems.
+
+- [OpenAI 发布 MedChemBench 医药化学推理基准 / OpenAI Releases MedChemBench Benchmark for AI Reasoning in Medicinal Chemistry](./sources/articles/openai-releases-medchembench-benchmark-for-ai-reasoning-in-medic.md) — OpenAI 宣布推出 MedChemBench，用于评估 AI 在药物化学推理及识别潜在药物候选物方面的能力。 / OpenAI announces MedChemBench, a benchmark for evaluating AI reasoning in medicinal chemistry and identifying promising drug candidates.
+
+- [对抗对抗性模型蒸馏 / Combatting adversarial distillation](./sources/articles/combatting-adversarial-distillation.md) — OpenAI 介绍如何检测和干扰对抗性模型蒸馏，并加强对受保护推理痕迹的防护。 / OpenAI describes how it detects and disrupts adversarial model distillation and strengthens protection of protected reasoning traces.
+
+- [OpenAI 发布对抗模型蒸馏的新研究 / OpenAI Shares New Research on Combatting Adversarial Distillation](./sources/articles/openai-shares-new-research-on-combatting-adversarial-distillatio.md) — OpenAI 发布关于对抗模型蒸馏、检测并干扰协调尝试的新研究，以强化防御并支持行业安全防护。 / OpenAI shares new research on combatting adversarial distillation, detecting and disrupting coordinated attempts, and sharpening defenses to support industry safeguards.
+
+- [格雷格·布罗克曼倡议以困惑度为指标设定共享 AI 安全上限 / Greg Brockman Proposes Shared Perplexity-Based AI Safety Upper Limits](./sources/articles/greg-brockman-proposes-shared-perplexity-based-ai-safety-upper-l.md) — 帖文称 OpenAI 联合创始人主张以困惑度等指标设定共享安全限制，并在监控能力达标前暂不跨越。 / The post says the OpenAI co-founder advocates shared safety limits based on metrics such as perplexity, to be held until monitoring capability meets the bar.
+
+- [萨姆·阿尔特曼称 OpenAI 发布近期最重要内容，主张预训练透明度与共同安全限制 / Sam Altman Calls OpenAI Release Most Important in a While, Advocates Pretraining Transparency and Common Safety Limits](./sources/articles/sam-altman-calls-openai-release-most-important-in-a-while-advoca.md) — 萨姆·阿尔特曼表示 OpenAI 正在提供前沿预训练进展透明度，并呼吁就共同安全限制达成一致。 / Sam Altman says OpenAI is providing frontier pretraining transparency and urges agreement on common safety limits.
+
+- [困惑度与智能：将预训练进展作为共享安全指标 / Perplexity and Intelligence: Using Pretraining Progress as a Shared Safety Metric](./sources/articles/perplexity-and-intelligence-using-pretraining-progress-as-a-shar.md) — OpenAI 首席科学家主张以困惑度（交叉熵损失）衡量预训练进展，并据此建立业界共享的 AI 安全标准与开发上限。 / OpenAI's chief scientist argues for measuring pretraining progress with perplexity (cross-entropy loss) and establishing industry-shared AI safety standards and development limits based on it.
+
+- [Pachocki：OpenAI 将公开预训练进展，以困惑度等指标设安全门槛 / Pachocki: OpenAI to Share Pretraining Progress, Propose Perplexity-Based Safety Limits](./sources/articles/pachocki-openai-to-share-pretraining-progress-propose-perplexity.md) — 帖文称 OpenAI 决定就预训练进展提供更多透明度，主张以困惑度等指标设定共同安全标准，并在理解 AI 行为前限制超出上限的进展。 / The post says OpenAI decided to provide more transparency into pretraining progress, arguing for common safety limits based on perplexity and other measurements, with progress beyond them gated on understanding AI behavior.
+
+- [伊桑·莫利克称 Claude 协助解决黎曼猜想 / Ethan Mollick Says Claude May Have Helped Solve the Riemann Hypothesis](./sources/articles/ethan-mollick-says-claude-may-have-helped-solve-the-riemann-hypo.md) — 伊桑·莫利克发帖称，有人借助 Claude 可能解决了黎曼猜想，并附 PDF 链接与赞叹科学新曙光的引述。 / Ethan Mollick posted that someone may have solved the Riemann Hypothesis with Claude's help, linking a PDF and quoting awe at a new dawn for science.
+
+- [Lean 社区联合声明认证 Riemann 假设 Lean 形式化证明 / Lean Community Joint Statement Certifies Lean Formal Proof of the Riemann Hypothesis](./sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md) — Lean FRO 与 Mathlib 联合发布声明，认证 Levent Alpöge 提交的 1700 万行 Lean 代码中的 Riemann 假设证明已通过社区验证。 / Lean FRO and Mathlib issued a joint statement certifying that Levent Alpöge's 17-million-line Lean proof of the Riemann Hypothesis has passed community verification.
+
 - [鸟鸣频率比例绘图站点 / Bird Call Frequency Proportional Drawing Site](./sources/articles/bird-call-frequency-proportional-drawing-site.md) — 按听闻频率绘制鸟类比例并展示其活跃时段的物种索引网站。 / A species index website that draws birds in proportion to how often they are heard and shows their active hours.
 
 - [介绍帖：用 Codex 与树莓派搭建 24 小时飞鸟电台 / Introduction post: Building a 24-hour Flying Bird Radio with Codex and Raspberry Pi](./sources/articles/introduction-post-building-a-24-hour-flying-bird-radio-with-code.md) — 作者用 Codex 和树莓派在上海搭建了一个24小时听鸟鸣、识鸟种的飞鸟电台，并引用 BirdNET、Google Perch 等开源模型。 / The author built a 24-hour bird-listening and species-identification radio station in Shanghai using Codex and a Raspberry Pi, leveraging open-source models such as BirdNET and Google Perch.

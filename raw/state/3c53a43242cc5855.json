@@ -1,0 +1,23 @@
+{
+  "slug": "3c53a43242cc5855",
+  "url": "https://x.com/fchollet/status/2123814042372538852",
+  "title": "Chollet · 眼下的难题是怎样让许多 agent 顺畅协作",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "3c53a43242cc58551815a36ef3b7d3244f04e0d4e817eca3a4dd674458304c42",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:50.812Z",
+  "content_hash": "a2ffce4499e7569b479008d9bfedc014e8addb68bd83c4950662937e3cb68360",
+  "article_path": "articles/3c53a43242cc5855.md",
+  "fetched_url": "https://x.com/fchollet/status/2123814042372538852",
+  "source_path": "sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:21:29.365Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

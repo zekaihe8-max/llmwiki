@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:19:05.871Z",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "slug": "c1a2af93db54bfcf",
+  "content_hash": "a2493d4499e822d8b2f45cd2f73cd78e8d01c0fbefa4e21007f83a29b8356c2f",
+  "source": {
+    "path": "sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "MedChemBench 属于 AI 评测入口与工作记录类主题。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中披露单次作答、无工具反馈等局限，适合对抗刷分炒作语境。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章介绍公开 AI 基准，需审视其质量与局限性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章介绍公开 AI 基准，需审视其质量与局限性。",
+    "topics/ai-eval-work-record-gateway.md": "MedChemBench 属于 AI 评测入口与工作记录类主题。",
+    "topics/community-evals-vs-score-hype.md": "文中披露单次作答、无工具反馈等局限，适合对抗刷分炒作语境。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/public-benchmark-quality-scrutiny.md": "文章介绍公开 AI 基准，需审视其质量与局限性。",
+      "topics/ai-eval-work-record-gateway.md": "MedChemBench 属于 AI 评测入口与工作记录类主题。",
+      "topics/community-evals-vs-score-hype.md": "文中披露单次作答、无工具反馈等局限，适合对抗刷分炒作语境。"
+    },
+    "notes": "Source URL: https://openai.com/index/introducing-medchembench",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
