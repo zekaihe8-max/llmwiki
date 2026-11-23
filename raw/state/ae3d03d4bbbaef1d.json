@@ -1,0 +1,23 @@
+{
+  "slug": "ae3d03d4bbbaef1d",
+  "url": "https://x.com/OpenAI/status/2123856316187975756",
+  "title": "OpenAI",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "ae3d03d4bbbaef1ddcce17e5e7780df4ff9c7f9e764447bf56357fc1b400d2c4",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:48.269Z",
+  "content_hash": "ba02ce43a1baacbc3e917bc014254d24a5766e4c4d72698a5632fd6efcbe089c",
+  "article_path": "articles/ae3d03d4bbbaef1d.md",
+  "fetched_url": "https://x.com/OpenAI/status/2123856316187975756",
+  "source_path": "sources/articles/openai-releases-medchembench-benchmark-for-ai-reasoning-in-medic.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:18:38.328Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

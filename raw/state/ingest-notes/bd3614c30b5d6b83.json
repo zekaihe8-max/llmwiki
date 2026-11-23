@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章主体是开放权重前沿模型 Inkling 2 Mini 的发布，与该主题直接相关。",
+    "topics/local-open-assistant-models.md": "模型主打本地运行、约 20GB 显存占用，适合消费级设备，与本地开放助手小模型主题相关。",
+    "topics/ai-task-horizon-growth.md": "文章强调模型在长时程代理工作和代理式编程上的优势，与 AI 任务时界增长主题相关。",
+    "topics/gpu-ai-compute-unlock.md": "模型可在消费级笔记本和 MacBook Pro 上离线运行，涉及消费级 AI 算力解锁主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章主体是开放权重前沿模型 Inkling 2 Mini 的发布，与该主题直接相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "模型主打本地运行、约 20GB 显存占用，适合消费级设备，与本地开放助手小模型主题相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文章强调模型在长时程代理工作和代理式编程上的优势，与 AI 任务时界增长主题相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "模型可在消费级笔记本和 MacBook Pro 上离线运行，涉及消费级 AI 算力解锁主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://thinkingmachines.ai/news/inkling-2-mini"
+}

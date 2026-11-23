@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:23:28.959Z",
+  "url": "https://x.com/mattpocockuk/status/2124058139477594142",
+  "slug": "8042a3d871657838",
+  "content_hash": "ffa434e5a311a80a34c5dbad9385499cef40915edc538f090696dfb76647c013",
+  "source": {
+    "path": "sources/articles/good-adrs-are-good-actually.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/code-over-spec.md",
+    "topics/ontology-driven-observability.md",
+    "topics/llm-maintained-wiki.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "ADR 属于规模化工程中的决策记录与治理实践，主题最贴近。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "ADR 是规格/文档形式，与“代码重于规格”的讨论存在直接张力。"
+    },
+    {
+      "path": "topics/llm-maintained-wiki.md",
+      "action": "unchanged",
+      "reason": "帖文关注代理（agent）如何依赖文档，与 LLM 维护的 wiki 主题相近。"
+    },
+    {
+      "path": "topics/ontology-driven-observability.md",
+      "action": "unchanged",
+      "reason": "帖文涉及数据关系与本体假设，与本体驱动可观测性相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "ADR 属于规模化工程中的决策记录与治理实践，主题最贴近。",
+    "topics/code-over-spec.md": "ADR 是规格/文档形式，与“代码重于规格”的讨论存在直接张力。",
+    "topics/ontology-driven-observability.md": "帖文涉及数据关系与本体假设，与本体驱动可观测性相关。",
+    "topics/llm-maintained-wiki.md": "帖文关注代理（agent）如何依赖文档，与 LLM 维护的 wiki 主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/good-adrs-are-good-actually.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/code-over-spec.md",
+      "topics/ontology-driven-observability.md",
+      "topics/llm-maintained-wiki.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "ADR 属于规模化工程中的决策记录与治理实践，主题最贴近。",
+      "topics/code-over-spec.md": "ADR 是规格/文档形式，与“代码重于规格”的讨论存在直接张力。",
+      "topics/ontology-driven-observability.md": "帖文涉及数据关系与本体假设，与本体驱动可观测性相关。",
+      "topics/llm-maintained-wiki.md": "帖文关注代理（agent）如何依赖文档，与 LLM 维护的 wiki 主题相近。"
+    },
+    "notes": "文章中的日期为 2026 年 11 月 21 日，属于来源文本直接显示，未作改动。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/good-adrs-are-good-actually.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

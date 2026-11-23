@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文主体是一款面向非开发者的 Agent 技能，与技能编写主题直接相关。",
+    "topics/workflows-before-agents.md": "/vector 围绕六步工作流展开，强调工作流优先于智能体。",
+    "topics/context-engineering-for-agents.md": "文中提到“给智能体提供合适上下文”，属于 Agent 上下文工程范畴。",
+    "topics/agentic-ai-foundation.md": "该技能涉及 AI 委派与智能体协作，属于 Agentic AI 基础方向。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文主体是一款面向非开发者的 Agent 技能，与技能编写主题直接相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "/vector 围绕六步工作流展开，强调工作流优先于智能体。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到“给智能体提供合适上下文”，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "该技能涉及 AI 委派与智能体协作，属于 Agentic AI 基础方向。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未引入外部事实或 URL。"
+}

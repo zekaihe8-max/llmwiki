@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是 Lean 形式化证明的社区验证，与形式化验证主题最贴近。",
+    "topics/ai-peer-review-science-adaptation.md": "社区对数学证明进行集中审验，可类比为科研实践中的同行评议与适配。",
+    "topics/community-evals-vs-score-hype.md": "社区集体验证大型代码库的过程涉及社区实测与可信度评估。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Lean 形式化证明的社区验证，与形式化验证主题最贴近。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "社区对数学证明进行集中审验，可类比为科研实践中的同行评议与适配。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "社区集体验证大型代码库的过程涉及社区实测与可信度评估。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文文本，未引用文中未出现的外部链接或信息。"
+}

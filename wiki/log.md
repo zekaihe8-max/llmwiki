@@ -1,3 +1,49 @@
+## 2026-11-23
+
+* **创建 / Creation**: 归档 [铁锤人：那句「你是这套代码的长期维护者」能让模型更敢重构，但不要挂在全局](./sources/articles/tie-chui-ren-the-you-are-the-long-term-maintainer-prompt-makes-m.md)。 / Filed [Tie Chui Ren: The “you are the long-term maintainer” prompt makes models bolder about refactoring, but don’t pin it globally](./sources/articles/tie-chui-ren-the-you-are-the-long-term-maintainer-prompt-makes-m.md).
+
+* **创建 / Creation**: 归档 [好的 ADR 其实很好](./sources/articles/good-adrs-are-good-actually.md)。 / Filed [Good ADRs Are Good, Actually](./sources/articles/good-adrs-are-good-actually.md).
+
+* **创建 / Creation**: 归档 [/vector：面向非开发者的 AI 委派技能](./sources/articles/vector-an-ai-delegation-skill-for-non-developers.md)。 / Filed [/vector: An AI Delegation Skill for Non-Developers](./sources/articles/vector-an-ai-delegation-skill-for-non-developers.md).
+
+* **创建 / Creation**: 归档 [注释提示词：按类型清理代码注释](./sources/articles/comment-prompt-clean-up-code-comments-by-category.md)。 / Filed [Comment Prompt: Clean Up Code Comments by Category](./sources/articles/comment-prompt-clean-up-code-comments-by-category.md).
+
+* **创建 / Creation**: 归档 [小墨 · 先把 Skill 做好，MCP 只在真要接外部系统时再用](./sources/articles/xiao-mo-get-skill-right-first-use-mcp-only-when-truly-connecting.md)。 / Filed [Xiao Mo: Get Skill Right First, Use MCP Only When Truly Connecting External Systems](./sources/articles/xiao-mo-get-skill-right-first-use-mcp-only-when-truly-connecting.md).
+
+* **创建 / Creation**: 归档 [Addy Osmani 介绍 Claude Code 实验性「代码模式」](./sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md)。 / Filed [Addy Osmani Introduces Claude Code Experimental Code Mode](./sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md).
+
+* **创建 / Creation**: 归档 [Chollet：眼下的难题是怎样让许多 agent 顺畅协作](./sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md)。 / Filed [Chollet: The pressing question is how to smoothly coordinate many agents](./sources/articles/chollet-the-pressing-question-is-how-to-smoothly-coordinate-many.md).
+
+* **创建 / Creation**: 归档 [Levie · 更强的模型，更适合拿来解你自己也说不清的问题](./sources/articles/levie-stronger-models-are-better-suited-to-solving-problems-you.md)。 / Filed [Levie · Stronger models are better suited to solving problems you can't even define](./sources/articles/levie-stronger-models-are-better-suited-to-solving-problems-you.md).
+
+* **创建 / Creation**: 归档 [Sundar · 欧拉、高斯和黎曼今天也会惊叹](./sources/articles/sundar-euler-gauss-and-riemann-would-be-in-awe-today.md)。 / Filed [Sundar · Euler, Gauss, and Riemann Would Be in Awe Today](./sources/articles/sundar-euler-gauss-and-riemann-would-be-in-awe-today.md).
+
+* **创建 / Creation**: 归档 [ChatGPT Plus 推出 Space，协作创建交互页面、幻灯片与网站](./sources/articles/chatgpt-plus-launches-space-for-collaborative-interactive-pages.md)。 / Filed [ChatGPT Plus Launches Space for Collaborative Interactive Pages, Slides, and Sites](./sources/articles/chatgpt-plus-launches-space-for-collaborative-interactive-pages.md).
+
+* **创建 / Creation**: 归档 [Thinking Machines 发布可在笔记本上运行的 Inkling 2 Mini 开放权重模型](./sources/articles/thinking-machines-releases-inkling-2-mini-open-weight-model-for.md)。 / Filed [Thinking Machines Releases Inkling 2 Mini Open-Weight Model for Laptops](./sources/articles/thinking-machines-releases-inkling-2-mini-open-weight-model-for.md).
+
+* **创建 / Creation**: 归档 [官方：Thinking Machines 发布 26B 参数 Inkling 2 Mini 小模型](./sources/articles/official-thinking-machines-releases-26b-parameter-inkling-2-mini.md)。 / Filed [Official: Thinking Machines Releases 26B-Parameter Inkling 2 Mini Small Model](./sources/articles/official-thinking-machines-releases-26b-parameter-inkling-2-mini.md).
+
+* **创建 / Creation**: 归档 [介绍 MedChemBench：AI 能否帮助科学家识别有前景的药物候选物](./sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md)。 / Filed [Introducing MedChemBench: Can AI Help Scientists Identify Promising Drug Candidates?](./sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布 MedChemBench 医药化学推理基准](./sources/articles/openai-releases-medchembench-benchmark-for-ai-reasoning-in-medic.md)。 / Filed [OpenAI Releases MedChemBench Benchmark for AI Reasoning in Medicinal Chemistry](./sources/articles/openai-releases-medchembench-benchmark-for-ai-reasoning-in-medic.md).
+
+* **创建 / Creation**: 归档 [对抗对抗性模型蒸馏](./sources/articles/combatting-adversarial-distillation.md)。 / Filed [Combatting adversarial distillation](./sources/articles/combatting-adversarial-distillation.md).
+
+* **创建 / Creation**: 归档 [OpenAI 发布对抗模型蒸馏的新研究](./sources/articles/openai-shares-new-research-on-combatting-adversarial-distillatio.md)。 / Filed [OpenAI Shares New Research on Combatting Adversarial Distillation](./sources/articles/openai-shares-new-research-on-combatting-adversarial-distillatio.md).
+
+* **创建 / Creation**: 归档 [格雷格·布罗克曼倡议以困惑度为指标设定共享 AI 安全上限](./sources/articles/greg-brockman-proposes-shared-perplexity-based-ai-safety-upper-l.md)。 / Filed [Greg Brockman Proposes Shared Perplexity-Based AI Safety Upper Limits](./sources/articles/greg-brockman-proposes-shared-perplexity-based-ai-safety-upper-l.md).
+
+* **创建 / Creation**: 归档 [萨姆·阿尔特曼称 OpenAI 发布近期最重要内容，主张预训练透明度与共同安全限制](./sources/articles/sam-altman-calls-openai-release-most-important-in-a-while-advoca.md)。 / Filed [Sam Altman Calls OpenAI Release Most Important in a While, Advocates Pretraining Transparency and Common Safety Limits](./sources/articles/sam-altman-calls-openai-release-most-important-in-a-while-advoca.md).
+
+* **创建 / Creation**: 归档 [困惑度与智能：将预训练进展作为共享安全指标](./sources/articles/perplexity-and-intelligence-using-pretraining-progress-as-a-shar.md)。 / Filed [Perplexity and Intelligence: Using Pretraining Progress as a Shared Safety Metric](./sources/articles/perplexity-and-intelligence-using-pretraining-progress-as-a-shar.md).
+
+* **创建 / Creation**: 归档 [Pachocki：OpenAI 将公开预训练进展，以困惑度等指标设安全门槛](./sources/articles/pachocki-openai-to-share-pretraining-progress-propose-perplexity.md)。 / Filed [Pachocki: OpenAI to Share Pretraining Progress, Propose Perplexity-Based Safety Limits](./sources/articles/pachocki-openai-to-share-pretraining-progress-propose-perplexity.md).
+
+* **创建 / Creation**: 归档 [伊桑·莫利克称 Claude 协助解决黎曼猜想](./sources/articles/ethan-mollick-says-claude-may-have-helped-solve-the-riemann-hypo.md)。 / Filed [Ethan Mollick Says Claude May Have Helped Solve the Riemann Hypothesis](./sources/articles/ethan-mollick-says-claude-may-have-helped-solve-the-riemann-hypo.md).
+
+* **创建 / Creation**: 归档 [Lean 社区联合声明认证 Riemann 假设 Lean 形式化证明](./sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md)。 / Filed [Lean Community Joint Statement Certifies Lean Formal Proof of the Riemann Hypothesis](./sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md).
+
 ## 2026-11-22
 
 * **创建 / Creation**: 归档 [鸟鸣频率比例绘图站点](./sources/articles/bird-call-frequency-proportional-drawing-site.md)。 / Filed [Bird Call Frequency Proportional Drawing Site](./sources/articles/bird-call-frequency-proportional-drawing-site.md).

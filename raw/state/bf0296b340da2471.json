@@ -1,0 +1,23 @@
+{
+  "slug": "bf0296b340da2471",
+  "url": "https://x.com/emollick/status/2123800664845500602",
+  "title": "Mollick",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "bf0296b340da2471e647827819b0dedbb7ec0954d49df85c46a5c18ebebb407b",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:45.629Z",
+  "content_hash": "1813ef229fa8fd823e2223a75eb73b635d2eb191a4c06e29e2141d3e4cd23d61",
+  "article_path": "articles/bf0296b340da2471.md",
+  "fetched_url": "https://x.com/emollick/status/2123800664845500602",
+  "source_path": "sources/articles/ethan-mollick-says-claude-may-have-helped-solve-the-riemann-hypo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:24:34.515Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

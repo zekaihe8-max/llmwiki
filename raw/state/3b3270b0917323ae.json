@@ -1,0 +1,34 @@
+{
+  "slug": "3b3270b0917323ae",
+  "url": "https://alpo.ge/remark.pdf",
+  "title": "Alpöge 说明",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "failed",
+  "hash": "3b3270b0917323ae879a1f5a2e2db2f4dea36313e995fa2b3fa90521189cc310",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "unsupported content type: application/pdf",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-23T00:14:44.881Z",
+      "stage": "fetch",
+      "error": "unsupported content type: application/pdf"
+    },
+    {
+      "at": "2026-11-23T00:24:55.715Z",
+      "stage": "fetch",
+      "error": "unsupported content type: application/pdf"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "unsupported content type: application/pdf",
+  "last_fetch_failed_at": "2026-11-23T00:24:55.715Z"
+}

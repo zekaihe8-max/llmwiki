@@ -1,0 +1,23 @@
+{
+  "slug": "28894c1209505b46",
+  "url": "https://x.com/gdb/status/2124582684840399311",
+  "title": "Brockman",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "28894c1209505b469c00c60a73bad1c9dce28f74d01b4918d10caf203fa00e34",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:47.181Z",
+  "content_hash": "c320fbec86cfdd1be848606f2481524b42bcdbbda461e571b93a292e139a94e4",
+  "article_path": "articles/28894c1209505b46.md",
+  "fetched_url": "https://x.com/gdb/status/2124582684840399311",
+  "source_path": "sources/articles/greg-brockman-proposes-shared-perplexity-based-ai-safety-upper-l.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:17:20.480Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

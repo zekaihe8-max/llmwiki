@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:20:10.962Z",
+  "url": "https://x.com/ChatGPT/status/2123850912867471807",
+  "slug": "64aba6f3e89a1b69",
+  "content_hash": "66061be85287e44c56da00454c211c6aae326ae783cf28d5b5eb279acb4923fd",
+  "source": {
+    "path": "sources/articles/chatgpt-plus-launches-space-for-collaborative-interactive-pages.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent 编写输出，与 ChatGPT 协作生成内容相近"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计与代码的生成，与 Space 协作制作页面和幻灯片相关"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "涉及页面与站点创建，与 Space 的交互页面/网站功能最为接近"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "涉及用技能组合复刻原生感应用，与 Space 建站与页面制作有相似之处"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "涉及页面与站点创建，与 Space 的交互页面/网站功能最为接近",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计与代码的生成，与 Space 协作制作页面和幻灯片相关",
+    "topics/agent-skill-authoring.md": "涉及 Agent 编写输出，与 ChatGPT 协作生成内容相近",
+    "topics/skills-stack-native-app-recreation.md": "涉及用技能组合复刻原生感应用，与 Space 建站与页面制作有相似之处"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chatgpt-plus-launches-space-for-collaborative-interactive-pages.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/landing-page-site-clone-over-skill.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/agent-skill-authoring.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/landing-page-site-clone-over-skill.md": "涉及页面与站点创建，与 Space 的交互页面/网站功能最为接近",
+      "topics/design-to-code-byo-subscriptions.md": "涉及设计与代码的生成，与 Space 协作制作页面和幻灯片相关",
+      "topics/agent-skill-authoring.md": "涉及 Agent 编写输出，与 ChatGPT 协作生成内容相近",
+      "topics/skills-stack-native-app-recreation.md": "涉及用技能组合复刻原生感应用，与 Space 建站与页面制作有相似之处"
+    },
+    "notes": "所有引用主题均未直接涉及 ChatGPT Space，故均标记为 unchanged，不新建主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chatgpt-plus-launches-space-for-collaborative-interactive-pages.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "3c86cec079e7737a",
+  "url": "https://x.com/addyosmani/status/2124229492248019362",
+  "title": "Addy",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "3c86cec079e7737afaf535dd590ba19cc7b910614d8b5d67047b0d91f3e69fd9",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:51.178Z",
+  "content_hash": "a38225888023c0d354c636361a6606c1026c7f7fee98dbfe0c3cda33af3757b5",
+  "article_path": "articles/3c86cec079e7737a.md",
+  "fetched_url": "https://x.com/addyosmani/status/2124229492248019362",
+  "source_path": "sources/articles/addy-osmani-introduces-claude-code-experimental-code-mode.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:21:53.850Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

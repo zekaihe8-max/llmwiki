@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/code-over-spec.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文明确提到在仓库中创建 /delete-comment Skill，与该主题的 Skill 编写内容直接相关。",
+    "topics/code-over-spec.md": "提示词把单纯重复代码的注释定为同义反复并建议删除，体现代码重于规格/注释的观点。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "文中“借口”类注释对应掩盖 hacky 实现的代码质量问题，与该主题关注的代码质量双标相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到在仓库中创建 /delete-comment Skill，与该主题的 Skill 编写内容直接相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "提示词把单纯重复代码的注释定为同义反复并建议删除，体现代码重于规格/注释的观点。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "文中“借口”类注释对应掩盖 hacky 实现的代码质量问题，与该主题关注的代码质量双标相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未独立核实代码库具体内容。"
+}

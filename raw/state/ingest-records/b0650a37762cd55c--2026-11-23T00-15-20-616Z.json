@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:15:20.616Z",
+  "url": "https://x.com/leanprover/status/2124159121645801562",
+  "slug": "b0650a37762cd55c",
+  "content_hash": "01a242874f5dfd09467ce41dea35ce4ec3592f13d05a0251f9ad60e4470c2df1",
+  "source": {
+    "path": "sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "社区对数学证明进行集中审验，可类比为科研实践中的同行评议与适配。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "社区集体验证大型代码库的过程涉及社区实测与可信度评估。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Lean 形式化证明的社区验证，与形式化验证主题最贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是 Lean 形式化证明的社区验证，与形式化验证主题最贴近。",
+    "topics/ai-peer-review-science-adaptation.md": "社区对数学证明进行集中审验，可类比为科研实践中的同行评议与适配。",
+    "topics/community-evals-vs-score-hype.md": "社区集体验证大型代码库的过程涉及社区实测与可信度评估。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "文章核心是 Lean 形式化证明的社区验证，与形式化验证主题最贴近。",
+      "topics/ai-peer-review-science-adaptation.md": "社区对数学证明进行集中审验，可类比为科研实践中的同行评议与适配。",
+      "topics/community-evals-vs-score-hype.md": "社区集体验证大型代码库的过程涉及社区实测与可信度评估。"
+    },
+    "notes": "所有事实均来源于提供的 X 帖文文本，未引用文中未出现的外部链接或信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

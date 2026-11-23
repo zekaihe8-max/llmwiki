@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:24:34.511Z",
+  "url": "https://x.com/emollick/status/2123800664845500602",
+  "slug": "bf0296b340da2471",
+  "content_hash": "1813ef229fa8fd823e2223a75eb73b635d2eb191a4c06e29e2141d3e4cd23d61",
+  "source": {
+    "path": "sources/articles/ethan-mollick-says-claude-may-have-helped-solve-the-riemann-hypo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文讨论借助 Claude 推进黎曼猜想形式化证明，与 LLM 形式化验证主题相关。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 参与数学研究与科学新进展的讨论，与 AI 审稿与科研实践适配主题相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文将进展归于 Claude 的协助，与 Claude 作者与社区话筒主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文讨论借助 Claude 推进黎曼猜想形式化证明，与 LLM 形式化验证主题相关。",
+    "topics/ai-peer-review-science-adaptation.md": "内容涉及 AI 参与数学研究与科学新进展的讨论，与 AI 审稿与科研实践适配主题相关。",
+    "topics/claude-code-authorship-and-voice.md": "帖文将进展归于 Claude 的协助，与 Claude 作者与社区话筒主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ethan-mollick-says-claude-may-have-helped-solve-the-riemann-hypo.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

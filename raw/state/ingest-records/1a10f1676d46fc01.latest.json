@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:16:26.397Z",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "slug": "1a10f1676d46fc01",
+  "content_hash": "d7ef92c6d3ebdc185373cfd0268e422dc8010c29fdfd643259003b65720a8a98",
+  "source": {
+    "path": "sources/articles/perplexity-and-intelligence-using-pretraining-progress-as-a-shar.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章强调算法研究与算力投入对预训练的加速作用，与算力治理相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文章提出前沿模型开发上限与安全红线，涉及前沿训练的隔离与治理。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "文章核心主张以困惑度作为通用智能指标，与该主题关于智能度量的讨论高度相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章讨论跨实验室困惑度对比与评估质量挑战，与公开基准审查相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/intelligence-as-anthropocentric-benchmark.md": "文章核心主张以困惑度作为通用智能指标，与该主题关于智能度量的讨论高度相关。",
+    "topics/frontier-training-containment.md": "文章提出前沿模型开发上限与安全红线，涉及前沿训练的隔离与治理。",
+    "topics/agent-compute-and-governance.md": "文章强调算法研究与算力投入对预训练的加速作用，与算力治理相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章讨论跨实验室困惑度对比与评估质量挑战，与公开基准审查相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/perplexity-and-intelligence-using-pretraining-progress-as-a-shar.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/intelligence-as-anthropocentric-benchmark.md",
+      "topics/frontier-training-containment.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/intelligence-as-anthropocentric-benchmark.md": "文章核心主张以困惑度作为通用智能指标，与该主题关于智能度量的讨论高度相关。",
+      "topics/frontier-training-containment.md": "文章提出前沿模型开发上限与安全红线，涉及前沿训练的隔离与治理。",
+      "topics/agent-compute-and-governance.md": "文章强调算法研究与算力投入对预训练的加速作用，与算力治理相关。",
+      "topics/public-benchmark-quality-scrutiny.md": "文章讨论跨实验室困惑度对比与评估质量挑战，与公开基准审查相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/perplexity-and-intelligence-using-pretraining-progress-as-a-shar.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

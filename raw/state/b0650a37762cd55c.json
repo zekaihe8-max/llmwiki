@@ -1,0 +1,23 @@
+{
+  "slug": "b0650a37762cd55c",
+  "url": "https://x.com/leanprover/status/2124159121645801562",
+  "title": "Lean 声明",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "b0650a37762cd55ccc827e9144bb4d9dca372161fbce5d7dab210620043729cb",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:45.067Z",
+  "content_hash": "01a242874f5dfd09467ce41dea35ce4ec3592f13d05a0251f9ad60e4470c2df1",
+  "article_path": "articles/b0650a37762cd55c.md",
+  "fetched_url": "https://x.com/leanprover/status/2124159121645801562",
+  "source_path": "sources/articles/lean-community-joint-statement-certifies-lean-formal-proof-of-th.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:15:20.617Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

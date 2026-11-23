@@ -1,0 +1,23 @@
+{
+  "slug": "bd3614c30b5d6b83",
+  "url": "https://thinkingmachines.ai/news/inkling-2-mini",
+  "title": "说明",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "bd3614c30b5d6b837c23fd079674b78298aa688a9dd2bb0c86ebfb91b9b4018b",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:49.327Z",
+  "content_hash": "4bc549ed4b5a33c2bbf27ffead4059d33a4699cd2a45575a0caadd9e9c590605",
+  "article_path": "articles/bd3614c30b5d6b83.md",
+  "fetched_url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "source_path": "sources/articles/thinking-machines-releases-inkling-2-mini-open-weight-model-for.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:19:45.124Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

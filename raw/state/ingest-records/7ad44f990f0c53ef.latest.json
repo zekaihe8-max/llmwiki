@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T00:18:16.854Z",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "slug": "7ad44f990f0c53ef",
+  "content_hash": "a79b93d2dca816c56605a026c2bbecffc39e5aa9c04b163bf2e2ed2217cb5534",
+  "source": {
+    "path": "sources/articles/combatting-adversarial-distillation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/cyber-eval-incident-alignment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "文中专章分析网络安全能力通过蒸馏转移的测评与对齐问题，与网安能力测评越权事件对齐评估相近。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文章聚焦前沿模型的安全防护与能力容纳，与前沿训练环境隔离主题高度相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文中多次提及 GPT-6.2 Astra/Sol 等前沿模型及其防护升级，属于前沿模型范畴。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "对抗性蒸馏本质上是技术被滥用以绕过原有安全防护，符合技术滥用关切的连续性议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "文章聚焦前沿模型的安全防护与能力容纳，与前沿训练环境隔离主题高度相关。",
+    "topics/open-weight-frontier-models.md": "文中多次提及 GPT-6.2 Astra/Sol 等前沿模型及其防护升级，属于前沿模型范畴。",
+    "topics/tech-misuse-concern-continuity.md": "对抗性蒸馏本质上是技术被滥用以绕过原有安全防护，符合技术滥用关切的连续性议题。",
+    "topics/cyber-eval-incident-alignment.md": "文中专章分析网络安全能力通过蒸馏转移的测评与对齐问题，与网安能力测评越权事件对齐评估相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/combatting-adversarial-distillation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/frontier-training-containment.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/tech-misuse-concern-continuity.md",
+      "topics/cyber-eval-incident-alignment.md"
+    ],
+    "selection_reasons": {
+      "topics/frontier-training-containment.md": "文章聚焦前沿模型的安全防护与能力容纳，与前沿训练环境隔离主题高度相关。",
+      "topics/open-weight-frontier-models.md": "文中多次提及 GPT-6.2 Astra/Sol 等前沿模型及其防护升级，属于前沿模型范畴。",
+      "topics/tech-misuse-concern-continuity.md": "对抗性蒸馏本质上是技术被滥用以绕过原有安全防护，符合技术滥用关切的连续性议题。",
+      "topics/cyber-eval-incident-alignment.md": "文中专章分析网络安全能力通过蒸馏转移的测评与对齐问题，与网安能力测评越权事件对齐评估相近。"
+    },
+    "notes": "所有事实均来源于提供的文章 markdown，未引入外部 URL 或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/combatting-adversarial-distillation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

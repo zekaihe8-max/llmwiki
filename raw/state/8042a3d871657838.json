@@ -1,0 +1,23 @@
+{
+  "slug": "8042a3d871657838",
+  "url": "https://x.com/mattpocockuk/status/2124058139477594142",
+  "title": "ADR",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "8042a3d871657838bd9fb92b55c2166ed163e6bff732046e6e1dd6358ed68446",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:52.633Z",
+  "content_hash": "ffa434e5a311a80a34c5dbad9385499cef40915edc538f090696dfb76647c013",
+  "article_path": "articles/8042a3d871657838.md",
+  "fetched_url": "https://x.com/mattpocockuk/status/2124058139477594142",
+  "source_path": "sources/articles/good-adrs-are-good-actually.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:23:28.960Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

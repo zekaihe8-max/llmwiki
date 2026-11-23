@@ -1,0 +1,23 @@
+{
+  "slug": "c1a2af93db54bfcf",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "title": "说明",
+  "digest": "2026-11-23-frontier-ai.md",
+  "status": "filed",
+  "hash": "c1a2af93db54bfcf7c217cb74db83cfc0f90565b5c1b91d5871ab9ee0c953910",
+  "first_seen": "2026-11-23T00:14:44.750Z",
+  "last_seen": "2026-11-23T00:14:44.750Z",
+  "fetched_at": "2026-11-23T00:14:48.727Z",
+  "content_hash": "a2493d4499e822d8b2f45cd2f73cd78e8d01c0fbefa4e21007f83a29b8356c2f",
+  "article_path": "articles/c1a2af93db54bfcf.md",
+  "fetched_url": "https://openai.com/index/introducing-medchembench/",
+  "source_path": "sources/articles/introducing-medchembench-can-ai-help-scientists-identify-promisi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T00:19:05.872Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

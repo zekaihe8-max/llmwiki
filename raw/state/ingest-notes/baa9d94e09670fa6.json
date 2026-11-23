@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/workflows-before-agents.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章强调智能体应获得目标与自由，而非逐步指令，与“自动模式”核心思想相近。",
+    "topics/workflows-before-agents.md": "帖文讨论如何部署智能体及其与指令/工作流的关系，与该主题相关。",
+    "topics/agentic-ai-foundation.md": "涉及智能体范式转变与人机协作模式，属于 Agentic AI 基础议题。",
+    "topics/ai-task-horizon-growth.md": "模型能处理更难定义、更复杂的任务，与任务时界增长相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章强调智能体应获得目标与自由，而非逐步指令，与“自动模式”核心思想相近。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文讨论如何部署智能体及其与指令/工作流的关系，与该主题相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "涉及智能体范式转变与人机协作模式，属于 Agentic AI 基础议题。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "模型能处理更难定义、更复杂的任务，与任务时界增长相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by Aaron Levie (@levie) quoting Kevin Simback (@KSimback); no external URLs or facts beyond the article text are used."
+}
