@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:38:48.919Z",
+  "url": "https://x.com/0xLogicrw/status/2124699961787134059",
+  "slug": "3ff923a2ad82f8ee",
+  "content_hash": "88e96bd0e389db5e52a5914e5bc93d8c0b32183dced6785aeb2afeb9221f9547",
+  "source": {
+    "path": "sources/articles/doubao-mobile-head-lu-you-rumored-to-possibly-resign.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "豆包是字节的AI原生产品，文章围绕其产品团队与领导层变动展开。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "文章涉及豆包团队人员缩减、重新分工与离职，属大厂AI团队编制变动。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "陆游可能离任、赵祺接管豆包多端产品，涉及先驱离任与继任者管理。"
+    },
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "陆游被曝可能离职并创业，属人才离职动机与去向讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/enterprise-ai-digital-employee-headcount.md": "文章涉及豆包团队人员缩减、重新分工与离职，属大厂AI团队编制变动。",
+    "topics/pre-ipo-talent-departure-motives.md": "陆游被曝可能离职并创业，属人才离职动机与去向讨论。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "陆游可能离任、赵祺接管豆包多端产品，涉及先驱离任与继任者管理。",
+    "topics/ai-native-companies.md": "豆包是字节的AI原生产品，文章围绕其产品团队与领导层变动展开。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/doubao-mobile-head-lu-you-rumored-to-possibly-resign.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/incumbent-exit-successor-blame-metaphor.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/enterprise-ai-digital-employee-headcount.md": "文章涉及豆包团队人员缩减、重新分工与离职，属大厂AI团队编制变动。",
+      "topics/pre-ipo-talent-departure-motives.md": "陆游被曝可能离职并创业，属人才离职动机与去向讨论。",
+      "topics/incumbent-exit-successor-blame-metaphor.md": "陆游可能离任、赵祺接管豆包多端产品，涉及先驱离任与继任者管理。",
+      "topics/ai-native-companies.md": "豆包是字节的AI原生产品，文章围绕其产品团队与领导层变动展开。"
+    },
+    "notes": "所有主张均基于单一X帖文，未核实陆游离职及团队裁撤细节，帖文中时间表述存在相对与绝对日期混用，已尽量忠实原文复述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/doubao-mobile-head-lu-you-rumored-to-possibly-resign.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

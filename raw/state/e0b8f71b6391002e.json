@@ -1,0 +1,23 @@
+{
+  "slug": "e0b8f71b6391002e",
+  "url": "https://x.com/oran_ge/status/2124829423669330149",
+  "title": "Orange",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "e0b8f71b6391002e8b15653267290367c25ea4bc0c9e81bc60dae97f2c641c63",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:23.397Z",
+  "content_hash": "43d8b7f14e8157d6254d3bbe118813e0bb8385f529d5f441e91a3deeccba22cf",
+  "article_path": "articles/e0b8f71b6391002e.md",
+  "fetched_url": "https://x.com/oran_ge/status/2124829423669330149",
+  "source_path": "sources/articles/orange-ai-says-glm-5-4-is-slower-than-gemini-4-carbon.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:45:37.308Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

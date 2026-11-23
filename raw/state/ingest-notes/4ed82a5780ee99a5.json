@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章涉及编程订阅与每周额度变化，与“编程 Agent 体验与额度”主题直接相关。",
+    "topics/premium-ai-subscription-value.md": "文章讨论 AI 模型订阅计划及其额度权益，与“高端 AI 订阅价值”相关。",
+    "topics/usage-limit-ab-tests.md": "文中提到周额度对比与用量变化，与“用量上限 A/B 测试”主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章涉及编程订阅与每周额度变化，与“编程 Agent 体验与额度”主题直接相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 模型订阅计划及其额度权益，与“高端 AI 订阅价值”相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到周额度对比与用量变化，与“用量上限 A/B 测试”主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

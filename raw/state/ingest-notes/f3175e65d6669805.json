@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/deepseek-inference-vs-aggregators.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文涉及编程 Agent 用户体验与配额变更，与该主题直接相关。",
+    "topics/usage-limit-ab-tests.md": "GLM-5.3 到 GLM-5.4 的周配额增量属于用量上限调整。",
+    "topics/coding-agent-token-saving-tooling.md": "GLM-5.4 定位编程能力提升，与编程 Agent 工具主题相近。",
+    "topics/deepseek-inference-vs-aggregators.md": "GLM 作为模型供应商发布新模型，与模型推理与平台对比主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文涉及编程 Agent 用户体验与配额变更，与该主题直接相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "GLM-5.3 到 GLM-5.4 的周配额增量属于用量上限调整。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "GLM-5.4 定位编程能力提升，与编程 Agent 工具主题相近。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "GLM 作为模型供应商发布新模型，与模型推理与平台对比主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文摘录，未引入外部信息。"
+}

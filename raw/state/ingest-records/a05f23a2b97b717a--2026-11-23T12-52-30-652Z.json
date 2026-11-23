@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:52:30.652Z",
+  "url": "https://github.com/trina-app/trina-ax",
+  "slug": "a05f23a2b97b717a",
+  "content_hash": "0bf3b5b0a74bc1cf7ff1675b6a8fd54897b26a82f22901205b016c388ba28647",
+  "source": {
+    "path": "sources/articles/trina-ax-team-shared-ai-server.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中涉及按人员、群组或团队设置 Token 限额与用量统计，属于智能体算力与治理范畴。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中提到跨聊天、历史、项目、文件等的统一搜索，与面向 Agent 的联网搜索主题相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确提到编写 SKILL.md 并导入 .claude/.codex 文件夹中的技能，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章主体是团队/公司级共享 AI 服务器与会话接续，与公司级 Agent Harness 主题高度契合。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章主体是团队/公司级共享 AI 服务器与会话接续，与公司级 Agent Harness 主题高度契合。",
+    "topics/agent-skill-authoring.md": "文中明确提到编写 SKILL.md 并导入 .claude/.codex 文件夹中的技能，与 Agent Skill 编写主题相关。",
+    "topics/agent-compute-and-governance.md": "文中涉及按人员、群组或团队设置 Token 限额与用量统计，属于智能体算力与治理范畴。",
+    "topics/agent-native-web-search.md": "文中提到跨聊天、历史、项目、文件等的统一搜索，与面向 Agent 的联网搜索主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/trina-ax-team-shared-ai-server.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/agent-native-web-search.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章主体是团队/公司级共享 AI 服务器与会话接续，与公司级 Agent Harness 主题高度契合。",
+      "topics/agent-skill-authoring.md": "文中明确提到编写 SKILL.md 并导入 .claude/.codex 文件夹中的技能，与 Agent Skill 编写主题相关。",
+      "topics/agent-compute-and-governance.md": "文中涉及按人员、群组或团队设置 Token 限额与用量统计，属于智能体算力与治理范畴。",
+      "topics/agent-native-web-search.md": "文中提到跨聊天、历史、项目、文件等的统一搜索，与面向 Agent 的联网搜索主题相关。"
+    },
+    "notes": "来源为 GitHub 仓库 README，未引用页面外信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/trina-ax-team-shared-ai-server.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

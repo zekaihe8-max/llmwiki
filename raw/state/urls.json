@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T00:14:44.750Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -13701,5 +13701,349 @@
     "last_seen": "2026-11-23T00:14:44.750Z",
     "digest": "2026-11-23-frontier-ai.md",
     "title": "铁锤人 · 那句「你是这套代码的长期维护者」能让模型更敢重构，但不要挂在全局"
+  },
+  "https://x.com/dotey/status/2124756676607627434": {
+    "hash": "3c73e56c93e6e632fafc84f54d01c5e453a7670df4f87716cf440d50c5fa90ce",
+    "slug": "3c73e56c93e6e632",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Meta 首席 AI 官发长文，判断已经不卡在够不够聪明"
+  },
+  "https://x.com/alexandr_wang/status/2124636606959345776": {
+    "hash": "8d3a175d664bfde6467c74d225f7070b718f09b61230e7c3ba915f883687957b",
+    "slug": "8d3a175d664bfde6",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Wang 原文"
+  },
+  "https://x.com/dotey/status/2124775538648633370": {
+    "hash": "104c3d3896d97b306ae7eb16a60c5de8a6398cddf142c53384c5bd9fa9cb1b62",
+    "slug": "104c3d3896d97b30",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Qwen3.5 27B 自己改权重，数学准确率从 57.2% 提到 63.8%"
+  },
+  "https://arxiv.org/abs/2611.21885": {
+    "hash": "03b179946dd0e551984b025c5c0109181a33c8ab2521005dd6c1243f1fb2bdf6",
+    "slug": "03b179946dd0e551",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "论文"
+  },
+  "https://www.jiajunfan.com/projects/self-rewriting": {
+    "hash": "2b2bdf45a31926d56712f6049d88ec608cc8ee0708544c418b94ea0e0394dacd",
+    "slug": "2b2bdf45a31926d5",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "项目页"
+  },
+  "https://x.com/dotey/status/2124726140023537849": {
+    "hash": "4ed82a5780ee99a573fac2e7ba34cf4e7a1bced470050c39446ea2fb56885960",
+    "slug": "4ed82a5780ee99a5",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "GLM-5.4 上线编程订阅：能看图，周额度比 5.3 多一半"
+  },
+  "https://x.com/ZixuanLi_/status/2124719275864670681": {
+    "hash": "f3175e65d6669805724a0661df75f46fcbaaf2871d67bfcbea40530d4b354a85",
+    "slug": "f3175e65d6669805",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Zixuan Li"
+  },
+  "https://x.com/lxfater/status/2124805211835236796": {
+    "hash": "20dc538170342687dbfd768c5bde356cf83c93b7836173eb5b8703fb5ad5dd03",
+    "slug": "20dc538170342687",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "GLM-5.4 查漏洞细，但比 Neon 慢约 4 倍"
+  },
+  "https://x.com/lxfater/status/2124816490138374569": {
+    "hash": "a032381bb5bc6cf078b46403b38707b9d4b65747dd0d4adf1b65a6f0c777401e",
+    "slug": "a032381bb5bc6cf0",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Pro 用 Neon 为啥有人额度特别不经用"
+  },
+  "https://x.com/lxfater/status/2124828611811152226": {
+    "hash": "3beef867727d1aa1394e09ad91afef61e8b9f108159abfe891a5b481c3765fcc",
+    "slug": "3beef867727d1aa1",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "中国电信用 8192 张昇腾 910C 训出 Xing4.1-Preview"
+  },
+  "https://huggingface.co/XingChen-AGI/Xing4.1-Preview": {
+    "hash": "4a3f15166b8b63fa4119b909476bf917d946b8d3605dd90c4c185d02c7dca36f",
+    "slug": "4a3f15166b8b63fa",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Hugging Face"
+  },
+  "https://x.com/lxfater/status/2124758635548934291": {
+    "hash": "72235084ad3a9ebf357f5d16522c6252ce65ac8515d0427e10816e061b8071ab",
+    "slug": "72235084ad3a9ebf",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Anthropic 和谷歌、OpenAI 是两派风控"
+  },
+  "https://x.com/xiaomovps/status/2124804466146984258": {
+    "hash": "6ed1dbdf04d82fcda9e9520303621f43a8000f7abe52790a255073c81bf2d582",
+    "slug": "6ed1dbdf04d82fcd",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Pi 作者 Mario 点名的 DreamCoder，把多 Agent 工作台做明白了"
+  },
+  "https://www.dreamcoder.ai/": {
+    "hash": "fe276c85fe4ba7fee38b0446e0c3b94d9e38c74d42f79747ae291877a0c9ef3c",
+    "slug": "fe276c85fe4ba7fe",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "官网"
+  },
+  "https://www.masteringemacs.org/article/announcing-dreamcoder": {
+    "hash": "a8c812cefc0f3f3f04dca117695f5d8331301f7f1a2da6f2a5f6ca8e76637ff0",
+    "slug": "a8c812cefc0f3f3f",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "介绍文"
+  },
+  "https://x.com/xiaomovps/status/2124820080215441660": {
+    "hash": "a89f8f2975eb70d51360b7853d88bdb95853d15d8386346309c4116f0ee890b5",
+    "slug": "a89f8f2975eb70d5",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "多 Agent 到底怎么用才对"
+  },
+  "https://cognition.com/blog/dont-build-multi-agents": {
+    "hash": "3cde73258e78ca70fe518287136da1c0d0485bf0e5e9ebaf83b30ee8fb7afda7",
+    "slug": "3cde73258e78ca70",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "多 Agent 到底怎么用才对"
+  },
+  "https://x.com/xiaomovps/status/2124716522858012721": {
+    "hash": "4f2dc7f32bdec9c96b920ff9c6ba4d454791a48a7c002a7f8a0c1969efd9842d",
+    "slug": "4f2dc7f32bdec9c9",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Gemini 和 Antigravity 的额度是分开算的"
+  },
+  "https://x.com/shao__meng/status/2124797332051128581": {
+    "hash": "1dd5338186a1a53a9fe415c67a5dfe490cddc6263b5b5cc73d6f075a3640e656",
+    "slug": "1dd5338186a1a53a",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Anthropic 开了一门 1 小时的评测入门课"
+  },
+  "https://academy.claude.com/courses/introduction-to-evals": {
+    "hash": "43674b7b939a03ac0f061f94f72c619ed1d2ce0c5da8d7006fabdcd0c5969559",
+    "slug": "43674b7b939a03ac",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "课程"
+  },
+  "https://x.com/shao__meng/status/2124763208259109017": {
+    "hash": "7793d9345f5ac3fe3891899faaa55ec40bd2d1c1342c41765512f77ecfff75dc",
+    "slug": "7793d9345f5ac3fe",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Xpert"
+  },
+  "https://x.com/shao__meng/status/2124750276917854426": {
+    "hash": "ee38eb78d3e30bf83c3107e4c535ae49ab284c97167c17c2a05eaa620256d06a",
+    "slug": "ee38eb78d3e30bf8",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "百川招聘邮箱"
+  },
+  "https://x.com/0xLogicrw/status/2124761174508290086": {
+    "hash": "43a63fdbf8df3086e5bbb4ea4d555d79e418dab2b9058103ea9af028cfdf70fd",
+    "slug": "43a63fdbf8df3086",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "他把 GLM-5.4 的评测写成了更完整的一版"
+  },
+  "https://x.com/0xLogicrw/status/2124699961787134059": {
+    "hash": "3ff923a2ad82f8ee4a86277f8ebd5dbd61fb5b2def647f5c5e2dd3e193802677",
+    "slug": "3ff923a2ad82f8ee",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "豆包移动端负责人陆游被曝可能离职"
+  },
+  "https://x.com/0xLogicrw/status/2124797777532326301": {
+    "hash": "f5111a299ef92ac46a3c82628d9a8686909e33d4b46575fb1bb761307ab7f15f",
+    "slug": "f5111a299ef92ac4",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Gemini 网页代码里出现了 Helium"
+  },
+  "https://x.com/fkysly/status/2124820580507746428": {
+    "hash": "32e0ab9ebe46a23c76b73e5cc8ed77f2412f23a02dbec9b8a0de0221766fe823",
+    "slug": "32e0ab9ebe46a23c",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "敢把项目交给 Opus 5.5，还不敢让 Neon 一把梭哈"
+  },
+  "https://x.com/fkysly/status/2124729063202034049": {
+    "hash": "884349b9cdfc6da85bd5a9daafe2ece71cec5b48453775467fe49a8f1795e9ef",
+    "slug": "884349b9cdfc6da8",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "GLM-5.4 他先等评测"
+  },
+  "https://x.com/oran_ge/status/2124829423669330149": {
+    "hash": "e0b8f71b6391002e8b15653267290367c25ea4bc0c9e81bc60dae97f2c641c63",
+    "slug": "e0b8f71b6391002e",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "Orange"
+  },
+  "https://x.com/vista8/status/2124814280247877929": {
+    "hash": "7ae916e206ca39819d9835c7bd61c7b3f512dfb9cf7e66108751ff8d6e45e9a7",
+    "slug": "7ae916e206ca3981",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "这期 Next Token 是在深圳酒店远程录的"
+  },
+  "https://x.com/AlchainHust/status/2124733025800044605": {
+    "hash": "6734e662d7050784f32e419cecb30fbfbb9ae72a5cf9f3ba4cec1a604057a9e0",
+    "slug": "6734e662d7050784",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "观鸟应用「鸣迹」终于在全球市场上架"
+  },
+  "https://apps.apple.com/cn/app/%E9%B8%A3%E8%BF%B9-%E8%A7%82%E9%B8%9F%E6%89%8B%E8%B4%A6/id6827050723": {
+    "hash": "cd1bfdd1b18381fc6cfa3ccab3eb00fb22df4696067e5833bab911b3dd9381f3",
+    "slug": "cd1bfdd1b18381fc",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "App Store"
+  },
+  "https://x.com/0xlangeai/status/2124744186868183164": {
+    "hash": "37f1b803a06fd5d327ea1555d4701a90cba84a8733333a10a703105b8210142a",
+    "slug": "37f1b803a06fd5d3",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "用 Google Flow 在浏览器里做完微电影《雨夜霓虹修表匠》"
+  },
+  "https://x.com/0xlangeai/status/2124761868434600196": {
+    "hash": "2d99dfbe65e40af2dbc41134aeb58ddfda0f1989b5c2a75757b8bd87cb245309",
+    "slug": "2d99dfbe65e40af2",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "同一张原图丢进 Genie 4，按 WASD 走进了电影画面"
+  },
+  "https://x.com/0xlangeai/status/2124806367949255163": {
+    "hash": "232c552ae34a35671e591efce8544e7720053723271d64c0c5ee73f45210bce2",
+    "slug": "232c552ae34a3567",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "他还转了一篇从赵云立绘做到《暗黑三国》的流程"
+  },
+  "https://x.com/heydengai/status/2124804398496821254": {
+    "hash": "e134800fd1ded473ad93aa74439a76a154e0971a76a9c50744a5875e84ece736",
+    "slug": "e134800fd1ded473",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "把好好的 Playwright 脚本改成 Browser Agent，不一定更聪明"
+  },
+  "https://x.com/Gorden_Sun/status/2124803554187874532": {
+    "hash": "a103009221b96f3aef1936675a8be4ff5ca41ab37317e01ecbd961339113222f",
+    "slug": "a103009221b96f3a",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "一种能补出「没拍到的角度」的视角模型"
+  },
+  "https://autoregressive-view-model.github.io/main.html": {
+    "hash": "6405124eef19d50508072a56fa96433206c0415739448fdee0164f5ea2e6200d",
+    "slug": "6405124eef19d505",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "项目页"
+  },
+  "https://x.com/Gorden_Sun/status/2124779272107954639": {
+    "hash": "0aec454f1ca4f6a5763b1a6de7dfa1f656a09a5c44cb73973467da3cb298a29f",
+    "slug": "0aec454f1ca4f6a5",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "他介绍了开源团队 AI 工作区 Trina AX"
+  },
+  "https://github.com/trina-app/trina-ax": {
+    "hash": "a05f23a2b97b717a107e41b29ed2d0c38a3981b645d9dd4a5a5cd21106cbc866",
+    "slug": "a05f23a2b97b717a",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "GitHub"
+  },
+  "https://x.com/servasyy_ai/status/2124821574931136919": {
+    "hash": "11f169759af45ef8b438fc9bd438227ef51935896a28413935622db9c580b01f",
+    "slug": "11f169759af45ef8",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "MemOS 联合英伟达发布 MemT 1.0，冲着长对话的显存瓶颈去"
+  },
+  "https://x.com/MemOS_dev/status/2124623963087126562": {
+    "hash": "e93f297299e17221dcbcebeac223fb43333310a7a0c14796bc52fd3d4b59e2eb",
+    "slug": "e93f297299e17221",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "官方帖"
+  },
+  "https://x.com/EianLu/status/2124774968000909313": {
+    "hash": "c501824e1ae1f5f6e7a5b06c990d0e1b2d0ef4a9e4d80893401d1576c4c9d140",
+    "slug": "c501824e1ae1f5f6",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "EianLu"
+  },
+  "https://x.com/leaf_sanren/status/2124827719662018919": {
+    "hash": "6c729dba3892dfe3b03ec0b5f52e76e5e0628870a19906ea33fec1a3fa414d31",
+    "slug": "6c729dba3892dfe3",
+    "first_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-23T11:56:08.266Z",
+    "digest": "2026-11-23-cn-x.md",
+    "title": "leaf_sanren"
   }
 }

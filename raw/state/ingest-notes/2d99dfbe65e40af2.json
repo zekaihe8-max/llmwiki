@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文核心是 Genie 4 生成可行走、可实时改造的交互世界，与实时交互世界模型主题直接相关。",
+    "topics/vibe-gaming-model-inflection.md": "“走进去玩的交互世界”体现 AI 游戏与模型拐点的讨论语境。",
+    "topics/premium-ai-subscription-value.md": "作者提及 Google AI Ultra 订阅与 Flow 积分，涉及高端 AI 订阅价值。",
+    "topics/agentic-video-editing.md": "作者使用 Google Flow 在浏览器制作微电影，涉及 AI 视频创作与编辑。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Genie 4 生成可行走、可实时改造的交互世界，与实时交互世界模型主题直接相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "“走进去玩的交互世界”体现 AI 游戏与模型拐点的讨论语境。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "作者提及 Google AI Ultra 订阅与 Flow 积分，涉及高端 AI 订阅价值。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "作者使用 Google Flow 在浏览器制作微电影，涉及 AI 视频创作与编辑。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台帖文，未独立核实 Google Genie 4 的具体能力与可用性，所有主张均以「帖文称」或原文表述呈现。"
+}

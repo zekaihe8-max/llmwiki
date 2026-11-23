@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "百川智能是 AI 原生公司，话题与 AI 公司招聘语境相关",
+    "topics/hunger-beats-tenure.md": "年龄歧视与资历偏好属于招聘中“冲劲胜过资历”的反面讨论",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大模型公司人员编制与招聘门槛，与大厂 AI 编制话题相近"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "百川智能是 AI 原生公司，话题与 AI 公司招聘语境相关"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "年龄歧视与资历偏好属于招聘中“冲劲胜过资历”的反面讨论"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大模型公司人员编制与招聘门槛，与大厂 AI 编制话题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "邮箱地址在原文中已被 Cloudflare 邮件保护遮蔽，未明文展示。"
+}

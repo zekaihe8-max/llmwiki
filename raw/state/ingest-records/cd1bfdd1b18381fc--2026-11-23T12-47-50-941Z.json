@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:47:50.941Z",
+  "url": "https://apps.apple.com/cn/app/%E9%B8%A3%E8%BF%B9-%E8%A7%82%E9%B8%9F%E6%89%8B%E8%B4%A6/id6827050723",
+  "slug": "cd1bfdd1b18381fc",
+  "content_hash": "95ae9663a8327e436fba5b104eb2eccfdef53480753b63b54c6eb463cbc030a5",
+  "source": {
+    "path": "sources/articles/mingji-bird-watching-handbook.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/local-open-assistant-models.md",
+    "topics/programmable-edge-compute.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "应用核心功能是将识别到的鸟类“贴进”个人观鸟本，类似 AI 辅助剪藏与笔记，与该主题相近，保持不变。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "文中提到应用内集成 BirdNET 与 BioCLIP 2 模型进行识别，与应用内模型合作/集成主题相近，但无需修改该主题。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "应用强调识别默认在手机本地完成，涉及本地模型运行，与本地开放助手模型主题相近，保持不变。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "本地端完成鸟鸣与照片识别属于边缘计算场景，与可编程边缘计算主题相近，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "文中提到应用内集成 BirdNET 与 BioCLIP 2 模型进行识别，与应用内模型合作/集成主题相近，但无需修改该主题。",
+    "topics/local-open-assistant-models.md": "应用强调识别默认在手机本地完成，涉及本地模型运行，与本地开放助手模型主题相近，保持不变。",
+    "topics/programmable-edge-compute.md": "本地端完成鸟鸣与照片识别属于边缘计算场景，与可编程边缘计算主题相近，保持不变。",
+    "topics/ai-assisted-clipping-and-notes.md": "应用核心功能是将识别到的鸟类“贴进”个人观鸟本，类似 AI 辅助剪藏与笔记，与该主题相近，保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mingji-bird-watching-handbook.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/in-app-model-partnerships.md",
+      "topics/local-open-assistant-models.md",
+      "topics/programmable-edge-compute.md",
+      "topics/ai-assisted-clipping-and-notes.md"
+    ],
+    "selection_reasons": {
+      "topics/in-app-model-partnerships.md": "文中提到应用内集成 BirdNET 与 BioCLIP 2 模型进行识别，与应用内模型合作/集成主题相近，但无需修改该主题。",
+      "topics/local-open-assistant-models.md": "应用强调识别默认在手机本地完成，涉及本地模型运行，与本地开放助手模型主题相近，保持不变。",
+      "topics/programmable-edge-compute.md": "本地端完成鸟鸣与照片识别属于边缘计算场景，与可编程边缘计算主题相近，保持不变。",
+      "topics/ai-assisted-clipping-and-notes.md": "应用核心功能是将识别到的鸟类“贴进”个人观鸟本，类似 AI 辅助剪藏与笔记，与该主题相近，保持不变。"
+    },
+    "notes": "All facts are drawn solely from the provided App Store article markdown; no external URLs or facts were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mingji-bird-watching-handbook.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/tools-building-own-models.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "论文核心是智能体式自我改进与递归自我提升，与智能体 AI 基础最贴近。",
+    "topics/tools-building-own-models.md": "论文描述模型自行修改自身权重，属于模型自建自身模型的范畴。",
+    "topics/frontier-training-containment.md": "论文挑战训练与推理的壁垒，涉及前沿模型训练边界与隔离关切。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "论文核心是智能体式自我改进与递归自我提升，与智能体 AI 基础最贴近。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "论文描述模型自行修改自身权重，属于模型自建自身模型的范畴。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "论文挑战训练与推理的壁垒，涉及前沿模型训练边界与隔离关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 arXiv 摘要，未引用外部事实。"
+}

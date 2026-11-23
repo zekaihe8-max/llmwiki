@@ -1,5 +1,89 @@
 ## 2026-11-23
 
+* **创建 / Creation**: 归档 [Leaf Yeah!：用 Antigravity 自动跑 Colab 超分，榨干 Google AI Pro 200 算力单元](./sources/articles/leaf-yeah-automating-colab-video-upscaling-with-antigravity-to-s.md)。 / Filed [Leaf Yeah!: Automating Colab Video Upscaling with Antigravity to Squeeze Google AI Pro Compute Units](./sources/articles/leaf-yeah-automating-colab-video-upscaling-with-antigravity-to-s.md).
+
+* **创建 / Creation**: 归档 [用 Google Colab 零成本做高精度 3D 渲染](./sources/articles/zero-cost-high-precision-3d-rendering-via-google-colab.md)。 / Filed [Zero-cost high-precision 3D rendering via Google Colab](./sources/articles/zero-cost-high-precision-3d-rendering-via-google-colab.md).
+
+* **创建 / Creation**: 归档 [MemOS 与 NVIDIA 发布 554B 参数原生记忆模型 MemT-1.0-Pro](./sources/articles/memos-and-nvidia-release-554b-parameter-memory-native-model-memt.md)。 / Filed [MemOS and NVIDIA release 554B-parameter memory-native model MemT-1.0-Pro](./sources/articles/memos-and-nvidia-release-554b-parameter-memory-native-model-memt.md).
+
+* **创建 / Creation**: 归档 [MemOS 联合英伟达发布 MemT 1.0 Pro，长对话显存占用压至常数级](./sources/articles/memos-and-nvidia-launch-memt-1-0-pro-cutting-long-conversation-v.md)。 / Filed [MemOS and NVIDIA launch MemT 1.0 Pro, cutting long-conversation VRAM usage to constant level](./sources/articles/memos-and-nvidia-launch-memt-1-0-pro-cutting-long-conversation-v.md).
+
+* **创建 / Creation**: 归档 [Trina AX：团队共享 AI 服务器](./sources/articles/trina-ax-team-shared-ai-server.md)。 / Filed [Trina AX: Team-Shared AI Server](./sources/articles/trina-ax-team-shared-ai-server.md).
+
+* **创建 / Creation**: 归档 [Trina AX 开源发布：一次部署，让全公司共享带权限控制的 AI 工作区](./sources/articles/trina-ax-open-source-release-one-deployment-company-wide-permiss.md)。 / Filed [Trina AX Open-Source Release: One Deployment, Company-Wide Permission-Controlled AI Workspace](./sources/articles/trina-ax-open-source-release-one-deployment-company-wide-permiss.md).
+
+* **创建 / Creation**: 归档 [AVM：以视图流生成场景](./sources/articles/avm-generating-a-scene-as-a-stream-of-views.md)。 / Filed [AVM: Generating a Scene as a Stream of Views](./sources/articles/avm-generating-a-scene-as-a-stream-of-views.md).
+
+* **创建 / Creation**: 归档 [一种能补出「没拍到的角度」的视角模型](./sources/articles/autoregressive-view-model-synthesizes-unseen-camera-angles.md)。 / Filed [Autoregressive View Model synthesizes unseen camera angles](./sources/articles/autoregressive-view-model-synthesizes-unseen-camera-angles.md).
+
+* **创建 / Creation**: 归档 [把好好的 Playwright 脚本改成 Browser Agent，不一定更聪明](./sources/articles/replacing-a-working-playwright-script-with-a-browser-agent-isn-t.md)。 / Filed [Replacing a working Playwright script with a Browser Agent isn't necessarily smarter](./sources/articles/replacing-a-working-playwright-script-with-a-browser-agent-isn-t.md).
+
+* **创建 / Creation**: 归档 [从一张赵云立绘用 AI 做出《暗黑三国》，全流程公开](./sources/articles/making-dark-three-kingdoms-from-a-zhao-yun-illustration-with-ai.md)。 / Filed [Making "Dark Three Kingdoms" from a Zhao Yun illustration with AI, full process revealed](./sources/articles/making-dark-three-kingdoms-from-a-zhao-yun-illustration-with-ai.md).
+
+* **创建 / Creation**: 归档 [将一张雨夜霓虹小巷原图丢进 Google Genie 4，按 WASD 走进交互电影画面](./sources/articles/drop-one-rainy-neon-alley-photo-into-google-genie-4-and-walk-int.md)。 / Filed [Drop one rainy neon alley photo into Google Genie 4 and walk into the interactive movie scene with WASD](./sources/articles/drop-one-rainy-neon-alley-photo-into-google-genie-4-and-walk-int.md).
+
+* **创建 / Creation**: 归档 [用 Google Flow 在浏览器里做完微电影《雨夜霓虹修表匠》](./sources/articles/making-the-microfilm-rainy-night-neon-watchmaker-entirely-in-goo.md)。 / Filed [Making the Microfilm "Rainy Night Neon Watchmaker" Entirely in Google Flow Browser](./sources/articles/making-the-microfilm-rainy-night-neon-watchmaker-entirely-in-goo.md).
+
+* **创建 / Creation**: 归档 [鸣迹：观鸟手账](./sources/articles/mingji-bird-watching-handbook.md)。 / Filed [Mingji: Bird Watching Handbook](./sources/articles/mingji-bird-watching-handbook.md).
+
+* **创建 / Creation**: 归档 [观鸟应用「鸣迹」终于在全球市场上架](./sources/articles/birdwatching-app-mingji-finally-launches-globally.md)。 / Filed [Birdwatching app "Mingji" finally launches globally](./sources/articles/birdwatching-app-mingji-finally-launches-globally.md).
+
+* **创建 / Creation**: 归档 [Next Token 第 11 期在深圳酒店远程录制](./sources/articles/next-token-episode-11-recorded-remotely-from-a-shenzhen-hotel.md)。 / Filed [Next Token Episode 11 Recorded Remotely from a Shenzhen Hotel](./sources/articles/next-token-episode-11-recorded-remotely-from-a-shenzhen-hotel.md).
+
+* **创建 / Creation**: 归档 [Orange AI 称 GLM 5.4 比 Gemini 4 Carbon 更慢](./sources/articles/orange-ai-says-glm-5-4-is-slower-than-gemini-4-carbon.md)。 / Filed [Orange AI says GLM 5.4 is slower than Gemini 4 Carbon](./sources/articles/orange-ai-says-glm-5-4-is-slower-than-gemini-4-carbon.md).
+
+* **创建 / Creation**: 归档 [用户因 Gemini 体验佳而暂缓关注 GLM-5.4，静待评测](./sources/articles/user-pauses-interest-in-glm-5-4-due-to-strong-gemini-experience.md)。 / Filed [User Pauses Interest in GLM-5.4 Due to Strong Gemini Experience, Awaits Reviews](./sources/articles/user-pauses-interest-in-glm-5-4-due-to-strong-gemini-experience.md).
+
+* **创建 / Creation**: 归档 [敢把项目交给 Opus 5.5，还不敢让 Neon 一把梭哈](./sources/articles/dare-to-entrust-all-projects-to-opus-5-5-but-not-ready-to-let-ne.md)。 / Filed [Dare to entrust all projects to Opus 5.5, but not ready to let Neon go all-in](./sources/articles/dare-to-entrust-all-projects-to-opus-5-5-but-not-ready-to-let-ne.md).
+
+* **创建 / Creation**: 归档 [Gemini 网页代码现 Helium，或为 Flash-Lite 模型或订阅档位](./sources/articles/helium-found-in-gemini-web-code-possibly-flash-lite-model-or-sub.md)。 / Filed [Helium Found in Gemini Web Code, Possibly Flash-Lite Model or Subscription Tier](./sources/articles/helium-found-in-gemini-web-code-possibly-flash-lite-model-or-sub.md).
+
+* **创建 / Creation**: 归档 [豆包移动端负责人陆游被曝可能离职](./sources/articles/doubao-mobile-head-lu-you-rumored-to-possibly-resign.md)。 / Filed [Doubao Mobile Head Lu You Rumored to Possibly Resign](./sources/articles/doubao-mobile-head-lu-you-rumored-to-possibly-resign.md).
+
+* **创建 / Creation**: 归档 [智谱 GLM-5.4 编程评测：开源模型榜第七，但过度思考拖慢速度](./sources/articles/zhipu-glm-5-4-programming-evaluation-7th-on-open-model-leaderboa.md)。 / Filed [Zhipu GLM-5.4 Programming Evaluation: 7th on Open Model Leaderboard, But Overthinking Slows It Down](./sources/articles/zhipu-glm-5-4-programming-evaluation-7th-on-open-model-leaderboa.md).
+
+* **创建 / Creation**: 归档 [百川智能招聘明确区分年龄](./sources/articles/baichuan-intelligence-recruitment-explicitly-distinguishes-age.md)。 / Filed [Baichuan Intelligence Recruitment Explicitly Distinguishes Age](./sources/articles/baichuan-intelligence-recruitment-explicitly-distinguishes-age.md).
+
+* **创建 / Creation**: 归档 [字节跳动 Xpert 专家社区面向 50 岁以上招募](./sources/articles/bytedance-xpert-expert-community-recruits-50-users.md)。 / Filed [ByteDance Xpert Expert Community Recruits 50+ Users](./sources/articles/bytedance-xpert-expert-community-recruits-50-users.md).
+
+* **创建 / Creation**: 归档 [课程：Claude 提示词评测入门](./sources/articles/course-introduction-to-evals.md)。 / Filed [Course: Introduction to Evals](./sources/articles/course-introduction-to-evals.md).
+
+* **创建 / Creation**: 归档 [Anthropic 在 Claude Academy 开设 1 小时评测入门课](./sources/articles/anthropic-launches-1-hour-evaluation-intro-course-on-claude-acad.md)。 / Filed [Anthropic Launches 1-Hour Evaluation Intro Course on Claude Academy](./sources/articles/anthropic-launches-1-hour-evaluation-intro-course-on-claude-acad.md).
+
+* **创建 / Creation**: 归档 [Gemini 与 Antigravity 额度分开算，3 种官方路径充分利用 Google AI 会员额度](./sources/articles/gemini-and-antigravity-quotas-are-separate-3-official-paths-to-f.md)。 / Filed [Gemini and Antigravity quotas are separate: 3 official paths to fully use Google AI membership quota](./sources/articles/gemini-and-antigravity-quotas-are-separate-3-official-paths-to-f.md).
+
+* **创建 / Creation**: 归档 [别搞多 Agent：上下文工程才是可靠智能体的关键](./sources/articles/don-t-build-multi-agents-context-engineering-is-key-to-reliable.md)。 / Filed [Don't Build Multi-Agents: Context Engineering Is Key to Reliable Agents](./sources/articles/don-t-build-multi-agents-context-engineering-is-key-to-reliable.md).
+
+* **创建 / Creation**: 归档 [多 Agent 到底怎么用才对](./sources/articles/how-to-use-multi-agent-systems-correctly.md)。 / Filed [How to Use Multi-Agent Systems Correctly](./sources/articles/how-to-use-multi-agent-systems-correctly.md).
+
+* **创建 / Creation**: 归档 [宣布 DreamCoder：运行在浏览器中的 AI 编程挂钩](./sources/articles/announcing-dreamcoder-a-browser-based-ai-coding-harness.md)。 / Filed [Announcing DreamCoder: A Browser-Based AI Coding Harness](./sources/articles/announcing-dreamcoder-a-browser-based-ai-coding-harness.md).
+
+* **创建 / Creation**: 归档 [DreamCoder：浏览器中的智能体平铺工作台](./sources/articles/dreamcoder-tiling-workspace-for-ai-agents-in-the-browser.md)。 / Filed [DreamCoder: Tiling Workspace for AI Agents in the Browser](./sources/articles/dreamcoder-tiling-workspace-for-ai-agents-in-the-browser.md).
+
+* **创建 / Creation**: 归档 [Pi 作者 Mario 点名的 DreamCoder，把多 Agent 工作台做明白了](./sources/articles/dreamcoder-the-multi-agent-workbench-named-by-pi-author-mario-ex.md)。 / Filed [DreamCoder: The Multi-Agent Workbench Named by Pi Author Mario, Explained](./sources/articles/dreamcoder-the-multi-agent-workbench-named-by-pi-author-mario-ex.md).
+
+* **创建 / Creation**: 归档 [Anthropic 和谷歌、OpenAI 是两派风控](./sources/articles/anthropic-vs-google-and-openai-two-approaches-to-ai-risk-control.md)。 / Filed [Anthropic vs Google and OpenAI: Two Approaches to AI Risk Control](./sources/articles/anthropic-vs-google-and-openai-two-approaches-to-ai-risk-control.md).
+
+* **创建 / Creation**: 归档 [Xing4.1-Preview：面向国内芯片与框架的前沿智能体模型](./sources/articles/xing4-1-preview-frontier-agentic-models-for-domestic-chips-and-f.md)。 / Filed [Xing4.1-Preview: Frontier Agentic Models for Domestic Chips and Frameworks](./sources/articles/xing4-1-preview-frontier-agentic-models-for-domestic-chips-and-f.md).
+
+* **创建 / Creation**: 归档 [中国电信用 8192 张昇腾 910C 训出 Xing4.1-Preview](./sources/articles/china-telecom-trains-xing4-1-preview-with-8192-huawei-ascend-910.md)。 / Filed [China Telecom trains Xing4.1-Preview with 8192 Huawei Ascend 910C chips](./sources/articles/china-telecom-trains-xing4-1-preview-with-8192-huawei-ascend-910.md).
+
+* **创建 / Creation**: 归档 [Google AI Pro 配合 Neon：为何额度不经用？关键在上下文缓存过期机制](./sources/articles/google-ai-pro-with-neon-why-quota-burns-fast-context-cache-expir.md)。 / Filed [Google AI Pro with Neon: Why Quota Burns Fast? Context Cache Expiry Is Key](./sources/articles/google-ai-pro-with-neon-why-quota-burns-fast-context-cache-expir.md).
+
+* **创建 / Creation**: 归档 [GLM-5.4 查漏洞细，但比 Neon 慢约 4 倍](./sources/articles/glm-5-4-finds-vulnerabilities-thoroughly-but-is-about-4x-slower.md)。 / Filed [GLM-5.4 Finds Vulnerabilities Thoroughly but Is About 4x Slower Than Neon](./sources/articles/glm-5-4-finds-vulnerabilities-thoroughly-but-is-about-4x-slower.md).
+
+* **创建 / Creation**: 归档 [Zixuan Li 宣布 GLM-5.4 面向 GLM Coding Plan 用户开放](./sources/articles/zixuan-li-announces-glm-5-4-available-to-all-glm-coding-plan-use.md)。 / Filed [Zixuan Li Announces GLM-5.4 Available to All GLM Coding Plan Users](./sources/articles/zixuan-li-announces-glm-5-4-available-to-all-glm-coding-plan-use.md).
+
+* **创建 / Creation**: 归档 [智谱 GLM-5.4 上线编程订阅：支持看图，周额度比 5.3 多一半](./sources/articles/glm-5-4-coding-subscription-launches-with-vision-support-and-50.md)。 / Filed [GLM-5.4 coding subscription launches with vision support and 50% higher weekly quota than 5.3](./sources/articles/glm-5-4-coding-subscription-launches-with-vision-support-and-50.md).
+
+* **创建 / Creation**: 归档 [自我重写项目页](./sources/articles/self-rewriting-project-page.md)。 / Filed [Self-Rewriting Project Page](./sources/articles/self-rewriting-project-page.md).
+
+* **创建 / Creation**: 归档 [语言模型可重写自身权重](./sources/articles/language-models-can-rewrite-their-own-weights.md)。 / Filed [Language Models Can Rewrite Their Own Weights](./sources/articles/language-models-can-rewrite-their-own-weights.md).
+
+* **创建 / Creation**: 归档 [Qwen3.5 27B 自修权重，数学准确率提升 6.6 个百分点](./sources/articles/qwen3-5-27b-rewrites-its-own-weights-math-accuracy-rises-6-6-poi.md)。 / Filed [Qwen3.5 27B Rewrites Its Own Weights, Math Accuracy Rises 6.6 Points](./sources/articles/qwen3-5-27b-rewrites-its-own-weights-math-accuracy-rises-6-6-poi.md).
+
+* **创建 / Creation**: 归档 [帖文称 Meta 首席 AI 官发文：超级智能正在到来，瓶颈不再是智力](./sources/articles/post-says-meta-s-chief-ai-officer-superintelligence-is-arriving.md)。 / Filed [Post Says Meta's Chief AI Officer: Superintelligence Is Arriving, Intelligence No Longer the Bottleneck](./sources/articles/post-says-meta-s-chief-ai-officer-superintelligence-is-arriving.md).
+
 * **创建 / Creation**: 归档 [铁锤人：那句「你是这套代码的长期维护者」能让模型更敢重构，但不要挂在全局](./sources/articles/tie-chui-ren-the-you-are-the-long-term-maintainer-prompt-makes-m.md)。 / Filed [Tie Chui Ren: The “you are the long-term maintainer” prompt makes models bolder about refactoring, but don’t pin it globally](./sources/articles/tie-chui-ren-the-you-are-the-long-term-maintainer-prompt-makes-m.md).
 
 * **创建 / Creation**: 归档 [好的 ADR 其实很好](./sources/articles/good-adrs-are-good-actually.md)。 / Filed [Good ADRs Are Good, Actually](./sources/articles/good-adrs-are-good-actually.md).

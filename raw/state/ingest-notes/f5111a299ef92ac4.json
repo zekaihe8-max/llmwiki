@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文中推测 Helium 可能是下一款 Flash-Lite 模型，与 Pro/Flash 模型策略相关。",
+    "topics/premium-ai-subscription-value.md": "代码中的 TIER_HELIUM 被解读为订阅档位内部标记，涉及订阅定价与价值。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "仅在网页代码中发现 Helium，不等于确认底层模型或产品计划。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中推测 Helium 可能是下一款 Flash-Lite 模型，与 Pro/Flash 模型策略相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "代码中的 TIER_HELIUM 被解读为订阅档位内部标记，涉及订阅定价与价值。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "仅在网页代码中发现 Helium，不等于确认底层模型或产品计划。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，其中关于 Helium 具体身份的说法均为推测，未经谷歌官方确认。"
+}

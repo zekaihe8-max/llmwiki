@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:50:36.903Z",
+  "url": "https://x.com/Gorden_Sun/status/2124803554187874532",
+  "slug": "a103009221b96f3a",
+  "content_hash": "554facd9582fa4de149fee240249cbc01f77df8560c03666a97c8a31fa147e19",
+  "source": {
+    "path": "sources/articles/autoregressive-view-model-synthesizes-unseen-camera-angles.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文中涉及基于图像生成指定角度画面，与生图姿势参考及质量边界主题有部分重叠。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "AVM 属于可交互的世界模型，能按任意机位生成并补全三维空间画面，与实时交互世界模型主题高度相关。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "AVM 提供类似游戏自由视角的镜头操作，与游戏模型拐点主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "AVM 属于可交互的世界模型，能按任意机位生成并补全三维空间画面，与实时交互世界模型主题高度相关。",
+    "topics/image-generation-pose-reference-libraries.md": "文中涉及基于图像生成指定角度画面，与生图姿势参考及质量边界主题有部分重叠。",
+    "topics/vibe-gaming-model-inflection.md": "AVM 提供类似游戏自由视角的镜头操作，与游戏模型拐点主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/autoregressive-view-model-synthesizes-unseen-camera-angles.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "AVM 属于可交互的世界模型，能按任意机位生成并补全三维空间画面，与实时交互世界模型主题高度相关。",
+      "topics/image-generation-pose-reference-libraries.md": "文中涉及基于图像生成指定角度画面，与生图姿势参考及质量边界主题有部分重叠。",
+      "topics/vibe-gaming-model-inflection.md": "AVM 提供类似游戏自由视角的镜头操作，与游戏模型拐点主题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/autoregressive-view-model-synthesizes-unseen-camera-angles.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

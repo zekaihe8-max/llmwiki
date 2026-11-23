@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/peer-economics-before-vibe-coding.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "Xpert 是大模型专家数据平台，核心业务涉及专家参与模型评测与数据标注，符合 AI 评测入口与干活记录主题",
+    "topics/enterprise-ai-digital-employee-headcount.md": "字节跳动作为大厂推出专家社区平台，属于大厂 AI 数字员工/专家编制建设范畴",
+    "topics/peer-economics-before-vibe-coding.md": "博主建议注册赚零花钱，体现专家参与式零工经济与同行变现路径"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "Xpert 是大模型专家数据平台，核心业务涉及专家参与模型评测与数据标注，符合 AI 评测入口与干活记录主题"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "字节跳动作为大厂推出专家社区平台，属于大厂 AI 数字员工/专家编制建设范畴"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "博主建议注册赚零花钱，体现专家参与式零工经济与同行变现路径"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Post date shows Nov 23, 2026 which appears to be a future date; retained as shown in source. The Xpert platform URL uses t.co short link redirecting to corexpertdata.com."
+}

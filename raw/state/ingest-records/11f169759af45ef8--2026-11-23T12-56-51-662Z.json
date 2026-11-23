@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:56:51.662Z",
+  "url": "https://x.com/servasyy_ai/status/2124821574931136919",
+  "slug": "11f169759af45ef8",
+  "content_hash": "61158c38a4b489ac5464f141a4226159041c40f8f5eef836925af0e66934c5a1",
+  "source": {
+    "path": "sources/articles/memos-and-nvidia-launch-memt-1-0-pro-cutting-long-conversation-v.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦长对话显存占用压至常数级，与长对话默认压缩主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "记忆原生模型面向 Agent 与长记忆场景，与 Agent 上下文工程主题相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "介绍记忆原生模型产品形态，与本地开放助手与小模型主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/long-conversation-default-compression.md": "帖文聚焦长对话显存占用压至常数级，与长对话默认压缩主题相关。",
+    "topics/context-engineering-for-agents.md": "记忆原生模型面向 Agent 与长记忆场景，与 Agent 上下文工程主题相关。",
+    "topics/local-open-assistant-models.md": "介绍记忆原生模型产品形态，与本地开放助手与小模型主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/memos-and-nvidia-launch-memt-1-0-pro-cutting-long-conversation-v.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

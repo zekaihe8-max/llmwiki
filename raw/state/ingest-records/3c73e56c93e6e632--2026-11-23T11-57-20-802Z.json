@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T11:57:20.802Z",
+  "url": "https://x.com/dotey/status/2124756676607627434",
+  "slug": "3c73e56c93e6e632",
+  "content_hash": "82cec1839be130b1409a2cf0ce585eed681946cc55d4924511d636f8904f6725",
+  "source": {
+    "path": "sources/articles/post-says-meta-s-chief-ai-officer-superintelligence-is-arriving.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/frontier-training-containment.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到模型能自行连续完成多步任务并成为通用助手，与智能体自动模式相关，现有条目保持不变。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "文中提到 AI 研究将被自动化并加速生物、武器、经济等研究，与科研实践适配主题相关，现有条目无需新增。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文中涉及不可控的自我升级超级智能与不将社会交给 AI 的治理担忧，与前沿训练环境隔离主题相近，现有条目保持不变。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "文章核心观点是 AI 瓶颈已从“够不够聪明”转移到领域知识与实验，与该课题对人类中心智能指标的讨论直接相关，现有条目无需变更。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/intelligence-as-anthropocentric-benchmark.md": "文章核心观点是 AI 瓶颈已从“够不够聪明”转移到领域知识与实验，与该课题对人类中心智能指标的讨论直接相关，现有条目无需变更。",
+    "topics/frontier-training-containment.md": "文中涉及不可控的自我升级超级智能与不将社会交给 AI 的治理担忧，与前沿训练环境隔离主题相近，现有条目保持不变。",
+    "topics/ai-peer-review-science-adaptation.md": "文中提到 AI 研究将被自动化并加速生物、武器、经济等研究，与科研实践适配主题相关，现有条目无需新增。",
+    "topics/agent-auto-mode.md": "文中提到模型能自行连续完成多步任务并成为通用助手，与智能体自动模式相关，现有条目保持不变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/post-says-meta-s-chief-ai-officer-superintelligence-is-arriving.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/intelligence-as-anthropocentric-benchmark.md",
+      "topics/frontier-training-containment.md",
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/intelligence-as-anthropocentric-benchmark.md": "文章核心观点是 AI 瓶颈已从“够不够聪明”转移到领域知识与实验，与该课题对人类中心智能指标的讨论直接相关，现有条目无需变更。",
+      "topics/frontier-training-containment.md": "文中涉及不可控的自我升级超级智能与不将社会交给 AI 的治理担忧，与前沿训练环境隔离主题相近，现有条目保持不变。",
+      "topics/ai-peer-review-science-adaptation.md": "文中提到 AI 研究将被自动化并加速生物、武器、经济等研究，与科研实践适配主题相关，现有条目无需新增。",
+      "topics/agent-auto-mode.md": "文中提到模型能自行连续完成多步任务并成为通用助手，与智能体自动模式相关，现有条目保持不变。"
+    },
+    "notes": "Alexandr Wang 被帖文称为 Meta 首席 AI 官，该身份未在文中外独立核实，已在摘要中使用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/post-says-meta-s-chief-ai-officer-superintelligence-is-arriving.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

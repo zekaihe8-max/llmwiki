@@ -1,0 +1,23 @@
+{
+  "slug": "20dc538170342687",
+  "url": "https://x.com/lxfater/status/2124805211835236796",
+  "title": "GLM-5.4 查漏洞细，但比 Neon 慢约 4 倍",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "20dc538170342687dbfd768c5bde356cf83c93b7836173eb5b8703fb5ad5dd03",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:12.027Z",
+  "content_hash": "f3fed5201ebe66fd3b1a14bb10eb17f22f093e7ba6d1a19de60bc788c4e45ccc",
+  "article_path": "articles/20dc538170342687.md",
+  "fetched_url": "https://x.com/lxfater/status/2124805211835236796",
+  "source_path": "sources/articles/glm-5-4-finds-vulnerabilities-thoroughly-but-is-about-4x-slower.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:02:17.647Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

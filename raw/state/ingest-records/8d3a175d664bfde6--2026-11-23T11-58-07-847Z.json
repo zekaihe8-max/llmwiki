@@ -1,0 +1,67 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T11:58:07.847Z",
+  "url": "https://x.com/alexandr_wang/status/2124636606959345776",
+  "slug": "8d3a175d664bfde6",
+  "content_hash": "8c2d713fb8fbc36e8db998a702eecc8448a8ad5b303dd2317ae7e8ec63420e66",
+  "source": {
+    "path": "sources/articles/superintelligence-is-arriving.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/millenarian-apocalypse-discourse.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中讨论智能体能力与 AI 自我改进的治理含义，与智能体算力与治理相关，保持原样。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "文章涉及前沿 AI 能力与失控风险，与前沿训练环境隔离主题相近，但无需修改。"
+    },
+    {
+      "path": "topics/millenarian-apocalypse-discourse.md",
+      "action": "unchanged",
+      "reason": "帖文带有超级智能来临与社会移交的末日叙事，与千禧年末日话语主题接近，无需新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "文章涉及前沿 AI 能力与失控风险，与前沿训练环境隔离主题相近，但无需修改。",
+    "topics/agent-compute-and-governance.md": "文中讨论智能体能力与 AI 自我改进的治理含义，与智能体算力与治理相关，保持原样。",
+    "topics/millenarian-apocalypse-discourse.md": "帖文带有超级智能来临与社会移交的末日叙事，与千禧年末日话语主题接近，无需新建。"
+  },
+  "files_changed": [
+    "index.md",
+    "sources/articles/superintelligence-is-arriving.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/frontier-training-containment.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/millenarian-apocalypse-discourse.md"
+    ],
+    "selection_reasons": {
+      "topics/frontier-training-containment.md": "文章涉及前沿 AI 能力与失控风险，与前沿训练环境隔离主题相近，但无需修改。",
+      "topics/agent-compute-and-governance.md": "文中讨论智能体能力与 AI 自我改进的治理含义，与智能体算力与治理相关，保持原样。",
+      "topics/millenarian-apocalypse-discourse.md": "帖文带有超级智能来临与社会移交的末日叙事，与千禧年末日话语主题接近，无需新建。"
+    },
+    "notes": "未核实的主张（如黎曼猜想已被证明）均已标注为帖文称述，未擅自断言为客观事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "sources/articles/superintelligence-is-arriving.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

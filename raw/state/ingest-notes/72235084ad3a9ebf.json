@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-chatbot-safety-consumer-suits.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-subscription-risk-control-weights.md": "直接对应文中 Claude 订阅风控与封号退款问题",
+    "topics/account-and-asset-security-hygiene.md": "文中涉及账号被封、资产损失及通过投诉维权的资产安全议题",
+    "topics/premium-ai-subscription-value.md": "文中建议按月付而非年付，涉及高端 AI 订阅的价值与损失控制",
+    "topics/ai-chatbot-safety-consumer-suits.md": "文中提及 12315/12345 投诉及消保委维权，属消费者保护范畴"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "直接对应文中 Claude 订阅风控与封号退款问题"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文中涉及账号被封、资产损失及通过投诉维权的资产安全议题"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中建议按月付而非年付，涉及高端 AI 订阅的价值与损失控制"
+    },
+    {
+      "path": "topics/ai-chatbot-safety-consumer-suits.md",
+      "action": "unchanged",
+      "reason": "文中提及 12315/12345 投诉及消保委维权，属消费者保护范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "以上主张均来源于该 X 帖文，未经独立核实；退款案例仅为个别用户经验，帖文本身亦注明不代表所有人都能退款。"
+}

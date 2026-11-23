@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/computer-use.md",
+    "topics/agentic-video-editing.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "帖文描述 Antigravity 全自动完成登录、脚本编写、文件传输与显卡释放，属智能体自动模式的实践案例。",
+    "topics/computer-use.md": "帖文明确提到 Agent 接管已登录 Chrome 并通过 AI 截图识别页面点击，属典型 Computer Use 场景。",
+    "topics/agentic-video-editing.md": "帖文核心是利用智能体完成视频超分与分辨率升级，属智能体视频剪辑/处理范畴。",
+    "topics/premium-ai-subscription-value.md": "帖文重点讨论 Google AI Pro 订阅附赠的 Colab 算力单元及其累计规则，涉及高端 AI 订阅价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文描述 Antigravity 全自动完成登录、脚本编写、文件传输与显卡释放，属智能体自动模式的实践案例。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Agent 接管已登录 Chrome 并通过 AI 截图识别页面点击，属典型 Computer Use 场景。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是利用智能体完成视频超分与分辨率升级，属智能体视频剪辑/处理范畴。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文重点讨论 Google AI Pro 订阅附赠的 Colab 算力单元及其累计规则，涉及高端 AI 订阅价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实 Google AI Pro 算力累计规则及 Antigravity 具体操作细节，均按「帖文称」处理。"
+}

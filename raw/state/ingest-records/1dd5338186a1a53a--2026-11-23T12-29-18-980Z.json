@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:29:18.980Z",
+  "url": "https://x.com/shao__meng/status/2124797332051128581",
+  "slug": "1dd5338186a1a53a",
+  "content_hash": "38893cb3b0db30e1ce7683fe9cd01a1a4e06a9b93a3cc0788754f0e179d4eeaa",
+  "source": {
+    "path": "sources/articles/anthropic-launches-1-hour-evaluation-intro-course-on-claude-acad.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中涉及批量 API、拉取请求检查、夜间抽样等规模化评测工程做法，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章围绕评测入门、评测集构建与上线后持续评测记录，与“AI 评测入口与干活记录”主题高度相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中强调不要只看公开模型对比，要用自己案例测出能做决定的数字，呼应社区实测对抗刷分碰瓷。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "课程提示先自己写标准答案、抽查分数、按真实流量比例构建评测集，与“信任公开榜前先审质量”方向一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章围绕评测入门、评测集构建与上线后持续评测记录，与“AI 评测入口与干活记录”主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "文中强调不要只看公开模型对比，要用自己案例测出能做决定的数字，呼应社区实测对抗刷分碰瓷。",
+    "topics/public-benchmark-quality-scrutiny.md": "课程提示先自己写标准答案、抽查分数、按真实流量比例构建评测集，与“信任公开榜前先审质量”方向一致。",
+    "topics/agent-scaled-engineering.md": "文中涉及批量 API、拉取请求检查、夜间抽样等规模化评测工程做法，与智能体规模化工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-launches-1-hour-evaluation-intro-course-on-claude-acad.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "文章围绕评测入门、评测集构建与上线后持续评测记录，与“AI 评测入口与干活记录”主题高度相关。",
+      "topics/community-evals-vs-score-hype.md": "文中强调不要只看公开模型对比，要用自己案例测出能做决定的数字，呼应社区实测对抗刷分碰瓷。",
+      "topics/public-benchmark-quality-scrutiny.md": "课程提示先自己写标准答案、抽查分数、按真实流量比例构建评测集，与“信任公开榜前先审质量”方向一致。",
+      "topics/agent-scaled-engineering.md": "文中涉及批量 API、拉取请求检查、夜间抽样等规模化评测工程做法，与智能体规模化工程相关。"
+    },
+    "notes": "所有主张均源于该 X 帖文，未独立核实；未创建新话题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-launches-1-hour-evaluation-intro-course-on-claude-acad.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

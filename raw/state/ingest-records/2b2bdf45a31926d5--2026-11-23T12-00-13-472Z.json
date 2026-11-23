@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:00:13.472Z",
+  "url": "https://www.jiajunfan.com/projects/self-rewriting",
+  "slug": "2b2bdf45a31926d5",
+  "content_hash": "bd9cc80fc671f2822f0f61ab548b1d5b9db08c391f9c14b25f0da30304434480",
+  "source": {
+    "path": "sources/articles/self-rewriting-project-page.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/tools-building-own-models.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及训练语料回灌与模型自我迭代，与“权重自身改进”主题最为相近"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿训练环境与基础设施，与“少数实验室拥有的 GPU/基础设施”相关"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "涉及工具产品自建模型，与项目自主重写/训练模型的主题相邻"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "涉及训练语料回灌与模型自我迭代，与“权重自身改进”主题最为相近",
+    "topics/tools-building-own-models.md": "涉及工具产品自建模型，与项目自主重写/训练模型的主题相邻",
+    "topics/frontier-training-containment.md": "涉及前沿训练环境与基础设施，与“少数实验室拥有的 GPU/基础设施”相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/self-rewriting-project-page.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/tools-building-own-models.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-media-training-corpus-loop.md": "涉及训练语料回灌与模型自我迭代，与“权重自身改进”主题最为相近",
+      "topics/tools-building-own-models.md": "涉及工具产品自建模型，与项目自主重写/训练模型的主题相邻",
+      "topics/frontier-training-containment.md": "涉及前沿训练环境与基础设施，与“少数实验室拥有的 GPU/基础设施”相关"
+    },
+    "notes": "原文极短，仅包含标题、副标题、一句基础设施说明和三条列表项，未提供更多可核实细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/self-rewriting-project-page.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

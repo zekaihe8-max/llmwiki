@@ -1,0 +1,23 @@
+{
+  "slug": "3cde73258e78ca70",
+  "url": "https://cognition.com/blog/dont-build-multi-agents",
+  "title": "多 Agent 到底怎么用才对",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "3cde73258e78ca70fe518287136da1c0d0485bf0e5e9ebaf83b30ee8fb7afda7",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:18.704Z",
+  "content_hash": "53dc07f2028eab2561ca0dec19e104b0aecea0b2fdda3f8906cd68d17693db1f",
+  "article_path": "articles/3cde73258e78ca70.md",
+  "fetched_url": "https://cognition.com/blog/dont-build-multi-agents",
+  "source_path": "sources/articles/don-t-build-multi-agents-context-engineering-is-key-to-reliable.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:27:45.460Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
