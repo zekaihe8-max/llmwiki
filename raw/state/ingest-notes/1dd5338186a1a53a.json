@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章围绕评测入门、评测集构建与上线后持续评测记录，与“AI 评测入口与干活记录”主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "文中强调不要只看公开模型对比，要用自己案例测出能做决定的数字，呼应社区实测对抗刷分碰瓷。",
+    "topics/public-benchmark-quality-scrutiny.md": "课程提示先自己写标准答案、抽查分数、按真实流量比例构建评测集，与“信任公开榜前先审质量”方向一致。",
+    "topics/agent-scaled-engineering.md": "文中涉及批量 API、拉取请求检查、夜间抽样等规模化评测工程做法，与智能体规模化工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章围绕评测入门、评测集构建与上线后持续评测记录，与“AI 评测入口与干活记录”主题高度相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中强调不要只看公开模型对比，要用自己案例测出能做决定的数字，呼应社区实测对抗刷分碰瓷。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "课程提示先自己写标准答案、抽查分数、按真实流量比例构建评测集，与“信任公开榜前先审质量”方向一致。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中涉及批量 API、拉取请求检查、夜间抽样等规模化评测工程做法，与智能体规模化工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于该 X 帖文，未独立核实；未创建新话题。"
+}

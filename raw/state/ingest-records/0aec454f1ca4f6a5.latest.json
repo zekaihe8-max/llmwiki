@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:51:48.830Z",
+  "url": "https://x.com/Gorden_Sun/status/2124779272107954639",
+  "slug": "0aec454f1ca4f6a5",
+  "content_hash": "97eb1a87d099fd96ded05202c96e936ea0359d5f0d0c84a1ad2043e345f57a32",
+  "source": {
+    "path": "sources/articles/trina-ax-open-source-release-one-deployment-company-wide-permiss.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "带权限控制的共享工作区涉及智能体治理与权限管理。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章聚焦公司级共享 AI 工作区，与公司级 Agent Harness 主题高度相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "统一服务器部署与跨团队资源共享对应跨 Agent 统一资源库主题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "团队沉淀的工作流与知识库直接复用，呼应工作流优先于智能体。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章聚焦公司级共享 AI 工作区，与公司级 Agent Harness 主题高度相关。",
+    "topics/unified-agent-resource-library.md": "统一服务器部署与跨团队资源共享对应跨 Agent 统一资源库主题。",
+    "topics/agent-compute-and-governance.md": "带权限控制的共享工作区涉及智能体治理与权限管理。",
+    "topics/workflows-before-agents.md": "团队沉淀的工作流与知识库直接复用，呼应工作流优先于智能体。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/trina-ax-open-source-release-one-deployment-company-wide-permiss.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章聚焦公司级共享 AI 工作区，与公司级 Agent Harness 主题高度相关。",
+      "topics/unified-agent-resource-library.md": "统一服务器部署与跨团队资源共享对应跨 Agent 统一资源库主题。",
+      "topics/agent-compute-and-governance.md": "带权限控制的共享工作区涉及智能体治理与权限管理。",
+      "topics/workflows-before-agents.md": "团队沉淀的工作流与知识库直接复用，呼应工作流优先于智能体。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/trina-ax-open-source-release-one-deployment-company-wide-permiss.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

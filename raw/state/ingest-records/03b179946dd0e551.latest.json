@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T11:59:41.791Z",
+  "url": "https://arxiv.org/abs/2611.21885",
+  "slug": "03b179946dd0e551",
+  "content_hash": "f2cfb4164a30a32b4ba4106eae60f5ef6537615872cca924fc20f20409068935",
+  "source": {
+    "path": "sources/articles/language-models-can-rewrite-their-own-weights.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/tools-building-own-models.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "论文核心是智能体式自我改进与递归自我提升，与智能体 AI 基础最贴近。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "论文挑战训练与推理的壁垒，涉及前沿模型训练边界与隔离关切。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "论文描述模型自行修改自身权重，属于模型自建自身模型的范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "论文核心是智能体式自我改进与递归自我提升，与智能体 AI 基础最贴近。",
+    "topics/tools-building-own-models.md": "论文描述模型自行修改自身权重，属于模型自建自身模型的范畴。",
+    "topics/frontier-training-containment.md": "论文挑战训练与推理的壁垒，涉及前沿模型训练边界与隔离关切。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/language-models-can-rewrite-their-own-weights.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/tools-building-own-models.md",
+      "topics/frontier-training-containment.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "论文核心是智能体式自我改进与递归自我提升，与智能体 AI 基础最贴近。",
+      "topics/tools-building-own-models.md": "论文描述模型自行修改自身权重，属于模型自建自身模型的范畴。",
+      "topics/frontier-training-containment.md": "论文挑战训练与推理的壁垒，涉及前沿模型训练边界与隔离关切。"
+    },
+    "notes": "所有主张均基于 arXiv 摘要，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/language-models-can-rewrite-their-own-weights.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

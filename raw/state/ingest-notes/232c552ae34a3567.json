@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "文章讲述用AI工具从零做可玩小游戏，与随手AI小游戏一次成功主题高度相关",
+    "topics/vibe-gaming-model-inflection.md": "文中提到一人靠AI搓3D动作大作，契合Vibe Gaming模型拐点的讨论",
+    "topics/simulation-ready-open-3d-assets.md": "涉及3D模型生成、瘦身与双端可玩资产，与仿真就绪开放三维资产相近"
+  },
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章讲述用AI工具从零做可玩小游戏，与随手AI小游戏一次成功主题高度相关"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中提到一人靠AI搓3D动作大作，契合Vibe Gaming模型拐点的讨论"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "涉及3D模型生成、瘦身与双端可玩资产，与仿真就绪开放三维资产相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "主张均标注为帖文称，未独立核实；42元仅指Tripo资产成本，不含整体游戏开发费用。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "selection_reasons": {
+    "topics/long-conversation-default-compression.md": "文章核心是长对话显存压缩与常数级开销，与该主题直接相关",
+    "topics/context-engineering-for-agents.md": "MemT 面向 Agent 长记忆场景，属于 Agent 上下文工程范畴",
+    "topics/local-open-assistant-models.md": "帖文强调本地模型和长上下文部署，与本地开放助手模型主题相近"
+  },
+  "topics": [
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "文章核心是长对话显存压缩与常数级开销，与该主题直接相关"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "MemT 面向 Agent 长记忆场景，属于 Agent 上下文工程范畴"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文强调本地模型和长上下文部署，与本地开放助手模型主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于该 X 帖文及其引用的 MemOS_dev 帖文，未独立核实。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "e93f297299e17221",
+  "url": "https://x.com/MemOS_dev/status/2124623963087126562",
+  "title": "官方帖",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "e93f297299e17221dcbcebeac223fb43333310a7a0c14796bc52fd3d4b59e2eb",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:33.911Z",
+  "content_hash": "d593a91a0a61d202ed9c49d800ae76ada6535062dbaef385bcc4246e29fe14dc",
+  "article_path": "articles/e93f297299e17221.md",
+  "fetched_url": "https://x.com/MemOS_dev/status/2124623963087126562",
+  "source_path": "sources/articles/memos-and-nvidia-release-554b-parameter-memory-native-model-memt.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:53:48.456Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

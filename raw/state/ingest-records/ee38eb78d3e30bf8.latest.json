@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:37:15.226Z",
+  "url": "https://x.com/shao__meng/status/2124750276917854426",
+  "slug": "ee38eb78d3e30bf8",
+  "content_hash": "a7b2ab804426017751628e797f0cff1cd7a55a72f186a101fcb267e23e7fa1ec",
+  "source": {
+    "path": "sources/articles/baichuan-intelligence-recruitment-explicitly-distinguishes-age.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "百川智能是 AI 原生公司，话题与 AI 公司招聘语境相关"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "涉及大模型公司人员编制与招聘门槛，与大厂 AI 编制话题相近"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "年龄歧视与资历偏好属于招聘中“冲劲胜过资历”的反面讨论"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "百川智能是 AI 原生公司，话题与 AI 公司招聘语境相关",
+    "topics/hunger-beats-tenure.md": "年龄歧视与资历偏好属于招聘中“冲劲胜过资历”的反面讨论",
+    "topics/enterprise-ai-digital-employee-headcount.md": "涉及大模型公司人员编制与招聘门槛，与大厂 AI 编制话题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/baichuan-intelligence-recruitment-explicitly-distinguishes-age.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "百川智能是 AI 原生公司，话题与 AI 公司招聘语境相关",
+      "topics/hunger-beats-tenure.md": "年龄歧视与资历偏好属于招聘中“冲劲胜过资历”的反面讨论",
+      "topics/enterprise-ai-digital-employee-headcount.md": "涉及大模型公司人员编制与招聘门槛，与大厂 AI 编制话题相近"
+    },
+    "notes": "邮箱地址在原文中已被 Cloudflare 邮件保护遮蔽，未明文展示。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/baichuan-intelligence-recruitment-explicitly-distinguishes-age.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

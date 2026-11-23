@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:49:26.774Z",
+  "url": "https://x.com/0xlangeai/status/2124806367949255163",
+  "slug": "232c552ae34a3567",
+  "content_hash": "18e6ebf3118e40ee52951338df77a04b263ca4478f3895ceda945744ab30c925",
+  "source": {
+    "path": "sources/articles/making-dark-three-kingdoms-from-a-zhao-yun-illustration-with-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "文章讲述用AI工具从零做可玩小游戏，与随手AI小游戏一次成功主题高度相关"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "涉及3D模型生成、瘦身与双端可玩资产，与仿真就绪开放三维资产相近"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "文中提到一人靠AI搓3D动作大作，契合Vibe Gaming模型拐点的讨论"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/casual-ai-minigame-first-try.md": "文章讲述用AI工具从零做可玩小游戏，与随手AI小游戏一次成功主题高度相关",
+    "topics/vibe-gaming-model-inflection.md": "文中提到一人靠AI搓3D动作大作，契合Vibe Gaming模型拐点的讨论",
+    "topics/simulation-ready-open-3d-assets.md": "涉及3D模型生成、瘦身与双端可玩资产，与仿真就绪开放三维资产相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/making-dark-three-kingdoms-from-a-zhao-yun-illustration-with-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/simulation-ready-open-3d-assets.md"
+    ],
+    "selection_reasons": {
+      "topics/casual-ai-minigame-first-try.md": "文章讲述用AI工具从零做可玩小游戏，与随手AI小游戏一次成功主题高度相关",
+      "topics/vibe-gaming-model-inflection.md": "文中提到一人靠AI搓3D动作大作，契合Vibe Gaming模型拐点的讨论",
+      "topics/simulation-ready-open-3d-assets.md": "涉及3D模型生成、瘦身与双端可玩资产，与仿真就绪开放三维资产相近"
+    },
+    "notes": "主张均标注为帖文称，未独立核实；42元仅指Tripo资产成本，不含整体游戏开发费用。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/making-dark-three-kingdoms-from-a-zhao-yun-illustration-with-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

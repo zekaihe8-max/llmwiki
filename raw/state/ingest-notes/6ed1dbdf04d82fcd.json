@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文重点描述 DreamCoder 的窗口管理、键盘操作和多 Agent 可视化，属于编程 Agent 体验设计范畴。",
+    "topics/harness-comparison-beyond-tokens.md": "文中提到缓存命中率、Docker 沙箱和多平台支持，涉及 Harness 超越 Token 的工程指标对比。",
+    "topics/multiagent-infra-four-problems.md": "DreamCoder 主打多 Agent 并行工作台与状态小地图，对应多智能体基建与协调问题。",
+    "topics/ux-dx-and-ax.md": "文章强调非终端、非聊天框的浏览器 UI 与纯键盘操作，属于 UX/DX/AX 讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文重点描述 DreamCoder 的窗口管理、键盘操作和多 Agent 可视化，属于编程 Agent 体验设计范畴。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文中提到缓存命中率、Docker 沙箱和多平台支持，涉及 Harness 超越 Token 的工程指标对比。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "DreamCoder 主打多 Agent 并行工作台与状态小地图，对应多智能体基建与协调问题。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章强调非终端、非聊天框的浏览器 UI 与纯键盘操作，属于 UX/DX/AX 讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均标注为「帖文称」或基于所获推文内容，未引入外部事实。"
+}

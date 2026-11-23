@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:49:45.722Z",
+  "url": "https://x.com/heydengai/status/2124804398496821254",
+  "slug": "e134800fd1ded473",
+  "content_hash": "0644ae9e305f0d05b01c320c0799d7af6851eff924cd23cc920ef48df6b3dc52",
+  "source": {
+    "path": "sources/articles/replacing-a-working-playwright-script-with-a-browser-agent-isn-t.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/computer-use.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文提到不停烧 Token，与 Token 效率主题相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "涉及浏览器 Agent / Computer Use 的自动化场景，与帖文讨论的 Browser Agent 替换 Playwright 直接相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点是确定性脚本优于盲目替换为智能体，与“工作流优先于智能体”主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文核心观点是确定性脚本优于盲目替换为智能体，与“工作流优先于智能体”主题直接相关。",
+    "topics/computer-use.md": "涉及浏览器 Agent / Computer Use 的自动化场景，与帖文讨论的 Browser Agent 替换 Playwright 直接相关。",
+    "topics/agents-md-token-efficiency.md": "帖文提到不停烧 Token，与 Token 效率主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/replacing-a-working-playwright-script-with-a-browser-agent-isn-t.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/computer-use.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "帖文核心观点是确定性脚本优于盲目替换为智能体，与“工作流优先于智能体”主题直接相关。",
+      "topics/computer-use.md": "涉及浏览器 Agent / Computer Use 的自动化场景，与帖文讨论的 Browser Agent 替换 Playwright 直接相关。",
+      "topics/agents-md-token-efficiency.md": "帖文提到不停烧 Token，与 Token 效率主题相关。"
+    },
+    "notes": "所有主张均基于 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/replacing-a-working-playwright-script-with-a-browser-agent-isn-t.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

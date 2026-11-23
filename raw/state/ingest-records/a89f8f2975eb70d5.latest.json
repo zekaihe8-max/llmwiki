@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:19:46.791Z",
+  "url": "https://x.com/xiaomovps/status/2124820080215441660",
+  "slug": "a89f8f2975eb70d5",
+  "content_hash": "2275db8b20f938feec6a5bd2dd3c8ce31103a12c1dce68b01c40e03327e8b47c",
+  "source": {
+    "path": "sources/articles/how-to-use-multi-agent-systems-correctly.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文涉及共享执行轨迹、上下文压缩等上下文工程问题，与该主题高度相关。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "帖文主张单线程主循环、克制使用子 Agent，与把子 Agent 折进主循环的思路一致。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "帖文讨论多 Agent 并行冲突与决策失控，属于多智能体基建问题范畴。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文优先单线程线性执行，体现工作流优先于智能体的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文涉及共享执行轨迹、上下文压缩等上下文工程问题，与该主题高度相关。",
+    "topics/fold-subagents-into-main-loop.md": "帖文主张单线程主循环、克制使用子 Agent，与把子 Agent 折进主循环的思路一致。",
+    "topics/multiagent-infra-four-problems.md": "帖文讨论多 Agent 并行冲突与决策失控，属于多智能体基建问题范畴。",
+    "topics/workflows-before-agents.md": "帖文优先单线程线性执行，体现工作流优先于智能体的观点。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/how-to-use-multi-agent-systems-correctly.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "帖文涉及共享执行轨迹、上下文压缩等上下文工程问题，与该主题高度相关。",
+      "topics/fold-subagents-into-main-loop.md": "帖文主张单线程主循环、克制使用子 Agent，与把子 Agent 折进主循环的思路一致。",
+      "topics/multiagent-infra-four-problems.md": "帖文讨论多 Agent 并行冲突与决策失控，属于多智能体基建问题范畴。",
+      "topics/workflows-before-agents.md": "帖文优先单线程线性执行，体现工作流优先于智能体的观点。"
+    },
+    "notes": "Source is an X post by @xiaomovps; unverified claims are attributed with 「帖文称」.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/how-to-use-multi-agent-systems-correctly.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

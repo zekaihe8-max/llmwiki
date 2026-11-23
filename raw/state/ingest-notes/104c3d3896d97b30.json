@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/frontier-training-containment.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "Qwen3.5 是开放权重前沿模型，文章核心围绕其权重自修展开。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章明确指出测试范围有限且论文尚未同行评审，需审慎看待评测结果。",
+    "topics/frontier-training-containment.md": "模型在无训练工具的情况下自行改写权重，触及前沿模型训练边界与隔离关切。",
+    "topics/agent-compute-and-governance.md": "实验仅用单块 GPU 运行几小时，涉及智能体/模型算力使用与治理语境。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Qwen3.5 是开放权重前沿模型，文章核心围绕其权重自修展开。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章明确指出测试范围有限且论文尚未同行评审，需审慎看待评测结果。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "模型在无训练工具的情况下自行改写权重，触及前沿模型训练边界与隔离关切。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "实验仅用单块 GPU 运行几小时，涉及智能体/模型算力使用与治理语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上宝玉（@dotey）的帖文，引用 arXiv 预印本 arxiv.org/abs/2611.21885 及项目页 jiajunfan.com/projects/self-…，未独立核实实验数据。"
+}

@@ -1,0 +1,56 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:58:05.963Z",
+  "url": "https://x.com/fkysly/status/2124820580507746428",
+  "slug": "32e0ab9ebe46a23c",
+  "content_hash": "63963456e1592d1f9c9fa6053ff282b60f1d49527a7777460f38e41312dad74f",
+  "source": {
+    "path": "sources/articles/dare-to-entrust-all-projects-to-opus-5-5-but-not-ready-to-let-ne.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文讨论敢把全部项目交给 Opus 5.5，与哪些活已放心交给 AI 主题相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "对 Neon「一把梭哈」的顾虑涉及是否让模型全权自动执行，与智能体自动模式主题相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "内容比较把项目整体交给不同编程模型，与个人 Agent 调度编程 Agent 主题相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文在 Opus 5.5 与 Neon 之间做信任取舍，与面向 Agent 的模型渠道取舍主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文讨论敢把全部项目交给 Opus 5.5，与哪些活已放心交给 AI 主题相关。",
+    "topics/agent-auto-mode.md": "对 Neon「一把梭哈」的顾虑涉及是否让模型全权自动执行，与智能体自动模式主题相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "内容比较把项目整体交给不同编程模型，与个人 Agent 调度编程 Agent 主题相关。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文在 Opus 5.5 与 Neon 之间做信任取舍，与面向 Agent 的模型渠道取舍主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dare-to-entrust-all-projects-to-opus-5-5-but-not-ready-to-let-ne.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

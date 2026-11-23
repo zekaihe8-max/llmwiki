@@ -1,0 +1,23 @@
+{
+  "slug": "f5111a299ef92ac4",
+  "url": "https://x.com/0xLogicrw/status/2124797777532326301",
+  "title": "Gemini 网页代码里出现了 Helium",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "f5111a299ef92ac46a3c82628d9a8686909e33d4b46575fb1bb761307ab7f15f",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:22.749Z",
+  "content_hash": "6fdb9fcbc4003e170bde8726a366cda4bdd8e9b6d0e79290f8ddc84e75c217fb",
+  "article_path": "articles/f5111a299ef92ac4.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2124797777532326301",
+  "source_path": "sources/articles/helium-found-in-gemini-web-code-possibly-flash-lite-model-or-sub.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:39:21.277Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:53:48.455Z",
+  "url": "https://x.com/MemOS_dev/status/2124623963087126562",
+  "slug": "e93f297299e17221",
+  "content_hash": "d593a91a0a61d202ed9c49d800ae76ada6535062dbaef385bcc4246e29fe14dc",
+  "source": {
+    "path": "sources/articles/memos-and-nvidia-release-554b-parameter-memory-native-model-memt.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文明确提及面向“长时程 AI 智能体”（long-horizon AI agents），与 AI 任务时界增长主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "原生记忆存储历史并避免在查询上下文中保留原始历史，属于面向 Agent 的上下文工程。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "模型在 Hugging Face 发布并附 arXiv 技术报告，属开放权重前沿模型发布。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文直接对比 MemT-1.0-Pro 与 MemT-1.0-Flash，属 Pro 与 Flash 模型策略范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文直接对比 MemT-1.0-Pro 与 MemT-1.0-Flash，属 Pro 与 Flash 模型策略范畴。",
+    "topics/ai-task-horizon-growth.md": "帖文明确提及面向“长时程 AI 智能体”（long-horizon AI agents），与 AI 任务时界增长主题相关。",
+    "topics/context-engineering-for-agents.md": "原生记忆存储历史并避免在查询上下文中保留原始历史，属于面向 Agent 的上下文工程。",
+    "topics/open-weight-frontier-models.md": "模型在 Hugging Face 发布并附 arXiv 技术报告，属开放权重前沿模型发布。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/memos-and-nvidia-release-554b-parameter-memory-native-model-memt.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文直接对比 MemT-1.0-Pro 与 MemT-1.0-Flash，属 Pro 与 Flash 模型策略范畴。",
+      "topics/ai-task-horizon-growth.md": "帖文明确提及面向“长时程 AI 智能体”（long-horizon AI agents），与 AI 任务时界增长主题相关。",
+      "topics/context-engineering-for-agents.md": "原生记忆存储历史并避免在查询上下文中保留原始历史，属于面向 Agent 的上下文工程。",
+      "topics/open-weight-frontier-models.md": "模型在 Hugging Face 发布并附 arXiv 技术报告，属开放权重前沿模型发布。"
+    },
+    "notes": "所有事实均来源于提供的 X 帖文文本，未引用外部链接内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/memos-and-nvidia-release-554b-parameter-memory-native-model-memt.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

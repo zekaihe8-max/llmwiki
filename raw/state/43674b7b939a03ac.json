@@ -1,0 +1,23 @@
+{
+  "slug": "43674b7b939a03ac",
+  "url": "https://academy.claude.com/courses/introduction-to-evals",
+  "title": "课程",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "43674b7b939a03ac0f061f94f72c619ed1d2ce0c5da8d7006fabdcd0c5969559",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:20.181Z",
+  "content_hash": "70d33bb786913f74ddd1b2a2056f1ef0dc5b65a57b0dc65fba818b51e42d7918",
+  "article_path": "articles/43674b7b939a03ac.md",
+  "fetched_url": "https://academy.claude.com/courses/introduction-to-evals",
+  "source_path": "sources/articles/course-introduction-to-evals.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:30:33.317Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

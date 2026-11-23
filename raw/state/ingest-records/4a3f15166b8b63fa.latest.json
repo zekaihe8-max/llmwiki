@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:10:59.997Z",
+  "url": "https://huggingface.co/XingChen-AGI/Xing4.1-Preview",
+  "slug": "4a3f15166b8b63fa",
+  "content_hash": "842aa2e748cd03372ac1961a710e7641744e3588d9ba35e34a3bad064ac20950",
+  "source": {
+    "path": "sources/articles/xing4-1-preview-frontier-agentic-models-for-domestic-chips-and-f.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中提到国内芯片与算力，涉及智能体算力与治理。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及框架与规模化工程落地。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章核心是前沿智能体模型，与智能体 AI 基础主题直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Xing4 属于开放权重前沿模型发布。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "文章核心是前沿智能体模型，与智能体 AI 基础主题直接相关。",
+    "topics/agent-compute-and-governance.md": "文中提到国内芯片与算力，涉及智能体算力与治理。",
+    "topics/open-weight-frontier-models.md": "Xing4 属于开放权重前沿模型发布。",
+    "topics/agent-scaled-engineering.md": "涉及框架与规模化工程落地。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xing4-1-preview-frontier-agentic-models-for-domestic-chips-and-f.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "文章核心是前沿智能体模型，与智能体 AI 基础主题直接相关。",
+      "topics/agent-compute-and-governance.md": "文中提到国内芯片与算力，涉及智能体算力与治理。",
+      "topics/open-weight-frontier-models.md": "Xing4 属于开放权重前沿模型发布。",
+      "topics/agent-scaled-engineering.md": "涉及框架与规模化工程落地。"
+    },
+    "notes": "Source is a single Hugging Face paper listing; all claims are attributed to the post and no new topics are created.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xing4-1-preview-frontier-agentic-models-for-domestic-chips-and-f.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

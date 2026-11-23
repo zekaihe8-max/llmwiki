@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章核心讲编程 Agent 如何通过连续对话与任务模式省 token，直接命中该主题。",
+    "topics/coding-agent-ux-vs-quota.md": "讨论 Pro 订阅额度体验与实际可用量的落差，属于体验与配额权衡。",
+    "topics/context-engineering-for-agents.md": "揭示上下文缓存过期机制对 token 消耗的决定性影响，属于上下文工程范畴。",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Google AI Pro 与 Neon 模型的策略性使用建议，符合 Pro 与 Flash/Neon 模型策略主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章核心讲编程 Agent 如何通过连续对话与任务模式省 token，直接命中该主题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "讨论 Pro 订阅额度体验与实际可用量的落差，属于体验与配额权衡。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "揭示上下文缓存过期机制对 token 消耗的决定性影响，属于上下文工程范畴。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Google AI Pro 与 Neon 模型的策略性使用建议，符合 Pro 与 Flash/Neon 模型策略主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post with forum test data and Perplexity CEO public metrics; claims are attributed to the post author and cited sources, not independently verified."
+}

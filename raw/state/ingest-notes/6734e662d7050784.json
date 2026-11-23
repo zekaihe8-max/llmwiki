@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/ai-app-iphone-duo-adaptation.md"
+  ],
+  "selection_reasons": {
+    "topics/skills-stack-native-app-recreation.md": "文章涉及原生感 App 的上架与体验，与“用 Skills 组合复刻原生感 App”主题相近，但无需变更。",
+    "topics/design-taste-led-linux-desktop-trial.md": "作者强调审美最出色，与“设计品味驱动”主题有交集，维持原样。",
+    "topics/html-image-fun-knowledge-learning.md": "观鸟应用属于趣味知识学习类产品，与该主题较为接近，保持不变。",
+    "topics/ai-app-iphone-duo-adaptation.md": "涉及移动应用上架与适配，与“AI 应用适配 iPhone Duo”在应用层面有远程关联，不作修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文章涉及原生感 App 的上架与体验，与“用 Skills 组合复刻原生感 App”主题相近，但无需变更。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "作者强调审美最出色，与“设计品味驱动”主题有交集，维持原样。"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "观鸟应用属于趣味知识学习类产品，与该主题较为接近，保持不变。"
+    },
+    {
+      "path": "topics/ai-app-iphone-duo-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及移动应用上架与适配，与“AI 应用适配 iPhone Duo”在应用层面有远程关联，不作修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来源于提供的 X 帖文文本，未引用外部链接内容。"
+}

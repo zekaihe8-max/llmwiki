@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是用 AI 工具在浏览器完成视频分镜、时间线剪辑与局部修改，与智能体视频剪辑主题高度相关。",
+    "topics/premium-ai-subscription-value.md": "帖文提及 Google AI Ultra 5x 订阅及其附赠的 10,050 Flow 积分，涉及高端 AI 订阅的使用价值。",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文描述将生成片段拖入时间线拼接并做局部修改，属于 AI 辅助的媒体剪辑工作流。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 工具在浏览器完成视频分镜、时间线剪辑与局部修改，与智能体视频剪辑主题高度相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Google AI Ultra 5x 订阅及其附赠的 10,050 Flow 积分，涉及高端 AI 订阅的使用价值。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文描述将生成片段拖入时间线拼接并做局部修改，属于 AI 辅助的媒体剪辑工作流。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未独立核实；未引用图片中的具体细节，因图片未在文本中展开。"
+}

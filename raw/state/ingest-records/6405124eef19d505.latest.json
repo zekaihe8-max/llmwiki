@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:51:18.572Z",
+  "url": "https://autoregressive-view-model.github.io/main.html",
+  "slug": "6405124eef19d505",
+  "content_hash": "de110a36058fa5df7abc5ec8b2af1d007f2f8d119d84ffa6ca1d3df57f63c429",
+  "source": {
+    "path": "sources/articles/avm-generating-a-scene-as-a-stream-of-views.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "AVM 支持视图流生成与摄像机控制，与视频编辑与生成主题有交集。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "AVM 是面向视图生成与交互的世界模型，与该主题直接相关。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文章讨论场景一致性与三维重建指标，虽不构建显式 3D 表示，但与仿真就绪资产主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "AVM 是面向视图生成与交互的世界模型，与该主题直接相关。",
+    "topics/simulation-ready-open-3d-assets.md": "文章讨论场景一致性与三维重建指标，虽不构建显式 3D 表示，但与仿真就绪资产主题相近。",
+    "topics/agentic-video-editing.md": "AVM 支持视图流生成与摄像机控制，与视频编辑与生成主题有交集。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/avm-generating-a-scene-as-a-stream-of-views.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "AVM 是面向视图生成与交互的世界模型，与该主题直接相关。",
+      "topics/simulation-ready-open-3d-assets.md": "文章讨论场景一致性与三维重建指标，虽不构建显式 3D 表示，但与仿真就绪资产主题相近。",
+      "topics/agentic-video-editing.md": "AVM 支持视图流生成与摄像机控制，与视频编辑与生成主题有交集。"
+    },
+    "notes": "所有内容均基于提供的项目页 Markdown，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/avm-generating-a-scene-as-a-stream-of-views.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

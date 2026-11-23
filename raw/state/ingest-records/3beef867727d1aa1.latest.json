@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:10:32.424Z",
+  "url": "https://x.com/lxfater/status/2124828611811152226",
+  "slug": "3beef867727d1aa1",
+  "content_hash": "f4929e0d36f4a2e5f1c7ac6c2398fc7d76422498f0bd6df8b7cf1769d59c629e",
+  "source": {
+    "path": "sources/articles/china-telecom-trains-xing4-1-preview-with-8192-huawei-ascend-910.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/tools-building-own-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "文章涉及中国国产芯片训练开源大模型，与中美算力与开源领先议题直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Xing4.1-Preview 为开放权重前沿模型，适合该主题。"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "中国电信自建模型并抢占国产算力话语权，符合工具产品自建模型议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/china-open-source-lead-us-compute.md": "文章涉及中国国产芯片训练开源大模型，与中美算力与开源领先议题直接相关。",
+    "topics/open-weight-frontier-models.md": "Xing4.1-Preview 为开放权重前沿模型，适合该主题。",
+    "topics/tools-building-own-models.md": "中国电信自建模型并抢占国产算力话语权，符合工具产品自建模型议题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/china-telecom-trains-xing4-1-preview-with-8192-huawei-ascend-910.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/tools-building-own-models.md"
+    ],
+    "selection_reasons": {
+      "topics/china-open-source-lead-us-compute.md": "文章涉及中国国产芯片训练开源大模型，与中美算力与开源领先议题直接相关。",
+      "topics/open-weight-frontier-models.md": "Xing4.1-Preview 为开放权重前沿模型，适合该主题。",
+      "topics/tools-building-own-models.md": "中国电信自建模型并抢占国产算力话语权，符合工具产品自建模型议题。"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未独立核实；未引用文章外的事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/china-telecom-trains-xing4-1-preview-with-8192-huawei-ascend-910.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:30:33.316Z",
+  "url": "https://academy.claude.com/courses/introduction-to-evals",
+  "slug": "43674b7b939a03ac",
+  "content_hash": "70d33bb786913f74ddd1b2a2056f1ef0dc5b65a57b0dc65fba818b51e42d7918",
+  "source": {
+    "path": "sources/articles/course-introduction-to-evals.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "与本课程均聚焦 AI 评测（eval）的落地与记录，主题最贴近"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "都讨论基于真实案例的评测，区别于公开榜单刷分"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "都强调以证据选择模型与提示词，而非盲信公开评测结果"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "与本课程均聚焦 AI 评测（eval）的落地与记录，主题最贴近",
+    "topics/community-evals-vs-score-hype.md": "都讨论基于真实案例的评测，区别于公开榜单刷分",
+    "topics/public-benchmark-quality-scrutiny.md": "都强调以证据选择模型与提示词，而非盲信公开评测结果"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/course-introduction-to-evals.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-eval-work-record-gateway.md": "与本课程均聚焦 AI 评测（eval）的落地与记录，主题最贴近",
+      "topics/community-evals-vs-score-hype.md": "都讨论基于真实案例的评测，区别于公开榜单刷分",
+      "topics/public-benchmark-quality-scrutiny.md": "都强调以证据选择模型与提示词，而非盲信公开评测结果"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/course-introduction-to-evals.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

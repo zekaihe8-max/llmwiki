@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文核心讨论额度不互通与 Agent 使用体验的取舍，与该主题直接相关。",
+    "topics/cloud-auto-model-routing.md": "文中在 Gemini 与 Antigravity 之间按任务类型分流，属于跨服务/模型渠道路由，现有主题已覆盖。",
+    "topics/premium-ai-subscription-value.md": "讨论 Google AI 会员付费后如何充分利用额度，与高端 AI 订阅价值评估相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到云端 Remote Agent 与私有 GitHub 仓库接入，涉及个人 Agent 云环境使用，现有主题已覆盖。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文核心讨论额度不互通与 Agent 使用体验的取舍，与该主题直接相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中在 Gemini 与 Antigravity 之间按任务类型分流，属于跨服务/模型渠道路由，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论 Google AI 会员付费后如何充分利用额度，与高端 AI 订阅价值评估相关。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到云端 Remote Agent 与私有 GitHub 仓库接入，涉及个人 Agent 云环境使用，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于该 X 帖文，未独立核实；未引入文章以外的事实或 URL。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/tools-building-own-models.md",
+    "topics/frontier-training-containment.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "涉及训练语料回灌与模型自我迭代，与“权重自身改进”主题最为相近",
+    "topics/tools-building-own-models.md": "涉及工具产品自建模型，与项目自主重写/训练模型的主题相邻",
+    "topics/frontier-training-containment.md": "涉及前沿训练环境与基础设施，与“少数实验室拥有的 GPU/基础设施”相关"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及训练语料回灌与模型自我迭代，与“权重自身改进”主题最为相近"
+    },
+    {
+      "path": "topics/tools-building-own-models.md",
+      "action": "unchanged",
+      "reason": "涉及工具产品自建模型，与项目自主重写/训练模型的主题相邻"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "涉及前沿训练环境与基础设施，与“少数实验室拥有的 GPU/基础设施”相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文极短，仅包含标题、副标题、一句基础设施说明和三条列表项，未提供更多可核实细节。"
+}

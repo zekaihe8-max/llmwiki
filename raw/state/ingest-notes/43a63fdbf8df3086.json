@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章涉及博主自建榜单与“未刷分”声明，属于社区实测与刷分碰瓷议题范畴，暂不新增。",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用非官方自建评测及排名，需审视公开榜单质量，与该议题相关，暂不新增。",
+    "topics/ai-eval-work-record-gateway.md": "评测记录了模型在编程任务中的步骤、耗时与 Token 消耗，属于 AI 评测入口与干活记录范畴，暂不新增。",
+    "topics/coding-agent-token-saving-tooling.md": "文中重点披露 GLM-5.4 推理 Token 消耗极高，与编程 Agent Token 开销议题相关，暂不新增。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章涉及博主自建榜单与“未刷分”声明，属于社区实测与刷分碰瓷议题范畴，暂不新增。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用非官方自建评测及排名，需审视公开榜单质量，与该议题相关，暂不新增。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "评测记录了模型在编程任务中的步骤、耗时与 Token 消耗，属于 AI 评测入口与干活记录范畴，暂不新增。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中重点披露 GLM-5.4 推理 Token 消耗极高，与编程 Agent Token 开销议题相关，暂不新增。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台帖文，所有主张均基于所获取文章内容，未独立核实。"
+}

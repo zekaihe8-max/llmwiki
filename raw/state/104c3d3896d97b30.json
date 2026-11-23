@@ -1,0 +1,23 @@
+{
+  "slug": "104c3d3896d97b30",
+  "url": "https://x.com/dotey/status/2124775538648633370",
+  "title": "Qwen3.5 27B 自己改权重，数学准确率从 57.2% 提到 63.8%",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "104c3d3896d97b306ae7eb16a60c5de8a6398cddf142c53384c5bd9fa9cb1b62",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:09.634Z",
+  "content_hash": "773e796b1d8c15f6b75cded2dd4ba9d173e93f8d69477375ac7e006110f172d0",
+  "article_path": "articles/104c3d3896d97b30.md",
+  "fetched_url": "https://x.com/dotey/status/2124775538648633370",
+  "source_path": "sources/articles/qwen3-5-27b-rewrites-its-own-weights-math-accuracy-rises-6-6-poi.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T11:58:58.519Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

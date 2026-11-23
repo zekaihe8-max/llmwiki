@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "文章核心是前沿智能体模型，与智能体 AI 基础主题直接相关。",
+    "topics/agent-compute-and-governance.md": "文中提到国内芯片与算力，涉及智能体算力与治理。",
+    "topics/open-weight-frontier-models.md": "Xing4 属于开放权重前沿模型发布。",
+    "topics/agent-scaled-engineering.md": "涉及框架与规模化工程落地。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章核心是前沿智能体模型，与智能体 AI 基础主题直接相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中提到国内芯片与算力，涉及智能体算力与治理。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Xing4 属于开放权重前沿模型发布。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及框架与规模化工程落地。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single Hugging Face paper listing; all claims are attributed to the post and no new topics are created."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "03b179946dd0e551",
+  "url": "https://arxiv.org/abs/2611.21885",
+  "title": "论文",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "03b179946dd0e551984b025c5c0109181a33c8ab2521005dd6c1243f1fb2bdf6",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:09.949Z",
+  "content_hash": "f2cfb4164a30a32b4ba4106eae60f5ef6537615872cca924fc20f20409068935",
+  "article_path": "articles/03b179946dd0e551.md",
+  "fetched_url": "https://arxiv.org/abs/2611.21885",
+  "source_path": "sources/articles/language-models-can-rewrite-their-own-weights.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T11:59:41.792Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论 GLM-5.4 不同档位（High/Max）的适用场景及与其他模型的搭配使用，属模型渠道与取舍问题。",
+    "topics/coding-agent-ux-vs-quota.md": "文章聚焦编程 Agent 的步数、耗时、Token 消耗与用户等待体验，属编程 Agent 体验与额度范畴。",
+    "topics/community-evals-vs-score-hype.md": "文中结论来自博主内测，并提示“稳不稳还得看实测口碑”，涉及社区实测与刷分碰瓷的辨析。",
+    "topics/pro-vs-flash-model-strategy.md": "文章对比 High 与 Max 档位的优劣并给出日常使用建议，属 Pro 与 Flash 类模型策略讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论 GLM-5.4 不同档位（High/Max）的适用场景及与其他模型的搭配使用，属模型渠道与取舍问题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章聚焦编程 Agent 的步数、耗时、Token 消耗与用户等待体验，属编程 Agent 体验与额度范畴。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中结论来自博主内测，并提示“稳不稳还得看实测口碑”，涉及社区实测与刷分碰瓷的辨析。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章对比 High 与 Max 档位的优劣并给出日常使用建议，属 Pro 与 Flash 类模型策略讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均源于 X 帖文及其引用的博主内测，未经独立验证，摘要中已用「帖文称」等表述标注未核实内容。"
+}

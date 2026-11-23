@@ -1,0 +1,23 @@
+{
+  "slug": "4a3f15166b8b63fa",
+  "url": "https://huggingface.co/XingChen-AGI/Xing4.1-Preview",
+  "title": "Hugging Face",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "4a3f15166b8b63fa4119b909476bf917d946b8d3605dd90c4c185d02c7dca36f",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:13.372Z",
+  "content_hash": "842aa2e748cd03372ac1961a710e7641744e3588d9ba35e34a3bad064ac20950",
+  "article_path": "articles/4a3f15166b8b63fa.md",
+  "fetched_url": "https://huggingface.co/XingChen-AGI/Xing4.1-Preview",
+  "source_path": "sources/articles/xing4-1-preview-frontier-agentic-models-for-domestic-chips-and-f.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:10:59.998Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

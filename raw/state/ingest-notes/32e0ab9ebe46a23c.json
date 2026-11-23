@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文核心在于哪些 AI 任务可以放心交付，与该主题直接对应。",
+    "topics/agent-auto-mode.md": "涉及对智能体自动执行的信任程度，与文中“一把梭哈”的态度相关。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "讨论将编程工作调度给编程 Agent，与把项目交给模型的语境相近。",
+    "topics/agent-model-channel-tradeoffs.md": "文中对比 Opus 5.5 与 Neon 两个模型/渠道的信任差异，属于模型选型取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于哪些 AI 任务可以放心交付，与该主题直接对应。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "涉及对智能体自动执行的信任程度，与文中“一把梭哈”的态度相关。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "讨论将编程工作调度给编程 Agent，与把项目交给模型的语境相近。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中对比 Opus 5.5 与 Neon 两个模型/渠道的信任差异，属于模型选型取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为单条 X 帖文，未核实 Opus 5.5 与 Neon 的具体产品属性，仅按帖文原文摘录。"
+}

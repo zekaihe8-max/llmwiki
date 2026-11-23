@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心即「上下文工程」两大原则，与该主题直接对应。",
+    "topics/fold-subagents-into-main-loop.md": "文章主张把子 Agent 折叠进主循环或压缩上下文，而非并行多 Agent，高度契合。",
+    "topics/multiagent-infra-four-problems.md": "文章系统批评多 Agent 基建的四大痛点（上下文碎片、决策冲突、协作不可靠、缺乏专门攻关），与该主题高度重合。",
+    "topics/long-conversation-default-compression.md": "文章提出引入专用压缩模型管理超长上下文，与长对话默认压缩主题呼应。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心即「上下文工程」两大原则，与该主题直接对应。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章主张把子 Agent 折叠进主循环或压缩上下文，而非并行多 Agent，高度契合。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文章系统批评多 Agent 基建的四大痛点（上下文碎片、决策冲突、协作不可靠、缺乏专门攻关），与该主题高度重合。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "文章提出引入专用压缩模型管理超长上下文，与长对话默认压缩主题呼应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://cognition.com/blog/dont-build-multi-agents (Walden Yan, 2025-06-12). All bullets grounded in article claims; no external facts invented."
+}

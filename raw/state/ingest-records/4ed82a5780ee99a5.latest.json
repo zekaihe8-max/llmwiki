@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:01:04.634Z",
+  "url": "https://x.com/dotey/status/2124726140023537849",
+  "slug": "4ed82a5780ee99a5",
+  "content_hash": "3a0b6a02f0e735eaf1abf6e982fb55db836b218e68c12f181bcd48f9e11b65e8",
+  "source": {
+    "path": "sources/articles/glm-5-4-coding-subscription-launches-with-vision-support-and-50.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章涉及编程订阅与每周额度变化，与“编程 Agent 体验与额度”主题直接相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 模型订阅计划及其额度权益，与“高端 AI 订阅价值”相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中提到周额度对比与用量变化，与“用量上限 A/B 测试”主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章涉及编程订阅与每周额度变化，与“编程 Agent 体验与额度”主题直接相关。",
+    "topics/premium-ai-subscription-value.md": "文章讨论 AI 模型订阅计划及其额度权益，与“高端 AI 订阅价值”相关。",
+    "topics/usage-limit-ab-tests.md": "文中提到周额度对比与用量变化，与“用量上限 A/B 测试”主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/glm-5-4-coding-subscription-launches-with-vision-support-and-50.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "文章涉及编程订阅与每周额度变化，与“编程 Agent 体验与额度”主题直接相关。",
+      "topics/premium-ai-subscription-value.md": "文章讨论 AI 模型订阅计划及其额度权益，与“高端 AI 订阅价值”相关。",
+      "topics/usage-limit-ab-tests.md": "文中提到周额度对比与用量变化，与“用量上限 A/B 测试”主题相近。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/glm-5-4-coding-subscription-launches-with-vision-support-and-50.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

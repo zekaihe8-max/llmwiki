@@ -1,0 +1,23 @@
+{
+  "slug": "a05f23a2b97b717a",
+  "url": "https://github.com/trina-app/trina-ax",
+  "title": "GitHub",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "a05f23a2b97b717a107e41b29ed2d0c38a3981b645d9dd4a5a5cd21106cbc866",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:31.414Z",
+  "content_hash": "0bf3b5b0a74bc1cf7ff1675b6a8fd54897b26a82f22901205b016c388ba28647",
+  "article_path": "articles/a05f23a2b97b717a.md",
+  "fetched_url": "https://github.com/trina-app/trina-ax",
+  "source_path": "sources/articles/trina-ax-team-shared-ai-server.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:52:30.653Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

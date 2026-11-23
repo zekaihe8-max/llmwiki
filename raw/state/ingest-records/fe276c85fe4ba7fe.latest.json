@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-23T12:18:44.925Z",
+  "url": "https://www.dreamcoder.ai/",
+  "slug": "fe276c85fe4ba7fe",
+  "content_hash": "251c7a181f492e686ef119cd97272369a843437a1bf1deb4fa2d4cf0aed01b97",
+  "source": {
+    "path": "sources/articles/dreamcoder-tiling-workspace-for-ai-agents-in-the-browser.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/company-agent-harness.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是单窗口并行管理数十个智能体，属于智能体规模化工程的典型实践。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "DreamCoder 提供面板、事件图、目标、子智能体、MCP 接入等 Harness 核心原语，符合公司级 Agent Harness 定义。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "主智能体派发多个后台子智能体并行、汇总汇报，体现个人 Agent 当包工头调度编程 Agent 的模式。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "产品强调键盘优先、平铺窗口、Winch 快捷键、全保真渲染等极致 UX/DX/AX 体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是单窗口并行管理数十个智能体，属于智能体规模化工程的典型实践。",
+    "topics/company-agent-harness.md": "DreamCoder 提供面板、事件图、目标、子智能体、MCP 接入等 Harness 核心原语，符合公司级 Agent Harness 定义。",
+    "topics/ux-dx-and-ax.md": "产品强调键盘优先、平铺窗口、Winch 快捷键、全保真渲染等极致 UX/DX/AX 体验。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "主智能体派发多个后台子智能体并行、汇总汇报，体现个人 Agent 当包工头调度编程 Agent 的模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/dreamcoder-tiling-workspace-for-ai-agents-in-the-browser.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/company-agent-harness.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "文章核心是单窗口并行管理数十个智能体，属于智能体规模化工程的典型实践。",
+      "topics/company-agent-harness.md": "DreamCoder 提供面板、事件图、目标、子智能体、MCP 接入等 Harness 核心原语，符合公司级 Agent Harness 定义。",
+      "topics/ux-dx-and-ax.md": "产品强调键盘优先、平铺窗口、Winch 快捷键、全保真渲染等极致 UX/DX/AX 体验。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "主智能体派发多个后台子智能体并行、汇总汇报，体现个人 Agent 当包工头调度编程 Agent 的模式。"
+    },
+    "notes": "Source is the official DreamCoder website (https://www.dreamcoder.ai/). All facts are drawn from the fetched markdown; no external URLs invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/dreamcoder-tiling-workspace-for-ai-agents-in-the-browser.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

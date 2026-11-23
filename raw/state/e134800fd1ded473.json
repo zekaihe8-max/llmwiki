@@ -1,0 +1,23 @@
+{
+  "slug": "e134800fd1ded473",
+  "url": "https://x.com/heydengai/status/2124804398496821254",
+  "title": "把好好的 Playwright 脚本改成 Browser Agent，不一定更聪明",
+  "digest": "2026-11-23-cn-x.md",
+  "status": "filed",
+  "hash": "e134800fd1ded473ad93aa74439a76a154e0971a76a9c50744a5875e84ece736",
+  "first_seen": "2026-11-23T11:56:08.266Z",
+  "last_seen": "2026-11-23T11:56:08.266Z",
+  "fetched_at": "2026-11-23T11:56:30.768Z",
+  "content_hash": "0644ae9e305f0d05b01c320c0799d7af6851eff924cd23cc920ef48df6b3dc52",
+  "article_path": "articles/e134800fd1ded473.md",
+  "fetched_url": "https://x.com/heydengai/status/2124804398496821254",
+  "source_path": "sources/articles/replacing-a-working-playwright-script-with-a-browser-agent-isn-t.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-23T12:49:45.722Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
