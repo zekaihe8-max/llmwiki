@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章涉及“技能（skills）”概念，与该主题的 Agent Skill 编写密切相关，但本文为产品发布帖，无需修改。",
+    "topics/agent-skills-open-standard.md": "插件整合技能与连接器，与 Agent Skills 开放标准主题相近，但本文不涉及标准细节，保持不变。",
+    "topics/loose-web-agent-harness-plugins.md": "标题包含“插件”与 Agent Harness 相关，与 Claude 插件发布主题相近，但本文不讨论网页管控或界面碎片化，保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章涉及“技能（skills）”概念，与该主题的 Agent Skill 编写密切相关，但本文为产品发布帖，无需修改。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "插件整合技能与连接器，与 Agent Skills 开放标准主题相近，但本文不涉及标准细节，保持不变。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "标题包含“插件”与 Agent Harness 相关，与 Claude 插件发布主题相近，但本文不讨论网页管控或界面碎片化，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/code-over-spec.md": "文章核心主张是代码约定应优先于过时的指令文件，与“代码重于规格”主题直接相关。",
+    "topics/agents-md-token-efficiency.md": "文章讨论 CLAUDE.md/AGENTS.md 等项目指令文件，与该主题的项目指令与 Token 效率相近。",
+    "topics/context-engineering-for-agents.md": "过时指令文件属于 Agent 上下文工程问题，主题与文章语境相关。",
+    "topics/claude-code-authorship-and-voice.md": "文章聚焦 Claude Code 行为，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章核心主张是代码约定应优先于过时的指令文件，与“代码重于规格”主题直接相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章讨论 CLAUDE.md/AGENTS.md 等项目指令文件，与该主题的项目指令与 Token 效率相近。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "过时指令文件属于 Agent 上下文工程问题，主题与文章语境相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Claude Code 行为，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

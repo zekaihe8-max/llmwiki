@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini 模型系列的发布与定位，与新模型面向企业客户推出相关。",
+    "topics/premium-ai-subscription-value.md": "Google Workspace 客户属于付费/企业订阅群体，与高端 AI 订阅价值相近。",
+    "topics/in-app-model-partnerships.md": "新模型通过 Gemini App 分发，属于应用内模型推送与合作场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini 模型系列的发布与定位，与新模型面向企业客户推出相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Google Workspace 客户属于付费/企业订阅群体，与高端 AI 订阅价值相近。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "新模型通过 Gemini App 分发，属于应用内模型推送与合作场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

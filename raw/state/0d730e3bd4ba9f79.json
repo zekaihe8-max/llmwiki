@@ -1,0 +1,23 @@
+{
+  "slug": "0d730e3bd4ba9f79",
+  "url": "https://x.com/GoogleDeepMind/status/2124911075875258776",
+  "title": "续帖",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "0d730e3bd4ba9f798fa0c582b9ddb6837a46a12cf4f1328bb90a25d6cca9d7ef",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:37.685Z",
+  "content_hash": "b156b95e85dd29ec1f0aa64f2d6fbb6aa3a190a6c8c68d4fb0f5c268d6534829",
+  "article_path": "articles/0d730e3bd4ba9f79.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2124911075875258776",
+  "source_path": "sources/articles/google-deepmind-says-gemini-agent-teams-built-quantum-circuits-c.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:23:06.728Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

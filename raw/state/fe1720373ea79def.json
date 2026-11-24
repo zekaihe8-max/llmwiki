@@ -1,0 +1,23 @@
+{
+  "slug": "fe1720373ea79def",
+  "url": "https://x.com/fchollet/status/2124942035841151448",
+  "title": "Chollet · 智能系统只有两套适应时间尺度",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "fe1720373ea79def5a4ca8ec15ef5459736eeb345e0983799efef400207765cf",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:39.790Z",
+  "content_hash": "3613e03364d13d58b2bcaa196af86aac0974be3a36a007cfbd2c1df21a58c37e",
+  "article_path": "articles/fe1720373ea79def.md",
+  "fetched_url": "https://x.com/fchollet/status/2124942035841151448",
+  "source_path": "sources/articles/intelligent-systems-have-only-two-adaptation-timescales.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:26:30.759Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

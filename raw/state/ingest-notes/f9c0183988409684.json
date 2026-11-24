@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-native-web-search.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文明确将更新限定在 Plus、Pro、Business 和 Enterprise 等付费订阅层级，与高端 AI 订阅价值主题直接相关。",
+    "topics/agent-native-web-search.md": "帖文提到模型能联网查找信息并帮助在线比较选项，与面向 Agent 的联网搜索重做主题相近。",
+    "topics/ai-product-self-rec-amplify.md": "OpenAI 通过官方 ChatGPT 账号自行宣布并推广自家模型更新，符合 AI 产品自荐与主持人加热主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文明确将更新限定在 Plus、Pro、Business 和 Enterprise 等付费订阅层级，与高端 AI 订阅价值主题直接相关。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "帖文提到模型能联网查找信息并帮助在线比较选项，与面向 Agent 的联网搜索重做主题相近。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "OpenAI 通过官方 ChatGPT 账号自行宣布并推广自家模型更新，符合 AI 产品自荐与主持人加热主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 23 日，属未来日期；所有主张均基于该帖文内容，未独立核实。"
+}

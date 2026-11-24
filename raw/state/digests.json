@@ -238,5 +238,10 @@
     "content_hash": "74b5738c2345360095aaf44e4706840dc61af3be625eb85ec3661c3bc26a2ff4",
     "ingested_at": "2026-11-23T11:56:08.266Z",
     "urls": 43
+  },
+  "2026-11-24-frontier-ai.md": {
+    "content_hash": "84fbd33a710b825fc9ea99c6c41f43077048c0a057ea05a72a2fd0f5f4c2a6eb",
+    "ingested_at": "2026-11-24T00:16:34.121Z",
+    "urls": 31
   }
 }

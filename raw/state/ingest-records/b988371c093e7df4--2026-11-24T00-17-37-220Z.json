@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:17:37.220Z",
+  "url": "https://x.com/bcherny/status/2124961485801836573",
+  "slug": "b988371c093e7df4",
+  "content_hash": "3bbd9d074b10066569251493cea0f70dfb90c2d76872395d93b76ed912948f88",
+  "source": {
+    "path": "sources/articles/boris-cherny-announces-claude-ship-beta.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文由 Claude Code 相关人物发布，涉及 AI 编写代码与作者身份，主题高度相关。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "Claude Ship 能按策略审阅并批准 PR，与确定性自动合入拉取请求的主题相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文强调以写代码的速度发布代码，与软件工厂/自动化交付主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文由 Claude Code 相关人物发布，涉及 AI 编写代码与作者身份，主题高度相关。",
+    "topics/deterministic-refactor-automerge.md": "Claude Ship 能按策略审阅并批准 PR，与确定性自动合入拉取请求的主题相近。",
+    "topics/software-factory.md": "帖文强调以写代码的速度发布代码，与软件工厂/自动化交付主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/boris-cherny-announces-claude-ship-beta.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/deterministic-refactor-automerge.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "帖文由 Claude Code 相关人物发布，涉及 AI 编写代码与作者身份，主题高度相关。",
+      "topics/deterministic-refactor-automerge.md": "Claude Ship 能按策略审阅并批准 PR，与确定性自动合入拉取请求的主题相近。",
+      "topics/software-factory.md": "帖文强调以写代码的速度发布代码，与软件工厂/自动化交付主题相关。"
+    },
+    "notes": "仅基于推文内容，未引用外部链接或未在文中出现的事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/boris-cherny-announces-claude-ship-beta.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

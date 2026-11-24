@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:32:51.345Z",
+  "url": "https://x.com/mattpocockuk/status/2124797717834543167",
+  "slug": "07959156a4c78f81",
+  "content_hash": "72ad1dcf855e469eeeed1000bb54532fcd98d5e922476319cadfb878b79acc67",
+  "source": {
+    "path": "sources/articles/matt-pocock-a-shared-board-for-humans-and-agents-most-teams-shou.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-in-inbox.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "文中强调每个智能体和人类在看板上拥有独立身份，与 Agent 身份主题相关"
+    },
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "文中提到未读消息队列与本地智能体唤醒后处理，与 Agent 进收件箱相关"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章讨论公司级人机协作基础设施，与公司级 Agent Harness 主题高度相关"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文中涉及多智能体协作环境与基础设施设计，与多智能体四道基建题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "文章讨论公司级人机协作基础设施，与公司级 Agent Harness 主题高度相关",
+    "topics/agent-in-inbox.md": "文中提到未读消息队列与本地智能体唤醒后处理，与 Agent 进收件箱相关",
+    "topics/agent-identity-platform-keys.md": "文中强调每个智能体和人类在看板上拥有独立身份，与 Agent 身份主题相关",
+    "topics/multiagent-infra-four-problems.md": "文中涉及多智能体协作环境与基础设施设计，与多智能体四道基建题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/matt-pocock-a-shared-board-for-humans-and-agents-most-teams-shou.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/agent-in-inbox.md",
+      "topics/agent-identity-platform-keys.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "文章讨论公司级人机协作基础设施，与公司级 Agent Harness 主题高度相关",
+      "topics/agent-in-inbox.md": "文中提到未读消息队列与本地智能体唤醒后处理，与 Agent 进收件箱相关",
+      "topics/agent-identity-platform-keys.md": "文中强调每个智能体和人类在看板上拥有独立身份，与 Agent 身份主题相关",
+      "topics/multiagent-infra-four-problems.md": "文中涉及多智能体协作环境与基础设施设计，与多智能体四道基建题相关"
+    },
+    "notes": "Source is an X post by @mattpocockuk dated Nov 23, 2026 per the fetched markdown; no new topics created.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/matt-pocock-a-shared-board-for-humans-and-agents-most-teams-shou.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "b5129d6fc89af52d",
+  "url": "https://claude.com/resources/articles/introducing-claude-ship",
+  "title": "说明",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "b5129d6fc89af52dbb221093582b3062f27076437d52e78fc40a0d58a7f3445f",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:35.178Z",
+  "content_hash": "cb66d56e5799d554347fcd86e2bdeb0eae899902a3d899a32156f51992c318d6",
+  "article_path": "articles/b5129d6fc89af52d.md",
+  "fetched_url": "https://claude.com/resources/articles/introducing-claude-ship",
+  "source_path": "sources/articles/introducing-claude-ship-ai-powered-pull-request-review-fix-and-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:35:20.722Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

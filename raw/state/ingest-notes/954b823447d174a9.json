@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-native-web-search.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文中网站顺序、先行对话和标题修改都属于上下文工程变量，直接影响智能体输出。",
+    "topics/agent-native-web-search.md": "AI 购物场景涉及智能体浏览网站并给出建议，与面向 Agent 的联网搜索密切相关。",
+    "topics/geo-personal-website-first-step.md": "如何在智能体推荐中获得曝光属于生成式引擎优化（GEO）范畴，与个人网站可见性相关。",
+    "topics/ai-product-self-rec-amplify.md": "AI 建议易变直接关联 AI 产品自荐与主持人加热的分发机制。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文中网站顺序、先行对话和标题修改都属于上下文工程变量，直接影响智能体输出。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "AI 购物场景涉及智能体浏览网站并给出建议，与面向 Agent 的联网搜索密切相关。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "如何在智能体推荐中获得曝光属于生成式引擎优化（GEO）范畴，与个人网站可见性相关。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "AI 建议易变直接关联 AI 产品自荐与主持人加热的分发机制。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 Ethan Mollick 帖文及其引用的 Olivia Moore 帖文，未独立核实 Wharton 研究细节。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:25:57.664Z",
+  "url": "https://x.com/OfficialLoganK/status/2125018427790344654",
+  "slug": "be89688e62be2632",
+  "content_hash": "14b311d4a2052d99186c8c09031a317707a05d6358156bfff1f85accd946fa92",
+  "source": {
+    "path": "sources/articles/gemini-4-neon-rolled-out-to-google-workspace-customers.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "新模型通过 Gemini App 分发，属于应用内模型推送与合作场景。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Google Workspace 客户属于付费/企业订阅群体，与高端 AI 订阅价值相近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini 模型系列的发布与定位，与新模型面向企业客户推出相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini 模型系列的发布与定位，与新模型面向企业客户推出相关。",
+    "topics/premium-ai-subscription-value.md": "Google Workspace 客户属于付费/企业订阅群体，与高端 AI 订阅价值相近。",
+    "topics/in-app-model-partnerships.md": "新模型通过 Gemini App 分发，属于应用内模型推送与合作场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-4-neon-rolled-out-to-google-workspace-customers.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/in-app-model-partnerships.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini 模型系列的发布与定位，与新模型面向企业客户推出相关。",
+      "topics/premium-ai-subscription-value.md": "Google Workspace 客户属于付费/企业订阅群体，与高端 AI 订阅价值相近。",
+      "topics/in-app-model-partnerships.md": "新模型通过 Gemini App 分发，属于应用内模型推送与合作场景。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-4-neon-rolled-out-to-google-workspace-customers.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

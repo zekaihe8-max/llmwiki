@@ -1,0 +1,23 @@
+{
+  "slug": "9e05a0ed78e81d22",
+  "url": "https://x.com/GoogleDeepMind/status/2124911073266413634",
+  "title": "DeepMind",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "9e05a0ed78e81d22e4dad031493844d59b4fd3eea875a96e809faf68b6edb77c",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:37.209Z",
+  "content_hash": "066096f71cb1fed2896ad78aff48482f9357e14e0b324a5d5a010fea780380e4",
+  "article_path": "articles/9e05a0ed78e81d22.md",
+  "fetched_url": "https://x.com/GoogleDeepMind/status/2124911073266413634",
+  "source_path": "sources/articles/google-deepmind-says-gemini-multi-agent-teams-built-quantum-circ.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:22:23.287Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

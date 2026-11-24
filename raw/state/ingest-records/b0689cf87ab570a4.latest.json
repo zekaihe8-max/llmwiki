@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:21:55.562Z",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "slug": "b0689cf87ab570a4",
+  "content_hash": "70dc8598c7a3be43081688287867bd0c09e54525520591c478d0a927f698a8f2",
+  "source": {
+    "path": "sources/articles/openai-and-cisco-introduce-shirudo.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-models-cyber-defense.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Shirudo 旨在保护运行中的 Linux 系统与资产，属于资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文中提及加密签名、eBPF 验证与 TPM 可验证记录，与形式化验证主题相关。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文章聚焦开源网络防御工具 Shirudo，与开源模型及网安防御主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-models-cyber-defense.md": "文章聚焦开源网络防御工具 Shirudo，与开源模型及网安防御主题高度相关。",
+    "topics/account-and-asset-security-hygiene.md": "Shirudo 旨在保护运行中的 Linux 系统与资产，属于资产安全卫生范畴。",
+    "topics/llm-formal-verification.md": "文中提及加密签名、eBPF 验证与 TPM 可验证记录，与形式化验证主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-and-cisco-introduce-shirudo.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-models-cyber-defense.md",
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/llm-formal-verification.md"
+    ],
+    "selection_reasons": {
+      "topics/open-models-cyber-defense.md": "文章聚焦开源网络防御工具 Shirudo，与开源模型及网安防御主题高度相关。",
+      "topics/account-and-asset-security-hygiene.md": "Shirudo 旨在保护运行中的 Linux 系统与资产，属于资产安全卫生范畴。",
+      "topics/llm-formal-verification.md": "文中提及加密签名、eBPF 验证与 TPM 可验证记录，与形式化验证主题相关。"
+    },
+    "notes": "所有内容均基于提供的 OpenAI 博客文章，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-and-cisco-introduce-shirudo.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

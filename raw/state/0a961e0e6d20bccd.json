@@ -1,0 +1,23 @@
+{
+  "slug": "0a961e0e6d20bccd",
+  "url": "https://vercel.com/blog/introducing-vercel-board",
+  "title": "Vercel 说明",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "0a961e0e6d20bccdd5d522d661139c26554fd6abb01f1dd901d8cd15ca5d5b73",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:46.106Z",
+  "content_hash": "1658c23e72dae046bbd863d44cc952c2d1838b8c3504586fa88c204d1f6a7c18",
+  "article_path": "articles/0a961e0e6d20bccd.md",
+  "fetched_url": "https://vercel.com/blog/introducing-vercel-board",
+  "source_path": "sources/articles/vercel-board-an-experimental-agentic-primitive-for-multi-agent-c.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:33:16.262Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

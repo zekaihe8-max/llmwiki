@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "零数据保留涉及云端 AI 的数据不留存与机密处理，与机密计算主题最贴近。",
+    "topics/tech-misuse-concern-continuity.md": "帖文提到跨请求滥用检测，属于技术滥用关切的连续性讨论。",
+    "topics/local-desensitization-before-models.md": "ZDR 属于数据脱敏与隐私保护范畴，与本地脱敏主题相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "面向合格企业的公测版涉及企业级 AI 部署，与企业 AI 主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "零数据保留涉及云端 AI 的数据不留存与机密处理，与机密计算主题最贴近。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文提到跨请求滥用检测，属于技术滥用关切的连续性讨论。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "ZDR 属于数据脱敏与隐私保护范畴，与本地脱敏主题相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "面向合格企业的公测版涉及企业级 AI 部署，与企业 AI 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文原文，未引入外部事实。"
+}

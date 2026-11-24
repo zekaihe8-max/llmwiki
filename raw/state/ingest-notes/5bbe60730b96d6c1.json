@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/code-over-spec.md": "文章核心正是代码应优先于指令文件/规格，与该主题直接对应。",
+    "topics/agents-md-token-efficiency.md": "涉及 AGENTS.md 等项目级指令文件，与论文研究对象相关。",
+    "topics/context-engineering-for-agents.md": "论文将行为归因于 Agent 接收两类上下文（指令 vs 工具输出）的方式，属上下文工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章核心正是代码应优先于指令文件/规格，与该主题直接对应。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "涉及 AGENTS.md 等项目级指令文件，与论文研究对象相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "论文将行为归因于 Agent 接收两类上下文（指令 vs 工具输出）的方式，属上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 arXiv 摘要页面，未引入页面外信息。"
+}

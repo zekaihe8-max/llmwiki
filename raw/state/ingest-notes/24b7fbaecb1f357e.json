@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "报告核心考察上下文层（来源、顺序、记忆、工具调用）如何改变智能体决策，与 Agent 上下文工程主题高度相关。",
+    "topics/agent-auto-mode.md": "文章研究购物智能体代用用户搜索、浏览并购买，属于智能体自动模式场景。",
+    "topics/agent-native-web-search.md": "购物代理需要联网搜索和浏览商品页面，与面向 Agent 的联网搜索重做主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "报告核心考察上下文层（来源、顺序、记忆、工具调用）如何改变智能体决策，与 Agent 上下文工程主题高度相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章研究购物智能体代用用户搜索、浏览并购买，属于智能体自动模式场景。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "购物代理需要联网搜索和浏览商品页面，与面向 Agent 的联网搜索重做主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://gail.wharton.upenn.edu/research-and-insights/technical-report-agentic-shopping; full report via SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7355899"
+}

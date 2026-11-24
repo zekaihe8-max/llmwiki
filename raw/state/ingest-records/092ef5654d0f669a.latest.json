@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:25:33.914Z",
+  "url": "https://x.com/ChatGPT/status/2124981905380569283",
+  "slug": "092ef5654d0f669a",
+  "content_hash": "0c0aaee6374358d1a13394d4da973753c0e76559126af75a7b661afe3d09616f",
+  "source": {
+    "path": "sources/articles/chatgpt-deprecates-gpt-5-6-sol-and-terra.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及高端订阅与模型访问价值，与模型停用对用户影响相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型选型与策略，与模型停用生命周期最为相近"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及模型可用性与用量限制，与停用后的访问变化相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型选型与策略，与模型停用生命周期最为相近",
+    "topics/usage-limit-ab-tests.md": "涉及模型可用性与用量限制，与停用后的访问变化相关",
+    "topics/premium-ai-subscription-value.md": "涉及高端订阅与模型访问价值，与模型停用对用户影响相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/chatgpt-deprecates-gpt-5-6-sol-and-terra.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及模型选型与策略，与模型停用生命周期最为相近",
+      "topics/usage-limit-ab-tests.md": "涉及模型可用性与用量限制，与停用后的访问变化相关",
+      "topics/premium-ai-subscription-value.md": "涉及高端订阅与模型访问价值，与模型停用对用户影响相关"
+    },
+    "notes": "所有主张均基于 X 帖文内容，未引用外部事实",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/chatgpt-deprecates-gpt-5-6-sol-and-terra.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

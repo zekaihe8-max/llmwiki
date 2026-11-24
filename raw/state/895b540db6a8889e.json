@@ -1,0 +1,34 @@
+{
+  "slug": "895b540db6a8889e",
+  "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+  "title": "博客",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "failed",
+  "hash": "895b540db6a8889e694ca9f9b509808f44f14c578e93735626eea109f5cda62f",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:37.956Z",
+  "content_hash": "3b8b337767d3bfce498abef5665a7fce0b92c53d7980f0d64497a6ae3c300899",
+  "article_path": "articles/895b540db6a8889e.md",
+  "fetched_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "source_path": null,
+  "error": "official --retry-failed: fetch body unchanged; pipeline snapshot still related-card chrome only (364 bytes, AlphaEvolve teaser), not the official article body. Official curl HTML 200 has the full article, but ingest extract is unusable. Left failed; no Source filed from this snapshot.",
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [
+    {
+      "at": "2026-11-24T00:35:30.562360Z",
+      "stage": "semantic-review",
+      "error": "pipeline extract was related-card chrome only (AlphaEvolve teaser), not the official article body; semantically failed (JS/DOM extract miss). Official HTML has the article but ingest snapshot is not usable. Do not file a Source from this snapshot."
+    },
+    {
+      "at": "2026-11-24T00:36:58.262532Z",
+      "stage": "semantic-review-after-official-retry",
+      "error": "official --retry-failed: fetch body unchanged; pipeline snapshot still related-card chrome only (364 bytes, AlphaEvolve teaser), not the official article body. Official curl HTML 200 has the full article, but ingest extract is unusable. Left failed; no Source filed from this snapshot."
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "official --retry-failed: fetch body unchanged; pipeline snapshot still related-card chrome only (364 bytes, AlphaEvolve teaser), not the official article body. Official curl HTML 200 has the full article, but ingest extract is unusable. Left failed; no Source filed from this snapshot.",
+  "last_fetch_failed_at": "2026-11-24T00:36:58.262532Z"
+}

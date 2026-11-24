@@ -1,0 +1,23 @@
+{
+  "slug": "f9c0183988409684",
+  "url": "https://x.com/ChatGPT/status/2124942186425069836",
+  "title": "Sol",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "f9c01839884096847d8e0eca5a792e1d0c7248969c0cf30751b950b05b1382b7",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:38.746Z",
+  "content_hash": "dbfd84bade266b1d6872d600da24a6fc0cb0331ec38c113612a17fdd28b82747",
+  "article_path": "articles/f9c0183988409684.md",
+  "fetched_url": "https://x.com/ChatGPT/status/2124942186425069836",
+  "source_path": "sources/articles/chatgpt-rolls-out-gpt-6-2-sol-version.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:25:05.087Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "1475b63ec37aeffc",
+  "url": "https://frontier.replit.com/throwing-headcount-at-the-problem",
+  "title": "文章",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "1475b63ec37aeffcbc874240ad0fc5b4b9d7a03775613d30304a9b1617d5135b",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:41.890Z",
+  "content_hash": "9e0b0aec26a4508c2c9fceeee07bb0f6ec7df8fd91bd26af148e4966531166dd",
+  "article_path": "articles/1475b63ec37aeffc.md",
+  "fetched_url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+  "source_path": "sources/articles/agent-swarms-for-performance-engineering-coordination-topology-d.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:31:02.945Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

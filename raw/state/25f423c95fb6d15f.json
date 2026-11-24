@@ -1,0 +1,23 @@
+{
+  "slug": "25f423c95fb6d15f",
+  "url": "https://x.com/ClaudeDevs/status/2124959436640858475",
+  "title": "Ship",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "25f423c95fb6d15fced53002ad630083d77949774583d1b8fc96067ff9bb4fc0",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:34.285Z",
+  "content_hash": "2a79e60a4789a10ec4dc2648787f9b38f508d75564737d9817965ce444a0fee9",
+  "article_path": "articles/25f423c95fb6d15f.md",
+  "fetched_url": "https://x.com/ClaudeDevs/status/2124959436640858475",
+  "source_path": "sources/articles/claude-ship-beta-ai-pull-request-review-and-automated-fixes.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:17:14.566Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

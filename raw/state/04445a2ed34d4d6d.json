@@ -1,0 +1,23 @@
+{
+  "slug": "04445a2ed34d4d6d",
+  "url": "https://x.com/claudeai/status/2124929944530587712",
+  "title": "ZDR",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "04445a2ed34d4d6d1110b4de67544d7a6edb67cedc65ca06a855ceea3835781f",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:35.702Z",
+  "content_hash": "d524b0ee4e4f56835bf247a7efb46376a70ef33070419b4d510dcf97978b1948",
+  "article_path": "articles/04445a2ed34d4d6d.md",
+  "fetched_url": "https://x.com/claudeai/status/2124929944530587712",
+  "source_path": "sources/articles/claude-launches-zero-data-retention-with-enterprise-frontier-saf.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:19:05.775Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

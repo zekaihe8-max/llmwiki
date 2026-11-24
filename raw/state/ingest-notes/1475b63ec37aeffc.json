@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章核心是智能体规模化工程中蜂群与单代理的对比，直接相关。",
+    "topics/multiagent-infra-four-problems.md": "涉及多智能体协作基建与消息拓扑，与文中看板/直消息分析相关。",
+    "topics/agent-compute-and-governance.md": "文中每个代理分配 8 vCPU、16 GiB 内存、两小时窗口，涉及算力与治理。",
+    "topics/software-factory.md": "文中 Replit Missions 让代理蜂群执行真实工程目标，类似软件工厂场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体规模化工程中蜂群与单代理的对比，直接相关。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "涉及多智能体协作基建与消息拓扑，与文中看板/直消息分析相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中每个代理分配 8 vCPU、16 GiB 内存、两小时窗口，涉及算力与治理。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中 Replit Missions 让代理蜂群执行真实工程目标，类似软件工厂场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

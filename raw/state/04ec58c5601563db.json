@@ -1,0 +1,23 @@
+{
+  "slug": "04ec58c5601563db",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls",
+  "title": "说明",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "04ec58c5601563db1c2040dc9dba1006daf39c883ab96135149ca39b838de541",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:38.540Z",
+  "content_hash": "aae518f02b6ebaab8208e7ca3eb3fddf8ca20e2f36da701cfdd7783eb7415357",
+  "article_path": "articles/04ec58c5601563db.md",
+  "fetched_url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+  "source_path": "sources/articles/introducing-file-slicing-controls-in-the-gemini-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:24:35.461Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

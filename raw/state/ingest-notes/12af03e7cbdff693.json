@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文核心观点直接涉及“智能体研究”，与智能体基础主题高度相关。",
+    "topics/software-factory.md": "肖莱把软件带来的模拟成本降低比作硬件飞跃，与软件工厂通过软件实现规模化产出的逻辑相近。",
+    "topics/agent-scaled-engineering.md": "谷歌深度思维使用“团队”智能体构建量子电路，涉及智能体规模化工程。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点直接涉及“智能体研究”，与智能体基础主题高度相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "肖莱把软件带来的模拟成本降低比作硬件飞跃，与软件工厂通过软件实现规模化产出的逻辑相近。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "谷歌深度思维使用“团队”智能体构建量子电路，涉及智能体规模化工程。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台帖文，未核实主张已用「帖文称」标注。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/agent-swarms-cyber-defense.md"
+  ],
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "EFS 体现机密计算理念：数据全程留在客户自管基础设施，云厂商与模型方均不可见，符合机密计算与云端 AI 的核心议题。",
+    "topics/tech-misuse-concern-continuity.md": "文章核心是通过自动化安全监控持续应对技术滥用关切，且跨请求检测体现关切的连续性演进。",
+    "topics/local-desensitization-before-models.md": "EFS 要求数据在本地/自管存储完成处理，模型方仅在客户环境内运行监控，契合‘发模型前本地脱敏’的数据最小化原则。",
+    "topics/agent-swarms-cyber-defense.md": "威胁情报报告示例涉及 Agent 协同的网络攻击，EFS 正是针对此类 Agent Swarm 滥用场景设计的防御层。"
+  },
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "EFS 体现机密计算理念：数据全程留在客户自管基础设施，云厂商与模型方均不可见，符合机密计算与云端 AI 的核心议题。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "文章核心是通过自动化安全监控持续应对技术滥用关切，且跨请求检测体现关切的连续性演进。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "EFS 要求数据在本地/自管存储完成处理，模型方仅在客户环境内运行监控，契合‘发模型前本地脱敏’的数据最小化原则。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "威胁情报报告示例涉及 Agent 协同的网络攻击，EFS 正是针对此类 Agent Swarm 滥用场景设计的防御层。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Article date is November 23, 2026 (future relative to 2025); all facts sourced from the provided markdown. No external URLs invented."
+}

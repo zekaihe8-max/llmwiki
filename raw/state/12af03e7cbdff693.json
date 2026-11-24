@@ -1,0 +1,23 @@
+{
+  "slug": "12af03e7cbdff693",
+  "url": "https://x.com/fchollet/status/2124926345948148042",
+  "title": "评论",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "12af03e7cbdff693cce5b4a2ab430f1143c801bccab847194f76e05c8710a9db",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:40.191Z",
+  "content_hash": "c3ab96238429973d0ea507c2f4203dd173568b156b8fe547f924e90e9aba9f4a",
+  "article_path": "articles/12af03e7cbdff693.md",
+  "fetched_url": "https://x.com/fchollet/status/2124926345948148042",
+  "source_path": "sources/articles/fran-ois-chollet-comments-on-google-deepmind-s-quantum-circuit-w.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:27:10.011Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

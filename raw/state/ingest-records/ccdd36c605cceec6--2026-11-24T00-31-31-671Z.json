@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:31:31.671Z",
+  "url": "https://x.com/lennysan/status/2124880663149002996",
+  "slug": "ccdd36c605cceec6",
+  "content_hash": "2c74cd4f795c2ec4352331764cbb107e61538229dcd79d1e2888693d3a9a60fe",
+  "source": {
+    "path": "sources/articles/everyone-tries-building-atlassian-s-ai-builder-experiment.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/code-over-spec.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 原生公司与“全员构建者”式团队组织，与 Atlassian 实验主题相近。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "聚焦代码/构建优于规格的倾向，与“无 PM/设计师、只有 Builder”的实验背景相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "关注大厂 AI 岗位与编制变化，对应 Atlassian 招聘更多初级人才及角色演变。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及设计与产品角色价值，对应帖文中“设计比以往更重要”的论点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论 AI 原生公司与“全员构建者”式团队组织，与 Atlassian 实验主题相近。",
+    "topics/ux-dx-and-ax.md": "涉及设计与产品角色价值，对应帖文中“设计比以往更重要”的论点。",
+    "topics/code-over-spec.md": "聚焦代码/构建优于规格的倾向，与“无 PM/设计师、只有 Builder”的实验背景相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "关注大厂 AI 岗位与编制变化，对应 Atlassian 招聘更多初级人才及角色演变。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/everyone-tries-building-atlassian-s-ai-builder-experiment.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/code-over-spec.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "讨论 AI 原生公司与“全员构建者”式团队组织，与 Atlassian 实验主题相近。",
+      "topics/ux-dx-and-ax.md": "涉及设计与产品角色价值，对应帖文中“设计比以往更重要”的论点。",
+      "topics/code-over-spec.md": "聚焦代码/构建优于规格的倾向，与“无 PM/设计师、只有 Builder”的实验背景相关。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "关注大厂 AI 岗位与编制变化，对应 Atlassian 招聘更多初级人才及角色演变。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/everyone-tries-building-atlassian-s-ai-builder-experiment.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
