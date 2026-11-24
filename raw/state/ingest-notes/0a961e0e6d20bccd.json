@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "文中明确提到 v0 软件工厂已在 Board 上重建，并通过其合入超 50% PR，与该主题直接相关。",
+    "topics/agent-swarms-cyber-defense.md": "文中描述安全智能体成群分析代码库并推送修复，属于 Agent Swarm 协作场景。",
+    "topics/multiagent-infra-four-problems.md": "Board 定位为多智能体协作的基建原语，涉及任务追踪、委派与状态同步等基建问题。",
+    "topics/company-agent-harness.md": "文中强调 Board 与工具链无关，兼容多种 Agent Harness，与公司级 Agent Harness 主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 v0 软件工厂已在 Board 上重建，并通过其合入超 50% PR，与该主题直接相关。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文中描述安全智能体成群分析代码库并推送修复，属于 Agent Swarm 协作场景。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Board 定位为多智能体协作的基建原语，涉及任务追踪、委派与状态同步等基建问题。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中强调 Board 与工具链无关，兼容多种 Agent Harness，与公司级 Agent Harness 主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "摘要中对内部使用情况与 PR 比例引用自原文，未独立核实。"
+}

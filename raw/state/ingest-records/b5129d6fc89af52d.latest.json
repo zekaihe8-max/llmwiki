@@ -1,0 +1,56 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:35:20.718Z",
+  "url": "https://claude.com/resources/articles/introducing-claude-ship",
+  "slug": "b5129d6fc89af52d",
+  "content_hash": "cb66d56e5799d554347fcd86e2bdeb0eae899902a3d899a32156f51992c318d6",
+  "source": {
+    "path": "sources/articles/introducing-claude-ship-ai-powered-pull-request-review-fix-and-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deterministic-refactor-automerge.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "文章介绍按仓库策略审 PR、跟进修改和批准，与约束重构 PR 的确定性自动合入主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Claude Ship 把评审、修复和批准收成一套以加快合并，与智能体规模化工程主题相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "该功能面向团队把写代码到合入的流程产品化，与软件工厂主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中讨论 Code Review 级别和支出上限等编程代理工具设置，与编程 Agent 工具与开销主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deterministic-refactor-automerge.md": "文章介绍按仓库策略审 PR、跟进修改和批准，与约束重构 PR 的确定性自动合入主题相关。",
+    "topics/agent-scaled-engineering.md": "Claude Ship 把评审、修复和批准收成一套以加快合并，与智能体规模化工程主题相关。",
+    "topics/software-factory.md": "该功能面向团队把写代码到合入的流程产品化，与软件工厂主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "文中讨论 Code Review 级别和支出上限等编程代理工具设置，与编程 Agent 工具与开销主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introducing-claude-ship-ai-powered-pull-request-review-fix-and-a.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "b0689cf87ab570a4",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "title": "说明",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:37.023Z",
+  "content_hash": "70dc8598c7a3be43081688287867bd0c09e54525520591c478d0a927f698a8f2",
+  "article_path": "articles/b0689cf87ab570a4.md",
+  "fetched_url": "https://openai.com/index/introducing-shirudo/",
+  "source_path": "sources/articles/openai-and-cisco-introduce-shirudo.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:21:55.562Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

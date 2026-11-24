@@ -1,0 +1,23 @@
+{
+  "slug": "24b7fbaecb1f357e",
+  "url": "https://gail.wharton.upenn.edu/research-and-insights/technical-report-agentic-shopping",
+  "title": "报告",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "24b7fbaecb1f357e2e4bd3287b04808cb848528887e3b6c8e8571f78d7c0dc74",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:41.422Z",
+  "content_hash": "be258bb02f0830c16ac9ddc9d96e8832c3c01eeda718048324e29deaff6caad5",
+  "article_path": "articles/24b7fbaecb1f357e.md",
+  "fetched_url": "https://gail.wharton.upenn.edu/research-and-insights/technical-report-agentic-shopping/",
+  "source_path": "sources/articles/agentic-shopping-is-complicated-and-contingent.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:29:30.585Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

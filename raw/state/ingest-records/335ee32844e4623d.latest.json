@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:20:52.590Z",
+  "url": "https://x.com/ClaudeDevs/status/2124978802006851961",
+  "slug": "335ee32844e4623d",
+  "content_hash": "ef21b3bbac7e437bf6a4f1c5d442b5134be3a14b1f6fc9e146c4c9c669216c77",
+  "source": {
+    "path": "sources/articles/claude-code-desktop-side-panel-becomes-tabs.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Claude Code 产品，与帖文主题最相关"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 的体验设计，与 Claude Code 侧栏改动相近"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涵盖用户体验与界面设计，侧栏标签改动属 UX 范畴"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与帖文主题最相关",
+    "topics/ux-dx-and-ax.md": "涵盖用户体验与界面设计，侧栏标签改动属 UX 范畴",
+    "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 的体验设计，与 Claude Code 侧栏改动相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-code-desktop-side-panel-becomes-tabs.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "直接涉及 Claude Code 产品，与帖文主题最相关",
+      "topics/ux-dx-and-ax.md": "涵盖用户体验与界面设计，侧栏标签改动属 UX 范畴",
+      "topics/coding-agent-ux-vs-quota.md": "关注编程 Agent 的体验设计，与 Claude Code 侧栏改动相近"
+    },
+    "notes": "基于单条 X 帖文，未独立核实推送时间线。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-code-desktop-side-panel-becomes-tabs.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

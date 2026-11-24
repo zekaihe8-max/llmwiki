@@ -1,0 +1,23 @@
+{
+  "slug": "b53558d620676ec2",
+  "url": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+  "title": "文章",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "b53558d620676ec22ad88050c031d7b70ac6f941225a51a4ada89b793ec435fd",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:36.020Z",
+  "content_hash": "101624cdd14baee85c62afe52fdb42645190b2f185824ed6ef09d37632479517",
+  "article_path": "articles/b53558d620676ec2.md",
+  "fetched_url": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+  "source_path": "sources/articles/anthropic-launches-enterprise-frontier-safeguards-public-beta-au.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:35:20.724Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

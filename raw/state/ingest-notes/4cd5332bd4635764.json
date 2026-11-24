@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-swarms-cyber-defense.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/ai-cybersecurity-jobs.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-swarms-cyber-defense.md": "帖文聚焦 AI 智能体进行网络防御，与该主题的“网防 Agent Swarm 品类”高度相关。",
+    "topics/open-models-cyber-defense.md": "Shirudo 为开源项目，涉及开源与网络防御的交叉。",
+    "topics/ai-cybersecurity-jobs.md": "文中提到防御者与 AI 智能体协作，涉及 AI 与网络安全工作方式。",
+    "topics/computer-use.md": "智能体在 Linux 系统上写入 eBPF 控制，属于 Agent 对计算机系统的直接操作。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 AI 智能体进行网络防御，与该主题的“网防 Agent Swarm 品类”高度相关。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "Shirudo 为开源项目，涉及开源与网络防御的交叉。"
+    },
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "文中提到防御者与 AI 智能体协作，涉及 AI 与网络安全工作方式。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "智能体在 Linux 系统上写入 eBPF 控制，属于 Agent 对计算机系统的直接操作。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题；未核实主张已用「帖文称」标注。"
+}

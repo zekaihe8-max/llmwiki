@@ -1,0 +1,23 @@
+{
+  "slug": "092ef5654d0f669a",
+  "url": "https://x.com/ChatGPT/status/2124981905380569283",
+  "title": "停用",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "092ef5654d0f669a9935a6109f2e7e980e92ac6e59cbb6c0791ca2f93c446f4e",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:39.140Z",
+  "content_hash": "0c0aaee6374358d1a13394d4da973753c0e76559126af75a7b661afe3d09616f",
+  "article_path": "articles/092ef5654d0f669a.md",
+  "fetched_url": "https://x.com/ChatGPT/status/2124981905380569283",
+  "source_path": "sources/articles/chatgpt-deprecates-gpt-5-6-sol-and-terra.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:25:33.914Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

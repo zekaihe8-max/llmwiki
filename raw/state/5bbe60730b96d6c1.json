@@ -1,0 +1,23 @@
+{
+  "slug": "5bbe60730b96d6c1",
+  "url": "https://arxiv.org/abs/2610.30571",
+  "title": "论文",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "5bbe60730b96d6c1cd686501e5ed81407d61917bf851e6f45b37b52fdac7aa4d",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:46.243Z",
+  "content_hash": "2320dae7e9e09efb613fab4b9bba963975f34f2a156ebe951569c79711fba68c",
+  "article_path": "articles/5bbe60730b96d6c1.md",
+  "fetched_url": "https://arxiv.org/abs/2610.30571",
+  "source_path": "sources/articles/stale-instruction-files-override-the-code-in-coding-agents-a-one.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:33:40.961Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

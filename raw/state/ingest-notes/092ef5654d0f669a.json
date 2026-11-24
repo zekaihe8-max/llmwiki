@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型选型与策略，与模型停用生命周期最为相近",
+    "topics/usage-limit-ab-tests.md": "涉及模型可用性与用量限制，与停用后的访问变化相关",
+    "topics/premium-ai-subscription-value.md": "涉及高端订阅与模型访问价值，与模型停用对用户影响相关"
+  },
+  "topics": [
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型选型与策略，与模型停用生命周期最为相近"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及模型可用性与用量限制，与停用后的访问变化相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及高端订阅与模型访问价值，与模型停用对用户影响相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未引用外部事实"
+}

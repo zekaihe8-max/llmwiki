@@ -1,0 +1,23 @@
+{
+  "slug": "4cd5332bd4635764",
+  "url": "https://x.com/OpenAI/status/2124980590717911527",
+  "title": "OpenAI",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "4cd5332bd463576492b5561005c143d5b825ca4dc2171f987ffc71e6a1b4394b",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:36.567Z",
+  "content_hash": "5cd8d0e0e261ed027b9455cdc4a3f1c8e47a5e545791cbd69ea5480fa937283c",
+  "article_path": "articles/4cd5332bd4635764.md",
+  "fetched_url": "https://x.com/OpenAI/status/2124980590717911527",
+  "source_path": "sources/articles/openai-and-cisco-jointly-launch-open-source-linux-runtime-shirud.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:21:20.504Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

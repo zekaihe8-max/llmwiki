@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-models-cyber-defense.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "selection_reasons": {
+    "topics/open-models-cyber-defense.md": "文章聚焦开源网络防御工具 Shirudo，与开源模型及网安防御主题高度相关。",
+    "topics/account-and-asset-security-hygiene.md": "Shirudo 旨在保护运行中的 Linux 系统与资产，属于资产安全卫生范畴。",
+    "topics/llm-formal-verification.md": "文中提及加密签名、eBPF 验证与 TPM 可验证记录，与形式化验证主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文章聚焦开源网络防御工具 Shirudo，与开源模型及网安防御主题高度相关。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "Shirudo 旨在保护运行中的 Linux 系统与资产，属于资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文中提及加密签名、eBPF 验证与 TPM 可验证记录，与形式化验证主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容均基于提供的 OpenAI 博客文章，未引入外部事实或 URL。"
+}

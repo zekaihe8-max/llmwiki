@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文提到不要只把 AI  bolt 到现有产品，而要帮助客户从 AI 新手变成 AI 原生，并指出 AI 构建者团队失败的根因是方向而非工作流吞吐，与“工作流优先于智能体”主题高度相关，故保持不变。",
+    "topics/ux-dx-and-ax.md": "帖文多次强调艺术家型 PM、设计品味和 UX 在同质化软件中的差异化价值，与 UX/DX/AX 主题相关，故保持不变。",
+    "topics/ai-native-companies.md": "帖文提到将客户“从 AI 新手带到 AI 原生”，与 AI 原生公司/产品主题相关，故保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文提到不要只把 AI  bolt 到现有产品，而要帮助客户从 AI 新手变成 AI 原生，并指出 AI 构建者团队失败的根因是方向而非工作流吞吐，与“工作流优先于智能体”主题高度相关，故保持不变。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文多次强调艺术家型 PM、设计品味和 UX 在同质化软件中的差异化价值，与 UX/DX/AX 主题相关，故保持不变。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提到将客户“从 AI 新手带到 AI 原生”，与 AI 原生公司/产品主题相关，故保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文内容，未引入外部事实或 URL。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "Claude Ship 的自动审阅与修复属于智能体自动模式范畴。",
+    "topics/deterministic-refactor-automerge.md": "帖文提到按团队策略批准拉取请求，与确定性自动合入主题相近。",
+    "topics/software-factory.md": "“帮你快速交付代码”对应软件工厂与持续交付语境。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Claude Ship 的自动审阅与修复属于智能体自动模式范畴。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "帖文提到按团队策略批准拉取请求，与确定性自动合入主题相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "“帮你快速交付代码”对应软件工厂与持续交付语境。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未依据本帖新建或编辑任何 topic 文件。"
+}

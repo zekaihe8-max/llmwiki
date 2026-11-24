@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-23T11:56:08.266Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -14045,5 +14045,253 @@
     "last_seen": "2026-11-23T11:56:08.266Z",
     "digest": "2026-11-23-cn-x.md",
     "title": "leaf_sanren"
+  },
+  "https://x.com/ClaudeDevs/status/2124959436640858475": {
+    "hash": "25f423c95fb6d15fced53002ad630083d77949774583d1b8fc96067ff9bb4fc0",
+    "slug": "25f423c95fb6d15f",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Ship"
+  },
+  "https://x.com/bcherny/status/2124961485801836573": {
+    "hash": "b988371c093e7df4b8e0d1b346c84248c39c8fb5d81f34d43157453ec75e8897",
+    "slug": "b988371c093e7df4",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Cherny"
+  },
+  "https://claude.com/resources/articles/introducing-claude-ship": {
+    "hash": "b5129d6fc89af52dbb221093582b3062f27076437d52e78fc40a0d58a7f3445f",
+    "slug": "b5129d6fc89af52d",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/claudeai/status/2124970294523945328": {
+    "hash": "bcbec71eecd123113303f40c21eb47f5c9e9590d6e0df61ab3ac1f099bca1ba5",
+    "slug": "bcbec71eecd12311",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Plugins"
+  },
+  "https://x.com/claudeai/status/2124929944530587712": {
+    "hash": "04445a2ed34d4d6d1110b4de67544d7a6edb67cedc65ca06a855ceea3835781f",
+    "slug": "04445a2ed34d4d6d",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "ZDR"
+  },
+  "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards": {
+    "hash": "b53558d620676ec22ad88050c031d7b70ac6f941225a51a4ada89b793ec435fd",
+    "slug": "b53558d620676ec2",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "文章"
+  },
+  "https://x.com/ClaudeDevs/status/2124978802006851961": {
+    "hash": "335ee32844e4623de911c167827f76d35cd52f0f03564200e2dd09a064a898dd",
+    "slug": "335ee32844e4623d",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "侧栏"
+  },
+  "https://x.com/OpenAI/status/2124980590717911527": {
+    "hash": "4cd5332bd463576492b5561005c143d5b825ca4dc2171f987ffc71e6a1b4394b",
+    "slug": "4cd5332bd4635764",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "OpenAI"
+  },
+  "https://openai.com/index/introducing-shirudo": {
+    "hash": "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa",
+    "slug": "b0689cf87ab570a4",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/GoogleDeepMind/status/2124911073266413634": {
+    "hash": "9e05a0ed78e81d22e4dad031493844d59b4fd3eea875a96e809faf68b6edb77c",
+    "slug": "9e05a0ed78e81d22",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "DeepMind"
+  },
+  "https://x.com/GoogleDeepMind/status/2124911075875258776": {
+    "hash": "0d730e3bd4ba9f798fa0c582b9ddb6837a46a12cf4f1328bb90a25d6cca9d7ef",
+    "slug": "0d730e3bd4ba9f79",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "续帖"
+  },
+  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": {
+    "hash": "895b540db6a8889e694ca9f9b509808f44f14c578e93735626eea109f5cda62f",
+    "slug": "895b540db6a8889e",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "博客"
+  },
+  "https://x.com/OfficialLoganK/status/2124938672399384681": {
+    "hash": "9fe63f54db75223632ceafb24e6c5584635ccd6d7e8c6d4d1b76f78c2b255f81",
+    "slug": "9fe63f54db752236",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Logan"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls": {
+    "hash": "04ec58c5601563db1c2040dc9dba1006daf39c883ab96135149ca39b838de541",
+    "slug": "04ec58c5601563db",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/ChatGPT/status/2124942186425069836": {
+    "hash": "f9c01839884096847d8e0eca5a792e1d0c7248969c0cf30751b950b05b1382b7",
+    "slug": "f9c0183988409684",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Sol"
+  },
+  "https://x.com/ChatGPT/status/2124981905380569283": {
+    "hash": "092ef5654d0f669a9935a6109f2e7e980e92ac6e59cbb6c0791ca2f93c446f4e",
+    "slug": "092ef5654d0f669a",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "停用"
+  },
+  "https://x.com/OfficialLoganK/status/2125018427790344654": {
+    "hash": "be89688e62be26327728edd1321d115a1cff094627b63dc7c2d77777f1c565c6",
+    "slug": "be89688e62be2632",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Workspace"
+  },
+  "https://x.com/fchollet/status/2124942035841151448": {
+    "hash": "fe1720373ea79def5a4ca8ec15ef5459736eeb345e0983799efef400207765cf",
+    "slug": "fe1720373ea79def",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Chollet · 智能系统只有两套适应时间尺度"
+  },
+  "https://x.com/fchollet/status/2124926345948148042": {
+    "hash": "12af03e7cbdff693cce5b4a2ab430f1143c801bccab847194f76e05c8710a9db",
+    "slug": "12af03e7cbdff693",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "评论"
+  },
+  "https://x.com/natolambert/status/2124855489846485045": {
+    "hash": "d8114c78fad0a18ca23276858b7b64bf6b584b3cf00325235dac5c85f72d9938",
+    "slug": "d8114c78fad0a18c",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Nathan Lambert · 可被读懂的思维链迟早会被优化掉"
+  },
+  "https://x.com/emollick/status/2124895744775667767": {
+    "hash": "26345397d42934c6485defd56419211f81b0a5904f2b71256ddc8481a05c4dc4",
+    "slug": "26345397d42934c6",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "沃尔玛"
+  },
+  "https://x.com/emollick/status/2124970360445796544": {
+    "hash": "954b823447d174a971128ac1625654f671ab58337ad7c9bb0399f72948eb2954",
+    "slug": "954b823447d174a9",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "研究"
+  },
+  "https://gail.wharton.upenn.edu/research-and-insights/technical-report-agentic-shopping": {
+    "hash": "24b7fbaecb1f357e2e4bd3287b04808cb848528887e3b6c8e8571f78d7c0dc74",
+    "slug": "24b7fbaecb1f357e",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "报告"
+  },
+  "https://x.com/amasad/status/2124969305674748175": {
+    "hash": "ff497d11f57d795e591a6d85a3870156f4f238d8bef57d81ef5700887a421523",
+    "slug": "ff497d11f57d795e",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Amjad"
+  },
+  "https://frontier.replit.com/throwing-headcount-at-the-problem": {
+    "hash": "1475b63ec37aeffcbc874240ad0fc5b4b9d7a03775613d30304a9b1617d5135b",
+    "slug": "1475b63ec37aeffc",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "文章"
+  },
+  "https://x.com/lennysan/status/2124880663149002996": {
+    "hash": "ccdd36c605cceec6859dd5beffc09ea3e33868d6e530900e18d09e02d2646784",
+    "slug": "ccdd36c605cceec6",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "全员试法"
+  },
+  "https://x.com/lennysan/status/2125018080837525695": {
+    "hash": "ca18c9de36b28b812982ff6ec5691965a8bd2c45be1ce9b85e476d014eef7dd4",
+    "slug": "ca18c9de36b28b81",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "要点"
+  },
+  "https://x.com/mattpocockuk/status/2124797717834543167": {
+    "hash": "07959156a4c78f81aa0c934b7da85fcf7258d0bc08925ccdfa0c1383930b5208",
+    "slug": "07959156a4c78f81",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Matt Pocock · 给人和 agent 一块共用的看板，多数团队应该自己做"
+  },
+  "https://vercel.com/blog/introducing-vercel-board": {
+    "hash": "0a961e0e6d20bccdd5d522d661139c26554fd6abb01f1dd901d8cd15ca5d5b73",
+    "slug": "0a961e0e6d20bccd",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Vercel 说明"
+  },
+  "https://arxiv.org/abs/2610.30571": {
+    "hash": "5bbe60730b96d6c1cd686501e5ed81407d61917bf851e6f45b37b52fdac7aa4d",
+    "slug": "5bbe60730b96d6c1",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "论文"
+  },
+  "https://x.com/Voxyz_ai/status/2124880659889938848": {
+    "hash": "1d4666917d0bf9c920c8f063fbe6601d4c4d7f830f84498730520c9327401a9b",
+    "slug": "1d4666917d0bf9c9",
+    "first_seen": "2026-11-24T00:16:34.121Z",
+    "last_seen": "2026-11-24T00:16:34.121Z",
+    "digest": "2026-11-24-frontier-ai.md",
+    "title": "Voxyz"
   }
 }

@@ -1,3 +1,67 @@
+## 2026-11-24
+
+
+* **创建 / Creation**: 归档 [过时的 CLAUDE.md 与 AGENTS.md 会误导编程 Agent](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md)。 / Filed [Stale CLAUDE.md and AGENTS.md Mislead Coding Agents](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md).
+
+* **创建 / Creation**: 归档 [编程 Agent 会被过时指令文件覆盖代码：一句话修复](./sources/articles/stale-instruction-files-override-the-code-in-coding-agents-a-one.md)。 / Filed [Stale Instruction Files Override the Code in Coding Agents: A One-Sentence Fix](./sources/articles/stale-instruction-files-override-the-code-in-coding-agents-a-one.md).
+
+* **创建 / Creation**: 归档 [Vercel Board：面向多智能体协作的实验性消息原语](./sources/articles/vercel-board-an-experimental-agentic-primitive-for-multi-agent-c.md)。 / Filed [Vercel Board: An Experimental Agentic Primitive for Multi-Agent Collaboration](./sources/articles/vercel-board-an-experimental-agentic-primitive-for-multi-agent-c.md).
+
+* **创建 / Creation**: 归档 [Matt Pocock · 给人和 agent 一块共用的看板，多数团队应该自己做](./sources/articles/matt-pocock-a-shared-board-for-humans-and-agents-most-teams-shou.md)。 / Filed [Matt Pocock · A shared board for humans and agents; most teams should build it themselves](./sources/articles/matt-pocock-a-shared-board-for-humans-and-agents-most-teams-shou.md).
+
+* **创建 / Creation**: 归档 [Lenny Rachitsky 总结 Sherif Mansour 关于 AI 时代产品经理与团队的九条要点](./sources/articles/lenny-rachitsky-s-nine-takeaways-from-sherif-mansour-on-ai-produ.md)。 / Filed [Lenny Rachitsky's nine takeaways from Sherif Mansour on AI, product management, and Atlassian](./sources/articles/lenny-rachitsky-s-nine-takeaways-from-sherif-mansour-on-ai-produ.md).
+
+* **创建 / Creation**: 归档 [全员试法](./sources/articles/everyone-tries-building-atlassian-s-ai-builder-experiment.md)。 / Filed [Everyone Tries Building: Atlassian's AI Builder Experiment](./sources/articles/everyone-tries-building-atlassian-s-ai-builder-experiment.md).
+
+* **创建 / Creation**: 归档 [智能体蜂群做性能工程：协作拓扑比模型强弱更决定加速比](./sources/articles/agent-swarms-for-performance-engineering-coordination-topology-d.md)。 / Filed [Agent Swarms for Performance Engineering: Coordination Topology Decides Speedups More Than Model Strength](./sources/articles/agent-swarms-for-performance-engineering-coordination-topology-d.md).
+
+* **创建 / Creation**: 归档 [Amjad 发布 Replit Agent 群体扩展定律研究](./sources/articles/amjad-shares-replit-agent-swarm-scaling-laws-research.md)。 / Filed [Amjad Shares Replit Agent Swarm Scaling Laws Research](./sources/articles/amjad-shares-replit-agent-swarm-scaling-laws-research.md).
+
+* **创建 / Creation**: 归档 [AI 购物智能体的选择为何复杂且依赖上下文](./sources/articles/agentic-shopping-is-complicated-and-contingent.md)。 / Filed [Agentic Shopping is Complicated and Contingent](./sources/articles/agentic-shopping-is-complicated-and-contingent.md).
+
+* **创建 / Creation**: 归档 [AI 购物研究：智能体偏好极易被顺序、对话与标题改变](./sources/articles/ai-shopping-research-agent-preferences-collapse-easily-under-ord.md)。 / Filed [AI shopping research: agent preferences collapse easily under order, conversation, and headline changes](./sources/articles/ai-shopping-research-agent-preferences-collapse-easily-under-ord.md).
+
+* **创建 / Creation**: 归档 [沃尔玛拥抱智能体电商，亚马逊封杀代理形成反转](./sources/articles/walmart-embraces-agentic-commerce-as-amazon-blocks-agents.md)。 / Filed [Walmart Embraces Agentic Commerce as Amazon Blocks Agents](./sources/articles/walmart-embraces-agentic-commerce-as-amazon-blocks-agents.md).
+
+* **创建 / Creation**: 归档 [可被读懂的思维链迟早会被优化掉](./sources/articles/interpretable-chain-of-thought-will-eventually-be-optimized-away.md)。 / Filed [Interpretable chain of thought will eventually be optimized away](./sources/articles/interpretable-chain-of-thought-will-eventually-be-optimized-away.md).
+
+* **创建 / Creation**: 归档 [弗朗索瓦·肖莱评论谷歌深度思维量子电路工作](./sources/articles/fran-ois-chollet-comments-on-google-deepmind-s-quantum-circuit-w.md)。 / Filed [François Chollet Comments on Google DeepMind's Quantum Circuit Work](./sources/articles/fran-ois-chollet-comments-on-google-deepmind-s-quantum-circuit-w.md).
+
+* **创建 / Creation**: 归档 [智能系统只有两套适应时间尺度](./sources/articles/intelligent-systems-have-only-two-adaptation-timescales.md)。 / Filed [Intelligent systems have only two adaptation timescales](./sources/articles/intelligent-systems-have-only-two-adaptation-timescales.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Neon 面向 Google Workspace 客户推出](./sources/articles/gemini-4-neon-rolled-out-to-google-workspace-customers.md)。 / Filed [Gemini 4 Neon rolled out to Google Workspace customers](./sources/articles/gemini-4-neon-rolled-out-to-google-workspace-customers.md).
+
+* **创建 / Creation**: 归档 [ChatGPT 停用 GPT-5.6 Sol 与 Terra](./sources/articles/chatgpt-deprecates-gpt-5-6-sol-and-terra.md)。 / Filed [ChatGPT Deprecates GPT-5.6 Sol and Terra](./sources/articles/chatgpt-deprecates-gpt-5-6-sol-and-terra.md).
+
+* **创建 / Creation**: 归档 [ChatGPT 推出 GPT-6.2 Sol 版本](./sources/articles/chatgpt-rolls-out-gpt-6-2-sol-version.md)。 / Filed [ChatGPT Rolls Out GPT-6.2 Sol Version](./sources/articles/chatgpt-rolls-out-gpt-6-2-sol-version.md).
+
+* **创建 / Creation**: 归档 [Gemini API 推出原生文件分片控制](./sources/articles/introducing-file-slicing-controls-in-the-gemini-api.md)。 / Filed [Introducing file slicing controls in the Gemini API](./sources/articles/introducing-file-slicing-controls-in-the-gemini-api.md).
+
+* **创建 / Creation**: 归档 [Logan：Gemini API 推出文件分片控制，支持按需读取 PDF、Office 与多媒体](./sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md)。 / Filed [Logan: Gemini API ships file slicing controls for on-demand PDF, Office, and media access](./sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md).
+
+
+* **创建 / Creation**: 归档 [Google DeepMind 称用 Gemini 智能体团队构建量子电路，模拟成本降低多达 10 倍（续帖）](./sources/articles/google-deepmind-says-gemini-agent-teams-built-quantum-circuits-c.md)。 / Filed [Google DeepMind says Gemini agent teams built quantum circuits, cutting simulation costs up to 10x (continuation post)](./sources/articles/google-deepmind-says-gemini-agent-teams-built-quantum-circuits-c.md).
+
+* **创建 / Creation**: 归档 [Google DeepMind 称用 Gemini 多智能体团队构建量子电路，将仿真成本降低多达 10 倍](./sources/articles/google-deepmind-says-gemini-multi-agent-teams-built-quantum-circ.md)。 / Filed [Google DeepMind Says Gemini Multi-Agent Teams Built Quantum Circuits Cutting Simulation Costs Up to 10x](./sources/articles/google-deepmind-says-gemini-multi-agent-teams-built-quantum-circ.md).
+
+* **创建 / Creation**: 归档 [OpenAI 与 Cisco 发布 Shirudo 开源 Linux 运行时](./sources/articles/openai-and-cisco-introduce-shirudo.md)。 / Filed [OpenAI and Cisco introduce Shirudo](./sources/articles/openai-and-cisco-introduce-shirudo.md).
+
+* **创建 / Creation**: 归档 [OpenAI 与 Cisco 联合推出开源 Linux 运行时 Shirudo，让 AI 智能体在不停机的情况下为系统编写 eBPF 防护](./sources/articles/openai-and-cisco-jointly-launch-open-source-linux-runtime-shirud.md)。 / Filed [OpenAI and Cisco jointly launch open-source Linux runtime Shirudo, letting AI agents write eBPF defenses for systems without downtime](./sources/articles/openai-and-cisco-jointly-launch-open-source-linux-runtime-shirud.md).
+
+* **创建 / Creation**: 归档 [Claude Code 桌面端侧栏改为标签页](./sources/articles/claude-code-desktop-side-panel-becomes-tabs.md)。 / Filed [Claude Code Desktop Side Panel Becomes Tabs](./sources/articles/claude-code-desktop-side-panel-becomes-tabs.md).
+
+* **创建 / Creation**: 归档 [Anthropic 推出企业前沿防护公测：零数据留存下的自动化安全监控](./sources/articles/anthropic-launches-enterprise-frontier-safeguards-public-beta-au.md)。 / Filed [Anthropic Launches Enterprise Frontier Safeguards Public Beta: Automated Safety Monitoring with Zero Data Retention](./sources/articles/anthropic-launches-enterprise-frontier-safeguards-public-beta-au.md).
+
+* **创建 / Creation**: 归档 [Claude 推出零数据保留与企业前沿防护公测版](./sources/articles/claude-launches-zero-data-retention-with-enterprise-frontier-saf.md)。 / Filed [Claude launches Zero Data Retention with Enterprise Frontier Safeguards public beta](./sources/articles/claude-launches-zero-data-retention-with-enterprise-frontier-saf.md).
+
+* **创建 / Creation**: 归档 [Claude 推出插件，连接器与技能合二为一](./sources/articles/claude-launches-plugins-unifying-connectors-and-skills.md)。 / Filed [Claude launches plugins unifying connectors and skills](./sources/articles/claude-launches-plugins-unifying-connectors-and-skills.md).
+
+* **创建 / Creation**: 归档 [介绍 Claude Ship：AI 驱动的拉取请求审查、修复与批准](./sources/articles/introducing-claude-ship-ai-powered-pull-request-review-fix-and-a.md)。 / Filed [Introducing Claude Ship: AI-Powered Pull Request Review, Fix, and Approval](./sources/articles/introducing-claude-ship-ai-powered-pull-request-review-fix-and-a.md).
+
+* **创建 / Creation**: 归档 [博尔西·切尔尼宣布 Claude Ship 公测](./sources/articles/boris-cherny-announces-claude-ship-beta.md)。 / Filed [Boris Cherny Announces Claude Ship Beta](./sources/articles/boris-cherny-announces-claude-ship-beta.md).
+
+* **创建 / Creation**: 归档 [Claude Ship（Beta）：AI 审阅拉取请求并自动修复](./sources/articles/claude-ship-beta-ai-pull-request-review-and-automated-fixes.md)。 / Filed [Claude Ship (beta): AI pull-request review and automated fixes](./sources/articles/claude-ship-beta-ai-pull-request-review-and-automated-fixes.md).
+
 ## 2026-11-23
 
 * **创建 / Creation**: 归档 [Leaf Yeah!：用 Antigravity 自动跑 Colab 超分，榨干 Google AI Pro 200 算力单元](./sources/articles/leaf-yeah-automating-colab-video-upscaling-with-antigravity-to-s.md)。 / Filed [Leaf Yeah!: Automating Colab Video Upscaling with Antigravity to Squeeze Google AI Pro Compute Units](./sources/articles/leaf-yeah-automating-colab-video-upscaling-with-antigravity-to-s.md).

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:34:24.280Z",
+  "url": "https://x.com/Voxyz_ai/status/2124880659889938848",
+  "slug": "1d4666917d0bf9c9",
+  "content_hash": "43a136ca2e674e024d680406d22de6a069cce1a55536dd50bdb9110809246381",
+  "source": {
+    "path": "sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/code-over-spec.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章讨论 CLAUDE.md/AGENTS.md 等项目指令文件，与该主题的项目指令与 Token 效率相近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Claude Code 行为，与该主题相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章核心主张是代码约定应优先于过时的指令文件，与“代码重于规格”主题直接相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "过时指令文件属于 Agent 上下文工程问题，主题与文章语境相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/code-over-spec.md": "文章核心主张是代码约定应优先于过时的指令文件，与“代码重于规格”主题直接相关。",
+    "topics/agents-md-token-efficiency.md": "文章讨论 CLAUDE.md/AGENTS.md 等项目指令文件，与该主题的项目指令与 Token 效率相近。",
+    "topics/context-engineering-for-agents.md": "过时指令文件属于 Agent 上下文工程问题，主题与文章语境相关。",
+    "topics/claude-code-authorship-and-voice.md": "文章聚焦 Claude Code 行为，与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/code-over-spec.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/claude-code-authorship-and-voice.md"
+    ],
+    "selection_reasons": {
+      "topics/code-over-spec.md": "文章核心主张是代码约定应优先于过时的指令文件，与“代码重于规格”主题直接相关。",
+      "topics/agents-md-token-efficiency.md": "文章讨论 CLAUDE.md/AGENTS.md 等项目指令文件，与该主题的项目指令与 Token 效率相近。",
+      "topics/context-engineering-for-agents.md": "过时指令文件属于 Agent 上下文工程问题，主题与文章语境相关。",
+      "topics/claude-code-authorship-and-voice.md": "文章聚焦 Claude Code 行为，与该主题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

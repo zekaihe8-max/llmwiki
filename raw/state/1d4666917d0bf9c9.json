@@ -1,0 +1,23 @@
+{
+  "slug": "1d4666917d0bf9c9",
+  "url": "https://x.com/Voxyz_ai/status/2124880659889938848",
+  "title": "Voxyz",
+  "digest": "2026-11-24-frontier-ai.md",
+  "status": "filed",
+  "hash": "1d4666917d0bf9c920c8f063fbe6601d4c4d7f830f84498730520c9327401a9b",
+  "first_seen": "2026-11-24T00:16:34.121Z",
+  "last_seen": "2026-11-24T00:16:34.121Z",
+  "fetched_at": "2026-11-24T00:16:46.281Z",
+  "content_hash": "43a136ca2e674e024d680406d22de6a069cce1a55536dd50bdb9110809246381",
+  "article_path": "articles/1d4666917d0bf9c9.md",
+  "fetched_url": "https://x.com/Voxyz_ai/status/2124880659889938848",
+  "source_path": "sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T00:34:24.281Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

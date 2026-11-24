@@ -1,0 +1,56 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:35:20.723Z",
+  "url": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+  "slug": "b53558d620676ec2",
+  "content_hash": "101624cdd14baee85c62afe52fdb42645190b2f185824ed6ef09d37632479517",
+  "source": {
+    "path": "sources/articles/anthropic-launches-enterprise-frontier-safeguards-public-beta-au.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/agent-swarms-cyber-defense.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "EFS 在零数据留存下把监控数据留在客户自管云存储，与机密计算与云端 AI 主题相关。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "该机制用于跨请求识别复杂滥用，与技术滥用关切的连续性主题相关。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "零数据留存与客户侧密钥、日志自管，与发模型前本地脱敏主题相关。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "文中举例并行 Agent 分布式攻击等跨请求滥用，与网防 Agent Swarm 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "EFS 在零数据留存下把监控数据留在客户自管云存储，与机密计算与云端 AI 主题相关。",
+    "topics/tech-misuse-concern-continuity.md": "该机制用于跨请求识别复杂滥用，与技术滥用关切的连续性主题相关。",
+    "topics/local-desensitization-before-models.md": "零数据留存与客户侧密钥、日志自管，与发模型前本地脱敏主题相关。",
+    "topics/agent-swarms-cyber-defense.md": "文中举例并行 Agent 分布式攻击等跨请求滥用，与网防 Agent Swarm 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-launches-enterprise-frontier-safeguards-public-beta-au.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

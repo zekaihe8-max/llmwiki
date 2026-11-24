@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:24:13.650Z",
+  "url": "https://x.com/OfficialLoganK/status/2124938672399384681",
+  "slug": "9fe63f54db752236",
+  "content_hash": "b1a1621fe89fa44dae048a62e8d287c2bef8cc05376aea91d856408ebeaeaf8e",
+  "source": {
+    "path": "sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "按需读取页面、单元格与片段可降低 Token 消耗，与 Token 效率主题相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "按需提取媒体片段与文档页面，与 AI 辅助剪藏与媒体笔记相近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Gemini 模型系列与 API 策略，与本文 Gemini API 更新最为直接相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "本文为 API 质量-of-life 更新，属于开发者体验（DX）范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini 模型系列与 API 策略，与本文 Gemini API 更新最为直接相关。",
+    "topics/ux-dx-and-ax.md": "本文为 API 质量-of-life 更新，属于开发者体验（DX）范畴。",
+    "topics/agents-md-token-efficiency.md": "按需读取页面、单元格与片段可降低 Token 消耗，与 Token 效率主题相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "按需提取媒体片段与文档页面，与 AI 辅助剪藏与媒体笔记相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/ai-assisted-clipping-and-notes.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Gemini 模型系列与 API 策略，与本文 Gemini API 更新最为直接相关。",
+      "topics/ux-dx-and-ax.md": "本文为 API 质量-of-life 更新，属于开发者体验（DX）范畴。",
+      "topics/agents-md-token-efficiency.md": "按需读取页面、单元格与片段可降低 Token 消耗，与 Token 效率主题相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "按需提取媒体片段与文档页面，与 AI 辅助剪藏与媒体笔记相近。"
+    },
+    "notes": "所有事实仅来源于提供的 X 帖文文本，未引用外部博客内容细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

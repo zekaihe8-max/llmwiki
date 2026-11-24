@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T00:28:18.169Z",
+  "url": "https://x.com/emollick/status/2124895744775667767",
+  "slug": "26345397d42934c6",
+  "content_hash": "307245be42b3b7c62b2d303005d34975a785779ba85c4e519845853efcd3a6d9",
+  "source": {
+    "path": "sources/articles/walmart-embraces-agentic-commerce-as-amazon-blocks-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-native-web-search.md",
+    "topics/agent-auto-mode.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "智能体自主完成购物行为属于自动模式范畴"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "平台对智能体的封杀或拥抱涉及智能体治理与平台管控"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "涉及智能体在网页端执行购物等任务，与面向 Agent 的网页交互主题相关"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "智能体电商属于智能体应用新场景，与该基础主题最贴近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "智能体电商属于智能体应用新场景，与该基础主题最贴近",
+    "topics/agent-native-web-search.md": "涉及智能体在网页端执行购物等任务，与面向 Agent 的网页交互主题相关",
+    "topics/agent-auto-mode.md": "智能体自主完成购物行为属于自动模式范畴",
+    "topics/agent-compute-and-governance.md": "平台对智能体的封杀或拥抱涉及智能体治理与平台管控"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/walmart-embraces-agentic-commerce-as-amazon-blocks-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-native-web-search.md",
+      "topics/agent-auto-mode.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "智能体电商属于智能体应用新场景，与该基础主题最贴近",
+      "topics/agent-native-web-search.md": "涉及智能体在网页端执行购物等任务，与面向 Agent 的网页交互主题相关",
+      "topics/agent-auto-mode.md": "智能体自主完成购物行为属于自动模式范畴",
+      "topics/agent-compute-and-governance.md": "平台对智能体的封杀或拥抱涉及智能体治理与平台管控"
+    },
+    "notes": "仅基于单条 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/walmart-embraces-agentic-commerce-as-amazon-blocks-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

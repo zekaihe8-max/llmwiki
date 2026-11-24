@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/deterministic-refactor-automerge.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/deterministic-refactor-automerge.md": "文章涉及拉取请求自动审查与批准合并，与确定性重构自动合入主题高度相关。",
+    "topics/agent-scaled-engineering.md": "Claude Ship 面向团队规模化代码审查与工程交付，属于智能体规模化工程场景。",
+    "topics/software-factory.md": "自动化拉取请求流水线与软件工厂概念相近，适合参考现有条目。",
+    "topics/coding-agent-token-saving-tooling.md": "文中提及按 Token 计费与支出上限，与编程 Agent 成本工具主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "文章涉及拉取请求自动审查与批准合并，与确定性重构自动合入主题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Claude Ship 面向团队规模化代码审查与工程交付，属于智能体规模化工程场景。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "自动化拉取请求流水线与软件工厂概念相近，适合参考现有条目。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中提及按 Token 计费与支出上限，与编程 Agent 成本工具主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有条目，未创建新主题。"
+}
