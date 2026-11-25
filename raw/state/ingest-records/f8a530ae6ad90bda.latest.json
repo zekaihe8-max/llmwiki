@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:19:52.639Z",
+  "url": "https://x.com/turingou/status/2125097609488732332",
+  "slug": "f8a530ae6ad90bda",
+  "content_hash": "ef549d3fb2147d7295444a0d4258329dc1a2ed8c3cb881fad7b4acf06e431c8a",
+  "source": {
+    "path": "sources/articles/asking-what-harness-everyone-uses-to-run-neon-models.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "讨论公司级 Agent Harness，与帖文中关于 Harness 选型的提问最为贴近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 对比，与询问 Neon 模型使用何种 Harness 相关。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "关注 Harness 插件与界面碎片化，属于 Harness 生态讨论。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "区分多 Harness 路由基建与个人助手派活，与 Harness 选型语境相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "讨论公司级 Agent Harness，与帖文中关于 Harness 选型的提问最为贴近。",
+    "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比，与询问 Neon 模型使用何种 Harness 相关。",
+    "topics/harness-plugin-style-fragmentation.md": "关注 Harness 插件与界面碎片化，属于 Harness 生态讨论。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "区分多 Harness 路由基建与个人助手派活，与 Harness 选型语境相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/asking-what-harness-everyone-uses-to-run-neon-models.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "讨论公司级 Agent Harness，与帖文中关于 Harness 选型的提问最为贴近。",
+      "topics/harness-comparison-beyond-tokens.md": "涉及 Harness 对比，与询问 Neon 模型使用何种 Harness 相关。",
+      "topics/harness-plugin-style-fragmentation.md": "关注 Harness 插件与界面碎片化，属于 Harness 生态讨论。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "区分多 Harness 路由基建与个人助手派活，与 Harness 选型语境相关。"
+    },
+    "notes": "来源仅为单条 X 帖文，未提供具体 Harness 推荐或 Neon 模型详情，仅记录提问本身及可见互动数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/asking-what-harness-everyone-uses-to-run-neon-models.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:24:53.131Z",
+  "url": "https://x.com/shao__meng/status/2125030940833632748",
+  "slug": "82c8dd0995a4932c",
+  "content_hash": "79327de9964048ab1c9e78404becbced9acc9e5c32eca39387517e124582823a",
+  "source": {
+    "path": "sources/articles/introduction-to-open-source-chart-design-skill-diagram-design.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文主体为开源「Skill」，与 Agent Skill 编写主题相近。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及设计输出为可交互/可导出的代码与 HTML，与设计↔代码主题相近。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文中提到以 Skill 形式呈现图表设计能力，与 Skills 组合主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文主体为开源「Skill」，与 Agent Skill 编写主题相近。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及设计输出为可交互/可导出的代码与 HTML，与设计↔代码主题相近。",
+    "topics/skills-stack-native-app-recreation.md": "文中提到以 Skill 形式呈现图表设计能力，与 Skills 组合主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/introduction-to-open-source-chart-design-skill-diagram-design.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文主体为开源「Skill」，与 Agent Skill 编写主题相近。",
+      "topics/design-to-code-byo-subscriptions.md": "涉及设计输出为可交互/可导出的代码与 HTML，与设计↔代码主题相近。",
+      "topics/skills-stack-native-app-recreation.md": "文中提到以 Skill 形式呈现图表设计能力，与 Skills 组合主题相近。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文内容，未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/introduction-to-open-source-chart-design-skill-diagram-design.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

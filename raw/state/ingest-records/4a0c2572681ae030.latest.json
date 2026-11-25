@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-25T11:38:12.519Z",
+  "url": "https://x.com/dingyi/status/2125122998751674876",
+  "slug": "4a0c2572681ae030",
+  "content_hash": "0da1d4cb38e1d493b3e60f9f0d6ae0819a611e37403554532c0c515b56175b57",
+  "source": {
+    "path": "sources/articles/every-s-all-access-annual-fee-388-original-price-625.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文介绍 All Access 年费打包多项订阅，与高端 AI 订阅价值主题相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "打包包含 Claude、Codex、Framer、Notion 等，与设计到代码及自带订阅主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "打包含 Codex 与计算额度，与编程 Agent 工具与开销主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文介绍 All Access 年费打包多项订阅，与高端 AI 订阅价值主题相关。",
+    "topics/design-to-code-byo-subscriptions.md": "打包包含 Claude、Codex、Framer、Notion 等，与设计到代码及自带订阅主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "打包含 Codex 与计算额度，与编程 Agent 工具与开销主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/every-s-all-access-annual-fee-388-original-price-625.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

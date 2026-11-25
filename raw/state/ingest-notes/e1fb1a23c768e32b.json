@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "直接对应 AI 医药与私人/自动化实验室主题，最贴近文章内容。",
+    "topics/ai-native-companies.md": "Capable 作为以 AI 驱动的自动化实验室公司，属于 AI 原生公司范畴。",
+    "topics/agent-scaled-engineering.md": "自动化前临床实验室涉及智能体规模化工程与自主运行。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "直接对应 AI 医药与私人/自动化实验室主题，最贴近文章内容。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Capable 作为以 AI 驱动的自动化实验室公司，属于 AI 原生公司范畴。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "自动化前临床实验室涉及智能体规模化工程与自主运行。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于推文内容，未独立核实 IND 时间缩短的具体数据。"
+}

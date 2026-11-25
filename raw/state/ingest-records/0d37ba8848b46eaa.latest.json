@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:03:11.961Z",
+  "url": "https://x.com/lxfater/status/2125134836918575282",
+  "slug": "0d37ba8848b46eaa",
+  "content_hash": "3083df3f83646fe7a1583f66f27a1260d2668b05d3b12780f51dcfc9de416321",
+  "source": {
+    "path": "sources/articles/minimax-launches-h3-family-open-source-base-model-runs-free-clou.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "实测使用谷歌 Colab 消费级云端显卡跑开源视频模型，涉及消费级 GPU AI 算力利用。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章讨论 H3 基础版开源与高速/轻量版闭源云端，属开放权重模型发布与分层取舍。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "创作者依赖谷歌 AI Ultra 会员每月赠送的算力额度来降低运行成本，关联高端 AI 订阅价值。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "MiniMax 推出旗舰、高速、轻量三档模型并分别定价，与 Pro/Flash 模型策略相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章讨论 H3 基础版开源与高速/轻量版闭源云端，属开放权重模型发布与分层取舍。",
+    "topics/pro-vs-flash-model-strategy.md": "MiniMax 推出旗舰、高速、轻量三档模型并分别定价，与 Pro/Flash 模型策略相近。",
+    "topics/gpu-ai-compute-unlock.md": "实测使用谷歌 Colab 消费级云端显卡跑开源视频模型，涉及消费级 GPU AI 算力利用。",
+    "topics/premium-ai-subscription-value.md": "创作者依赖谷歌 AI Ultra 会员每月赠送的算力额度来降低运行成本，关联高端 AI 订阅价值。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/minimax-launches-h3-family-open-source-base-model-runs-free-clou.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章讨论 H3 基础版开源与高速/轻量版闭源云端，属开放权重模型发布与分层取舍。",
+      "topics/pro-vs-flash-model-strategy.md": "MiniMax 推出旗舰、高速、轻量三档模型并分别定价，与 Pro/Flash 模型策略相近。",
+      "topics/gpu-ai-compute-unlock.md": "实测使用谷歌 Colab 消费级云端显卡跑开源视频模型，涉及消费级 GPU AI 算力利用。",
+      "topics/premium-ai-subscription-value.md": "创作者依赖谷歌 AI Ultra 会员每月赠送的算力额度来降低运行成本，关联高端 AI 订阅价值。"
+    },
+    "notes": "所有主张均基于提供的 X 帖文，未引入文章外事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/minimax-launches-h3-family-open-source-base-model-runs-free-clou.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

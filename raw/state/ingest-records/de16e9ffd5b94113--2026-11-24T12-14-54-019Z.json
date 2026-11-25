@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:14:54.019Z",
+  "url": "https://x.com/vista8/status/2125064810186612952",
+  "slug": "de16e9ffd5b94113",
+  "content_hash": "894d465f2b46e300b6a2648972fe1c25a0976ffcc93e7f38919adc8d2a870cb7",
+  "source": {
+    "path": "sources/articles/renoise-pure-agent-driven-ai-video-production-tool.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-native-companies.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Renoise 被描述为纯 Agent 驱动的视频制作软件，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文提及「小明公司要起飞」，涉及 AI 原生公司成长与市场预期。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文明确标注付费合作伙伴关系，属于 AI 产品自荐与主持人加热场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "Renoise 被描述为纯 Agent 驱动的视频制作软件，与智能体视频剪辑主题直接相关。",
+    "topics/ai-native-companies.md": "帖文提及「小明公司要起飞」，涉及 AI 原生公司成长与市场预期。",
+    "topics/ai-product-self-rec-amplify.md": "帖文明确标注付费合作伙伴关系，属于 AI 产品自荐与主持人加热场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/renoise-pure-agent-driven-ai-video-production-tool.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-native-companies.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "Renoise 被描述为纯 Agent 驱动的视频制作软件，与智能体视频剪辑主题直接相关。",
+      "topics/ai-native-companies.md": "帖文提及「小明公司要起飞」，涉及 AI 原生公司成长与市场预期。",
+      "topics/ai-product-self-rec-amplify.md": "帖文明确标注付费合作伙伴关系，属于 AI 产品自荐与主持人加热场景。"
+    },
+    "notes": "所有主张均源自该帖文，未独立核实；内容标注为付费合作伙伴关系。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/renoise-pure-agent-driven-ai-video-production-tool.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

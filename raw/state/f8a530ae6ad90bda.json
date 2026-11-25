@@ -1,0 +1,23 @@
+{
+  "slug": "f8a530ae6ad90bda",
+  "url": "https://x.com/turingou/status/2125097609488732332",
+  "title": "问大家用什么 Harness 跑 Neon",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "f8a530ae6ad90bda7e81e0164031a443f5732a975d802777184c2f266a80b81f",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:23.011Z",
+  "content_hash": "ef549d3fb2147d7295444a0d4258329dc1a2ed8c3cb881fad7b4acf06e431c8a",
+  "article_path": "articles/f8a530ae6ad90bda.md",
+  "fetched_url": "https://x.com/turingou/status/2125097609488732332",
+  "source_path": "sources/articles/asking-what-harness-everyone-uses-to-run-neon-models.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T12:19:52.639Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

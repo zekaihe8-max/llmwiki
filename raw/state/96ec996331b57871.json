@@ -1,0 +1,34 @@
+{
+  "slug": "96ec996331b57871",
+  "url": "https://x.com/i/article/2125118946596773888",
+  "title": "文章",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "failed",
+  "hash": "96ec996331b578718f7f8d0222ee5f023a3abf70b57f99b32a25d2c6ce224ceb",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "fetched page had no article body",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-24T11:50:19.173Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    },
+    {
+      "at": "2026-11-25T11:38:37.101Z",
+      "stage": "fetch",
+      "error": "fetched page had no article body"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "fetched page had no article body",
+  "last_fetch_failed_at": "2026-11-25T11:38:37.101Z"
+}

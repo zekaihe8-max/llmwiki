@@ -1,0 +1,23 @@
+{
+  "slug": "47cb4b9b8686ba69",
+  "url": "https://x.com/shao__meng/status/2125168042548273450",
+  "title": "微信开源 WePM：一个 4B 模型同时做检索、生成和决策",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "47cb4b9b8686ba69138d07d92678a065b4493f03bea3eac8a50f470c39ef6f52",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:19.382Z",
+  "content_hash": "109b0576e1a6cbc2b68f459d84ca6b62220908385159ca7017c26675424e58c1",
+  "article_path": "articles/47cb4b9b8686ba69.md",
+  "fetched_url": "https://x.com/shao__meng/status/2125168042548273450",
+  "source_path": "sources/articles/wechat-open-sources-wepm-one-4b-model-handles-retrieval-generati.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T12:10:13.649Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

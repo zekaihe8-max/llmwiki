@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心就是高端 AI 订阅的性价比与额度折算，直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及 AI 会员额度（quota）与使用体验的权衡，与文中跑满额度讨论相近。",
+    "topics/usage-limit-ab-tests.md": "文中比较不同档位使用上限下的价值差异，与用量上限测试主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心就是高端 AI 订阅的性价比与额度折算，直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 会员额度（quota）与使用体验的权衡，与文中跑满额度讨论相近。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中比较不同档位使用上限下的价值差异，与用量上限测试主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，其中引用的图表未直接获取，所有数据均基于提供的帖文正文。"
+}

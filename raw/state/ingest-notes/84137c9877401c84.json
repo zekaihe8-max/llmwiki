@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文涉及邀请码交易诈骗与资产安全风险，属账号与资产安全卫生范畴。",
+    "topics/tech-misuse-concern-continuity.md": "闲鱼高价码与押金套路属于平台功能被滥用的消费者关切。"
+  },
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文涉及邀请码交易诈骗与资产安全风险，属账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "闲鱼高价码与押金套路属于平台功能被滥用的消费者关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未独立核实。"
+}

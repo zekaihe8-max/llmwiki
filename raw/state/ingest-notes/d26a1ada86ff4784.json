@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章聚焦 Skills 从 1 个扩展到 5000 多个的规模化工程与治理，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "文中详述 Skill 目录封装、说明、脚本、参考资料及作者审核流程，属于 Skill 编写与管理范畴。",
+    "topics/context-engineering-for-agents.md": "文中提及预加载占用 5 万至 7 万 token 以及 Code Mode 降低上下文负担，涉及 Agent 上下文工程。",
+    "topics/coding-agent-token-saving-tooling.md": "文中通过 aifx 抹平不同智能体差异、脚本调用工具并存文件以降低 token 开销，符合编程 Agent 省 Token 工具与开销主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Skills 从 1 个扩展到 5000 多个的规模化工程与治理，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中详述 Skill 目录封装、说明、脚本、参考资料及作者审核流程，属于 Skill 编写与管理范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中提及预加载占用 5 万至 7 万 token 以及 Code Mode 降低上下文负担，涉及 Agent 上下文工程。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中通过 aifx 抹平不同智能体差异、脚本调用工具并存文件以降低 token 开销，符合编程 Agent 省 Token 工具与开销主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 meng shao 的帖文，引用 Uber Engineering 博客原文；未独立核实博客详情，所有主张均基于帖文摘录。"
+}

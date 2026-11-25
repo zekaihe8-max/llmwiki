@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-25T11:38:12.299Z",
+  "url": "https://github.com/NyboTV/antigravity-quota",
+  "slug": "81d144ee5bc0dd00",
+  "content_hash": "ffa6ccd01a4c5294fa3dce7065a399704c62ca443a22425346df3c69c0c8ad98",
+  "source": {
+    "path": "sources/articles/antigravity-quota-self-learning-estimator.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "仓库用于查询与预估 Antigravity 配额消耗，与编程 Agent 体验与额度主题相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "提供 /quota 指令与 MCP 工具，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "自学习校准与配额归因涉及智能体算力与治理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "仓库用于查询与预估 Antigravity 配额消耗，与编程 Agent 体验与额度主题相关。",
+    "topics/agent-skill-authoring.md": "提供 /quota 指令与 MCP 工具，与 Agent Skill 编写主题相关。",
+    "topics/agent-compute-and-governance.md": "自学习校准与配额归因涉及智能体算力与治理。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-quota-self-learning-estimator.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

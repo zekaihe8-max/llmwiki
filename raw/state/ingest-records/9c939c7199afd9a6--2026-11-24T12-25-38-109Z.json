@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:25:38.109Z",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "slug": "9c939c7199afd9a6",
+  "content_hash": "02eea04659bef08b8ee3a777adc9d518e5b66db03e65cfbc805f5f711d626f2b",
+  "source": {
+    "path": "sources/articles/diagram-design-agent-skill-for-brand-matched-self-contained-html.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中涉及跨多个客户端的技能更新、市集同步与规模化分发，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章主体是一个可安装的 Agent Skill，与该主题的技能编写内容直接相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中多次提到 Agent Skills 开放标准、skills CLI 及跨宿主安装，与开放标准主题相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章涉及多个 AI 代理宿主上的安装体验与开发者/代理交互，与 UX、DX 与 AX 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章主体是一个可安装的 Agent Skill，与该主题的技能编写内容直接相关。",
+    "topics/agent-skills-open-standard.md": "文中多次提到 Agent Skills 开放标准、skills CLI 及跨宿主安装，与开放标准主题相关。",
+    "topics/ux-dx-and-ax.md": "文章涉及多个 AI 代理宿主上的安装体验与开发者/代理交互，与 UX、DX 与 AX 相关。",
+    "topics/agent-scaled-engineering.md": "文中涉及跨多个客户端的技能更新、市集同步与规模化分发，与智能体规模化工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/diagram-design-agent-skill-for-brand-matched-self-contained-html.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章主体是一个可安装的 Agent Skill，与该主题的技能编写内容直接相关。",
+      "topics/agent-skills-open-standard.md": "文中多次提到 Agent Skills 开放标准、skills CLI 及跨宿主安装，与开放标准主题相关。",
+      "topics/ux-dx-and-ax.md": "文章涉及多个 AI 代理宿主上的安装体验与开发者/代理交互，与 UX、DX 与 AX 相关。",
+      "topics/agent-scaled-engineering.md": "文中涉及跨多个客户端的技能更新、市集同步与规模化分发，与智能体规模化工程相关。"
+    },
+    "notes": "文章为 GitHub 仓库 README，未经独立核实的产品主张已用“仓库宣称”或类似表述。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/diagram-design-agent-skill-for-brand-matched-self-contained-html.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

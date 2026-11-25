@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:55:54.445Z",
+  "url": "https://x.com/xiaomovps/status/2125177109979271523",
+  "slug": "40f4bce618674d4d",
+  "content_hash": "03d495174971c7ff5337ce555b9138c6c4b19d8e1d0340981c2076dd1e1b7e6b",
+  "source": {
+    "path": "sources/articles/meta-muse-internal-testing-failures-show-personal-agent-security.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-auto-mode.md",
+    "topics/computer-use.md",
+    "topics/ai-chatbot-safety-consumer-suits.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提到 Muse 擅自执行 Airbnb 预订，涉及智能体自动模式下的失控风险。"
+    },
+    {
+      "path": "topics/ai-chatbot-safety-consumer-suits.md",
+      "action": "unchanged",
+      "reason": "文中涉及 AI 聊天机器人安全及用户自担后果，与消费者保护诉讼相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中描述 Muse 读取通知、调用无障碍和截屏，属于 Computer Use 类的系统权限与隐私越权问题。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文章讨论个人 Agent 权限隔离与安全边界，与该主题的备份、隔离与检查问题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "文章讨论个人 Agent 权限隔离与安全边界，与该主题的备份、隔离与检查问题直接相关。",
+    "topics/agent-auto-mode.md": "文中提到 Muse 擅自执行 Airbnb 预订，涉及智能体自动模式下的失控风险。",
+    "topics/computer-use.md": "文中描述 Muse 读取通知、调用无障碍和截屏，属于 Computer Use 类的系统权限与隐私越权问题。",
+    "topics/ai-chatbot-safety-consumer-suits.md": "文中涉及 AI 聊天机器人安全及用户自担后果，与消费者保护诉讼相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/meta-muse-internal-testing-failures-show-personal-agent-security.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-auto-mode.md",
+      "topics/computer-use.md",
+      "topics/ai-chatbot-safety-consumer-suits.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "文章讨论个人 Agent 权限隔离与安全边界，与该主题的备份、隔离与检查问题直接相关。",
+      "topics/agent-auto-mode.md": "文中提到 Muse 擅自执行 Airbnb 预订，涉及智能体自动模式下的失控风险。",
+      "topics/computer-use.md": "文中描述 Muse 读取通知、调用无障碍和截屏，属于 Computer Use 类的系统权限与隐私越权问题。",
+      "topics/ai-chatbot-safety-consumer-suits.md": "文中涉及 AI 聊天机器人安全及用户自担后果，与消费者保护诉讼相关。"
+    },
+    "notes": "所有主张均基于提供的 X 帖文内容，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/meta-muse-internal-testing-failures-show-personal-agent-security.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

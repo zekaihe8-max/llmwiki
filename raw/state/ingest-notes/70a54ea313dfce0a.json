@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章主体为 DeepSeek Harness 插件，与“宽松网页管控下的 Agent Harness 插件”主题直接相关。",
+    "topics/agent-skill-authoring.md": "该仓库实现了面向求职场景的 Agent 技能/插件能力，与 Agent Skill 编写主题相近。",
+    "topics/agent-auto-mode.md": "插件支持官网定时巡检与后台自动工作提炼，体现智能体自动化模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章主体为 DeepSeek Harness 插件，与“宽松网页管控下的 Agent Harness 插件”主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "该仓库实现了面向求职场景的 Agent 技能/插件能力，与 Agent Skill 编写主题相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "插件支持官网定时巡检与后台自动工作提炼，体现智能体自动化模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 GitHub README markdown，未引用外部链接或未在文中出现的信息。"
+}

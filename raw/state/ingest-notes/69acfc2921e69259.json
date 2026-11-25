@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-native-companies.md",
+    "topics/geo-personal-website-first-step.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文中 Renoise 被描述为纯 Agent 驱动的视频制作软件，与智能体视频剪辑主题直接相关。",
+    "topics/ai-native-companies.md": "小明公司作为 AI 视频工具团队，其办公环境与公司文化契合 AI 原生公司主题。",
+    "topics/geo-personal-website-first-step.md": "帖文提到作者参加 GEO 大会，与 GEO 相关主题有上下文关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文中 Renoise 被描述为纯 Agent 驱动的视频制作软件，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "小明公司作为 AI 视频工具团队，其办公环境与公司文化契合 AI 原生公司主题。"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "帖文提到作者参加 GEO 大会，与 GEO 相关主题有上下文关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均标注为「帖文称」，未独立核实；未引用图片具体内容，仅引用推文文本。"
+}

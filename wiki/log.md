@@ -1,5 +1,109 @@
 ## 2026-11-24
 
+* **创建 / Creation**: 归档 [Uber Agent Skills 治理实战](./sources/articles/how-uber-evals-1-million-agent-skill-invocations-a-month.md)。 / Filed [How Uber Evals 1 Million Agent Skill Invocations a Month](./sources/articles/how-uber-evals-1-million-agent-skill-invocations-a-month.md).
+
+* **创建 / Creation**: 归档 [Uber 企业级 Agent Skills 治理实战：从 1 个到 5000 多个的规模化与质量管控](./sources/articles/uber-enterprise-agent-skills-governance-scaling-to-5-000-skills.md)。 / Filed [Uber Enterprise Agent Skills Governance: Scaling to 5,000+ Skills and Quality Control](./sources/articles/uber-enterprise-agent-skills-governance-scaling-to-5-000-skills.md).
+
+* **创建 / Creation**: 归档 [ADK 开源智能体开发框架](./sources/articles/adk-open-source-agent-development-framework.md)。 / Filed [ADK Open-Source Agent Development Framework](./sources/articles/adk-open-source-agent-development-framework.md).
+
+* **创建 / Creation**: 归档 [Google Skills：构建明日 AI 能力](./sources/articles/google-skills-build-ai-skills-for-tomorrow-today.md)。 / Filed [Google Skills: Build AI Skills for Tomorrow, Today](./sources/articles/google-skills-build-ai-skills-for-tomorrow-today.md).
+
+* **创建 / Creation**: 归档 [Google 官方 AI 与 AI Agent 学习入口](./sources/articles/google-official-ai-and-ai-agent-learning-entry-points.md)。 / Filed [Google Official AI and AI Agent Learning Entry Points](./sources/articles/google-official-ai-and-ai-agent-learning-entry-points.md).
+
+* **创建 / Creation**: 归档 [安装 pstack for Grok Bot](./sources/articles/install-pstack-for-grok-bot.md)。 / Filed [Install pstack for Grok Bot](./sources/articles/install-pstack-for-grok-bot.md).
+
+* **创建 / Creation**: 归档 [pstack 新增 /reframe 技能，先补齐专业概念再重写需求](./sources/articles/pstack-adds-reframe-skill-to-clarify-concepts-before-rewriting-r.md)。 / Filed [pstack Adds /reframe Skill to Clarify Concepts Before Rewriting Requirements](./sources/articles/pstack-adds-reframe-skill-to-clarify-concepts-before-rewriting-r.md).
+
+* **创建 / Creation**: 归档 [Diagram Design：Agent 绘图技能，生成自带品牌风格的单文件 SVG 图表](./sources/articles/diagram-design-agent-skill-for-brand-matched-self-contained-html.md)。 / Filed [Diagram Design: Agent skill for brand-matched self-contained HTML+SVG diagrams](./sources/articles/diagram-design-agent-skill-for-brand-matched-self-contained-html.md).
+
+* **创建 / Creation**: 归档 [开源图表设计 Skill「Diagram Design」介绍](./sources/articles/introduction-to-open-source-chart-design-skill-diagram-design.md)。 / Filed [Introduction to Open-Source Chart Design Skill "Diagram Design"](./sources/articles/introduction-to-open-source-chart-design-skill-diagram-design.md).
+
+* **创建 / Creation**: 归档 [为什么写公众号，而不是去做小红书](./sources/articles/why-write-a-wechat-official-account-instead-of-doing-xiaohongshu.md)。 / Filed [Why write a WeChat Official Account instead of doing Xiaohongshu](./sources/articles/why-write-a-wechat-official-account-instead-of-doing-xiaohongshu.md).
+
+* **创建 / Creation**: 归档 [铁柱：接入 Grok Bot](./sources/articles/tiezhu-connecting-grok-bot.md)。 / Filed [Tiezhu: Connecting Grok Bot](./sources/articles/tiezhu-connecting-grok-bot.md).
+
+* **创建 / Creation**: 归档 [铁柱：已有人被骗，警惕小豆邀请码诈骗](./sources/articles/tiezhu-someone-has-been-scammed-beware-of-xiaodou-invitation-cod.md)。 / Filed [Tiezhu: Someone Has Been Scammed, Beware of Xiaodou Invitation Code Fraud](./sources/articles/tiezhu-someone-has-been-scammed-beware-of-xiaodou-invitation-cod.md).
+
+* **创建 / Creation**: 归档 [别去闲鱼买小豆激活码，先把教程和案例做出来](./sources/articles/don-t-buy-xiao-dou-activation-codes-on-xianyu-build-tutorials-an.md)。 / Filed [Don't buy Xiao Dou activation codes on Xianyu; build tutorials and cases first](./sources/articles/don-t-buy-xiao-dou-activation-codes-on-xianyu-build-tutorials-an.md).
+
+* **创建 / Creation**: 归档 [购买页](./sources/articles/purchase-page.md)。 / Filed [Purchase Page](./sources/articles/purchase-page.md).
+
+* **创建 / Creation**: 归档 [Every 今年的 All Access 年费 388 美元，原价 625 美元](./sources/articles/every-s-all-access-annual-fee-388-original-price-625.md)。 / Filed [Every's All Access annual fee $388, original price $625](./sources/articles/every-s-all-access-annual-fee-388-original-price-625.md).
+
+* **创建 / Creation**: 归档 [私人药物研发实验室正在变成可预见的未来](./sources/articles/private-drug-r-d-labs-are-becoming-the-foreseeable-future.md)。 / Filed [Private drug R&D labs are becoming the foreseeable future](./sources/articles/private-drug-r-d-labs-are-becoming-the-foreseeable-future.md).
+
+* **创建 / Creation**: 归档 [问大家用什么 Harness 跑 Neon 模型](./sources/articles/asking-what-harness-everyone-uses-to-run-neon-models.md)。 / Filed [Asking What Harness Everyone Uses to Run Neon Models](./sources/articles/asking-what-harness-everyone-uses-to-run-neon-models.md).
+
+* **创建 / Creation**: 归档 [匿名模型 HungerG 前端对答案实测](./sources/articles/anonymous-model-hungerg-frontend-answer-checking-test.md)。 / Filed [Anonymous Model HungerG Frontend Answer-Checking Test](./sources/articles/anonymous-model-hungerg-frontend-answer-checking-test.md).
+
+* **创建 / Creation**: 归档 [匿名模型 HungerG 预告：Qoder 与 OpenCode Go 用户可免费试用](./sources/articles/anonymous-model-hungerg-preview-free-for-qoder-and-opencode-go-u.md)。 / Filed [Anonymous Model HungerG Preview: Free for Qoder and OpenCode Go Users](./sources/articles/anonymous-model-hungerg-preview-free-for-qoder-and-opencode-go-u.md).
+
+* **创建 / Creation**: 归档 [Google Flow 保姆级教程｜从零做出第一条有对白的 AI 短片](./sources/articles/google-flow-beginner-tutorial-making-your-first-ai-short-film-wi.md)。 / Filed [Google Flow Beginner Tutorial: Making Your First AI Short Film with Dialogue from Scratch](./sources/articles/google-flow-beginner-tutorial-making-your-first-ai-short-film-wi.md).
+
+* **创建 / Creation**: 归档 [第二届 GEO 大会嘉宾 PPT 资料提供下载](./sources/articles/second-geo-conference-guest-ppt-resources-available-for-download.md)。 / Filed [Second GEO Conference Guest PPT Resources Available for Download](./sources/articles/second-geo-conference-guest-ppt-resources-available-for-download.md).
+
+* **创建 / Creation**: 归档 [小明 Renoise 团队深圳办公室参观](./sources/articles/visit-to-xiao-ming-renoise-team-s-shenzhen-office.md)。 / Filed [Visit to Xiao Ming Renoise Team's Shenzhen Office](./sources/articles/visit-to-xiao-ming-renoise-team-s-shenzhen-office.md).
+
+* **创建 / Creation**: 归档 [Renoise：纯 Agent 驱动的 AI 视频制作工具](./sources/articles/renoise-pure-agent-driven-ai-video-production-tool.md)。 / Filed [Renoise: Pure Agent-Driven AI Video Production Tool](./sources/articles/renoise-pure-agent-driven-ai-video-production-tool.md).
+
+* **创建 / Creation**: 归档 [让 Codex 读取本机，按近两个月使用频次画出年度软件图](./sources/articles/let-codex-read-the-local-machine-and-draw-an-annual-software-cha.md)。 / Filed [Let Codex read the local machine and draw an annual software chart based on usage frequency over the past two months](./sources/articles/let-codex-read-the-local-machine-and-draw-an-annual-software-cha.md).
+
+* **创建 / Creation**: 归档 [试了豆包个人 Agent：生态整合亮眼，连接器引导生硬](./sources/articles/trying-doubao-personal-agent-strong-ecosystem-integration-stiff.md)。 / Filed [Trying Doubao Personal Agent: Strong Ecosystem Integration, Stiff Connector Onboarding](./sources/articles/trying-doubao-personal-agent-strong-ecosystem-integration-stiff.md).
+
+* **创建 / Creation**: 归档 [给儿子做游戏，Sol 干一下午，换成 Opus 5.5 十分钟就过了](./sources/articles/making-a-game-for-his-son-sol-took-an-afternoon-opus-5-5-took-te.md)。 / Filed [Making a Game for His Son: Sol Took an Afternoon, Opus 5.5 Took Ten Minutes](./sources/articles/making-a-game-for-his-son-sol-took-an-afternoon-opus-5-5-took-te.md).
+
+* **创建 / Creation**: 归档 [Armin Ronacher：先建好软件工作坊，再考虑软件工厂](./sources/articles/armin-ronacher-build-the-software-workshop-before-the-software-f.md)。 / Filed [Armin Ronacher: Build the software workshop before the software factory](./sources/articles/armin-ronacher-build-the-software-workshop-before-the-software-f.md).
+
+* **创建 / Creation**: 归档 [微信开源 WePM：一个 4B 模型同时做检索、生成和决策](./sources/articles/wechat-open-sources-wepm-one-4b-model-handles-retrieval-generati.md)。 / Filed [WeChat Open-Sources WePM: One 4B Model Handles Retrieval, Generation, and Decision-Making](./sources/articles/wechat-open-sources-wepm-one-4b-model-handles-retrieval-generati.md).
+
+* **创建 / Creation**: 归档 [《Little Book of Agent Engineering》：203 页拆解模型之外的 Agent Harness 工程](./sources/articles/little-book-of-agent-engineering-203-pages-on-agent-harness-engi.md)。 / Filed ["Little Book of Agent Engineering": 203 Pages on Agent Harness Engineering Beyond the Model](./sources/articles/little-book-of-agent-engineering-203-pages-on-agent-harness-engi.md).
+
+* **创建 / Creation**: 归档 [Alpöge 回应黎曼猜想争议：25 万页是玩笑，Lean 代码很烂，但证明成立](./sources/articles/alp-ge-responds-to-riemann-hypothesis-controversy-250-000-pages.md)。 / Filed [Alpöge Responds to Riemann Hypothesis Controversy: 250,000 Pages Was a Joke, Lean Code Is Messy, but Proof Holds](./sources/articles/alp-ge-responds-to-riemann-hypothesis-controversy-250-000-pages.md).
+
+* **创建 / Creation**: 归档 [葬送的豆包：AI视频用于农村葬礼，水印未去除](./sources/articles/doubao-funeral-ai-video-used-in-rural-funeral-watermark-left-int.md)。 / Filed [Doubao Funeral: AI Video Used in Rural Funeral, Watermark Left Intact](./sources/articles/doubao-funeral-ai-video-used-in-rural-funeral-watermark-left-int.md).
+
+* **创建 / Creation**: 归档 [葬礼上播放 AI 生成的逝者「驾鹤西去」视频](./sources/articles/ai-generated-driving-a-crane-to-the-west-video-of-the-deceased-p.md)。 / Filed [AI-generated "driving a crane to the west" video of the deceased played at funeral](./sources/articles/ai-generated-driving-a-crane-to-the-west-video-of-the-deceased-p.md).
+
+* **创建 / Creation**: 归档 [dsh-niuma-broker：DeepSeek Harness 牛马经纪人求职助手](./sources/articles/dsh-niuma-broker-deepseek-harness-niuma-broker-job-hunting-assis.md)。 / Filed [dsh-niuma-broker: DeepSeek Harness Niuma Broker Job Hunting Assistant](./sources/articles/dsh-niuma-broker-deepseek-harness-niuma-broker-job-hunting-assis.md).
+
+* **创建 / Creation**: 归档 [「牛马经纪人」把找工作反着做](./sources/articles/ox-horse-broker-reverses-job-hunting.md)。 / Filed ["Ox-Horse Broker" Reverses Job Hunting](./sources/articles/ox-horse-broker-reverses-job-hunting.md).
+
+* **创建 / Creation**: 归档 [官方模型表](./sources/articles/official-model-table.md)。 / Filed [Official Model Table](./sources/articles/official-model-table.md).
+
+* **创建 / Creation**: 归档 [反重力全员重置额度，付费 Pro 也能用 Carbon 了](./sources/articles/antigravity-resets-quotas-for-all-paid-pro-users-now-get-carbon.md)。 / Filed [Antigravity Resets Quotas for All, Paid Pro Users Now Get Carbon](./sources/articles/antigravity-resets-quotas-for-all-paid-pro-users-now-get-carbon.md).
+
+* **创建 / Creation**: 归档 [MiniMax 发布 H3 全家桶：开源基础版免费跑，云端旗舰版按秒收费](./sources/articles/minimax-launches-h3-family-open-source-base-model-runs-free-clou.md)。 / Filed [MiniMax Launches H3 Family: Open-Source Base Model Runs Free, Cloud Tiers Charged Per Second](./sources/articles/minimax-launches-h3-family-open-source-base-model-runs-free-clou.md).
+
+* **创建 / Creation**: 归档 [grow-me · 让需求长成方案](./sources/articles/grow-me-let-requirements-grow-into-plans.md)。 / Filed [grow-me · Let Requirements Grow into Plans](./sources/articles/grow-me-let-requirements-grow-into-plans.md).
+
+* **创建 / Creation**: 归档 [grow-me 和 grow-loop：把需求沟通和进度搬出聊天框](./sources/articles/grow-me-and-grow-loop-moving-requirement-communication-and-progr.md)。 / Filed [grow-me and grow-loop: Moving requirement communication and progress out of the chat box](./sources/articles/grow-me-and-grow-loop-moving-requirement-communication-and-progr.md).
+
+* **创建 / Creation**: 归档 [反重力接口 (Antigravity Interface, AGI)](./sources/articles/antigravity-interface-agi.md)。 / Filed [Antigravity Interface (AGI)](./sources/articles/antigravity-interface-agi.md).
+
+* **创建 / Creation**: 归档 [Antigravity Link：手机浏览器实时镜像与本地操控 Antigravity 会话的 VS Code 插件](./sources/articles/antigravity-link-vs-code-extension-for-live-mobile-mirroring-and.md)。 / Filed [Antigravity Link: VS Code extension for live mobile mirroring and local control of Antigravity sessions](./sources/articles/antigravity-link-vs-code-extension-for-live-mobile-mirroring-and.md).
+
+* **创建 / Creation**: 归档 [Antigravity AutoAccept 自动接受扩展](./sources/articles/antigravity-autoaccept-extension.md)。 / Filed [AntiGravity AutoAccept Extension](./sources/articles/antigravity-autoaccept-extension.md).
+
+* **创建 / Creation**: 归档 [Antigravity 配额与自学习估算器](./sources/articles/antigravity-quota-self-learning-estimator.md)。 / Filed [Antigravity Quota & Self-Learning Estimator](./sources/articles/antigravity-quota-self-learning-estimator.md).
+
+* **创建 / Creation**: 归档 [别忘了 Gemini：Google AI 会员自带的三大实用功能](./sources/articles/don-t-forget-gemini-three-practical-features-included-with-googl.md)。 / Filed [Don't Forget Gemini: Three Practical Features Included with Google AI Membership](./sources/articles/don-t-forget-gemini-three-practical-features-included-with-googl.md).
+
+* **创建 / Creation**: 归档 [AGY 四插件增强方案](./sources/articles/four-plugin-enhancement-scheme-for-agy.md)。 / Filed [Four-Plugin Enhancement Scheme for AGY](./sources/articles/four-plugin-enhancement-scheme-for-agy.md).
+
+* **创建 / Creation**: 归档 [Meta Muse 内部测试翻车，Personal Agent 安全边界未兜住](./sources/articles/meta-muse-internal-testing-failures-show-personal-agent-security.md)。 / Filed [Meta Muse internal testing failures show Personal Agent security boundaries not yet contained](./sources/articles/meta-muse-internal-testing-failures-show-personal-agent-security.md).
+
+* **创建 / Creation**: 归档 [国产 Personal Agent 已经有几款能看的了](./sources/articles/several-domestic-personal-agents-are-now-worth-looking-at.md)。 / Filed [Several domestic Personal Agents are now worth looking at](./sources/articles/several-domestic-personal-agents-are-now-worth-looking-at.md).
+
+* **创建 / Creation**: 归档 [铁锤人同一组数据：100 刀与 200 刀 AI 会员 API 额度折算对比](./sources/articles/tiechuren-same-dataset-100-vs-200-ai-membership-api-value-compar.md)。 / Filed [Tiechuren Same Dataset: $100 vs $200 AI Membership API Value Comparison](./sources/articles/tiechuren-same-dataset-100-vs-200-ai-membership-api-value-compar.md).
+
+* **创建 / Creation**: 归档 [100 美元档 Claude 最划算，200 美元档谷歌才追平](./sources/articles/claude-best-value-at-100-tier-google-catches-up-at-200-tier.md)。 / Filed [Claude Best Value at $100 Tier, Google Catches Up at $200 Tier](./sources/articles/claude-best-value-at-100-tier-google-catches-up-at-200-tier.md).
+
+* **创建 / Creation**: 归档 [小豆开启邀请制公测，打通抖音飞书与手机本地上下文](./sources/articles/xiaodou-opens-invitation-only-beta-connecting-douyin-feishu-and.md)。 / Filed [Xiaodou opens invitation-only beta, connecting Douyin, Feishu and local mobile context](./sources/articles/xiaodou-opens-invitation-only-beta-connecting-douyin-feishu-and.md).
+
+* **创建 / Creation**: 归档 [小豆开启邀请制公测，上下文打通抖音飞书与手机本地能力](./sources/articles/xiao-dou-launches-invite-only-public-beta-connecting-context-acr.md)。 / Filed [Xiao Dou launches invite-only public beta, connecting context across Douyin, Feishu and phone local capabilities](./sources/articles/xiao-dou-launches-invite-only-public-beta-connecting-context-acr.md).
+
+* **创建 / Creation**: 归档 [两条产品体验与动效优化 Prompt](./sources/articles/two-prompts-for-product-ux-and-motion-design-optimization.md)。 / Filed [Two Prompts for Product UX and Motion Design Optimization](./sources/articles/two-prompts-for-product-ux-and-motion-design-optimization.md).
+
 
 * **创建 / Creation**: 归档 [过时的 CLAUDE.md 与 AGENTS.md 会误导编程 Agent](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md)。 / Filed [Stale CLAUDE.md and AGENTS.md Mislead Coding Agents](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md).
 

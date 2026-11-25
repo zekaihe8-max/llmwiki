@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:27:34.051Z",
+  "url": "https://x.com/xiaomovps/status/2125050177572733319",
+  "slug": "d0395f136eecd533",
+  "content_hash": "05b447413d02b6a359d562a711de1f4593b9af8fc96b1fbced6413de3610c09c",
+  "source": {
+    "path": "sources/articles/google-official-ai-and-ai-agent-learning-entry-points.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中 ADK 与 Codelabs 涉及从零搭 Agent、接工具与编排，与技能编写相关"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦从零基础到代码实践的智能体学习路径，与该主题的基础夯实方向相近"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文中多次提及多 Agent、A2A 与并行编排，与多智能体基建问题相关"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文主张优先使用官方免费资源而非购买二手课程，体现先复用再编写的原则"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文聚焦从零基础到代码实践的智能体学习路径，与该主题的基础夯实方向相近",
+    "topics/agent-skill-authoring.md": "文中 ADK 与 Codelabs 涉及从零搭 Agent、接工具与编排，与技能编写相关",
+    "topics/multiagent-infra-four-problems.md": "文中多次提及多 Agent、A2A 与并行编排，与多智能体基建问题相关",
+    "topics/reuse-before-write.md": "帖文主张优先使用官方免费资源而非购买二手课程，体现先复用再编写的原则"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-official-ai-and-ai-agent-learning-entry-points.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-ai-foundation.md",
+      "topics/agent-skill-authoring.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-ai-foundation.md": "帖文聚焦从零基础到代码实践的智能体学习路径，与该主题的基础夯实方向相近",
+      "topics/agent-skill-authoring.md": "文中 ADK 与 Codelabs 涉及从零搭 Agent、接工具与编排，与技能编写相关",
+      "topics/multiagent-infra-four-problems.md": "文中多次提及多 Agent、A2A 与并行编排，与多智能体基建问题相关",
+      "topics/reuse-before-write.md": "帖文主张优先使用官方免费资源而非购买二手课程，体现先复用再编写的原则"
+    },
+    "notes": "来源为 X 用户 @xiaomovps 的帖文，未引入文中未出现的 URL 或事实",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-official-ai-and-ai-agent-learning-entry-points.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

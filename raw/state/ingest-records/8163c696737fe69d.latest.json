@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:08:10.232Z",
+  "url": "https://x.com/Gorden_Sun/status/2125079665635361098",
+  "slug": "8163c696737fe69d",
+  "content_hash": "3fb859117a8a8d704d059d7056d54655a0a4cee5473a0fed1b92f620f3ca58c7",
+  "source": {
+    "path": "sources/articles/doubao-funeral-ai-video-used-in-rural-funeral-watermark-left-int.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 生成视频在特定场景下的使用与剪辑痕迹。"
+    },
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 生成媒体内容在社交平台传播及水印保留问题。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "农村葬礼场景下使用 AI 视频并保留生成标识，引发技术滥用与语境不当关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文涉及 AI 生成视频在特定场景下的使用与剪辑痕迹。",
+    "topics/ai-media-training-corpus-loop.md": "涉及 AI 生成媒体内容在社交平台传播及水印保留问题。",
+    "topics/tech-misuse-concern-continuity.md": "农村葬礼场景下使用 AI 视频并保留生成标识，引发技术滥用与语境不当关切。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/doubao-funeral-ai-video-used-in-rural-funeral-watermark-left-int.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文涉及 AI 生成视频在特定场景下的使用与剪辑痕迹。",
+      "topics/ai-media-training-corpus-loop.md": "涉及 AI 生成媒体内容在社交平台传播及水印保留问题。",
+      "topics/tech-misuse-concern-continuity.md": "农村葬礼场景下使用 AI 视频并保留生成标识，引发技术滥用与语境不当关切。"
+    },
+    "notes": "所有事实均仅基于所获取的 X 帖文内容，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/doubao-funeral-ai-video-used-in-rural-funeral-watermark-left-int.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

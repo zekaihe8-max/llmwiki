@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:57:03.855Z",
+  "url": "https://x.com/xiaomovps/status/2125106052224196609",
+  "slug": "69fac1df1c0733c8",
+  "content_hash": "dfe9f974389f3d64e4f8a2fbaa118d3463a2e688291a546e1177f40620d0fb79",
+  "source": {
+    "path": "sources/articles/don-t-forget-gemini-three-practical-features-included-with-googl.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-native-web-search.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "Gemini Deep Research 涉及自动联网调研多个网页，与面向 Agent 的联网搜索相近。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文提到拆解 YouTube 长视频并保存到文档，与 AI 辅助剪藏与媒体笔记相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提及 AGY 与 Gemini 额度分开、额度用完可切换使用，涉及编程 Agent 体验与额度。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于提醒已付费用户充分利用会员权益，与高端 AI 订阅价值主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文核心在于提醒已付费用户充分利用会员权益，与高端 AI 订阅价值主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提及 AGY 与 Gemini 额度分开、额度用完可切换使用，涉及编程 Agent 体验与额度。",
+    "topics/agent-native-web-search.md": "Gemini Deep Research 涉及自动联网调研多个网页，与面向 Agent 的联网搜索相近。",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文提到拆解 YouTube 长视频并保存到文档，与 AI 辅助剪藏与媒体笔记相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-forget-gemini-three-practical-features-included-with-googl.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/agent-native-web-search.md",
+      "topics/ai-assisted-clipping-and-notes.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "帖文核心在于提醒已付费用户充分利用会员权益，与高端 AI 订阅价值主题相关。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文提及 AGY 与 Gemini 额度分开、额度用完可切换使用，涉及编程 Agent 体验与额度。",
+      "topics/agent-native-web-search.md": "Gemini Deep Research 涉及自动联网调研多个网页，与面向 Agent 的联网搜索相近。",
+      "topics/ai-assisted-clipping-and-notes.md": "帖文提到拆解 YouTube 长视频并保存到文档，与 AI 辅助剪藏与媒体笔记相关。"
+    },
+    "notes": "来源为 X 平台 @xiaomovps 的单条帖文，未引入文中未提及的外部链接或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-forget-gemini-three-practical-features-included-with-googl.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

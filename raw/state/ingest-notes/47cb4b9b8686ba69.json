@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章聚焦本地端侧运行的开源小模型，与本地开放助手与机器人小模型主题高度相关。",
+    "topics/open-weight-frontier-models.md": "WePM 代码和权重采用 Apache 2.0 开源，属于开放权重模型发布。",
+    "topics/agent-model-channel-tradeoffs.md": "WePM 将检索、生成、决策三类能力整合为单模型，涉及面向 Agent 的模型选型与取舍。",
+    "topics/gpu-ai-compute-unlock.md": "文章强调在 M5 Mac 上完全本地运行及权重内存大幅降低，关联消费端设备 AI 算力与内存占用。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章聚焦本地端侧运行的开源小模型，与本地开放助手与机器人小模型主题高度相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "WePM 代码和权重采用 Apache 2.0 开源，属于开放权重模型发布。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "WePM 将检索、生成、决策三类能力整合为单模型，涉及面向 Agent 的模型选型与取舍。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章强调在 M5 Mac 上完全本地运行及权重内存大幅降低，关联消费端设备 AI 算力与内存占用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 平台 @shao__meng 的帖文，引用 arxiv.org/abs/2611.27365；未超出文章内容补充事实。"
+}

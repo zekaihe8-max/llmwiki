@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/ai-native-companies.md",
+    "topics/unified-agent-resource-library.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "文章聚焦 GEO 大会与 GEO 相关资料，与该主题的 GEO 入门内容最为贴近。",
+    "topics/ai-native-companies.md": "嘉宾多为 GEO 公司一号位，涉及 AI 原生公司创始人层面。",
+    "topics/unified-agent-resource-library.md": "文章提供 PPT 资料集中下载阅读，与统一资源库的主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 GEO 大会与 GEO 相关资料，与该主题的 GEO 入门内容最为贴近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "嘉宾多为 GEO 公司一号位，涉及 AI 原生公司创始人层面。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "文章提供 PPT 资料集中下载阅读，与统一资源库的主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容仅来自提供的 X 帖文，未访问外部链接。"
+}

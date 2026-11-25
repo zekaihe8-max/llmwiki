@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:54:33.512Z",
+  "url": "https://x.com/lxfater/status/2125116250581811449",
+  "slug": "b477a3287138279c",
+  "content_hash": "bfb37042633961746cd2dfe20abf58bbe103b396ac0613cac49a0c9bec5c19ad",
+  "source": {
+    "path": "sources/articles/tiechuren-same-dataset-100-vs-200-ai-membership-api-value-compar.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 会员额度（quota）与使用体验的权衡，与文中跑满额度讨论相近。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心就是高端 AI 订阅的性价比与额度折算，直接相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中比较不同档位使用上限下的价值差异，与用量上限测试主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心就是高端 AI 订阅的性价比与额度折算，直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及 AI 会员额度（quota）与使用体验的权衡，与文中跑满额度讨论相近。",
+    "topics/usage-limit-ab-tests.md": "文中比较不同档位使用上限下的价值差异，与用量上限测试主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tiechuren-same-dataset-100-vs-200-ai-membership-api-value-compar.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心就是高端 AI 订阅的性价比与额度折算，直接相关。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及 AI 会员额度（quota）与使用体验的权衡，与文中跑满额度讨论相近。",
+      "topics/usage-limit-ab-tests.md": "文中比较不同档位使用上限下的价值差异，与用量上限测试主题相关。"
+    },
+    "notes": "来源为 X 帖文，其中引用的图表未直接获取，所有数据均基于提供的帖文正文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tiechuren-same-dataset-100-vs-200-ai-membership-api-value-compar.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

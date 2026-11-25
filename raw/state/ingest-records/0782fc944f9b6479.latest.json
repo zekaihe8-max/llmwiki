@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:55:19.252Z",
+  "url": "https://x.com/xiaomovps/status/2125158230254850416",
+  "slug": "0782fc944f9b6479",
+  "content_hash": "5b04d3697308bf942db8918f5d952a17c7c165559ee818734387218f3243c342",
+  "source": {
+    "path": "sources/articles/several-domestic-personal-agents-are-now-worth-looking-at.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-hype-familiarity-gap.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/computer-use.md",
+    "topics/agent-home-platform-control.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-home-platform-control.md",
+      "action": "unchanged",
+      "reason": "文中提到灵光2.0能连米家等智能家居设备，涉及Agent经家居平台直控设备。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到Qclaw、有道龙虾、DuMate接管本地电脑，属于Computer Use范畴。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到蚂蚁灵光2.0在独立云主机离线运行，涉及个人Agent云环境。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦国产Personal Agent产品盘点与市场热潮，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-hype-familiarity-gap.md": "帖文聚焦国产Personal Agent产品盘点与市场热潮，与该主题高度相关。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到蚂蚁灵光2.0在独立云主机离线运行，涉及个人Agent云环境。",
+    "topics/computer-use.md": "文中提到Qclaw、有道龙虾、DuMate接管本地电脑，属于Computer Use范畴。",
+    "topics/agent-home-platform-control.md": "文中提到灵光2.0能连米家等智能家居设备，涉及Agent经家居平台直控设备。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/several-domestic-personal-agents-are-now-worth-looking-at.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-hype-familiarity-gap.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/computer-use.md",
+      "topics/agent-home-platform-control.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-hype-familiarity-gap.md": "帖文聚焦国产Personal Agent产品盘点与市场热潮，与该主题高度相关。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中提到蚂蚁灵光2.0在独立云主机离线运行，涉及个人Agent云环境。",
+      "topics/computer-use.md": "文中提到Qclaw、有道龙虾、DuMate接管本地电脑，属于Computer Use范畴。",
+      "topics/agent-home-platform-control.md": "文中提到灵光2.0能连米家等智能家居设备，涉及Agent经家居平台直控设备。"
+    },
+    "notes": "Source is an X post by @xiaomovps; no URLs beyond the given source are invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/several-domestic-personal-agents-are-now-worth-looking-at.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

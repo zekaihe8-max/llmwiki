@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:05:29.670Z",
+  "url": "https://x.com/lxfater/status/2124963792647753747",
+  "slug": "c2d8b3e4adbed7e4",
+  "content_hash": "6013f6a858fd64574b95edbbfd137cedb89229558f668e776187c70860204e1f",
+  "source": {
+    "path": "sources/articles/ox-horse-broker-reverses-job-hunting.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/harness-plugin-style-fragmentation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "插件具备定时任务与自动盯盯功能，与智能体自动模式主题相关"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "插件安装与能力编写方式与 Agent Skill 编写主题相关"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "涉及 Harness 插件界面与完整页面能力，与插件样式不一使界面碎片化主题相关"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 DeepSeek Harness 插件，与该主题关于 Agent Harness 插件的讨论最为贴近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 插件，与该主题关于 Agent Harness 插件的讨论最为贴近",
+    "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件界面与完整页面能力，与插件样式不一使界面碎片化主题相关",
+    "topics/agent-skill-authoring.md": "插件安装与能力编写方式与 Agent Skill 编写主题相关",
+    "topics/agent-auto-mode.md": "插件具备定时任务与自动盯盯功能，与智能体自动模式主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ox-horse-broker-reverses-job-hunting.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/harness-plugin-style-fragmentation.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/loose-web-agent-harness-plugins.md": "文章聚焦 DeepSeek Harness 插件，与该主题关于 Agent Harness 插件的讨论最为贴近",
+      "topics/harness-plugin-style-fragmentation.md": "涉及 Harness 插件界面与完整页面能力，与插件样式不一使界面碎片化主题相关",
+      "topics/agent-skill-authoring.md": "插件安装与能力编写方式与 Agent Skill 编写主题相关",
+      "topics/agent-auto-mode.md": "插件具备定时任务与自动盯盯功能，与智能体自动模式主题相关"
+    },
+    "notes": "来源为 X 帖文 https://x.com/lxfater/status/2124963792647753747，未独立核实 GitHub 仓库内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ox-horse-broker-reverses-job-hunting.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
