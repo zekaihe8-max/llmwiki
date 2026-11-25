@@ -1,0 +1,56 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-25T11:38:12.608Z",
+  "url": "https://x.ai/bot/plugin/9717366",
+  "slug": "000f4200a7f02efd",
+  "content_hash": "af6541e60bf4c38818c01982c865531b08b96667d83063ff485a269a931cceef",
+  "source": {
+    "path": "sources/articles/install-pstack-for-grok-bot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "页面介绍 pstack 插件以支持 Agent 工作流，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文称其帮助写更少但更高质量的代码，与编程 Agent 工具与开销主题相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "安装对象是 Grok Bot 插件，与用 Grok Bot 桥接 Agent 主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "强调可并行化的严谨 Agent 工作流，与智能体规模化工程主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "页面介绍 pstack 插件以支持 Agent 工作流，与 Agent Skill 编写主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文称其帮助写更少但更高质量的代码，与编程 Agent 工具与开销主题相关。",
+    "topics/grok-bot-x-api-substitute.md": "安装对象是 Grok Bot 插件，与用 Grok Bot 桥接 Agent 主题相关。",
+    "topics/agent-scaled-engineering.md": "强调可并行化的严谨 Agent 工作流，与智能体规模化工程主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/install-pstack-for-grok-bot.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

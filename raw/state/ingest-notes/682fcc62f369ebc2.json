@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/one-question-at-a-time.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/one-question-at-a-time.md": "文章核心是逐题澄清需求，每题可独立作答、先待定或换个说法，与“一次只问一个问题”直接对应。",
+    "topics/agent-skill-authoring.md": "工具以 SKILL.md 为入口，让 AI 编码助手发现并使用技能，属于 Agent Skill 编写与使用场景。",
+    "topics/workflows-before-agents.md": "在 AI 写方案前先通过访谈梳理需求与依赖，体现工作流优先于智能体执行。",
+    "topics/agent-auto-mode.md": "本地服务配合 AI 助手自动出题、写方案并等待唤醒，涉及智能体自动化工作模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "文章核心是逐题澄清需求，每题可独立作答、先待定或换个说法，与“一次只问一个问题”直接对应。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "工具以 SKILL.md 为入口，让 AI 编码助手发现并使用技能，属于 Agent Skill 编写与使用场景。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "在 AI 写方案前先通过访谈梳理需求与依赖，体现工作流优先于智能体执行。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "本地服务配合 AI 助手自动出题、写方案并等待唤醒，涉及智能体自动化工作模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有目录，未新建主题。"
+}

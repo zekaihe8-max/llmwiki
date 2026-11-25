@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/phone-own-server-agent-workbench.md"
+  ],
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "文章涉及通过本地或指定网关路由远程流量，与代理节点选型主题相近。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "涉及通过 SSH 连接远程服务器进行远程编码，与本扩展适用场景重合。",
+    "topics/phone-own-server-agent-workbench.md": "涉及连接自有服务器操控工作台，与远程网关接入场景相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "文章涉及通过本地或指定网关路由远程流量，与代理节点选型主题相近。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "涉及通过 SSH 连接远程服务器进行远程编码，与本扩展适用场景重合。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "涉及连接自有服务器操控工作台，与远程网关接入场景相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a GitHub README; all claims are limited to the documented features, settings, and requirements."
+}

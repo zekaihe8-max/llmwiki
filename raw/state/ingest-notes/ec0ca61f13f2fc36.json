@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章详述技能编写、规格与生命周期，与该主题高度相关。",
+    "topics/agent-skills-open-standard.md": "文中引用 Agent Skills 开放规范，说明技能格式遵循开放标准。",
+    "topics/agent-compute-and-governance.md": "涉及企业级技能治理、质量评测与成本控制，与文章主题一致。",
+    "topics/agent-scaled-engineering.md": "文中展示千技能、百万调用的规模化工程实践。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章详述技能编写、规格与生命周期，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中引用 Agent Skills 开放规范，说明技能格式遵循开放标准。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及企业级技能治理、质量评测与成本控制，与文章主题一致。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中展示千技能、百万调用的规模化工程实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

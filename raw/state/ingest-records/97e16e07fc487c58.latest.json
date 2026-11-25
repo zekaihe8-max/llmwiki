@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:04:19.232Z",
+  "url": "https://antigravity.google/docs/models",
+  "slug": "97e16e07fc487c58",
+  "content_hash": "d4a187870fc5aa9b865dd84f3809556e49dcc7b3b00b86f789a0d2ad5f198035",
+  "source": {
+    "path": "sources/articles/official-model-table.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论面向 Agent 的模型渠道取舍，与模型可用性与计划差异相近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章涉及编程 Agent 体验与额度，对应文中使用限制与剩余配额说明。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Pro 与 Flash 类模型的选型取舍，与 Antigravity 模型表相关。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文章涉及用量上限测试，与文中每周及五小时限额说明相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文章涉及 Pro 与 Flash 类模型的选型取舍，与 Antigravity 模型表相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论面向 Agent 的模型渠道取舍，与模型可用性与计划差异相近。",
+    "topics/coding-agent-ux-vs-quota.md": "文章涉及编程 Agent 体验与额度，对应文中使用限制与剩余配额说明。",
+    "topics/usage-limit-ab-tests.md": "文章涉及用量上限测试，与文中每周及五小时限额说明相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/official-model-table.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文章涉及 Pro 与 Flash 类模型的选型取舍，与 Antigravity 模型表相关。",
+      "topics/agent-model-channel-tradeoffs.md": "文章讨论面向 Agent 的模型渠道取舍，与模型可用性与计划差异相近。",
+      "topics/coding-agent-ux-vs-quota.md": "文章涉及编程 Agent 体验与额度，对应文中使用限制与剩余配额说明。",
+      "topics/usage-limit-ab-tests.md": "文章涉及用量上限测试，与文中每周及五小时限额说明相关。"
+    },
+    "notes": "Source URL: https://antigravity.google/docs/models",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/official-model-table.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

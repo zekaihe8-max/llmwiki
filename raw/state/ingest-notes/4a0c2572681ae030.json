@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "讨论高端 AI 订阅的价值，与 All Access 订阅定价和权益组合最相关。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及 Codex 和 Claude 等订阅，与帖文列出的 AI 工具权益重叠。",
+    "topics/coding-agent-token-saving-tooling.md": "关注编程 Agent 工具与额度开销，与 Codex 额度相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "讨论高端 AI 订阅的价值，与 All Access 订阅定价和权益组合最相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及 Codex 和 Claude 等订阅，与帖文列出的 AI 工具权益重叠。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "关注编程 Agent 工具与额度开销，与 Codex 额度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖子，发布时间显示为 2026 年 11 月 24 日，所有主张均以「帖文称」表述，未独立核实。"
+}

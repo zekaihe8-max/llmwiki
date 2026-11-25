@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:22:59.859Z",
+  "url": "https://x.com/cgnot996/status/2125139289638129794",
+  "slug": "84137c9877401c84",
+  "content_hash": "f57abc21d49be66934586a921a689746eb4b22ccbfab32f4c66ab712886169b2",
+  "source": {
+    "path": "sources/articles/tiezhu-someone-has-been-scammed-beware-of-xiaodou-invitation-cod.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文涉及邀请码交易诈骗与资产安全风险，属账号与资产安全卫生范畴。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "闲鱼高价码与押金套路属于平台功能被滥用的消费者关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文涉及邀请码交易诈骗与资产安全风险，属账号与资产安全卫生范畴。",
+    "topics/tech-misuse-concern-continuity.md": "闲鱼高价码与押金套路属于平台功能被滥用的消费者关切。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tiezhu-someone-has-been-scammed-beware-of-xiaodou-invitation-cod.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "帖文涉及邀请码交易诈骗与资产安全风险，属账号与资产安全卫生范畴。",
+      "topics/tech-misuse-concern-continuity.md": "闲鱼高价码与押金套路属于平台功能被滥用的消费者关切。"
+    },
+    "notes": "所有主张均基于抓取的 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tiezhu-someone-has-been-scammed-beware-of-xiaodou-invitation-cod.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

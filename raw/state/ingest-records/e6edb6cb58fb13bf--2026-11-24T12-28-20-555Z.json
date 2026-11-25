@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:28:20.555Z",
+  "url": "https://www.skills.google/",
+  "slug": "e6edb6cb58fb13bf",
+  "content_hash": "0b555df545da7bd65027b9096a14a306eb00bc3e0fa5ba3f78342b795ecd38b2",
+  "source": {
+    "path": "sources/articles/google-skills-build-ai-skills-for-tomorrow-today.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/ai-cybersecurity-jobs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-cybersecurity-jobs.md",
+      "action": "unchanged",
+      "reason": "关注 AI 技能与职业发展，与文中职业证书和员工培训主题相近"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "涉及 Google Cloud 生态，与文中 Google Cloud 认证和云学习积分相关"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "属于云平台与 AI 模型服务范畴，与 Vertex AI、AutoML 内容相关"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "标题包含“Skills”，与 Google Skills 学习平台主题最为接近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/skills-stack-native-app-recreation.md": "标题包含“Skills”，与 Google Skills 学习平台主题最为接近",
+    "topics/claude-on-google-cloud.md": "涉及 Google Cloud 生态，与文中 Google Cloud 认证和云学习积分相关",
+    "topics/cloud-auto-model-routing.md": "属于云平台与 AI 模型服务范畴，与 Vertex AI、AutoML 内容相关",
+    "topics/ai-cybersecurity-jobs.md": "关注 AI 技能与职业发展，与文中职业证书和员工培训主题相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-skills-build-ai-skills-for-tomorrow-today.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/claude-on-google-cloud.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/ai-cybersecurity-jobs.md"
+    ],
+    "selection_reasons": {
+      "topics/skills-stack-native-app-recreation.md": "标题包含“Skills”，与 Google Skills 学习平台主题最为接近",
+      "topics/claude-on-google-cloud.md": "涉及 Google Cloud 生态，与文中 Google Cloud 认证和云学习积分相关",
+      "topics/cloud-auto-model-routing.md": "属于云平台与 AI 模型服务范畴，与 Vertex AI、AutoML 内容相关",
+      "topics/ai-cybersecurity-jobs.md": "关注 AI 技能与职业发展，与文中职业证书和员工培训主题相近"
+    },
+    "notes": "文章未提供具体发布日期，未核实主张已用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-skills-build-ai-skills-for-tomorrow-today.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

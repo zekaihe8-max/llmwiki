@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/computer-use.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心是智能体自动接受操作，与智能体自动模式主题直接相关。",
+    "topics/computer-use.md": "扩展依赖 Chrome DevTools Protocol 控制浏览器 WebView，属于计算机使用自动化范畴。",
+    "topics/coding-agent-ux-vs-quota.md": "该扩展旨在改善编程 Agent 的点击体验与交互效率，属于编程 Agent 体验话题。",
+    "topics/agent-compute-and-governance.md": "文中包含命令阻断列表与安全预设，涉及智能体操作治理与安全边界。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体自动接受操作，与智能体自动模式主题直接相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "扩展依赖 Chrome DevTools Protocol 控制浏览器 WebView，属于计算机使用自动化范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "该扩展旨在改善编程 Agent 的点击体验与交互效率，属于编程 Agent 体验话题。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文中包含命令阻断列表与安全预设，涉及智能体操作治理与安全边界。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 README，未引用仓外事实。"
+}

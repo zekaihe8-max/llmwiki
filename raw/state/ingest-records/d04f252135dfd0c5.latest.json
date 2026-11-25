@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:26:17.247Z",
+  "url": "https://x.com/shao__meng/status/2125057434221945298",
+  "slug": "d04f252135dfd0c5",
+  "content_hash": "e802be2b0d73db01f7168f9303bf2ccd0cf488384759cdad8b5b20391096160b",
+  "source": {
+    "path": "sources/articles/pstack-adds-reframe-skill-to-clarify-concepts-before-rewriting-r.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "pstack 主打少写代码、提高工程质量，属于智能体规模化工程工作流。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心是 pstack 新增 /reframe 技能，属于 Agent Skill 编写与发布范畴。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "pstack 定位为面向 Coding Agent 的 Skills 说明集合，与 Agent Skills 开放标准相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "/reframe 侧重读取原始上下文并厘清需求表达，涉及 Agent 上下文工程。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心是 pstack 新增 /reframe 技能，属于 Agent Skill 编写与发布范畴。",
+    "topics/agent-skills-open-standard.md": "pstack 定位为面向 Coding Agent 的 Skills 说明集合，与 Agent Skills 开放标准相关。",
+    "topics/context-engineering-for-agents.md": "/reframe 侧重读取原始上下文并厘清需求表达，涉及 Agent 上下文工程。",
+    "topics/agent-scaled-engineering.md": "pstack 主打少写代码、提高工程质量，属于智能体规模化工程工作流。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pstack-adds-reframe-skill-to-clarify-concepts-before-rewriting-r.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章核心是 pstack 新增 /reframe 技能，属于 Agent Skill 编写与发布范畴。",
+      "topics/agent-skills-open-standard.md": "pstack 定位为面向 Coding Agent 的 Skills 说明集合，与 Agent Skills 开放标准相关。",
+      "topics/context-engineering-for-agents.md": "/reframe 侧重读取原始上下文并厘清需求表达，涉及 Agent 上下文工程。",
+      "topics/agent-scaled-engineering.md": "pstack 主打少写代码、提高工程质量，属于智能体规模化工程工作流。"
+    },
+    "notes": "Source is an X post by shao__meng summarizing Lauren Tan’s announcement; all claims are grounded in the fetched article only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pstack-adds-reframe-skill-to-clarify-concepts-before-rewriting-r.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "f38840abf1e2ec27",
+  "url": "https://adk.dev/",
+  "title": "ADK",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "f38840abf1e2ec270fc6ec241787632c8303b324d7bb1e37659daaf63fce3c2d",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:27.802Z",
+  "content_hash": "2e539cd56b12ba4c67442c58ea56b2db0d6f852f1623d5083bc6f85b3ce96c69",
+  "article_path": "articles/f38840abf1e2ec27.md",
+  "fetched_url": "https://adk.dev/",
+  "source_path": "sources/articles/adk-open-source-agent-development-framework.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T12:29:00.076Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

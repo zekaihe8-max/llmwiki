@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "涉及 AI 媒体内容与算法分发，与帖文讨论的小红书算法奖励热点最为相近。",
+    "topics/ai-assisted-clipping-and-notes.md": "涉及 AI 辅助内容创作，与帖文提到的 AI 提升创作效率相关。",
+    "topics/reuse-before-write.md": "主张先复用再编写，与帖文强调构建长期价值而非追逐新词热点的理念相通。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 媒体内容与算法分发，与帖文讨论的小红书算法奖励热点最为相近。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助内容创作，与帖文提到的 AI 提升创作效率相关。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "主张先复用再编写，与帖文强调构建长期价值而非追逐新词热点的理念相通。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 23 日，互动数字按页面出现顺序列出，未逐一绑定具体互动类型。"
+}

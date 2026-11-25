@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:11:23.151Z",
+  "url": "https://x.com/shao__meng/status/2125130872546640298",
+  "slug": "54da99b16d9d7a37",
+  "content_hash": "b6fa7f57149559ef2c4cb7702fec43be92a10aa52ff3a3e505c0219cf25f1234",
+  "source": {
+    "path": "sources/articles/armin-ronacher-build-the-software-workshop-before-the-software-f.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Agent 编程的规模化与质量控制，属于智能体工程范畴。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文中提到单次任务运行时长 P90 从 2.5 分钟延长至 14 分钟以上，体现 AI 任务时界增长。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "帖文标题与核心观点直接涉及“软件工厂”与“软件工作坊”的对比。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到 Code Mode 与 JavaScript 编排工具调用，属于工作流优先于智能体的相关讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/software-factory.md": "帖文标题与核心观点直接涉及“软件工厂”与“软件工作坊”的对比。",
+    "topics/agent-scaled-engineering.md": "文章讨论 Agent 编程的规模化与质量控制，属于智能体工程范畴。",
+    "topics/ai-task-horizon-growth.md": "文中提到单次任务运行时长 P90 从 2.5 分钟延长至 14 分钟以上，体现 AI 任务时界增长。",
+    "topics/workflows-before-agents.md": "文中提到 Code Mode 与 JavaScript 编排工具调用，属于工作流优先于智能体的相关讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/armin-ronacher-build-the-software-workshop-before-the-software-f.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/software-factory.md": "帖文标题与核心观点直接涉及“软件工厂”与“软件工作坊”的对比。",
+      "topics/agent-scaled-engineering.md": "文章讨论 Agent 编程的规模化与质量控制，属于智能体工程范畴。",
+      "topics/ai-task-horizon-growth.md": "文中提到单次任务运行时长 P90 从 2.5 分钟延长至 14 分钟以上，体现 AI 任务时界增长。",
+      "topics/workflows-before-agents.md": "文中提到 Code Mode 与 JavaScript 编排工具调用，属于工作流优先于智能体的相关讨论。"
+    },
+    "notes": "来源为 X 帖文 @shao__meng，引用其转述的 Armin Ronacher @aiDotEngineer 演讲及 YouTube 链接，未独立核实演讲细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/armin-ronacher-build-the-software-workshop-before-the-software-f.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

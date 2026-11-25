@@ -1,0 +1,23 @@
+{
+  "slug": "000f4200a7f02efd",
+  "url": "https://x.ai/bot/plugin/9717366",
+  "title": "安装",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "000f4200a7f02efda1ab0a7cb58ca2c2e1196873eeaf0135c9cbc3dd2f8aad2b",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:26.002Z",
+  "content_hash": "af6541e60bf4c38818c01982c865531b08b96667d83063ff485a269a931cceef",
+  "article_path": "articles/000f4200a7f02efd.md",
+  "fetched_url": "https://x.ai/bot/plugin/9717366",
+  "source_path": "sources/articles/install-pstack-for-grok-bot.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-25T11:38:12.609Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

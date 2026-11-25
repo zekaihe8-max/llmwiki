@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章强调企业级规模与生产部署，与智能体规模化工程主题高度相关。",
+    "topics/context-engineering-for-agents.md": "文中专门介绍 ADK 的上下文管理机制，与 Agent 上下文工程主题对应。",
+    "topics/multiagent-infra-four-problems.md": "ADK 提供多智能体编排与图工作流，涉及多智能体基建问题。",
+    "topics/workflows-before-agents.md": "文中提到图工作流与确定性代码编排，呼应工作流优先于智能体的理念。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章强调企业级规模与生产部署，与智能体规模化工程主题高度相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中专门介绍 ADK 的上下文管理机制，与 Agent 上下文工程主题对应。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "ADK 提供多智能体编排与图工作流，涉及多智能体基建问题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中提到图工作流与确定性代码编排，呼应工作流优先于智能体的理念。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 adk.dev 首页可见内容，未引用页面外事实。"
+}

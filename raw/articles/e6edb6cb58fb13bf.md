@@ -1,0 +1,84 @@
+# Build AI skills for tomorrow, today
+
+Whether you’re just getting started or looking to deepen your knowledge, future proof your skills on Google’s new learning platform built for you.
+
+AI Boost Bites
+
+DeepMind
+
+Gemini
+
+Get started
+
+## Skill up on AI today
+
+AI isn’t a future state. It’s here to stay. With more than a decade of AI innovation and integration in the cloud, Google is your trusted partner in navigating this new reality.
+
+Featured
+
+Artificial Intelligence
+
+Vertex AI
+
+Gemini
+
+AutoML
+
+Prompt design
+
+Explore catalog
+
+## Learn and build with other developers
+
+Continuous learning starts with community. Join the GEAR program and fuel your cloud journey with 35 monthly credits for hands-on learning in Google Skills, at no cost to you.
+
+Join GEAR
+
+For teams
+
+## Hands-on learning is better for business
+
+### 77%
+
+ of [learners](https://services.google.com/fh/files/misc/value_of_training_idc_paper.pdf) prefer some level of instructor-led training vs. on-demand training alone.
+
+### 90%
+
+ of [instructor-led learning](https://services.google.com/fh/files/misc/value_of_training_idc_paper.pdf) is completed vs. less than 5% of self-paced.
+
+### 133%
+
+ increase in [employee retention](https://services.google.com/fh/files/misc/value_of_training_idc_paper.pdf) when companies invest in hands-on learning.
+
+Skill up your workforce
+
+## Future proof your career with Google credentials
+
+Certifications can be a big step, and a big investment. Need to build your skills first? Explore our Skill Badges and Certificates.
+
+###
+Kickstart your career with certificates
+
+Unlock new career paths and gain in-demand skills with certificates. Complete a certificate learning path on Google Skills to earn a shareable digital credential. No prerequisites required.
+
+[Explore certificates](https://cloud.google.com/learn/certificates)
+
+###
+Level up with skill badges
+
+Prove your practical, technical skills with skill badges. Complete a  series of skill badge courses on Google Skills, earn a badge, then share your  achievements with peers and employers.
+
+[Explore skill badges](/catalog?skill-badge=skill-badge)
+
+###
+Prove your expertise with certifications
+
+Validate your knowledge and skills with industry-recognized Google Cloud certifications. Prove your ability to solve real-world business challenges with  Google Cloud. The certification process involves passing a proctored exam.
+
+[Explore certifications](https://cloud.google.com/learn/certification)
+
+## Start building your tomorrow, today
+
+Whether you’re all-in on AI, just want to brush up on the latest, or you’re here to skill up your team — get ready for the latest innovations with the technical experts behind Google Skills.
+
+Get started

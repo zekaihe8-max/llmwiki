@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "描述 Agent 技能/插件编写，与 Grok Bot 插件安装最为相近。",
+    "topics/coding-agent-token-saving-tooling.md": "涉及编程 Agent 工具与代码精简，与 pstack 主张相关。",
+    "topics/grok-bot-x-api-substitute.md": "直接涉及 Grok Bot 生态，最贴近来源平台。",
+    "topics/agent-scaled-engineering.md": "涉及严谨 Agent 工作流与规模化工程，与 pstack 的并行化主张相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "描述 Agent 技能/插件编写，与 Grok Bot 插件安装最为相近。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 工具与代码精简，与 pstack 主张相关。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "直接涉及 Grok Bot 生态，最贴近来源平台。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及严谨 Agent 工作流与规模化工程，与 pstack 的并行化主张相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://x.ai/bot/plugin/9717366"
+}

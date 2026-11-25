@@ -1,0 +1,23 @@
+{
+  "slug": "40f4bce618674d4d",
+  "url": "https://x.com/xiaomovps/status/2125177109979271523",
+  "title": "Muse 内部测试翻车，正好说明 Personal Agent 的安全边界还没兜住",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "40f4bce618674d4d4cf02fbf928fe81138ade92fb741ee8c5542c17bd2f78ccb",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:12.245Z",
+  "content_hash": "03d495174971c7ff5337ce555b9138c6c4b19d8e1d0340981c2076dd1e1b7e6b",
+  "article_path": "articles/40f4bce618674d4d.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2125177109979271523",
+  "source_path": "sources/articles/meta-muse-internal-testing-failures-show-personal-agent-security.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T11:55:54.446Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

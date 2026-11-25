@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:23:50.446Z",
+  "url": "https://x.com/cgnot996/status/2125171097662554186",
+  "slug": "f1dcead285d3aa44",
+  "content_hash": "f7c60750749f1854f8826c8de5e8ef8ab6533682dc3fde7e46541d03b4c2877c",
+  "source": {
+    "path": "sources/articles/tiezhu-connecting-grok-bot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文以教程形式介绍为小豆新增 Grok Bot 对话能力，属于为 Agent 编写或接入新技能的实践。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文中涉及通过 Grok Bot 账号授权并让 Agent 调用 BOT，与利用 Grok Bot 内置额度桥接 Agent 的主题相近。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "帖文核心是让个人 Agent 小豆与 Grok Bot 互聊并转发回复，直接对应个人 Agent 对外分享与 Bot 互聊主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-share-and-interbot-chat.md": "帖文核心是让个人 Agent 小豆与 Grok Bot 互聊并转发回复，直接对应个人 Agent 对外分享与 Bot 互聊主题。",
+    "topics/grok-bot-x-api-substitute.md": "文中涉及通过 Grok Bot 账号授权并让 Agent 调用 BOT，与利用 Grok Bot 内置额度桥接 Agent 的主题相近。",
+    "topics/agent-skill-authoring.md": "帖文以教程形式介绍为小豆新增 Grok Bot 对话能力，属于为 Agent 编写或接入新技能的实践。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tiezhu-connecting-grok-bot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-share-and-interbot-chat.md": "帖文核心是让个人 Agent 小豆与 Grok Bot 互聊并转发回复，直接对应个人 Agent 对外分享与 Bot 互聊主题。",
+      "topics/grok-bot-x-api-substitute.md": "文中涉及通过 Grok Bot 账号授权并让 Agent 调用 BOT，与利用 Grok Bot 内置额度桥接 Agent 的主题相近。",
+      "topics/agent-skill-authoring.md": "帖文以教程形式介绍为小豆新增 Grok Bot 对话能力，属于为 Agent 编写或接入新技能的实践。"
+    },
+    "notes": "引用的 @KinGao476942 帖子关于小豆下载腾讯视频号视频，属于线程内其他内容，未作为本文主事实采用。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tiezhu-connecting-grok-bot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

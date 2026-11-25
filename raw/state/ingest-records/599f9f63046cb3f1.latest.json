@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:59:28.284Z",
+  "url": "https://github.com/cafeTechne/antigravity-link-extension",
+  "slug": "599f9f63046cb3f1",
+  "content_hash": "4b2f4ef78b0cea4aacf107d9c99d129a9c51019659e9324f98b06159f6174cd0",
+  "source": {
+    "path": "sources/articles/antigravity-link-vs-code-extension-for-live-mobile-mirroring-and.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/computer-use.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章专设账户安全章节，强调本地通信、令牌鉴权、不修改 Antigravity 文件。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到通过 CDP 读取界面并模拟按键点击，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "文章核心正是手机通过本地服务器操控 Antigravity 工作台，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "文章核心正是手机通过本地服务器操控 Antigravity 工作台，与该主题高度相关。",
+    "topics/computer-use.md": "文中提到通过 CDP 读取界面并模拟按键点击，属于 Computer Use 范畴。",
+    "topics/account-and-asset-security-hygiene.md": "文章专设账户安全章节，强调本地通信、令牌鉴权、不修改 Antigravity 文件。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-link-vs-code-extension-for-live-mobile-mirroring-and.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/phone-own-server-agent-workbench.md",
+      "topics/computer-use.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/phone-own-server-agent-workbench.md": "文章核心正是手机通过本地服务器操控 Antigravity 工作台，与该主题高度相关。",
+      "topics/computer-use.md": "文中提到通过 CDP 读取界面并模拟按键点击，属于 Computer Use 范畴。",
+      "topics/account-and-asset-security-hygiene.md": "文章专设账户安全章节，强调本地通信、令牌鉴权、不修改 Antigravity 文件。"
+    },
+    "notes": "未采用标题提示中关于 4 个插件与 Gemini 额度的说法，因该文仅介绍 Antigravity Link 单一插件且未提及 Gemini。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-link-vs-code-extension-for-live-mobile-mirroring-and.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

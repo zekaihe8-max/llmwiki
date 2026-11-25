@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是 Lean 形式化验证与机器证明黎曼猜想，直接对应该主题。",
+    "topics/ai-peer-review-science-adaptation.md": "涉及克雷奖规则、期刊发表与学界共识，属 AI 介入科研与评审实践的讨论。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "Alpöge 自认 Lean 代码“满是垃圾”却能通过验证，体现代码质量与正确性分离的双标讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Lean 形式化验证与机器证明黎曼猜想，直接对应该主题。"
+    },
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "涉及克雷奖规则、期刊发表与学界共识，属 AI 介入科研与评审实践的讨论。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "Alpöge 自认 Lean 代码“满是垃圾”却能通过验证，体现代码质量与正确性分离的双标讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的文章摘要，未引入外部事实或 URL。"
+}

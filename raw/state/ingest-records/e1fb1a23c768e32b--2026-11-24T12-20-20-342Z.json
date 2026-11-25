@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:20:20.342Z",
+  "url": "https://x.com/turingou/status/2125153332809621937",
+  "slug": "e1fb1a23c768e32b",
+  "content_hash": "b289d39c4a1de7710be8a25da2e2300314706210934f71f96816a3a93c2bcbb5",
+  "source": {
+    "path": "sources/articles/private-drug-r-d-labs-are-becoming-the-foreseeable-future.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-pharma-opc-lab-acquisition.md",
+    "topics/ai-native-companies.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "自动化前临床实验室涉及智能体规模化工程与自主运行。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Capable 作为以 AI 驱动的自动化实验室公司，属于 AI 原生公司范畴。"
+    },
+    {
+      "path": "topics/ai-pharma-opc-lab-acquisition.md",
+      "action": "unchanged",
+      "reason": "直接对应 AI 医药与私人/自动化实验室主题，最贴近文章内容。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-pharma-opc-lab-acquisition.md": "直接对应 AI 医药与私人/自动化实验室主题，最贴近文章内容。",
+    "topics/ai-native-companies.md": "Capable 作为以 AI 驱动的自动化实验室公司，属于 AI 原生公司范畴。",
+    "topics/agent-scaled-engineering.md": "自动化前临床实验室涉及智能体规模化工程与自主运行。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/private-drug-r-d-labs-are-becoming-the-foreseeable-future.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-pharma-opc-lab-acquisition.md",
+      "topics/ai-native-companies.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-pharma-opc-lab-acquisition.md": "直接对应 AI 医药与私人/自动化实验室主题，最贴近文章内容。",
+      "topics/ai-native-companies.md": "Capable 作为以 AI 驱动的自动化实验室公司，属于 AI 原生公司范畴。",
+      "topics/agent-scaled-engineering.md": "自动化前临床实验室涉及智能体规模化工程与自主运行。"
+    },
+    "notes": "所有主张均基于推文内容，未独立核实 IND 时间缩短的具体数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/private-drug-r-d-labs-are-becoming-the-foreseeable-future.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

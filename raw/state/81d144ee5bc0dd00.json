@@ -1,0 +1,23 @@
+{
+  "slug": "81d144ee5bc0dd00",
+  "url": "https://github.com/NyboTV/antigravity-quota",
+  "title": "quota",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "81d144ee5bc0dd00a89fb6f13919eb37a66559452fc23b905c33f6fe59f1a68b",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:13.254Z",
+  "content_hash": "ffa6ccd01a4c5294fa3dce7065a399704c62ca443a22425346df3c69c0c8ad98",
+  "article_path": "articles/81d144ee5bc0dd00.md",
+  "fetched_url": "https://github.com/NyboTV/antigravity-quota",
+  "source_path": "sources/articles/antigravity-quota-self-learning-estimator.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-25T11:38:12.305Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

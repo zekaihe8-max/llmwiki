@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文涉及编程 Agent 的模型额度重置与用户体验变化，与该主题高度相关。",
+    "topics/pro-vs-flash-model-strategy.md": "内容讨论不同付费档位（Pro/Ultra）的模型策略与权限变化，与 Pro 与 Flash 模型策略主题相关。",
+    "topics/cloud-auto-model-routing.md": "用户被建议在 Hydrogen、Neon、Carbon 之间切换模型，涉及云平台跨模型编排与路由。",
+    "topics/agent-model-channel-tradeoffs.md": "文章讨论不同模型渠道（Carbon/Hydrogen/Neon/Argon）的适用场景与取舍，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文涉及编程 Agent 的模型额度重置与用户体验变化，与该主题高度相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "内容讨论不同付费档位（Pro/Ultra）的模型策略与权限变化，与 Pro 与 Flash 模型策略主题相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "用户被建议在 Hydrogen、Neon、Carbon 之间切换模型，涉及云平台跨模型编排与路由。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章讨论不同模型渠道（Carbon/Hydrogen/Neon/Argon）的适用场景与取舍，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 上 lxfater 的帖文，并引用 Varun Mohan 的相关推文；未独立核实模型下线日期等细节，均基于所获文本。"
+}

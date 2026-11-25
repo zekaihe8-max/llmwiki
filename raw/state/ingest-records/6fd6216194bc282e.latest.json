@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:22:26.073Z",
+  "url": "https://x.com/ai_xiaomu/status/2125135371193475087",
+  "slug": "6fd6216194bc282e",
+  "content_hash": "073abc4f7bbd2caef920adee739133e936c01909932ab5e144511003ca38aaa1",
+  "source": {
+    "path": "sources/articles/don-t-buy-xiao-dou-activation-codes-on-xianyu-build-tutorials-an.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文强调为小豆编写教程与案例，属于 Agent Skill 编写与知识产出范畴。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文围绕个人如何利用小豆这类 Agent 产品创收，与个人 Agent 调度与使用场景相近。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文提到最佳实践案例已开源于 GitHub，涉及跨 Agent 资源与案例共享。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文主张先做教程和案例再追求变现，呼应工作流优先于盲目使用 Agent 的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文围绕个人如何利用小豆这类 Agent 产品创收，与个人 Agent 调度与使用场景相近。",
+    "topics/agent-skill-authoring.md": "帖文强调为小豆编写教程与案例，属于 Agent Skill 编写与知识产出范畴。",
+    "topics/unified-agent-resource-library.md": "帖文提到最佳实践案例已开源于 GitHub，涉及跨 Agent 资源与案例共享。",
+    "topics/workflows-before-agents.md": "帖文主张先做教程和案例再追求变现，呼应工作流优先于盲目使用 Agent 的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/don-t-buy-xiao-dou-activation-codes-on-xianyu-build-tutorials-an.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文围绕个人如何利用小豆这类 Agent 产品创收，与个人 Agent 调度与使用场景相近。",
+      "topics/agent-skill-authoring.md": "帖文强调为小豆编写教程与案例，属于 Agent Skill 编写与知识产出范畴。",
+      "topics/unified-agent-resource-library.md": "帖文提到最佳实践案例已开源于 GitHub，涉及跨 Agent 资源与案例共享。",
+      "topics/workflows-before-agents.md": "帖文主张先做教程和案例再追求变现，呼应工作流优先于盲目使用 Agent 的思路。"
+    },
+    "notes": "文章展示的发布日期为 2026 年 11 月 24 日，均按原文记录，未做核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/don-t-buy-xiao-dou-activation-codes-on-xianyu-build-tutorials-an.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

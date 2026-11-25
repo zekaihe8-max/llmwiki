@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:18:49.413Z",
+  "url": "https://x.com/servasyy_ai/status/2125176518515253586",
+  "slug": "5911b583fecae6f0",
+  "content_hash": "3d0aa8be236ae2b7bd4480c1185504bce32c5096c9353f76ef9c53fbf0b4a1f9",
+  "source": {
+    "path": "sources/articles/anonymous-model-hungerg-frontend-answer-checking-test.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文记录了具体评测任务、耗时与交互细节，属于 AI 评测入口与干活记录。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "这是社区自发的匿名模型实测对比，而非官方榜单刷分或碰瓷。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文多次强调“匿名模型”“到底是谁家的还不知道”，直接对应行为指纹不能等同于确认底层模型。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中大量描述前端交互、动效、代码结构等 UX/DX 体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文多次强调“匿名模型”“到底是谁家的还不知道”，直接对应行为指纹不能等同于确认底层模型。",
+    "topics/community-evals-vs-score-hype.md": "这是社区自发的匿名模型实测对比，而非官方榜单刷分或碰瓷。",
+    "topics/ai-eval-work-record-gateway.md": "帖文记录了具体评测任务、耗时与交互细节，属于 AI 评测入口与干活记录。",
+    "topics/ux-dx-and-ax.md": "文中大量描述前端交互、动效、代码结构等 UX/DX 体验。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anonymous-model-hungerg-frontend-answer-checking-test.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/model-fingerprint-confidence-not-confirmation.md": "帖文多次强调“匿名模型”“到底是谁家的还不知道”，直接对应行为指纹不能等同于确认底层模型。",
+      "topics/community-evals-vs-score-hype.md": "这是社区自发的匿名模型实测对比，而非官方榜单刷分或碰瓷。",
+      "topics/ai-eval-work-record-gateway.md": "帖文记录了具体评测任务、耗时与交互细节，属于 AI 评测入口与干活记录。",
+      "topics/ux-dx-and-ax.md": "文中大量描述前端交互、动效、代码结构等 UX/DX 体验。"
+    },
+    "notes": "来源为 X 平台单条帖文及其引用的前一条帖文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anonymous-model-hungerg-frontend-answer-checking-test.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

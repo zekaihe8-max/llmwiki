@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/phone-own-server-agent-workbench.md",
+    "topics/computer-use.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "selection_reasons": {
+    "topics/phone-own-server-agent-workbench.md": "文章核心正是手机通过本地服务器操控 Antigravity 工作台，与该主题高度相关。",
+    "topics/computer-use.md": "文中提到通过 CDP 读取界面并模拟按键点击，属于 Computer Use 范畴。",
+    "topics/account-and-asset-security-hygiene.md": "文章专设账户安全章节，强调本地通信、令牌鉴权、不修改 Antigravity 文件。"
+  },
+  "topics": [
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "文章核心正是手机通过本地服务器操控 Antigravity 工作台，与该主题高度相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到通过 CDP 读取界面并模拟按键点击，属于 Computer Use 范畴。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "文章专设账户安全章节，强调本地通信、令牌鉴权、不修改 Antigravity 文件。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未采用标题提示中关于 4 个插件与 Gemini 额度的说法，因该文仅介绍 Antigravity Link 单一插件且未提及 Gemini。"
+}

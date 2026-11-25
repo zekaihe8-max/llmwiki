@@ -1,0 +1,23 @@
+{
+  "slug": "ec0ca61f13f2fc36",
+  "url": "https://www.uber.com/us/en/blog/optimizing-ubers-agent-skills",
+  "title": "Uber Agent Skills 治理实战",
+  "digest": "2026-11-24-cn-x.md",
+  "status": "filed",
+  "hash": "ec0ca61f13f2fc3604fcaaccc32ea0db2b1590a7ca5288d4b7178488c93d88e5",
+  "first_seen": "2026-11-24T11:50:09.915Z",
+  "last_seen": "2026-11-24T11:50:09.915Z",
+  "fetched_at": "2026-11-24T11:50:28.226Z",
+  "content_hash": "78604ca38715fbf7f6423e27e494b76f0d7bfdf7d70a7d5b5e32744fbcb6ab54",
+  "article_path": "articles/ec0ca61f13f2fc36.md",
+  "fetched_url": "https://www.uber.com/us/en/blog/optimizing-ubers-agent-skills/",
+  "source_path": "sources/articles/how-uber-evals-1-million-agent-skill-invocations-a-month.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-24T12:30:41.685Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

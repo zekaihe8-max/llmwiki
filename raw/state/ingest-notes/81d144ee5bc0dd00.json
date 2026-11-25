@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章核心围绕编程 Agent 的配额体验与额度查询，直接命中该主题。",
+    "topics/agent-skill-authoring.md": "文中提供 skills/quota/SKILL.md 与 MCP 工具，属于 Agent Skill 编写与注册实践。",
+    "topics/agent-compute-and-governance.md": "配额追踪、校准与并行噪声隔离涉及智能体算力使用的治理与计量。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章核心围绕编程 Agent 的配额体验与额度查询，直接命中该主题。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中提供 skills/quota/SKILL.md 与 MCP 工具，属于 Agent Skill 编写与注册实践。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "配额追踪、校准与并行噪声隔离涉及智能体算力使用的治理与计量。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 https://github.com/NyboTV/antigravity-quota 的 README 内容，未引入文中未提及的外部事实或链接。"
+}

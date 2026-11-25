@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "帖文核心是把多平台上下文接入 Agent 记忆，与上下文工程主题直接相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "用户将抖音收藏和视频参考写入个人记忆，属于 AI 辅助剪藏与媒体笔记场景。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是把多平台上下文接入 Agent 记忆，与上下文工程主题直接相关。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "用户将抖音收藏和视频参考写入个人记忆，属于 AI 辅助剪藏与媒体笔记场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均归因于 X 帖文，未独立核实小豆产品的实际功能。"
+}

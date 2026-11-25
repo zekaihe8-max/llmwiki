@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文核心涉及编程 Agent 的额度查看与使用体验，与该主题直接相关",
+    "topics/minimal-core-community-extensions.md": "文章分享的是不改动 AGY 本体的社区插件组合，契合精简核心与社区扩展的主题",
+    "topics/loose-web-agent-harness-plugins.md": "四款插件属于 Agent 增强扩展，与宽松管控下的 Agent Harness 插件主题相近"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文核心涉及编程 Agent 的额度查看与使用体验，与该主题直接相关"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "文章分享的是不改动 AGY 本体的社区插件组合，契合精简核心与社区扩展的主题"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "四款插件属于 Agent 增强扩展，与宽松管控下的 Agent Harness 插件主题相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source: X post by @xiaomovps, https://x.com/xiaomovps/status/2125142562985889888"
+}

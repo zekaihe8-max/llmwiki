@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:52:26.601Z",
+  "url": "https://x.com/op7418/status/2125163207304139041",
+  "slug": "a13e823a7716475b",
+  "content_hash": "b73d7a79c58329e15cd6baa0e2937e4230f26d352243b93c233955f40d34f9e7",
+  "source": {
+    "path": "sources/articles/xiao-dou-launches-invite-only-public-beta-connecting-context-acr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "文中提到保存抖音美食视频、将聊天截图转为日程，属于 AI 辅助剪藏与笔记场景。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心论点是“上下文就是一切”，小豆通过打通抖音、飞书与手机本地数据构建个人 Agent 上下文，与该主题高度相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中批评回复冗长和主动推送过频，涉及个人 Agent 的用户体验问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心论点是“上下文就是一切”，小豆通过打通抖音、飞书与手机本地数据构建个人 Agent 上下文，与该主题高度相关。",
+    "topics/ai-assisted-clipping-and-notes.md": "文中提到保存抖音美食视频、将聊天截图转为日程，属于 AI 辅助剪藏与笔记场景。",
+    "topics/ux-dx-and-ax.md": "文中批评回复冗长和主动推送过频，涉及个人 Agent 的用户体验问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/xiao-dou-launches-invite-only-public-beta-connecting-context-acr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/context-engineering-for-agents.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/context-engineering-for-agents.md": "文章核心论点是“上下文就是一切”，小豆通过打通抖音、飞书与手机本地数据构建个人 Agent 上下文，与该主题高度相关。",
+      "topics/ai-assisted-clipping-and-notes.md": "文中提到保存抖音美食视频、将聊天截图转为日程，属于 AI 辅助剪藏与笔记场景。",
+      "topics/ux-dx-and-ax.md": "文中批评回复冗长和主动推送过频，涉及个人 Agent 的用户体验问题。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/xiao-dou-launches-invite-only-public-beta-connecting-context-acr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

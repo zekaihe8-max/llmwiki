@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-ai-foundation.md",
+    "topics/agent-skill-authoring.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-ai-foundation.md": "帖文聚焦从零基础到代码实践的智能体学习路径，与该主题的基础夯实方向相近",
+    "topics/agent-skill-authoring.md": "文中 ADK 与 Codelabs 涉及从零搭 Agent、接工具与编排，与技能编写相关",
+    "topics/multiagent-infra-four-problems.md": "文中多次提及多 Agent、A2A 与并行编排，与多智能体基建问题相关",
+    "topics/reuse-before-write.md": "帖文主张优先使用官方免费资源而非购买二手课程，体现先复用再编写的原则"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦从零基础到代码实践的智能体学习路径，与该主题的基础夯实方向相近"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中 ADK 与 Codelabs 涉及从零搭 Agent、接工具与编排，与技能编写相关"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文中多次提及多 Agent、A2A 与并行编排，与多智能体基建问题相关"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "帖文主张优先使用官方免费资源而非购买二手课程，体现先复用再编写的原则"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @xiaomovps 的帖文，未引入文中未出现的 URL 或事实"
+}

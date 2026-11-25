@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:17:51.790Z",
+  "url": "https://x.com/servasyy_ai/status/2125081369412096273",
+  "slug": "2e44834c1c21907a",
+  "content_hash": "f76c8eae76c7dc835f2358891055a0c9e9b623bb1c66674b6ed9c512f1355e54",
+  "source": {
+    "path": "sources/articles/anonymous-model-hungerg-preview-free-for-qoder-and-opencode-go-u.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文涉及模型在 Qoder、OpenCode 等渠道的免费分发与可用性。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "作者记录并计划公布不同模型的评测对答案过程。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "作者自行跑三道题对模型进行社区式实测，而非依赖公开榜单。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文仅凭前端风格猜测模型身份，未确认底层模型。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文涉及模型在 Qoder、OpenCode 等渠道的免费分发与可用性。",
+    "topics/community-evals-vs-score-hype.md": "作者自行跑三道题对模型进行社区式实测，而非依赖公开榜单。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文仅凭前端风格猜测模型身份，未确认底层模型。",
+    "topics/ai-eval-work-record-gateway.md": "作者记录并计划公布不同模型的评测对答案过程。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anonymous-model-hungerg-preview-free-for-qoder-and-opencode-go-u.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "帖文涉及模型在 Qoder、OpenCode 等渠道的免费分发与可用性。",
+      "topics/community-evals-vs-score-hype.md": "作者自行跑三道题对模型进行社区式实测，而非依赖公开榜单。",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "帖文仅凭前端风格猜测模型身份，未确认底层模型。",
+      "topics/ai-eval-work-record-gateway.md": "作者记录并计划公布不同模型的评测对答案过程。"
+    },
+    "notes": "所有主张均基于该 X 帖文，未独立核实模型身份或性能。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anonymous-model-hungerg-preview-free-for-qoder-and-opencode-go-u.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-output-to-notion-reading.md",
+    "topics/agent-auto-mode.md",
+    "topics/agentic-ai-foundation.md",
+    "topics/ai-native-companies.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-output-to-notion-reading.md": "文中明确提及 Notion 及其 AI 代理，该主题最相关，无需修改。",
+    "topics/agent-auto-mode.md": "文中描述 AI 代理自动处理运营事务，与自动模式主题相关，无需修改。",
+    "topics/agentic-ai-foundation.md": "文中涉及 AI 代理能力，属于 Agentic AI 范畴，无需修改。",
+    "topics/ai-native-companies.md": "Notion 作为 AI 原生产品被引用，与 AI 原生公司主题相关，无需修改。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-output-to-notion-reading.md",
+      "action": "unchanged",
+      "reason": "文中明确提及 Notion 及其 AI 代理，该主题最相关，无需修改。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中描述 AI 代理自动处理运营事务，与自动模式主题相关，无需修改。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文中涉及 AI 代理能力，属于 Agentic AI 范畴，无需修改。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Notion 作为 AI 原生产品被引用，与 AI 原生公司主题相关，无需修改。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文极短，仅包含一条用户证言，未提供更多可核实事实。"
+}

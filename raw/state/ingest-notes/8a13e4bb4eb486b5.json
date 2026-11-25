@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/workflows-before-agents.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文核心聚焦 Agent Harness，与公司级 Agent Harness 五原语主题直接对应。",
+    "topics/context-engineering-for-agents.md": "文章专章讨论上下文预算、Bound/Elide/Offload/Compact 与 token 累计，属该主题范围。",
+    "topics/workflows-before-agents.md": "文中明确区分单次调用、工作流、路由器与 Agent，并主张先选最低自主程度。",
+    "topics/multiagent-infra-four-problems.md": "书中多 Agent 部分将子 Agent 封装为工具，并讨论并行读串行写与上下文隔离，与多智能体基建问题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文核心聚焦 Agent Harness，与公司级 Agent Harness 五原语主题直接对应。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章专章讨论上下文预算、Bound/Elide/Offload/Compact 与 token 累计，属该主题范围。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文中明确区分单次调用、工作流、路由器与 Agent，并主张先选最低自主程度。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "书中多 Agent 部分将子 Agent 封装为工具，并讨论并行读串行写与上下文隔离，与多智能体基建问题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post/article by meng shao (@shao__meng); the article URL is the post itself. No new topics created; all consulted topics marked unchanged."
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T12:13:28.045Z",
+  "url": "https://x.com/vista8/status/2125144453157626308",
+  "slug": "096c3e25a6decf99",
+  "content_hash": "a7e3daecdec508556da2df09089aecea96b4bc18418512d3984cd43a109bb150",
+  "source": {
+    "path": "sources/articles/trying-doubao-personal-agent-strong-ecosystem-integration-stiff.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/agent-auto-mode.md",
+    "topics/personal-agent-hype-familiarity-gap.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中提及主动性设计与是否像有分寸感的贴心助理，涉及智能体自动模式。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "文中批评前置连接器引导生硬，涉及对 AI 引导的校准。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中提到云端电脑配置（2 核 4G、10G、Ubuntu），与个人 Agent 云环境相关。"
+    },
+    {
+      "path": "topics/personal-agent-hype-familiarity-gap.md",
+      "action": "unchanged",
+      "reason": "文中表达对字节 PA 产品迭代与未来竞争的看好，涉及个人 Agent 热潮与认知。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中提到云端电脑配置（2 核 4G、10G、Ubuntu），与个人 Agent 云环境相关。",
+    "topics/calibrating-ai-guidance.md": "文中批评前置连接器引导生硬，涉及对 AI 引导的校准。",
+    "topics/agent-auto-mode.md": "文中提及主动性设计与是否像有分寸感的贴心助理，涉及智能体自动模式。",
+    "topics/personal-agent-hype-familiarity-gap.md": "文中表达对字节 PA 产品迭代与未来竞争的看好，涉及个人 Agent 热潮与认知。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/trying-doubao-personal-agent-strong-ecosystem-integration-stiff.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/agent-auto-mode.md",
+      "topics/personal-agent-hype-familiarity-gap.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中提到云端电脑配置（2 核 4G、10G、Ubuntu），与个人 Agent 云环境相关。",
+      "topics/calibrating-ai-guidance.md": "文中批评前置连接器引导生硬，涉及对 AI 引导的校准。",
+      "topics/agent-auto-mode.md": "文中提及主动性设计与是否像有分寸感的贴心助理，涉及智能体自动模式。",
+      "topics/personal-agent-hype-familiarity-gap.md": "文中表达对字节 PA 产品迭代与未来竞争的看好，涉及个人 Agent 热潮与认知。"
+    },
+    "notes": "Source is an X post by @vista8 dated Nov 24, 2026; all claims are attributed to the post.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/trying-doubao-personal-agent-strong-ecosystem-integration-stiff.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

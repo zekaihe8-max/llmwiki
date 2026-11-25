@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-25T11:38:12.430Z",
+  "url": "https://github.com/wang-muhan/antigravity-interface",
+  "slug": "bf4746771441885c",
+  "content_hash": "0cd3a3522581e4e9ce84f68a876875c93179c93ec448cb254ff7c5ec18f3d721",
+  "source": {
+    "path": "sources/articles/antigravity-interface-agi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/managed-over-selfhosted-proxy-nodes.md",
+    "topics/laptop-light-battery-remote-ai-coding.md",
+    "topics/phone-own-server-agent-workbench.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "扩展通过 SSH 将远程流量路由至本地代理，与代理节点取舍主题相关。"
+    },
+    {
+      "path": "topics/laptop-light-battery-remote-ai-coding.md",
+      "action": "unchanged",
+      "reason": "面向远程 Linux 服务器上的 Antigravity 访问，与远程 AI Coding 主题相关。"
+    },
+    {
+      "path": "topics/phone-own-server-agent-workbench.md",
+      "action": "unchanged",
+      "reason": "把远程服务器流量接到本地工作环境，与自有服务器操控 Agent 工作台主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/managed-over-selfhosted-proxy-nodes.md": "扩展通过 SSH 将远程流量路由至本地代理，与代理节点取舍主题相关。",
+    "topics/laptop-light-battery-remote-ai-coding.md": "面向远程 Linux 服务器上的 Antigravity 访问，与远程 AI Coding 主题相关。",
+    "topics/phone-own-server-agent-workbench.md": "把远程服务器流量接到本地工作环境，与自有服务器操控 Agent 工作台主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-interface-agi.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

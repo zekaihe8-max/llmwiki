@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-24T11:53:41.313Z",
+  "url": "https://x.com/op7418/status/2125058911778803970",
+  "slug": "f784aa68f92e779b",
+  "content_hash": "1df73c6fa516a50acf149939157576f91ed7c59772085140c7a3d5df644282bc",
+  "source": {
+    "path": "sources/articles/claude-best-value-at-100-tier-google-catches-up-at-200-tier.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 体验与额度，帖文核心为 API 额度对比"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "直接讨论高端 AI 订阅的价值与档位对比，与帖文主题高度相关"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及 Pro 与 Flash 模型策略，与谷歌档位讨论相近"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "关注用量上限与测试，帖文比较各平台会员额度上限"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "直接讨论高端 AI 订阅的价值与档位对比，与帖文主题高度相关",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 体验与额度，帖文核心为 API 额度对比",
+    "topics/usage-limit-ab-tests.md": "关注用量上限与测试，帖文比较各平台会员额度上限",
+    "topics/pro-vs-flash-model-strategy.md": "涉及 Pro 与 Flash 模型策略，与谷歌档位讨论相近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/claude-best-value-at-100-tier-google-catches-up-at-200-tier.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/pro-vs-flash-model-strategy.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "直接讨论高端 AI 订阅的价值与档位对比，与帖文主题高度相关",
+      "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 体验与额度，帖文核心为 API 额度对比",
+      "topics/usage-limit-ab-tests.md": "关注用量上限与测试，帖文比较各平台会员额度上限",
+      "topics/pro-vs-flash-model-strategy.md": "涉及 Pro 与 Flash 模型策略，与谷歌档位讨论相近"
+    },
+    "notes": "来源为 X 帖文，其中平台额度对比及“若谷歌剥离捆绑权益”的推断均为帖文主张，未经本文独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/claude-best-value-at-100-tier-google-catches-up-at-200-tier.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
