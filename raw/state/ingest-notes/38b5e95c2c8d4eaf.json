@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文核心是将设计风格转化为代码组件，与设计↔代码主题高度相关",
+    "topics/ux-dx-and-ax.md": "文中提到面向 AI Agent 的 UI SDK 与 AX（Agent Experience）相关",
+    "topics/landing-page-site-clone-over-skill.md": "文中涉及复刻现有网站风格而非从零编写专用 Skill"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文核心是将设计风格转化为代码组件，与设计↔代码主题高度相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中提到面向 AI Agent 的 UI SDK 与 AX（Agent Experience）相关"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "文中涉及复刻现有网站风格而非从零编写专用 Skill"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文发布时间显示为 2026 年 11 月 25 日，Demo 链接为 t.co 短链未展开完整 URL，未独立核实 HungerG 与 DeepSeek V4.1 Flash 的性能对比。"
+}

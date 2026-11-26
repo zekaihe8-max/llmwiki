@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:40:23.692Z",
+  "url": "https://software.qiaomu.ai/",
+  "slug": "c7e998badfeffcdd",
+  "content_hash": "7e8881c89bf864f4778776ee14a63ca11719a1e73ca84a03956d1d232845ef33",
+  "source": {
+    "path": "sources/articles/mac-software-i-recommend.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/software-factory.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "Mac 软件属桌面端工具，与桌面类话题有一定关联"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及个人网站与友情链接，与来源站点性质接近"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "文章为站点上的软件列表页面，与落地页/站点复刻主题相近"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "内容聚焦 Mac 软件推荐，与软件类话题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "文章为站点上的软件列表页面，与落地页/站点复刻主题相近",
+    "topics/software-factory.md": "内容聚焦 Mac 软件推荐，与软件类话题相关",
+    "topics/geo-personal-website-first-step.md": "涉及个人网站与友情链接，与来源站点性质接近",
+    "topics/desktop-outfit-character-companions.md": "Mac 软件属桌面端工具，与桌面类话题有一定关联"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mac-software-i-recommend.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/landing-page-site-clone-over-skill.md",
+      "topics/software-factory.md",
+      "topics/geo-personal-website-first-step.md",
+      "topics/desktop-outfit-character-companions.md"
+    ],
+    "selection_reasons": {
+      "topics/landing-page-site-clone-over-skill.md": "文章为站点上的软件列表页面，与落地页/站点复刻主题相近",
+      "topics/software-factory.md": "内容聚焦 Mac 软件推荐，与软件类话题相关",
+      "topics/geo-personal-website-first-step.md": "涉及个人网站与友情链接，与来源站点性质接近",
+      "topics/desktop-outfit-character-companions.md": "Mac 软件属桌面端工具，与桌面类话题有一定关联"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mac-software-i-recommend.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

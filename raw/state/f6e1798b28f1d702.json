@@ -1,0 +1,23 @@
+{
+  "slug": "f6e1798b28f1d702",
+  "url": "https://x.com/lxfater/status/2125528682127147196",
+  "title": "Conductor 弃用 Tauri、换回 Electron，启动快了 4.6 倍",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "f6e1798b28f1d7021e95c39ea21cf85aa886930b77b9d55fa27a8f893c9fda93",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:14.393Z",
+  "content_hash": "c1a64bf158d9593335ca223d5affeef117a3a22fa0bbc1c75eaa7135f6f85a91",
+  "article_path": "articles/f6e1798b28f1d702.md",
+  "fetched_url": "https://x.com/lxfater/status/2125528682127147196",
+  "source_path": "sources/articles/conductor-drops-tauri-for-electron-startup-4-6x-faster.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:31:41.761Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

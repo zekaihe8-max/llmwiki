@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章讨论 Google AI Pro/Ultra 订阅定价与附加价值，与高端 AI 订阅价值主题直接相关。",
+    "topics/pro-vs-flash-model-strategy.md": "文中涉及 Gemini 4 Carbon/Neon/Hydrogen 三档模型与旧模型退役，属模型策略取舍。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提及新模型耗额度更快及 Starter Quota 限流，与编程 Agent 体验与额度相关。",
+    "topics/cloud-auto-model-routing.md": "建议开启 Orchestrator 让 Neon 与 Hydrogen 分工，涉及跨模型编排。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Google AI Pro/Ultra 订阅定价与附加价值，与高端 AI 订阅价值主题直接相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Gemini 4 Carbon/Neon/Hydrogen 三档模型与旧模型退役，属模型策略取舍。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提及新模型耗额度更快及 Starter Quota 限流，与编程 Agent 体验与额度相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "建议开启 Orchestrator 让 Neon 与 Hydrogen 分工，涉及跨模型编排。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

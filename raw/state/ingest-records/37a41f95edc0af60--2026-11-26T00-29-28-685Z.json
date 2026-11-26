@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:29:28.685Z",
+  "url": "https://x.com/xiaomovps/status/2125431601668759761",
+  "slug": "37a41f95edc0af60",
+  "content_hash": "4ee1b2e16f2e11755a6d501250d1131580e329e42aa12be5b150b536550e9b76",
+  "source": {
+    "path": "sources/articles/ai-self-media-workbench-chaining-three-open-source-skills-in-agy.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章介绍了三个开源 Skill 的搭建与使用，涉及 Skill 编写与组装思路。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 AGY 原生兼容通用 SKILL.md 标准和 MCP，与该主题的 Agent Skills 开放标准直接相关。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "作者通过组合多个 Skill 构建私人智能体工作台，体现了用 Skills 组合复刻原生感 App 的思路。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "核心观点是先把固定创作环节串联成工作流，再借助智能体工具落地，符合“工作流优先于智能体”。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "帖文明确提到 AGY 原生兼容通用 SKILL.md 标准和 MCP，与该主题的 Agent Skills 开放标准直接相关。",
+    "topics/agent-skill-authoring.md": "文章介绍了三个开源 Skill 的搭建与使用，涉及 Skill 编写与组装思路。",
+    "topics/workflows-before-agents.md": "核心观点是先把固定创作环节串联成工作流，再借助智能体工具落地，符合“工作流优先于智能体”。",
+    "topics/skills-stack-native-app-recreation.md": "作者通过组合多个 Skill 构建私人智能体工作台，体现了用 Skills 组合复刻原生感 App 的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-self-media-workbench-chaining-three-open-source-skills-in-agy.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skills-open-standard.md",
+      "topics/agent-skill-authoring.md",
+      "topics/workflows-before-agents.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skills-open-standard.md": "帖文明确提到 AGY 原生兼容通用 SKILL.md 标准和 MCP，与该主题的 Agent Skills 开放标准直接相关。",
+      "topics/agent-skill-authoring.md": "文章介绍了三个开源 Skill 的搭建与使用，涉及 Skill 编写与组装思路。",
+      "topics/workflows-before-agents.md": "核心观点是先把固定创作环节串联成工作流，再借助智能体工具落地，符合“工作流优先于智能体”。",
+      "topics/skills-stack-native-app-recreation.md": "作者通过组合多个 Skill 构建私人智能体工作台，体现了用 Skills 组合复刻原生感 App 的思路。"
+    },
+    "notes": "来源为 X 平台帖文，未核实其中关于工具效果的具体主张，已在摘要中使用「帖文称」标注。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-self-media-workbench-chaining-three-open-source-skills-in-agy.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

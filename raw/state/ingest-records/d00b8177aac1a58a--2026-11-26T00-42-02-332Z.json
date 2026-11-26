@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:42:02.332Z",
+  "url": "https://x.com/0xLogicrw/status/2125494569005633733",
+  "slug": "d00b8177aac1a58a",
+  "content_hash": "96ce25d0ec9b2b7aae0f861e704c2fd5dcdc4ec3ab1ba86e5495e4f7ad2a9287",
+  "source": {
+    "path": "sources/articles/antigravity-new-version-neon-tasks-save-12-quota-adds-auto-mode.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心新增 Auto 模式，与智能体自动模式主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Neon 任务额度减少与体验提升，属于编程 Agent 体验与额度范畴。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章明确提及 Agent Harness 优化，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章以额度和速度而非仅 token 衡量 Harness 效率，与超越 token 数的 Harness 对比相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心新增 Auto 模式，与智能体自动模式主题直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文章涉及 Neon 任务额度减少与体验提升，属于编程 Agent 体验与额度范畴。",
+    "topics/company-agent-harness.md": "文章明确提及 Agent Harness 优化，与公司级 Agent Harness 主题相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文章以额度和速度而非仅 token 衡量 Harness 效率，与超越 token 数的 Harness 对比相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-new-version-neon-tasks-save-12-quota-adds-auto-mode.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-auto-mode.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/company-agent-harness.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-auto-mode.md": "文章核心新增 Auto 模式，与智能体自动模式主题直接相关。",
+      "topics/coding-agent-ux-vs-quota.md": "文章涉及 Neon 任务额度减少与体验提升，属于编程 Agent 体验与额度范畴。",
+      "topics/company-agent-harness.md": "文章明确提及 Agent Harness 优化，与公司级 Agent Harness 主题相关。",
+      "topics/harness-comparison-beyond-tokens.md": "文章以额度和速度而非仅 token 衡量 Harness 效率，与超越 token 数的 Harness 对比相关。"
+    },
+    "notes": "基于单条 X 帖文，具体数据未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-new-version-neon-tasks-save-12-quota-adds-auto-mode.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

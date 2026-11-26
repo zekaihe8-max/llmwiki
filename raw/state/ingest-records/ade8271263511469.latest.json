@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:20:22.094Z",
+  "url": "https://x.com/Khazix0918/status/2125443929093075394",
+  "slug": "ade8271263511469",
+  "content_hash": "c61ccc424857760e82b78d17e1f1a99b58118c41bfceb9c08963672e410a03eb",
+  "source": {
+    "path": "sources/articles/long-form-hands-on-test-of-magi-2-visuals-near-seedance-2-3-1080.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "作者通过自行生成案例并组织盲测，体现社区实测对抗刷分碰瓷的精神。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文中提到 MAGI-2 计划开源，与开放权重前沿模型主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中将 MAGI-2 定价与 Seedance 2.5 及其 Flash 版本对比，涉及 Pro 与 Flash 模型策略。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "这是一篇基于实测的模型质量评测，而非仅依赖公开榜单。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文中提到 MAGI-2 计划开源，与开放权重前沿模型主题相关。",
+    "topics/pro-vs-flash-model-strategy.md": "文中将 MAGI-2 定价与 Seedance 2.5 及其 Flash 版本对比，涉及 Pro 与 Flash 模型策略。",
+    "topics/public-benchmark-quality-scrutiny.md": "这是一篇基于实测的模型质量评测，而非仅依赖公开榜单。",
+    "topics/community-evals-vs-score-hype.md": "作者通过自行生成案例并组织盲测，体现社区实测对抗刷分碰瓷的精神。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/long-form-hands-on-test-of-magi-2-visuals-near-seedance-2-3-1080.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文中提到 MAGI-2 计划开源，与开放权重前沿模型主题相关。",
+      "topics/pro-vs-flash-model-strategy.md": "文中将 MAGI-2 定价与 Seedance 2.5 及其 Flash 版本对比，涉及 Pro 与 Flash 模型策略。",
+      "topics/public-benchmark-quality-scrutiny.md": "这是一篇基于实测的模型质量评测，而非仅依赖公开榜单。",
+      "topics/community-evals-vs-score-hype.md": "作者通过自行生成案例并组织盲测，体现社区实测对抗刷分碰瓷的精神。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/long-form-hands-on-test-of-magi-2-visuals-near-seedance-2-3-1080.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

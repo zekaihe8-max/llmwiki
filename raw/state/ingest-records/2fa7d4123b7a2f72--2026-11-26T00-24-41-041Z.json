@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:24:41.041Z",
+  "url": "https://x.com/op7418/status/2125531753981034763",
+  "slug": "2fa7d4123b7a2f72",
+  "content_hash": "3cdec26abd595fa89130ee2fbee0325a6f764c7cad380c56dfdb4ae160e189f1",
+  "source": {
+    "path": "sources/articles/google-neon-libtv-mcp-magi-2-code-to-video-and-video-to-code-ski.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "标题提示为“Skill 说明”，帖文围绕技能式玩法展开。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "使用 MAGI-2 视频模型生成与参考视频，属智能体视频相关范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及从视频参考生成代码/网页的设计到代码流程。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文核心是生成网页，与落地页复刻主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "标题提示为“Skill 说明”，帖文围绕技能式玩法展开。",
+    "topics/design-to-code-byo-subscriptions.md": "涉及从视频参考生成代码/网页的设计到代码流程。",
+    "topics/landing-page-site-clone-over-skill.md": "帖文核心是生成网页，与落地页复刻主题相近。",
+    "topics/agentic-video-editing.md": "使用 MAGI-2 视频模型生成与参考视频，属智能体视频相关范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-neon-libtv-mcp-magi-2-code-to-video-and-video-to-code-ski.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/landing-page-site-clone-over-skill.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "标题提示为“Skill 说明”，帖文围绕技能式玩法展开。",
+      "topics/design-to-code-byo-subscriptions.md": "涉及从视频参考生成代码/网页的设计到代码流程。",
+      "topics/landing-page-site-clone-over-skill.md": "帖文核心是生成网页，与落地页复刻主题相近。",
+      "topics/agentic-video-editing.md": "使用 MAGI-2 视频模型生成与参考视频，属智能体视频相关范畴。"
+    },
+    "notes": "所有主题均复用现有条目，action 均为 unchanged；未引用文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-neon-libtv-mcp-magi-2-code-to-video-and-video-to-code-ski.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

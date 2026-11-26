@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:48:11.150Z",
+  "url": "https://x.com/xiaomovps/status/2125445661617533265",
+  "slug": "29c6c0e6b64f2cb4",
+  "content_hash": "a289ecf954724415b70386e9985ec7d766794d780b01e10a4856e27fbe73eb7b",
+  "source": {
+    "path": "sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/agent-skill-authoring.md",
+    "topics/workflows-before-agents.md",
+    "topics/agent-skills-open-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文末强调自己维护常用 Skill，避免核心逻辑被平台锁定，与现有主题相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "关联帖文提到 AGY 原生兼容通用 SKILL.md 标准，现有主题已覆盖开放 Skill 标准。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中 Neon 与 Carbon 的分层使用属于模型渠道取舍与额度策略，现有主题已覆盖。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "整篇围绕从 Codex 到谷歌生态的工作流迁移与工具分工，与现有主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "文中 Neon 与 Carbon 的分层使用属于模型渠道取舍与额度策略，现有主题已覆盖。",
+    "topics/agent-skill-authoring.md": "文末强调自己维护常用 Skill，避免核心逻辑被平台锁定，与现有主题相关。",
+    "topics/workflows-before-agents.md": "整篇围绕从 Codex 到谷歌生态的工作流迁移与工具分工，与现有主题高度相关。",
+    "topics/agent-skills-open-standard.md": "关联帖文提到 AGY 原生兼容通用 SKILL.md 标准，现有主题已覆盖开放 Skill 标准。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/agent-skill-authoring.md",
+      "topics/workflows-before-agents.md",
+      "topics/agent-skills-open-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "文中 Neon 与 Carbon 的分层使用属于模型渠道取舍与额度策略，现有主题已覆盖。",
+      "topics/agent-skill-authoring.md": "文末强调自己维护常用 Skill，避免核心逻辑被平台锁定，与现有主题相关。",
+      "topics/workflows-before-agents.md": "整篇围绕从 Codex 到谷歌生态的工作流迁移与工具分工，与现有主题高度相关。",
+      "topics/agent-skills-open-standard.md": "关联帖文提到 AGY 原生兼容通用 SKILL.md 标准，现有主题已覆盖开放 Skill 标准。"
+    },
+    "notes": "引用的另一条帖文（/xiaomovps/status/2125431601668759761）未全文获取，仅按可见片段理解，未将其作为独立事实来源。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

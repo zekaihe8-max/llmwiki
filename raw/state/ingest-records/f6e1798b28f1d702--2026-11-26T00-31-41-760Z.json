@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:31:41.760Z",
+  "url": "https://x.com/lxfater/status/2125528682127147196",
+  "slug": "f6e1798b28f1d702",
+  "content_hash": "c1a64bf158d9593335ca223d5affeef117a3a22fa0bbc1c75eaa7135f6f85a91",
+  "source": {
+    "path": "sources/articles/conductor-drops-tauri-for-electron-startup-4-6x-faster.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Conductor 属于 AI 编程 Agent 类桌面产品，其界面性能直接影响编程体验"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "涉及桌面应用外壳与原生感体验的构建，与“换壳”讨论相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "讨论桌面应用框架更替对用户体验与开发体验的影响，与 Tauri 到 Electron 的迁移动机相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "讨论桌面应用框架更替对用户体验与开发体验的影响，与 Tauri 到 Electron 的迁移动机相近",
+    "topics/coding-agent-ux-vs-quota.md": "Conductor 属于 AI 编程 Agent 类桌面产品，其界面性能直接影响编程体验",
+    "topics/skills-stack-native-app-recreation.md": "涉及桌面应用外壳与原生感体验的构建，与“换壳”讨论相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/conductor-drops-tauri-for-electron-startup-4-6x-faster.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ux-dx-and-ax.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/ux-dx-and-ax.md": "讨论桌面应用框架更替对用户体验与开发体验的影响，与 Tauri 到 Electron 的迁移动机相近",
+      "topics/coding-agent-ux-vs-quota.md": "Conductor 属于 AI 编程 Agent 类桌面产品，其界面性能直接影响编程体验",
+      "topics/skills-stack-native-app-recreation.md": "涉及桌面应用外壳与原生感体验的构建，与“换壳”讨论相关"
+    },
+    "notes": "所有主张均基于提供的 X 帖文与引用推文，未引入外部事实",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/conductor-drops-tauri-for-electron-startup-4-6x-faster.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

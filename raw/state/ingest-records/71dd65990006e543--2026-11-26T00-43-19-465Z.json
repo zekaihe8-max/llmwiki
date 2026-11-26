@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:43:19.465Z",
+  "url": "https://x.com/heydengai/status/2125456411887055335",
+  "slug": "71dd65990006e543",
+  "content_hash": "99cf9a02cfc87e0f70952c1235d5eb053b89f9cf2740b1963e8c32d0e3749197",
+  "source": {
+    "path": "sources/articles/black-friday-roundup-of-22-tech-product-deals-prices-promo-codes.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "用户自发整理并公开推荐多款科技产品，属于个人产品自荐与种草场景"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及 TypingMind 等自带 AI 订阅的设计/代码工具，与订阅类工具类别相邻"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/ai-product-self-rec-amplify.md": "用户自发整理并公开推荐多款科技产品，属于个人产品自荐与种草场景",
+    "topics/design-to-code-byo-subscriptions.md": "涉及 TypingMind 等自带 AI 订阅的设计/代码工具，与订阅类工具类别相邻"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/black-friday-roundup-of-22-tech-product-deals-prices-promo-codes.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+      "topics/ai-product-self-rec-amplify.md": "用户自发整理并公开推荐多款科技产品，属于个人产品自荐与种草场景",
+      "topics/design-to-code-byo-subscriptions.md": "涉及 TypingMind 等自带 AI 订阅的设计/代码工具，与订阅类工具类别相邻"
+    },
+    "notes": "帖文未直接列出全部 22 款产品名单，具体优惠详情位于评论区，未在此处展开。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/black-friday-roundup-of-22-tech-product-deals-prices-promo-codes.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

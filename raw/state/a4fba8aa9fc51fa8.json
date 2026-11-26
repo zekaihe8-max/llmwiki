@@ -1,0 +1,23 @@
+{
+  "slug": "a4fba8aa9fc51fa8",
+  "url": "https://ui-sdk.dev/",
+  "title": "UI SDK",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "a4fba8aa9fc51fa8b3bae855034fbe69c4d8aff368e0cb0bfe9745574ea47473",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:17.454Z",
+  "content_hash": "a85375443331f73233205fc7de7e15530ba87b8adc4ee9c40451a7fdeba33357",
+  "article_path": "articles/a4fba8aa9fc51fa8.md",
+  "fetched_url": "https://ui-sdk.dev/",
+  "source_path": "sources/articles/ui-sdk-a-behavior-library-for-agent-driven-user-interfaces.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:37:41.417Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-in-inbox.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-in-inbox.md": "帖文涉及 AI 处理 Gmail 收件箱，与该主题直接相关。",
+    "topics/divergent-tasks-human-design-gate.md": "人工确认锁对应发散/敏感任务先人审的设计。",
+    "topics/agent-skills-open-standard.md": "MCP 与技能包属于面向 Agent 的开放连接标准范畴。",
+    "topics/tasks-confidently-handed-to-ai.md": "整理未读邮件、把待办塞进日历属于交给 AI 的具体任务。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-in-inbox.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 处理 Gmail 收件箱，与该主题直接相关。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "人工确认锁对应发散/敏感任务先人审的设计。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "MCP 与技能包属于面向 Agent 的开放连接标准范畴。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "整理未读邮件、把待办塞进日历属于交给 AI 的具体任务。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by @lxfater; no URLs beyond the given post and its referenced developers.google.com short link are invented."
+}

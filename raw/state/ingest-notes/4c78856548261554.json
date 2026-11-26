@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-video-editing.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章本身是一个可安装的 Agent Skill，直接对应技能编写与分发场景。",
+    "topics/agentic-video-editing.md": "核心内容涉及 AI 视频生成、灰盒预演与成片重绘，属于智能体视频编辑范畴。",
+    "topics/design-to-code-byo-subscriptions.md": "文中提到通过参考视频生成网页代码，并使用 Claude Code/Codex，与设计↔代码及订阅客户端主题相近。",
+    "topics/tasks-confidently-handed-to-ai.md": "文章列举了适合与不适合交给 AI 的视频和网页制作任务，契合“哪些活可放心交给 AI”的讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章本身是一个可安装的 Agent Skill，直接对应技能编写与分发场景。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "核心内容涉及 AI 视频生成、灰盒预演与成片重绘，属于智能体视频编辑范畴。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文中提到通过参考视频生成网页代码，并使用 Claude Code/Codex，与设计↔代码及订阅客户端主题相近。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "文章列举了适合与不适合交给 AI 的视频和网页制作任务，契合“哪些活可放心交给 AI”的讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

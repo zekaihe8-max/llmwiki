@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-skill-authoring.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是智能体驱动的视频生成与编辑工作流，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "作者明确打包并分享了可复用的 Agent Skill，直接对应 Skill 编写主题。",
+    "topics/design-to-code-byo-subscriptions.md": "文中展示从视觉参考到代码生成的设计↔代码闭环，与设计到代码主题相符。",
+    "topics/workflows-before-agents.md": "文章强调先跑通视频与代码的双向工作流，再交由 Agent 执行，体现工作流优先于智能体。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是智能体驱动的视频生成与编辑工作流，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "作者明确打包并分享了可复用的 Agent Skill，直接对应 Skill 编写主题。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文中展示从视觉参考到代码生成的设计↔代码闭环，与设计到代码主题相符。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先跑通视频与代码的双向工作流，再交由 Agent 执行，体现工作流优先于智能体。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "cite_id derived from article topic focus; all claims grounded in the fetched markdown only."
+}

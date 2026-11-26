@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/mobile-agent-dev-full-chain.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文核心是 AI 直接操作模拟器界面，属于计算机使用类智能体场景。",
+    "topics/ai-assisted-os-port-wave.md": "x86Sim 将苹果模拟器移植到 Linux，符合 AI 协助的系统移植/破解风潮。",
+    "topics/mobile-agent-dev-full-chain.md": "涉及 iOS App 在云端的全链路测试与 Agent 操作。",
+    "topics/agent-compute-and-governance.md": "在普通 Linux 云 VM 上跑智能体测试，涉及智能体算力与环境治理。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 AI 直接操作模拟器界面，属于计算机使用类智能体场景。"
+    },
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "x86Sim 将苹果模拟器移植到 Linux，符合 AI 协助的系统移植/破解风潮。"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "涉及 iOS App 在云端的全链路测试与 Agent 操作。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "在普通 Linux 云 VM 上跑智能体测试，涉及智能体算力与环境治理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用内容均来自提供的帖文 Markdown，未编造 URL 或事实；GitHub 链接仅保留帖文展示的缩写形式。"
+}

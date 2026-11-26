@@ -1,0 +1,23 @@
+{
+  "slug": "5bf3c6be11c0fde3",
+  "url": "https://x.com/heydengai/status/2125446367212699867",
+  "title": "Codex CLI 重写",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "5bf3c6be11c0fde334e654c18961a09bfb6871bc527393f8fda76ad1bf5d940d",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:23.233Z",
+  "content_hash": "2529babd79230163edbe85a05eb96da0f07b6b00b0650cfe885b9908a866448b",
+  "article_path": "articles/5bf3c6be11c0fde3.md",
+  "fetched_url": "https://x.com/heydengai/status/2125446367212699867",
+  "source_path": "sources/articles/codex-cli-rewrite-jpmorgan-uses-ai-to-cut-648k-rust-lines-to-53k.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:44:33.025Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

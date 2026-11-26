@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/computer-use.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "文章聚焦智能体驱动的界面构建与 AX（智能体体验），与该主题的 UX/DX/AX 讨论最为贴近。",
+    "topics/computer-use.md": "文中提到智能体直接读取页面并操作控件、无需截图，与“计算机使用”主题直接相关。",
+    "topics/agent-skill-authoring.md": "文中明确提到向智能体添加 UI SDK 技能，与 Agent Skill 编写主题相关。",
+    "topics/agentic-ai-foundation.md": "文章属于面向智能体的基础设施与能力构建，与智能体 AI 基础主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文章聚焦智能体驱动的界面构建与 AX（智能体体验），与该主题的 UX/DX/AX 讨论最为贴近。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "文中提到智能体直接读取页面并操作控件、无需截图，与“计算机使用”主题直接相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确提到向智能体添加 UI SDK 技能，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "文章属于面向智能体的基础设施与能力构建，与智能体 AI 基础主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持不变，仅作为参考咨询。"
+}

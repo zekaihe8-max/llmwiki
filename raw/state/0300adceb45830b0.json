@@ -1,0 +1,23 @@
+{
+  "slug": "0300adceb45830b0",
+  "url": "https://x.com/dotey/status/2125464294401720614",
+  "title": "OpenAI 新论文想把矩阵乘法的速度下限钉在 2.25 次方",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "0300adceb45830b0839dcc54b6dd798d95061a10e302bfe3ba0ca08aafc2e82b",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:16.624Z",
+  "content_hash": "895f570d98174ff57838a5f61ab8b18471bba8c39938bce2bd1402ac880fcfee",
+  "article_path": "articles/0300adceb45830b0.md",
+  "fetched_url": "https://x.com/dotey/status/2125464294401720614",
+  "source_path": "sources/articles/openai-paper-claims-to-pin-matrix-multiplication-exponent-at-2-2.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:36:01.685Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

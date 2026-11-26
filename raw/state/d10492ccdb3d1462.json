@@ -1,0 +1,23 @@
+{
+  "slug": "d10492ccdb3d1462",
+  "url": "https://x.com/Khazix0918/status/2124680457623425334",
+  "title": "那篇文章",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "d10492ccdb3d1462c40e713a01d4a9962c18a0bb93c6da5961c138c3e4f88bd2",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:05.818Z",
+  "content_hash": "81e9505339ef7be57345ebf84574bb95d7a61329eac961e25df1c2a9eef4a8f0",
+  "article_path": "articles/d10492ccdb3d1462.md",
+  "fetched_url": "https://x.com/Khazix0918/status/2124680457623425334",
+  "source_path": "sources/articles/how-i-coordinate-claude-gpt-and-gemini-seamlessly.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:22:00.564Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

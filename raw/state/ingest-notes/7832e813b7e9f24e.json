@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文核心是审视公开 AI 评估的质量与失真问题，与“信任公开榜前先审质量”主题直接对应。",
+    "topics/community-evals-vs-score-hype.md": "文中拆解评分器误拒与分数不可靠，呼应社区实测对抗刷分碰瓷。",
+    "topics/ai-eval-work-record-gateway.md": "文章讨论评测入口、运行轨迹与人工返工，属于 AI 评测记录与入口范畴。",
+    "topics/computer-use.md": "评估覆盖浏览与电脑操作，涉及 Computer Use 类智能体能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文核心是审视公开 AI 评估的质量与失真问题，与“信任公开榜前先审质量”主题直接对应。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中拆解评分器误拒与分数不可靠，呼应社区实测对抗刷分碰瓷。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章讨论评测入口、运行轨迹与人工返工，属于 AI 评测记录与入口范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "评估覆盖浏览与电脑操作，涉及 Computer Use 类智能体能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 shao__meng 的帖文，引用 Eugene Yan 的原文 eugeneyan.com/writing/public…，未独立核实原文细节。"
+}

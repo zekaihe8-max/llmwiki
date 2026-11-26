@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-clears-deferred-life-todos.md",
+    "topics/ai-assisted-local-businesses.md",
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-clears-deferred-life-todos.md": "文章聚焦 AI 代办日常生活待办（订餐厅、查快递等），与该主题高度相关，但无需修改。",
+    "topics/ai-assisted-local-businesses.md": "文中提到线下餐厅、酒店前台缺乏软件接口，仅靠电话沟通，与 AI 助力本地小生意的语境一致，保持不变。",
+    "topics/tasks-confidently-handed-to-ai.md": "帖文讨论将打电话这类任务交给 AI 以及对方挂断、AI 办砸的顾虑，属于“哪些活可交给 AI”的范畴，无需新增。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中对比字节小豆与阿里千问 Go 的个人助手派话场景，与个人助手派活主题相近，保持原样。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-clears-deferred-life-todos.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 AI 代办日常生活待办（订餐厅、查快递等），与该主题高度相关，但无需修改。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "文中提到线下餐厅、酒店前台缺乏软件接口，仅靠电话沟通，与 AI 助力本地小生意的语境一致，保持不变。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文讨论将打电话这类任务交给 AI 以及对方挂断、AI 办砸的顾虑，属于“哪些活可交给 AI”的范畴，无需新增。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中对比字节小豆与阿里千问 Go 的个人助手派话场景，与个人助手派活主题相近，保持原样。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于单一 X 帖文，未独立核实，已在摘要中使用“帖文称”等表述进行限定。"
+}

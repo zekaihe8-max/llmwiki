@@ -1,0 +1,23 @@
+{
+  "slug": "f35ca468372f7264",
+  "url": "https://x.com/Gorden_Sun/status/2125525045409948104",
+  "title": "OCRia-1（Gorden Sun @Gorden_Sun）",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "f35ca468372f726402707533be7816d46b7eee3fbeba603924427e782e8c3610",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:23.695Z",
+  "content_hash": "f7f1ea0362a110bbdb46dc257c59df502627c5f277347643b2757cbecba5ae4c",
+  "article_path": "articles/f35ca468372f7264.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2125525045409948104",
+  "source_path": "sources/articles/ocria-1-llamaindex-open-source-4b-parameter-document-ocr-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:45:51.885Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

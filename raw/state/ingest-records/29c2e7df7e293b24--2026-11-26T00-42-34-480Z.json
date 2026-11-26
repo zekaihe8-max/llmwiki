@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:42:34.480Z",
+  "url": "https://x.com/0xLogicrw/status/2125530026527600641",
+  "slug": "29c2e7df7e293b24",
+  "content_hash": "36544e33c2799d721442ee59d903039cca323da52b48264a71a9fe36eae5d789",
+  "source": {
+    "path": "sources/articles/openai-emails-codex-users-twice-one-compensation-credit-one-fast.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-compute-and-governance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "Codex 请求的计费与算力消耗属于智能体算力治理范畴。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦 Codex 用户的额度体验与计费变动，直接对应编程 Agent 的用量与额度主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "补偿积分与额度消耗变化直接影响付费订阅的感知价值。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及平台对用户用量统计与计费的调整，属于用量限制与测试相关范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文聚焦 Codex 用户的额度体验与计费变动，直接对应编程 Agent 的用量与额度主题。",
+    "topics/usage-limit-ab-tests.md": "涉及平台对用户用量统计与计费的调整，属于用量限制与测试相关范畴。",
+    "topics/premium-ai-subscription-value.md": "补偿积分与额度消耗变化直接影响付费订阅的感知价值。",
+    "topics/agent-compute-and-governance.md": "Codex 请求的计费与算力消耗属于智能体算力治理范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-emails-codex-users-twice-one-compensation-credit-one-fast.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/agent-compute-and-governance.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "帖文聚焦 Codex 用户的额度体验与计费变动，直接对应编程 Agent 的用量与额度主题。",
+      "topics/usage-limit-ab-tests.md": "涉及平台对用户用量统计与计费的调整，属于用量限制与测试相关范畴。",
+      "topics/premium-ai-subscription-value.md": "补偿积分与额度消耗变化直接影响付费订阅的感知价值。",
+      "topics/agent-compute-and-governance.md": "Codex 请求的计费与算力消耗属于智能体算力治理范畴。"
+    },
+    "notes": "所有主张均基于该 X 帖文，未独立核实 OpenAI 邮件内容或 GPT-6.2 Astra/Sol 等模型名称的真实性。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-emails-codex-users-twice-one-compensation-credit-one-fast.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

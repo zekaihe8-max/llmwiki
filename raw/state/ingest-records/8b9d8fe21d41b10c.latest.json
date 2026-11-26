@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:36:31.642Z",
+  "url": "https://x.com/servasyy_ai/status/2125524076013760588",
+  "slug": "8b9d8fe21d41b10c",
+  "content_hash": "42a6c43c5745876f7ca572ce7aea6592f1b5bc91d7386e53f1f51d2e70473af7",
+  "source": {
+    "path": "sources/articles/closed-book-score-gaps-vanish-hungerg-delivers-more-stably-in-pr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文本身是一次带分数、带题目、带复盘的 AI 评测工作记录，与该主题高度相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章把闭卷分数与实战交付并列，正好对应该主题对单一分数榜单与刷分现象的质疑。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中点出双击改名失效、3D 地球播放速度过快等交互细节，涉及 UX/AX 交付质量。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章把闭卷分数与实战交付并列，正好对应该主题对单一分数榜单与刷分现象的质疑。",
+    "topics/ai-eval-work-record-gateway.md": "帖文本身是一次带分数、带题目、带复盘的 AI 评测工作记录，与该主题高度相关。",
+    "topics/ux-dx-and-ax.md": "文中点出双击改名失效、3D 地球播放速度过快等交互细节，涉及 UX/AX 交付质量。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/closed-book-score-gaps-vanish-hungerg-delivers-more-stably-in-pr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/community-evals-vs-score-hype.md": "文章把闭卷分数与实战交付并列，正好对应该主题对单一分数榜单与刷分现象的质疑。",
+      "topics/ai-eval-work-record-gateway.md": "帖文本身是一次带分数、带题目、带复盘的 AI 评测工作记录，与该主题高度相关。",
+      "topics/ux-dx-and-ax.md": "文中点出双击改名失效、3D 地球播放速度过快等交互细节，涉及 UX/AX 交付质量。"
+    },
+    "notes": "来源为 X 帖文，模型身份在文中未完全揭示（“到底是哪家的大作？我到现在也没扒出来”），因此未断言 HungerG 的具体厂商。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/closed-book-score-gaps-vanish-hungerg-delivers-more-stably-in-pr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

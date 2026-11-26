@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:32:25.525Z",
+  "url": "https://x.com/lxfater/status/2125511067698700773",
+  "slug": "e01033ae3a41ff42",
+  "content_hash": "9d3febc972a9bbd82ff3687120751e13b232f619504ef10ce2a128e6346aeb9c",
+  "source": {
+    "path": "sources/articles/tencent-hunyuan-open-sources-hy4-flash-compressed-version-64-gb.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及消费级设备（Mac mini 统一内存）承载大模型推理的算力与显存权衡"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文讨论在本地 Mac mini 上运行大模型，属本地开放模型落地场景"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是腾讯混元开源的开放权重大模型，与该主题高度相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章核心是腾讯混元开源的开放权重大模型，与该主题高度相关",
+    "topics/local-open-assistant-models.md": "帖文讨论在本地 Mac mini 上运行大模型，属本地开放模型落地场景",
+    "topics/gpu-ai-compute-unlock.md": "涉及消费级设备（Mac mini 统一内存）承载大模型推理的算力与显存权衡"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tencent-hunyuan-open-sources-hy4-flash-compressed-version-64-gb.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/local-open-assistant-models.md",
+      "topics/gpu-ai-compute-unlock.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章核心是腾讯混元开源的开放权重大模型，与该主题高度相关",
+      "topics/local-open-assistant-models.md": "帖文讨论在本地 Mac mini 上运行大模型，属本地开放模型落地场景",
+      "topics/gpu-ai-compute-unlock.md": "涉及消费级设备（Mac mini 统一内存）承载大模型推理的算力与显存权衡"
+    },
+    "notes": "仅基于提供的推文文本，未访问外部链接；未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tencent-hunyuan-open-sources-hy4-flash-compressed-version-64-gb.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

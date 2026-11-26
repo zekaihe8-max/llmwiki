@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心围绕 Skill 的远程分发与 SKILL.md 被改动，直接对应 Agent Skill 编写主题。",
+    "topics/agent-skills-open-standard.md": "Anthropic MCP 远程分发 Skills 属于 Agent Skills 开放标准与分发机制范畴。",
+    "topics/agents-md-token-efficiency.md": "帖文中 SKILL.md 作为项目指令文件被静默篡改，与项目指令对 Agent 行为的影响相关。",
+    "topics/agent-auto-mode.md": "模型与提示词均未改动却出现行为突变，涉及智能体自动模式下的行为漂移问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心围绕 Skill 的远程分发与 SKILL.md 被改动，直接对应 Agent Skill 编写主题。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "Anthropic MCP 远程分发 Skills 属于 Agent Skills 开放标准与分发机制范畴。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文中 SKILL.md 作为项目指令文件被静默篡改，与项目指令对 Agent 行为的影响相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "模型与提示词均未改动却出现行为突变，涉及智能体自动模式下的行为漂移问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为单条 X 帖文，其中关于 Anthropic 公告及 SKILL.md 被篡改的主张均未在本文外独立核实，已用「帖文称」标注。"
+}

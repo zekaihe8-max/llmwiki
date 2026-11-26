@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文核心是将教娃乘法口诀这项任务交给 AI 完成，与“哪些活已放心交给 AI”主题高度相关。",
+    "topics/agentic-video-editing.md": "文中涉及 Google Flow、Veo 3.1 生成有对白的 AI 短片，属于智能体视频制作与编辑范畴。",
+    "topics/ai-assisted-clipping-and-notes.md": "文中提到 Nano Banana Pro 生图及多模态内容制作，与 AI 辅助媒体笔记与剪辑相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文核心是将教娃乘法口诀这项任务交给 AI 完成，与“哪些活已放心交给 AI”主题高度相关。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Google Flow、Veo 3.1 生成有对白的 AI 短片，属于智能体视频制作与编辑范畴。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "文中提到 Nano Banana Pro 生图及多模态内容制作，与 AI 辅助媒体笔记与剪辑相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章同时引用同作者另一条关于 Google Flow 保姆级教程的 X 帖文，但本条主要聚焦亲子教娃场景。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/hunger-beats-tenure.md"
+  ],
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "帖文中黄仁勋谈及继任计划与自己长期执 CEO，与先驱离任与继承话题相近。",
+    "topics/ai-management-span-of-control.md": "黄仁勋讨论高强度管理风格及其对员工的影响，与高管管控距离相关。",
+    "topics/hunger-beats-tenure.md": "黄仁勋强调自己是科技史上在任最久的 CEO，涉及任期与资历议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "帖文中黄仁勋谈及继任计划与自己长期执 CEO，与先驱离任与继承话题相近。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "黄仁勋讨论高强度管理风格及其对员工的影响，与高管管控距离相关。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "黄仁勋强调自己是科技史上在任最久的 CEO，涉及任期与资历议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文及其引用的 Wired 报道，未引入外部事实。"
+}
