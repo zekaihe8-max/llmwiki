@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/computer-use.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章聚焦代理通过 CLI 自动完成生图、语音、视频等任务，与“智能体自动模式”主题高度相关。",
+    "topics/coding-agent-token-saving-tooling.md": "该工具面向编程代理提供 shell 能力，属于代理工具链与开销优化范畴。",
+    "topics/computer-use.md": "代理通过 shell 访问并操作文件与 API，属于计算机使用/代理操作环境的延伸。",
+    "topics/agentic-ai-foundation.md": "无状态 CLI 为代理调用模型与托管代理提供基础设施，契合 Agentic AI 基础设施主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章聚焦代理通过 CLI 自动完成生图、语音、视频等任务，与“智能体自动模式”主题高度相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "该工具面向编程代理提供 shell 能力，属于代理工具链与开销优化范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "代理通过 shell 访问并操作文件与 API，属于计算机使用/代理操作环境的延伸。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "无状态 CLI 为代理调用模型与托管代理提供基础设施，契合 Agentic AI 基础设施主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 google-gemini/gemini-api-cli 的 README，未引用文中未出现的外部事实或 URL。"
+}

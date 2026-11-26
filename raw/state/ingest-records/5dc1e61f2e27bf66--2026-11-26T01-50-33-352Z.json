@@ -1,0 +1,70 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:50:33.352Z",
+  "url": "https://x.com/trq212/status/2125675533761671405",
+  "slug": "5dc1e61f2e27bf66",
+  "content_hash": "df87686fed35e40ec56dfa19f09f5d7a765e41266da8496298db1c7ed8bf3de6",
+  "source": {
+    "path": "sources/articles/thariq-joins-openai-from-anthropic.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 实验室人才从 Anthropic 流向 OpenAI 的离职与加入动机。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 与 Anthropic 均为 AI 原生公司，帖文围绕两家公司的角色展开。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "Thariq 离任 Anthropic 并加入 OpenAI，涉及先驱离任与继任者叙事。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "文章涉及 AI 实验室人才从 Anthropic 流向 OpenAI 的离职与加入动机。",
+    "topics/ai-native-companies.md": "OpenAI 与 Anthropic 均为 AI 原生公司，帖文围绕两家公司的角色展开。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "Thariq 离任 Anthropic 并加入 OpenAI，涉及先驱离任与继任者叙事。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/thariq-joins-openai-from-anthropic.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pre-ipo-talent-departure-motives.md",
+      "topics/ai-native-companies.md",
+      "topics/incumbent-exit-successor-blame-metaphor.md"
+    ],
+    "selection_reasons": {
+      "topics/pre-ipo-talent-departure-motives.md": "文章涉及 AI 实验室人才从 Anthropic 流向 OpenAI 的离职与加入动机。",
+      "topics/ai-native-companies.md": "OpenAI 与 Anthropic 均为 AI 原生公司，帖文围绕两家公司的角色展开。",
+      "topics/incumbent-exit-successor-blame-metaphor.md": "Thariq 离任 Anthropic 并加入 OpenAI，涉及先驱离任与继任者叙事。"
+    },
+    "notes": "所有事实仅来自提供的推文文本，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/thariq-joins-openai-from-anthropic.md"
+      ],
+      "promotion": "in-place bilingual lint fix after first compile"
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

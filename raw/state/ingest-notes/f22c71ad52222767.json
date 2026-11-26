@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/languages-for-agents.md",
+    "topics/software-factory.md",
+    "topics/deterministic-refactor-automerge.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文提到使用团队规模的 Claude Agent 进行工程验证，与智能体规模化工程主题相关。",
+    "topics/languages-for-agents.md": "涉及从 Python 到 Rust 的编程语言迁移，与面向 Agent 的编程语言主题相关。",
+    "topics/software-factory.md": "利用智能体参与软件工程与代码迁移工作，契合软件工厂主题。",
+    "topics/deterministic-refactor-automerge.md": "新旧服务差异核对与修复涉及重构验证，与约束重构 PR 的确定性自动合入主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文提到使用团队规模的 Claude Agent 进行工程验证，与智能体规模化工程主题相关。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及从 Python 到 Rust 的编程语言迁移，与面向 Agent 的编程语言主题相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "利用智能体参与软件工程与代码迁移工作，契合软件工厂主题。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "新旧服务差异核对与修复涉及重构验证，与约束重构 PR 的确定性自动合入主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期与互动数据均按抓取页面所示。"
+}

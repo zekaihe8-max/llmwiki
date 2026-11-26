@@ -1,0 +1,23 @@
+{
+  "slug": "3cecffb82e356784",
+  "url": "https://x.com/cognition/status/2125305349414523061",
+  "title": "Cognition",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "3cecffb82e356784792a8b70aa1c794f7ec375639a2ec130432a9160122131d2",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:05.275Z",
+  "content_hash": "9ca56a9b46212e5dd2355b83d957372d95766cd1c9e24eb1a3b5050e76595662",
+  "article_path": "articles/3cecffb82e356784.md",
+  "fetched_url": "https://x.com/cognition/status/2125305349414523061",
+  "source_path": "sources/articles/cognition-releases-swe-2-1-coding-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:25:38.754Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

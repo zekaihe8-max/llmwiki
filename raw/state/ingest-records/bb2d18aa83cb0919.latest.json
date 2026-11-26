@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:54:52.832Z",
+  "url": "https://x.com/levie/status/2125442246543814686",
+  "slug": "bb2d18aa83cb0919",
+  "content_hash": "9bf5a0151becfe53494dc61ed0d4692ab862fd4c768db2de581c11ced33fb0fd",
+  "source": {
+    "path": "sources/articles/aaron-levie-ai-widens-output-gaps-between-teams-within-the-same.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-management-span-of-control.md",
+    "topics/workflows-before-agents.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论基于 AI 模型与编排的 10 倍产出提升，与智能体规模化工程相关。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "帖文提及 AI 导致公司内部管理争议与“疯狂动态”，与高管管控跨度变化相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "帖文引述 2–3 人 AI 团队完成数十人工作，涉及大厂数字员工与编制问题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调团队需重新设计流程以部署智能体，与工作流优先于智能体的主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-management-span-of-control.md": "帖文提及 AI 导致公司内部管理争议与“疯狂动态”，与高管管控跨度变化相关。",
+    "topics/workflows-before-agents.md": "帖文强调团队需重新设计流程以部署智能体，与工作流优先于智能体的主题相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "帖文引述 2–3 人 AI 团队完成数十人工作，涉及大厂数字员工与编制问题。",
+    "topics/agent-scaled-engineering.md": "帖文讨论基于 AI 模型与编排的 10 倍产出提升，与智能体规模化工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/aaron-levie-ai-widens-output-gaps-between-teams-within-the-same.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-management-span-of-control.md",
+      "topics/workflows-before-agents.md",
+      "topics/enterprise-ai-digital-employee-headcount.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-management-span-of-control.md": "帖文提及 AI 导致公司内部管理争议与“疯狂动态”，与高管管控跨度变化相关。",
+      "topics/workflows-before-agents.md": "帖文强调团队需重新设计流程以部署智能体，与工作流优先于智能体的主题相关。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "帖文引述 2–3 人 AI 团队完成数十人工作，涉及大厂数字员工与编制问题。",
+      "topics/agent-scaled-engineering.md": "帖文讨论基于 AI 模型与编排的 10 倍产出提升，与智能体规模化工程相关。"
+    },
+    "notes": "Source is an X post by Aaron Levie (@levie), quoting Ethan Mollick; no external URLs or facts beyond the article were added.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/aaron-levie-ai-widens-output-gaps-between-teams-within-the-same.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:27:16.918Z",
+  "url": "https://x.com/cognition/status/2125305580122210425",
+  "slug": "83e82da2ee29e1a3",
+  "content_hash": "2630c1b081362fe1ebad552a8dc8138c4898c55d62a077ef341acc87dfd8b13d",
+  "source": {
+    "path": "sources/articles/cognition-releases-swe-2-1-coding-model-2.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型选型与渠道取舍。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "涉及智能体规模化工程，与新编程模型发布相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 的订阅额度与免费开放，与 Devin 计划相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及基准测试与性能声称，需审慎对待刷分碰瓷。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "涉及智能体规模化工程，与新编程模型发布相关。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的订阅额度与免费开放，与 Devin 计划相关。",
+    "topics/community-evals-vs-score-hype.md": "涉及基准测试与性能声称，需审慎对待刷分碰瓷。",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型选型与渠道取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cognition-releases-swe-2-1-coding-model-2.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "涉及智能体规模化工程，与新编程模型发布相关。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 的订阅额度与免费开放，与 Devin 计划相关。",
+      "topics/community-evals-vs-score-hype.md": "涉及基准测试与性能声称，需审慎对待刷分碰瓷。",
+      "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型选型与渠道取舍。"
+    },
+    "notes": "来源：https://x.com/cognition/status/2125305580122210425",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cognition-releases-swe-2-1-coding-model-2.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

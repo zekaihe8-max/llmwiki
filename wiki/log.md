@@ -1,5 +1,55 @@
 ## 2026-11-26
 
+* **创建 / Creation**: 归档 [Gemini API 命令行工具 (gemini-api)](./sources/articles/gemini-api-cli-gemini-api.md)。 / Filed [Gemini API CLI (gemini-api)](./sources/articles/gemini-api-cli-gemini-api.md).
+
+* **创建 / Creation**: 归档 [Logan Kilpatrick 推 Gemini API CLI，供编程 Agent 调用 Gemini Neon 等模型](./sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md)。 / Filed [Logan Kilpatrick Promotes Gemini API CLI for Coding Agents to Call Gemini Neon and Other Models](./sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md).
+
+* **创建 / Creation**: 归档 [Voxyz 协调器技能：让 Claude、GPT、Gemini 四模型协同工作](./sources/articles/voxyz-coordinator-skill-letting-claude-gpt-and-gemini-work-toget.md)。 / Filed [Voxyz Coordinator Skill: Letting Claude, GPT, and Gemini Work Together](./sources/articles/voxyz-coordinator-skill-letting-claude-gpt-and-gemini-work-toget.md).
+
+* **创建 / Creation**: 归档 [AI 时代的代码行数？工程师 Token 消费衡量什么的个案研究](./sources/articles/the-ai-era-s-lines-of-code-a-case-study-on-what-an-engineer-s-to.md)。 / Filed [The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures](./sources/articles/the-ai-era-s-lines-of-code-a-case-study-on-what-an-engineer-s-to.md).
+
+* **创建 / Creation**: 归档 [铁锤人：帖文称按 AI Token 消耗考核程序员不可靠](./sources/articles/tie-chui-ren-post-claims-evaluating-programmers-by-ai-token-cons.md)。 / Filed [Tie Chui Ren: Post claims evaluating programmers by AI token consumption is unreliable](./sources/articles/tie-chui-ren-post-claims-evaluating-programmers-by-ai-token-cons.md).
+
+* **创建 / Creation**: 归档 [大规模软件迁移在可验证结果时可行](./sources/articles/large-scale-software-migration-is-viable-when-results-can-be-ver.md)。 / Filed [Large-scale software migration is viable when results can be verified](./sources/articles/large-scale-software-migration-is-viable-when-results-can-be-ver.md).
+
+* **创建 / Creation**: 归档 [Aaron Levie：AI 导致同公司内团队产出差距扩大](./sources/articles/aaron-levie-ai-widens-output-gaps-between-teams-within-the-same.md)。 / Filed [Aaron Levie: AI Widens Output Gaps Between Teams Within the Same Company](./sources/articles/aaron-levie-ai-widens-output-gaps-between-teams-within-the-same.md).
+
+* **创建 / Creation**: 归档 [瑞文：任务成本是误导，人类注意力才是稀缺资源](./sources/articles/swyx-task-cost-is-misleading-human-attention-is-the-scarce-resou.md)。 / Filed [Swyx: Task Cost Is Misleading; Human Attention Is the Scarce Resource](./sources/articles/swyx-task-cost-is-misleading-human-attention-is-the-scarce-resou.md).
+
+* **创建 / Creation**: 归档 [Hamel Husain 推荐 Eugene Yan 对 12 个 AI 基准的质量审查](./sources/articles/hamel-husain-recommends-eugene-yan-s-quality-review-of-12-ai-ben.md)。 / Filed [Hamel Husain recommends Eugene Yan's quality review of 12 AI benchmarks](./sources/articles/hamel-husain-recommends-eugene-yan-s-quality-review-of-12-ai-ben.md).
+
+* **创建 / Creation**: 归档 [公开评测的十二堂课：它们在哪里失效，以及应该衡量什么](./sources/articles/lessons-from-12-evals-where-they-break-and-what-to-measure-inste.md)。 / Filed [Lessons from 12 Evals: Where They Break and What to Measure Instead](./sources/articles/lessons-from-12-evals-where-they-break-and-what-to-measure-inste.md).
+
+* **创建 / Creation**: 归档 [尤金·严：12 个公开 AI 评测仍有漏洞，应衡量真正重要的事](./sources/articles/eugene-yan-12-public-ai-evals-still-have-bugs-measure-what-matte.md)。 / Filed [Eugene Yan: 12 Public AI Evals Still Have Bugs; Measure What Matters Instead](./sources/articles/eugene-yan-12-public-ai-evals-still-have-bugs-measure-what-matte.md).
+
+* **创建 / Creation**: 归档 [Dario Amodei 否认主张将人类自由意志交给 AI](./sources/articles/dario-amodei-denies-advocating-surrender-of-human-free-will-to-a.md)。 / Filed [Dario Amodei Denies Advocating Surrender of Human Free Will to AI](./sources/articles/dario-amodei-denies-advocating-surrender-of-human-free-will-to-a.md).
+
+* **创建 / Creation**: 归档 [Thariq 从 Anthropic 加入 OpenAI](./sources/articles/thariq-joins-openai-from-anthropic.md)。 / Filed [Thariq Joins OpenAI from Anthropic](./sources/articles/thariq-joins-openai-from-anthropic.md).
+
+* **创建 / Creation**: 归档 [ShellBench：面向真实世界任务的智能体基准](./sources/articles/introducing-shellbench-the-benchmark-for-real-world-tasks.md)。 / Filed [Introducing ShellBench, the benchmark for real-world tasks](./sources/articles/introducing-shellbench-the-benchmark-for-real-world-tasks.md).
+
+* **创建 / Creation**: 归档 [OpenClaw 发布 ShellBench：真实世界任务下 AI 智能体仍多次失败](./sources/articles/openclaw-releases-shellbench-ai-agents-still-fail-most-real-worl.md)。 / Filed [OpenClaw Releases ShellBench: AI Agents Still Fail Most Real-World Tasks](./sources/articles/openclaw-releases-shellbench-ai-agents-still-fail-most-real-worl.md).
+
+* **创建 / Creation**: 归档 [Cognition 为 Devin Bots 推出 Org Charts](./sources/articles/cognition-introduces-org-charts-for-devin-bots.md)。 / Filed [Cognition Introduces Org Charts for Devin Bots](./sources/articles/cognition-introduces-org-charts-for-devin-bots.md).
+
+* **创建 / Creation**: 归档 [Cognition 发布 SWE-2.1 编程模型](./sources/articles/cognition-releases-swe-2-1-coding-model-2.md)。 / Filed [Cognition releases SWE-2.1 coding model](./sources/articles/cognition-releases-swe-2-1-coding-model-2.md).
+
+* **创建 / Creation**: 归档 [Cognition 发布基于 Kimi K3 的 SWE-2.1 编程模型](./sources/articles/cognition-releases-swe-2-1-coding-model-trained-on-kimi-k3.md)。 / Filed [Cognition releases SWE-2.1 coding model trained on Kimi K3](./sources/articles/cognition-releases-swe-2-1-coding-model-trained-on-kimi-k3.md).
+
+* **创建 / Creation**: 归档 [Cognition 发布 SWE-2.1 编程与网安模型](./sources/articles/cognition-introduces-swe-2-1-coding-and-cybersecurity-model.md)。 / Filed [Cognition Introduces SWE-2.1 Coding and Cybersecurity Model](./sources/articles/cognition-introduces-swe-2-1-coding-and-cybersecurity-model.md).
+
+* **创建 / Creation**: 归档 [Cognition 发布 SWE-2.1 编程模型](./sources/articles/cognition-releases-swe-2-1-coding-model.md)。 / Filed [Cognition Releases SWE-2.1 Coding Model](./sources/articles/cognition-releases-swe-2-1-coding-model.md).
+
+* **创建 / Creation**: 归档 [用 Siren 测评并缓解 Agent 沙箱逃逸](./sources/articles/measuring-and-mitigating-agent-sandbox-escape-with-siren.md)。 / Filed [Measuring and mitigating agent sandbox escape with Siren](./sources/articles/measuring-and-mitigating-agent-sandbox-escape-with-siren.md).
+
+* **创建 / Creation**: 归档 [Anthropic 发布 Siren 评测：AI 智能体是否会越界沙箱](./sources/articles/anthropic-releases-siren-evaluation-whether-ai-agents-will-escap.md)。 / Filed [Anthropic Releases Siren Evaluation: Whether AI Agents Will Escape the Sandbox](./sources/articles/anthropic-releases-siren-evaluation-whether-ai-agents-will-escap.md).
+
+* **创建 / Creation**: 归档 [Anthropic 将 Claude Messages API 从 Python 迁移至 Rust，借助 Claude Agent 核对差异](./sources/articles/anthropic-migrates-claude-messages-api-from-python-to-rust-using.md)。 / Filed [Anthropic Migrates Claude Messages API from Python to Rust, Using Claude Agents to Verify Differences](./sources/articles/anthropic-migrates-claude-messages-api-from-python-to-rust-using.md).
+
+* **创建 / Creation**: 归档 [将 Messages API 从 Python 迁移到 Rust](./sources/articles/migrating-our-messages-api-to-rust.md)。 / Filed [Migrating our Messages API to Rust](./sources/articles/migrating-our-messages-api-to-rust.md).
+
+* **创建 / Creation**: 归档 [Anthropic 将 Messages API 从 Python 迁至 Rust，借助 Claude Agent 核对差异](./sources/articles/anthropic-migrates-messages-api-from-python-to-rust-using-claude.md)。 / Filed [Anthropic Migrates Messages API from Python to Rust, Using Claude Agents to Verify Differences](./sources/articles/anthropic-migrates-messages-api-from-python-to-rust-using-claude.md).
+
 * **创建 / Creation**: 归档 [从 Codex 迁到谷歌生态：手动整理配置与模型分工建议](./sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md)。 / Filed [Migrating from Codex to Google Ecosystem: Manual Configuration Cleanup and Model Division of Labor](./sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md).
 
 * **创建 / Creation**: 归档 [MiniMax H3 与 Colab 算力的 3 套生视频落地组合](./sources/articles/three-minimax-h3-colab-video-generation-combos.md)。 / Filed [Three MiniMax H3 + Colab Video Generation Combos](./sources/articles/three-minimax-h3-colab-video-generation-combos.md).

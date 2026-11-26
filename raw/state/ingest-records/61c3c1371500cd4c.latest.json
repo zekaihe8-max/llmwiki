@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:55:36.791Z",
+  "url": "https://x.com/amasad/status/2125664998454366305",
+  "slug": "61c3c1371500cd4c",
+  "content_hash": "ee66b01251a7751ed71a65c56cda82e6ed7dd6ffa5495ee9b763d41f8c7afb0a",
+  "source": {
+    "path": "sources/articles/large-scale-software-migration-is-viable-when-results-can-be-ver.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/llm-formal-verification.md",
+    "topics/agent-auto-mode.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Claude Agent 在迁移验证中自主追踪差异，体现智能体自动模式的工程应用。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Claude Agent 团队规模化地追踪并修复代码差异，与智能体规模化工程主题直接相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "迁移验证以现有服务作为真理来源而非规格文档，符合代码重于规格的思路。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文核心观点是迁移必须能验证结果，涉及 LLM 辅助的系统验证与差异对齐。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文提到 Claude Agent 团队规模化地追踪并修复代码差异，与智能体规模化工程主题直接相关。",
+    "topics/llm-formal-verification.md": "帖文核心观点是迁移必须能验证结果，涉及 LLM 辅助的系统验证与差异对齐。",
+    "topics/agent-auto-mode.md": "Claude Agent 在迁移验证中自主追踪差异，体现智能体自动模式的工程应用。",
+    "topics/code-over-spec.md": "迁移验证以现有服务作为真理来源而非规格文档，符合代码重于规格的思路。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/large-scale-software-migration-is-viable-when-results-can-be-ver.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/llm-formal-verification.md",
+      "topics/agent-auto-mode.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "帖文提到 Claude Agent 团队规模化地追踪并修复代码差异，与智能体规模化工程主题直接相关。",
+      "topics/llm-formal-verification.md": "帖文核心观点是迁移必须能验证结果，涉及 LLM 辅助的系统验证与差异对齐。",
+      "topics/agent-auto-mode.md": "Claude Agent 在迁移验证中自主追踪差异，体现智能体自动模式的工程应用。",
+      "topics/code-over-spec.md": "迁移验证以现有服务作为真理来源而非规格文档，符合代码重于规格的思路。"
+    },
+    "notes": "Source is a single X post; no external URLs or facts beyond the article were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/large-scale-software-migration-is-viable-when-results-can-be-ver.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

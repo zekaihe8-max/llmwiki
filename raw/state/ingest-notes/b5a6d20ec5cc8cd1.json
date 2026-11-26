@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-auto-mode.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "帖文聚焦编程 Agent 调用模型的 CLI 工具，与该主题的编程 Agent 工具与开销最为贴近。",
+    "topics/agent-skill-authoring.md": "CLI 可视为面向 Agent 的技能或接口编写，与 Agent Skill 编写主题相关。",
+    "topics/agent-auto-mode.md": "让代理自动调用模型，涉及智能体自动化模式。",
+    "topics/agentic-ai-foundation.md": "面向 Agent 的模型调用基建属于 Agentic AI 基础设施范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦编程 Agent 调用模型的 CLI 工具，与该主题的编程 Agent 工具与开销最为贴近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "CLI 可视为面向 Agent 的技能或接口编写，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "让代理自动调用模型，涉及智能体自动化模式。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "面向 Agent 的模型调用基建属于 Agentic AI 基础设施范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均保持 unchanged，未创建新主题。"
+}

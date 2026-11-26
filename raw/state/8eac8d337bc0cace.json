@@ -1,0 +1,23 @@
+{
+  "slug": "8eac8d337bc0cace",
+  "url": "https://openclaw.ai/blog/shellbench",
+  "title": "说明",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "8eac8d337bc0cace55c467b746e049714d35182ce18de74fa6584208705eeb14",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:07.490Z",
+  "content_hash": "0479689214c4564a8f50eab884a71c16084d1e1df0819d00f8f6d5f473ddf5de",
+  "article_path": "articles/8eac8d337bc0cace.md",
+  "fetched_url": "https://openclaw.ai/blog/shellbench",
+  "source_path": "sources/articles/introducing-shellbench-the-benchmark-for-real-world-tasks.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:29:07.621Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

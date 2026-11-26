@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:57:40.563Z",
+  "url": "https://arxiv.org/abs/2611.13396",
+  "slug": "81dc62a956d2f6cd",
+  "content_hash": "7d318b105d3cad7fb36e343333bc98a840edd98b85babd6eccfe4f8a03d320a7",
+  "source": {
+    "path": "sources/articles/the-ai-era-s-lines-of-code-a-case-study-on-what-an-engineer-s-to.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Token 消费作为资源与治理指标的局限，与智能体算力治理主题相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Token 效率与工程指标的关系，与项目指令及 Token 效率主题相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "研究聚焦编程 Agent 的 Token 使用与开销，直接对应该主题。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "作者建议超越 Token 数评估代理辅助工作，与“超越 token 数的 Harness 对比”主题一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章讨论 Token 消费作为资源与治理指标的局限，与智能体算力治理主题相关。",
+    "topics/coding-agent-token-saving-tooling.md": "研究聚焦编程 Agent 的 Token 使用与开销，直接对应该主题。",
+    "topics/agents-md-token-efficiency.md": "文中涉及 Token 效率与工程指标的关系，与项目指令及 Token 效率主题相关。",
+    "topics/harness-comparison-beyond-tokens.md": "作者建议超越 Token 数评估代理辅助工作，与“超越 token 数的 Harness 对比”主题一致。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/the-ai-era-s-lines-of-code-a-case-study-on-what-an-engineer-s-to.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/agents-md-token-efficiency.md",
+      "topics/harness-comparison-beyond-tokens.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章讨论 Token 消费作为资源与治理指标的局限，与智能体算力治理主题相关。",
+      "topics/coding-agent-token-saving-tooling.md": "研究聚焦编程 Agent 的 Token 使用与开销，直接对应该主题。",
+      "topics/agents-md-token-efficiency.md": "文中涉及 Token 效率与工程指标的关系，与项目指令及 Token 效率主题相关。",
+      "topics/harness-comparison-beyond-tokens.md": "作者建议超越 Token 数评估代理辅助工作，与“超越 token 数的 Harness 对比”主题一致。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/the-ai-era-s-lines-of-code-a-case-study-on-what-an-engineer-s-to.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

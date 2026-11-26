@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章本身是公开基准的质量说明与局限剖析，与“先审质量再信任公开榜”主题高度相关。",
+    "topics/harness-comparison-beyond-tokens.md": "ShellBench 对比了 Claude Code、Codex、Hermes、OpenClaw、Pi 五种框架，涉及执行时间、Token 使用与输出修订，契合超越 Token 数的框架对比。",
+    "topics/ai-eval-work-record-gateway.md": "ShellBench 关注智能体在真实工作空间中的干活记录、证据保留与任务完成判定，与 AI 评测入口及干活记录主题相近。",
+    "topics/community-evals-vs-score-hype.md": "文章披露模型与框架成绩、成本与安全失败率，用于对抗单纯刷分或排名炒作，符合社区实测对抗刷分碰瓷主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章本身是公开基准的质量说明与局限剖析，与“先审质量再信任公开榜”主题高度相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "ShellBench 对比了 Claude Code、Codex、Hermes、OpenClaw、Pi 五种框架，涉及执行时间、Token 使用与输出修订，契合超越 Token 数的框架对比。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "ShellBench 关注智能体在真实工作空间中的干活记录、证据保留与任务完成判定，与 AI 评测入口及干活记录主题相近。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章披露模型与框架成绩、成本与安全失败率，用于对抗单纯刷分或排名炒作，符合社区实测对抗刷分碰瓷主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "All facts are drawn from the provided article; cite_id uses kebab-case derived from slug and title."
+}

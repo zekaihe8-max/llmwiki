@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:31:05.892Z",
+  "url": "https://eugeneyan.com/writing/public-evals",
+  "slug": "0ada1934a0788fbd",
+  "content_hash": "dba4927b11b37d511f506a4f0b9740c99f2df81f9df3eb8a3aa9a1d53314f118",
+  "source": {
+    "path": "sources/articles/lessons-from-12-evals-where-they-break-and-what-to-measure-inste.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章涉及评测入口、任务记录与人工审核成本，与AI评测入口及干活记录主题相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章讨论评测分数不可全信、应关注可靠性而非刷分，与社区实测对抗刷分碰瓷主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章核心是公开评测质量问题与评分器缺陷，与“信任公开榜前先审质量”主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章核心是公开评测质量问题与评分器缺陷，与“信任公开榜前先审质量”主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "文章讨论评测分数不可全信、应关注可靠性而非刷分，与社区实测对抗刷分碰瓷主题相近。",
+    "topics/ai-eval-work-record-gateway.md": "文章涉及评测入口、任务记录与人工审核成本，与AI评测入口及干活记录主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/lessons-from-12-evals-where-they-break-and-what-to-measure-inste.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/public-benchmark-quality-scrutiny.md": "文章核心是公开评测质量问题与评分器缺陷，与“信任公开榜前先审质量”主题高度相关。",
+      "topics/community-evals-vs-score-hype.md": "文章讨论评测分数不可全信、应关注可靠性而非刷分，与社区实测对抗刷分碰瓷主题相近。",
+      "topics/ai-eval-work-record-gateway.md": "文章涉及评测入口、任务记录与人工审核成本，与AI评测入口及干活记录主题相关。"
+    },
+    "notes": "所有事实均来源于提供的文章 markdown，未引入外部URL或未核实信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/lessons-from-12-evals-where-they-break-and-what-to-measure-inste.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

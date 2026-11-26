@@ -1,0 +1,23 @@
+{
+  "slug": "430a0f84728eb54a",
+  "url": "https://cognition.com/blog/swe-2-1",
+  "title": "说明",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "430a0f84728eb54a748074f2277a695b94ab79864074fe2f9fa4a14fed9e84bf",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:05.677Z",
+  "content_hash": "354b61c3363fcd5ed648218df2b24c9f21664e9e38a621526d0685d791e0a47a",
+  "article_path": "articles/430a0f84728eb54a.md",
+  "fetched_url": "https://cognition.com/blog/swe-2-1",
+  "source_path": "sources/articles/cognition-introduces-swe-2-1-coding-and-cybersecurity-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:50:33.270Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

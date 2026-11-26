@@ -1,0 +1,23 @@
+{
+  "slug": "69fbec9981f84b43",
+  "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+  "title": "说明",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "69fbec9981f84b435a9deadb2f44143e2e52e655849d0255056557c8b934cbaf",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:03.995Z",
+  "content_hash": "1a4799f778945c4cd3502f43f85d672f4217cec3811d96daf9cf5397709743ba",
+  "article_path": "articles/69fbec9981f84b43.md",
+  "fetched_url": "https://www.anthropic.com/research/migrating-api-to-rust",
+  "source_path": "sources/articles/migrating-our-messages-api-to-rust.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:23:33.560Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

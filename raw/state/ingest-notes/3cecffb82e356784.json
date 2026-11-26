@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/software-factory.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/software-factory.md": "Devin 被定位为 AI 软件工程/软件工厂，与新编程模型发布相关",
+    "topics/coding-agent-ux-vs-quota.md": "涉及编程 Agent 体验与免费额度/订阅",
+    "topics/agent-model-channel-tradeoffs.md": "涉及面向 Agent 的模型选型与渠道",
+    "topics/public-benchmark-quality-scrutiny.md": "帖文提及广泛基准提升，需审视评测质量"
+  },
+  "topics": [
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "Devin 被定位为 AI 软件工程/软件工厂，与新编程模型发布相关"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及编程 Agent 体验与免费额度/订阅"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "涉及面向 Agent 的模型选型与渠道"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文提及广泛基准提升，需审视评测质量"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自 X 帖文截取内容，未引入外部信息。"
+}

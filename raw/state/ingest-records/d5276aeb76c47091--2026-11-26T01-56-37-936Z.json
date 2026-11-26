@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:56:37.936Z",
+  "url": "https://x.com/lxfater/status/2125603261193294136",
+  "slug": "d5276aeb76c47091",
+  "content_hash": "7b434719ca54af2e05e56375ccf926ea3acdebd5bdaad8a67f2abc30a1cb7e58",
+  "source": {
+    "path": "sources/articles/tie-chui-ren-post-claims-evaluating-programmers-by-ai-token-cons.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agents-md-token-efficiency.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI 编程中的 Token 消耗与效率，与该主题关于项目指令和 Token 效率的讨论相近"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 评测与干活记录的失效，与 AI 评测入口和干活记录主题相关"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及编程 Agent 的 Token 开销与省 Token 问题，主题高度相关"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文批判单一以 Token 数考核，与“超越 token 数的 Harness 对比”方向一致"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agents-md-token-efficiency.md": "帖文讨论 AI 编程中的 Token 消耗与效率，与该主题关于项目指令和 Token 效率的讨论相近",
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及编程 Agent 的 Token 开销与省 Token 问题，主题高度相关",
+    "topics/harness-comparison-beyond-tokens.md": "帖文批判单一以 Token 数考核，与“超越 token 数的 Harness 对比”方向一致",
+    "topics/ai-eval-work-record-gateway.md": "文章涉及 AI 评测与干活记录的失效，与 AI 评测入口和干活记录主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tie-chui-ren-post-claims-evaluating-programmers-by-ai-token-cons.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agents-md-token-efficiency.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/ai-eval-work-record-gateway.md"
+    ],
+    "selection_reasons": {
+      "topics/agents-md-token-efficiency.md": "帖文讨论 AI 编程中的 Token 消耗与效率，与该主题关于项目指令和 Token 效率的讨论相近",
+      "topics/coding-agent-token-saving-tooling.md": "文章涉及编程 Agent 的 Token 开销与省 Token 问题，主题高度相关",
+      "topics/harness-comparison-beyond-tokens.md": "帖文批判单一以 Token 数考核，与“超越 token 数的 Harness 对比”方向一致",
+      "topics/ai-eval-work-record-gateway.md": "文章涉及 AI 评测与干活记录的失效，与 AI 评测入口和干活记录主题相关"
+    },
+    "notes": "来源为 X 帖文，文中引用 arxiv.org/abs/2611.13396，未独立核实论文内容，所有主张均标注为帖文称。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tie-chui-ren-post-claims-evaluating-programmers-by-ai-token-cons.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

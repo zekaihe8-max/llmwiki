@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:58:18.441Z",
+  "url": "https://x.com/Voxyz_ai/status/2125696031849426986",
+  "slug": "eb55deb4356e35e3",
+  "content_hash": "ff5eb469423f0add8052ea0974d9f053dca4512df284d5164b319b67bf08798d",
+  "source": {
+    "path": "sources/articles/voxyz-coordinator-skill-letting-claude-gpt-and-gemini-work-toget.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-skill-authoring.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "Paseo 子任务完成后自动唤醒协调器，体现智能体自动模式与无人值守运行。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是一份可安装、可复用的「协调器 Skill」，直接对应 Agent Skill 编写与分享。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Claude、GPT、Gemini 多模型协作与子任务自动唤醒机制，涉及多智能体基建与编排问题。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文描述的协调器本质上是个人 Agent 充当包工头，调度 Claude Code、Codex 等编程 Agent 完成任务，与该主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的协调器本质上是个人 Agent 充当包工头，调度 Claude Code、Codex 等编程 Agent 完成任务，与该主题高度相关。",
+    "topics/agent-skill-authoring.md": "帖文核心是一份可安装、可复用的「协调器 Skill」，直接对应 Agent Skill 编写与分享。",
+    "topics/multiagent-infra-four-problems.md": "Claude、GPT、Gemini 多模型协作与子任务自动唤醒机制，涉及多智能体基建与编排问题。",
+    "topics/agent-auto-mode.md": "Paseo 子任务完成后自动唤醒协调器，体现智能体自动模式与无人值守运行。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/voxyz-coordinator-skill-letting-claude-gpt-and-gemini-work-toget.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/agent-skill-authoring.md",
+      "topics/multiagent-infra-four-problems.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "帖文描述的协调器本质上是个人 Agent 充当包工头，调度 Claude Code、Codex 等编程 Agent 完成任务，与该主题高度相关。",
+      "topics/agent-skill-authoring.md": "帖文核心是一份可安装、可复用的「协调器 Skill」，直接对应 Agent Skill 编写与分享。",
+      "topics/multiagent-infra-four-problems.md": "Claude、GPT、Gemini 多模型协作与子任务自动唤醒机制，涉及多智能体基建与编排问题。",
+      "topics/agent-auto-mode.md": "Paseo 子任务完成后自动唤醒协调器，体现智能体自动模式与无人值守运行。"
+    },
+    "notes": "所有主张均标注为「帖文称」或基于抓取的 X 帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/voxyz-coordinator-skill-letting-claude-gpt-and-gemini-work-toget.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "f22c71ad52222767",
+  "url": "https://x.com/AnthropicAI/status/2125627317263466739",
+  "title": "Anthropic",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "f22c71ad52222767a05c766224ed63cbb1233b0aa66021c18b5cfb021489ef05",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:03.512Z",
+  "content_hash": "5b90f4eaba818ca346f0ab927e4666ef1c127114936a97df4c5422dcf7a8651b",
+  "article_path": "articles/f22c71ad52222767.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2125627317263466739",
+  "source_path": "sources/articles/anthropic-migrates-messages-api-from-python-to-rust-using-claude.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:50:33.110Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

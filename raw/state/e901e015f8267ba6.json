@@ -1,0 +1,23 @@
+{
+  "slug": "e901e015f8267ba6",
+  "url": "https://x.com/ClaudeDevs/status/2125628717263372512",
+  "title": "ClaudeDevs",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "e901e015f8267ba6bfb783b8c1493e548e354140e5f2422a5703c2f66c85f5d6",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:04.142Z",
+  "content_hash": "3f1c4b79adf7ce0cd6e3228849f13ec2e6a4b4c86e8cde112ff4de7b61fd317c",
+  "article_path": "articles/e901e015f8267ba6.md",
+  "fetched_url": "https://x.com/ClaudeDevs/status/2125628717263372512",
+  "source_path": "sources/articles/anthropic-migrates-claude-messages-api-from-python-to-rust-using.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:50:33.195Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

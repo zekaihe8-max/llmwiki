@@ -1,0 +1,34 @@
+{
+  "slug": "ac85df1c20772272",
+  "url": "http://copybook.page/t/coordinator-skill-for-claude-code-and-codex",
+  "title": "skill",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "failed",
+  "hash": "ac85df1c207722724cd6411b9b3e6f0487204b86c0bc63b26811bd957279a2bc",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": null,
+  "content_hash": null,
+  "article_path": null,
+  "fetched_url": null,
+  "source_path": null,
+  "error": "HTTP 500 Internal Server Error",
+  "compile_error": null,
+  "compile_agent": null,
+  "attempts": [
+    {
+      "at": "2026-11-26T01:22:13.794Z",
+      "stage": "fetch",
+      "error": "HTTP 500 Internal Server Error"
+    },
+    {
+      "at": "2026-11-26T02:00:25.563Z",
+      "stage": "fetch",
+      "error": "HTTP 500 Internal Server Error"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "HTTP 500 Internal Server Error",
+  "last_fetch_failed_at": "2026-11-26T02:00:25.563Z"
+}
