@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "文章把闭卷分数与实战交付并列，正好对应该主题对单一分数榜单与刷分现象的质疑。",
+    "topics/ai-eval-work-record-gateway.md": "帖文本身是一次带分数、带题目、带复盘的 AI 评测工作记录，与该主题高度相关。",
+    "topics/ux-dx-and-ax.md": "文中点出双击改名失效、3D 地球播放速度过快等交互细节，涉及 UX/AX 交付质量。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章把闭卷分数与实战交付并列，正好对应该主题对单一分数榜单与刷分现象的质疑。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "帖文本身是一次带分数、带题目、带复盘的 AI 评测工作记录，与该主题高度相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中点出双击改名失效、3D 地球播放速度过快等交互细节，涉及 UX/AX 交付质量。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，模型身份在文中未完全揭示（“到底是哪家的大作？我到现在也没扒出来”），因此未断言 HungerG 的具体厂商。"
+}

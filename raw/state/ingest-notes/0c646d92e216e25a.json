@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "涉及开放权重模型，与 OCRia-1 模型发布相关",
+    "topics/local-open-assistant-models.md": "涉及本地开放模型，与模型集合主题相近",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "涉及模型鉴别与确认，与解析模型来源相关"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "涉及开放权重模型，与 OCRia-1 模型发布相关"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "涉及本地开放模型，与模型集合主题相近"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "涉及模型鉴别与确认，与解析模型来源相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 Hugging Face 集合页面，未提供更多模型细节。"
+}

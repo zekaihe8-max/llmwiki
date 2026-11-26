@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:28:04.564Z",
+  "url": "https://x.com/xiaomovps/status/2125484340998213921",
+  "slug": "98b1543f900573b0",
+  "content_hash": "f250f2995f0dbfe002eed0ceb53e246196e41bc2549c9a58d634a7a2b580143e",
+  "source": {
+    "path": "sources/articles/behind-google-s-sudden-model-strength-summer-overhaul-and-shift.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/software-factory.md",
+    "topics/hunger-beats-tenure.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "文中强调甩掉传奇大神光环、以实干派取代资深元老，与“冲劲胜过资历”相关。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "文中提到联创离职、Hassabis 卸任等先驱退出情节，与该主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "帖文讨论谷歌 Argon/Carbon/Hydrogen/Neon 等模型的发布节奏与定位，与模型策略主题相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中将谷歌描述为“只盯交付的工程机器”，与软件工厂/工程交付主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "帖文讨论谷歌 Argon/Carbon/Hydrogen/Neon 等模型的发布节奏与定位，与模型策略主题相关。",
+    "topics/software-factory.md": "文中将谷歌描述为“只盯交付的工程机器”，与软件工厂/工程交付主题相关。",
+    "topics/hunger-beats-tenure.md": "文中强调甩掉传奇大神光环、以实干派取代资深元老，与“冲劲胜过资历”相关。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "文中提到联创离职、Hassabis 卸任等先驱退出情节，与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/behind-google-s-sudden-model-strength-summer-overhaul-and-shift.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/software-factory.md",
+      "topics/hunger-beats-tenure.md",
+      "topics/incumbent-exit-successor-blame-metaphor.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "帖文讨论谷歌 Argon/Carbon/Hydrogen/Neon 等模型的发布节奏与定位，与模型策略主题相关。",
+      "topics/software-factory.md": "文中将谷歌描述为“只盯交付的工程机器”，与软件工厂/工程交付主题相关。",
+      "topics/hunger-beats-tenure.md": "文中强调甩掉传奇大神光环、以实干派取代资深元老，与“冲劲胜过资历”相关。",
+      "topics/incumbent-exit-successor-blame-metaphor.md": "文中提到联创离职、Hassabis 卸任等先驱退出情节，与该主题相关。"
+    },
+    "notes": "所有主张均源于该帖文，未经独立核实；未引用文章外的事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/behind-google-s-sudden-model-strength-summer-overhaul-and-shift.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

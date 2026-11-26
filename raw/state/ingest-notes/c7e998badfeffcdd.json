@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/software-factory.md",
+    "topics/geo-personal-website-first-step.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "selection_reasons": {
+    "topics/landing-page-site-clone-over-skill.md": "文章为站点上的软件列表页面，与落地页/站点复刻主题相近",
+    "topics/software-factory.md": "内容聚焦 Mac 软件推荐，与软件类话题相关",
+    "topics/geo-personal-website-first-step.md": "涉及个人网站与友情链接，与来源站点性质接近",
+    "topics/desktop-outfit-character-companions.md": "Mac 软件属桌面端工具，与桌面类话题有一定关联"
+  },
+  "topics": [
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "文章为站点上的软件列表页面，与落地页/站点复刻主题相近"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "内容聚焦 Mac 软件推荐，与软件类话题相关"
+    },
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及个人网站与友情链接，与来源站点性质接近"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "Mac 软件属桌面端工具，与桌面类话题有一定关联"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

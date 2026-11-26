@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/company-agent-harness.md",
+    "topics/harness-comparison-beyond-tokens.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心新增 Auto 模式，与智能体自动模式主题直接相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文章涉及 Neon 任务额度减少与体验提升，属于编程 Agent 体验与额度范畴。",
+    "topics/company-agent-harness.md": "文章明确提及 Agent Harness 优化，与公司级 Agent Harness 主题相关。",
+    "topics/harness-comparison-beyond-tokens.md": "文章以额度和速度而非仅 token 衡量 Harness 效率，与超越 token 数的 Harness 对比相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心新增 Auto 模式，与智能体自动模式主题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Neon 任务额度减少与体验提升，属于编程 Agent 体验与额度范畴。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文章明确提及 Agent Harness 优化，与公司级 Agent Harness 主题相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "文章以额度和速度而非仅 token 衡量 Harness 效率，与超越 token 数的 Harness 对比相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "基于单条 X 帖文，具体数据未独立核实。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:45:51.884Z",
+  "url": "https://x.com/Gorden_Sun/status/2125525045409948104",
+  "slug": "f35ca468372f7264",
+  "content_hash": "f7f1ea0362a110bbdb46dc257c59df502627c5f277347643b2757cbecba5ae4c",
+  "source": {
+    "path": "sources/articles/ocria-1-llamaindex-open-source-4b-parameter-document-ocr-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文称“开源最佳 OCR 模型”属未经独立核实的性能主张，需谨慎对待。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "文章强调 4B 小模型可本地部署，与本地开放模型主题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "OCRia-1 权重在 Hugging Face 公开发布，属开放权重模型。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "文章强调 4B 小模型可本地部署，与本地开放模型主题相关。",
+    "topics/open-weight-frontier-models.md": "OCRia-1 权重在 Hugging Face 公开发布，属开放权重模型。",
+    "topics/community-evals-vs-score-hype.md": "帖文称“开源最佳 OCR 模型”属未经独立核实的性能主张，需谨慎对待。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ocria-1-llamaindex-open-source-4b-parameter-document-ocr-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "文章强调 4B 小模型可本地部署，与本地开放模型主题相关。",
+      "topics/open-weight-frontier-models.md": "OCRia-1 权重在 Hugging Face 公开发布，属开放权重模型。",
+      "topics/community-evals-vs-score-hype.md": "帖文称“开源最佳 OCR 模型”属未经独立核实的性能主张，需谨慎对待。"
+    },
+    "notes": "来源为 X 帖子，发布时间显示为 2026 年 11 月 25 日 9:40 AM，浏览数 729。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ocria-1-llamaindex-open-source-4b-parameter-document-ocr-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "da63272d2d1dd90d",
+  "url": "https://x.com/lxfater/status/2125482125562351809",
+  "title": "agent-sim",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "da63272d2d1dd90dcdcc115765b76d7ecbd610ce961cbfd007b3f83c9e69c10a",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:16.023Z",
+  "content_hash": "58ce30e631dff16d251856af1642e95ec0638efd22036dec8230e9c976c04eef",
+  "article_path": "articles/da63272d2d1dd90d.md",
+  "fetched_url": "https://x.com/lxfater/status/2125482125562351809",
+  "source_path": "sources/articles/the-post-claims-agent-sim-runs-apple-s-ios-simulator-on-ordinary.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:34:10.232Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

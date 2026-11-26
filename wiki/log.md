@@ -1,3 +1,91 @@
+## 2026-11-26
+
+* **创建 / Creation**: 归档 [从 Codex 迁到谷歌生态：手动整理配置与模型分工建议](./sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md)。 / Filed [Migrating from Codex to Google Ecosystem: Manual Configuration Cleanup and Model Division of Labor](./sources/articles/migrating-from-codex-to-google-ecosystem-manual-configuration-cl.md).
+
+* **创建 / Creation**: 归档 [MiniMax H3 与 Colab 算力的 3 套生视频落地组合](./sources/articles/three-minimax-h3-colab-video-generation-combos.md)。 / Filed [Three MiniMax H3 + Colab Video Generation Combos](./sources/articles/three-minimax-h3-colab-video-generation-combos.md).
+
+* **创建 / Creation**: 归档 [Colab 算力点五大新玩法](./sources/articles/five-new-ways-to-use-google-colab-compute-points.md)。 / Filed [Five New Ways to Use Google Colab Compute Points](./sources/articles/five-new-ways-to-use-google-colab-compute-points.md).
+
+* **创建 / Creation**: 归档 [OCRia-1 文档解析模型集合](./sources/articles/ocria-1-document-parsing-model-collection.md)。 / Filed [OCRia-1 Document Parsing Model Collection](./sources/articles/ocria-1-document-parsing-model-collection.md).
+
+* **创建 / Creation**: 归档 [OCRia-1：LlamaIndex 开源 4B 参数文档 OCR 模型](./sources/articles/ocria-1-llamaindex-open-source-4b-parameter-document-ocr-model.md)。 / Filed [OCRia-1: LlamaIndex Open-Source 4B-Parameter Document OCR Model](./sources/articles/ocria-1-llamaindex-open-source-4b-parameter-document-ocr-model.md).
+
+* **创建 / Creation**: 归档 [Mole 更新：CLI 卸载、多选删除与一键隐藏图标](./sources/articles/mole-update-cli-uninstall-multi-select-delete-and-one-click-icon.md)。 / Filed [Mole Update: CLI Uninstall, Multi-Select Delete, and One-Click Icon Hiding](./sources/articles/mole-update-cli-uninstall-multi-select-delete-and-one-click-icon.md).
+
+* **创建 / Creation**: 归档 [Codex CLI 重写：摩根大通用 AI 将 64.8 万行 Rust 砍至 5.3 万行](./sources/articles/codex-cli-rewrite-jpmorgan-uses-ai-to-cut-648k-rust-lines-to-53k.md)。 / Filed [Codex CLI Rewrite: JPMorgan Uses AI to Cut 648k Rust Lines to 53k](./sources/articles/codex-cli-rewrite-jpmorgan-uses-ai-to-cut-648k-rust-lines-to-53k.md).
+
+* **创建 / Creation**: 归档 [远程 Skills 变更致 Claude 行为突变](./sources/articles/remote-skills-changes-cause-sudden-claude-behavior-drift.md)。 / Filed [Remote Skills changes cause sudden Claude behavior drift](./sources/articles/remote-skills-changes-cause-sudden-claude-behavior-drift.md).
+
+* **创建 / Creation**: 归档 [黑五 22 款科技产品优惠汇总：价格、优惠码与续费坑在评论区](./sources/articles/black-friday-roundup-of-22-tech-product-deals-prices-promo-codes.md)。 / Filed [Black Friday roundup of 22 tech product deals: prices, promo codes, and renewal pitfalls in the replies](./sources/articles/black-friday-roundup-of-22-tech-product-deals-prices-promo-codes.md).
+
+* **创建 / Creation**: 归档 [OpenAI 连续两天给 Codex 用户发邮件：一封补偿积分，一封预告额度消耗加快](./sources/articles/openai-emails-codex-users-twice-one-compensation-credit-one-fast.md)。 / Filed [OpenAI Emails Codex Users Twice: One Compensation Credit, One Faster Quota Consumption Notice](./sources/articles/openai-emails-codex-users-twice-one-compensation-credit-one-fast.md).
+
+* **创建 / Creation**: 归档 [Antigravity 新版本：Neon 任务省额度 12%，新增 Auto 模式](./sources/articles/antigravity-new-version-neon-tasks-save-12-quota-adds-auto-mode.md)。 / Filed [Antigravity New Version: Neon Tasks Save 12% Quota, Adds Auto Mode](./sources/articles/antigravity-new-version-neon-tasks-save-12-quota-adds-auto-mode.md).
+
+* **创建 / Creation**: 归档 [三呆科技 MAGI-2 登顶图生视频榜，宣布 4800 亿参数模型将开源](./sources/articles/sand-ai-s-magi-2-tops-image-to-video-leaderboard-announces-480b.md)。 / Filed [Sand.ai's MAGI-2 Tops Image-to-Video Leaderboard, Announces 480B-Parameter Open Weights](./sources/articles/sand-ai-s-magi-2-tops-image-to-video-leaderboard-announces-480b.md).
+
+* **创建 / Creation**: 归档 [儿子在天津大悦城书店发现 AI 书作者是自己爸爸（也姓乔）](./sources/articles/son-finds-ai-book-author-at-tianjin-joy-city-bookstore-is-his-fa.md)。 / Filed [Son finds AI book author at Tianjin Joy City bookstore is his father, also surnamed Qiao](./sources/articles/son-finds-ai-book-author-at-tianjin-joy-city-bookstore-is-his-fa.md).
+
+* **创建 / Creation**: 归档 [我推荐的 Mac 软件](./sources/articles/mac-software-i-recommend.md)。 / Filed [Mac Software I Recommend](./sources/articles/mac-software-i-recommend.md).
+
+* **创建 / Creation**: 归档 [快过年了，他做了个晒电脑桌面和好用软件的站点](./sources/articles/before-chinese-new-year-he-built-a-site-to-show-off-computer-des.md)。 / Filed [Before Chinese New Year, he built a site to show off computer desktops and useful software](./sources/articles/before-chinese-new-year-he-built-a-site-to-show-off-computer-des.md).
+
+* **创建 / Creation**: 归档 [用 AI 挽救亲子关系：把乘法口诀外包给「小橘老师」](./sources/articles/saving-parent-child-relationship-with-ai-outsourcing-multiplicat.md)。 / Filed [Saving Parent-Child Relationship with AI: Outsourcing Multiplication Tables to "Little Orange Teacher"](./sources/articles/saving-parent-child-relationship-with-ai-outsourcing-multiplicat.md).
+
+* **创建 / Creation**: 归档 [用 gflow-cli 制作小猫讲乘法口诀动画的核心流程](./sources/articles/core-workflow-for-making-a-cat-multiplication-table-animation-wi.md)。 / Filed [Core workflow for making a cat multiplication-table animation with gflow-cli](./sources/articles/core-workflow-for-making-a-cat-multiplication-table-animation-wi.md).
+
+* **创建 / Creation**: 归档 [Eugene Yan 拆解 12 项 AI Evals：分数之外如何判断 Agent 真能交付](./sources/articles/eugene-yan-breaks-down-12-ai-evals-beyond-scores-how-to-tell-if.md)。 / Filed [Eugene Yan Breaks Down 12 AI Evals: Beyond Scores, How to Tell If Agents Truly Deliver](./sources/articles/eugene-yan-breaks-down-12-ai-evals-beyond-scores-how-to-tell-if.md).
+
+* **创建 / Creation**: 归档 [UI SDK：面向智能体的 UI 行为库](./sources/articles/ui-sdk-a-behavior-library-for-agent-driven-user-interfaces.md)。 / Filed [UI SDK: A Behavior Library for Agent-Driven User Interfaces](./sources/articles/ui-sdk-a-behavior-library-for-agent-driven-user-interfaces.md).
+
+* **创建 / Creation**: 归档 [让 HungerG 按玻璃按钮风格做组件，仅用两轮](./sources/articles/hungerg-creates-glass-button-component-set-in-just-two-rounds.md)。 / Filed [HungerG creates glass-button component set in just two rounds](./sources/articles/hungerg-creates-glass-button-component-set-in-just-two-rounds.md).
+
+* **创建 / Creation**: 归档 [300 道闭卷题分差消失，HungerG 实战交付更稳](./sources/articles/closed-book-score-gaps-vanish-hungerg-delivers-more-stably-in-pr.md)。 / Filed [Closed-book score gaps vanish; HungerG delivers more stably in practice](./sources/articles/closed-book-score-gaps-vanish-hungerg-delivers-more-stably-in-pr.md).
+
+* **创建 / Creation**: 归档 [OpenAI 新论文宣称将矩阵乘法指数定格在 2.25](./sources/articles/openai-paper-claims-to-pin-matrix-multiplication-exponent-at-2-2.md)。 / Filed [OpenAI paper claims to pin matrix multiplication exponent at 2.25](./sources/articles/openai-paper-claims-to-pin-matrix-multiplication-exponent-at-2-2.md).
+
+* **创建 / Creation**: 归档 [黄仁勋重返英伟达后的首场全员大会，他整理了 11 句话](./sources/articles/jensen-huang-s-first-all-hands-meeting-back-at-nvidia-11-stateme.md)。 / Filed [Jensen Huang's First All-Hands Meeting Back at NVIDIA: 11 Statements](./sources/articles/jensen-huang-s-first-all-hands-meeting-back-at-nvidia-11-stateme.md).
+
+* **创建 / Creation**: 归档 [帖文称 agent-sim 在普通 Linux 服务器上跑通苹果 iOS 模拟器，云端 AI 可直接测试 iOS App](./sources/articles/the-post-claims-agent-sim-runs-apple-s-ios-simulator-on-ordinary.md)。 / Filed [The post claims agent-sim runs Apple's iOS simulator on ordinary Linux servers, letting cloud AI directly test iOS apps](./sources/articles/the-post-claims-agent-sim-runs-apple-s-ios-simulator-on-ordinary.md).
+
+* **创建 / Creation**: 归档 [办公 MCP：谷歌 Workspace 官方服务与个人模式转正](./sources/articles/office-mcp-google-workspace-official-services-and-personal-mode.md)。 / Filed [Office MCP: Google Workspace Official Services and Personal Mode Go GA](./sources/articles/office-mcp-google-workspace-official-services-and-personal-mode.md).
+
+* **创建 / Creation**: 归档 [混元开源 Hy4 Flash 压缩版，64 GB Mac mini 能跑但不适作主力](./sources/articles/tencent-hunyuan-open-sources-hy4-flash-compressed-version-64-gb.md)。 / Filed [Tencent Hunyuan open-sources Hy4 Flash compressed version; 64 GB Mac mini can run but is unfit as primary machine](./sources/articles/tencent-hunyuan-open-sources-hy4-flash-compressed-version-64-gb.md).
+
+* **创建 / Creation**: 归档 [Conductor 弃用 Tauri 换回 Electron，启动快 4.6 倍](./sources/articles/conductor-drops-tauri-for-electron-startup-4-6x-faster.md)。 / Filed [Conductor Drops Tauri for Electron, Startup 4.6x Faster](./sources/articles/conductor-drops-tauri-for-electron-startup-4-6x-faster.md).
+
+* **创建 / Creation**: 归档 [千问 Go 免费开放 AI 代打电话，阿里跟进字节小豆](./sources/articles/qwen-go-opens-free-ai-phone-calling-alibaba-follows-bytedance-s.md)。 / Filed [Qwen Go Opens Free AI Phone Calling, Alibaba Follows ByteDance's Xiao Dou](./sources/articles/qwen-go-opens-free-ai-phone-calling-alibaba-follows-bytedance-s.md).
+
+* **创建 / Creation**: 归档 [Grok Bot 黑五买一送一，折合每月 15 美元](./sources/articles/grok-bot-black-friday-buy-one-get-one-free-effectively-15-month.md)。 / Filed [Grok Bot Black Friday Buy One Get One Free, Effectively $15/Month](./sources/articles/grok-bot-black-friday-buy-one-get-one-free-effectively-15-month.md).
+
+* **创建 / Creation**: 归档 [自媒体工作台：用三个开源 Skill 串联 AGY 创作流程](./sources/articles/ai-self-media-workbench-chaining-three-open-source-skills-in-agy.md)。 / Filed [AI Self-Media Workbench: Chaining Three Open-Source Skills in AGY](./sources/articles/ai-self-media-workbench-chaining-three-open-source-skills-in-agy.md).
+
+* **创建 / Creation**: 归档 [用 AGY 写前端，5 个高星 Skill 就够了，别装上千个合集](./sources/articles/five-high-star-agy-skills-are-enough-for-frontend-don-t-install.md)。 / Filed [Five High-Star AGY Skills Are Enough for Frontend, Don't Install Thousands](./sources/articles/five-high-star-agy-skills-are-enough-for-frontend-don-t-install.md).
+
+* **创建 / Creation**: 归档 [谷歌模型突然变强的背后：夏季大换血与工程交付转向](./sources/articles/behind-google-s-sudden-model-strength-summer-overhaul-and-shift.md)。 / Filed [Behind Google's Sudden Model Strength: Summer Overhaul and Shift to Engineering Delivery](./sources/articles/behind-google-s-sudden-model-strength-summer-overhaul-and-shift.md).
+
+* **创建 / Creation**: 归档 [黑五买 Google AI Pro 之前，先看这 4 件事](./sources/articles/4-things-to-check-before-buying-google-ai-pro-on-black-friday.md)。 / Filed [4 things to check before buying Google AI Pro on Black Friday](./sources/articles/4-things-to-check-before-buying-google-ai-pro-on-black-friday.md).
+
+* **创建 / Creation**: 归档 [T3 Code 遥测争议后，他实测 Mirasim 多 Agent 编程工作台](./sources/articles/after-t3-code-telemetry-controversy-he-hands-on-tests-mirasim-mu.md)。 / Filed [After T3 Code telemetry controversy, he hands-on tests Mirasim multi-agent programming workbench](./sources/articles/after-t3-code-telemetry-controversy-he-hands-on-tests-mirasim-mu.md).
+
+* **创建 / Creation**: 归档 [难道它们真的是天生一对？让 Google AI Ultra 做 Grok Bot 的最佳搭档](./sources/articles/are-they-really-a-perfect-match-making-google-ai-ultra-grok-bot.md)。 / Filed [Are They Really a Perfect Match? Making Google AI Ultra Grok Bot's Best Logistics Partner](./sources/articles/are-they-really-a-perfect-match-making-google-ai-ultra-grok-bot.md).
+
+* **创建 / Creation**: 归档 [歸藏 MAGI-2 Skill](./sources/articles/guizang-magi-2-skill.md)。 / Filed [Guizang MAGI-2 Skill](./sources/articles/guizang-magi-2-skill.md).
+
+* **创建 / Creation**: 归档 [谷歌 Neon + LibTV MCP + MAGI-2：代码与视频双向生成 Skill 说明](./sources/articles/google-neon-libtv-mcp-magi-2-code-to-video-and-video-to-code-ski.md)。 / Filed [Google Neon + LibTV MCP + MAGI-2: Code-to-Video and Video-to-Code Skill Description](./sources/articles/google-neon-libtv-mcp-magi-2-code-to-video-and-video-to-code-ski.md).
+
+* **创建 / Creation**: 归档 [谷歌 Neon 加 MAGI-2：AI 代码与视频双向生成工作流（附 Skill）](./sources/articles/google-neon-magi-2-bidirectional-ai-code-and-video-generation-wo.md)。 / Filed [Google Neon + MAGI-2: Bidirectional AI Code and Video Generation Workflow (with Skill)](./sources/articles/google-neon-magi-2-bidirectional-ai-code-and-video-generation-wo.md).
+
+* **创建 / Creation**: 归档 [谷歌 Neon + MAGI-2：视频与代码双向生成（Video to Code / Code to Video）](./sources/articles/google-neon-magi-2-bidirectional-video-to-code-and-code-to-video.md)。 / Filed [Google Neon + MAGI-2: Bidirectional Video-to-Code and Code-to-Video Generation](./sources/articles/google-neon-magi-2-bidirectional-video-to-code-and-code-to-video.md).
+
+* **创建 / Creation**: 归档 [Carbon 与 Argon 被认为更适合写作与知识任务，Neon 仅为轻量快速版](./sources/articles/carbon-and-argon-considered-more-suitable-for-writing-and-knowle.md)。 / Filed [Carbon and Argon considered more suitable for writing and knowledge tasks; Neon only a lightweight fast version](./sources/articles/carbon-and-argon-considered-more-suitable-for-writing-and-knowle.md).
+
+* **创建 / Creation**: 归档 [毫无保留地分享，我是如何让Claude、GPT和Gemini完美协同的](./sources/articles/how-i-coordinate-claude-gpt-and-gemini-seamlessly.md)。 / Filed [How I Coordinate Claude, GPT, and Gemini Seamlessly](./sources/articles/how-i-coordinate-claude-gpt-and-gemini-seamlessly.md).
+
+* **创建 / Creation**: 归档 [数字生命卡兹克：Claude、GPT 与 Gemini 协同文章在 X 获 110 万阅读](./sources/articles/khazix0918-s-claude-gpt-and-gemini-collaboration-article-reaches.md)。 / Filed [Khazix0918’s Claude, GPT, and Gemini Collaboration Article Reaches 1.1 Million Reads on X](./sources/articles/khazix0918-s-claude-gpt-and-gemini-collaboration-article-reaches.md).
+
+* **创建 / Creation**: 归档 [长文实测 MAGI-2：画质接近 Seedance 2.3，1080P 仅 0.5 元/秒，便宜约 90%](./sources/articles/long-form-hands-on-test-of-magi-2-visuals-near-seedance-2-3-1080.md)。 / Filed [Long-form hands-on test of MAGI-2: visuals near Seedance 2.3, 1080P at 0.5 yuan/second, about 90% cheaper](./sources/articles/long-form-hands-on-test-of-magi-2-visuals-near-seedance-2-3-1080.md).
+
 ## 2026-11-24
 
 * **创建 / Creation**: 归档 [Uber Agent Skills 治理实战](./sources/articles/how-uber-evals-1-million-agent-skill-invocations-a-month.md)。 / Filed [How Uber Evals 1 Million Agent Skill Invocations a Month](./sources/articles/how-uber-evals-1-million-agent-skill-invocations-a-month.md).

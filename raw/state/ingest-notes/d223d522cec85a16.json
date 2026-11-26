@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文中明确提到将工具使用沉淀为 Skill 并给出安装命令，与 Skill 编写主题直接相关。",
+    "topics/skills-stack-native-app-recreation.md": "帖文通过 Codex 生成技能和网站，体现以 Skills 组合复刻工具体验的思路。",
+    "topics/desktop-outfit-character-companions.md": "帖文核心包含晒电脑桌面，与桌面个性化话题相邻，仅作参考。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确提到将工具使用沉淀为 Skill 并给出安装命令，与 Skill 编写主题直接相关。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "帖文通过 Codex 生成技能和网站，体现以 Skills 组合复刻工具体验的思路。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "帖文核心包含晒电脑桌面，与桌面个性化话题相邻，仅作参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源仅为 X 帖文，未访问 software.qiaomu.ai，未核实站点具体内容。"
+}

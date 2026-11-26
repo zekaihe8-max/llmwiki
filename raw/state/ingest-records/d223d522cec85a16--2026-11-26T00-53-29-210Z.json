@@ -1,0 +1,49 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:53:29.210Z",
+  "url": "https://x.com/vista8/status/2125489242646405349",
+  "slug": "d223d522cec85a16",
+  "content_hash": "6c6cbca0f28390649f2dcab0450d6bf23d0fbe67dc6465a0bef65c61c14339d8",
+  "source": {
+    "path": "sources/articles/before-chinese-new-year-he-built-a-site-to-show-off-computer-des.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文给出 Skill 安装命令，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "用 Skill 展示和分享本机常用软件，与用 Skills 组合复刻工具主题相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "站点用于晒电脑桌面与常用软件，与桌面换装/桌面展示主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文给出 Skill 安装命令，与 Agent Skill 编写主题相关。",
+    "topics/skills-stack-native-app-recreation.md": "用 Skill 展示和分享本机常用软件，与用 Skills 组合复刻工具主题相关。",
+    "topics/desktop-outfit-character-companions.md": "站点用于晒电脑桌面与常用软件，与桌面换装/桌面展示主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/before-chinese-new-year-he-built-a-site-to-show-off-computer-des.md"
+  ],
+  "agent_notes": "In-place bilingual lint fix after first compile; no model re-call.",
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

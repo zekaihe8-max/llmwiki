@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/languages-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/languages-for-agents.md": "帖文核心悬念是改用何种编程语言，与面向 Agent 的编程语言选题直接相关。",
+    "topics/coding-agent-token-saving-tooling.md": "Codex CLI 属于编程 Agent 工具，选题涉及编程 Agent 的工具与开销。",
+    "topics/agent-scaled-engineering.md": "64.8 万行到 5.3 万行的大规模代码重构涉及智能体规模化工程。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "AI 重写代码并改变代码量与质量表现，触及 AI 代码质量双标议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心悬念是改用何种编程语言，与面向 Agent 的编程语言选题直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Codex CLI 属于编程 Agent 工具，选题涉及编程 Agent 的工具与开销。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "64.8 万行到 5.3 万行的大规模代码重构涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "AI 重写代码并改变代码量与质量表现，触及 AI 代码质量双标议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章未披露具体改用的编程语言，因此未在摘要中断言目标语言。"
+}

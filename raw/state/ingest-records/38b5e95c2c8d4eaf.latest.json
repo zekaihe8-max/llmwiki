@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:37:06.444Z",
+  "url": "https://x.com/dingyi/status/2125514605573378096",
+  "slug": "38b5e95c2c8d4eaf",
+  "content_hash": "fc752536b1b091b0d0a2f989b19c4981225c64e125b885f45b0aa4f71f723f43",
+  "source": {
+    "path": "sources/articles/hungerg-creates-glass-button-component-set-in-just-two-rounds.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文核心是将设计风格转化为代码组件，与设计↔代码主题高度相关"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "文中涉及复刻现有网站风格而非从零编写专用 Skill"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "文中提到面向 AI Agent 的 UI SDK 与 AX（Agent Experience）相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文核心是将设计风格转化为代码组件，与设计↔代码主题高度相关",
+    "topics/ux-dx-and-ax.md": "文中提到面向 AI Agent 的 UI SDK 与 AX（Agent Experience）相关",
+    "topics/landing-page-site-clone-over-skill.md": "文中涉及复刻现有网站风格而非从零编写专用 Skill"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hungerg-creates-glass-button-component-set-in-just-two-rounds.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/landing-page-site-clone-over-skill.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "帖文核心是将设计风格转化为代码组件，与设计↔代码主题高度相关",
+      "topics/ux-dx-and-ax.md": "文中提到面向 AI Agent 的 UI SDK 与 AX（Agent Experience）相关",
+      "topics/landing-page-site-clone-over-skill.md": "文中涉及复刻现有网站风格而非从零编写专用 Skill"
+    },
+    "notes": "帖文发布时间显示为 2026 年 11 月 25 日，Demo 链接为 t.co 短链未展开完整 URL，未独立核实 HungerG 与 DeepSeek V4.1 Flash 的性能对比。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hungerg-creates-glass-button-component-set-in-just-two-rounds.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

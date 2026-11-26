@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:25:54.094Z",
+  "url": "https://x.com/cgnot996/status/2125385442401153489",
+  "slug": "17fb8a040faf8dfd",
+  "content_hash": "9a4342d8ef50498ad221d7ab0424c9501d8fbbda9badb721c0236496418bafda",
+  "source": {
+    "path": "sources/articles/are-they-really-a-perfect-match-making-google-ai-ultra-grok-bot.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中提出前台总调度加两条总线、四条执行路径，属于云平台跨模型编排与调度"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "文章核心就是 Grok Bot 与外部额度/服务的桥接搭配"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "文中列出的 5 条红线与云环境备份、隔离、定时检查等边界高度相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中反复比较 X 高档订阅与 Google AI Ultra 组合的性价比"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "文章核心就是 Grok Bot 与外部额度/服务的桥接搭配",
+    "topics/premium-ai-subscription-value.md": "文中反复比较 X 高档订阅与 Google AI Ultra 组合的性价比",
+    "topics/cloud-auto-model-routing.md": "文中提出前台总调度加两条总线、四条执行路径，属于云平台跨模型编排与调度",
+    "topics/personal-agent-cloud-env-pitfalls.md": "文中列出的 5 条红线与云环境备份、隔离、定时检查等边界高度相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/are-they-really-a-perfect-match-making-google-ai-ultra-grok-bot.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "文章核心就是 Grok Bot 与外部额度/服务的桥接搭配",
+      "topics/premium-ai-subscription-value.md": "文中反复比较 X 高档订阅与 Google AI Ultra 组合的性价比",
+      "topics/cloud-auto-model-routing.md": "文中提出前台总调度加两条总线、四条执行路径，属于云平台跨模型编排与调度",
+      "topics/personal-agent-cloud-env-pitfalls.md": "文中列出的 5 条红线与云环境备份、隔离、定时检查等边界高度相关"
+    },
+    "notes": "All claims are grounded in the fetched X article markdown; no external URLs or facts beyond the article were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/are-they-really-a-perfect-match-making-google-ai-ultra-grok-bot.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

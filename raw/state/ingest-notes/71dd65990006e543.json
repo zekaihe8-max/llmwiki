@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "已查阅；本文证据不足以改写该主题，保持不变。",
+    "topics/ai-product-self-rec-amplify.md": "用户自发整理并公开推荐多款科技产品，属于个人产品自荐与种草场景",
+    "topics/design-to-code-byo-subscriptions.md": "涉及 TypingMind 等自带 AI 订阅的设计/代码工具，与订阅类工具类别相邻"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "已查阅；本文证据不足以改写该主题，保持不变。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "用户自发整理并公开推荐多款科技产品，属于个人产品自荐与种草场景"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "涉及 TypingMind 等自带 AI 订阅的设计/代码工具，与订阅类工具类别相邻"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文未直接列出全部 22 款产品名单，具体优惠详情位于评论区，未在此处展开。"
+}

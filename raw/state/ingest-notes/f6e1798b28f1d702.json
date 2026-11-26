@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "讨论桌面应用框架更替对用户体验与开发体验的影响，与 Tauri 到 Electron 的迁移动机相近",
+    "topics/coding-agent-ux-vs-quota.md": "Conductor 属于 AI 编程 Agent 类桌面产品，其界面性能直接影响编程体验",
+    "topics/skills-stack-native-app-recreation.md": "涉及桌面应用外壳与原生感体验的构建，与“换壳”讨论相关"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "讨论桌面应用框架更替对用户体验与开发体验的影响，与 Tauri 到 Electron 的迁移动机相近"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Conductor 属于 AI 编程 Agent 类桌面产品，其界面性能直接影响编程体验"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "涉及桌面应用外壳与原生感体验的构建，与“换壳”讨论相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的 X 帖文与引用推文，未引入外部事实"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文围绕安装与组合 Antigravity Skill 展开，与技能编写主题相近，但无需修改现有条目。",
+    "topics/agent-skills-open-standard.md": "文中提到 SKILL.md 标准与 Antigravity 技能目录，与开放标准主题相关，保持原条目不变。",
+    "topics/agents-md-token-efficiency.md": "文中明确提到 2 万 Token 共享预算与上下文污染，与 Token 效率主题高度相关，无需新建或变更。",
+    "topics/ux-dx-and-ax.md": "内容涉及 UI/UX 风格、前端规范与无障碍准则，与 UX、DX 与 AX 主题相近，维持原状。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文围绕安装与组合 Antigravity Skill 展开，与技能编写主题相近，但无需修改现有条目。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提到 SKILL.md 标准与 Antigravity 技能目录，与开放标准主题相关，保持原条目不变。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中明确提到 2 万 Token 共享预算与上下文污染，与 Token 效率主题高度相关，无需新建或变更。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "内容涉及 UI/UX 风格、前端规范与无障碍准则，与 UX、DX 与 AX 主题相近，维持原状。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源于所抓取的 X 帖文正文，未引用外部链接或仓库内容。"
+}

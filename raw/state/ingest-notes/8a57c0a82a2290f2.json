@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/workflows-before-agents.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文整理了三套 AI 生视频工作流与剪辑组合，直接对应智能体视频剪辑主题。",
+    "topics/workflows-before-agents.md": "文章强调先搭完整工作流（如 WanGP 一体化界面、MoneyPrinterTurbo 流水线），再引入 Agent 自动化，符合工作流优先理念。",
+    "topics/gpu-ai-compute-unlock.md": "文中核心资源是 Google Colab A100/G4/L4/T4 算力点，涉及消费级/云端 GPU AI 算力的获取与使用。",
+    "topics/premium-ai-subscription-value.md": "帖文提及 Google AI Pro/Ultra 每月赠送 200 至 2000 个 Colab 算力点，讨论高端 AI 订阅的附加价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文整理了三套 AI 生视频工作流与剪辑组合，直接对应智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "文章强调先搭完整工作流（如 WanGP 一体化界面、MoneyPrinterTurbo 流水线），再引入 Agent 自动化，符合工作流优先理念。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中核心资源是 Google Colab A100/G4/L4/T4 算力点，涉及消费级/云端 GPU AI 算力的获取与使用。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文提及 Google AI Pro/Ultra 每月赠送 200 至 2000 个 Colab 算力点，讨论高端 AI 订阅的附加价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "评论区链接未在抓取内容中给出，未编造 URL。"
+}

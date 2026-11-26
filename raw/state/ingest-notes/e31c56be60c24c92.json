@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agentic-video-editing.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "文章核心是以视频参考生成网页代码，与设计↔代码主题相近。",
+    "topics/agentic-video-editing.md": "涉及 MAGI-2 视频模型生成与视频参考，属智能体视频编辑范畴。",
+    "topics/landing-page-site-clone-over-skill.md": "文中提到生成网页并关联 Skill，与站点复刻/技能主题相关。",
+    "topics/agent-skill-authoring.md": "关联帖文明确标注“附 Skill”，涉及 Agent Skill 编写。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章核心是以视频参考生成网页代码，与设计↔代码主题相近。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及 MAGI-2 视频模型生成与视频参考，属智能体视频编辑范畴。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "文中提到生成网页并关联 Skill，与站点复刻/技能主题相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "关联帖文明确标注“附 Skill”，涉及 Agent Skill 编写。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实的模型能力与质量主张已在摘要中用「帖文称」标注，未编造超出文章的 URL 或事实。"
+}

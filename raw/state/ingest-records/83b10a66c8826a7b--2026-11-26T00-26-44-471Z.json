@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:26:44.471Z",
+  "url": "https://x.com/cgnot996/status/2125500330159071240",
+  "slug": "83b10a66c8826a7b",
+  "content_hash": "d55d94c20bf33f2ba137fbb0656bfbe3c5f1b00e7ad4b8567c5f6ad48119cdf5",
+  "source": {
+    "path": "sources/articles/after-t3-code-telemetry-controversy-he-hands-on-tests-mirasim-mu.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中描述了 Diff 面板、浏览器验收、协作空间等体验细节及 $0/$49 定价额度，与编程 Agent 体验与额度相关。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Mirasim 自带本机 Claude/Codex/Grok 账号 $0 起步，与“自带订阅”主题高度相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "作者因 T3 Code 遥测争议转而对比实测 Mirasim，属于编程工作台/Harness 的选型对比。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Mirasim 被定位为多 Agent 编程工作台，涉及个人 Agent 调度编程 Agent 的使用场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文提到 Mirasim 自带本机 Claude/Codex/Grok 账号 $0 起步，与“自带订阅”主题高度相关。",
+    "topics/harness-comparison-beyond-tokens.md": "作者因 T3 Code 遥测争议转而对比实测 Mirasim，属于编程工作台/Harness 的选型对比。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Mirasim 被定位为多 Agent 编程工作台，涉及个人 Agent 调度编程 Agent 的使用场景。",
+    "topics/coding-agent-ux-vs-quota.md": "文中描述了 Diff 面板、浏览器验收、协作空间等体验细节及 $0/$49 定价额度，与编程 Agent 体验与额度相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/after-t3-code-telemetry-controversy-he-hands-on-tests-mirasim-mu.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "帖文提到 Mirasim 自带本机 Claude/Codex/Grok 账号 $0 起步，与“自带订阅”主题高度相关。",
+      "topics/harness-comparison-beyond-tokens.md": "作者因 T3 Code 遥测争议转而对比实测 Mirasim，属于编程工作台/Harness 的选型对比。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "Mirasim 被定位为多 Agent 编程工作台，涉及个人 Agent 调度编程 Agent 的使用场景。",
+      "topics/coding-agent-ux-vs-quota.md": "文中描述了 Diff 面板、浏览器验收、协作空间等体验细节及 $0/$49 定价额度，与编程 Agent 体验与额度相关。"
+    },
+    "notes": "所有主张均基于该 X 帖文，未独立核实；未在文中发现可直接引用的外部 URL 除 X 帖文本身。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/after-t3-code-telemetry-controversy-he-hands-on-tests-mirasim-mu.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

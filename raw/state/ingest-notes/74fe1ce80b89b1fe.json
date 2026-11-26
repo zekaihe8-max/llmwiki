@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章核心围绕 Colab 云端 GPU 算力点的使用与显卡选型，直接对应消费级/云端 AI 算力解锁主题。",
+    "topics/premium-ai-subscription-value.md": "文中详细对比 Google AI Pro 与 Ultra 的算力点赠送额度及订阅价值，属于高端 AI 订阅价值讨论。",
+    "topics/agent-compute-and-governance.md": "涉及算力点配额、过期规则、风控与合规使用边界，属于算力治理范畴。",
+    "topics/ai-assisted-clipping-and-notes.md": "MinerU 用于个人知识库和 Agent 数据清洗，与 AI 辅助剪藏与媒体笔记相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章核心围绕 Colab 云端 GPU 算力点的使用与显卡选型，直接对应消费级/云端 AI 算力解锁主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文中详细对比 Google AI Pro 与 Ultra 的算力点赠送额度及订阅价值，属于高端 AI 订阅价值讨论。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "涉及算力点配额、过期规则、风控与合规使用边界，属于算力治理范畴。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "MinerU 用于个人知识库和 Agent 数据清洗，与 AI 辅助剪藏与媒体笔记相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于主推文内容，未引入嵌套推文中关于 Google AI Pro 黑五的额外细节。"
+}

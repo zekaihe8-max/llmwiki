@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/workflows-before-agents.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章讲述 AI 视频生成与后期拼接的完整流程，与智能体视频剪辑主题高度相关。",
+    "topics/workflows-before-agents.md": "帖文核心是一套可复用的分步工作流，而非单一智能体任务。",
+    "topics/open-source-in-ai-assistant-editing.md": "文中使用 gflow-cli、Edge TTS、ffmpeg 等开源/免费工具做 AI 辅助剪辑。",
+    "topics/ai-assisted-clipping-and-notes.md": "内容涉及 AI 生成媒体的分镜锁帧与后期笔记式拼接。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章讲述 AI 视频生成与后期拼接的完整流程，与智能体视频剪辑主题高度相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是一套可复用的分步工作流，而非单一智能体任务。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "文中使用 gflow-cli、Edge TTS、ffmpeg 等开源/免费工具做 AI 辅助剪辑。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 生成媒体的分镜锁帧与后期笔记式拼接。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @0xlangeai; all claims are grounded in the fetched markdown only."
+}

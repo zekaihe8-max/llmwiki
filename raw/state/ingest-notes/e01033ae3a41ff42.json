@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章核心是腾讯混元开源的开放权重大模型，与该主题高度相关",
+    "topics/local-open-assistant-models.md": "帖文讨论在本地 Mac mini 上运行大模型，属本地开放模型落地场景",
+    "topics/gpu-ai-compute-unlock.md": "涉及消费级设备（Mac mini 统一内存）承载大模型推理的算力与显存权衡"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是腾讯混元开源的开放权重大模型，与该主题高度相关"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "帖文讨论在本地 Mac mini 上运行大模型，属本地开放模型落地场景"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "涉及消费级设备（Mac mini 统一内存）承载大模型推理的算力与显存权衡"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于提供的推文文本，未访问外部链接；未引入文章外事实。"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "0c646d92e216e25a",
+  "url": "https://huggingface.co/llamaindex/OCRia-1",
+  "title": "模型",
+  "digest": "2026-11-25-cn-x.md",
+  "status": "filed",
+  "hash": "0c646d92e216e25a723358970f61d3d9d823dceff1f76e29326d7d0ae304c80f",
+  "first_seen": "2026-11-25T12:02:04.670Z",
+  "last_seen": "2026-11-25T12:02:04.670Z",
+  "fetched_at": "2026-11-25T12:02:23.922Z",
+  "content_hash": "c8e38baddb56e997a942ba0aa1f838723e8e5fc1bf6f375c94d10262e29916ec",
+  "article_path": "articles/0c646d92e216e25a.md",
+  "fetched_url": "https://huggingface.co/llamaindex/OCRia-1",
+  "source_path": "sources/articles/ocria-1-document-parsing-model-collection.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T00:46:15.766Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:41:35.615Z",
+  "url": "https://x.com/0xLogicrw/status/2125502848955744436",
+  "slug": "3a6baa5ccbef92d6",
+  "content_hash": "3dd5ed5cfaac3fd7051b27c9d0151f4050adfda16699494200d2cf789f1c64a2",
+  "source": {
+    "path": "sources/articles/sand-ai-s-magi-2-tops-image-to-video-leaderboard-announces-480b.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "三呆科技成立于 2024 年初，短期融资 3 亿美元并估值过十亿，符合 AI 原生公司特征。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "三呆科技为中国 AI 新创，以低价且开源权重的方式在全球榜单登顶，体现中国开源模型与算力优势的竞争。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章依据 Artificial Analysis 社区榜单（1165 vs 1161）论述模型排名，涉及公开评测分数与实测差距。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章核心是 MAGI-2 即将开源 4800 亿参数权重，与开放权重前沿模型主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章核心是 MAGI-2 即将开源 4800 亿参数权重，与开放权重前沿模型主题直接相关。",
+    "topics/china-open-source-lead-us-compute.md": "三呆科技为中国 AI 新创，以低价且开源权重的方式在全球榜单登顶，体现中国开源模型与算力优势的竞争。",
+    "topics/community-evals-vs-score-hype.md": "文章依据 Artificial Analysis 社区榜单（1165 vs 1161）论述模型排名，涉及公开评测分数与实测差距。",
+    "topics/ai-native-companies.md": "三呆科技成立于 2024 年初，短期融资 3 亿美元并估值过十亿，符合 AI 原生公司特征。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sand-ai-s-magi-2-tops-image-to-video-leaderboard-announces-480b.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "文章核心是 MAGI-2 即将开源 4800 亿参数权重，与开放权重前沿模型主题直接相关。",
+      "topics/china-open-source-lead-us-compute.md": "三呆科技为中国 AI 新创，以低价且开源权重的方式在全球榜单登顶，体现中国开源模型与算力优势的竞争。",
+      "topics/community-evals-vs-score-hype.md": "文章依据 Artificial Analysis 社区榜单（1165 vs 1161）论述模型排名，涉及公开评测分数与实测差距。",
+      "topics/ai-native-companies.md": "三呆科技成立于 2024 年初，短期融资 3 亿美元并估值过十亿，符合 AI 原生公司特征。"
+    },
+    "notes": "嵌入推文称 $0.08/秒、400B 权重即将开源，与正文的 0.5 元/秒、4800 亿参数不一致；此处以正文为准。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sand-ai-s-magi-2-tops-image-to-video-leaderboard-announces-480b.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

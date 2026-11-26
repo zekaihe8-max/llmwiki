@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T00:36:01.684Z",
+  "url": "https://x.com/dotey/status/2125464294401720614",
+  "slug": "0300adceb45830b0",
+  "content_hash": "895f570d98174ff57838a5f61ab8b18471bba8c39938bce2bd1402ac880fcfee",
+  "source": {
+    "path": "sources/articles/openai-paper-claims-to-pin-matrix-multiplication-exponent-at-2-2.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "OpenAI 论文与科研实践适配相关"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 与数学证明，属形式化验证相关议题"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文中引用 ProofAtlas 排名，涉及公开榜单质量审视"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "帖文涉及 AI 与数学证明，属形式化验证相关议题",
+    "topics/ai-peer-review-science-adaptation.md": "OpenAI 论文与科研实践适配相关",
+    "topics/public-benchmark-quality-scrutiny.md": "文中引用 ProofAtlas 排名，涉及公开榜单质量审视"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/openai-paper-claims-to-pin-matrix-multiplication-exponent-at-2-2.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/ai-peer-review-science-adaptation.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "帖文涉及 AI 与数学证明，属形式化验证相关议题",
+      "topics/ai-peer-review-science-adaptation.md": "OpenAI 论文与科研实践适配相关",
+      "topics/public-benchmark-quality-scrutiny.md": "文中引用 ProofAtlas 排名，涉及公开榜单质量审视"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/openai-paper-claims-to-pin-matrix-multiplication-exponent-at-2-2.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
