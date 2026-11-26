@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:29:00.300Z",
+  "url": "https://bfdeals.here/",
+  "slug": "b875c4672d2e82c5",
+  "content_hash": "fe9c1dc6362695b2f5e93957c0c374999320e2146a90800c96cf8aec8ffb51eb",
+  "source": {
+    "path": "sources/articles/black-friday-deals-for-designers-2026.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/design-taste-led-linux-desktop-trial.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "内容属设计师工具类，与设计品味驱动的桌面试用主题较为接近"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章聚焦设计师订阅工具与黑五折扣，与设计↔代码及自带订阅主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及多款 AI 设计工具订阅优惠，与高端 AI 订阅价值评估相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "文章聚焦设计师订阅工具与黑五折扣，与设计↔代码及自带订阅主题相近",
+    "topics/premium-ai-subscription-value.md": "涉及多款 AI 设计工具订阅优惠，与高端 AI 订阅价值评估相关",
+    "topics/design-taste-led-linux-desktop-trial.md": "内容属设计师工具类，与设计品味驱动的桌面试用主题较为接近"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/black-friday-deals-for-designers-2026.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/design-taste-led-linux-desktop-trial.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "文章聚焦设计师订阅工具与黑五折扣，与设计↔代码及自带订阅主题相近",
+      "topics/premium-ai-subscription-value.md": "涉及多款 AI 设计工具订阅优惠，与高端 AI 订阅价值评估相关",
+      "topics/design-taste-led-linux-desktop-trial.md": "内容属设计师工具类，与设计品味驱动的桌面试用主题较为接近"
+    },
+    "notes": "仅基于抓取的 markdown 内容整理，未引入外部事实",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/black-friday-deals-for-designers-2026.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

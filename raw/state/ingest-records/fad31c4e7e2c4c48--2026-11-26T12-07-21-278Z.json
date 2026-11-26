@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:07:21.278Z",
+  "url": "https://x.com/Khazix0918/status/2125803873575284892",
+  "slug": "fad31c4e7e2c4c48",
+  "content_hash": "0487061309b75f58386ad6707ae70f3ef56766b60fc4e5f89cf2cfbb354ee25b",
+  "source": {
+    "path": "sources/articles/he-turned-stanford-s-new-book-into-a-prompt-first-writing-a-pers.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/one-question-at-a-time.md",
+    "topics/agent-skill-authoring.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文中明确推荐 ChatGPT GPT-6.2，并提及 Gemini、Claude 等模型渠道选择。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "作者将书籍方法论编写为可复用的 AI Prompt/技能，供公众直接调用。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "Prompt 严格禁止一次性抛出所有问题，采用分阶段逐一提问的节奏。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "帖文将完整 Prompt 公开分享，鼓励读者与 AI 进行个人对话并生成手册。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/one-question-at-a-time.md": "Prompt 严格禁止一次性抛出所有问题，采用分阶段逐一提问的节奏。",
+    "topics/agent-skill-authoring.md": "作者将书籍方法论编写为可复用的 AI Prompt/技能，供公众直接调用。",
+    "topics/personal-agent-share-and-interbot-chat.md": "帖文将完整 Prompt 公开分享，鼓励读者与 AI 进行个人对话并生成手册。",
+    "topics/agent-model-channel-tradeoffs.md": "文中明确推荐 ChatGPT GPT-6.2，并提及 Gemini、Claude 等模型渠道选择。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/he-turned-stanford-s-new-book-into-a-prompt-first-writing-a-pers.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/one-question-at-a-time.md",
+      "topics/agent-skill-authoring.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/one-question-at-a-time.md": "Prompt 严格禁止一次性抛出所有问题，采用分阶段逐一提问的节奏。",
+      "topics/agent-skill-authoring.md": "作者将书籍方法论编写为可复用的 AI Prompt/技能，供公众直接调用。",
+      "topics/personal-agent-share-and-interbot-chat.md": "帖文将完整 Prompt 公开分享，鼓励读者与 AI 进行个人对话并生成手册。",
+      "topics/agent-model-channel-tradeoffs.md": "文中明确推荐 ChatGPT GPT-6.2，并提及 Gemini、Claude 等模型渠道选择。"
+    },
+    "notes": "所有主张均源自该 X 帖文，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/he-turned-stanford-s-new-book-into-a-prompt-first-writing-a-pers.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

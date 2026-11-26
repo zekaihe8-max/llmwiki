@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "帖文提到 Amp 在云端运行所有线程并绑定多模型，与云平台跨模型编排主题相近。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "多账号运行与模型路由属于 Harness 调度范畴，与个人助手派活不同。",
+    "topics/coding-agent-ux-vs-quota.md": "绑定多个 Claude 账号直接关联编程 Agent 的额度与使用体验。"
+  },
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Amp 在云端运行所有线程并绑定多模型，与云平台跨模型编排主题相近。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "多账号运行与模型路由属于 Harness 调度范畴，与个人助手派活不同。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "绑定多个 Claude 账号直接关联编程 Agent 的额度与使用体验。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，未核实主张已用「帖文称」标注。"
+}

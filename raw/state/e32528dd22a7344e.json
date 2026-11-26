@@ -1,0 +1,23 @@
+{
+  "slug": "e32528dd22a7344e",
+  "url": "https://x.com/Gorden_Sun/status/2125769222521569308",
+  "title": "Aion",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "e32528dd22a7344e6ed16678754099f81f14169d1a323addaef7e77251da110c",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:26.596Z",
+  "content_hash": "0f8e4e07cb16ccb45f4ddc9d534343564b7ea4412553518558e83d15f708bcd5",
+  "article_path": "articles/e32528dd22a7344e.md",
+  "fetched_url": "https://x.com/Gorden_Sun/status/2125769222521569308",
+  "source_path": "sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:42:14.050Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

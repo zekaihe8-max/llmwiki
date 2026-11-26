@@ -1,0 +1,23 @@
+{
+  "slug": "fb828fc93bb9d0c8",
+  "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+  "title": "模型",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "fb828fc93bb9d0c84af5e66f1e349ab6c2eb1e74d583bdbc945cb36fa7551123",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:26.402Z",
+  "content_hash": "480b3f2590c38e52871b2dfca2213a1963caff70d88695778a9d7119a7b1ad2d",
+  "article_path": "articles/fb828fc93bb9d0c8.md",
+  "fetched_url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+  "source_path": "sources/articles/ternary-bonsai-2-5-27b-gguf-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:36:17.680Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

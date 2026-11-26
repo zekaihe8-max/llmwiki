@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/company-agent-harness.md",
+    "topics/agent-worktree-cleanup.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "Paradev 定位为个人/团队层面的编程 Agent 调度工作台，与“个人 Agent 当包工头调度编程 Agent”主题高度相关。",
+    "topics/agent-scaled-engineering.md": "文章描述多个 Agent 并行运行并管理 Git 工作区，涉及智能体规模化工程的基建场景。",
+    "topics/company-agent-harness.md": "Paradev 提供 CLI、MCP 服务器与 SDK 驱动多个编程 Agent，属于 Agent Harness 类工具产品。",
+    "topics/agent-worktree-cleanup.md": "Paradev 核心机制是为每个 Agent 分配独立 Git worktree，与 worktree 使用主题直接相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Paradev 定位为个人/团队层面的编程 Agent 调度工作台，与“个人 Agent 当包工头调度编程 Agent”主题高度相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章描述多个 Agent 并行运行并管理 Git 工作区，涉及智能体规模化工程的基建场景。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Paradev 提供 CLI、MCP 服务器与 SDK 驱动多个编程 Agent，属于 Agent Harness 类工具产品。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "Paradev 核心机制是为每个 Agent 分配独立 Git worktree，与 worktree 使用主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 Paradev 仓库 README，未引入外部链接或未核实信息。"
+}

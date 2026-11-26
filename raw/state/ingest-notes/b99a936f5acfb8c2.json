@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/lab-inference-serving-cost-efficiency.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "文章讨论实时语音对话与全双工交互，与该主题高度相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章详述语音听写转文字与口头内容整理，属于语音输入范畴。",
+    "topics/pro-vs-flash-model-strategy.md": "文中引用 QwenCloud Flash 版定价，涉及 Pro 与 Flash 模型策略。",
+    "topics/lab-inference-serving-cost-efficiency.md": "文中披露按 token 计费的语音模型定价，涉及大厂推理服务成本与定价。"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "文章讨论实时语音对话与全双工交互，与该主题高度相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章详述语音听写转文字与口头内容整理，属于语音输入范畴。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中引用 QwenCloud Flash 版定价，涉及 Pro 与 Flash 模型策略。"
+    },
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中披露按 token 计费的语音模型定价，涉及大厂推理服务成本与定价。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 X 帖文 markdown，未引入外部信息或编造 URL。"
+}

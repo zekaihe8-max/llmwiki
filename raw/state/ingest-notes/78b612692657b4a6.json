@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/menubar-management-tool-gap.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/ai-assisted-local-businesses.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/menubar-management-tool-gap.md": "Mole 是 Mac 菜单栏工具，与 menubar 管理工具话题最相关。",
+    "topics/desktop-outfit-character-companions.md": "涉及桌面端工具与用户体验，属远程相关。",
+    "topics/ai-assisted-local-businesses.md": "Mole 为独立小型产品的限时促销，与本地小生意话题有弱相关。",
+    "topics/software-factory.md": "涉及软件产品发布与定价，与软件工厂话题有远程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "Mole 是 Mac 菜单栏工具，与 menubar 管理工具话题最相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "涉及桌面端工具与用户体验，属远程相关。"
+    },
+    {
+      "path": "topics/ai-assisted-local-businesses.md",
+      "action": "unchanged",
+      "reason": "Mole 为独立小型产品的限时促销，与本地小生意话题有弱相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及软件产品发布与定价，与软件工厂话题有远程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有信息仅来自提供的 X 帖文 Markdown，未访问外部链接或核实未在文中出现的事实。"
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/one-question-at-a-time.md",
+    "topics/reuse-before-write.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/open-source-in-ai-assistant-editing.md": "都涉及开源工具协助自然语言编辑与改写，与 SimpleEnglish 定位最接近。",
+    "topics/one-question-at-a-time.md": "都强调信息拆解与单一表达，与“一个词只表达一个意思、句子短、意思单一”相呼应。",
+    "topics/reuse-before-write.md": "都属于文档与写作效率类主题，可作为相邻话题参考。",
+    "topics/ux-dx-and-ax.md": "面向读者（包括非母语读者）的文档可读性属于体验设计范畴，与 DX/AX 相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "都涉及开源工具协助自然语言编辑与改写，与 SimpleEnglish 定位最接近。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "都强调信息拆解与单一表达，与“一个词只表达一个意思、句子短、意思单一”相呼应。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "都属于文档与写作效率类主题，可作为相邻话题参考。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "面向读者（包括非母语读者）的文档可读性属于体验设计范畴，与 DX/AX 相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

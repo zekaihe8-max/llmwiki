@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/claude-on-google-cloud.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "涉及 Claude 模型相关讨论，与 Opus 5.6 话题最为贴近",
+    "topics/claude-on-google-cloud.md": "同样围绕 Claude 模型生态，可复用现有条目",
+    "topics/claude-subscription-risk-control-weights.md": "属于 Claude 系列话题，与本文模型名称相关",
+    "topics/community-evals-vs-score-hype.md": "涉及社区对模型能力的主张与评价，适合对比未核实的“最强模型”说法"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "涉及 Claude 模型相关讨论，与 Opus 5.6 话题最为贴近"
+    },
+    {
+      "path": "topics/claude-on-google-cloud.md",
+      "action": "unchanged",
+      "reason": "同样围绕 Claude 模型生态，可复用现有条目"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "属于 Claude 系列话题，与本文模型名称相关"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区对模型能力的主张与评价，适合对比未核实的“最强模型”说法"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有未经独立核实的模型能力主张已在摘要中使用「帖文称」标注。"
+}

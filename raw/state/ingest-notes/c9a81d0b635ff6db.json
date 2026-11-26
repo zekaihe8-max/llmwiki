@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "Paseo 主打并行代理与多机 worktree，属于智能体规模化工程范畴。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "Paseo 可作为个人 Agent 调度 Claude Code、Codex 等编程 Agent 的包工头。",
+    "topics/multiagent-infra-four-problems.md": "Paseo 是多代理基础设施，涉及代理编排、工作区隔离与跨供应商互操作。",
+    "topics/agent-skill-authoring.md": "Paseo 提供 Skills（如 /paseo-handoff、/paseo-advisor、/paseo-committee），用于教导代理编排其他代理。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "Paseo 主打并行代理与多机 worktree，属于智能体规模化工程范畴。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Paseo 可作为个人 Agent 调度 Claude Code、Codex 等编程 Agent 的包工头。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Paseo 是多代理基础设施，涉及代理编排、工作区隔离与跨供应商互操作。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Paseo 提供 Skills（如 /paseo-handoff、/paseo-advisor、/paseo-committee），用于教导代理编排其他代理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于提供的 GitHub README 片段，未引用外部事实。"
+}

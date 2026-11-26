@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/mobile-agent-dev-full-chain.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "Happy 定位为团队级 Agent 挂载层，与公司级 Agent Harness 主题高度相关",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Happy 支持 Claude、Codex、Grok、Gemini 多模型路由与挂载，对应多 Harness 路由基建",
+    "topics/design-to-code-byo-subscriptions.md": "Happy 强调复用用户已付费的 Claude/Codex/Grok 订阅，符合自带订阅主题",
+    "topics/mobile-agent-dev-full-chain.md": "Happy 提供原生 iOS/Android 移动端 Agent 应用，与手机端 Agent 全链路开发主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Happy 定位为团队级 Agent 挂载层，与公司级 Agent Harness 主题高度相关"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Happy 支持 Claude、Codex、Grok、Gemini 多模型路由与挂载，对应多 Harness 路由基建"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "Happy 强调复用用户已付费的 Claude/Codex/Grok 订阅，符合自带订阅主题"
+    },
+    {
+      "path": "topics/mobile-agent-dev-full-chain.md",
+      "action": "unchanged",
+      "reason": "Happy 提供原生 iOS/Android 移动端 Agent 应用，与手机端 Agent 全链路开发主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is the GitHub README for slopus/happy; no external facts invented."
+}

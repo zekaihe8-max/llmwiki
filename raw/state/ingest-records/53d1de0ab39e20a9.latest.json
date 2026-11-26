@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:27:27.717Z",
+  "url": "https://x.com/vista8/status/2125843646130147811",
+  "slug": "53d1de0ab39e20a9",
+  "content_hash": "1bc3060ed6aa71f55d90270389b6ae39953bfd2bcac9ea1c6f50d2fd59e4ba2c",
+  "source": {
+    "path": "sources/articles/deepseek-one-key-unifies-models-asr-tts-and-search-subcast-mobil.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/deepseek-inference-vs-aggregators.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论面向 Agent 的模型渠道取舍，与统一 API Key 减少渠道碎片化相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "涉及云平台跨模型编排，与“一 Key 打通”多种 AI 能力的基建方向相近。"
+    },
+    {
+      "path": "topics/deepseek-inference-vs-aggregators.md",
+      "action": "unchanged",
+      "reason": "直接涉及 DeepSeek 自营推理与聚合平台，与帖文赞美 DeepSeek API 一 Key 多能力最相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "覆盖 UX、DX 与 AX，与用户不愿在多个界面填 API 设置的体验痛点相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/deepseek-inference-vs-aggregators.md": "直接涉及 DeepSeek 自营推理与聚合平台，与帖文赞美 DeepSeek API 一 Key 多能力最相关。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论面向 Agent 的模型渠道取舍，与统一 API Key 减少渠道碎片化相关。",
+    "topics/ux-dx-and-ax.md": "覆盖 UX、DX 与 AX，与用户不愿在多个界面填 API 设置的体验痛点相关。",
+    "topics/cloud-auto-model-routing.md": "涉及云平台跨模型编排，与“一 Key 打通”多种 AI 能力的基建方向相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/deepseek-one-key-unifies-models-asr-tts-and-search-subcast-mobil.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/deepseek-inference-vs-aggregators.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/deepseek-inference-vs-aggregators.md": "直接涉及 DeepSeek 自营推理与聚合平台，与帖文赞美 DeepSeek API 一 Key 多能力最相关。",
+      "topics/agent-model-channel-tradeoffs.md": "讨论面向 Agent 的模型渠道取舍，与统一 API Key 减少渠道碎片化相关。",
+      "topics/ux-dx-and-ax.md": "覆盖 UX、DX 与 AX，与用户不愿在多个界面填 API 设置的体验痛点相关。",
+      "topics/cloud-auto-model-routing.md": "涉及云平台跨模型编排，与“一 Key 打通”多种 AI 能力的基建方向相近。"
+    },
+    "notes": "所有主张均归属于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/deepseek-one-key-unifies-models-asr-tts-and-search-subcast-mobil.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

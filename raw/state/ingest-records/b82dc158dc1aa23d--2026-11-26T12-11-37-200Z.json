@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:11:37.200Z",
+  "url": "https://x.com/op7418/status/2125572602056048989",
+  "slug": "b82dc158dc1aa23d",
+  "content_hash": "85afba287e665ed694d3aeefb19583c80c4757cf3b613699c2ebd1a0d17e7c2f",
+  "source": {
+    "path": "sources/articles/grokbot-can-batch-block-harassing-users-along-relationship-chain.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/grok-bot-x-api-substitute.md",
+    "topics/grok-bot-x-intel-defense-not-post.md",
+    "topics/dsh-grok-cross-dispatch.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "批量拉黑用户与账号安全和社交卫生相关。"
+    },
+    {
+      "path": "topics/dsh-grok-cross-dispatch.md",
+      "action": "unchanged",
+      "reason": "都涉及 Grok Bot 与社区或平台的互动场景。"
+    },
+    {
+      "path": "topics/grok-bot-x-api-substitute.md",
+      "action": "unchanged",
+      "reason": "都涉及 Grok Bot 在 X 平台上的使用方式。"
+    },
+    {
+      "path": "topics/grok-bot-x-intel-defense-not-post.md",
+      "action": "unchanged",
+      "reason": "都涉及 Grok Bot 对 X 内容的处理与防护。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/grok-bot-x-api-substitute.md": "都涉及 Grok Bot 在 X 平台上的使用方式。",
+    "topics/grok-bot-x-intel-defense-not-post.md": "都涉及 Grok Bot 对 X 内容的处理与防护。",
+    "topics/dsh-grok-cross-dispatch.md": "都涉及 Grok Bot 与社区或平台的互动场景。",
+    "topics/account-and-asset-security-hygiene.md": "批量拉黑用户与账号安全和社交卫生相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grokbot-can-batch-block-harassing-users-along-relationship-chain.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/grok-bot-x-api-substitute.md",
+      "topics/grok-bot-x-intel-defense-not-post.md",
+      "topics/dsh-grok-cross-dispatch.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/grok-bot-x-api-substitute.md": "都涉及 Grok Bot 在 X 平台上的使用方式。",
+      "topics/grok-bot-x-intel-defense-not-post.md": "都涉及 Grok Bot 对 X 内容的处理与防护。",
+      "topics/dsh-grok-cross-dispatch.md": "都涉及 Grok Bot 与社区或平台的互动场景。",
+      "topics/account-and-asset-security-hygiene.md": "批量拉黑用户与账号安全和社交卫生相关。"
+    },
+    "notes": "源文仅为 X 帖文，其中关于马斯克推荐及账号影响的主张未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grokbot-can-batch-block-harassing-users-along-relationship-chain.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

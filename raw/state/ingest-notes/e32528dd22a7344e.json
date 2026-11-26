@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/programmable-edge-compute.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "本文聚焦本地可运行的小型开源助手模型，与 Aion 2.3B 的端侧定位直接相关。",
+    "topics/open-weight-frontier-models.md": "Aion 1.0 Instruct 为微软开源的开放权重模型，属此话题范畴。",
+    "topics/programmable-edge-compute.md": "Aion 专为端侧设备设计并计划集成进 Windows，涉及边缘/端侧计算落地。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本文聚焦本地可运行的小型开源助手模型，与 Aion 2.3B 的端侧定位直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Aion 1.0 Instruct 为微软开源的开放权重模型，属此话题范畴。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Aion 专为端侧设备设计并计划集成进 Windows，涉及边缘/端侧计算落地。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 26 日；Windows 集成时间表为帖文声称，未独立核实。"
+}

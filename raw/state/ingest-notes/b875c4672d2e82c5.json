@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/design-taste-led-linux-desktop-trial.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "文章聚焦设计师订阅工具与黑五折扣，与设计↔代码及自带订阅主题相近",
+    "topics/premium-ai-subscription-value.md": "涉及多款 AI 设计工具订阅优惠，与高端 AI 订阅价值评估相关",
+    "topics/design-taste-led-linux-desktop-trial.md": "内容属设计师工具类，与设计品味驱动的桌面试用主题较为接近"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章聚焦设计师订阅工具与黑五折扣，与设计↔代码及自带订阅主题相近"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及多款 AI 设计工具订阅优惠，与高端 AI 订阅价值评估相关"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "内容属设计师工具类，与设计品味驱动的桌面试用主题较为接近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于抓取的 markdown 内容整理，未引入外部事实"
+}

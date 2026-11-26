@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:26:10.126Z",
+  "url": "https://x.com/xiaomovps/status/2125890873238094143",
+  "slug": "9c2c57d58677fdbe",
+  "content_hash": "ba235b87c63b7e4dcda1bd616e5de0a6daa00995a945f7c3adc37cfe9c8e4f20",
+  "source": {
+    "path": "sources/articles/antigravity-plugin-marketplace-unifies-mcp-and-skills-supports-d.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/unified-agent-resource-library.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文反复提到 Skill 与 MCP 的打包安装，与该主题关于 Agent Skill 编写直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文提到权限默认 Ask、避免烧 5 小时额度，涉及编程 Agent 体验与额度问题。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "帖文描述的插件市场属于 Agent Harness 插件范畴，与该主题关于插件管控相关。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "帖文强调把 MCP、Skill 等收拢到一起，与跨 Agent 统一资源库的思路相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文反复提到 Skill 与 MCP 的打包安装，与该主题关于 Agent Skill 编写直接相关。",
+    "topics/loose-web-agent-harness-plugins.md": "帖文描述的插件市场属于 Agent Harness 插件范畴，与该主题关于插件管控相关。",
+    "topics/unified-agent-resource-library.md": "帖文强调把 MCP、Skill 等收拢到一起，与跨 Agent 统一资源库的思路相近。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文提到权限默认 Ask、避免烧 5 小时额度，涉及编程 Agent 体验与额度问题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-plugin-marketplace-unifies-mcp-and-skills-supports-d.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/unified-agent-resource-library.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文反复提到 Skill 与 MCP 的打包安装，与该主题关于 Agent Skill 编写直接相关。",
+      "topics/loose-web-agent-harness-plugins.md": "帖文描述的插件市场属于 Agent Harness 插件范畴，与该主题关于插件管控相关。",
+      "topics/unified-agent-resource-library.md": "帖文强调把 MCP、Skill 等收拢到一起，与跨 Agent 统一资源库的思路相近。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文提到权限默认 Ask、避免烧 5 小时额度，涉及编程 Agent 体验与额度问题。"
+    },
+    "notes": "所有主张均基于提供的帖文内容，未引入外部事实；未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-plugin-marketplace-unifies-mcp-and-skills-supports-d.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

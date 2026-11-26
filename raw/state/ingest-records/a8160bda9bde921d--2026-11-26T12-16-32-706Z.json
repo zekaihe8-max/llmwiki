@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:16:32.706Z",
+  "url": "https://x.com/dotey/status/2125748227790327906",
+  "slug": "a8160bda9bde921d",
+  "content_hash": "73af0383307c02146ccbd1968969d55534c1ba01235781e68eda9af61feabd76",
+  "source": {
+    "path": "sources/articles/two-days-after-jensen-huang-s-return-denny-s-rehangs-the-nvidia.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/incumbent-exit-successor-blame-metaphor.md",
+    "topics/ai-native-companies.md",
+    "topics/hunger-beats-tenure.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "英伟达是 AI 原生公司的代表，文章围绕其 CEO 与品牌记忆展开。"
+    },
+    {
+      "path": "topics/hunger-beats-tenure.md",
+      "action": "unchanged",
+      "reason": "复职叙事中隐含对创始人领导者个人影响力的强调，与“冲劲胜过资历”有远程关联。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "黄仁勋辞职又复职，涉及领导层离任与回归的叙事，与该主题的“先驱离任与继任背锅梗”最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/incumbent-exit-successor-blame-metaphor.md": "黄仁勋辞职又复职，涉及领导层离任与回归的叙事，与该主题的“先驱离任与继任背锅梗”最为贴近。",
+    "topics/ai-native-companies.md": "英伟达是 AI 原生公司的代表，文章围绕其 CEO 与品牌记忆展开。",
+    "topics/hunger-beats-tenure.md": "复职叙事中隐含对创始人领导者个人影响力的强调，与“冲劲胜过资历”有远程关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/two-days-after-jensen-huang-s-return-denny-s-rehangs-the-nvidia.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/incumbent-exit-successor-blame-metaphor.md",
+      "topics/ai-native-companies.md",
+      "topics/hunger-beats-tenure.md"
+    ],
+    "selection_reasons": {
+      "topics/incumbent-exit-successor-blame-metaphor.md": "黄仁勋辞职又复职，涉及领导层离任与回归的叙事，与该主题的“先驱离任与继任背锅梗”最为贴近。",
+      "topics/ai-native-companies.md": "英伟达是 AI 原生公司的代表，文章围绕其 CEO 与品牌记忆展开。",
+      "topics/hunger-beats-tenure.md": "复职叙事中隐含对创始人领导者个人影响力的强调，与“冲劲胜过资历”有远程关联。"
+    },
+    "notes": "以上内容严格依据所给文本，未引入外部事实或编造 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/two-days-after-jensen-huang-s-return-denny-s-rehangs-the-nvidia.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

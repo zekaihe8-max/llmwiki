@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-skill-authoring.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "帖文提到 Cindy 核心客户端保持简洁高效，同时社区插件众多，与“精简核心与社区扩展”主题高度相关。",
+    "topics/loose-web-agent-harness-plugins.md": "帖文介绍 Open Artifact 可集成到各种 Harness 并使用网页工具，与“宽松网页管控下的 Agent Harness 插件”相关。",
+    "topics/agent-skill-authoring.md": "帖文强调 Cindy 插件机制强大及社区插件提交，与 Agent Skill 编写主题相近。",
+    "topics/harness-plugin-style-fragmentation.md": "帖文涉及 Harness 插件集成，与 Harness 插件界面碎片化主题有上下文关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Cindy 核心客户端保持简洁高效，同时社区插件众多，与“精简核心与社区扩展”主题高度相关。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "帖文介绍 Open Artifact 可集成到各种 Harness 并使用网页工具，与“宽松网页管控下的 Agent Harness 插件”相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文强调 Cindy 插件机制强大及社区插件提交，与 Agent Skill 编写主题相近。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 Harness 插件集成，与 Harness 插件界面碎片化主题有上下文关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文内容，未核实部分已用「帖文称」标注；未引用文章外的事实或 URL。"
+}

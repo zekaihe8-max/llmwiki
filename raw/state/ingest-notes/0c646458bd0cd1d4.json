@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/interactive-world-models.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/code-over-spec.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章是 AI 驱动的视频制作全流程教程，涉及镜头规划、渲染、配乐、字幕与 ffmpeg 合成。",
+    "topics/interactive-world-models.md": "文中构建了可在浏览器中行走、驾驶并切换日夜的交互式三维城市，属于实时交互世界模型的实践。",
+    "topics/gpu-ai-compute-unlock.md": "作者使用自有 RTX 4090 服务器通过 SSH 运行 Blender 光线追踪渲染与语音合成，体现消费级 GPU 算力解锁。",
+    "topics/code-over-spec.md": "作者未手写代码，全部由 Claude Code 与 Codex 编写，人类仅做需求与审视，符合“代码重于规格”的 AI 编程模式。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章是 AI 驱动的视频制作全流程教程，涉及镜头规划、渲染、配乐、字幕与 ffmpeg 合成。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "文中构建了可在浏览器中行走、驾驶并切换日夜的交互式三维城市，属于实时交互世界模型的实践。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "作者使用自有 RTX 4090 服务器通过 SSH 运行 Blender 光线追踪渲染与语音合成，体现消费级 GPU 算力解锁。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "作者未手写代码，全部由 Claude Code 与 Codex 编写，人类仅做需求与审视，符合“代码重于规格”的 AI 编程模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自提供的 X 帖文正文，未引入外部信息。"
+}

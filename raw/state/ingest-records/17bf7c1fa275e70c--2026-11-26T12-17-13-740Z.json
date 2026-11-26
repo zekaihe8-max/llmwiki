@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:17:13.740Z",
+  "url": "https://x.com/oran_ge/status/2125789243134124334",
+  "slug": "17bf7c1fa275e70c",
+  "content_hash": "e648444fb7546925462e6dc2d301a0dd021cc8e9ceda9356b4ad837ecb9886f0",
+  "source": {
+    "path": "sources/articles/ai-flavor-removal-skill-collection-from-copywriting-to-logo-and.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/landing-page-site-clone-over-skill.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是分享可复用的 AI Skill 编写与使用资源，与该主题直接相关。"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "帖文反复提及专用 Skill 与设计复刻，与该主题的技能复用讨论相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及 UI 设计、Logo 与字体等用户体验与设计交付内容。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是分享可复用的 AI Skill 编写与使用资源，与该主题直接相关。",
+    "topics/ux-dx-and-ax.md": "涉及 UI 设计、Logo 与字体等用户体验与设计交付内容。",
+    "topics/landing-page-site-clone-over-skill.md": "帖文反复提及专用 Skill 与设计复刻，与该主题的技能复用讨论相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-flavor-removal-skill-collection-from-copywriting-to-logo-and.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/landing-page-site-clone-over-skill.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是分享可复用的 AI Skill 编写与使用资源，与该主题直接相关。",
+      "topics/ux-dx-and-ax.md": "涉及 UI 设计、Logo 与字体等用户体验与设计交付内容。",
+      "topics/landing-page-site-clone-over-skill.md": "帖文反复提及专用 Skill 与设计复刻，与该主题的技能复用讨论相近。"
+    },
+    "notes": "Source: X post by @oran_ge; all claims attributed to the post.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-flavor-removal-skill-collection-from-copywriting-to-logo-and.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

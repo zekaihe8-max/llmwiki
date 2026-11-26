@@ -1,0 +1,23 @@
+{
+  "slug": "18c9f57686a48c3b",
+  "url": "https://github.com/anomalyco/hex",
+  "title": "仓库",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "18c9f57686a48c3bdffb28543824f582195a3bd54f537cb670839fe879518a4c",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:25.586Z",
+  "content_hash": "dcca98db7e419894a15502be97e3f2eac65e14133066942f2f7ec5109554dada",
+  "article_path": "articles/18c9f57686a48c3b.md",
+  "fetched_url": "https://github.com/anomalyco/hex",
+  "source_path": "sources/articles/hex-local-voice-dictation-tool.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:34:29.475Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

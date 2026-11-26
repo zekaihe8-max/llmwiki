@@ -26,6 +26,112 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [Mole：原生 Mac 清理、软件管理与状态监控工具 / Mole: Native Mac Cleanup, Software Management, and Status Monitoring Utility](./sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md) — 一款原生 macOS 实用工具，整合缓存清理、应用卸载与更新、磁盘分析与实时系统状态监控。 / A native macOS utility integrating cache cleanup, app uninstall and updates, disk analysis, and live system status monitoring.
+
+- [Tw93 宣布 Mole 黑色星期五限时优惠 / Tw93 Announces Mole Black Friday Limited-Time Discount](./sources/articles/tw93-announces-mole-black-friday-limited-time-discount.md) — Tw93 在 X 上发布 Mole Mac 与 PC 清理更新工具的年度黑五优惠，20% 折后 15.20 美元，截止 12 月 1 日。 / Tw93 announces on X the annual Black Friday discount for Mole, a Mac and PC cleaning and update tool, 20% off at $15.20, valid until December 1.
+
+- [腾讯开源 DFly2 草稿模型，Hy4 Flash 推理提速超 3 倍 / Tencent open-sources DFly2 draft model, Hy4 Flash inference speeds up over 3x](./sources/articles/tencent-open-sources-dfly2-draft-model-hy4-flash-inference-speed.md) — 腾讯发布约 8.5 亿参数的 DFly2 草稿模型开源方案，并通过 AngelSlim 将 Hy4 Flash 压缩至 135GB，显著提升推理速度。 / Tencent releases the open-source DFly2 draft model of about 850 million parameters and compresses Hy4 Flash to 135GB via AngelSlim, significantly boosting inference speed.
+
+- [微软 Aion-1.0-Instruct-2.3B 模型页 / Microsoft Aion-1.0-Instruct-2.3B Model Page](./sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md) — 微软在 Hugging Face 上发布的 23 亿参数端侧指令调优小语言模型页面。 / Microsoft's 2.3B-parameter on-device instruction-tuned small language model page on Hugging Face.
+
+- [微软开源 Aion 1.0 Instruct（2.3B 端侧模型） / Microsoft Open-Sources Aion 1.0 Instruct (2.3B On-Device Model)](./sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md) — 微软开源仅 2.3B 参数、支持 32K 上下文的 Aion 1.0 Instruct，面向端侧设备，并计划于 2027 年 1 月底集成进 Windows。 / Microsoft open-sources the 2.3B-parameter Aion 1.0 Instruct with 32K context, targeting on-device devices, with optimized versions slated for Windows integration at the end of January 2027.
+
+- [Ternary Bonsai 2.5 27B GGUF 模型 / Ternary Bonsai 2.5 27B GGUF Model](./sources/articles/ternary-bonsai-2-5-27b-gguf-model.md) — Prism-ML 在 Hugging Face 发布 Ternary Bonsai 2.5 27B 的 GGUF 发布文件与模型卡。 / Prism-ML releases GGUF release files and model cards for Ternary Bonsai 2.5 27B on Hugging Face.
+
+- [PrismML 开源 Ternary Bonsai 2.5 27B 模型 / PrismML Open-Sources Ternary Bonsai 2.5 27B Model](./sources/articles/prismml-open-sources-ternary-bonsai-2-5-27b-model.md) — 基于 Qwen3.8 27B，三值量化压缩至 1/9 体积，仅需 5.9GB 显存即可运行，强化自主编程与长周期任务能力。 / Based on Qwen3.8 27B, ternary quantization compresses to 1/9 size, runs in 5.9GB VRAM, enhancing autonomous programming and long-horizon tasks.
+
+- [Hex 本地语音听写工具 / Hex Local Voice Dictation Tool](./sources/articles/hex-local-voice-dictation-tool.md) — 一款在 Mac、Windows 和 Linux 上运行的本地语音听写工具，按住快捷键说话后自动将转写文字粘贴到当前应用。 / A local voice dictation tool for Mac, Windows and Linux that holds a shortcut to speak and pastes transcribed text into the current app.
+
+- [Hex 开源本地语音输入法 / Hex Open-Source Local Voice Input Method](./sources/articles/hex-open-source-local-voice-input-method.md) — Gorden Sun 发文介绍 OpenCode 开源的 Hex 语音输入法，支持多模型本地转录及跨平台使用 / Gorden Sun posted about OpenCode's open-source Hex voice input method, supporting multi-model local transcription and cross-platform use
+
+- [铁锤人推荐 5 款可接 Claude Code 与 Codex 的开源编程工具 / Iron Hammer Man recommends 5 open-source programming tools that connect to Claude Code and Codex](./sources/articles/iron-hammer-man-recommends-5-open-source-programming-tools-that.md) — 帖文称铁锤人列举 Orca、Herdr、Paseo、Happy、Paradev 五款开源编程工具，均可直接接入 Claude Code 和 Codex 订阅，无需额外付费。 / The post says Iron Hammer Man lists five open-source programming tools—Orca, Herdr, Paseo, Happy, and Paradev—that can connect directly to Claude Code and Codex subscriptions without extra fees.
+
+- [Paradev：面向 Claude Code 与 Codex 的开源并行编程 Agent 工作区 / Paradev: Open-source parallel coding agent workspace for Claude Code and Codex](./sources/articles/paradev-open-source-parallel-coding-agent-workspace-for-claude-c.md) — Paradev 是一个开源工作区，可并行运行 Claude Code、Codex 等编程 Agent，每个 Agent 独立使用 Git worktree 和分支。 / Paradev is an open-source workspace that runs Claude Code, Codex, and other coding agents in parallel, with each agent using its own Git worktree and branch.
+
+- [Happy Engineering 仓库 / Happy Engineering](./sources/articles/happy-engineering.md) — Happy 是一个开源 MIT 许可的多模型 AI 编程 Agent 工具，支持 Claude、Codex、Grok、Gemini 等模型，并提供移动端同步与多人协作。 / Happy is an open-source MIT-licensed multi-model AI coding agent tool supporting Claude, Codex, Grok, Gemini, with mobile sync and multiplayer collaboration.
+
+- [Paseo：面向多代理的开源代理式开发环境 / Paseo: Open Source Agentic Development Environment for Multiple Agents](./sources/articles/paseo-open-source-agentic-development-environment-for-multiple-a.md) — Paseo 是一个面向桌面、移动端、Web 和 CLI 的开源代理式开发环境，支持 Claude Code、Codex、Copilot 等多代理并行与编排。 / Paseo is an open-source agentic development environment for desktop, mobile, web, and CLI, supporting parallel agents and orchestration across Claude Code, Codex, Copilot, and more.
+
+- [Herdr：编程 Agent 的终端运行时 / Herdr: Terminal Runtime for Coding Agents](./sources/articles/herdr-terminal-runtime-for-coding-agents.md) — 一个用 Rust 编写的终端运行时，让编程 Agent 在后台持续运行，支持多机会话、窗格状态标记、CLI/Socket API 驱动及插件扩展。 / A Rust-based terminal runtime that keeps coding agents running in the background, supports multi-machine sessions, pane status marking, CLI/Socket API driving, and plugin extensions.
+
+- [Orca：Agent IDE 中的机器人 / Orca: Bots inside your agent IDE](./sources/articles/orca-bots-inside-your-agent-ide.md) — Orca 是一个开源 Agent IDE，支持在 Slack 或手机中与 Claude Code、Codex 等 CLI 智能体交互，并提供编排、工作区、Git 集成等功能。 / Orca is an open-source agent IDE that lets you interact with CLI agents such as Claude Code and Codex from Slack or mobile, with orchestration, workspaces, and Git integration.
+
+- [他上手了 DeepSeek Harness 官方桌面端，觉得比 Web 和 CLI 更香 / He tried the official DeepSeek Harness desktop client and found it better than Web and CLI](./sources/articles/he-tried-the-official-deepseek-harness-desktop-client-and-found.md) — 帖文称 DeepSeek Harness 官方桌面端零配置开箱即用、支持后台自动化并可用 DeepSeek 账号登录，体验优于 Web/CLI 版。 / The post claims the official DeepSeek Harness desktop client is zero-config and ready out of the box, supports background automation, and logs in with a DeepSeek account, offering a better experience than Web/CLI versions.
+
+- [多账号运行 Amp：云端绑定多个 Claude 与模型 / Run multiple accounts on Amp: cloud-bound Claude and models](./sources/articles/run-multiple-accounts-on-amp-cloud-bound-claude-and-models.md) — Dingyi 推荐 Amp 绑定多个 Claude 账号与多种模型，子任务可自由选型，全部线程在云端运行，无需多台远程设备。 / Dingyi recommends Amp to bind multiple Claude accounts and various models, letting subtasks choose freely, with all threads running in the cloud without multiple remote devices.
+
+- [设计师黑五优惠汇总 2026 / Black Friday Deals for Designers 2026](./sources/articles/black-friday-deals-for-designers-2026.md) — 汇总 2026 年黑五面向设计师的 89 款软件、字体、图标等工具折扣信息 / Aggregates 89 Black Friday 2026 discounts for designers across software, fonts, icons, and other tools
+
+- [他更新了今年的设计师版黑五优惠表 / He updated this year's designer Black Friday discount list](./sources/articles/he-updated-this-year-s-designer-black-friday-discount-list.md) — 丁丁通过 Agent 几句话更新了设计师版黑五产品优惠表，不再手动维护 Notion。 / Ding updated this year's designer Black Friday product discount list via an Agent with a few sentences, no longer manually maintaining Notion.
+
+- [Tabbit AI 浏览器：支持 Chrome 数据导入与 CLI 控制的跨平台 AI 浏览器 / Tabbit AI Browser: Cross-platform AI Browser Supporting Chrome Data Import and CLI Control](./sources/articles/tabbit-ai-browser-cross-platform-ai-browser-supporting-chrome-da.md) — 用户体验 Tabbit AI 浏览器后称相见恨晚，支持导入 Chrome Cookie、插件与书签，并通过 CLI 操控浏览器实现人机共用。 / After trying Tabbit AI Browser, a user says it was long-awaited; it supports importing Chrome cookies, plugins and bookmarks, and CLI browser control for human-machine sharing.
+
+- [DeepSeek 一 Key 打通大模型、ASR、TTS 与搜索，Subcast 移动版开发感触 / DeepSeek One Key Unifies Models, ASR, TTS and Search; Subcast Mobile Development Impressions](./sources/articles/deepseek-one-key-unifies-models-asr-tts-and-search-subcast-mobil.md) — 帖文称 DeepSeek API 只需一个 Key 即可支持大模型、ASR、TTS 和搜索，作者正在开发 Subcast 移动版并感叹用户不愿到处填 API 设置。 / The post says DeepSeek API needs only one key to support models, ASR, TTS and search; the author is developing Subcast mobile and laments that users do not want to fill API settings everywhere.
+
+- [Pi 跟进了 Program Resume Protocol（OSC 7577） / Pi Adopts Program Resume Protocol (OSC 7577)](./sources/articles/pi-adopts-program-resume-protocol-osc-7577.md) — Pi 终端引入 OSC 7577 协议，支持会话中断后自动恢复 / Pi terminal adopts OSC 7577 protocol to support automatic session recovery after interruption
+
+- [日常写代码，先装这 5 个 MCP 就够了 / Five MCP Servers Are Enough for Daily Coding](./sources/articles/five-mcp-servers-are-enough-for-daily-coding.md) — Antigravity 原生支持 MCP 插件市场，官方与社区推荐 5 个实用 MCP 覆盖文档、开源项目、GitHub 协作、数据库与设计稿，日常开发保留前 3 个即可。 / Antigravity natively supports an MCP plugin marketplace; five recommended MCP servers cover docs, open-source repos, GitHub collaboration, databases, and design files, with the first three sufficient for daily development.
+
+- [Antigravity 插件市场统一 MCP 与 Skill，支持桌面 CLI 一键安装与同步 / Antigravity Plugin Marketplace Unifies MCP and Skills, Supports Desktop-CLI One-Click Install and Sync](./sources/articles/antigravity-plugin-marketplace-unifies-mcp-and-skills-supports-d.md) — 谷歌 Antigravity（AGY）插件市场把 MCP、Skills、Rules、Hooks 与自定义 Agent 打包为一键安装插件，并支持桌面端与命令行同步。 / Google Antigravity (AGY) Plugin Marketplace bundles MCP, Skills, Rules, Hooks and custom Agents into one-click install plugins, with desktop and CLI synchronization.
+
+- [用户称自己是合作受害者，点名 Qoder 与通义回应账号安全 / User claims to be collaboration victim, calls on Qoder and Tongyi to respond to account security](./sources/articles/user-claims-to-be-collaboration-victim-calls-on-qoder-and-tongyi.md) — 用户 @cgnot996 自称合作受害者，点名 Qoder 和阿里通义，要求调查账号安全并警惕未经授权的数据优化。 / User @cgnot996 claims to be a collaboration victim, naming Qoder and Alibaba Qwen to investigate account security and warning against unauthorized data optimization.
+
+- [2026 黑五海外 AI 订阅全盘点：各场景最省心选购指南 / 2026 Black Friday Overseas AI Subscription Roundup: Easiest Purchase Guide by Scenario](./sources/articles/2026-black-friday-overseas-ai-subscription-roundup-easiest-purch.md) — 黑五期间只有 Google AI、X Premium、ElevenLabs 和 Suno 四家海外 AI 平台真降价，OpenAI、Anthropic、Midjourney 等未动 / During Black Friday, only four overseas AI platforms—Google AI, X Premium, ElevenLabs, and Suno—actually lowered prices; OpenAI, Anthropic, Midjourney, and others did not change prices
+
+- [AI 个人助理接管一日三餐 / AI Personal Assistant Takes Over Daily Three Meals](./sources/articles/ai-personal-assistant-takes-over-daily-three-meals.md) — 普通用户借 Grok bot 等个人助理管理一日三餐，体验绑定后难以回退。 / Ordinary users use Grok bot and other personal assistants to manage daily meals, and the binding experience makes retreat difficult.
+
+- [试用 Claude 个人助理 Duet / Trying Claude's Personal Assistant Duet](./sources/articles/trying-claude-s-personal-assistant-duet.md) — 用户在 X 上发帖称终于轮到自己试用 Claude 的个人助理 Duet。 / The user posts on X that it is finally their turn to try Claude's personal assistant Duet.
+
+- [AI 原生公司定义补充：信息反馈与商业模拟环境 / Supplement to AI Native Company Definition: Information Feedback and Business Simulation Environments](./sources/articles/supplement-to-ai-native-company-definition-information-feedback.md) — 帖文称 AI 原生公司不应仅定义为人与 Agent 协作，而应聚焦信息反馈及为商业构建模拟环境的语言结构，并预测到 2030 年每家公司都将成为 RL 环境公司。 / The post argues that AI Native companies should not be defined merely by human–Agent collaboration, but by information feedback and language structures for building simulation environments for business itself, predicting that by 2030 every company will be an RL environment company.
+
+- [他给 AI 原生公司下了一个很短的定义 / A Very Short Definition of an AI-Native Company](./sources/articles/a-very-short-definition-of-an-ai-native-company.md) — 帖文称智慧是先验数据、想象是模拟环境、执行与 harness 是性格韧性，从而悟出如何创建 AI 原生公司。 / The post claims wisdom is prior data, imagination is simulation environment, and execution plus harness is character resilience, revealing how to create an AI-native company.
+
+- [《影之刃零》主创：除代码外几乎不沾 AI，因 AI 易给人廉价感 / Shadow Blade Zero Creator: Almost No AI Beyond Coding Because AI Feels Cheap](./sources/articles/shadow-blade-zero-creator-almost-no-ai-beyond-coding-because-ai.md) — 帖文称《影之刃零》主创表示游戏除写代码外几乎未使用 AI，认为 AI 制作会带来廉价感，尤其独立游戏玩家为偏执品味买单。 / The post says the Shadow Blade Zero creator stated that apart from coding, the game uses almost no AI, because AI-made content feels cheap, especially for indie games where players pay for obsessive taste.
+
+- [36 种构图的电影级海报设计 / 36 Cinematic Poster Composition Layouts](./sources/articles/36-cinematic-poster-composition-layouts.md) — 从 36 种版式中挑选适合影片的构图，并给出片名层级、配色、提示词或成品海报。 / Choose a composition from 36 layouts suited to a film, with title hierarchy, color, prompts, or finished posters.
+
+- [从需求梳理到交付的完整标志设计流程 / Complete Logo Design Process from Requirement Sorting to Delivery](./sources/articles/complete-logo-design-process-from-requirement-sorting-to-deliver.md) — 从设计简报到成品 SVG 的标志设计全流程，含几何构图、视觉修正、多版本测试与开发交付规范 / Full logo design workflow from brief to finished SVG, covering geometric composition, visual correction, multi-version testing, and developer delivery specs
+
+- [让 AI 写界面时守住你的设计规范 / Keep Your Design Specs Intact When Letting AI Write Interfaces](./sources/articles/keep-your-design-specs-intact-when-letting-ai-write-interfaces.md) — 将设计决策编译为 AI 助手每次必读的项目规范，并在渲染后回头检查与打分。 / Compile design decisions into project rules that AI assistants read every time, then check and score rendered results.
+
+- [先定设计系统再写代码的界面设计 / Interface Design: Define the Design System Before Writing Code](./sources/articles/interface-design-define-the-design-system-before-writing-code.md) — 先敲定配色、排版与间距等设计系统，再落地组件代码，打造有辨识度的界面。 / Define the design system—colors, typography, spacing—before writing component code to build recognizable interfaces.
+
+- [把文档写成谁都读得懂的英文 / SimpleEnglish: Write Documents Everyone Can Understand](./sources/articles/simpleenglish-write-documents-everyone-can-understand.md) — 基于航空受控英语规范，用短句、主动语态和术语解释把技术文档改写成非母语读者也能看懂的英文。 / Rewrite technical documentation into plain English using aviation controlled-language rules: short sentences, active voice, and first-use term explanations for non-native readers.
+
+- [把机器味重的文字改回人写的语气 / ste80-humanizer: Rewrite machine-sounding text into human tone](./sources/articles/ste80-humanizer-rewrite-machine-sounding-text-into-human-tone.md) — 两遍改写：先清除机器写作习惯，再按受控英语重搭句子，让文本更像人写。 / Two-pass rewriting: first remove machine-writing habits, then rebuild sentences with controlled English to make text sound human.
+
+- [去 AI 味 Skill 合集：从文案到 Logo 与字体设计 / AI-Flavor Removal Skill Collection: From Copywriting to Logo and Font Design](./sources/articles/ai-flavor-removal-skill-collection-from-copywriting-to-logo-and.md) — 帖文整理六项去 AI 味 Skill，涵盖文案改写、受控英语、UI 设计、设计规则、Logo 测试与电影海报排版。 / The post compiles six AI-flavor removal skills covering copy rewriting, controlled English, UI design, design rules, logo testing, and movie poster layout.
+
+- [黄仁勋复职两天后，Denny's 把「英伟达诞生卡座」的铭牌挂了回去 / Two days after Jensen Huang's return, Denny's rehangs the "NVIDIA founding booth" plaque](./sources/articles/two-days-after-jensen-huang-s-return-denny-s-rehangs-the-nvidia.md) — Denny's 在英伟达 CEO 黄仁勋复职后重新挂上纪念英伟达诞生的卡座铭牌，并邀请他回店喝免费咖啡。 / Denny's rehung the plaque commemorating NVIDIA's founding at its San Jose booth after CEO Jensen Huang returned, inviting him back for free coffee.
+
+- [Cindy 即将集成 /artifacts，支持文档、幻灯片、白板和网页制作 / Cindy to integrate /artifacts for documents, slides, whiteboards and web pages](./sources/articles/cindy-to-integrate-artifacts-for-documents-slides-whiteboards-an.md) — 宝玉预告 Cindy 即将集成开源项目 Open Artifact，可直接制作文档、幻灯片、白板和设计网页，并强化插件生态。 / Bao Yu previews that Cindy will integrate open-source Open Artifact to directly create documents, slides, whiteboards and design web pages, while strengthening the plugin ecosystem.
+
+- [宝玉转发 Opus 5.6 灰度版 AI 演示网页及完整提示词 / Bao Yu reposts Opus 5.6 gray-scale AI presentation webpage and full prompt](./sources/articles/bao-yu-reposts-opus-5-6-gray-scale-ai-presentation-webpage-and-f.md) — 帖文称 Opus 5.6 灰度版制作了一份关于 AI 未来与智能爆炸的精美演示网页，并附上录屏与提示词。 / The post claims an Opus 5.6 gray-scale version produced a polished webpage presentation on AI's future and intelligence explosion, with screen recording and prompt included.
+
+- [黑苹果重生：AI 让非苹果硬件重新运行 macOS / The Hackintosh Reborn... with AI](./sources/articles/the-hackintosh-reborn-with-ai.md) — 帖文称 AI 编程工具让 Hackintosh 社区重获活力，使在非苹果硬件上运行最新 macOS 成为可能。 / The post says AI coding tools have revived the Hackintosh community, making it possible to run the latest macOS on non-Apple hardware again.
+
+- [黑苹果这波反而是 AI 给撬开的 / Hackintosh Is Being Pried Open by AI This Time](./sources/articles/hackintosh-is-being-pried-open-by-ai-this-time.md) — AI 辅助逆向工具让普通极客能在非苹果硬件上运行 macOS，黑苹果重获生机 / AI-assisted reverse engineering tools enable ordinary geeks to run macOS on non-Apple hardware, reviving Hackintosh
+
+- [Qwen-Audio-3.1 补齐听写、配音与实时对话，主攻多语言和中文方言 / Qwen-Audio-3.1 Completes ASR, TTS, and Realtime Speech, Targeting Multilingual and Chinese Dialects](./sources/articles/qwen-audio-3-1-completes-asr-tts-and-realtime-speech-targeting-m.md) — 阿里 Qwen-Audio-3.1 升级后支持 59 种语言及 8 种中文方言听写，65 种语言及 6 种方言配音，以及 53 种语言及 6 种方言实时对话。 / Alibaba's Qwen-Audio-3.1 upgrade adds ASR across 59 languages and 8 Chinese dialects, TTS across 65 languages and 6 dialects, and real-time speech across 53 languages and 6 dialects.
+
+- [Linus 因 4 万多行 AI 更新发飙，ext4 维护者 Ted 遭公开斥责 / Linus Torvalds blows up over 40,000+ line AI-assisted update, ext4 maintainer Ted publicly scolded](./sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md) — Linus 因临近 Linux 7.4 发版前合入大量 AI 生成的 ext4 代码与测试而怒斥维护者，强调修 bug 不得引入新 bug。 / Linus Torvalds blasted an ext4 maintainer for merging 40,000+ lines of AI-assisted changes and tests near the Linux 7.4 release, warning that bug fixes must not introduce new bugs.
+
+- [Astra 开 Blender / Astra Opens Blender](./sources/articles/astra-opens-blender.md) — 帖文称 GPT 6.2 Astra 被要求剪辑视频时启动 Blender，疑似在 3D 任务上过度训练。 / The post says GPT 6.2 Astra launched Blender when asked to edit a video, apparently overtrained on 3D tasks.
+
+- [Grokbot 可沿关系链批量拉黑骚扰用户 / Grokbot Can Batch-Block Harassing Users Along Relationship Chain](./sources/articles/grokbot-can-batch-block-harassing-users-along-relationship-chain.md) — 帖文称 Grokbot 可顺骚扰用户关系链把相关人一并拉黑，且马斯克曾推荐此用法。 / The post claims Grokbot can block related users along a harasser's relationship chain, and that Musk has recommended this usage.
+
+- [歸藏回应 t3 Code 转推：仅批评部分简中 AI 博主，不扩大到全体中国人 / Guizang responds to t3 Code retweet: criticizes only some Simplified Chinese AI bloggers, not all Chinese people](./sources/articles/guizang-responds-to-t3-code-retweet-criticizes-only-some-simplif.md) — 歸藏澄清其关于 t3 Code 的转推仅针对“一些简中 Twitter AI 博主”，并拒绝将批评扩大到整个中文社区或全体中国人。 / Guizang clarifies that his t3 Code retweet targeted only 'some Simplified Chinese Twitter AI bloggers' and refuses to extend the criticism to the entire Chinese community or all Chinese people.
+
+- [原演示：Opus 5.6 与《The Last Boring Slide》 / Original Demo: Opus 5.6 and "The Last Boring Slide"](./sources/articles/original-demo-opus-5-6-and-the-last-boring-slide.md) — 帖文称 Opus 5.6 是作者用过的最强大模型，并分享了一个名为《The Last Boring Slide》的 Claude 艺术品演示。 / The post claims Opus 5.6 is the most powerful model the author has used and shares a Claude Artifact demo titled "The Last Boring Slide."
+
+- [据传 Opus 5.6 制作「PPT」，每页皆为完整 3D 场景 / Rumored Opus 5.6-made “PPT” with every page a full 3D scene](./sources/articles/rumored-opus-5-6-made-ppt-with-every-page-a-full-3d-scene.md) — 一条 X 帖文称据传由 Opus 5.6 制作的 PPT 每页为完整 3D 场景，并附 5M 单网页文件代码，但底层模型未经证实。 / An X post claims a rumored Opus 5.6-made PPT has every page as a full 3D scene, with 5 MB single-page HTML code, though the underlying model is unverified.
+
+- [数字人「希加加」用 GTA 6 采访老黄，全程 AI 生成 / Digital human "Xiajiajia" interviews Jensen Huang with GTA 6, entirely AI-generated](./sources/articles/digital-human-xiajiajia-interviews-jensen-huang-with-gta-6-entir.md) — 数字人「希加加」借 GTA 6 采访英伟达 CEO 老黄，追问卸任与回归间的 11 天，帖文称全程 AI 生成、非本人。 / Digital human "Xiajiajia" interviews NVIDIA CEO Jensen Huang using GTA 6, probing the 11 days between resignation and return; the post says the drama is entirely AI-generated and not the real person.
+
+- [肝了 4 天 4 夜，Fable5.2+Blender 造出一座 2K 的曼哈顿｜地图、地标、镜头、渲染、配乐剪辑保姆级教程 / 4 Days 4 Nights: Building a Walkable 2K Manhattan with Fable 5.2 and Blender](./sources/articles/4-days-4-nights-building-a-walkable-2k-manhattan-with-fable-5-2.md) — 帖文称，作者用 Claude Code、Codex、OpenStreetMap、Three.js、Tripo、Blender、RTX 4090 服务器、CosyVoice 和 ffmpeg，四天搭出可在浏览器中漫游的 2K 曼哈顿中城并渲染成片。 / The post claims the author used Claude Code, Codex, OpenStreetMap, Three.js, Tripo, Blender, an RTX 4090 server, CosyVoice and ffmpeg to build a browser-walkable 2K Midtown Manhattan in four days and render a short film.
+
+- [他把斯坦福新书做成 Prompt，先给自己写出一本《个人意义设计手册》 / He turned Stanford's new book into a Prompt, first writing a "Personal Meaning Design Manual" for himself](./sources/articles/he-turned-stanford-s-new-book-into-a-prompt-first-writing-a-pers.md) — 数字生命卡兹克将斯坦福《人生意义设计课》转化为可与 AI 对话的 Prompt，引导用户分四阶段、六到九个问题生成专属《个人意义设计手册》。 / Digital Life Kha'Zix converts Stanford's "Designing Meaning in Life" into a conversational AI Prompt, guiding users through four stages and six to nine questions to generate a personal "Meaning Design Manual".
+
 - [Gemini API 命令行工具 (gemini-api) / Gemini API CLI (gemini-api)](./sources/articles/gemini-api-cli-gemini-api.md) — 一个面向代理和脚本的无状态命令行工具，让代理通过 shell 调用 Gemini 模型与托管代理。 / A stateless command-line tool for agents and scripts to call Gemini models and managed agents via shell.
 
 - [Logan Kilpatrick 推 Gemini API CLI，供编程 Agent 调用 Gemini Neon 等模型 / Logan Kilpatrick Promotes Gemini API CLI for Coding Agents to Call Gemini Neon and Other Models](./sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md) — Logan Kilpatrick 发帖称，Google DeepMind 已推出开源 Gemini API CLI，仅需 API Key 即可让编程代理调用 Gemini Neon 及全部模型。 / Logan Kilpatrick posted that Google DeepMind has released the open-source Gemini API CLI, requiring only an API key to let coding agents call Gemini Neon and all models.

@@ -1,5 +1,111 @@
 ## 2026-11-26
 
+* **创建 / Creation**: 归档 [Mole：原生 Mac 清理、软件管理与状态监控工具](./sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md)。 / Filed [Mole: Native Mac Cleanup, Software Management, and Status Monitoring Utility](./sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md).
+
+* **创建 / Creation**: 归档 [Tw93 宣布 Mole 黑色星期五限时优惠](./sources/articles/tw93-announces-mole-black-friday-limited-time-discount.md)。 / Filed [Tw93 Announces Mole Black Friday Limited-Time Discount](./sources/articles/tw93-announces-mole-black-friday-limited-time-discount.md).
+
+* **创建 / Creation**: 归档 [腾讯开源 DFly2 草稿模型，Hy4 Flash 推理提速超 3 倍](./sources/articles/tencent-open-sources-dfly2-draft-model-hy4-flash-inference-speed.md)。 / Filed [Tencent open-sources DFly2 draft model, Hy4 Flash inference speeds up over 3x](./sources/articles/tencent-open-sources-dfly2-draft-model-hy4-flash-inference-speed.md).
+
+* **创建 / Creation**: 归档 [微软 Aion-1.0-Instruct-2.3B 模型页](./sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md)。 / Filed [Microsoft Aion-1.0-Instruct-2.3B Model Page](./sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md).
+
+* **创建 / Creation**: 归档 [微软开源 Aion 1.0 Instruct（2.3B 端侧模型）](./sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md)。 / Filed [Microsoft Open-Sources Aion 1.0 Instruct (2.3B On-Device Model)](./sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md).
+
+* **创建 / Creation**: 归档 [Ternary Bonsai 2.5 27B GGUF 模型](./sources/articles/ternary-bonsai-2-5-27b-gguf-model.md)。 / Filed [Ternary Bonsai 2.5 27B GGUF Model](./sources/articles/ternary-bonsai-2-5-27b-gguf-model.md).
+
+* **创建 / Creation**: 归档 [PrismML 开源 Ternary Bonsai 2.5 27B 模型](./sources/articles/prismml-open-sources-ternary-bonsai-2-5-27b-model.md)。 / Filed [PrismML Open-Sources Ternary Bonsai 2.5 27B Model](./sources/articles/prismml-open-sources-ternary-bonsai-2-5-27b-model.md).
+
+* **创建 / Creation**: 归档 [Hex 本地语音听写工具](./sources/articles/hex-local-voice-dictation-tool.md)。 / Filed [Hex Local Voice Dictation Tool](./sources/articles/hex-local-voice-dictation-tool.md).
+
+* **创建 / Creation**: 归档 [Hex 开源本地语音输入法](./sources/articles/hex-open-source-local-voice-input-method.md)。 / Filed [Hex Open-Source Local Voice Input Method](./sources/articles/hex-open-source-local-voice-input-method.md).
+
+* **创建 / Creation**: 归档 [铁锤人推荐 5 款可接 Claude Code 与 Codex 的开源编程工具](./sources/articles/iron-hammer-man-recommends-5-open-source-programming-tools-that.md)。 / Filed [Iron Hammer Man recommends 5 open-source programming tools that connect to Claude Code and Codex](./sources/articles/iron-hammer-man-recommends-5-open-source-programming-tools-that.md).
+
+* **创建 / Creation**: 归档 [Paradev：面向 Claude Code 与 Codex 的开源并行编程 Agent 工作区](./sources/articles/paradev-open-source-parallel-coding-agent-workspace-for-claude-c.md)。 / Filed [Paradev: Open-source parallel coding agent workspace for Claude Code and Codex](./sources/articles/paradev-open-source-parallel-coding-agent-workspace-for-claude-c.md).
+
+* **创建 / Creation**: 归档 [Happy Engineering 仓库](./sources/articles/happy-engineering.md)。 / Filed [Happy Engineering](./sources/articles/happy-engineering.md).
+
+* **创建 / Creation**: 归档 [Paseo：面向多代理的开源代理式开发环境](./sources/articles/paseo-open-source-agentic-development-environment-for-multiple-a.md)。 / Filed [Paseo: Open Source Agentic Development Environment for Multiple Agents](./sources/articles/paseo-open-source-agentic-development-environment-for-multiple-a.md).
+
+* **创建 / Creation**: 归档 [Herdr：编程 Agent 的终端运行时](./sources/articles/herdr-terminal-runtime-for-coding-agents.md)。 / Filed [Herdr: Terminal Runtime for Coding Agents](./sources/articles/herdr-terminal-runtime-for-coding-agents.md).
+
+* **创建 / Creation**: 归档 [Orca：Agent IDE 中的机器人](./sources/articles/orca-bots-inside-your-agent-ide.md)。 / Filed [Orca: Bots inside your agent IDE](./sources/articles/orca-bots-inside-your-agent-ide.md).
+
+* **创建 / Creation**: 归档 [他上手了 DeepSeek Harness 官方桌面端，觉得比 Web 和 CLI 更香](./sources/articles/he-tried-the-official-deepseek-harness-desktop-client-and-found.md)。 / Filed [He tried the official DeepSeek Harness desktop client and found it better than Web and CLI](./sources/articles/he-tried-the-official-deepseek-harness-desktop-client-and-found.md).
+
+* **创建 / Creation**: 归档 [多账号运行 Amp：云端绑定多个 Claude 与模型](./sources/articles/run-multiple-accounts-on-amp-cloud-bound-claude-and-models.md)。 / Filed [Run multiple accounts on Amp: cloud-bound Claude and models](./sources/articles/run-multiple-accounts-on-amp-cloud-bound-claude-and-models.md).
+
+* **创建 / Creation**: 归档 [设计师黑五优惠汇总 2026](./sources/articles/black-friday-deals-for-designers-2026.md)。 / Filed [Black Friday Deals for Designers 2026](./sources/articles/black-friday-deals-for-designers-2026.md).
+
+* **创建 / Creation**: 归档 [他更新了今年的设计师版黑五优惠表](./sources/articles/he-updated-this-year-s-designer-black-friday-discount-list.md)。 / Filed [He updated this year's designer Black Friday discount list](./sources/articles/he-updated-this-year-s-designer-black-friday-discount-list.md).
+
+* **创建 / Creation**: 归档 [Tabbit AI 浏览器：支持 Chrome 数据导入与 CLI 控制的跨平台 AI 浏览器](./sources/articles/tabbit-ai-browser-cross-platform-ai-browser-supporting-chrome-da.md)。 / Filed [Tabbit AI Browser: Cross-platform AI Browser Supporting Chrome Data Import and CLI Control](./sources/articles/tabbit-ai-browser-cross-platform-ai-browser-supporting-chrome-da.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 一 Key 打通大模型、ASR、TTS 与搜索，Subcast 移动版开发感触](./sources/articles/deepseek-one-key-unifies-models-asr-tts-and-search-subcast-mobil.md)。 / Filed [DeepSeek One Key Unifies Models, ASR, TTS and Search; Subcast Mobile Development Impressions](./sources/articles/deepseek-one-key-unifies-models-asr-tts-and-search-subcast-mobil.md).
+
+* **创建 / Creation**: 归档 [Pi 跟进了 Program Resume Protocol（OSC 7577）](./sources/articles/pi-adopts-program-resume-protocol-osc-7577.md)。 / Filed [Pi Adopts Program Resume Protocol (OSC 7577)](./sources/articles/pi-adopts-program-resume-protocol-osc-7577.md).
+
+* **创建 / Creation**: 归档 [日常写代码，先装这 5 个 MCP 就够了](./sources/articles/five-mcp-servers-are-enough-for-daily-coding.md)。 / Filed [Five MCP Servers Are Enough for Daily Coding](./sources/articles/five-mcp-servers-are-enough-for-daily-coding.md).
+
+* **创建 / Creation**: 归档 [Antigravity 插件市场统一 MCP 与 Skill，支持桌面 CLI 一键安装与同步](./sources/articles/antigravity-plugin-marketplace-unifies-mcp-and-skills-supports-d.md)。 / Filed [Antigravity Plugin Marketplace Unifies MCP and Skills, Supports Desktop-CLI One-Click Install and Sync](./sources/articles/antigravity-plugin-marketplace-unifies-mcp-and-skills-supports-d.md).
+
+* **创建 / Creation**: 归档 [用户称自己是合作受害者，点名 Qoder 与通义回应账号安全](./sources/articles/user-claims-to-be-collaboration-victim-calls-on-qoder-and-tongyi.md)。 / Filed [User claims to be collaboration victim, calls on Qoder and Tongyi to respond to account security](./sources/articles/user-claims-to-be-collaboration-victim-calls-on-qoder-and-tongyi.md).
+
+* **创建 / Creation**: 归档 [2026 黑五海外 AI 订阅全盘点：各场景最省心选购指南](./sources/articles/2026-black-friday-overseas-ai-subscription-roundup-easiest-purch.md)。 / Filed [2026 Black Friday Overseas AI Subscription Roundup: Easiest Purchase Guide by Scenario](./sources/articles/2026-black-friday-overseas-ai-subscription-roundup-easiest-purch.md).
+
+* **创建 / Creation**: 归档 [AI 个人助理接管一日三餐](./sources/articles/ai-personal-assistant-takes-over-daily-three-meals.md)。 / Filed [AI Personal Assistant Takes Over Daily Three Meals](./sources/articles/ai-personal-assistant-takes-over-daily-three-meals.md).
+
+* **创建 / Creation**: 归档 [试用 Claude 个人助理 Duet](./sources/articles/trying-claude-s-personal-assistant-duet.md)。 / Filed [Trying Claude's Personal Assistant Duet](./sources/articles/trying-claude-s-personal-assistant-duet.md).
+
+* **创建 / Creation**: 归档 [AI 原生公司定义补充：信息反馈与商业模拟环境](./sources/articles/supplement-to-ai-native-company-definition-information-feedback.md)。 / Filed [Supplement to AI Native Company Definition: Information Feedback and Business Simulation Environments](./sources/articles/supplement-to-ai-native-company-definition-information-feedback.md).
+
+* **创建 / Creation**: 归档 [他给 AI 原生公司下了一个很短的定义](./sources/articles/a-very-short-definition-of-an-ai-native-company.md)。 / Filed [A Very Short Definition of an AI-Native Company](./sources/articles/a-very-short-definition-of-an-ai-native-company.md).
+
+* **创建 / Creation**: 归档 [《影之刃零》主创：除代码外几乎不沾 AI，因 AI 易给人廉价感](./sources/articles/shadow-blade-zero-creator-almost-no-ai-beyond-coding-because-ai.md)。 / Filed [Shadow Blade Zero Creator: Almost No AI Beyond Coding Because AI Feels Cheap](./sources/articles/shadow-blade-zero-creator-almost-no-ai-beyond-coding-because-ai.md).
+
+* **创建 / Creation**: 归档 [36 种构图的电影级海报设计](./sources/articles/36-cinematic-poster-composition-layouts.md)。 / Filed [36 Cinematic Poster Composition Layouts](./sources/articles/36-cinematic-poster-composition-layouts.md).
+
+* **创建 / Creation**: 归档 [从需求梳理到交付的完整标志设计流程](./sources/articles/complete-logo-design-process-from-requirement-sorting-to-deliver.md)。 / Filed [Complete Logo Design Process from Requirement Sorting to Delivery](./sources/articles/complete-logo-design-process-from-requirement-sorting-to-deliver.md).
+
+* **创建 / Creation**: 归档 [让 AI 写界面时守住你的设计规范](./sources/articles/keep-your-design-specs-intact-when-letting-ai-write-interfaces.md)。 / Filed [Keep Your Design Specs Intact When Letting AI Write Interfaces](./sources/articles/keep-your-design-specs-intact-when-letting-ai-write-interfaces.md).
+
+* **创建 / Creation**: 归档 [先定设计系统再写代码的界面设计](./sources/articles/interface-design-define-the-design-system-before-writing-code.md)。 / Filed [Interface Design: Define the Design System Before Writing Code](./sources/articles/interface-design-define-the-design-system-before-writing-code.md).
+
+* **创建 / Creation**: 归档 [把文档写成谁都读得懂的英文](./sources/articles/simpleenglish-write-documents-everyone-can-understand.md)。 / Filed [SimpleEnglish: Write Documents Everyone Can Understand](./sources/articles/simpleenglish-write-documents-everyone-can-understand.md).
+
+* **创建 / Creation**: 归档 [把机器味重的文字改回人写的语气](./sources/articles/ste80-humanizer-rewrite-machine-sounding-text-into-human-tone.md)。 / Filed [ste80-humanizer: Rewrite machine-sounding text into human tone](./sources/articles/ste80-humanizer-rewrite-machine-sounding-text-into-human-tone.md).
+
+* **创建 / Creation**: 归档 [去 AI 味 Skill 合集：从文案到 Logo 与字体设计](./sources/articles/ai-flavor-removal-skill-collection-from-copywriting-to-logo-and.md)。 / Filed [AI-Flavor Removal Skill Collection: From Copywriting to Logo and Font Design](./sources/articles/ai-flavor-removal-skill-collection-from-copywriting-to-logo-and.md).
+
+* **创建 / Creation**: 归档 [黄仁勋复职两天后，Denny's 把「英伟达诞生卡座」的铭牌挂了回去](./sources/articles/two-days-after-jensen-huang-s-return-denny-s-rehangs-the-nvidia.md)。 / Filed [Two days after Jensen Huang's return, Denny's rehangs the "NVIDIA founding booth" plaque](./sources/articles/two-days-after-jensen-huang-s-return-denny-s-rehangs-the-nvidia.md).
+
+* **创建 / Creation**: 归档 [Cindy 即将集成 /artifacts，支持文档、幻灯片、白板和网页制作](./sources/articles/cindy-to-integrate-artifacts-for-documents-slides-whiteboards-an.md)。 / Filed [Cindy to integrate /artifacts for documents, slides, whiteboards and web pages](./sources/articles/cindy-to-integrate-artifacts-for-documents-slides-whiteboards-an.md).
+
+* **创建 / Creation**: 归档 [宝玉转发 Opus 5.6 灰度版 AI 演示网页及完整提示词](./sources/articles/bao-yu-reposts-opus-5-6-gray-scale-ai-presentation-webpage-and-f.md)。 / Filed [Bao Yu reposts Opus 5.6 gray-scale AI presentation webpage and full prompt](./sources/articles/bao-yu-reposts-opus-5-6-gray-scale-ai-presentation-webpage-and-f.md).
+
+* **创建 / Creation**: 归档 [黑苹果重生：AI 让非苹果硬件重新运行 macOS](./sources/articles/the-hackintosh-reborn-with-ai.md)。 / Filed [The Hackintosh Reborn... with AI](./sources/articles/the-hackintosh-reborn-with-ai.md).
+
+* **创建 / Creation**: 归档 [黑苹果这波反而是 AI 给撬开的](./sources/articles/hackintosh-is-being-pried-open-by-ai-this-time.md)。 / Filed [Hackintosh Is Being Pried Open by AI This Time](./sources/articles/hackintosh-is-being-pried-open-by-ai-this-time.md).
+
+* **创建 / Creation**: 归档 [Qwen-Audio-3.1 补齐听写、配音与实时对话，主攻多语言和中文方言](./sources/articles/qwen-audio-3-1-completes-asr-tts-and-realtime-speech-targeting-m.md)。 / Filed [Qwen-Audio-3.1 Completes ASR, TTS, and Realtime Speech, Targeting Multilingual and Chinese Dialects](./sources/articles/qwen-audio-3-1-completes-asr-tts-and-realtime-speech-targeting-m.md).
+
+* **创建 / Creation**: 归档 [Linus 因 4 万多行 AI 更新发飙，ext4 维护者 Ted 遭公开斥责](./sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md)。 / Filed [Linus Torvalds blows up over 40,000+ line AI-assisted update, ext4 maintainer Ted publicly scolded](./sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md).
+
+* **创建 / Creation**: 归档 [Astra 开 Blender](./sources/articles/astra-opens-blender.md)。 / Filed [Astra Opens Blender](./sources/articles/astra-opens-blender.md).
+
+* **创建 / Creation**: 归档 [Grokbot 可沿关系链批量拉黑骚扰用户](./sources/articles/grokbot-can-batch-block-harassing-users-along-relationship-chain.md)。 / Filed [Grokbot Can Batch-Block Harassing Users Along Relationship Chain](./sources/articles/grokbot-can-batch-block-harassing-users-along-relationship-chain.md).
+
+* **创建 / Creation**: 归档 [歸藏回应 t3 Code 转推：仅批评部分简中 AI 博主，不扩大到全体中国人](./sources/articles/guizang-responds-to-t3-code-retweet-criticizes-only-some-simplif.md)。 / Filed [Guizang responds to t3 Code retweet: criticizes only some Simplified Chinese AI bloggers, not all Chinese people](./sources/articles/guizang-responds-to-t3-code-retweet-criticizes-only-some-simplif.md).
+
+* **创建 / Creation**: 归档 [原演示：Opus 5.6 与《The Last Boring Slide》](./sources/articles/original-demo-opus-5-6-and-the-last-boring-slide.md)。 / Filed [Original Demo: Opus 5.6 and "The Last Boring Slide"](./sources/articles/original-demo-opus-5-6-and-the-last-boring-slide.md).
+
+* **创建 / Creation**: 归档 [据传 Opus 5.6 制作「PPT」，每页皆为完整 3D 场景](./sources/articles/rumored-opus-5-6-made-ppt-with-every-page-a-full-3d-scene.md)。 / Filed [Rumored Opus 5.6-made “PPT” with every page a full 3D scene](./sources/articles/rumored-opus-5-6-made-ppt-with-every-page-a-full-3d-scene.md).
+
+* **创建 / Creation**: 归档 [数字人「希加加」用 GTA 6 采访老黄，全程 AI 生成](./sources/articles/digital-human-xiajiajia-interviews-jensen-huang-with-gta-6-entir.md)。 / Filed [Digital human "Xiajiajia" interviews Jensen Huang with GTA 6, entirely AI-generated](./sources/articles/digital-human-xiajiajia-interviews-jensen-huang-with-gta-6-entir.md).
+
+* **创建 / Creation**: 归档 [肝了 4 天 4 夜，Fable5.2+Blender 造出一座 2K 的曼哈顿｜地图、地标、镜头、渲染、配乐剪辑保姆级教程](./sources/articles/4-days-4-nights-building-a-walkable-2k-manhattan-with-fable-5-2.md)。 / Filed [4 Days 4 Nights: Building a Walkable 2K Manhattan with Fable 5.2 and Blender](./sources/articles/4-days-4-nights-building-a-walkable-2k-manhattan-with-fable-5-2.md).
+
+* **创建 / Creation**: 归档 [他把斯坦福新书做成 Prompt，先给自己写出一本《个人意义设计手册》](./sources/articles/he-turned-stanford-s-new-book-into-a-prompt-first-writing-a-pers.md)。 / Filed [He turned Stanford's new book into a Prompt, first writing a "Personal Meaning Design Manual" for himself](./sources/articles/he-turned-stanford-s-new-book-into-a-prompt-first-writing-a-pers.md).
+
 * **创建 / Creation**: 归档 [Gemini API 命令行工具 (gemini-api)](./sources/articles/gemini-api-cli-gemini-api.md)。 / Filed [Gemini API CLI (gemini-api)](./sources/articles/gemini-api-cli-gemini-api.md).
 
 * **创建 / Creation**: 归档 [Logan Kilpatrick 推 Gemini API CLI，供编程 Agent 调用 Gemini Neon 等模型](./sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md)。 / Filed [Logan Kilpatrick Promotes Gemini API CLI for Coding Agents to Call Gemini Neon and Other Models](./sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md).

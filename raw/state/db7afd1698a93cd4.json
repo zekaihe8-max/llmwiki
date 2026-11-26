@@ -1,0 +1,23 @@
+{
+  "slug": "db7afd1698a93cd4",
+  "url": "https://mole.fit/",
+  "title": "官网",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "db7afd1698a93cd4c422af5ca1402a6509280e1fde28a87c4a6e7ad5fd4faeae",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:27.480Z",
+  "content_hash": "4782dc7da6bcb90486ad7983fa19da86f75a77e68a43dcc4b0f4b4ede23ed538",
+  "article_path": "articles/db7afd1698a93cd4.md",
+  "fetched_url": "https://mole.fit/index.md",
+  "source_path": "sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:38:51.766Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

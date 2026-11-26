@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:24:37.568Z",
+  "url": "https://x.com/cgnot996/status/2125757248567980103",
+  "slug": "5d38101b14a4fb7e",
+  "content_hash": "055b0a26649ae15214bcc33150293f2307df5fa4c36232f04670b47693a6173d",
+  "source": {
+    "path": "sources/articles/2026-black-friday-overseas-ai-subscription-roundup-easiest-purch.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Claude/Anthropic 订阅定价及风控提示，与订阅风控权重主题相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是黑五 AI 订阅定价与是否真降价，与高端 AI 订阅价值主题直接相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中详述各平台额度池、周限额与 API 额度规则，与用量上限主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是黑五 AI 订阅定价与是否真降价，与高端 AI 订阅价值主题直接相关",
+    "topics/claude-subscription-risk-control-weights.md": "文中涉及 Claude/Anthropic 订阅定价及风控提示，与订阅风控权重主题相关",
+    "topics/usage-limit-ab-tests.md": "文中详述各平台额度池、周限额与 API 额度规则，与用量上限主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/2026-black-friday-overseas-ai-subscription-roundup-easiest-purch.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心是黑五 AI 订阅定价与是否真降价，与高端 AI 订阅价值主题直接相关",
+      "topics/claude-subscription-risk-control-weights.md": "文中涉及 Claude/Anthropic 订阅定价及风控提示，与订阅风控权重主题相关",
+      "topics/usage-limit-ab-tests.md": "文中详述各平台额度池、周限额与 API 额度规则，与用量上限主题相关"
+    },
+    "notes": "来源为 X 用户 @cgnot996 发布的长文，所有价格与活动时间均以文章中引述的官网条款为准，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/2026-black-friday-overseas-ai-subscription-roundup-easiest-purch.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

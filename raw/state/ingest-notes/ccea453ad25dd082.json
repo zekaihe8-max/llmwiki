@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/one-question-at-a-time.md"
+  ],
+  "selection_reasons": {
+    "topics/open-source-in-ai-assistant-editing.md": "文章介绍的 ste80-humanizer 是开源 AI 助手自然语言剪辑工具，与该主题高度相关。",
+    "topics/calibrating-ai-guidance.md": "两遍改写旨在校准 AI 输出，减少机器写作痕迹，属于对 AI 引导的校准。",
+    "topics/one-question-at-a-time.md": "受控英语要求一句只说一件事，与一次只处理一个问题的原则相通。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "文章介绍的 ste80-humanizer 是开源 AI 助手自然语言剪辑工具，与该主题高度相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "两遍改写旨在校准 AI 输出，减少机器写作痕迹，属于对 AI 引导的校准。"
+    },
+    {
+      "path": "topics/one-question-at-a-time.md",
+      "action": "unchanged",
+      "reason": "受控英语要求一句只说一件事，与一次只处理一个问题的原则相通。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL used as cite basis; no external facts invented."
+}

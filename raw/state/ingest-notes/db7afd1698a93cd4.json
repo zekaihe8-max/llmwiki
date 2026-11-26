@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/menubar-management-tool-gap.md",
+    "topics/agent-worktree-cleanup.md",
+    "topics/agent-skill-authoring.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/menubar-management-tool-gap.md": "Mole 提供菜单栏实时状态监控与风扇控制，直接对应 menubar 管理工具领域。",
+    "topics/agent-worktree-cleanup.md": "Mole 的 AI Cleanup & Care 会列出可清理的 worktree 并要求用户确认，与 worktree 完成即删的主题相关。",
+    "topics/agent-skill-authoring.md": "Mole 官方发布 `tw93/Mole` Agent 技能并提供 llms.txt 与 SKILL.md，属于 Agent Skill 编写与发布实践。",
+    "topics/ux-dx-and-ax.md": "Mole 作为原生 macOS 桌面工具，兼顾 GUI 工作流、终端 CLI 与 Agent 接口，涉及 UX、DX 与 AX 的设计取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "Mole 提供菜单栏实时状态监控与风扇控制，直接对应 menubar 管理工具领域。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "Mole 的 AI Cleanup & Care 会列出可清理的 worktree 并要求用户确认，与 worktree 完成即删的主题相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Mole 官方发布 `tw93/Mole` Agent 技能并提供 llms.txt 与 SKILL.md，属于 Agent Skill 编写与发布实践。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "Mole 作为原生 macOS 桌面工具，兼顾 GUI 工作流、终端 CLI 与 Agent 接口，涉及 UX、DX 与 AX 的设计取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "官网强调 mole.fit 为唯一官方域名，Mac 许可证不激活 Windows 版，Windows 版为独立产品。"
+}

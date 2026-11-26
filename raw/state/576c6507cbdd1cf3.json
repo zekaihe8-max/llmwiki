@@ -1,0 +1,23 @@
+{
+  "slug": "576c6507cbdd1cf3",
+  "url": "https://github.com/herdrdev/herdr",
+  "title": "仓库",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "576c6507cbdd1cf31f63a84b31d8d24492f8651987868942d9145ea3769e0ef4",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:22.657Z",
+  "content_hash": "ae061750c54bc973573a7be47946c26a75054e49ee8aeb723b770f57a9b5b09d",
+  "article_path": "articles/576c6507cbdd1cf3.md",
+  "fetched_url": "https://github.com/herdrdev/herdr",
+  "source_path": "sources/articles/herdr-terminal-runtime-for-coding-agents.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:31:03.456Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

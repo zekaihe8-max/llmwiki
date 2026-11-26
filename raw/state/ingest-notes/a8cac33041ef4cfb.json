@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/lab-inference-serving-cost-efficiency.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/lab-inference-serving-cost-efficiency.md": "文章涉及大模型推理加速与显存/成本效率，与大厂推理成本效率主题相关。",
+    "topics/open-weight-frontier-models.md": "腾讯公开 DFly2 权重与训练代码，属于开放权重模型发布。",
+    "topics/local-open-assistant-models.md": "压缩后 Hy4 Flash 可在个人电脑/Mac mini 上运行，涉及本地开放模型。",
+    "topics/pro-vs-flash-model-strategy.md": "文章聚焦 Hy4 Flash 及其草稿模型与适配方案，与 Flash 模型策略相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/lab-inference-serving-cost-efficiency.md",
+      "action": "unchanged",
+      "reason": "文章涉及大模型推理加速与显存/成本效率，与大厂推理成本效率主题相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "腾讯公开 DFly2 权重与训练代码，属于开放权重模型发布。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "压缩后 Hy4 Flash 可在个人电脑/Mac mini 上运行，涉及本地开放模型。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章聚焦 Hy4 Flash 及其草稿模型与适配方案，与 Flash 模型策略相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均标注为帖文称，未独立核实；未编造超出文章的 URL 或事实。"
+}

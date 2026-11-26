@@ -1,0 +1,23 @@
+{
+  "slug": "9d1f9876ee5fbf91",
+  "url": "https://x.com/lxfater/status/2125799520080433497",
+  "title": "Linus 因为一份 4 万多行的 AI 更新发飙了",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "9d1f9876ee5fbf91b69153379bff245abf6cc21777df9ad8b0f0db899d0be21d",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:07.103Z",
+  "content_hash": "83d0e25b3d772209fd3a6377a9e5b0aa1f44e396753675ade762a176951a63b5",
+  "article_path": "articles/9d1f9876ee5fbf91.md",
+  "fetched_url": "https://x.com/lxfater/status/2125799520080433497",
+  "source_path": "sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:13:43.156Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

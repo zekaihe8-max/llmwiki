@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:27:56.325Z",
+  "url": "https://x.com/vista8/status/2125889784971493763",
+  "slug": "7df265080654619e",
+  "content_hash": "b6e5bc92f07b1ddc880221c6009a5aa14300fbc5eda97d89486105e74275b926",
+  "source": {
+    "path": "sources/articles/tabbit-ai-browser-cross-platform-ai-browser-supporting-chrome-da.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章列举的自动导出、自动填表等场景属于智能体自动化执行任务。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中提到抓取 Github Trending 和 Producthunt 热门产品，涉及面向 Agent 的联网搜索与信息采集。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 浏览器通过 CLI 操控网页，与智能体操控桌面/浏览器的“计算机使用”主题相近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Tabbit 支持导入 Chrome 插件，涉及浏览器插件与网页管控，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文描述 AI 浏览器通过 CLI 操控网页，与智能体操控桌面/浏览器的“计算机使用”主题相近。",
+    "topics/agent-auto-mode.md": "文章列举的自动导出、自动填表等场景属于智能体自动化执行任务。",
+    "topics/loose-web-agent-harness-plugins.md": "Tabbit 支持导入 Chrome 插件，涉及浏览器插件与网页管控，与该主题相关。",
+    "topics/agent-native-web-search.md": "文中提到抓取 Github Trending 和 Producthunt 热门产品，涉及面向 Agent 的联网搜索与信息采集。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tabbit-ai-browser-cross-platform-ai-browser-supporting-chrome-da.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/agent-auto-mode.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/agent-native-web-search.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "帖文描述 AI 浏览器通过 CLI 操控网页，与智能体操控桌面/浏览器的“计算机使用”主题相近。",
+      "topics/agent-auto-mode.md": "文章列举的自动导出、自动填表等场景属于智能体自动化执行任务。",
+      "topics/loose-web-agent-harness-plugins.md": "Tabbit 支持导入 Chrome 插件，涉及浏览器插件与网页管控，与该主题相关。",
+      "topics/agent-native-web-search.md": "文中提到抓取 Github Trending 和 Producthunt 热门产品，涉及面向 Agent 的联网搜索与信息采集。"
+    },
+    "notes": "以上主张均来源于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tabbit-ai-browser-cross-platform-ai-browser-supporting-chrome-da.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

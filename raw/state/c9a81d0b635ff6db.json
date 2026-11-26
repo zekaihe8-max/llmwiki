@@ -1,0 +1,23 @@
+{
+  "slug": "c9a81d0b635ff6db",
+  "url": "https://github.com/getpaseo/paseo",
+  "title": "仓库",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "c9a81d0b635ff6db42b21f0c247323733126107a7889c36bd20c2b72901a8eb3",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:23.270Z",
+  "content_hash": "d0e7f2326efc3e0864e859bcd000dae98524441c3a1de3c8c77d8a582557a7b3",
+  "article_path": "articles/c9a81d0b635ff6db.md",
+  "fetched_url": "https://github.com/getpaseo/paseo",
+  "source_path": "sources/articles/paseo-open-source-agentic-development-environment-for-multiple-a.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:31:32.499Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

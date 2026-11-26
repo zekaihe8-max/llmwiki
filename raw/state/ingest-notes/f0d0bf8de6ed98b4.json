@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/company-agent-harness.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "直接对应帖文核心主题“AI 原生公司”。",
+    "topics/company-agent-harness.md": "帖文提到“harness”并关联公司创建，该主题讨论公司级 Agent Harness。",
+    "topics/agentic-ai-foundation.md": "帖文涉及智慧、想象、执行等 AI 代理基础概念，与 Agentic AI Foundation 相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "直接对应帖文核心主题“AI 原生公司”。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到“harness”并关联公司创建，该主题讨论公司级 Agent Harness。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文涉及智慧、想象、执行等 AI 代理基础概念，与 Agentic AI Foundation 相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "日期和浏览量均按文章中显示内容记录，未做外部事实核查。"
+}

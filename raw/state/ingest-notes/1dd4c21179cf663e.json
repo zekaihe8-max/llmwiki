@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "文章核心是让 AI 根据设计规范生成界面，与设计↔代码主题直接相关。",
+    "topics/agents-md-token-efficiency.md": "文中提到助手每次读取项目规则，涉及项目指令与上下文效率。",
+    "topics/context-engineering-for-agents.md": "规则作为助手必读上下文，属于 Agent 上下文工程范畴。",
+    "topics/ux-dx-and-ax.md": "涉及设计规范与开发者体验，与 UX/DX 主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章核心是让 AI 根据设计规范生成界面，与设计↔代码主题直接相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "文中提到助手每次读取项目规则，涉及项目指令与上下文效率。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "规则作为助手必读上下文，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涉及设计规范与开发者体验，与 UX/DX 主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均复用现有目录，action 均为 unchanged；未引用文章外事实。"
+}
