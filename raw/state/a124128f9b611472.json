@@ -1,0 +1,23 @@
+{
+  "slug": "a124128f9b611472",
+  "url": "https://github.com/google-gemini/gemini-api-cli",
+  "title": "仓库",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "a124128f9b61147246f6a69875c435bed792db2afb210efcb728b231a4fa6b9f",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:14.099Z",
+  "content_hash": "28092a51b7f4a161e1e0c342b86aa6456b9d5b991dfef05da539165f274e1e6b",
+  "article_path": "articles/a124128f9b611472.md",
+  "fetched_url": "https://github.com/google-gemini/gemini-api-cli",
+  "source_path": "sources/articles/gemini-api-cli-gemini-api.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:59:51.454Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "0ada1934a0788fbd",
+  "url": "https://eugeneyan.com/writing/public-evals",
+  "title": "文章",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "0ada1934a0788fbd57ad86cc96dab0b05d00af9b6c62ff50544e4c5b1e3a613a",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:09.406Z",
+  "content_hash": "dba4927b11b37d511f506a4f0b9740c99f2df81f9df3eb8a3aa9a1d53314f118",
+  "article_path": "articles/0ada1934a0788fbd.md",
+  "fetched_url": "https://eugeneyan.com/writing/public-evals",
+  "source_path": "sources/articles/lessons-from-12-evals-where-they-break-and-what-to-measure-inste.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:31:05.892Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

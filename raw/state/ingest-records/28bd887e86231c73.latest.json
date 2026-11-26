@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:54:04.586Z",
+  "url": "https://x.com/swyx/status/2125627281230205435",
+  "slug": "28bd887e86231c73",
+  "content_hash": "68efe98d8bfb4c2dff77bb087d3ecbd449b5ae3b3294409b1ac543ff4da036ab",
+  "source": {
+    "path": "sources/articles/swyx-task-cost-is-misleading-human-attention-is-the-scarce-resou.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 评测入口与评测失效模式，与文中提到的评测 Bug 与“干活记录”相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "瑞文转发并呼应 Eugene Yan 对评测刷分与易测指标的批判，与社区实测对抗分数炒作主题相近。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "文中强调人类注意力而非 Token 成本，触及以人为中心的评价维度，与该主题有交叉。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文核心是质疑公开基准与简化图表的可信度，与“信任公开榜前先审质量”主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文核心是质疑公开基准与简化图表的可信度，与“信任公开榜前先审质量”主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "瑞文转发并呼应 Eugene Yan 对评测刷分与易测指标的批判，与社区实测对抗分数炒作主题相近。",
+    "topics/ai-eval-work-record-gateway.md": "涉及 AI 评测入口与评测失效模式，与文中提到的评测 Bug 与“干活记录”相关。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "文中强调人类注意力而非 Token 成本，触及以人为中心的评价维度，与该主题有交叉。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/swyx-task-cost-is-misleading-human-attention-is-the-scarce-resou.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-eval-work-record-gateway.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/public-benchmark-quality-scrutiny.md": "帖文核心是质疑公开基准与简化图表的可信度，与“信任公开榜前先审质量”主题高度相关。",
+      "topics/community-evals-vs-score-hype.md": "瑞文转发并呼应 Eugene Yan 对评测刷分与易测指标的批判，与社区实测对抗分数炒作主题相近。",
+      "topics/ai-eval-work-record-gateway.md": "涉及 AI 评测入口与评测失效模式，与文中提到的评测 Bug 与“干活记录”相关。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "文中强调人类注意力而非 Token 成本，触及以人为中心的评价维度，与该主题有交叉。"
+    },
+    "notes": "本条目仅基于所抓取的 X 帖文及其引用的 Eugene Yan 内容，未引入外部事实或编造链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/swyx-task-cost-is-misleading-human-attention-is-the-scarce-resou.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:27:42.127Z",
+  "url": "https://x.com/cognition/status/2125659035231780966",
+  "slug": "f35de08c48c50477",
+  "content_hash": "f86437440b4c243d476d80bc45622cd62f28078db0d20f78ad76172c60ec8bd3",
+  "source": {
+    "path": "sources/articles/cognition-introduces-org-charts-for-devin-bots.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/unified-agent-resource-library.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/multiagent-infra-four-problems.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "管理多个机器人的进展与目标涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "多机器人可见性与编排属于多智能体基建范畴。"
+    },
+    {
+      "path": "topics/unified-agent-resource-library.md",
+      "action": "unchanged",
+      "reason": "Org Charts 为多个 Devin Bots 提供统一画布，与跨 Agent 统一资源库主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/unified-agent-resource-library.md": "Org Charts 为多个 Devin Bots 提供统一画布，与跨 Agent 统一资源库主题相近。",
+    "topics/agent-scaled-engineering.md": "管理多个机器人的进展与目标涉及智能体规模化工程。",
+    "topics/multiagent-infra-four-problems.md": "多机器人可见性与编排属于多智能体基建范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cognition-introduces-org-charts-for-devin-bots.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/unified-agent-resource-library.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/multiagent-infra-four-problems.md"
+    ],
+    "selection_reasons": {
+      "topics/unified-agent-resource-library.md": "Org Charts 为多个 Devin Bots 提供统一画布，与跨 Agent 统一资源库主题相近。",
+      "topics/agent-scaled-engineering.md": "管理多个机器人的进展与目标涉及智能体规模化工程。",
+      "topics/multiagent-infra-four-problems.md": "多机器人可见性与编排属于多智能体基建范畴。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cognition-introduces-org-charts-for-devin-bots.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

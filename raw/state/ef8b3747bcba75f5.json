@@ -1,0 +1,23 @@
+{
+  "slug": "ef8b3747bcba75f5",
+  "url": "https://x.com/eugeneyan/status/2125418696248095188",
+  "title": "Eugene",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "ef8b3747bcba75f5f1b09ee185ce8a29242fcce5564d4f2d8c836ac0eb891e38",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:09.074Z",
+  "content_hash": "02e1228d70e2090261bc21027a2ad85c5b599494bb422683b9df4a005ddbd2a8",
+  "article_path": "articles/ef8b3747bcba75f5.md",
+  "fetched_url": "https://x.com/eugeneyan/status/2125418696248095188",
+  "source_path": "sources/articles/eugene-yan-12-public-ai-evals-still-have-bugs-measure-what-matte.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:30:44.499Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

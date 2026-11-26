@@ -1,0 +1,23 @@
+{
+  "slug": "5c3ce6767395b1f9",
+  "url": "https://x.com/openclaw/status/2125326970976366734",
+  "title": "OpenClaw",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "5c3ce6767395b1f9f96f33fe75fb101a2ec87b5357e5f6dcaaf21d8c4b57c591",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:07.204Z",
+  "content_hash": "7e0408d78adaf812af050caa8a36065bc4f887900ccfe44c9e11fb3f22365e64",
+  "article_path": "articles/5c3ce6767395b1f9.md",
+  "fetched_url": "https://x.com/openclaw/status/2125326970976366734",
+  "source_path": "sources/articles/openclaw-releases-shellbench-ai-agents-still-fail-most-real-worl.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:28:24.607Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

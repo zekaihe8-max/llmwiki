@@ -1,0 +1,23 @@
+{
+  "slug": "81dc62a956d2f6cd",
+  "url": "https://arxiv.org/abs/2611.13396",
+  "title": "论文",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "81dc62a956d2f6cdc49394106dd201d37fc8b8316bb162fcc023808dc13da8ce",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:12.795Z",
+  "content_hash": "7d318b105d3cad7fb36e343333bc98a840edd98b85babd6eccfe4f8a03d320a7",
+  "article_path": "articles/81dc62a956d2f6cd.md",
+  "fetched_url": "https://arxiv.org/abs/2611.13396",
+  "source_path": "sources/articles/the-ai-era-s-lines-of-code-a-case-study-on-what-an-engineer-s-to.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:57:40.563Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

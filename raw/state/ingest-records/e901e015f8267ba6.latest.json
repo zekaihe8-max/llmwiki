@@ -1,0 +1,70 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:50:33.195Z",
+  "url": "https://x.com/ClaudeDevs/status/2125628717263372512",
+  "slug": "e901e015f8267ba6",
+  "content_hash": "3f1c4b79adf7ce0cd6e3228849f13ec2e6a4b4c86e8cde112ff4de7b61fd317c",
+  "source": {
+    "path": "sources/articles/anthropic-migrates-claude-messages-api-from-python-to-rust-using.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/languages-for-agents.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文核心是以 Agent 团队规模化参与后端迁移验证，与“智能体规模化工程”高度相关。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及 Python 到 Rust 的后端语言迁移，与“面向 Agent 的编程语言”相关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "Claude Agent 被用来追踪并修复版本差异，体现将具体工程任务交给 AI 执行。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文核心是以 Agent 团队规模化参与后端迁移验证，与“智能体规模化工程”高度相关。",
+    "topics/languages-for-agents.md": "涉及 Python 到 Rust 的后端语言迁移，与“面向 Agent 的编程语言”相关。",
+    "topics/tasks-confidently-handed-to-ai.md": "Claude Agent 被用来追踪并修复版本差异，体现将具体工程任务交给 AI 执行。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-migrates-claude-messages-api-from-python-to-rust-using.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/languages-for-agents.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "帖文核心是以 Agent 团队规模化参与后端迁移验证，与“智能体规模化工程”高度相关。",
+      "topics/languages-for-agents.md": "涉及 Python 到 Rust 的后端语言迁移，与“面向 Agent 的编程语言”相关。",
+      "topics/tasks-confidently-handed-to-ai.md": "Claude Agent 被用来追踪并修复版本差异，体现将具体工程任务交给 AI 执行。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题；事实仅来源于提供的帖文摘要。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-migrates-claude-messages-api-from-python-to-rust-using.md"
+      ],
+      "promotion": "in-place bilingual lint fix after first compile"
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

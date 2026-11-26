@@ -1,0 +1,23 @@
+{
+  "slug": "4cd4ca66c6425bdd",
+  "url": "https://x.com/cognition/status/2125305351985934345",
+  "title": "Cyber",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "4cd4ca66c6425bdd5ef7a074f12992083cbe4814f31179a53761a9003c97d09f",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:06.406Z",
+  "content_hash": "2630c1b081362fe1ebad552a8dc8138c4898c55d62a077ef341acc87dfd8b13d",
+  "article_path": "articles/4cd4ca66c6425bdd.md",
+  "fetched_url": "https://x.com/cognition/status/2125305351985934345",
+  "source_path": "sources/articles/cognition-releases-swe-2-1-coding-model-trained-on-kimi-k3.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:26:37.547Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

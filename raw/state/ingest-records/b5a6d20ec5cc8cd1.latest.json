@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:59:06.683Z",
+  "url": "https://x.com/OfficialLoganK/status/2125681386388422775",
+  "slug": "b5a6d20ec5cc8cd1",
+  "content_hash": "10f8346b05534347540b9800fe362171a9f47e2e905c0bd6afc8968ee828fd59",
+  "source": {
+    "path": "sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-skill-authoring.md",
+    "topics/agent-auto-mode.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "让代理自动调用模型，涉及智能体自动化模式。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "CLI 可视为面向 Agent 的技能或接口编写，与 Agent Skill 编写主题相关。"
+    },
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "面向 Agent 的模型调用基建属于 Agentic AI 基础设施范畴。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦编程 Agent 调用模型的 CLI 工具，与该主题的编程 Agent 工具与开销最为贴近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "帖文聚焦编程 Agent 调用模型的 CLI 工具，与该主题的编程 Agent 工具与开销最为贴近。",
+    "topics/agent-skill-authoring.md": "CLI 可视为面向 Agent 的技能或接口编写，与 Agent Skill 编写主题相关。",
+    "topics/agent-auto-mode.md": "让代理自动调用模型，涉及智能体自动化模式。",
+    "topics/agentic-ai-foundation.md": "面向 Agent 的模型调用基建属于 Agentic AI 基础设施范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/agent-skill-authoring.md",
+      "topics/agent-auto-mode.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "帖文聚焦编程 Agent 调用模型的 CLI 工具，与该主题的编程 Agent 工具与开销最为贴近。",
+      "topics/agent-skill-authoring.md": "CLI 可视为面向 Agent 的技能或接口编写，与 Agent Skill 编写主题相关。",
+      "topics/agent-auto-mode.md": "让代理自动调用模型，涉及智能体自动化模式。",
+      "topics/agentic-ai-foundation.md": "面向 Agent 的模型调用基建属于 Agentic AI 基础设施范畴。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/logan-kilpatrick-promotes-gemini-api-cli-for-coding-agents-to-ca.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

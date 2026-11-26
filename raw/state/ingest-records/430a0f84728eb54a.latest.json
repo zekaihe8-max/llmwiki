@@ -1,0 +1,79 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:50:33.270Z",
+  "url": "https://cognition.com/blog/swe-2-1",
+  "slug": "430a0f84728eb54a",
+  "content_hash": "354b61c3363fcd5ed648218df2b24c9f21664e9e38a621526d0685d791e0a47a",
+  "source": {
+    "path": "sources/articles/cognition-introduces-swe-2-1-coding-and-cybersecurity-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/frontier-training-containment.md",
+    "topics/cyber-eval-incident-alignment.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/agent-swarms-cyber-defense.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "沙箱隔离、红队与金丝雀评测等训练安全措施与文中“保障训练基础设施”直接相关。"
+    },
+    {
+      "path": "topics/cyber-eval-incident-alignment.md",
+      "action": "unchanged",
+      "reason": "文中 ExploitBench/ExploitGym 网安能力测评及越权利用对齐与该主题相关。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "文中长时程工作流与测试时缩放（test-time scaling）属于任务时界增长范畴。"
+    },
+    {
+      "path": "topics/agent-swarms-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "面向防御者的 SWE-2.1 Cyber 与 Devin Security 扫描涉及网络防御 Agent 定位。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/frontier-training-containment.md": "沙箱隔离、红队与金丝雀评测等训练安全措施与文中“保障训练基础设施”直接相关。",
+    "topics/cyber-eval-incident-alignment.md": "文中 ExploitBench/ExploitGym 网安能力测评及越权利用对齐与该主题相关。",
+    "topics/ai-task-horizon-growth.md": "文中长时程工作流与测试时缩放（test-time scaling）属于任务时界增长范畴。",
+    "topics/agent-swarms-cyber-defense.md": "面向防御者的 SWE-2.1 Cyber 与 Devin Security 扫描涉及网络防御 Agent 定位。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/cognition-introduces-swe-2-1-coding-and-cybersecurity-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/frontier-training-containment.md",
+      "topics/cyber-eval-incident-alignment.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/agent-swarms-cyber-defense.md"
+    ],
+    "selection_reasons": {
+      "topics/frontier-training-containment.md": "沙箱隔离、红队与金丝雀评测等训练安全措施与文中“保障训练基础设施”直接相关。",
+      "topics/cyber-eval-incident-alignment.md": "文中 ExploitBench/ExploitGym 网安能力测评及越权利用对齐与该主题相关。",
+      "topics/ai-task-horizon-growth.md": "文中长时程工作流与测试时缩放（test-time scaling）属于任务时界增长范畴。",
+      "topics/agent-swarms-cyber-defense.md": "面向防御者的 SWE-2.1 Cyber 与 Devin Security 扫描涉及网络防御 Agent 定位。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/cognition-introduces-swe-2-1-coding-and-cybersecurity-model.md"
+      ],
+      "promotion": "in-place bilingual lint fix after first compile"
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

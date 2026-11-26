@@ -1,0 +1,23 @@
+{
+  "slug": "83e82da2ee29e1a3",
+  "url": "https://x.com/cognition/status/2125305580122210425",
+  "title": "Ultrafast",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "83e82da2ee29e1a382c851f1dc6a08bd9da209d48181a199efec7f9d504b9e57",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:06.644Z",
+  "content_hash": "2630c1b081362fe1ebad552a8dc8138c4898c55d62a077ef341acc87dfd8b13d",
+  "article_path": "articles/83e82da2ee29e1a3.md",
+  "fetched_url": "https://x.com/cognition/status/2125305580122210425",
+  "source_path": "sources/articles/cognition-releases-swe-2-1-coding-model-2.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:27:16.919Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

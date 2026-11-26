@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pre-ipo-talent-departure-motives.md",
+    "topics/ai-native-companies.md",
+    "topics/incumbent-exit-successor-blame-metaphor.md"
+  ],
+  "selection_reasons": {
+    "topics/pre-ipo-talent-departure-motives.md": "文章涉及 AI 实验室人才从 Anthropic 流向 OpenAI 的离职与加入动机。",
+    "topics/ai-native-companies.md": "OpenAI 与 Anthropic 均为 AI 原生公司，帖文围绕两家公司的角色展开。",
+    "topics/incumbent-exit-successor-blame-metaphor.md": "Thariq 离任 Anthropic 并加入 OpenAI，涉及先驱离任与继任者叙事。"
+  },
+  "topics": [
+    {
+      "path": "topics/pre-ipo-talent-departure-motives.md",
+      "action": "unchanged",
+      "reason": "文章涉及 AI 实验室人才从 Anthropic 流向 OpenAI 的离职与加入动机。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "OpenAI 与 Anthropic 均为 AI 原生公司，帖文围绕两家公司的角色展开。"
+    },
+    {
+      "path": "topics/incumbent-exit-successor-blame-metaphor.md",
+      "action": "unchanged",
+      "reason": "Thariq 离任 Anthropic 并加入 OpenAI，涉及先驱离任与继任者叙事。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自提供的推文文本，未引入外部信息。"
+}

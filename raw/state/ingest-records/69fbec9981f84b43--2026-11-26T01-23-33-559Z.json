@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:23:33.559Z",
+  "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+  "slug": "69fbec9981f84b43",
+  "content_hash": "1a4799f778945c4cd3502f43f85d672f4217cec3811d96daf9cf5397709743ba",
+  "source": {
+    "path": "sources/articles/migrating-our-messages-api-to-rust.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/software-factory.md",
+    "topics/languages-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及算力效率提升与每请求 CPU 降低，与智能体算力与治理主题相近。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章描述流量增长 1800 倍及大规模生产系统迁移，与智能体规模化工程主题相近。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心是从 Python 迁移到 Rust 的编程语言选型与重写，与面向 Agent 的编程语言主题相近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文章提到 Claude 编写超过 80% 合并代码及一周完成核心路径，与软件工厂/AI 编程主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章涉及算力效率提升与每请求 CPU 降低，与智能体算力与治理主题相近。",
+    "topics/agent-scaled-engineering.md": "文章描述流量增长 1800 倍及大规模生产系统迁移，与智能体规模化工程主题相近。",
+    "topics/software-factory.md": "文章提到 Claude 编写超过 80% 合并代码及一周完成核心路径，与软件工厂/AI 编程主题相近。",
+    "topics/languages-for-agents.md": "文章核心是从 Python 迁移到 Rust 的编程语言选型与重写，与面向 Agent 的编程语言主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/migrating-our-messages-api-to-rust.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/software-factory.md",
+      "topics/languages-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章涉及算力效率提升与每请求 CPU 降低，与智能体算力与治理主题相近。",
+      "topics/agent-scaled-engineering.md": "文章描述流量增长 1800 倍及大规模生产系统迁移，与智能体规模化工程主题相近。",
+      "topics/software-factory.md": "文章提到 Claude 编写超过 80% 合并代码及一周完成核心路径，与软件工厂/AI 编程主题相近。",
+      "topics/languages-for-agents.md": "文章核心是从 Python 迁移到 Rust 的编程语言选型与重写，与面向 Agent 的编程语言主题相近。"
+    },
+    "notes": "所有事实均来源于提供的文章，未编造 URL 或额外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/migrating-our-messages-api-to-rust.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

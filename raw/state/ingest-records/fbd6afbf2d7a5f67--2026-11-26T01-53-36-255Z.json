@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T01:53:36.255Z",
+  "url": "https://x.com/HamelHusain/status/2125433546659729900",
+  "slug": "fbd6afbf2d7a5f67",
+  "content_hash": "f1506ec3df08397d48a320302c1f2e3154b81e9cf9fec3eb723c01e50250e7b2",
+  "source": {
+    "path": "sources/articles/hamel-husain-recommends-eugene-yan-s-quality-review-of-12-ai-ben.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及基准分数被 Goodhart 化、刷分与实际价值脱节的问题。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "讨论基准多衡量容易测的内容而非真正重要的人类使用场景。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "帖文核心是对公开 AI 基准质量进行审查，与该主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "帖文核心是对公开 AI 基准质量进行审查，与该主题直接相关。",
+    "topics/community-evals-vs-score-hype.md": "涉及基准分数被 Goodhart 化、刷分与实际价值脱节的问题。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "讨论基准多衡量容易测的内容而非真正重要的人类使用场景。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hamel-husain-recommends-eugene-yan-s-quality-review-of-12-ai-ben.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/public-benchmark-quality-scrutiny.md": "帖文核心是对公开 AI 基准质量进行审查，与该主题直接相关。",
+      "topics/community-evals-vs-score-hype.md": "涉及基准分数被 Goodhart 化、刷分与实际价值脱节的问题。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "讨论基准多衡量容易测的内容而非真正重要的人类使用场景。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hamel-husain-recommends-eugene-yan-s-quality-review-of-12-ai-ben.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

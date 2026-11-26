@@ -1,0 +1,23 @@
+{
+  "slug": "bf37df35a021836d",
+  "url": "https://x.com/AnthropicAI/status/2125341904644763678",
+  "title": "Anthropic",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "bf37df35a021836d91142864cc0f1e971e918c2ab2ed2b3ca78e7e625d95d7bc",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:04.517Z",
+  "content_hash": "779b930b8a4df446df0062e733219814d85fd2c7522c98b46b3bc7aeadf7d7b0",
+  "article_path": "articles/bf37df35a021836d.md",
+  "fetched_url": "https://x.com/AnthropicAI/status/2125341904644763678",
+  "source_path": "sources/articles/anthropic-releases-siren-evaluation-whether-ai-agents-will-escap.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:24:36.266Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

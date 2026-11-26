@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/ai-eval-work-record-gateway.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-task-horizon-growth.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-eval-work-record-gateway.md": "文章介绍 AI 智能体评测基准 ShellBench，与“AI 评测入口与干活记录”主题高度相关。",
+    "topics/public-benchmark-quality-scrutiny.md": "ShellBench 是公开榜单，文中强调模型得分不高，呼应“信任公开榜前先审质量”。",
+    "topics/community-evals-vs-score-hype.md": "文中提到开源评测框架表现不俗，涉及社区评测与刷分质疑。",
+    "topics/ai-task-horizon-growth.md": "ShellBench 考察日常真实世界任务，对应“AI 任务时界增长”中关于任务难度与时界的讨论。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章介绍 AI 智能体评测基准 ShellBench，与“AI 评测入口与干活记录”主题高度相关。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "ShellBench 是公开榜单，文中强调模型得分不高，呼应“信任公开榜前先审质量”。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中提到开源评测框架表现不俗，涉及社区评测与刷分质疑。"
+    },
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "ShellBench 考察日常真实世界任务，对应“AI 任务时界增长”中关于任务难度与时界的讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源于所抓取的 X 帖文，未引用外部链接内容。"
+}

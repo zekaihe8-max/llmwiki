@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "selection_reasons": {
+    "topics/public-benchmark-quality-scrutiny.md": "文章核心是公开评测质量问题与评分器缺陷，与“信任公开榜前先审质量”主题高度相关。",
+    "topics/community-evals-vs-score-hype.md": "文章讨论评测分数不可全信、应关注可靠性而非刷分，与社区实测对抗刷分碰瓷主题相近。",
+    "topics/ai-eval-work-record-gateway.md": "文章涉及评测入口、任务记录与人工审核成本，与AI评测入口及干活记录主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章核心是公开评测质量问题与评分器缺陷，与“信任公开榜前先审质量”主题高度相关。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文章讨论评测分数不可全信、应关注可靠性而非刷分，与社区实测对抗刷分碰瓷主题相近。"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章涉及评测入口、任务记录与人工审核成本，与AI评测入口及干活记录主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的文章 markdown，未引入外部URL或未核实信息。"
+}

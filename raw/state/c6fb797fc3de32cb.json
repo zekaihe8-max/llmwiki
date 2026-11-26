@@ -1,0 +1,23 @@
+{
+  "slug": "c6fb797fc3de32cb",
+  "url": "https://safeguards.anthropic.com/2026/siren",
+  "title": "说明",
+  "digest": "2026-11-26-frontier-ai.md",
+  "status": "filed",
+  "hash": "c6fb797fc3de32cb164245a1301370e1a3344a8143ac7a0817f2c9dda78370a3",
+  "first_seen": "2026-11-26T01:22:03.331Z",
+  "last_seen": "2026-11-26T01:22:03.331Z",
+  "fetched_at": "2026-11-26T01:22:05.046Z",
+  "content_hash": "de8382b92abcbf6f1c7f6baa63c73e920edde96dee187f06c3f338648788663e",
+  "article_path": "articles/c6fb797fc3de32cb.md",
+  "fetched_url": "https://safeguards.anthropic.com/2026/siren/",
+  "source_path": "sources/articles/measuring-and-mitigating-agent-sandbox-escape-with-siren.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T01:25:14.083Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
