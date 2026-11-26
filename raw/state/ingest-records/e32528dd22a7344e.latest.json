@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:42:14.050Z",
+  "url": "https://x.com/Gorden_Sun/status/2125769222521569308",
+  "slug": "e32528dd22a7344e",
+  "content_hash": "0f8e4e07cb16ccb45f4ddc9d534343564b7ea4412553518558e83d15f708bcd5",
+  "source": {
+    "path": "sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/programmable-edge-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本文聚焦本地可运行的小型开源助手模型，与 Aion 2.3B 的端侧定位直接相关。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Aion 1.0 Instruct 为微软开源的开放权重模型，属此话题范畴。"
+    },
+    {
+      "path": "topics/programmable-edge-compute.md",
+      "action": "unchanged",
+      "reason": "Aion 专为端侧设备设计并计划集成进 Windows，涉及边缘/端侧计算落地。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "本文聚焦本地可运行的小型开源助手模型，与 Aion 2.3B 的端侧定位直接相关。",
+    "topics/open-weight-frontier-models.md": "Aion 1.0 Instruct 为微软开源的开放权重模型，属此话题范畴。",
+    "topics/programmable-edge-compute.md": "Aion 专为端侧设备设计并计划集成进 Windows，涉及边缘/端侧计算落地。"
+  },
+  "files_changed": [
+    "sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/programmable-edge-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "本文聚焦本地可运行的小型开源助手模型，与 Aion 2.3B 的端侧定位直接相关。",
+      "topics/open-weight-frontier-models.md": "Aion 1.0 Instruct 为微软开源的开放权重模型，属此话题范畴。",
+      "topics/programmable-edge-compute.md": "Aion 专为端侧设备设计并计划集成进 Windows，涉及边缘/端侧计算落地。"
+    },
+    "notes": "来源为 X 帖文，发布时间显示为 2026 年 11 月 26 日；Windows 集成时间表为帖文声称，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/microsoft-open-sources-aion-1-0-instruct-2-3b-on-device-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

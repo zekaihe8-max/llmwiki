@@ -1,0 +1,23 @@
+{
+  "slug": "b99a936f5acfb8c2",
+  "url": "https://x.com/lxfater/status/2125897108041416782",
+  "title": "Qwen-Audio-3.1 把听写、配音、实时对话三套都补齐了，主攻多语言和中文方言",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "b99a936f5acfb8c2160fb3784b54bc2a6d4296a55bcffba5b6e146a5fabdcdc8",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:07.601Z",
+  "content_hash": "be96fb812df144e3c6e369a48f83d61c4073251575d3db36a8cb8a30b714a218",
+  "article_path": "articles/b99a936f5acfb8c2.md",
+  "fetched_url": "https://x.com/lxfater/status/2125897108041416782",
+  "source_path": "sources/articles/qwen-audio-3-1-completes-asr-tts-and-realtime-speech-targeting-m.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:14:12.625Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "GTA 6 作为开放交互世界，与数字人在游戏场景中进行访谈的情境相关。",
+    "topics/desktop-outfit-character-companions.md": "数字人「希加加」属于角色伴侣/虚拟人物表达，与桌面角色伴侣话题最近。",
+    "topics/agentic-video-editing.md": "帖文明确剧情演绎全程 AI 生成，涉及 AI 视频/演绎内容制作。"
+  },
+  "topics": [
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "GTA 6 作为开放交互世界，与数字人在游戏场景中进行访谈的情境相关。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "数字人「希加加」属于角色伴侣/虚拟人物表达，与桌面角色伴侣话题最近。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文明确剧情演绎全程 AI 生成，涉及 AI 视频/演绎内容制作。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未核实主张已用「帖文称」标注；日期与平台数据均来自抓取的帖文页面。"
+}

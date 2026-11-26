@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:42:13.806Z",
+  "url": "https://x.com/turingou/status/2125603408732393506",
+  "slug": "447ee4679d4e3ea6",
+  "content_hash": "df169878e42d3194c3ed851ebc66a2be41c6b3d3ac78a535dfe3787f627b1ddd",
+  "source": {
+    "path": "sources/articles/supplement-to-ai-native-company-definition-information-feedback.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/company-agent-harness.md",
+    "topics/interactive-world-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "帖文直接讨论 AI 原生公司定义，与该主题高度相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文明确将 AI 原生公司定义与 harness 设计区分开来，该主题提供对比背景。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文提及为商业构建模拟环境，与交互式世界模型主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "帖文直接讨论 AI 原生公司定义，与该主题高度相关。",
+    "topics/company-agent-harness.md": "帖文明确将 AI 原生公司定义与 harness 设计区分开来，该主题提供对比背景。",
+    "topics/interactive-world-models.md": "帖文提及为商业构建模拟环境，与交互式世界模型主题相近。"
+  },
+  "files_changed": [
+    "sources/articles/supplement-to-ai-native-company-definition-information-feedback.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/company-agent-harness.md",
+      "topics/interactive-world-models.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "帖文直接讨论 AI 原生公司定义，与该主题高度相关。",
+      "topics/company-agent-harness.md": "帖文明确将 AI 原生公司定义与 harness 设计区分开来，该主题提供对比背景。",
+      "topics/interactive-world-models.md": "帖文提及为商业构建模拟环境，与交互式世界模型主题相近。"
+    },
+    "notes": "来源为 X 平台帖文，其中主张未经独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/supplement-to-ai-native-company-definition-information-feedback.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:25:27.061Z",
+  "url": "https://x.com/cgnot996/status/2125913262944661508",
+  "slug": "34f06586541e9c40",
+  "content_hash": "46bcd8b0a7dae3dca762e694d735165670eb9a718d5579ad0b73f4f3930d6ddf",
+  "source": {
+    "path": "sources/articles/user-claims-to-be-collaboration-victim-calls-on-qoder-and-tongyi.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "帖文核心关切账号安全与创作者账号资产，直接对应该主题。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "未经授权的数据优化行为属于技术滥用关切范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/account-and-asset-security-hygiene.md": "帖文核心关切账号安全与创作者账号资产，直接对应该主题。",
+    "topics/tech-misuse-concern-continuity.md": "未经授权的数据优化行为属于技术滥用关切范畴。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/user-claims-to-be-collaboration-victim-calls-on-qoder-and-tongyi.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/account-and-asset-security-hygiene.md",
+      "topics/tech-misuse-concern-continuity.md"
+    ],
+    "selection_reasons": {
+      "topics/account-and-asset-security-hygiene.md": "帖文核心关切账号安全与创作者账号资产，直接对应该主题。",
+      "topics/tech-misuse-concern-continuity.md": "未经授权的数据优化行为属于技术滥用关切范畴。"
+    },
+    "notes": "X 帖文页面标注“This post is unavailable”，但正文文本已在抓取的 Markdown 中保留。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/user-claims-to-be-collaboration-victim-calls-on-qoder-and-tongyi.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

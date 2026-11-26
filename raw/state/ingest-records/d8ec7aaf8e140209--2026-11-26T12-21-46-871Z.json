@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:21:46.871Z",
+  "url": "https://x.com/oran_ge/status/2125726867793862915",
+  "slug": "d8ec7aaf8e140209",
+  "content_hash": "0e1fceea95f06657a875270f33d8a97be8185744458e283d7440af4c73c57ec4",
+  "source": {
+    "path": "sources/articles/shadow-blade-zero-creator-almost-no-ai-beyond-coding-because-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/casual-ai-minigame-first-try.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/design-taste-led-linux-desktop-trial.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/casual-ai-minigame-first-try.md",
+      "action": "unchanged",
+      "reason": "讨论 AI 生成小游戏，与“AI 制作游戏是否廉价”的讨论相关。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "涉及设计品味驱动，对应玩家为“偏执品味买单”的论点。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助开发与定价/价值感知，对应“不该卖高价”的观点。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 与游戏制作的交叉，最贴近主创对 AI 参与游戏的态度。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/vibe-gaming-model-inflection.md": "涉及 AI 与游戏制作的交叉，最贴近主创对 AI 参与游戏的态度。",
+    "topics/casual-ai-minigame-first-try.md": "讨论 AI 生成小游戏，与“AI 制作游戏是否廉价”的讨论相关。",
+    "topics/peer-economics-before-vibe-coding.md": "涉及 AI 辅助开发与定价/价值感知，对应“不该卖高价”的观点。",
+    "topics/design-taste-led-linux-desktop-trial.md": "涉及设计品味驱动，对应玩家为“偏执品味买单”的论点。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shadow-blade-zero-creator-almost-no-ai-beyond-coding-because-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/casual-ai-minigame-first-try.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/design-taste-led-linux-desktop-trial.md"
+    ],
+    "selection_reasons": {
+      "topics/vibe-gaming-model-inflection.md": "涉及 AI 与游戏制作的交叉，最贴近主创对 AI 参与游戏的态度。",
+      "topics/casual-ai-minigame-first-try.md": "讨论 AI 生成小游戏，与“AI 制作游戏是否廉价”的讨论相关。",
+      "topics/peer-economics-before-vibe-coding.md": "涉及 AI 辅助开发与定价/价值感知，对应“不该卖高价”的观点。",
+      "topics/design-taste-led-linux-desktop-trial.md": "涉及设计品味驱动，对应玩家为“偏执品味买单”的论点。"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实；日期与互动数据直接引用页面显示。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shadow-blade-zero-creator-almost-no-ai-beyond-coding-because-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

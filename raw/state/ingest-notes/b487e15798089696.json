@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/agent-auto-mode.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "终端会话恢复与程序自动化控制相关",
+    "topics/ux-dx-and-ax.md": "终端协议属于开发者体验（DX）范畴",
+    "topics/agent-auto-mode.md": "会话中断后自动恢复与智能体自动运作相关",
+    "topics/tech-misuse-concern-continuity.md": "涉及会话连续性与安全校验"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "终端会话恢复与程序自动化控制相关"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "终端协议属于开发者体验（DX）范畴"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "会话中断后自动恢复与智能体自动运作相关"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "涉及会话连续性与安全校验"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @xiaomovps 在 X 上的帖文，未引入文章外事实。"
+}

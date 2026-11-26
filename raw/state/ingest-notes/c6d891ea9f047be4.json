@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章主题为语音输入工具，与该话题直接相关。",
+    "topics/local-open-assistant-models.md": "Hex 强调完全本地转录，属于本地开放模型/工具范畴。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及语音转录功能，与转录类话题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章主题为语音输入工具，与该话题直接相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Hex 强调完全本地转录，属于本地开放模型/工具范畴。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及语音转录功能，与转录类话题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于 X 帖文，未独立核实 GitHub 仓库详情。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/minimal-core-community-extensions.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/coding-agent-token-saving-tooling.md"
+  ],
+  "selection_reasons": {
+    "topics/minimal-core-community-extensions.md": "帖文主张“只装 5 个 MCP 就够了”，其余工具因 AGY 原生已内置而无需重复安装，符合精简核心与按需社区扩展的思路。",
+    "topics/agent-skills-open-standard.md": "文中涉及 MCP 插件市场与官方/社区技能扩展，属于 Agent 技能/插件生态的落地案例。",
+    "topics/coding-agent-token-saving-tooling.md": "Context7 拉取对应版本最新 API 可省排错时间，体现编程 Agent 省 Token 与减少重复开销的工具价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "帖文主张“只装 5 个 MCP 就够了”，其余工具因 AGY 原生已内置而无需重复安装，符合精简核心与按需社区扩展的思路。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中涉及 MCP 插件市场与官方/社区技能扩展，属于 Agent 技能/插件生态的落地案例。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "Context7 拉取对应版本最新 API 可省排错时间，体现编程 Agent 省 Token 与减少重复开销的工具价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @xiaomovps; all claims are attributed to the post where unverified."
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:31:03.456Z",
+  "url": "https://github.com/herdrdev/herdr",
+  "slug": "576c6507cbdd1cf3",
+  "content_hash": "ae061750c54bc973573a7be47946c26a75054e49ee8aeb723b770f57a9b5b09d",
+  "source": {
+    "path": "sources/articles/herdr-terminal-runtime-for-coding-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/minimal-core-community-extensions.md",
+    "topics/reuse-before-write.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文中明确链接“agent skill”文档，且提到 Agent 可通过 CLI/Socket API 生成窗格、互相提示，与 Agent Skill 编写相关。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中提到插件市场与扩展窗格和工作流，与 Agent Skills 开放标准主题相近。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "Herdr 为单一 Rust 二进制、无 Electron，并通过插件进行社区扩展，契合“精简核心与社区扩展”。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "文章强调“运行你已有的工具”，不包装或替换 Claude Code、Codex 等，体现先复用再编写的原则。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文中明确链接“agent skill”文档，且提到 Agent 可通过 CLI/Socket API 生成窗格、互相提示，与 Agent Skill 编写相关。",
+    "topics/agent-skills-open-standard.md": "文中提到插件市场与扩展窗格和工作流，与 Agent Skills 开放标准主题相近。",
+    "topics/minimal-core-community-extensions.md": "Herdr 为单一 Rust 二进制、无 Electron，并通过插件进行社区扩展，契合“精简核心与社区扩展”。",
+    "topics/reuse-before-write.md": "文章强调“运行你已有的工具”，不包装或替换 Claude Code、Codex 等，体现先复用再编写的原则。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/herdr-terminal-runtime-for-coding-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/agent-skills-open-standard.md",
+      "topics/minimal-core-community-extensions.md",
+      "topics/reuse-before-write.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文中明确链接“agent skill”文档，且提到 Agent 可通过 CLI/Socket API 生成窗格、互相提示，与 Agent Skill 编写相关。",
+      "topics/agent-skills-open-standard.md": "文中提到插件市场与扩展窗格和工作流，与 Agent Skills 开放标准主题相近。",
+      "topics/minimal-core-community-extensions.md": "Herdr 为单一 Rust 二进制、无 Electron，并通过插件进行社区扩展，契合“精简核心与社区扩展”。",
+      "topics/reuse-before-write.md": "文章强调“运行你已有的工具”，不包装或替换 Claude Code、Codex 等，体现先复用再编写的原则。"
+    },
+    "notes": "所有主题均采用现有目录，未新增主题；事实仅来源于提供的 README 内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/herdr-terminal-runtime-for-coding-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

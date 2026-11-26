@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/llm-assisted-ereader-jailbreak.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "文章核心正是 AI 辅助下非苹果硬件移植 macOS 的风潮，与该主题高度相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "都涉及利用大模型辅助逆向封闭设备或系统，属于同类技术路径。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 参与底层驱动编写，与该主题有直接交集。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "文章核心正是 AI 辅助下非苹果硬件移植 macOS 的风潮，与该主题高度相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "都涉及利用大模型辅助逆向封闭设备或系统，属于同类技术路径。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Claude Code 参与底层驱动编写，与该主题有直接交集。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @lxfater 在 X 上于 2026 年 11 月 25 日发布的帖文，文中附带 naut.ca 博客链接及一张图片。"
+}

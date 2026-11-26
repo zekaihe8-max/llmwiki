@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:09:48.607Z",
+  "url": "https://x.com/op7418/status/2125784465951896043",
+  "slug": "90d6056294c624f3",
+  "content_hash": "01b51c9ff8d38a6a6cfe85cc5d2aab91fb9bfa277078e0f0c7a93b98140707d7",
+  "source": {
+    "path": "sources/articles/rumored-opus-5-6-made-ppt-with-every-page-a-full-3d-scene.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/vibe-gaming-model-inflection.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 Claude 系列模型（Opus 5.6）及其生成内容的作者归属。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "发帖人下载单网页 HTML 代码，涉及设计与代码的自助生成。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "帖文描述的完整 3D 场景与运镜动画，与交互式世界模型主题相近。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "AI 生成可交互 3D 体验的说法与游戏/模型拐点话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "帖文描述的完整 3D 场景与运镜动画，与交互式世界模型主题相近。",
+    "topics/claude-code-authorship-and-voice.md": "帖文讨论 Claude 系列模型（Opus 5.6）及其生成内容的作者归属。",
+    "topics/design-to-code-byo-subscriptions.md": "发帖人下载单网页 HTML 代码，涉及设计与代码的自助生成。",
+    "topics/vibe-gaming-model-inflection.md": "AI 生成可交互 3D 体验的说法与游戏/模型拐点话题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rumored-opus-5-6-made-ppt-with-every-page-a-full-3d-scene.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/vibe-gaming-model-inflection.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "帖文描述的完整 3D 场景与运镜动画，与交互式世界模型主题相近。",
+      "topics/claude-code-authorship-and-voice.md": "帖文讨论 Claude 系列模型（Opus 5.6）及其生成内容的作者归属。",
+      "topics/design-to-code-byo-subscriptions.md": "发帖人下载单网页 HTML 代码，涉及设计与代码的自助生成。",
+      "topics/vibe-gaming-model-inflection.md": "AI 生成可交互 3D 体验的说法与游戏/模型拐点话题相关。"
+    },
+    "notes": "所有未经独立核实的模型身份主张已用「帖文称」或质疑语气表述，未引入文章外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rumored-opus-5-6-made-ppt-with-every-page-a-full-3d-scene.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

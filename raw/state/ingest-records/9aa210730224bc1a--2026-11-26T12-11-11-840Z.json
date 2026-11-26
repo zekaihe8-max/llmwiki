@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:11:11.840Z",
+  "url": "https://x.com/op7418/status/2125874831006777378",
+  "slug": "9aa210730224bc1a",
+  "content_hash": "6500d533514bf855783713b53fe8b4edc8c2465017eb44669ac7e7841043b031",
+  "source": {
+    "path": "sources/articles/guizang-responds-to-t3-code-retweet-criticizes-only-some-simplif.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-media-training-corpus-loop.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-media-training-corpus-loop.md",
+      "action": "unchanged",
+      "reason": "帖文批评 AI 洗稿与内容回灌，与该主题语境相近，但无需修改现有条目。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文提及博主自荐与相互转推，与主持人加热相关，但原主题不涉及跨平台社区划界，故不作改动。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "涉及社区互刷与声量炒作，与帖文中相互转推行为有重叠，但主题聚焦评测得分，保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-media-training-corpus-loop.md": "帖文批评 AI 洗稿与内容回灌，与该主题语境相近，但无需修改现有条目。",
+    "topics/community-evals-vs-score-hype.md": "涉及社区互刷与声量炒作，与帖文中相互转推行为有重叠，但主题聚焦评测得分，保持不变。",
+    "topics/ai-product-self-rec-amplify.md": "帖文提及博主自荐与相互转推，与主持人加热相关，但原主题不涉及跨平台社区划界，故不作改动。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/guizang-responds-to-t3-code-retweet-criticizes-only-some-simplif.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-media-training-corpus-loop.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-media-training-corpus-loop.md": "帖文批评 AI 洗稿与内容回灌，与该主题语境相近，但无需修改现有条目。",
+      "topics/community-evals-vs-score-hype.md": "涉及社区互刷与声量炒作，与帖文中相互转推行为有重叠，但主题聚焦评测得分，保持不变。",
+      "topics/ai-product-self-rec-amplify.md": "帖文提及博主自荐与相互转推，与主持人加热相关，但原主题不涉及跨平台社区划界，故不作改动。"
+    },
+    "notes": "Source is a single X post by @op7418; no external URLs or facts beyond the article are introduced.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/guizang-responds-to-t3-code-retweet-criticizes-only-some-simplif.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

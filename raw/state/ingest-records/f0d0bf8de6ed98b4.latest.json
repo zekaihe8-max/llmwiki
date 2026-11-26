@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:22:32.982Z",
+  "url": "https://x.com/turingou/status/2125613809390002430",
+  "slug": "f0d0bf8de6ed98b4",
+  "content_hash": "6e510b5f0fc3fe00890edef26cd3ea8970928547a8620205551fa95c7a74f81d",
+  "source": {
+    "path": "sources/articles/a-very-short-definition-of-an-ai-native-company.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/company-agent-harness.md",
+    "topics/agentic-ai-foundation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-ai-foundation.md",
+      "action": "unchanged",
+      "reason": "帖文涉及智慧、想象、执行等 AI 代理基础概念，与 Agentic AI Foundation 相近。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "直接对应帖文核心主题“AI 原生公司”。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提到“harness”并关联公司创建，该主题讨论公司级 Agent Harness。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "直接对应帖文核心主题“AI 原生公司”。",
+    "topics/company-agent-harness.md": "帖文提到“harness”并关联公司创建，该主题讨论公司级 Agent Harness。",
+    "topics/agentic-ai-foundation.md": "帖文涉及智慧、想象、执行等 AI 代理基础概念，与 Agentic AI Foundation 相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/a-very-short-definition-of-an-ai-native-company.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/company-agent-harness.md",
+      "topics/agentic-ai-foundation.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "直接对应帖文核心主题“AI 原生公司”。",
+      "topics/company-agent-harness.md": "帖文提到“harness”并关联公司创建，该主题讨论公司级 Agent Harness。",
+      "topics/agentic-ai-foundation.md": "帖文涉及智慧、想象、执行等 AI 代理基础概念，与 Agentic AI Foundation 相近。"
+    },
+    "notes": "日期和浏览量均按文章中显示内容记录，未做外部事实核查。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/a-very-short-definition-of-an-ai-native-company.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

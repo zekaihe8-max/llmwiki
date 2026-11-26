@@ -1,0 +1,23 @@
+{
+  "slug": "1dd4c21179cf663e",
+  "url": "https://colaskill.com/zh/styleseed",
+  "title": "styleseed",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "1dd4c21179cf663e31b238530418c4ada724a4f101945ebea2ba703f0f3d72ec",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:14.925Z",
+  "content_hash": "662ceb8401167b4ebe5ab4d6e135ee5a72c21b7028acbaf164b8084bf9c1a555",
+  "article_path": "articles/1dd4c21179cf663e.md",
+  "fetched_url": "https://colaskill.com/zh/styleseed/",
+  "source_path": "sources/articles/keep-your-design-specs-intact-when-letting-ai-write-interfaces.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:19:33.875Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/agent-auto-mode.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "帖文描述 AI 浏览器通过 CLI 操控网页，与智能体操控桌面/浏览器的“计算机使用”主题相近。",
+    "topics/agent-auto-mode.md": "文章列举的自动导出、自动填表等场景属于智能体自动化执行任务。",
+    "topics/loose-web-agent-harness-plugins.md": "Tabbit 支持导入 Chrome 插件，涉及浏览器插件与网页管控，与该主题相关。",
+    "topics/agent-native-web-search.md": "文中提到抓取 Github Trending 和 Producthunt 热门产品，涉及面向 Agent 的联网搜索与信息采集。"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "帖文描述 AI 浏览器通过 CLI 操控网页，与智能体操控桌面/浏览器的“计算机使用”主题相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章列举的自动导出、自动填表等场景属于智能体自动化执行任务。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "Tabbit 支持导入 Chrome 插件，涉及浏览器插件与网页管控，与该主题相关。"
+    },
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "文中提到抓取 Github Trending 和 Producthunt 热门产品，涉及面向 Agent 的联网搜索与信息采集。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "以上主张均来源于该 X 帖文，未独立核实。"
+}

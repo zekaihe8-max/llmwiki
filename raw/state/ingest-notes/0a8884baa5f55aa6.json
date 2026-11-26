@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/company-agent-harness.md",
+    "topics/multiagent-infra-four-problems.md",
+    "topics/computer-use.md"
+  ],
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "Orca 的“编排智能体”功能将大任务拆分并启动工作智能体，与个人 Agent 当包工头调度编程 Agent 的主题高度相关。",
+    "topics/company-agent-harness.md": "Orca 定位为开源 Agent IDE/智能体马具，带来你自己的 Claude Code 或 Codex，与公司级 Agent Harness 主题相近。",
+    "topics/multiagent-infra-four-problems.md": "Orca 提供并行工作区，让多个智能体并行工作而不互相干扰，对应多智能体基建主题。",
+    "topics/computer-use.md": "Orca 文档明确包含“计算机使用”功能，让智能体在没有 CLI 或 API 时驱动桌面应用和外部浏览器。"
+  },
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "Orca 的“编排智能体”功能将大任务拆分并启动工作智能体，与个人 Agent 当包工头调度编程 Agent 的主题高度相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "Orca 定位为开源 Agent IDE/智能体马具，带来你自己的 Claude Code 或 Codex，与公司级 Agent Harness 主题相近。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "Orca 提供并行工作区，让多个智能体并行工作而不互相干扰，对应多智能体基建主题。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Orca 文档明确包含“计算机使用”功能，让智能体在没有 CLI 或 API 时驱动桌面应用和外部浏览器。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 GitHub 仓库 README，未引用文章外事实。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:09:07.351Z",
+  "url": "https://x.com/servasyy_ai/status/2125767459915673696",
+  "slug": "5789a879fa99675c",
+  "content_hash": "5af2a36eafdf90688af29f1102c6e1a6fa9321ad5d142cf23ee59e02d5e2496a",
+  "source": {
+    "path": "sources/articles/digital-human-xiajiajia-interviews-jensen-huang-with-gta-6-entir.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/interactive-world-models.md",
+    "topics/desktop-outfit-character-companions.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文明确剧情演绎全程 AI 生成，涉及 AI 视频/演绎内容制作。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "数字人「希加加」属于角色伴侣/虚拟人物表达，与桌面角色伴侣话题最近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "GTA 6 作为开放交互世界，与数字人在游戏场景中进行访谈的情境相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/interactive-world-models.md": "GTA 6 作为开放交互世界，与数字人在游戏场景中进行访谈的情境相关。",
+    "topics/desktop-outfit-character-companions.md": "数字人「希加加」属于角色伴侣/虚拟人物表达，与桌面角色伴侣话题最近。",
+    "topics/agentic-video-editing.md": "帖文明确剧情演绎全程 AI 生成，涉及 AI 视频/演绎内容制作。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/digital-human-xiajiajia-interviews-jensen-huang-with-gta-6-entir.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/interactive-world-models.md",
+      "topics/desktop-outfit-character-companions.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/interactive-world-models.md": "GTA 6 作为开放交互世界，与数字人在游戏场景中进行访谈的情境相关。",
+      "topics/desktop-outfit-character-companions.md": "数字人「希加加」属于角色伴侣/虚拟人物表达，与桌面角色伴侣话题最近。",
+      "topics/agentic-video-editing.md": "帖文明确剧情演绎全程 AI 生成，涉及 AI 视频/演绎内容制作。"
+    },
+    "notes": "未核实主张已用「帖文称」标注；日期与平台数据均来自抓取的帖文页面。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/digital-human-xiajiajia-interviews-jensen-huang-with-gta-6-entir.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

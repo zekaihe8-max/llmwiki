@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "直接涉及设计与代码的衔接，与文章“先定设计系统再写代码”的主题高度相关。",
+    "topics/design-taste-led-linux-desktop-trial.md": "聚焦设计品味驱动，与文章强调避开通用 AI 风格、建立界面辨识度相呼应。",
+    "topics/ux-dx-and-ax.md": "涵盖用户体验与开发者体验，与文章从设计系统落地到组件代码的全链路关注相近。",
+    "topics/reuse-before-write.md": "“先复用再编写”的结构与文章“先定系统再写代码”的先后逻辑在方法论上相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "直接涉及设计与代码的衔接，与文章“先定设计系统再写代码”的主题高度相关。"
+    },
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "聚焦设计品味驱动，与文章强调避开通用 AI 风格、建立界面辨识度相呼应。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "涵盖用户体验与开发者体验，与文章从设计系统落地到组件代码的全链路关注相近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "“先复用再编写”的结构与文章“先定系统再写代码”的先后逻辑在方法论上相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source URL: https://colaskill.com/zh/ui-design ; all claims are grounded in the fetched article markdown only."
+}

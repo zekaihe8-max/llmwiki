@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:33:36.447Z",
+  "url": "https://x.com/lxfater/status/2125879101407850692",
+  "slug": "e7bb5cccb3071b38",
+  "content_hash": "09b6a909ddfd796f3e58233aacb8e5c8aff2ce09894c887a6bf332ef8f07d3fe",
+  "source": {
+    "path": "sources/articles/iron-hammer-man-recommends-5-open-source-programming-tools-that.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/design-to-code-byo-subscriptions.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文中列举的 Orca、Herdr 等属于面向编程 Agent 的工具类别，与“编程 Agent 省 Token 工具与开销”相近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文强调无需额外订阅费、可接现有 Claude Code/Codex 额度，涉及编程 Agent 体验与额度问题。"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到工具可“自带 Claude/Codex 订阅”，与该主题“设计↔代码与自带 Claude/Codex 订阅”直接对应。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "多款工具可让用户在手机/桌面调度、指挥 Agent，与“个人 Agent 当包工头调度编程 Agent”有相通之处。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/design-to-code-byo-subscriptions.md": "帖文明确提到工具可“自带 Claude/Codex 订阅”，与该主题“设计↔代码与自带 Claude/Codex 订阅”直接对应。",
+    "topics/coding-agent-token-saving-tooling.md": "文中列举的 Orca、Herdr 等属于面向编程 Agent 的工具类别，与“编程 Agent 省 Token 工具与开销”相近。",
+    "topics/coding-agent-ux-vs-quota.md": "帖文强调无需额外订阅费、可接现有 Claude Code/Codex 额度，涉及编程 Agent 体验与额度问题。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "多款工具可让用户在手机/桌面调度、指挥 Agent，与“个人 Agent 当包工头调度编程 Agent”有相通之处。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/iron-hammer-man-recommends-5-open-source-programming-tools-that.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/design-to-code-byo-subscriptions.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/personal-agent-foreman-over-coding-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/design-to-code-byo-subscriptions.md": "帖文明确提到工具可“自带 Claude/Codex 订阅”，与该主题“设计↔代码与自带 Claude/Codex 订阅”直接对应。",
+      "topics/coding-agent-token-saving-tooling.md": "文中列举的 Orca、Herdr 等属于面向编程 Agent 的工具类别，与“编程 Agent 省 Token 工具与开销”相近。",
+      "topics/coding-agent-ux-vs-quota.md": "帖文强调无需额外订阅费、可接现有 Claude Code/Codex 额度，涉及编程 Agent 体验与额度问题。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "多款工具可让用户在手机/桌面调度、指挥 Agent，与“个人 Agent 当包工头调度编程 Agent”有相通之处。"
+    },
+    "notes": "发帖时间按文章显示为 2026 年 11 月 26 日 9:07 AM，互动数据为 3,626 次浏览、8 条回复、5 转发、35 点赞、36 收藏。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/iron-hammer-man-recommends-5-open-source-programming-tools-that.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

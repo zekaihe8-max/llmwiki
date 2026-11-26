@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:14:35.027Z",
+  "url": "https://x.com/lxfater/status/2125613129832792293",
+  "slug": "d0a6e86e363184e2",
+  "content_hash": "d007f311622479c77221b4a923eae96f35091b46486d6ee14bfc3607456c6b10",
+  "source": {
+    "path": "sources/articles/hackintosh-is-being-pried-open-by-ai-this-time.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/llm-assisted-ereader-jailbreak.md",
+    "topics/claude-code-authorship-and-voice.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "文章核心正是 AI 辅助下非苹果硬件移植 macOS 的风潮，与该主题高度相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文明确提到 Claude Code 参与底层驱动编写，与该主题有直接交集。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "都涉及利用大模型辅助逆向封闭设备或系统，属于同类技术路径。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "文章核心正是 AI 辅助下非苹果硬件移植 macOS 的风潮，与该主题高度相关。",
+    "topics/llm-assisted-ereader-jailbreak.md": "都涉及利用大模型辅助逆向封闭设备或系统，属于同类技术路径。",
+    "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 参与底层驱动编写，与该主题有直接交集。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hackintosh-is-being-pried-open-by-ai-this-time.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-os-port-wave.md",
+      "topics/llm-assisted-ereader-jailbreak.md",
+      "topics/claude-code-authorship-and-voice.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-os-port-wave.md": "文章核心正是 AI 辅助下非苹果硬件移植 macOS 的风潮，与该主题高度相关。",
+      "topics/llm-assisted-ereader-jailbreak.md": "都涉及利用大模型辅助逆向封闭设备或系统，属于同类技术路径。",
+      "topics/claude-code-authorship-and-voice.md": "帖文明确提到 Claude Code 参与底层驱动编写，与该主题有直接交集。"
+    },
+    "notes": "来源为 @lxfater 在 X 上于 2026 年 11 月 25 日发布的帖文，文中附带 naut.ca 博客链接及一张图片。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hackintosh-is-being-pried-open-by-ai-this-time.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

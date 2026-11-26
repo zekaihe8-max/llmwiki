@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/local-open-assistant-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "文章主体是开放权重模型的发布，与该主题高度相关。",
+    "topics/local-open-assistant-models.md": "GGUF 格式常用于本地部署助手模型，与本地开放助手模型主题相关。",
+    "topics/gpu-ai-compute-unlock.md": "GGUF 量化模型常用于消费级 GPU 推理，与消费级 AI 算力解锁主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "文章主体是开放权重模型的发布，与该主题高度相关。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "GGUF 格式常用于本地部署助手模型，与本地开放助手模型主题相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "GGUF 量化模型常用于消费级 GPU 推理，与消费级 AI 算力解锁主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源极简，仅包含合集标题、项目数、更新时间与链接，未披露更多模型细节。"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:34:00.981Z",
+  "url": "https://x.com/Gorden_Sun/status/2125766632287215747",
+  "slug": "c6d891ea9f047be4",
+  "content_hash": "8f6f4a01bbe8ec38e0a8dd7db42868e12d08e2f9324a1ea041a6acf8394907f2",
+  "source": {
+    "path": "sources/articles/hex-open-source-local-voice-input-method.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Hex 强调完全本地转录，属于本地开放模型/工具范畴。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及语音转录功能，与转录类话题相近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章主题为语音输入工具，与该话题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章主题为语音输入工具，与该话题直接相关。",
+    "topics/local-open-assistant-models.md": "Hex 强调完全本地转录，属于本地开放模型/工具范畴。",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及语音转录功能，与转录类话题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hex-open-source-local-voice-input-method.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/local-open-assistant-models.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "文章主题为语音输入工具，与该话题直接相关。",
+      "topics/local-open-assistant-models.md": "Hex 强调完全本地转录，属于本地开放模型/工具范畴。",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "涉及语音转录功能，与转录类话题相近。"
+    },
+    "notes": "所有主张均基于 X 帖文，未独立核实 GitHub 仓库详情。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hex-open-source-local-voice-input-method.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

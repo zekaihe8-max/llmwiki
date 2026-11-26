@@ -1,0 +1,23 @@
+{
+  "slug": "0a8884baa5f55aa6",
+  "url": "https://github.com/stablyai/orca",
+  "title": "仓库",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "0a8884baa5f55aa6602b2f44d034d5297a87f1a5cbc132774e27cb69f8d60a2d",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:21.331Z",
+  "content_hash": "733d40f95a22f63b8935f3c0ce6fa8bbf147ca250e149d7385198aad7b447b98",
+  "article_path": "articles/0a8884baa5f55aa6.md",
+  "fetched_url": "https://github.com/stablyai/orca",
+  "source_path": "sources/articles/orca-bots-inside-your-agent-ide.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:30:36.052Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

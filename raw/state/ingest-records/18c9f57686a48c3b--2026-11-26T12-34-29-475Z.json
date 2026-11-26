@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:34:29.475Z",
+  "url": "https://github.com/anomalyco/hex",
+  "slug": "18c9f57686a48c3b",
+  "content_hash": "dcca98db7e419894a15502be97e3f2eac65e14133066942f2f7ec5109554dada",
+  "source": {
+    "path": "sources/articles/hex-local-voice-dictation-tool.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/local-open-assistant-models.md",
+    "topics/launcher-shortcut-ai-over-agent.md",
+    "topics/computer-use.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "Hex 将文字落到光标所在的任意应用，涉及跨应用计算机使用与自动化粘贴"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "Hex 依赖启动器快捷键触发听写，无需打开独立 Agent 界面，与快捷键 AI 主题相近"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Hex 首次运行下载模型后全部在本地转写，符合本地开放助手与小模型主题"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心为按住快捷键语音听写并粘贴，与语音输入口头转述与文书整理主题直接相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/voice-input-oral-vs-document-for-agents.md": "文章核心为按住快捷键语音听写并粘贴，与语音输入口头转述与文书整理主题直接相关",
+    "topics/local-open-assistant-models.md": "Hex 首次运行下载模型后全部在本地转写，符合本地开放助手与小模型主题",
+    "topics/launcher-shortcut-ai-over-agent.md": "Hex 依赖启动器快捷键触发听写，无需打开独立 Agent 界面，与快捷键 AI 主题相近",
+    "topics/computer-use.md": "Hex 将文字落到光标所在的任意应用，涉及跨应用计算机使用与自动化粘贴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/hex-local-voice-dictation-tool.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/local-open-assistant-models.md",
+      "topics/launcher-shortcut-ai-over-agent.md",
+      "topics/computer-use.md"
+    ],
+    "selection_reasons": {
+      "topics/voice-input-oral-vs-document-for-agents.md": "文章核心为按住快捷键语音听写并粘贴，与语音输入口头转述与文书整理主题直接相关",
+      "topics/local-open-assistant-models.md": "Hex 首次运行下载模型后全部在本地转写，符合本地开放助手与小模型主题",
+      "topics/launcher-shortcut-ai-over-agent.md": "Hex 依赖启动器快捷键触发听写，无需打开独立 Agent 界面，与快捷键 AI 主题相近",
+      "topics/computer-use.md": "Hex 将文字落到光标所在的任意应用，涉及跨应用计算机使用与自动化粘贴"
+    },
+    "notes": "Source is the GitHub repository README at https://github.com/anomalyco/hex; no URLs beyond the article were invented.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/hex-local-voice-dictation-tool.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

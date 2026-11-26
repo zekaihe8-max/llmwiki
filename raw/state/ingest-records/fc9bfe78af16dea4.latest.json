@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:37:23.569Z",
+  "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+  "slug": "fc9bfe78af16dea4",
+  "content_hash": "5df78d8ab5f1aa507a6f5b23da6564d021977ac6e791b4e8113dc6be7dd9d69c",
+  "source": {
+    "path": "sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/on-chip-agent-runtime.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "本条目聚焦本地开放助手与小模型，与端侧 2.3B 指令模型最为贴近。"
+    },
+    {
+      "path": "topics/on-chip-agent-runtime.md",
+      "action": "unchanged",
+      "reason": "端侧小语言模型常用于芯片或设备侧 Agent 运行时，相关性较高。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "Aion 为开放权重模型，属于前沿小模型选型范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "本条目聚焦本地开放助手与小模型，与端侧 2.3B 指令模型最为贴近。",
+    "topics/open-weight-frontier-models.md": "Aion 为开放权重模型，属于前沿小模型选型范畴。",
+    "topics/on-chip-agent-runtime.md": "端侧小语言模型常用于芯片或设备侧 Agent 运行时，相关性较高。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/local-open-assistant-models.md",
+      "topics/open-weight-frontier-models.md",
+      "topics/on-chip-agent-runtime.md"
+    ],
+    "selection_reasons": {
+      "topics/local-open-assistant-models.md": "本条目聚焦本地开放助手与小模型，与端侧 2.3B 指令模型最为贴近。",
+      "topics/open-weight-frontier-models.md": "Aion 为开放权重模型，属于前沿小模型选型范畴。",
+      "topics/on-chip-agent-runtime.md": "端侧小语言模型常用于芯片或设备侧 Agent 运行时，相关性较高。"
+    },
+    "notes": "来源页面内容极简，仅包含合集链接与元数据，未披露模型参数细节、许可证或基准测试，故摘要与要点仅基于 URL 与所获片段。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

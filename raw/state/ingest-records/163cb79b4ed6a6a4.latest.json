@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:21:20.452Z",
+  "url": "https://colaskill.com/zh/vane-cinematic-poster",
+  "slug": "163cb79b4ed6a6a4",
+  "content_hash": "c7a420a9e5cc7bdcc9af6ae23eb27eda34ad52c329bde96d9353f340f856d15f",
+  "source": {
+    "path": "sources/articles/36-cinematic-poster-composition-layouts.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/design-taste-led-linux-desktop-trial.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/design-taste-led-linux-desktop-trial.md",
+      "action": "unchanged",
+      "reason": "文章强调设计品味与版式选择，与设计品味驱动的主题相近"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文章涉及设计交付与可执行说明，与设计↔代码主题有一定关联"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "文章涉及生图提示词与海报成品生成，与 AI 图像生成参考库最为相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/image-generation-pose-reference-libraries.md": "文章涉及生图提示词与海报成品生成，与 AI 图像生成参考库最为相关",
+    "topics/design-taste-led-linux-desktop-trial.md": "文章强调设计品味与版式选择，与设计品味驱动的主题相近",
+    "topics/design-to-code-byo-subscriptions.md": "文章涉及设计交付与可执行说明，与设计↔代码主题有一定关联"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/36-cinematic-poster-composition-layouts.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/design-taste-led-linux-desktop-trial.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/image-generation-pose-reference-libraries.md": "文章涉及生图提示词与海报成品生成，与 AI 图像生成参考库最为相关",
+      "topics/design-taste-led-linux-desktop-trial.md": "文章强调设计品味与版式选择，与设计品味驱动的主题相近",
+      "topics/design-to-code-byo-subscriptions.md": "文章涉及设计交付与可执行说明，与设计↔代码主题有一定关联"
+    },
+    "notes": "Source URL: https://colaskill.com/zh/vane-cinematic-poster",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/36-cinematic-poster-composition-layouts.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

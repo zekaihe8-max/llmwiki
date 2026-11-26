@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:13:43.155Z",
+  "url": "https://x.com/lxfater/status/2125799520080433497",
+  "slug": "9d1f9876ee5fbf91",
+  "content_hash": "83d0e25b3d772209fd3a6377a9e5b0aa1f44e396753675ade762a176951a63b5",
+  "source": {
+    "path": "sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-code-vs-messy-code-double-standard.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到 AI 短时间吐出几万行代码，涉及智能体规模化工程的风险与治理。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AI 生成代码质量与合入标准，与该主题关于 AI 代码双标的讨论最为贴近。"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文中提到大量验证用测试代码，与 LLM 辅助验证和代码正确性相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "AI 撰写 bug 修复与测试却可能不理解核心代码，契合 vibe coding 的记忆与理解悖论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-code-vs-messy-code-double-standard.md": "文章讨论 AI 生成代码质量与合入标准，与该主题关于 AI 代码双标的讨论最为贴近。",
+    "topics/agent-scaled-engineering.md": "文中提到 AI 短时间吐出几万行代码，涉及智能体规模化工程的风险与治理。",
+    "topics/vibe-coding-memory-paradox.md": "AI 撰写 bug 修复与测试却可能不理解核心代码，契合 vibe coding 的记忆与理解悖论。",
+    "topics/llm-formal-verification.md": "文中提到大量验证用测试代码，与 LLM 辅助验证和代码正确性相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-code-vs-messy-code-double-standard.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/llm-formal-verification.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-code-vs-messy-code-double-standard.md": "文章讨论 AI 生成代码质量与合入标准，与该主题关于 AI 代码双标的讨论最为贴近。",
+      "topics/agent-scaled-engineering.md": "文中提到 AI 短时间吐出几万行代码，涉及智能体规模化工程的风险与治理。",
+      "topics/vibe-coding-memory-paradox.md": "AI 撰写 bug 修复与测试却可能不理解核心代码，契合 vibe coding 的记忆与理解悖论。",
+      "topics/llm-formal-verification.md": "文中提到大量验证用测试代码，与 LLM 辅助验证和代码正确性相关。"
+    },
+    "notes": "基于单条 X 帖文整理，未引用文章外的事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/linus-torvalds-blows-up-over-40-000-line-ai-assisted-update-ext4.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

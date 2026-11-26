@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:29:56.534Z",
+  "url": "https://x.com/0xlangeai/status/2125571922541113635",
+  "slug": "3eb1971331abb881",
+  "content_hash": "dca72e899fc78950b397ad706d5807e016d858022f277e44b26676f928ca2077",
+  "source": {
+    "path": "sources/articles/he-tried-the-official-deepseek-harness-desktop-client-and-found.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/loose-web-agent-harness-plugins.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文中强调后台运行与定时任务（Automation），与智能体自动模式相关。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文对比 DeepSeek Harness 桌面端与 Web/CLI，涉及 Harness 产品形态对比，与该主题相近。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中提到插件管理图形界面及本地文件操作，与 Harness 插件与界面体验相关。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "文中将桌面端描述为更接近「个人助理」的定时任务方式，与个人助手派活而非多 Harness 路由基建相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文对比 DeepSeek Harness 桌面端与 Web/CLI，涉及 Harness 产品形态对比，与该主题相近。",
+    "topics/loose-web-agent-harness-plugins.md": "文中提到插件管理图形界面及本地文件操作，与 Harness 插件与界面体验相关。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "文中将桌面端描述为更接近「个人助理」的定时任务方式，与个人助手派活而非多 Harness 路由基建相近。",
+    "topics/agent-auto-mode.md": "文中强调后台运行与定时任务（Automation），与智能体自动模式相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/he-tried-the-official-deepseek-harness-desktop-client-and-found.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/loose-web-agent-harness-plugins.md",
+      "topics/multi-harness-router-vs-personal-dispatch.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "帖文对比 DeepSeek Harness 桌面端与 Web/CLI，涉及 Harness 产品形态对比，与该主题相近。",
+      "topics/loose-web-agent-harness-plugins.md": "文中提到插件管理图形界面及本地文件操作，与 Harness 插件与界面体验相关。",
+      "topics/multi-harness-router-vs-personal-dispatch.md": "文中将桌面端描述为更接近「个人助理」的定时任务方式，与个人助手派活而非多 Harness 路由基建相近。",
+      "topics/agent-auto-mode.md": "文中强调后台运行与定时任务（Automation），与智能体自动模式相关。"
+    },
+    "notes": "所有主张均基于帖文，未独立核实；未创建新主题，所有咨询主题均保持 unchanged。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/he-tried-the-official-deepseek-harness-desktop-client-and-found.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

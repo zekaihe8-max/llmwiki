@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是黑五 AI 订阅定价与是否真降价，与高端 AI 订阅价值主题直接相关",
+    "topics/claude-subscription-risk-control-weights.md": "文中涉及 Claude/Anthropic 订阅定价及风控提示，与订阅风控权重主题相关",
+    "topics/usage-limit-ab-tests.md": "文中详述各平台额度池、周限额与 API 额度规则，与用量上限主题相关"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是黑五 AI 订阅定价与是否真降价，与高端 AI 订阅价值主题直接相关"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Claude/Anthropic 订阅定价及风控提示，与订阅风控权重主题相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "文中详述各平台额度池、周限额与 API 额度规则，与用量上限主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 X 用户 @cgnot996 发布的长文，所有价格与活动时间均以文章中引述的官网条款为准，未独立核实。"
+}

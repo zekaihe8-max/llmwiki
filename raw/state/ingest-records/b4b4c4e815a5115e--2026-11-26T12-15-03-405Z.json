@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-26T12:15:03.405Z",
+  "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai",
+  "slug": "b4b4c4e815a5115e",
+  "content_hash": "c69459dffe2ad604ef8ae9b93042fcbf4543af955163861ad0ea35048047b712",
+  "source": {
+    "path": "sources/articles/the-hackintosh-reborn-with-ai.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-os-port-wave.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/llm-assisted-ereader-jailbreak.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-assisted-os-port-wave.md",
+      "action": "unchanged",
+      "reason": "文章核心正是 AI 辅助下操作系统移植与破解的新风潮，与该主题高度相关。"
+    },
+    {
+      "path": "topics/llm-assisted-ereader-jailbreak.md",
+      "action": "unchanged",
+      "reason": "黑苹果与设备越狱/移植同属绕过官方硬件限制的技术实践，主题相近。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "作者未手写代码即用 AI 完成 iOS App，体现“Vibe Coding”无代码开发特征。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-os-port-wave.md": "文章核心正是 AI 辅助下操作系统移植与破解的新风潮，与该主题高度相关。",
+    "topics/vibe-coding-memory-paradox.md": "作者未手写代码即用 AI 完成 iOS App，体现“Vibe Coding”无代码开发特征。",
+    "topics/llm-assisted-ereader-jailbreak.md": "黑苹果与设备越狱/移植同属绕过官方硬件限制的技术实践，主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/the-hackintosh-reborn-with-ai.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-os-port-wave.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/llm-assisted-ereader-jailbreak.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-os-port-wave.md": "文章核心正是 AI 辅助下操作系统移植与破解的新风潮，与该主题高度相关。",
+      "topics/vibe-coding-memory-paradox.md": "作者未手写代码即用 AI 完成 iOS App，体现“Vibe Coding”无代码开发特征。",
+      "topics/llm-assisted-ereader-jailbreak.md": "黑苹果与设备越狱/移植同属绕过官方硬件限制的技术实践，主题相近。"
+    },
+    "notes": "所有未独立核实的社区进展均已用“帖文称”或文中陈述方式呈现，未编造超出文章的事实或链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/the-hackintosh-reborn-with-ai.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

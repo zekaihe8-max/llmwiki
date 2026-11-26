@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/local-open-assistant-models.md",
+    "topics/open-weight-frontier-models.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/local-open-assistant-models.md": "Ternary Bonsai 是面向本地运行的开放助手模型，仅需 5.9GB 显存，符合本地小模型主题。",
+    "topics/open-weight-frontier-models.md": "作为开放权重的前沿量化模型，基于 Qwen3.8 27B 并推动边界。",
+    "topics/gpu-ai-compute-unlock.md": "5.9GB 显存需求直接解锁消费级 GPU 算力，让更多用户能本地跑 27B 模型。"
+  },
+  "topics": [
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Ternary Bonsai 是面向本地运行的开放助手模型，仅需 5.9GB 显存，符合本地小模型主题。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "作为开放权重的前沿量化模型，基于 Qwen3.8 27B 并推动边界。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "5.9GB 显存需求直接解锁消费级 GPU 算力，让更多用户能本地跑 27B 模型。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is a single X post by Gorden Sun (@Gorden_Sun) dated Nov 25, 2026. Claims about model capabilities and VRAM requirements are as stated in the post; independent verification recommended."
+}

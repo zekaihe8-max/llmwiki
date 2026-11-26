@@ -1,0 +1,23 @@
+{
+  "slug": "fc9bfe78af16dea4",
+  "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+  "title": "模型页",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "fc9bfe78af16dea43b10561268c1747b65ee31f774fabe455753684584ad2df2",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:26.791Z",
+  "content_hash": "5df78d8ab5f1aa507a6f5b23da6564d021977ac6e791b4e8113dc6be7dd9d69c",
+  "article_path": "articles/fc9bfe78af16dea4.md",
+  "fetched_url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+  "source_path": "sources/articles/microsoft-aion-1-0-instruct-2-3b-model-page.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:37:23.570Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

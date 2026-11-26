@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T01:22:03.331Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -15285,5 +15285,453 @@
     "last_seen": "2026-11-26T01:22:03.331Z",
     "digest": "2026-11-26-frontier-ai.md",
     "title": "仓库"
+  },
+  "https://x.com/Khazix0918/status/2125803873575284892": {
+    "hash": "fad31c4e7e2c4c4897e53e7a6984aa5413020f11c06e888c012e08a8d0ea3727",
+    "slug": "fad31c4e7e2c4c48",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他把斯坦福新书做成 Prompt，先给自己写出一本《个人意义设计手册》"
+  },
+  "https://x.com/i/article/2125802173821030400": {
+    "hash": "192c69cbde647aa7178c6b25f7f5ef6cb4aba90a1a7c87afae98ca576ec186d6",
+    "slug": "192c69cbde647aa7",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "文章"
+  },
+  "https://x.com/servasyy_ai/status/2125581736159690853": {
+    "hash": "0c646458bd0cd1d40839f18e459f5e3bf444bd84aebbf5636561f04547baf451",
+    "slug": "0c646458bd0cd1d4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "肝了 4 天 4 夜，用 Fable 5.2 加 Blender 搭出一座能逛的 2K 曼哈顿"
+  },
+  "https://x.com/i/article/2125382275546365952": {
+    "hash": "686fa263852a3c1aabbca23a6f39b260c4f93b2b23062252508b8e973c14eb7d",
+    "slug": "686fa263852a3c1a",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "教程"
+  },
+  "https://x.com/servasyy_ai/status/2125767459915673696": {
+    "hash": "5789a879fa99675c317b66950d787e4b23cc9ab09e2ca318e0159f7d2f7bd0de",
+    "slug": "5789a879fa99675c",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "朋友的数字人「希加加」拿 GTA 6 去问老黄"
+  },
+  "https://x.com/op7418/status/2125784465951896043": {
+    "hash": "90d6056294c624f34e93b250af5c50641f08ec0db9ba55ca4f83fad9c2ebf9f2",
+    "slug": "90d6056294c624f3",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "据传是 Opus 5.6 做的「PPT」，每一页都是完整的 3D 场景"
+  },
+  "https://x.com/fluxxrider/status/2125622238481371372": {
+    "hash": "0f6b8c2a031e5ee4e942878d1d96b0d1e8caae1b8751d2b99f97515c9ced2275",
+    "slug": "0f6b8c2a031e5ee4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "原演示"
+  },
+  "https://x.com/op7418/status/2125874831006777378": {
+    "hash": "9aa210730224bc1a6a513836d927f282c670908d117ada0d46e6109b7e0e8d3b",
+    "slug": "9aa210730224bc1a",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他最后回应了关于 t3 Code 那条转推"
+  },
+  "https://x.com/op7418/status/2125572602056048989": {
+    "hash": "b82dc158dc1aa23d9bb9b6f76a8757c7b84b156a53a69d986b570efd48e88d44",
+    "slug": "b82dc158dc1aa23d",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "拉黑"
+  },
+  "https://x.com/op7418/status/2125766168191631419": {
+    "hash": "8fa7e8b9346aeafcd291fa68f6bb0508f783b9757ad00097b5eb7f0cf5bc1d15",
+    "slug": "8fa7e8b9346aeafc",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Astra 开 Blender"
+  },
+  "https://x.com/lxfater/status/2125799520080433497": {
+    "hash": "9d1f9876ee5fbf91b69153379bff245abf6cc21777df9ad8b0f0db899d0be21d",
+    "slug": "9d1f9876ee5fbf91",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Linus 因为一份 4 万多行的 AI 更新发飙了"
+  },
+  "https://x.com/lxfater/status/2125897108041416782": {
+    "hash": "b99a936f5acfb8c2160fb3784b54bc2a6d4296a55bcffba5b6e146a5fabdcdc8",
+    "slug": "b99a936f5acfb8c2",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Qwen-Audio-3.1 把听写、配音、实时对话三套都补齐了，主攻多语言和中文方言"
+  },
+  "https://x.com/lxfater/status/2125613129832792293": {
+    "hash": "d0a6e86e363184e250387f39f94bd5513ddde2e8919d928590e1521c6ad47ddc",
+    "slug": "d0a6e86e363184e2",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "黑苹果这波反而是 AI 给撬开的"
+  },
+  "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai": {
+    "hash": "b4b4c4e815a5115ed4fa246ef75eded3a2453de02a5373a55cc81f987aa88676",
+    "slug": "b4b4c4e815a5115e",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "博客"
+  },
+  "https://x.com/dotey/status/2125781282349076981": {
+    "hash": "f765fef2fc6fcb966b94237538c8a0bf34a3e5b559b02fb69a851ee0b818a878",
+    "slug": "f765fef2fc6fcb96",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他也转了那份据说是 Opus 5.6 灰度做的网页，并补上了录屏和完整提示词"
+  },
+  "https://x.com/dotey/status/2125813177317196196": {
+    "hash": "24455900772cf4eec40de54b661f0ab934f48fc2a98958ffcb13af0bb66cd0f5",
+    "slug": "24455900772cf4ee",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Cindy 即将集成 /artifacts，可直接做文档、幻灯片、白板和网页"
+  },
+  "https://x.com/dotey/status/2125748227790327906": {
+    "hash": "a8160bda9bde921d2ce82e1c544aa6918ca4d9e465a674597c42cd63e0643479",
+    "slug": "a8160bda9bde921d",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "黄仁勋复职两天后，Denny's 把「英伟达诞生卡座」的铭牌挂了回去"
+  },
+  "https://x.com/oran_ge/status/2125789243134124334": {
+    "hash": "17bf7c1fa275e70c7e77b3dfa227a087769de93136cbfdeaab5dc914819617bc",
+    "slug": "17bf7c1fa275e70c",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他整理了一批去 AI 味的 Skill，从文章到排版、logo 和字体都有"
+  },
+  "https://colaskill.com/zh/ste80-humanizer": {
+    "hash": "ccea453ad25dd08270f0acdc6d1e75936898e877a83b3e264b43d1f1f32df3c5",
+    "slug": "ccea453ad25dd082",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "ste80-humanizer"
+  },
+  "https://colaskill.com/zh/simpleenglish": {
+    "hash": "9f6cb0da0ca9eed35653fdd6d4a9200802a1ddf76dcd538af4f9c111a16ae9f6",
+    "slug": "9f6cb0da0ca9eed3",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "simpleenglish"
+  },
+  "https://colaskill.com/zh/ui-design": {
+    "hash": "a4974c71127f9e4a92c6724095237e63781696608a4b1621de632e5c7abbccaa",
+    "slug": "a4974c71127f9e4a",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "ui-design"
+  },
+  "https://colaskill.com/zh/styleseed": {
+    "hash": "1dd4c21179cf663e31b238530418c4ada724a4f101945ebea2ba703f0f3d72ec",
+    "slug": "1dd4c21179cf663e",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "styleseed"
+  },
+  "https://colaskill.com/zh/logo-design-skill": {
+    "hash": "35f242ea6fadd411ff0e66fc8b4eb337b8b3475e887abc158dba2994b2d5e67d",
+    "slug": "35f242ea6fadd411",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "logo-design-skill"
+  },
+  "https://colaskill.com/zh/vane-cinematic-poster": {
+    "hash": "163cb79b4ed6a6a4541742d17af23ba7d8f65bd4276a3f568f0e485420bcddf0",
+    "slug": "163cb79b4ed6a6a4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "vane-cinematic-poster"
+  },
+  "https://x.com/oran_ge/status/2125726867793862915": {
+    "hash": "d8ec7aaf8e14020933f109afdb1fcdebd74838ef41d9451729f5d65c3ea1b9bd",
+    "slug": "d8ec7aaf8e140209",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "《影之刃零》主创说，除了写代码，这个游戏没有什么 AI 参与"
+  },
+  "https://x.com/turingou/status/2125613809390002430": {
+    "hash": "f0d0bf8de6ed98b4b9c617933000b5d1746681dbd10a22b88c2ebccac4a2e9b9",
+    "slug": "f0d0bf8de6ed98b4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他给 AI 原生公司下了一个很短的定义"
+  },
+  "https://x.com/turingou/status/2125603408732393506": {
+    "hash": "447ee4679d4e3ea6bc6b1b8c0ea0ca62f84bf1631c15ac7960704dabb11de667",
+    "slug": "447ee4679d4e3ea6",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "补充"
+  },
+  "https://x.com/turingou/status/2125824676446494821": {
+    "hash": "64538afe169c0e1d4f9837dd97e92fe1ae8d0287e7ad9c13a6151dac3d9dffce",
+    "slug": "64538afe169c0e1d",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Duet"
+  },
+  "https://x.com/turingou/status/2125911028362043637": {
+    "hash": "e851148d4a94be78ca9fe5ca9be61cb07dd0f5378a94349efb7c7667897ae6f5",
+    "slug": "e851148d4a94be78",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "一日三餐"
+  },
+  "https://x.com/cgnot996/status/2125757248567980103": {
+    "hash": "5d38101b14a4fb7e3b56122907fa2a26b960e49248ea1ab5fb9b0cad7a839002",
+    "slug": "5d38101b14a4fb7e",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "2026 黑五海外 AI 订阅，他翻完官网条款后认为真降价的只有 4 家"
+  },
+  "https://x.com/i/article/2125612095739973632": {
+    "hash": "4bd38cb0ef71bb0f1bfd9b8058fb210f10cf638093ef7689e1caafc4cc468cba",
+    "slug": "4bd38cb0ef71bb0f",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "长文"
+  },
+  "https://x.com/cgnot996/status/2125913262944661508": {
+    "hash": "34f06586541e9c409486b1b08a7ee94e4b091fe12163842c372ff50cb9385c4e",
+    "slug": "34f06586541e9c40",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他称自己是某次合作的受害者之一，点名希望 Qoder 和阿里通义正面回应账号安全"
+  },
+  "https://x.com/xiaomovps/status/2125890873238094143": {
+    "hash": "9c2c57d58677fdbec2186dfc30619f2e67386a90af41a3c136e91fd89f07ffa7",
+    "slug": "9c2c57d58677fdbe",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Antigravity 的插件市场终于把 MCP 和 Skill 收拢到一起了"
+  },
+  "https://x.com/xiaomovps/status/2125906913485562294": {
+    "hash": "36b20c9bc9c73b89b34660628bba937ac7bca66ccfc79f15df1c83833105921a",
+    "slug": "36b20c9bc9c73b89",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他觉得日常写代码，先装这 5 个 MCP 就够了"
+  },
+  "https://x.com/xiaomovps/status/2125869563992797620": {
+    "hash": "b487e157980896965a5d32fcfd5f768e9b5ac66fd1bc5f56e04aac4c78584856",
+    "slug": "b487e15798089696",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Pi 跟进了 Program Resume Protocol（OSC 7577）"
+  },
+  "https://x.com/vista8/status/2125843646130147811": {
+    "hash": "53d1de0ab39e20a930f0435be75f5530df8b36b3b407536028d96ab19b8c4afe",
+    "slug": "53d1de0ab39e20a9",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他正在做 Subcast 移动版，最喜欢 DeepSeek 一个 Key 把大模型、ASR、TTS 和搜索都打通"
+  },
+  "https://x.com/vista8/status/2125889784971493763": {
+    "hash": "7df265080654619e280b3c634b9bb8a7befd5a2e8d0a64fd66696b8e0a054d00",
+    "slug": "7df265080654619e",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Tabbit AI 浏览器，他用完觉得相见恨晚"
+  },
+  "https://x.com/dingyi/status/2125615011330658388": {
+    "hash": "ec27e703c1f1a5cb1516602d77631768915732e81e18252fa7a5ddbf9cdce38b",
+    "slug": "ec27e703c1f1a5cb",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他更新了今年的设计师版黑五优惠表"
+  },
+  "https://bfdeals.here/": {
+    "hash": "b875c4672d2e82c56a829f615afa2990e30ab93c262e4bdfcb40c0fda957f7b0",
+    "slug": "b875c4672d2e82c5",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "BF/DEALS"
+  },
+  "https://x.com/dingyi/status/2125614342536384559": {
+    "hash": "a72f6517fdfa716cbbf30c52f1d315601f7b0f49fc124fc7b0c5a820671214c6",
+    "slug": "a72f6517fdfa716c",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "有人问多账号怎么跑，他推荐 Amp"
+  },
+  "https://x.com/0xlangeai/status/2125571922541113635": {
+    "hash": "3eb1971331abb88184a9ceb3a41c88ef550463ccc43a8ddf4eed7a6d3c21182c",
+    "slug": "3eb1971331abb881",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "他上手了 DeepSeek Harness 官方桌面端，觉得比 Web 和 CLI 更香"
+  },
+  "https://github.com/stablyai/orca": {
+    "hash": "0a8884baa5f55aa6602b2f44d034d5297a87f1a5cbc132774e27cb69f8d60a2d",
+    "slug": "0a8884baa5f55aa6",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "仓库"
+  },
+  "https://github.com/herdrdev/herdr": {
+    "hash": "576c6507cbdd1cf31f63a84b31d8d24492f8651987868942d9145ea3769e0ef4",
+    "slug": "576c6507cbdd1cf3",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "仓库"
+  },
+  "https://github.com/getpaseo/paseo": {
+    "hash": "c9a81d0b635ff6db42b21f0c247323733126107a7889c36bd20c2b72901a8eb3",
+    "slug": "c9a81d0b635ff6db",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "仓库"
+  },
+  "https://github.com/slopus/happy": {
+    "hash": "14513734b3a8548f145becae07a4f2f3628e4496361b870bba80c6627bb0d681",
+    "slug": "14513734b3a8548f",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "仓库"
+  },
+  "https://github.com/ParadevAI/Paradev": {
+    "hash": "15050b602ba6fbb25b80b0eb3f412ac0ba74d8da5ae4f8c00ae7b7b04370419f",
+    "slug": "15050b602ba6fbb2",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/lxfater/status/2125879101407850692": {
+    "hash": "e7bb5cccb3071b382354fda3b55507a0c54ce121d5834dcb783521038e08350c",
+    "slug": "e7bb5cccb3071b38",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": null
+  },
+  "https://x.com/Gorden_Sun/status/2125766632287215747": {
+    "hash": "c6d891ea9f047be49254aa85bb61a1c8437add53ec527e35bcfa9ccd823a5fcd",
+    "slug": "c6d891ea9f047be4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": null
+  },
+  "https://github.com/anomalyco/hex": {
+    "hash": "18c9f57686a48c3bdffb28543824f582195a3bd54f537cb670839fe879518a4c",
+    "slug": "18c9f57686a48c3b",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/Gorden_Sun/status/2125617968977740241": {
+    "hash": "de67fa2ebc462b583d810e950846852bf1443f7821d8179b3fe7e3d6367d6224",
+    "slug": "de67fa2ebc462b58",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Bonsai"
+  },
+  "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF": {
+    "hash": "fb828fc93bb9d0c84af5e66f1e349ab6c2eb1e74d583bdbc945cb36fa7551123",
+    "slug": "fb828fc93bb9d0c8",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "模型"
+  },
+  "https://x.com/Gorden_Sun/status/2125769222521569308": {
+    "hash": "e32528dd22a7344e6ed16678754099f81f14169d1a323addaef7e77251da110c",
+    "slug": "e32528dd22a7344e",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "Aion"
+  },
+  "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B": {
+    "hash": "fc9bfe78af16dea43b10561268c1747b65ee31f774fabe455753684584ad2df2",
+    "slug": "fc9bfe78af16dea4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "模型页"
+  },
+  "https://x.com/0xLogicrw/status/2125875584584827154": {
+    "hash": "a8cac33041ef4cfb12204a3327d3223523f9f40b0ff8dd7a8ad2dcad8253e46d",
+    "slug": "a8cac33041ef4cfb",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": null
+  },
+  "https://x.com/HiTw93/status/2125598323327508840": {
+    "hash": "78b612692657b4a61264b696e1465defb352d3a4b41a42a345a58bcfed394559",
+    "slug": "78b612692657b4a6",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": null
+  },
+  "https://mole.fit/": {
+    "hash": "db7afd1698a93cd4c422af5ca1402a6509280e1fde28a87c4a6e7ad5fd4faeae",
+    "slug": "db7afd1698a93cd4",
+    "first_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-26T12:06:03.705Z",
+    "digest": "2026-11-26-cn-x.md",
+    "title": "官网"
   }
 }

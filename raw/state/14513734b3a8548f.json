@@ -1,0 +1,23 @@
+{
+  "slug": "14513734b3a8548f",
+  "url": "https://github.com/slopus/happy",
+  "title": "仓库",
+  "digest": "2026-11-26-cn-x.md",
+  "status": "filed",
+  "hash": "14513734b3a8548f145becae07a4f2f3628e4496361b870bba80c6627bb0d681",
+  "first_seen": "2026-11-26T12:06:03.705Z",
+  "last_seen": "2026-11-26T12:06:03.705Z",
+  "fetched_at": "2026-11-26T12:06:23.891Z",
+  "content_hash": "4cc5d6eda14761850063519c5d6b5a9810c771e7b7a5371ab66cfd9c7348fa29",
+  "article_path": "articles/14513734b3a8548f.md",
+  "fetched_url": "https://github.com/slopus/happy",
+  "source_path": "sources/articles/happy-engineering.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-26T12:32:18.970Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
