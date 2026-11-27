@@ -1,0 +1,23 @@
+{
+  "slug": "9eaff2b2d1889aab",
+  "url": "https://x.com/xiaomovps/status/2126210665585254468",
+  "title": "Pi 1.6.1 加 Cloudflare Agents SDK 0.34.0",
+  "digest": "2026-11-27-cn-x.md",
+  "status": "filed",
+  "hash": "9eaff2b2d1889aab4817c187a7458d5d1bbc47163ab000d2bb8447973bc60912",
+  "first_seen": "2026-11-27T11:55:36.185Z",
+  "last_seen": "2026-11-27T11:55:36.185Z",
+  "fetched_at": "2026-11-27T11:55:47.836Z",
+  "content_hash": "8f3157f0c6445425e43afc2ef277acfc3e07f59280a0cd7932b50f5beffebbff",
+  "article_path": "articles/9eaff2b2d1889aab.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2126210665585254468",
+  "source_path": "sources/articles/pi-1-6-1-with-cloudflare-agents-sdk-0-34-0-makes-cloud-resident.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T12:16:54.606Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

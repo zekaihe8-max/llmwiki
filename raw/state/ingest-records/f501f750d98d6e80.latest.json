@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:02:25.718Z",
+  "url": "https://x.com/0xlangeai/status/2126239508475867194",
+  "slug": "f501f750d98d6e80",
+  "content_hash": "625d8b66cf54b533349d32cafeb20380ce5440ee96114b18ec79251468e40cf5",
+  "source": {
+    "path": "sources/articles/google-colab-beginner-tutorial-from-running-code-to-generating-v.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agentic-video-editing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章第七章通过Colab CLI让AI助手管理云端会话、算力余额与资源释放，涉及智能体算力与治理"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章实操使用MiniMax H3和ComfyUI在云端生成AI视频，属于智能体/AI辅助视频制作范畴"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文章详细介绍Colab算力分、L4/T4/A100/H100显卡消耗及免费与付费算力路径，与消费级GPU AI算力主题高度相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "文章详细介绍Colab算力分、L4/T4/A100/H100显卡消耗及免费与付费算力路径，与消费级GPU AI算力主题高度相关",
+    "topics/agent-compute-and-governance.md": "文章第七章通过Colab CLI让AI助手管理云端会话、算力余额与资源释放，涉及智能体算力与治理",
+    "topics/agentic-video-editing.md": "文章实操使用MiniMax H3和ComfyUI在云端生成AI视频，属于智能体/AI辅助视频制作范畴"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-colab-beginner-tutorial-from-running-code-to-generating-v.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/agent-compute-and-governance.md",
+      "topics/agentic-video-editing.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "文章详细介绍Colab算力分、L4/T4/A100/H100显卡消耗及免费与付费算力路径，与消费级GPU AI算力主题高度相关",
+      "topics/agent-compute-and-governance.md": "文章第七章通过Colab CLI让AI助手管理云端会话、算力余额与资源释放，涉及智能体算力与治理",
+      "topics/agentic-video-editing.md": "文章实操使用MiniMax H3和ComfyUI在云端生成AI视频，属于智能体/AI辅助视频制作范畴"
+    },
+    "notes": "cite_id derived from author handle and status ID; all facts grounded in the provided article markdown only.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-colab-beginner-tutorial-from-running-code-to-generating-v.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

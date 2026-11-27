@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是用 AI 模型与代理完成剪辑、转场与动画，直接对应智能体视频剪辑主题。",
+    "topics/ai-assisted-clipping-and-notes.md": "文中描述的 AI 辅助视频制作与素材组织方式，属于 AI 辅助剪辑与媒体笔记范畴。",
+    "topics/open-source-in-ai-assistant-editing.md": "Opus 5.5 被用作 AI 助手进行自然语言驱动的剪辑与动画制作，与 AI 助手编辑主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用 AI 模型与代理完成剪辑、转场与动画，直接对应智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "文中描述的 AI 辅助视频制作与素材组织方式，属于 AI 辅助剪辑与媒体笔记范畴。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Opus 5.5 被用作 AI 助手进行自然语言驱动的剪辑与动画制作，与 AI 助手编辑主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用全部基于 X 帖文，未核实 Opus 5.5 及涨粉数据等具体事实。"
+}

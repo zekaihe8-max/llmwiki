@@ -1,5 +1,67 @@
 ## 2026-11-27
 
+* **创建 / Creation**: 归档 [Pi 1.6.1 加 Cloudflare Agents SDK 0.34.0：云端常驻 Agent 更省心](./sources/articles/pi-1-6-1-with-cloudflare-agents-sdk-0-34-0-makes-cloud-resident.md)。 / Filed [Pi 1.6.1 with Cloudflare Agents SDK 0.34.0 makes cloud-resident agents easier to run](./sources/articles/pi-1-6-1-with-cloudflare-agents-sdk-0-34-0-makes-cloud-resident.md).
+
+* **创建 / Creation**: 归档 [Calends 订阅管理加强：Agent 可整理收据发票等文件资产](./sources/articles/calends-subscription-management-strengthened-agents-can-organize.md)。 / Filed [Calends Subscription Management Strengthened: Agents Can Organize Receipts, Invoices and File Assets](./sources/articles/calends-subscription-management-strengthened-agents-can-organize.md).
+
+* **创建 / Creation**: 归档 [豆包工作接入剪映官方插件，支持一句话 AI 自动剪辑](./sources/articles/doubao-work-integrates-jianying-official-plugin-for-one-sentence.md)。 / Filed [Doubao Work integrates Jianying official plugin for one-sentence AI video editing](./sources/articles/doubao-work-integrates-jianying-official-plugin-for-one-sentence.md).
+
+* **创建 / Creation**: 归档 [腾讯元宝开始招募个人助手「小元」首批体验官](./sources/articles/tencent-yuanbao-begins-recruiting-first-batch-of-xiao-yuan-perso.md)。 / Filed [Tencent Yuanbao Begins Recruiting First Batch of "Xiao Yuan" Personal Agent Experience Officers](./sources/articles/tencent-yuanbao-begins-recruiting-first-batch-of-xiao-yuan-perso.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 正式公开工具延迟加载机制](./sources/articles/deepseek-officially-publishes-deferred-tool-loading-mechanism.md)。 / Filed [DeepSeek Officially Publishes Deferred Tool Loading Mechanism](./sources/articles/deepseek-officially-publishes-deferred-tool-loading-mechanism.md).
+
+* **创建 / Creation**: 归档 [Coucou 等五个 AI Agent 开源项目值得关注](./sources/articles/coucou-and-five-ai-agent-open-source-projects-worth-watching.md)。 / Filed [Coucou and Five AI Agent Open-Source Projects Worth Watching](./sources/articles/coucou-and-five-ai-agent-open-source-projects-worth-watching.md).
+
+* **创建 / Creation**: 归档 [31年经验开发者看GTA 6移植直播，质疑Claude提示方式：有人只说「水还是什么东西坏了」](./sources/articles/31-year-veteran-watches-gta-6-port-livestream-questions-claude-p.md)。 / Filed [31-year veteran watches GTA 6 port livestream, questions Claude prompting: someone just said "the water or something is broken"](./sources/articles/31-year-veteran-watches-gta-6-port-livestream-questions-claude-p.md).
+
+* **创建 / Creation**: 归档 [斯坦福 CS329Z 第 12 讲：SWE-bench 共同创建者 John Yang 拆解 AI 智能体评估与好基准七项标准](./sources/articles/stanford-cs329z-lecture-12-swe-bench-co-creator-john-yang-on-ai.md)。 / Filed [Stanford CS329Z Lecture 12: SWE-bench Co-creator John Yang on AI Agent Evaluation and Seven Criteria for Good Benchmarks](./sources/articles/stanford-cs329z-lecture-12-swe-bench-co-creator-john-yang-on-ai.md).
+
+* **创建 / Creation**: 归档 [他用 XHunt 插件进 X 全球 AI 赛道前 1 万，并把排名当娱乐打榜](./sources/articles/he-uses-xhunt-plugin-to-enter-x-global-ai-top-10-000-and-treats.md)。 / Filed [He uses XHunt plugin to enter X global AI top 10,000 and treats ranking as entertainment score-chasing](./sources/articles/he-uses-xhunt-plugin-to-enter-x-global-ai-top-10-000-and-treats.md).
+
+* **创建 / Creation**: 归档 [剪映官方插件接入豆包工作，全自动剪辑时代到来](./sources/articles/jianying-official-plugin-integrates-doubao-work-fully-automatic.md)。 / Filed [Jianying Official Plugin Integrates Doubao Work, Fully Automatic Editing Era Arrives](./sources/articles/jianying-official-plugin-integrates-doubao-work-fully-automatic.md).
+
+* **创建 / Creation**: 归档 [Subcast 自动高光剪辑测试：李开复称 AI 先取代平庸电影，再取代好电影](./sources/articles/subcast-auto-highlight-clipping-test-kai-fu-lee-says-ai-first-re.md)。 / Filed [Subcast Auto Highlight Clipping Test: Kai-Fu Lee Says AI First Replaces Mediocre Movies, Then Good Ones](./sources/articles/subcast-auto-highlight-clipping-test-kai-fu-lee-says-ai-first-re.md).
+
+* **创建 / Creation**: 归档 [AI 播客软件 Subcast 上线安卓首版，iOS 提交 TestFlight](./sources/articles/ai-podcast-app-subcast-launches-android-v1-ios-submitted-to-test.md)。 / Filed [AI podcast app Subcast launches Android v1, iOS submitted to TestFlight](./sources/articles/ai-podcast-app-subcast-launches-android-v1-ios-submitted-to-test.md).
+
+* **创建 / Creation**: 归档 [橘座对话星月写作 CEO 猛哥：如何在当下环境做出真正赚钱的 AI 应用](./sources/articles/orange-seat-interviews-xingyue-writing-ceo-meng-ge-how-to-build.md)。 / Filed [Orange Seat interviews Xingyue Writing CEO Meng Ge: How to build truly profitable AI apps in the current environment](./sources/articles/orange-seat-interviews-xingyue-writing-ceo-meng-ge-how-to-build.md).
+
+* **创建 / Creation**: 归档 [郭宇在东京录制四集个人纪录片，讲述从留守儿童到AI从业者的人生](./sources/articles/guo-yu-records-four-episode-personal-documentary-in-tokyo-recoun.md)。 / Filed [Guo Yu records four-episode personal documentary in Tokyo, recounting life from left-behind child to AI practitioner](./sources/articles/guo-yu-records-four-episode-personal-documentary-in-tokyo-recoun.md).
+
+* **创建 / Creation**: 归档 [把幸福的重心放在创造上：财务自由不是终点，创造才是乐趣来源](./sources/articles/placing-happiness-on-creation-financial-freedom-is-not-the-end-c.md)。 / Filed [Placing Happiness on Creation: Financial Freedom Is Not the End, Creation Is the Source of Joy](./sources/articles/placing-happiness-on-creation-financial-freedom-is-not-the-end-c.md).
+
+* **创建 / Creation**: 归档 [Raycast 黑五 7 折，今年折扣不如去年猛](./sources/articles/raycast-black-friday-30-off-discounts-not-as-aggressive-as-last.md)。 / Filed [Raycast Black Friday 30% off, discounts not as aggressive as last year](./sources/articles/raycast-black-friday-30-off-discounts-not-as-aggressive-as-last.md).
+
+* **创建 / Creation**: 归档 [他分享了一个相对省钱的 AI MV 和剧情视频做法](./sources/articles/he-shares-a-relatively-cost-effective-method-for-ai-mvs-and-narr.md)。 / Filed [He shares a relatively cost-effective method for AI MVs and narrative videos](./sources/articles/he-shares-a-relatively-cost-effective-method-for-ai-mvs-and-narr.md).
+
+* **创建 / Creation**: 归档 [Gemini 与 Neon 译英文 PDF 并复盘四道防翻车约束](./sources/articles/gemini-and-neon-translate-english-pdf-and-review-four-anti-failu.md)。 / Filed [Gemini and Neon translate English PDF and review four anti-failure constraints](./sources/articles/gemini-and-neon-translate-english-pdf-and-review-four-anti-failu.md).
+
+* **创建 / Creation**: 归档 [他用订阅自带的 Colab 积分，在 Codex 里跑出一条 AI 视频，强调没有另买付费 API](./sources/articles/he-used-colab-credits-included-with-his-subscription-to-generate.md)。 / Filed [He used Colab credits included with his subscription to generate an AI video in Codex, stressing no extra paid API was purchased](./sources/articles/he-used-colab-credits-included-with-his-subscription-to-generate.md).
+
+* **创建 / Creation**: 归档 [Google Colab 保姆级教程：从运行代码到生成短片](./sources/articles/google-colab-beginner-tutorial-from-running-code-to-generating-v.md)。 / Filed [Google Colab Beginner Tutorial: From Running Code to Generating Videos](./sources/articles/google-colab-beginner-tutorial-from-running-code-to-generating-v.md).
+
+* **创建 / Creation**: 归档 [他反驳「MCP 已经凉了」：大厂后台调用已经很高，新 MCP 也补了四块能力](./sources/articles/he-refutes-mcp-is-dead-big-business-backend-calls-are-already-hi.md)。 / Filed [He refutes "MCP is dead": big-business backend calls are already high, new MCP adds four capabilities](./sources/articles/he-refutes-mcp-is-dead-big-business-backend-calls-are-already-hi.md).
+
+* **创建 / Creation**: 归档 [谷歌 Antigravity 重置 Gemini 额度，付费用户因两个后台扣费 Bug 炸锅](./sources/articles/google-antigravity-resets-gemini-quotas-paid-users-outraged-over.md)。 / Filed [Google Antigravity Resets Gemini Quotas, Paid Users Outraged Over Two Background Quota-Leak Bugs](./sources/articles/google-antigravity-resets-gemini-quotas-paid-users-outraged-over.md).
+
+* **创建 / Creation**: 归档 [黑五 Google AI 会员藏显卡算力与云抵扣金，别只拿来聊天](./sources/articles/black-friday-google-ai-membership-hides-gpu-compute-and-cloud-cr.md)。 / Filed [Black Friday Google AI membership hides GPU compute and cloud credits—don't just use it for chat](./sources/articles/black-friday-google-ai-membership-hides-gpu-compute-and-cloud-cr.md).
+
+* **创建 / Creation**: 归档 [Anthropic 如何让 AI 重写核心 Messages API：从 Python 到 Rust 的验证之道](./sources/articles/how-anthropic-let-ai-rewrite-the-core-messages-api-from-python-t.md)。 / Filed [How Anthropic Let AI Rewrite the Core Messages API from Python to Rust](./sources/articles/how-anthropic-let-ai-rewrite-the-core-messages-api-from-python-t.md).
+
+* **创建 / Creation**: 归档 [他不再只丢清单，把 Anthropic 免费 Agent 资料排成可跟练的学习路线](./sources/articles/from-bookmarks-to-practice-anthropic-s-free-agent-materials-orga.md)。 / Filed [From bookmarks to practice: Anthropic's free Agent materials organized into a guided learning path](./sources/articles/from-bookmarks-to-practice-anthropic-s-free-agent-materials-orga.md).
+
+* **创建 / Creation**: 归档 [他解释为什么 Gemini 和 Antigravity 用起来像两家公司的产品：三套班子挂在同一张会员卡上](./sources/articles/he-explains-why-gemini-and-antigravity-feel-like-products-from-t.md)。 / Filed [He explains why Gemini and Antigravity feel like products from two companies: three teams sharing one membership card](./sources/articles/he-explains-why-gemini-and-antigravity-feel-like-products-from-t.md).
+
+* **创建 / Creation**: 归档 [谷歌 Antigravity 不好用？只需这 5 个不打架的插件](./sources/articles/google-antigravity-not-working-just-these-5-non-conflicting-plug.md)。 / Filed [Google Antigravity Not Working? Just These 5 Non-Conflicting Plugins](./sources/articles/google-antigravity-not-working-just-these-5-non-conflicting-plug.md).
+
+* **创建 / Creation**: 归档 [电路网站](./sources/articles/circuit-website.md)。 / Filed [Circuit Website](./sources/articles/circuit-website.md).
+
+* **创建 / Creation**: 归档 [宝玉推荐免费电子学入门站 Electronics 101：68 节 3D 互动课，支持简体中文，浏览器即可学习](./sources/articles/bao-yu-recommends-free-electronics-101-68-interactive-3d-lessons.md)。 / Filed [Bao Yu Recommends Free Electronics 101: 68 Interactive 3D Lessons, Simplified Chinese Support, Learn in Browser](./sources/articles/bao-yu-recommends-free-electronics-101-68-interactive-3d-lessons.md).
+
+* **创建 / Creation**: 归档 [shadcn UI SDK 原视频补配音，帖文称这是目前解释最清晰的一版](./sources/articles/shadcn-ui-sdk-original-video-gets-dubbing-post-calls-it-the-clea.md)。 / Filed [shadcn UI SDK original video gets dubbing; post calls it the clearest explanation yet](./sources/articles/shadcn-ui-sdk-original-video-gets-dubbing-post-calls-it-the-clea.md).
+
+* **创建 / Creation**: 归档 [手把手教你把Skill挂上支付宝挣钱，好手艺不该只有免费开源](./sources/articles/step-by-step-guide-to-monetizing-skills-on-alipay-skillpay-good.md)。 / Filed [Step-by-Step Guide to Monetizing Skills on Alipay SkillPay: Good Craftsmanship Shouldn't Be Only Free and Open Source](./sources/articles/step-by-step-guide-to-monetizing-skills-on-alipay-skillpay-good.md).
+
 * **创建 / Creation**: 归档 [小墨：Antigravity 省额五技巧（Orchestrator、上下文压缩与规则减法）](./sources/articles/xiao-mo-five-antigravity-quota-saving-tips-orchestrator-context.md)。 / Filed [Xiao Mo: Five Antigravity Quota-Saving Tips (Orchestrator, Context Compression, and Rule Reduction)](./sources/articles/xiao-mo-five-antigravity-quota-saving-tips-orchestrator-context.md).
 
 * **创建 / Creation**: 归档 [Rex 通过 OSC 7577 终端协议支持程序跨服务器重启恢复](./sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md)。 / Filed [Rex Adds Program Resume Across Server Restarts via OSC 7577 Terminal Protocol](./sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md).

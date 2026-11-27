@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:15:41.069Z",
+  "url": "https://x.com/0xLogicrw/status/2126267246268006414",
+  "slug": "fd33e8763033700d",
+  "content_hash": "06e9d6667ac4662eedc2fb56f82faeed955dcb63f7815207281f628e18b1101c",
+  "source": {
+    "path": "sources/articles/doubao-work-integrates-jianying-official-plugin-for-one-sentence.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是 AI 驱动的自动视频剪辑与多轨精修，直接对应智能体视频剪辑主题。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文描述用自然语言指令进行视频剪辑与素材处理，属 AI 辅助剪辑与媒体笔记范畴。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "豆包工作与剪映的插件合作属于应用内第三方服务/模型伙伴接入。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "通过 AI 助手用自然语言完成剪辑操作，与 AI 助手做自然语言剪辑的主题高度相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是 AI 驱动的自动视频剪辑与多轨精修，直接对应智能体视频剪辑主题。",
+    "topics/ai-assisted-clipping-and-notes.md": "帖文描述用自然语言指令进行视频剪辑与素材处理，属 AI 辅助剪辑与媒体笔记范畴。",
+    "topics/open-source-in-ai-assistant-editing.md": "通过 AI 助手用自然语言完成剪辑操作，与 AI 助手做自然语言剪辑的主题高度相关。",
+    "topics/in-app-model-partnerships.md": "豆包工作与剪映的插件合作属于应用内第三方服务/模型伙伴接入。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/doubao-work-integrates-jianying-official-plugin-for-one-sentence.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/in-app-model-partnerships.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章核心是 AI 驱动的自动视频剪辑与多轨精修，直接对应智能体视频剪辑主题。",
+      "topics/ai-assisted-clipping-and-notes.md": "帖文描述用自然语言指令进行视频剪辑与素材处理，属 AI 辅助剪辑与媒体笔记范畴。",
+      "topics/open-source-in-ai-assistant-editing.md": "通过 AI 助手用自然语言完成剪辑操作，与 AI 助手做自然语言剪辑的主题高度相关。",
+      "topics/in-app-model-partnerships.md": "豆包工作与剪映的插件合作属于应用内第三方服务/模型伙伴接入。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/doubao-work-integrates-jianying-official-plugin-for-one-sentence.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

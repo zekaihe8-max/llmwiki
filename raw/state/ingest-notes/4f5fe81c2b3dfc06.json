@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文源自 Reddit r/ClaudeCode，讨论 Claude 提示风格与社区话语，直接相关。",
+    "topics/vibe-coding-memory-paradox.md": "文中讨论口语化、随意提示与“先能玩再改”的做法，与 Vibe Coding 记忆悖论主题接近。",
+    "topics/calibrating-ai-guidance.md": "评论两极分化于“越随便越好”与“信息密集具体”，正对应对 AI 引导过度与不足的校准。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "高赞评论明确提到这类项目不在乎“意大利面代码”，与 AI 代码与屎山双标主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文源自 Reddit r/ClaudeCode，讨论 Claude 提示风格与社区话语，直接相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文中讨论口语化、随意提示与“先能玩再改”的做法，与 Vibe Coding 记忆悖论主题接近。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "评论两极分化于“越随便越好”与“信息密集具体”，正对应对 AI 引导过度与不足的校准。"
+    },
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "高赞评论明确提到这类项目不在乎“意大利面代码”，与 AI 代码与屎山双标主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "引用均来自所提供推文正文，未编造 URL 或额外事实。"
+}

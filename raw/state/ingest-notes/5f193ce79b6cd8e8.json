@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ux-dx-and-ax.md",
+    "topics/computer-use.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "selection_reasons": {
+    "topics/ux-dx-and-ax.md": "帖文围绕 UI SDK 与跨框架组件，属于开发者体验与 Agent 体验（AX）范畴。",
+    "topics/computer-use.md": "内容涉及 Agent 通过行为原语操作界面，与 Computer Use 主题相近。",
+    "topics/agent-skill-authoring.md": "Agent 组合 UI 原语的做法可关联到 Agent Skill 编写与编排。"
+  },
+  "topics": [
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "帖文围绕 UI SDK 与跨框架组件，属于开发者体验与 Agent 体验（AX）范畴。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "内容涉及 Agent 通过行为原语操作界面，与 Computer Use 主题相近。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Agent 组合 UI 原语的做法可关联到 Agent Skill 编写与编排。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于提供的帖文内容，未引入外部事实。"
+}

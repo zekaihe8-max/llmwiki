@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:00:58.702Z",
+  "url": "https://x.com/lxfater/status/2126138948988584375",
+  "slug": "f7ac2e98981020b2",
+  "content_hash": "fb3f972237617d60e7187b930940628a66f82aa86245a50f807260af967b89e4",
+  "source": {
+    "path": "sources/articles/black-friday-google-ai-membership-hides-gpu-compute-and-cloud-cr.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中涉及谷歌云抵扣金与云主机配置，属于云平台 AI 资源使用与编排相关。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "文中重点介绍 Colab 显卡算力单元与 A100 使用，属于消费级 GPU AI 算力解锁范畴。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "文章核心是评估 Google AI 订阅的额外权益价值，与高端 AI 订阅价值主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "文章核心是评估 Google AI 订阅的额外权益价值，与高端 AI 订阅价值主题直接相关。",
+    "topics/gpu-ai-compute-unlock.md": "文中重点介绍 Colab 显卡算力单元与 A100 使用，属于消费级 GPU AI 算力解锁范畴。",
+    "topics/cloud-auto-model-routing.md": "文中涉及谷歌云抵扣金与云主机配置，属于云平台 AI 资源使用与编排相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/black-friday-google-ai-membership-hides-gpu-compute-and-cloud-cr.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "文章核心是评估 Google AI 订阅的额外权益价值，与高端 AI 订阅价值主题直接相关。",
+      "topics/gpu-ai-compute-unlock.md": "文中重点介绍 Colab 显卡算力单元与 A100 使用，属于消费级 GPU AI 算力解锁范畴。",
+      "topics/cloud-auto-model-routing.md": "文中涉及谷歌云抵扣金与云主机配置，属于云平台 AI 资源使用与编排相关。"
+    },
+    "notes": "以上主张均来源于该 X 帖文，未独立核实官方条款细节。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/black-friday-google-ai-membership-hides-gpu-compute-and-cloud-cr.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

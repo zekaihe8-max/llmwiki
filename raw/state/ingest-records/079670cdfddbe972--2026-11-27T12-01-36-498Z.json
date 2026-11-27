@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:01:36.498Z",
+  "url": "https://x.com/lxfater/status/2126145248036356206",
+  "slug": "079670cdfddbe972",
+  "content_hash": "0acda5869964840c7aea4242ddb1ddfebd845893bd6d186663ae2b61bedb3f9d",
+  "source": {
+    "path": "sources/articles/google-antigravity-resets-gemini-quotas-paid-users-outraged-over.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文中提到后台小模型与大模型之间的自动转发与复审，涉及跨模型编排。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文核心是编程 Agent（Antigravity）的额度体验与扣费异常，直接命中该主题。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "付费用户因额度被快速消耗而不满，关乎高端 AI 订阅的价值感知。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "涉及额度重置、周额度上限与用量异常消耗，属于用量上限相关讨论。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文核心是编程 Agent（Antigravity）的额度体验与扣费异常，直接命中该主题。",
+    "topics/cloud-auto-model-routing.md": "文中提到后台小模型与大模型之间的自动转发与复审，涉及跨模型编排。",
+    "topics/premium-ai-subscription-value.md": "付费用户因额度被快速消耗而不满，关乎高端 AI 订阅的价值感知。",
+    "topics/usage-limit-ab-tests.md": "涉及额度重置、周额度上限与用量异常消耗，属于用量上限相关讨论。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-antigravity-resets-gemini-quotas-paid-users-outraged-over.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/cloud-auto-model-routing.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "帖文核心是编程 Agent（Antigravity）的额度体验与扣费异常，直接命中该主题。",
+      "topics/cloud-auto-model-routing.md": "文中提到后台小模型与大模型之间的自动转发与复审，涉及跨模型编排。",
+      "topics/premium-ai-subscription-value.md": "付费用户因额度被快速消耗而不满，关乎高端 AI 订阅的价值感知。",
+      "topics/usage-limit-ab-tests.md": "涉及额度重置、周额度上限与用量异常消耗，属于用量上限相关讨论。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-antigravity-resets-gemini-quotas-paid-users-outraged-over.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

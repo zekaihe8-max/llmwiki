@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/agent-identity-platform-keys.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "帖文提到 Skills 收编进 MCP，与 Agent Skills 开放标准直接相关。",
+    "topics/agent-skill-authoring.md": "涉及 Agent Skill 编写与技能包机制，帖文中 Skills 由服务端自动同步、用时加载。",
+    "topics/context-engineering-for-agents.md": "原文提到早期 MCP 主要抱怨是 context bloat，属于 Agent 上下文工程范畴。",
+    "topics/agent-identity-platform-keys.md": "新 MCP 代码模式强调走个人账号授权，不用把密钥交给 AI，涉及身份与密钥管理。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Skills 收编进 MCP，与 Agent Skills 开放标准直接相关。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "涉及 Agent Skill 编写与技能包机制，帖文中 Skills 由服务端自动同步、用时加载。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "原文提到早期 MCP 主要抱怨是 context bloat，属于 Agent 上下文工程范畴。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "新 MCP 代码模式强调走个人账号授权，不用把密钥交给 AI，涉及身份与密钥管理。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于帖文及其引用的 Philipp Schmid 长文，未独立核实具体数据。"
+}

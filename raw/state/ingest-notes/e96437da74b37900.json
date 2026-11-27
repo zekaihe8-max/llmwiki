@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文将第三方排名当作娱乐打榜、不等同真实影响力，与“社区实测对抗刷分碰瓷”主题相近。",
+    "topics/public-benchmark-quality-scrutiny.md": "作者对排名成因持怀疑并提示不代表真实情况，对应“信任公开榜前先审质量”。",
+    "topics/loose-web-agent-harness-plugins.md": "文中核心工具是浏览器插件 XHunt，与“宽松网页管控下的 Agent Harness 插件”相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文将第三方排名当作娱乐打榜、不等同真实影响力，与“社区实测对抗刷分碰瓷”主题相近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "作者对排名成因持怀疑并提示不代表真实情况，对应“信任公开榜前先审质量”。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "文中核心工具是浏览器插件 XHunt，与“宽松网页管控下的 Agent Harness 插件”相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于所提供帖文，未引入外部事实。"
+}

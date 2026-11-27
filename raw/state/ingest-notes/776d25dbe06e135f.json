@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/company-agent-harness.md"
+  ],
+  "selection_reasons": {
+    "topics/context-engineering-for-agents.md": "文章核心在于通过按需加载工具定义优化 Agent 上下文与 Token 占用，属于上下文工程范畴。",
+    "topics/coding-agent-token-saving-tooling.md": "机制旨在节省 Token 并降低推理开销，与编程 Agent 省 Token 工具直接相关。",
+    "topics/company-agent-harness.md": "帖文提及 DeepSeek Harness 代码中已有相关实现，涉及 Agent Harness 基建。"
+  },
+  "topics": [
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "文章核心在于通过按需加载工具定义优化 Agent 上下文与 Token 占用，属于上下文工程范畴。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "机制旨在节省 Token 并降低推理开销，与编程 Agent 省 Token 工具直接相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文提及 DeepSeek Harness 代码中已有相关实现，涉及 Agent Harness 基建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

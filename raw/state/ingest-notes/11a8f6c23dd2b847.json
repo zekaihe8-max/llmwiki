@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-native-companies.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "与 AI 播客软件主题最贴近，涉及播客与 AI 结合的产品形态。",
+    "topics/ai-native-companies.md": "Subcast 作为 AI 原生产品上线，可复用该主题的产品分类视角。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "播客内容涉及语音与音频，与该主题相邻。"
+  },
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "与 AI 播客软件主题最贴近，涉及播客与 AI 结合的产品形态。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Subcast 作为 AI 原生产品上线，可复用该主题的产品分类视角。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "播客内容涉及语音与音频，与该主题相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实仅来自提供的 X 帖文摘要，未引入外部信息。"
+}

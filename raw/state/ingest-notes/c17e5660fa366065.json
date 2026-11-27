@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章围绕 AI 原生应用公司如何盈利展开，与该主题高度相关。",
+    "topics/peer-economics-before-vibe-coding.md": "文章核心是“怎样做出真正赚钱的 AI 应用”，强调先算清赚钱同行，与该主题契合。",
+    "topics/software-factory.md": "文中提到推出多款盈利 AI 应用，类似软件工厂式的产出模式，可供参考。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章围绕 AI 原生应用公司如何盈利展开，与该主题高度相关。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "文章核心是“怎样做出真正赚钱的 AI 应用”，强调先算清赚钱同行，与该主题契合。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "文中提到推出多款盈利 AI 应用，类似软件工厂式的产出模式，可供参考。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均使用「帖文称」标注，未擅自添加未在文中出现的事实或 URL。"
+}

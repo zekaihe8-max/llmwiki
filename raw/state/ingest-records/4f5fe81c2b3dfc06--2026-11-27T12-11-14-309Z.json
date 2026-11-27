@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:11:14.309Z",
+  "url": "https://x.com/shao__meng/status/2126158574565155132",
+  "slug": "4f5fe81c2b3dfc06",
+  "content_hash": "7c20cb36b6c0988d7466a8b54ce5ae9d2b7ad6259ed8f4532c9476f230c5e942",
+  "source": {
+    "path": "sources/articles/31-year-veteran-watches-gta-6-port-livestream-questions-claude-p.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/vibe-coding-memory-paradox.md",
+    "topics/calibrating-ai-guidance.md",
+    "topics/ai-code-vs-messy-code-double-standard.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-code-vs-messy-code-double-standard.md",
+      "action": "unchanged",
+      "reason": "高赞评论明确提到这类项目不在乎“意大利面代码”，与 AI 代码与屎山双标主题相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "评论两极分化于“越随便越好”与“信息密集具体”，正对应对 AI 引导过度与不足的校准。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文源自 Reddit r/ClaudeCode，讨论 Claude 提示风格与社区话语，直接相关。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "文中讨论口语化、随意提示与“先能玩再改”的做法，与 Vibe Coding 记忆悖论主题接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文源自 Reddit r/ClaudeCode，讨论 Claude 提示风格与社区话语，直接相关。",
+    "topics/vibe-coding-memory-paradox.md": "文中讨论口语化、随意提示与“先能玩再改”的做法，与 Vibe Coding 记忆悖论主题接近。",
+    "topics/calibrating-ai-guidance.md": "评论两极分化于“越随便越好”与“信息密集具体”，正对应对 AI 引导过度与不足的校准。",
+    "topics/ai-code-vs-messy-code-double-standard.md": "高赞评论明确提到这类项目不在乎“意大利面代码”，与 AI 代码与屎山双标主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/31-year-veteran-watches-gta-6-port-livestream-questions-claude-p.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/vibe-coding-memory-paradox.md",
+      "topics/calibrating-ai-guidance.md",
+      "topics/ai-code-vs-messy-code-double-standard.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "帖文源自 Reddit r/ClaudeCode，讨论 Claude 提示风格与社区话语，直接相关。",
+      "topics/vibe-coding-memory-paradox.md": "文中讨论口语化、随意提示与“先能玩再改”的做法，与 Vibe Coding 记忆悖论主题接近。",
+      "topics/calibrating-ai-guidance.md": "评论两极分化于“越随便越好”与“信息密集具体”，正对应对 AI 引导过度与不足的校准。",
+      "topics/ai-code-vs-messy-code-double-standard.md": "高赞评论明确提到这类项目不在乎“意大利面代码”，与 AI 代码与屎山双标主题相关。"
+    },
+    "notes": "引用均来自所提供推文正文，未编造 URL 或额外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/31-year-veteran-watches-gta-6-port-livestream-questions-claude-p.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
