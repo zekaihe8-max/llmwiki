@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/ai-native-companies.md",
+    "topics/enterprise-ai-digital-employee-headcount.md",
+    "topics/local-desensitization-before-models.md"
+  ],
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "文章核心是机密计算与云端 AI 的私密推理，直接相关。",
+    "topics/ai-native-companies.md": "涉及 OpenAI 作为 AI 原生公司的新产品发布与定位。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "面向企业客户的隐私保护与业务场景，与文章中业务隐私强调相符。",
+    "topics/local-desensitization-before-models.md": "隐私保护与模型处理前的数据控制相关，主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "文章核心是机密计算与云端 AI 的私密推理，直接相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "涉及 OpenAI 作为 AI 原生公司的新产品发布与定位。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "面向企业客户的隐私保护与业务场景，与文章中业务隐私强调相符。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "隐私保护与模型处理前的数据控制相关，主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容仅基于抓取的 X 帖文，未引入外部事实或 URL。"
+}

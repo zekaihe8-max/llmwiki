@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:33:31.551Z",
+  "url": "https://x.com/karpathy/status/2125779541952246039",
+  "slug": "80a5faea6e0af9ba",
+  "content_hash": "a9a6017621c395e23f05d064e6e69b0f9922136bdc52240b6907b31de3c8941d",
+  "source": {
+    "path": "sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/vibe-gaming-model-inflection.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/vibe-coding-memory-paradox.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "7 小时产出 4.5 万行代码并整合 31 个数据源，体现智能体规模化工程能力。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "卡帕蒂以用户身份指挥 Claude Code 编写代码，符合个人 Agent 调度编程 Agent 的场景。"
+    },
+    {
+      "path": "topics/vibe-coding-memory-paradox.md",
+      "action": "unchanged",
+      "reason": "该项目由自然语言驱动 AI 编码而成，契合随手 AI 小游戏 / Vibe Coding 的语境。"
+    },
+    {
+      "path": "topics/vibe-gaming-model-inflection.md",
+      "action": "unchanged",
+      "reason": "帖文描述用 AI 生成《文明》风格游戏地图，属于 AI 驱动的游戏原型尝试。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/personal-agent-foreman-over-coding-agents.md": "卡帕蒂以用户身份指挥 Claude Code 编写代码，符合个人 Agent 调度编程 Agent 的场景。",
+    "topics/vibe-gaming-model-inflection.md": "帖文描述用 AI 生成《文明》风格游戏地图，属于 AI 驱动的游戏原型尝试。",
+    "topics/agent-scaled-engineering.md": "7 小时产出 4.5 万行代码并整合 31 个数据源，体现智能体规模化工程能力。",
+    "topics/vibe-coding-memory-paradox.md": "该项目由自然语言驱动 AI 编码而成，契合随手 AI 小游戏 / Vibe Coding 的语境。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/vibe-gaming-model-inflection.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/vibe-coding-memory-paradox.md"
+    ],
+    "selection_reasons": {
+      "topics/personal-agent-foreman-over-coding-agents.md": "卡帕蒂以用户身份指挥 Claude Code 编写代码，符合个人 Agent 调度编程 Agent 的场景。",
+      "topics/vibe-gaming-model-inflection.md": "帖文描述用 AI 生成《文明》风格游戏地图，属于 AI 驱动的游戏原型尝试。",
+      "topics/agent-scaled-engineering.md": "7 小时产出 4.5 万行代码并整合 31 个数据源，体现智能体规模化工程能力。",
+      "topics/vibe-coding-memory-paradox.md": "该项目由自然语言驱动 AI 编码而成，契合随手 AI 小游戏 / Vibe Coding 的语境。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

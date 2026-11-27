@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:32:09.418Z",
+  "url": "https://x.com/paulg/status/2126066121333715109",
+  "slug": "b1007f8a129bbdcc",
+  "content_hash": "e6c256911fca9e6d66cac0aafba88bf8f9d9556f65356dcfa179d054a56f930c",
+  "source": {
+    "path": "sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/ai-task-horizon-growth.md",
+    "topics/calibrating-ai-guidance.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-task-horizon-growth.md",
+      "action": "unchanged",
+      "reason": "帖文涉及对未来 AI 影响的预测，与 AI 任务时界增长主题相关。"
+    },
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "帖文主张对 AI 产生的效果做出预设假设，与校准对 AI 的引导主题相关。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "帖文核心争议是 AI 是否“真正”思考，直接对应智能作为人类中心主义指标。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/intelligence-as-anthropocentric-benchmark.md": "帖文核心争议是 AI 是否“真正”思考，直接对应智能作为人类中心主义指标。",
+    "topics/ai-task-horizon-growth.md": "帖文涉及对未来 AI 影响的预测，与 AI 任务时界增长主题相关。",
+    "topics/calibrating-ai-guidance.md": "帖文主张对 AI 产生的效果做出预设假设，与校准对 AI 的引导主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/intelligence-as-anthropocentric-benchmark.md",
+      "topics/ai-task-horizon-growth.md",
+      "topics/calibrating-ai-guidance.md"
+    ],
+    "selection_reasons": {
+      "topics/intelligence-as-anthropocentric-benchmark.md": "帖文核心争议是 AI 是否“真正”思考，直接对应智能作为人类中心主义指标。",
+      "topics/ai-task-horizon-growth.md": "帖文涉及对未来 AI 影响的预测，与 AI 任务时界增长主题相关。",
+      "topics/calibrating-ai-guidance.md": "帖文主张对 AI 产生的效果做出预设假设，与校准对 AI 的引导主题相关。"
+    },
+    "notes": "引用日期为文章所示的 2026-11-26，内容仅基于抓取的推文文本，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

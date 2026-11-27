@@ -1,0 +1,23 @@
+{
+  "slug": "4b55d50301e8d5af",
+  "url": "https://x.com/Alibaba_Qwen/status/2125798914490249411",
+  "title": "Qwen",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "4b55d50301e8d5af10a48a2cae4828abe7333689c96660a7625ad604931e9017",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:25.557Z",
+  "content_hash": "8291d4ef6834fb1f0b1c0debc0408ce6af8130e7d9b5aeb5578dd893694864f2",
+  "article_path": "articles/4b55d50301e8d5af.md",
+  "fetched_url": "https://x.com/Alibaba_Qwen/status/2125798914490249411",
+  "source_path": "sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:40:23.931Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "a52d712ead7dc990",
+  "url": "https://math.mit.edu/~drew/shortgrh",
+  "title": "说明",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "a52d712ead7dc990577821ff6661fd99bd8e74a5ffc9fd6beb8326bfe682cd16",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:28.015Z",
+  "content_hash": "6e0b7b3a7706529d4a9da92b7bacbf508d77c50d484750c2d883a154602f51f2",
+  "article_path": "articles/a52d712ead7dc990.md",
+  "fetched_url": "https://math.mit.edu/~drew/shortgrh/",
+  "source_path": "sources/articles/verification-files-for-the-shorter-lean-proof-of-rh-and-grh-for.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:31:00.810Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

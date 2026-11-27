@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/usage-limit-ab-tests.md": "“重置”与用量上限和计费周期语义最接近。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及额度与体验，可能与重置机制相关。",
+    "topics/premium-ai-subscription-value.md": "订阅产品的重置通常关联付费计划与价值。"
+  },
+  "topics": [
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "“重置”与用量上限和计费周期语义最接近。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及额度与体验，可能与重置机制相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "订阅产品的重置通常关联付费计划与价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅根据 X 帖文摘录撰写，未引入外部事实。"
+}

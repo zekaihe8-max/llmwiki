@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章核心是 Lean 4 形式化数学证明验证，与形式化验证主题最贴近。",
+    "topics/software-factory.md": "涉及大规模 Lean 项目的工程化构建与验证流程，与软件工厂主题相关。",
+    "topics/agent-scaled-engineering.md": "项目包含数十万行代码、数百个模块和多机器并行验证，属于规模化工程实践。"
+  },
+  "topics": [
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Lean 4 形式化数学证明验证，与形式化验证主题最贴近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "涉及大规模 Lean 项目的工程化构建与验证流程，与软件工厂主题相关。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "项目包含数十万行代码、数百个模块和多机器并行验证，属于规模化工程实践。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的文章 markdown，未引入外部 URL 或事实。"
+}

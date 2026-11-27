@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是 Claude Code 技能（skill）的描述、触发词与可见性，与该主题的技能编写范畴最贴近。",
+    "topics/claude-code-authorship-and-voice.md": "内容直接涉及 Claude Code 的用户配置与社区使用方式，与 Claude Code 作者与社区话筒主题相关。",
+    "topics/context-engineering-for-agents.md": "涉及对 Agent 上下文/技能列表预算的调整，与上下文工程相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Claude Code 技能（skill）的描述、触发词与可见性，与该主题的技能编写范畴最贴近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "内容直接涉及 Claude Code 的用户配置与社区使用方式，与 Claude Code 作者与社区话筒主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及对 Agent 上下文/技能列表预算的调整，与上下文工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来源于该 X 帖文，未独立核实。"
+}

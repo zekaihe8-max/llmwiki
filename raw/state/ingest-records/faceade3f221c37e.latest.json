@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:27:25.933Z",
+  "url": "https://x.com/thsottiaux/status/2125784147889393806",
+  "slug": "faceade3f221c37e",
+  "content_hash": "4590cc088ec4b306aded07b396906f85653b540604ef1db210c966ca55b3d3aa",
+  "source": {
+    "path": "sources/articles/tibo-posts-gpt-6-2-billing-error-correction-and-compensation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度消耗，帖文中用量上限加快直接影响用户配额体验"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 订阅计费与用户权益变更，与帖文中的计费错误及补偿最为相关"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "讨论用量上限测试，帖文披露的上限达成速度变化属于同一用量管控主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "涉及 AI 订阅计费与用户权益变更，与帖文中的计费错误及补偿最为相关",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度消耗，帖文中用量上限加快直接影响用户配额体验",
+    "topics/usage-limit-ab-tests.md": "讨论用量上限测试，帖文披露的上限达成速度变化属于同一用量管控主题"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tibo-posts-gpt-6-2-billing-error-correction-and-compensation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/usage-limit-ab-tests.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "涉及 AI 订阅计费与用户权益变更，与帖文中的计费错误及补偿最为相关",
+      "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度消耗，帖文中用量上限加快直接影响用户配额体验",
+      "topics/usage-limit-ab-tests.md": "讨论用量上限测试，帖文披露的上限达成速度变化属于同一用量管控主题"
+    },
+    "notes": "Source is an X post by @thsottiaux; all claims are attributed to the post using 「帖文称」 where unverified.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tibo-posts-gpt-6-2-billing-error-correction-and-compensation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

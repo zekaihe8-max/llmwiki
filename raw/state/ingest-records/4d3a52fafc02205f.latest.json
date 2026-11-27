@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:26:04.934Z",
+  "url": "https://x.com/sama/status/2125638790593274259",
+  "slug": "4d3a52fafc02205f",
+  "content_hash": "8e4813465b6d933111fc97736d072fa6cd06b2db6b310303145e561332160908",
+  "source": {
+    "path": "sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/frontier-training-containment.md",
+    "topics/local-desensitization-before-models.md",
+    "topics/enterprise-ai-digital-employee-headcount.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "私有推理与零数据保留涉及云端 AI 的机密计算与隐私隔离，主题高度相关。"
+    },
+    {
+      "path": "topics/enterprise-ai-digital-employee-headcount.md",
+      "action": "unchanged",
+      "reason": "面向企业客户的业务隐私与 AI 部署场景相关。"
+    },
+    {
+      "path": "topics/frontier-training-containment.md",
+      "action": "unchanged",
+      "reason": "帖文提及前沿 AI 与更强隐私保护，与前沿模型环境隔离主题相近。"
+    },
+    {
+      "path": "topics/local-desensitization-before-models.md",
+      "action": "unchanged",
+      "reason": "强调在模型使用前做隐私保护，与本地脱敏主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "私有推理与零数据保留涉及云端 AI 的机密计算与隐私隔离，主题高度相关。",
+    "topics/frontier-training-containment.md": "帖文提及前沿 AI 与更强隐私保护，与前沿模型环境隔离主题相近。",
+    "topics/local-desensitization-before-models.md": "强调在模型使用前做隐私保护，与本地脱敏主题相关。",
+    "topics/enterprise-ai-digital-employee-headcount.md": "面向企业客户的业务隐私与 AI 部署场景相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/confidential-computing-cloud-ai.md",
+      "topics/frontier-training-containment.md",
+      "topics/local-desensitization-before-models.md",
+      "topics/enterprise-ai-digital-employee-headcount.md"
+    ],
+    "selection_reasons": {
+      "topics/confidential-computing-cloud-ai.md": "私有推理与零数据保留涉及云端 AI 的机密计算与隐私隔离，主题高度相关。",
+      "topics/frontier-training-containment.md": "帖文提及前沿 AI 与更强隐私保护，与前沿模型环境隔离主题相近。",
+      "topics/local-desensitization-before-models.md": "强调在模型使用前做隐私保护，与本地脱敏主题相关。",
+      "topics/enterprise-ai-digital-employee-headcount.md": "面向企业客户的业务隐私与 AI 部署场景相关。"
+    },
+    "notes": "所有内容仅基于提供的 X 帖文摘要，未引用外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

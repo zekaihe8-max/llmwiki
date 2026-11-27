@@ -1,0 +1,23 @@
+{
+  "slug": "d0f4230142583401",
+  "url": "https://github.com/lsernau/grh-lean",
+  "title": "仓库",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "d0f42301425834014aa9bd7d6aa49fe102bc795a087c488b2455cf08d99a303e",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:30.918Z",
+  "content_hash": "b4fb597f8b7f8fcd9a3903f12e26d5400b24ce0206c50d06ed9b752995f299db",
+  "article_path": "articles/d0f4230142583401.md",
+  "fetched_url": "https://github.com/lsernau/grh-lean",
+  "source_path": "sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:31:36.045Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:36:21.336Z",
+  "url": "https://x.com/mitchellh/status/2125713695233970521",
+  "slug": "79a6a3b23b85b8da",
+  "content_hash": "d473329076bfa859ae89ef0b1584afc9ca6ff540ec4b867693a2cc9e9671b9e6",
+  "source": {
+    "path": "sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/computer-use.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "帖文提到 Rex 首批内置 Claude Code 支持，与该话题涉及 Claude Code 作者与社区声量相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中提及智能体编程工具与 Claude Code，与编程 Agent 体验主题相关。"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "程序在终端中的恢复与控制涉及计算机使用与终端交互，现有主题相关。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "终端转义序列与开发者终端体验属于 DX/UX 范畴，现有主题已覆盖。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "帖文提到 Rex 首批内置 Claude Code 支持，与该话题涉及 Claude Code 作者与社区声量相关。",
+    "topics/ux-dx-and-ax.md": "终端转义序列与开发者终端体验属于 DX/UX 范畴，现有主题已覆盖。",
+    "topics/computer-use.md": "程序在终端中的恢复与控制涉及计算机使用与终端交互，现有主题相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文中提及智能体编程工具与 Claude Code，与编程 Agent 体验主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/computer-use.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "帖文提到 Rex 首批内置 Claude Code 支持，与该话题涉及 Claude Code 作者与社区声量相关。",
+      "topics/ux-dx-and-ax.md": "终端转义序列与开发者终端体验属于 DX/UX 范畴，现有主题已覆盖。",
+      "topics/computer-use.md": "程序在终端中的恢复与控制涉及计算机使用与终端交互，现有主题相关。",
+      "topics/coding-agent-ux-vs-quota.md": "文中提及智能体编程工具与 Claude Code，与编程 Agent 体验主题相关。"
+    },
+    "notes": "All consulted topics are reused unchanged; no new topics are created.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

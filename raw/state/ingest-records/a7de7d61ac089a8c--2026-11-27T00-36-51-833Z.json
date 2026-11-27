@@ -1,0 +1,67 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:36:51.833Z",
+  "url": "https://www.superlogical.com/rex/docs/build/program-resume",
+  "slug": "a7de7d61ac089a8c",
+  "content_hash": "6d98401b3c0eadbaa8bb4dbd12bcb07953edc0d1d2421949dbc7e9fd89bd9678",
+  "source": {
+    "path": "sources/articles/program-resume-protocol-osc-7577.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/code-over-spec.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章本身是一份技术规格说明"
+    },
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "与终端和程序交互最相近"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "涉及哈希验证与安全模型"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/computer-use.md": "与终端和程序交互最相近",
+    "topics/code-over-spec.md": "文章本身是一份技术规格说明",
+    "topics/llm-formal-verification.md": "涉及哈希验证与安全模型"
+  },
+  "files_changed": [
+    "index.md",
+    "sources/articles/program-resume-protocol-osc-7577.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/computer-use.md",
+      "topics/code-over-spec.md",
+      "topics/llm-formal-verification.md"
+    ],
+    "selection_reasons": {
+      "topics/computer-use.md": "与终端和程序交互最相近",
+      "topics/code-over-spec.md": "文章本身是一份技术规格说明",
+      "topics/llm-formal-verification.md": "涉及哈希验证与安全模型"
+    },
+    "notes": "现有话题中没有直接对应终端转义序列或 OSC 协议的条目，已选取最接近的三个并保持不变。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "sources/articles/program-resume-protocol-osc-7577.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

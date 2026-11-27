@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agents-md-token-efficiency.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "帖文聚焦编程 Agent 的额度与 Token 节省，直接对应该主题。",
+    "topics/coding-agent-ux-vs-quota.md": "内容涉及 AGY 使用体验与周额度限制，与主题高度相关。",
+    "topics/agents-md-token-efficiency.md": "帖文提到 AGENTS.md 每轮注入及 Token 效率，与该主题重叠。",
+    "topics/context-engineering-for-agents.md": "帖文介绍 /compact、/new、/btw 等上下文控制方法，属于 Agent 上下文工程范畴。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文聚焦编程 Agent 的额度与 Token 节省，直接对应该主题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AGY 使用体验与周额度限制，与主题高度相关。"
+    },
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "帖文提到 AGENTS.md 每轮注入及 Token 效率，与该主题重叠。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文介绍 /compact、/new、/btw 等上下文控制方法，属于 Agent 上下文工程范畴。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于抓取的 X 帖文，未独立核实；未创建新话题，仅复用现有目录。"
+}

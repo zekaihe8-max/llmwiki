@@ -1,0 +1,23 @@
+{
+  "slug": "c1f89fa9e22b7c2c",
+  "url": "https://openai.com/business/private-intelligence",
+  "title": "说明",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "c1f89fa9e22b7c2c47a2c5361d3739bbf5e85bc25684fac616fde50adaf0f431",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:24.628Z",
+  "content_hash": "bdf503cef58d594bc8e8a631be0f02ab267db1dbeed22883b905edc1b05f4c60",
+  "article_path": "articles/c1f89fa9e22b7c2c.md",
+  "fetched_url": "https://openai.com/business/private-intelligence/",
+  "source_path": "sources/articles/openai-private-intelligence.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:26:58.964Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

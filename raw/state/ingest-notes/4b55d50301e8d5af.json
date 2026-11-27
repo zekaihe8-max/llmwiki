@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "文章聚焦语音模型能力，与纯语音全双工主题相近",
+    "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输入与转写，与文中 ASR/TTS 能力更新相关",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "播客转写与语音识别属于同类语音 AI 应用场景"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "文章聚焦语音模型能力，与纯语音全双工主题相近"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及语音输入与转写，与文中 ASR/TTS 能力更新相关"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "播客转写与语音识别属于同类语音 AI 应用场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于 X 平台 @Alibaba_Qwen 帖文，未引入外部信息。"
+}

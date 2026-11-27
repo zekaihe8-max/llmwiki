@@ -1,0 +1,70 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:40:23.931Z",
+  "url": "https://x.com/Alibaba_Qwen/status/2125798914490249411",
+  "slug": "4b55d50301e8d5af",
+  "content_hash": "8291d4ef6834fb1f0b1c0debc0408ce6af8130e7d9b5aeb5578dd893694864f2",
+  "source": {
+    "path": "sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/podcast-ai-fine-transcription-close-reads.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "文章聚焦语音模型能力，与纯语音全双工主题相近"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及语音输入与转写，与文中 ASR/TTS 能力更新相关"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "播客转写与语音识别属于同类语音 AI 应用场景"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "文章聚焦语音模型能力，与纯语音全双工主题相近",
+    "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输入与转写，与文中 ASR/TTS 能力更新相关",
+    "topics/podcast-ai-fine-transcription-close-reads.md": "播客转写与语音识别属于同类语音 AI 应用场景"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pure-speech-full-duplex.md",
+      "topics/voice-input-oral-vs-document-for-agents.md",
+      "topics/podcast-ai-fine-transcription-close-reads.md"
+    ],
+    "selection_reasons": {
+      "topics/pure-speech-full-duplex.md": "文章聚焦语音模型能力，与纯语音全双工主题相近",
+      "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输入与转写，与文中 ASR/TTS 能力更新相关",
+      "topics/podcast-ai-fine-transcription-close-reads.md": "播客转写与语音识别属于同类语音 AI 应用场景"
+    },
+    "notes": "所有事实均来源于 X 平台 @Alibaba_Qwen 帖文，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md"
+      ],
+      "promotion": "in-place bilingual lint fix after first compile"
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

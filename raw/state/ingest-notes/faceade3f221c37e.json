@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/usage-limit-ab-tests.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "涉及 AI 订阅计费与用户权益变更，与帖文中的计费错误及补偿最为相关",
+    "topics/coding-agent-ux-vs-quota.md": "关注 Agent 体验与额度消耗，帖文中用量上限加快直接影响用户配额体验",
+    "topics/usage-limit-ab-tests.md": "讨论用量上限测试，帖文披露的上限达成速度变化属于同一用量管控主题"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 订阅计费与用户权益变更，与帖文中的计费错误及补偿最为相关"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "关注 Agent 体验与额度消耗，帖文中用量上限加快直接影响用户配额体验"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "讨论用量上限测试，帖文披露的上限达成速度变化属于同一用量管控主题"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source is an X post by @thsottiaux; all claims are attributed to the post using 「帖文称」 where unverified."
+}

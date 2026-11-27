@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:35:13.863Z",
+  "url": "https://x.com/Voxyz_ai/status/2125952719676756047",
+  "slug": "2f31cf92ee47e22a",
+  "content_hash": "5988d78ae059060a1ce363d2ff250dbc126e55c95a69fedea12f8948e679a99c",
+  "source": {
+    "path": "sources/articles/voxyz-post-claude-code-skill-descriptions-compressed-to-bare-nam.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Claude Code 技能（skill）的描述、触发词与可见性，与该主题的技能编写范畴最贴近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "内容直接涉及 Claude Code 的用户配置与社区使用方式，与 Claude Code 作者与社区话筒主题相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及对 Agent 上下文/技能列表预算的调整，与上下文工程相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文核心是 Claude Code 技能（skill）的描述、触发词与可见性，与该主题的技能编写范畴最贴近。",
+    "topics/claude-code-authorship-and-voice.md": "内容直接涉及 Claude Code 的用户配置与社区使用方式，与 Claude Code 作者与社区话筒主题相关。",
+    "topics/context-engineering-for-agents.md": "涉及对 Agent 上下文/技能列表预算的调整，与上下文工程相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/voxyz-post-claude-code-skill-descriptions-compressed-to-bare-nam.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文核心是 Claude Code 技能（skill）的描述、触发词与可见性，与该主题的技能编写范畴最贴近。",
+      "topics/claude-code-authorship-and-voice.md": "内容直接涉及 Claude Code 的用户配置与社区使用方式，与 Claude Code 作者与社区话筒主题相关。",
+      "topics/context-engineering-for-agents.md": "涉及对 Agent 上下文/技能列表预算的调整，与上下文工程相关。"
+    },
+    "notes": "所有主张均来源于该 X 帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/voxyz-post-claude-code-skill-descriptions-compressed-to-bare-nam.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
