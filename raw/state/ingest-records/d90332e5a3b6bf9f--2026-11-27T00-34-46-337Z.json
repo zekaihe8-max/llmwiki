@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:34:46.337Z",
+  "url": "https://x.com/levie/status/2125983542475894821",
+  "slug": "d90332e5a3b6bf9f",
+  "content_hash": "bb7ecd2c81f9093a5258d0fdf0aed28c2ff754b08546e435e2fba89562571b81",
+  "source": {
+    "path": "sources/articles/service-firm-opportunities-with-agents-at-the-center.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文中提到智能体带来项目交付 10 倍乘数，涉及智能体规模化工程。"
+    },
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "Mollick 引用的大型企业 AI 团队引发管理争议，对应高管管控跨度主题。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章主张以智能体为中心建立新服务公司，与 AI 原生公司主题直接相关。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "服务公司按项目交付成果，类似软件工厂的交付模式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章主张以智能体为中心建立新服务公司，与 AI 原生公司主题直接相关。",
+    "topics/agent-scaled-engineering.md": "文中提到智能体带来项目交付 10 倍乘数，涉及智能体规模化工程。",
+    "topics/ai-management-span-of-control.md": "Mollick 引用的大型企业 AI 团队引发管理争议，对应高管管控跨度主题。",
+    "topics/software-factory.md": "服务公司按项目交付成果，类似软件工厂的交付模式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/service-firm-opportunities-with-agents-at-the-center.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-management-span-of-control.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章主张以智能体为中心建立新服务公司，与 AI 原生公司主题直接相关。",
+      "topics/agent-scaled-engineering.md": "文中提到智能体带来项目交付 10 倍乘数，涉及智能体规模化工程。",
+      "topics/ai-management-span-of-control.md": "Mollick 引用的大型企业 AI 团队引发管理争议，对应高管管控跨度主题。",
+      "topics/software-factory.md": "服务公司按项目交付成果，类似软件工厂的交付模式。"
+    },
+    "notes": "来源为 Aaron Levie 在 X 上的帖文，其中引用了 BuccoCapital 和 Ethan Mollick 的内容；所有主张均基于该帖文，未独立核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/service-firm-opportunities-with-agents-at-the-center.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

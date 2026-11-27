@@ -26,6 +26,46 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 ### Source 与 Topic / Sources and topics
 
+- [小墨：Antigravity 省额五技巧（Orchestrator、上下文压缩与规则减法） / Xiao Mo: Five Antigravity Quota-Saving Tips (Orchestrator, Context Compression, and Rule Reduction)](./sources/articles/xiao-mo-five-antigravity-quota-saving-tips-orchestrator-context.md) — 帖文称通过调整 Orchestrator 档位、使用 /compact 等命令、关闭 Turbo 与超额扣费、精简 Rules/Skills 以及分流至 Gemini 网页端，可延长 Google AI Pro 额度。 / The post claims that adjusting Orchestrator tiers, using /compact and related commands, disabling Turbo and overage billing, trimming Rules/Skills, and diverting work to Gemini web can extend Google AI Pro quota.
+
+- [程序恢复协议 (OSC 7577) / Program Resume Protocol (OSC 7577)](./sources/articles/program-resume-protocol-osc-7577.md) — 通过 OSC 7577 转义序列让程序向终端报告自身恢复命令的统一终端协议。 / A uniform terminal protocol that lets programs report their resume commands to a terminal via the OSC 7577 escape sequence.
+
+- [Rex 通过 OSC 7577 终端协议支持程序跨服务器重启恢复 / Rex Adds Program Resume Across Server Restarts via OSC 7577 Terminal Protocol](./sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md) — Rex 发布基于 OSC 7577 终端转义序列的新协议，支持任意程序在服务器重启后恢复，并首批内置 Claude Code 支持。 / Rex launches a new OSC 7577 terminal escape-sequence protocol allowing any program to resume after a server restart, with initial built-in support for Claude Code.
+
+- [Voxyz 帖文：Claude Code 技能描述被压缩为裸名称，建议审计并重写触发词 / Voxyz Post: Claude Code Skill Descriptions Compressed to Bare Names, Suggests Audit and Trigger Rewriting](./sources/articles/voxyz-post-claude-code-skill-descriptions-compressed-to-bare-nam.md) — Voxyz 发帖称 Claude Code 加载技能后会将描述压缩为裸名称且不自动选用，并提供一段用于审计技能、调整 settings.json 并重写触发词的提示词。 / Voxyz posts that Claude Code compresses loaded skill descriptions to bare names and does not select them automatically, and provides a prompt to audit skills, adjust settings.json, and rewrite triggers.
+
+- [以智能体为中心的服务公司机会 / Service Firm Opportunities with Agents at the Center](./sources/articles/service-firm-opportunities-with-agents-at-the-center.md) — Aaron Levie 认为以智能体为中心构建或转型服务公司是当前巨大机遇，项目交付能力可获 10 倍提升。 / Aaron Levie sees a huge opportunity to build or transform service firms with agents at the center, with project delivery gaining a 10X multiplier.
+
+- [Levie：编程预示知识工作向智能体协作演变 / Levie: Coding Foreshadows Knowledge Work Evolving Toward Agent Collaboration](./sources/articles/levie-coding-foreshadows-knowledge-work-evolving-toward-agent-co.md) — Aaron Levie 认为编程揭示了知识工作从手动执行转向协调智能体、再下达目标的未来趋势。 / Aaron Levie argues coding reveals knowledge work's future shift from manual execution to coordinating agents and assigning them goals.
+
+- [卡帕蒂用 Claude Code 做美国《文明》地图 / Karpathy Builds US Civilization Map with Claude Code](./sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md) — 安德烈·卡帕蒂借助 Claude Code 和 Opus 5.5，在七小时内写出约 4.5 万行代码，将美国真实数据转化为《文明》风格地图。 / Andrej Karpathy used Claude Code and Opus 5.5 to write roughly 45K lines of code in seven hours, turning real US data into a Civilization-style map.
+
+- [模型名称与编号已不再能反映能力水平 / Model names and numbers no longer indicate ability levels](./sources/articles/model-names-and-numbers-no-longer-indicate-ability-levels.md) — Ethan Mollick 指出，模型名称和编号越来越混乱，已无法可靠判断模型能力或所属家族。 / Ethan Mollick notes that model names and numbers are increasingly confusing and no longer reliably indicate model capability or family.
+
+- [保罗·格雷厄姆：预测未来时应假设 AI 会思考 / Paul Graham: Assume AI Thinks When Predicting the Future](./sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md) — 保罗·格雷厄姆主张，无论 AI 是否“真正”思考，预测未来都应假设它会思考，因为其效果等同于真正思考。 / Paul Graham argues that whether or not AI "really" thinks, predictions about the future should assume it does, since it will produce all the effects of really doing so.
+
+- [Lean 4 中狄利克雷 L-函数广义黎曼假设的形式化证明 / GRH for Dirichlet L-functions, in Lean 4](./sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md) — 基于 Mathlib 的 Lean 4 形式化，证明黎曼假设与狄利克雷 L-函数广义黎曼假设。 / A Lean 4 formalization built on Mathlib proving the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet L-functions.
+
+- [Lean 4 形式化验证黎曼假设与广义黎曼假设简短证明 / Verification files for the shorter Lean proof of RH and GRH for Dirichlet L-functions](./sources/articles/verification-files-for-the-shorter-lean-proof-of-rh-and-grh-for.md) — MIT 使用 Lean 4 形式化验证黎曼假设及狄利克莱 L-函数广义黎曼假设的简短证明文件。 / MIT uses Lean 4 to formally verify a shorter proof of the Riemann Hypothesis and GRH for Dirichlet L-functions.
+
+- [Qwen-Audio-3.1-Realtime 实时全双工语音模型 / Qwen-Audio-3.1-Realtime Real-Time Full-Duplex Speech Model](./sources/articles/qwen-audio-3-1-realtime-real-time-full-duplex-speech-model.md) — 阿里云通义千问推出的支持文音输入输出、全双工实时对话的多模态语音模型。 / Alibaba Cloud Qwen's multimodal speech model supporting text-audio input/output and real-time full-duplex conversation.
+
+- [Qwen-Audio-3.1-TTS-Flash 文本转语音模型 / Qwen-Audio-3.1-TTS-Flash Text-to-Speech Model](./sources/articles/qwen-audio-3-1-tts-flash-text-to-speech-model.md) — 面向实时交互的多语言 TTS 大模型，支持情感、语速、音色等细粒度控制与抗噪声混响语音克隆。 / A real-time multilingual TTS large model supporting fine-grained control of emotion, speaking rate, timbre, and noise/reverberation-robust voice cloning.
+
+- [Qwen-Audio-3.1-ASR-Flash 语音识别模型 / Qwen-Audio-3.1-ASR-Flash Speech Recognition Model](./sources/articles/qwen-audio-3-1-asr-flash-speech-recognition-model.md) — 支持多语言与中文方言的高效短语音识别模型，具备标点预测与文本标准化能力 / Efficient short speech recognition model supporting multilingual and Chinese dialect transcription, with punctuation prediction and text normalization
+
+- [Qwen-Audio-3.1 发布增强多语言与中文方言能力 / Qwen-Audio-3.1 releases enhanced multilingual and Chinese dialect capabilities](./sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md) — 阿里巴巴 Qwen 发布 Qwen-Audio-3.1，增强中文方言识别与合成，扩展 ASR、TTS 与实时语音的多语言覆盖。 / Alibaba Qwen releases Qwen-Audio-3.1, enhancing Chinese dialect recognition and synthesis while expanding multilingual coverage for ASR, TTS, and real-time speech.
+
+- [重置已上线 / Banked reset is online](./sources/articles/banked-reset-is-online.md) — Tibo 在 X 上发帖宣布 Banked reset 已上线。 / Tibo posts on X that Banked reset is now online.
+
+- [Tibo 发布 GPT-6.2 计费错误修正与补偿说明 / Tibo posts GPT-6.2 billing error correction and compensation](./sources/articles/tibo-posts-gpt-6-2-billing-error-correction-and-compensation.md) — 帖文称 GPT-6.2 发布时计费错误已修正，Astra 与 Sol 用量消耗加快，并向 Go、Plus、Pro、Business 用户发放一次银行重置。 / The post says a GPT-6.2 launch billing error has been fixed, Astra and Sol usage depletes faster, and one banked reset is issued to Go, Plus, Pro, and Business users.
+
+- [OpenAI 私有智能 / OpenAI Private Intelligence](./sources/articles/openai-private-intelligence.md) — OpenAI 面向企业推出私有智能框架，强调数据所有权、零数据保留、机密计算和智能体访问控制。 / OpenAI launches a private intelligence framework for enterprises, emphasizing data ownership, zero data retention, confidential computing, and agent access controls.
+
+- [Greg Brockman 转发：OpenAI 私密推理开始小规模测试 / Greg Brockman Reposts: OpenAI Private Inference Begins Small-Scale Testing](./sources/articles/greg-brockman-reposts-openai-private-inference-begins-small-scal.md) — Greg Brockman 转发 Sam Altman 公告，OpenAI 私密推理（Private Inference）正在与少量客户测试，依托机密计算加强提示与响应的隐私控制。 / Greg Brockman reposts Sam Altman's announcement that OpenAI Private Inference is being tested with a small group of customers, relying on confidential computing to strengthen privacy controls over prompts and responses.
+
+- [Altman 宣布 OpenAI 私有推理面向少量客户测试 / Sam Altman: OpenAI Private Inference Testing with Small Customer Group](./sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md) — OpenAI 正在与少量客户测试私有推理，强调隐私保护与业务隐私对生态的重要性。 / OpenAI is testing Private Inference with a small group of customers, emphasizing privacy protections and the importance of business privacy for a healthy ecosystem.
+
 - [Mole：原生 Mac 清理、软件管理与状态监控工具 / Mole: Native Mac Cleanup, Software Management, and Status Monitoring Utility](./sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md) — 一款原生 macOS 实用工具，整合缓存清理、应用卸载与更新、磁盘分析与实时系统状态监控。 / A native macOS utility integrating cache cleanup, app uninstall and updates, disk analysis, and live system status monitoring.
 
 - [Tw93 宣布 Mole 黑色星期五限时优惠 / Tw93 Announces Mole Black Friday Limited-Time Discount](./sources/articles/tw93-announces-mole-black-friday-limited-time-discount.md) — Tw93 在 X 上发布 Mole Mac 与 PC 清理更新工具的年度黑五优惠，20% 折后 15.20 美元，截止 12 月 1 日。 / Tw93 announces on X the annual Black Friday discount for Mole, a Mac and PC cleaning and update tool, 20% off at $15.20, valid until December 1.

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/computer-use.md",
+    "topics/code-over-spec.md",
+    "topics/llm-formal-verification.md"
+  ],
+  "selection_reasons": {
+    "topics/computer-use.md": "与终端和程序交互最相近",
+    "topics/code-over-spec.md": "文章本身是一份技术规格说明",
+    "topics/llm-formal-verification.md": "涉及哈希验证与安全模型"
+  },
+  "topics": [
+    {
+      "path": "topics/computer-use.md",
+      "action": "unchanged",
+      "reason": "与终端和程序交互最相近"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "文章本身是一份技术规格说明"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "涉及哈希验证与安全模型"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "现有话题中没有直接对应终端转义序列或 OSC 协议的条目，已选取最接近的三个并保持不变。"
+}

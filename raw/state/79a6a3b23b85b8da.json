@@ -1,0 +1,23 @@
+{
+  "slug": "79a6a3b23b85b8da",
+  "url": "https://x.com/mitchellh/status/2125713695233970521",
+  "title": "Mitchell",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "79a6a3b23b85b8da62d725133d044dd3ad5e7a7f03de81794a49e9af034567c4",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:35.805Z",
+  "content_hash": "d473329076bfa859ae89ef0b1584afc9ca6ff540ec4b867693a2cc9e9671b9e6",
+  "article_path": "articles/79a6a3b23b85b8da.md",
+  "fetched_url": "https://x.com/mitchellh/status/2125713695233970521",
+  "source_path": "sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:36:21.337Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

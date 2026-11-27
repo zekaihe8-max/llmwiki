@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:27:58.439Z",
+  "url": "https://x.com/thsottiaux/status/2125853628250599730",
+  "slug": "804070d5d231eabc",
+  "content_hash": "c1291dc79152a7ab85e3ba0a0d98bd4e995dcf4ad0a07a7ff1381e1a23db7ec8",
+  "source": {
+    "path": "sources/articles/banked-reset-is-online.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/usage-limit-ab-tests.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "涉及额度与体验，可能与重置机制相关。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "订阅产品的重置通常关联付费计划与价值。"
+    },
+    {
+      "path": "topics/usage-limit-ab-tests.md",
+      "action": "unchanged",
+      "reason": "“重置”与用量上限和计费周期语义最接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/usage-limit-ab-tests.md": "“重置”与用量上限和计费周期语义最接近。",
+    "topics/coding-agent-ux-vs-quota.md": "涉及额度与体验，可能与重置机制相关。",
+    "topics/premium-ai-subscription-value.md": "订阅产品的重置通常关联付费计划与价值。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/banked-reset-is-online.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/usage-limit-ab-tests.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/usage-limit-ab-tests.md": "“重置”与用量上限和计费周期语义最接近。",
+      "topics/coding-agent-ux-vs-quota.md": "涉及额度与体验，可能与重置机制相关。",
+      "topics/premium-ai-subscription-value.md": "订阅产品的重置通常关联付费计划与价值。"
+    },
+    "notes": "仅根据 X 帖文摘录撰写，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/banked-reset-is-online.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

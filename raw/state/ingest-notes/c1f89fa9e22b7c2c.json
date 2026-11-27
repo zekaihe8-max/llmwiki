@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/confidential-computing-cloud-ai.md",
+    "topics/agent-compute-and-governance.md",
+    "topics/agent-identity-platform-keys.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/confidential-computing-cloud-ai.md": "文章提及机密计算、私有推理与云端 AI 安全，与该主题高度相关。",
+    "topics/agent-compute-and-governance.md": "文章涉及智能体访问控制、动作权限与治理边界，与该主题重叠。",
+    "topics/agent-identity-platform-keys.md": "文章提到决定智能体可访问的内容与平台控制，与身份与握钥主题相近。",
+    "topics/agent-auto-mode.md": "文章讨论智能体动作与所需批准，与自动模式治理相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/confidential-computing-cloud-ai.md",
+      "action": "unchanged",
+      "reason": "文章提及机密计算、私有推理与云端 AI 安全，与该主题高度相关。"
+    },
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章涉及智能体访问控制、动作权限与治理边界，与该主题重叠。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "文章提到决定智能体可访问的内容与平台控制，与身份与握钥主题相近。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章讨论智能体动作与所需批准，与自动模式治理相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有内容均基于提供的 OpenAI 页面摘要，未引入页面外事实或 URL。"
+}

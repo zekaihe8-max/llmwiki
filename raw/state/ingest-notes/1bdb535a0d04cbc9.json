@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/pure-speech-full-duplex.md"
+  ],
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "涉及 AI 音频转写，与 ASR 模型能力最为贴近",
+    "topics/voice-input-oral-vs-document-for-agents.md": "涉及语音输入与文书整理，与语音转文本场景相关",
+    "topics/pure-speech-full-duplex.md": "涉及纯语音交互，与语音识别模型属于同一技术品类"
+  },
+  "topics": [
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 音频转写，与 ASR 模型能力最为贴近"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "涉及语音输入与文书整理，与语音转文本场景相关"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "涉及纯语音交互，与语音识别模型属于同一技术品类"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均源自提供的文章 markdown，未编造 URL 或额外信息。"
+}

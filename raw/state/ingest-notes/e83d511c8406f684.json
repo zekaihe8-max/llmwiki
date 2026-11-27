@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "该主题讨论纯语音全双工与情绪可听，与 TTS 模型的语音合成和情感控制最为贴近。",
+    "topics/pro-vs-flash-model-strategy.md": "文章主体为 Flash 版本模型，该主题涉及 Pro 与 Flash 模型策略，可复用上下文。",
+    "topics/carplay-voice-assistants.md": "文中提到语音助手等实时交互场景，与语音助手接入主题相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "文中涉及语音输入与交互，与语音输入口头转述主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "该主题讨论纯语音全双工与情绪可听，与 TTS 模型的语音合成和情感控制最为贴近。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章主体为 Flash 版本模型，该主题涉及 Pro 与 Flash 模型策略，可复用上下文。"
+    },
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "文中提到语音助手等实时交互场景，与语音助手接入主题相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及语音输入与交互，与语音输入口头转述主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的抓取页面，未引入外部 URL 或未在文中出现的信息。"
+}

@@ -1,0 +1,15 @@
+[/thsottiaux](/thsottiaux)
+[Tibo](/thsottiaux)
+[@thsottiaux](/thsottiaux)
+
+We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users.
+
+We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.
+
+As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.
+[2:50 AM · Nov 26, 2026](/thsottiaux/status/2125784147889393806)·[5.5M Views](/thsottiaux/status/2125784147889393806)
+
+[5.9K](/compose/post?in_reply_to=2125784147889393806)
+3.6K
+17K
+2.6K

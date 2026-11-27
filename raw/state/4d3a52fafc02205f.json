@@ -1,0 +1,23 @@
+{
+  "slug": "4d3a52fafc02205f",
+  "url": "https://x.com/sama/status/2125638790593274259",
+  "title": "Altman",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "4d3a52fafc02205f233916df2be4964f1d332a2643aed484b7aa109f2f053292",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:23.716Z",
+  "content_hash": "8e4813465b6d933111fc97736d072fa6cd06b2db6b310303145e561332160908",
+  "article_path": "articles/4d3a52fafc02205f.md",
+  "fetched_url": "https://x.com/sama/status/2125638790593274259",
+  "source_path": "sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:26:04.935Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:32:44.673Z",
+  "url": "https://x.com/emollick/status/2125812805534183923",
+  "slug": "069c7db8a49c8b4c",
+  "content_hash": "cd292cf0b0ae77cc25c6571ef14929e61bfe375ac9bef6f1c100d1cda3fb542c",
+  "source": {
+    "path": "sources/articles/model-names-and-numbers-no-longer-indicate-ability-levels.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "讨论智能作为人类中心主义指标，与能力水平难以被名称量化相关。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "强调不能仅凭名称或行为确认底层模型，与“编号不再指示模型家族”相呼应。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "涉及模型命名策略（Pro 与 Flash），与帖文讨论的名称混淆最为贴近。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "涉及对模型能力与评测质量的审视，对应“判断能力水平”的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pro-vs-flash-model-strategy.md": "涉及模型命名策略（Pro 与 Flash），与帖文讨论的名称混淆最为贴近。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "强调不能仅凭名称或行为确认底层模型，与“编号不再指示模型家族”相呼应。",
+    "topics/public-benchmark-quality-scrutiny.md": "涉及对模型能力与评测质量的审视，对应“判断能力水平”的主题。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "讨论智能作为人类中心主义指标，与能力水平难以被名称量化相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/model-names-and-numbers-no-longer-indicate-ability-levels.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/public-benchmark-quality-scrutiny.md",
+      "topics/intelligence-as-anthropocentric-benchmark.md"
+    ],
+    "selection_reasons": {
+      "topics/pro-vs-flash-model-strategy.md": "涉及模型命名策略（Pro 与 Flash），与帖文讨论的名称混淆最为贴近。",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "强调不能仅凭名称或行为确认底层模型，与“编号不再指示模型家族”相呼应。",
+      "topics/public-benchmark-quality-scrutiny.md": "涉及对模型能力与评测质量的审视，对应“判断能力水平”的主题。",
+      "topics/intelligence-as-anthropocentric-benchmark.md": "讨论智能作为人类中心主义指标，与能力水平难以被名称量化相关。"
+    },
+    "notes": "所有主题均保持 unchanged，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/model-names-and-numbers-no-longer-indicate-ability-levels.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "1bdb535a0d04cbc9",
+  "url": "https://www.qwencloud.com/models/qwen-audio-3.1-asr-flash",
+  "title": "ASR",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "1bdb535a0d04cbc9ee31031a688944ba1788a14e0382694ad235c6f8f0ea852a",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:25.895Z",
+  "content_hash": "81b34975fabaf8f48d6bae945d481a51d7ed0f9157fb887de4c1edf7ce3de614",
+  "article_path": "articles/1bdb535a0d04cbc9.md",
+  "fetched_url": "https://www.qwencloud.com/models/qwen-audio-3.1-asr-flash",
+  "source_path": "sources/articles/qwen-audio-3-1-asr-flash-speech-recognition-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:28:57.161Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

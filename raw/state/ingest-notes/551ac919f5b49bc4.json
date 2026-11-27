@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/voice-input-oral-vs-document-for-agents.md",
+    "topics/near-real-time-decisions-api.md"
+  ],
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "文章核心为实时全双工语音模型，与该主题的纯语音全双工与情绪可听直接相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "文中明确支持文音输入输出及语音转写，与语音输入主题相关。",
+    "topics/near-real-time-decisions-api.md": "模型强调实时上下文理解、打断处理与轮流对话，贴近近实时决策 API 主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "文章核心为实时全双工语音模型，与该主题的纯语音全双工与情绪可听直接相关。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中明确支持文音输入输出及语音转写，与语音输入主题相关。"
+    },
+    {
+      "path": "topics/near-real-time-decisions-api.md",
+      "action": "unchanged",
+      "reason": "模型强调实时上下文理解、打断处理与轮流对话，贴近近实时决策 API 主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有事实均来源于提供的 qwencloud.com 模型页面，未编造额外 URL 或信息。"
+}

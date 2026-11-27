@@ -1,0 +1,23 @@
+{
+  "slug": "80a5faea6e0af9ba",
+  "url": "https://x.com/karpathy/status/2125779541952246039",
+  "title": "Karpathy",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "80a5faea6e0af9ba7939c9bf930ff8b26aad173e29cbfa3f670c6c89512075ea",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:33.221Z",
+  "content_hash": "a9a6017621c395e23f05d064e6e69b0f9922136bdc52240b6907b31de3c8941d",
+  "article_path": "articles/80a5faea6e0af9ba.md",
+  "fetched_url": "https://x.com/karpathy/status/2125779541952246039",
+  "source_path": "sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:33:31.552Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "b1007f8a129bbdcc",
+  "url": "https://x.com/paulg/status/2126066121333715109",
+  "title": "Paul Graham",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "b1007f8a129bbdccf34bde90c356badaaf8bbdd54d2a251209ef48a0c5299520",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:32.610Z",
+  "content_hash": "e6c256911fca9e6d66cac0aafba88bf8f9d9556f65356dcfa179d054a56f930c",
+  "article_path": "articles/b1007f8a129bbdcc.md",
+  "fetched_url": "https://x.com/paulg/status/2126066121333715109",
+  "source_path": "sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:32:09.419Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

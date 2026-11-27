@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:31:36.044Z",
+  "url": "https://github.com/lsernau/grh-lean",
+  "slug": "d0f4230142583401",
+  "content_hash": "b4fb597f8b7f8fcd9a3903f12e26d5400b24ce0206c50d06ed9b752995f299db",
+  "source": {
+    "path": "sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/llm-formal-verification.md",
+    "topics/reuse-before-write.md",
+    "topics/code-over-spec.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "仓库作为研究产物以代码/证明形式呈现，而非传统规格或论文"
+    },
+    {
+      "path": "topics/llm-formal-verification.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Claude 协作的 Lean 4 形式化证明，与 LLM 形式化验证主题高度相关"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "证明建立在 Mathlib 之上，体现先复用再编写的原则"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/llm-formal-verification.md": "文章涉及 Claude 协作的 Lean 4 形式化证明，与 LLM 形式化验证主题高度相关",
+    "topics/reuse-before-write.md": "证明建立在 Mathlib 之上，体现先复用再编写的原则",
+    "topics/code-over-spec.md": "仓库作为研究产物以代码/证明形式呈现，而非传统规格或论文"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/llm-formal-verification.md",
+      "topics/reuse-before-write.md",
+      "topics/code-over-spec.md"
+    ],
+    "selection_reasons": {
+      "topics/llm-formal-verification.md": "文章涉及 Claude 协作的 Lean 4 形式化证明，与 LLM 形式化验证主题高度相关",
+      "topics/reuse-before-write.md": "证明建立在 Mathlib 之上，体现先复用再编写的原则",
+      "topics/code-over-spec.md": "仓库作为研究产物以代码/证明形式呈现，而非传统规格或论文"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

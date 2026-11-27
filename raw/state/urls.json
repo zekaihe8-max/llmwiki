@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -15562,8 +15562,8 @@
     "hash": "b487e157980896965a5d32fcfd5f768e9b5ac66fd1bc5f56e04aac4c78584856",
     "slug": "b487e15798089696",
     "first_seen": "2026-11-26T12:06:03.705Z",
-    "last_seen": "2026-11-26T12:06:03.705Z",
-    "digest": "2026-11-26-cn-x.md",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
     "title": "Pi 跟进了 Program Resume Protocol（OSC 7577）"
   },
   "https://x.com/vista8/status/2125843646130147811": {
@@ -15733,5 +15733,173 @@
     "last_seen": "2026-11-26T12:06:03.705Z",
     "digest": "2026-11-26-cn-x.md",
     "title": "官网"
+  },
+  "https://x.com/sama/status/2125638790593274259": {
+    "hash": "4d3a52fafc02205f233916df2be4964f1d332a2643aed484b7aa109f2f053292",
+    "slug": "4d3a52fafc02205f",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Altman"
+  },
+  "https://x.com/gdb/status/2125824585027272727": {
+    "hash": "92310773f729f84e974b4339a6cb17406b4ee49af6b9504818fa6c146a3bd800",
+    "slug": "92310773f729f84e",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Brockman"
+  },
+  "https://openai.com/business/private-intelligence": {
+    "hash": "c1f89fa9e22b7c2c47a2c5361d3739bbf5e85bc25684fac616fde50adaf0f431",
+    "slug": "c1f89fa9e22b7c2c",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/thsottiaux/status/2125784147889393806": {
+    "hash": "faceade3f221c37e8b0e450b6156795040b51f28b076647f7d664bbb97a4ee0b",
+    "slug": "faceade3f221c37e",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Tibo"
+  },
+  "https://x.com/thsottiaux/status/2125853628250599730": {
+    "hash": "804070d5d231eabc24634d9e3712470771635e0179a771bbf60fb4cc39c00bd0",
+    "slug": "804070d5d231eabc",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "重置已上线"
+  },
+  "https://x.com/Alibaba_Qwen/status/2125798914490249411": {
+    "hash": "4b55d50301e8d5af10a48a2cae4828abe7333689c96660a7625ad604931e9017",
+    "slug": "4b55d50301e8d5af",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Qwen"
+  },
+  "https://www.qwencloud.com/models/qwen-audio-3.1-asr-flash": {
+    "hash": "1bdb535a0d04cbc9ee31031a688944ba1788a14e0382694ad235c6f8f0ea852a",
+    "slug": "1bdb535a0d04cbc9",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "ASR"
+  },
+  "https://www.qwencloud.com/models/qwen-audio-3.1-tts-flash": {
+    "hash": "e83d511c8406f684a9f0f7afdaddbd7200745ceef7d823df9d92ddba74115c54",
+    "slug": "e83d511c8406f684",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "TTS"
+  },
+  "https://www.qwencloud.com/models/qwen-audio-3.1-realtime-flash": {
+    "hash": "551ac919f5b49bc4dc733d7e85aaed90db2f777acc26201a5c6ffbde0615fb96",
+    "slug": "551ac919f5b49bc4",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Realtime"
+  },
+  "https://math.mit.edu/~drew/shortgrh": {
+    "hash": "a52d712ead7dc990577821ff6661fd99bd8e74a5ffc9fd6beb8326bfe682cd16",
+    "slug": "a52d712ead7dc990",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://github.com/lsernau/grh-lean": {
+    "hash": "d0f42301425834014aa9bd7d6aa49fe102bc795a087c488b2455cf08d99a303e",
+    "slug": "d0f4230142583401",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "仓库"
+  },
+  "https://x.com/paulg/status/2126066121333715109": {
+    "hash": "b1007f8a129bbdccf34bde90c356badaaf8bbdd54d2a251209ef48a0c5299520",
+    "slug": "b1007f8a129bbdcc",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Paul Graham"
+  },
+  "https://x.com/emollick/status/2125812805534183923": {
+    "hash": "069c7db8a49c8b4c54ca6cad9c6c5309f4a27ed1a6aa88facb0abd596c7a2256",
+    "slug": "069c7db8a49c8b4c",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Mollick"
+  },
+  "https://x.com/karpathy/status/2125779541952246039": {
+    "hash": "80a5faea6e0af9ba7939c9bf930ff8b26aad173e29cbfa3f670c6c89512075ea",
+    "slug": "80a5faea6e0af9ba",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Karpathy"
+  },
+  "https://karpathy.ai/usaciv": {
+    "hash": "304eb6f376a1bd461d8fc09d6a46001574388db1627a9c9ca85f668d7b43ca3e",
+    "slug": "304eb6f376a1bd46",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "地图"
+  },
+  "https://x.com/levie/status/2125837181398950233": {
+    "hash": "4bf5daa561d73472bca3d60a645665b3faf9fd037b1733f379fe9f4a1fd8f5cd",
+    "slug": "4bf5daa561d73472",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Levie"
+  },
+  "https://x.com/levie/status/2125983542475894821": {
+    "hash": "d90332e5a3b6bf9f9729c7defadad5d4584d5cf227cc323ec1064866e2558f5b",
+    "slug": "d90332e5a3b6bf9f",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "服务公司"
+  },
+  "https://x.com/Voxyz_ai/status/2125952719676756047": {
+    "hash": "2f31cf92ee47e22afd03007be950090fa473e470c4f0276204148714f96eae59",
+    "slug": "2f31cf92ee47e22a",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Voxyz"
+  },
+  "https://x.com/mitchellh/status/2125713695233970521": {
+    "hash": "79a6a3b23b85b8da62d725133d044dd3ad5e7a7f03de81794a49e9af034567c4",
+    "slug": "79a6a3b23b85b8da",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "Mitchell"
+  },
+  "https://www.superlogical.com/rex/docs/build/program-resume": {
+    "hash": "a7de7d61ac089a8cbcc151d3f11be0b01b9f582076bcfa106033ec46a200fe13",
+    "slug": "a7de7d61ac089a8c",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "说明"
+  },
+  "https://x.com/xiaomovps/status/2125972525108830317": {
+    "hash": "d100c329f21570769a49cc9ff84c005ce4748aaf1b6c0bfa8a7ee3e81aa995d2",
+    "slug": "d100c329f2157076",
+    "first_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T00:25:23.488Z",
+    "digest": "2026-11-27-frontier-ai.md",
+    "title": "小墨"
   }
 }

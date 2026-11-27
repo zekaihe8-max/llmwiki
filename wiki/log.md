@@ -1,3 +1,43 @@
+## 2026-11-27
+
+* **创建 / Creation**: 归档 [小墨：Antigravity 省额五技巧（Orchestrator、上下文压缩与规则减法）](./sources/articles/xiao-mo-five-antigravity-quota-saving-tips-orchestrator-context.md)。 / Filed [Xiao Mo: Five Antigravity Quota-Saving Tips (Orchestrator, Context Compression, and Rule Reduction)](./sources/articles/xiao-mo-five-antigravity-quota-saving-tips-orchestrator-context.md).
+
+* **创建 / Creation**: 归档 [Rex 通过 OSC 7577 终端协议支持程序跨服务器重启恢复](./sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md)。 / Filed [Rex Adds Program Resume Across Server Restarts via OSC 7577 Terminal Protocol](./sources/articles/rex-adds-program-resume-across-server-restarts-via-osc-7577-term.md).
+
+* **创建 / Creation**: 归档 [Voxyz 帖文：Claude Code 技能描述被压缩为裸名称，建议审计并重写触发词](./sources/articles/voxyz-post-claude-code-skill-descriptions-compressed-to-bare-nam.md)。 / Filed [Voxyz Post: Claude Code Skill Descriptions Compressed to Bare Names, Suggests Audit and Trigger Rewriting](./sources/articles/voxyz-post-claude-code-skill-descriptions-compressed-to-bare-nam.md).
+
+* **创建 / Creation**: 归档 [以智能体为中心的服务公司机会](./sources/articles/service-firm-opportunities-with-agents-at-the-center.md)。 / Filed [Service Firm Opportunities with Agents at the Center](./sources/articles/service-firm-opportunities-with-agents-at-the-center.md).
+
+* **创建 / Creation**: 归档 [Levie：编程预示知识工作向智能体协作演变](./sources/articles/levie-coding-foreshadows-knowledge-work-evolving-toward-agent-co.md)。 / Filed [Levie: Coding Foreshadows Knowledge Work Evolving Toward Agent Collaboration](./sources/articles/levie-coding-foreshadows-knowledge-work-evolving-toward-agent-co.md).
+
+* **创建 / Creation**: 归档 [卡帕蒂用 Claude Code 做美国《文明》地图](./sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md)。 / Filed [Karpathy Builds US Civilization Map with Claude Code](./sources/articles/karpathy-builds-us-civilization-map-with-claude-code.md).
+
+* **创建 / Creation**: 归档 [模型名称与编号已不再能反映能力水平](./sources/articles/model-names-and-numbers-no-longer-indicate-ability-levels.md)。 / Filed [Model names and numbers no longer indicate ability levels](./sources/articles/model-names-and-numbers-no-longer-indicate-ability-levels.md).
+
+* **创建 / Creation**: 归档 [保罗·格雷厄姆：预测未来时应假设 AI 会思考](./sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md)。 / Filed [Paul Graham: Assume AI Thinks When Predicting the Future](./sources/articles/paul-graham-assume-ai-thinks-when-predicting-the-future.md).
+
+* **创建 / Creation**: 归档 [Lean 4 中狄利克雷 L-函数广义黎曼假设的形式化证明](./sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md)。 / Filed [GRH for Dirichlet L-functions, in Lean 4](./sources/articles/grh-for-dirichlet-l-functions-in-lean-4.md).
+
+* **创建 / Creation**: 归档 [Lean 4 形式化验证黎曼假设与广义黎曼假设简短证明](./sources/articles/verification-files-for-the-shorter-lean-proof-of-rh-and-grh-for.md)。 / Filed [Verification files for the shorter Lean proof of RH and GRH for Dirichlet L-functions](./sources/articles/verification-files-for-the-shorter-lean-proof-of-rh-and-grh-for.md).
+
+* **创建 / Creation**: 归档 [Qwen-Audio-3.1-Realtime 实时全双工语音模型](./sources/articles/qwen-audio-3-1-realtime-real-time-full-duplex-speech-model.md)。 / Filed [Qwen-Audio-3.1-Realtime Real-Time Full-Duplex Speech Model](./sources/articles/qwen-audio-3-1-realtime-real-time-full-duplex-speech-model.md).
+
+* **创建 / Creation**: 归档 [Qwen-Audio-3.1-TTS-Flash 文本转语音模型](./sources/articles/qwen-audio-3-1-tts-flash-text-to-speech-model.md)。 / Filed [Qwen-Audio-3.1-TTS-Flash Text-to-Speech Model](./sources/articles/qwen-audio-3-1-tts-flash-text-to-speech-model.md).
+
+* **创建 / Creation**: 归档 [Qwen-Audio-3.1-ASR-Flash 语音识别模型](./sources/articles/qwen-audio-3-1-asr-flash-speech-recognition-model.md)。 / Filed [Qwen-Audio-3.1-ASR-Flash Speech Recognition Model](./sources/articles/qwen-audio-3-1-asr-flash-speech-recognition-model.md).
+
+* **创建 / Creation**: 归档 [Qwen-Audio-3.1 发布增强多语言与中文方言能力](./sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md)。 / Filed [Qwen-Audio-3.1 releases enhanced multilingual and Chinese dialect capabilities](./sources/articles/qwen-audio-3-1-releases-enhanced-multilingual-and-chinese-dialec.md).
+
+* **创建 / Creation**: 归档 [重置已上线](./sources/articles/banked-reset-is-online.md)。 / Filed [Banked reset is online](./sources/articles/banked-reset-is-online.md).
+
+* **创建 / Creation**: 归档 [Tibo 发布 GPT-6.2 计费错误修正与补偿说明](./sources/articles/tibo-posts-gpt-6-2-billing-error-correction-and-compensation.md)。 / Filed [Tibo posts GPT-6.2 billing error correction and compensation](./sources/articles/tibo-posts-gpt-6-2-billing-error-correction-and-compensation.md).
+
+* **创建 / Creation**: 归档 [OpenAI 私有智能](./sources/articles/openai-private-intelligence.md)。 / Filed [OpenAI Private Intelligence](./sources/articles/openai-private-intelligence.md).
+
+* **创建 / Creation**: 归档 [Greg Brockman 转发：OpenAI 私密推理开始小规模测试](./sources/articles/greg-brockman-reposts-openai-private-inference-begins-small-scal.md)。 / Filed [Greg Brockman Reposts: OpenAI Private Inference Begins Small-Scale Testing](./sources/articles/greg-brockman-reposts-openai-private-inference-begins-small-scal.md).
+
+* **创建 / Creation**: 归档 [Altman 宣布 OpenAI 私有推理面向少量客户测试](./sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md)。 / Filed [Sam Altman: OpenAI Private Inference Testing with Small Customer Group](./sources/articles/sam-altman-openai-private-inference-testing-with-small-customer.md).
+
 ## 2026-11-26
 
 * **创建 / Creation**: 归档 [Mole：原生 Mac 清理、软件管理与状态监控工具](./sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md)。 / Filed [Mole: Native Mac Cleanup, Software Management, and Status Monitoring Utility](./sources/articles/mole-native-mac-cleanup-software-management-and-status-monitorin.md).

@@ -1,0 +1,23 @@
+{
+  "slug": "92310773f729f84e",
+  "url": "https://x.com/gdb/status/2125824585027272727",
+  "title": "Brockman",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "92310773f729f84e974b4339a6cb17406b4ee49af6b9504818fa6c146a3bd800",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:24.240Z",
+  "content_hash": "214644799bbf93bb5bd44cadd0373301468b5877b81727b5e220a606eb2121e7",
+  "article_path": "articles/92310773f729f84e.md",
+  "fetched_url": "https://x.com/gdb/status/2125824585027272727",
+  "source_path": "sources/articles/greg-brockman-reposts-openai-private-inference-begins-small-scal.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:26:33.642Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "551ac919f5b49bc4",
+  "url": "https://www.qwencloud.com/models/qwen-audio-3.1-realtime-flash",
+  "title": "Realtime",
+  "digest": "2026-11-27-frontier-ai.md",
+  "status": "filed",
+  "hash": "551ac919f5b49bc4dc733d7e85aaed90db2f777acc26201a5c6ffbde0615fb96",
+  "first_seen": "2026-11-27T00:25:23.488Z",
+  "last_seen": "2026-11-27T00:25:23.488Z",
+  "fetched_at": "2026-11-27T00:25:27.621Z",
+  "content_hash": "54639d62d2048620b16b0b85868c6fd52ec8380fea79ab5a19301f4281c92e50",
+  "article_path": "articles/551ac919f5b49bc4.md",
+  "fetched_url": "https://www.qwencloud.com/models/qwen-audio-3.1-realtime-flash",
+  "source_path": "sources/articles/qwen-audio-3-1-realtime-real-time-full-duplex-speech-model.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T00:29:53.619Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

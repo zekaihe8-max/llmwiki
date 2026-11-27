@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T00:29:32.721Z",
+  "url": "https://www.qwencloud.com/models/qwen-audio-3.1-tts-flash",
+  "slug": "e83d511c8406f684",
+  "content_hash": "794f837ccb9ebd0040951f4ae8dd876988663256efd38ad9d1dcde1d55b3db96",
+  "source": {
+    "path": "sources/articles/qwen-audio-3-1-tts-flash-text-to-speech-model.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/pure-speech-full-duplex.md",
+    "topics/pro-vs-flash-model-strategy.md",
+    "topics/carplay-voice-assistants.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/carplay-voice-assistants.md",
+      "action": "unchanged",
+      "reason": "文中提到语音助手等实时交互场景，与语音助手接入主题相关。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文章主体为 Flash 版本模型，该主题涉及 Pro 与 Flash 模型策略，可复用上下文。"
+    },
+    {
+      "path": "topics/pure-speech-full-duplex.md",
+      "action": "unchanged",
+      "reason": "该主题讨论纯语音全双工与情绪可听，与 TTS 模型的语音合成和情感控制最为贴近。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "文中涉及语音输入与交互，与语音输入口头转述主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/pure-speech-full-duplex.md": "该主题讨论纯语音全双工与情绪可听，与 TTS 模型的语音合成和情感控制最为贴近。",
+    "topics/pro-vs-flash-model-strategy.md": "文章主体为 Flash 版本模型，该主题涉及 Pro 与 Flash 模型策略，可复用上下文。",
+    "topics/carplay-voice-assistants.md": "文中提到语音助手等实时交互场景，与语音助手接入主题相关。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "文中涉及语音输入与交互，与语音输入口头转述主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/qwen-audio-3-1-tts-flash-text-to-speech-model.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/pure-speech-full-duplex.md",
+      "topics/pro-vs-flash-model-strategy.md",
+      "topics/carplay-voice-assistants.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/pure-speech-full-duplex.md": "该主题讨论纯语音全双工与情绪可听，与 TTS 模型的语音合成和情感控制最为贴近。",
+      "topics/pro-vs-flash-model-strategy.md": "文章主体为 Flash 版本模型，该主题涉及 Pro 与 Flash 模型策略，可复用上下文。",
+      "topics/carplay-voice-assistants.md": "文中提到语音助手等实时交互场景，与语音助手接入主题相关。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "文中涉及语音输入与交互，与语音输入口头转述主题相关。"
+    },
+    "notes": "所有事实均来源于提供的抓取页面，未引入外部 URL 或未在文中出现的信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/qwen-audio-3-1-tts-flash-text-to-speech-model.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
