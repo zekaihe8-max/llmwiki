@@ -1,0 +1,23 @@
+{
+  "slug": "776d25dbe06e135f",
+  "url": "https://x.com/0xLogicrw/status/2126264363635953768",
+  "title": "DeepSeek 正式公开工具延迟加载",
+  "digest": "2026-11-27-cn-x.md",
+  "status": "filed",
+  "hash": "776d25dbe06e135f52b97d86d4d88c6b5b35ad51247fbd0a84550f2f2a37c2b1",
+  "first_seen": "2026-11-27T11:55:36.185Z",
+  "last_seen": "2026-11-27T11:55:36.185Z",
+  "fetched_at": "2026-11-27T11:55:45.519Z",
+  "content_hash": "81a54a917abb007ad570b4a8f79dc4f9031e8fb87f93cd6d0cd007ab9020d75d",
+  "article_path": "articles/776d25dbe06e135f.md",
+  "fetched_url": "https://x.com/0xLogicrw/status/2126264363635953768",
+  "source_path": "sources/articles/deepseek-officially-publishes-deferred-tool-loading-mechanism.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T12:14:21.011Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

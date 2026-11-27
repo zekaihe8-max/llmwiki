@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:08:50.177Z",
+  "url": "https://x.com/cgnot996/status/2126146866241028423",
+  "slug": "7e6083e06d6a0544",
+  "content_hash": "781e40b3752aa5eebf7c1595f434364f3e7d47901637fb33b2f986acdbb5cebe",
+  "source": {
+    "path": "sources/articles/jianying-official-plugin-integrates-doubao-work-fully-automatic.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-auto-mode.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文强调繁琐剪辑操作交给 Agent、人只把控创意，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是剪映接入豆包工作实现全自动视频剪辑，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "剪映官方插件接入豆包工作属于应用内模型合作，与应用内模型合作伙伴主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是剪映接入豆包工作实现全自动视频剪辑，与智能体视频剪辑主题直接相关。",
+    "topics/agent-auto-mode.md": "帖文强调繁琐剪辑操作交给 Agent、人只把控创意，体现智能体自动模式。",
+    "topics/in-app-model-partnerships.md": "剪映官方插件接入豆包工作属于应用内模型合作，与应用内模型合作伙伴主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/jianying-official-plugin-integrates-doubao-work-fully-automatic.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/agent-auto-mode.md",
+      "topics/in-app-model-partnerships.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文核心是剪映接入豆包工作实现全自动视频剪辑，与智能体视频剪辑主题直接相关。",
+      "topics/agent-auto-mode.md": "帖文强调繁琐剪辑操作交给 Agent、人只把控创意，体现智能体自动模式。",
+      "topics/in-app-model-partnerships.md": "剪映官方插件接入豆包工作属于应用内模型合作，与应用内模型合作伙伴主题相关。"
+    },
+    "notes": "文章发布时间显示为 2026 年 11 月 27 日，所有主张均基于帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/jianying-official-plugin-integrates-doubao-work-fully-automatic.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

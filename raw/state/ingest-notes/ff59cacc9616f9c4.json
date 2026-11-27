@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "帖文核心是 Subcast 自动高光剪辑测试，与 AI 辅助剪藏与媒体笔记主题最贴近。",
+    "topics/agentic-video-editing.md": "涉及自动视频高光剪辑，与智能体视频剪辑主题相关。",
+    "topics/open-source-in-ai-assistant-editing.md": "涉及 AI 辅助剪辑工具，与开源工具装进 AI 助手做自然语言剪辑主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Subcast 自动高光剪辑测试，与 AI 辅助剪藏与媒体笔记主题最贴近。"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "涉及自动视频高光剪辑，与智能体视频剪辑主题相关。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 辅助剪辑工具，与开源工具装进 AI 助手做自然语言剪辑主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未创建新话题，仅复用现有目录中的剪辑与视频编辑相关条目。"
+}

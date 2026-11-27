@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/html-image-fun-knowledge-learning.md",
+    "topics/interactive-world-models.md",
+    "topics/simulation-ready-open-3d-assets.md"
+  ],
+  "selection_reasons": {
+    "topics/html-image-fun-knowledge-learning.md": "文章介绍的是基于网页的趣味电子学入门产品，与“HTML 与生图的趣味知识学习产品”主题相近，但本文不涉及生图，故主题保持不变。",
+    "topics/interactive-world-models.md": "Electronics 101 提供可交互的 3D 电路模型，与“实时交互世界模型”在交互性上有交集，但文章聚焦电子学教学而非通用世界模型，故无需变更。",
+    "topics/simulation-ready-open-3d-assets.md": "文中提到 3D 电路模型与仿真，与“仿真就绪开放三维资产”有关联，但文章未涉及开放资产标准或资产分发，故主题保持不变。"
+  },
+  "topics": [
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "文章介绍的是基于网页的趣味电子学入门产品，与“HTML 与生图的趣味知识学习产品”主题相近，但本文不涉及生图，故主题保持不变。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "Electronics 101 提供可交互的 3D 电路模型，与“实时交互世界模型”在交互性上有交集，但文章聚焦电子学教学而非通用世界模型，故无需变更。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文中提到 3D 电路模型与仿真，与“仿真就绪开放三维资产”有关联，但文章未涉及开放资产标准或资产分发，故主题保持不变。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主题均按现有目录复用，未创建新主题；所有事实均来源于所提供的帖文 markdown。"
+}

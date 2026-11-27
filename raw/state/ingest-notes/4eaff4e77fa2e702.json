@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文核心是给 AI 设置硬工作流约束再执行翻译，与“工作流优先于智能体”主题高度相关。",
+    "topics/context-engineering-for-agents.md": "四项防翻车约束本质上是对 Agent 的上下文与指令工程。",
+    "topics/ai-assisted-clipping-and-notes.md": "内容涉及 AI 处理外部文档（PDF）并产出翻译笔记，与 AI 辅助剪藏与媒体笔记相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文核心是给 AI 设置硬工作流约束再执行翻译，与“工作流优先于智能体”主题高度相关。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "四项防翻车约束本质上是对 Agent 的上下文与指令工程。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "内容涉及 AI 处理外部文档（PDF）并产出翻译笔记，与 AI 辅助剪藏与媒体笔记相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

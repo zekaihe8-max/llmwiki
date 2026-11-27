@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/community-evals-vs-score-hype.md",
+    "topics/public-benchmark-quality-scrutiny.md",
+    "topics/ai-eval-work-record-gateway.md"
+  ],
+  "selection_reasons": {
+    "topics/community-evals-vs-score-hype.md": "帖文讨论 benchmaxing 与分数被当成营销数字的过度优化问题，与该主题直接相关",
+    "topics/public-benchmark-quality-scrutiny.md": "文章强调在信任公开基准榜单前需审查基准质量与运行说明，与审视公开榜单质量一致",
+    "topics/ai-eval-work-record-gateway.md": "文章拆解智能体评测协议与基准入口设计，与 AI 评测入口相关"
+  },
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 benchmaxing 与分数被当成营销数字的过度优化问题，与该主题直接相关"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章强调在信任公开基准榜单前需审查基准质量与运行说明，与审视公开榜单质量一致"
+    },
+    {
+      "path": "topics/ai-eval-work-record-gateway.md",
+      "action": "unchanged",
+      "reason": "文章拆解智能体评测协议与基准入口设计，与 AI 评测入口相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

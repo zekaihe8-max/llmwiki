@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T00:25:23.488Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -15901,5 +15901,293 @@
     "last_seen": "2026-11-27T00:25:23.488Z",
     "digest": "2026-11-27-frontier-ai.md",
     "title": "小墨"
+  },
+  "https://x.com/Khazix0918/status/2126163343023263893": {
+    "hash": "5fd46825f0820c565afd75fd36b6188731c125d3981eb84e52c76de9cceea589",
+    "slug": "5fd46825f0820c56",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他写了一篇支付宝 SkillPay 上手文，核心判断是好手艺不该只剩免费开源"
+  },
+  "https://x.com/i/article/2126161832415244288": {
+    "hash": "7cd9e7bc5e2b4a98537c542e78b0c4fd39d9891599cec06ff2a7f24008a0f44b",
+    "slug": "7cd9e7bc5e2b4a98",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "文章"
+  },
+  "https://x.com/dotey/status/2126070816534151538": {
+    "hash": "5f193ce79b6cd8e8513aef9d07a04435eddab8e0f8f7f3b3bea668c7ab4be47d",
+    "slug": "5f193ce79b6cd8e8",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他给 shadcn 讲 UI SDK 的原视频加了配音，觉得这是目前解释得最清楚的一版"
+  },
+  "https://x.com/dotey/status/2126157234144989236": {
+    "hash": "d2b12ed02d5305c415c9dc4151db8d17d45ddbc228d533eb115a93a0d1896bdf",
+    "slug": "d2b12ed02d5305c4",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他推荐免费电子学入门站 Electronics 101：现在是 68 节 3D 互动课，支持简体中文，打开浏览器就能学"
+  },
+  "https://electronics-101-six.vercel.app/": {
+    "hash": "e3da3def1404a552a8e8583b2ff4991db662bff0662ffd62c11e55a271f74efd",
+    "slug": "e3da3def1404a552",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "网站"
+  },
+  "https://x.com/xiaomovps/status/2126149728161370158": {
+    "hash": "9b4674120b3ea01482483a1d9c6f628f809098d061fda41bfe1d91289aaf033c",
+    "slug": "9b4674120b3ea014",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他说 Antigravity 不好用，大概率是插件装乱了，筛完只留 5 个不打架的就够"
+  },
+  "https://x.com/xiaomovps/status/2126131833205325913": {
+    "hash": "477502385e668ce6ba96b0b46959185df1997dce445132bc8acb2601c2db1508",
+    "slug": "477502385e668ce6",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他解释为什么 Gemini 和 Antigravity 用起来像两家公司的产品：三套班子挂在同一张会员卡上"
+  },
+  "https://x.com/xiaomovps/status/2126265778148135218": {
+    "hash": "7976b5f5acef8c034c3af4431aee2cc2e0714659bbddf09a454df7230b726c44",
+    "slug": "7976b5f5acef8c03",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他不再只丢清单，把 Anthropic 的免费资料排成一篇能跟着练的学习路线"
+  },
+  "https://x.com/i/article/2126243062623895552": {
+    "hash": "03f76035c870b6f9f5777a48f2afbd51a1a8a96ef2800b722af28cc220e865e4",
+    "slug": "03f76035c870b6f9",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "文章"
+  },
+  "https://x.com/xiaomovps/status/2126226771163177456": {
+    "hash": "d9f8ba4ede9d779380d07c72eb3018851dc7a90e880147ac0e6093bd4957a6b3",
+    "slug": "d9f8ba4ede9d7793",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他还顺着官方复盘，写 Anthropic 为什么敢让 AI 把核心 Messages API 从 Python 重写成 Rust"
+  },
+  "https://x.com/lxfater/status/2126138948988584375": {
+    "hash": "f7ac2e98981020b21543c2915986caba51f1e11e8975d2705340989d49e35973",
+    "slug": "f7ac2e98981020b2",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他劝黑五开了 Google AI 会员的人，别只拿网页聊天，会员里还藏着显卡算力和云抵扣金"
+  },
+  "https://x.com/lxfater/status/2126145248036356206": {
+    "hash": "079670cdfddbe9727941e8c20288736a19476e8b41b81d8d9dbb3755ae92f847",
+    "slug": "079670cdfddbe972",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他说 Antigravity 刚给全员重置额度，付费用户却炸锅，开发者后来在 GitHub 揪出两个偷跑额度的 Bug"
+  },
+  "https://x.com/lxfater/status/2126137735777800351": {
+    "hash": "f2751b3f00c1faf29d963e37f9f1146994813690ad36a490004118e44f959420",
+    "slug": "f2751b3f00c1faf2",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他反驳「MCP 已经凉了」：大厂后台调用已经很高，新 MCP 也补了四块能力"
+  },
+  "https://x.com/0xlangeai/status/2126239508475867194": {
+    "hash": "f501f750d98d6e801c7f44641b76e777627a7a449d274d9b065f6d39b40f0d68",
+    "slug": "f501f750d98d6e80",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他给新手写了一篇 Google Colab 保姆教程，从是什么、怎么用，写到 Colab CLI 怎么配合 Codex，并附了提示词"
+  },
+  "https://x.com/i/article/2126221671090778112": {
+    "hash": "16936ffc908c7c9bc2e0e906370780a82e3363fd52b0ef040caecbc87a6a34fe",
+    "slug": "16936ffc908c7c9b",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "文章"
+  },
+  "https://x.com/0xlangeai/status/2126168386401137026": {
+    "hash": "476652649b08c8d3064440f9638f8b220e46ef6110a49b516a8019bccc6cad9a",
+    "slug": "476652649b08c8d3",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他用订阅自带的 Colab 积分，在 Codex 里跑出一条 AI 视频，强调没有另买付费 API"
+  },
+  "https://x.com/0xlangeai/status/2126143220480651528": {
+    "hash": "4eaff4e77fa2e7021546bf9f4a34952f8d46f11e563f53892b41e597a3c7de09",
+    "slug": "4eaff4e77fa2e702",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他夸 Gemini 4 Neon 把英文 PDF 转成中文相当完整，并让 Neon 自己复盘为什么没翻车"
+  },
+  "https://x.com/op7418/status/2126208864702140859": {
+    "hash": "ef81ceb59a7fad60a995469d07a7220e58622cdefbb7ef2f0e5cb2af36a4bdbb",
+    "slug": "ef81ceb59a7fad60",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他分享了一个相对省钱的 AI MV 和剧情视频做法"
+  },
+  "https://x.com/op7418/status/2126251542890393931": {
+    "hash": "d0f12ed544c5c323345b3d2684de84a60c65f4c292601c82e399477e39c553fc",
+    "slug": "d0f12ed544c5c323",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他提到 Raycast 黑五 7 折，并觉得今年大家没有像去年那样猛打折"
+  },
+  "https://x.com/turingou/status/2126241500757627103": {
+    "hash": "f3d3d67c00eaf3f17d988b31d040f6323619f4f2f85fcaa31ce97d77f2d0fb8f",
+    "slug": "f3d3d67c00eaf3f1",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他转了一条关于财务自由的讨论，把幸福的重心放在创造上"
+  },
+  "https://x.com/turingou/status/2126274857742860379": {
+    "hash": "737c34e5bc9d9a61b61e6be37ffc854b6aacb1825ae39314680860c85c68a945",
+    "slug": "737c34e5bc9d9a61",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "银座单向街去他东京家里拍了一部很长的个人纪录片，目前先剪出四集，后面还会更新"
+  },
+  "https://x.com/oran_ge/status/2126104017147474204": {
+    "hash": "c17e5660fa366065ac134e3c5befd7901091a7065663a4560e36249e8187b2b5",
+    "slug": "c17e5660fa366065",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "这期橘座请来星月写作 CEO 猛哥，讨论在眼下的环境里，怎样做出真正赚钱的 AI 应用"
+  },
+  "https://x.com/vista8/status/2125983288254988508": {
+    "hash": "11a8f6c23dd2b84739599feaff7016f484a585587c419e39a522e203f24c2d2e",
+    "slug": "11a8f6c23dd2b847",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "AI 播客软件 Subcast 上线了安卓第一版，iOS 也已提交 TestFlight，审核通过就能测，下载地址放在评论区"
+  },
+  "https://x.com/vista8/status/2126118385302094085": {
+    "hash": "ff59cacc9616f9c4c304edc8e3d9884e68e67e79e69346d78461062eac06ccbf",
+    "slug": "ff59cacc9616f9c4",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他拿李开复「AI 先取代平庸电影，再取代好电影」这段，测试了 Subcast 的自动高光剪辑"
+  },
+  "https://x.com/cgnot996/status/2126146866241028423": {
+    "hash": "7e6083e06d6a0544e5ad7e5b44613cc275b05598de1bd111e1efcc2c5f40bde4",
+    "slug": "7e6083e06d6a0544",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他宣布剪映官方插件已经接入豆包工作，觉得全自动剪辑这下是真来了"
+  },
+  "https://x.com/cgnot996/status/2126136386982121589": {
+    "hash": "e96437da74b37900b945aac8a542a2ca636d9f2c554c72257aae4b09b350fbc1",
+    "slug": "e96437da74b37900",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他用 XHunt 插件看到自己进入 X 全球 AI 赛道 1 万名以内，并把它当成娱乐向的打榜"
+  },
+  "https://x.com/shao__meng/status/2126252963383627969": {
+    "hash": "e0503a0cb44af8312f0f2d8396519f3b880ae39b8d78ec9a1bc702cd0ac02c81",
+    "slug": "e0503a0cb44af831",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他整理了斯坦福 CS329Z 第 12 讲：SWE-bench 共同创建者 John Yang 讲怎么评估 AI 智能体，以及好基准的七项标准"
+  },
+  "https://x.com/shao__meng/status/2126158574565155132": {
+    "hash": "4f5fe81c2b3dfc0642032dfaa781a93e959e814839011e614a81f07ceec6c761",
+    "slug": "4f5fe81c2b3dfc06",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "他还转了 Reddit 上一个 31 年经验开发者看 GTA 6 移植时的震动：有人给 Claude 的提示只是「水还是什么东西坏了」"
+  },
+  "https://x.com/xiaomovps/status/2126196718253527532": {
+    "hash": "20c07b3dd678ff0fcfa3e17489ed965d5bb3c945cdd18d4dbaeb4c6a1f661774",
+    "slug": "20c07b3dd678ff0f",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "Coucou"
+  },
+  "https://x.com/0xLogicrw/status/2126264363635953768": {
+    "hash": "776d25dbe06e135f52b97d86d4d88c6b5b35ad51247fbd0a84550f2f2a37c2b1",
+    "slug": "776d25dbe06e135f",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "DeepSeek 正式公开工具延迟加载"
+  },
+  "https://x.com/lxfater/status/2126269783637205427": {
+    "hash": "4f2ba7d8173cacc3789908f6d131f3c2800672c12fd6497d6a2ca48b9654ab8a",
+    "slug": "4f2ba7d8173cacc3",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "腾讯元宝开始招募个人助手「小元」首批体验官"
+  },
+  "https://wj.qq.com/s2/28842033/29yr": {
+    "hash": "6fe3ed837582aa4980a86492a3188ec3f225451666b3dda3d44588a210e0f93b",
+    "slug": "6fe3ed837582aa49",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "报名页"
+  },
+  "https://x.com/0xLogicrw/status/2126267246268006414": {
+    "hash": "fd33e8763033700dbc3a9346990de62f1916ec11aa71e975c8f39bfedfb61590",
+    "slug": "fd33e8763033700d",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "豆包工作里的剪映插件"
+  },
+  "https://x.com/dingyi/status/2126258135862321547": {
+    "hash": "452d6d8e1a80cb74701dde728fda42a548b4ae8404e0e3acf4ad8ca9ec8f7bc8",
+    "slug": "452d6d8e1a80cb74",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "Calends"
+  },
+  "https://calends.date/": {
+    "hash": "5f8f3fd16fcf0cb711afe143ab6d0969b7c3416a822fb8e07734466943e0f4b5",
+    "slug": "5f8f3fd16fcf0cb7",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "网站"
+  },
+  "https://x.com/xiaomovps/status/2126210665585254468": {
+    "hash": "9eaff2b2d1889aab4817c187a7458d5d1bbc47163ab000d2bb8447973bc60912",
+    "slug": "9eaff2b2d1889aab",
+    "first_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-27T11:55:36.185Z",
+    "digest": "2026-11-27-cn-x.md",
+    "title": "Pi 1.6.1 加 Cloudflare Agents SDK 0.34.0"
   }
 }

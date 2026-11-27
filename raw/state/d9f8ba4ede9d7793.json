@@ -1,0 +1,23 @@
+{
+  "slug": "d9f8ba4ede9d7793",
+  "url": "https://x.com/xiaomovps/status/2126226771163177456",
+  "title": "他还顺着官方复盘，写 Anthropic 为什么敢让 AI 把核心 Messages API 从 Python 重写成 Rust",
+  "digest": "2026-11-27-cn-x.md",
+  "status": "filed",
+  "hash": "d9f8ba4ede9d779380d07c72eb3018851dc7a90e880147ac0e6093bd4957a6b3",
+  "first_seen": "2026-11-27T11:55:36.185Z",
+  "last_seen": "2026-11-27T11:55:36.185Z",
+  "fetched_at": "2026-11-27T11:55:40.207Z",
+  "content_hash": "74eff06c54a9ae543ef2cdb46d5370e42249e255f32f5359ae7e270a6b250af6",
+  "article_path": "articles/d9f8ba4ede9d7793.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2126226771163177456",
+  "source_path": "sources/articles/how-anthropic-let-ai-rewrite-the-core-messages-api-from-python-t.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T12:00:31.959Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

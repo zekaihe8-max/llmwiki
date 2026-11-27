@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/code-over-spec.md"
+  ],
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文核心在于构建严丝合缝的验证 Harness 与人工架构把关，直接对应公司级 Agent Harness 主题。",
+    "topics/agent-scaled-engineering.md": "文章讲述 Anthropic 在超大规模流量下用 AI 重写关键接口，属于智能体规模化工程实践。",
+    "topics/harness-comparison-beyond-tokens.md": "重点不在于模型写代码有多快，而在于验证体系，与超越 Token 数的 Harness 评估相关。",
+    "topics/code-over-spec.md": "团队不再信任传统单测，把线上老系统当考官，体现以代码/行为比对重于规格与测试断言。"
+  },
+  "topics": [
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文核心在于构建严丝合缝的验证 Harness 与人工架构把关，直接对应公司级 Agent Harness 主题。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章讲述 Anthropic 在超大规模流量下用 AI 重写关键接口，属于智能体规模化工程实践。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "重点不在于模型写代码有多快，而在于验证体系，与超越 Token 数的 Harness 评估相关。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "团队不再信任传统单测，把线上老系统当考官，体现以代码/行为比对重于规格与测试断言。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @xiaomovps 在 X 上的帖文，引用了 Anthropic 官方工程复盘；未独立核实官方原文细节。"
+}

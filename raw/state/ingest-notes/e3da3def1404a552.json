@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/geo-personal-website-first-step.md",
+    "topics/landing-page-site-clone-over-skill.md",
+    "topics/html-image-fun-knowledge-learning.md"
+  ],
+  "selection_reasons": {
+    "topics/geo-personal-website-first-step.md": "涉及个人网站建设，与本文电路网站属同类网站类条目",
+    "topics/landing-page-site-clone-over-skill.md": "涉及网站落地页与站点复刻，与本文网站类条目相近",
+    "topics/html-image-fun-knowledge-learning.md": "涉及基于 HTML 的趣味知识学习产品，与本文交互式电路可视化网站相近"
+  },
+  "topics": [
+    {
+      "path": "topics/geo-personal-website-first-step.md",
+      "action": "unchanged",
+      "reason": "涉及个人网站建设，与本文电路网站属同类网站类条目"
+    },
+    {
+      "path": "topics/landing-page-site-clone-over-skill.md",
+      "action": "unchanged",
+      "reason": "涉及网站落地页与站点复刻，与本文网站类条目相近"
+    },
+    {
+      "path": "topics/html-image-fun-knowledge-learning.md",
+      "action": "unchanged",
+      "reason": "涉及基于 HTML 的趣味知识学习产品，与本文交互式电路可视化网站相近"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

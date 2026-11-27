@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/agent-skills-open-standard.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章核心围绕Skill的编写、封装与变现，直接对应该主题。",
+    "topics/agent-skills-open-standard.md": "文中讨论Skill的开放与付费边界，涉及开放标准与商业化的张力。",
+    "topics/skills-stack-native-app-recreation.md": "文中提到Skill可跨Agent平台复用，与Skills组合复刻原生感App相关。",
+    "topics/reuse-before-write.md": "作者主张好手艺应有正向循环与回报，而非仅靠免费开源，呼应先复用再创作的生态思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章核心围绕Skill的编写、封装与变现，直接对应该主题。"
+    },
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "文中讨论Skill的开放与付费边界，涉及开放标准与商业化的张力。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文中提到Skill可跨Agent平台复用，与Skills组合复刻原生感App相关。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "作者主张好手艺应有正向循环与回报，而非仅靠免费开源，呼应先复用再创作的生态思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均引用自该帖文，未引入外部事实；未创建新话题，所有咨询话题动作均为unchanged。"
+}

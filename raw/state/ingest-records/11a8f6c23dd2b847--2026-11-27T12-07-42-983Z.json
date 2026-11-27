@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:07:42.983Z",
+  "url": "https://x.com/vista8/status/2125983288254988508",
+  "slug": "11a8f6c23dd2b847",
+  "content_hash": "7d1ec52e436ee4130fbc7a54e04be44e6ad96731171adc37e19f85d8b1a3b0ad",
+  "source": {
+    "path": "sources/articles/ai-podcast-app-subcast-launches-android-v1-ios-submitted-to-test.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/podcast-ai-fine-transcription-close-reads.md",
+    "topics/ai-native-companies.md",
+    "topics/voice-input-oral-vs-document-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "Subcast 作为 AI 原生产品上线，可复用该主题的产品分类视角。"
+    },
+    {
+      "path": "topics/podcast-ai-fine-transcription-close-reads.md",
+      "action": "unchanged",
+      "reason": "与 AI 播客软件主题最贴近，涉及播客与 AI 结合的产品形态。"
+    },
+    {
+      "path": "topics/voice-input-oral-vs-document-for-agents.md",
+      "action": "unchanged",
+      "reason": "播客内容涉及语音与音频，与该主题相邻。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/podcast-ai-fine-transcription-close-reads.md": "与 AI 播客软件主题最贴近，涉及播客与 AI 结合的产品形态。",
+    "topics/ai-native-companies.md": "Subcast 作为 AI 原生产品上线，可复用该主题的产品分类视角。",
+    "topics/voice-input-oral-vs-document-for-agents.md": "播客内容涉及语音与音频，与该主题相邻。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-podcast-app-subcast-launches-android-v1-ios-submitted-to-test.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/podcast-ai-fine-transcription-close-reads.md",
+      "topics/ai-native-companies.md",
+      "topics/voice-input-oral-vs-document-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/podcast-ai-fine-transcription-close-reads.md": "与 AI 播客软件主题最贴近，涉及播客与 AI 结合的产品形态。",
+      "topics/ai-native-companies.md": "Subcast 作为 AI 原生产品上线，可复用该主题的产品分类视角。",
+      "topics/voice-input-oral-vs-document-for-agents.md": "播客内容涉及语音与音频，与该主题相邻。"
+    },
+    "notes": "所有事实仅来自提供的 X 帖文摘要，未引入外部信息。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-podcast-app-subcast-launches-android-v1-ios-submitted-to-test.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

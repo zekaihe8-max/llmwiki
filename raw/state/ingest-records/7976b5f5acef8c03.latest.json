@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T11:59:45.611Z",
+  "url": "https://x.com/xiaomovps/status/2126265778148135218",
+  "slug": "7976b5f5acef8c03",
+  "content_hash": "ca5168f6b97de7fbe40672351225b73fed04899879712b5ddb35e78acdc597b8",
+  "source": {
+    "path": "sources/articles/from-bookmarks-to-practice-anthropic-s-free-agent-materials-orga.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/workflows-before-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文第二层明确提到照官方模板写第一个 Skill，与该主题直接对应"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文第三层点名上下文工程，属核心学习内容"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文第三层对比 Claude Code、Pi 与 DeepSeek Harness，涉及 Harness 差异"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文第二层先读工作流，与“工作流优先于智能体”主题相关"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文第二层明确提到照官方模板写第一个 Skill，与该主题直接对应",
+    "topics/context-engineering-for-agents.md": "帖文第三层点名上下文工程，属核心学习内容",
+    "topics/harness-comparison-beyond-tokens.md": "帖文第三层对比 Claude Code、Pi 与 DeepSeek Harness，涉及 Harness 差异",
+    "topics/workflows-before-agents.md": "帖文第二层先读工作流，与“工作流优先于智能体”主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/from-bookmarks-to-practice-anthropic-s-free-agent-materials-orga.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/workflows-before-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文第二层明确提到照官方模板写第一个 Skill，与该主题直接对应",
+      "topics/context-engineering-for-agents.md": "帖文第三层点名上下文工程，属核心学习内容",
+      "topics/harness-comparison-beyond-tokens.md": "帖文第三层对比 Claude Code、Pi 与 DeepSeek Harness，涉及 Harness 差异",
+      "topics/workflows-before-agents.md": "帖文第二层先读工作流，与“工作流优先于智能体”主题相关"
+    },
+    "notes": "Source: https://x.com/xiaomovps/status/2126265778148135218",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/from-bookmarks-to-practice-anthropic-s-free-agent-materials-orga.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

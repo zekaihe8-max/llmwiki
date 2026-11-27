@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/agent-auto-mode.md",
+    "topics/in-app-model-partnerships.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文核心是剪映接入豆包工作实现全自动视频剪辑，与智能体视频剪辑主题直接相关。",
+    "topics/agent-auto-mode.md": "帖文强调繁琐剪辑操作交给 Agent、人只把控创意，体现智能体自动模式。",
+    "topics/in-app-model-partnerships.md": "剪映官方插件接入豆包工作属于应用内模型合作，与应用内模型合作伙伴主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文核心是剪映接入豆包工作实现全自动视频剪辑，与智能体视频剪辑主题直接相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文强调繁琐剪辑操作交给 Agent、人只把控创意，体现智能体自动模式。"
+    },
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "剪映官方插件接入豆包工作属于应用内模型合作，与应用内模型合作伙伴主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章发布时间显示为 2026 年 11 月 27 日，所有主张均基于帖文内容，未引入外部事实。"
+}

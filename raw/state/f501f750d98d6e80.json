@@ -1,0 +1,23 @@
+{
+  "slug": "f501f750d98d6e80",
+  "url": "https://x.com/0xlangeai/status/2126239508475867194",
+  "title": "他给新手写了一篇 Google Colab 保姆教程，从是什么、怎么用，写到 Colab CLI 怎么配合 Codex，并附了提示词",
+  "digest": "2026-11-27-cn-x.md",
+  "status": "filed",
+  "hash": "f501f750d98d6e801c7f44641b76e777627a7a449d274d9b065f6d39b40f0d68",
+  "first_seen": "2026-11-27T11:55:36.185Z",
+  "last_seen": "2026-11-27T11:55:36.185Z",
+  "fetched_at": "2026-11-27T11:55:41.193Z",
+  "content_hash": "625d8b66cf54b533349d32cafeb20380ce5440ee96114b18ec79251468e40cf5",
+  "article_path": "articles/f501f750d98d6e80.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2126239508475867194",
+  "source_path": "sources/articles/google-colab-beginner-tutorial-from-running-code-to-generating-v.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T12:02:25.719Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

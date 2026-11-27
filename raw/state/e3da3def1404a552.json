@@ -1,0 +1,23 @@
+{
+  "slug": "e3da3def1404a552",
+  "url": "https://electronics-101-six.vercel.app/",
+  "title": "网站",
+  "digest": "2026-11-27-cn-x.md",
+  "status": "filed",
+  "hash": "e3da3def1404a552a8e8583b2ff4991db662bff0662ffd62c11e55a271f74efd",
+  "first_seen": "2026-11-27T11:55:36.185Z",
+  "last_seen": "2026-11-27T11:55:36.185Z",
+  "fetched_at": "2026-11-27T11:55:38.520Z",
+  "content_hash": "1d48f719ba79f774cb6380f1100807410530e72805e8c67479f9e69342911ecd",
+  "article_path": "articles/e3da3def1404a552.md",
+  "fetched_url": "https://electronics-101-six.vercel.app/",
+  "source_path": "sources/articles/circuit-website.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-27T11:57:56.863Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

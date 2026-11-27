@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:13:31.278Z",
+  "url": "https://x.com/xiaomovps/status/2126196718253527532",
+  "slug": "20c07b3dd678ff0f",
+  "content_hash": "9d08ee8e82f48fb03c20f9d25e57b389d65fb5a8dca8ab4d9fbcb47256517332",
+  "source": {
+    "path": "sources/articles/coucou-and-five-ai-agent-open-source-projects-worth-watching.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/languages-for-agents.md",
+    "topics/agent-native-web-search.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-native-web-search.md",
+      "action": "unchanged",
+      "reason": "last30days-skill 抓取 Reddit、Hacker News、X、YouTube 等平台真实讨论，属于面向 Agent 的联网搜索与信息筛选。"
+    },
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "帖文中 last30days-skill 是可装入 Claude Code、Codex 或 Gemini CLI 的 Agent Skill，直接对应技能编写与使用场景。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Coucou 主要解决编程 Agent 的额度查看与远程审批体验，涉及编程 Agent 交互与配额管理。"
+    },
+    {
+      "path": "topics/languages-for-agents.md",
+      "action": "unchanged",
+      "reason": "llm.asm 用纯 x86-64 汇编实现大模型推理，属于面向 Agent 的极端底层编程语言尝试。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "帖文中 last30days-skill 是可装入 Claude Code、Codex 或 Gemini CLI 的 Agent Skill，直接对应技能编写与使用场景。",
+    "topics/coding-agent-ux-vs-quota.md": "Coucou 主要解决编程 Agent 的额度查看与远程审批体验，涉及编程 Agent 交互与配额管理。",
+    "topics/languages-for-agents.md": "llm.asm 用纯 x86-64 汇编实现大模型推理，属于面向 Agent 的极端底层编程语言尝试。",
+    "topics/agent-native-web-search.md": "last30days-skill 抓取 Reddit、Hacker News、X、YouTube 等平台真实讨论，属于面向 Agent 的联网搜索与信息筛选。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/coucou-and-five-ai-agent-open-source-projects-worth-watching.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/languages-for-agents.md",
+      "topics/agent-native-web-search.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "帖文中 last30days-skill 是可装入 Claude Code、Codex 或 Gemini CLI 的 Agent Skill，直接对应技能编写与使用场景。",
+      "topics/coding-agent-ux-vs-quota.md": "Coucou 主要解决编程 Agent 的额度查看与远程审批体验，涉及编程 Agent 交互与配额管理。",
+      "topics/languages-for-agents.md": "llm.asm 用纯 x86-64 汇编实现大模型推理，属于面向 Agent 的极端底层编程语言尝试。",
+      "topics/agent-native-web-search.md": "last30days-skill 抓取 Reddit、Hacker News、X、YouTube 等平台真实讨论，属于面向 Agent 的联网搜索与信息筛选。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/coucou-and-five-ai-agent-open-source-projects-worth-watching.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T11:58:34.092Z",
+  "url": "https://x.com/xiaomovps/status/2126149728161370158",
+  "slug": "9b4674120b3ea014",
+  "content_hash": "4d8b4db727caa154638f6995f5335d755fd938332973df39b5a34f70a3c1d211",
+  "source": {
+    "path": "sources/articles/google-antigravity-not-working-just-these-5-non-conflicting-plug.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文重点介绍 agy-fast、Ponytail 等省额度、省 Token 的编程 Agent 插件，与该主题工具与开销方向高度相关。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章讨论 AGY 额度掉得快、桌面端用量看板与 5 小时/每周限额，属于编程 Agent 体验与额度范畴。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "作者明确反对插件装得越多越好，主张筛掉撞车扩展只保留少数不打架的插件，符合精简核心与社区扩展的主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "帖文重点介绍 agy-fast、Ponytail 等省额度、省 Token 的编程 Agent 插件，与该主题工具与开销方向高度相关。",
+    "topics/coding-agent-ux-vs-quota.md": "文章讨论 AGY 额度掉得快、桌面端用量看板与 5 小时/每周限额，属于编程 Agent 体验与额度范畴。",
+    "topics/minimal-core-community-extensions.md": "作者明确反对插件装得越多越好，主张筛掉撞车扩展只保留少数不打架的插件，符合精简核心与社区扩展的主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-antigravity-not-working-just-these-5-non-conflicting-plug.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "帖文重点介绍 agy-fast、Ponytail 等省额度、省 Token 的编程 Agent 插件，与该主题工具与开销方向高度相关。",
+      "topics/coding-agent-ux-vs-quota.md": "文章讨论 AGY 额度掉得快、桌面端用量看板与 5 小时/每周限额，属于编程 Agent 体验与额度范畴。",
+      "topics/minimal-core-community-extensions.md": "作者明确反对插件装得越多越好，主张筛掉撞车扩展只保留少数不打架的插件，符合精简核心与社区扩展的主题。"
+    },
+    "notes": "来源为 @xiaomovps 在 X 上的帖文，未独立核实插件实测数据。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-antigravity-not-working-just-these-5-non-conflicting-plug.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-27T12:02:52.116Z",
+  "url": "https://x.com/0xlangeai/status/2126168386401137026",
+  "slug": "476652649b08c8d3",
+  "content_hash": "4339fde185ef18f3e1a403284a640179a1fbcc28dd507d5ca0545594494eaf88",
+  "source": {
+    "path": "sources/articles/he-used-colab-credits-included-with-his-subscription-to-generate.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/design-to-code-byo-subscriptions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "帖文描述在 Codex 内完成 AI 视频全流程，与智能体视频剪辑主题相近"
+    },
+    {
+      "path": "topics/design-to-code-byo-subscriptions.md",
+      "action": "unchanged",
+      "reason": "文中涉及 Codex 订阅与自带额度的使用，与自带订阅主题相关"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "提到通过 Colab 申请 GPU 资源，与消费级/订阅算力解锁相关"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "强调利用订阅自带积分而非另购 API，涉及高端 AI 订阅的价值主张"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "帖文描述在 Codex 内完成 AI 视频全流程，与智能体视频剪辑主题相近",
+    "topics/premium-ai-subscription-value.md": "强调利用订阅自带积分而非另购 API，涉及高端 AI 订阅的价值主张",
+    "topics/gpu-ai-compute-unlock.md": "提到通过 Colab 申请 GPU 资源，与消费级/订阅算力解锁相关",
+    "topics/design-to-code-byo-subscriptions.md": "文中涉及 Codex 订阅与自带额度的使用，与自带订阅主题相关"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/he-used-colab-credits-included-with-his-subscription-to-generate.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/premium-ai-subscription-value.md",
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/design-to-code-byo-subscriptions.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "帖文描述在 Codex 内完成 AI 视频全流程，与智能体视频剪辑主题相近",
+      "topics/premium-ai-subscription-value.md": "强调利用订阅自带积分而非另购 API，涉及高端 AI 订阅的价值主张",
+      "topics/gpu-ai-compute-unlock.md": "提到通过 Colab 申请 GPU 资源，与消费级/订阅算力解锁相关",
+      "topics/design-to-code-byo-subscriptions.md": "文中涉及 Codex 订阅与自带额度的使用，与自带订阅主题相关"
+    },
+    "notes": "所有主张均来源于 X 帖文，未独立核实；未在文中编造 URL 或额外事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/he-used-colab-credits-included-with-his-subscription-to-generate.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

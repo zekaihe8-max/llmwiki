@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/launcher-shortcut-ai-over-agent.md",
+    "topics/menubar-management-tool-gap.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "Raycast Pro 是付费 AI/生产力订阅，黑五折扣直接关联高端订阅价值议题。",
+    "topics/launcher-shortcut-ai-over-agent.md": "Raycast 属于启动器/快捷键类工具，与该主题的工具定位相近。",
+    "topics/menubar-management-tool-gap.md": "Raycast 也是菜单栏/启动器类工具，涉及相同工具类别的讨论背景。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "Raycast Pro 是付费 AI/生产力订阅，黑五折扣直接关联高端订阅价值议题。"
+    },
+    {
+      "path": "topics/launcher-shortcut-ai-over-agent.md",
+      "action": "unchanged",
+      "reason": "Raycast 属于启动器/快捷键类工具，与该主题的工具定位相近。"
+    },
+    {
+      "path": "topics/menubar-management-tool-gap.md",
+      "action": "unchanged",
+      "reason": "Raycast 也是菜单栏/启动器类工具，涉及相同工具类别的讨论背景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅基于抓取的 X 帖文与引用的 Raycast 官方帖文，未引入外部事实。"
+}
