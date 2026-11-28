@@ -1,0 +1,23 @@
+{
+  "slug": "332488397d211a01",
+  "url": "https://x.com/shao__meng/status/2126495906296111586",
+  "title": "斯坦福 CS329Z 炉边对谈里，吴恩达和 Diyi Yang 谈怎样把 Agent 做可靠",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "332488397d211a010deec6a451aad13eaac2015f72c21779b2f34d9403337313",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:11.173Z",
+  "content_hash": "e7245ffd75378e366aa686a1b8b40c1f98108d1f6fe3f4dd1fa834c334f727cd",
+  "article_path": "articles/332488397d211a01.md",
+  "fetched_url": "https://x.com/shao__meng/status/2126495906296111586",
+  "source_path": "sources/articles/andrew-ng-on-reliable-agents-disciplined-error-analysis-and-eval.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:06:50.993Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:03:10.250Z",
+  "url": "https://x.com/turingou/status/2126614122116923873",
+  "slug": "0b5322a656c6a616",
+  "content_hash": "d11a7ce848e024e5989c0f950af51d22e01f75b05e272e580dd32b427e08111d",
+  "source": {
+    "path": "sources/articles/tuwa-passes-android-and-apple-store-review.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文是作者对外宣布产品过审与发布，属于产品自荐与发布传播场景。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "内容涉及全端产品完成商店审核并发布，可归入软件产品化与发布流程的宽泛主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "帖文是作者对外宣布产品过审与发布，属于产品自荐与发布传播场景。",
+    "topics/software-factory.md": "内容涉及全端产品完成商店审核并发布，可归入软件产品化与发布流程的宽泛主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tuwa-passes-android-and-apple-store-review.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-product-self-rec-amplify.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-product-self-rec-amplify.md": "帖文是作者对外宣布产品过审与发布，属于产品自荐与发布传播场景。",
+      "topics/software-factory.md": "内容涉及全端产品完成商店审核并发布，可归入软件产品化与发布流程的宽泛主题。"
+    },
+    "notes": "文章未提供 Tuwa 的功能细节，仅记录商店审核与全端发布状态。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tuwa-passes-android-and-apple-store-review.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

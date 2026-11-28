@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:16:50.963Z",
+  "url": "https://github.com/MopMonkAI/MopMonk-DS-1.0-Preview",
+  "slug": "20e6ade65acc86b2",
+  "content_hash": "3b2aa498fb6d0df39627abbc9e2a16fceccc1e94d229009da14e7c61a68f76bb",
+  "source": {
+    "path": "sources/articles/mopmonk-ds-1-0-preview-cybersecurity-llm-repository.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "该主题讨论网安研究中的模型选型与越狱/防护问题，可用于定位 MopMonk 这类网安专用模型的研究用途与风险边界。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "该主题关注开放模型与网络防御，适合承接仓库中开放预览模型在攻防能力上的讨论。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章给出多项基准分数，需按该主题提醒读者审视公开基准质量与可比性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cyber-research-models-without-jailbreak.md": "该主题讨论网安研究中的模型选型与越狱/防护问题，可用于定位 MopMonk 这类网安专用模型的研究用途与风险边界。",
+    "topics/open-models-cyber-defense.md": "该主题关注开放模型与网络防御，适合承接仓库中开放预览模型在攻防能力上的讨论。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章给出多项基准分数，需按该主题提醒读者审视公开基准质量与可比性。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mopmonk-ds-1-0-preview-cybersecurity-llm-repository.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cyber-research-models-without-jailbreak.md",
+      "topics/open-models-cyber-defense.md",
+      "topics/public-benchmark-quality-scrutiny.md"
+    ],
+    "selection_reasons": {
+      "topics/cyber-research-models-without-jailbreak.md": "该主题讨论网安研究中的模型选型与越狱/防护问题，可用于定位 MopMonk 这类网安专用模型的研究用途与风险边界。",
+      "topics/open-models-cyber-defense.md": "该主题关注开放模型与网络防御，适合承接仓库中开放预览模型在攻防能力上的讨论。",
+      "topics/public-benchmark-quality-scrutiny.md": "文章给出多项基准分数，需按该主题提醒读者审视公开基准质量与可比性。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mopmonk-ds-1-0-preview-cybersecurity-llm-repository.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

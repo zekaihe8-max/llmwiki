@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:01:39.316Z",
+  "url": "https://x.com/xiaomovps/status/2126501833757667824",
+  "slug": "b4f55d35034ec21a",
+  "content_hash": "96ee24e6a7dfd298ed95e2e1cb125909fefbc810f9d653cd1f17241da070e488",
+  "source": {
+    "path": "sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章涉及 GitHub Copilot、OpenRouter、Cloudflare、千问、百灵等模型渠道变化。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Prompt Cache、上下文预估和减少不必要开销。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "双感叹号命令输出不计入上下文预估，避免误触发压缩。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "终端断线恢复、多目录隔离和权限保护与个人 Agent 运行环境密切相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及 Prompt Cache、上下文预估和减少不必要开销。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "终端断线恢复、多目录隔离和权限保护与个人 Agent 运行环境密切相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文章涉及 GitHub Copilot、OpenRouter、Cloudflare、千问、百灵等模型渠道变化。",
+    "topics/long-conversation-default-compression.md": "双感叹号命令输出不计入上下文预估，避免误触发压缩。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/personal-agent-cloud-env-pitfalls.md",
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/long-conversation-default-compression.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-token-saving-tooling.md": "文章涉及 Prompt Cache、上下文预估和减少不必要开销。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "终端断线恢复、多目录隔离和权限保护与个人 Agent 运行环境密切相关。",
+      "topics/agent-model-channel-tradeoffs.md": "文章涉及 GitHub Copilot、OpenRouter、Cloudflare、千问、百灵等模型渠道变化。",
+      "topics/long-conversation-default-compression.md": "双感叹号命令输出不计入上下文预估，避免误触发压缩。"
+    },
+    "notes": "Source.resource: https://x.com/xiaomovps/status/2126501833757667824",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

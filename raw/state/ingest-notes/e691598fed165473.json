@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/harness-plugin-style-fragmentation.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文关注编程/智能体工具的界面体验与功能负担，与该主题的体验取舍最接近。",
+    "topics/harness-comparison-beyond-tokens.md": "帖文在比较 Orca、T3 与 Amp 的主观体验，适合归入超越 token 数的 Harness 对比。",
+    "topics/harness-plugin-style-fragmentation.md": "界面粗糙、功能过多可对应插件/界面风格碎片化带来的体验问题。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文关注编程/智能体工具的界面体验与功能负担，与该主题的体验取舍最接近。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文在比较 Orca、T3 与 Amp 的主观体验，适合归入超越 token 数的 Harness 对比。"
+    },
+    {
+      "path": "topics/harness-plugin-style-fragmentation.md",
+      "action": "unchanged",
+      "reason": "界面粗糙、功能过多可对应插件/界面风格碎片化带来的体验问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅依据帖文与引用内容，未扩展未核实事实。"
+}

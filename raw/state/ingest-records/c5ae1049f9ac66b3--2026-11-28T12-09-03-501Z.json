@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:09:03.501Z",
+  "url": "https://x.com/dingyi/status/2126507550959116755",
+  "slug": "c5ae1049f9ac66b3",
+  "content_hash": "b1c54afcd194b4ad3b89fe2555e7098ef461026b536af3637484a8b3c45465b3",
+  "source": {
+    "path": "sources/articles/the-porsche-era-of-agents.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论无限 token 与顶级模型下 Agent 使用方式的变化，贴近智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文提到不再纠结 context window、tools/skills 与省 token 方法，直接对照编程 Agent 省 Token 工具与开销。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文称无需再纠结上下文窗口，涉及 Agent 上下文工程取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文讨论无限 token 与顶级模型下 Agent 使用方式的变化，贴近智能体规模化工程主题。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文提到不再纠结 context window、tools/skills 与省 token 方法，直接对照编程 Agent 省 Token 工具与开销。",
+    "topics/context-engineering-for-agents.md": "帖文称无需再纠结上下文窗口，涉及 Agent 上下文工程取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/the-porsche-era-of-agents.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-scaled-engineering.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/context-engineering-for-agents.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-scaled-engineering.md": "帖文讨论无限 token 与顶级模型下 Agent 使用方式的变化，贴近智能体规模化工程主题。",
+      "topics/coding-agent-token-saving-tooling.md": "帖文提到不再纠结 context window、tools/skills 与省 token 方法，直接对照编程 Agent 省 Token 工具与开销。",
+      "topics/context-engineering-for-agents.md": "帖文称无需再纠结上下文窗口，涉及 Agent 上下文工程取舍。"
+    },
+    "notes": "仅依据提供的帖文与引用内容整理。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/the-porsche-era-of-agents.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

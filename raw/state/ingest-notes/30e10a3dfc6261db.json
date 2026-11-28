@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/calibrating-ai-guidance.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/embedded-third-party-evals.md"
+  ],
+  "selection_reasons": {
+    "topics/calibrating-ai-guidance.md": "提示词针对的是 opus 设置的「不必要护栏、任意阻断」，属于对 AI 过度引导的校准，与该主题最接近。",
+    "topics/adversarial-review-external-evidence.md": "让另一个模型（Antigravity）对 Claude 的使用情况做审计并要求给出数字，属于借助外部来源进行对抗式评审。",
+    "topics/embedded-third-party-evals.md": "由第三方（Bertholomus AI）提供、借另一个 agent 评估 Claude 行为的提示词，与驻场第三方评估的思路相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/calibrating-ai-guidance.md",
+      "action": "unchanged",
+      "reason": "提示词针对的是 opus 设置的「不必要护栏、任意阻断」，属于对 AI 过度引导的校准，与该主题最接近。"
+    },
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "让另一个模型（Antigravity）对 Claude 的使用情况做审计并要求给出数字，属于借助外部来源进行对抗式评审。"
+    },
+    {
+      "path": "topics/embedded-third-party-evals.md",
+      "action": "unchanged",
+      "reason": "由第三方（Bertholomus AI）提供、借另一个 agent 评估 Claude 行为的提示词，与驻场第三方评估的思路相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文为转引的英文提示词，未提供审计结果；护栏、阻断等说法均为提示词中的主张，未经核实。"
+}

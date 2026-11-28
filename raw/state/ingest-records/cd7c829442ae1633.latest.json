@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:14:29.506Z",
+  "url": "https://github.com/sol1560/Captae",
+  "slug": "cd7c829442ae1633",
+  "content_hash": "e521ba31ad3a4375d25179ad5a532c52592c8198f6b464d49f046d0fd3a9762a",
+  "source": {
+    "path": "sources/articles/captae-local-media-download-and-ai-assistant-management-tool.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-assisted-clipping-and-notes.md",
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/agent-skill-authoring.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "Captae 可导出 Skill 文件供 AI 助手使用，涉及 Agent Skill 编写与适配"
+    },
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "Captae 提供视频剪辑、拼接、换音轨、字幕烧录，并可由 AI 助手驱动，契合智能体视频剪辑"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "Captae 的素材库、剪辑、字幕和 AI 发送功能与 AI 辅助剪藏与媒体笔记主题高度相关"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "Captae 是开源工具并通过 MCP 接入 AI 助手做自然语言剪辑与媒体处理"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-assisted-clipping-and-notes.md": "Captae 的素材库、剪辑、字幕和 AI 发送功能与 AI 辅助剪藏与媒体笔记主题高度相关",
+    "topics/agentic-video-editing.md": "Captae 提供视频剪辑、拼接、换音轨、字幕烧录，并可由 AI 助手驱动，契合智能体视频剪辑",
+    "topics/open-source-in-ai-assistant-editing.md": "Captae 是开源工具并通过 MCP 接入 AI 助手做自然语言剪辑与媒体处理",
+    "topics/agent-skill-authoring.md": "Captae 可导出 Skill 文件供 AI 助手使用，涉及 Agent Skill 编写与适配"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/captae-local-media-download-and-ai-assistant-management-tool.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-assisted-clipping-and-notes.md",
+      "topics/agentic-video-editing.md",
+      "topics/open-source-in-ai-assistant-editing.md",
+      "topics/agent-skill-authoring.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-assisted-clipping-and-notes.md": "Captae 的素材库、剪辑、字幕和 AI 发送功能与 AI 辅助剪藏与媒体笔记主题高度相关",
+      "topics/agentic-video-editing.md": "Captae 提供视频剪辑、拼接、换音轨、字幕烧录，并可由 AI 助手驱动，契合智能体视频剪辑",
+      "topics/open-source-in-ai-assistant-editing.md": "Captae 是开源工具并通过 MCP 接入 AI 助手做自然语言剪辑与媒体处理",
+      "topics/agent-skill-authoring.md": "Captae 可导出 Skill 文件供 AI 助手使用，涉及 Agent Skill 编写与适配"
+    },
+    "notes": "所有信息均来自提供的 Captae README 中文版，未引入外部事实或 URL。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/captae-local-media-download-and-ai-assistant-management-tool.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

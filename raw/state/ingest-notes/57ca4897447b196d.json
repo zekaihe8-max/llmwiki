@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/tech-misuse-concern-continuity.md": "帖文涉及 AI 时代的分配方式，属于技术社会影响关切，可复用现有主题，不新建。",
+    "topics/ai-product-self-rec-amplify.md": "帖文以推荐文章为主，涉及账号对内容的推荐与扩散；该主题关注推荐与加热机制，但本条不是 AI 产品自荐，因此保持不改动。"
+  },
+  "topics": [
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 时代的分配方式，属于技术社会影响关切，可复用现有主题，不新建。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文以推荐文章为主，涉及账号对内容的推荐与扩散；该主题关注推荐与加热机制，但本条不是 AI 产品自荐，因此保持不改动。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅复用现有主题，未创建新主题。"
+}

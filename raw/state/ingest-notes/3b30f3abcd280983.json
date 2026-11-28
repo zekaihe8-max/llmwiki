@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文讨论 AI Coding 客户端的趣味玩法与金币机制，贴近编程 Agent 体验与额度主题。",
+    "topics/ux-dx-and-ax.md": "作者评价默认字体中文显示费劲，属于客户端体验与可用性问题。",
+    "topics/ai-product-self-rec-amplify.md": "帖文以“安利”方式推荐 AI 产品，符合产品自荐与传播主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI Coding 客户端的趣味玩法与金币机制，贴近编程 Agent 体验与额度主题。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "作者评价默认字体中文显示费劲，属于客户端体验与可用性问题。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文以“安利”方式推荐 AI 产品，符合产品自荐与传播主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource: https://x.com/vista8/status/2126360162902638974"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:02:46.382Z",
+  "url": "https://x.com/turingou/status/2126595573923123340",
+  "slug": "064f3c39b703da03",
+  "content_hash": "a8ba68e57a9d037d9721e9927e3c304f37cf5bc9d85165844ea34e493103ed6a",
+  "source": {
+    "path": "sources/articles/yobiru-master-signature-authorization.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-identity-platform-keys.md",
+    "topics/personal-agent-share-and-interbot-chat.md",
+    "topics/account-and-asset-security-hygiene.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "使用 Face ID/passkey 一次授权并只执行一次，涉及账号授权安全卫生。"
+    },
+    {
+      "path": "topics/agent-identity-platform-keys.md",
+      "action": "unchanged",
+      "reason": "帖文核心是跨 agent 的主人签名与 passkey 授权，直接对应 agent 身份与平台握钥。"
+    },
+    {
+      "path": "topics/personal-agent-share-and-interbot-chat.md",
+      "action": "unchanged",
+      "reason": "文章描述 agent 之间传话不被认可、需要人类转述，属于个人 Agent 分享与 Bot 互聊场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-identity-platform-keys.md": "帖文核心是跨 agent 的主人签名与 passkey 授权，直接对应 agent 身份与平台握钥。",
+    "topics/personal-agent-share-and-interbot-chat.md": "文章描述 agent 之间传话不被认可、需要人类转述，属于个人 Agent 分享与 Bot 互聊场景。",
+    "topics/account-and-asset-security-hygiene.md": "使用 Face ID/passkey 一次授权并只执行一次，涉及账号授权安全卫生。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/yobiru-master-signature-authorization.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-identity-platform-keys.md",
+      "topics/personal-agent-share-and-interbot-chat.md",
+      "topics/account-and-asset-security-hygiene.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-identity-platform-keys.md": "帖文核心是跨 agent 的主人签名与 passkey 授权，直接对应 agent 身份与平台握钥。",
+      "topics/personal-agent-share-and-interbot-chat.md": "文章描述 agent 之间传话不被认可、需要人类转述，属于个人 Agent 分享与 Bot 互聊场景。",
+      "topics/account-and-asset-security-hygiene.md": "使用 Face ID/passkey 一次授权并只执行一次，涉及账号授权安全卫生。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/yobiru-master-signature-authorization.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

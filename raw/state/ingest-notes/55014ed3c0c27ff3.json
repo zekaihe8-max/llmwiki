@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/deterministic-refactor-automerge.md",
+    "topics/reuse-before-write.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "文章强调代码库要演进为适合大量 Agent 并行开发的工程系统，直接对应智能体规模化工程主题。",
+    "topics/deterministic-refactor-automerge.md": "文章强调安全、渐进、可验证的重构、测试基线、复审和防回归约束，与约束重构和确定性治理主题接近。",
+    "topics/reuse-before-write.md": "文章要求保留唯一标准实现、删除被替代实现、禁止新旧体系长期并存，体现先复用与收敛再新增的思路。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "文章强调代码库要演进为适合大量 Agent 并行开发的工程系统，直接对应智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/deterministic-refactor-automerge.md",
+      "action": "unchanged",
+      "reason": "文章强调安全、渐进、可验证的重构、测试基线、复审和防回归约束，与约束重构和确定性治理主题接近。"
+    },
+    {
+      "path": "topics/reuse-before-write.md",
+      "action": "unchanged",
+      "reason": "文章要求保留唯一标准实现、删除被替代实现、禁止新旧体系长期并存，体现先复用与收敛再新增的思路。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未创建新主题；内容仅基于帖文与提示词原文。"
+}

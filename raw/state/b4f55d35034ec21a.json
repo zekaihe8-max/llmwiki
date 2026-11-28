@@ -1,0 +1,23 @@
+{
+  "slug": "b4f55d35034ec21a",
+  "url": "https://x.com/xiaomovps/status/2126501833757667824",
+  "title": "1.7.0",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "b4f55d35034ec21a3fb4a9c7d371ce1f203dde79423bdd3256811e19049dbfec",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:06.795Z",
+  "content_hash": "96ee24e6a7dfd298ed95e2e1cb125909fefbc810f9d653cd1f17241da070e488",
+  "article_path": "articles/b4f55d35034ec21a.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2126501833757667824",
+  "source_path": "sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:01:39.316Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

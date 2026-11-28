@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/desktop-outfit-character-companions.md"
+  ],
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "文章核心是 Tripo 3D 生成的三维角色、骨骼、部件和道具，与三维资产生成和可用性主题最接近。",
+    "topics/desktop-outfit-character-companions.md": "文章包含换装、角色互动和陪伴式展示元素，与换装角色伴侣主题相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Tripo 3D 生成的三维角色、骨骼、部件和道具，与三维资产生成和可用性主题最接近。"
+    },
+    {
+      "path": "topics/desktop-outfit-character-companions.md",
+      "action": "unchanged",
+      "reason": "文章包含换装、角色互动和陪伴式展示元素，与换装角色伴侣主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅依据文章页面文本，不扩展未说明的实现细节。"
+}

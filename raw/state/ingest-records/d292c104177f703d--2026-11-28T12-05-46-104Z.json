@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:05:46.104Z",
+  "url": "https://x.com/servasyy_ai/status/2126452802218254718",
+  "slug": "d292c104177f703d",
+  "content_hash": "e57f85825ded16c2ba963523a66ca16f28d3a119da19ec3735a6bf851710dd72",
+  "source": {
+    "path": "sources/articles/he-saw-a-reddit-method-that-cuts-minimax-h3-s-vram-threshold-by.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "该主题直接对应消费级显卡显存门槛与本地可运行性。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "该主题覆盖开放权重模型、权重发布与本地部署。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "该主题直接对应消费级显卡显存门槛与本地可运行性。",
+    "topics/open-weight-frontier-models.md": "该主题覆盖开放权重模型、权重发布与本地部署。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/he-saw-a-reddit-method-that-cuts-minimax-h3-s-vram-threshold-by.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/open-weight-frontier-models.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "该主题直接对应消费级显卡显存门槛与本地可运行性。",
+      "topics/open-weight-frontier-models.md": "该主题覆盖开放权重模型、权重发布与本地部署。"
+    },
+    "notes": "未新增主题；内容基于帖文，未核实 Reddit 原帖与仓库链接。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/he-saw-a-reddit-method-that-cuts-minimax-h3-s-vram-threshold-by.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

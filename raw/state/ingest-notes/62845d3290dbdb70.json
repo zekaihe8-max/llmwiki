@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/interactive-world-models.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "帖文核心是 3D Demo 与三维内容生产，和开放三维资产主题最接近。",
+    "topics/interactive-world-models.md": "Live 3D Demo 涉及实时可交互的三维呈现，与该主题相关。",
+    "topics/agent-auto-mode.md": "帖文称 MCP 解放双手并让 Fable 自动产出，和智能体自动模式有一定关联。"
+  },
+  "topics": [
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 3D Demo 与三维内容生产，和开放三维资产主题最接近。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "Live 3D Demo 涉及实时可交互的三维呈现，与该主题相关。"
+    },
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文称 MCP 解放双手并让 Fable 自动产出，和智能体自动模式有一定关联。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Raw slug: 62845d3290dbdb70"
+}

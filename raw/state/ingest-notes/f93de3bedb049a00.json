@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是借助 Codex 与 PixVerse 插件完成视频生成、镜头重做和剪辑式复刻。",
+    "topics/skills-stack-native-app-recreation.md": "文章强调用现成 Skills 流程组合完成伪奢侈品广告，与用 Skills 堆叠复刻原生感产品相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是借助 Codex 与 PixVerse 插件完成视频生成、镜头重做和剪辑式复刻。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文章强调用现成 Skills 流程组合完成伪奢侈品广告，与用 Skills 堆叠复刻原生感产品相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文含付费合作与促销链接；条目仅复述帖文内容。"
+}

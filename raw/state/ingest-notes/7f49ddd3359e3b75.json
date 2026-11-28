@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文核心是免费 GPU 云算力与超大显存，直接对应该主题的消费级/云端 GPU 算力解锁。",
+    "topics/china-open-source-lead-us-compute.md": "帖文涉及阿里魔搭、AMD 与中国开源大模型（Qwen、DeepSeek）及算力供给，契合中国开源与算力议题。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文讲云 Notebook 环境预装、即开即用与用完即停，与个人云环境的使用与成本相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文核心是免费 GPU 云算力与超大显存，直接对应该主题的消费级/云端 GPU 算力解锁。"
+    },
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及阿里魔搭、AMD 与中国开源大模型（Qwen、DeepSeek）及算力供给，契合中国开源与算力议题。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文讲云 Notebook 环境预装、即开即用与用完即停，与个人云环境的使用与成本相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均来自帖文，未经独立核实；显存等效 6 张 5090 为帖文说法。活动入口链接取自帖文提供的 modelscope.cn/events/247。"
+}

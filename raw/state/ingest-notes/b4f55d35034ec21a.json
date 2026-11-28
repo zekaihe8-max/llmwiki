@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/personal-agent-cloud-env-pitfalls.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/long-conversation-default-compression.md"
+  ],
+  "selection_reasons": {
+    "topics/coding-agent-token-saving-tooling.md": "文章涉及 Prompt Cache、上下文预估和减少不必要开销。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "终端断线恢复、多目录隔离和权限保护与个人 Agent 运行环境密切相关。",
+    "topics/agent-model-channel-tradeoffs.md": "文章涉及 GitHub Copilot、OpenRouter、Cloudflare、千问、百灵等模型渠道变化。",
+    "topics/long-conversation-default-compression.md": "双感叹号命令输出不计入上下文预估，避免误触发压缩。"
+  },
+  "topics": [
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章涉及 Prompt Cache、上下文预估和减少不必要开销。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "终端断线恢复、多目录隔离和权限保护与个人 Agent 运行环境密切相关。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "文章涉及 GitHub Copilot、OpenRouter、Cloudflare、千问、百灵等模型渠道变化。"
+    },
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "双感叹号命令输出不计入上下文预估，避免误触发压缩。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource: https://x.com/xiaomovps/status/2126501833757667824"
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:10:30.663Z",
+  "url": "https://x.com/vista8/status/2126360162902638974",
+  "slug": "3b30f3abcd280983",
+  "content_hash": "25966bf672de4bbc5efd40732cacdbb5b77858fe5ad7cc8bd739066fa2c3c43f",
+  "source": {
+    "path": "sources/articles/zhao-chunxiang-s-ai-coding-client.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/ux-dx-and-ax.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文以“安利”方式推荐 AI 产品，符合产品自荐与传播主题。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "帖文讨论 AI Coding 客户端的趣味玩法与金币机制，贴近编程 Agent 体验与额度主题。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "作者评价默认字体中文显示费劲，属于客户端体验与可用性问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "帖文讨论 AI Coding 客户端的趣味玩法与金币机制，贴近编程 Agent 体验与额度主题。",
+    "topics/ux-dx-and-ax.md": "作者评价默认字体中文显示费劲，属于客户端体验与可用性问题。",
+    "topics/ai-product-self-rec-amplify.md": "帖文以“安利”方式推荐 AI 产品，符合产品自荐与传播主题。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/zhao-chunxiang-s-ai-coding-client.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/ux-dx-and-ax.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "帖文讨论 AI Coding 客户端的趣味玩法与金币机制，贴近编程 Agent 体验与额度主题。",
+      "topics/ux-dx-and-ax.md": "作者评价默认字体中文显示费劲，属于客户端体验与可用性问题。",
+      "topics/ai-product-self-rec-amplify.md": "帖文以“安利”方式推荐 AI 产品，符合产品自荐与传播主题。"
+    },
+    "notes": "Source.resource: https://x.com/vista8/status/2126360162902638974",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/zhao-chunxiang-s-ai-coding-client.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

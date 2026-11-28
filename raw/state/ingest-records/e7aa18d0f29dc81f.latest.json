@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:02:27.849Z",
+  "url": "https://x.com/turingou/status/2126571209899008178",
+  "slug": "e7aa18d0f29dc81f",
+  "content_hash": "8b441d0b99433d0cf4a23349fa93fe7dccb2cee21d9a9887a2f58c0fd29330fe",
+  "source": {
+    "path": "sources/articles/google-ai-ultra-subscribers-may-skip-runpod-for-offline-renderin.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文讨论用 Colab 额度替代 RunPod GPU，属于 GPU 算力获取与解锁方式。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Google AI Ultra 高端订阅带来的额度与算力价值。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文核心是 Google AI Ultra 高端订阅带来的额度与算力价值。",
+    "topics/gpu-ai-compute-unlock.md": "帖文讨论用 Colab 额度替代 RunPod GPU，属于 GPU 算力获取与解锁方式。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/google-ai-ultra-subscribers-may-skip-runpod-for-offline-renderin.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/premium-ai-subscription-value.md",
+      "topics/gpu-ai-compute-unlock.md"
+    ],
+    "selection_reasons": {
+      "topics/premium-ai-subscription-value.md": "帖文核心是 Google AI Ultra 高端订阅带来的额度与算力价值。",
+      "topics/gpu-ai-compute-unlock.md": "帖文讨论用 Colab 额度替代 RunPod GPU，属于 GPU 算力获取与解锁方式。"
+    },
+    "notes": "仅依据帖文内容归纳，未补充外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/google-ai-ultra-subscribers-may-skip-runpod-for-offline-renderin.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

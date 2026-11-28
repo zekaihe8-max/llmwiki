@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/open-source-in-ai-assistant-editing.md",
+    "topics/ai-assisted-clipping-and-notes.md"
+  ],
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是视频下载后接入 Agent 进行剪辑、拼接、换音轨、烧字幕，与智能体视频剪辑主题一致。",
+    "topics/open-source-in-ai-assistant-editing.md": "开源工具 Captae 被描述为可接入本地 Agent 做自然语言式视频整理与剪辑，符合开源工具进入 AI 助手编辑流程。",
+    "topics/ai-assisted-clipping-and-notes.md": "本地素材库、离线转文稿、搜索台词找回视频体现 AI 辅助剪藏与媒体笔记。"
+  },
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是视频下载后接入 Agent 进行剪辑、拼接、换音轨、烧字幕，与智能体视频剪辑主题一致。"
+    },
+    {
+      "path": "topics/open-source-in-ai-assistant-editing.md",
+      "action": "unchanged",
+      "reason": "开源工具 Captae 被描述为可接入本地 Agent 做自然语言式视频整理与剪辑，符合开源工具进入 AI 助手编辑流程。"
+    },
+    {
+      "path": "topics/ai-assisted-clipping-and-notes.md",
+      "action": "unchanged",
+      "reason": "本地素材库、离线转文稿、搜索台词找回视频体现 AI 辅助剪藏与媒体笔记。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource is the article URL."
+}

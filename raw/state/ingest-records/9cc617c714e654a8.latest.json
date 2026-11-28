@@ -1,0 +1,65 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:21:49.853Z",
+  "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+  "slug": "9cc617c714e654a8",
+  "content_hash": "250c4a1b3ed7d6b706406e5ad27c0c6a0fa63fc4cd554ac2492dfba2b7b685a2",
+  "source": {
+    "path": "sources/articles/ming-image-0-2-design-model-page.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/image-generation-pose-reference-libraries.md",
+    "topics/local-open-assistant-models.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "该 Source 是模型页，可归入既有模型资料主题。"
+    },
+    {
+      "path": "topics/image-generation-pose-reference-libraries.md",
+      "action": "unchanged",
+      "reason": "标题提示为模型，且名称含 Image，与生图主题最接近。"
+    },
+    {
+      "path": "topics/local-open-assistant-models.md",
+      "action": "unchanged",
+      "reason": "Hugging Face 模型页常与开放或本地模型资料相关，因此复用该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "该 Source 是模型页，可归入既有模型资料主题。",
+    "topics/image-generation-pose-reference-libraries.md": "标题提示为模型，且名称含 Image，与生图主题最接近。",
+    "topics/local-open-assistant-models.md": "Hugging Face 模型页常与开放或本地模型资料相关，因此复用该主题。"
+  },
+  "files_changed": [
+    "sources/articles/ming-image-0-2-design-model-page.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/image-generation-pose-reference-libraries.md",
+      "topics/local-open-assistant-models.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "该 Source 是模型页，可归入既有模型资料主题。",
+      "topics/image-generation-pose-reference-libraries.md": "标题提示为模型，且名称含 Image，与生图主题最接近。",
+      "topics/local-open-assistant-models.md": "Hugging Face 模型页常与开放或本地模型资料相关，因此复用该主题。"
+    },
+    "notes": "抓取内容极少，仅保留可验证的集合元信息。 In-place lint fix then lintFiling/writeIngestRecord.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/ming-image-0-2-design-model-page.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

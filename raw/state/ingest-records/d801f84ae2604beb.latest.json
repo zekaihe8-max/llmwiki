@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:16:27.372Z",
+  "url": "https://x.com/lxfater/status/2126606469437215115",
+  "slug": "d801f84ae2604beb",
+  "content_hash": "73b2a86ba1cc6fe392c4be9f3daea3439146aa4a641cb25c79604b9d9d5fb10a",
+  "source": {
+    "path": "sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/community-evals-vs-score-hype.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "文中引用 ExploitGym 分数与通过率，涉及社区评测结果与分数解读。"
+    },
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "文章核心是从外部 Harness 转向原生安全模型权重，与该话题关于网安模型选型与 Harness 的讨论最贴近。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "MopMonk 为面向网络安全的开放/原生安全模型，与开源模型与网络防御话题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cyber-research-models-without-jailbreak.md": "文章核心是从外部 Harness 转向原生安全模型权重，与该话题关于网安模型选型与 Harness 的讨论最贴近。",
+    "topics/open-models-cyber-defense.md": "MopMonk 为面向网络安全的开放/原生安全模型，与开源模型与网络防御话题相关。",
+    "topics/community-evals-vs-score-hype.md": "文中引用 ExploitGym 分数与通过率，涉及社区评测结果与分数解读。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cyber-research-models-without-jailbreak.md",
+      "topics/open-models-cyber-defense.md",
+      "topics/community-evals-vs-score-hype.md"
+    ],
+    "selection_reasons": {
+      "topics/cyber-research-models-without-jailbreak.md": "文章核心是从外部 Harness 转向原生安全模型权重，与该话题关于网安模型选型与 Harness 的讨论最贴近。",
+      "topics/open-models-cyber-defense.md": "MopMonk 为面向网络安全的开放/原生安全模型，与开源模型与网络防御话题相关。",
+      "topics/community-evals-vs-score-hype.md": "文中引用 ExploitGym 分数与通过率，涉及社区评测结果与分数解读。"
+    },
+    "notes": "来源为 X 平台 @lxfater 的帖文，未核实主张已在摘要中用「帖文称」标注；未编造超出文章的 URL 或事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

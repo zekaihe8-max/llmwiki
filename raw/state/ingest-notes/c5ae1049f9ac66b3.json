@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-scaled-engineering.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/context-engineering-for-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-scaled-engineering.md": "帖文讨论无限 token 与顶级模型下 Agent 使用方式的变化，贴近智能体规模化工程主题。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文提到不再纠结 context window、tools/skills 与省 token 方法，直接对照编程 Agent 省 Token 工具与开销。",
+    "topics/context-engineering-for-agents.md": "帖文称无需再纠结上下文窗口，涉及 Agent 上下文工程取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "帖文讨论无限 token 与顶级模型下 Agent 使用方式的变化，贴近智能体规模化工程主题。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文提到不再纠结 context window、tools/skills 与省 token 方法，直接对照编程 Agent 省 Token 工具与开销。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "帖文称无需再纠结上下文窗口，涉及 Agent 上下文工程取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅依据提供的帖文与引用内容整理。"
+}

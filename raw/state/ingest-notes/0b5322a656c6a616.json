@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/ai-product-self-rec-amplify.md",
+    "topics/software-factory.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-product-self-rec-amplify.md": "帖文是作者对外宣布产品过审与发布，属于产品自荐与发布传播场景。",
+    "topics/software-factory.md": "内容涉及全端产品完成商店审核并发布，可归入软件产品化与发布流程的宽泛主题。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文是作者对外宣布产品过审与发布，属于产品自荐与发布传播场景。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "内容涉及全端产品完成商店审核并发布，可归入软件产品化与发布流程的宽泛主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "文章未提供 Tuwa 的功能细节，仅记录商店审核与全端发布状态。"
+}

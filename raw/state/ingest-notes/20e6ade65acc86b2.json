@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/cyber-research-models-without-jailbreak.md",
+    "topics/open-models-cyber-defense.md",
+    "topics/public-benchmark-quality-scrutiny.md"
+  ],
+  "selection_reasons": {
+    "topics/cyber-research-models-without-jailbreak.md": "该主题讨论网安研究中的模型选型与越狱/防护问题，可用于定位 MopMonk 这类网安专用模型的研究用途与风险边界。",
+    "topics/open-models-cyber-defense.md": "该主题关注开放模型与网络防御，适合承接仓库中开放预览模型在攻防能力上的讨论。",
+    "topics/public-benchmark-quality-scrutiny.md": "文章给出多项基准分数，需按该主题提醒读者审视公开基准质量与可比性。"
+  },
+  "topics": [
+    {
+      "path": "topics/cyber-research-models-without-jailbreak.md",
+      "action": "unchanged",
+      "reason": "该主题讨论网安研究中的模型选型与越狱/防护问题，可用于定位 MopMonk 这类网安专用模型的研究用途与风险边界。"
+    },
+    {
+      "path": "topics/open-models-cyber-defense.md",
+      "action": "unchanged",
+      "reason": "该主题关注开放模型与网络防御，适合承接仓库中开放预览模型在攻防能力上的讨论。"
+    },
+    {
+      "path": "topics/public-benchmark-quality-scrutiny.md",
+      "action": "unchanged",
+      "reason": "文章给出多项基准分数，需按该主题提醒读者审视公开基准质量与可比性。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

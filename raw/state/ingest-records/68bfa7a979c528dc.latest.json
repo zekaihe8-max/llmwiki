@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T11:58:45.138Z",
+  "url": "https://x.com/dotey/status/2126396997968015709",
+  "slug": "68bfa7a979c528dc",
+  "content_hash": "ff76f70b7a0b908b3717f2ca49bab256215a28332671d70abfec815f4e611b31",
+  "source": {
+    "path": "sources/articles/roles-flipped-from-driving-the-work-to-describing-and-watching.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tasks-confidently-handed-to-ai.md",
+    "topics/personal-agent-foreman-over-coding-agents.md",
+    "topics/software-factory.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "“描述并观看事情出现”类似包工头调度与监督，而非亲自编码。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "角色翻转与工具帮助生产，贴近软件工厂式生产叙事。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文讨论从亲手处理细节到把任务交给模型并观看结果，和“哪些活已放心交给 AI”最接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/tasks-confidently-handed-to-ai.md": "帖文讨论从亲手处理细节到把任务交给模型并观看结果，和“哪些活已放心交给 AI”最接近。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "“描述并观看事情出现”类似包工头调度与监督，而非亲自编码。",
+    "topics/software-factory.md": "角色翻转与工具帮助生产，贴近软件工厂式生产叙事。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/roles-flipped-from-driving-the-work-to-describing-and-watching.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/tasks-confidently-handed-to-ai.md",
+      "topics/personal-agent-foreman-over-coding-agents.md",
+      "topics/software-factory.md"
+    ],
+    "selection_reasons": {
+      "topics/tasks-confidently-handed-to-ai.md": "帖文讨论从亲手处理细节到把任务交给模型并观看结果，和“哪些活已放心交给 AI”最接近。",
+      "topics/personal-agent-foreman-over-coding-agents.md": "“描述并观看事情出现”类似包工头调度与监督，而非亲自编码。",
+      "topics/software-factory.md": "角色翻转与工具帮助生产，贴近软件工厂式生产叙事。"
+    },
+    "notes": "Source.resource: https://x.com/dotey/status/2126396997968015709",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/roles-flipped-from-driving-the-work-to-describing-and-watching.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

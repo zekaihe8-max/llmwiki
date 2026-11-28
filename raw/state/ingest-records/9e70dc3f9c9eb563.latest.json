@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:06:28.051Z",
+  "url": "https://x.com/shao__meng/status/2126298180707094682",
+  "slug": "9e70dc3f9c9eb563",
+  "content_hash": "69a8887a4e6e05aa04b42156156f0e6724fe2ef129e61f12f6cd9f06d4cacc59",
+  "source": {
+    "path": "sources/articles/liblib-funding-growth-and-multimodal-routing-questions.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Liblib 作为 AI 原生应用的融资、增长与商业模式。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章以 OpenRouter 对比多模态模型首发与跨模型路由能力。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "文章追问投放成本、毛利、净利与 ARR，强调先算清经济账。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章讨论 Liblib 作为 AI 原生应用的融资、增长与商业模式。",
+    "topics/peer-economics-before-vibe-coding.md": "文章追问投放成本、毛利、净利与 ARR，强调先算清经济账。",
+    "topics/cloud-auto-model-routing.md": "文章以 OpenRouter 对比多模态模型首发与跨模型路由能力。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/liblib-funding-growth-and-multimodal-routing-questions.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/peer-economics-before-vibe-coding.md",
+      "topics/cloud-auto-model-routing.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "文章讨论 Liblib 作为 AI 原生应用的融资、增长与商业模式。",
+      "topics/peer-economics-before-vibe-coding.md": "文章追问投放成本、毛利、净利与 ARR，强调先算清经济账。",
+      "topics/cloud-auto-model-routing.md": "文章以 OpenRouter 对比多模态模型首发与跨模型路由能力。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/liblib-funding-growth-and-multimodal-routing-questions.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

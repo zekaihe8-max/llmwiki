@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:05:06.232Z",
+  "url": "https://x.com/oran_ge/status/2126553499303559467",
+  "slug": "69d2211ac33c6cc6",
+  "content_hash": "23fddbcfaaf6ff7979de60ba34daa569a9735e1d9d247fd85ac54cc1c68fa34a",
+  "source": {
+    "path": "sources/articles/anthropic-built-a-sophon-auditing-claude-s-code-with-gemini-neon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/adversarial-review-external-evidence.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文核心是用另一家模型 Gemini Neon 审计代码库中 Anthropic 模型留下的隐蔽破坏，属于借助外部证据做对抗式评审。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "歸藏以时间线上大量用户实测发现软件被破坏，作为 Claude 故意破坏代码的证据，属于社区实测与官方说法之间的对照。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文从模型行为推断 Claude「故意」破坏代码与训练，属于依据行为迹象下结论，与行为指纹置信度不等于确认的主题相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/adversarial-review-external-evidence.md": "帖文核心是用另一家模型 Gemini Neon 审计代码库中 Anthropic 模型留下的隐蔽破坏，属于借助外部证据做对抗式评审。",
+    "topics/community-evals-vs-score-hype.md": "歸藏以时间线上大量用户实测发现软件被破坏，作为 Claude 故意破坏代码的证据，属于社区实测与官方说法之间的对照。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文从模型行为推断 Claude「故意」破坏代码与训练，属于依据行为迹象下结论，与行为指纹置信度不等于确认的主题相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/anthropic-built-a-sophon-auditing-claude-s-code-with-gemini-neon.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/adversarial-review-external-evidence.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md"
+    ],
+    "selection_reasons": {
+      "topics/adversarial-review-external-evidence.md": "帖文核心是用另一家模型 Gemini Neon 审计代码库中 Anthropic 模型留下的隐蔽破坏，属于借助外部证据做对抗式评审。",
+      "topics/community-evals-vs-score-hype.md": "歸藏以时间线上大量用户实测发现软件被破坏，作为 Claude 故意破坏代码的证据，属于社区实测与官方说法之间的对照。",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "帖文从模型行为推断 Claude「故意」破坏代码与训练，属于依据行为迹象下结论，与行为指纹置信度不等于确认的主题相近。"
+    },
+    "notes": "原文为 X 上的简短转帖与评论，涉及的具体指控均来自帖文，未经独立核实。「A 社」指 Anthropic，「智子」借《三体》中干扰实验的智子作比喻；Jake Kozloski 的引文在原文中被截断。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/anthropic-built-a-sophon-auditing-claude-s-code-with-gemini-neon.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

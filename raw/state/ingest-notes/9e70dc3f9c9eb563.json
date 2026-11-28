@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/peer-economics-before-vibe-coding.md",
+    "topics/cloud-auto-model-routing.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "文章讨论 Liblib 作为 AI 原生应用的融资、增长与商业模式。",
+    "topics/peer-economics-before-vibe-coding.md": "文章追问投放成本、毛利、净利与 ARR，强调先算清经济账。",
+    "topics/cloud-auto-model-routing.md": "文章以 OpenRouter 对比多模态模型首发与跨模型路由能力。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "文章讨论 Liblib 作为 AI 原生应用的融资、增长与商业模式。"
+    },
+    {
+      "path": "topics/peer-economics-before-vibe-coding.md",
+      "action": "unchanged",
+      "reason": "文章追问投放成本、毛利、净利与 ARR，强调先算清经济账。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "文章以 OpenRouter 对比多模态模型首发与跨模型路由能力。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

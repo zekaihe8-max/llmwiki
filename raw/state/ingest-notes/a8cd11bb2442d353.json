@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/ai-peer-review-science-adaptation.md",
+    "topics/intelligence-as-anthropocentric-benchmark.md",
+    "topics/tech-misuse-concern-continuity.md"
+  ],
+  "selection_reasons": {
+    "topics/ai-peer-review-science-adaptation.md": "最接近：都涉及 AI 加速科研后，人类如何理解与适配机器产出的科学成果。",
+    "topics/intelligence-as-anthropocentric-benchmark.md": "相关：机器智能超越人类理解、人类反被塑造成像机器一样思考，触及人类中心视角。",
+    "topics/tech-misuse-concern-continuity.md": "相关：小说设定为防止失控而要求机器发明先被人类解释清楚，延续技术失控关切。"
+  },
+  "topics": [
+    {
+      "path": "topics/ai-peer-review-science-adaptation.md",
+      "action": "unchanged",
+      "reason": "最接近：都涉及 AI 加速科研后，人类如何理解与适配机器产出的科学成果。"
+    },
+    {
+      "path": "topics/intelligence-as-anthropocentric-benchmark.md",
+      "action": "unchanged",
+      "reason": "相关：机器智能超越人类理解、人类反被塑造成像机器一样思考，触及人类中心视角。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "相关：小说设定为防止失控而要求机器发明先被人类解释清楚，延续技术失控关切。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @dotey 的一条推文，转述并链接到 @jackclarkSF 的 Import AI 第 482 期原文；小说情节与「奇点已经开始」等为主帖转述的未独立核实主张，正文已用「帖文称」标注。"
+}

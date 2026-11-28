@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:11:57.398Z",
+  "url": "https://x.com/0xlangeai/status/2126618303376585097",
+  "slug": "ba61ad8f94a429f6",
+  "content_hash": "fef0570a315a2708038e7668f1a95a91613d29ac065594a025581b3862c3d6e8",
+  "source": {
+    "path": "sources/articles/no-longer-a-struggle-among-the-big-three-codex-lags-claude-faces.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文核心是在 Codex、Claude 与 Gemini 之间做模型渠道取舍。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文把 Claude 封号与订阅体验直接联系到风控。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文质疑高端会员的实际价值，强调账号存活和稳定使用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文核心是在 Codex、Claude 与 Gemini 之间做模型渠道取舍。",
+    "topics/claude-subscription-risk-control-weights.md": "帖文把 Claude 封号与订阅体验直接联系到风控。",
+    "topics/premium-ai-subscription-value.md": "帖文质疑高端会员的实际价值，强调账号存活和稳定使用。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/no-longer-a-struggle-among-the-big-three-codex-lags-claude-faces.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-model-channel-tradeoffs.md",
+      "topics/claude-subscription-risk-control-weights.md",
+      "topics/premium-ai-subscription-value.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-model-channel-tradeoffs.md": "帖文核心是在 Codex、Claude 与 Gemini 之间做模型渠道取舍。",
+      "topics/claude-subscription-risk-control-weights.md": "帖文把 Claude 封号与订阅体验直接联系到风控。",
+      "topics/premium-ai-subscription-value.md": "帖文质疑高端会员的实际价值，强调账号存活和稳定使用。"
+    },
+    "notes": "Source.resource: https://x.com/0xlangeai/status/2126618303376585097; raw slug: ba61ad8f94a429f6",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/no-longer-a-struggle-among-the-big-three-codex-lags-claude-faces.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

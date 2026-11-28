@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:13:15.753Z",
+  "url": "https://github.com/dylantarre/animation-principles",
+  "slug": "3469db5c612f9300",
+  "content_hash": "95d9ad4b1db42cf639d049a7daa015a6fe6a19ca008409cf92abc19c9fddad28",
+  "source": {
+    "path": "sources/articles/animation-principles-skill-marketplace.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-skill-authoring.md",
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/skills-stack-native-app-recreation.md",
+    "topics/ux-dx-and-ax.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-skill-authoring.md",
+      "action": "unchanged",
+      "reason": "文章主体为 Claude Code 技能（Skill）集合，与 Agent Skill 编写主题最为贴近。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "仓库专门面向 Claude Code 插件与技能安装，涉及 Claude Code 作者与社区话筒。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文中提到通过技能组合应用于不同场景，与用 Skills 组合复刻原生感 App 的思路相近。"
+    },
+    {
+      "path": "topics/ux-dx-and-ax.md",
+      "action": "unchanged",
+      "reason": "动画原则涉及用户体验、开发者体验与动画交互，与 UX、DX 与 AX 主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-skill-authoring.md": "文章主体为 Claude Code 技能（Skill）集合，与 Agent Skill 编写主题最为贴近。",
+    "topics/claude-code-authorship-and-voice.md": "仓库专门面向 Claude Code 插件与技能安装，涉及 Claude Code 作者与社区话筒。",
+    "topics/skills-stack-native-app-recreation.md": "文中提到通过技能组合应用于不同场景，与用 Skills 组合复刻原生感 App 的思路相近。",
+    "topics/ux-dx-and-ax.md": "动画原则涉及用户体验、开发者体验与动画交互，与 UX、DX 与 AX 主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/animation-principles-skill-marketplace.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-skill-authoring.md",
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/skills-stack-native-app-recreation.md",
+      "topics/ux-dx-and-ax.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-skill-authoring.md": "文章主体为 Claude Code 技能（Skill）集合，与 Agent Skill 编写主题最为贴近。",
+      "topics/claude-code-authorship-and-voice.md": "仓库专门面向 Claude Code 插件与技能安装，涉及 Claude Code 作者与社区话筒。",
+      "topics/skills-stack-native-app-recreation.md": "文中提到通过技能组合应用于不同场景，与用 Skills 组合复刻原生感 App 的思路相近。",
+      "topics/ux-dx-and-ax.md": "动画原则涉及用户体验、开发者体验与动画交互，与 UX、DX 与 AX 主题相关。"
+    },
+    "notes": "OpenRouter free-model compile; Topic files left unchanged.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/animation-principles-skill-marketplace.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

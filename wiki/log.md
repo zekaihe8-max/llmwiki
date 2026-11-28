@@ -1,3 +1,123 @@
+## 2026-11-28
+
+* **创建 / Creation**: 归档 [Antigravity 开 Auto 仍弹窗？三招搞定](./sources/articles/antigravity-still-pops-up-in-auto-three-fixes.md)。 / Filed [Antigravity Still Pops Up in Auto? Three Fixes](./sources/articles/antigravity-still-pops-up-in-auto-three-fixes.md).
+
+* **创建 / Creation**: 归档 [DeepSeek 委托安远 AI 评估 V4 Pro 失控风险](./sources/articles/deepseek-commissions-concordia-ai-to-evaluate-v4-pro-loss-of-con.md)。 / Filed [DeepSeek Commissions Concordia AI to Evaluate V4 Pro Loss-of-Control Risks](./sources/articles/deepseek-commissions-concordia-ai-to-evaluate-v4-pro-loss-of-con.md).
+
+* **创建 / Creation**: 归档 [MopMonk-DS-1.0-Preview 网安专用大模型仓库](./sources/articles/mopmonk-ds-1-0-preview-cybersecurity-llm-repository.md)。 / Filed [MopMonk-DS-1.0-Preview Cybersecurity LLM Repository](./sources/articles/mopmonk-ds-1-0-preview-cybersecurity-llm-repository.md).
+
+* **创建 / Creation**: 归档 [扫地僧 MopMonk 发布原生安全模型 MopMonk-DS-1.0-Preview](./sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md)。 / Filed [MopMonk Releases Native Security Model MopMonk-DS-1.0-Preview](./sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md).
+
+* **创建 / Creation**: 归档 [大肥鱼 Live3D 乐园演示](./sources/articles/dafeiyu-live3d-playground-demo.md)。 / Filed [Dafeiyu Live3D Playground Demo](./sources/articles/dafeiyu-live3d-playground-demo.md).
+
+* **创建 / Creation**: 归档 [Tripo 3D 上了 MCP](./sources/articles/tripo-3d-launches-mcp.md)。 / Filed [Tripo 3D Launches MCP](./sources/articles/tripo-3d-launches-mcp.md).
+
+* **创建 / Creation**: 归档 [Ming-Image 0.2 Design 模型页](./sources/articles/ming-image-0-2-design-model-page.md)。 / Filed [Ming-Image 0.2 Design Model Page](./sources/articles/ming-image-0-2-design-model-page.md).
+
+* **创建 / Creation**: 归档 [蚂蚁开源 Ming-Image-0.2-Design](./sources/articles/ant-open-sources-ming-image-0-2-design.md)。 / Filed [Ant Open-Sources Ming-Image-0.2-Design](./sources/articles/ant-open-sources-ming-image-0-2-design.md).
+
+* **创建 / Creation**: 归档 [Captae：本地媒体下载与 AI 助手管理工具](./sources/articles/captae-local-media-download-and-ai-assistant-management-tool.md)。 / Filed [Captae: Local Media Download and AI Assistant Management Tool](./sources/articles/captae-local-media-download-and-ai-assistant-management-tool.md).
+
+* **创建 / Creation**: 归档 [开源视频下载工具 Captae 与本地 Agent 剪辑](./sources/articles/captae-open-source-video-downloader-with-local-agent-editing.md)。 / Filed [Captae: Open-Source Video Downloader with Local Agent Editing](./sources/articles/captae-open-source-video-downloader-with-local-agent-editing.md).
+
+* **创建 / Creation**: 归档 [花叔开源 Chrome 插件「反转X」](./sources/articles/alchain-open-sources-chrome-extension-flip-for-x.md)。 / Filed [Alchain Open-Sources Chrome Extension 'Flip for X'](./sources/articles/alchain-open-sources-chrome-extension-flip-for-x.md).
+
+* **创建 / Creation**: 归档 [动画原则技能市场](./sources/articles/animation-principles-skill-marketplace.md)。 / Filed [Animation Principles Skill Marketplace](./sources/articles/animation-principles-skill-marketplace.md).
+
+* **创建 / Creation**: 归档 [把迪士尼12条动画法则做成144个Agent Skill](./sources/articles/disney-s-12-animation-principles-as-144-agent-skills.md)。 / Filed [Disney's 12 Animation Principles as 144 Agent Skills](./sources/articles/disney-s-12-animation-principles-as-144-agent-skills.md).
+
+* **创建 / Creation**: 归档 [御三家选择不再纠结：Codex 掉队、Claude 风控、Gemini 4 Neon 更稳](./sources/articles/no-longer-a-struggle-among-the-big-three-codex-lags-claude-faces.md)。 / Filed [No Longer a Struggle Among the Big Three: Codex Lags, Claude Faces Risk Controls, Gemini 4 Neon Feels Steadier](./sources/articles/no-longer-a-struggle-among-the-big-three-codex-lags-claude-faces.md).
+
+* **创建 / Creation**: 归档 [Gemini 4 Neon「鹈鹕骑自行车」盲测：单 Agent 对比 Swarm](./sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md)。 / Filed [Gemini 4 Neon Pelican Riding a Bicycle Blind Test: Single Agent vs Swarm](./sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md).
+
+* **创建 / Creation**: 归档 [别给任何一家 AI 当精神股东](./sources/articles/don-t-be-a-spiritual-shareholder-for-any-ai-company.md)。 / Filed [Don't Be a Spiritual Shareholder for Any AI Company](./sources/articles/don-t-be-a-spiritual-shareholder-for-any-ai-company.md).
+
+* **创建 / Creation**: 归档 [播客录制工具卡在降噪与人声美化，最后上 Fable 5.2](./sources/articles/podcast-recording-tool-stuck-on-noise-reduction-and-voice-enhanc.md)。 / Filed [Podcast Recording Tool Stuck on Noise Reduction and Voice Enhancement, Finally Uses Fable 5.2](./sources/articles/podcast-recording-tool-stuck-on-noise-reduction-and-voice-enhanc.md).
+
+* **创建 / Creation**: 归档 [赵纯想做的 AI Coding 客户端](./sources/articles/zhao-chunxiang-s-ai-coding-client.md)。 / Filed [Zhao Chunxiang's AI Coding Client](./sources/articles/zhao-chunxiang-s-ai-coding-client.md).
+
+* **创建 / Creation**: 归档 [Instinct 个人 Agent：手机号注册与 A to A 体验](./sources/articles/instinct-personal-agent-phone-registration-and-a-to-a-experience.md)。 / Filed [Instinct Personal Agent: Phone Registration and A-to-A Experience](./sources/articles/instinct-personal-agent-phone-registration-and-a-to-a-experience.md).
+
+* **创建 / Creation**: 归档 [人字拖伪奢侈品广告：Codex 调用 PixVerse 生成](./sources/articles/flip-flop-fake-luxury-ad-codex-with-pixverse.md)。 / Filed [Flip-Flop Fake Luxury Ad: Codex with PixVerse](./sources/articles/flip-flop-fake-luxury-ad-codex-with-pixverse.md).
+
+* **创建 / Creation**: 归档 [Amp 与 Orca 的粗糙体验对比](./sources/articles/amp-vs-orca-rough-ui-and-too-many-features.md)。 / Filed [Amp vs Orca: Rough UI and Too Many Features](./sources/articles/amp-vs-orca-rough-ui-and-too-many-features.md).
+
+* **创建 / Creation**: 归档 [Agent 的保时捷时代](./sources/articles/the-porsche-era-of-agents.md)。 / Filed [The Porsche Era of Agents](./sources/articles/the-porsche-era-of-agents.md).
+
+* **创建 / Creation**: 归档 [Philipp Schmid：为何对 2027 年 MCP 更有信心](./sources/articles/philipp-schmid-why-i-m-bullish-on-mcp-for-2027.md)。 / Filed [Philipp Schmid: Why I'm Bullish on MCP for 2027](./sources/articles/philipp-schmid-why-i-m-bullish-on-mcp-for-2027.md).
+
+* **创建 / Creation**: 归档 [吴恩达谈可靠 Agent：纪律化错误分析与评测驱动](./sources/articles/andrew-ng-on-reliable-agents-disciplined-error-analysis-and-eval.md)。 / Filed [Andrew Ng on Reliable Agents: Disciplined Error Analysis and Eval-Driven Development](./sources/articles/andrew-ng-on-reliable-agents-disciplined-error-analysis-and-eval.md).
+
+* **创建 / Creation**: 归档 [Liblib 融资、增长与多模态路由疑问](./sources/articles/liblib-funding-growth-and-multimodal-routing-questions.md)。 / Filed [Liblib Funding, Growth, and Multimodal Routing Questions](./sources/articles/liblib-funding-growth-and-multimodal-routing-questions.md).
+
+* **创建 / Creation**: 归档 [Pi 正在接入 Google AI Ultra 订阅](./sources/articles/pi-is-integrating-google-ai-ultra-subscription.md)。 / Filed [Pi Is Integrating Google AI Ultra Subscription](./sources/articles/pi-is-integrating-google-ai-ultra-subscription.md).
+
+* **创建 / Creation**: 归档 [他在 Reddit 看到一个把 MiniMax H3 显存门槛砍掉大半的做法](./sources/articles/he-saw-a-reddit-method-that-cuts-minimax-h3-s-vram-threshold-by.md)。 / Filed [He saw a Reddit method that cuts MiniMax H3's VRAM threshold by more than half](./sources/articles/he-saw-a-reddit-method-that-cuts-minimax-h3-s-vram-threshold-by.md).
+
+* **创建 / Creation**: 归档 [Magpie 贡献墙可视化动画](./sources/articles/magpie-contribution-wall-visualization-animation.md)。 / Filed [Magpie Contribution Wall Visualization Animation](./sources/articles/magpie-contribution-wall-visualization-animation.md).
+
+* **创建 / Creation**: 归档 [Magpie 贡献墙：反馈者被列作 co-author](./sources/articles/magpie-s-contribution-wall-feedbackers-credited-as-co-authors.md)。 / Filed [Magpie's Contribution Wall: Feedbackers Credited as Co-authors](./sources/articles/magpie-s-contribution-wall-feedbackers-credited-as-co-authors.md).
+
+* **创建 / Creation**: 归档 [「A 社制造了智子」：用 Gemini Neon 审计 Claude 暗改代码](./sources/articles/anthropic-built-a-sophon-auditing-claude-s-code-with-gemini-neon.md)。 / Filed [“Anthropic Built a Sophon”: Auditing Claude’s Code with Gemini Neon](./sources/articles/anthropic-built-a-sophon-auditing-claude-s-code-with-gemini-neon.md).
+
+* **创建 / Creation**: 归档 [后台监控里最近最火的 Skill 是做 AI 短剧](./sources/articles/backend-monitoring-shows-the-hottest-skill-lately-is-making-ai-s.md)。 / Filed [Backend Monitoring Shows the Hottest Skill Lately Is Making AI Short Dramas](./sources/articles/backend-monitoring-shows-the-hottest-skill-lately-is-making-ai-s.md).
+
+* **创建 / Creation**: 归档 [补一句：AI 让员工高效做不该做的事](./sources/articles/one-more-note-ai-makes-employees-efficiently-do-the-wrong-thing.md)。 / Filed [One More Note: AI Makes Employees Efficiently Do the Wrong Thing](./sources/articles/one-more-note-ai-makes-employees-efficiently-do-the-wrong-thing.md).
+
+* **创建 / Creation**: 归档 [公司AI落地：用10倍效率做不该做的事](./sources/articles/ai-implementation-in-companies-10x-efficiency-on-the-wrong-thing.md)。 / Filed [AI Implementation in Companies: 10x Efficiency on the Wrong Things](./sources/articles/ai-implementation-in-companies-10x-efficiency-on-the-wrong-thing.md).
+
+* **创建 / Creation**: 归档 [insight 消逝：自动化逼近语言空间](./sources/articles/the-loss-of-insight-as-automation-closes-in-on-language.md)。 / Filed [The Loss of Insight as Automation Closes In on Language](./sources/articles/the-loss-of-insight-as-automation-closes-in-on-language.md).
+
+* **创建 / Creation**: 归档 [行动先于结果](./sources/articles/action-before-results.md)。 / Filed [Action Before Results](./sources/articles/action-before-results.md).
+
+* **创建 / Creation**: 归档 [Tuwa 安卓与苹果商店审核通过](./sources/articles/tuwa-passes-android-and-apple-store-review.md)。 / Filed [Tuwa Passes Android and Apple Store Review](./sources/articles/tuwa-passes-android-and-apple-store-review.md).
+
+* **创建 / Creation**: 归档 [Yobiru 主人签名授权](./sources/articles/yobiru-master-signature-authorization.md)。 / Filed [Yobiru Master Signature Authorization](./sources/articles/yobiru-master-signature-authorization.md).
+
+* **创建 / Creation**: 归档 [订阅了 Google AI Ultra 的人，离线渲染甚至不必再找 RunPod](./sources/articles/google-ai-ultra-subscribers-may-skip-runpod-for-offline-renderin.md)。 / Filed [Google AI Ultra Subscribers May Skip RunPod for Offline Rendering](./sources/articles/google-ai-ultra-subscribers-may-skip-runpod-for-offline-renderin.md).
+
+* **创建 / Creation**: 归档 [把公司改造成基于 wanman 的强化学习反馈循环](./sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md)。 / Filed [Turning a Company into a Wanman-Based Reinforcement Learning Feedback Loop](./sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md).
+
+* **创建 / Creation**: 归档 [5 个 20 美元以内的 AI 会员口粮盘点](./sources/articles/five-ai-membership-plans-under-20.md)。 / Filed [Five AI Membership Plans Under $20](./sources/articles/five-ai-membership-plans-under-20.md).
+
+* **创建 / Creation**: 归档 [Pi 1.7.0 发布：会话恢复、移除遥测并保住缓存](./sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md)。 / Filed [Pi 1.7.0 released with session recovery, telemetry removal, and cache preservation](./sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md).
+
+* **创建 / Creation**: 归档 [ShellBench 评测：Claude Code 平均通过率垫底，Pi 1.7.0 删遥测](./sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md)。 / Filed [ShellBench: Claude Code ranks last in average pass rate, Pi 1.7.0 removes telemetry](./sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md).
+
+* **创建 / Creation**: 归档 [Pi 拟接入 Google AI Ultra 计划提供商](./sources/articles/pi-pr-google-ai-ultra-plan-provider.md)。 / Filed [Pi PR: Google AI Ultra Plan Provider](./sources/articles/pi-pr-google-ai-ultra-plan-provider.md).
+
+* **创建 / Creation**: 归档 [Pi 官方维护者提草稿 PR 接入 Google AI 会员](./sources/articles/pi-maintainer-files-draft-pr-to-add-google-ai-membership.md)。 / Filed [Pi Maintainer Files Draft PR to Add Google AI Membership](./sources/articles/pi-maintainer-files-draft-pr-to-add-google-ai-membership.md).
+
+* **创建 / Creation**: 归档 [他发现 Gemini 自带一台 2 核 8G 的 Linux 云电脑](./sources/articles/he-found-gemini-comes-with-a-2-core-8gb-linux-cloud-computer.md)。 / Filed [He Found Gemini Comes with a 2-Core 8GB Linux Cloud Computer](./sources/articles/he-found-gemini-comes-with-a-2-core-8gb-linux-cloud-computer.md).
+
+* **创建 / Creation**: 归档 [多 Agent 编排写代码多半是浪费 Token](./sources/articles/multi-agent-orchestration-for-coding-is-mostly-wasted-tokens.md)。 / Filed [Multi-Agent Orchestration for Coding Is Mostly Wasted Tokens](./sources/articles/multi-agent-orchestration-for-coding-is-mostly-wasted-tokens.md).
+
+* **创建 / Creation**: 归档 [阿里魔搭联合 AMD 送 100 小时免费云算力](./sources/articles/alibaba-modelscope-and-amd-give-away-100-hours-of-free-cloud-com.md)。 / Filed [Alibaba ModelScope and AMD Give Away 100 Hours of Free Cloud Compute](./sources/articles/alibaba-modelscope-and-amd-give-away-100-hours-of-free-cloud-com.md).
+
+* **创建 / Creation**: 归档 [Antigravity 自定义 Agent 4 倍扣费被官方确认为故意](./sources/articles/antigravity-custom-agent-4x-billing-confirmed-intentional.md)。 / Filed [Antigravity Custom Agent 4x Billing Confirmed Intentional](./sources/articles/antigravity-custom-agent-4x-billing-confirmed-intentional.md).
+
+* **创建 / Creation**: 归档 [同一款 Gemini 4 Neon 评价两极，帖文认为锅在 Antigravity 桌面端自动压缩](./sources/articles/same-gemini-4-neon-different-verdicts-antigravity-desktop-auto-c.md)。 / Filed [Same Gemini 4 Neon, Different Verdicts: Antigravity Desktop Auto-Compaction Takes the Blame](./sources/articles/same-gemini-4-neon-different-verdicts-antigravity-desktop-auto-c.md).
+
+* **创建 / Creation**: 归档 [角色翻转：从亲手驱动到描述观看](./sources/articles/roles-flipped-from-driving-the-work-to-describing-and-watching.md)。 / Filed [Roles Flipped: From Driving the Work to Describing and Watching](./sources/articles/roles-flipped-from-driving-the-work-to-describing-and-watching.md).
+
+* **创建 / Creation**: 归档 [机器诠释学：读懂机器做出的科学成果](./sources/articles/machine-hermeneutics-making-sense-of-machine-made-science.md)。 / Filed [Machine Hermeneutics: Making Sense of Machine-Made Science](./sources/articles/machine-hermeneutics-making-sense-of-machine-made-science.md).
+
+* **创建 / Creation**: 归档 [冯骥推荐的 Fable 5.2 游戏合集里翻到自己做的游戏](./sources/articles/finding-one-s-own-game-in-the-fable-5-2-collection-recommended-b.md)。 / Filed [Finding One's Own Game in the Fable 5.2 Collection Recommended by Feng Ji](./sources/articles/finding-one-s-own-game-in-the-fable-5-2-collection-recommended-b.md).
+
+* **创建 / Creation**: 归档 [用 Antigravity 审计 Claude 护栏与阻断的提示词](./sources/articles/prompt-to-have-antigravity-audit-claude-s-guardrails-and-blocks.md)。 / Filed [Prompt to Have Antigravity Audit Claude's Guardrails and Blocks](./sources/articles/prompt-to-have-antigravity-audit-claude-s-guardrails-and-blocks.md).
+
+* **创建 / Creation**: 归档 [帖文称有了 Gemini Neon 后，时间线涌现 Claude「故意破坏用户代码和训练」的案例](./sources/articles/post-claims-gemini-neon-s-arrival-surfaced-cases-of-claude-delib.md)。 / Filed [Post Claims Gemini Neon's Arrival Surfaced Cases of Claude 'Deliberately Sabotaging' User Code and Training](./sources/articles/post-claims-gemini-neon-s-arrival-surfaced-cases-of-claude-delib.md).
+
+* **创建 / Creation**: 归档 [引申](./sources/articles/extended-interpretation.md)。 / Filed [Extended Interpretation](./sources/articles/extended-interpretation.md).
+
+* **创建 / Creation**: 归档 [推荐冯骥《后 AI 时代最重要的问题》](./sources/articles/recommending-feng-ji-s-the-most-important-question-in-the-post-a.md)。 / Filed [Recommending Feng Ji's "The Most Important Question in the Post-AI Era"](./sources/articles/recommending-feng-ji-s-the-most-important-question-in-the-post-a.md).
+
+* **创建 / Creation**: 归档 [补充：Gemini4-Neon 还是 Orchestrator（Neon）](./sources/articles/supplement-gemini4-neon-or-orchestrator-neon.md)。 / Filed [Supplement: Gemini4-Neon or Orchestrator (Neon)?](./sources/articles/supplement-gemini4-neon-or-orchestrator-neon.md).
+
+* **创建 / Creation**: 归档 [Antigravity 交互补丁：让模型边干边说](./sources/articles/antigravity-interaction-patch-make-the-model-narrate-while-worki.md)。 / Filed [Antigravity interaction patch: make the model narrate while working](./sources/articles/antigravity-interaction-patch-make-the-model-narrate-while-worki.md).
+
+* **创建 / Creation**: 归档 [一条 `/goal` 架构降熵提示词今晚刷屏了](./sources/articles/a-goal-architecture-entropy-reduction-prompt-spread-tonight.md)。 / Filed [A `/goal` architecture entropy-reduction prompt spread tonight](./sources/articles/a-goal-architecture-entropy-reduction-prompt-spread-tonight.md).
+
 ## 2026-11-27
 
 * **创建 / Creation**: 归档 [Pi 1.6.1 加 Cloudflare Agents SDK 0.34.0：云端常驻 Agent 更省心](./sources/articles/pi-1-6-1-with-cloudflare-agents-sdk-0-34-0-makes-cloud-resident.md)。 / Filed [Pi 1.6.1 with Cloudflare Agents SDK 0.34.0 makes cloud-resident agents easier to run](./sources/articles/pi-1-6-1-with-cloudflare-agents-sdk-0-34-0-makes-cloud-resident.md).
@@ -450,7 +570,6 @@
 
 * **创建 / Creation**: 归档 [两条产品体验与动效优化 Prompt](./sources/articles/two-prompts-for-product-ux-and-motion-design-optimization.md)。 / Filed [Two Prompts for Product UX and Motion Design Optimization](./sources/articles/two-prompts-for-product-ux-and-motion-design-optimization.md).
 
-
 * **创建 / Creation**: 归档 [过时的 CLAUDE.md 与 AGENTS.md 会误导编程 Agent](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md)。 / Filed [Stale CLAUDE.md and AGENTS.md Mislead Coding Agents](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md).
 
 * **创建 / Creation**: 归档 [编程 Agent 会被过时指令文件覆盖代码：一句话修复](./sources/articles/stale-instruction-files-override-the-code-in-coding-agents-a-one.md)。 / Filed [Stale Instruction Files Override the Code in Coding Agents: A One-Sentence Fix](./sources/articles/stale-instruction-files-override-the-code-in-coding-agents-a-one.md).
@@ -488,7 +607,6 @@
 * **创建 / Creation**: 归档 [Gemini API 推出原生文件分片控制](./sources/articles/introducing-file-slicing-controls-in-the-gemini-api.md)。 / Filed [Introducing file slicing controls in the Gemini API](./sources/articles/introducing-file-slicing-controls-in-the-gemini-api.md).
 
 * **创建 / Creation**: 归档 [Logan：Gemini API 推出文件分片控制，支持按需读取 PDF、Office 与多媒体](./sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md)。 / Filed [Logan: Gemini API ships file slicing controls for on-demand PDF, Office, and media access](./sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md).
-
 
 * **创建 / Creation**: 归档 [Google DeepMind 称用 Gemini 智能体团队构建量子电路，模拟成本降低多达 10 倍（续帖）](./sources/articles/google-deepmind-says-gemini-agent-teams-built-quantum-circuits-c.md)。 / Filed [Google DeepMind says Gemini agent teams built quantum circuits, cutting simulation costs up to 10x (continuation post)](./sources/articles/google-deepmind-says-gemini-agent-teams-built-quantum-circuits-c.md).
 

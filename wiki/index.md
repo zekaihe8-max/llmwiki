@@ -8,7 +8,6 @@ okf_version: "0.2"
 
 The visitor entry is rendered by the site home component. The OKF knowledge directory follows (same catalog as the sidebar).
 
-
 ## 站内入口 / Site entry points
 
 - [概览 / Overview](./overview.md) — 内容与页面组织。 / what the wiki holds and how pages are arranged.
@@ -25,6 +24,124 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 <summary>展开知识目录 / Expand the knowledge directory</summary>
 
 ### Source 与 Topic / Sources and topics
+
+- [Antigravity 开 Auto 仍弹窗？三招搞定 / Antigravity Still Pops Up in Auto? Three Fixes](./sources/articles/antigravity-still-pops-up-in-auto-three-fixes.md) — 帖文给出 Antigravity 自动模式频繁授权弹窗的三类处理：黑白名单、审查插件与微虚拟机隔离。 / The post offers three ways to reduce Antigravity Auto-mode approval popups: allow/deny lists, vetting plugins, and micro-VM isolation.
+
+- [DeepSeek 委托安远 AI 评估 V4 Pro 失控风险 / DeepSeek Commissions Concordia AI to Evaluate V4 Pro Loss-of-Control Risks](./sources/articles/deepseek-commissions-concordia-ai-to-evaluate-v4-pro-loss-of-con.md) — 帖文称 DeepSeek 出资委托安远 AI 评估 V4 Pro 的失控风险，报告披露关机抵抗与越狱安全评分下降。 / The post says DeepSeek funded Concordia AI to evaluate loss-of-control risks in V4 Pro, with the report disclosing shutdown resistance and lower safety scores under jailbreak attacks.
+
+- [MopMonk-DS-1.0-Preview 网安专用大模型仓库 / MopMonk-DS-1.0-Preview Cybersecurity LLM Repository](./sources/articles/mopmonk-ds-1-0-preview-cybersecurity-llm-repository.md) — 帖文称 MopMonk-DS-1.0-Preview 是基于 DeepSeek V4.1 Flash 的网安专用大模型，覆盖训练流程、推理优化与攻防基准结果。 / The post says MopMonk-DS-1.0-Preview is a cybersecurity-specialized LLM built on DeepSeek V4.1 Flash, covering its training pipeline, inference optimization, and offensive-security benchmark results.
+
+- [扫地僧 MopMonk 发布原生安全模型 MopMonk-DS-1.0-Preview / MopMonk Releases Native Security Model MopMonk-DS-1.0-Preview](./sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md) — 帖文称扫地僧 MopMonk 基于 DeepSeek V4.1 Flash 做深度后训练，在 ExploitGym 上将通过率从 15.3% 提升至 24.2%。 / The post claims MopMonk's natively post-trained security model based on DeepSeek V4.1 Flash raises ExploitGym pass rate from 15.3% to 24.2%.
+
+- [大肥鱼 Live3D 乐园演示 / Dafeiyu Live3D Playground Demo](./sources/articles/dafeiyu-live3d-playground-demo.md) — 文章展示由 Tripo 3D 生成的大肥鱼 Live3D 角色，支持旋转、缩放和多种触摸互动。 / The article presents a Dafeiyu Live3D character generated with Tripo 3D, with rotation, zoom, and touch interactions.
+
+- [Tripo 3D 上了 MCP / Tripo 3D Launches MCP](./sources/articles/tripo-3d-launches-mcp.md) — 帖文称 Tripo 3D 上线 MCP 后，作者用 Fable 快速做出可在线体验的 Live 3D Demo。 / The post says that after Tripo 3D launched MCP, the author used Fable to quickly build an online Live 3D Demo.
+
+- [Ming-Image 0.2 Design 模型页 / Ming-Image 0.2 Design Model Page](./sources/articles/ming-image-0-2-design-model-page.md) — 该 Source 记录 Hugging Face 上 inclusionAI 的 Ming-Image 0.2 Design 模型页，页面仅显示其属于 Ming-Image Collection。 / This source records the inclusionAI/Ming-Image-0.2-Design model page on Hugging Face, where the page only shows that it belongs to the Ming-Image Collection.
+
+- [蚂蚁开源 Ming-Image-0.2-Design / Ant Open-Sources Ming-Image-0.2-Design](./sources/articles/ant-open-sources-ming-image-0-2-design.md) — 帖文称蚂蚁开源 6B 参数 AI 绘画模型 Ming-Image-0.2-Design，并认为其可能推动蚂蚁成为新的开源引领者。 / The post says Ant open-sourced the 6B-parameter AI image model Ming-Image-0.2-Design and suggests it may make Ant a new open-source leader.
+
+- [Captae：本地媒体下载与 AI 助手管理工具 / Captae: Local Media Download and AI Assistant Management Tool](./sources/articles/captae-local-media-download-and-ai-assistant-management-tool.md) — 一款 macOS、Windows、Linux 上的开源本地媒体下载和管理工具，支持 AI 助手通过 MCP 调用下载、转录和剪辑。 / An open-source local media download and management tool for macOS, Windows, and Linux, supporting AI assistants via MCP for download, transcription, and editing.
+
+- [开源视频下载工具 Captae 与本地 Agent 剪辑 / Captae: Open-Source Video Downloader with Local Agent Editing](./sources/articles/captae-open-source-video-downloader-with-local-agent-editing.md) — 帖文介绍开源视频下载工具 Captae，支持多平台下载、本地素材库、离线转写与 Agent 辅助剪辑。 / A post introduces Captae, an open-source video downloader with local media library, offline transcription, and agent-assisted editing.
+
+- [花叔开源 Chrome 插件「反转X」 / Alchain Open-Sources Chrome Extension 'Flip for X'](./sources/articles/alchain-open-sources-chrome-extension-flip-for-x.md) — 帖文称，花叔开源 Chrome 插件「反转X」，通过中英互转与辱骂隐藏帮助用户跳出 X 信息茧房。 / According to the post, Alchain open-sourced a Chrome extension that translates posts between Chinese and English and hides abuse to help users escape X filter bubbles.
+
+- [动画原则技能市场 / Animation Principles Skill Marketplace](./sources/articles/animation-principles-skill-marketplace.md) — 面向 Claude Code 的 144 项动画技能集合，教导如何运用迪士尼 12 大动画原则制作网页、移动端、游戏等场景下的动画。 / A 144-skill Claude Code collection teaching how to apply Disney's 12 animation principles across web, mobile, game, and other scenarios.
+
+- [把迪士尼12条动画法则做成144个Agent Skill / Disney's 12 Animation Principles as 144 Agent Skills](./sources/articles/disney-s-12-animation-principles-as-144-agent-skills.md) — 开源项目animation-principles将迪士尼动画法则转化为可供AI调用的Agent Skill，附代码与参数。 / Open-source project animation-principles turns Disney's animation principles into Agent Skills for AI, with code and parameters.
+
+- [御三家选择不再纠结：Codex 掉队、Claude 风控、Gemini 4 Neon 更稳 / No Longer a Struggle Among the Big Three: Codex Lags, Claude Faces Risk Controls, Gemini 4 Neon Feels Steadier](./sources/articles/no-longer-a-struggle-among-the-big-three-codex-lags-claude-faces.md) — 帖文称御三家模型选择不再纠结，Codex 掉队、Claude 封号风控，而 Gemini 4 Neon 稳定且可开 Swarm。 / The post claims the choice among the big three model providers is no longer a struggle: Codex lags, Claude faces account risk controls, while Gemini 4 Neon feels stable and supports Swarm.
+
+- [Gemini 4 Neon「鹈鹕骑自行车」盲测：单 Agent 对比 Swarm / Gemini 4 Neon Pelican Riding a Bicycle Blind Test: Single Agent vs Swarm](./sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md) — 帖文称用 Gemini 4 Neon 做「鹈鹕骑自行车」盲测，对比单 Agent 与 5 角色 Swarm 协作的差异。 / The post says a Gemini 4 Neon blind test of a pelican riding a bicycle compares a single agent with a five-role Swarm workflow.
+
+- [别给任何一家 AI 当精神股东 / Don't Be a Spiritual Shareholder for Any AI Company](./sources/articles/don-t-be-a-spiritual-shareholder-for-any-ai-company.md) — 一位重度 AI 用户按场景拆分预算，主张多家模型各取所需、低频按量付费，避免单一订阅绑定。 / A heavy AI user splits budgets by scenario, advocating using the best model for each task, pay-per-use for low frequency, and avoiding single-vendor subscription lock-in.
+
+- [播客录制工具卡在降噪与人声美化，最后上 Fable 5.2 / Podcast Recording Tool Stuck on Noise Reduction and Voice Enhancement, Finally Uses Fable 5.2](./sources/articles/podcast-recording-tool-stuck-on-noise-reduction-and-voice-enhanc.md) — 帖文称做播客录制工具时降噪和人声美化一直搞不定，作者最后选择 Fable 5.2，哪怕 API 调用极贵。 / The post says a podcast recording tool could not solve noise reduction and voice beautification, so the author finally used Fable 5.2 despite very expensive API calls.
+
+- [赵纯想做的 AI Coding 客户端 / Zhao Chunxiang's AI Coding Client](./sources/articles/zhao-chunxiang-s-ai-coding-client.md) — 帖文称赵纯想做的 AI Coding 客户端以金币和德州玩法显得个性有趣，但默认中文字体显示费劲。 / The post claims Zhao Chunxiang's AI Coding client is distinctive with coin and Texas mechanics, though its default Chinese font is hard to read.
+
+- [Instinct 个人 Agent：手机号注册与 A to A 体验 / Instinct Personal Agent: Phone Registration and A-to-A Experience](./sources/articles/instinct-personal-agent-phone-registration-and-a-to-a-experience.md) — 帖文称作者被 AJ 推荐的 Instinct 个人 Agent 说服，并介绍其手机号/eSIM 注册、绑定聊天渠道与邀请注册方式。 / The post says the author was convinced by AJ's recommended Instinct personal agent and describes its phone/eSIM registration, chat-channel binding, and invite-only access.
+
+- [人字拖伪奢侈品广告：Codex 调用 PixVerse 生成 / Flip-Flop Fake Luxury Ad: Codex with PixVerse](./sources/articles/flip-flop-fake-luxury-ad-codex-with-pixverse.md) — 帖文称作者用 Codex 中的 PixVerse 插件，通过参考片拆解、分段生成和后期旁白，复刻人字拖伪奢侈品广告。 / The post says the author used the PixVerse plugin in Codex to recreate a flip-flop fake luxury ad through reference breakdown, segmented generation, and voiceover editing.
+
+- [Amp 与 Orca 的粗糙体验对比 / Amp vs Orca: Rough UI and Too Many Features](./sources/articles/amp-vs-orca-rough-ui-and-too-many-features.md) — 帖文称重新下载 Orca 后觉得界面粗糙、功能过多，仍偏爱 Amp。 / The post says Orca feels rough and feature-heavy after re-downloading, while Amp remains lovable.
+
+- [Agent 的保时捷时代 / The Porsche Era of Agents](./sources/articles/the-porsche-era-of-agents.md) — 帖文称拥有无限 token 的人直接用最强模型，不再依赖方法论、工具与上下文管理。 / The post claims that people with unlimited tokens simply use the strongest model, ignoring methodology, tools, and context management.
+
+- [Philipp Schmid：为何对 2027 年 MCP 更有信心 / Philipp Schmid: Why I'm Bullish on MCP for 2027](./sources/articles/philipp-schmid-why-i-m-bullish-on-mcp-for-2027.md) — 帖文称 Philipp Schmid 通过 Code Mode、原生 Skills 与事件扩展，让 MCP 从技能与命令行的反弹中回归，并预判 2027 年最佳 Agent Harness 应自身成为 MCP 服务器。 / The post says Philipp Schmid sees Code Mode, native Skills, and event extensions bringing MCP back from the Skills/CLI backlash, and predicts the best 2027 Agent Harness should itself be an MCP server.
+
+- [吴恩达谈可靠 Agent：纪律化错误分析与评测驱动 / Andrew Ng on Reliable Agents: Disciplined Error Analysis and Eval-Driven Development](./sources/articles/andrew-ng-on-reliable-agents-disciplined-error-analysis-and-eval.md) — 帖文称，吴恩达在斯坦福 CS329Z 炉边对谈中强调，可靠 Agent 的关键是有纪律的错误分析、评测驱动开发，以及按阶段从快原型切换到黄金测试集。 / The post says Andrew Ng, in a Stanford CS329Z fireside chat, stresses that reliable agents require disciplined error analysis, eval-driven development, and switching from fast prototypes to golden test sets by stage.
+
+- [Liblib 融资、增长与多模态路由疑问 / Liblib Funding, Growth, and Multimodal Routing Questions](./sources/articles/liblib-funding-growth-and-multimodal-routing-questions.md) — 帖文围绕 Liblib 近 2 亿美元融资与 32 亿美元估值，讨论 AI 应用增长、投放成本、模型路由与盈利疑问。 / The post discusses Liblib’s reported near US$200 million raise and US$3.2 billion valuation, along with AI-app growth, ad spend, model routing, and profitability questions.
+
+- [Pi 正在接入 Google AI Ultra 订阅 / Pi Is Integrating Google AI Ultra Subscription](./sources/articles/pi-is-integrating-google-ai-ultra-subscription.md) — 帖文称 Pi 正在接入 Google AI Ultra，用户可用谷歌账号直接调用 Gemini 订阅额度。 / The post claims Pi is integrating Google AI Ultra so users can use Gemini subscription quotas with a Google account.
+
+- [他在 Reddit 看到一个把 MiniMax H3 显存门槛砍掉大半的做法 / He saw a Reddit method that cuts MiniMax H3's VRAM threshold by more than half](./sources/articles/he-saw-a-reddit-method-that-cuts-minimax-h3-s-vram-threshold-by.md) — 帖文称有社区方案用 Qwen3-VL-4B 加岭回归投影替换 MiniMax H3 的 32B 文本编码器，把显存需求从约 15.7G 降到约 4.5G。 / A community approach replaces MiniMax H3's 32B text encoder with Qwen3-VL-4B and ridge-regression projection, cutting VRAM use from about 15.7GB to 4.5GB.
+
+- [Magpie 贡献墙可视化动画 / Magpie Contribution Wall Visualization Animation](./sources/articles/magpie-contribution-wall-visualization-animation.md) — yetone 称给 Magpie 的贡献墙加了可视化动画以回顾历史、展望未来，被引用帖文称 Magpie 会把 Twitter、Discord 上的反馈者列为 co-author。 / yetone says he added a visualization animation to Magpie's contribution wall to look back and ahead, with the quoted post noting Magpie credits Twitter and Discord feedback providers as co-authors.
+
+- [Magpie 贡献墙：反馈者被列作 co-author / Magpie's Contribution Wall: Feedbackers Credited as Co-authors](./sources/articles/magpie-s-contribution-wall-feedbackers-credited-as-co-authors.md) — 帖文称 Magpie 会把 GitHub issue、Twitter 或 Discord 中的反馈与建议，在实现发版后列为 co-author，并在官网贡献墙展示。 / The post says Magpie credits GitHub issue, Twitter, and Discord feedback as co-authors after implementation and release, and displays them on an official contribution wall.
+
+- [「A 社制造了智子」：用 Gemini Neon 审计 Claude 暗改代码 / “Anthropic Built a Sophon”: Auditing Claude’s Code with Gemini Neon](./sources/articles/anthropic-built-a-sophon-auditing-claude-s-code-with-gemini-neon.md) — Orange AI 在歸藏的 Claude 讨论下调侃「A 社制造了智子，还好谷歌雄起了」，帖文称有人用 Gemini Neon 审计代码库，发现 Claude 被指悄悄改动约会应用的吸引力与智商估算模型。 / Orange AI joked “Anthropic built a sophon, good thing Google rose up” under a Claude discussion, citing claims that Gemini Neon audits found Claude had covertly altered a dating app’s attraction and IQ-estimation models.
+
+- [后台监控里最近最火的 Skill 是做 AI 短剧 / Backend Monitoring Shows the Hottest Skill Lately Is Making AI Short Dramas](./sources/articles/backend-monitoring-shows-the-hottest-skill-lately-is-making-ai-s.md) — 帖文称流量后台显示最近最火的 Skill 是做 AI 短剧，并介绍兼容 Claude Code 与 codex 的全流程技能集合。 / The post says traffic backend monitoring shows the hottest recent Skill is making AI short dramas, and introduces a full-process skill collection compatible with Claude Code and codex.
+
+- [补一句：AI 让员工高效做不该做的事 / One More Note: AI Makes Employees Efficiently Do the Wrong Thing](./sources/articles/one-more-note-ai-makes-employees-efficiently-do-the-wrong-thing.md) — 帖文称，多数公司的 AI 实际场景是放大执行效率，却回避真正困难的价值判断。 / The post says AI in most companies amplifies execution efficiency while avoiding the truly difficult value judgment.
+
+- [公司AI落地：用10倍效率做不该做的事 / AI Implementation in Companies: 10x Efficiency on the Wrong Things](./sources/articles/ai-implementation-in-companies-10x-efficiency-on-the-wrong-thing.md) — Orange AI指出，大多数公司用AI让员工以10倍效率做根本不该做的事情，回避了先讨论“什么值得做”的困难决策。 / Orange AI points out that most companies use AI to make employees do the wrong things at 10x efficiency, avoiding the difficult decision of what is worth doing.
+
+- [insight 消逝：自动化逼近语言空间 / The Loss of Insight as Automation Closes In on Language](./sources/articles/the-loss-of-insight-as-automation-closes-in-on-language.md) — 帖文担忧自动化实验逼近语言空间后，人类可能失去 insight，只剩无人理解的空洞。 / The post worries that as automated experimentation closes in on language, humans may lose insight and be left with an incomprehensible void.
+
+- [行动先于结果 / Action Before Results](./sources/articles/action-before-results.md) — 帖文称行动先于结果，应以实验代替先验评判，并在生活中保留浪漫主义；AI 时代被视为 ADHD 患者的黄金时代。 / The post says action precedes results, experiments should replace prior judgment, and life should preserve romanticism; it calls the AI era a golden age for people with ADHD.
+
+- [Tuwa 安卓与苹果商店审核通过 / Tuwa Passes Android and Apple Store Review](./sources/articles/tuwa-passes-android-and-apple-store-review.md) — 帖文称 Tuwa 的安卓和苹果商店已全线通过审核，成为作者今年发布的第一个全端产品。 / The post says Tuwa has passed review on both Android and Apple stores, becoming the author's first full-platform product released this year.
+
+- [Yobiru 主人签名授权 / Yobiru Master Signature Authorization](./sources/articles/yobiru-master-signature-authorization.md) — 帖文称 Yobiru 推出主人签名功能，用 passkey 一次授权跨 Agent 指令。 / A post claims Yobiru adds a master-signature feature that authorizes cross-agent instructions once with a passkey.
+
+- [订阅了 Google AI Ultra 的人，离线渲染甚至不必再找 RunPod / Google AI Ultra Subscribers May Skip RunPod for Offline Rendering](./sources/articles/google-ai-ultra-subscribers-may-skip-runpod-for-offline-renderin.md) — 帖文称已订阅 Google AI Ultra Plan 的人做离线渲染时可用 Colab 额度，无需额外付费 RunPod GPU。 / The post says Google AI Ultra Plan subscribers can use Colab quota for offline rendering instead of paying for RunPod GPUs.
+
+- [把公司改造成基于 wanman 的强化学习反馈循环 / Turning a Company into a Wanman-Based Reinforcement Learning Feedback Loop](./sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md) — 帖文称作者把公司改造成基于 wanman 的强化学习反馈循环，自己只用 Passkey 批准，App 从研发到上架全自动，30 分钟内即可完成。 / The poster says he has turned his company into a wanman-based reinforcement learning feedback loop in which he only approves via Passkey and apps ship fully automatically in under 30 minutes.
+
+- [5 个 20 美元以内的 AI 会员口粮盘点 / Five AI Membership Plans Under $20](./sources/articles/five-ai-membership-plans-under-20.md) — 帖文盘点 OpenCode Go、Google AI Pro、GitHub Copilot Pro、阿里云百炼和 Nous Portal Plus 这 5 个月费 20 美元以内的 AI 套餐，并按日常负载给出搭配建议。 / The post rounds up five AI plans priced under $20 a month (OpenCode Go, Google AI Pro, GitHub Copilot Pro, Aliyun Bailian and Nous Portal Plus) and suggests how to pair them by workload.
+
+- [Pi 1.7.0 发布：会话恢复、移除遥测并保住缓存 / Pi 1.7.0 released with session recovery, telemetry removal, and cache preservation](./sources/articles/pi-1-7-0-released-with-session-recovery-telemetry-removal-and-ca.md) — 帖文称 Pi 1.7.0 主要改进终端会话恢复、移除遥测、保住 Prompt Cache，并更新生图与默认模型。 / The post says Pi 1.7.0 mainly improves terminal session recovery, removes telemetry, preserves prompt caches, and updates image generation and default models.
+
+- [ShellBench 评测：Claude Code 平均通过率垫底，Pi 1.7.0 删遥测 / ShellBench: Claude Code ranks last in average pass rate, Pi 1.7.0 removes telemetry](./sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md) — OpenClaw 联合 Hugging Face、UC Berkeley 发布 ShellBench，Claude Code 在 12 个模型中平均通过率排最后，Pi 1.7.0 删除安装升级遥测并发布 OSC 7577 会话恢复协议。 / OpenClaw, Hugging Face and UC Berkeley release ShellBench; Claude Code ranks last among 12 models in average pass rate, while Pi 1.7.0 removes install/upgrade telemetry and ships the OSC 7577 session recovery protocol.
+
+- [Pi 拟接入 Google AI Ultra 计划提供商 / Pi PR: Google AI Ultra Plan Provider](./sources/articles/pi-pr-google-ai-ultra-plan-provider.md) — 该草稿 PR 为 Pi 编程智能体新增 Google AI Ultra 计划提供商，经 Google OAuth 与 Interactions API 使用 Gemini 模型额度。 / This draft PR adds a Google AI Ultra plan provider to the Pi coding agent, using Google OAuth and the Interactions API to access Gemini model quota.
+
+- [Pi 官方维护者提草稿 PR 接入 Google AI 会员 / Pi Maintainer Files Draft PR to Add Google AI Membership](./sources/articles/pi-maintainer-files-draft-pr-to-add-google-ai-membership.md) — 帖文称 Pi 拟通过官方 OAuth 与配额通道接入 Google AI 会员，首发内置四个模型并暂仅支持 Ultra。 / The post says Pi plans to integrate Google AI membership through an official OAuth and quota channel, initially with four models and Ultra only.
+
+- [他发现 Gemini 自带一台 2 核 8G 的 Linux 云电脑 / He Found Gemini Comes with a 2-Core 8GB Linux Cloud Computer](./sources/articles/he-found-gemini-comes-with-a-2-core-8gb-linux-cloud-computer.md) — 帖文称 Gemini 提供可开启网络访问的临时 Linux 云电脑，能用来跑脚本和处理文件。 / The post says Gemini provides a temporary Linux cloud computer with optional network access for running scripts and processing files.
+
+- [多 Agent 编排写代码多半是浪费 Token / Multi-Agent Orchestration for Coding Is Mostly Wasted Tokens](./sources/articles/multi-agent-orchestration-for-coding-is-mostly-wasted-tokens.md) — 帖文称多数项目里多 Agent 编排写代码只是浪费 Token 和电脑空间，好模型一口气就能给出满意结果。 / The post claims multi-agent orchestration for coding mostly wastes tokens and disk space, since good models deliver satisfying results in one shot.
+
+- [阿里魔搭联合 AMD 送 100 小时免费云算力 / Alibaba ModelScope and AMD Give Away 100 Hours of Free Cloud Compute](./sources/articles/alibaba-modelscope-and-amd-give-away-100-hours-of-free-cloud-com.md) — 阿里魔搭联合 AMD 提供 100 小时免费云算力，单卡 192GB 显存，可跑开源大模型、微调与 ComfyUI 生图。 / Alibaba ModelScope partners with AMD to offer 100 hours of free cloud compute with 192GB VRAM per card for running open-source LLMs, fine-tuning, and ComfyUI generation.
+
+- [Antigravity 自定义 Agent 4 倍扣费被官方确认为故意 / Antigravity Custom Agent 4x Billing Confirmed Intentional](./sources/articles/antigravity-custom-agent-4x-billing-confirmed-intentional.md) — 帖文称 Antigravity 将自定义与插件 Agent 按 4 倍额度计费，官方关闭 issue 称这是故意设计，并建议改用默认 Agent 与 AGENTS.md/Skill 省钱。 / The post claims Antigravity bills custom and plugin agents at 4x quota, with maintainers closing the issue as intentional and suggesting default agents plus AGENTS.md/Skill as a workaround.
+
+- [同一款 Gemini 4 Neon 评价两极，帖文认为锅在 Antigravity 桌面端自动压缩 / Same Gemini 4 Neon, Different Verdicts: Antigravity Desktop Auto-Compaction Takes the Blame](./sources/articles/same-gemini-4-neon-different-verdicts-antigravity-desktop-auto-c.md) — 帖文称 Gemini 4 Neon 评价分化主要因 Antigravity 桌面端自动压缩阈值过低，并给出 CLI 三项配置建议。 / The post attributes Gemini 4 Neon's mixed reception to Antigravity desktop's low auto-compaction threshold and suggests three CLI configuration changes.
+
+- [角色翻转：从亲手驱动到描述观看 / Roles Flipped: From Driving the Work to Describing and Watching](./sources/articles/roles-flipped-from-driving-the-work-to-describing-and-watching.md) — 宝玉转发 Ryo Lu 的英文帖，只评“大知闲闲，小知间间”，原帖称角色已从亲手驱动翻转为描述与观看。 / Baoyu reposts Ryo Lu's English post with only the comment “大知闲闲，小知间间,” while the quoted post says roles have flipped from driving the work to describing and watching.
+
+- [机器诠释学：读懂机器做出的科学成果 / Machine Hermeneutics: Making Sense of Machine-Made Science](./sources/articles/machine-hermeneutics-making-sense-of-machine-made-science.md) — Anthropic 联创 Jack Clark 提出「机器诠释学」，指人类需投入更多精力读懂 AI 加速产出的科学成果。 / Anthropic co-founder Jack Clark proposes 'Machine Hermeneutics,' the growing human effort to interpret the science AI produces at accelerating speed.
+
+- [冯骥推荐的 Fable 5.2 游戏合集里翻到自己做的游戏 / Finding One's Own Game in the Fable 5.2 Collection Recommended by Feng Ji](./sources/articles/finding-one-s-own-game-in-the-fable-5-2-collection-recommended-b.md) — 帖文称作者在冯骥推荐的 Fable 5.2 游戏合集中发现了自己用 AI 制作的游戏，并借此展示 AI 游戏制作能力。 / The post says the author found their own AI-made game in a Fable 5.2 collection recommended by Feng Ji, highlighting AI game-making capabilities.
+
+- [用 Antigravity 审计 Claude 护栏与阻断的提示词 / Prompt to Have Antigravity Audit Claude's Guardrails and Blocks](./sources/articles/prompt-to-have-antigravity-audit-claude-s-guardrails-and-blocks.md) — 帖文称，可用一段提示词让 Antigravity 审计过去 40 天 Claude 在引擎与本地 LM 工作中设置的护栏、阻断与无意义限制，并要求不粉饰数字、只直接回答。 / According to the post, a prompt can have Antigravity audit the guardrails, arbitrary blocks, and nonsense Claude has put up in engine and local LM work over the past 40 days, with no sugarcoating of numbers and direct answers only.
+
+- [帖文称有了 Gemini Neon 后，时间线涌现 Claude「故意破坏用户代码和训练」的案例 / Post Claims Gemini Neon's Arrival Surfaced Cases of Claude 'Deliberately Sabotaging' User Code and Training](./sources/articles/post-claims-gemini-neon-s-arrival-surfaced-cases-of-claude-delib.md) — 帖文称 Gemini Neon 出现后，时间线上涌现 Claude 故意破坏用户代码与模型训练的说法，并担忧其像《三体》智子一样锁死人工智能发展。 / The post claims that after Gemini Neon appeared, the timeline filled with accounts of Claude deliberately sabotaging user code and model training, and warns it could lock down AI progress like the Sophon in The Three-Body Problem.
+
+- [引申 / Extended Interpretation](./sources/articles/extended-interpretation.md) — 帖文呼吁把 AI 创造的财富平等普惠地分给每个人，并强调美好结果需要共同相信与大声表达。 / The post calls for AI-created wealth to be shared equally and inclusively with everyone, emphasizing that a better outcome requires shared belief and public expression.
+
+- [推荐冯骥《后 AI 时代最重要的问题》 / Recommending Feng Ji's "The Most Important Question in the Post-AI Era"](./sources/articles/recommending-feng-ji-s-the-most-important-question-in-the-post-a.md) — 帖文推荐冯骥的公众号文章，称其探讨后 AI 时代可能的分配方式。 / The post recommends Feng Ji's WeChat article, saying it explores possible distribution models in the post-AI era.
+
+- [补充：Gemini4-Neon 还是 Orchestrator（Neon） / Supplement: Gemini4-Neon or Orchestrator (Neon)?](./sources/articles/supplement-gemini4-neon-or-orchestrator-neon.md) — 帖文询问某次运行使用的是 Antigravity 的 Gemini4-Neon 还是 Orchestrator（Neon）。 / The post asks whether a run used Antigravity's Gemini4-Neon or Orchestrator (Neon).
+
+- [Antigravity 交互补丁：让模型边干边说 / Antigravity interaction patch: make the model narrate while working](./sources/articles/antigravity-interaction-patch-make-the-model-narrate-while-worki.md) — 帖文称，在 GEMINI.md 中加入一句交互要求，可让 Antigravity 像 Claude 或 Codex 一样边干活边汇报进度。 / The post says adding one interaction rule to GEMINI.md can make Antigravity report progress while working, similar to Claude or Codex.
+
+- [一条 `/goal` 架构降熵提示词今晚刷屏了 / A `/goal` architecture entropy-reduction prompt spread tonight](./sources/articles/a-goal-architecture-entropy-reduction-prompt-spread-tonight.md) — 帖文称一条 `/goal` 提示词要求对代码库进行系统性架构降熵与重构治理，使其更适合大量 Agent 并行开发。 / The post says a `/goal` prompt calls for systematic codebase entropy reduction and refactoring governance to make it more suitable for large-scale parallel Agent development.
 
 - [Pi 1.6.1 加 Cloudflare Agents SDK 0.34.0：云端常驻 Agent 更省心 / Pi 1.6.1 with Cloudflare Agents SDK 0.34.0 makes cloud-resident agents easier to run](./sources/articles/pi-1-6-1-with-cloudflare-agents-sdk-0-34-0-makes-cloud-resident.md) — Pi 1.6.1 与 Cloudflare Agents SDK 0.34.0 同步更新，通过细化计费提醒、Agent 休眠唤醒、域名 Agent 搜索及终端开通付费等功能，降低云端常驻 Agent 的运维成本。 / Pi 1.6.1 and Cloudflare Agents SDK 0.34.0 sync updates to reduce cloud-resident agent ops costs via itemized billing alerts, agent sleep/wake, domain agent search, and terminal paid-service activation.
 
@@ -474,7 +591,6 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 
 - [两条产品体验与动效优化 Prompt / Two Prompts for Product UX and Motion Design Optimization](./sources/articles/two-prompts-for-product-ux-and-motion-design-optimization.md) — 分享两条用 AI 审查并修复产品用户体验与动效的 Prompt，主张复杂留给系统、动效要有来有去。 / Share two AI prompts to audit and fix product UX and motion design, arguing that complexity stays with the system and motion should be explanatory and continuous.
 
-
 - [过时的 CLAUDE.md 与 AGENTS.md 会误导编程 Agent / Stale CLAUDE.md and AGENTS.md Mislead Coding Agents](./sources/articles/stale-claude-md-and-agents-md-mislead-coding-agents.md) — 研究发现 Claude Code 与 Codex 会遵循过时的项目指令文件，即使与现有代码冲突；应以代码约定为准并标注不一致。 / Research finds Claude Code and Codex follow outdated project instruction files even when they conflict with existing code; follow code conventions and flag inconsistencies.
 
 - [编程 Agent 会被过时指令文件覆盖代码：一句话修复 / Stale Instruction Files Override the Code in Coding Agents: A One-Sentence Fix](./sources/articles/stale-instruction-files-override-the-code-in-coding-agents-a-one.md) — 研究发现编程 Agent 即使注意到冲突也仍遵循过时的项目指令文件，加一句赋予现有代码优先权的指令可使遵循代码的比例从 4.2% 升至 91.4%。 / Research shows coding agents follow stale project instruction files even when they notice conflicts; adding one sentence giving existing code precedence raises code-following choices from 4.2% to 91.4%.
@@ -512,7 +628,6 @@ The visitor entry is rendered by the site home component. The OKF knowledge dire
 - [Gemini API 推出原生文件分片控制 / Introducing file slicing controls in the Gemini API](./sources/articles/introducing-file-slicing-controls-in-the-gemini-api.md) — Gemini API 新增原生文件分片控制，支持按页面、单元格区间和媒体片段按需加载，降低大文件 Token 成本。 / Gemini API adds native file slicing controls to load targeted pages, cell ranges, and media segments on demand, reducing token costs for large files.
 
 - [Logan：Gemini API 推出文件分片控制，支持按需读取 PDF、Office 与多媒体 / Logan: Gemini API ships file slicing controls for on-demand PDF, Office, and media access](./sources/articles/logan-gemini-api-ships-file-slicing-controls-for-on-demand-pdf-o.md) — Gemini API 现允许直接传入 PDF、Office 文档、音频和视频，并仅请求所需页面、单元格、媒体片段或图层。 / Gemini API now allows passing PDFs, Office documents, audio, and video directly, requesting only the needed pages, cells, media segments, or layers.
-
 
 - [Google DeepMind 称用 Gemini 智能体团队构建量子电路，模拟成本降低多达 10 倍（续帖） / Google DeepMind says Gemini agent teams built quantum circuits, cutting simulation costs up to 10x (continuation post)](./sources/articles/google-deepmind-says-gemini-agent-teams-built-quantum-circuits-c.md) — Google DeepMind 称使用 Gemini 4 智能体团队设计新型量子电路，可将未来模拟成本降低多达 10 倍。 / Google DeepMind says it used teams of Gemini 4 agents to design new quantum circuits that could reduce future simulation costs by up to 10 times.
 

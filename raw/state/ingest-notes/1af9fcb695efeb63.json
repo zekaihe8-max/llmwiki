@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/raise-ambition-until-ai-frontier.md",
+    "topics/code-over-spec.md"
+  ],
+  "selection_reasons": {
+    "topics/raise-ambition-until-ai-frontier.md": "帖文把行动、实验与 AI 时代联系起来，和该主题强调以行动和野心推进、直到摸清 AI 前沿的取向相近。",
+    "topics/code-over-spec.md": "帖文强调行动和实验结果先于先验态度或事前评判，与该主题重视实践产物胜于事前规格的取向相近。"
+  },
+  "topics": [
+    {
+      "path": "topics/raise-ambition-until-ai-frontier.md",
+      "action": "unchanged",
+      "reason": "帖文把行动、实验与 AI 时代联系起来，和该主题强调以行动和野心推进、直到摸清 AI 前沿的取向相近。"
+    },
+    {
+      "path": "topics/code-over-spec.md",
+      "action": "unchanged",
+      "reason": "帖文强调行动和实验结果先于先验态度或事前评判，与该主题重视实践产物胜于事前规格的取向相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "OpenRouter free-model compile; Topic files left unchanged."
+}

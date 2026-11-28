@@ -1,0 +1,23 @@
+{
+  "slug": "278c235f26ee2e73",
+  "url": "https://x.com/turingou/status/2126359145523876342",
+  "title": "他把公司改造成一套基于 wanman 的强化学习反馈循环",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "278c235f26ee2e730884c94ac163fd7e591e70224dde0aff5897fa6b65efb790",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:07.766Z",
+  "content_hash": "6f456727224b36709b2f74c6d1919a6173f6926156bb229dd30e98544932162f",
+  "article_path": "articles/278c235f26ee2e73.md",
+  "fetched_url": "https://x.com/turingou/status/2126359145523876342",
+  "source_path": "sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:02:16.418Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}
