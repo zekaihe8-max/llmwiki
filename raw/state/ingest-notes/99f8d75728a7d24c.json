@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/in-app-model-partnerships.md",
+    "topics/premium-ai-subscription-value.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/in-app-model-partnerships.md": "帖文核心是 Pi 与 Google AI Ultra 订阅的应用内合作接入。",
+    "topics/premium-ai-subscription-value.md": "内容涉及高端 AI 订阅额度在第三方产品中的直接使用价值。",
+    "topics/agent-model-channel-tradeoffs.md": "讨论从单独购买 API 转向使用订阅额度，属于 Agent 模型渠道取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/in-app-model-partnerships.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Pi 与 Google AI Ultra 订阅的应用内合作接入。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "内容涉及高端 AI 订阅额度在第三方产品中的直接使用价值。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "讨论从单独购买 API 转向使用订阅额度，属于 Agent 模型渠道取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "内容来自 X 帖文，PR 合并状态以帖文表述为准。"
+}

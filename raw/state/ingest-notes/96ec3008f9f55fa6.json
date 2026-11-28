@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "最接近作者署名与社区话筒主题，可覆盖把反馈者列为 co-author 的做法。",
+    "topics/agent-in-chat-bug-feedback.md": "涉及 Twitter、Discord 等聊天渠道的 bug 反馈，与该帖的反馈渠道相呼应。",
+    "topics/ai-product-self-rec-amplify.md": "涉及 AI 产品自我展示与传播，贡献墙可视化可视为产品对外展示的一环。"
+  },
+  "topics": [
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "最接近作者署名与社区话筒主题，可覆盖把反馈者列为 co-author 的做法。"
+    },
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "涉及 Twitter、Discord 等聊天渠道的 bug 反馈，与该帖的反馈渠道相呼应。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "涉及 AI 产品自我展示与传播，贡献墙可视化可视为产品对外展示的一环。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "源文为 X 帖文，co-author 政策与贡献墙等细节均为帖文自述，未经独立核实；未收录视频内容细节。"
+}

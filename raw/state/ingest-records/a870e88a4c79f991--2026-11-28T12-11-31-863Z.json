@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:11:31.863Z",
+  "url": "https://x.com/0xlangeai/status/2126547225040023564",
+  "slug": "a870e88a4c79f991",
+  "content_hash": "ddf264ae8bca8d2fa084f79b173be352308c8f0f60c799d4fbd90b6cd6206f7e",
+  "source": {
+    "path": "sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/multiagent-infra-four-problems.md",
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/adversarial-review-external-evidence.md",
+    "topics/agent-scaled-engineering.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "独立视觉 QA 放大找茬并打回精修，体现对抗式评审与外部证据检查。"
+    },
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "5 个专精角色并行协作完成图像与视频产出，体现智能体规模化工程。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "文章直接对比单 Agent 与多 Agent Swarm，涉及子 Agent 是否应折入主循环的取舍。"
+    },
+    {
+      "path": "topics/multiagent-infra-four-problems.md",
+      "action": "unchanged",
+      "reason": "文章展示 Swarm 的共享任务板、角色分工、交接与 QA 返工，贴近多智能体基建问题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/multiagent-infra-four-problems.md": "文章展示 Swarm 的共享任务板、角色分工、交接与 QA 返工，贴近多智能体基建问题。",
+    "topics/fold-subagents-into-main-loop.md": "文章直接对比单 Agent 与多 Agent Swarm，涉及子 Agent 是否应折入主循环的取舍。",
+    "topics/adversarial-review-external-evidence.md": "独立视觉 QA 放大找茬并打回精修，体现对抗式评审与外部证据检查。",
+    "topics/agent-scaled-engineering.md": "5 个专精角色并行协作完成图像与视频产出，体现智能体规模化工程。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/multiagent-infra-four-problems.md",
+      "topics/fold-subagents-into-main-loop.md",
+      "topics/adversarial-review-external-evidence.md",
+      "topics/agent-scaled-engineering.md"
+    ],
+    "selection_reasons": {
+      "topics/multiagent-infra-four-problems.md": "文章展示 Swarm 的共享任务板、角色分工、交接与 QA 返工，贴近多智能体基建问题。",
+      "topics/fold-subagents-into-main-loop.md": "文章直接对比单 Agent 与多 Agent Swarm，涉及子 Agent 是否应折入主循环的取舍。",
+      "topics/adversarial-review-external-evidence.md": "独立视觉 QA 放大找茬并打回精修，体现对抗式评审与外部证据检查。",
+      "topics/agent-scaled-engineering.md": "5 个专精角色并行协作完成图像与视频产出，体现智能体规模化工程。"
+    },
+    "notes": "Raw slug: a870e88a4c79f991",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

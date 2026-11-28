@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:00:15.200Z",
+  "url": "https://x.com/xiaomovps/status/2126531529308328270",
+  "slug": "9c465398958cd4cc",
+  "content_hash": "c3146b68eaab12040cfec999a5ede039c9383f8562d4c9ad36b391662bc8d9ff",
+  "source": {
+    "path": "sources/articles/he-found-gemini-comes-with-a-2-core-8gb-linux-cloud-computer.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Gemini 为 AI 任务提供免费云端算力，与智能体算力主题最接近。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文强调这是临时云电脑、不能长期挂机，涉及个人 Agent 云环境的使用边界与注意事项。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章核心是 Gemini 为 AI 任务提供免费云端算力，与智能体算力主题最接近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文强调这是临时云电脑、不能长期挂机，涉及个人 Agent 云环境的使用边界与注意事项。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/he-found-gemini-comes-with-a-2-core-8gb-linux-cloud-computer.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agent-compute-and-governance.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/agent-compute-and-governance.md": "文章核心是 Gemini 为 AI 任务提供免费云端算力，与智能体算力主题最接近。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "帖文强调这是临时云电脑、不能长期挂机，涉及个人 Agent 云环境的使用边界与注意事项。"
+    },
+    "notes": "Source.resource: https://x.com/xiaomovps/status/2126531529308328270",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/he-found-gemini-comes-with-a-2-core-8gb-linux-cloud-computer.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

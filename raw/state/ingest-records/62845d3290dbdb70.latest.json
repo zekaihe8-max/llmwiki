@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:15:27.911Z",
+  "url": "https://x.com/Gorden_Sun/status/2126543937213284609",
+  "slug": "62845d3290dbdb70",
+  "content_hash": "a3ba1f2cce4d6f828ea89fd2b91e8818799567ba97e55131f005aaf6b4675bba",
+  "source": {
+    "path": "sources/articles/tripo-3d-launches-mcp.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/simulation-ready-open-3d-assets.md",
+    "topics/interactive-world-models.md",
+    "topics/agent-auto-mode.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "帖文称 MCP 解放双手并让 Fable 自动产出，和智能体自动模式有一定关联。"
+    },
+    {
+      "path": "topics/interactive-world-models.md",
+      "action": "unchanged",
+      "reason": "Live 3D Demo 涉及实时可交互的三维呈现，与该主题相关。"
+    },
+    {
+      "path": "topics/simulation-ready-open-3d-assets.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 3D Demo 与三维内容生产，和开放三维资产主题最接近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/simulation-ready-open-3d-assets.md": "帖文核心是 3D Demo 与三维内容生产，和开放三维资产主题最接近。",
+    "topics/interactive-world-models.md": "Live 3D Demo 涉及实时可交互的三维呈现，与该主题相关。",
+    "topics/agent-auto-mode.md": "帖文称 MCP 解放双手并让 Fable 自动产出，和智能体自动模式有一定关联。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/tripo-3d-launches-mcp.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/simulation-ready-open-3d-assets.md",
+      "topics/interactive-world-models.md",
+      "topics/agent-auto-mode.md"
+    ],
+    "selection_reasons": {
+      "topics/simulation-ready-open-3d-assets.md": "帖文核心是 3D Demo 与三维内容生产，和开放三维资产主题最接近。",
+      "topics/interactive-world-models.md": "Live 3D Demo 涉及实时可交互的三维呈现，与该主题相关。",
+      "topics/agent-auto-mode.md": "帖文称 MCP 解放双手并让 Fable 自动产出，和智能体自动模式有一定关联。"
+    },
+    "notes": "Raw slug: 62845d3290dbdb70",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/tripo-3d-launches-mcp.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

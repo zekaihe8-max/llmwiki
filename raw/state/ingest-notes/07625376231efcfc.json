@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/agent-skills-open-standard.md",
+    "topics/company-agent-harness.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/fold-subagents-into-main-loop.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-skills-open-standard.md": "帖文重点讨论 Skills over MCP、skill:// 与 SHA-256 摘要，与开放标准直接相关。",
+    "topics/company-agent-harness.md": "文中提出最佳 Agent Harness 应自身成为 MCP 服务器，属公司级 Harness 范畴。",
+    "topics/context-engineering-for-agents.md": "Code Mode 旨在避免中间结果堆进上下文，直接对应上下文工程与语境膨胀问题。",
+    "topics/fold-subagents-into-main-loop.md": "Schmid 建议将子 agent 做成 MCP Tasks 并共用群体看板，属子 agent 折进主循环。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-skills-open-standard.md",
+      "action": "unchanged",
+      "reason": "帖文重点讨论 Skills over MCP、skill:// 与 SHA-256 摘要，与开放标准直接相关。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "文中提出最佳 Agent Harness 应自身成为 MCP 服务器，属公司级 Harness 范畴。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "Code Mode 旨在避免中间结果堆进上下文，直接对应上下文工程与语境膨胀问题。"
+    },
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "Schmid 建议将子 agent 做成 MCP Tasks 并共用群体看板，属子 agent 折进主循环。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "来源为 @shao__meng 在 X 上的帖文，引用 Philipp Schmid 的博客；未核实主张已用「帖文称」标注。"
+}

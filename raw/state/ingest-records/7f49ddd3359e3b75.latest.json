@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T11:59:28.868Z",
+  "url": "https://x.com/lxfater/status/2126316746319470822",
+  "slug": "7f49ddd3359e3b75",
+  "content_hash": "f4cbe5db025d23458df3691f22de4b5c37f1295d71ba1405cd4a35c51d0023db",
+  "source": {
+    "path": "sources/articles/alibaba-modelscope-and-amd-give-away-100-hours-of-free-cloud-com.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/china-open-source-lead-us-compute.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "帖文涉及阿里魔搭、AMD 与中国开源大模型（Qwen、DeepSeek）及算力供给，契合中国开源与算力议题。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文核心是免费 GPU 云算力与超大显存，直接对应该主题的消费级/云端 GPU 算力解锁。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文讲云 Notebook 环境预装、即开即用与用完即停，与个人云环境的使用与成本相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "帖文核心是免费 GPU 云算力与超大显存，直接对应该主题的消费级/云端 GPU 算力解锁。",
+    "topics/china-open-source-lead-us-compute.md": "帖文涉及阿里魔搭、AMD 与中国开源大模型（Qwen、DeepSeek）及算力供给，契合中国开源与算力议题。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文讲云 Notebook 环境预装、即开即用与用完即停，与个人云环境的使用与成本相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/alibaba-modelscope-and-amd-give-away-100-hours-of-free-cloud-com.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/gpu-ai-compute-unlock.md",
+      "topics/china-open-source-lead-us-compute.md",
+      "topics/personal-agent-cloud-env-pitfalls.md"
+    ],
+    "selection_reasons": {
+      "topics/gpu-ai-compute-unlock.md": "帖文核心是免费 GPU 云算力与超大显存，直接对应该主题的消费级/云端 GPU 算力解锁。",
+      "topics/china-open-source-lead-us-compute.md": "帖文涉及阿里魔搭、AMD 与中国开源大模型（Qwen、DeepSeek）及算力供给，契合中国开源与算力议题。",
+      "topics/personal-agent-cloud-env-pitfalls.md": "帖文讲云 Notebook 环境预装、即开即用与用完即停，与个人云环境的使用与成本相关。"
+    },
+    "notes": "所有主张均来自帖文，未经独立核实；显存等效 6 张 5090 为帖文说法。活动入口链接取自帖文提供的 modelscope.cn/events/247。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/alibaba-modelscope-and-amd-give-away-100-hours-of-free-cloud-com.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

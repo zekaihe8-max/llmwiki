@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/fold-subagents-into-main-loop.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agent-worktree-cleanup.md",
+    "topics/personal-agent-foreman-over-coding-agents.md"
+  ],
+  "selection_reasons": {
+    "topics/fold-subagents-into-main-loop.md": "主题聚焦把子 Agent 折进主循环，与帖文反对多 Agent 微管理、主张好模型一口气出结果的观点最接近。",
+    "topics/coding-agent-token-saving-tooling.md": "帖文核心论点是多 Agent 编排浪费 Token，与该主题的省 Token 开销视角直接相关。",
+    "topics/agent-worktree-cleanup.md": "帖文点名开多个 worktree 只是占空间，与该主题的 worktree 管理相呼应。",
+    "topics/personal-agent-foreman-over-coding-agents.md": "帖文批评的正是个人调度多个编程 Agent 的编排做法，与该主题形成对照。"
+  },
+  "topics": [
+    {
+      "path": "topics/fold-subagents-into-main-loop.md",
+      "action": "unchanged",
+      "reason": "主题聚焦把子 Agent 折进主循环，与帖文反对多 Agent 微管理、主张好模型一口气出结果的观点最接近。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "帖文核心论点是多 Agent 编排浪费 Token，与该主题的省 Token 开销视角直接相关。"
+    },
+    {
+      "path": "topics/agent-worktree-cleanup.md",
+      "action": "unchanged",
+      "reason": "帖文点名开多个 worktree 只是占空间，与该主题的 worktree 管理相呼应。"
+    },
+    {
+      "path": "topics/personal-agent-foreman-over-coding-agents.md",
+      "action": "unchanged",
+      "reason": "帖文批评的正是个人调度多个编程 Agent 的编排做法，与该主题形成对照。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "原文为单条推文，无额外上下文；帖文日期显示为 2026-11-27，互动数据未纳入正文。"
+}

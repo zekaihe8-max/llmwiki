@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:05:21.643Z",
+  "url": "https://x.com/yetone/status/2126573761935925316",
+  "slug": "f789eb5e6d880b28",
+  "content_hash": "00d73bcb3e32bbdeadc6ca37375dadaef88bf66c3e835a37f5da2e61673b0b2f",
+  "source": {
+    "path": "sources/articles/magpie-s-contribution-wall-feedbackers-credited-as-co-authors.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/claude-code-authorship-and-voice.md",
+    "topics/agent-in-chat-bug-feedback.md",
+    "topics/minimal-core-community-extensions.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-in-chat-bug-feedback.md",
+      "action": "unchanged",
+      "reason": "该主题涉及对话内问题反馈，和帖文中 Twitter 或 Discord 的 bug 反馈被纳入贡献相关。"
+    },
+    {
+      "path": "topics/claude-code-authorship-and-voice.md",
+      "action": "unchanged",
+      "reason": "该主题涉及作者身份与社区声音，和帖文中把反馈者列为 co-author 的署名实践最接近。"
+    },
+    {
+      "path": "topics/minimal-core-community-extensions.md",
+      "action": "unchanged",
+      "reason": "该主题涉及社区扩展与贡献边界，可用于理解 Magpie 将社区反馈纳入正式贡献的做法。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/claude-code-authorship-and-voice.md": "该主题涉及作者身份与社区声音，和帖文中把反馈者列为 co-author 的署名实践最接近。",
+    "topics/agent-in-chat-bug-feedback.md": "该主题涉及对话内问题反馈，和帖文中 Twitter 或 Discord 的 bug 反馈被纳入贡献相关。",
+    "topics/minimal-core-community-extensions.md": "该主题涉及社区扩展与贡献边界，可用于理解 Magpie 将社区反馈纳入正式贡献的做法。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/magpie-s-contribution-wall-feedbackers-credited-as-co-authors.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/claude-code-authorship-and-voice.md",
+      "topics/agent-in-chat-bug-feedback.md",
+      "topics/minimal-core-community-extensions.md"
+    ],
+    "selection_reasons": {
+      "topics/claude-code-authorship-and-voice.md": "该主题涉及作者身份与社区声音，和帖文中把反馈者列为 co-author 的署名实践最接近。",
+      "topics/agent-in-chat-bug-feedback.md": "该主题涉及对话内问题反馈，和帖文中 Twitter 或 Discord 的 bug 反馈被纳入贡献相关。",
+      "topics/minimal-core-community-extensions.md": "该主题涉及社区扩展与贡献边界，可用于理解 Magpie 将社区反馈纳入正式贡献的做法。"
+    },
+    "notes": "未创建新主题；仅复用现有主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/magpie-s-contribution-wall-feedbackers-credited-as-co-authors.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

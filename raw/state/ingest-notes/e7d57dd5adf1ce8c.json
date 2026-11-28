@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/managed-over-selfhosted-proxy-nodes.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "同属 AI 订阅性价比话题，本篇是 20 美元以内低价档的对照视角，可直接挂在该主题下。",
+    "topics/coding-agent-ux-vs-quota.md": "文中反复比较各套餐的额度、刷新周期、周限额与错峰折扣，正是编程 Agent 体验与额度的取舍。",
+    "topics/agent-model-channel-tradeoffs.md": "五个套餐的核心差异在于可调模型清单与接入方式（设备码登录、原生调用、第三方直连），属于面向 Agent 的模型渠道取舍。",
+    "topics/managed-over-selfhosted-proxy-nodes.md": "Nous Portal Plus 自带常驻云主机，省去买 VPS 挂 Hermes，与托管优于自建代理节点的主题呼应。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "同属 AI 订阅性价比话题，本篇是 20 美元以内低价档的对照视角，可直接挂在该主题下。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文中反复比较各套餐的额度、刷新周期、周限额与错峰折扣，正是编程 Agent 体验与额度的取舍。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "五个套餐的核心差异在于可调模型清单与接入方式（设备码登录、原生调用、第三方直连），属于面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/managed-over-selfhosted-proxy-nodes.md",
+      "action": "unchanged",
+      "reason": "Nous Portal Plus 自带常驻云主机，省去买 VPS 挂 Hermes，与托管优于自建代理节点的主题呼应。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文开头提到刚聊完能绑会员的开源 Agent，页面另附一条相关帖文（status/2126327262111035858）。文中模型名称、价格、额度与福利均为帖文说法，未经独立核实，摘要与要点已用「帖文称」标注。官方地址在原文中为 t.co 短链，未收录。"
+}

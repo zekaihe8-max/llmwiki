@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/gpu-ai-compute-unlock.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文核心是 Google AI Ultra 高端订阅带来的额度与算力价值。",
+    "topics/gpu-ai-compute-unlock.md": "帖文讨论用 Colab 额度替代 RunPod GPU，属于 GPU 算力获取与解锁方式。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文核心是 Google AI Ultra 高端订阅带来的额度与算力价值。"
+    },
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "帖文讨论用 Colab 额度替代 RunPod GPU，属于 GPU 算力获取与解锁方式。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅依据帖文内容归纳，未补充外部事实。"
+}

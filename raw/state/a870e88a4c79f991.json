@@ -1,0 +1,23 @@
+{
+  "slug": "a870e88a4c79f991",
+  "url": "https://x.com/0xlangeai/status/2126547225040023564",
+  "title": "他用 Gemini 4 Neon 做了「鹈鹕骑自行车」盲测，对比单 Agent 和 Swarm",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "a870e88a4c79f9914fde1ef3fd4b067573741875605dcc9a35a30a3877025560",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:13.621Z",
+  "content_hash": "ddf264ae8bca8d2fa084f79b173be352308c8f0f60c799d4fbd90b6cd6206f7e",
+  "article_path": "articles/a870e88a4c79f991.md",
+  "fetched_url": "https://x.com/0xlangeai/status/2126547225040023564",
+  "source_path": "sources/articles/gemini-4-neon-pelican-riding-a-bicycle-blind-test-single-agent-v.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:11:31.864Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

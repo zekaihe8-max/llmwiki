@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/premium-ai-subscription-value.md",
+    "topics/cloud-auto-model-routing.md",
+    "topics/multi-harness-router-vs-personal-dispatch.md",
+    "topics/pro-vs-flash-model-strategy.md"
+  ],
+  "selection_reasons": {
+    "topics/premium-ai-subscription-value.md": "帖文讨论高端 AI 订阅预算拆分与是否值得订阅，与高端订阅价值主题直接相关。",
+    "topics/cloud-auto-model-routing.md": "用户按任务在 Claude、Codex、Gemini 等多家模型间分配使用，涉及跨模型编排与选用。",
+    "topics/multi-harness-router-vs-personal-dispatch.md": "Grok Bot 统一派活、各家命令行串联，体现个人助手派活而非基建路由的场景。",
+    "topics/pro-vs-flash-model-strategy.md": "文中提到不同模型档位（Ultra/大杯/中杯等）与按需选用，对应 Pro 与 Flash 模型策略。"
+  },
+  "topics": [
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文讨论高端 AI 订阅预算拆分与是否值得订阅，与高端订阅价值主题直接相关。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "用户按任务在 Claude、Codex、Gemini 等多家模型间分配使用，涉及跨模型编排与选用。"
+    },
+    {
+      "path": "topics/multi-harness-router-vs-personal-dispatch.md",
+      "action": "unchanged",
+      "reason": "Grok Bot 统一派活、各家命令行串联，体现个人助手派活而非基建路由的场景。"
+    },
+    {
+      "path": "topics/pro-vs-flash-model-strategy.md",
+      "action": "unchanged",
+      "reason": "文中提到不同模型档位（Ultra/大杯/中杯等）与按需选用，对应 Pro 与 Flash 模型策略。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "所有主张均基于帖文内容，未引入外部事实或 URL。"
+}

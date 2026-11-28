@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:02:16.418Z",
+  "url": "https://x.com/turingou/status/2126359145523876342",
+  "slug": "278c235f26ee2e73",
+  "content_hash": "6f456727224b36709b2f74c6d1919a6173f6926156bb229dd30e98544932162f",
+  "source": {
+    "path": "sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/company-agent-harness.md",
+    "topics/software-factory.md",
+    "topics/agent-scaled-engineering.md",
+    "topics/ai-native-companies.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-scaled-engineering.md",
+      "action": "unchanged",
+      "reason": "新 App 研发时间从一到两周缩到一天再到 30 分钟内，并计划明年发布 300 多个应用和网站，体现智能体规模化工程的产能提升。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "作者以 Agent 探索需求、建立渠道、产出产品，自己只做审批，属于 AI 原生公司的组织形态。"
+    },
+    {
+      "path": "topics/company-agent-harness.md",
+      "action": "unchanged",
+      "reason": "帖文核心是把公司改造成由 Agent 驱动的组织，人只保留批准环节，与公司级 Agent Harness 主题最贴近。"
+    },
+    {
+      "path": "topics/software-factory.md",
+      "action": "unchanged",
+      "reason": "从密钥、创建、构建、测试、部署到 TestFlight 与商店审核的全自动 App 产出流水线，正是软件工厂主题的典型场景。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/company-agent-harness.md": "帖文核心是把公司改造成由 Agent 驱动的组织，人只保留批准环节，与公司级 Agent Harness 主题最贴近。",
+    "topics/software-factory.md": "从密钥、创建、构建、测试、部署到 TestFlight 与商店审核的全自动 App 产出流水线，正是软件工厂主题的典型场景。",
+    "topics/agent-scaled-engineering.md": "新 App 研发时间从一到两周缩到一天再到 30 分钟内，并计划明年发布 300 多个应用和网站，体现智能体规模化工程的产能提升。",
+    "topics/ai-native-companies.md": "作者以 Agent 探索需求、建立渠道、产出产品，自己只做审批，属于 AI 原生公司的组织形态。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/company-agent-harness.md",
+      "topics/software-factory.md",
+      "topics/agent-scaled-engineering.md",
+      "topics/ai-native-companies.md"
+    ],
+    "selection_reasons": {
+      "topics/company-agent-harness.md": "帖文核心是把公司改造成由 Agent 驱动的组织，人只保留批准环节，与公司级 Agent Harness 主题最贴近。",
+      "topics/software-factory.md": "从密钥、创建、构建、测试、部署到 TestFlight 与商店审核的全自动 App 产出流水线，正是软件工厂主题的典型场景。",
+      "topics/agent-scaled-engineering.md": "新 App 研发时间从一到两周缩到一天再到 30 分钟内，并计划明年发布 300 多个应用和网站，体现智能体规模化工程的产能提升。",
+      "topics/ai-native-companies.md": "作者以 Agent 探索需求、建立渠道、产出产品，自己只做审批，属于 AI 原生公司的组织形态。"
+    },
+    "notes": "Raw slug: 278c235f26ee2e73。wanman 按帖文原样保留，未作推断。帖文发布于 2026-11-27，35.7K Views。文中关于流程全自动、30 分钟完成及明年 300 多个应用的说法均为作者自述，未经核实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/turning-a-company-into-a-wanman-based-reinforcement-learning-fee.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

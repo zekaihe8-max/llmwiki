@@ -1,0 +1,29 @@
+{
+  "slug": "97a2ac7a9dd0b5a7",
+  "url": "https://modelscope.cn/events/247",
+  "title": "活动页",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "failed",
+  "hash": "97a2ac7a9dd0b5a7adf18da15fa0b767e59485fe1243435c278a5a4e0e213cfe",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:00.502Z",
+  "content_hash": "9a216872c5314d1453e32afc42a2d2b618b1412308742a3682dad479f68e824d",
+  "article_path": "articles/97a2ac7a9dd0b5a7.md",
+  "fetched_url": "https://modelscope.cn/events/247",
+  "source_path": null,
+  "error": "login/nav shell with no event body; official GET only has 竞赛介绍 title plus 登录/注册; Source unfiled, not invented",
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [
+    {
+      "at": "2026-11-28T12:23:12.421Z",
+      "stage": "unfile",
+      "error": "login/nav shell with no event body; official GET only has 竞赛介绍 title plus 登录/注册; Source unfiled, not invented"
+    }
+  ],
+  "filed_at": null,
+  "skipped_at": null,
+  "last_fetch_error": "login/nav shell with no event body",
+  "last_fetch_failed_at": "2026-11-28T12:23:12.421Z"
+}

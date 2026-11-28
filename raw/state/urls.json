@@ -499,7 +499,7 @@
     "hash": "e4e820b40f0774c545e774d39883c53672809d050f48455ff8cedf2c2b27f667",
     "slug": "b6ee2b32304d0c0d",
     "first_seen": "2026-10-24T12:46:55.808Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-24-cn-x.md",
     "title": "gpu-unlock",
     "alias_of": "https://github.com/Zagitta/gpu-unlock"
@@ -844,7 +844,7 @@
     "hash": "b11b6b3b29bfb1adeb7124b11345eb765f9b48bbdf39642ea0bdfad6fe136f0c",
     "slug": "67262cd39057e56e",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/xiaomovps/status/2114285431324057857"
@@ -853,7 +853,7 @@
     "hash": "63bda9c152a41ecfd64b43ad47f00e4c93cca7f250c389eb9b4f423e86df4485",
     "slug": "08eca1a21134608c",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/yetone/status/2114070661341868122"
@@ -862,7 +862,7 @@
     "hash": "797677620685caa703c77c5f063f357510895a02fa66e6b2c87ed1a4cd7ef1b2",
     "slug": "1bfaa17cec8baa16",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/oran_ge/status/2113996510287585493"
@@ -871,7 +871,7 @@
     "hash": "9ea7e2f2444874f3920a543f298bf7658eeb5228a40d7eff8bf76af3e5abb1db",
     "slug": "95e66d7375660f07",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/FringJason/status/2114280837810458972"
@@ -880,7 +880,7 @@
     "hash": "108f173cdc536c07ca4d12bebd43eb13cabb44d6f6a645250cde9cf5ca354424",
     "slug": "8ecb42724401111b",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/turingou/status/2114175110416675209"
@@ -889,7 +889,7 @@
     "hash": "e52c80aaeb3889a28e99c6e71920788ac5d2e84c6216c22bedcadf2ec342328a",
     "slug": "60bbc1aeaf27cfa3",
     "first_seen": "2026-10-25T11:51:17.939Z",
-    "last_seen": "2026-11-27T11:55:36.185Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
     "digest": "2026-10-25-cn-x.md",
     "title": null,
     "alias_of": "https://x.com/Suchuanyi/status/2114155779133489207"
@@ -16189,5 +16189,501 @@
     "last_seen": "2026-11-27T11:55:36.185Z",
     "digest": "2026-11-27-cn-x.md",
     "title": "Pi 1.6.1 加 Cloudflare Agents SDK 0.34.0"
+  },
+  "https://x.com/Khazix0918/status/2126324185626734795": {
+    "hash": "55014ed3c0c27ff3b77d922414a1e663971de28f48c0e1fc5de0f236ced697ef",
+    "slug": "55014ed3c0c27ff3",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "一条 `/goal` 架构降熵提示词今晚刷屏了"
+  },
+  "https://x.com/Khazix0918/status/2126294658431201385": {
+    "hash": "3e143991aee3ee62c499d0384a364fe3ea848e3cca951b6ad6b10f01ad63e2f6",
+    "slug": "3e143991aee3ee62",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他同时分享了 Antigravity 的一句交互补丁"
+  },
+  "https://x.com/Khazix0918/status/2126330602836349432": {
+    "hash": "3f8bd058441dc7c21aa5e63c0b31fb53399b1c1c923018080a47371ba464caad",
+    "slug": "3f8bd058441dc7c2",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "补充"
+  },
+  "https://x.com/op7418/status/2126306059648462936": {
+    "hash": "57ca4897447b196d439e6c8f590bb71b157158c0670b6825186a5eba43abf0ea",
+    "slug": "57ca4897447b196d",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他推荐读冯骥公众号新文《后 AI 时代最重要的问题》"
+  },
+  "https://x.com/op7418/status/2126311331787841943": {
+    "hash": "ee6a0944c36d469dcb4b40e26e923b9990b25ae737742de6058deeaddeb860b1",
+    "slug": "ee6a0944c36d469d",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "引申"
+  },
+  "https://x.com/op7418/status/2126519394574676124": {
+    "hash": "81e13804409df97ff99f37ec91f430b3ff2c9a740571940161deb16d47577cce",
+    "slug": "81e13804409df97f",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他接着写，有了 Gemini Neon，时间线上开始出现 Claude「故意破坏用户代码和训练」的案例"
+  },
+  "https://x.com/op7418/status/2126520482468188658": {
+    "hash": "30e10a3dfc6261db3320c23901192be84d5f5976d34a5fcd09d9121862dddf2b",
+    "slug": "30e10a3dfc6261db",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "提示词"
+  },
+  "https://x.com/op7418/status/2126314043912904967": {
+    "hash": "043d352c1a8cfd2306d9e071b05e889da6b9a110bfc293c1f86da97d3c0aef2a",
+    "slug": "043d352c1a8cfd23",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "顺带一提，冯骥推荐的 Fable 5.2 游戏合集里，他翻到了自己做的游戏"
+  },
+  "https://x.com/dotey/status/2126556168357109903": {
+    "hash": "a8cd11bb2442d3536994b6eb0ec06b95e2b7ee08dadf30b0fe730a676b7b93d1",
+    "slug": "a8cd11bb2442d353",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他把 Anthropic 联创 Jack Clark 的「机器诠释学」讲清楚了"
+  },
+  "https://x.com/dotey/status/2126396997968015709": {
+    "hash": "68bfa7a979c528dc1416dd277dff583faf2c2cb6684ebe47df401740de688643",
+    "slug": "68bfa7a979c528dc",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他另转了一段英文长帖，只评了一句「大知闲闲，小知间间」"
+  },
+  "https://x.com/lxfater/status/2126529577371504703": {
+    "hash": "e48be06cd3ef3c5e4eb276fa0f5d64483cac9582f79bc217fc3b3bb1eba66ea2",
+    "slug": "e48be06cd3ef3c5e",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "同一款 Gemini 4 Neon，有人夸神、有人骂瞎编，他觉得锅多半在 Antigravity 桌面端"
+  },
+  "https://x.com/lxfater/status/2126635997047783578": {
+    "hash": "007e54894e607d696bfafe66b36f19300e2c67e67ba6d9d65c796632f3796a23",
+    "slug": "007e54894e607d69",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "昨天还当 Bug 挖的 4 倍扣费，今天官方认成故意的了"
+  },
+  "https://x.com/lxfater/status/2126316746319470822": {
+    "hash": "7f49ddd3359e3b75ff5b7a545d812accbfd11e9f2e9a3cca2621463ee02bfaf2",
+    "slug": "7f49ddd3359e3b75",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "阿里魔搭联合 AMD 送 100 小时免费云算力"
+  },
+  "https://modelscope.cn/events/247": {
+    "hash": "97a2ac7a9dd0b5a7adf18da15fa0b767e59485fe1243435c278a5a4e0e213cfe",
+    "slug": "97a2ac7a9dd0b5a7",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "活动页"
+  },
+  "https://x.com/lxfater/status/2126350456599503230": {
+    "hash": "600873917061d270acbc1087cffa93f5adcc1e14e3ebbcc09a7541b308b8bb6a",
+    "slug": "600873917061d270",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他还放了一句得罪人的话"
+  },
+  "https://x.com/xiaomovps/status/2126531529308328270": {
+    "hash": "9c465398958cd4cc490cf6b3c10e4b5d7d60eae45c5eee08a637cca6f68f734b",
+    "slug": "9c465398958cd4cc",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他发现 Gemini 自带一台 2 核 8G 的 Linux 云电脑"
+  },
+  "https://x.com/xiaomovps/status/2126307058580607462": {
+    "hash": "0e43c4a0bcebaef2fb6e137b31d66803e21d293ae1b64e80ff982af0063106d4",
+    "slug": "0e43c4a0bcebaef2",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "Pi 官方维护者提了草稿 PR，准备接 Google AI 会员"
+  },
+  "https://github.com/earendil-works/pi/pull/12614": {
+    "hash": "6a7691a1ae0d594efd99a584cb75c9aa0fe2e2fb973d724501eda5551ab472d7",
+    "slug": "6a7691a1ae0d594e",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "PR"
+  },
+  "https://x.com/xiaomovps/status/2126517557754830980": {
+    "hash": "447561d42cc92a25089e5da838859a36003a6cca8ad6b173afb5b94eb452d295",
+    "slug": "447561d42cc92a25",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "OpenClaw 联合 Hugging Face、UC Berkeley 的 ShellBench 里，Claude Code 平均通过率排在最后"
+  },
+  "https://x.com/xiaomovps/status/2126501833757667824": {
+    "hash": "b4f55d35034ec21a3fb4a9c7d371ce1f203dde79423bdd3256811e19049dbfec",
+    "slug": "b4f55d35034ec21a",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "1.7.0"
+  },
+  "https://x.com/xiaomovps/status/2126343080312008857": {
+    "hash": "e7d57dd5adf1ce8cb6fa8183a9811b9c465bf62fee768a22f4a89c5efbe63325",
+    "slug": "e7d57dd5adf1ce8c",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他还盘了 5 个都在 20 美元以内的口粮"
+  },
+  "https://x.com/turingou/status/2126359145523876342": {
+    "hash": "278c235f26ee2e730884c94ac163fd7e591e70224dde0aff5897fa6b65efb790",
+    "slug": "278c235f26ee2e73",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他把公司改造成一套基于 wanman 的强化学习反馈循环"
+  },
+  "https://x.com/turingou/status/2126571209899008178": {
+    "hash": "e7aa18d0f29dc81f38f34b0ddc49a5f1707ee2b8e9ae487189b2957a4b782c69",
+    "slug": "e7aa18d0f29dc81f",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "订阅了 Google AI Ultra 的人，离线渲染甚至不必再找 RunPod"
+  },
+  "https://x.com/turingou/status/2126595573923123340": {
+    "hash": "064f3c39b703da03d02d45828d0d9a0a64672a758b47800e153c82deb194ccf3",
+    "slug": "064f3c39b703da03",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "签名"
+  },
+  "https://x.com/turingou/status/2126614122116923873": {
+    "hash": "0b5322a656c6a6163937de0889e91525a306e5598f211c3425092ab8c2de843d",
+    "slug": "0b5322a656c6a616",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "Tuwa"
+  },
+  "https://x.com/turingou/status/2126617457322565694": {
+    "hash": "1af9fcb695efeb63cd378b34d75c6f0bcde31105c8712a9b216071ec7490d876",
+    "slug": "1af9fcb695efeb63",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "行动"
+  },
+  "https://x.com/turingou/status/2126619895454650614": {
+    "hash": "cbd57b13735004f639ebc88f63b8a88b959e0c57feea925f44b9cc56380f0110",
+    "slug": "cbd57b13735004f6",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "insight"
+  },
+  "https://x.com/oran_ge/status/2126478234728665508": {
+    "hash": "e4b441c41e20476784a5d612177241aa4471a839004bfca94e1d703c958f4881",
+    "slug": "e4b441c41e204767",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他给公司里的 AI 落地写了一句很难听、也很准的话"
+  },
+  "https://x.com/oran_ge/status/2126504015752200528": {
+    "hash": "386be85ae74da76a83da6e8f3df1979394a814b4eb19087d5d3fa8a7b4c8a95c",
+    "slug": "386be85ae74da76a",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "补一句"
+  },
+  "https://x.com/oran_ge/status/2126622590118801542": {
+    "hash": "2ab5a288c84ad9f39255fb99c556e78f36aa762d8a7f6e44724829e2197ce52a",
+    "slug": "2ab5a288c84ad9f3",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "后台监控里，最近最火的 Skill 居然是做 AI 短剧"
+  },
+  "https://x.com/oran_ge/status/2126553499303559467": {
+    "hash": "69d2211ac33c6cc63389b8aa03c3ea75b90b26fd841336b24e32b30a79b8b867",
+    "slug": "69d2211ac33c6cc6",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "在歸藏那波 Claude 讨论下面，他也说「A 社制造了智子，还好谷歌雄起了」"
+  },
+  "https://x.com/yetone/status/2126573761935925316": {
+    "hash": "f789eb5e6d880b28a5550eed73ad289a19b228d53c8064903f9dc8acee5103c5",
+    "slug": "f789eb5e6d880b28",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他解释了 Magpie 的贡献墙为什么不是摆设"
+  },
+  "https://x.com/yetone/status/2126627402243813616": {
+    "hash": "96ec3008f9f55fa625823084aa06381a8aa6421e6b6cb993e1707e1540072151",
+    "slug": "96ec3008f9f55fa6",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "动画"
+  },
+  "https://x.com/servasyy_ai/status/2126452802218254718": {
+    "hash": "d292c104177f703dabcff4363b6987c4a57fefa752ca63e71370567357733cb3",
+    "slug": "d292c104177f703d",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他在 Reddit 看到一个把 MiniMax H3 显存门槛砍掉大半的做法"
+  },
+  "https://x.com/servasyy_ai/status/2126305123425235399": {
+    "hash": "99f8d75728a7d24c19c0db6d352c6d74ac549e7d681cb009d4e0440705cb85a6",
+    "slug": "99f8d75728a7d24c",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他也很早喊了 Pi 正在接 Google AI Ultra"
+  },
+  "https://x.com/shao__meng/status/2126298180707094682": {
+    "hash": "9e70dc3f9c9eb5635ba154790ddfdf0575c44a65db0d179321c73e36b8711f8f",
+    "slug": "9e70dc3f9c9eb563",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "elsewhere 报道 Liblib 完成新一轮近 2 亿美元融资，投后估值 32 亿美元"
+  },
+  "https://x.com/shao__meng/status/2126495906296111586": {
+    "hash": "332488397d211a010deec6a451aad13eaac2015f72c21779b2f34d9403337313",
+    "slug": "332488397d211a01",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "斯坦福 CS329Z 炉边对谈里，吴恩达和 Diyi Yang 谈怎样把 Agent 做可靠"
+  },
+  "https://x.com/shao__meng/status/2126304895930454467": {
+    "hash": "07625376231efcfc96bee1bd2da92f97efe28b7e72bde6910372563414451c72",
+    "slug": "07625376231efcfc",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他还整理了 Philipp Schmid 为什么看好 2027 年的 MCP"
+  },
+  "https://x.com/dingyi/status/2126507550959116755": {
+    "hash": "c5ae1049f9ac66b39b7ae874df1033d11b00b63dd32c096cd7c8d35387e0f2ef",
+    "slug": "c5ae1049f9ac66b3",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他把现在的 Agent 比成保时捷时代"
+  },
+  "https://x.com/dingyi/status/2126335427833631160": {
+    "hash": "e691598fed16547306ed97a01215907658d40be339ddf494767ffb3d41f54add",
+    "slug": "e691598fed165473",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "Amp"
+  },
+  "https://x.com/dingyi/status/2126285368408654101": {
+    "hash": "f93de3bedb049a0039c46154cd6a2a605f68dc579c29a30d6452ba860334cbe1",
+    "slug": "f93de3bedb049a00",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "人字拖"
+  },
+  "https://x.com/vista8/status/2126582684596224392": {
+    "hash": "6975662de2be06cdad67ef9a350cd4336b4d837197f7a731969f85bb300524d2",
+    "slug": "6975662de2be06cd",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他被 AJ 推荐的 instinct 说服了"
+  },
+  "https://x.com/vista8/status/2126360162902638974": {
+    "hash": "3b30f3abcd280983cbaa81eeb0fbcae3ef1540fb35f2544f7eaedb2d339f709d",
+    "slug": "3b30f3abcd280983",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他还安利了赵纯想做的 AI Coding 客户端"
+  },
+  "https://x.com/vista8/status/2126491710540910729": {
+    "hash": "0958c51e287ed079c727f227089ff49712618effece02e97728f8689e1181570",
+    "slug": "0958c51e287ed079",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "做一个播客录制工具时，降噪和人声美化一直搞不定，他最后还是上了 Fable 5.2"
+  },
+  "https://x.com/0xlangeai/status/2126300173118984382": {
+    "hash": "438f7023e46cee1c462818bc78e47adb0c040993370a288856d81df86b57135e",
+    "slug": "438f7023e46cee1c",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他劝人别给任何一家 AI 当精神股东"
+  },
+  "https://x.com/0xlangeai/status/2126547225040023564": {
+    "hash": "a870e88a4c79f9914fde1ef3fd4b067573741875605dcc9a35a30a3877025560",
+    "slug": "a870e88a4c79f991",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "他用 Gemini 4 Neon 做了「鹈鹕骑自行车」盲测，对比单 Agent 和 Swarm"
+  },
+  "https://x.com/0xlangeai/status/2126618303376585097": {
+    "hash": "ba61ad8f94a429f6c0e3e99683623d640e65268fa52f72c9494c99fd1d6d05ac",
+    "slug": "ba61ad8f94a429f6",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "到了晚上，他更直白：御三家里现在没那么纠结"
+  },
+  "https://x.com/lxfater/status/2126311051536867595": {
+    "hash": "0944ac1961e8609c7e471535686359f32ba0a298539c16dee6bbe0a723b1d657",
+    "slug": "0944ac1961e8609c",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "介绍"
+  },
+  "https://github.com/dylantarre/animation-principles": {
+    "hash": "3469db5c612f9300247d11f98db0ef5dfe269a3ef9a6361308541755a7547ecc",
+    "slug": "3469db5c612f9300",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/AlchainHust/status/2126562464234176938": {
+    "hash": "6f94a714be38263a518e84f4d8dfbe250ff9ed68af80d8cea81714028360cd13",
+    "slug": "6f94a714be38263a",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "花叔开源了 Chrome 插件「反转X」"
+  },
+  "https://x.com/i/article/2126559653811388416": {
+    "hash": "f48690c99b551a97aa15f68f3d534a43798553fe4bf98ae8a046f5b983f0f718",
+    "slug": "f48690c99b551a97",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "文章"
+  },
+  "https://x.com/berryxia/status/2126590298151399570": {
+    "hash": "ecef1bbe0d3526091c6381e098759428c53106abd9d0ccb52f020da37d206c0f",
+    "slug": "ecef1bbe0d352609",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "介绍"
+  },
+  "https://github.com/sol1560/Captae": {
+    "hash": "cd7c829442ae16332e907291696a8ab31656f738e644c2c517ffa3e502ae772e",
+    "slug": "cd7c829442ae1633",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/Gorden_Sun/status/2126347428031045979": {
+    "hash": "253693c90a4ba5cb4a5aa7f1ad39c731cb48875a7cb2b006820a86f400f4dfcf",
+    "slug": "253693c90a4ba5cb",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "蚂蚁开源 Ming-Image-0.2-Design"
+  },
+  "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design": {
+    "hash": "9cc617c714e654a85b353347658d29168ee9871da9ae53d3d9469de1bf166605",
+    "slug": "9cc617c714e654a8",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "模型"
+  },
+  "https://huggingface.co/spaces/inclusionAI/ming-image-0-2-design": {
+    "hash": "9d1b1c1ed2493a36ac3425c649ea6c76c776c0bacd3b8c9b1d2a0c1d01be8757",
+    "slug": "9d1b1c1ed2493a36",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "在线体验"
+  },
+  "https://x.com/Gorden_Sun/status/2126543937213284609": {
+    "hash": "62845d3290dbdb70403dfa3b91007fc594cd4f2f852030da46f7a6cd69ea8b3e",
+    "slug": "62845d3290dbdb70",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "Tripo 3D 上了 MCP"
+  },
+  "https://gordensun.github.io/dafeiyu-live3d": {
+    "hash": "fbd12cc40ed2b5d7b1d598a61111eabe2becac959b01f180f2c997bf361478f7",
+    "slug": "fbd12cc40ed2b5d7",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "演示"
+  },
+  "https://x.com/lxfater/status/2126606469437215115": {
+    "hash": "d801f84ae2604beb75438e71fbb8c85e1d95a4c32d4029e5d44e474259b74704",
+    "slug": "d801f84ae2604beb",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "扫地僧 MopMonk 发了原生安全模型 MopMonk-DS-1.0-Preview"
+  },
+  "https://github.com/MopMonkAI/MopMonk-DS-1.0-Preview": {
+    "hash": "20e6ade65acc86b20872fa15c3d3505c1e62ed90617716ee832f9422fbb1b1f9",
+    "slug": "20e6ade65acc86b2",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "仓库"
+  },
+  "https://x.com/0xLogicrw/status/2126602306795995159": {
+    "hash": "5159fb4a74f2e7bf8b7e20942338b37d5edc6ddc4424c65103ddc66cf6659fcd",
+    "slug": "5159fb4a74f2e7bf",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "思维怪怪还提到，DeepSeek 出资委托安远 AI（Concordia AI）独立评估 V4 Pro 的失控风险"
+  },
+  "https://x.com/xiaomovps/status/2126488236235329939": {
+    "hash": "759005df5563ab69d9c06b85fd4545f38827eb46993cc7b4553556734b0ab13b",
+    "slug": "759005df5563ab69",
+    "first_seen": "2026-11-28T11:54:56.095Z",
+    "last_seen": "2026-11-28T11:54:56.095Z",
+    "digest": "2026-11-28-cn-x.md",
+    "title": "Antigravity 开 Auto 仍弹窗，小墨给了三招"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "slug": "9cc617c714e654a8",
+  "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+  "title": "模型",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "9cc617c714e654a85b353347658d29168ee9871da9ae53d3d9469de1bf166605",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:17.717Z",
+  "content_hash": "250c4a1b3ed7d6b706406e5ad27c0c6a0fa63fc4cd554ac2492dfba2b7b685a2",
+  "article_path": "articles/9cc617c714e654a8.md",
+  "fetched_url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+  "source_path": "sources/articles/ming-image-0-2-design-model-page.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:21:49.854Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

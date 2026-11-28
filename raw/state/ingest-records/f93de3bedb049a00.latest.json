@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:09:41.793Z",
+  "url": "https://x.com/dingyi/status/2126285368408654101",
+  "slug": "f93de3bedb049a00",
+  "content_hash": "c5fda1853b4738912f54807e72a30197b806d75902c32feb319be617cb81f611",
+  "source": {
+    "path": "sources/articles/flip-flop-fake-luxury-ad-codex-with-pixverse.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/agentic-video-editing.md",
+    "topics/skills-stack-native-app-recreation.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agentic-video-editing.md",
+      "action": "unchanged",
+      "reason": "文章核心是借助 Codex 与 PixVerse 插件完成视频生成、镜头重做和剪辑式复刻。"
+    },
+    {
+      "path": "topics/skills-stack-native-app-recreation.md",
+      "action": "unchanged",
+      "reason": "文章强调用现成 Skills 流程组合完成伪奢侈品广告，与用 Skills 堆叠复刻原生感产品相近。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/agentic-video-editing.md": "文章核心是借助 Codex 与 PixVerse 插件完成视频生成、镜头重做和剪辑式复刻。",
+    "topics/skills-stack-native-app-recreation.md": "文章强调用现成 Skills 流程组合完成伪奢侈品广告，与用 Skills 堆叠复刻原生感产品相近。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/flip-flop-fake-luxury-ad-codex-with-pixverse.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/agentic-video-editing.md",
+      "topics/skills-stack-native-app-recreation.md"
+    ],
+    "selection_reasons": {
+      "topics/agentic-video-editing.md": "文章核心是借助 Codex 与 PixVerse 插件完成视频生成、镜头重做和剪辑式复刻。",
+      "topics/skills-stack-native-app-recreation.md": "文章强调用现成 Skills 流程组合完成伪奢侈品广告，与用 Skills 堆叠复刻原生感产品相近。"
+    },
+    "notes": "帖文含付费合作与促销链接；条目仅复述帖文内容。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/flip-flop-fake-luxury-ad-codex-with-pixverse.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

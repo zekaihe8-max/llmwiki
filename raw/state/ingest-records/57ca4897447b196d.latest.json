@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T11:56:40.504Z",
+  "url": "https://x.com/op7418/status/2126306059648462936",
+  "slug": "57ca4897447b196d",
+  "content_hash": "d85fc0653a063b646775b903ffc3340c07eb2318b6f88dcf80860e66aacca3c8",
+  "source": {
+    "path": "sources/articles/recommending-feng-ji-s-the-most-important-question-in-the-post-a.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "帖文以推荐文章为主，涉及账号对内容的推荐与扩散；该主题关注推荐与加热机制，但本条不是 AI 产品自荐，因此保持不改动。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文涉及 AI 时代的分配方式，属于技术社会影响关切，可复用现有主题，不新建。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/tech-misuse-concern-continuity.md": "帖文涉及 AI 时代的分配方式，属于技术社会影响关切，可复用现有主题，不新建。",
+    "topics/ai-product-self-rec-amplify.md": "帖文以推荐文章为主，涉及账号对内容的推荐与扩散；该主题关注推荐与加热机制，但本条不是 AI 产品自荐，因此保持不改动。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/recommending-feng-ji-s-the-most-important-question-in-the-post-a.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/tech-misuse-concern-continuity.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/tech-misuse-concern-continuity.md": "帖文涉及 AI 时代的分配方式，属于技术社会影响关切，可复用现有主题，不新建。",
+      "topics/ai-product-self-rec-amplify.md": "帖文以推荐文章为主，涉及账号对内容的推荐与扩散；该主题关注推荐与加热机制，但本条不是 AI 产品自荐，因此保持不改动。"
+    },
+    "notes": "仅复用现有主题，未创建新主题。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/recommending-feng-ji-s-the-most-important-question-in-the-post-a.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

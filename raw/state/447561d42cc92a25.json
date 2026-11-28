@@ -1,0 +1,23 @@
+{
+  "slug": "447561d42cc92a25",
+  "url": "https://x.com/xiaomovps/status/2126517557754830980",
+  "title": "OpenClaw 联合 Hugging Face、UC Berkeley 的 ShellBench 里，Claude Code 平均通过率排在最后",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "447561d42cc92a25089e5da838859a36003a6cca8ad6b173afb5b94eb452d295",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:06.549Z",
+  "content_hash": "60020b16b90c3d445f1b88cf6378fc2d22d22c4a44c3ab5db3c0b150560d83e4",
+  "article_path": "articles/447561d42cc92a25.md",
+  "fetched_url": "https://x.com/xiaomovps/status/2126517557754830980",
+  "source_path": "sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:01:17.829Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

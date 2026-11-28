@@ -1,0 +1,56 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:21:49.528Z",
+  "url": "https://x.com/op7418/status/2126311331787841943",
+  "slug": "ee6a0944c36d469d",
+  "content_hash": "7ae467983311cc880a6366c115de5986887f7a45133eba0ba88e49568da844ae",
+  "source": {
+    "path": "sources/articles/extended-interpretation.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/ai-product-self-rec-amplify.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文讨论后 AI 时代财富分配与文明秩序继承，属于对技术后果与社会关切的延续，故复用该主题。"
+    },
+    {
+      "path": "topics/ai-product-self-rec-amplify.md",
+      "action": "unchanged",
+      "reason": "该帖是对歸藏前一条推荐冯骥文章的引申与扩散，属于同一推荐链条上的公开表达，故复用该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/tech-misuse-concern-continuity.md": "帖文讨论后 AI 时代财富分配与文明秩序继承，属于对技术后果与社会关切的延续，故复用该主题。",
+    "topics/ai-product-self-rec-amplify.md": "该帖是对歸藏前一条推荐冯骥文章的引申与扩散，属于同一推荐链条上的公开表达，故复用该主题。"
+  },
+  "files_changed": [
+    "sources/articles/extended-interpretation.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/tech-misuse-concern-continuity.md",
+      "topics/ai-product-self-rec-amplify.md"
+    ],
+    "selection_reasons": {
+      "topics/tech-misuse-concern-continuity.md": "帖文讨论后 AI 时代财富分配与文明秩序继承，属于对技术后果与社会关切的延续，故复用该主题。",
+      "topics/ai-product-self-rec-amplify.md": "该帖是对歸藏前一条推荐冯骥文章的引申与扩散，属于同一推荐链条上的公开表达，故复用该主题。"
+    },
+    "notes": "就地补上 Related 中的 Topic 链接；未新建主题，主张仅依据帖文。 In-place lint fix then lintFiling/writeIngestRecord.",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "sources/articles/extended-interpretation.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

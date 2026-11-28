@@ -1,0 +1,23 @@
+{
+  "slug": "064f3c39b703da03",
+  "url": "https://x.com/turingou/status/2126595573923123340",
+  "title": "签名",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "064f3c39b703da03d02d45828d0d9a0a64672a758b47800e153c82deb194ccf3",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:08.172Z",
+  "content_hash": "a8ba68e57a9d037d9721e9927e3c304f37cf5bc9d85165844ea34e493103ed6a",
+  "article_path": "articles/064f3c39b703da03.md",
+  "fetched_url": "https://x.com/turingou/status/2126595573923123340",
+  "source_path": "sources/articles/yobiru-master-signature-authorization.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:02:46.383Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

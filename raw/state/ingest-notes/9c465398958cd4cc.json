@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/agent-compute-and-governance.md",
+    "topics/personal-agent-cloud-env-pitfalls.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-compute-and-governance.md": "文章核心是 Gemini 为 AI 任务提供免费云端算力，与智能体算力主题最接近。",
+    "topics/personal-agent-cloud-env-pitfalls.md": "帖文强调这是临时云电脑、不能长期挂机，涉及个人 Agent 云环境的使用边界与注意事项。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-compute-and-governance.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Gemini 为 AI 任务提供免费云端算力，与智能体算力主题最接近。"
+    },
+    {
+      "path": "topics/personal-agent-cloud-env-pitfalls.md",
+      "action": "unchanged",
+      "reason": "帖文强调这是临时云电脑、不能长期挂机，涉及个人 Agent 云环境的使用边界与注意事项。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource: https://x.com/xiaomovps/status/2126531529308328270"
+}

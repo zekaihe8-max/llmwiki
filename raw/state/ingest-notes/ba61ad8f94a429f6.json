@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-model-channel-tradeoffs.md",
+    "topics/claude-subscription-risk-control-weights.md",
+    "topics/premium-ai-subscription-value.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-model-channel-tradeoffs.md": "帖文核心是在 Codex、Claude 与 Gemini 之间做模型渠道取舍。",
+    "topics/claude-subscription-risk-control-weights.md": "帖文把 Claude 封号与订阅体验直接联系到风控。",
+    "topics/premium-ai-subscription-value.md": "帖文质疑高端会员的实际价值，强调账号存活和稳定使用。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文核心是在 Codex、Claude 与 Gemini 之间做模型渠道取舍。"
+    },
+    {
+      "path": "topics/claude-subscription-risk-control-weights.md",
+      "action": "unchanged",
+      "reason": "帖文把 Claude 封号与订阅体验直接联系到风控。"
+    },
+    {
+      "path": "topics/premium-ai-subscription-value.md",
+      "action": "unchanged",
+      "reason": "帖文质疑高端会员的实际价值，强调账号存活和稳定使用。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource: https://x.com/0xlangeai/status/2126618303376585097; raw slug: ba61ad8f94a429f6"
+}

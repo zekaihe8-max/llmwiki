@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T11:59:16.192Z",
+  "url": "https://x.com/lxfater/status/2126635997047783578",
+  "slug": "007e54894e607d69",
+  "content_hash": "822cb0e82027d8981d13d75d6100dcf19c310b67b5ffed887c65f3fc5b198ccf",
+  "source": {
+    "path": "sources/articles/antigravity-custom-agent-4x-billing-confirmed-intentional.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/coding-agent-ux-vs-quota.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/agents-md-token-efficiency.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agents-md-token-efficiency.md",
+      "action": "unchanged",
+      "reason": "官方建议把自定义指令挪进 AGENTS.md、GEMINI.md 或 Skill，与项目指令和 Token/额度效率直接相关。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "文章给出通过移除 --agent、改用默认 Agent 来省额度的做法，属于编程 Agent 开销优化。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "文章核心是编程 Agent 的额度扣费与用户体验冲突，最贴近该主题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/coding-agent-ux-vs-quota.md": "文章核心是编程 Agent 的额度扣费与用户体验冲突，最贴近该主题。",
+    "topics/coding-agent-token-saving-tooling.md": "文章给出通过移除 --agent、改用默认 Agent 来省额度的做法，属于编程 Agent 开销优化。",
+    "topics/agents-md-token-efficiency.md": "官方建议把自定义指令挪进 AGENTS.md、GEMINI.md 或 Skill，与项目指令和 Token/额度效率直接相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/antigravity-custom-agent-4x-billing-confirmed-intentional.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/coding-agent-ux-vs-quota.md",
+      "topics/coding-agent-token-saving-tooling.md",
+      "topics/agents-md-token-efficiency.md"
+    ],
+    "selection_reasons": {
+      "topics/coding-agent-ux-vs-quota.md": "文章核心是编程 Agent 的额度扣费与用户体验冲突，最贴近该主题。",
+      "topics/coding-agent-token-saving-tooling.md": "文章给出通过移除 --agent、改用默认 Agent 来省额度的做法，属于编程 Agent 开销优化。",
+      "topics/agents-md-token-efficiency.md": "官方建议把自定义指令挪进 AGENTS.md、GEMINI.md 或 Skill，与项目指令和 Token/额度效率直接相关。"
+    },
+    "notes": "未新增主题；所有主张均按帖文口径表述为“帖文称”。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/antigravity-custom-agent-4x-billing-confirmed-intentional.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

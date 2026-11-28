@@ -1,0 +1,23 @@
+{
+  "slug": "d801f84ae2604beb",
+  "url": "https://x.com/lxfater/status/2126606469437215115",
+  "title": "扫地僧 MopMonk 发了原生安全模型 MopMonk-DS-1.0-Preview",
+  "digest": "2026-11-28-cn-x.md",
+  "status": "filed",
+  "hash": "d801f84ae2604beb75438e71fbb8c85e1d95a4c32d4029e5d44e474259b74704",
+  "first_seen": "2026-11-28T11:54:56.095Z",
+  "last_seen": "2026-11-28T11:54:56.095Z",
+  "fetched_at": "2026-11-28T11:55:18.418Z",
+  "content_hash": "73b2a86ba1cc6fe392c4be9f3daea3439146aa4a641cb25c79604b9d9d5fb10a",
+  "article_path": "articles/d801f84ae2604beb.md",
+  "fetched_url": "https://x.com/lxfater/status/2126606469437215115",
+  "source_path": "sources/articles/mopmonk-releases-native-security-model-mopmonk-ds-1-0-preview.md",
+  "error": null,
+  "compile_error": null,
+  "compile_agent": "cursor",
+  "attempts": [],
+  "filed_at": "2026-11-28T12:16:27.373Z",
+  "skipped_at": null,
+  "last_fetch_error": null,
+  "last_fetch_failed_at": null
+}

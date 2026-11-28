@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T11:56:18.163Z",
+  "url": "https://x.com/Khazix0918/status/2126330602836349432",
+  "slug": "3f8bd058441dc7c2",
+  "content_hash": "937a3a67807199a6efb5273fb7a8af0564e2c6380c4e6389e096a32173be7784",
+  "source": {
+    "path": "sources/articles/supplement-gemini4-neon-or-orchestrator-neon.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文比较不同模型或渠道运行方式，可归入面向 Agent 的模型渠道取舍。"
+    },
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及云平台中模型与编排器（Orchestrator）的选择，和跨模型路由主题最接近。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文试图确认底层运行模型，但该主题提醒行为线索不能等同于确认。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "帖文涉及云平台中模型与编排器（Orchestrator）的选择，和跨模型路由主题最接近。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文试图确认底层运行模型，但该主题提醒行为线索不能等同于确认。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文比较不同模型或渠道运行方式，可归入面向 Agent 的模型渠道取舍。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/supplement-gemini4-neon-or-orchestrator-neon.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/cloud-auto-model-routing.md",
+      "topics/model-fingerprint-confidence-not-confirmation.md",
+      "topics/agent-model-channel-tradeoffs.md"
+    ],
+    "selection_reasons": {
+      "topics/cloud-auto-model-routing.md": "帖文涉及云平台中模型与编排器（Orchestrator）的选择，和跨模型路由主题最接近。",
+      "topics/model-fingerprint-confidence-not-confirmation.md": "帖文试图确认底层运行模型，但该主题提醒行为线索不能等同于确认。",
+      "topics/agent-model-channel-tradeoffs.md": "帖文比较不同模型或渠道运行方式，可归入面向 Agent 的模型渠道取舍。"
+    },
+    "notes": "仅依据所提供帖文内容，未补充外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/supplement-gemini4-neon-or-orchestrator-neon.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:14:47.562Z",
+  "url": "https://x.com/Gorden_Sun/status/2126347428031045979",
+  "slug": "253693c90a4ba5cb",
+  "content_hash": "2c076b5d9b49ad4003021fbaad84795e299d74fe85694d1d58b3a4aef259b6e1",
+  "source": {
+    "path": "sources/articles/ant-open-sources-ming-image-0-2-design.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/open-weight-frontier-models.md",
+    "topics/china-open-source-lead-us-compute.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/china-open-source-lead-us-compute.md",
+      "action": "unchanged",
+      "reason": "帖文提出蚂蚁可能取代千问成为中国开源引领者，涉及中国开源力量与竞争格局。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "帖文核心是蚂蚁开源一个图像生成模型，与开放权重模型发布主题直接相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/open-weight-frontier-models.md": "帖文核心是蚂蚁开源一个图像生成模型，与开放权重模型发布主题直接相关。",
+    "topics/china-open-source-lead-us-compute.md": "帖文提出蚂蚁可能取代千问成为中国开源引领者，涉及中国开源力量与竞争格局。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ant-open-sources-ming-image-0-2-design.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/open-weight-frontier-models.md",
+      "topics/china-open-source-lead-us-compute.md"
+    ],
+    "selection_reasons": {
+      "topics/open-weight-frontier-models.md": "帖文核心是蚂蚁开源一个图像生成模型，与开放权重模型发布主题直接相关。",
+      "topics/china-open-source-lead-us-compute.md": "帖文提出蚂蚁可能取代千问成为中国开源引领者，涉及中国开源力量与竞争格局。"
+    },
+    "notes": "未核实主张均以“帖文称”表述；未补全原文短链。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ant-open-sources-ming-image-0-2-design.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

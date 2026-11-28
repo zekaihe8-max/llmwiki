@@ -1,0 +1,24 @@
+{
+  "topics_consulted": [
+    "topics/gpu-ai-compute-unlock.md",
+    "topics/open-weight-frontier-models.md"
+  ],
+  "selection_reasons": {
+    "topics/gpu-ai-compute-unlock.md": "该主题直接对应消费级显卡显存门槛与本地可运行性。",
+    "topics/open-weight-frontier-models.md": "该主题覆盖开放权重模型、权重发布与本地部署。"
+  },
+  "topics": [
+    {
+      "path": "topics/gpu-ai-compute-unlock.md",
+      "action": "unchanged",
+      "reason": "该主题直接对应消费级显卡显存门槛与本地可运行性。"
+    },
+    {
+      "path": "topics/open-weight-frontier-models.md",
+      "action": "unchanged",
+      "reason": "该主题覆盖开放权重模型、权重发布与本地部署。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "未新增主题；内容基于帖文，未核实 Reddit 原帖与仓库链接。"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/cloud-auto-model-routing.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md",
+    "topics/agent-model-channel-tradeoffs.md"
+  ],
+  "selection_reasons": {
+    "topics/cloud-auto-model-routing.md": "帖文涉及云平台中模型与编排器（Orchestrator）的选择，和跨模型路由主题最接近。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文试图确认底层运行模型，但该主题提醒行为线索不能等同于确认。",
+    "topics/agent-model-channel-tradeoffs.md": "帖文比较不同模型或渠道运行方式，可归入面向 Agent 的模型渠道取舍。"
+  },
+  "topics": [
+    {
+      "path": "topics/cloud-auto-model-routing.md",
+      "action": "unchanged",
+      "reason": "帖文涉及云平台中模型与编排器（Orchestrator）的选择，和跨模型路由主题最接近。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文试图确认底层运行模型，但该主题提醒行为线索不能等同于确认。"
+    },
+    {
+      "path": "topics/agent-model-channel-tradeoffs.md",
+      "action": "unchanged",
+      "reason": "帖文比较不同模型或渠道运行方式，可归入面向 Agent 的模型渠道取舍。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "仅依据所提供帖文内容，未补充外部事实。"
+}

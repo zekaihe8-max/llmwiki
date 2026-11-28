@@ -1,0 +1,38 @@
+{
+  "topics_consulted": [
+    "topics/long-conversation-default-compression.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-token-saving-tooling.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "selection_reasons": {
+    "topics/long-conversation-default-compression.md": "帖文核心正是长对话触发默认自动压缩、阈值过低导致上下文丢失。",
+    "topics/context-engineering-for-agents.md": "自动压缩阈值、编排模型、思考与额度可见性都属于 Agent 上下文工程。",
+    "topics/coding-agent-token-saving-tooling.md": "CLI 配置涉及上下文压缩、Token/额度管理与编程 Agent 工具开销。",
+    "topics/coding-agent-ux-vs-quota.md": "/thinking 与 /usage 直接改善编程 Agent 的体验和额度感知。"
+  },
+  "topics": [
+    {
+      "path": "topics/long-conversation-default-compression.md",
+      "action": "unchanged",
+      "reason": "帖文核心正是长对话触发默认自动压缩、阈值过低导致上下文丢失。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "自动压缩阈值、编排模型、思考与额度可见性都属于 Agent 上下文工程。"
+    },
+    {
+      "path": "topics/coding-agent-token-saving-tooling.md",
+      "action": "unchanged",
+      "reason": "CLI 配置涉及上下文压缩、Token/额度管理与编程 Agent 工具开销。"
+    },
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "/thinking 与 /usage 直接改善编程 Agent 的体验和额度感知。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource: https://x.com/lxfater/status/2126529577371504703"
+}

@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/agent-auto-mode.md",
+    "topics/account-and-asset-security-hygiene.md",
+    "topics/loose-web-agent-harness-plugins.md"
+  ],
+  "selection_reasons": {
+    "topics/agent-auto-mode.md": "文章核心是 Antigravity/AGY 的 Auto 模式授权弹窗与权限配置。",
+    "topics/account-and-asset-security-hygiene.md": "涉及 Deny 高危命令、保护 .git/.ssh 与沙箱隔离等安全卫生实践。",
+    "topics/loose-web-agent-harness-plugins.md": "讨论拦截插件选择与命令审查，贴近宽松网页管控下的 Harness 插件议题。"
+  },
+  "topics": [
+    {
+      "path": "topics/agent-auto-mode.md",
+      "action": "unchanged",
+      "reason": "文章核心是 Antigravity/AGY 的 Auto 模式授权弹窗与权限配置。"
+    },
+    {
+      "path": "topics/account-and-asset-security-hygiene.md",
+      "action": "unchanged",
+      "reason": "涉及 Deny 高危命令、保护 .git/.ssh 与沙箱隔离等安全卫生实践。"
+    },
+    {
+      "path": "topics/loose-web-agent-harness-plugins.md",
+      "action": "unchanged",
+      "reason": "讨论拦截插件选择与命令审查，贴近宽松网页管控下的 Harness 插件议题。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "Source.resource: https://x.com/xiaomovps/status/2126488236235329939"
+}

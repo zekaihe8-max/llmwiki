@@ -1,0 +1,69 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:04:33.086Z",
+  "url": "https://x.com/oran_ge/status/2126504015752200528",
+  "slug": "386be85ae74da76a",
+  "content_hash": "14cc23e08767670950e767d882cef760ddb74e74b4b9c2019826b23246247372",
+  "source": {
+    "path": "sources/articles/one-more-note-ai-makes-employees-efficiently-do-the-wrong-thing.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/workflows-before-agents.md",
+    "topics/divergent-tasks-human-design-gate.md",
+    "topics/tasks-confidently-handed-to-ai.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "帖文指出困难决策被逃避，需要人在设计/判断环节把关。"
+    },
+    {
+      "path": "topics/tasks-confidently-handed-to-ai.md",
+      "action": "unchanged",
+      "reason": "帖文讨论哪些事不该交给 AI 高效执行，与该主题相关。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "帖文强调先讨论什么值得做，与工作流优先于智能体的主题一致。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/workflows-before-agents.md": "帖文强调先讨论什么值得做，与工作流优先于智能体的主题一致。",
+    "topics/divergent-tasks-human-design-gate.md": "帖文指出困难决策被逃避，需要人在设计/判断环节把关。",
+    "topics/tasks-confidently-handed-to-ai.md": "帖文讨论哪些事不该交给 AI 高效执行，与该主题相关。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/one-more-note-ai-makes-employees-efficiently-do-the-wrong-thing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/workflows-before-agents.md",
+      "topics/divergent-tasks-human-design-gate.md",
+      "topics/tasks-confidently-handed-to-ai.md"
+    ],
+    "selection_reasons": {
+      "topics/workflows-before-agents.md": "帖文强调先讨论什么值得做，与工作流优先于智能体的主题一致。",
+      "topics/divergent-tasks-human-design-gate.md": "帖文指出困难决策被逃避，需要人在设计/判断环节把关。",
+      "topics/tasks-confidently-handed-to-ai.md": "帖文讨论哪些事不该交给 AI 高效执行，与该主题相关。"
+    },
+    "notes": "仅依据提供的推文内容整理。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/one-more-note-ai-makes-employees-efficiently-do-the-wrong-thing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

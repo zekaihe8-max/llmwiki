@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:04:15.707Z",
+  "url": "https://x.com/oran_ge/status/2126478234728665508",
+  "slug": "e4b441c41e204767",
+  "content_hash": "a00d3abffafe9d93cb6c9146621331bae4c3380c878a6d9b4ae8bb83aebc2be8",
+  "source": {
+    "path": "sources/articles/ai-implementation-in-companies-10x-efficiency-on-the-wrong-thing.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/ai-native-companies.md",
+    "topics/workflows-before-agents.md",
+    "topics/ai-management-span-of-control.md",
+    "topics/divergent-tasks-human-design-gate.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/ai-management-span-of-control.md",
+      "action": "unchanged",
+      "reason": "涉及AI对管理与决策的影响，与帖文中困难决策被逃避的论点相关。"
+    },
+    {
+      "path": "topics/ai-native-companies.md",
+      "action": "unchanged",
+      "reason": "讨论AI在公司中的落地与组织模式，与帖文关于企业AI实际使用场景的批判最为贴近。"
+    },
+    {
+      "path": "topics/divergent-tasks-human-design-gate.md",
+      "action": "unchanged",
+      "reason": "主张发散任务需先人审设计，与帖文中执行容易但决策缺失的问题相呼应。"
+    },
+    {
+      "path": "topics/workflows-before-agents.md",
+      "action": "unchanged",
+      "reason": "强调先厘清工作流与值得做的事，对应帖文中“先讨论什么值得做”的观点。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/ai-native-companies.md": "讨论AI在公司中的落地与组织模式，与帖文关于企业AI实际使用场景的批判最为贴近。",
+    "topics/workflows-before-agents.md": "强调先厘清工作流与值得做的事，对应帖文中“先讨论什么值得做”的观点。",
+    "topics/ai-management-span-of-control.md": "涉及AI对管理与决策的影响，与帖文中困难决策被逃避的论点相关。",
+    "topics/divergent-tasks-human-design-gate.md": "主张发散任务需先人审设计，与帖文中执行容易但决策缺失的问题相呼应。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/ai-implementation-in-companies-10x-efficiency-on-the-wrong-thing.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/ai-native-companies.md",
+      "topics/workflows-before-agents.md",
+      "topics/ai-management-span-of-control.md",
+      "topics/divergent-tasks-human-design-gate.md"
+    ],
+    "selection_reasons": {
+      "topics/ai-native-companies.md": "讨论AI在公司中的落地与组织模式，与帖文关于企业AI实际使用场景的批判最为贴近。",
+      "topics/workflows-before-agents.md": "强调先厘清工作流与值得做的事，对应帖文中“先讨论什么值得做”的观点。",
+      "topics/ai-management-span-of-control.md": "涉及AI对管理与决策的影响，与帖文中困难决策被逃避的论点相关。",
+      "topics/divergent-tasks-human-design-gate.md": "主张发散任务需先人审设计，与帖文中执行容易但决策缺失的问题相呼应。"
+    },
+    "notes": "所有主张均基于抓取的X帖文内容，未引入外部事实。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/ai-implementation-in-companies-10x-efficiency-on-the-wrong-thing.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}

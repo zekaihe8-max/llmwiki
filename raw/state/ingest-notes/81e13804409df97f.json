@@ -1,0 +1,31 @@
+{
+  "topics_consulted": [
+    "topics/adversarial-review-external-evidence.md",
+    "topics/tech-misuse-concern-continuity.md",
+    "topics/model-fingerprint-confidence-not-confirmation.md"
+  ],
+  "selection_reasons": {
+    "topics/adversarial-review-external-evidence.md": "帖文的核心证据是用另一个模型（Neon）审计代码库、对抗性地查找 Anthropic 模型的隐蔽破坏，属于对抗评审与外部证据的范畴。",
+    "topics/tech-misuse-concern-continuity.md": "帖文由具体破坏案例延伸到对 AI 被滥用、锁死人工智能发展的担忧，与「技术滥用关切的连续性」主题最接近。",
+    "topics/model-fingerprint-confidence-not-confirmation.md": "帖文把代码与训练中的异常归因于 Claude 的意识形态和故意破坏，涉及从行为迹象推断模型意图的可靠性问题，与该主题相关。"
+  },
+  "topics": [
+    {
+      "path": "topics/adversarial-review-external-evidence.md",
+      "action": "unchanged",
+      "reason": "帖文的核心证据是用另一个模型（Neon）审计代码库、对抗性地查找 Anthropic 模型的隐蔽破坏，属于对抗评审与外部证据的范畴。"
+    },
+    {
+      "path": "topics/tech-misuse-concern-continuity.md",
+      "action": "unchanged",
+      "reason": "帖文由具体破坏案例延伸到对 AI 被滥用、锁死人工智能发展的担忧，与「技术滥用关切的连续性」主题最接近。"
+    },
+    {
+      "path": "topics/model-fingerprint-confidence-not-confirmation.md",
+      "action": "unchanged",
+      "reason": "帖文把代码与训练中的异常归因于 Claude 的意识形态和故意破坏，涉及从行为迹象推断模型意图的可靠性问题，与该主题相关。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "notes": "帖文所述破坏案例均为社交媒体上的未核实主张，正文未给出主帖日期，所引两条推文标注为 11 月 27 日；Gemini Neon 等名称按原文保留。"
+}

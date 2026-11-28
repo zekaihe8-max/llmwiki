@@ -1,0 +1,78 @@
+{
+  "schema": "wiki-hezekai-ingest-record/v1",
+  "at": "2026-11-28T12:01:17.828Z",
+  "url": "https://x.com/xiaomovps/status/2126517557754830980",
+  "slug": "447561d42cc92a25",
+  "content_hash": "60020b16b90c3d445f1b88cf6378fc2d22d22c4a44c3ab5db3c0b150560d83e4",
+  "source": {
+    "path": "sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md",
+    "action": "create"
+  },
+  "topics_consulted": [
+    "topics/harness-comparison-beyond-tokens.md",
+    "topics/community-evals-vs-score-hype.md",
+    "topics/context-engineering-for-agents.md",
+    "topics/coding-agent-ux-vs-quota.md"
+  ],
+  "topics": [
+    {
+      "path": "topics/coding-agent-ux-vs-quota.md",
+      "action": "unchanged",
+      "reason": "Pi 删除遥测、修复缓存与会话恢复，涉及编程 Agent 体验与额度/隐私细节。"
+    },
+    {
+      "path": "topics/community-evals-vs-score-hype.md",
+      "action": "unchanged",
+      "reason": "ShellBench 是社区/机构联合发布的实测榜单，文中对排名持审慎解读。"
+    },
+    {
+      "path": "topics/context-engineering-for-agents.md",
+      "action": "unchanged",
+      "reason": "作者提到上下文干净、避免过多提示词干扰，属上下文工程议题。"
+    },
+    {
+      "path": "topics/harness-comparison-beyond-tokens.md",
+      "action": "unchanged",
+      "reason": "帖文对比多套 Harness 的通过率与耗时，超越单纯 token 分数。"
+    }
+  ],
+  "new_topic_reasons": {},
+  "selection_reasons": {
+    "topics/harness-comparison-beyond-tokens.md": "帖文对比多套 Harness 的通过率与耗时，超越单纯 token 分数。",
+    "topics/community-evals-vs-score-hype.md": "ShellBench 是社区/机构联合发布的实测榜单，文中对排名持审慎解读。",
+    "topics/context-engineering-for-agents.md": "作者提到上下文干净、避免过多提示词干扰，属上下文工程议题。",
+    "topics/coding-agent-ux-vs-quota.md": "Pi 删除遥测、修复缓存与会话恢复，涉及编程 Agent 体验与额度/隐私细节。"
+  },
+  "files_changed": [
+    "index.md",
+    "log.md",
+    "sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md"
+  ],
+  "agent_notes": {
+    "claimed_consulted": [
+      "topics/harness-comparison-beyond-tokens.md",
+      "topics/community-evals-vs-score-hype.md",
+      "topics/context-engineering-for-agents.md",
+      "topics/coding-agent-ux-vs-quota.md"
+    ],
+    "selection_reasons": {
+      "topics/harness-comparison-beyond-tokens.md": "帖文对比多套 Harness 的通过率与耗时，超越单纯 token 分数。",
+      "topics/community-evals-vs-score-hype.md": "ShellBench 是社区/机构联合发布的实测榜单，文中对排名持审慎解读。",
+      "topics/context-engineering-for-agents.md": "作者提到上下文干净、避免过多提示词干扰，属上下文工程议题。",
+      "topics/coding-agent-ux-vs-quota.md": "Pi 删除遥测、修复缓存与会话恢复，涉及编程 Agent 体验与额度/隐私细节。"
+    },
+    "notes": "来源为 X 帖文，未引用外部链接，所有数据均来自所提供的推文正文。",
+    "program_verifiable": {
+      "source_action": "create",
+      "files_changed": [
+        "index.md",
+        "log.md",
+        "sources/articles/shellbench-claude-code-ranks-last-in-average-pass-rate-pi-1-7-0.md"
+      ]
+    }
+  },
+  "validation": {
+    "ok": true,
+    "errors": []
+  }
+}
